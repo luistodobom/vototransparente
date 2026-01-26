@@ -73,3 +73,4 @@ A aplicação estará disponível em `http://localhost:8501`
 Este projeto foi desenvolvido com ❤️ por Luis Berenguer Todo-Bom. Os dados são extraídos de documentos oficiais da Assembleia da República e processados com Inteligência Artificial.
 
 ⚠️ **Nota**: A informação pode conter erros. Para reportar problemas, visite o [GitHub Issues](https://github.com/luistodobom/vototransparente/issues). 
+ 
