@@ -1,0 +1,35 @@
+---
+// Seat-weighted horizontal bar: favor | abstenção | contra | ausente
+import { tally, type Vote } from "../lib/data";
+import { POSITION_LABEL } from "../lib/format";
+interface Props { vote: Vote; leg: string; size?: "sm" | "md"; showLegend?: boolean }
+const { vote, leg, size = "sm", showLegend = false } = Astro.props;
+const t = tally(vote, leg);
+const total = t.favor + t.contra + t.abstencao + t.ausente || 1;
+const order = ["favor", "abstencao", "contra", "ausente"] as const;
+const label = order.map((k) => `${POSITION_LABEL[k]}: ${t[k]}`).join(", ");
+---
+<div class:list={["vb", size]}>
+  <div class="track" role="img" aria-label={`Distribuição estimada de deputados — ${label}`}>
+    {order.map((k) => t[k] > 0 && <span class={`seg ${k}`} style={`flex-grow:${t[k]}`} title={`${POSITION_LABEL[k]}: ${t[k]}`} />)}
+  </div>
+  {showLegend && (
+    <div class="legend xs">
+      {order.filter((k) => t[k] > 0).map((k) => (
+        <span><i class={`seg ${k}`} />{POSITION_LABEL[k]} <b class="mono">{t[k]}</b></span>
+      ))}
+    </div>
+  )}
+</div>
+<style>
+  .vb .track { display: flex; gap: 2px; height: 8px; border-radius: 999px; overflow: hidden; background: var(--bg-sunken); }
+  .vb.md .track { height: 12px; }
+  .seg { display: block; min-width: 3px; }
+  .seg.favor { background: var(--favor); }
+  .seg.contra { background: var(--contra); }
+  .seg.abstencao { background: var(--abstencao); }
+  .seg.ausente { background: var(--ausente); }
+  .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 8px; color: var(--ink-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+</style>

@@ -1,0 +1,129 @@
+---
+import Base from "../../layouts/Base.astro";
+import { meta, LEG_ORDER } from "../../lib/data";
+import { fmtNum } from "../../lib/format";
+const m = meta();
+const partyInfo = Object.fromEntries(Object.entries(m.parties).map(([k, v]) => [k, { n: v.name, c: v.color }]));
+const partyOrder = ["BE", "PCP", "PEV", "L", "PAN", "JPP", "PS", "PSD", "CDS-PP", "IL", "CH"];
+---
+<Base title="Votações" active="votacoes" description="Pesquise e filtre todas as votações da Assembleia da República por tema, partido, resultado e legislatura.">
+  <section class="head">
+    <div class="container">
+      <p class="eyebrow">Assembleia da República</p>
+      <h1>Votações</h1>
+      <p class="lead muted">{fmtNum(m.stats.initiatives)} iniciativas votadas em plenário desde 2019. Pesquise por palavra-chave ou combine filtros.</p>
+      <form class="search card" role="search" onsubmit="return false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <label for="q" class="sr-only">Pesquisar</label>
+        <input id="q" type="search" placeholder="Ex.: habitação, IRS, propinas, SNS…" autocomplete="off" />
+        <kbd class="xs muted">/</kbd>
+      </form>
+    </div>
+  </section>
+
+  <div class="container browse">
+    <details class="fwrap" id="fwrap" open>
+    <summary class="fsum"><span>Filtros</span><span class="xs muted" id="fcount"></span></summary>
+    <aside class="filters" aria-label="Filtros">
+      <div class="fhead"><h2 class="h">Filtros</h2><button class="link xs" id="clear" type="button">Limpar</button></div>
+      <div class="fgroup">
+        <label for="f-Legislatura">Legislatura</label>
+        <select id="f-Legislatura" data-filter="Legislatura"><option value="">Todas</option>{LEG_ORDER.map((l) => <option value={l}>{m.legislatures[l].label}</option>)}</select>
+      </div>
+      <div class="fgroup">
+        <label for="f-Resultado">Resultado</label>
+        <select id="f-Resultado" data-filter="Resultado"><option value="">Todos</option></select>
+      </div>
+      <div class="fgroup">
+        <label for="f-Tema">Tema</label>
+        <select id="f-Tema" data-filter="Tema"><option value="">Todos</option></select>
+      </div>
+      <div class="fgroup">
+        <label for="f-Tipo">Tipo de iniciativa</label>
+        <select id="f-Tipo" data-filter="Tipo"><option value="">Todos</option></select>
+      </div>
+      <div class="fgroup">
+        <label for="f-Proponente">Proposta por</label>
+        <select id="f-Proponente" data-filter="Proponente"><option value="">Qualquer</option></select>
+      </div>
+      <div class="fgroup">
+        <span class="lbl">Como votou um partido</span>
+        <div class="pair">
+          <label for="f-party" class="sr-only">Partido</label>
+          <select id="f-party"><option value="">Partido…</option>{partyOrder.map((p) => <option value={p}>{p}</option>)}</select>
+          <label for="f-pos" class="sr-only">Sentido de voto</label>
+          <select id="f-pos"><option value="">Sentido…</option><option>A favor</option><option>Contra</option><option>Abstenção</option></select>
+        </div>
+      </div>
+    </aside>
+    </details>
+
+    <section class="results-col" aria-live="polite">
+      <div class="rhead">
+        <p id="count" class="small muted">A carregar…</p>
+        <label class="small sort">Ordenar
+          <select id="sort"><option value="desc">Mais recentes</option><option value="asc">Mais antigas</option><option value="rel">Relevância</option></select>
+        </label>
+      </div>
+      <ol id="results" class="results"></ol>
+      <div class="more"><button id="more" class="btn" type="button" hidden>Mostrar mais</button></div>
+      <noscript><p class="muted">A pesquisa requer JavaScript. Pode navegar pelas votações a partir da <a href="../">página inicial</a>.</p></noscript>
+    </section>
+  </div>
+  <script is:inline define:vars={{ partyInfo, partyOrder, base: import.meta.env.BASE_URL }}>
+    window.__VT = { partyInfo, partyOrder, base };
+  </script>
+  <script src="../../scripts/browse.ts"></script>
+</Base>
+
+<style>
+  .head { padding: 36px 0 26px; }
+  h1 { font-size: clamp(2rem, 4.4vw, 3rem); }
+  .lead { margin: 8px 0 22px; max-width: 60ch; }
+  .search { display: flex; align-items: center; gap: 12px; padding: 6px 16px; border-radius: 999px; max-width: 720px; color: var(--ink-3); }
+  .search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 18%, transparent); }
+  .search input { flex: 1; border: 0; background: transparent; padding: 10px 0; font-size: 1.05rem; color: var(--ink); outline: none; min-width: 0; }
+  kbd { border: 1px solid var(--line); border-radius: 6px; padding: 1px 7px; }
+  @media (max-width: 640px) { kbd { display: none; } }
+  .browse { display: grid; gap: 24px; }
+  @media (min-width: 900px) { .browse { grid-template-columns: 250px minmax(0, 1fr); } }
+  .filters { display: grid; gap: 14px; align-content: start; }
+  .fsum { display: none; }
+  @media (min-width: 900px) { .fwrap { position: sticky; top: 82px; align-self: start; } }
+  @media (max-width: 899px) {
+    .fsum { display: flex; justify-content: space-between; align-items: center; cursor: pointer; list-style: none; padding: 10px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--bg-elev); font-weight: 650; }
+    .fsum::-webkit-details-marker { display: none; }
+    .fsum::after { content: "▾"; color: var(--ink-3); }
+    .fwrap[open] .fsum { margin-bottom: 14px; }
+    .fwrap[open] .fsum::after { content: "▴"; }
+  }
+  @media (max-width: 899px) { .filters { grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); } .fhead { grid-column: 1 / -1; } }
+  .fhead { display: flex; justify-content: space-between; align-items: center; }
+  .h { font-size: 0.95rem; }
+  .link { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; font-weight: 600; }
+  .fgroup { display: grid; gap: 6px; }
+  .fgroup label, .fgroup .lbl { font-size: 0.78rem; font-weight: 600; color: var(--ink-2); }
+  select { width: 100%; padding: 9px 12px; border: 1px solid var(--line); background: var(--bg-elev); border-radius: 10px; font-size: 0.9rem; cursor: pointer; appearance: auto; }
+  select:hover { border-color: var(--line-strong); }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+  .rhead { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+  .rhead p { margin: 0; }
+  .sort { display: inline-flex; align-items: center; gap: 8px; color: var(--ink-3); }
+  .sort select { width: auto; padding: 6px 10px; }
+  .results { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  .more { display: flex; justify-content: center; margin-top: 20px; }
+  :global(.r) { display: grid; gap: 6px; padding: 16px 18px; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s; }
+  :global(.r:hover) { border-color: var(--line-strong); box-shadow: var(--shadow-lg); }
+  :global(.r .rt) { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  :global(.r h3) { font-size: 1.02rem; line-height: 1.35; }
+  :global(.r .ex) { color: var(--ink-2); font-size: 0.88rem; margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  :global(.r .ex mark) { background: color-mix(in srgb, var(--abstencao) 35%, transparent); color: inherit; border-radius: 3px; padding: 0 2px; }
+  :global(.strip) { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+  :global(.pv) { display: inline-flex; align-items: center; gap: 5px; font-size: 0.72rem; font-weight: 650; padding: 2px 7px 2px 5px; border-radius: 6px; background: var(--bg-sunken); }
+  :global(.pv i) { width: 8px; height: 8px; border-radius: 2px; display: inline-block; }
+  :global(.pv.F) { background: var(--favor-soft); color: var(--favor); }
+  :global(.pv.C) { background: var(--contra-soft); color: var(--contra); }
+  :global(.pv.A) { background: var(--abstencao-soft); color: color-mix(in srgb, var(--abstencao) 75%, var(--ink)); }
+  :global(.pv.X) { color: var(--ink-3); }
+  :global(.sk-row) { height: 104px; }
+</style>

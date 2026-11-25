@@ -1,0 +1,138 @@
+---
+import Base from "../../../layouts/Base.astro";
+import InitiativeCard from "../../../components/InitiativeCard.astro";
+import { meta, partyStats, initiatives, keyVote, LEG_ORDER, displayTitle } from "../../../lib/data";
+import { url, pct, fmtNum, fmtDate, POSITION_LABEL } from "../../../lib/format";
+
+export function getStaticPaths() {
+  const m = meta();
+  const ps = partyStats();
+  return Object.keys(m.parties)
+    .filter((p) => LEG_ORDER.some((l) => (ps[l]?.votes[p]?.total ?? 0) > 0))
+    .map((p) => ({ params: { sigla: p.toLowerCase() }, props: { party: p } }));
+}
+const { party } = Astro.props as { party: string };
+const m = meta();
+const ps = partyStats();
+const info = m.parties[party];
+const legs = LEG_ORDER.filter((l) => (ps[l]?.votes[party]?.total ?? 0) >= 10);
+const all = initiatives();
+const authored = all.filter((i) => i.authors.parties.includes(party));
+const recentAuthored = authored.slice(0, 6);
+const approvedAuthored = authored.filter((i) => i.status !== "rejeitado").slice(0, 6);
+
+// Allies per legislature
+const allies = (leg: string) => Object.entries(ps[leg].agreement)
+  .filter(([k, c]) => k.split("|").includes(party) && c.total >= 20)
+  .map(([k, c]) => ({ other: k.split("|").find((x) => x !== party)!, v: c.same / c.total }))
+  .sort((a, b) => b.v - a.v);
+
+// Notable: initiatives this party voted against that passed, in the latest legislature
+const latestLeg = legs[0];
+const lostVotes = all.filter((i) => i.leg === latestLeg).filter((i) => {
+  const kv = keyVote(i);
+  return kv.positions[party] === "contra" && (kv.result ?? "").startsWith("Aprov");
+}).slice(0, 5);
+---
+<Base title={`${info.name} (${party})`} active="partidos" description={`Como vota o ${info.name} (${party}) na Assembleia da República.`}>
+  <section class="head" style={`--pc:${info.color}`}>
+    <div class="container">
+      <a class="xs back" href={url("/parlamento/partidos/")}>← Todos os partidos</a>
+      <div class="ptitle">
+        <span class="logo">{party}</span>
+        <div>
+          <h1>{info.name}</h1>
+          <p class="muted">{fmtNum(authored.length)} iniciativas próprias votadas desde 2019</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="container stack">
+    {legs.map((leg) => {
+      const v = ps[leg].votes[party];
+      const a = ps[leg].authored[party] ?? {};
+      const tot = v.total ?? 0;
+      const al = allies(leg);
+      return (
+        <section class="card card-pad leg">
+          <div class="leg-head">
+            <h2>{m.legislatures[leg].label}</h2>
+            <span class="xs muted">{m.legislatures[leg].seats[party] ?? "—"} deputados eleitos · {fmtNum(tot)} votações</span>
+          </div>
+          <div class="kpis">
+            <div><b class="pos-favor">{pct(v.favor ?? 0, tot)}%</b><span>votos a favor</span></div>
+            <div><b class="pos-abstencao">{pct(v.abstencao ?? 0, tot)}%</b><span>abstenções</span></div>
+            <div><b class="pos-contra">{pct(v.contra ?? 0, tot)}%</b><span>votos contra</span></div>
+            <div><b>{pct(v.winning ?? 0, tot)}%</b><span>do lado vencedor</span></div>
+            <div><b>{fmtNum(a.total ?? 0)}</b><span>propostas próprias · {pct((a.aprovado ?? 0) + (a.em_curso ?? 0), a.total ?? 0)}% aprovadas</span></div>
+          </div>
+          {al.length > 0 && (
+            <div class="allies">
+              <h3 class="small">Concordância com outros partidos</h3>
+              <ul>
+                {al.map((x) => (
+                  <li>
+                    <a href={url(`/parlamento/partidos/${x.other.toLowerCase()}/`)} class="al-name"><i class="dot" style={`background:${m.parties[x.other]?.color}`} />{x.other}</a>
+                    <span class="al-bar"><span style={`width:${Math.round(x.v * 100)}%;background:${m.parties[x.other]?.color}`} /></span>
+                    <span class="mono small">{Math.round(x.v * 100)}%</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </section>
+      );
+    })}
+
+    {recentAuthored.length > 0 && (
+      <section>
+        <div class="section-head">
+          <h2>Propostas recentes do {party}</h2>
+          <a class="btn" href={url(`/parlamento/votacoes/?Proponente=${encodeURIComponent(party)}`)}>Ver todas →</a>
+        </div>
+        <div class="grid grid-3">{recentAuthored.map((i) => <InitiativeCard ini={i} />)}</div>
+      </section>
+    )}
+
+    {lostVotes.length > 0 && (
+      <section>
+        <div class="section-head">
+          <h2>Aprovadas com o voto contra do {party}</h2>
+          <a class="btn" href={url(`/parlamento/votacoes/?partido=${encodeURIComponent(party)}&voto=Contra&Resultado=Aprovada`)}>Ver mais →</a>
+        </div>
+        <ul class="list card">
+          {lostVotes.map((i) => (
+            <li><a href={url(`/parlamento/iniciativas/${i.id}/`)}><span>{displayTitle(i)}</span><span class="xs muted mono">{fmtDate(keyVote(i).date)}</span></a></li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .head { padding: 32px 0 28px; background: linear-gradient(180deg, color-mix(in srgb, var(--pc) 13%, var(--bg)), var(--bg)); border-bottom: 1px solid var(--line); }
+  .back { text-decoration: none; color: var(--ink-3); }
+  .ptitle { display: flex; gap: 18px; align-items: center; margin-top: 18px; }
+  .ptitle p { margin: 4px 0 0; }
+  .logo { display: grid; place-items: center; min-width: 72px; height: 72px; padding: 0 10px; border-radius: 18px; background: var(--pc); color: #fff; font-weight: 800; font-size: 1.1rem; box-shadow: var(--shadow-lg); }
+  h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); }
+  .stack { display: grid; gap: 28px; padding-top: 28px; }
+  .leg-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .leg h2 { font-family: var(--font-display); font-size: 1.45rem; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; margin: 20px 0; }
+  .kpis div { display: grid; gap: 2px; }
+  .kpis b { font-size: 1.7rem; font-family: var(--font-display); line-height: 1.1; }
+  .kpis span { font-size: 0.8rem; color: var(--ink-3); }
+  .allies h3 { margin-bottom: 10px; }
+  .allies ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  .allies li { display: grid; grid-template-columns: 80px 1fr 44px; gap: 12px; align-items: center; }
+  .al-name { display: inline-flex; align-items: center; gap: 6px; font-weight: 650; font-size: 0.88rem; text-decoration: none; }
+  .al-bar { height: 8px; background: var(--bg-sunken); border-radius: 999px; overflow: hidden; }
+  .al-bar span { display: block; height: 100%; border-radius: 999px; }
+  .list { list-style: none; margin: 0; padding: 6px 0; }
+  .list li + li { border-top: 1px solid var(--line); }
+  .list a { display: flex; justify-content: space-between; gap: 16px; padding: 12px 20px; text-decoration: none; font-weight: 550; }
+  .list a:hover { background: var(--bg-sunken); }
+</style>

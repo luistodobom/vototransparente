@@ -1,0 +1,131 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { meta, partyStats, LEG_ORDER, legParties } from "../../../lib/data";
+import { url, pct, fmtNum } from "../../../lib/format";
+const m = meta();
+const ps = partyStats();
+const legs = LEG_ORDER.filter((l) => m.legislatures[l]);
+const agreeOf = (leg: string, a: string, b: string) => {
+  if (a === b) return null;
+  const k = [a, b].sort().join("|");
+  const c = ps[leg].agreement[k];
+  return c && c.total >= 20 ? c.same / c.total : null;
+};
+const parties = (leg: string) => legParties(leg).filter((p) => (ps[leg].votes[p]?.total ?? 0) >= 20);
+const heat = (v: number) => `color-mix(in srgb, var(--accent) ${Math.round(Math.max(0, (v - 0.2) / 0.8) * 100)}%, var(--bg-elev))`;
+---
+<Base title="Partidos" active="partidos" description="Como vota cada partido na Assembleia da República: taxa de concordância entre partidos, propostas aprovadas e sentido de voto.">
+  <section class="head">
+    <div class="container">
+      <p class="eyebrow">Assembleia da República</p>
+      <h1>Partidos</h1>
+      <p class="lead muted">Como vota cada grupo parlamentar e com quem costuma concordar. Escolha a legislatura.</p>
+      <div class="tabs" role="tablist" aria-label="Legislatura">
+        {legs.map((l, i) => <button role="tab" aria-selected={i === 0 ? "true" : "false"} aria-controls={`leg-${l}`} id={`tab-${l}`} data-leg={l}>{m.legislatures[l].label.replace(" Legislatura", "")}<span class="xs muted"> {m.legislatures[l].start.slice(0, 4)}–{m.legislatures[l].end?.slice(0, 4) ?? "hoje"}</span></button>)}
+      </div>
+    </div>
+  </section>
+
+  {legs.map((leg, li) => {
+    const P = parties(leg);
+    const L = m.legislatures[leg];
+    return (
+      <div class="container panel" id={`leg-${leg}`} role="tabpanel" aria-labelledby={`tab-${leg}`} hidden={li !== 0}>
+        <div class="grid grid-3 pcards">
+          {P.map((p) => {
+            const v = ps[leg].votes[p] ?? {};
+            const a = ps[leg].authored[p] ?? {};
+            const tot = v.total ?? 0;
+            return (
+              <a class="pc card" href={url(`/parlamento/partidos/${p.toLowerCase()}/`)}>
+                <div class="pc-top">
+                  <span class="logo" style={`background:${m.parties[p]?.color}`}>{p}</span>
+                  <div><div class="pname">{m.parties[p]?.name}</div><div class="xs muted">{L.seats[p] ?? "—"} deputados eleitos</div></div>
+                </div>
+                <div class="pbar" role="img" aria-label={`A favor ${pct(v.favor ?? 0, tot)}%, abstenção ${pct(v.abstencao ?? 0, tot)}%, contra ${pct(v.contra ?? 0, tot)}%`}>
+                  <span class="f" style={`flex-grow:${v.favor ?? 0}`} /><span class="a" style={`flex-grow:${v.abstencao ?? 0}`} /><span class="c" style={`flex-grow:${v.contra ?? 0}`} />
+                </div>
+                <div class="pnums xs">
+                  <span><b class="pos-favor">{pct(v.favor ?? 0, tot)}%</b> a favor</span>
+                  <span><b class="pos-abstencao">{pct(v.abstencao ?? 0, tot)}%</b> abst.</span>
+                  <span><b class="pos-contra">{pct(v.contra ?? 0, tot)}%</b> contra</span>
+                </div>
+                <div class="pfoot xs muted">
+                  <span>Do lado vencedor em <b>{pct(v.winning ?? 0, tot)}%</b></span>
+                  <span><b>{fmtNum(a.total ?? 0)}</b> propostas, {pct((a.aprovado ?? 0) + (a.em_curso ?? 0), a.total ?? 0)}% aprovadas</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+
+        <section class="card card-pad matrix-card">
+          <h2>Matriz de concordância</h2>
+          <p class="small muted">Percentagem de votações em que dois partidos votaram no mesmo sentido (a favor, contra ou abstenção). Considera a votação decisiva de cada iniciativa.</p>
+          <div class="matrix-scroll">
+            <table class="matrix">
+              <thead><tr><th></th>{P.map((p) => <th scope="col"><span>{p}</span></th>)}</tr></thead>
+              <tbody>
+                {P.map((a) => (
+                  <tr>
+                    <th scope="row">{a}</th>
+                    {P.map((b) => {
+                      const v = agreeOf(leg, a, b);
+                      return v === null ? <td class="self">{a === b ? "" : "—"}</td> :
+                        <td style={`background:${heat(v)}`} class:list={{ hi: v > 0.62 }} title={`${a} e ${b} votaram igual em ${Math.round(v * 100)}% das votações`}>{Math.round(v * 100)}</td>;
+                    })}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    );
+  })}
+
+  <script>
+    const tabs = [...document.querySelectorAll<HTMLButtonElement>("[role=tab]")];
+    function select(leg: string) {
+      for (const t of tabs) {
+        const on = t.dataset.leg === leg;
+        t.setAttribute("aria-selected", String(on));
+        (document.getElementById(`leg-${t.dataset.leg}`) as HTMLElement).hidden = !on;
+      }
+    }
+    tabs.forEach((t) => t.addEventListener("click", () => { select(t.dataset.leg!); history.replaceState(null, "", `#${t.dataset.leg}`); }));
+    const h = location.hash.slice(1);
+    if (h && tabs.some((t) => t.dataset.leg === h)) select(h);
+  </script>
+</Base>
+
+<style>
+  .head { padding: 36px 0 20px; }
+  h1 { font-size: clamp(2rem, 4.4vw, 3rem); }
+  .lead { margin: 8px 0 22px; max-width: 60ch; }
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tabs button { border: 1px solid var(--line); background: var(--bg-elev); padding: 8px 16px; border-radius: 999px; font-weight: 650; cursor: pointer; }
+  .tabs button[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .tabs button[aria-selected="true"] .muted { color: color-mix(in srgb, var(--bg) 70%, transparent); }
+  .panel { display: grid; gap: 24px; }
+  .panel[hidden] { display: none; }
+  .pc { display: grid; gap: 14px; padding: 18px; text-decoration: none; transition: transform 0.15s, box-shadow 0.15s; }
+  .pc:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+  .pc-top { display: flex; gap: 12px; align-items: center; }
+  .logo { display: grid; place-items: center; min-width: 48px; height: 48px; padding: 0 6px; border-radius: 12px; color: #fff; font-weight: 800; font-size: 0.85rem; letter-spacing: -0.02em; }
+  .pname { font-weight: 650; line-height: 1.25; }
+  .pbar { display: flex; gap: 2px; height: 10px; border-radius: 999px; overflow: hidden; }
+  .pbar .f { background: var(--favor); } .pbar .a { background: var(--abstencao); } .pbar .c { background: var(--contra); }
+  .pnums { display: flex; justify-content: space-between; gap: 8px; color: var(--ink-2); }
+  .pfoot { display: grid; gap: 2px; border-top: 1px solid var(--line); padding-top: 10px; }
+  .matrix-card h2 { font-family: var(--font-display); font-size: 1.5rem; }
+  .matrix-card > p { margin: 6px 0 18px; max-width: 70ch; }
+  .matrix-scroll { overflow-x: auto; }
+  .matrix { border-collapse: separate; border-spacing: 3px; font-size: 0.82rem; font-variant-numeric: tabular-nums; margin: 0 auto; }
+  .matrix th { font-weight: 700; padding: 4px 8px; white-space: nowrap; }
+  .matrix thead th { text-align: center; }
+  .matrix tbody th { text-align: right; }
+  .matrix td { width: 52px; height: 40px; text-align: center; border-radius: 8px; font-weight: 600; color: var(--ink); }
+  .matrix td.hi { color: var(--accent-ink); }
+  .matrix td.self { background: var(--bg-sunken); color: var(--ink-3); }
+</style>

@@ -1,0 +1,260 @@
+---
+import Base from "../../../layouts/Base.astro";
+import Hemicycle from "../../../components/Hemicycle.astro";
+import VoteBar from "../../../components/VoteBar.astro";
+import PartyPositions from "../../../components/PartyPositions.astro";
+import StatusBadge from "../../../components/StatusBadge.astro";
+import Sources from "../../../components/Sources.astro";
+import { initiatives, keyVote, displayTitle, meta, legParties, voteRowIndex, darLabel, OPEN_DATA_PAGE, type Initiative } from "../../../lib/data";
+import { fmtDate, url, POSITION_LABEL, PHASE_LABEL, FISCAL_LABEL, STATUS_LABEL, resultClass, voteCode } from "../../../lib/format";
+
+export function getStaticPaths() {
+  return initiatives().map((ini) => ({ params: { id: ini.id }, props: { ini } }));
+}
+interface Props { ini: Initiative }
+const { ini } = Astro.props;
+const m = meta();
+const s = ini.summary;
+const kv = keyVote(ini);
+const title = displayTitle(ini);
+const votesCompact = legParties(ini.leg).concat(Object.keys(kv.positions).filter((p) => !legParties(ini.leg).includes(p)))
+  .filter((p) => kv.positions[p]).map((p) => `${p}:${voteCode[kv.positions[p]]}`).join(",");
+const authorFilters = ini.authors.label === "Governo" ? ["Governo"] : ini.authors.parties.length ? ini.authors.parties : [ini.authors.label];
+const description = s?.summary?.slice(0, 200) ?? `${ini.ref}: ${ini.title}`;
+const typeNote = ini.type === "Projeto de Resolução" ? "Recomendação ao Governo — não tem força de lei." :
+  ini.type === "Projeto de Lei" ? "Proposta de lei apresentada por deputados ou grupos parlamentares." :
+  ini.type === "Proposta de Lei" ? "Proposta de lei apresentada pelo Governo (ou por uma Assembleia Legislativa Regional)." : null;
+const sources = [
+  { label: "Página oficial da iniciativa (Parlamento)", href: ini.url },
+  { label: "Texto integral da iniciativa", href: ini.docUrl },
+  ...[...ini.votes].reverse().filter((v) => v.dar).map((v) => ({
+    label: `Registo da votação — ${PHASE_LABEL[v.phase] ?? v.phaseLabel}, ${fmtDate(v.date)}`, href: v.dar!.url, note: darLabel(v),
+  })),
+  { label: `Dados abertos: Iniciativas da ${ini.leg} Legislatura`, href: OPEN_DATA_PAGE,
+    note: ini.votes.some((v) => v.source === "page") ? "Votações desta iniciativa recolhidas da página oficial (ausentes do ficheiro de dados abertos)." : null },
+  ...(s ? [{ label: "Resumo gerado por IA", note: `${s._meta.model}, ${fmtDate(s._meta.generated)}, a partir do ${s._meta.source === "pdf" ? "texto integral (PDF)" : s._meta.source === "txt" ? "texto integral" : "título oficial"}` }] : []),
+];
+const fiscalCls = s ? ({ aumenta_despesa: "no", reduz_receita: "no", reduz_despesa: "ok", aumenta_receita: "ok", misto: "mid", neutro: "neutral", incerto: "neutral" } as Record<string, string>)[s.fiscal_impact.direction] ?? "neutral" : "";
+---
+<Base title={title} description={description} active="votacoes">
+  <article
+    data-pagefind-body
+    data-pagefind-sort={`date:${kv.date}`}
+    data-pagefind-meta={`date:${kv.date}`}
+  >
+    <span hidden data-pagefind-meta="ref">{ini.ref}</span>
+    <span hidden data-pagefind-meta="status">{ini.status}</span>
+    <span hidden data-pagefind-meta="author">{ini.authors.label}</span>
+    <span hidden data-pagefind-meta="leg">{ini.leg}</span>
+    <span hidden data-pagefind-meta="votes">{votesCompact}</span>
+    <span hidden data-pagefind-meta="cat">{ini.categories.map((c) => m.categories[c]?.label).filter(Boolean).join(" · ")}</span>
+    <span hidden data-pagefind-filter="Legislatura">{ini.leg}</span>
+    <span hidden data-pagefind-filter="Tipo">{ini.type}</span>
+    <span hidden data-pagefind-filter="Resultado">{STATUS_LABEL[ini.status]}</span>
+    {authorFilters.map((a) => <span hidden data-pagefind-filter="Proponente">{a}</span>)}
+    {ini.categories.map((c) => <span hidden data-pagefind-filter="Tema">{m.categories[c]?.label}</span>)}
+    {Object.entries(kv.positions).map(([p, pos]) => <span hidden data-pagefind-filter={`voto_${p}`}>{POSITION_LABEL[pos]}</span>)}
+
+    <header class="hero">
+      <div class="container">
+        <nav class="crumbs xs" aria-label="Navegação" data-pagefind-ignore>
+          <a href={url("/parlamento/votacoes/")}>Votações</a> <span aria-hidden="true">/</span> <span>{ini.leg} Legislatura</span>
+        </nav>
+        <div class="meta-row" data-pagefind-ignore>
+          <StatusBadge status={ini.status} />
+          <span class="badge plain">{ini.type}</span>
+          {ini.categories.map((c) => (
+            <a class="badge plain" href={url(`/parlamento/votacoes/?Tema=${encodeURIComponent(m.categories[c]?.label ?? c)}`)}>{m.categories[c]?.label}</a>
+          ))}
+        </div>
+        <h1 data-pagefind-meta="title">{title}</h1>
+        {s && s.short_title !== ini.title && <p class="official">{ini.title}</p>}
+        <dl class="facts small">
+          <div><dt data-pagefind-ignore>Referência</dt><dd>{ini.ref}</dd></div>
+          <div data-pagefind-ignore><dt>Proposta por</dt><dd>
+            {ini.authors.parties.length ? ini.authors.parties.map((p, i) => (
+              <>{i > 0 && ", "}{m.parties[p] ? <a href={url(`/parlamento/partidos/${p.toLowerCase()}/`)}>{m.parties[p].name}</a> : (p === "Ninsc" ? "Deputado não inscrito" : p)}</>
+            )) : ini.authors.label}
+          </dd></div>
+          <div data-pagefind-ignore><dt>Entrada</dt><dd>{fmtDate(ini.dateIn, true)}</dd></div>
+          <div data-pagefind-ignore><dt>Última votação</dt><dd>{fmtDate(kv.date, true)}</dd></div>
+        </dl>
+      </div>
+    </header>
+
+    <div class="container layout">
+      <div class="main-col">
+        {s ? (
+          <>
+            <section class="card card-pad block">
+              <h2>Em resumo</h2>
+              <div class="prose"><p>{s.summary}</p></div>
+              {s.key_points?.length > 0 && (
+                <>
+                  <h3 class="sub">O que propõe</h3>
+                  <ul class="points">{s.key_points.map((k) => <li>{k}</li>)}</ul>
+                </>
+              )}
+            </section>
+            <section class="card card-pad block simple">
+              <div class="eyebrow">Em linguagem simples</div>
+              <p class="plain-text">{s.plain_language}</p>
+            </section>
+            <div class="grid two">
+              <section class="card card-pad block">
+                <h3>Porque foi proposta</h3>
+                <div class="prose small"><p>{s.context}</p></div>
+              </section>
+              <section class="card card-pad block">
+                <h3>Análise crítica</h3>
+                <div class="prose small"><p>{s.analysis}</p></div>
+              </section>
+            </div>
+            <div class="grid two">
+              <section class="card card-pad block">
+                <h3>Impacto orçamental</h3>
+                <p><span class={`badge ${fiscalCls}`}>{FISCAL_LABEL[s.fiscal_impact.direction] ?? s.fiscal_impact.direction}</span></p>
+                <div class="prose small"><p>{s.fiscal_impact.explanation}</p></div>
+              </section>
+              <section class="card card-pad block">
+                <h3>Quem é afetado</h3>
+                <div class="tags">{s.affected.map((a) => <span class="chip">{a}</span>)}</div>
+                {s.tags?.length > 0 && <p class="xs muted tagline">Palavras-chave: {s.tags.join(", ")}</p>}
+              </section>
+            </div>
+            <p class="xs muted ai-note" data-pagefind-ignore>
+              Resumo gerado automaticamente por IA a partir do texto oficial da iniciativa. Pode conter imprecisões —
+              consulte sempre o <a href={ini.url} rel="noopener">documento original</a>.
+            </p>
+          </>
+        ) : (
+          <section class="card card-pad block pending" data-pagefind-ignore>
+            <div class="eyebrow">Resumo</div>
+            <p>O resumo desta iniciativa ainda está a ser preparado. Entretanto, pode consultar o título oficial acima e o{" "}
+              <a href={ini.url} rel="noopener">texto integral no site do Parlamento</a>.</p>
+          </section>
+        )}
+
+        <section class="block" data-pagefind-ignore>
+          <div class="section-head"><h2>{ini.votes.length > 1 ? `Votações (${ini.votes.length})` : "Votação"}</h2></div>
+          <div class="votes">
+            {[...ini.votes].reverse().map((v) => (
+              <div class="card card-pad vote" id={`v${v.id}`}>
+                <div class="vote-head">
+                  <div>
+                    <div class="eyebrow">{PHASE_LABEL[v.phase] ?? v.phaseLabel}</div>
+                    <div class="vdate">{fmtDate(v.date, true)}</div>
+                  </div>
+                  <span class={`badge ${resultClass(v.result)}`}>{v.result ?? "—"}{v.unanimous ? " por unanimidade" : ""}</span>
+                </div>
+                {v.description && <p class="small muted vdesc">{v.description}</p>}
+                <div class="vote-body">
+                  <div class="hemi-wrap"><Hemicycle leg={ini.leg} vote={v} /></div>
+                  <div>
+                    <VoteBar vote={v} leg={ini.leg} size="md" showLegend />
+                    <div class="pp-wrap"><PartyPositions vote={v} leg={ini.leg} /></div>
+                  </div>
+                </div>
+                {v.mps && v.mps.length > 0 && (
+                  <details class="mps">
+                    <summary class="small">Deputados que votaram de forma diferente do seu grupo ({v.mps.length})</summary>
+                    <ul class="small">{v.mps.map((mp) => <li><b>{mp.name}</b> ({mp.party}) — <span class={`pos-${mp.vote}`}>{POSITION_LABEL[mp.vote]}</span></li>)}</ul>
+                  </details>
+                )}
+                <div class="vlinks">
+                  {voteRowIndex().has(v.id) && (
+                    <a class="btn mpbtn" href={url(`/parlamento/votacao/${v.id}/`)}>Como votou cada deputado →</a>
+                  )}
+                  {v.dar && <a class="xs dar" href={v.dar.url} rel="noopener" target="_blank" title={darLabel(v)}>Registo oficial no Diário da AR{v.dar.pages ? ` (pág. ${v.dar.pages})` : ""} ↗</a>}
+                </div>
+                {v.inferred && <p class="xs muted">Votação unânime: posição dos grupos inferida a partir da composição do Parlamento.</p>}
+                <p class="xs muted note">Distribuição de deputados estimada a partir do número de lugares de cada grupo.</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      </div>
+
+      <aside class="side" data-pagefind-ignore>
+        <div class="card card-pad">
+          <div class="links">
+            <a class="btn btn-primary" href={ini.url} rel="noopener">Ver no site do Parlamento ↗</a>
+          </div>
+          <hr class="sep" />
+          <h3>Percurso</h3>
+          <ol class="timeline small">
+            {ini.timeline.map((t) => (
+              <li class:list={{ voted: /^Vota/.test(t.phase) }}>
+                <span class="mono xs muted">{fmtDate(t.date)}</span>
+                <span>{t.phase}</span>
+              </li>
+            ))}
+          </ol>
+          {typeNote && <p class="xs muted typenote">{typeNote}</p>}
+          <hr class="sep" />
+          <Sources items={sources} />
+          {ini.authors.deputies.length > 0 && (
+            <details class="authors">
+              <summary class="small">Deputados proponentes ({ini.authors.deputies.length})</summary>
+              <ul class="small">{ini.authors.deputies.map((d) => <li>{d.name} <span class="muted">({d.party})</span></li>)}</ul>
+            </details>
+          )}
+        </div>
+      </aside>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .hero { padding: 28px 0 30px; border-bottom: 1px solid var(--line); background: linear-gradient(180deg, var(--bg-elev), var(--bg)); }
+  .crumbs { color: var(--ink-3); margin-bottom: 16px; display: flex; gap: 8px; }
+  .crumbs a { text-decoration: none; }
+  .meta-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .meta-row a { text-decoration: none; }
+  h1 { font-size: clamp(1.7rem, 3.6vw, 2.6rem); max-width: 24ch; }
+  .official { color: var(--ink-2); margin: 12px 0 0; max-width: 75ch; font-size: 1.02rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px 24px; margin: 24px 0 0; }
+  .facts dt { color: var(--ink-3); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; }
+  .facts dd { margin: 2px 0 0; font-weight: 550; }
+  .layout { display: grid; gap: 24px; padding-top: 28px; }
+  @media (min-width: 980px) { .layout { grid-template-columns: minmax(0, 1fr) 320px; } }
+  .main-col { display: grid; gap: 16px; align-content: start; min-width: 0; }
+  .block h2 { margin-bottom: 12px; font-family: var(--font-display); font-weight: 600; font-size: 1.45rem; }
+  .block h3 { margin-bottom: 10px; }
+  .sub { margin-top: 18px; }
+  .points { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; }
+  .points li { position: relative; padding-left: 28px; color: var(--ink-2); }
+  .points li::before { content: ""; position: absolute; left: 4px; top: 0.55em; width: 10px; height: 10px; border-radius: 3px; background: var(--accent); opacity: 0.85; }
+  .simple { background: var(--accent-soft); border-color: transparent; }
+  .plain-text { font-size: 1.08rem; line-height: 1.65; margin: 8px 0 0; color: var(--ink); }
+  .two { grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tagline { margin: 12px 0 0; }
+  .ai-note { margin: 0; }
+  .pending p { margin: 6px 0 0; color: var(--ink-2); }
+  .votes { display: grid; gap: 16px; }
+  .vote-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; }
+  .vdate { font-weight: 650; }
+  .vdesc { margin: 10px 0 0; }
+  .vote-body { display: grid; gap: 20px; margin-top: 18px; align-items: center; }
+  @media (min-width: 720px) { .vote-body { grid-template-columns: 260px 1fr; } }
+  .hemi-wrap { max-width: 320px; }
+  .pp-wrap { margin-top: 16px; }
+  .mps { margin-top: 16px; }
+  .mps summary, .authors summary { cursor: pointer; font-weight: 600; }
+  .mps ul, .authors ul { margin: 8px 0 0; padding-left: 1.1em; color: var(--ink-2); }
+  .note { margin: 14px 0 0; }
+  .vlinks { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-top: 16px; }
+  .mpbtn { font-size: 0.88rem; }
+  .dar { color: var(--ink-2); }
+  .side .sticky { position: sticky; top: 80px; }
+  .timeline { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 0; border-left: 2px solid var(--line); }
+  .timeline li { display: grid; gap: 0; padding: 0 0 12px 16px; position: relative; }
+  .timeline li::before { content: ""; position: absolute; left: -6px; top: 0.45em; width: 10px; height: 10px; border-radius: 50%; background: var(--bg-elev); border: 2px solid var(--line-strong); }
+  .timeline li.voted::before { background: var(--accent); border-color: var(--accent); }
+  .timeline li.voted span:last-child { font-weight: 650; }
+  .links { display: grid; }
+  .links .btn { justify-content: center; }
+  .typenote { margin: 12px 0 0; }
+  .authors { margin-top: 12px; }
+</style>

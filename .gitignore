@@ -1,8 +1,24 @@
 .env
+.venv/
 __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-data/
-!data/parliament_data*.csv
-notebooks/
+node_modules/
+
+# Old project data (large local files); keep only the CSV database for reference
+old/data/*
+!old/data/parliament_data.csv
+
+# New pipeline: raw downloads are cached locally and never committed
+data/raw/
+data/cache/
+
+# Site build output
+site/dist/
+site/.astro/
+
+# Regenerated from official open data on every build
+data/processed/
+site/src/data/
+site/public/data/

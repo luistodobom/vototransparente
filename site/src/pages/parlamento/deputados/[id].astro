@@ -1,0 +1,190 @@
+---
+import Base from "../../../layouts/Base.astro";
+import Avatar from "../../../components/Avatar.astro";
+import Sources from "../../../components/Sources.astro";
+import { deputies, meta, mpColumn, voteById, displayTitle, LEG_ORDER, partyAt, bioUrl, participation, ROSTER_PAGE, OPEN_DATA_PAGE, ATTENDANCE_PAGE, type Deputy } from "../../../lib/data";
+import { fmtDate, url, pct, fmtNum, PHASE_LABEL, POSITION_LABEL } from "../../../lib/format";
+
+export function getStaticPaths() {
+  return Object.values(deputies()).map((dep) => ({ params: { id: dep.id }, props: { dep } }));
+}
+interface Props { dep: Deputy }
+const { dep } = Astro.props;
+const m = meta();
+const vb = voteById();
+const legs = LEG_ORDER.filter((l) => dep.legs[l]);
+const latest = dep.legs[legs[0]];
+const color = m.parties[latest.party]?.color ?? "var(--accent)";
+const allDissent = legs.flatMap((l) => dep.legs[l].dissent.map((vid) => ({ leg: l, vid })));
+const dissentRows = allDissent.map(({ leg, vid }) => {
+  const { vote, ini } = vb.get(vid)!;
+  const party = partyAt(dep.legs[leg], vote.date);
+  return { vote, ini, party, group: vote.positions[party] };
+}).sort((a, b) => (a.vote.date < b.vote.date ? 1 : -1));
+const columns = Object.fromEntries(legs.map((l) => [l, mpColumn(dep.id, l)]));
+const sources = [
+  { label: "Biografia oficial no site do Parlamento", href: bioUrl(dep.id) },
+  { label: "Dados abertos: Informação Base (mandatos, partido e círculo)", href: ROSTER_PAGE, note: `Legislaturas ${legs.slice().reverse().join(", ")}` },
+  { label: "Dados abertos: Iniciativas (votações)", href: OPEN_DATA_PAGE, note: "Cada votação da lista abaixo liga ao seu registo oficial." },
+  { label: "Registo oficial de presenças nas reuniões plenárias", href: ATTENDANCE_PAGE, note: "Faltas e respetivas justificações, reunião a reunião." },
+  { label: "Como atribuímos votos a cada deputado", href: url("/sobre/#deputados") },
+];
+const allParties = [...new Set(legs.flatMap((l) => dep.legs[l].parties.map((p) => p.party)))];
+const totals = legs.reduce((a, l) => {
+  const L = dep.legs[l]; a.v += L.F + L.C + L.A; a.x += L.X; a.d += L.dissent.length;
+  a.known += L.known ?? 0; a.abs += L.absentVotes ?? 0; a.meet += L.meetings?.meetings ?? 0;
+  a.miss += Object.entries(L.meetings ?? {}).filter(([k]) => k !== "meetings").reduce((s, [, n]) => s + (n ?? 0), 0);
+  return a;
+}, { v: 0, x: 0, d: 0, known: 0, abs: 0, meet: 0, miss: 0 });
+const ABS_LABEL: Record<string, string> = { FJ: "justificadas", AMP: "em missão parlamentar", FI: "injustificadas" };
+const missBreak = (L: (typeof dep.legs)[string]) => Object.entries(L.meetings ?? {}).filter(([k, n]) => k !== "meetings" && n)
+  .sort((a, b) => (b[1] ?? 0) - (a[1] ?? 0)).map(([k, n]) => `${n} ${ABS_LABEL[k] ?? k.toLowerCase()}`).join(", ");
+---
+<Base title={`${dep.name} — votações`} active="deputados"
+  description={`Como votou ${dep.name} (${latest.party}${latest.circle ? `, ${latest.circle}` : ""}) na Assembleia da República: ${fmtNum(totals.v)} votos, ${totals.d} contra o seu grupo parlamentar.`}>
+  <header class="hero" style={`--pc:${color}`}>
+    <div class="container">
+      <a class="xs back" href={url("/parlamento/deputados/")}>← Todos os deputados</a>
+      <div class="who">
+        <Avatar id={dep.id} name={dep.name} size={96} color={color} photo={dep.photo} />
+        <div>
+          <h1>{dep.name}</h1>
+          {dep.fullName && dep.fullName !== dep.name && <p class="muted full">{dep.fullName}</p>}
+          <div class="chips">
+            {allParties.map((p) => m.parties[p]
+              ? <a class="chip" href={url(`/parlamento/partidos/${p.toLowerCase()}/`)}><i class="dot" style={`background:${m.parties[p].color}`} />{m.parties[p].name}</a>
+              : <span class="chip"><i class="dot" style="background:#999" />{p === "Ninsc" ? "Deputado não inscrito" : p}</span>)}
+            {latest.circle && <span class="chip">Círculo de {latest.circle}</span>}
+          </div>
+        </div>
+      </div>
+      <div class="kpis">
+        <div><b class="display">{fmtNum(totals.v)}</b><span>votos registados</span></div>
+        <div><b class="display">{totals.known ? `${Math.round(100 * (1 - totals.abs / totals.known))}%` : "—"}</b><span>participação nas votações</span></div>
+        <div><b class="display">{totals.miss}</b><span>faltas a {fmtNum(totals.meet)} reuniões plenárias</span></div>
+        <div><b class="display">{totals.d}</b><span>{totals.d === 1 ? "voto" : "votos"} contra o seu grupo</span></div>
+        <div><b class="display">{legs.length}</b><span>{legs.length === 1 ? "legislatura" : "legislaturas"} desde 2019</span></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container stack">
+    <section class="grid legs">
+      {legs.map((l) => {
+        const L = dep.legs[l];
+        const n = L.F + L.C + L.A;
+        return (
+          <div class="card card-pad leg">
+            <div class="lh"><h2>{m.legislatures[l]?.label ?? l}</h2><span class="xs muted">{L.parties.map((p) => p.party).join(" → ")}{L.circle ? ` · ${L.circle}` : ""}</span></div>
+            <div class="pbar" role="img" aria-label={`A favor ${pct(L.F, n)}%, abstenção ${pct(L.A, n)}%, contra ${pct(L.C, n)}%`}>
+              <span class="f" style={`flex-grow:${L.F}`} /><span class="a" style={`flex-grow:${L.A}`} /><span class="c" style={`flex-grow:${L.C}`} />
+            </div>
+            <dl class="mini small">
+              <div><dt>A favor</dt><dd class="pos-favor">{fmtNum(L.F)}</dd></div>
+              <div><dt>Contra</dt><dd class="pos-contra">{fmtNum(L.C)}</dd></div>
+              <div><dt>Abstenção</dt><dd class="pos-abstencao">{fmtNum(L.A)}</dd></div>
+              <div><dt>Não votou</dt><dd>{fmtNum(L.X)}</dd></div>
+              <div><dt>Contra o grupo</dt><dd>{L.dissent.length}</dd></div>
+            </dl>
+            {L.meetings?.meetings ? (
+              <p class="small att">Faltou a <b>{Object.entries(L.meetings).filter(([k]) => k !== "meetings").reduce((s2, [, n]) => s2 + (n ?? 0), 0)}</b> de {L.meetings.meetings} reuniões plenárias{missBreak(L) ? ` (${missBreak(L)})` : ""}.</p>
+            ) : null}
+            <p class="xs muted per">Em funções: {L.inOffice.map((p) => `${fmtDate(p.from)} – ${p.to ? fmtDate(p.to) : "atualidade"}`).join("; ")}</p>
+          </div>
+        );
+      })}
+    </section>
+
+    <section class="card card-pad">
+      <h2 class="sh">Votos contra o seu grupo parlamentar</h2>
+      {dissentRows.length === 0 ? (
+        <p class="muted small">Não há registo de votos diferentes do seu grupo parlamentar.</p>
+      ) : (
+        <ul class="dis">
+          {dissentRows.slice(0, 40).map((r) => (
+            <li>
+              <span class="mono xs muted">{fmtDate(r.vote.date)}</span>
+              <a href={url(`/parlamento/votacao/${r.vote.id}/`)}>{displayTitle(r.ini)}</a>
+              <span class="small">{PHASE_LABEL[r.vote.phase] ?? r.vote.phaseLabel} · {r.vote.result} · grupo {r.party}: {r.group ? POSITION_LABEL[r.group].toLowerCase() : "—"}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+      {dissentRows.length > 40 && <p class="small muted">E mais {dissentRows.length - 40} — veja todos no registo abaixo com o filtro “Só votos contra o grupo”.</p>}
+    </section>
+
+    <section class="card card-pad" id="record">
+      <div class="rh">
+        <h2 class="sh">Registo de votações</h2>
+        <div class="tabs" role="tablist">{legs.map((l, i) => <button role="tab" aria-selected={i === 0 ? "true" : "false"} data-leg={l}>{l}</button>)}</div>
+      </div>
+      <div class="filters">
+        <input id="rq" type="search" placeholder="Procurar por título…" aria-label="Procurar por título" />
+        <select id="rv" aria-label="Sentido de voto"><option value="">Todos os sentidos</option><option value="F">A favor</option><option value="C">Contra</option><option value="A">Abstenção</option><option value="X">Não votou</option></select>
+        <label class="chk small"><input type="checkbox" id="rd" /> Só votos contra o grupo</label>
+      </div>
+      <p class="small muted" id="rcount">A carregar…</p>
+      <ol class="rec" id="rlist"></ol>
+      <div class="more"><button class="btn" id="rmore" hidden type="button">Mostrar mais</button></div>
+      <p class="xs muted">O registo oficial identifica individualmente apenas os deputados que votam de forma diferente do seu grupo; nos restantes casos o voto corresponde à posição do grupo parlamentar.</p>
+    </section>
+
+    <section class="card card-pad"><Sources items={sources} /></section>
+  </div>
+
+  <script is:inline type="application/json" id="mp-data" set:html={JSON.stringify({ columns, dissent: Object.fromEntries(legs.map((l) => [l, dep.legs[l].dissent])) })} />
+  <script is:inline define:vars={{ base: import.meta.env.BASE_URL.replace(/\/$/, "") }}>window.__BASE = base;</script>
+  <script src="../../../scripts/mp.ts"></script>
+</Base>
+
+<style>
+  .hero { padding: 28px 0 30px; background: linear-gradient(180deg, color-mix(in srgb, var(--pc) 12%, var(--bg)), var(--bg)); border-bottom: 1px solid var(--line); }
+  .back { text-decoration: none; color: var(--ink-3); }
+  .who { display: flex; gap: 20px; align-items: center; margin-top: 18px; flex-wrap: wrap; }
+  h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); }
+  .full { margin: 4px 0 0; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; margin-top: 26px; }
+  .kpis div { display: grid; }
+  .kpis b { font-size: 1.9rem; line-height: 1.1; }
+  .kpis span { font-size: 0.82rem; color: var(--ink-3); }
+  .stack { display: grid; gap: 18px; padding-top: 24px; }
+  .legs { grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); }
+  .lh { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+  .leg h2 { font-family: var(--font-display); font-size: 1.2rem; }
+  .pbar { display: flex; gap: 2px; height: 10px; border-radius: 999px; overflow: hidden; background: var(--bg-sunken); }
+  .pbar .f { background: var(--favor); } .pbar .a { background: var(--abstencao); } .pbar .c { background: var(--contra); }
+  .mini { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; margin: 14px 0 0; }
+  .mini dt { font-size: 0.68rem; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.04em; }
+  .mini dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+  @media (max-width: 420px) { .mini { grid-template-columns: repeat(3, 1fr); } }
+  .per { margin: 6px 0 0; }
+  .att { margin: 12px 0 0; color: var(--ink-2); }
+  .sh { font-family: var(--font-display); font-size: 1.35rem; margin-bottom: 12px; }
+  .dis { list-style: none; margin: 0; padding: 0; }
+  .dis li { display: grid; gap: 2px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+  .dis li:last-child { border-bottom: 0; }
+  .dis a { font-weight: 600; text-decoration: none; }
+  .dis a:hover { text-decoration: underline; }
+  .dis .small { color: var(--ink-2); }
+  .rh { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .tabs { display: flex; gap: 6px; }
+  .tabs button { border: 1px solid var(--line); background: var(--bg-elev); padding: 6px 12px; border-radius: 999px; font-weight: 650; cursor: pointer; font-size: 0.85rem; }
+  .tabs button[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .filters { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); margin: 12px 0; align-items: center; }
+  .filters input[type="search"], .filters select { width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-elev); font-size: 0.9rem; }
+  .chk { display: inline-flex; gap: 8px; align-items: center; }
+  .rec { list-style: none; margin: 0; padding: 0; }
+  :global(.rec li a) { display: grid; grid-template-columns: 88px 1fr auto; gap: 12px; align-items: center; padding: 10px 6px; border-bottom: 1px solid var(--line); text-decoration: none; }
+  :global(.rec li a:hover) { background: var(--bg-sunken); }
+  :global(.rec .t) { font-weight: 550; font-size: 0.92rem; line-height: 1.35; }
+  :global(.rec .t small) { display: block; color: var(--ink-3); font-weight: 450; font-size: 0.76rem; margin-top: 2px; }
+  :global(.rec .pos) { font-size: 0.72rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; white-space: nowrap; }
+  :global(.rec .pos.F) { background: var(--favor-soft); color: var(--favor); }
+  :global(.rec .pos.C) { background: var(--contra-soft); color: var(--contra); }
+  :global(.rec .pos.A) { background: var(--abstencao-soft); color: color-mix(in srgb, var(--abstencao) 75%, var(--ink)); }
+  :global(.rec .pos.X) { background: var(--bg-sunken); color: var(--ink-3); }
+  :global(.rec .dz) { box-shadow: 0 0 0 2px color-mix(in srgb, var(--abstencao) 45%, transparent); }
+  @media (max-width: 560px) { :global(.rec li a) { grid-template-columns: 1fr auto; } :global(.rec .d) { grid-column: 1 / -1; } }
+  .more { display: flex; justify-content: center; margin: 14px 0; }
+</style>

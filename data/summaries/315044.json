@@ -1,0 +1,43 @@
+{
+ "short_title": "Recomendação para melhorar o atendimento a vítimas de violência sexual no SNS",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo a implementação urgente do projeto-piloto de distribuição de kits de emergência (com bens de higiene, vestuário e alimentos) a vítimas de violência sexual após exames forenses, conforme previsto no Orçamento do Estado de 2025. Adicionalmente, propõe um programa abrangente no SNS para melhorar o atendimento a estas vítimas, incluindo: a realização de um inquérito de qualidade às unidades de saúde; a distribuição extraordinária de kits de recolha de provas forenses em todos os hospitais; a criação de um cronograma para salas de espera dedicadas e separadas; o alargamento da rede de centros de crise para pelo menos um por capital de distrito até 2029; a realização de campanhas de divulgação destes serviços; e a dinamização de ações de formação específicas dirigidas aos profissionais de saúde sobre protocolos e procedimentos a adotar.",
+ "key_points": [
+  "Implementar o projeto-piloto de distribuição de kits de higiene, vestuário e alimentos a vítimas de violência sexual após perícias forenses.",
+  "Garantir a distribuição extraordinária de kits de recolha de evidências forenses em todas as entidades do SNS.",
+  "Definir um cronograma para a criação de salas de espera específicas e reservadas para vítimas de violência sexual nas unidades do SNS.",
+  "Alargar a rede de centros de crise especializados para existir pelo menos um por capital de distrito até 2029.",
+  "Promover formação a profissionais de saúde e realizar campanhas nacionais de divulgação dos serviços de apoio."
+ ],
+ "plain_language": "O PAN pede ao Governo que melhore o apoio prestado pelo Serviço Nacional de Saúde às vítimas de abuso sexual e violação. A proposta recomenda a entrega de roupas e artigos de higiene às vítimas após os exames médicos, a garantia de kits de recolha de provas em todos os hospitais e a criação de salas de espera reservadas para evitar o contacto com os restantes utentes. Propõe também a abertura de centros de apoio especializado em todas as capitais de distrito até 2029 e a formação de médicos e enfermeiros. Por ser um Projeto de Resolução, funciona apenas como uma recomendação sem caráter vinculativo.",
+ "context": "O PAN justifica a proposta com o aumento de 9,9% nas queixas de violação em 2024 (543 registos, o valor mais alto desde 1998) e com graves lacunas no SNS. Aponta a falta de kits de recolha de provas em vários hospitais, longos tempos de espera, salas de espera partilhadas e a existência de apenas dois centros de crise nacionais (em Lisboa e no Porto). Refere igualmente relatórios internacionais e estudos que indicam que a maioria dos profissionais de saúde desconhece os protocolos ou serviços existentes.",
+ "analysis": "O projeto responde a vulnerabilidades críticas na resposta médica e forense a vítimas de violência sexual, combatendo o risco de perda de prova judiciária e minorando a revitimização através de privacidade e kits de higiene. Contudo, por ser um Projeto de Resolução, constitui uma recomendação política sem eficácia jurídica vinculativa, dependendo inteiramente da vontade do Executivo para ser concretizado. Nota-se uma pequena discrepância temporal no texto, que refere a meta de 2026 para os centros de crise na exposição de motivos e 2029 na resolução final. A concretização do plano exigirá reforço orçamental, contratação de equipas multidisciplinares e articulação eficaz com a Entidade Reguladora da Saúde e ordens profissionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A medida implica custos acrescidos na aquisição de kits de prova e higiene, adaptação de salas de espera, formação de pessoal e instalação de novos centros de crise. O documento não apresenta estimativa orçamental concreta."
+ },
+ "affected": [
+  "vítimas de violência sexual",
+  "profissionais de saúde",
+  "hospitais do SNS",
+  "associações de apoio à vítima"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "violência sexual",
+  "sns",
+  "kits de emergência",
+  "centros de crise",
+  "perícias forenses"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-3.5-flash",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

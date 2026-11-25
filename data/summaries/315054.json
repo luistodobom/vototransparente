@@ -1,0 +1,41 @@
+{
+ "short_title": "Fim progressivo dos subsídios aos combustíveis fósseis até 2030",
+ "summary": "O Projeto de Resolução apresentado pelo PAN propõe que a Assembleia da República reafirme o seu compromisso de eliminar progressivamente, até 2030, os subsídios diretos e benefícios fiscais associados aos combustíveis fósseis, cumprindo a Lei de Bases do Clima. Recomenda também ao Governo a aprovação de um plano de ação articulado com o Plano Nacional Energia e Clima 2030 para implementar essa medida. Adicionalmente, propõe que as verbas libertadas com o fim desses incentivos sejam integralmente canalizadas para a área da mobilidade, designadamente no financiamento de passes sociais gratuitos, na expansão e melhoria da rede de transportes públicos e no incentivo à mobilidade suave.",
+ "key_points": [
+  "Reafirmar o compromisso de eliminar os subsídios e benefícios fiscais a combustíveis fósseis até 2030.",
+  "Recomendar ao Governo a aprovação de um plano de ação alinhado com o Plano Nacional Energia e Clima 2030.",
+  "Redirecionar a verba poupada para financiar a gratuitidade de passes sociais.",
+  "Investir no alargamento e melhoria da oferta de transportes públicos e em soluções de mobilidade suave."
+ ],
+ "plain_language": "Este projeto pede ao Parlamento que reforce a intenção de acabar, até 2030, com as ajudas financeiras e benefícios de impostos que o Estado concede aos combustíveis fósseis. Por ser um Projeto de Resolução, funciona como uma recomendação sem caráter vinculativo para o Governo. O objetivo é que o Executivo crie um plano concreto para esta transição e use o dinheiro poupado com o fim dessas ajudas para financiar passes sociais gratuitos, melhorar os transportes públicos e apoiar modos de deslocação limpos, como o uso da bicicleta.",
+ "context": "O PAN justifica a iniciativa com a gravidade das alterações climáticas e a frequência acrescida de eventos extremos. Fundamenta-se em alertas das Nações Unidas e da OCDE contra subsídios prejudiciais ao ambiente, bem como em metas já assumidas no Acordo de Paris, no Pacto Ecológico Europeu, nas conclusões das COP28 e COP29 e na própria Lei de Bases do Clima nacional.",
+ "analysis": "A iniciativa está em perfeita sintonia com o quadro legislativo em vigor (nomeadamente a Lei de Bases do Clima) e sugere um destino socialmente positivo para as poupanças orçamentais obtidas. Trata-se, contudo, de uma recomendação não vinculativa, cuja concretização depende da vontade política do Governo. Do ponto de vista prático, o fim acelerado de benefícios fiscais sem medidas de mitigação adequadas pode aumentar custos operacionais em setores fortemente dependentes de combustíveis fósseis, exigindo um planeamento cauteloso para evitar impactos socioeconómicos adversos.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A eliminação de subsídios e benefícios fiscais aumenta as receitas fiscais ou reduz despesa do Estado, mas o projeto propõe reinvestir integralmente esse valor nos transportes públicos e passes sociais."
+ },
+ "affected": [
+  "utentes de transportes públicos",
+  "setor da energia e combustíveis fósseis",
+  "empresas com benefícios fiscais sobre combustíveis"
+ ],
+ "categories": [
+  "ambiente",
+  "transportes",
+  "energia"
+ ],
+ "tags": [
+  "combustíveis fósseis",
+  "subsídios",
+  "transportes públicos",
+  "mobilidade suave",
+  "clima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-3.5-flash",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,146 @@
+---
+import Base from "../layouts/Base.astro";
+import InitiativeCard from "../components/InitiativeCard.astro";
+import Hemicycle from "../components/Hemicycle.astro";
+import { initiatives, meta, keyVote, tally, currentLeg, legParties } from "../lib/data";
+import { fmtNum, fmtDate, url } from "../lib/format";
+
+const m = meta();
+const all = initiatives();
+const leg = currentLeg();
+const L = m.legislatures[leg];
+const latest = all.slice(0, 9);
+// close votes in the current legislature: smallest seat margin between favor and contra
+const close = all
+  .filter((i) => i.leg === leg)
+  .map((i) => { const t = tally(keyVote(i), i.leg); return { i, margin: Math.abs(t.favor - t.contra), t }; })
+  .filter((x) => x.t.favor + x.t.contra > 100)
+  .sort((a, b) => a.margin - b.margin || (b.i.lastVoteDate > a.i.lastVoteDate ? 1 : -1))
+  .slice(0, 6);
+const legIni = all.filter((i) => i.leg === leg);
+const approved = legIni.filter((i) => i.status !== "rejeitado").length;
+const cats = Object.entries(m.categories).filter(([, c]) => c.count > 0).sort((a, b) => b[1].count - a[1].count);
+const totalSeats = Object.values(L.seats).reduce((a, b) => a + b, 0);
+---
+<Base active="">
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <p class="eyebrow">Assembleia da República · desde 2019</p>
+        <h1>O que se vota no Parlamento, explicado de forma clara.</h1>
+        <p class="lead">Cada proposta votada em plenário, com um resumo em linguagem simples, o impacto previsto e o sentido de voto de cada partido.</p>
+        <form class="search" action={url("/parlamento/votacoes/")} method="get" role="search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label for="hq" class="sr-only">Pesquisar votações</label>
+          <input id="hq" name="q" type="search" placeholder="Pesquisar: rendas, IRS Jovem, SNS…" />
+          <button class="btn btn-primary" type="submit">Pesquisar</button>
+        </form>
+        <div class="stats">
+          <div><b class="display">{fmtNum(m.stats.initiatives)}</b><span>iniciativas votadas</span></div>
+          <div><b class="display">{fmtNum(m.stats.votes)}</b><span>votações registadas</span></div>
+          <div><b class="display">{Object.keys(m.legislatures).length}</b><span>legislaturas</span></div>
+        </div>
+      </div>
+      <div class="card card-pad hemi-card">
+        <div class="hc-head">
+          <div>
+            <div class="eyebrow">Composição atual</div>
+            <div class="hc-title">{L.label}</div>
+          </div>
+          <span class="xs muted mono">{totalSeats} deputados</span>
+        </div>
+        <Hemicycle leg={leg} byParty />
+        <ul class="legend">
+          {legParties(leg).slice().sort((a, b) => L.seats[b] - L.seats[a]).map((p) => (
+            <li><a href={url(`/parlamento/partidos/${p.toLowerCase()}/`)}><i class="dot" style={`background:${m.parties[p]?.color}`} />{p}<span class="mono muted">{L.seats[p]}</span></a></li>
+          ))}
+        </ul>
+        <p class="xs muted hc-foot">Nesta legislatura: {fmtNum(legIni.length)} iniciativas votadas, {Math.round((100 * approved) / Math.max(1, legIni.length))}% aprovadas (total ou na generalidade).</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Votações mais recentes</h2>
+        <a class="btn" href={url("/parlamento/votacoes/")}>Ver todas →</a>
+      </div>
+      <div class="grid grid-3">
+        {latest.map((ini) => <InitiativeCard ini={ini} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Votações renhidas</h2>
+          <p class="muted small sub">As decisões mais disputadas da legislatura atual, decididas por poucos votos.</p>
+        </div>
+      </div>
+      <div class="grid grid-3">
+        {close.map(({ i }) => <InitiativeCard ini={i} />)}
+      </div>
+    </div>
+  </section>
+
+  {cats.length > 0 && m.stats.summarized >= 100 && (
+    <section class="section">
+      <div class="container">
+        <div class="section-head"><h2>Explorar por tema</h2></div>
+        <div class="cats">
+          {cats.map(([k, c]) => (
+            <a class="cat card" href={url(`/parlamento/votacoes/?Tema=${encodeURIComponent(c.label)}`)}>
+              <span>{c.label}</span><span class="mono muted xs">{fmtNum(c.count)}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section">
+    <div class="container">
+      <div class="card card-pad cta">
+        <div>
+          <h2 class="display">Quem vota com quem?</h2>
+          <p class="muted">Compare o comportamento de voto dos partidos: com que frequência concordam, quantas propostas aprovam e quais as que mais rejeitam.</p>
+        </div>
+        <a class="btn btn-primary" href={url("/parlamento/partidos/")}>Explorar partidos →</a>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: 48px 0 24px; background:
+    radial-gradient(1200px 400px at 85% -10%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 60%),
+    radial-gradient(800px 300px at -10% 10%, color-mix(in srgb, var(--abstencao) 10%, transparent), transparent 60%); }
+  .hero-grid { display: grid; gap: 32px; align-items: center; }
+  @media (min-width: 960px) { .hero-grid { grid-template-columns: 1.15fr 1fr; gap: 48px; } }
+  h1 { font-size: clamp(2.2rem, 5.2vw, 3.7rem); line-height: 1.04; letter-spacing: -0.025em; max-width: 16ch; }
+  .lead { font-size: 1.12rem; color: var(--ink-2); max-width: 52ch; margin: 18px 0 26px; }
+  .search { display: flex; align-items: center; gap: 10px; padding: 6px 6px 6px 18px; border-radius: 999px; background: var(--bg-elev); border: 1px solid var(--line); box-shadow: var(--shadow); max-width: 560px; color: var(--ink-3); }
+  .search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 18%, transparent); }
+  .search input { flex: 1; min-width: 0; border: 0; background: transparent; outline: none; padding: 8px 0; font-size: 1rem; color: var(--ink); }
+  .stats { display: flex; gap: 32px; margin-top: 30px; flex-wrap: wrap; }
+  .stats div { display: grid; }
+  .stats b { font-size: 2rem; line-height: 1.1; }
+  .stats span { color: var(--ink-3); font-size: 0.85rem; }
+  .hemi-card { padding-bottom: 20px; }
+  .hc-head { display: flex; justify-content: space-between; align-items: start; margin-bottom: 14px; }
+  .hc-title { font-weight: 650; }
+  .legend { list-style: none; padding: 0; margin: 16px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .legend a { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px; font-size: 0.8rem; font-weight: 600; text-decoration: none; }
+  .legend a:hover { border-color: var(--ink-3); }
+  .hc-foot { margin: 14px 0 0; }
+  .sub { margin: 4px 0 0; }
+  .cats { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); }
+  .cat { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px; text-decoration: none; font-weight: 600; font-size: 0.93rem; transition: border-color 0.15s, transform 0.15s; }
+  .cat:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .cta { display: flex; gap: 24px; align-items: center; justify-content: space-between; flex-wrap: wrap; background: linear-gradient(120deg, var(--accent-soft), var(--bg-elev)); }
+  .cta h2 { font-size: 1.8rem; }
+  .cta p { margin: 8px 0 0; max-width: 60ch; }
+</style>

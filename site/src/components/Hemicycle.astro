@@ -1,0 +1,37 @@
+---
+// Parliament semicircle. The server only emits compact "runs" of seats ([label, color, count], left → right);
+// the SVG (one dot per seat) is drawn in the browser by scripts/hemi.ts. This keeps each page ~20 KB lighter.
+import { meta, type Vote, type Position } from "../lib/data";
+import { POSITION_LABEL } from "../lib/format";
+
+type Run = [string, string, number];
+interface Props { leg: string; vote?: Vote; byParty?: boolean; label?: string; runs?: Run[] }
+const { leg, vote, byParty = false, label } = Astro.props;
+const m = meta();
+const seatsMap = m.legislatures[leg]?.seats ?? {};
+const ORDER: Position[] = ["favor", "abstencao", "contra", "ausente"];
+
+let runs: Run[] = Astro.props.runs ?? [];
+if (!Astro.props.runs) {
+  for (const [party, n] of Object.entries(seatsMap)) {
+    if (byParty || !vote) { runs.push([party, m.parties[party]?.color ?? "#999", n]); continue; }
+    const split = vote.splits?.[party];
+    const counts: Partial<Record<Position, number>> = {};
+    if (split) {
+      let used = 0;
+      for (const [k, c] of Object.entries(split)) if (typeof c === "number") { counts[k as Position] = (counts[k as Position] ?? 0) + c; used += c; }
+      const allNum = Object.values(split).every((c) => typeof c === "number");
+      const rest = (Object.entries(split).find(([, c]) => c == null)?.[0] as Position) ?? vote.positions[party] ?? "ausente";
+      if (n > used) counts[allNum ? "ausente" : rest] = (counts[allNum ? "ausente" : rest] ?? 0) + (n - used);
+    } else counts[vote.positions[party] ?? "ausente"] = n;
+    for (const k of ORDER) if (counts[k]) runs.push([`${party} — ${POSITION_LABEL[k]}`, `var(--${k})`, counts[k]!]);
+  }
+}
+const aria = label ?? (vote ? "Hemiciclo com o sentido de voto de cada grupo parlamentar" : "Composição do Parlamento");
+---
+<figure class="hemi" role="img" aria-label={aria} data-runs={JSON.stringify(runs)}></figure>
+<script src="../scripts/hemi.ts"></script>
+<style>
+  .hemi { margin: 0; width: 100%; aspect-ratio: 2.12 / 1.1; }
+  .hemi :global(svg) { width: 100%; height: 100%; overflow: visible; display: block; }
+</style>

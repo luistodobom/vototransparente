@@ -1,0 +1,31 @@
+---
+import { keyVote, displayTitle, meta, type Initiative } from "../lib/data";
+import { fmtDate, url } from "../lib/format";
+import StatusBadge from "./StatusBadge.astro";
+import VoteBar from "./VoteBar.astro";
+interface Props { ini: Initiative }
+const { ini } = Astro.props;
+const kv = keyVote(ini);
+const m = meta();
+const cat = ini.categories[0];
+---
+<a class="ic card" href={url(`/parlamento/iniciativas/${ini.id}/`)}>
+  <div class="top">
+    <StatusBadge status={ini.status} />
+    <span class="xs muted mono">{fmtDate(kv.date)}</span>
+  </div>
+  <h3>{displayTitle(ini)}</h3>
+  <p class="xs muted ref">{ini.ref} · {ini.authors.label}</p>
+  <div class="bottom">
+    <VoteBar vote={kv} leg={ini.leg} />
+    {cat && <span class="xs muted">{m.categories[cat]?.label}</span>}
+  </div>
+</a>
+<style>
+  .ic { display: flex; flex-direction: column; gap: 8px; padding: 18px; text-decoration: none; transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s; min-height: 100%; }
+  .ic:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: var(--line-strong); }
+  .top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+  h3 { font-size: 1.02rem; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .ref { margin: 0; }
+  .bottom { margin-top: auto; display: grid; gap: 8px; padding-top: 6px; }
+</style>

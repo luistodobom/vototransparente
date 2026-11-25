@@ -1,0 +1,17 @@
+---
+import Base from "../layouts/Base.astro";
+import { url } from "../lib/format";
+---
+<Base title="Página não encontrada" noindex>
+  <section class="container nf">
+    <p class="eyebrow">Erro 404</p>
+    <h1>Esta página não existe.</h1>
+    <p class="muted">Pode ter sido movida, ou o endereço está incorreto.</p>
+    <div class="row"><a class="btn btn-primary" href={url("/")}>Página inicial</a><a class="btn" href={url("/parlamento/votacoes/")}>Pesquisar votações</a></div>
+  </section>
+</Base>
+<style>
+  .nf { padding: 80px 16px; }
+  h1 { font-size: clamp(2rem, 5vw, 3rem); margin: 8px 0 12px; }
+  .row { display: flex; gap: 10px; margin-top: 24px; flex-wrap: wrap; }
+</style>

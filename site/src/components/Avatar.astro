@@ -1,0 +1,19 @@
+---
+// MP photo from the Parliament site, with initials fallback when it fails to load.
+interface Props { id: string; name: string; size?: number; color?: string; photo?: boolean }
+const { id, name, size = 44, color = "var(--accent)", photo = true } = Astro.props;
+const initials = name.split(/\s+/).filter(Boolean).map((w) => w[0]).filter((c) => c === c.toUpperCase()).slice(0, 2).join("");
+import { url } from "../lib/format";
+const src = url(`/img/mp/${id}.webp`);
+---
+<span class="av" style={`--s:${size}px;--c:${color}`} data-initials={initials}>
+  {photo && <img src={src} alt="" width={size} height={size} loading="lazy" decoding="async"
+    onerror="this.remove()" />}
+</span>
+<style>
+  .av { position: relative; flex: none; width: var(--s); height: var(--s); border-radius: 50%; overflow: hidden;
+    background: color-mix(in srgb, var(--c) 18%, var(--bg-sunken)); box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--c) 55%, transparent); }
+  .av::before { content: attr(data-initials); position: absolute; inset: 0; display: grid; place-items: center;
+    font-weight: 700; font-size: calc(var(--s) * 0.36); color: color-mix(in srgb, var(--c) 70%, var(--ink)); }
+  .av img { position: relative; width: 100%; height: 100%; object-fit: cover; object-position: top; }
+</style>

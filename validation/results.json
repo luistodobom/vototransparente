@@ -1,0 +1,1056 @@
+{
+ "old_db": {
+  "source": "old_db",
+  "reference_records": 4526,
+  "matched": 4411,
+  "unmatched": 115,
+  "unmatched_reasons": {
+   "bid_not_found": 115
+  },
+  "match_status": {
+   "exact_date": 4209,
+   "nearest_date": 202
+  },
+  "ambiguous_same_date": 418,
+  "result_compared": 4349,
+  "result_agree": 4206,
+  "result_agree_rate": 0.9671,
+  "result_agree_rate_exact_date": 0.9957,
+  "position_compared": 35375,
+  "position_agree": 30526,
+  "position_agree_rate": 0.8629,
+  "votes_all_positions_agree": 2166,
+  "votes_with_position_diff": 1977,
+  "per_party": {
+   "PS": {
+    "agree": 3857,
+    "compared": 4143,
+    "rate": 0.931
+   },
+   "IL": {
+    "agree": 3382,
+    "compared": 4142,
+    "rate": 0.8165
+   },
+   "PSD": {
+    "agree": 3692,
+    "compared": 4141,
+    "rate": 0.8916
+   },
+   "BE": {
+    "agree": 3554,
+    "compared": 4139,
+    "rate": 0.8587
+   },
+   "PCP": {
+    "agree": 3444,
+    "compared": 4136,
+    "rate": 0.8327
+   },
+   "PAN": {
+    "agree": 3571,
+    "compared": 3990,
+    "rate": 0.895
+   },
+   "CH": {
+    "agree": 3197,
+    "compared": 3943,
+    "rate": 0.8108
+   },
+   "L": {
+    "agree": 2428,
+    "compared": 2578,
+    "rate": 0.9418
+   },
+   "CDS-PP": {
+    "agree": 1991,
+    "compared": 2533,
+    "rate": 0.786
+   },
+   "PEV": {
+    "agree": 1352,
+    "compared": 1537,
+    "rate": 0.8796
+   },
+   "JPP": {
+    "agree": 58,
+    "compared": 93,
+    "rate": 0.6237
+   }
+  },
+  "position_confusion": {
+   "ref=favor ours=abstencao": 1141,
+   "ref=favor ours=contra": 1010,
+   "ref=abstencao ours=favor": 931,
+   "ref=ausente ours=favor": 618,
+   "ref=contra ours=favor": 413,
+   "ref=contra ours=abstencao": 283,
+   "ref=abstencao ours=contra": 205,
+   "ref=ausente ours=contra": 112,
+   "ref=ausente ours=abstencao": 97,
+   "ref=favor ours=ausente": 36,
+   "ref=abstencao ours=ausente": 2,
+   "ref=contra ours=ausente": 1
+  },
+  "missing_party_in_ours": {
+   "L": 257,
+   "CH": 196,
+   "PAN": 152,
+   "PEV": 19,
+   "PCP": 4,
+   "CDS-PP": 2,
+   "PSD": 1,
+   "BE": 1,
+   "IL": 1
+  },
+  "by_group": {
+   "2020": {
+    "ref": 770,
+    "matched": 753,
+    "res_n": 752,
+    "res_ok": 724,
+    "pos_n": 5246,
+    "pos_ok": 4448,
+    "coverage": 0.9779,
+    "result_rate": 0.9628,
+    "pos_rate": 0.8479
+   },
+   "2021": {
+    "ref": 1006,
+    "matched": 977,
+    "res_n": 959,
+    "res_ok": 918,
+    "pos_n": 8407,
+    "pos_ok": 7426,
+    "coverage": 0.9712,
+    "result_rate": 0.9572,
+    "pos_rate": 0.8833
+   },
+   "2022": {
+    "ref": 546,
+    "matched": 530,
+    "res_n": 527,
+    "res_ok": 507,
+    "pos_n": 4180,
+    "pos_ok": 3509,
+    "coverage": 0.9707,
+    "result_rate": 0.962,
+    "pos_rate": 0.8395
+   },
+   "2023": {
+    "ref": 1026,
+    "matched": 1010,
+    "res_n": 993,
+    "res_ok": 967,
+    "pos_n": 7827,
+    "pos_ok": 6770,
+    "coverage": 0.9844,
+    "result_rate": 0.9738,
+    "pos_rate": 0.865
+   },
+   "2024": {
+    "ref": 746,
+    "matched": 728,
+    "res_n": 724,
+    "res_ok": 709,
+    "pos_n": 6288,
+    "pos_ok": 5560,
+    "coverage": 0.9759,
+    "result_rate": 0.9793,
+    "pos_rate": 0.8842
+   },
+   "2025": {
+    "ref": 432,
+    "matched": 413,
+    "res_n": 394,
+    "res_ok": 381,
+    "pos_n": 3427,
+    "pos_ok": 2813,
+    "coverage": 0.956,
+    "result_rate": 0.967,
+    "pos_rate": 0.8208
+   }
+  },
+  "unmatched_root_causes": {
+   "only_procedural_vote_on_date": 107,
+   "only_procedural_votes_other_dates": 1,
+   "no_votes_in_dump": 6,
+   "initiative_not_in_opendata_dump": 1
+  },
+  "nearest_date_root_causes": {
+   "procedural_vote_on_ref_date": 196,
+   "no_vote_on_ref_date_in_dump": 6
+  },
+  "excluded_non_initiative_rows": {
+   "Detalhe-Votos": 409,
+   "Detalhe-Mocao": 10,
+   "DetalheDiplomaAprovado": 20,
+   "DetalheProjetoVoto": 32,
+   "DetalheActividadeParlamentar": 5
+  },
+  "excluded_note": "Rows linking to votos/moções/diplomas (Detalhe-Votos etc.) are not initiatives and are out of scope of initiatives.json",
+  "exact_date_only": {
+   "source": "old_db_exact",
+   "reference_records": 4526,
+   "matched": 4209,
+   "unmatched": 317,
+   "unmatched_reasons": {
+    "not_exact_date": 317
+   },
+   "match_status": {
+    "exact_date": 4209
+   },
+   "ambiguous_same_date": 355,
+   "result_compared": 4147,
+   "result_agree": 4129,
+   "result_agree_rate": 0.9957,
+   "result_agree_rate_exact_date": 0.9957,
+   "position_compared": 33677,
+   "position_agree": 29509,
+   "position_agree_rate": 0.8762,
+   "votes_all_positions_agree": 2137,
+   "votes_with_position_diff": 1809,
+   "per_party": {
+    "PS": {
+     "agree": 3787,
+     "compared": 3946,
+     "rate": 0.9597
+    },
+    "IL": {
+     "agree": 3297,
+     "compared": 3945,
+     "rate": 0.8357
+    },
+    "PSD": {
+     "agree": 3607,
+     "compared": 3944,
+     "rate": 0.9146
+    },
+    "BE": {
+     "agree": 3390,
+     "compared": 3942,
+     "rate": 0.86
+    },
+    "PCP": {
+     "agree": 3292,
+     "compared": 3939,
+     "rate": 0.8357
+    },
+    "PAN": {
+     "agree": 3424,
+     "compared": 3798,
+     "rate": 0.9015
+    },
+    "CH": {
+     "agree": 3103,
+     "compared": 3754,
+     "rate": 0.8266
+    },
+    "L": {
+     "agree": 2345,
+     "compared": 2481,
+     "rate": 0.9452
+    },
+    "CDS-PP": {
+     "agree": 1937,
+     "compared": 2399,
+     "rate": 0.8074
+    },
+    "PEV": {
+     "agree": 1270,
+     "compared": 1437,
+     "rate": 0.8838
+    },
+    "JPP": {
+     "agree": 57,
+     "compared": 92,
+     "rate": 0.6196
+    }
+   },
+   "position_confusion": {
+    "ref=favor ours=abstencao": 934,
+    "ref=abstencao ours=favor": 928,
+    "ref=favor ours=contra": 634,
+    "ref=ausente ours=favor": 587,
+    "ref=contra ours=favor": 381,
+    "ref=contra ours=abstencao": 273,
+    "ref=abstencao ours=contra": 204,
+    "ref=ausente ours=contra": 104,
+    "ref=ausente ours=abstencao": 90,
+    "ref=favor ours=ausente": 30,
+    "ref=abstencao ours=ausente": 2,
+    "ref=contra ours=ausente": 1
+   },
+   "missing_party_in_ours": {
+    "L": 204,
+    "CH": 188,
+    "PAN": 147,
+    "PEV": 19,
+    "PCP": 4,
+    "CDS-PP": 2,
+    "PSD": 1,
+    "BE": 1,
+    "IL": 1
+   },
+   "by_group": {
+    "2020": {
+     "ref": 770,
+     "matched": 703,
+     "res_n": 702,
+     "res_ok": 702,
+     "pos_n": 4810,
+     "pos_ok": 4166,
+     "coverage": 0.913,
+     "result_rate": 1.0,
+     "pos_rate": 0.8661
+    },
+    "2021": {
+     "ref": 1006,
+     "matched": 922,
+     "res_n": 904,
+     "res_ok": 894,
+     "pos_n": 7951,
+     "pos_ok": 7157,
+     "coverage": 0.9165,
+     "result_rate": 0.9889,
+     "pos_rate": 0.9001
+    },
+    "2022": {
+     "ref": 546,
+     "matched": 501,
+     "res_n": 498,
+     "res_ok": 496,
+     "pos_n": 3949,
+     "pos_ok": 3381,
+     "coverage": 0.9176,
+     "result_rate": 0.996,
+     "pos_rate": 0.8562
+    },
+    "2023": {
+     "ref": 1026,
+     "matched": 976,
+     "res_n": 959,
+     "res_ok": 956,
+     "pos_n": 7559,
+     "pos_ok": 6589,
+     "coverage": 0.9513,
+     "result_rate": 0.9969,
+     "pos_rate": 0.8717
+    },
+    "2024": {
+     "ref": 746,
+     "matched": 709,
+     "res_n": 705,
+     "res_ok": 703,
+     "pos_n": 6117,
+     "pos_ok": 5467,
+     "coverage": 0.9504,
+     "result_rate": 0.9972,
+     "pos_rate": 0.8937
+    },
+    "2025": {
+     "ref": 432,
+     "matched": 398,
+     "res_n": 379,
+     "res_ok": 378,
+     "pos_n": 3291,
+     "pos_ok": 2749,
+     "coverage": 0.9213,
+     "result_rate": 0.9974,
+     "pos_rate": 0.8353
+    }
+   }
+  },
+  "reverse_coverage_by_year": {
+   "2020": {
+    "found_in_ref": 1477,
+    "ours": 1896,
+    "rate": 0.779
+   },
+   "2021": {
+    "found_in_ref": 1297,
+    "ours": 2101,
+    "rate": 0.6173
+   },
+   "2022": {
+    "found_in_ref": 617,
+    "ours": 684,
+    "rate": 0.902
+   },
+   "2023": {
+    "found_in_ref": 1156,
+    "ours": 1479,
+    "rate": 0.7816
+   },
+   "2024": {
+    "found_in_ref": 748,
+    "ours": 919,
+    "rate": 0.8139
+   },
+   "2025": {
+    "found_in_ref": 433,
+    "ours": 850,
+    "rate": 0.5094
+   }
+  },
+  "date_range": [
+   "2020-01-10",
+   "2025-07-16"
+  ],
+  "arbitration_by_maisliberdade": {
+   "result_disagreements": {
+    "no_third_source": 8,
+    "ml_agrees_with_ours": 10
+   },
+   "position_disagreements": {
+    "ml_agrees_with_ours": 2394,
+    "no_third_source": 1768,
+    "neither": 6
+   }
+  }
+ },
+ "maisliberdade": {
+  "source": "maisliberdade",
+  "reference_records": 3507,
+  "matched": 3506,
+  "unmatched": 1,
+  "unmatched_reasons": {
+   "bid_not_found": 1
+  },
+  "match_status": {
+   "exact_date": 3501,
+   "nearest_date": 5
+  },
+  "ambiguous_same_date": 26,
+  "result_compared": 3506,
+  "result_agree": 3506,
+  "result_agree_rate": 1.0,
+  "result_agree_rate_exact_date": 1.0,
+  "position_compared": 26979,
+  "position_agree": 26977,
+  "position_agree_rate": 0.9999,
+  "votes_all_positions_agree": 3499,
+  "votes_with_position_diff": 2,
+  "per_party": {
+   "PS": {
+    "agree": 3500,
+    "compared": 3501,
+    "rate": 0.9997
+   },
+   "BE": {
+    "agree": 3500,
+    "compared": 3500,
+    "rate": 1.0
+   },
+   "PCP": {
+    "agree": 3500,
+    "compared": 3500,
+    "rate": 1.0
+   },
+   "PSD": {
+    "agree": 3497,
+    "compared": 3497,
+    "rate": 1.0
+   },
+   "IL": {
+    "agree": 3495,
+    "compared": 3495,
+    "rate": 1.0
+   },
+   "PAN": {
+    "agree": 3406,
+    "compared": 3406,
+    "rate": 1.0
+   },
+   "CH": {
+    "agree": 3324,
+    "compared": 3325,
+    "rate": 0.9997
+   },
+   "L": {
+    "agree": 2054,
+    "compared": 2054,
+    "rate": 1.0
+   },
+   "CDS-PP": {
+    "agree": 701,
+    "compared": 701,
+    "rate": 1.0
+   }
+  },
+  "position_confusion": {
+   "ref=abstencao ours=favor": 1,
+   "ref=contra ours=abstencao": 1
+  },
+  "missing_party_in_ours": {
+   "L": 139
+  },
+  "by_group": {
+   "XIV": {
+    "ref": 1523,
+    "matched": 1523,
+    "res_n": 1523,
+    "res_ok": 1523,
+    "pos_n": 10555,
+    "pos_ok": 10554,
+    "coverage": 1.0,
+    "result_rate": 1.0,
+    "pos_rate": 0.9999
+   },
+   "XV": {
+    "ref": 1282,
+    "matched": 1282,
+    "res_n": 1282,
+    "res_ok": 1282,
+    "pos_n": 10148,
+    "pos_ok": 10148,
+    "coverage": 1.0,
+    "result_rate": 1.0,
+    "pos_rate": 1.0
+   },
+   "XVI": {
+    "ref": 702,
+    "matched": 701,
+    "res_n": 701,
+    "res_ok": 701,
+    "pos_n": 6276,
+    "pos_ok": 6275,
+    "coverage": 0.9986,
+    "result_rate": 1.0,
+    "pos_rate": 0.9998
+   }
+  },
+  "unmatched_root_causes": {
+   "no_votes_in_dump": 1
+  },
+  "unmatched_by_leg_session": {
+   "XVI": 1
+  },
+  "rows_without_bid": 0,
+  "matched_phase": {
+   "generalidade": 3505,
+   "especialidade": 1
+  },
+  "exact_date_only": {
+   "source": "maisliberdade_exact",
+   "reference_records": 3507,
+   "matched": 3501,
+   "unmatched": 6,
+   "unmatched_reasons": {
+    "not_exact_date": 6
+   },
+   "match_status": {
+    "exact_date": 3501
+   },
+   "ambiguous_same_date": 25,
+   "result_compared": 3501,
+   "result_agree": 3501,
+   "result_agree_rate": 1.0,
+   "result_agree_rate_exact_date": 1.0,
+   "position_compared": 26943,
+   "position_agree": 26942,
+   "position_agree_rate": 1.0,
+   "votes_all_positions_agree": 3495,
+   "votes_with_position_diff": 1,
+   "per_party": {
+    "PS": {
+     "agree": 3496,
+     "compared": 3496,
+     "rate": 1.0
+    },
+    "BE": {
+     "agree": 3495,
+     "compared": 3495,
+     "rate": 1.0
+    },
+    "PCP": {
+     "agree": 3495,
+     "compared": 3495,
+     "rate": 1.0
+    },
+    "PSD": {
+     "agree": 3492,
+     "compared": 3492,
+     "rate": 1.0
+    },
+    "IL": {
+     "agree": 3490,
+     "compared": 3490,
+     "rate": 1.0
+    },
+    "PAN": {
+     "agree": 3401,
+     "compared": 3401,
+     "rate": 1.0
+    },
+    "CH": {
+     "agree": 3319,
+     "compared": 3320,
+     "rate": 0.9997
+    },
+    "L": {
+     "agree": 2053,
+     "compared": 2053,
+     "rate": 1.0
+    },
+    "CDS-PP": {
+     "agree": 701,
+     "compared": 701,
+     "rate": 1.0
+    }
+   },
+   "position_confusion": {
+    "ref=contra ours=abstencao": 1
+   },
+   "missing_party_in_ours": {
+    "L": 139
+   },
+   "by_group": {
+    "XIV": {
+     "ref": 1523,
+     "matched": 1519,
+     "res_n": 1519,
+     "res_ok": 1519,
+     "pos_n": 10527,
+     "pos_ok": 10527,
+     "coverage": 0.9974,
+     "result_rate": 1.0,
+     "pos_rate": 1.0
+    },
+    "XV": {
+     "ref": 1282,
+     "matched": 1281,
+     "res_n": 1281,
+     "res_ok": 1281,
+     "pos_n": 10140,
+     "pos_ok": 10140,
+     "coverage": 0.9992,
+     "result_rate": 1.0,
+     "pos_rate": 1.0
+    },
+    "XVI": {
+     "ref": 702,
+     "matched": 701,
+     "res_n": 701,
+     "res_ok": 701,
+     "pos_n": 6276,
+     "pos_ok": 6275,
+     "coverage": 0.9986,
+     "result_rate": 1.0,
+     "pos_rate": 0.9998
+    }
+   }
+  },
+  "reverse_coverage_by_leg": {
+   "XIV": {
+    "date_range": [
+     "2019-11-15",
+     "2023-03-03"
+    ],
+    "found_in_ref": 1521,
+    "ours": 2058,
+    "rate": 0.7391
+   },
+   "XV": {
+    "date_range": [
+     "2022-04-22",
+     "2024-01-11"
+    ],
+    "found_in_ref": 1283,
+    "ours": 1638,
+    "rate": 0.7833
+   },
+   "XVI": {
+    "date_range": [
+     "2024-04-24",
+     "2025-03-14"
+    ],
+    "found_in_ref": 701,
+    "ours": 970,
+    "rate": 0.7227
+   }
+  }
+ },
+ "manual_checks": {
+  "n": 32,
+  "verdicts": {
+   "ours": 25,
+   "both describe a real vote": 1,
+   "old row is the procedural avocação": 2,
+   "ours faithful to source": 1,
+   "ours (BE)": 1,
+   "reference right": 1,
+   "upstream data error": 1
+  },
+  "causes": {
+   "old_db_llm_error": 12,
+   "old_db_llm_error (all-favor default)": 1,
+   "procedural_vote_vs_substantive / split by points": 1,
+   "procedural_vote_vs_substantive": 3,
+   "old_db_llm_error (amendment conflated)": 1,
+   "old_db_llm_error (column shift)": 3,
+   "old_db_llm_error (adjacent swap)": 1,
+   "procedural_vote_vs_substantive / old_db_llm_error": 1,
+   "old_db_llm_error / many votes same day": 1,
+   "party_absent_not_listed_in_source": 1,
+   "party_absent_not_listed_in_source + old_db_llm_error": 2,
+   "old_db_llm_error + party_absent_not_listed_in_source": 1,
+   "reference_error": 2,
+   "missing_from_opendata_dump": 1,
+   "source_inconsistency": 1
+  },
+  "checks": [
+   {
+    "bid": "45698",
+    "date": "2021-06-09",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; PS favor, PSD abst, CDS favor, IL favor",
+    "ours": "Rejeitado; PS/PSD/CDS-PP/IL contra, BE/PCP/PAN/PEV/CH favor",
+    "official": "Rejeitado; Contra PS, PSD, CDS-PP, IL; Favor BE, PCP, PAN, PEV, CH",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "121137",
+    "date": "2021-11-19",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; PS abst, PSD favor, CH ausente",
+    "ours": "Rejeitado; PS/IL contra, PSD/CDS-PP abst",
+    "official": "Rejeitado; Contra PS, IL; Abst PSD, CDS-PP; Favor BE, PCP, PAN, PEV",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "121382",
+    "date": "2022-04-29",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; PSD contra, BE favor",
+    "ours": "Rejeitado; PSD favor, BE contra",
+    "official": "Rejeitado; Contra PS, BE, PAN, L; Favor PSD, CH, IL, PCP",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "120921",
+    "date": "2021-11-19",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; almost all favor",
+    "ours": "Rejeitado; PS/BE/PAN contra, CH ausente",
+    "official": "Rejeitado; Contra PS, BE, PAN; Abst PCP, PEV, IL; Ausência CH; Favor PSD, CDS-PP",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "110622",
+    "date": "2021-04-15",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado",
+    "ours": "Rejeitado",
+    "official": "Rejeitado; Contra PS, BE, PCP, PAN, PEV; Abst PSD; Favor CDS-PP, CH, IL",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "110347",
+    "date": "2021-03-25",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; no party detail",
+    "ours": "Rejeitado",
+    "official": "Rejeitado; Contra PS, PSD, CDS-PP, CH; Abst IL",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "121425",
+    "date": "2022-04-22",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; all favor",
+    "ours": "Rejeitado",
+    "official": "Rejeitado; Contra PSD, CH, IL; Abst PS; Favor PCP, BE, PAN, L",
+    "verdict": "ours",
+    "cause": "old_db_llm_error (all-favor default)"
+   },
+   {
+    "bid": "172890",
+    "date": "2023-05-18",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; all favor",
+    "ours": "Rejeitado (Ponto 2)",
+    "official": "3 votes that day: a unanimous Requerimento (Aprovado), Ponto 1 Rejeitado, Ponto 2 Rejeitado",
+    "verdict": "ours; old row describes the procedural requerimento",
+    "cause": "procedural_vote_vs_substantive / split by points"
+   },
+   {
+    "bid": "172991",
+    "date": "2023-07-19",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; all favor",
+    "ours": "Rejeitado (especialidade, PS contra)",
+    "official": "Requerimento de avocação Aprovado por unanimidade + especialidade articles Rejeitado (Contra PS)",
+    "verdict": "both describe a real vote; old row is the procedural avocação",
+    "cause": "procedural_vote_vs_substantive"
+   },
+   {
+    "bid": "172848",
+    "date": "2024-01-11",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado; all favor",
+    "ours": "Rejeitado (especialidade art. 1.º, PS contra)",
+    "official": "Requerimento de avocação Aprovado por unanimidade; articles Rejeitado (Contra PS)",
+    "verdict": "old row is the procedural avocação",
+    "cause": "procedural_vote_vs_substantive"
+   },
+   {
+    "bid": "121218",
+    "date": "2021-11-26",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Aprovado",
+    "ours": "Rejeitado (one of 14 especialidade votes)",
+    "official": "Requerimento de avocação (PAN) Aprovado; all especialidade articles Rejeitado",
+    "verdict": "old row is the procedural avocação",
+    "cause": "procedural_vote_vs_substantive"
+   },
+   {
+    "bid": "315256",
+    "date": "2025-07-11",
+    "source": "old_db",
+    "issue": "result",
+    "old": "Rejeitado; PSD contra, PS/L/PCP/BE favor",
+    "ours": "Aprovado; PSD/CH/IL/CDS favor, PS/L/PCP/BE contra",
+    "official": "PS amendment Rejeitado; the resolution itself Aprovado (Favor PSD, CH, IL, CDS-PP; Contra PS, L, PCP, BE; Abst PAN, JPP)",
+    "verdict": "ours; old row mixes amendment vote and main vote",
+    "cause": "old_db_llm_error (amendment conflated)"
+   },
+   {
+    "bid": "45465",
+    "date": "2021-03-25",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PAN contra",
+    "ours": "PAN abstencao",
+    "official": "Abst PAN",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "45256",
+    "date": "2021-10-15",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "BE ausente, CDS favor, PAN abst",
+    "ours": "BE favor, CDS abst, PAN favor",
+    "official": "Favor PS, BE, PCP, PAN, PEV; Abst PSD, CDS-PP, CH, IL",
+    "verdict": "ours",
+    "cause": "old_db_llm_error (column shift)"
+   },
+   {
+    "bid": "121356",
+    "date": "2022-06-17",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PSD ausente, PCP favor, BE abst",
+    "ours": "PSD favor, PCP abst, BE favor",
+    "official": "Contra PS; Abst PCP; Favor PSD, CH, IL, BE, PAN, L",
+    "verdict": "ours",
+    "cause": "old_db_llm_error (column shift)"
+   },
+   {
+    "bid": "45375",
+    "date": "2020-10-28",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PAN favor, CH favor, IL abst",
+    "ours": "PAN contra, CH abst, IL favor",
+    "official": "Contra PS, PAN; Abst CH; Favor PSD, BE, PCP, CDS-PP, PEV, IL",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "141830",
+    "date": "2023-02-17",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PCP ausente, PAN contra",
+    "ours": "PCP contra, PAN abst",
+    "official": "Contra PCP, BE; Abst CH, IL, PAN, L; Favor PS, PSD",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "223213",
+    "date": "2023-09-06",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PCP abst, BE contra",
+    "ours": "PCP contra, BE favor",
+    "official": "Contra PCP; Favor PS, PSD, CH, IL, BE, PAN, L",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "283996",
+    "date": "2024-09-27",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "CH abst, IL contra",
+    "ours": "CH contra, IL abst",
+    "official": "Contra CH; Abst PSD, PS, IL, CDS-PP",
+    "verdict": "ours",
+    "cause": "old_db_llm_error (adjacent swap)"
+   },
+   {
+    "bid": "315308",
+    "date": "2025-07-16",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "IL favor, PCP favor, BE abst, PAN abst, JPP ausente",
+    "ours": "IL abst, PCP abst, BE favor, PAN favor, JPP favor",
+    "official": "Contra PSD, CH, CDS-PP; Abst IL, PCP; Favor PS, L, BE, PAN, JPP",
+    "verdict": "ours",
+    "cause": "old_db_llm_error (column shift)"
+   },
+   {
+    "bid": "315109",
+    "date": "2025-06-27",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PSD contra, IL contra, L favor",
+    "ours": "PSD favor, IL favor, L abst",
+    "official": "Favor PSD, CH, PS, IL, CDS-PP, BE, PAN, JPP; Abst L, PCP",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "152743",
+    "date": "2023-12-21",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "IL ausente",
+    "ours": "IL favor",
+    "official": "Texto final: Contra PSD, CH; Favor PS, IL, PCP, BE, PAN, L",
+    "verdict": "ours",
+    "cause": "old_db_llm_error"
+   },
+   {
+    "bid": "263800",
+    "date": "2024-06-12",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "CH/BE/PCP/L favor",
+    "ours": "CH abst, BE/PCP/L contra",
+    "official": "Contra BE, PCP, L; Abst CH; Favor PSD, PS, IL, CDS-PP, PAN (x3) + unanimous requerimento",
+    "verdict": "ours; old row likely mixes the unanimous requerimento",
+    "cause": "procedural_vote_vs_substantive / old_db_llm_error"
+   },
+   {
+    "bid": "121569",
+    "date": "2024-01-05",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PSD contra, CH favor, IL contra, PCP favor",
+    "ours": "PSD favor, CH contra, IL favor, PCP contra",
+    "official": "15 votes that day (generalidade, texto de substituição, ~12 amendments); generalidade: Contra CH, PCP, BE; Abst PS; Favor PSD, IL, PAN, L",
+    "verdict": "ours; old row unrelated to any single listed vote",
+    "cause": "old_db_llm_error / many votes same day"
+   },
+   {
+    "bid": "110515",
+    "date": "2021-05-28",
+    "source": "old_db",
+    "issue": "missing_party",
+    "old": "CH favor",
+    "ours": "CH not listed",
+    "official": "CH not listed (Contra CDS-PP; Abst IL; Favor PS, PSD, BE, PCP, PAN, PEV, ...)",
+    "verdict": "ours faithful to source; old DB invented CH",
+    "cause": "party_absent_not_listed_in_source"
+   },
+   {
+    "bid": "131700",
+    "date": "2022-07-21",
+    "source": "old_db",
+    "issue": "missing_party",
+    "old": "CH ausente, BE abst",
+    "ours": "CH not listed, BE favor",
+    "official": "Contra PS, PSD; Abst IL, PCP; Favor BE, PAN, L (CH not listed)",
+    "verdict": "ours (BE); CH absent implicitly",
+    "cause": "party_absent_not_listed_in_source + old_db_llm_error"
+   },
+   {
+    "bid": "173036",
+    "date": "2023-10-13",
+    "source": "old_db",
+    "issue": "missing_party",
+    "old": "PCP favor, PAN contra",
+    "ours": "PCP contra, PAN not listed",
+    "official": "Contra PS, PCP, BE; Abst L; Favor PSD, CH, IL (PAN not listed)",
+    "verdict": "ours",
+    "cause": "party_absent_not_listed_in_source + old_db_llm_error"
+   },
+   {
+    "bid": "173142",
+    "date": "2023-11-30",
+    "source": "old_db",
+    "issue": "positions",
+    "old": "PCP ausente, BE abst, PAN favor",
+    "ours": "PCP abst, BE favor, PAN not listed",
+    "official": "Contra PS; Abst PSD, PCP, L; Favor CH, IL, BE",
+    "verdict": "ours",
+    "cause": "old_db_llm_error + party_absent_not_listed_in_source"
+   },
+   {
+    "bid": "314645",
+    "date": "2025-02-14",
+    "source": "maisliberdade",
+    "issue": "positions",
+    "ml": "CH Contra",
+    "ours": "CH abstencao",
+    "official": "Contra PSD, IL, CDS-PP; Abst PS, CH; Favor BE, PCP, L, PAN",
+    "verdict": "ours",
+    "cause": "reference_error"
+   },
+   {
+    "bid": "284038",
+    "date": "2024-09-27",
+    "source": "maisliberdade",
+    "issue": "unmatched",
+    "ml": "Rejeitado; IL (author) contra; row flagged by ML itself '[Confirmar votação no link]'",
+    "ours": "no vote (dump shows only Entrada/Admissão/Baixa comissão)",
+    "official": "no vote on page",
+    "verdict": "ours",
+    "cause": "reference_error"
+   },
+   {
+    "bid": "44182",
+    "date": "2019-12-12",
+    "source": "maisliberdade",
+    "issue": "unmatched",
+    "ml": "Aprovado",
+    "ours": "initiative absent",
+    "official": "Aprovado; Favor BE, PCP, CDS-PP, PAN, PEV, L; Abst PS, PSD, CH, IL",
+    "verdict": "reference right; open-data dump lacks XIV 1st session",
+    "cause": "missing_from_opendata_dump"
+   },
+   {
+    "bid": "315003",
+    "date": "2025-03-14",
+    "source": "opendata",
+    "issue": "source_inconsistency",
+    "official": "IL listed both in 'A Favor' and 'Abstenção'",
+    "ours": "IL favor (first listed), flagged as split",
+    "verdict": "upstream data error; reproduced on official page",
+    "cause": "source_inconsistency"
+   }
+  ]
+ }
+}

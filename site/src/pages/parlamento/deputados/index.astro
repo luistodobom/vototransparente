@@ -1,0 +1,116 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { deputies, meta, LEG_ORDER } from "../../../lib/data";
+import { url, pct, fmtNum } from "../../../lib/format";
+const m = meta();
+const deps = Object.values(deputies());
+const legs = LEG_ORDER.filter((l) => deps.some((d) => d.legs[l]));
+const current = legs[0];
+const items = deps.map((d) => {
+  const ls = LEG_ORDER.filter((l) => d.legs[l]);
+  const L = d.legs[ls[0]];
+  const v = ls.reduce((a, l) => a + d.legs[l].F + d.legs[l].C + d.legs[l].A, 0);
+  const known = ls.reduce((a, l) => a + (d.legs[l].known ?? 0), 0);
+  const absV = ls.reduce((a, l) => a + (d.legs[l].absentVotes ?? 0), 0);
+  const part = known ? Math.round(100 * (1 - absV / known)) : 100;
+  const dis = ls.reduce((a, l) => a + d.legs[l].dissent.length, 0);
+  const inNow = !!d.legs[current]?.inOffice.some((p) => !p.to);
+  return { d, ls, party: L.party, circle: L.circle ?? "", v, part, dis, inNow };
+}).sort((a, b) => a.d.name.localeCompare(b.d.name, "pt"));
+const parties = [...new Set(items.map((i) => i.party))].sort();
+const circles = [...new Set(items.map((i) => i.circle).filter(Boolean))].sort((a, b) => a.localeCompare(b, "pt"));
+const initials = (n: string) => n.split(/\s+/).filter((w) => w && w[0] === w[0].toUpperCase()).slice(0, 2).map((w) => w[0]).join("");
+---
+<Base title="Deputados" active="deputados" description="O registo de votações de cada deputado da Assembleia da República desde 2019: como votou, quantas vezes votou contra o seu partido e a sua participação.">
+  <section class="head">
+    <div class="container">
+      <p class="eyebrow">Assembleia da República</p>
+      <h1>Deputados</h1>
+      <p class="lead muted">O registo de votações de {fmtNum(items.length)} deputados desde 2019. Veja como votou cada um e quando votou contra o seu próprio partido.</p>
+      <div class="filters card">
+        <input id="q" type="search" placeholder="Procurar por nome…" aria-label="Procurar por nome" />
+        <select id="leg" aria-label="Legislatura">
+          <option value="now">Em funções atualmente</option>
+          {legs.map((l) => <option value={l}>{m.legislatures[l]?.label ?? l}</option>)}
+          <option value="">Todas as legislaturas</option>
+        </select>
+        <select id="party" aria-label="Partido"><option value="">Todos os partidos</option>{parties.map((p) => <option value={p}>{m.parties[p]?.name ?? (p === "Ninsc" ? "Não inscritos" : p)}</option>)}</select>
+        <select id="circle" aria-label="Círculo eleitoral"><option value="">Todos os círculos</option>{circles.map((c) => <option>{c}</option>)}</select>
+        <select id="sort" aria-label="Ordenar"><option value="name">Nome</option><option value="dis">Mais votos contra o partido</option><option value="part">Menor participação</option></select>
+      </div>
+    </div>
+  </section>
+  <div class="container">
+    <p id="count" class="small muted"></p>
+    <ul class="grid" id="list">
+      {items.map((i) => {
+        const col = m.parties[i.party]?.color ?? "#888";
+        return (
+          <li data-name={i.d.name.toLowerCase().normalize("NFD").replace(/\p{M}/gu, "")} data-legs={i.ls.join(" ")} data-now={i.inNow ? "1" : ""}
+            data-party={i.party} data-circle={i.circle} data-dis={i.dis} data-part={i.part}>
+            <a class="dep card" href={url(`/parlamento/deputados/${i.d.id}/`)}>
+              <span class="av" style={`background:color-mix(in srgb, ${col} 20%, var(--bg-sunken));color:${col};box-shadow:inset 0 0 0 2px ${col}`}>
+                {initials(i.d.name)}
+                {i.d.photo && <img src={url(`/img/mp/${i.d.id}.webp`)} alt="" loading="lazy" decoding="async" onerror="this.remove()" />}
+              </span>
+              <span class="info">
+                <b>{i.d.name}</b>
+                <span class="xs muted"><i class="dot" style={`background:${col}`} /> {i.party}{i.circle ? ` · ${i.circle}` : ""}</span>
+                <span class="xs stat">{fmtNum(i.v)} votos · {i.part}% participação{i.dis > 0 && <> · <b>{i.dis}</b> contra o partido</>}</span>
+              </span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+  <script>
+    const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+    const list = $<HTMLUListElement>("list");
+    const items = [...list.children] as HTMLLIElement[];
+    const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/\p{M}/gu, "");
+    function apply() {
+      const q = norm($<HTMLInputElement>("q").value.trim());
+      const leg = $<HTMLSelectElement>("leg").value, party = $<HTMLSelectElement>("party").value, circle = $<HTMLSelectElement>("circle").value;
+      const sort = $<HTMLSelectElement>("sort").value;
+      let n = 0;
+      for (const li of items) {
+        const d = li.dataset;
+        const ok = (!q || d.name!.includes(q)) && (!party || d.party === party) && (!circle || d.circle === circle) &&
+          (leg === "now" ? d.now === "1" : !leg || d.legs!.split(" ").includes(leg));
+        li.hidden = !ok;
+        n += +ok;
+      }
+      const sorted = [...items].sort((a, b) =>
+        sort === "dis" ? +b.dataset.dis! - +a.dataset.dis! :
+        sort === "part" ? +a.dataset.part! - +b.dataset.part! :
+        a.dataset.name!.localeCompare(b.dataset.name!, "pt"));
+      list.append(...sorted);
+      $("count").textContent = `${n} ${n === 1 ? "deputado" : "deputados"}`;
+      const p = new URLSearchParams();
+      for (const id of ["q", "leg", "party", "circle", "sort"]) { const v = ($(id) as HTMLInputElement).value; if (v && !(id === "leg" && v === "now") && !(id === "sort" && v === "name")) p.set(id, v); }
+      history.replaceState(null, "", p.toString() ? `?${p}` : location.pathname);
+    }
+    const init = new URLSearchParams(location.search);
+    for (const id of ["q", "leg", "party", "circle", "sort"]) if (init.has(id)) ($(id) as HTMLInputElement).value = init.get(id)!;
+    for (const id of ["q", "leg", "party", "circle", "sort"]) $(id).addEventListener("input", apply);
+    apply();
+  </script>
+</Base>
+<style>
+  .head { padding: 36px 0 22px; }
+  h1 { font-size: clamp(2rem, 4.4vw, 3rem); }
+  .lead { margin: 8px 0 22px; max-width: 62ch; }
+  .filters { display: grid; gap: 8px; padding: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); }
+  .filters input, .filters select { width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-elev); font-size: 0.9rem; }
+  .grid { list-style: none; margin: 12px 0 0; padding: 0; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 10px; }
+  .grid li[hidden] { display: none; }
+  .dep { display: flex; gap: 12px; align-items: center; padding: 12px 14px; text-decoration: none; transition: border-color 0.15s, transform 0.15s; height: 100%; }
+  .dep:hover { border-color: var(--line-strong); transform: translateY(-1px); }
+  .av { position: relative; width: 52px; height: 52px; flex: none; border-radius: 50%; overflow: hidden; display: grid; place-items: center; font-weight: 700; }
+  .av img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: top; }
+  .info { display: grid; gap: 1px; min-width: 0; }
+  .info b { font-size: 0.95rem; }
+  .info .dot { width: 7px; height: 7px; }
+  .stat { color: var(--ink-2); }
+</style>

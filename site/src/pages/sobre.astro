@@ -1,0 +1,109 @@
+---
+import Base from "../layouts/Base.astro";
+import { meta } from "../lib/data";
+import { fmtNum, fmtDate } from "../lib/format";
+const m = meta();
+const files = m.sources?.files ?? [];
+const mb = (b: number) => (b / 1e6).toLocaleString("pt-PT", { maximumFractionDigits: 1 }) + " MB";
+---
+<Base title="Sobre e metodologia" active="sobre">
+  <div class="container wrap">
+    <p class="eyebrow">Sobre</p>
+    <h1>Transparência sobre o que se decide em nosso nome.</h1>
+    <p class="lead">O VotoTransparente reúne todas as iniciativas votadas em plenário na Assembleia da República e explica-as em linguagem acessível — o que propõem, quem as apresentou e como votou cada partido.</p>
+
+    <div class="grid cards">
+      <div class="card card-pad"><b class="display">{fmtNum(m.stats.initiatives)}</b><span>iniciativas</span></div>
+      <div class="card card-pad"><b class="display">{fmtNum(m.stats.votes)}</b><span>votações</span></div>
+      <div class="card card-pad"><b class="display">{fmtDate(m.generated)}</b><span>última votação incluída</span></div>
+    </div>
+
+    <section>
+      <h2>De onde vêm os dados</h2>
+      <div class="prose">
+        <p>As votações vêm dos <a href="https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx" rel="noopener">dados abertos oficiais da Assembleia da República</a>, que registam cada iniciativa, o seu percurso e o resultado de cada votação, com o sentido de voto de cada grupo parlamentar e dos deputados que votaram de forma diferente do seu grupo.</p>
+        <p>Incluímos as votações substantivas (generalidade, especialidade, votação final global e votações de projetos de resolução e deliberação). Requerimentos processuais não são incluídos.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Como lemos as votações</h2>
+      <div class="prose">
+        <ul>
+          <li><b>Resultado de uma iniciativa.</b> Usamos a votação mais decisiva: a votação final global quando existe; caso contrário, a votação na generalidade. Um projeto de lei aprovado na generalidade mas ainda sem votação final aparece como “Aprovada na generalidade”.</li>
+          <li><b>Hemiciclo e contagens.</b> O sentido de voto oficial é registado por grupo parlamentar. A distribuição de deputados é estimada a partir do número de lugares obtidos por cada partido nas eleições; quando o Parlamento indica votos divididos dentro de um grupo, esses números são usados.</li>
+          <li><b>Votações por unanimidade</b> sem detalhe por partido são atribuídas a todos os grupos presentes nessa altura.</li>
+          <li><b>Concordância entre partidos</b> é a percentagem de votações decisivas em que dois partidos votaram no mesmo sentido.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="deputados">
+      <h2>Como sabemos como votou cada deputado</h2>
+      <div class="prose">
+        <p>No Parlamento português as votações em plenário são, em regra, feitas por levantados e sentados, por bancada. O registo oficial de cada votação indica o sentido de voto de cada <b>grupo parlamentar</b> e <b>identifica pelo nome</b> os deputados que votaram de forma diferente do seu grupo.</p>
+        <ul>
+          <li><b>Deputados identificados no registo</b> — usamos o voto registado (exato).</li>
+          <li><b>Faltas registadas</b> — quando o <a href="https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx" rel="noopener">registo oficial de presenças</a> da reunião plenária indica que o deputado faltou (falta justificada, injustificada ou ausência em missão parlamentar), contamos como “não votou” e mostramos o motivo registado. O registo de presenças é por reunião, não por votação: um deputado presente na reunião que se tenha ausentado apenas no momento da votação não é detetável.</li>
+          <li><b>Restantes deputados</b> — contamos com a posição oficial do seu grupo parlamentar, que é a forma como o próprio Parlamento regista a votação.</li>
+          <li><b>Quem estava em funções</b> — usamos os mandatos oficiais (incluindo substituições temporárias) para saber, em cada data, que 230 deputados ocupavam os lugares e por que partido.</li>
+        </ul>
+        <p>Quando o registo indica um número de votos divergentes sem identificar os deputados (por exemplo “6 deputados do PS votaram contra”), a página da votação assinala que alguns votos individuais são estimados.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Resumos com Inteligência Artificial</h2>
+      <div class="prose">
+        <p>Os resumos, a explicação em linguagem simples, a análise crítica, o impacto orçamental e os temas são gerados por um modelo de linguagem (Google Gemini) que lê o texto integral oficial de cada iniciativa. O modelo é instruído a ser neutro, a não inventar números e a basear-se apenas no documento.</p>
+        <p>Mesmo assim, <b>podem existir erros</b>. Cada página tem ligação ao documento original no site do Parlamento — em caso de dúvida, prevalece sempre o texto oficial.</p>
+      </div>
+    </section>
+
+    <section id="ficheiros">
+      <h2>Ficheiros de origem</h2>
+      <div class="prose"><p>O site é reconstruído automaticamente a partir destes ficheiros oficiais. A impressão digital (SHA-256) permite a qualquer pessoa confirmar que os dados publicados correspondem aos ficheiros descarregados do Parlamento.</p></div>
+      {files.length > 0 && (
+        <div class="tbl-wrap">
+          <table class="tbl">
+            <thead><tr><th>Ficheiro</th><th>Obtido em</th><th class="num">Tamanho</th><th>SHA-256</th></tr></thead>
+            <tbody>
+              {files.map((f) => (
+                <tr>
+                  <td><a href={f.page} rel="noopener" target="_blank">{f.label}</a><br /><span class="xs muted mono">{f.file}</span></td>
+                  <td class="mono small">{f.retrieved.replace("T", " ").replace("Z", " UTC")}</td>
+                  <td class="num small">{mb(f.bytes)}</td>
+                  <td class="mono xs" title={f.sha256 ?? ""}>{f.sha256 ? `${f.sha256.slice(0, 12)}…` : "—"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </section>
+
+    <section>
+      <h2>Código aberto</h2>
+      <div class="prose">
+        <p>Todo o código — recolha de dados, processamento e este site — é aberto e está disponível no <a href="https://github.com/luistodobom/vototransparente" rel="noopener">GitHub</a>. Encontrou um erro? <a href="https://github.com/luistodobom/vototransparente/issues" rel="noopener">Reporte-o aqui</a>.</p>
+        <p>Projeto desenvolvido por Luis Berenguer Todo-Bom.</p>
+      </div>
+    </section>
+  </div>
+</Base>
+<style>
+  .wrap { padding-top: 40px; max-width: 860px; }
+  h1 { font-size: clamp(2rem, 4.6vw, 3rem); margin-top: 6px; }
+  .lead { font-size: 1.12rem; color: var(--ink-2); margin: 16px 0 28px; }
+  .cards { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); margin-bottom: 20px; }
+  .cards .card { display: grid; gap: 2px; }
+  .cards b { font-size: 1.6rem; }
+  .cards span { color: var(--ink-3); font-size: 0.85rem; }
+  section { margin-top: 36px; }
+  h2 { font-family: var(--font-display); font-size: 1.5rem; margin-bottom: 12px; }
+  .tbl-wrap { overflow-x: auto; margin-top: 14px; }
+  .tbl { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  .tbl th, .tbl td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .tbl thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-3); }
+  .tbl .num { text-align: right; white-space: nowrap; }
+</style>

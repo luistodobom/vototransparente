@@ -1,0 +1,34 @@
+---
+// Compact list of each party's position in a vote, grouped by position.
+import { meta, legParties, type Vote } from "../lib/data";
+import { POSITION_LABEL, url } from "../lib/format";
+interface Props { vote: Vote; leg: string; compact?: boolean }
+const { vote, leg, compact = false } = Astro.props;
+const m = meta();
+const order = ["favor", "abstencao", "contra", "ausente"] as const;
+const parties = [...new Set([...legParties(leg), ...Object.keys(vote.positions)])].filter((p) => vote.positions[p]);
+const groups = order.map((k) => ({ k, parties: parties.filter((p) => vote.positions[p] === k) })).filter((g) => g.parties.length);
+---
+<div class:list={["pp", { compact }]}>
+  {groups.map((g) => (
+    <div class="row">
+      <span class={`lbl pos-${g.k}`}>{POSITION_LABEL[g.k]}</span>
+      <span class="parties">
+        {g.parties.map((p) => (
+          <a class="chip" href={url(`/parlamento/partidos/${p.toLowerCase()}/`)} title={m.parties[p]?.name ?? p}>
+            <i class="dot" style={`background:${m.parties[p]?.color ?? "#999"}`} />{p}
+            {vote.splits?.[p] && <span class="xs muted" title="Votação dividida dentro do grupo">· dividido</span>}
+          </a>
+        ))}
+      </span>
+    </div>
+  ))}
+</div>
+<style>
+  .pp { display: grid; gap: 10px; }
+  .pp.compact { gap: 6px; }
+  .row { display: grid; grid-template-columns: 92px 1fr; gap: 10px; align-items: start; }
+  .lbl { font-weight: 650; font-size: 0.82rem; padding-top: 4px; }
+  .parties { display: flex; flex-wrap: wrap; gap: 6px; }
+  @media (max-width: 480px) { .row { grid-template-columns: 1fr; gap: 4px; } }
+</style>

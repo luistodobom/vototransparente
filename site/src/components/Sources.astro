@@ -1,0 +1,29 @@
+---
+// "Fontes" — every fact on a page links back to the official record it came from.
+export interface SourceItem { label: string; href?: string | null; note?: string | null }
+interface Props { items: SourceItem[]; title?: string; compact?: boolean }
+const { items, title = "Fontes", compact = false } = Astro.props;
+const list = items.filter((i) => i.href || i.note);
+---
+<section class:list={["sources", { compact }]} aria-label={title} data-pagefind-ignore>
+  <h3>{title}</h3>
+  <ul>
+    {list.map((i) => (
+      <li>
+        {i.href ? (/^https?:/.test(i.href)
+          ? <a href={i.href} rel="noopener" target="_blank">{i.label}<span aria-hidden="true"> ↗</span></a>
+          : <a href={i.href}>{i.label}</a>) : <span>{i.label}</span>}
+        {i.note && <span class="note">{i.note}</span>}
+      </li>
+    ))}
+  </ul>
+</section>
+<style>
+  .sources h3 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-3); margin-bottom: 8px; }
+  .sources ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .sources li { display: grid; gap: 1px; font-size: 0.86rem; line-height: 1.4; padding-left: 14px; position: relative; }
+  .sources li::before { content: ""; position: absolute; left: 0; top: 0.55em; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+  .sources a { font-weight: 550; text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent); }
+  .sources .note { color: var(--ink-3); font-size: 0.78rem; }
+  .compact li { font-size: 0.82rem; }
+</style>
