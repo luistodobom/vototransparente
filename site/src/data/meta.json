@@ -1,0 +1,362 @@
+{
+ "generated": "2026-11-24",
+ "parties": {
+  "PS": {
+   "name": "Partido Socialista",
+   "color": "#F2569A"
+  },
+  "PSD": {
+   "name": "Partido Social Democrata",
+   "color": "#F58220"
+  },
+  "CH": {
+   "name": "Chega",
+   "color": "#2E3F8F"
+  },
+  "IL": {
+   "name": "Iniciativa Liberal",
+   "color": "#00AEEF"
+  },
+  "BE": {
+   "name": "Bloco de Esquerda",
+   "color": "#B3123A"
+  },
+  "PCP": {
+   "name": "Partido Comunista Português",
+   "color": "#D7191C"
+  },
+  "PEV": {
+   "name": "Partido Ecologista \"Os Verdes\"",
+   "color": "#3A9D3A"
+  },
+  "L": {
+   "name": "LIVRE",
+   "color": "#8DC63F"
+  },
+  "CDS-PP": {
+   "name": "CDS – Partido Popular",
+   "color": "#0A6EBD"
+  },
+  "PAN": {
+   "name": "Pessoas–Animais–Natureza",
+   "color": "#0E8C7F"
+  },
+  "JPP": {
+   "name": "Juntos Pelo Povo",
+   "color": "#2BB673"
+  }
+ },
+ "legislatures": {
+  "XIV": {
+   "label": "XIV Legislatura",
+   "start": "2019-10-25",
+   "end": "2022-03-28",
+   "seats": {
+    "BE": 19,
+    "PCP": 10,
+    "PEV": 2,
+    "L": 1,
+    "PAN": 4,
+    "PS": 108,
+    "PSD": 79,
+    "CDS-PP": 5,
+    "IL": 1,
+    "CH": 1
+   }
+  },
+  "XV": {
+   "label": "XV Legislatura",
+   "start": "2022-03-29",
+   "end": "2024-03-25",
+   "seats": {
+    "BE": 5,
+    "PCP": 6,
+    "L": 1,
+    "PAN": 1,
+    "PS": 120,
+    "PSD": 77,
+    "IL": 8,
+    "CH": 12
+   }
+  },
+  "XVI": {
+   "label": "XVI Legislatura",
+   "start": "2024-03-26",
+   "end": "2025-06-02",
+   "seats": {
+    "BE": 5,
+    "PCP": 4,
+    "L": 4,
+    "PAN": 1,
+    "PS": 78,
+    "PSD": 78,
+    "CDS-PP": 2,
+    "IL": 8,
+    "CH": 50
+   }
+  },
+  "XVII": {
+   "label": "XVII Legislatura",
+   "start": "2025-06-03",
+   "end": null,
+   "seats": {
+    "BE": 1,
+    "PCP": 3,
+    "L": 6,
+    "PAN": 1,
+    "JPP": 1,
+    "PS": 58,
+    "PSD": 89,
+    "CDS-PP": 2,
+    "IL": 9,
+    "CH": 60
+   }
+  }
+ },
+ "categories": {
+  "saude": {
+   "label": "Saúde",
+   "count": 1
+  },
+  "educacao": {
+   "label": "Educação",
+   "count": 1
+  },
+  "habitacao": {
+   "label": "Habitação",
+   "count": 0
+  },
+  "economia": {
+   "label": "Economia e Finanças",
+   "count": 0
+  },
+  "fiscalidade": {
+   "label": "Impostos",
+   "count": 0
+  },
+  "trabalho": {
+   "label": "Trabalho e Segurança Social",
+   "count": 1
+  },
+  "justica": {
+   "label": "Justiça",
+   "count": 1
+  },
+  "seguranca": {
+   "label": "Segurança e Proteção Civil",
+   "count": 0
+  },
+  "defesa": {
+   "label": "Defesa",
+   "count": 0
+  },
+  "ambiente": {
+   "label": "Ambiente e Clima",
+   "count": 2
+  },
+  "energia": {
+   "label": "Energia",
+   "count": 1
+  },
+  "agricultura": {
+   "label": "Agricultura, Pescas e Mar",
+   "count": 0
+  },
+  "transportes": {
+   "label": "Transportes e Infraestruturas",
+   "count": 1
+  },
+  "cultura": {
+   "label": "Cultura e Património",
+   "count": 0
+  },
+  "desporto": {
+   "label": "Desporto e Juventude",
+   "count": 0
+  },
+  "ciencia": {
+   "label": "Ciência, Tecnologia e Digital",
+   "count": 0
+  },
+  "administracao": {
+   "label": "Administração Pública e Estado",
+   "count": 0
+  },
+  "instituicoes": {
+   "label": "Instituições, Constituição e Eleições",
+   "count": 0
+  },
+  "internacional": {
+   "label": "Assuntos Europeus e Internacionais",
+   "count": 0
+  },
+  "direitos": {
+   "label": "Direitos, Liberdades e Igualdade",
+   "count": 1
+  },
+  "imigracao": {
+   "label": "Imigração",
+   "count": 0
+  },
+  "territorio": {
+   "label": "Regiões, Autarquias e Território",
+   "count": 0
+  },
+  "animais": {
+   "label": "Animais",
+   "count": 0
+  },
+  "comunicacao": {
+   "label": "Comunicação Social",
+   "count": 0
+  },
+  "familia": {
+   "label": "Família e Ação Social",
+   "count": 0
+  },
+  "consumidores": {
+   "label": "Consumidores e Concorrência",
+   "count": 0
+  }
+ },
+ "types": {
+  "projeto-lei": {
+   "label": "Projeto de Lei",
+   "count": 2291
+  },
+  "proposta-lei": {
+   "label": "Proposta de Lei",
+   "count": 307
+  },
+  "projeto-resolucao": {
+   "label": "Projeto de Resolução",
+   "count": 3400
+  },
+  "proposta-resolucao": {
+   "label": "Proposta de Resolução",
+   "count": 79
+  },
+  "projeto-deliberacao": {
+   "label": "Projeto de Deliberação",
+   "count": 81
+  },
+  "apreciacao-parlamentar": {
+   "label": "Apreciação Parlamentar",
+   "count": 29
+  },
+  "inquerito-parlamentar": {
+   "label": "Inquérito Parlamentar",
+   "count": 31
+  },
+  "revisao-constitucional": {
+   "label": "Projeto de Revisão Constitucional",
+   "count": 1
+  },
+  "projeto-regimento": {
+   "label": "Projeto de Regimento",
+   "count": 17
+  }
+ },
+ "stats": {
+  "initiatives": 6236,
+  "votes": 9976,
+  "summarized": 3,
+  "byStatus": {
+   "aprovado": 2785,
+   "rejeitado": 3269,
+   "em_curso": 182
+  },
+  "byLeg": {
+   "XVII": 1648,
+   "XVI": 973,
+   "XV": 1590,
+   "XIV": 2025
+  }
+ },
+ "sources": {
+  "generated": "2026-11-25T22:54Z",
+  "files": [
+   {
+    "label": "Iniciativas — XIV Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
+    "file": "IniciativasXIV.json",
+    "retrieved": "2026-11-25T20:24Z",
+    "bytes": 49412703,
+    "sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4"
+   },
+   {
+    "label": "Informação Base — deputados da XIV Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
+    "file": "InformacaoBaseXIV.json",
+    "retrieved": "2026-11-25T22:09Z",
+    "bytes": 566027,
+    "sha256": "33df8d95d40d9f090a3d5da333ef04a15349ec8befaecc2d316656857bcbdb3c"
+   },
+   {
+    "label": "Iniciativas da 1.ª sessão da XIV Legislatura (recolhidas das páginas oficiais de cada iniciativa)",
+    "page": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx",
+    "file": "IniciativasXIV_s1.json",
+    "retrieved": "2026-11-25T22:23Z",
+    "bytes": 5460126,
+    "sha256": "70f005697e85fe22c0b8d706825effd4f1e42cb15c3c551f6ec96453b5dec44f"
+   },
+   {
+    "label": "Iniciativas — XV Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
+    "file": "IniciativasXV.json",
+    "retrieved": "2026-11-25T20:24Z",
+    "bytes": 98959694,
+    "sha256": "cf8496972c124aa7c60e7dbcd1e0072d5ed5154ce8f597172e12b7968197a2e7"
+   },
+   {
+    "label": "Informação Base — deputados da XV Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
+    "file": "InformacaoBaseXV.json",
+    "retrieved": "2026-11-25T22:09Z",
+    "bytes": 530791,
+    "sha256": "6a5d10edcd1acd935592260f0924f6bec2b3e6df5c0d2fae6b589d648ccb5cde"
+   },
+   {
+    "label": "Iniciativas — XVI Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
+    "file": "IniciativasXVI.json",
+    "retrieved": "2026-11-25T20:24Z",
+    "bytes": 65148613,
+    "sha256": "3800c68593577f53fc1a471969f038ea2737feb096a00116d02cf75a0aaea48a"
+   },
+   {
+    "label": "Informação Base — deputados da XVI Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
+    "file": "InformacaoBaseXVI.json",
+    "retrieved": "2026-11-25T22:09Z",
+    "bytes": 600300,
+    "sha256": "becc7b4c5af04bfa7a01f3c633a0518bcec8bedf700fce0e8a264e130e620dba"
+   },
+   {
+    "label": "Iniciativas — XVII Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
+    "file": "IniciativasXVII.json",
+    "retrieved": "2026-11-25T20:25Z",
+    "bytes": 104314556,
+    "sha256": "dae38efeba26ef4be467826c78a53aac858160bc0d2b59ad054cbd2d85c76944"
+   },
+   {
+    "label": "Informação Base — deputados da XVII Legislatura (dados abertos)",
+    "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
+    "file": "InformacaoBaseXVII.json",
+    "retrieved": "2026-11-25T22:09Z",
+    "bytes": 565880,
+    "sha256": "ab9dcf43139ef7a9caad79324acebac03f252d79d07e36e172802f3fcbc9f439"
+   },
+   {
+    "label": "Registo de presenças nas reuniões plenárias (625 reuniões)",
+    "page": "https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx",
+    "file": "attendance/",
+    "retrieved": "2026-11-25T22:48Z",
+    "bytes": 195647638,
+    "sha256": null
+   }
+  ],
+  "summaries": 3
+ }
+}

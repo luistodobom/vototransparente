@@ -82,15 +82,22 @@ make validate
 
 ## Deployment
 
-`.github/workflows/deploy.yml` runs on every push to `main`, daily, and on demand. It downloads the latest open data,
-summarizes new initiatives if the `GEMINI_API_KEY` repository secret is set (committing the new summaries back), builds
-the site, and deploys it to GitHub Pages.
+GitHub Actions only builds and publishes the site: on every push to `main`, `.github/workflows/deploy.yml` runs
+`npm run build` on the data committed in `site/src/data/` and `site/public/data/` and deploys it to GitHub Pages
+(custom domain in `site/public/CNAME`). It never downloads, scrapes or summarizes anything.
 
-One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**, and add the
-`GEMINI_API_KEY` secret under **Settings → Secrets and variables → Actions**.
-The site is served from the custom domain in `site/public/CNAME`. To serve it from
-`https://<user>.github.io/vototransparente/` instead, build with `SITE_URL=https://<user>.github.io SITE_BASE=/vototransparente`
-and delete `site/public/CNAME`.
+To publish new votes, refresh the data locally and push:
+
+```bash
+make data site
+```
+
+```bash
+git add site/src/data site/public/data data/summaries site/public/img/mp && git commit -m "Update data" && git push
+```
+
+DNS for vototransparente.pt (Cloudflare, DNS-only records pointing to GitHub Pages) is documented in
+[`dns/vototransparente.pt.zone`](dns/vototransparente.pt.zone).
 
 ## Project layout
 

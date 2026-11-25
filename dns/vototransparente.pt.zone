@@ -1,0 +1,19 @@
+;; vototransparente.pt -> GitHub Pages (repo luistodobom/vototransparente)
+;; Import in Cloudflare: DNS -> Records -> Import and Export -> Import DNS records.
+;; Only the NEW records are listed; your MX/SPF/DKIM email records are left untouched.
+;; BEFORE importing, delete the two existing "A 192.0.2.1" records (vototransparente.pt and www)
+;; and the Page Rule that created them (Rules -> Page Rules), otherwise the www CNAME will conflict.
+;; All records are DNS-only (grey cloud) so GitHub can issue the HTTPS certificate.
+
+;; Apex -> GitHub Pages
+vototransparente.pt.	1	IN	A	185.199.108.153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	A	185.199.109.153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	A	185.199.110.153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	A	185.199.111.153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	AAAA	2606:50c0:8000::153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	AAAA	2606:50c0:8001::153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	AAAA	2606:50c0:8002::153 ; cf_tags=cf-proxied:false
+vototransparente.pt.	1	IN	AAAA	2606:50c0:8003::153 ; cf_tags=cf-proxied:false
+
+;; www -> redirected by GitHub to the apex
+www.vototransparente.pt.	1	IN	CNAME	luistodobom.github.io. ; cf_tags=cf-proxied:false

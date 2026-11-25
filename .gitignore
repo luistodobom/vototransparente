@@ -6,11 +6,7 @@ __pycache__/
 .DS_Store
 node_modules/
 
-# Old project data (large local files); keep only the CSV database for reference
-old/data/*
-!old/data/parliament_data.csv
-
-# New pipeline: raw downloads are cached locally and never committed
+# Raw downloads and scrape caches (local only)
 data/raw/
 data/cache/
 
@@ -18,7 +14,5 @@ data/cache/
 site/dist/
 site/.astro/
 
-# Regenerated from official open data on every build
+# Intermediate pipeline outputs (the site's own data in site/src/data is committed)
 data/processed/
-site/src/data/
-site/public/data/

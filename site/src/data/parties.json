@@ -1,0 +1,1231 @@
+{
+ "XIV": {
+  "votes": {
+   "PS": {
+    "contra": 981,
+    "total": 2024,
+    "winning": 1633,
+    "favor": 805,
+    "abstencao": 238
+   },
+   "PSD": {
+    "favor": 1098,
+    "total": 2025,
+    "winning": 1474,
+    "abstencao": 367,
+    "contra": 560
+   },
+   "CH": {
+    "favor": 1018,
+    "total": 1678,
+    "winning": 879,
+    "abstencao": 378,
+    "contra": 282
+   },
+   "IL": {
+    "favor": 1070,
+    "total": 2023,
+    "winning": 1085,
+    "abstencao": 521,
+    "contra": 432
+   },
+   "PCP": {
+    "favor": 1413,
+    "total": 2023,
+    "winning": 1087,
+    "contra": 289,
+    "abstencao": 321
+   },
+   "BE": {
+    "favor": 1649,
+    "total": 2025,
+    "winning": 1124,
+    "contra": 168,
+    "abstencao": 208
+   },
+   "PAN": {
+    "favor": 1701,
+    "total": 2025,
+    "winning": 1129,
+    "abstencao": 212,
+    "contra": 112
+   },
+   "L": {
+    "favor": 88,
+    "total": 96,
+    "winning": 37,
+    "abstencao": 3,
+    "contra": 5
+   },
+   "CDS-PP": {
+    "favor": 1076,
+    "total": 2016,
+    "winning": 1275,
+    "contra": 523,
+    "abstencao": 417
+   },
+   "PEV": {
+    "favor": 1521,
+    "total": 2017,
+    "winning": 1079,
+    "contra": 217,
+    "abstencao": 279
+   }
+  },
+  "agreement": {
+   "BE|CH": {
+    "same": 888,
+    "total": 1678
+   },
+   "BE|IL": {
+    "same": 928,
+    "total": 2023
+   },
+   "BE|L": {
+    "same": 87,
+    "total": 96
+   },
+   "BE|PAN": {
+    "same": 1601,
+    "total": 2025
+   },
+   "BE|PCP": {
+    "same": 1619,
+    "total": 2023
+   },
+   "BE|PS": {
+    "same": 778,
+    "total": 2024
+   },
+   "BE|PSD": {
+    "same": 963,
+    "total": 2025
+   },
+   "CH|IL": {
+    "same": 1104,
+    "total": 1677
+   },
+   "CH|L": {
+    "same": 48,
+    "total": 96
+   },
+   "CH|PAN": {
+    "same": 955,
+    "total": 1678
+   },
+   "CH|PCP": {
+    "same": 899,
+    "total": 1676
+   },
+   "CH|PS": {
+    "same": 639,
+    "total": 1677
+   },
+   "CH|PSD": {
+    "same": 1062,
+    "total": 1678
+   },
+   "IL|L": {
+    "same": 39,
+    "total": 96
+   },
+   "IL|PAN": {
+    "same": 1065,
+    "total": 2023
+   },
+   "IL|PCP": {
+    "same": 934,
+    "total": 2021
+   },
+   "IL|PS": {
+    "same": 866,
+    "total": 2022
+   },
+   "IL|PSD": {
+    "same": 1233,
+    "total": 2023
+   },
+   "L|PAN": {
+    "same": 82,
+    "total": 96
+   },
+   "L|PCP": {
+    "same": 74,
+    "total": 96
+   },
+   "L|PS": {
+    "same": 22,
+    "total": 96
+   },
+   "L|PSD": {
+    "same": 36,
+    "total": 96
+   },
+   "PAN|PCP": {
+    "same": 1332,
+    "total": 2023
+   },
+   "PAN|PS": {
+    "same": 788,
+    "total": 2024
+   },
+   "PAN|PSD": {
+    "same": 1057,
+    "total": 2025
+   },
+   "PCP|PS": {
+    "same": 769,
+    "total": 2022
+   },
+   "PCP|PSD": {
+    "same": 998,
+    "total": 2023
+   },
+   "PS|PSD": {
+    "same": 1135,
+    "total": 2024
+   },
+   "BE|CDS-PP": {
+    "same": 952,
+    "total": 2016
+   },
+   "BE|PEV": {
+    "same": 1714,
+    "total": 2017
+   },
+   "CDS-PP|CH": {
+    "same": 1182,
+    "total": 1669
+   },
+   "CDS-PP|IL": {
+    "same": 1328,
+    "total": 2014
+   },
+   "CDS-PP|PAN": {
+    "same": 1040,
+    "total": 2016
+   },
+   "CDS-PP|PCP": {
+    "same": 966,
+    "total": 2014
+   },
+   "CDS-PP|PEV": {
+    "same": 928,
+    "total": 2016
+   },
+   "CDS-PP|PS": {
+    "same": 1013,
+    "total": 2015
+   },
+   "CDS-PP|PSD": {
+    "same": 1501,
+    "total": 2016
+   },
+   "CH|PEV": {
+    "same": 868,
+    "total": 1670
+   },
+   "IL|PEV": {
+    "same": 924,
+    "total": 2015
+   },
+   "PAN|PEV": {
+    "same": 1439,
+    "total": 2017
+   },
+   "PCP|PEV": {
+    "same": 1867,
+    "total": 2015
+   },
+   "PEV|PS": {
+    "same": 760,
+    "total": 2016
+   },
+   "PEV|PSD": {
+    "same": 972,
+    "total": 2017
+   },
+   "CDS-PP|L": {
+    "same": 31,
+    "total": 88
+   },
+   "L|PEV": {
+    "same": 77,
+    "total": 88
+   }
+  },
+  "authored": {
+   "PAN": {
+    "total": 266,
+    "aprovado": 117,
+    "rejeitado": 139,
+    "em_curso": 10
+   },
+   "PCP": {
+    "total": 324,
+    "aprovado": 131,
+    "em_curso": 7,
+    "rejeitado": 186
+   },
+   "PS": {
+    "total": 132,
+    "aprovado": 128,
+    "em_curso": 3,
+    "rejeitado": 1
+   },
+   "PSD": {
+    "total": 195,
+    "aprovado": 155,
+    "rejeitado": 36,
+    "em_curso": 4
+   },
+   "BE": {
+    "total": 392,
+    "aprovado": 196,
+    "rejeitado": 190,
+    "em_curso": 6
+   },
+   "CDS-PP": {
+    "total": 155,
+    "aprovado": 85,
+    "rejeitado": 66,
+    "em_curso": 4
+   },
+   "Ninsc": {
+    "total": 93,
+    "rejeitado": 38,
+    "aprovado": 52,
+    "em_curso": 3
+   },
+   "IL": {
+    "total": 63,
+    "aprovado": 26,
+    "rejeitado": 37
+   },
+   "PEV": {
+    "total": 183,
+    "aprovado": 84,
+    "rejeitado": 97,
+    "em_curso": 2
+   },
+   "Governo": {
+    "total": 127,
+    "aprovado": 126,
+    "rejeitado": 1
+   },
+   "CH": {
+    "total": 47,
+    "aprovado": 4,
+    "rejeitado": 43
+   },
+   "L": {
+    "total": 2,
+    "aprovado": 1,
+    "rejeitado": 1
+   }
+  }
+ },
+ "XV": {
+  "votes": {
+   "PS": {
+    "favor": 418,
+    "total": 1590,
+    "winning": 1507,
+    "abstencao": 83,
+    "contra": 1089
+   },
+   "CH": {
+    "favor": 1017,
+    "total": 1555,
+    "winning": 412,
+    "contra": 228,
+    "abstencao": 310
+   },
+   "IL": {
+    "favor": 816,
+    "total": 1590,
+    "winning": 635,
+    "abstencao": 434,
+    "contra": 340
+   },
+   "BE": {
+    "favor": 1115,
+    "total": 1590,
+    "winning": 515,
+    "abstencao": 244,
+    "contra": 231
+   },
+   "PCP": {
+    "favor": 809,
+    "total": 1590,
+    "winning": 529,
+    "abstencao": 416,
+    "contra": 365
+   },
+   "L": {
+    "favor": 1050,
+    "total": 1556,
+    "winning": 499,
+    "abstencao": 344,
+    "contra": 162
+   },
+   "PAN": {
+    "favor": 1140,
+    "total": 1494,
+    "winning": 429,
+    "abstencao": 267,
+    "contra": 87
+   },
+   "PSD": {
+    "contra": 429,
+    "total": 1590,
+    "winning": 734,
+    "favor": 759,
+    "abstencao": 402
+   },
+   "CDS-PP": {
+    "contra": 1,
+    "total": 1,
+    "winning": 0
+   }
+  },
+  "agreement": {
+   "BE|CDS-PP": {
+    "same": 0,
+    "total": 1
+   },
+   "BE|CH": {
+    "same": 725,
+    "total": 1555
+   },
+   "BE|IL": {
+    "same": 677,
+    "total": 1590
+   },
+   "BE|L": {
+    "same": 1238,
+    "total": 1556
+   },
+   "BE|PAN": {
+    "same": 1074,
+    "total": 1494
+   },
+   "BE|PCP": {
+    "same": 1095,
+    "total": 1590
+   },
+   "BE|PS": {
+    "same": 472,
+    "total": 1590
+   },
+   "BE|PSD": {
+    "same": 677,
+    "total": 1590
+   },
+   "CDS-PP|CH": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|IL": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|L": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|PAN": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|PCP": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|PS": {
+    "same": 0,
+    "total": 1
+   },
+   "CDS-PP|PSD": {
+    "same": 1,
+    "total": 1
+   },
+   "CH|IL": {
+    "same": 843,
+    "total": 1555
+   },
+   "CH|L": {
+    "same": 642,
+    "total": 1521
+   },
+   "CH|PAN": {
+    "same": 766,
+    "total": 1459
+   },
+   "CH|PCP": {
+    "same": 601,
+    "total": 1555
+   },
+   "CH|PS": {
+    "same": 387,
+    "total": 1555
+   },
+   "CH|PSD": {
+    "same": 837,
+    "total": 1555
+   },
+   "IL|L": {
+    "same": 685,
+    "total": 1556
+   },
+   "IL|PAN": {
+    "same": 720,
+    "total": 1494
+   },
+   "IL|PCP": {
+    "same": 589,
+    "total": 1590
+   },
+   "IL|PS": {
+    "same": 614,
+    "total": 1590
+   },
+   "IL|PSD": {
+    "same": 953,
+    "total": 1590
+   },
+   "L|PAN": {
+    "same": 1096,
+    "total": 1487
+   },
+   "L|PCP": {
+    "same": 1086,
+    "total": 1556
+   },
+   "L|PS": {
+    "same": 468,
+    "total": 1556
+   },
+   "L|PSD": {
+    "same": 662,
+    "total": 1556
+   },
+   "PAN|PCP": {
+    "same": 802,
+    "total": 1494
+   },
+   "PAN|PS": {
+    "same": 387,
+    "total": 1494
+   },
+   "PAN|PSD": {
+    "same": 675,
+    "total": 1494
+   },
+   "PCP|PS": {
+    "same": 504,
+    "total": 1590
+   },
+   "PCP|PSD": {
+    "same": 657,
+    "total": 1590
+   },
+   "PS|PSD": {
+    "same": 699,
+    "total": 1590
+   }
+  },
+  "authored": {
+   "PS": {
+    "total": 81,
+    "aprovado": 80,
+    "em_curso": 1
+   },
+   "BE": {
+    "total": 183,
+    "aprovado": 27,
+    "em_curso": 3,
+    "rejeitado": 153
+   },
+   "PSD": {
+    "total": 160,
+    "aprovado": 50,
+    "em_curso": 8,
+    "rejeitado": 102
+   },
+   "PAN": {
+    "total": 290,
+    "aprovado": 65,
+    "rejeitado": 213,
+    "em_curso": 12
+   },
+   "IL": {
+    "total": 138,
+    "rejeitado": 106,
+    "aprovado": 29,
+    "em_curso": 3
+   },
+   "L": {
+    "total": 128,
+    "aprovado": 41,
+    "rejeitado": 82,
+    "em_curso": 5
+   },
+   "PCP": {
+    "total": 205,
+    "aprovado": 16,
+    "rejeitado": 188,
+    "em_curso": 1
+   },
+   "CH": {
+    "total": 265,
+    "aprovado": 6,
+    "rejeitado": 259
+   },
+   "Governo": {
+    "total": 94,
+    "aprovado": 91,
+    "em_curso": 3
+   }
+  }
+ },
+ "XVI": {
+  "votes": {
+   "PSD": {
+    "favor": 322,
+    "total": 973,
+    "winning": 730,
+    "contra": 495,
+    "abstencao": 156
+   },
+   "CH": {
+    "favor": 585,
+    "total": 973,
+    "winning": 573,
+    "abstencao": 184,
+    "contra": 204
+   },
+   "PS": {
+    "favor": 507,
+    "total": 973,
+    "winning": 641,
+    "contra": 231,
+    "abstencao": 235
+   },
+   "IL": {
+    "favor": 516,
+    "total": 973,
+    "winning": 575,
+    "contra": 233,
+    "abstencao": 224
+   },
+   "L": {
+    "favor": 756,
+    "total": 973,
+    "winning": 504,
+    "contra": 103,
+    "abstencao": 114
+   },
+   "CDS-PP": {
+    "favor": 341,
+    "total": 972,
+    "winning": 710,
+    "contra": 466,
+    "abstencao": 165
+   },
+   "PAN": {
+    "favor": 790,
+    "total": 917,
+    "winning": 473,
+    "abstencao": 71,
+    "contra": 56
+   },
+   "JPP": {
+    "favor": 2,
+    "total": 2,
+    "winning": 1
+   },
+   "PCP": {
+    "abstencao": 171,
+    "total": 973,
+    "winning": 487,
+    "favor": 623,
+    "contra": 179
+   },
+   "BE": {
+    "abstencao": 91,
+    "total": 973,
+    "winning": 497,
+    "favor": 770,
+    "contra": 112
+   }
+  },
+  "agreement": {
+   "BE|CDS-PP": {
+    "same": 290,
+    "total": 972
+   },
+   "BE|CH": {
+    "same": 458,
+    "total": 973
+   },
+   "BE|IL": {
+    "same": 456,
+    "total": 973
+   },
+   "BE|JPP": {
+    "same": 1,
+    "total": 2
+   },
+   "BE|L": {
+    "same": 874,
+    "total": 973
+   },
+   "BE|PAN": {
+    "same": 775,
+    "total": 917
+   },
+   "BE|PCP": {
+    "same": 751,
+    "total": 973
+   },
+   "BE|PS": {
+    "same": 579,
+    "total": 973
+   },
+   "BE|PSD": {
+    "same": 301,
+    "total": 973
+   },
+   "CDS-PP|CH": {
+    "same": 486,
+    "total": 972
+   },
+   "CDS-PP|IL": {
+    "same": 538,
+    "total": 972
+   },
+   "CDS-PP|JPP": {
+    "same": 1,
+    "total": 2
+   },
+   "CDS-PP|L": {
+    "same": 312,
+    "total": 972
+   },
+   "CDS-PP|PAN": {
+    "same": 289,
+    "total": 916
+   },
+   "CDS-PP|PCP": {
+    "same": 333,
+    "total": 972
+   },
+   "CDS-PP|PS": {
+    "same": 442,
+    "total": 972
+   },
+   "CDS-PP|PSD": {
+    "same": 918,
+    "total": 972
+   },
+   "CH|IL": {
+    "same": 549,
+    "total": 973
+   },
+   "CH|JPP": {
+    "same": 1,
+    "total": 2
+   },
+   "CH|L": {
+    "same": 432,
+    "total": 973
+   },
+   "CH|PAN": {
+    "same": 475,
+    "total": 917
+   },
+   "CH|PCP": {
+    "same": 420,
+    "total": 973
+   },
+   "CH|PS": {
+    "same": 432,
+    "total": 973
+   },
+   "CH|PSD": {
+    "same": 467,
+    "total": 973
+   },
+   "IL|JPP": {
+    "same": 1,
+    "total": 2
+   },
+   "IL|L": {
+    "same": 474,
+    "total": 973
+   },
+   "IL|PAN": {
+    "same": 448,
+    "total": 917
+   },
+   "IL|PCP": {
+    "same": 437,
+    "total": 973
+   },
+   "IL|PS": {
+    "same": 525,
+    "total": 973
+   },
+   "IL|PSD": {
+    "same": 523,
+    "total": 973
+   },
+   "JPP|L": {
+    "same": 2,
+    "total": 2
+   },
+   "JPP|PAN": {
+    "same": 2,
+    "total": 2
+   },
+   "JPP|PCP": {
+    "same": 1,
+    "total": 2
+   },
+   "JPP|PS": {
+    "same": 1,
+    "total": 2
+   },
+   "JPP|PSD": {
+    "same": 1,
+    "total": 2
+   },
+   "L|PAN": {
+    "same": 762,
+    "total": 917
+   },
+   "L|PCP": {
+    "same": 766,
+    "total": 973
+   },
+   "L|PS": {
+    "same": 611,
+    "total": 973
+   },
+   "L|PSD": {
+    "same": 320,
+    "total": 973
+   },
+   "PAN|PCP": {
+    "same": 626,
+    "total": 917
+   },
+   "PAN|PS": {
+    "same": 509,
+    "total": 917
+   },
+   "PAN|PSD": {
+    "same": 290,
+    "total": 917
+   },
+   "PCP|PS": {
+    "same": 547,
+    "total": 973
+   },
+   "PCP|PSD": {
+    "same": 344,
+    "total": 973
+   },
+   "PS|PSD": {
+    "same": 460,
+    "total": 973
+   }
+  },
+  "authored": {
+   "PAN": {
+    "total": 172,
+    "aprovado": 77,
+    "rejeitado": 92,
+    "em_curso": 3
+   },
+   "CDS-PP": {
+    "total": 52,
+    "aprovado": 47,
+    "rejeitado": 4,
+    "em_curso": 1
+   },
+   "IL": {
+    "total": 65,
+    "aprovado": 26,
+    "rejeitado": 35,
+    "em_curso": 4
+   },
+   "BE": {
+    "total": 139,
+    "aprovado": 46,
+    "rejeitado": 90,
+    "em_curso": 3
+   },
+   "PCP": {
+    "total": 98,
+    "aprovado": 30,
+    "rejeitado": 65,
+    "em_curso": 3
+   },
+   "PSD": {
+    "total": 64,
+    "aprovado": 59,
+    "em_curso": 3,
+    "rejeitado": 2
+   },
+   "CH": {
+    "total": 133,
+    "rejeitado": 87,
+    "aprovado": 43,
+    "em_curso": 3
+   },
+   "PS": {
+    "total": 86,
+    "aprovado": 71,
+    "rejeitado": 12,
+    "em_curso": 3
+   },
+   "L": {
+    "total": 144,
+    "aprovado": 70,
+    "rejeitado": 68,
+    "em_curso": 6
+   },
+   "Governo": {
+    "total": 36,
+    "aprovado": 27,
+    "em_curso": 8,
+    "rejeitado": 1
+   }
+  }
+ },
+ "XVII": {
+  "votes": {
+   "PSD": {
+    "favor": 435,
+    "total": 1645,
+    "winning": 1263,
+    "contra": 979,
+    "abstencao": 231
+   },
+   "CDS-PP": {
+    "favor": 471,
+    "total": 1648,
+    "winning": 1204,
+    "contra": 884,
+    "abstencao": 293
+   },
+   "CH": {
+    "contra": 277,
+    "total": 1648,
+    "winning": 906,
+    "favor": 1004,
+    "abstencao": 367
+   },
+   "IL": {
+    "contra": 473,
+    "total": 1648,
+    "winning": 953,
+    "abstencao": 423,
+    "favor": 752
+   },
+   "L": {
+    "contra": 177,
+    "total": 1647,
+    "winning": 690,
+    "favor": 1189,
+    "abstencao": 281
+   },
+   "PCP": {
+    "contra": 345,
+    "total": 1645,
+    "winning": 595,
+    "favor": 871,
+    "abstencao": 429
+   },
+   "BE": {
+    "contra": 214,
+    "total": 1588,
+    "winning": 694,
+    "favor": 1204,
+    "abstencao": 170
+   },
+   "PAN": {
+    "contra": 97,
+    "total": 1595,
+    "winning": 698,
+    "favor": 1336,
+    "abstencao": 162
+   },
+   "PS": {
+    "abstencao": 494,
+    "total": 1647,
+    "winning": 871,
+    "favor": 893,
+    "contra": 260
+   },
+   "JPP": {
+    "abstencao": 140,
+    "total": 1635,
+    "winning": 746,
+    "favor": 1438,
+    "contra": 57
+   }
+  },
+  "agreement": {
+   "BE|CDS-PP": {
+    "same": 380,
+    "total": 1588
+   },
+   "BE|CH": {
+    "same": 741,
+    "total": 1588
+   },
+   "BE|IL": {
+    "same": 609,
+    "total": 1588
+   },
+   "BE|JPP": {
+    "same": 1238,
+    "total": 1575
+   },
+   "BE|L": {
+    "same": 1306,
+    "total": 1587
+   },
+   "BE|PAN": {
+    "same": 1219,
+    "total": 1535
+   },
+   "BE|PCP": {
+    "same": 1120,
+    "total": 1585
+   },
+   "BE|PS": {
+    "same": 948,
+    "total": 1587
+   },
+   "BE|PSD": {
+    "same": 398,
+    "total": 1585
+   },
+   "CDS-PP|CH": {
+    "same": 660,
+    "total": 1648
+   },
+   "CDS-PP|IL": {
+    "same": 888,
+    "total": 1648
+   },
+   "CDS-PP|JPP": {
+    "same": 432,
+    "total": 1635
+   },
+   "CDS-PP|L": {
+    "same": 452,
+    "total": 1647
+   },
+   "CDS-PP|PAN": {
+    "same": 395,
+    "total": 1595
+   },
+   "CDS-PP|PCP": {
+    "same": 439,
+    "total": 1645
+   },
+   "CDS-PP|PS": {
+    "same": 555,
+    "total": 1647
+   },
+   "CDS-PP|PSD": {
+    "same": 1472,
+    "total": 1645
+   },
+   "CH|IL": {
+    "same": 825,
+    "total": 1648
+   },
+   "CH|JPP": {
+    "same": 914,
+    "total": 1635
+   },
+   "CH|L": {
+    "same": 681,
+    "total": 1647
+   },
+   "CH|PAN": {
+    "same": 853,
+    "total": 1595
+   },
+   "CH|PCP": {
+    "same": 596,
+    "total": 1645
+   },
+   "CH|PS": {
+    "same": 750,
+    "total": 1647
+   },
+   "CH|PSD": {
+    "same": 605,
+    "total": 1645
+   },
+   "IL|JPP": {
+    "same": 684,
+    "total": 1635
+   },
+   "IL|L": {
+    "same": 656,
+    "total": 1647
+   },
+   "IL|PAN": {
+    "same": 653,
+    "total": 1595
+   },
+   "IL|PCP": {
+    "same": 591,
+    "total": 1645
+   },
+   "IL|PS": {
+    "same": 785,
+    "total": 1647
+   },
+   "IL|PSD": {
+    "same": 867,
+    "total": 1645
+   },
+   "JPP|L": {
+    "same": 1227,
+    "total": 1634
+   },
+   "JPP|PAN": {
+    "same": 1377,
+    "total": 1583
+   },
+   "JPP|PCP": {
+    "same": 909,
+    "total": 1633
+   },
+   "JPP|PS": {
+    "same": 978,
+    "total": 1635
+   },
+   "JPP|PSD": {
+    "same": 397,
+    "total": 1632
+   },
+   "L|PAN": {
+    "same": 1227,
+    "total": 1594
+   },
+   "L|PCP": {
+    "same": 1186,
+    "total": 1644
+   },
+   "L|PS": {
+    "same": 1019,
+    "total": 1646
+   },
+   "L|PSD": {
+    "same": 445,
+    "total": 1644
+   },
+   "PAN|PCP": {
+    "same": 918,
+    "total": 1592
+   },
+   "PAN|PS": {
+    "same": 909,
+    "total": 1594
+   },
+   "PAN|PSD": {
+    "same": 385,
+    "total": 1592
+   },
+   "PCP|PS": {
+    "same": 865,
+    "total": 1644
+   },
+   "PCP|PSD": {
+    "same": 448,
+    "total": 1642
+   },
+   "PS|PSD": {
+    "same": 578,
+    "total": 1644
+   }
+  },
+  "authored": {
+   "Governo": {
+    "total": 91,
+    "aprovado": 80,
+    "em_curso": 10,
+    "rejeitado": 1
+   },
+   "PS": {
+    "total": 172,
+    "aprovado": 112,
+    "rejeitado": 54,
+    "em_curso": 6
+   },
+   "PAN": {
+    "total": 221,
+    "aprovado": 76,
+    "rejeitado": 139,
+    "em_curso": 6
+   },
+   "JPP": {
+    "total": 61,
+    "rejeitado": 35,
+    "aprovado": 25,
+    "em_curso": 1
+   },
+   "CH": {
+    "total": 306,
+    "aprovado": 126,
+    "rejeitado": 167,
+    "em_curso": 13
+   },
+   "CDS-PP": {
+    "total": 64,
+    "aprovado": 58,
+    "em_curso": 6
+   },
+   "IL": {
+    "total": 113,
+    "aprovado": 39,
+    "em_curso": 9,
+    "rejeitado": 65
+   },
+   "PSD": {
+    "total": 66,
+    "aprovado": 57,
+    "em_curso": 8,
+    "rejeitado": 1
+   },
+   "L": {
+    "total": 226,
+    "rejeitado": 154,
+    "aprovado": 67,
+    "em_curso": 5
+   },
+   "BE": {
+    "total": 160,
+    "rejeitado": 134,
+    "aprovado": 24,
+    "em_curso": 2
+   },
+   "PCP": {
+    "total": 138,
+    "rejeitado": 100,
+    "aprovado": 34,
+    "em_curso": 4
+   }
+  }
+ }
+}

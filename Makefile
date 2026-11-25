@@ -20,7 +20,7 @@ texts:            ## download the full text of every voted initiative
 summaries:        ## generate AI summaries for initiatives without one (needs GEMINI_API_KEY)
 	$(PY) -m pipeline.summarize
 
-site:             ## export data and build the static site
+site:             ## attribute MP votes, export data and build the static site (commit site/src/data + site/public/data, then push to deploy)
 	$(PY) -m pipeline.mp_votes
 	$(PY) -m pipeline.provenance
 	$(PY) -m pipeline.export_site
