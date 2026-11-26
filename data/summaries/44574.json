@@ -1,0 +1,26 @@
+{
+ "short_title": "Gratuitidade de Linhas Telefónicas para Serviços Públicos",
+ "summary": "Esta proposta de lei visa tornar gratuitas as chamadas telefónicas para serviços públicos e empresas que prestam serviços públicos essenciais em Portugal. Atualmente, muitos destes serviços utilizam números especiais (como os prefixos \"808\", \"707\", \"708\" e \"30\") que implicam custos adicionais para os cidadãos, mesmo quando estes têm pacotes de chamadas ilimitadas. A proposta obriga estas entidades a disponibilizar, como alternativa ou em substituição, números de telefone com o prefixo \"2\" (rede fixa), que são geralmente incluídos nos pacotes de telecomunicações e, portanto, gratuitos para a maioria dos utilizadores. A Linha SNS 24 é especificamente mencionada para se tornar totalmente gratuita.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer acabar com a chatice de pagar para ligar para a Saúde 24, a Loja do Cidadão ou outros serviços públicos. Sabe aqueles números que começam por 808, 707 ou 30 e que nos cobram um balúrdio? A ideia é que passem a ter um número normal, que comece por 2, para que as chamadas sejam gratuitas para quem tem pacotes de telefone com chamadas ilimitadas. Assim, ninguém fica a pagar para resolver problemas ou pedir informações a serviços que são para todos.",
+ "context": null,
+ "analysis": "O documento identifica corretamente uma inconsistência na forma como os serviços públicos são acessíveis: embora essenciais, o seu contacto telefónico acarreta custos para o cidadão, o que pode dissuadir o acesso. A proposta alinha-se diretamente com o objetivo de facilitar o acesso e reduzir os encargos para os utentes, ao impor a substituição ou a disponibilização de alternativas gratuitas. A menção de que os números \"808\" também representam uma despesa para as próprias entidades públicas reforça a lógica da mudança, sugerindo que a transição para números \"2\" pode otimizar custos para a administração pública. A crítica à utilização de números de valor acrescentado para dissuadir o contacto e as reclamações é pertinente e a proposta aborda-a ao exigir alternativas gratuitas. O contexto da pandemia de COVID-19, que aumentou a procura pela Linha SNS 24, sublinha a urgência e a relevância da medida para a saúde pública.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá diminuir os gastos dos cidadãos com chamadas para serviços públicos. Para o governo e entidades públicas, o documento sugere que a substituição dos números \"808\" por números de rede fixa (\"2\") pode proporcionar uma \"redução dos custos para a Administração Pública\" relacionados com os números azuis, uma vez que estes são atualmente partilhados com o utente. No entanto, ao tornar as chamadas gratuitas para o utente, o custo total da chamada passará a ser suportado integralmente pela entidade pública ou empresa prestadora de serviço público. Embora o custo por minuto de um número \"2\" seja geralmente inferior ao de um \"808\", o volume de chamadas pode aumentar, o que pode levar a um aumento líquido dos gastos operacionais para algumas entidades, ou a uma otimização para outras. Não há impacto direto na receita do governo. O efeito líquido é uma diminuição dos custos para os cidadãos e uma potencial reestruturação ou, em alguns casos, aumento dos custos operacionais para as entidades públicas, embora o documento aponte para uma redução de custos para a Administração Pública no que diz respeito aos números 808."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

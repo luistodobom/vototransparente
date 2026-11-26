@@ -1,0 +1,44 @@
+{
+ "short_title": "Agravamento de coimas na aviação civil e proibição de voos noturnos",
+ "summary": "O Projeto de Lei n.º 626/XVII/1, apresentado pelo LIVRE, altera o regime das contraordenações aeronáuticas civis e o Regulamento Geral do Ruído. Propõe agravar significativamente os valores mínimos e máximos das coimas aplicáveis a infrações leves, graves e muito graves, diferenciando as sanções consoante a dimensão das empresas e duplicando os limites em caso de reincidência. O diploma responsabiliza expressamente as entidades operadoras, gestoras ou concessionárias de infraestruturas aeroportuárias pelo incumprimento dos limites de ruído e dos horários noturnos. Estabelece ainda o pagamento prévio da coima antes de eventual impugnação judicial, bem como a publicação obrigatória, em formato aberto, das sanções aplicadas a médias e grandes empresas e de um relatório anual pela Autoridade Nacional da Aviação Civil (ANAC). Adicionalmente, proíbe aterragens entre as 23:00 e as 07:00 e descolagens entre as 22:00 e as 06:00, revogando a portaria que autorizava exceções noturnas.",
+ "key_points": [
+  "Agrava as coimas na aviação civil consoante a gravidade e a dimensão da empresa, atingindo dois milhões de euros em infrações muito graves dolosas de grandes empresas, e duplica os limites na reincidência.",
+  "Responsabiliza as operadoras, gestoras ou concessionárias aeroportuárias pela violação das regras de ruído e voos noturnos, salvo casos de força maior.",
+  "Exige o pagamento prévio da coima antes da impugnação judicial e afeta 80% da receita das sanções ao Fundo Ambiental para obras de isolamento termo-acústico em edifícios.",
+  "Obriga a ANAC a divulgar online, durante dez anos e em formato aberto, os dados das infrações de médias e grandes empresas e a publicar um relatório anual.",
+  "Proíbe aterragens entre as 23:00 e as 07:00, descolagens entre as 22:00 e as 06:00 e práticas ruidosas como o 'reverse thrust', revogando a portaria que permitia exceções."
+ ],
+ "plain_language": "Esta proposta pretende reduzir o ruído dos aviões à noite e tornar as multas na aviação muito mais pesadas. Passa a ser proibido aterrar entre as 23:00 e as 07:00 e descolar entre as 22:00 e as 06:00, acabando com a exceção de 2004 que permitia voos noturnos regulares. As multas sobem bastante para grandes companhias e gestoras aeroportuárias e têm de ser pagas antes de qualquer recurso em tribunal. Além disso, a maior parte do dinheiro das coimas pagará obras de isolamento acústico em edifícios afetados e as infrações das grandes e médias empresas serão divulgadas na internet.",
+ "context": "O LIVRE argumenta que o regime contraordenacional de 2004 está desatualizado e que os valores das coimas não dissuadem os operadores, apontando multas de 12,1 milhões de euros aplicadas pela ANAC em 2024 e 2025. Invoca ainda violações sistemáticas dos limites de voos noturnos e os efeitos do ruído na saúde pública e no descanso das populações junto aos aeroportos, citando o impacto no Hospital Júlio de Matos. Critica também o uso de verbas públicas para isolamento acústico em vez da responsabilização financeira das entidades poluidoras.",
+ "analysis": "A iniciativa reforça a transparência regulatória, a proteção da saúde pública e o princípio do poluidor-pagador ao atualizar coimas antigas, responsabilizar concessionárias e consignar 80% das multas ao isolamento acústico. Contudo, apresenta fragilidades técnicas e jurídicas relevantes. Existe uma contradição interna entre a exposição de motivos, que aponta para a proibição entre as 00:00 e as 06:00, e o articulado, que proíbe aterragens das 23:00 às 07:00 e descolagens das 22:00 às 06:00. A manutenção da ressalva ao Decreto-Lei n.º 293/2003 no artigo 20.º pode ainda suscitar dúvidas sobre o alcance da restrição em grandes aeroportos. Por fim, exigir o pagamento prévio da coima antes de recurso judicial levanta reservas quanto à tutela jurisdicional efetiva, e a entrada em vigor em 30 dias não prevê período transitório para reprogramação de voos.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O agravamento das coimas e a exigência de pagamento prévio tendem a aumentar a receita sancionatória, sendo 80% do produto consignado ao Fundo Ambiental para obras de isolamento acústico, 10% à ANAC e 10% às entidades fiscalizadoras. Contudo, a proibição de voos noturnos pode reduzir o tráfego aéreo e as receitas associadas, bem como o número de infrações ao longo do tempo, gerando um efeito orçamental líquido incerto."
+ },
+ "affected": [
+  "residentes junto a aeroportos",
+  "companhias aéreas",
+  "gestoras e concessionárias aeroportuárias",
+  "passageiros aéreos",
+  "Autoridade Nacional da Aviação Civil"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "saude"
+ ],
+ "tags": [
+  "voos noturnos",
+  "aviação civil",
+  "ruído",
+  "contraordenações",
+  "aeroportos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

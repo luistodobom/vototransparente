@@ -1,0 +1,26 @@
+{
+ "short_title": "Carta dos Direitos Digitais e Medidas Complementares",
+ "summary": "A proposta de lei visa aprovar uma Carta dos Direitos Digitais em Portugal, complementada por medidas para reforçar as garantias dos cidadãos no domínio digital. Aborda desafios como a utilização indevida de dados pessoais, a proliferação de desinformação e a desigualdade no acesso à internet. As principais áreas de intervenção incluem a garantia de acesso universal e de qualidade à internet (com tarifa social e velocidades mínimas), o combate à desinformação online, a promoção da neutralidade da internet, o aumento da transparência na administração pública (incluindo a migração para software livre), a proteção da privacidade e cibersegurança, e a criação de um mecanismo de ação popular digital para defesa destes direitos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer garantir que todos em Portugal tenham direitos no mundo digital, tal como têm na vida real. Significa que querem assegurar que toda a gente tenha acesso à internet de qualidade e a preços justos (até com uma \"tarifa social\" para quem precisa), combater as notícias falsas que andam por aí, garantir que a internet é \"neutra\" (ou seja, que os operadores não podem dar prioridade a uns serviços em detrimento de outros), e que o Estado seja mais transparente e use software que poupe dinheiro e seja mais seguro. Também querem que as pessoas possam defender os seus direitos digitais mais facilmente, como a privacidade e a segurança online. É como uma \"Constituição\" para a nossa vida na internet.",
+ "context": null,
+ "analysis": "A proposta alinha-se consistentemente com o objetivo de reforçar os direitos digitais dos cidadãos, abordando as principais preocupações da era digital. A criação de uma tarifa social e a fixação de velocidades mínimas pela ANACOM são medidas concretas para combater a desigualdade de acesso. O combate à desinformação é reforçado pela aplicação do Plano Europeu e o reforço das competências da ERC. A migração para software livre na administração pública é uma medida inteligente que, além de promover a transparência e segurança, visa uma \"relevante descida da despesa pública\", mostrando um alinhamento entre a proteção de direitos e a eficiência governamental. A introdução da ação popular digital é um mecanismo inovador para a fiscalização cidadã. Não se identificam inconsistências, mas sim uma abordagem multifacetada e coerente para os desafios digitais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto. Por um lado, prevê um aumento dos gastos governamentais em áreas como a promoção da literacia digital, a garantia de pontos de acesso gratuito à internet, o reforço das competências da ANACOM e da ERC para fiscalização e combate à desinformação, e o apoio aos cidadãos no exercício dos seus direitos digitais. A criação de uma tarifa social de acesso à internet poderá implicar subsídios ou compensações aos operadores, ou uma redução indireta da receita fiscal proveniente destes. Por outro lado, a migração faseada do software da administração pública para software livre é explicitamente apontada como uma medida que permitirá uma \"relevante descida da despesa pública\", o que sugere uma diminuição dos gastos a médio/longo prazo. O efeito líquido é difícil de quantificar sem dados específicos, mas a proposta parece equilibrar novos investimentos em direitos digitais com potenciais poupanças na gestão pública de TI."
+ },
+ "affected": [],
+ "categories": [
+  "ciencia",
+  "trabalho",
+  "educacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

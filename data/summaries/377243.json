@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço do financiamento, independência e proteção da RTP e da Lusa",
+ "summary": "Este Projeto de Resolução do LIVRE recomenda ao Governo dez medidas para reforçar o serviço público de rádio e televisão (RTP) e salvaguardar a autonomia da agência Lusa. Sem força vinculativa, a iniciativa propõe o abandono de qualquer plano de privatização e a criação de um modelo de financiamento plurianual, com horizonte mínimo de quatro anos, combinando a contribuição para o audiovisual com financiamento público direto e mecanismos de atualização. Recomenda ainda o reforço dos centros regionais, das emissões internacionais, da produção independente, das acessibilidades e do combate à desinformação. Propõe também rever limites à contratação, converter prestações de serviços permanentes em contratos de trabalho e travar qualquer fusão entre a RTP e a Lusa. Pede igualmente a classificação do arquivo audiovisual como património nacional e a remuneração de jornalistas pelo uso de conteúdos em inteligência artificial.",
+ "key_points": [
+  "Estabelecer um modelo de financiamento plurianual de pelo menos quatro anos com critérios objetivos, combinando a contribuição para o audiovisual com dotações públicas diretas, e afastar qualquer privatização da RTP.",
+  "Rever os limites à contratação na RTP para repor saídas voluntárias, rejuvenescer os quadros e converter prestações de serviços permanentes em contratos de trabalho.",
+  "Impedir qualquer fusão institucional ou integração orgânica entre a Lusa e a RTP, mantendo direções de informação, redações e delegações separadas.",
+  "Classificar o arquivo audiovisual da RTP como património documental de interesse nacional, proibindo a sua alienação ou concessão exclusiva a terceiros.",
+  "Garantir autorização prévia e remuneração aos jornalistas pela utilização de conteúdos e do acervo público no treino de sistemas de inteligência artificial generativa.",
+  "Reforçar o investimento nos centros regionais dos Açores e da Madeira, nas emissões para as comunidades, na produção nacional, na acessibilidade e no combate à desinformação."
+ ],
+ "plain_language": "Este documento é uma recomendação ao Governo, sem força obrigatória, para proteger e reforçar a RTP e a agência Lusa. O partido proponente quer impedir qualquer privatização da RTP e garantir um financiamento estável por pelo menos quatro anos, combinando a contribuição paga na fatura da eletricidade com verbas diretas do Estado. Pede também novas contratações para compensar saídas, a passagem de prestadores de serviços permanentes para os quadros e a separação total entre as redações da RTP e da Lusa. Por fim, propõe proteger o arquivo histórico da RTP e exigir autorização e pagamento quando a inteligência artificial usa conteúdos jornalísticos.",
+ "context": "O proponente justifica a iniciativa com o subfinanciamento crónico da RTP, agravado pelo congelamento da contribuição para o audiovisual desde 2017, que terá gerado uma perda acumulada de cerca de 174,8 milhões de euros e contribuído para prejuízos de 3,9 milhões em 2025. Aponta ainda o incumprimento do Regulamento Europeu relativo à Liberdade dos Meios de Comunicação Social, planos de rescisões voluntárias, preocupações dos jornalistas com o memorando entre a RTP e a Lusa e o uso não remunerado de conteúdos jornalísticos por sistemas de inteligência artificial.",
+ "analysis": "Como ponto forte, a iniciativa alinha a previsibilidade financeira com o Regulamento Europeu relativo à Liberdade dos Meios de Comunicação Social e aborda desafios atuais, como o arquivo histórico e os direitos face à inteligência artificial. Contudo, apresenta fragilidades claras: tratando-se de um Projeto de Resolução, não vincula o Governo. Mais importante, propõe um alargamento vasto de encargos (reposição de pessoal, dotações públicas diretas, produção e acessibilidades) sem quantificar o impacto orçamental nem clarificar se o mecanismo de atualização implica aumentar a taxa paga pelas famílias. Além disso, a rejeição total de integração com a Lusa pode dificultar partilhas técnicas sem risco editorial.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Caso as recomendações sejam acolhidas pelo Governo, a iniciativa implica um aumento da despesa pública através de financiamento direto plurianual do Orçamento do Estado, novas contratações e maior investimento em produção, regiões e acessibilidades. Por se tratar de um Projeto de Resolução não vinculativo e sem estimativa orçamental própria, o acréscimo exato não está quantificado, embora o documento refira uma transferência prevista de 211,1 milhões de euros para 2026, acrescida de 20 milhões para reorganização."
+ },
+ "affected": [
+  "trabalhadores e jornalistas da RTP",
+  "trabalhadores e jornalistas da Lusa",
+  "produtores audiovisuais independentes",
+  "cidadãos e utentes do serviço público"
+ ],
+ "categories": [
+  "comunicacao",
+  "cultura",
+  "trabalho"
+ ],
+ "tags": [
+  "rtp",
+  "agência lusa",
+  "serviço público",
+  "contribuição audiovisual",
+  "inteligência artificial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

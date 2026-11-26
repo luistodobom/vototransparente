@@ -1,0 +1,39 @@
+{
+ "short_title": "Duplicação do acréscimo à dedução no IRS a partir do 3.º filho",
+ "summary": "O Projeto de Lei do CDS-PP altera o artigo 78.º-A do Código do IRS para aumentar o acréscimo à dedução à coleta dirigido a famílias com três ou mais filhos. Atualmente, a lei prevê um acréscimo de 300 euros (ou 150 euros para um único sujeito passivo) para o segundo dependente e seguintes até aos seis anos de idade. A proposta mantém este montante para o segundo dependente, mas duplica-o para 600 euros (300 euros se for apenas um sujeito passivo) a partir do terceiro dependente que não ultrapasse os seis anos até 31 de dezembro do ano do imposto, independentemente da idade dos dois primeiros dependentes. Para acautelar as contas públicas, aplica uma norma transitória: em 2027, o acréscimo é de 450 euros (225 euros para um sujeito passivo), atingindo o valor total a partir de 2028. Entra em vigor com o Orçamento de Estado subsequente.",
+ "key_points": [
+  "Mantém o acréscimo à dedução à coleta de IRS de 300 euros (ou 150 euros para um sujeito passivo) para o segundo dependente até aos seis anos de idade.",
+  "Duplica o acréscimo à dedução para 600 euros (ou 300 euros para um sujeito passivo) para o terceiro dependente e seguintes até aos seis anos, independentemente da idade dos dois primeiros.",
+  "Estabelece um regime transitório para o período de tributação de 2027, fixando o acréscimo a partir do terceiro dependente em 450 euros (ou 225 euros para um sujeito passivo).",
+  "Determina a aplicação integral da duplicação apenas aos períodos de tributação iniciados a partir de 1 de janeiro de 2028 e a entrada em vigor com o Orçamento de Estado subsequente."
+ ],
+ "plain_language": "Este projeto de lei propõe baixar o IRS das famílias com três ou mais filhos pequenos. Atualmente, a partir do segundo filho até aos seis anos, os pais podem abater mais 300 euros no imposto (ou 150 euros se for apenas um adulto a declarar). A proposta mantém esse valor para o segundo filho, mas duplica-o para 600 euros a partir do terceiro filho com até seis anos (300 euros para um só declarante). Para suavizar o custo nas contas públicas, a subida faz-se em duas fases: metade do aumento em 2027 e o valor total a partir de 2028.",
+ "context": "O CDS-PP justifica a iniciativa com a grave crise de natalidade em Portugal. Refere que, em 2024, o índice sintético de fecundidade era de 1,4 filhos por mulher, abaixo dos 2,1 necessários para assegurar a renovação das gerações, e que, segundo o INE, apenas 4,8% das famílias portuguesas têm três ou mais filhos. O partido considera o terceiro filho essencial para a sustentabilidade demográfica e propõe uma aplicação gradual até 2028 para proteger a sustentabilidade das contas públicas.",
+ "analysis": "Como ponto forte, a iniciativa tem uma redação objetiva e prevê uma transição gradual até 2028, articulada com o Orçamento de Estado subsequente, o que atenua o impacto orçamental imediato. Contudo, o projeto não apresenta qualquer estimativa da perda de receita fiscal nem fundamentação técnica que demonstre que um alívio adicional máximo de 300 euros anuais influencie decisões de natalidade. Além disso, ao incidir apenas sobre a dedução à coleta e exigir que os dependentes tenham até seis anos, a medida exclui famílias com terceiros filhos mais velhos e beneficia menos ou nada os agregados de baixos rendimentos com imposto reduzido. A fixação rígida dos anos de 2027 e 2028 pode também gerar desfasamentos se a aprovação atrasar.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao aumentar o acréscimo à dedução à coleta de IRS a partir do terceiro dependente para 450 euros em 2027 e 600 euros a partir de 2028 (ou metade para um único sujeito passivo), a medida reduz a receita fiscal do Estado. O documento não apresenta uma estimativa do impacto orçamental global."
+ },
+ "affected": [
+  "famílias com três ou mais dependentes",
+  "sujeitos passivos de IRS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "natalidade",
+  "dedução à coleta",
+  "famílias numerosas",
+  "terceiro filho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

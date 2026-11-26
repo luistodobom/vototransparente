@@ -1,0 +1,25 @@
+{
+ "short_title": "Mais transparência em anúncios de emprego e salários",
+ "summary": "A proposta visa aumentar a transparência nos anúncios de emprego online, exigindo que os empregadores incluam informações essenciais como a identificação da empresa, local de trabalho, tipo de contrato, horário e, crucialmente, o valor certo ou estimado da remuneração. Além disso, estabelece a obrigação de as entidades empregadoras comunicarem trianualmente ao Estado dados detalhados sobre as remunerações dos seus trabalhadores, para que seja elaborado um relatório público sobre a caracterização do trabalho e salários em Portugal. O objetivo é tornar o processo de recrutamento mais eficiente e justo para candidatos e empregadores.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que os anúncios de emprego na internet sejam mais claros. Em vez de dizer \"salário a combinar\", as empresas teriam de dizer quanto pagam ou quanto esperam pagar, e dar mais detalhes sobre o trabalho e a empresa logo no anúncio. Além disso, as empresas teriam de enviar ao governo informações sobre os salários que pagam, para que se possa ter uma ideia melhor de como está o mercado de trabalho em Portugal. A ideia é que ninguém perca tempo com candidaturas que não interessam e que o processo de encontrar emprego seja mais justo.",
+ "context": null,
+ "analysis": "A proposta visa, de forma louvável, aumentar a transparência no mercado de trabalho, o que se alinha com o objetivo de tornar o processo de recrutamento mais eficiente e justo. No entanto, o Artigo 2.º, ponto 5, que permite que a identificação do empregador e o valor da retribuição sejam indicados \"posteriormente ao candidato no contacto que precede a entrevista\", introduz uma inconsistência. Esta cláusula pode comprometer a transparência total no anúncio inicial, que é o principal foco da proposta, permitindo que informações cruciais sejam omitidas até uma fase posterior, o que pode ainda levar a candidaturas desnecessárias e ineficiências, contrariando parte da justificação inicial. A exigência de comunicação de dados salariais ao Estado é consistente com o objetivo de melhorar as políticas públicas e a compreensão do mercado laboral.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo. A criação de um novo dever de comunicação de dados salariais pelas entidades empregadoras ao Estado (Artigo 3.º) exigirá recursos adicionais para a entidade pública responsável (a ser designada) para recolher, processar e analisar esses dados, bem como para elaborar e publicar relatórios públicos. Não há indicação de que a proposta aumente as receitas do governo. O efeito líquido será um aumento dos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

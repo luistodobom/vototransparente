@@ -1,0 +1,44 @@
+{
+ "short_title": "Alargamento da licença parental inicial para 180 dias a 100%",
+ "summary": "Este Projeto de Lei, apresentado por iniciativa legislativa de cidadãos, altera o Código do Trabalho e o regime de proteção social na parentalidade. Propõe alargar a licença parental inicial para 180 ou 210 dias consecutivos, garantindo o pagamento a 100% da remuneração de referência durante 180 dias, mesmo sem partilha entre progenitores. Caso optem por 210 dias, o subsídio é de 80%, subindo para 100% se houver partilha mínima de 30 dias. A iniciativa equipara ainda as licenças exclusivas obrigatórias da mãe e do pai em 56 dias, exigindo que o pai goze 28 dias imediatamente após o nascimento e os restantes nos 12 meses seguintes. Inclui também adaptações para famílias monoparentais e ajusta o subsídio social parental indexado ao Indexante dos Apoios Sociais. A entrada em vigor fica remetida para o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Alarga a licença parental inicial para 180 dias pagos a 100%, independentemente de partilha entre progenitores, ou para 210 dias pagos a 80%.",
+  "Mantém o pagamento a 100% na licença de 210 dias caso cada progenitor goze pelo menos 30 dias consecutivos ou dois períodos de 15 dias.",
+  "Fixa em 56 dias consecutivos após o parto a licença parental exclusiva obrigatória da mãe.",
+  "Aumenta para 56 dias a licença exclusiva obrigatória do pai, sendo 28 dias consecutivos logo após o nascimento e os restantes nos 12 meses seguintes.",
+  "Prevê a adaptação da licença parental por impossibilidade do outro progenitor às famílias monoparentais e remete a entrada em vigor para o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Esta proposta de cidadãos quer aumentar o tempo de licença pago a 100% após o nascimento ou adoção de um filho. Em vez dos atuais 120 dias sem partilha, os pais passam a ter direito a 180 dias com salário completo, mesmo que apenas um deles fique com o bebé. Se quiserem 210 dias, recebem 80% do ordenado, ou 100% se dividirem a licença. Além disso, tanto a mãe como o pai passam a ter obrigatoriamente 56 dias de licença exclusiva. As regras só entram em vigor com o próximo Orçamento do Estado.",
+ "context": "Os proponentes justificam a medida com a baixa natalidade em Portugal, referindo que o número médio real de filhos é de 0,86 face aos 2,15 desejados. Argumentam que muitas famílias, sobretudo de menores rendimentos, escolhem licenças de 120 dias para manter o salário integral, o que dificulta a amamentação exclusiva até aos seis meses recomendada pela Organização Mundial da Saúde. Defendem também que a igualdade no tempo de licença exclusiva promove a corresponsabilidade paterna e a equidade de género, enquanto o fim da partilha obrigatória protege a autonomia familiar e as famílias monoparentais.",
+ "analysis": "Como ponto forte, a iniciativa alinha a proteção social na parentalidade com metas de saúde pública e de igualdade de género, removendo a penalização salarial para quem não partilha a licença e remetendo a entrada em vigor para o Orçamento do Estado seguinte. Contudo, o articulado apresenta fragilidades técnicas relevantes. Nos artigos 30.º e 57.º do Decreto-Lei n.º 91/2009 mantém-se uma referência a licenças de 240 dias sem que essa duração figure na alteração ao artigo 40.º do Código do Trabalho, o que gera incoerência normativa. A inclusão das famílias monoparentais surge sem critérios concretos de aplicação e o artigo sobre adoção contém numeração duplicada e não adapta expressamente a licença do pai. Falta ainda qualquer quantificação do impacto financeiro na Segurança Social e nas empresas, sendo apenas invocados ganhos indiretos na saúde e nas creches.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da licença parental inicial para 180 dias a 100% e o aumento da licença exclusiva do pai para 56 dias aumentam a despesa pública com prestações da Segurança Social. O documento não apresenta estimativas orçamentais, referindo apenas potenciais poupanças indiretas no Serviço Nacional de Saúde e na rede de creches, e remete a entrada em vigor para o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "pais e mães",
+  "famílias monoparentais",
+  "candidatos a adotantes",
+  "entidades empregadoras"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "licença parental",
+  "segurança social",
+  "código do trabalho",
+  "natalidade",
+  "igualdade de género"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Justiça Fiscal: Aliviar impostos sobre trabalhadores, tributar lucros económicos",
+ "summary": "A proposta, apresentada pelo PCP, visa reformar o sistema fiscal português para promover uma maior justiça. O objetivo é aliviar a carga fiscal sobre os trabalhadores, reformados e famílias, através da redução do IRS e do IVA em bens e serviços essenciais como eletricidade, gás e telecomunicações. Em contrapartida, propõe-se aumentar a tributação sobre os lucros de grandes grupos económicos, multinacionais e rendimentos de capital de elevado valor, eliminando isenções e benefícios fiscais existentes (incluindo o regime para residentes não habituais) e criando uma taxa especial sobre transações financeiras para paraísos fiscais. A meta é assegurar que o Estado disponha dos meios necessários para financiar funções sociais, infraestruturas públicas e promover o desenvolvimento nacional e o aumento de salários e pensões.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do PCP quer mudar a forma como pagamos impostos em Portugal. A ideia é que as pessoas comuns, como trabalhadores e reformados, paguem menos impostos no IRS e no IVA (por exemplo, na conta da luz, do gás e do telemóvel). Ao mesmo tempo, querem que as grandes empresas, os bancos e os mais ricos paguem mais, acabando com os \"descontos\" fiscais que têm e criando impostos novos para quem manda dinheiro para paraísos fiscais. O objetivo é que o Estado tenha mais dinheiro para a saúde, educação, transportes e para aumentar salários e pensões, em vez de o dinheiro ir parar aos bolsos dos mais ricos.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica do sistema fiscal português, argumentando que este é injusto e regressivo, penalizando desproporcionalmente os trabalhadores e as pequenas empresas, enquanto beneficia o grande capital através de isenções e lacunas fiscais. A proposta aponta para o aumento do peso dos impostos indiretos (como o IVA) na receita total, o que agrava as desigualdades, e para a diminuição da contribuição do IRC (imposto sobre lucros das empresas) apesar dos lucros elevados. As medidas propostas alinham-se diretamente com o objetivo declarado de justiça fiscal: a redução do IRS e do IVA para a maioria da população visa aliviar a sua carga, enquanto o aumento do IRC e a introdução de novas taxas/fim de benefícios para o grande capital procuram corrigir o desequilíbrio. A proposta é internamente consistente na sua crítica e nas soluções apresentadas, defendendo uma clara inversão da política fiscal atual.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa uma redistribuição da carga fiscal. Prevê uma diminuição da receita governamental proveniente do IRS e do IVA para a população em geral, através de taxas mais baixas e deduções aumentadas. Contudo, procura aumentar significativamente a receita fiscal proveniente de grandes grupos económicos, multinacionais e capital financeiro, através da eliminação de benefícios fiscais, revogação de isenções e introdução de novas taxas (como 35% sobre transações financeiras para paraísos fiscais). O documento sugere que Portugal perde centenas de milhões de euros anualmente em IRC devido a benefícios fiscais, implicando que a reversão destas medidas resultaria num aumento da receita. O efeito líquido pretendido é o reforço da capacidade do Estado para financiar serviços públicos e bem-estar social, sugerindo um impacto positivo nas finanças públicas através de uma arrecadação mais equitativa."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

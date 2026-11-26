@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração de critérios para prestações sociais a estrangeiros",
+ "summary": "A proposta visa alterar os critérios de atribuição de prestações do subsistema de solidariedade e de proteção familiar a cidadãos estrangeiros residentes em Portugal, provenientes de Estados Terceiros que não tenham celebrado um acordo de livre circulação com a União Europeia. Atualmente, estas prestações são tendencialmente não contributivas. A alteração proposta exige que estes cidadãos tenham residência legal em Portugal há pelo menos 5 anos e tenham contribuído para a Segurança Social durante esse período para terem acesso a esses apoios, como o Rendimento Social de Inserção ou o Abono de Família. O objetivo é promover uma imigração mais regulada e sustentável, focada na contribuição para o sistema.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer mudar as regras para os estrangeiros que vêm de países fora da União Europeia e que não têm acordos de livre circulação. Atualmente, eles podem ter acesso a certos apoios sociais, mesmo que nunca tenham descontado. O CHEGA quer que, para terem direito a esses apoios, eles tenham de viver legalmente em Portugal há pelo menos 5 anos e ter feito descontos para a Segurança Social durante esse tempo. A ideia é que só quem contribui é que deve ter acesso a estes apoios, para ajudar a manter o sistema e atrair imigrantes que venham para trabalhar e não apenas para usufruir dos apoios.",
+ "context": null,
+ "analysis": "A proposta identifica uma lacuna no sistema atual, onde benefícios sociais não contributivos são acessíveis a cidadãos estrangeiros sem um período mínimo de residência ou contribuição, contrastando com os benefícios contributivos. A solução proposta é introduzir um requisito de 5 anos de residência legal e contribuição para o acesso a benefícios que, por definição, são 'não contributivos'. Esta abordagem cria uma contradição conceptual, pois impõe uma condição contributiva a um subsistema que se destina a apoiar situações de carência independentemente de contribuições prévias. Embora o objetivo declarado seja promover uma imigração mais focada no trabalho e na sustentabilidade do sistema de segurança social, a medida redefine fundamentalmente a natureza dos apoios de solidariedade para este grupo específico, podendo levantar questões sobre equidade e o risco de exclusão para quem, genuinamente necessitado, não cumpra os novos critérios de contribuição.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta deverá diminuir os gastos do governo com prestações sociais, uma vez que restringe o acesso a benefícios não contributivos para um grupo específico de cidadãos estrangeiros, impondo um período mínimo de residência e contribuição. Ao incentivar uma imigração mais focada na contribuição para o sistema de segurança social, a proposta também visa aumentar as receitas do governo provenientes de descontos. O efeito líquido esperado é uma redução da despesa pública e um potencial aumento da receita, resultando num impacto fiscal positivo para o sistema de segurança social."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

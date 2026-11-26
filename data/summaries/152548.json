@@ -1,0 +1,26 @@
+{
+ "short_title": "Troca Automática de Informações Fiscais de Plataformas Digitais",
+ "summary": "Esta proposta de lei estabelece um novo regime para a troca automática de informações fiscais, focando-se nos dados comunicados por operadores de plataformas digitais. O objetivo principal é transpor uma diretiva da União Europeia (UE) para a legislação portuguesa e alinhar-se com os compromissos da OCDE, visando aumentar a transparência fiscal e combater a fraude e evasão de impostos. A lei também prevê a troca internacional de informações sobre rendimentos de propriedade intelectual e a realização de auditorias fiscais conjuntas entre Estados-MMembros.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta lei quer apertar o cerco à fuga aos impostos na internet. Basicamente, as plataformas digitais como o Airbnb ou a Uber vão ter de dizer às Finanças quanto é que as pessoas ganham a vender coisas ou a prestar serviços através delas. Assim, o Estado consegue saber quem está a ganhar dinheiro e garantir que todos pagam os seus impostos. A lei também facilita a troca de informações fiscais entre Portugal e outros países, incluindo sobre rendimentos de patentes ou direitos de autor, e permite que as autoridades fiscais façam auditorias em conjunto para apanhar os prevaricadores. Tudo isto para que ninguém se safe a pagar o que deve.",
+ "context": null,
+ "analysis": "O documento apresenta uma abordagem coerente e abrangente para a cooperação administrativa no domínio da fiscalidade, com um foco claro na economia digital. A transposição da Diretiva (UE) 2021/514 e a conformidade com as regras da OCDE demonstram um alinhamento com as normas internacionais e europeias para combater a fraude e evasão fiscais. Os detalhes de implementação, como a definição de operadores e vendedores sujeitos a comunicação, os procedimentos de diligência devida e o quadro sancionatório, parecem bem articulados para garantir a eficácia do regime. A inclusão de disposições sobre a proteção de dados pessoais (RGPD) é crucial para equilibrar a necessidade de transparência com os direitos individuais. Não são identificadas inconsistências flagrantes, e os mecanismos propostos parecem adequados para atingir os objetivos de maior transparência e combate à evasão fiscal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa aumentar a receita do governo ao melhorar a capacidade de detetar e tributar rendimentos gerados através de plataformas digitais e outras atividades transfronteiriças que, de outra forma, poderiam não ser declaradas. Embora haja custos administrativos iniciais para a Autoridade Tributária e Aduaneira e para os operadores de plataformas na adaptação aos novos requisitos de comunicação, o efeito líquido esperado é um aumento da receita fiscal devido à redução da fraude e evasão. Não se prevê um aumento significativo das despesas governamentais para além dos investimentos necessários em sistemas e recursos humanos para a implementação e gestão do novo regime."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ciencia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

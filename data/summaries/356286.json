@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforço da ação social e combate ao abandono no ensino superior",
+ "summary": "O Projeto de Resolução n.º 668/XVII/1.ª, do grupo parlamentar do Chega, recomenda ao Governo oito medidas para reforçar a ação social no ensino superior e reduzir o abandono estudantil por razões financeiras. Tratando-se de um projeto de resolução, as propostas não têm força vinculativa. O texto sugere atualizar os apoios sociais de acordo com o custo real de vida em alojamento, alimentação e transportes, bem como simplificar e acelerar os procedimentos de atribuição de bolsas de estudo antes do início do ano letivo. Propõe ainda acelerar a execução do Plano Nacional para o Alojamento no Ensino Superior, converter património público devoluto em residências estudantis e articular soluções locais com autarquias e instituições de ensino. Por fim, recomenda apoios à mobilidade, a avaliação da gratuitidade ou redução tarifária nos transportes públicos para estudantes em áreas metropolitanas e a criação de um plano nacional de prevenção do abandono.",
+ "key_points": [
+  "Ajustar o valor dos apoios da ação social escolar ao custo real de vida, incluindo alojamento, alimentação e transportes.",
+  "Simplificar os critérios e acelerar a atribuição das bolsas de estudo para evitar atrasos no início do ano letivo.",
+  "Acelerar o Plano Nacional para o Alojamento no Ensino Superior e converter património público devoluto ou subutilizado em residências universitárias.",
+  "Articular o Estado, instituições de ensino e autarquias para criar soluções de alojamento a preços acessíveis.",
+  "Avaliar passes gratuitos ou com descontos acentuados nos transportes públicos para estudantes do ensino superior, especialmente em áreas metropolitanas.",
+  "Criar um plano nacional de prevenção do abandono no ensino superior focado nas causas económicas e sociais."
+ ],
+ "plain_language": "Este documento é um conjunto de sugestões do Chega ao Governo para ajudar os estudantes universitários a pagar as contas e a não desistirem dos estudos por falta de dinheiro. Como se trata de uma recomendação, o Governo não é obrigado a aplicá-la. O partido pede que as bolsas acompanhem o aumento dos preços, que cheguem mais depressa no arranque das aulas e que haja mais residências públicas, aproveitando edifícios vazios do Estado. Sugere também estudar transportes gratuitos ou mais baratos nas grandes cidades e criar um plano nacional para combater o abandono escolar.",
+ "context": "O proponente justifica a iniciativa com a quebra de 16,4% nas candidaturas ao ensino superior na primeira fase de 2025, deixando mais de 11 500 vagas por preencher. Segundo o texto, o problema não resulta da falta de vagas, mas do elevado custo de vida, que pode ultrapassar os 900 euros mensais para um estudante deslocado. O documento aponta atrasos na construção de residências públicas, quartos privados a mais de 400 euros e bolsas que cobrem apenas cerca de 20% das despesas reais, considerando insuficiente a reforma anunciada pelo Governo.",
+ "analysis": "A iniciativa incide sobre constrangimentos reais e documentados, como a perda de poder de compra das bolsas de estudo, os atrasos na entrega de camas públicas e a burocracia no início do ano letivo. Contudo, apresenta fragilidades importantes. Sendo uma recomendação não vinculativa, utiliza fórmulas genéricas como reforçar, acelerar ou avaliar, sem definir critérios concretos, metas temporais nem fontes de financiamento. Há também desfasamento entre o diagnóstico, que refere a necessidade de cerca de 75 000 camas adicionais, e recomendações de execução complexa a curto prazo, como a reabilitação de património público devoluto ou a articulação com autarquias e autoridades de transporte. Além disso, o texto reconhece que o Governo já propôs ajustar apoios ao custo de vida local, mas não explica exatamente porque considera essa reforma incapaz de resolver o problema.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem impacto orçamental direto nem vinculativo. Contudo, a eventual concretização das medidas recomendadas, como o reforço das bolsas, a reabilitação de edifícios para residências e a gratuitidade ou descontos nos transportes públicos, implicaria um aumento da despesa pública, não sendo apresentados cálculos de custos no documento."
+ },
+ "affected": [
+  "estudantes do ensino superior",
+  "estudantes deslocados",
+  "famílias com estudantes no ensino superior",
+  "instituições de ensino superior",
+  "autarquias locais"
+ ],
+ "categories": [
+  "educacao",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "ensino superior",
+  "ação social",
+  "alojamento estudantil",
+  "bolsas de estudo",
+  "abandono estudantil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

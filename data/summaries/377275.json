@@ -1,0 +1,40 @@
+{
+ "short_title": "Fim da cobrança de IVA sobre o imposto dos combustíveis",
+ "summary": "O Projeto de Lei n.º 778/XVII/2.ª, apresentado pelo PCP, propõe eliminar a cobrança do Imposto sobre o Valor Acrescentado (IVA) sobre o valor do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) nos combustíveis. Para concretizar esta alteração, a iniciativa adita um novo número ao artigo 16.º do Código do IVA, determinando que o montante do ISP, definido nos artigos 88.º a 100.º do Código dos Impostos Especiais de Consumo, deixa de integrar o valor tributável das transmissões de bens sujeitas a IVA. A entrada em vigor está prevista para o dia seguinte à publicação, mas os efeitos financeiros só se produzem com o Orçamento do Estado subsequente, podendo o Governo antecipar a aplicação no ano económico em curso caso existam disponibilidades orçamentais.",
+ "key_points": [
+  "Exclui o montante do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) da base sobre a qual é calculado o IVA.",
+  "Adita o n.º 16 ao artigo 16.º do Código do IVA, afastando a aplicação da regra geral que inclui outros impostos no valor tributável das operações internas.",
+  "Remete a produção de efeitos financeiros para o Orçamento do Estado seguinte ao da publicação da lei.",
+  "Permite ao Governo aplicar a medida ainda no ano económico em curso, consoante as disponibilidades do Orçamento do Estado em vigor."
+ ],
+ "plain_language": "Atualmente, quando abastece o depósito, paga dois impostos principais: um imposto específico sobre os combustíveis (o ISP) e o IVA. Hoje em dia, o IVA não incide apenas sobre o preço do combustível, mas também sobre o próprio ISP, o que significa pagar imposto sobre imposto. Esta proposta altera a lei para que o IVA passe a incidir apenas sobre o valor do combustível, deixando o ISP de fora desse cálculo. Contudo, a descida efetiva só terá impacto no próximo Orçamento do Estado, a menos que o Governo decida aplicá-la mais cedo caso haja margem orçamental.",
+ "context": "O PCP justifica a iniciativa com a necessidade de corrigir a injustiça de haver «imposto que paga imposto», dado o peso significativo do ISP e do IVA no preço final dos combustíveis. Na exposição de motivos, associa a subida de preços à instabilidade internacional, a sanções e guerras, bem como a alegadas práticas especulativas de grupos económicos no setor energético. O partido considera insuficientes as reduções de ISP adotadas pelo Governo e sustenta que o alívio fiscal deve ser acompanhado por regulação de preços.",
+ "analysis": "A iniciativa tem o mérito de propor uma alteração objetiva e simples ao Código do IVA e de prever uma norma-travão orçamental, adiando os efeitos financeiros para o Orçamento do Estado seguinte. No entanto, revela fragilidades importantes. Desde logo, há uma incoerência entre o diagnóstico e a solução: a exposição de motivos critica medidas fiscais sem controlo de preços, alertando que as petrolíferas podem absorver a descida, mas este projeto de lei não inclui qualquer mecanismo que garanta que a redução do imposto chegue ao consumidor. Além disso, o texto não quantifica o impacto na receita pública, deixa ao critério do Governo a aplicação no ano em curso e limita a alteração às operações internas previstas no artigo 16.º do Código do IVA, deixando de fora outros impostos especiais de consumo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A exclusão do ISP da base tributável do IVA diminui a receita fiscal arrecadada pelo Estado na venda de combustíveis. O documento não apresenta qualquer estimativa do montante de perda de receita e remete a produção de efeitos financeiros para o Orçamento do Estado subsequente, salvo decisão do Governo em função das disponibilidades orçamentais."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "empresas comercializadoras de combustíveis",
+  "empresas de transportes"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "iva",
+  "isp",
+  "combustíveis",
+  "dupla tributação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

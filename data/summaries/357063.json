@@ -1,0 +1,42 @@
+{
+ "short_title": "Segurança de mulheres e grupos vulneráveis nos transportes públicos",
+ "summary": "O Projeto de Resolução n.º 1152/XVII/1.ª, apresentado pelo CHEGA, recomenda ao Governo um conjunto de medidas para reforçar a segurança e a proteção de mulheres e de outros utilizadores considerados vulneráveis nos transportes públicos. Tratando-se de um projeto de resolução, as propostas assumem a forma de recomendação não vinculativa ao Executivo. Em concreto, a iniciativa propõe três linhas de ação: o reforço da instalação de videovigilância, botões de emergência, iluminação adequada e monitorização permanente em veículos, estações, apeadeiros, interfaces e paragens, com prioridade para o período noturno e locais mais críticos; o desenvolvimento de uma aplicação digital e de um sistema nacional para denúncias imediatas em tempo real às autoridades e aos operadores; e a realização de campanhas nacionais de sensibilização e prevenção contra o assédio e a violência nos transportes, incentivando a denúncia, a intervenção de testemunhas e a proteção das vítimas.",
+ "key_points": [
+  "Recomenda ao Governo o reforço de videovigilância, botões de emergência, iluminação adequada e monitorização permanente em veículos, estações, apeadeiros, interfaces e paragens.",
+  "Dá prioridade à instalação destes equipamentos nos períodos noturnos e nos locais identificados como mais vulneráveis a assédio, violência ou criminalidade.",
+  "Propõe a criação de uma aplicação digital e de um sistema nacional de denúncia imediata para reportar ocorrências em tempo real às autoridades e aos operadores.",
+  "Sugere a realização de campanhas nacionais de sensibilização e prevenção do assédio e da violência nos transportes públicos, promovendo a denúncia, a intervenção de testemunhas e a proteção das vítimas."
+ ],
+ "plain_language": "Esta iniciativa pede ao Governo que torne os transportes públicos mais seguros para mulheres, menores, idosos e pessoas com mobilidade condicionada. Por ser um projeto de resolução, não obriga o Governo a nada, servindo apenas como recomendação. O texto propõe três medidas: instalar mais câmaras de vigilância, botões de emergência e melhor iluminação em veículos, estações e paragens, sobretudo à noite; criar uma aplicação e um sistema nacional para denunciar assédio ou violência em tempo real; e lançar campanhas de sensibilização para prevenir abusos e incentivar vítimas e testemunhas a agir e denunciar.",
+ "context": "Os proponentes justificam a iniciativa com dados nacionais e europeus que apontam para elevada incidência de assédio sexual e violência em espaços públicos, condicionando a liberdade de circulação, sobretudo das mulheres. Citam inquéritos da IPSOS, da Universidade do Porto e de organismos europeus que mostram que muitas vítimas alteram rotinas, evitam transportes e raramente denunciam. Referem também o Relatório Anual de Segurança Interna e destacam que menores, idosos e pessoas com mobilidade condicionada enfrentam riscos acrescidos, invocando exemplos internacionais de proteção facultativa nos transportes.",
+ "analysis": "A iniciativa aborda um problema documentado que afeta a mobilidade e a segurança de utilizadores vulneráveis, combinando prevenção física, ferramentas de denúncia rápida e sensibilização. Contudo, apresenta fragilidades relevantes. Desde logo, por ser um projeto de resolução, não tem força vinculativa nem define prazos, orçamento ou repartição de competências entre Governo, autarquias, operadores de transporte e forças de segurança. Há também uma clara inconsistência entre a exposição de motivos e a parte resolutiva: o preâmbulo dedica amplo espaço a defender carruagens reservadas e paragens noturnas flexíveis no estrangeiro, mas nenhuma dessas medidas surge nas recomendações finais. Por fim, a monitorização permanente e a resposta em tempo real exigem recursos humanos e regras rigorosas de proteção de dados que o texto não detalha.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, a aprovação não gera despesa automática nem indica valores. Contudo, a eventual execução das medidas pelo Governo implicaria custos públicos com equipamentos de vigilância, iluminação, desenvolvimento tecnológico, monitorização permanente e campanhas nacionais."
+ },
+ "affected": [
+  "mulheres utilizadoras de transportes públicos",
+  "menores, pessoas idosas e pessoas com mobilidade condicionada",
+  "operadores de transportes públicos",
+  "forças de segurança"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "transportes públicos",
+  "assédio sexual",
+  "segurança",
+  "videovigilância",
+  "proteção de vítimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

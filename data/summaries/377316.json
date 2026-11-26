@@ -1,0 +1,42 @@
+{
+ "short_title": "Suspensão dos limites mínimos do ISP nos combustíveis até fim de 2027",
+ "summary": "O Projeto de Lei n.º 796/XVII/2.ª, apresentado pela Iniciativa Liberal, altera a Lei n.º 12-B/2026, de 15 de abril, com o objetivo de suspender temporariamente os limites mínimos das taxas unitárias do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) aplicáveis à gasolina sem chumbo e ao gasóleo. Em concreto, a iniciativa substitui a anterior redução dos limites mínimos — que estavam fixados em 199,89 euros para a gasolina e 156,66 euros para o gasóleo — por uma suspensão completa desses mínimos, passando o limite legal a ser de zero (0,00). Além disso, alarga o prazo de vigência deste regime excecional, inicialmente previsto até 30 de junho, para vigorar até 31 de dezembro de 2027. A proposta entra em vigor no dia seguinte ao da sua publicação e visa permitir ao Governo maior margem legal para reduzir o ISP.",
+ "key_points": [
+  "Altera a Lei n.º 12-B/2026 para converter a redução dos limites mínimos do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) numa suspensão temporária e excecional.",
+  "Elimina os valores mínimos de 199,89 euros para a gasolina sem chumbo e de 156,66 euros para o gasóleo, fixando o novo limite mínimo em 0,00.",
+  "Prolonga a vigência desta medida excecional, que terminava a 30 de junho, até 31 de dezembro de 2027.",
+  "Determina a entrada em vigor das novas regras no dia seguinte ao da publicação da lei."
+ ],
+ "plain_language": "Quando abastece o carro, uma parte importante do preço vai para impostos, incluindo o ISP (Imposto sobre os Produtos Petrolíferos). A lei portuguesa define um valor mínimo abaixo do qual o Governo não pode baixar este imposto. Como esse mínimo já estava quase a ser atingido, a Iniciativa Liberal propõe eliminá-lo temporariamente, passando o limite para zero até ao final de 2027. Isto não baixa automaticamente o preço da gasolina nem do gasóleo nas bombas: apenas retira o travão legal para que o Governo possa, se decidir fazê-lo, cortar ainda mais este imposto enquanto os preços estiverem elevados.",
+ "context": "O proponente justifica a iniciativa com a forte subida dos preços da gasolina (24%) e do gasóleo (36%) entre março e setembro, associada ao conflito com o Irão, mais acentuada do que a registada no início da invasão russa da Ucrânia em 2022. Segundo a Iniciativa Liberal, os impostos sobre a gasolina mantiveram-se inalterados e a atual redução do limite mínimo do ISP aproxima-se do teto legal, enquanto o aumento dos combustíveis gera mais receita de IVA e agrava a inflação prevista pelo Banco de Portugal para 2026.",
+ "analysis": "A proposta tem o mérito de remover um entrave legal concreto à eventual redução do ISP, evitando novas alterações legislativas avulsas até ao fim de 2027. Contudo, a sua eficácia prática é incerta, pois não obriga o Governo a baixar efetivamente os impostos nem garante que uma descida fiscal se traduza integralmente em preços mais baixos para os consumidores. Além disso, não apresenta estimativas do impacto orçamental de uma redução adicional de receita, num contexto em que o prazo alargado até dezembro de 2027 ultrapassa o horizonte imediato da crise sem prever mecanismos de reavaliação periódica. Por fim, no plano técnico, a nova redação proposta para o artigo 2.º omite o símbolo de euro ao fixar o limite em «0,00».",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A iniciativa apenas elimina o limite mínimo legal do ISP, fixando-o em zero até ao final de 2027, sem baixar diretamente as taxas em vigor nem apresentar estimativas orçamentais. Uma eventual redução da receita fiscal dependerá de o Governo utilizar posteriormente essa margem para reduzir o imposto."
+ },
+ "affected": [
+  "condutores e famílias",
+  "empresas de transportes e logística",
+  "Estado (receita fiscal)",
+  "setor dos combustíveis"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "isp",
+  "gasolina",
+  "gasóleo",
+  "impostos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

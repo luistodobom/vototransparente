@@ -1,0 +1,25 @@
+{
+ "short_title": "Redução IVA para Reabilitação de Habitação",
+ "summary": "Esta proposta de lei visa alterar o Código do IVA para que as obras de reabilitação e outras intervenções em imóveis destinados a habitação beneficiem de uma taxa reduzida de IVA de 6%. Atualmente, esta taxa reduzida aplica-se principalmente à mão de obra, com limitações nos materiais. A alteração proposta estende a taxa reduzida para abranger também os materiais incorporados, independentemente do seu custo, com o objetivo de tornar a reabilitação de imóveis mais acessível e, assim, combater a escassez de oferta habitacional e a degradação do parque imobiliário em Portugal.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que as obras de remodelação e arranjos em casas paguem menos IVA, passando de uma taxa mais alta para 6%. Hoje em dia, essa taxa mais baixa só se aplica à mão de obra, mas os materiais, que são caros, ficam de fora. A ideia é que, ao baixar o IVA dos materiais, fique mais barato arranjar casas, o que pode ajudar a ter mais casas disponíveis e em melhor estado, e assim resolver um bocadinho o problema da falta de casas e dos preços altos.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente a crise habitacional em Portugal, caracterizada pela falta de oferta, aumento de preços e degradação de imóveis. A análise do documento aponta que a atual aplicação da taxa reduzida de IVA para reabilitação é insuficiente, pois exclui a maioria dos custos de materiais, que são uma parte significativa do valor total das obras. Ao propor que a taxa reduzida de 6% abranja também os materiais incorporados, a proposta alinha-se diretamente com o objetivo de reduzir o custo final das obras de reabilitação. Esta medida é consistente com a intenção de incentivar a recuperação de património devoluto e degradado, aumentar a oferta de habitação a custos mais comportáveis e, consequentemente, facilitar o acesso à casa própria ou ao arrendamento acessível. Não se detetam inconsistências na lógica da proposta, que procura remover um obstáculo fiscal à reabilitação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao alargar a aplicação da taxa reduzida de IVA de 6% aos materiais em obras de reabilitação habitacional, resultará numa diminuição direta da receita do governo proveniente do IVA. Embora o documento não forneça estimativas numéricas, é expectável que esta redução fiscal diminua a carga sobre os proprietários e investidores, incentivando mais obras de reabilitação. O efeito líquido é uma provável diminuição da receita fiscal a curto prazo. A longo prazo, o aumento da atividade no setor da construção e reabilitação poderá gerar algum crescimento económico e, potencialmente, outras receitas fiscais (como impostos sobre o rendimento ou contribuições sociais), mas o impacto direto e imediato é de redução de receita."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

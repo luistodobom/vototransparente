@@ -1,0 +1,42 @@
+{
+ "short_title": "Transformação da Agência Lusa em Entidade Pública Empresarial",
+ "summary": "O Projeto de Lei n.º 604/XVII/1.ª, apresentado pelo PCP, altera a natureza jurídica da Lusa – Agência de Notícias de Portugal, transformando-a em Entidade Pública Empresarial (E.P.E.), com capital estatutário de 10 324 225 euros integralmente detido pelo Estado. A iniciativa aprova novos estatutos e define um modelo de governação assente em quatro órgãos sociais: conselho geral, conselho de administração, conselho de opinião e conselho fiscal. O diploma estabelece obrigações específicas de serviço público, formalizadas num contrato de concessão de cinco anos com o Estado, financiado através de indemnizações compensatórias inscritas anualmente no Orçamento do Estado. Para reforçar a autonomia editorial face ao poder político, sujeita a nomeação e exoneração do diretor de informação a pareceres prévios e vinculativos do conselho de redação, do conselho de opinião e da Entidade Reguladora para a Comunicação Social, prevendo ainda a fiscalização parlamentar da gestão.",
+ "key_points": [
+  "Converte a Lusa em Entidade Pública Empresarial (E.P.E.), com capital de 10 324 225 euros detido pelo Estado e tutela financeira conjunta das áreas da Comunicação Social e das Finanças.",
+  "Cria um conselho geral e um conselho de opinião para supervisionar o serviço público, escolher a administração e assegurar a independência da agência face a interesses políticos ou económicos.",
+  "Prevê um contrato de concessão quinquenal com o Estado e o pagamento de indemnizações compensatórias anuais inscritas no Orçamento do Estado para cobrir despesas de serviço público.",
+  "Exige pareceres prévios e vinculativos do conselho de redação, do conselho de opinião e do regulador da comunicação social, além de aprovação do conselho geral, para nomear ou exonerar o diretor de informação.",
+  "Atribui à Entidade Reguladora para a Comunicação Social a monitorização do pluralismo informativo da Lusa e impõe audições e relatórios anuais perante a Assembleia da República."
+ ],
+ "plain_language": "Como o Estado comprou recentemente todas as ações privadas da agência Lusa, este projeto de lei quer mudar a forma jurídica da empresa para uma entidade totalmente pública, com novas regras de funcionamento. A ideia é garantir que a Lusa recebe dinheiro público todos os anos para cumprir o seu papel de informar com rigor e cobertura em todo o país, sem depender de pressões do Governo. Para isso, cria novos conselhos com representantes dos partidos, dos trabalhadores e do setor dos media que escolhem a administração e protegem a liberdade dos jornalistas.",
+ "context": "O PCP justifica a iniciativa com a recente aquisição pelo Estado da totalidade do capital da Agência Lusa, defendendo que este novo cenário exige a alteração do seu modelo societário. Segundo o proponente, a Lusa funciona como uma «Redação-mãe» para a generalidade dos órgãos de comunicação social portugueses, pelo que importa assegurar padrões elevados de qualidade, pluralismo e rigor. O partido sublinha ainda a necessidade de blindar a agência e os seus jornalistas contra eventuais pressões políticas ou governamentais, reforçando o escrutínio público e parlamentar.",
+ "analysis": "A proposta alinha o estatuto jurídico da Lusa com o facto de o capital ser integralmente público e cria salvaguardas sólidas de independência editorial e fiscalização parlamentar. Contudo, o texto apresenta fragilidades técnicas e contradições jurídicas relevantes. Os estatutos contradizem-se na duração dos mandatos (três anos renováveis na regra geral, seis anos não renováveis no conselho geral e quatro anos renováveis no conselho de opinião) e incluem remissões desajustadas, como referências a «assembleia geral» e a «diretores de programação», inexistentes numa agência noticiosa E.P.E. Observam-se também falhas de numeração de capítulos e artigos. Além disso, exigir pareceres vinculativos de três entidades distintas, mais aprovação do conselho geral, para escolher ou demitir o diretor de informação pode gerar bloqueios institucionais, enquanto o conselho geral mantém forte peso partidário na sua composição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diploma prevê indemnizações compensatórias anuais inscritas no Orçamento do Estado, bem como senhas de presença para o conselho geral e um secretariado técnico de apoio. Contudo, não fixa montantes para esses encargos, remetendo-os para negociação anual entre o Governo e a administração e para portaria futura."
+ },
+ "affected": [
+  "Agência Lusa e seus trabalhadores",
+  "órgãos de comunicação social",
+  "jornalistas",
+  "Entidade Reguladora para a Comunicação Social"
+ ],
+ "categories": [
+  "comunicacao",
+  "administracao"
+ ],
+ "tags": [
+  "agência lusa",
+  "comunicação social",
+  "entidade pública empresarial",
+  "serviço público",
+  "independência editorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

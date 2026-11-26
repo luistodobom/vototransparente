@@ -1,0 +1,25 @@
+{
+ "short_title": "Programa de apoio a jovens para compra de habitação",
+ "summary": "A proposta visa criar um programa de apoio para jovens comprarem a sua primeira casa. Este programa oferece uma linha de crédito com condições especiais para ajudar os jovens a pagar a entrada inicial exigida pelos bancos, facilitando assim o acesso à habitação própria e permanente, face às dificuldades atuais como baixos salários, altos custos de vida e exigências bancárias.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar uma mãozinha aos jovens para conseguirem comprar a sua primeira casa. A ideia é que o governo ajude com uma espécie de empréstimo mais barato para a entrada que os bancos pedem, porque hoje em dia, com os salários baixos e as casas caras, é quase impossível para a malta nova juntar esse dinheiro.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema: a dificuldade dos jovens em adquirir a sua primeira habitação devido a baixos salários, preços elevados dos imóveis e barreiras no acesso ao crédito, nomeadamente a entrada inicial. A solução proposta, uma linha de crédito bonificada para a entrada, alinha-se diretamente com o objetivo de remover um dos principais obstáculos à compra de casa. Contudo, a exposição de motivos sugere um leque mais vasto de soluções, como alívio fiscal e mecanismos para baixar os preços dos imóveis, que não são detalhados na proposta de lei em si, focando-se apenas na linha de crédito. A eficácia da proposta dependerá crucialmente dos termos específicos da bonificação e da adequação dos valores máximos dos imóveis (€170.000/€200.000) à realidade do mercado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê a criação de uma \"linha de crédito bonificada\", o que implica que o governo irá subsidiar parte dos custos associados a esses empréstimos. Isso resultará num aumento dos gastos do governo, uma vez que terá de cobrir a diferença entre as condições de mercado e as condições mais vantajosas oferecidas aos jovens. Não há indicação de que a proposta aumente as receitas do governo. O efeito líquido será, portanto, um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

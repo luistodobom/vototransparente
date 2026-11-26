@@ -1,0 +1,25 @@
+{
+ "short_title": "Inclusão de contratos de crédito à habitação pós-2011 na dedução de IRS.",
+ "summary": "A proposta do PAN visa estender a dedução de juros de empréstimos para habitação no IRS a contratos celebrados após 31 de dezembro de 2011. Atualmente, apenas os contratos anteriores a essa data beneficiam desta dedução. O objetivo é aliviar o peso financeiro sobre as famílias, especialmente as mais jovens e as que renegociaram os seus créditos, que têm sido afetadas pelo aumento das taxas de juro e pela crise económica.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PAN quer que as pessoas que fizeram empréstimos para comprar casa depois de 2011 também possam descontar os juros no IRS, tal como quem fez antes. A ideia é ajudar as famílias que estão a sofrer com as prestações da casa muito altas por causa dos juros que subiram. É uma forma de o governo lhes devolver algum dinheiro através dos impostos.",
+ "context": null,
+ "analysis": "A proposta identifica uma \"desigualdade injusta e de duvidosa constitucionalidade\" na legislação atual, que exclui contratos pós-2011 da dedução de juros. Esta análise crítica é central à justificação da proposta. A implementação, contudo, não é uma alteração legislativa imediata, mas sim uma recomendação ao Governo para que \"estude o alargamento\" desta dedução no âmbito dos trabalhos preparatórios do Orçamento do Estado de 2026. Embora o objetivo de aliviar as famílias seja claro e a medida proposta se alinhe diretamente com esse fim, o facto de ser uma recomendação para estudo e para um orçamento futuro (2026) significa que o impacto prático e a sua concretização não são imediatos nem garantidos, dependendo da vontade política do Governo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, se implementada, resultaria numa diminuição da receita do governo proveniente do IRS, uma vez que mais contribuintes poderiam deduzir os juros dos seus créditos à habitação. Não implicaria um aumento direto dos gastos do governo. O efeito líquido seria uma redução da receita fiscal, cujo montante exato dependeria do número de contratos abrangidos e dos valores dos juros deduzidos, mas que tenderia a ser significativo dada a abrangência da medida."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-07-08",
+  "legacy": true
+ }
+}

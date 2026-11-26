@@ -1,0 +1,42 @@
+{
+ "short_title": "Criação da Câmara de Resolução de Litígios de Contratação Pública",
+ "summary": "A proposta de lei autoriza o Governo, durante 180 dias, a criar e regular a Câmara de Resolução de Litígios de Contratação Pública, uma nova autoridade administrativa independente junto do Ministério da Justiça. O diploma inclui o projeto de decreto-lei que define a sua estrutura e funcionamento. A Câmara apreciará litígios sobre a legalidade de concursos públicos e outros procedimentos pré-contratuais da administração central e do setor empresarial do Estado, acima de três milhões de euros em obras e concessões ou cem mil euros em bens e serviços. Regiões autónomas e autarquias poderão aderir por contrato. O recurso será obrigatório em contratos superiores a dez milhões de euros, infraestruturas críticas e projetos com fundos europeus. A Câmara terá sete membros com mandato de sete anos não renovável, tramitação eletrónica, efeito suspensivo automático nas adjudicações, multas por má-fé e recurso para os tribunais administrativos.",
+ "key_points": [
+  "Cria a Câmara de Resolução de Litígios de Contratação Pública como autoridade independente, composta por sete juristas nomeados após concurso aberto para mandatos únicos de sete anos.",
+  "Atribui à Câmara competência para julgar litígios pré-contratuais da administração central e setor empresarial do Estado acima de três milhões de euros em obras e concessões ou cem mil euros em bens e serviços.",
+  "Torna obrigatório recorrer primeiro a esta Câmara em contratos superiores a dez milhões de euros, infraestruturas críticas e projetos financiados por fundos europeus.",
+  "Prevê um processo totalmente eletrónico e célere, com pagamento de taxa inicial, suspensão automática das adjudicações impugnadas e decisões executivas proferidas em prazos curtos.",
+  "Permite aplicar multas até trinta mil euros por litigância de má-fé, ou até ao dobro em impugnações manifestamente infundadas reincidentes, mantendo o recurso para o Tribunal Central Administrativo."
+ ],
+ "plain_language": "Quando o Estado abre um concurso para construir uma obra ou comprar serviços, as empresas concorrentes contestam muitas vezes as decisões em tribunal. Como os tribunais administrativos demoram, essas obras e compras ficam paradas. Esta proposta cria uma entidade independente especializada para resolver esses conflitos de forma mais rápida, antes de irem a tribunal. As empresas pagam uma taxa para apresentar queixa pela internet e o concurso fica temporariamente suspenso até haver decisão. Nos grandes contratos ou projetos com fundos europeus, passa a ser obrigatório usar primeiro esta entidade. Quem discordar da decisão final ainda pode recorrer para os tribunais.",
+ "context": "Na exposição de motivos, o Governo afirma que a desburocratização e a aceleração da contratação pública são prioridades para concretizar o investimento público e dinamizar a economia. Sustenta que o atual modelo nos tribunais administrativos nem sempre garante a rapidez exigida pelos concursos públicos, criando constrangimentos para empresas e entidades públicas. Assim, defende um órgão administrativo independente especializado para prevenir e corrigir irregularidades em tempo útil, reduzir o número de processos nos tribunais administrativos e tornar a justiça administrativa mais eficiente, sem eliminar a garantia constitucional de recurso judicial.",
+ "analysis": "A iniciativa apresenta pontos positivos, como prazos processuais curtos, tramitação eletrónica, regras de transparência no recrutamento e um regime de incompatibilidades de dois anos após o mandato dos membros. Porém, evidencia fragilidades técnicas e riscos de implementação. O decreto-lei anexo mantém por definir o número exato de membros da comissão instaladora e contém uma remissão incorreta no recurso de uniformização. Adicionalmente, a articulação entre o acesso voluntário e os casos obrigatórios, incluindo todos os contratos com fundos europeus independentemente do valor, gera incerteza jurídica, admitida na própria norma sobre atrasos desculpáveis. Por fim, os estatutos, a estrutura de apoio e o valor da taxa são remetidos para diplomas futuros, dificultando avaliar se o órgão evitará apenas acrescentar uma etapa prévia ao recurso judicial.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A criação da Câmara gera nova despesa pública com remunerações de sete membros equiparados a juízes superiores, um secretário dirigente, trabalhadores próprios e um sistema informático autónomo. Em sentido contrário, prevê a cobrança de taxas processuais aos requerentes e a aplicação de multas até 30 000 euros por má-fé, ou até ao dobro em casos reincidentes, sem apresentar estimativa orçamental do saldo líquido."
+ },
+ "affected": [
+  "entidades adjudicantes",
+  "operadores económicos concorrentes a contratos públicos",
+  "tribunais administrativos",
+  "regiões autónomas e autarquias locais"
+ ],
+ "categories": [
+  "justica",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "contratação pública",
+  "resolução de litígios",
+  "justiça administrativa",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

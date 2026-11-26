@@ -1,0 +1,26 @@
+{
+ "short_title": "Dedução fiscal para equipamentos informáticos de estudantes na pandemia.",
+ "summary": "A proposta visa permitir que as famílias deduzam no IRS (Imposto sobre o Rendimento das Pessoas Singulares) os gastos com a compra de computadores, tablets e impressoras para estudantes. Esta medida excecional e temporária, válida para 2021, surge como resposta à necessidade de equipamentos informáticos para o ensino à distância durante a pandemia, especialmente face ao incumprimento da promessa do Governo de fornecer computadores a todos os alunos. A dedução é de 50% do valor gasto, até um máximo de 250 euros por estudante menor de 23 anos, independentemente de outros limites de dedução de despesas de educação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que as famílias possam descontar no IRS o dinheiro que gastaram a comprar computadores, tablets ou impressoras para os filhos estudantes. É uma ajuda extra e temporária para 2021, porque com a pandemia e as aulas online, muita gente precisou destes equipamentos e o Governo não conseguiu dar os computadores que prometeu a todos. Assim, quem comprou pode deduzir metade do valor, até 250 euros por filho, mesmo que já tenha atingido outros limites de deduções de educação. É uma forma de aliviar a carteira das famílias.",
+ "context": null,
+ "analysis": "A proposta do CDS-PP surge como uma tentativa de mitigar as falhas do Governo na distribuição de equipamentos informáticos prometidos aos alunos, expondo uma inconsistência entre a promessa governamental e a realidade. Ao propor uma dedução fiscal, a iniciativa tenta aliviar o encargo financeiro das famílias que tiveram de adquirir estes equipamentos por conta própria para garantir o acesso dos seus filhos ao ensino à distância. No entanto, a eficácia desta medida em combater a \"enorme desigualdade\" (mencionada na exposição de motivos) pode ser limitada, uma vez que beneficia principalmente as famílias que já têm capacidade financeira para adquirir os equipamentos e que pagam IRS suficiente para usufruir da dedução. Famílias em situação de maior carência, que não têm rendimentos para comprar os equipamentos ou que não pagam IRS, podem não ser abrangidas ou beneficiadas de forma significativa. A proposta afirma que não inviabiliza o equilíbrio orçamental, o que é uma declaração otimista, dado que qualquer dedução fiscal implica uma diminuição da receita do Estado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao criar uma dedução fiscal, resultará numa diminuição da receita do governo proveniente do IRS. Embora o documento afirme que a iniciativa \"não inviabiliza o equilíbrio orçamental\" e que está em conformidade com o artigo 167.º, n.º 2 (que proíbe propostas que aumentem despesas ou diminuam receitas), a natureza de uma dedução fiscal é, por definição, uma redução da receita. O efeito líquido será uma diminuição da receita fiscal, cujo montante exato dependerá do número de famílias que usufruírem da dedução e do valor total deduzido. Não há indicação de aumento de despesas diretas do governo, mas sim uma renúncia de receita."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

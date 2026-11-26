@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas para salvaguardar ligações aéreas aos Açores após saída da Ryanair",
+ "summary": "Este projeto de resolução recomenda ao Governo que adote medidas urgentes para proteger a conectividade aérea e a economia da Região Autónoma dos Açores, na sequência do encerramento das operações da companhia aérea Ryanair no arquipélago. Sendo um projeto de resolução, as propostas assumem a forma de recomendações não vinculativas dirigidas ao Executivo. Em concreto, a iniciativa pede ao Governo que avalie os impactos económicos, turísticos e sociais da saída da transportadora e que elabore um plano estratégico para manter níveis adequados de oferta e concorrência nas ligações aéreas. Recomenda ainda que, em articulação com o Governo Regional dos Açores, negoceie com companhias aéreas a criação ou o reforço de rotas entre o arquipélago, o continente português e outros mercados europeus, e que analise a criação de incentivos ao desenvolvimento de rotas para regiões ultraperiféricas.",
+ "key_points": [
+  "Avaliar o impacto económico, turístico e social provocado pela saída da companhia aérea Ryanair dos Açores.",
+  "Elaborar um plano estratégico para salvaguardar e reforçar a oferta e a concorrência nas ligações aéreas ao arquipélago.",
+  "Promover negociações com companhias aéreas, em articulação com o Governo Regional, para criar ou reforçar rotas entre os Açores, o continente e a Europa.",
+  "Analisar a implementação de instrumentos de incentivo ao desenvolvimento de rotas aéreas para regiões ultraperiféricas."
+ ],
+ "plain_language": "Com a saída da Ryanair dos Açores, há menos voos disponíveis para entrar e sair do arquipélago. Este documento não muda nenhuma lei nem obriga o Governo a agir, porque é apenas uma recomendação do Parlamento. O que pede é que o Governo estude quanto dinheiro e turistas os Açores vão perder, faça um plano para evitar que os bilhetes fiquem demasiado caros e converse com outras companhias aéreas, junto com o Governo Regional, para trazer novos voos da Europa e de Portugal continental. Pede também que analise apoios para manter rotas aéreas até às ilhas.",
+ "context": "Os proponentes justificam a iniciativa com a dependência dos Açores face ao transporte aéreo para garantir coesão territorial, mobilidade dos residentes e competitividade turística. Citando dados divulgados na comunicação social, referem que a Ryanair transportava mais de 100 mil turistas por ano, representava cerca de 10% das dormidas e gerava um impacto económico estimado em 160 milhões de euros anuais. Alertam que a sua saída pode reduzir entre 200 mil e 250 mil passageiros por ano, encarecer as viagens, diminuir a concorrência e prejudicar a hotelaria, a restauração e o comércio local.",
+ "analysis": "A iniciativa aborda um problema relevante para uma região ultraperiférica, articulando preocupações de mobilidade dos residentes com o impacto turístico, e acerta ao prever coordenação com o Governo Regional dos Açores. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e limita-se a recomendações amplas e genéricas, sem definir prazos, metas de capacidade aérea ou fontes de financiamento. O texto também não analisa os motivos concretos que levaram à saída da transportadora, o que dificulta desenhar soluções eficazes. Além disso, a referência a incentivos para novas rotas omite as restrições das regras europeias sobre auxílios de Estado e concorrência na aviação, podendo gerar expectativas difíceis de concretizar.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Como projeto de resolução, não cria despesa obrigatória nem indica montantes financeiros. No entanto, caso o Governo adote instrumentos de incentivo ao desenvolvimento de rotas aéreas, tal poderá implicar aumento de despesa pública ou redução de receita consoante o modelo escolhido."
+ },
+ "affected": [
+  "residentes nos Açores",
+  "setor turístico açoriano",
+  "companhias aéreas",
+  "passageiros aéreos"
+ ],
+ "categories": [
+  "transportes",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "açores",
+  "conectividade aérea",
+  "turismo",
+  "ryanair",
+  "regiões ultraperiféricas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

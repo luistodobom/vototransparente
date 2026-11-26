@@ -1,0 +1,41 @@
+{
+ "short_title": "Combate à discriminação nas compras online nas Regiões Autónomas",
+ "summary": "Este Projeto de Resolução constitui uma recomendação não vinculativa ao Governo para reforçar a proteção dos consumidores residentes nos Açores e na Madeira no comércio eletrónico. Apesar de a Lei n.º 7/2022 já proibir o bloqueio geográfico injustificado, a iniciativa propõe três linhas de ação para tornar essa proteção efetiva. Primeiro, recomenda ao Executivo que avalie a aplicação atual daquela lei, identificando falhas na fiscalização, na investigação de denúncias e nas sanções, apresentando depois novas propostas legislativas à Assembleia da República. Segundo, pede que o Governo promova junto da Comissão Europeia a revisão do Regulamento Europeu sobre bloqueio geográfico, reforçando a defesa dos consumidores insulares. Por último, recomenda medidas legislativas e administrativas que garantam que nenhuma empresa a operar a nível nacional restrinja ou recuse vendas com base exclusiva no local de residência, assegurando sanções dissuasoras.",
+ "key_points": [
+  "Recomenda ao Governo que avalie as falhas de fiscalização, investigação de denúncias e aplicação de sanções na Lei n.º 7/2022 e proponha alterações legislativas ao Parlamento.",
+  "Sugere que o Executivo diligencie junto da Comissão Europeia para rever o Regulamento (UE) 2018/302, reforçando a proteção das Regiões Autónomas contra bloqueios geográficos.",
+  "Propõe a adoção de medidas legislativas e administrativas para impedir qualquer recusa, restrição ou diferenciação comercial baseada exclusivamente na residência nas ilhas.",
+  "Visa garantir a aplicação efetiva de um regime de fiscalização e de sanções suficientemente dissuasor para as empresas infratoras."
+ ],
+ "plain_language": "Muitas pessoas que vivem nos Açores e na Madeira continuam a ser impedidas de comprar produtos online ou de aceder a promoções, apenas por causa da morada, mesmo estando dispostas a pagar o transporte. Embora já exista uma lei que proíbe esta discriminação, as queixas mantêm-se. Este projeto pede ao Governo que verifique onde a lei está a falhar, reforce a fiscalização e as multas para as empresas infratoras e peça mudanças nas regras da União Europeia. Por ser um projeto de resolução, funciona apenas como um conselho ao Governo, não sendo obrigatório.",
+ "context": "O proponente destaca o crescimento do comércio eletrónico e sublinha que, devido à distância e menor oferta local, comprar online é uma necessidade nos Açores e na Madeira. Apesar de a Lei n.º 7/2022 proibir o bloqueio geográfico, o texto refere que os consumidores insulares continuam a sofrer recusas de venda, exclusão de produtos e restrições promocionais pelo código postal. Citam-se queixas recentes na Direção de Serviços do Consumidor da Madeira e contactos da Autoridade da Concorrência para defender que a lei atual não tem sido suficientemente dissuasora.",
+ "analysis": "A iniciativa aborda um problema concreto e documentado por entidades regionais, apontando com pertinência que a existência formal da Lei n.º 7/2022 não tem garantido igualdade efetiva no acesso ao comércio eletrónico. Contudo, apresenta fragilidades relevantes. Por ser um projeto de resolução, não tem força vinculativa nem produz alterações imediatas na proteção dos consumidores. Além disso, as recomendações são genéricas: pedem o reforço da fiscalização e de sanções, mas não identificam que entidades fiscalizadoras devem atuar, nem definem prazos para a avaliação pedida ao Governo ou para a apresentação de propostas legislativas. O ponto três acaba ainda por reiterar uma proibição já consagrada na lei em vigor sem concretizar os novos mecanismos administrativos ou sancionatórios pretendidos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo um projeto de resolução não vinculativo, não gera impacto orçamental direto ou imediato. Caso o Governo adote as recomendações, o reforço da fiscalização poderá implicar custos administrativos adicionais, enquanto a aplicação efetiva de sanções poderá gerar receita pública, não existindo montantes definidos no documento."
+ },
+ "affected": [
+  "consumidores das Regiões Autónomas",
+  "empresas de comércio eletrónico",
+  "entidades fiscalizadoras"
+ ],
+ "categories": [
+  "consumidores",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "comércio eletrónico",
+  "regiões autónomas",
+  "bloqueio geográfico",
+  "defesa do consumidor",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

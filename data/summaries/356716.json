@@ -1,0 +1,42 @@
+{
+ "short_title": "Dispensa laboral no dia da dádiva de sangue e incentivos a dadores",
+ "summary": "O Projeto de Resolução n.º 939/XVII/1.ª, do Bloco de Esquerda, recomenda ao Governo medidas para promover a dádiva de sangue e reforçar a proteção dos trabalhadores dadores. Por se tratar de um projeto de resolução, constitui uma recomendação sem força vinculativa. O texto propõe alterar o Estatuto do Dador de Sangue e o Código do Trabalho para assegurar o direito à dispensa da atividade profissional, de formação ou de programas ocupacionais durante todo o dia da dádiva, garantindo falta justificada sem perda de remuneração, direitos ou regalias. Recomenda ainda atribuir aos dadores regulares até aos 30 anos uma subscrição digital anual de um jornal ou revista de informação geral ou económica. Por último, sugere que o Instituto Português do Sangue e da Transplantação crie notificações digitais, por SMS ou plataforma dedicada, para avisar o dador quando o seu sangue for mobilizado para uso clínico.",
+ "key_points": [
+  "Alterar o Estatuto do Dador de Sangue para garantir dispensa no dia da dádiva em atividades profissionais, de formação ou programas ocupacionais, sem perda de direitos ou regalias.",
+  "Consagrar no Código do Trabalho a ausência motivada por dádiva de sangue como falta justificada sem perda de remuneração no dia em que ocorra.",
+  "Atribuir aos dadores de sangue regulares até aos 30 anos uma assinatura digital anual de um jornal ou revista de informação geral ou económica.",
+  "Implementar no Instituto Português do Sangue e da Transplantação um sistema de notificações digitais para informar o dador quando a sua dádiva for usada clinicamente."
+ ],
+ "plain_language": "Esta proposta pede ao Governo que mude a lei para que quem dá sangue possa faltar o dia inteiro ao trabalho, à formação ou a programas ocupacionais, sem perder salário nem direitos. Atualmente, a lei só permite a ausência pelo tempo necessário para a colheita, o que pode ser arriscado em profissões fisicamente exigentes ou de condução. Além disso, sugere oferecer uma assinatura digital de um jornal ou revista aos dadores regulares até aos 30 anos e enviar uma mensagem quando o seu sangue for usado. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente justifica a iniciativa com a quebra contínua de voluntários, registando menos nove mil dadores entre 2023 e 2025 e reservas nacionais que descem a metade do nível estável em períodos críticos. Aponta a redução de dadores jovens entre os 18 e os 24 anos e o impacto do teletrabalho na eficácia das brigadas móveis. Recuperando uma petição da FEPODABES com mais de 7563 assinaturas, defende que o regime atual expõe trabalhadores a riscos físicos pós-dádiva e à eventual perda de retribuição por omissão no Código do Trabalho.",
+ "analysis": "Como ponto forte, a iniciativa aborda uma descida documentada das reservas de sangue, alinha a proteção laboral com recomendações clínicas de repouso em profissões de risco e propõe incentivos simples para fidelizar jovens. Todavia, apresenta fragilidades: sendo um Projeto de Resolução, não vincula o Governo, e o próprio texto reconhece que uma proposta legislativa idêntica foi recentemente rejeitada pelo Parlamento. Faltam também critérios concretos de execução: não define o conceito de «dador regular» para aceder às assinaturas digitais nem avalia o encargo financeiro e organizativo para as entidades empregadoras — sobretudo pequenas empresas — ao passarem a suportar o custo salarial do dia completo de ausência sem limite anual expresso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização das recomendações aumentaria a despesa pública através do financiamento de assinaturas digitais para dadores até aos 30 anos, do desenvolvimento de um sistema de notificações no IPST e dos custos com ausências pagas na administração pública. O documento não indica montantes e, sendo não vinculativo, não produz impacto orçamental direto imediato."
+ },
+ "affected": [
+  "trabalhadores dadores de sangue",
+  "formandos e participantes em programas ocupacionais",
+  "entidades empregadoras",
+  "dadores de sangue até aos 30 anos",
+  "Instituto Português do Sangue e da Transplantação"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "dispensa laboral",
+  "código do trabalho",
+  "estatuto do dador",
+  "ipst"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

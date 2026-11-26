@@ -1,0 +1,44 @@
+{
+ "short_title": "Medidas para regular rendas, travar despejos e reforçar a habitação pública",
+ "summary": "O Projeto de Resolução do PCP recomenda ao Governo um conjunto de doze medidas para a habitação, sem efeito vinculativo. No arrendamento, propõe revogar o Novo Regime de Arrendamento Urbano, limitar as rendas em novos contratos ao coeficiente de 1,0043 face à renda anterior e proibir despejos ou denúncias de contratos a agregados sem rendimentos de subsistência ou com taxa de esforço igual ou superior a 25%. Na oferta pública, recomenda que o Estado atue como promotor habitacional, proíba a venda de património público habitável, reabilite imóveis estatais e apoie cooperativas. Propõe ainda um regime simplificado de posse administrativa de casas devolutas de fundos imobiliários e limites à compra de habitações por estes fundos. Por fim, recomenda financiar a 100% o Programa de Apoio ao Acesso à Habitação e reforçar o Instituto da Habitação e da Reabilitação Urbana com contratações permanentes.",
+ "key_points": [
+  "Revogar o Novo Regime de Arrendamento Urbano e limitar as rendas de novos contratos através do coeficiente de 1,0043 sobre a renda anterior.",
+  "Proibir despejos e denúncias de contratos quando o agregado familiar não tenha rendimentos para subsistir ou suporte uma taxa de esforço igual ou superior a 25%.",
+  "Tornar o Estado promotor público de habitação, proibindo a venda de imóveis públicos habitáveis e promovendo a sua reabilitação e oferta cooperativa.",
+  "Criar um regime simplificado de posse administrativa de casas devolutas de fundos imobiliários e limitar a aquisição de habitações por estes fundos.",
+  "Financiar a 100% o Programa de Apoio ao Acesso à Habitação, dispensando contrapartida municipal, e contratar trabalhadores permanentes para equipas técnicas do Instituto da Habitação e da Reabilitação Urbana."
+ ],
+ "plain_language": "Como este documento é uma recomendação, o Governo não é obrigado a aplicá-lo. O PCP pede ao Executivo que mude as leis do arrendamento para proteger mais os inquilinos. Na prática, sugere limitar muito as subidas das rendas entre contratos e impedir despejos de famílias sem dinheiro para o básico ou que gastem 25% ou mais do orçamento na renda. Pede também que o Estado não venda casas públicas, reabilite as que tem, tome posse de casas vazias de fundos imobiliários para as arrendar a preços controlados e contrate pessoal para construir mais habitação pública.",
+ "context": "O PCP justifica a iniciativa com uma emergência social na habitação, citando aumentos de quase 18% nos preços das casas no último ano, de 169% numa década e de 44% nos despejos, que atingiram quase 1500 famílias. Aponta que os salários subiram apenas 41,5% em dez anos e critica a escassez de habitação pública, os contratos curtos e a pressão turística. Referindo a existência de 723 mil casas devolutas, acusa o Governo de favorecer os lucros da banca e dos fundos imobiliários em vez de regular o mercado.",
+ "analysis": "Tratando-se de um projeto de resolução, as medidas não são vinculativas para o Governo. A proposta apresenta uma abordagem abrangente, combinando proteção imediata aos inquilinos com reforço da capacidade técnica do Estado, como a criação de equipas de projeto no Instituto da Habitação e da Reabilitação Urbana. Contudo, várias recomendações são genéricas, carecendo de prazos, critérios operacionais ou fontes de financiamento, nomeadamente para a cobertura a 100% do Programa de Apoio ao Acesso à Habitação e para as contratações públicas. Além disso, a proibição alargada de despejos sem compensação aos senhorios, o limite estrito às rendas e a posse administrativa comportam riscos de litigiosidade jurídica e podem retrair a oferta privada de arrendamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, o projeto não tem efeito orçamental direto. Caso o Governo adote as medidas propostas, a despesa pública aumentará devido ao financiamento a 100% do apoio habitacional, à contratação permanente no IHRU e à promoção e reabilitação de habitação pública, sem montantes quantificados no documento."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios e proprietários",
+  "fundos imobiliários",
+  "famílias com carência habitacional",
+  "trabalhadores do IHRU"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "arrendamento",
+  "habitação pública",
+  "despejos",
+  "fundos imobiliários",
+  "ihru"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Isenção temporária de portagens na A19 até setembro de 2026",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que suspenda temporariamente a cobrança de portagens na Autoestrada A19 até 30 de setembro de 2026. Por se tratar de um Projeto de Resolução, a iniciativa tem caráter recomendatório e não é juridicamente vinculativa para o Executivo. A proposta visa assegurar uma ligação rodoviária segura e sem custos adicionais entre Leiria, Batalha e Marinha Grande enquanto decorrerem os trabalhos de reparação nas estradas nacionais EN1 (IC2) e EN242. Segundo o texto, estas duas vias ficaram gravemente danificadas na sequência da depressão Kristin, no início de 2026, não oferecendo atualmente condições adequadas de segurança. A medida pretende garantir a mobilidade de cidadãos, estudantes, trabalhadores, empresas e serviços públicos até ao restabelecimento da circulação normal nas estradas alternativas.",
+ "key_points": [
+  "Recomenda ao Governo a suspensão temporária da cobrança de portagens na Autoestrada A19 até 30 de setembro de 2026.",
+  "Associa a duração da medida ao restabelecimento das condições de circulação segura nas estradas nacionais EN1 (IC2) e EN242.",
+  "Visa garantir a ligação rodoviária entre Leiria, Batalha e Marinha Grande sem custos adicionais para cidadãos, estudantes, trabalhadores, empresas e serviços públicos.",
+  "Assume a forma de recomendação parlamentar ao Governo, pelo que não obriga juridicamente o Executivo a aplicar a isenção."
+ ],
+ "plain_language": "Depois das tempestades da depressão Kristin no início de 2026, duas estradas principais da região de Leiria — a EN1 e a EN242 — ficaram com muitos estragos, como buracos, falta de sinais e bermas danificadas. Como essas estradas não são seguras e as obras devem durar até ao verão, os condutores passaram a usar a autoestrada A19, que é paga. Esta proposta pede ao Governo que deixe os condutores circular gratuitamente na A19 até 30 de setembro de 2026. Como é apenas uma recomendação do Parlamento, o Governo decide se a aplica ou não.",
+ "context": "O proponente justifica a iniciativa com os danos graves causados pela depressão Kristin, no início de 2026, na região Centro e, em particular, na região de Leiria. Apesar do tempo decorrido, troços da EN1 e da EN242 continuam a apresentar problemas graves de segurança, como ausência de sinalização, pavimento abatido e falhas na drenagem. Segundo entidades regionais citadas no documento, as obras de reabilitação poderão prolongar-se até ao verão de 2026, obrigando os cidadãos e empresas a suportar custos de portagem na A19 por falta de alternativa segura.",
+ "analysis": "Como aspeto positivo, a proposta responde a um problema concreto de mobilidade e segurança rodoviária, propondo uma medida delimitada no tempo até 30 de setembro de 2026. Contudo, apresenta fragilidades relevantes: não estima o impacto financeiro da suspensão das portagens nem esclarece se o custo recairia sobre a receita pública ou exigiria indemnização à concessionária. Além disso, o texto não prevê o que acontece caso as obras na EN1 e na EN242 terminem antes da data fixada ou se atrasem para além dela, nem detalha se a isenção abrange utilizadores ocasionais de longa distância além dos residentes locais. Por fim, tratando-se de um Projeto de Resolução, carece de força vinculativa e depende da decisão do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A suspensão de portagens implica uma perda de receita pública ou o pagamento de compensações à entidade gestora da via, mas o documento não apresenta estimativas de custos nem detalha o modelo de concessão da A19. Além disso, por ser uma recomendação não vinculativa, qualquer efeito orçamental depende de decisão posterior do Governo."
+ },
+ "affected": [
+  "condutores na região de Leiria",
+  "trabalhadores e estudantes",
+  "empresas e agentes económicos locais",
+  "serviços públicos regionais"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "portagens",
+  "a19",
+  "leiria",
+  "estradas nacionais",
+  "depressao kristin"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Plano de Proteção e Despoluição do Rio Paiva",
+ "summary": "A proposta visa a proteção e despoluição do Rio Paiva, um importante curso de água em Portugal que enfrenta sérios problemas de poluição. Estes incluem o mau funcionamento de Estações de Tratamento de Águas Residuais (ETAR), como a de Castro Daire, que está obsoleta, e a nova ETAR do Arinho, que ainda não funciona devido a problemas elétricos. A poluição afeta a qualidade da água, a saúde pública (deteção de salmonella), a biodiversidade (espécies invasoras, diminuição da galeria ripícola) e o turismo. A proposta recomenda ao Governo a ativação da nova ETAR, o desmantelamento da antiga, a disponibilização de dados sobre a monitorização da água, a criação de um plano para eliminar focos de poluição e a remoção de barreiras artificiais ilegais para restaurar o caudal ecológico.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer salvar o Rio Paiva, que está a ficar muito sujo. Há estações de tratamento de esgotos que não funcionam bem ou estão velhas, e uma nova que já está pronta mas não liga por causa de uns fios. Isto está a estragar a água, a matar bichos, a trazer plantas e animais que não são de cá, e até a deixar as pessoas doentes. Também está a estragar o turismo. O que se pede ao Governo é que ponha a nova estação a funcionar, tire a velha, diga o que anda a fazer para controlar a poluição, crie um plano para limpar tudo e tire umas barragens ilegais que secam o rio.",
+ "context": null,
+ "analysis": "O documento expõe claramente as inconsistências entre a intenção e a realidade. A construção de uma nova ETAR (Arinho) que permanece inoperacional por mais de um ano devido a \"certificação das instalações elétricas\" enquanto a ETAR obsoleta de Ponte Pedrinha continua a poluir é uma falha crítica na implementação de infraestruturas essenciais. Da mesma forma, a existência de um plano de monitorização da qualidade da água desde 2019, sem que os seus resultados sejam conhecidos ou divulgados, aponta para uma lacuna na transparência e eficácia das ações governamentais. No entanto, a proposta alinha-se de forma coerente com os problemas identificados. As recomendações de ativar a nova ETAR, desmantelar a antiga, divulgar dados de monitorização, criar um plano de eliminação de focos de poluição e remover barreiras ilegais são medidas diretas e lógicas para combater a poluição, restaurar a biodiversidade e garantir o caudal ecológico do Rio Paiva, abordando as causas e consequências dos problemas descritos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo, tanto a nível central quanto municipal. A ativação e manutenção da nova ETAR do Arinho, o desmantelamento da ETAR da Ponte Pedrinha, o desenvolvimento e implementação de um plano de eliminação de focos de poluição, a monitorização contínua da qualidade da água e a remoção de barreiras artificiais ilegais com a renaturalização do curso de água são todas ações que requerem investimento financeiro significativo em infraestruturas, pessoal e operações. Não há indicação de aumento direto da receita governamental. Contudo, a melhoria da qualidade da água e do ambiente poderá impulsionar o turismo e a economia local a longo prazo, o que indiretamente poderá gerar mais receita fiscal para os municípios e o Estado, mas o efeito líquido inicial será de aumento de despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "ambiente",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

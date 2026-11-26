@@ -1,0 +1,40 @@
+{
+ "short_title": "Correção das ultrapassagens na carreira dos professores",
+ "summary": "Este Projeto de Resolução, de natureza não vinculativa, recomenda ao Governo que altere o artigo 1.º da Portaria n.º 119/2018, de 4 de maio. Essa portaria criou um regime específico de reposicionamento na carreira para os educadores de infância e professores dos ensinos básico e secundário que ingressaram nos quadros entre 2011 e 2017, período em que a contagem do tempo de serviço esteve congelada. O documento pede que esse regime passe a aplicar-se a todos os docentes integrados na carreira, independentemente da forma ou do momento em que nela ingressaram. O objetivo declarado é eliminar as situações de desigualdade salarial e as chamadas ultrapassagens (casos em que professores com menos tempo de serviço ficaram em escalões superiores aos de colegas mais antigos), restabelecendo a equidade e a hierarquia remuneratória baseada na antiguidade.",
+ "key_points": [
+  "Recomenda ao Governo a alteração do artigo 1.º da Portaria n.º 119/2018, de 4 de maio.",
+  "Propõe o alargamento do regime de reposicionamento na carreira docente a todos os professores integrados na carreira.",
+  "Determina que esse alargamento deve ocorrer independentemente da forma ou do momento de ingresso nos quadros.",
+  "Visa eliminar as situações de ultrapassagem remuneratória entre docentes com igual ou maior tempo de serviço."
+ ],
+ "plain_language": "Quando as carreiras dos professores foram descongeladas, o Governo criou em 2018 uma regra especial de reposicionamento apenas para quem entrou nos quadros entre 2011 e 2017. Como outros professores com igual ou maior experiência ficaram de fora, surgiu uma desigualdade: docentes mais novos passaram à frente de colegas mais antigos nos escalões salariais. Este projeto não altera a lei diretamente, pois é apenas uma recomendação ao Governo. Pede que essa mesma regra de reposicionamento seja aplicada a todos os professores da carreira pública, independentemente da data ou forma de entrada, para corrigir essas ultrapassagens.",
+ "context": "Segundo os proponentes, o congelamento das carreiras entre 2011 e 2017 e o âmbito restritivo da Portaria n.º 119/2018 quebraram a lógica de progressão baseada na antiguidade, gerando ultrapassagens salariais entre professores. A exposição de motivos cita protestos realizados em março de 2025 junto à Assembleia da República e uma iniciativa legislativa de cidadãos subscrita por mais de 24 mil professores, que aponta possíveis violações de princípios constitucionais de igualdade e de salário igual para trabalho igual, defendendo que a exclusão prejudica a atratividade da profissão.",
+ "analysis": "A iniciativa aborda um problema real e amplamente debatido no sistema educativo: as distorções remuneratórias causadas por regimes de transição aplicados apenas a certos grupos de docentes. Apontar para uma alteração pontual de um artigo da portaria apresenta a vantagem da simplicidade normativa. Contudo, o texto apresenta fragilidades importantes. Sendo um projeto de resolução, não tem força vinculativa e limita-se a uma recomendação genérica ao Executivo. Além disso, omite qualquer estimativa de impacto orçamental ou do número de professores abrangidos, apesar do inevitável aumento de despesa pública com salários. Também não detalha como este alargamento indiscriminado se articularia com as regras gerais de recuperação de tempo de serviço (Decreto-Lei n.º 36/2019) nem acautela o risco de gerar novas distorções entre diferentes escalões.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização da recomendação pelo Governo implicaria o reposicionamento salarial de um universo mais alargado de professores, aumentando a despesa pública com remunerações na educação. O documento não apresenta estimativas financeiras nem indica o número de docentes abrangidos."
+ },
+ "affected": [
+  "professores dos ensinos básico e secundário",
+  "educadores de infância"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "carreira docente",
+  "professores",
+  "reposicionamento",
+  "ultrapassagens",
+  "tempo de serviço"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

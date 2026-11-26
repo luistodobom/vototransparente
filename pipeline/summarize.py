@@ -107,6 +107,7 @@ class Summarizer:
         self.sem = asyncio.Semaphore(concurrency)
         self.done = 0
         self.failed = 0
+        self.fatal: str | None = None  # set when billing/quota makes further requests pointless
         self.t0 = time.time()
 
     async def run_one(self, ini: dict, total: int):
@@ -132,6 +133,8 @@ class Summarizer:
             temperature=0.2,
         )
         async with self.sem:
+            if self.fatal:
+                return
             for attempt in range(6):
                 try:
                     resp = await asyncio.wait_for(
@@ -147,6 +150,11 @@ class Summarizer:
                     break
                 except Exception as e:  # noqa: BLE001
                     msg = str(e)
+                    if "402" in msg or "prepayment credits are depleted" in msg.lower() or "billing" in msg.lower() and "disabled" in msg.lower():
+                        if not self.fatal:
+                            self.fatal = msg[:200]
+                            print(f"STOP: Gemini billing problem, aborting run: {self.fatal}", file=sys.stderr, flush=True)
+                        return
                     if attempt == 5:
                         self.failed += 1
                         print(f"FAIL {ini['id']}: {msg[:200]}", file=sys.stderr, flush=True)
@@ -183,6 +191,8 @@ async def amain(ids, limit, model, concurrency, force, upgrade=False, allow_titl
     s = Summarizer(model, concurrency)
     await asyncio.gather(*(s.run_one(r, len(rows)) for r in rows))
     print(f"done={s.done} failed={s.failed} in {time.time() - s.t0:.0f}s", file=sys.stderr)
+    if s.fatal:
+        sys.exit(2)
 
 
 def main(argv=None):

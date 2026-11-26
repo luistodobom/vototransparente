@@ -1,0 +1,41 @@
+{
+ "short_title": "Atualização anual dos escalões de IRS à taxa de inflação",
+ "summary": "O Projeto de Resolução n.º 1043/XVII/1.ª, apresentado pelo PAN, propõe que a Assembleia da República recomende ao Governo a adoção de uma política de atualização anual dos escalões do Imposto sobre o Rendimento das Pessoas Singulares (IRS) em função da taxa de inflação. A iniciativa pretende combater a perda de poder de compra dos contribuintes resultante do aumento generalizado dos preços. Na exposição de motivos, o partido recorda propostas anteriores, como a redução das taxas nos 6.º e 7.º escalões e o reforço das deduções específicas nas categorias A (trabalho dependente) e H (pensões), mas a recomendação formal limita-se à atualização anual dos escalões segundo a inflação. Por se tratar de um projeto de resolução, a eventual aprovação não vincula o Governo nem altera automaticamente a lei fiscal, funcionando apenas como uma recomendação política ao executivo.",
+ "key_points": [
+  "Recomenda ao Governo que defenda uma política de atualização anual dos escalões de IRS tendo em conta a taxa de inflação.",
+  "Visa combater a perda de poder de compra dos trabalhadores e contribuintes provocada pelo aumento generalizado dos preços.",
+  "Propõe um compromisso político do Governo e da Assembleia da República para garantir a atualização dos escalões e antecipar efeitos inflacionistas futuros.",
+  "Tem natureza não vinculativa, pelo que não altera diretamente o Código do IRS nem impõe uma fórmula automática de cálculo."
+ ],
+ "plain_language": "Quando os preços sobem, o dinheiro vale menos. Se um trabalhador recebe um aumento salarial apenas para acompanhar a inflação, mas os escalões do IRS não sobem na mesma proporção, pode passar a pagar uma percentagem maior de imposto e ficar com menos poder de compra. Com esta proposta, o PAN pede ao Parlamento que recomende ao Governo a atualização anual desses escalões conforme a inflação. Como é um projeto de resolução, funciona apenas como um conselho político: mesmo que seja aprovado, não obriga o Governo a mudar o imposto nem define exatamente como o cálculo seria feito.",
+ "context": "O PAN argumenta que políticas fiscais que ignorem a inflação prejudicam os trabalhadores, provocando uma perda real de rendimentos. Embora nos últimos anos a inflação tenha sido acomodada nas alterações ao IRS, o partido nota que nem sempre foi essa a prática. Aponta a atual incerteza económica, associada à guerra no Irão e ao aumento generalizado dos preços, citando previsões do Fundo Monetário Internacional (FMI) de uma inflação de 4,2% este ano e de 5,7% em 2027, o que levaria a uma contração salarial sem atualização dos escalões.",
+ "analysis": "O ponto forte da iniciativa é endereçar um fenómeno económico concreto: sem atualização dos escalões, a inflação agrava a tributação efetiva dos rendimentos. Contudo, o texto apresenta fragilidades evidentes. Primeiro, trata-se de um projeto de resolução não vinculativo, recomendando apenas ao Governo que defenda uma política, em vez de apresentar um projeto de lei que altere o Código do IRS ou fixe uma indexação automática. Segundo, a formulação é vaga: não define o índice de referência, se a atualização usa a inflação prevista ou a registada no ano anterior, nem o procedimento perante deflação. Terceiro, omite qualquer estimativa de impacto orçamental. Além disso, embora mencione reduções de taxas e deduções específicas nos motivos, essas medidas não constam da recomendação final.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Por ser uma recomendação não vinculativa, o projeto não tem impacto orçamental direto imediato. Caso o Governo implemente a atualização dos escalões face a um cenário sem indexação, tal implicará uma redução da receita fiscal de IRS, cujo valor não é quantificado no documento."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "trabalhadores dependentes",
+  "pensionistas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "irs",
+  "escalões de irs",
+  "inflação",
+  "poder de compra",
+  "política fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

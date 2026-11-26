@@ -1,0 +1,42 @@
+{
+ "short_title": "Clarifica conceito de agregado monoparental no abono de família",
+ "summary": "O Projeto de Lei n.º 618/XVII/1.ª propõe alterar o regime do abono de família para clarificar em que situações uma família mantém a qualificação de agregado familiar monoparental, preservando o direito à majoração de 50% desta prestação. A iniciativa acrescenta um novo número ao artigo 8.º-A do Decreto-Lei n.º 176/2003, estabelecendo que a condição de agregado monoparental não se perde pela coabitação com determinadas pessoas. Especificamente, protege a coabitação com filhos, adotados ou enteados maiores até aos 25 anos que não aufiram rendimentos anuais superiores a uma retribuição mínima mensal garantida, excluindo prestações sociais. Protege igualmente a coabitação com maiores dependentes por deficiência ou incapacidade inaptos para o trabalho, bem como com outros adultos que não exerçam responsabilidades parentais nem declarem rendimentos comuns. A lei entrará em vigor com o Orçamento do Estado seguinte à sua publicação.",
+ "key_points": [
+  "Altera o artigo 8.º-A do Decreto-Lei n.º 176/2003 para clarificar quando um agregado familiar mantém o estatuto de monoparentalidade.",
+  "Garante que a coabitação com filhos, adotados ou enteados maiores até aos 25 anos não retira o estatuto, desde que os seus rendimentos anuais não ultrapassem o valor de um salário mínimo mensal, excluindo prestações sociais.",
+  "Permite manter a qualificação de agregado monoparental quando exista coabitação com pessoa maior dependente por deficiência ou incapacidade, inapta para o trabalho e para angariar meios de subsistência.",
+  "Assegura que a partilha de habitação com outros adultos sem responsabilidades parentais e sem declaração de rendimentos comuns não prejudica a majoração do abono.",
+  "Prevê que as novas regras entrem em vigor apenas com o Orçamento do Estado subsequente à publicação da lei."
+ ],
+ "plain_language": "Pais ou mães que criam filhos sozinhos recebem um aumento de 50% no abono de família. Atualmente, basta irem viver temporariamente para casa dos pais ou terem um filho a fazer 18 anos para poderem perder esse apoio extra, mesmo que o dinheiro em casa continue a ser o mesmo. Esta proposta quer evitar esses cortes automáticos. Se for aprovada, essas famílias não perdem o estatuto de família monoparental por partilharem casa com filhos dependentes até aos 25 anos, com adultos incapacitados ou com outros adultos, como avós ou colegas de casa, que não partilhem rendimentos nem responsabilidades pelos menores.",
+ "context": "O LIVRE justifica a iniciativa com casos recentes de mães e famílias monoparentais que perderam a majoração do abono ao regressarem a casa dos pais por dificuldades habitacionais, ao fazerem horas extraordinárias ou quando um filho atingiu a maioridade sem autonomia económica. O partido cita ainda um alerta da Provedoria de Justiça de fevereiro de 2026 sobre a rigidez do critério atual, que provoca a perda automática do apoio aos irmãos mais novos, defendendo a harmonização com o limite etário dos 25 anos já usado no Código do IRS e no Código Civil.",
+ "analysis": "A proposta responde a uma lacuna real assinalada pela Provedoria de Justiça, protegendo agregados monoparentais vulneráveis que partilham habitação por necessidade ou sustentam filhos maiores sem autonomia. Contudo, apresenta inconsistências entre a justificação e o texto legal: embora a exposição de motivos mencione a perda do apoio por horas extraordinárias, o articulado nada altera quanto aos escalões de rendimento do titular. Além disso, a redação cria riscos práticos. O limite de rendimentos anuais do filho maior equivale a apenas um salário mínimo mensal por ano, valor baixo que pode excluir jovens com trabalhos sazonais. Já a alínea sobre outros adultos assenta apenas na ausência de declaração de rendimentos comuns e não na economia comum efetiva, dificultando a fiscalização e podendo abranger situações de partilha real de despesas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao alargar as situações em que se mantém a qualificação de agregado monoparental, a medida evita a cessação da majoração de 50% do abono de família, aumentando a despesa da Segurança Social face às regras atuais. O projeto não apresenta estimativa orçamental do impacto, prevendo a entrada em vigor apenas com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "famílias monoparentais",
+  "crianças e jovens beneficiários de abono de família",
+  "jovens adultos dependentes até aos 25 anos",
+  "pessoas maiores dependentes por deficiência ou incapacidade"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "abono de família",
+  "famílias monoparentais",
+  "majoração",
+  "proteção social",
+  "pobreza infantil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

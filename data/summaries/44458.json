@@ -1,0 +1,26 @@
+{
+ "short_title": "Impenhorabilidade da Habitação Própria e Permanente",
+ "summary": "Esta proposta de lei visa tornar a habitação própria e permanente impenhorável para a maioria dos tipos de dívidas, exceto quando o imóvel foi dado como garantia hipotecária e a execução se destina ao pagamento dessa mesma hipoteca. A proteção aplica-se a imóveis com valor patrimonial tributário igual ou inferior a 250.000 euros. O objetivo é alargar a proteção já existente para dívidas fiscais (desde 2016) a outras dívidas, impedindo que as famílias percam a sua casa por valores muitas vezes desproporcionais ao valor do imóvel.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer que a casa onde as pessoas vivem não possa ser tirada por causa de dívidas, a não ser que a dívida seja do próprio empréstimo da casa. É para proteger as famílias de ficarem sem teto por causa de outras contas, desde que a casa não valha mais de 250 mil euros. Já havia uma proteção para dívidas ao fisco, e agora querem alargar isso a outras dívidas para que mais famílias não percam a sua casa por causa de dívidas pequenas.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma lacuna na legislação atual: enquanto a habitação própria e permanente está protegida de penhora por dívidas fiscais, não o está para outros tipos de dívidas, que frequentemente são de valor muito inferior ao do imóvel. A proposta aborda diretamente esta inconsistência, estendendo a impenhorabilidade a quase todas as dívidas, com a hipoteca como principal exceção. Esta abordagem alinha-se perfeitamente com o objetivo declarado de proteger a estabilidade familiar e o direito à habitação, especialmente face ao impacto desproporcionado de pequenas dívidas que levam à perda de um bem tão significativo. A inclusão de um limite de valor (250.000€) garante que a proteção se foca nas habitações de valor médio, o que é consistente com o objetivo de proteção social.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não prevê um impacto fiscal direto significativo nos gastos ou receitas do governo. O seu principal efeito é na esfera das execuções judiciais e na proteção patrimonial dos cidadãos. Poderá, indiretamente, reduzir o número de processos de execução de imóveis nos tribunais, o que poderia ter um efeito marginal na carga de trabalho judicial, mas não implica um aumento ou diminuição substancial das despesas públicas ou das receitas fiscais. O foco é a proteção social e o direito à habitação, não a gestão orçamental direta."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

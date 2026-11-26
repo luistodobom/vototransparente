@@ -1,0 +1,25 @@
+{
+ "short_title": "Reforço do controlo de fronteiras e asilo em Portugal",
+ "summary": "Esta proposta visa alterar as regras de concessão de asilo e proteção subsidiária em Portugal, com o objetivo de reforçar o controlo das fronteiras externas e da permanência de cidadãos estrangeiros no país. O documento aponta para um aumento significativo de pedidos de asilo na União Europeia e em Portugal, com uma baixa percentagem de pedidos válidos. Argumenta que as leis atuais, em particular o visto para procura de trabalho, estão a ser usadas indevidamente, permitindo que indivíduos permaneçam no país ao solicitar asilo, mesmo sem motivos genuínos de proteção. As alterações propostas procuram fechar estas lacunas, tornando o processo de asilo mais rigoroso e garantindo que apenas quem realmente necessita de proteção a receba, enquanto os restantes são rapidamente afastados.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer apertar as regras para quem pede asilo em Portugal. O partido que a propõe diz que há muita gente a pedir asilo só para conseguir ficar no país, mesmo sem ter direito, e que isso está a sobrecarregar o sistema. Querem que seja mais difícil para quem entra ilegalmente ou para quem tem um visto de procura de trabalho e depois pede asilo para não ter de sair. A ideia é que, se o pedido de asilo for negado, a pessoa tenha de sair rapidamente, e que os apoios sociais (como alojamento e comida) só sejam dados a quem já tem o asilo aprovado e por um tempo limitado.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica clara do sistema atual de asilo e migração em Portugal, argumentando que o 'visto para procura de trabalho' e a suspensão automática de procedimentos por entrada irregular aquando de um pedido de asilo criam lacunas exploradas por indivíduos. As alterações propostas alinham-se diretamente com este diagnóstico, visando corrigir as inconsistências apontadas. Por exemplo, a proposta impede a suspensão automática de processos administrativos ou criminais por entrada irregular quando um pedido de asilo é feito, e remove o efeito suspensivo dos recursos judiciais contra decisões de não admissibilidade ou recusa de proteção. Além disso, limita o apoio social a quem já tem o asilo concedido e por um período máximo de seis meses, exigindo contribuição de quem tem meios. Estas medidas são consistentes com o objetivo declarado de reforçar o controlo de fronteiras e prevenir o alegado abuso do sistema de asilo, tornando-o mais restritivo e expedito para a remoção de quem não é elegível.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo principal diminuir os gastos públicos relacionados com os requerentes de asilo. Ao limitar o apoio social (alojamento, alimentação, cuidados de saúde) apenas aos requerentes cujo pedido de asilo foi deferido e por um período máximo de seis meses, e ao exigir contribuições de quem tem recursos suficientes, os custos diretos de apoio seriam reduzidos. Adicionalmente, ao procurar acelerar o afastamento de indivíduos cujos pedidos são recusados ou considerados inadmissíveis, a proposta visa diminuir o encargo a longo prazo de migrantes irregulares nos serviços públicos. Embora possa haver custos iniciais associados a um aumento de afastamentos coercivos ou a potenciais centros de instalação temporária, a intenção geral e o efeito líquido provável é uma redução da despesa governamental na gestão de processos de asilo e apoio social. Não há indicação clara de aumento de receita governamental, para além da compensação de custos através das contribuições mencionadas."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

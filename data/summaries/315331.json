@@ -1,0 +1,39 @@
+{
+ "short_title": "Alargamento da isenção de IMT na compra de habitação própria",
+ "summary": "O Projeto de Lei n.º 118/XVII/1.ª, apresentado pelo Chega, propõe alterar o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT) para alargar a isenção deste imposto na compra de casas para habitação própria e permanente. Concretamente, a iniciativa altera o n.º 1 do artigo 9.º do CIMT, passando a isentar de imposto a aquisição de prédios urbanos ou frações autónomas destinados exclusivamente a habitação própria e permanente cujo valor tributável não exceda o valor máximo do 5.º escalão previsto na alínea a) do n.º 1 do artigo 17.º do mesmo código. O diploma revoga igualmente o n.º 2 do artigo 9.º e estabelece que a medida entra em vigor após a publicação do Orçamento do Estado subsequente à sua aprovação.",
+ "key_points": [
+  "Alarga a isenção de Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT) na aquisição de habitação própria e permanente.",
+  "Estabelece como novo limite máximo da isenção o valor superior do 5.º escalão previsto na alínea a) do n.º 1 do artigo 17.º do Código do IMT.",
+  "Revoga o n.º 2 do artigo 9.º do Código do IMT, mantendo os restantes números do artigo.",
+  "Determina que as alterações entram em vigor após a publicação do Orçamento do Estado subsequente à aprovação do diploma."
+ ],
+ "plain_language": "Quando alguém compra uma casa para viver em Portugal tem de pagar um imposto chamado IMT. Atualmente, a isenção total só abrange imóveis de valor mais baixo, até cerca de 104 mil euros no regime geral, ou até cerca de 328 mil euros para jovens até aos 35 anos. Este projeto de lei propõe aumentar esse limite para todos os compradores de habitação própria e permanente, estendendo a isenção até ao teto do 5.º escalão das tabelas do imposto. Se for aprovada, a alteração só entra em vigor após a publicação do próximo Orçamento do Estado.",
+ "context": "O proponente justifica a iniciativa com o agravamento da crise habitacional, apontando uma subida de 120% nos preços das casas entre 2010 e 2024 face a um rendimento médio líquido de 1.142 euros. Argumenta que esta situação empurra famílias para as periferias, atrasa a saída de casa dos jovens, adia a parentalidade e incentiva a emigração. Sustenta ainda que as políticas públicas recentes não resolveram o problema e que os limiares atuais de isenção de IMT estão desfasados dos preços praticados, tornando excessivo o peso fiscal sobre a compra da primeira habitação.",
+ "analysis": "A proposta procura aliviar o esforço financeiro inicial na compra de habitação própria e permanente, indexando a isenção a um escalão já existente no Código do IMT e remetendo a sua entrada em vigor para o Orçamento do Estado seguinte, o que acautela o planeamento orçamental. Contudo, apresenta fragilidades relevantes. O texto não quantifica a perda de receita fiscal nem explicita no articulado o valor concreto do 5.º escalão, dificultando a avaliação do impacto real da medida. Além disso, revoga o n.º 2 do artigo 9.º sem clarificar as consequências para o regime específico dos jovens referido na exposição de motivos, e não intervém sobre o Imposto do Selo ou a falta de oferta habitacional, podendo estimular a procura sem conter os preços.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O alargamento do limite de isenção do IMT na compra de habitação própria e permanente reduz a receita fiscal cobrada sobre estas transações. O documento não apresenta estimativas quanto ao montante dessa redução."
+ },
+ "affected": [
+  "compradores de habitação própria e permanente",
+  "jovens até aos 35 anos",
+  "famílias"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "imt",
+  "habitação própria",
+  "isenção fiscal",
+  "compra de casa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da segurança e supervisão de funiculares e carros elétricos",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que, em articulação com o Instituto da Mobilidade e dos Transportes, crie regimes jurídicos para garantir a segurança e a supervisão independente de todos os funiculares e carros elétricos sobre carris em Portugal. Em concreto, pede um novo regime técnico e de fiscalização para funiculares e sistemas similares — nomeadamente os ascensores da Glória e do Lavra —, mesmo fora do Decreto-Lei n.º 34/2020. Propõe também um quadro legal para carros elétricos históricos, modernizados ou modernos que circulam em arruamentos públicos, assegurando regras de segurança e supervisão alinhadas com a União Europeia. Por fim, recomenda que o Governo ausculte todos os operadores de funiculares do país para melhorar padrões técnicos. Sendo um Projeto de Resolução, trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que, com o Instituto da Mobilidade e dos Transportes, defina um novo regime jurídico técnico e de supervisão para todos os funiculares e sistemas similares, incluindo os ascensores da Glória e do Lavra.",
+  "Propõe que esse regime se aplique independentemente de os equipamentos estarem abrangidos pela Secção II do Decreto-Lei n.º 34/2020 e em conformidade com o Regulamento (UE) n.º 2016/424.",
+  "Pede a aprovação de um quadro legislativo para carros elétricos sobre carris (históricos, modernizados ou modernos) que circulam na via pública, abrangendo a entrada ao serviço e toda a sua vida útil.",
+  "Recomenda a realização de uma auscultação a todos os operadores nacionais de funiculares e sistemas similares para melhorar os padrões técnicos e assegurar supervisão independente e regular."
+ ],
+ "plain_language": "O Parlamento recomenda ao Governo que crie regras de segurança mais apertadas e uma fiscalização independente para todos os funiculares e carros elétricos em Portugal. Atualmente, vários destes transportes são controlados apenas pelas próprias empresas operadoras, sem uma entidade externa a verificar a segurança. A iniciativa pede novas leis para acabar com essa lacuna, abrangendo equipamentos históricos e modernos que circulam nas ruas. Pede também que o Governo ouça os operadores de todo o país. Como é uma recomendação, o Governo não é obrigado a avançar.",
+ "context": "O PAN justifica a iniciativa com o descarrilamento do ascensor da Glória, a 3 de setembro de 2025, por rotura da ligação do cabo à cabina, que causou 16 mortos e dezenas de feridos. Segundo o relatório do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários, os ascensores da Glória e do Lavra não têm supervisão independente nem enquadramento legal efetivo, dependendo apenas da Carris. A mesma lacuna afeta os carros elétricos que circulam em via pública no país.",
+ "analysis": "A iniciativa tem o mérito de responder a uma lacuna regulatória concreta, identificada pelo órgão oficial de investigação de acidentes, procurando acabar com a autorregulação exclusiva dos operadores de funiculares e elétricos em via pública. Contudo, sendo um Projeto de Resolução, é não vinculativo, não fixa prazos nem concretiza qual a entidade que exercerá a supervisão independente ou os recursos necessários. A adaptação técnica de veículos históricos a novos padrões também pode colocar dificuldades práticas. Há ainda inconsistências formais no documento: menciona um acidente de 3 de setembro de 2025, mas está datado de 21 de agosto de 2025, e escreve 'Lavre' em vez de 'Lavra' na parte resolutiva.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, a iniciativa não gera despesa direta imediata. Caso o Governo avance com novos regimes de supervisão independente e auscultações, poderão existir custos administrativos e de fiscalização não quantificados no documento."
+ },
+ "affected": [
+  "passageiros de funiculares e elétricos",
+  "operadores de funiculares e elétricos (como a Carris)",
+  "Instituto da Mobilidade e dos Transportes",
+  "municípios com estes sistemas de transporte"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca"
+ ],
+ "tags": [
+  "funiculares",
+  "carros elétricos",
+  "segurança",
+  "supervisão independente",
+  "ascensor da glória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

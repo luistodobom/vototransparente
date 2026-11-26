@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargamento da dedução no IRS de juros do crédito à habitação",
+ "summary": "O Projeto de Lei n.º 766/XVII/2.ª, apresentado pelo Bloco de Esquerda, propõe alterações ao artigo 78.º-E do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS) relativo às deduções à coleta com encargos com imóveis. Atualmente, a dedução de 15% das despesas com juros de crédito à habitação aplica-se apenas a contratos celebrados até 31 de dezembro de 2011, com um limite máximo de 296 euros. A iniciativa elimina esse limite temporal, passando a abranger todos os contratos independentemente da data de celebração, incluindo aquisições, construções, beneficiações para habitação própria e permanente ou arrendamento habitacional permanente, cooperativas de habitação, compras em grupo e locação financeira. Além disso, aumenta o teto máximo da dedução anual de 296 euros para 360 euros. A lei entra em vigor com o orçamento subsequente à sua aprovação.",
+ "key_points": [
+  "Elimina a restrição que limitava a dedução no IRS dos juros de dívidas de crédito à habitação apenas a contratos celebrados até 31 de dezembro de 2011.",
+  "Estende o fim do limite temporal aos contratos com cooperativas de habitação, compras em grupo e locação financeira imobiliária para habitação própria e permanente ou arrendamento permanente.",
+  "Aumenta o limite máximo anual da dedução à coleta de 15% dos juros suportados, passando de 296 euros para 360 euros.",
+  "Determina que a alteração entra em vigor com o orçamento subsequente à aprovação da lei."
+ ],
+ "plain_language": "Se compraste casa com empréstimo depois de 2011, hoje não podes descontar os juros desse crédito no IRS. Só quem pediu empréstimo até ao final de 2011 tem esse benefício, até 296 euros por ano, e perde-o se mudar o crédito para outro banco. Esta proposta acaba com essa data limite para que qualquer família com crédito à habitação possa deduzir 15% dos juros pagos no IRS, mesmo que tenha comprado casa nos últimos anos ou transferido o empréstimo. Além disso, sobe o máximo que se pode descontar no imposto para 360 euros por ano.",
+ "context": "O Bloco de Esquerda aponta que os preços da habitação mais do que duplicaram entre 2015 e 2025 e que o crédito à habitação subiu para 115,7 mil milhões de euros em maio de 2026, atingindo a prestação média 441 euros em julho de 2026. Destaca também a subida das taxas de juro pelo Banco Central Europeu e a inflação. Segundo o proponente, a regra atual exclui quem comprou casa nos últimos quinze anos e penaliza a transferência de créditos entre bancos, procurando a medida aliviar os encargos das famílias.",
+ "analysis": "Como ponto positivo, a proposta corrige uma distorção no mercado bancário: ao eliminar a data limite de 2011, evita que os clientes percam o benefício fiscal ao transferir o crédito para outro banco com melhores condições, promovendo a concorrência. Contudo, apresenta fragilidades relevantes. O projeto não inclui qualquer estimativa do impacto orçamental da extensão da dedução a todos os contratos posteriores a 2011, o que dificulta a avaliação da sua sustentabilidade financeira. Além disso, como o próprio proponente reconhece, a medida não ajuda quem não consegue comprar casa e o alívio efetivo é modesto, até 360 euros anuais, podendo beneficiar de forma indiferenciada agregados com rendimentos elevados por não prever limites em função do rendimento.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A eliminação da data limite de 2011 alarga o universo de contribuintes elegíveis para a dedução à coleta de 15% dos juros de crédito à habitação, enquanto o aumento do teto de 296 para 360 euros amplia o valor dedutível por agregado, reduzindo a receita do IRS. O documento não quantifica o montante global do impacto orçamental."
+ },
+ "affected": [
+  "detentores de crédito à habitação",
+  "senhorios com empréstimo para arrendamento permanente",
+  "contribuintes em sede de IRS",
+  "instituições de crédito"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "irs",
+  "deduções fiscais",
+  "crédito à habitação",
+  "juros",
+  "habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Disponibilização de Tratamento para Cancro do Ovário",
+ "summary": "Esta proposta visa garantir que todas as mulheres em Portugal com cancro do ovário avançado, que respondem à quimioterapia, tenham acesso a tratamentos de manutenção de primeira linha, como niraparib, bevacizumab e olaparib/bevacizumab. Atualmente, estes tratamentos estão disponíveis apenas para uma minoria de pacientes com mutações genéticas específicas, excluindo a maioria. O objetivo é aumentar a sobrevida e a qualidade de vida destas mulheres, combatendo a alta taxa de recidiva da doença e a dificuldade no seu diagnóstico precoce.",
+ "key_points": [],
+ "plain_language": "Basicamente, o Bloco de Esquerda quer que o governo garanta que todas as mulheres com cancro do ovário, que já fizeram quimioterapia e que podem beneficiar de certos medicamentos para evitar que a doença volte, tenham acesso a esses tratamentos. É que, hoje em dia, a maioria delas não consegue, porque só estão disponíveis para quem tem uma alteração genética específica. Eles acham que não faz sentido limitar o acesso a estes medicamentos que salvam vidas só para poupar dinheiro, e que o custo devia ser negociado com as empresas farmacêuticas, não à custa da saúde das pessoas.",
+ "context": null,
+ "analysis": "O documento aponta uma inconsistência clara na política de saúde atual: embora o tratamento de manutenção com niraparib tenha sido disponibilizado em 2022, a sua aplicação é restrita a mulheres com mutações genéticas específicas (sBRCA ou Gbrca), excluindo cerca de 75% das pacientes com cancro do ovário que não possuem essas mutações. A proposta critica a justificação do Infarmed para indeferir pedidos de uso excecional, que alega a existência de alternativas terapêuticas e a ausência de risco especial, considerando-a \"incompreensível\" e \"não verdadeira\". A implementação proposta alinha-se diretamente com o objetivo de garantir o acesso universal a tratamentos eficazes, argumentando que a lentidão na introdução de inovações terapêuticas em Portugal é motivada por controlo de custos, que não deve ser feito à custa da saúde dos doentes, mas sim através de negociações de preços e margens de lucro das farmacêuticas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao defender a disponibilização de tratamentos inovadores a um maior número de pacientes, implicaria um aumento dos gastos do governo com a saúde. No entanto, o documento argumenta que este aumento não deve ser suportado pelos doentes, mas sim através de uma renegociação dos preços dos medicamentos com as farmacêuticas e uma redução das suas margens de lucro. Não há menção direta a um aumento ou diminuição da receita do governo. O efeito líquido seria provavelmente um aumento nos gastos com medicamentos, mas com a expectativa de que parte desse custo seja mitigada por melhores negociações de preços, sem impactar a receita."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

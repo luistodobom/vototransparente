@@ -1,0 +1,24 @@
+{
+ "short_title": "Médico de Família para Todos os Utentes",
+ "summary": "A proposta da Iniciativa Liberal aborda a falta de médico de família para cerca de 1,4 milhões de portugueses. Sugere que, se o Estado não conseguir atribuir um médico de família do Serviço Nacional de Saúde até agosto de 2022, os utentes possam procurar um médico nos setores privado ou social, com o Estado a cobrir os custos, desde que não excedam os valores praticados nos Cuidados de Saúde Primários públicos. O objetivo é garantir o acesso universal aos cuidados de saúde.",
+ "key_points": [],
+ "plain_language": "Basicamente, muita gente em Portugal não tem médico de família, mesmo com as promessas do governo. Então, a Iniciativa Liberal está a dizer: se o Estado não conseguir arranjar um médico do SNS para ti até agosto de 2022, então podes ir a um médico particular ou de uma instituição social, e o governo paga a conta, desde que não seja mais caro do que custaria no SNS. A ideia é que toda a gente tenha um médico, seja como for.",
+ "context": null,
+ "analysis": "A proposta é consistente com o objetivo declarado de garantir o acesso a um médico de família para todos os utentes, mesmo que o Serviço Nacional de Saúde não consiga fazê-lo. Ao propor que o Estado cubra os custos de consultas no setor privado ou social, a Iniciativa Liberal visa resolver diretamente a lacuna de acesso, colocando o utente no centro da decisão e promovendo a liberdade de escolha. A implementação detalhada, que estabelece prazos e a responsabilidade financeira do Estado, alinha-se com a meta de assegurar cuidados de saúde de proximidade e qualidade. No entanto, a cláusula de que os custos não podem ser superiores aos dos Cuidados de Saúde Primários pode ser um ponto de fricção, dado que os preços no setor privado podem ser mais elevados, potencialmente limitando a oferta ou exigindo um copagamento do utente, embora a proposta não o mencione explicitamente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo. Atualmente, o Estado não suporta os custos de médico de família para os 1,4 milhões de utentes sem atribuição. Com a implementação desta medida, o governo passaria a cobrir os custos das consultas desses utentes nos setores privado ou social. Não há indicação de impacto na receita do governo. O efeito líquido será um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

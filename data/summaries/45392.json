@@ -1,0 +1,26 @@
+{
+ "short_title": "Orçamento do Estado para 2021",
+ "summary": "Este documento é a Proposta de Lei do Orçamento do Estado para 2021, apresentada pelo Governo. Detalha o plano financeiro para o ano, especificando como as receitas públicas serão cobradas e como as despesas serão alocadas em diversos setores da administração central, segurança social e autarquias locais. Abrange áreas como a gestão da administração pública, benefícios da segurança social, finanças regionais e locais, saúde, educação, justiça, defesa, ambiente, transportes, habitação e cooperação internacional. A lei inclui também medidas fiscais e provisões específicas para responder aos impactos económicos e sociais da pandemia de COVID-19.",
+ "key_points": [],
+ "plain_language": "Este documento é o plano de contas do governo para 2021. Basicamente, diz de onde vem o dinheiro (impostos e outras fontes) e para onde vai, cobrindo tudo, desde pagar salários a funcionários públicos e apoiar a segurança social, até financiar hospitais, escolas e câmaras municipais. Também inclui regras especiais e dinheiro extra para lidar com a crise da COVID-19 e ajudar a economia e as pessoas a recuperar. É como o orçamento familiar do país para o ano.",
+ "context": null,
+ "analysis": "O documento, enquanto proposta de Orçamento do Estado, estabelece um quadro abrangente para a gestão das finanças públicas em 2021. A sua estrutura detalhada, com artigos que cobrem múltiplos setores e mecanismos financeiros, demonstra uma clara coerência entre o objetivo de aprovar o Orçamento e os pormenores da sua implementação. Não se identificam inconsistências evidentes; pelo contrário, o texto concede consistentemente ao Governo as autorizações necessárias para gerir fundos, efetuar ajustamentos orçamentais e implementar políticas específicas em conformidade com o plano financeiro global. Por exemplo, as disposições de apoio extraordinário devido à COVID-19 (Art. 112, 185, 249, 263) abordam diretamente a necessidade de resposta à pandemia, evidenciando um alinhamento claro entre o objetivo de estabilidade económica e social e as medidas propostas. De igual modo, as regras detalhadas para transferências para autarquias locais e regiões autónomas (Art. 61, 71-98) asseguram que a descentralização de competências e a gestão financeira são devidamente regulamentadas. O documento serve, assim, como a base legal para as ações financeiras do Governo, definindo as autorizações e os limites para as diversas operações.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento significativo da despesa pública, impulsionado por medidas de resposta à pandemia de COVID-19, como o apoio extraordinário a trabalhadores, o subsídio de risco para profissionais de saúde e o programa 'IVAucher' para estímulo ao consumo. Investimentos em infraestruturas de saúde, habitação, transportes e reforço de pessoal na administração pública também contribuem para o aumento dos gastos. No lado da receita, o documento autoriza a cobrança de impostos e contribuições existentes, com algumas alterações nos códigos fiscais e a manutenção de contribuições extraordinárias em setores como o bancário, farmacêutico e de dispositivos médicos. Embora existam alguns benefícios fiscais temporários, a autorização explícita para aumentar o endividamento líquido global direto do Estado (Art. 130) e outros limites de empréstimos para fins específicos, sugere um efeito líquido de aumento da despesa e, consequentemente, do défice e da dívida pública para 2021."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "defesa"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

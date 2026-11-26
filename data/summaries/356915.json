@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão do Código do Trabalho: parentalidade, transparência e flexibilidade",
+ "summary": "O Projeto de Lei n.º 666/XVII/1.ª, apresentado pelo CHEGA, propõe uma revisão extensa do Código do Trabalho, aplicável também à Administração Pública por remissão da lei geral. Na parentalidade, alarga a licença parental inicial até 270 dias (com 60 dias exclusivos obrigatórios para cada progenitor), cria uma licença facultativa de 90 dias por luto de filho, uma licença até 120 dias para avós cuidarem de netos e aumenta a licença alargada para cinco meses. Estabelece o direito a horário flexível em casos de guarda partilhada judicialmente homologada e permite até três dias anuais de falta ou teletrabalho por emergência com animal de companhia. Introduz um banco de horas por acordo, acréscimos de 15 % a 20 % para turnos rotativos contínuos, majoração de férias por assiduidade e regras de transparência salarial e de limitação da inteligência artificial em decisões laborais, diferenciando obrigações consoante a dimensão das empresas.",
+ "key_points": [
+  "Alarga a licença parental inicial até 270 dias (gozada até aos 545 dias de vida da criança), com 60 dias consecutivos obrigatórios para a mãe e 60 dias para o pai, e cria licenças facultativas de luto por morte de filho (até 90 dias) e de assistência a neto (até 120 dias).",
+  "Prevê até três dias por ano de falta justificada remunerada ou de teletrabalho, por cada animal de companhia registado, em caso de emergência comprovada por atestado médico-veterinário.",
+  "Institui um banco de horas por acordo (até 50 horas semanais e 150 anuais) com aviso prévio de três dias úteis e pagamento majorado em 20 % se o saldo não for compensado em três meses, além de acréscimos de 15 % ou 20 % para trabalho contínuo em turnos rotativos.",
+  "Obriga à indicação da remuneração base nos anúncios de emprego, garante o acesso a médias salariais desagregadas por sexo nas grandes empresas (isentando as PME) e proíbe decisões disciplinares ou de avaliação baseadas exclusiva ou predominantemente em inteligência artificial.",
+  "Aumenta até três dias o período anual de férias em função da assiduidade, permitindo ao trabalhador renunciar de forma remunerada aos dias que excedam 20 dias úteis.",
+  "Adapta regras à dimensão das empresas: escalona a formação anual obrigatória entre 20 e 50 horas, reduz para oito meses a restrição ao outsourcing após despedimento em micro e pequenas empresas e estende às pequenas empresas a possibilidade de excluir a reintegração em despedimento ilícito."
+ ],
+ "plain_language": "Este projeto propõe mudar várias regras laborais de uma só vez. Para as famílias, alarga a licença parental para 270 dias, garante 60 dias obrigatórios a cada progenitor, cria uma licença de luto até 90 dias por morte de filho e permite aos avós tirar até 120 dias para cuidar de netos. Também autoriza faltas ou teletrabalho até três dias anuais por emergência com animal de companhia. Obriga ainda a divulgar salários nos anúncios de emprego, proíbe sanções ou avaliações decididas apenas por inteligência artificial, cria um extra salarial para turnos rotativos e flexibiliza regras para pequenas empresas.",
+ "context": "O grupo parlamentar proponente argumenta que o Código do Trabalho está obsoleto face às mudanças económicas, tecnológicas e sociais da última década. Defende a necessidade de fomentar a natalidade perante a falta de vagas em creches, proteger a saúde mental em casos de luto ou divórcio litigioso e reduzir o absentismo com o apoio dos avós. Invoca ainda a adaptação à economia global e a múltiplos fusos horários, o trabalho por resultados, a Diretiva Europeia (UE) 2023/970 sobre transparência salarial, a proteção contra decisões automatizadas e a diferenciação de regras consoante a dimensão das empresas.",
+ "analysis": "A iniciativa aborda temas atuais, como a transparência salarial, os limites à inteligência artificial em decisões laborais, o acréscimo salarial em turnos contínuos e o reforço de licenças familiares e de luto. Contudo, revela fragilidades técnicas relevantes. A exposição de motivos anuncia pagamentos de 100 % e 80 % na licença parental e regras sobre trabalhadores estrangeiros que não constam do articulado nem alteram o regime dos subsídios da Segurança Social. Há também gralhas de redação e remissões erradas (como referência ao artigo 128.º, não alterado, e numeração repetida) e uma revogação tácita genérica geradora de insegurança jurídica. Além disso, a isenção das PME nas regras de transparência salarial e o alargamento da exclusão de reintegração às pequenas empresas podem diminuir a proteção laboral.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O diploma não apresenta estimativa orçamental, mas alarga licenças e faltas remuneradas, prevê um regime especial de reforma para turnos contínuos e aplica-se também à Administração Pública, incluindo acréscimos remuneratórios por turnos e compensação de despesas de teletrabalho. A concretização plena dos subsídios de parentalidade e das isenções fiscais no teletrabalho depende, porém, de legislação e portarias complementares."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "trabalhadores em funções públicas",
+  "empregadores e empresas",
+  "progenitores e avós trabalhadores",
+  "candidatos a emprego"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "código do trabalho",
+  "parentalidade",
+  "transparência salarial",
+  "inteligência artificial",
+  "banco de horas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

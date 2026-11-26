@@ -1,0 +1,44 @@
+{
+ "short_title": "Prevenção do desaparecimento e apoio a pessoas com demência",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a adoção de cinco medidas para prevenir o desaparecimento de pessoas com demência e melhorar o seu acompanhamento e tratamento. Por ser um projeto de resolução, trata-se de uma recomendação não vinculativa. Em primeiro lugar, propõe desenvolver um plano de formação para profissionais de saúde, segurança e outros trabalhadores de estabelecimentos de saúde sobre o acolhimento e permanência destes utentes. Em segundo lugar, recomenda criar um regime de sanções para quem incumpra o direito ao acompanhamento previsto na lei. Em terceiro lugar, sugere uma campanha nacional de consciencialização, prevenção e diagnóstico que associe fatores de risco como hipertensão, tabagismo, diabetes e doenças cardiovasculares. Por fim, pede que seja estudada a colocação de pulseiras identificativas com geolocalização em contexto hospitalar, incluindo o contacto do acompanhante, e a criação de um sistema de comparticipação para terapias não farmacológicas.",
+ "key_points": [
+  "Desenvolver um plano de formação sobre acolhimento e permanência de pessoas com demência para profissionais de saúde, segurança e outros funcionários hospitalares.",
+  "Criar um regime sancionatório aplicável ao incumprimento do direito ao acompanhamento de pessoas em situação de vulnerabilidade e dependência.",
+  "Promover uma campanha nacional de sensibilização, prevenção e diagnóstico da demência associada a fatores de risco cardiovasculares e metabólicos.",
+  "Estudar a utilização de pulseiras identificativas com geolocalização nos estabelecimentos de saúde, associadas ao contacto do acompanhante.",
+  "Implementar um sistema de comparticipação para tratamentos não farmacológicos dirigidos a pessoas com demência."
+ ],
+ "plain_language": "O PAN pede ao Governo que tome cinco medidas para proteger melhor as pessoas com demência, sobretudo quando vão a hospitais ou centros de saúde. Como é uma recomendação, o Governo não é obrigado a aplicá-la. A proposta sugere dar formação aos funcionários e seguranças dos hospitais, criar sanções para quem impeça um acompanhante de estar com o doente e estudar o uso de pulseiras com localização para encontrar rapidamente quem se perca. Também pede campanhas de prevenção e apoios financeiros do Estado para terapias sem medicamentos, como a terapia ocupacional.",
+ "context": "O PAN aponta que existem cerca de 240 mil pessoas com demência em Portugal, podendo chegar a 368 mil até 2050, e que a resposta pública é insuficiente. Como exemplo, refere o desaparecimento de Avelina Ferreira no Hospital São Francisco Xavier, em dezembro de 2023, após ter sido negado ao marido o acompanhamento na sala de espera e devido a atrasos na consulta da videovigilância. O partido cita ainda dados da OCDE segundo os quais 53,5% dos casos europeus não são detetados e critica a falta de comparticipação para terapias não farmacológicas.",
+ "analysis": "A iniciativa tem o mérito de abordar falhas concretas na proteção de doentes vulneráveis, ligando a segurança hospitalar ao cumprimento efetivo do direito ao acompanhamento e ao acesso a terapias não farmacológicas. Contudo, apresenta fragilidades de execução e coerência. Sendo um projeto de resolução, não vincula o Governo nem detalha custos ou prazos. A exposição de motivos identifica a sobrelotação e a falta de profissionais de saúde como causas do acompanhamento deficiente, mas nenhuma das cinco recomendações propõe reforçar equipas. Além disso, o texto aponta o atraso na consulta da videovigilância como falha grave, sem incluir medidas sobre este ponto. Por fim, o uso de pulseiras com geolocalização levanta questões de privacidade, consentimento e eficácia prática caso os utentes as retirem, enquanto o regime sancionatório e a comparticipação exigiriam posterior desenvolvimento legislativo e orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, não gera despesa imediata, mas a sua eventual execução aumentaria a despesa pública com planos de formação, campanhas nacionais, estudo e adoção de pulseiras com geolocalização e um sistema de comparticipação para terapias não farmacológicas. O documento não indica montantes nem estimativas financeiras."
+ },
+ "affected": [
+  "pessoas com demência",
+  "acompanhantes e familiares",
+  "profissionais de saúde",
+  "pessoal de segurança hospitalar",
+  "estabelecimentos de saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "demência",
+  "direito ao acompanhamento",
+  "hospitais",
+  "comparticipação",
+  "geolocalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

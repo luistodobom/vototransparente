@@ -1,0 +1,44 @@
+{
+ "short_title": "Alteração aos estatutos do Conselho das Finanças Públicas",
+ "summary": "A proposta de lei procede à segunda alteração aos estatutos do Conselho das Finanças Públicas (CFP), transpondo parcialmente a Diretiva (UE) 2024/1265 sobre quadros orçamentais. O diploma alarga a missão do organismo para incluir avaliações estruturais de médio e longo prazo e a monitorização de subsetores públicos, passando a acompanhar especificamente a sustentabilidade financeira da Segurança Social e da Caixa Geral de Aposentações, bem como a execução orçamental em contabilidade pública e nacional. Reforça ainda a autonomia da entidade, assegurando recursos estáveis pelo Orçamento do Estado, garantindo acesso atempado a dados públicos e dispensando autorização governamental para contratar pessoal técnico. No plano da governação, exige dois membros não nacionais no conselho superior, impõe um período de impedimento de três anos para ex-titulares de cargos políticos ou gestores públicos, veda a recondução durante dez anos e prevê audições parlamentares obrigatórias após a apreciação dos documentos orçamentais.",
+ "key_points": [
+  "Transpõe parcialmente a Diretiva (UE) 2024/1265, alargando a missão do conselho a avaliações estruturais de médio e longo prazo e à monitorização de subsetores públicos.",
+  "Inclui nas atribuições o acompanhamento da sustentabilidade da Segurança Social e da Caixa Geral de Aposentações e da execução orçamental em contabilidade pública e nacional.",
+  "Reforça a independência financeira e administrativa, garantindo recursos estáveis pelo Orçamento do Estado e dispensando autorização governamental para contratar pessoal técnico.",
+  "Altera as regras de nomeação e incompatibilidades do conselho superior, exigindo dois membros não nacionais, audição parlamentar prévia, impedimento de três anos para ex-cargos políticos ou gestores públicos e proibição de recondução antes de dez anos.",
+  "Determina audições parlamentares após a apreciação dos documentos orçamentais e permite conferências de imprensa com transmissão online."
+ ],
+ "plain_language": "O Governo propõe atualizar as regras do Conselho das Finanças Públicas, a entidade independente que fiscaliza as contas do Estado. O objetivo é adaptar o organismo às novas regras orçamentais europeias. Na prática, o conselho passa a vigiar também a sustentabilidade da Segurança Social e da Caixa Geral de Aposentações, além de analisar a evolução das contas a longo prazo. Para garantir que atua sem pressões políticas, passa a poder contratar técnicos sem autorização do Governo e quem sai de cargos políticos ou de gestão pública fica impedido de o dirigir durante três anos. O conselho terá ainda de prestar contas ao Parlamento.",
+ "context": "O Governo justifica a proposta com a revisão do quadro de governação económica europeia, adotada em abril de 2024, que reviu o Pacto de Estabilidade e Crescimento e inclui a Diretiva (UE) 2024/1265. A iniciativa visa também compatibilizar o regime do conselho com a proposta de alteração da Lei de Enquadramento Orçamental e com o novo mecanismo de revisão de despesas criado pelo Decreto-Lei n.º 87/2025. Adicionalmente, pretende introduzir ajustamentos de funcionamento interno e de articulação interinstitucional para potenciar o trabalho do organismo.",
+ "analysis": "Como pontos fortes, a iniciativa reforça a independência técnica e a transparência do conselho: isenta a contratação de pessoal de autorização governamental, alarga as incompatibilidades de ex-dirigentes políticos e gestores públicos, obriga a audições parlamentares regulares e promove a divulgação pública online. Contudo, subsistem fragilidades na execução prática. A garantia de recursos financeiros necessários e estáveis pelo Orçamento do Estado não é acompanhada de critérios objetivos ou tetos de proteção, mantendo o financiamento dependente das negociações orçamentais anuais. Além disso, o diploma alarga competências sem apresentar estimativa de custos ou necessidades de pessoal. Por fim, a remissão para a proposta de alteração da Lei de Enquadramento Orçamental cria uma dependência legislativa face a outro diploma ainda em apreciação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não quantifica encargos nem apresenta estimativa de impacto orçamental. Embora assegure recursos necessários pelo Orçamento do Estado, alargue competências e dispense autorização governamental para contratar pessoal técnico, o efeito líquido na despesa pública é incerto."
+ },
+ "affected": [
+  "Conselho das Finanças Públicas",
+  "Ministério das Finanças",
+  "Assembleia da República",
+  "Segurança Social e Caixa Geral de Aposentações",
+  "Entidades públicas fornecedoras de dados"
+ ],
+ "categories": [
+  "economia",
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "conselho das finanças públicas",
+  "governação económica europeia",
+  "pacto de estabilidade e crescimento",
+  "transparência orçamental",
+  "finanças públicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

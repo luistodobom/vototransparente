@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração de regras dos programas \"Apoiar\" e criação de simulador",
+ "summary": "Esta proposta do PAN recomenda ao Governo que altere as regras dos programas de apoio \"Apoiar + simples\" e \"Apoiar rendas\" para incluir empresas criadas em 2020, que atualmente são excluídas devido ao método de cálculo da quebra de faturação. Além disso, sugere a criação de um simulador oficial para ajudar empresas e empresários a identificar o apoio mais vantajoso para a sua situação, dada a complexidade e multiplicidade de programas existentes.",
+ "key_points": [],
+ "plain_language": "Basicamente, o partido PAN está a pedir ao Governo para mudar as regras dos apoios às empresas, como o \"Apoiar + simples\" e o \"Apoiar rendas\". A ideia é que as empresas que só abriram em 2020 também possam receber ajuda, porque agora o sistema não as deixa. E também querem que o Governo crie uma ferramenta online, tipo um simulador, para que as empresas e os trabalhadores independentes consigam perceber facilmente qual é o apoio que lhes dá mais jeito, sem terem de andar perdidos no meio de tanta informação.",
+ "context": null,
+ "analysis": "O documento identifica corretamente a vulnerabilidade das micro, pequenas e médias empresas (PME) e dos empresários em nome individual (ENI) face à crise da COVID-19, destacando a sua importância para a economia portuguesa. A proposta de incluir empresas criadas em 2020 nos programas de apoio é uma correção lógica e necessária para garantir a equidade, uma vez que o método atual de cálculo da quebra de faturação as penaliza injustamente. A criação de um simulador é uma medida prática e alinhada com o objetivo de facilitar o acesso aos apoios, resolvendo a dificuldade que muitas empresas têm em navegar pela complexidade dos programas existentes. As propostas são consistentes com o objetivo de apoiar o tecido empresarial mais fragilizado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de incluir empresas criadas em 2020 nos programas \"Apoiar + simples\" e \"Apoiar rendas\" implicará um aumento dos gastos do governo, uma vez que mais entidades se tornarão elegíveis para receber os apoios financeiros. A criação de um simulador oficial terá um custo de desenvolvimento e manutenção, que será um aumento marginal nos gastos. Não há indicação de que a proposta aumente a receita do governo. O efeito líquido será um aumento dos gastos do governo."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

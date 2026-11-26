@@ -1,0 +1,25 @@
+{
+ "short_title": "Limitação do aumento de rendas em contratos de arrendamento habitacional",
+ "summary": "A proposta visa limitar o aumento das rendas nos contratos de arrendamento habitacional em vigor e estabelecer limites máximos para as rendas em novos contratos. O objetivo é combater a degradação das condições de vida das famílias portuguesas, causada pelo aumento dos preços e pela perda de poder de compra, com especial foco na subida especulativa das rendas. Para 2024, propõe-se que o coeficiente de atualização anual das rendas seja fixado em 1,0043 (um aumento de 0,43%), significativamente abaixo da inflação registada. Para novos contratos, a renda inicial não poderá exceder a última renda praticada no imóvel, aplicada do mesmo coeficiente, ou a renda mediana da zona em caso de inexistência de contrato anterior.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PCP quer travar a subida das rendas em Portugal. Eles dizem que as rendas estão a ficar impossíveis de pagar, com os salários a não acompanhar a inflação. A ideia é que, em 2024, as rendas só possam subir um bocadinho (tipo 0,43%), tanto para quem já tem contrato como para quem vai fazer um novo. Assim, as famílias teriam um alívio na carteira e as rendas não disparariam mais.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a preocupação central expressa na exposição de motivos: o \"insuportável e continuado crescimento das rendas\" e os \"aumentos especulativos\". Ao fixar um coeficiente de atualização de 1,0043 para 2024, que é substancialmente inferior à inflação (mencionada como 7,8% em 2022), a proposta alinha-se com o objetivo de aliviar a pressão financeira sobre os inquilinos e de travar a escalada dos preços. A justificação de que o coeficiente deve estar em linha com o \"real rendimento disponível dos trabalhadores, reformados e pensionistas\" em vez da inflação demonstra uma consistência argumentativa. Os artigos 2.º e 3.º detalham a implementação desta limitação tanto para contratos existentes quanto para novos, garantindo que o objetivo de controlo das rendas seja abrangente e aplicável a diversas situações de mercado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta tem um impacto fiscal direto nulo ou negligenciável no orçamento do governo. O seu principal efeito é a regulação do mercado privado de arrendamento, limitando o rendimento dos senhorios e, consequentemente, a despesa dos inquilinos. Não prevê aumento ou diminuição direta das despesas ou receitas governamentais. Indiretamente, ao aliviar a pressão sobre o rendimento disponível das famílias, poderá ter efeitos na economia em geral, mas sem impacto direto nas contas públicas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

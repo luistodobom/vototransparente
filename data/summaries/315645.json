@@ -1,0 +1,45 @@
+{
+ "short_title": "Programa Nacional de Resiliência Sísmica e fiscalização de obras",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo, sem caráter vinculativo, a criação de um Programa Nacional de Resiliência Sísmica do edificado e o reforço da prevenção sísmica no setor da construção. A iniciativa propõe aumentar a fiscalização de todas as obras de construção e reabilitação urbana, com o objetivo de garantir o cumprimento das normas técnicas de segurança. O programa recomendado deve dar prioridade a edifícios residenciais situados em zonas de elevada densidade populacional e maior risco sísmico, bem como a estruturas públicas de utilização intensiva. Prevê ainda apoio técnico e financeiro a agregados familiares em situação de vulnerabilidade habitacional. Além disso, o texto recomenda ao Executivo que assegure a formação de engenheiros, arquitetos e técnicos de construção civil em práticas sustentáveis e resistentes a sismos, integrando normas ambientais, e que promova campanhas de sensibilização pública sobre segurança sísmica e valorização de edifícios certificados.",
+ "key_points": [
+  "Reforçar a fiscalização de todas as obras de construção e de reabilitação urbana.",
+  "Criar e implementar um Programa Nacional de Resiliência Sísmica focado em zonas densamente povoadas e de maior risco sísmico.",
+  "Priorizar a segurança sísmica em edifícios residenciais e em estruturas públicas de utilização intensiva.",
+  "Conceder apoio financeiro e técnico a agregados familiares em situação de vulnerabilidade habitacional.",
+  "Garantir a formação de engenheiros, arquitetos e técnicos de construção civil em práticas de construção sustentável e resistente a sismos.",
+  "Promover campanhas de sensibilização pública sobre segurança sísmica e valorização de edifícios certificados."
+ ],
+ "plain_language": "O PAN quer que o Parlamento peça ao Governo medidas para tornar as casas e os edifícios públicos mais seguros contra terramotos. Como se trata de um projeto de resolução, o Governo não é obrigado a cumpri-lo. A proposta pede mais inspeções às obras novas e às remodelações para garantir que os materiais e a construção respeitam as regras. Também sugere criar um programa nacional para reforçar os prédios antigos em zonas de maior risco e apoiar financeiramente as famílias com menos recursos, além de formar profissionais do setor e informar os cidadãos.",
+ "context": "O proponente aponta o sismo de magnitude 5,3 ao largo de Sines, em agosto de 2024, como um alerta para a vulnerabilidade sísmica do país. Apesar de existirem normas exigentes, denuncia a falta de fiscalização nas obras privadas, referindo que cerca de metade das empresas de betão pronto não é certificada. Sublinha ainda que mais de 498 mil edifícios necessitam de reparações significativas, que em Lisboa mais de 21% do edificado antecede 1960 e que apenas uma em cinco habitações possui seguro contra sismos, invocando deveres constitucionais de segurança.",
+ "analysis": "A iniciativa tem o mérito de ligar a prevenção sísmica à reabilitação do parque habitacional envelhecido e à falta de controlo em obra, prevendo apoios sociais para famílias vulneráveis. Contudo, tratando-se de um projeto de resolução, não vincula o Governo nem cria obrigações legais diretas. O texto apresenta fragilidades operacionais: recomenda fiscalizar todas as obras de construção e reabilitação sem detalhar que entidades fariam esse controlo, com que recursos ou através de que mecanismos. Há também alguma desconexão entre o diagnóstico e as medidas finais: a exposição de motivos destaca a baixa cobertura de seguros sísmicos e recomendações técnicas específicas da Ordem dos Engenheiros, como o isolamento sísmico de base e a fiscalização por amostragem, mas estes instrumentos não constam das recomendações propostas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora o projeto de resolução não seja vinculativo nem apresente estimativas orçamentais, a sua eventual concretização implica aumento da despesa pública. A criação de um programa nacional de resiliência, a concessão de apoios financeiros e técnicos a famílias vulneráveis, o reforço da fiscalização de obras, a formação de profissionais e as campanhas públicas exigem financiamento do Estado."
+ },
+ "affected": [
+  "proprietários e residentes",
+  "agregados familiares em vulnerabilidade habitacional",
+  "empresas de construção e reabilitação",
+  "engenheiros, arquitetos e técnicos de construção civil",
+  "entidades públicas fiscalizadoras"
+ ],
+ "categories": [
+  "habitacao",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "risco sísmico",
+  "reabilitação urbana",
+  "fiscalização de obras",
+  "segurança estrutural",
+  "programa nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,18 +1,22 @@
 PY := .venv/bin/python
+CUR = $(shell $(PY) -m pipeline.config --current)
 
-.PHONY: setup data texts summaries site dev all validate
+.PHONY: setup data history texts summaries site dev all validate
 
 setup:            ## create venv + install deps
 	uv venv .venv && uv pip install --python $(PY) -r requirements.txt
 	cd site && npm install
 
-data:             ## download official open data (initiatives + MP roster) and normalize votes
-	$(PY) -m pipeline.fetch_opendata --force
-	$(PY) -m pipeline.fetch_deputies --force
+data:             ## refresh the current legislature's open data + roster, new attendance records, normalize votes (same as the daily CI job)
+	$(PY) -m pipeline.fetch_opendata --refresh $(CUR)
+	$(PY) -m pipeline.fetch_deputies --refresh $(CUR)
+	$(PY) -m pipeline.normalize
 	$(PY) -m pipeline.fetch_attendance
 	$(PY) -m pipeline.fetch_photos
+
+history:          ## re-scrape closed history into data/scraped/ (XIV 1st session, all attendance); slow, rarely needed
 	$(PY) -m pipeline.fetch_xiv_session1
-	$(PY) -m pipeline.normalize
+	$(PY) -m pipeline.fetch_attendance --all
 
 texts:            ## download the full text of every voted initiative
 	$(PY) -m pipeline.fetch_texts

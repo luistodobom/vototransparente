@@ -1,0 +1,26 @@
+{
+ "short_title": "Voto antecipado para confinados na eleição presidencial",
+ "summary": "Esta proposta de lei estabelece um regime excecional para permitir o voto antecipado na eleição do Presidente da República para os eleitores que se encontrem em confinamento obrigatório devido à pandemia de COVID-19. O objetivo é garantir que estes cidadãos possam exercer o seu direito de voto em segurança, no seu domicílio ou noutro local definido pelas autoridades de saúde, desde que não seja um estabelecimento hospitalar e que estejam recenseados no concelho do local de confinamento. O processo envolve um requerimento através de uma plataforma digital e a organização logística pelas Câmaras Municipais, com fiscalização das candidaturas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para que as pessoas que estão em quarentena obrigatória por causa da COVID-19 possam votar nas eleições para Presidente da República sem sair de casa. É uma medida especial para a pandemia, para que ninguém perca o direito de votar só porque está isolado. Vão ter de pedir para votar online, e depois a Câmara Municipal vai organizar tudo para que o voto seja recolhido em segurança, com a garantia de que tudo é feito de forma justa e transparente.",
+ "context": null,
+ "analysis": "A proposta aborda de forma consistente o objetivo de salvaguardar o direito de voto de cidadãos em confinamento obrigatório, um grupo que de outra forma estaria impedido de participar nas eleições. Os detalhes de implementação, como a plataforma digital para requerimentos, a verificação automática dos requisitos através da interoperabilidade de bases de dados (Recenseamento Eleitoral e DGS), e a organização logística a cargo das Câmaras Municipais com apoio das forças de segurança, parecem bem alinhados para garantir a segurança e a integridade do processo. A previsão de fiscalização por delegados das candidaturas reforça a transparência. Não se detetam inconsistências significativas, e a abordagem excecional e temporária sublinha a adaptação a uma situação de emergência sem pretender alterar permanentemente a lei eleitoral de forma transversal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo, principalmente devido à necessidade de desenvolver e manter uma plataforma digital para os requerimentos, à mobilização de recursos humanos (funcionários municipais, forças de segurança) para a recolha dos votos nos domicílios, e aos custos associados à produção e distribuição de material eleitoral adicional (boletins, sobrescritos, vinhetas de segurança). Não há impacto direto na receita do governo. O efeito líquido será um aumento dos gastos públicos para garantir o direito de voto em condições excecionais de saúde pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

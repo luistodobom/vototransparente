@@ -43,7 +43,7 @@ make setup
 ```
 
 ```bash
-make data      # download open data + normalize votes (~320 MB of JSON, cached in data/raw/)
+make data      # download open data + normalize votes (~320 MB of JSON, cached in data/raw/; only the current legislature is re-downloaded)
 ```
 
 ```bash
@@ -82,19 +82,32 @@ make validate
 
 ## Deployment
 
-GitHub Actions only builds and publishes the site: on every push to `main`, `.github/workflows/deploy.yml` runs
-`npm run build` on the data committed in `site/src/data/` and `site/public/data/` and deploys it to GitHub Pages
-(custom domain in `site/public/CNAME`). It never downloads, scrapes or summarizes anything.
+Two GitHub Actions workflows:
 
-To publish new votes, refresh the data locally and push:
+- **`.github/workflows/deploy.yml`** — build + deploy only. On every push to `main` (or when called by the
+  workflow below) it runs `npm run build` on the data committed in `site/src/data/` and `site/public/data/` and
+  publishes it to GitHub Pages (custom domain in `site/public/CNAME`). It never downloads, scrapes or summarizes
+  anything.
+- **`.github/workflows/update-data.yml`** — daily data refresh (05:30 UTC, or run it by hand). It re-downloads
+  only what can still change: the current legislature's open-data dump and roster (closed legislatures' dumps are
+  reused from the Actions cache), and the attendance of new or recent plenary meetings (history is committed in
+  `data/scraped/`). It then downloads the texts of initiatives without a summary, summarizes them with Gemini
+  (`GEMINI_API_KEY` secret; a Gemini failure never fails the job), and regenerates the site data. Only if votes,
+  MPs, attendance, photos or summaries actually changed does it commit to `main` ("Daily data update (date)") and
+  call `deploy.yml`; a day with nothing new produces no commit and no deploy.
+
+To refresh by hand instead, run the same steps locally and push (`deploy.yml` picks it up):
 
 ```bash
-make data site
+make data texts summaries site
 ```
 
 ```bash
-git add site/src/data site/public/data data/summaries site/public/img/mp && git commit -m "Update data" && git push
+git add site/src/data site/public/data data/summaries data/scraped site/public/img/mp && git commit -m "Update data" && git push
 ```
+
+`data/scraped/` holds one-off HTML scrapes that the open data lacks (the XIV legislature's 1st session, and
+per-meeting attendance). They are committed so CI never re-scrapes history; `make history` rebuilds them.
 
 DNS for vototransparente.pt (Cloudflare, DNS-only records pointing to GitHub Pages) is documented in
 [`dns/vototransparente.pt.zone`](dns/vototransparente.pt.zone).
@@ -107,6 +120,7 @@ DNS for vototransparente.pt (Cloudflare, DNS-only records pointing to GitHub Pag
 | `site/` | Astro static site (`src/pages/parlamento/…`) |
 | `validation/` | Cross-checks against independent sources |
 | `data/summaries/` | Committed AI summaries (one JSON per initiative) |
+| `data/scraped/` | Committed scrapes of closed history (XIV 1st session, plenary attendance) |
 
 ## Disclaimer
 

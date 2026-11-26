@@ -1,0 +1,44 @@
+{
+ "short_title": "Prevenção e resposta ao desaparecimento de pessoas com demência",
+ "summary": "O Projeto de Resolução n.º 931/XVII/1.ª, apresentado pelo Grupo Parlamentar do PS, recomenda ao Governo um conjunto de medidas para prevenir o desaparecimento de pessoas com demência e melhorar a resposta quando estes casos ocorrem. Por ser um projeto de resolução, trata-se de uma recomendação não vinculativa dirigida ao Executivo. O texto propõe cinco linhas de atuação: criar uma estratégia integrada com recolha e análise sistemática de dados sobre o fenómeno; uniformizar protocolos de resposta imediata entre saúde, forças de segurança, proteção civil, setor social, autarquias e comunidade; reforçar a formação especializada de profissionais e cuidadores; lançar campanhas nacionais de sensibilização em parceria com associações; e avaliar e reforçar o enquadramento legal do direito ao acompanhamento em unidades de saúde e instituições de cuidados, garantindo o seu cumprimento efetivo junto de pessoas especialmente vulneráveis.",
+ "key_points": [
+  "Desenvolver uma Estratégia Integrada de Prevenção e Resposta com recolha e análise sistemática de dados sobre o desaparecimento de pessoas com demência.",
+  "Uniformizar protocolos de atuação imediata entre serviços de saúde, forças de segurança, proteção civil, setor social, autarquias e redes comunitárias.",
+  "Reforçar a formação especializada de profissionais de saúde, forças de segurança, proteção civil e cuidadores na identificação de sinais de risco e procedimentos.",
+  "Promover campanhas nacionais de sensibilização, em colaboração com associações da área, para prevenir desaparecimentos, apoiar cuidadores e mobilizar a comunidade.",
+  "Avaliar e reforçar o enquadramento legal do direito ao acompanhamento em instituições de saúde e de cuidados, assegurando a sua aplicação efetiva a pessoas vulneráveis."
+ ],
+ "plain_language": "Quando uma pessoa com demência se perde ou sai de um hospital sem ser notada, enfrenta riscos graves para a vida e provoca forte angústia nas famílias. Este projeto de resolução é uma recomendação do Parlamento ao Governo, sem força de lei obrigatória, para melhorar a prevenção e a resposta a estes casos. Propõe regras comuns e rápidas para que hospitais, polícias, proteção civil, setor social e autarquias atuem em conjunto, mais formação para profissionais e cuidadores, campanhas públicas de informação e a verificação efetiva do direito de o utente ter um acompanhante nas unidades de saúde e instituições de cuidados.",
+ "context": "O PS justifica a iniciativa com o envelhecimento demográfico acentuado em Portugal, que faz crescer o número de pessoas com demência e outras condições que afetam a memória e a orientação. Segundo o texto, a perda de localização acarreta riscos graves para a integridade física e para a vida, além de forte trauma para famílias e cuidadores. Os proponentes apontam falhas nos alertas rápidos, na uniformização de protocolos e na articulação entre serviços, referindo ainda casos de utentes que abandonaram hospitais sem deteção atempada, apesar de iniciativas locais já existentes mostrarem resultados positivos.",
+ "analysis": "A iniciativa aborda um problema social e de segurança relevante, procurando ligar a prevenção clínica, o direito ao acompanhamento em saúde e a resposta operacional de emergência. Um ponto positivo é reconhecer a fragmentação entre entidades locais, serviços de saúde e forças de segurança, propondo protocolos uniformes e recolha de dados. Contudo, tratando-se de um projeto de resolução, as medidas não são vinculativas e o texto é genérico quanto à execução: não define prazos, não indica que entidade coordena a estratégia nem especifica mecanismos concretos de alerta célere. Além disso, a recolha sistemática de dados sobre pessoas vulneráveis levanta exigências de privacidade que o documento não detalha, e o reforço do direito ao acompanhamento limita-se a uma recomendação de avaliação sem identificar obstáculos legais concretos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa e não apresentar estimativas financeiras, o impacto orçamental depende da decisão e da forma de execução pelo Governo. A concretização de formação especializada, campanhas nacionais e sistemas de recolha de dados poderá, contudo, gerar despesa pública adicional."
+ },
+ "affected": [
+  "pessoas com demência",
+  "famílias e cuidadores",
+  "profissionais de saúde",
+  "forças de segurança e proteção civil",
+  "instituições de saúde e acolhimento"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "familia"
+ ],
+ "tags": [
+  "demência",
+  "pessoas desaparecidas",
+  "direito ao acompanhamento",
+  "cuidadores",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

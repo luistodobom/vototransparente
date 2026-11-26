@@ -1,0 +1,42 @@
+{
+ "short_title": "Combate à pedocriminalidade digital e regime europeu de deteção",
+ "summary": "Este Projeto de Resolução, de natureza não vinculativa, recomenda ao Governo que atue junto das instituições da União Europeia para combater os conteúdos de abuso sexual de menores na internet. A iniciativa surge após o fim, a 3 de abril de 2026, do regime transitório europeu (Regulamento (UE) 2021/1232) que isentava grandes plataformas digitais, como redes sociais e serviços de mensagens, de certas regras da diretiva sobre privacidade nas comunicações eletrónicas. O documento propõe dois eixos de ação ao executivo português. Primeiro, defender junto do Conselho, da Comissão Europeia e do Parlamento Europeu o restabelecimento urgente desse regime provisório, permitindo novamente às plataformas detetar e denunciar materiais ilícitos às autoridades. Segundo, promover a adoção de um novo quadro legal permanente à escala europeia para prevenir e combater estes crimes digitais, salvaguardando a privacidade e a confidencialidade das comunicações de cidadãos inocentes.",
+ "key_points": [
+  "Recomenda ao Governo que pressione o Conselho, a Comissão Europeia e o Parlamento Europeu para retomar o regime transitório que vigorou até 3 de abril de 2026.",
+  "Visa restabelecer a exceção à diretiva europeia sobre privacidade eletrónica que permitia às plataformas digitais detetar e denunciar conteúdos de abuso sexual de menores.",
+  "Insta o executivo a defender a criação de um quadro legislativo permanente à escala da União Europeia para prevenir e combater a pedocriminalidade digital.",
+  "Estabelece que a solução permanente deve acautelar a privacidade e a confidencialidade das comunicações de cidadãos inocentes."
+ ],
+ "plain_language": "O parlamento pede ao Governo, sem força de lei obrigatória, que pressione a União Europeia para resolver um bloqueio legal recente. Até abril de 2026, uma lei temporária europeia permitia que empresas como o Facebook ou o WhatsApp procurassem e denunciassem automaticamente imagens de abuso sexual de crianças, abrindo uma exceção às regras normais de privacidade. Essa regra acabou porque os países europeus não se entenderam sobre uma lei definitiva. O projeto quer que Portugal defenda o regresso dessa regra temporária e ajude a criar uma lei permanente, mas que proteja a privacidade das comunicações de quem não comete crimes.",
+ "context": "O proponente justifica a iniciativa com o aumento dos materiais de abuso sexual de menores na internet, referindo mais de 20 milhões de conteúdos detetados na União Europeia em 2024 e um crescimento de 1 325% nos conteúdos gerados por inteligência artificial. Argumenta que o fim do regime transitório europeu, a 3 de abril de 2026, criou um vazio legal que, segundo especialistas citados, poderá reduzir entre 80% e 90% as denúncias, dificultando o trabalho das autoridades e gerando impunidade.",
+ "analysis": "A iniciativa aborda um problema concreto resultante da caducidade do Regulamento (UE) 2021/1232 e procura alinhar a atuação portuguesa com compromissos internacionais de proteção infantil. Contudo, trata-se de uma recomendação não vinculativa, cujo impacto real depende de negociações complexas entre os Estados-Membros e as instituições europeias, onde o tema está bloqueado desde 2022. Além disso, o texto apresenta uma tensão concetual sem solução técnica: critica uma leitura excessivamente rigorosa da privacidade e recorda ter-se oposto antes à proposta europeia conhecida como \"Chat Control\", mas recomenda um novo regime permanente que proteja a confidencialidade de cidadãos inocentes sem explicar como ultrapassar o impasse central da encriptação ponto-a-ponto.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa limita-se a recomendar diligências políticas e diplomáticas do Governo junto das instituições europeias, não prevendo despesas, receitas ou alterações orçamentais diretas."
+ },
+ "affected": [
+  "crianças e menores",
+  "plataformas digitais",
+  "utilizadores de serviços de mensagens",
+  "autoridades policiais"
+ ],
+ "categories": [
+  "justica",
+  "internacional",
+  "direitos"
+ ],
+ "tags": [
+  "pedocriminalidade",
+  "união europeia",
+  "privacidade digital",
+  "diretiva eprivacy",
+  "abuso sexual de menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

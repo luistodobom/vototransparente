@@ -1,0 +1,44 @@
+{
+ "short_title": "Alargamento dos escalões de rendimento do abono de família",
+ "summary": "O Projeto de Lei n.º 620/XVII/1.ª, apresentado pelo Grupo Parlamentar do LIVRE, altera o Decreto-Lei n.º 176/2003, de 2 de agosto, para rever e alargar os escalões de rendimento de referência do abono de família para crianças e jovens. Concretamente, modifica o n.º 2 do artigo 14.º daquele diploma, aumentando os coeficientes aplicados ao Indexante dos Apoios Sociais (IAS) que determinam os cinco escalões. O limite do 1.º escalão sobe de 0,5 para 0,7 vezes o IAS, o 2.º escalão passa a situar-se entre 0,7 e 1,2, o 3.º entre 1,2 e 1,8, o 4.º entre 1,8 e 2,6, e o 5.º abrange rendimentos superiores a 2,6 vezes o IAS. A lei entra em vigor com o Orçamento do Estado subsequente à sua publicação, permitindo que mais agregados com baixos rendimentos acedam aos escalões iniciais da prestação.",
+ "key_points": [
+  "Altera o artigo 14.º do Decreto-Lei n.º 176/2003 para rever os cinco escalões de rendimento do abono de família indexados ao Indexante dos Apoios Sociais (IAS).",
+  "Sobe o limite do 1.º escalão de 0,5 para 0,7 vezes o IAS, elevando o teto de rendimento de referência do agregado de 3.759,91 euros para 5.263,87 euros com o IAS de 2026.",
+  "Alarga o 2.º escalão de rendimentos para o intervalo entre 0,7 e 1,2 vezes o IAS, substituindo o anterior intervalo de 0,5 a 1.",
+  "Ajusta o 3.º escalão para rendimentos entre 1,2 e 1,8 vezes o IAS e o 4.º escalão para o intervalo entre 1,8 e 2,6 vezes o IAS.",
+  "Estabelece o 5.º escalão para rendimentos de referência superiores a 2,6 vezes o IAS, em vez dos anteriores 2,5.",
+  "Determina que as alterações entram em vigor com o Orçamento do Estado subsequente à publicação da lei."
+ ],
+ "plain_language": "O abono de família é pago consoante os rendimentos do agregado, divididos em cinco escalões. Quando o rendimento sobe ligeiramente, uma família pode passar para o escalão seguinte e receber menos apoio, mesmo sem conseguir pagar todas as despesas essenciais. Este projeto propõe subir os limites de rendimento de todos os escalões, que são calculados com base num valor de referência chamado Indexante dos Apoios Sociais (IAS). Na prática, mais famílias com baixos rendimentos poderão entrar ou manter-se nos primeiros escalões, evitando perder apoio devido a pequenas variações de rendimento.",
+ "context": "O proponente invoca a persistência da pobreza infantil (17,6%), o seu aumento nas famílias monoparentais (de 31,0% para 35,1%) e a elevada incidência entre jovens dos 12 aos 17 anos (19,2%). Destaca ainda que mais de 75% das crianças pobres vivem em agregados cujo rendimento principal vem do trabalho e que o número de beneficiários do abono caiu 3,1% face ao período homólogo, para uma média de 107,33 euros mensais. Sustenta que os escalões de 2003 estão desajustados face ao custo de vida, prejudicando famílias vulneráveis com pequenas subidas de rendimento.",
+ "analysis": "A iniciativa apresenta uma solução tecnicamente simples e objetiva para atenuar o efeito de limiar, em que pequenos aumentos nominais de rendimento penalizam famílias vulneráveis com a descida de escalão. Ao ampliar mais os dois primeiros escalões (acréscimo de 0,2 vezes o IAS, contra 0,1 nos restantes), direciona o reforço para os agregados mais pobres. Contudo, o projeto tem lacunas relevantes: não apresenta qualquer estimativa do número de novos beneficiários nem do custo financeiro para a Segurança Social, apesar de remeter a aplicação para o Orçamento do Estado seguinte. Além disso, ao mexer apenas nos limites dos escalões e não nos valores pagos, não corrige a insuficiência do montante médio do abono apontada na própria exposição de motivos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento dos limiares de rendimento permite que mais agregados familiares acedam aos escalões mais favoráveis do abono de família, aumentando a despesa pública com esta prestação social. O documento não quantifica o impacto orçamental da medida, remetendo a sua entrada em vigor para o Orçamento do Estado subsequente à publicação."
+ },
+ "affected": [
+  "famílias com crianças e jovens",
+  "crianças e jovens em risco de pobreza",
+  "famílias monoparentais",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "abono de família",
+  "escalões de rendimento",
+  "pobreza infantil",
+  "segurança social",
+  "ias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

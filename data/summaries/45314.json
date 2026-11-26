@@ -1,0 +1,26 @@
+{
+ "short_title": "Melhoria das juntas médicas e cuidados primários na COVID-19",
+ "summary": "Esta proposta visa melhorar a eficácia das juntas médicas de avaliação de incapacidades e dos cuidados de saúde primários durante a pandemia de COVID-19. Reconhece atrasos significativos na emissão de atestados de incapacidade multiuso e a sobrecarga dos profissionais de saúde. Para resolver estes problemas, propõe a reorganização das juntas médicas, permitindo que um médico relator atribua automaticamente atestados em casos específicos, a utilização de meios digitais como videoconferência para as avaliações, a criação de uma linha telefónica centralizada para rastreio epidemiológico com novas contratações, e a integração de especialistas em saúde mental nas juntas médicas. Adicionalmente, prevê um levantamento das necessidades de recursos humanos nestas áreas.",
+ "key_points": [],
+ "plain_language": "Em termos mais simples, esta proposta quer dar uma \"arrumadela\" nas juntas médicas que avaliam as incapacidades e nos centros de saúde, que estão a sofrer com a pandemia. Há muita gente à espera de papéis importantes para ter acesso a apoios, e os médicos de família estão a \"rebentar pelas costuras\" com o rastreio da COVID-19. A ideia é tornar as avaliações de incapacidade mais rápidas, permitindo que um médico decida logo em casos mais óbvios, usar videochamadas para as avaliações, criar uma linha telefónica só para o rastreio da COVID-19 (e contratar mais gente para isso) e ter psicólogos ou psiquiatras nas juntas médicas. Também querem fazer um estudo para perceber quantos profissionais são realmente precisos. Tudo isto para que as pessoas tenham respostas mais rápidas e o sistema de saúde funcione melhor.",
+ "context": null,
+ "analysis": "O documento identifica de forma clara as fragilidades preexistentes no Serviço Nacional de Saúde, que foram agravadas pela pandemia de COVID-19, resultando em atrasos prolongados na emissão de atestados de incapacidade e na sobrecarga dos cuidados de saúde primários. A análise é consistente ao apontar que a legislação anterior não oferecia soluções adequadas para a recuperação destas atividades. As medidas propostas alinham-se diretamente com os objetivos de mitigar estes problemas: a reorganização das juntas médicas com a figura do médico relator e a lista padronizada de patologias visam acelerar as avaliações; a utilização de meios digitais aumenta a eficiência e segurança; a linha telefónica de rastreamento alivia a carga dos cuidados primários e melhora a vigilância epidemiológica; e a inclusão de especialistas em saúde mental reconhece a complexidade das avaliações de incapacidade. A proposta de um levantamento de necessidades de recursos humanos demonstra uma abordagem sistémica para resolver as carências a longo prazo. Não se identificam inconsistências, e os detalhes da implementação parecem bem alinhados com os objetivos declarados de garantir respostas céleres e eficazes aos utentes.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento dos gastos do governo. A criação de uma linha telefónica centralizada para rastreamento (Artigo 5.º) implica a contratação de um número adequado de profissionais de saúde, o que aumentará as despesas com pessoal e infraestruturas. A integração de um especialista em saúde mental em cada junta médica de avaliação de incapacidade (Artigo 6.º) também representará um acréscimo nos custos com recursos humanos. Não há menção de medidas que aumentem a receita do governo. O efeito líquido será, portanto, um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

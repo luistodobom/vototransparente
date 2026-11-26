@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço dos apoios a inquilinos em situação de vulnerabilidade",
+ "summary": "O Projeto de Resolução n.º 1261/XVII/2.ª, do JPP, recomenda ao Governo, de forma não vinculativa, o reforço da resposta pública preventiva para famílias em risco no arrendamento habitacional. A iniciativa propõe permitir o acesso a apoio antes da instauração de processos de despejo, aproveitando os serviços existentes, com um serviço de referência por agregado, prazos máximos de resposta e encaminhamento jurídico. Recomenda igualmente apoios sociais temporários e não reembolsáveis à renda e à regularização de dívidas para preservar contratos viáveis, mediante critérios claros e verificação dos pagamentos. Caso a manutenção do arrendamento seja inviável, pede o reforço do alojamento temporário, preservando a unidade familiar. Pede ainda a garantia de meios humanos e financeiros partilhados com municípios e Regiões Autónomas, a apresentação de medidas em 90 dias e um relatório de execução ao Parlamento em 180 dias.",
+ "key_points": [
+  "Garantir acesso preventivo a acompanhamento social através dos serviços existentes, antes de haver um processo de despejo, com prazos máximos de resposta e encaminhamento jurídico.",
+  "Reforçar os apoios temporários e não reembolsáveis à renda e à regularização de atrasos em contratos viáveis, com critérios transparentes, controlo de quitação e prevenção de duplicações.",
+  "Aumentar a capacidade de alojamento temporário em tempo útil para agregados sem alternativa habitacional, preservando a unidade familiar até obterem solução estável.",
+  "Assegurar os recursos humanos e financeiros necessários em cooperação com municípios e Regiões Autónomas, sem lhes transferir exclusivamente encargos nacionais.",
+  "Apresentar ou adotar medidas e iniciativas legislativas em 90 dias, com calendário e financiamento definidos, e informar o Parlamento sobre a execução no prazo de 180 dias."
+ ],
+ "plain_language": "Este documento é um pedido não obrigatório do Parlamento ao Governo para ajudar mais depressa as famílias com dificuldades em pagar a renda, antes de serem despejadas. A ideia é usar os serviços públicos que já existem para dar uma resposta rápida, pagando parte da renda ou ajudando a acertar atrasos sem que a família tenha de devolver esse dinheiro, se comprovar carência e o contrato puder continuar. Se não der para manter a casa, o Estado deve arranjar alojamento temporário sem separar a família, garantindo dinheiro e equipas com as câmaras municipais.",
+ "context": "O proponente argumenta que a Lei de Bases da Habitação e o Decreto-Lei n.º 89/2021 já preveem proteção em situações de carência habitacional e despejo, e que a Proposta de Lei n.º 103/XVII/1.ª assume a responsabilidade social do Estado no arrendamento. Contudo, o JPP defende que falta concretizar esses deveres com responsáveis claros, prazos adequados à urgência e meios de execução, garantindo que o apoio chegue antes da acumulação de dívidas ou de processos de despejo, sem alterar regras contratuais ou judiciais.",
+ "analysis": "Como pontos positivos, a proposta foca-se na prevenção precoce antes do despejo, evita novas estruturas ao usar os serviços existentes, prevê controlo contra duplicações e protege municípios e Regiões Autónomas de encargos nacionais sem financiamento. Exige também prestação de contas em 180 dias. Como fragilidades, tratando-se de um Projeto de Resolução, não vincula o Governo nem garante verbas. O texto também não quantifica custos nem define critérios objetivos para prazos máximos ou arrendamentos viáveis, remetendo essa definição para o Executivo. Na prática, a aplicação arrisca esbarrar na escassez de alojamento temporário e na sobrecarga das equipas sociais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recomendação prevê o reforço de apoios sociais não reembolsáveis, maior capacidade de alojamento temporário e contratação ou alocação de recursos humanos e financeiros, o que implica aumento da despesa pública caso o Governo a execute. O documento não apresenta quaisquer estimativas orçamentais ou montantes concretos."
+ },
+ "affected": [
+  "inquilinos em situação de vulnerabilidade",
+  "senhorios",
+  "municípios",
+  "Regiões Autónomas",
+  "serviços de ação social"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "arrendamento habitacional",
+  "prevenção de despejos",
+  "apoio à renda",
+  "alojamento temporário",
+  "ação social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

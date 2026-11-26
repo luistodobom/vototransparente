@@ -1,0 +1,25 @@
+{
+ "short_title": "Apoio à Habitação Jovem: Rendas, IMT e Crédito Bonificado",
+ "summary": "A proposta visa facilitar o acesso à habitação para jovens em Portugal, abordando os desafios que enfrentam para sair da casa dos pais e adquirir habitação estável. Introduz três medidas principais: uma atualização extraordinária de 6,9% nos valores máximos de renda do programa Porta 65 para 2024; a criação de um regime \"IMT Jovem\", que permite aos municípios isentar jovens entre 18 e 35 anos do IMT na aquisição da sua primeira habitação própria e permanente até 181.034 euros; e o estabelecimento de um regime de crédito bonificado à habitação para jovens (18-35 anos) para aquisição, ampliação, construção ou obras na sua habitação permanente. Este regime de crédito inclui um montante máximo de 200.000 euros (até 85% do valor do imóvel), um prazo máximo de 50 anos, dispensa de seguro de vida obrigatório, uma bonificação na taxa de juro e um desconto de 25% nos emolumentos de escrituras e registos. Para evitar o uso abusivo, o imóvel adquirido não pode ser alienado ou arrendado durante cinco anos, salvo exceções específicas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar uma mão aos jovens portugueses para conseguirem ter a sua própria casa. Para quem quer arrendar, aumenta o valor máximo de renda que o programa Porta 65 pode apoiar. Para quem quer comprar, há duas ajudas: uma isenção do imposto de selo (IMT) na compra da primeira casa até um certo valor, mas que depende da decisão de cada câmara municipal; e um crédito à habitação mais barato, com juros que o Estado ajuda a pagar, prazos mais longos (até 50 anos) e sem seguro de vida obrigatório, além de descontos nas despesas de escritura. A ideia é facilitar a vida aos jovens para terem a sua casa, seja a arrendar ou a comprar, e evitar que a vendam logo a seguir.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente as barreiras identificadas para o acesso à habitação jovem, como rendas elevadas, dificuldades de acesso ao crédito e custos iniciais de compra. A atualização do Porta 65 e o regime de crédito bonificado aliviam diretamente os encargos financeiros. No entanto, o regime \"IMT Jovem\", embora benéfico, depende da decisão municipal, o que pode levar a uma aplicação desigual em todo o país, criando disparidades no acesso a este benefício. O prazo de 50 anos para o empréstimo, embora reduza as prestações mensais, pode resultar num custo total significativamente mais elevado ao longo da vida do empréstimo, mesmo com bonificações. A cláusula de inalienabilidade de cinco anos é uma medida sensata para garantir que a habitação se destina a residência permanente e não a fins especulativos, alinhando-se bem com o objetivo da política. O montante máximo de empréstimo de 200.000 euros e o rácio de financiamento de 85% podem ainda ser insuficientes para imóveis em centros urbanos mais caros, limitando potencialmente o alcance do regime de crédito nessas áreas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta deverá aumentar a despesa pública e diminuir a receita pública. O regime de crédito bonificado exigirá financiamento anual do Orçamento do Estado para cobrir as bonificações das taxas de juro, representando um aumento direto da despesa. O desconto de 25% nos emolumentos de escrituras e registos resultará numa redução da receita do Estado proveniente destas taxas. Adicionalmente, se os municípios optarem por implementar a isenção de IMT Jovem, haverá uma diminuição da receita fiscal municipal proveniente do IMT. O efeito líquido é um provável aumento da despesa pública global e uma redução da receita pública, com o impacto exato a depender da adesão ao regime de crédito e da taxa de adoção da isenção de IMT pelos municípios."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

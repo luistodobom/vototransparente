@@ -1,0 +1,24 @@
+{
+ "short_title": "Mais transparência no setor privado da Saúde",
+ "summary": "Esta proposta recomenda ao Governo que exija maior transparência ao setor privado da saúde em Portugal. O objetivo é que os operadores privados forneçam relatórios detalhados sobre a sua atividade, incluindo o número de utentes tratados, patologias, atos médicos, recursos humanos (especialistas, enfermeiros), equipamentos, capacidade de internamento e cuidados intensivos, salas de operações e remunerações. Esta exigência seria uma condição para que o Estado possa estabelecer parcerias e acordos com estas entidades, visando colmatar a assimetria de informação e fortalecer o Serviço Nacional de Saúde (SNS).",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo obrigue as clínicas e hospitais privados a mostrar os seus números, tipo quantos doentes atendem, que tratamentos fazem, quantos médicos e enfermeiros têm, e até quanto pagam ao pessoal. A ideia é que, se o Estado quiser fazer acordos com eles, eles têm de abrir os livros, tal como o Serviço Nacional de Saúde já faz. Assim, o Governo fica a saber exatamente o que o privado tem e pode usar essa informação para melhorar o nosso SNS, em vez de andar às cegas nas negociações.",
+ "context": null,
+ "analysis": "O documento identifica claramente a assimetria de informação entre o setor público e o privado da saúde como um problema central, que prejudica a capacidade de negociação do Estado e o planeamento de políticas públicas eficazes. A proposta de exigir um reporte de dados equivalente ao que o SNS já está sujeito, como condição para parcerias, é uma solução direta e lógica para resolver essa inconsistência. Ao ter acesso a dados detalhados sobre a capacidade e atividade do setor privado, o Estado poderá tomar decisões mais informadas sobre onde e como complementar o SNS, otimizando recursos e melhorando a resposta global do sistema de saúde. A implementação desta medida alinha-se diretamente com o objetivo de capacitar o SNS e garantir a sua sustentabilidade a longo prazo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, por si só, não implica um aumento ou diminuição direta dos gastos ou receitas do governo. O seu foco é a recolha de dados e a regulação. No entanto, ao melhorar a transparência e a informação disponível sobre o setor privado, pode levar a uma gestão mais eficiente dos recursos públicos no futuro, potencialmente otimizando os gastos em parcerias e acordos com o setor privado e, a longo prazo, contribuindo para a sustentabilidade financeira do SNS. O efeito líquido imediato é neutro, mas o potencial a longo prazo é de maior eficiência na despesa pública em saúde."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

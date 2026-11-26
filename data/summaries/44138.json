@@ -1,0 +1,25 @@
+{
+ "short_title": "Contabilização do tempo de trabalho de docentes com horário incompleto",
+ "summary": "A proposta visa corrigir a forma como o tempo de trabalho dos professores com horário incompleto é contabilizado para efeitos de Segurança Social. Atualmente, muitas escolas e a própria Segurança Social não consideram a totalidade do tempo de trabalho destes docentes, incluindo as componentes não letivas, o que resulta numa declaração de menos dias de trabalho e, consequentemente, na perda de acesso a prestações sociais ou na redução dos seus montantes. O objetivo é garantir que, independentemente do horário ser incompleto, o tempo de trabalho seja declarado como 30 dias por mês, assegurando os direitos destes profissionais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta é para que os professores que trabalham com horários mais curtos, mas que na verdade fazem muito mais do que as horas de aulas, tenham o seu tempo de trabalho contado na totalidade para a Segurança Social. Atualmente, eles perdem dias de descontos e, por isso, podem ter menos reformas ou outros apoios. A ideia é que, mesmo com um horário incompleto, o tempo deles seja contado como se trabalhassem o mês inteiro, para que não sejam prejudicados nos seus direitos.",
+ "context": null,
+ "analysis": "O documento aponta claramente uma inconsistência na aplicação das normas existentes, onde o tempo de trabalho dos professores com horário incompleto não é devidamente reconhecido para efeitos de Segurança Social. A proposta alinha-se com o objetivo de corrigir esta falha, garantindo que a declaração do tempo de trabalho reflita a realidade da prestação de serviço destes docentes, que, apesar de terem horários letivos incompletos, estão disponíveis a tempo completo para a componente não letiva e não podem acumular outras funções. A implementação, ao fixar a declaração em 30 dias, visa eliminar as arbitrariedades e injustiças resultantes das interpretações atuais, que penalizam os professores em termos de acesso a prestações sociais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao garantir que o tempo de trabalho dos professores com horário incompleto seja declarado como 30 dias por mês para efeitos de Segurança Social, terá um impacto fiscal. Potencialmente, aumentará as contribuições para a Segurança Social por parte das entidades empregadoras (escolas) e/ou dos próprios docentes, se a base de cálculo for ajustada. No entanto, o impacto mais significativo será no aumento das despesas do governo a longo prazo, uma vez que estes professores terão acesso a prestações sociais mais elevadas ou a elas acederão mais cedo, devido ao cumprimento dos prazos de garantia. O efeito líquido será provavelmente um aumento dos gastos do governo com prestações sociais."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

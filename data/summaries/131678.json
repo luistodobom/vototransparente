@@ -1,0 +1,26 @@
+{
+ "short_title": "Controlo de Fortuna e Acesso à Habitação Pública",
+ "summary": "A proposta visa alterar a Lei Geral Tributária e a Lei de Bases da Habitação para combater o acesso indevido a habitação pública e subsídios por parte de quem possui riqueza não justificada. Pretende-se que a Autoridade Tributária e Aduaneira (AT) cruze dados sobre manifestações de fortuna (como a compra de bens de luxo ou transferências para paraísos fiscais) com os rendimentos declarados, para garantir que os apoios habitacionais são atribuídos apenas a quem realmente precisa e para detetar fraude fiscal.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer impedir que pessoas com muito dinheiro \"escondido\" recebam casas ou apoios do Estado para a habitação. A ideia é que as Finanças consigam ver quem compra carros caros, barcos ou manda dinheiro para fora sem justificação, e se essas pessoas estiverem a receber ajudas para a casa, perdem esse direito. É para garantir que as ajudas vão para quem precisa mesmo e para apanhar quem foge aos impostos.",
+ "context": null,
+ "analysis": "A proposta alinha-se de forma consistente com o seu objetivo de combater a fraude e garantir a justa atribuição de apoios habitacionais. Ao propor a alteração da Lei Geral Tributária e da Lei de Bases da Habitação, cria um enquadramento legal para o cruzamento de dados entre a Autoridade Tributária e outras entidades (bancos, comerciantes de bens de luxo). A ideia de considerar manifestações de fortuna não justificadas como rendimento tributável em IRS e de vedar o acesso a apoios habitacionais a quem as apresente, é uma abordagem direta para atingir os objetivos de transparência e equidade. A ênfase na utilização de aplicações informáticas para a comunicação e cruzamento de dados sugere uma aposta na eficiência e na redução da burocracia, embora a implementação prática possa levantar desafios relacionados com a privacidade dos dados e a capacidade dos sistemas existentes. Não se identificam inconsistências lógicas na proposta, mas sim potenciais desafios de execução.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta deverá ter um impacto fiscal positivo. Por um lado, prevê-se um aumento da receita do governo através da tributação de rendimentos provenientes de manifestações de fortuna não justificadas, bem como um efeito dissuasor sobre a fraude e evasão fiscal. Por outro lado, a melhor gestão e fiscalização na atribuição de habitação pública e subsídios deverá levar a uma diminuição dos gastos públicos, ao evitar que estes apoios sejam concedidos indevidamente. O efeito líquido esperado é, portanto, um aumento da receita e uma diminuição da despesa, resultando num benefício para as finanças públicas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

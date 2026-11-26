@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço do papel do regulador no fecho súbito de clínicas de fertilidade",
+ "summary": "Este Projeto de Resolução do LIVRE recomenda ao Governo, de forma não vinculativa, o reforço do quadro legal aplicável à suspensão ou ao encerramento súbito de centros de procriação medicamente assistida (PMA). Em concreto, propõe que se clarifique a intervenção do Conselho Nacional de Procriação Medicamente Assistida (CNPMA) nestas situações, especialmente na transferência de gâmetas, embriões e processos clínicos. Recomenda ainda que os centros fiquem obrigados a comunicar imediatamente ao CNPMA qualquer situação ou decisão que possa levar ao encerramento, incluindo processos de insolvência. Pede também a criação de um procedimento específico que garanta a continuidade dos tratamentos, a informação atempada e o acompanhamento das pessoas afetadas. Por fim, recomenda que o Governo assegure que os utentes afetados pelo fecho da clínica OvomCare Portugal possam manter ou transferir o seu material biológico criopreservado sem novos encargos.",
+ "key_points": [
+  "Clarificar as competências do CNPMA em casos de suspensão ou encerramento súbito de centros, sobretudo na transferência de material biológico e processos clínicos.",
+  "Obrigar os centros de PMA a comunicar de imediato ao CNPMA qualquer situação de risco ou processo de insolvência que possa levar ao encerramento.",
+  "Criar um procedimento específico para encerramentos súbitos que assegure a continuidade dos tratamentos, a informação atempada e o acompanhamento dos utentes.",
+  "Garantir que as pessoas afetadas pelo encerramento da OvomCare Portugal possam manter ou transferir o seu material criopreservado sem custos adicionais."
+ ],
+ "plain_language": "Esta iniciativa é uma recomendação ao Governo, sem força de lei obrigatória, para proteger quem faz tratamentos de fertilidade quando uma clínica fecha de repente. O partido propõe que o regulador da área tenha poderes mais claros para gerir a transferência de material biológico, como gâmetas e embriões, e de fichas médicas. Pede também que as clínicas sejam obrigadas a avisar logo que enfrentem problemas graves ou pedidos de insolvência, e que exista um plano claro para não interromper tratamentos. Além disso, recomenda que os clientes da clínica OvomCare, que faliu em Cascais, não paguem novos custos para guardar ou mudar o seu material biológico.",
+ "context": "Em agosto de 2026, a clínica privada OvomCare Portugal, em Cascais, foi declarada insolvente e fechou portas subitamente sem cumprir o aviso prévio legal de seis meses, afetando mais de 200 utentes, muitas com tratamentos já pagos. Outra clínica aceitou receber o material biológico através de um protocolo previsto apenas para avarias técnicas e deu seis meses de conservação gratuita, findos os quais haverá novos encargos. Segundo o proponente, a lei atual pressupõe encerramentos planeados, não prevê alertas precoces de insolvência ao CNPMA nem define com clareza a sua intervenção técnica sobre o destino do material biológico.",
+ "analysis": "A iniciativa identifica com rigor uma lacuna regulatória exposta por um caso real: a regra atual exige seis meses de pré-aviso, mas não responde a insolvências súbitas nem atribui competência explícita ao CNPMA sobre o destino do material biológico, ao contrário do que sucede nos bancos de células estaminais. A comunicação imediata de risco e um protocolo de emergência podem reduzir a incerteza clínica e emocional dos utentes. Contudo, tratando-se de um Projeto de Resolução, não é vinculativo e a sua concretização exige alterações à lei e à regulamentação pelo Governo. Além disso, o texto não esclarece quem suportará os custos de manter ou transferir o material da OvomCare após os seis meses gratuitos (Estado, massa insolvente ou clínica recetora), nem aborda a recuperação dos pagamentos antecipados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, não gera despesa imediata. Caso o Governo a acolha, o reforço de procedimentos e a garantia de isenção de novos encargos para os utentes da OvomCare Portugal podem implicar custos públicos ou para terceiros, mas o documento não quantifica montantes nem define quem suporta esses encargos."
+ },
+ "affected": [
+  "utentes de procriação medicamente assistida",
+  "utentes afetados pelo encerramento da OvomCare Portugal",
+  "centros de procriação medicamente assistida",
+  "Conselho Nacional de Procriação Medicamente Assistida"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "consumidores"
+ ],
+ "tags": [
+  "procriação medicamente assistida",
+  "cnpma",
+  "encerramento de clínicas",
+  "insolvência",
+  "material biológico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

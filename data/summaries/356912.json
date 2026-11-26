@@ -1,0 +1,41 @@
+{
+ "short_title": "Atualização e revisão periódica do Cartão Social Eletrónico alimentar",
+ "summary": "O Projeto de Resolução do JPP recomenda ao Governo, de forma não vinculativa, que avalie com urgência e atualize os valores do Cartão Social Eletrónico destinado à compra de alimentos. Propõe a criação de um mecanismo de monitorização e revisão periódica destes montantes, com base na evolução dos preços dos bens alimentares ou noutros indicadores de custo de vida. A iniciativa pede também ao executivo que entregue à Assembleia da República os critérios usados para fixar os valores atuais e os estudos sobre a sua suficiência. Por fim, recomenda a articulação com os Governos Regionais da Madeira e dos Açores para avaliar os respetivos programas regionais de apoio alimentar financiados por fundos europeus, garantindo que a sua execução respeita a equidade territorial e compensa os custos da insularidade e da ultraperiferia.",
+ "key_points": [
+  "Avaliar com urgência a adequação dos atuais montantes do Cartão Social Eletrónico face à subida dos preços dos bens alimentares essenciais.",
+  "Atualizar os valores atribuídos aos beneficiários sempre que se verifique uma perda relevante do respetivo poder de compra.",
+  "Criar um mecanismo de monitorização e revisão periódica dos apoios com base em indicadores objetivos de preços alimentares ou de custo de vida.",
+  "Informar o Parlamento sobre os critérios de definição dos montantes em vigor e sobre eventuais estudos relativos à sua suficiência.",
+  "Avaliar os programas regionais de apoio alimentar da Madeira e dos Açores, assegurando equidade territorial e compensação dos custos da insularidade nos fundos europeus."
+ ],
+ "plain_language": "O Cartão Social Eletrónico é um cartão carregado mensalmente pelo Estado, com fundos europeus, para que famílias com baixos rendimentos comprem comida, substituindo os antigos cabazes de alimentos. O JPP argumenta que os valores pagos atualmente não chegam porque a comida ficou mais cara. Como este texto é um projeto de resolução, funciona apenas como uma recomendação e não obriga o Governo a agir. Ainda assim, pede que os apoios sejam aumentados, revistos regularmente conforme os preços subam e adaptados à realidade mais cara da Madeira e dos Açores.",
+ "context": "O proponente refere que o Cartão Social Eletrónico, financiado pelo Fundo Social Europeu Mais no programa Pessoas 2030, trouxe mais dignidade e autonomia aos beneficiários. Contudo, os valores mantêm-se inalterados desde o início: 50,95 euros para o titular e 35,67 euros por cada outro elemento, somando 157,96 euros mensais para uma família de quatro pessoas. Segundo o JPP, o aumento significativo dos preços alimentares reduziu o poder de compra real deste apoio, comprometendo o combate à insegurança alimentar e exigindo também atenção aos custos acrescidos nas Regiões Autónomas.",
+ "analysis": "A iniciativa identifica um problema objetivo de política pública: prestações sociais nominais fixas perdem eficácia real em períodos de inflação alimentar. É também pertinente ao exigir transparência ao Governo sobre os critérios técnicos que fundamentaram os valores atuais e ao incluir a dimensão territorial da Madeira e dos Açores, cujos programas regionais são geridos autonomamente. Contudo, apresenta fragilidades relevantes. Por ser um projeto de resolução, não tem força vinculativa. Além disso, utiliza conceitos vagos como perda relevante de poder de compra sem definir limiares, periodicidade concreta ou fórmulas de atualização. O texto também não estima o impacto financeiro da medida nem esclarece se eventuais aumentos seriam suportados pelo Orçamento do Estado ou por reprogramação de fundos europeus já alocados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, não produz impacto orçamental imediato. Caso o Governo adote a medida, a atualização dos apoios (atualmente de 50,95 euros para o titular e 35,67 euros por cada outro elemento) implicará maior despesa ou realocação de verbas dos programas europeus Pessoas 2030, Madeira 2030 e Açores 2030, sem montantes quantificados no texto."
+ },
+ "affected": [
+  "Famílias em carência económica",
+  "Beneficiários do Cartão Social Eletrónico",
+  "Residentes nas Regiões Autónomas"
+ ],
+ "categories": [
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "cartão social eletrónico",
+  "apoio alimentar",
+  "combate à pobreza",
+  "regiões autónomas",
+  "fundos europeus"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

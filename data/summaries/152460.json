@@ -1,0 +1,25 @@
+{
+ "short_title": "Alargar e desburocratizar a Ação Social Escolar",
+ "summary": "Esta proposta de resolução visa alargar o número de alunos que beneficiam da Ação Social Escolar (ASE) e simplificar o processo de atribuição dos apoios. Argumenta que os critérios atuais estão desatualizados face ao aumento do custo de vida e que muitos alunos em risco de pobreza ou exclusão social não recebem apoio. Propõe aumentar a dotação orçamental para a ASE, alterar a correspondência entre os escalões do abono de família e os da ASE para incluir mais beneficiários, aumentar os valores para material escolar e visitas de estudo, e automatizar a atribuição dos apoios através da interoperabilidade de dados entre serviços.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que mais miúdos recebam ajuda para a escola, como material e visitas de estudo, porque os preços subiram muito e as regras antigas já não fazem sentido. Querem que o sistema seja mais fácil e automático, sem tanta papelada, para que as famílias que precisam recebam o dinheiro a tempo. Também querem que o governo ponha mais dinheiro disponível para estes apoios.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente uma inconsistência crucial: os limites de rendimento para a Ação Social Escolar não foram atualizados, excluindo famílias que, apesar de terem rendimentos ligeiramente acima do mínimo, enfrentam dificuldades crescentes devido ao aumento do custo de vida. A argumentação é sólida ao ligar a falta de atualização dos apoios à persistência da pobreza infantil e ao impacto negativo no desempenho escolar. A solução proposta de redefinir os escalões da ASE para abranger mais beneficiários do abono de família é uma forma direta de corrigir esta falha. A ênfase na automatização e interoperabilidade é um ponto forte, pois aborda a burocracia que dificulta o acesso aos apoios, alinhando a implementação com o objetivo de desburocratização e acesso atempado. A crítica ao Governo anterior por não ter implementado a interoperabilidade prometida reforça a necessidade e a viabilidade da medida.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo. O alargamento do número de beneficiários da Ação Social Escolar, o aumento dos valores de comparticipação para material escolar e visitas de estudo, e o aumento da dotação orçamental para a ASE em 2024 implicarão um acréscimo significativo nas despesas públicas. Embora a automatização da atribuição dos apoios possa, a longo prazo, gerar alguma poupança em custos administrativos, o efeito líquido será um aumento substancial dos gastos do governo, sem impacto direto na receita."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

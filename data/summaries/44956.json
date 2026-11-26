@@ -1,0 +1,25 @@
+{
+ "short_title": "Eliminação de pagamentos por conta de IRS e IRC em 2020",
+ "summary": "Esta proposta de lei, apresentada pelo CDS-PP, visa suspender a exigência de pagamentos antecipados de impostos (IRS para pessoas singulares e IRC para empresas) e pagamentos especiais de IRC durante o ano de 2020. O objetivo é aliviar a pressão financeira sobre famílias e empresas, que enfrentam dificuldades económicas devido à pandemia, permitindo-lhes reter liquidez e apoiar a recuperação económica.",
+ "key_points": [],
+ "plain_language": "Basicamente, o CDS-PP quer que o governo pare de pedir às pessoas e às empresas para pagarem adiantamentos de impostos em 2020. É como se dissessem: \"Não vos vamos chatear com essas contas agora, porque a economia está fraca por causa da pandemia e vocês precisam do dinheiro para se aguentarem e manterem os empregos.\" A ideia é dar um fôlego financeiro para que as famílias e os negócios consigam passar esta fase difícil.",
+ "context": null,
+ "analysis": "A proposta é consistente com o objetivo declarado de apoiar famílias e empresas em tempos de crise económica. Ao suspender os pagamentos por conta e pagamentos especiais de IRC e IRS para 2020, a medida liberta liquidez para os contribuintes, o que pode ajudar a prevenir insolvências e a proteger empregos. Os detalhes de implementação, que especificam os artigos exatos dos códigos fiscais a serem afetados (Art.º 102.º CIRS, Art.º 104.º CIRC, Derrama estadual, Pagamento Especial por Conta), demonstram uma aplicação direta e focada do objetivo. A exclusão da retenção na fonte (Art.º 98.º a 101.º-D do CIRS) é lógica, pois a retenção é um mecanismo de cobrança diferente, geralmente aplicado a rendimentos no momento do seu pagamento, e não um adiantamento de imposto anual.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta resultaria numa diminuição imediata da receita do governo para o ano de 2020, uma vez que os pagamentos antecipados de impostos não seriam cobrados. Embora estes pagamentos sejam adiantamentos sobre impostos que seriam devidos mais tarde, a sua suspensão representa uma perda de fluxo de caixa para o Estado no curto prazo. O efeito líquido seria uma redução da receita fiscal em 2020, com a expectativa de que a liquidez retida por famílias e empresas possa impulsionar a atividade económica e, a longo prazo, contribuir para uma recuperação que eventualmente aumentaria as receitas fiscais futuras. No entanto, o impacto direto e imediato é de diminuição da receita governamental."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Alarga isenção de IMT para habitação própria e permanente",
+ "summary": "A proposta visa alargar a isenção do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT) para todas as aquisições de habitação própria e permanente, independentemente do valor do imóvel. Atualmente, esta isenção tem um limite de valor (93.331,00 euros), que a Iniciativa Liberal considera desajustado e um obstáculo ao acesso à habitação, especialmente nos grandes centros urbanos. O objetivo é tornar a aquisição de casa mais acessível, eliminando esta barreira fiscal.",
+ "key_points": [],
+ "plain_language": "Basicamente, a Iniciativa Liberal quer acabar com o imposto que se paga quando se compra uma casa para viver (o IMT), independentemente do preço da casa. Atualmente, só não se paga se a casa for baratinha, mas eles acham que isso não faz sentido e que toda a gente devia ter a vida facilitada para comprar a sua casa, sem ter de pagar mais um imposto pesado. É para ajudar as pessoas a terem casa própria.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o problema do custo da habitação em Portugal, especialmente nas grandes cidades, ao eliminar o limite de valor para a isenção de IMT na compra de habitação própria e permanente. A Iniciativa Liberal argumenta que o limite atual é desajustado e impede o direito à habitação, o que se alinha com o objetivo de tornar a habitação mais acessível através da desoneração fiscal. A implementação é clara, alterando o Artigo 9.º do Código do IMT para remover a restrição de valor, o que é uma forma direta e consistente de atingir o objetivo declarado. Não há inconsistências internas na lógica da proposta.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo na receita do governo. Ao alargar a isenção de IMT a todas as aquisições de habitação própria e permanente, independentemente do valor, o Estado deixará de cobrar este imposto em transações que atualmente estariam sujeitas a ele (aquelas acima de 93.331,00 euros). Isso resultará numa diminuição da receita fiscal do governo, sem um aumento direto nos gastos. O efeito líquido será uma redução da receita pública."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

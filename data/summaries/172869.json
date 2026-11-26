@@ -1,0 +1,25 @@
+{
+ "short_title": "AT identifica imóveis devolutos e em ruínas para agravamento do IMI",
+ "summary": "A proposta visa combater a escassez de habitação e o aumento dos preços, que têm superado os salários. Atualmente, existem muitas casas vazias e abandonadas em Portugal. Embora já exista uma taxa de IMI agravada para imóveis devolutos, a sua aplicação é ineficaz devido à dependência da iniciativa municipal e a um processo burocrático. Esta proposta atribui à Autoridade Tributária e Aduaneira a competência para identificar de forma obrigatória e eficaz os imóveis devolutos, em ruínas ou terrenos para construção que devem ser sujeitos a um agravamento do IMI, incentivando a sua colocação no mercado.",
+ "key_points": [],
+ "plain_language": "Basicamente, a ideia é resolver o problema de haver muitas casas vazias e abandonadas enquanto os preços das casas estão altíssimos e as pessoas não conseguem comprar ou alugar. Já existe uma multa no imposto da casa (IMI) para quem tem imóveis parados, mas não funciona porque são as câmaras que têm de andar a descobrir essas casas, e é uma burocracia enorme. Com esta proposta, a Autoridade Tributária é que vai passar a ter a responsabilidade de identificar essas casas e terrenos, para que a multa seja aplicada a sério. Assim, os donos são \"obrigados\" a dar uso aos imóveis, seja para habitação ou para venda, ajudando a que haja mais casas disponíveis.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente a ineficácia do atual sistema de agravamento do IMI para imóveis devolutos, que depende da iniciativa municipal e de processos burocráticos. Ao transferir a competência de identificação para a Autoridade Tributária e Aduaneira, a proposta visa tornar o processo mais célere, eficaz e obrigatório, utilizando a tecnologia disponível para uma identificação rigorosa. Esta medida alinha-se diretamente com o objetivo de combater o desinvestimento no parque habitacional e incentivar a colocação de imóveis no mercado, ao remover os obstáculos que impedem a aplicação efetiva da tributação agravada. Não se detetam inconsistências, mas sim uma abordagem pragmática para resolver um problema de implementação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta poderá levar a um ligeiro aumento dos gastos do governo central (Autoridade Tributária e Aduaneira) devido à necessidade de alocar recursos para a identificação e fiscalização dos imóveis. No entanto, espera-se um aumento significativo da receita do governo (municípios) através da aplicação mais eficaz e generalizada da taxa agravada do IMI sobre imóveis devolutos, em ruínas ou terrenos para construção. O efeito líquido será provavelmente um aumento da receita fiscal, superando os custos administrativos, embora o objetivo principal seja incentivar a utilização dos imóveis e não a mera arrecadação de impostos."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

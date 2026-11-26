@@ -1,0 +1,43 @@
+{
+ "short_title": "Limita isenções de taxas moderadoras a estrangeiros não residentes",
+ "summary": "O Projeto de Lei n.º 637/XVII/1.ª altera o Decreto-Lei n.º 113/2011 para restringir o acesso gratuito ao Serviço Nacional de Saúde (SNS) por parte de cidadãos estrangeiros não residentes em Portugal oriundos de Estados terceiros. A iniciativa limita a isenção de taxas moderadoras às grávidas e parturientes que residam legalmente em território nacional e restringe a isenção aplicável a requerentes de asilo e refugiados apenas aos casos cujo pedido já tenha sido deferido. Além disso, determina que os estrangeiros não residentes provenientes de Estados terceiros efetuem o pagamento das taxas moderadoras no momento da alta clínica, caso não tenham sido cobradas aquando do ato médico. Estabelece ainda que estes cidadãos e outros não beneficiários do SNS paguem as taxas moderadoras ou os custos integrais dos cuidados prestados, ativando seguros de viagem, médicos ou de saúde, e afasta-os da regra do n.º 1 do artigo 8.º do mesmo diploma.",
+ "key_points": [
+  "Limita a isenção de taxas moderadoras para grávidas e parturientes às utentes com nacionalidade portuguesa ou estrangeira que residam legalmente em Portugal.",
+  "Restringe a isenção de taxas moderadoras de requerentes de asilo e refugiados apenas aos cidadãos cujo pedido já tenha sido deferido.",
+  "Obriga estrangeiros não residentes oriundos de Estados terceiros a pagar as taxas moderadoras no momento da alta clínica quando não tenham sido cobradas no ato.",
+  "Determina que pessoas não beneficiárias do SNS e estrangeiros não residentes de Estados terceiros paguem as taxas moderadoras ou os custos integrais dos atos prestados, ativando seguros quando necessário.",
+  "Exclui os estrangeiros não residentes provenientes de Estados terceiros da aplicação da regra prevista na parte inicial do artigo 8.º do regime de taxas moderadoras."
+ ],
+ "plain_language": "Esta proposta muda as regras de pagamento nos hospitais e centros de saúde públicos para cidadãos de países terceiros que não residam legalmente em Portugal. Passa a exigir-se que grávidas sem residência legal e pessoas com pedidos de asilo ainda por decidir paguem pelos cuidados, deixando de estar isentas de taxas moderadoras. Além disso, quem não tiver direito gratuito ao Serviço Nacional de Saúde terá de pagar as taxas ou o custo total do tratamento logo no momento da alta médica, recorrendo a seguros de viagem ou de saúde quando existam.",
+ "context": "Os proponentes justificam a iniciativa com as dificuldades financeiras do Serviço Nacional de Saúde e com o aumento de atendimentos a estrangeiros não residentes sem seguro ou acordo internacional. Citando notícias, referem mais de 100 mil atendimentos num ano e quase 330 mil em quatro anos, destacando a procura na área de obstetrícia, descrita como turismo de nascimento. Defendem que a gratuitidade atrai utentes em situação irregular e prejudica a sustentabilidade do sistema e o atendimento atempado dos residentes que pagam impostos.",
+ "analysis": "A proposta aborda um problema real de controlo de faturação e recuperação de custos no SNS junto de não residentes sem seguro ou cobertura internacional. Contudo, apresenta fragilidades jurídicas e práticas relevantes. Ao retirar a isenção a grávidas sem residência legal e a requerentes de asilo com pedido ainda pendente, pode colidir com garantias constitucionais e internacionais de proteção da saúde materna e de pessoas vulneráveis, podendo desincentivar cuidados essenciais. Na técnica legislativa, o texto mistura taxas moderadoras e custos integrais sem definir critérios de aplicação, e o artigo 8.º remete para uma alínea anterior num preceito organizado por números. Exigir pagamento imediato na alta clínica enfrenta também riscos de incobrabilidade perante utentes sem recursos.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Ao eliminar isenções e exigir o pagamento de taxas moderadoras ou dos custos integrais na alta clínica, a medida visa aumentar a receita recuperada pelo SNS. O documento não apresenta estimativas financeiras e o efeito real dependerá da capacidade de cobrança e da existência de seguros."
+ },
+ "affected": [
+  "cidadãos estrangeiros não residentes de Estados terceiros",
+  "grávidas e parturientes sem residência legal",
+  "requerentes de asilo com pedido pendente",
+  "hospitais e serviços do SNS"
+ ],
+ "categories": [
+  "saude",
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "sns",
+  "taxas moderadoras",
+  "não residentes",
+  "isenções",
+  "turismo de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

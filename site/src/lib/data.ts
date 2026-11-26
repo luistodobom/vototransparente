@@ -26,13 +26,13 @@ export interface Summary {
   summary: string;
   key_points: string[];
   plain_language: string;
-  context: string;
-  analysis: string;
-  fiscal_impact: { direction: string; explanation: string };
+  context: string | null;
+  analysis: string | null;
+  fiscal_impact: { direction: string | null; explanation: string } | null;
   affected: string[];
   categories: string[];
   tags: string[];
-  _meta: { model: string; generated: string; source: string };
+  _meta: { model: string; generated: string | null; source: string; legacy?: boolean };
 }
 
 export interface Initiative {

@@ -1,0 +1,41 @@
+{
+ "short_title": "Integração na Administração Pública de trabalhadores contratados no PRR",
+ "summary": "O Projeto de Lei estabelece o regime de integração na Administração Pública de trabalhadores contratados ao abrigo do Programa de Recuperação e Resiliência (PRR), maioritariamente com contratos a termo resolutivo ocupados a 31 de dezembro de 2025. Aplica-se a postos de trabalho que os dirigentes máximos dos serviços declarem corresponder a necessidades permanentes, quer por estarem afetos à execução de políticas públicas financiadas pelo PRR, quer por responderem a necessidades que perdurem após o fim do programa. O Governo tem 60 dias para concluir a identificação desses postos e 120 dias seguintes para abrir concursos públicos, nos quais a experiência adquirida nessas funções é valorizada em pelo menos três valores na avaliação curricular. Até ao fim dos concursos, os contratos existentes são prorrogados e os mapas de pessoal ajustados. Os trabalhadores aprovados passam a contrato por tempo indeterminado, relevando o tempo anterior para progressão na carreira.",
+ "key_points": [
+  "Abrange postos de trabalho ocupados a 31 de dezembro de 2025 por contratados no âmbito do PRR, mediante declaração fundamentada do dirigente máximo sobre a sua necessidade permanente.",
+  "Obriga o Governo a identificar os postos elegíveis em 60 dias e a abrir os respetivos procedimentos concursais nos 120 dias seguintes.",
+  "Estabelece uma valorização mínima de três valores na avaliação curricular pela experiência adquirida no exercício das funções, respeitando o limite de 20 valores na classificação final.",
+  "Prorroga automaticamente os contratos a termo existentes à data de entrada em vigor da lei até à conclusão dos procedimentos concursais correspondentes.",
+  "Integra os trabalhadores aprovados em contrato por tempo indeterminado na categoria de base, contando o tempo de serviço anterior para a evolução remuneratória na carreira.",
+  "Permite ao Governo recorrer a procedimentos concursais simplificados nos casos em que os trabalhadores já tenham sido inicialmente recrutados por concurso."
+ ],
+ "plain_language": "Durante o Plano de Recuperação e Resiliência, o Estado contratou muitas pessoas a prazo para gerir projetos e reforçar os serviços públicos. Com o fim do programa, esta proposta pretende evitar a saída súbita destes trabalhadores e a perda de capacidade nos serviços. Em vez da passagem automática aos quadros, prevê identificar os lugares que continuam a ser necessários a longo prazo e abrir concursos públicos. Quem já ocupa esses postos mantém o contrato até ao fim do concurso e recebe uma valorização mínima de três valores na avaliação curricular pela experiência ganha, passando a contrato sem termo se for aprovado.",
+ "context": "O PS argumenta que a execução do PRR exigiu um forte reforço de pessoal qualificado, sobretudo com contratos a termo, e que muitas dessas funções não terminam com o fim do programa, correspondendo a necessidades estruturais na execução de fundos europeus e na modernização dos serviços públicos. Para evitar a perda de capacidade técnica e a incerteza laboral destes profissionais, defende um modelo semelhante ao PREVPAP, mas baseado em concursos abertos com valorização da experiência.",
+ "analysis": "A iniciativa procura equilibrar a retenção de quadros com o princípio constitucional do acesso à função pública por concurso, evitando a conversão automática de vínculos e permitindo ao Executivo filtrar as necessidades reais através dos dirigentes máximos. Contudo, apresenta fragilidades jurídicas e técnicas relevantes. Ao admitir como necessidade permanente qualquer posto afeto a políticas financiadas pelo PRR, cria o risco de estabilizar funções que podem ser meramente conjunturais, além de omitir uma estimativa do impacto orçamental de passar vínculos a termo e financiamento europeu para despesa permanente do Estado. O articulado contém ainda falhas legísticas evidentes: refere o diploma como decreto-lei nos artigos 7.º e 8.º, duplica a numeração do artigo 9.º e remete no artigo 4.º para um n.º 1 do artigo 1.º que não existe.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação imediata dos contratos a termo, a conversão em contratos por tempo indeterminado após o fim do financiamento do PRR e a contagem do tempo anterior para progressão remuneratória geram despesa pública permanente com pessoal. O projeto de lei não apresenta qualquer quantificação financeira nem estimativa do número de trabalhadores abrangidos."
+ },
+ "affected": [
+  "trabalhadores contratados no âmbito do PRR",
+  "organismos e serviços da Administração Pública"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "administração pública",
+  "prr",
+  "concurso público",
+  "vínculos precários",
+  "função pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

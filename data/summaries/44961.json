@@ -1,0 +1,24 @@
+{
+ "short_title": "Apoio fiscal a empresas: dispensa de PPC e reembolso antecipado de PEC.",
+ "summary": "A proposta, apresentada pela Iniciativa Liberal, visa apoiar as empresas portuguesas face aos prejuízos causados pela pandemia de COVID-19. Propõe duas medidas fiscais principais: a dispensa dos pagamentos por conta do Imposto sobre o Rendimento das Pessoas Coletivas (IRC) para todas as empresas e a antecipação do reembolso da parte não deduzida do Pagamento Especial por Conta (PEC) até 2019, eliminando o prazo de espera habitual. O objetivo é dar liquidez às empresas e salvaguardar empregos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar uma ajuda às empresas por causa da crise do COVID-19. A ideia é que as empresas não precisem de pagar adiantamentos de impostos que normalmente fariam (os \"Pagamentos por Conta\") e que possam receber mais cedo o dinheiro de impostos que já pagaram e que ainda não tinham sido devolvidos (o \"Pagamento Especial por Conta\"). Assim, as empresas ficam com mais dinheiro na mão para aguentar a crise e não ter de fechar ou despedir pessoas.",
+ "context": null,
+ "analysis": "A proposta é consistente com o objetivo declarado de apoiar a liquidez das empresas e a manutenção de empregos durante a crise da COVID-19. A dispensa dos Pagamentos por Conta do IRC é lógica, uma vez que estes se baseiam nos lucros do ano anterior, que não refletem a realidade atual de muitas empresas. A antecipação do reembolso do PEC também se alinha com o objetivo de injetar capital nas empresas mais rapidamente, ao remover a barreira do prazo de 6 anos. Não há inconsistências aparentes; as medidas são diretas e visam um alívio financeiro imediato para o tecido empresarial.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição temporária da receita do governo, uma vez que dispensa adiantamentos de impostos (PPC) e antecipa reembolsos (PEC). Não há indicação de aumento direto nos gastos do governo, mas sim uma redução na entrada de fundos. O efeito líquido será uma diminuição da receita fiscal no curto prazo, com o objetivo de evitar falências e desemprego, o que, a longo prazo, poderia ter um impacto fiscal negativo ainda maior."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

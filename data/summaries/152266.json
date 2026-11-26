@@ -1,0 +1,26 @@
+{
+ "short_title": "Programa Ajuda de Casa: Apoio à compra da primeira habitação",
+ "summary": "A proposta cria o Programa Ajuda de Casa, que visa facilitar a compra da primeira habitação própria e permanente, especialmente para jovens e pessoas de baixos rendimentos. O Estado financia até 30% do valor de mercado do imóvel através de um empréstimo de capital próprio, tornando-se coproprietário na proporção do valor financiado. Esta medida pretende combater a dificuldade de acesso à habitação digna e a sobrevalorização dos preços no mercado imobiliário.",
+ "key_points": [],
+ "plain_language": "Imagina que queres comprar a tua primeira casa, mas os preços estão impossíveis. Esta proposta é tipo uma \"ajuda\" do Estado: ele entra com uma parte do dinheiro, até 30% do valor da casa, como se fosse um sócio teu. Assim, fica mais fácil para ti teres a tua casa, e o Estado garante que o dinheiro que meteu não se perde, porque fica com uma parte da propriedade. É para ajudar os jovens e quem tem menos dinheiro a conseguir ter uma casa própria.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a questão da inacessibilidade à habitação, um problema social e económico reconhecido em Portugal. Ao propor o financiamento público sob a forma de empréstimo de capital próprio e a copropriedade do Estado, a medida alinha-se com o objetivo de garantir o direito à habitação e reduzir a desigualdade. A copropriedade serve como uma salvaguarda para o investimento público, permitindo ao Estado reaver a sua quota-parte em caso de venda ou outras transferências de titularidade do imóvel. A elegibilidade baseada no valor médio por m2 do INE para o município é um mecanismo que visa direcionar o apoio para imóveis com preços mais razoáveis, evitando subsidiar a especulação. A limitação do financiamento a 30% do valor de mercado sugere que a medida é um complemento e não uma solução total, exigindo ainda um esforço significativo por parte do comprador. A necessidade de regulamentação posterior (Artigo 5.º) é uma prática comum, mas significa que os detalhes operacionais e os critérios exatos de elegibilidade ainda serão definidos, o que pode gerar incerteza inicial.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento inicial dos gastos do governo, uma vez que prevê o financiamento público de até 30% do valor de mercado dos imóveis. No entanto, como o Estado se torna coproprietário, há um mecanismo de recuperação potencial do investimento em caso de venda ou outras transferências de titularidade do imóvel. Assim, embora haja um aumento da despesa pública no curto prazo para a aquisição das quotas-partes, a medida não é uma despesa a fundo perdido, podendo gerar receita futura através da recuperação desses valores. O efeito líquido dependerá do volume de adesões ao programa e da valorização ou desvalorização futura dos imóveis, mas a intenção é que o capital investido seja, pelo menos parcialmente, recuperável."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

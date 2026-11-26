@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão do Código do Trabalho e legislação laboral e de segurança social",
+ "summary": "A proposta de lei do Governo altera o Código do Trabalho e vários diplomas nas áreas laboral, processual e de proteção social, com pedido de prioridade e urgência. Transpõe parcialmente a diretiva europeia sobre plataformas digitais, aplicando indícios de contrato de trabalho a prestadores com dependência económica e exigindo supervisão humana nas decisões algorítmicas. Fixa os contratos a termo certo até três anos e a termo incerto até cinco, cria o banco de horas individual por acordo e revoga o banco de horas grupal. Permite pagar os subsídios de férias e Natal em duodécimos por acordo, cria a jornada contínua para cuidadores e limita a dispensa de amamentação aos dois anos da criança. Prevê o pagamento pela Segurança Social de salários após 12 meses de processo por despedimento ilícito, novas regras de caducidade de convenções coletivas e serviços mínimos em greve no setor dos cuidados.",
+ "key_points": [
+  "Exige intervenção humana em decisões laborais apoiadas por algoritmos e aplica a presunção de contrato em plataformas digitais apenas a prestadores com 80 % de dependência económica.",
+  "Substitui o banco de horas grupal pelo banco de horas por acordo individual, até 150 horas anuais, e fixa limites de três e cinco anos para contratos a termo certo e incerto.",
+  "Prevê o regime de jornada contínua para trabalhadores com filhos menores de 12 anos ou dependentes e fixa a licença parental inicial até 180 dias, pagando 100 % quando os últimos 60 dias são partilhados.",
+  "Permite o pagamento dos subsídios de férias e de Natal em duodécimos por acordo, autoriza até dois dias de falta não remunerada junto às férias e limita a dispensa de amamentação aos dois anos.",
+  "Transfere para a Segurança Social o pagamento de retribuições intercalares após 12 meses de ação judicial por despedimento ilícito e permite ao empregador pedir ao tribunal a exclusão da reintegração mediante indemnização.",
+  "Alarga os serviços mínimos durante a greve ao cuidado de idosos, doentes, pessoas com deficiência e crianças institucionalizadas, e permite que trabalhadores independentes dependentes sejam representados por sindicatos."
+ ],
+ "plain_language": "Esta proposta do Governo muda várias regras do trabalho. Impede que decisões como avaliações ou despedimentos sejam tomadas apenas por algoritmos, exigindo intervenção humana. Permite pagar os subsídios de férias e de Natal em duodécimos, se trabalhador e empresa concordarem, e cria o horário em jornada contínua para quem tem filhos até aos 12 anos. Também autoriza bancos de horas por acordo individual, fixa contratos a prazo até três anos e inclui os cuidados a idosos e doentes nos serviços mínimos durante greves. Em processos por despedimento ilícito que ultrapassem um ano, a Segurança Social passa a assegurar os salários até à decisão do tribunal.",
+ "context": "O Governo justifica a proposta com a necessidade de adaptar a legislação laboral aos desafios da era digital e da Economia 4.0, promovendo simultaneamente a produtividade das empresas, o aumento dos rendimentos, o combate à precariedade, a dinamização da contratação coletiva e a conciliação entre a vida profissional e pessoal. Invoca ainda o cumprimento do ponto V do Acordo Tripartido sobre Valorização Salarial e Crescimento Económico 2025-2028 e a obrigação de transpor parcialmente a diretiva europeia relativa às condições de trabalho e proteção de dados em plataformas digitais.",
+ "analysis": "Como pontos positivos, a proposta cria salvaguardas contra decisões laborais puramente algorítmicas, estende a representação sindical a trabalhadores independentes economicamente dependentes e reforça instrumentos de conciliação familiar, como a jornada contínua. Contudo, revela tensões face aos objetivos anunciados: limitar os indícios de contrato em plataformas digitais a quem obtenha 80 % do rendimento de uma entidade pode excluir trabalhadores que operam em várias aplicações, enquanto o banco de horas individual e a exclusão judicial da reintegração fragilizam garantias laborais. Na implementação, o pedido de urgência para uma reforma extensa limita o escrutínio, faltam estimativas de impacto financeiro para os novos encargos da Segurança Social e o articulado apresenta falhas formais, incluindo a omissão do artigo 3.º, diplomas anunciados no artigo 1.º sem alterações correspondentes e lapsos de redação no artigo 177.º.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta estimativas financeiras, mas transfere para a Segurança Social o pagamento de retribuições intercalares após 12 meses de litígio por despedimento ilícito e prevê apoios de 100 % na partilha da licença parental, além de incentivos fiscais à contratação coletiva e alterações à acumulação de pensões."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "empregadores",
+  "trabalhadores de plataformas digitais",
+  "trabalhadores independentes economicamente dependentes",
+  "pais e cuidadores trabalhadores"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "justica"
+ ],
+ "tags": [
+  "código do trabalho",
+  "plataformas digitais",
+  "parentalidade",
+  "contratação coletiva",
+  "banco de horas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

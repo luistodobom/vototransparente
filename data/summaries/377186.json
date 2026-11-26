@@ -1,0 +1,42 @@
+{
+ "short_title": "Fim das portagens nas pontes 25 de Abril e Vasco da Gama",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa ao Governo, propõe a eliminação das portagens nas pontes 25 de Abril e Vasco da Gama. Para concretizar este objetivo, a iniciativa recomenda que o executivo assuma a condução do processo enquanto entidade concedente e inicie negociações com a concessionária Lusoponte, tendo em consideração o regime atual e o termo da concessão previsto para 24 de março de 2030. O texto sugere ainda a criação de um modelo de financiamento público, transparente e sustentável, destinado a assegurar a manutenção, conservação, segurança e operação das duas infraestruturas sem cobrança direta aos automobilistas. Por fim, o projeto recomenda o reforço da oferta, capacidade, frequência e fiabilidade dos transportes públicos entre a Margem Sul e Lisboa, de modo a garantir alternativas adequadas ao automóvel.",
+ "key_points": [
+  "Recomenda ao Governo que promova a abolição das portagens nas pontes 25 de Abril e Vasco da Gama.",
+  "Insta o executivo a conduzir o processo de eliminação das portagens e a iniciar negociações com a Lusoponte, considerando o termo da concessão em 24 de março de 2030.",
+  "Propõe a definição de um modelo de financiamento público para garantir a manutenção, conservação, segurança e operação das duas travessias.",
+  "Recomenda o reforço da oferta, capacidade, frequência e fiabilidade dos transportes públicos entre a Margem Sul e Lisboa."
+ ],
+ "plain_language": "O Parlamento não está a aprovar uma lei obrigatória, mas a pedir ao Governo que acabe com as portagens nas duas pontes que ligam Lisboa à Margem Sul. Como a gestão destas pontes está entregue à empresa Lusoponte até março de 2030, o texto pede ao Governo que negoceie com a empresa o fim dos pagamentos dos condutores. Em troca, o Estado teria de pagar diretamente os custos de manter as pontes seguras e em funcionamento. Ao mesmo tempo, pede-se que haja mais e melhores transportes públicos entre as duas margens, para que as pessoas não dependam apenas do carro.",
+ "context": "Os proponentes argumentam que a travessia do Tejo é uma necessidade diária para trabalhadores e estudantes da Margem Sul, gerando um encargo pesado no orçamento familiar. Segundo o texto, em 2026 uma passagem diária de ida custa 594 euros anuais na Ponte 25 de Abril e 897,60 euros na Ponte Vasco da Gama, e os descontos atuais são insuficientes. O documento aponta ainda a falta de fiabilidade e a sobrelotação dos transportes públicos, bem como a proximidade do fim da concessão em 2030 como oportunidade para reformar o sistema.",
+ "analysis": "A iniciativa tem o mérito de ligar o fim das portagens ao reforço dos transportes públicos e de enquadrar a mudança no termo da concessão em 2030, reconhecendo a necessidade de manter a conservação das pontes. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e deixa em aberto questões essenciais de execução. O texto não concretiza que fontes de receita pública substituiriam as portagens para cobrir os cerca de 14 milhões de euros anuais de manutenção nem estima o custo de eventuais compensações contratuais à Lusoponte caso a abolição ocorresse antes de 2030. Adicionalmente, existe uma tensão prática entre tornar o uso do automóvel mais barato e o objetivo declarado de reduzir a dependência do transporte individual, o que poderia agravar o congestionamento rodoviário.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora a iniciativa seja apenas uma recomendação não vinculativa, a sua aplicação exigiria financiamento público para assegurar a manutenção e segurança das pontes, estimada no documento em cerca de 14 milhões de euros anuais. Implicaria também custos orçamentais com o reforço dos transportes públicos e eventuais indemnizações contratuais à Lusoponte caso a abolição ocorresse antes do fim da concessão."
+ },
+ "affected": [
+  "condutores que atravessam o Tejo",
+  "residentes na Margem Sul",
+  "utilizadores de transportes públicos",
+  "concessionária Lusoponte"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "portagens",
+  "ponte 25 de abril",
+  "ponte vasco da gama",
+  "margem sul",
+  "transportes públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

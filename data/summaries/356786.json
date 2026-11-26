@@ -1,0 +1,44 @@
+{
+ "short_title": "Novo estatuto do Conselho Nacional de Procriação Medicamente Assistida",
+ "summary": "O projeto de lei aprova os estatutos do Conselho Nacional de Procriação Medicamente Assistida (CNPMA) e altera a Lei n.º 32/2006, revogando as normas anteriores sobre a composição, mandato e funcionamento do órgão. Define o CNPMA como uma entidade administrativa independente com personalidade jurídica de direito público e autonomia administrativa, a funcionar junto da Assembleia da República. O diploma sistematiza as suas competências de regulação, parecer vinculativo, fiscalização, gestão de registos de dadores e beneficiários e articulação com sistemas europeus de vigilância. Mantém a composição de nove membros, cinco eleitos pelo Parlamento e quatro nomeados pelo Governo, com mandatos de cinco anos, podendo o presidente exercer em tempo inteiro com estatuto remuneratório de direção superior de 1.º grau. Prevê ainda um orçamento anual integrado no da Assembleia da República, receitas próprias como taxas e coimas, um quadro de sete trabalhadores e obrigações de transparência eletrónica.",
+ "key_points": [
+  "Consagra o CNPMA como entidade administrativa independente com personalidade jurídica de direito público, autonomia administrativa e funcionamento junto da Assembleia da República.",
+  "Mantém a composição de nove membros efetivos, cinco eleitos pela Assembleia da República e quatro nomeados pelo Governo, acrescentando dois suplentes e fixando mandatos de cinco anos.",
+  "Permite que o presidente opte pelo regime de tempo inteiro e exclusividade, com remuneração equivalente à de dirigente superior de 1.º grau, recebendo os restantes membros senhas de presença.",
+  "Integra o orçamento da entidade no da Assembleia da República e define receitas próprias provenientes de taxas por pareceres, certidões e palavras-chave, parte de coimas e prestação de serviços.",
+  "Cria um quadro próprio permanente com sete trabalhadores em regime de funções públicas, incluindo dois técnicos superiores de informática e análise de dados.",
+  "Obriga o conselho a manter uma página eletrónica pública com legislação, relatórios, atividade sancionatória, pareceres e atas das reuniões."
+ ],
+ "plain_language": "O Conselho Nacional de Procriação Medicamente Assistida é a entidade que regula e fiscaliza os tratamentos de fertilidade, os bancos de gâmetas e a investigação com embriões em Portugal. Esta proposta dá-lhe regras próprias de organização, financiamento e trabalhadores, que até agora eram consideradas insuficientes. Na prática, o conselho ganha autonomia administrativa, um orçamento ligado ao Parlamento, sete funcionários permanentes e a possibilidade de ter um presidente a trabalhar a tempo inteiro. Também passa a poder cobrar taxas por pareceres e certidões e terá de publicar as suas decisões, relatórios e atas na Internet.",
+ "context": "Na exposição de motivos, o PSD afirma que o CNPMA acumulou responsabilidades relevantes na legislação nacional e europeia ao longo de vinte anos, sem que o seu estatuto jurídico e estrutura organizativa fossem adaptados, gerando constrangimentos ao funcionamento. Recorda ainda que apresentou uma iniciativa semelhante em 2024, aprovada na generalidade mas caducada com o fim da anterior legislatura em junho de 2025, defendendo que a reforma não pode continuar adiada.",
+ "analysis": "Como pontos fortes, o diploma confere enquadramento jurídico claro ao regulador, reforça a sua independência funcional, exige transparência pública através da divulgação de atas e decisões e dota a entidade de técnicos especializados em informática e análise de dados. Contudo, apresenta fragilidades relevantes: não inclui estimativa de impacto orçamental, não define critérios para fixar o valor das taxas previstas e remete o montante das senhas de presença para despacho posterior. Faltam também normas transitórias sobre os mandatos em curso e a instalação dos novos serviços. Além disso, o artigo 10.º do anexo tem um lapso de numeração com dois números 2 e o regime do pessoal fica sujeito a revisão por um futuro grupo de trabalho parlamentar.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O diploma não apresenta quantificação orçamental, mas cria novos encargos no orçamento da Assembleia da República ao instituir um quadro de sete trabalhadores permanentes e a opção de remuneração de direção superior de 1.º grau para o presidente. Em sentido inverso, cria receitas próprias através da cobrança de taxas, parte de coimas e prestação de serviços."
+ },
+ "affected": [
+  "membros e trabalhadores do Conselho Nacional de Procriação Medicamente Assistida",
+  "centros de procriação medicamente assistida",
+  "dadores e beneficiários de técnicas de procriação medicamente assistida",
+  "investigadores na área da embriologia e medicina reprodutiva"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "procriação medicamente assistida",
+  "entidades reguladoras",
+  "estatutos",
+  "assembleia da república",
+  "saúde reprodutiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

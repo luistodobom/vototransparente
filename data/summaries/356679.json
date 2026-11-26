@@ -1,0 +1,38 @@
+{
+ "short_title": "Regulamentação de equipamentos e métodos aversivos de treino canino",
+ "summary": "O Projeto de Resolução n.º 914/XVII/1.ª, apresentado pelo Grupo Parlamentar do Chega, recomenda ao Governo a regulamentação da utilização de equipamentos de treino canino com potencial impacto no bem-estar animal, como coleiras eletrónicas ou outros dispositivos com estímulos aversivos. Por se tratar de um projeto de resolução, as propostas não são vinculativas, funcionando como recomendações dirigidas ao Executivo. Em concreto, a iniciativa sugere duas medidas principais: definir requisitos de competência, formação e experiência para os utilizadores destes equipamentos, restringindo o seu uso a profissionais qualificados; e estabelecer a obrigatoriedade de prescrição e supervisão médico-veterinária para métodos e equipamentos que envolvam estímulos aversivos, exigindo uma avaliação comportamental prévia do animal realizada por um médico veterinário.",
+ "key_points": [
+  "Recomenda ao Governo a definição e regulamentação de requisitos de competência, formação e experiência para utilizadores de equipamentos de treino canino.",
+  "Propõe que a utilização desses equipamentos seja restrita a profissionais devidamente qualificados para prevenir maus-tratos.",
+  "Defende a obrigatoriedade de prescrição e supervisão médico-veterinária na utilização de equipamentos e métodos de treino com estímulos aversivos.",
+  "Exige que a aplicação de estímulos aversivos seja precedida de uma avaliação do comportamento animal realizada por um médico veterinário."
+ ],
+ "plain_language": "Esta proposta não cria diretamente uma lei, pois é apenas uma recomendação do Parlamento ao Governo. O objetivo é pôr regras no uso de coleiras de choque e outros equipamentos de treino de cães que causam desconforto ou dor. Em vez de proibir totalmente estes aparelhos, o documento sugere que só possam ser usados por treinadores profissionais com formação reconhecida. Além disso, para aplicar qualquer método baseado em estímulos desagradáveis, passaria a ser obrigatória uma avaliação prévia e uma prescrição de um médico veterinário, que também teria de supervisionar o processo para proteger o bem-estar do animal.",
+ "context": "O proponente justifica a iniciativa com os riscos das coleiras de choque para o bem-estar dos cães, referindo que estes dispositivos provocam dor, medo e stress persistente. Citando estudos sobre dor e senciência animal, defende que o treino deve privilegiar o reforço positivo, mas argumenta que métodos aversivos podem ser a única alternativa em situações limite. Assim, em vez de proibir estes equipamentos, propõe regulamentá-los sob supervisão veterinária, enquadrando a medida nas normas do Decreto-Lei n.º 276/2001 contra o treino com dor ou brutalidade.",
+ "analysis": "A iniciativa procura equilibrar a proteção do bem-estar animal com a manutenção de ferramentas de treino para casos extremos, propondo controlo técnico e veterinário em vez de proibição total. Contudo, apresenta fragilidades relevantes. Primeiro, sendo um projeto de resolução, não tem força vinculativa nem estabelece prazos para o Governo legislar. Segundo, a exposição de motivos revela uma tensão interna: afirma que não existem argumentos científicos válidos para o uso de coleiras eletrónicas no treino de cães, mas conclui defendendo a sua admissibilidade em situações limite. Terceiro, o texto não delimita com precisão quais os equipamentos abrangidos pelo primeiro ponto — referindo genericamente equipamentos de treino canino — nem esclarece como seria feita a certificação profissional, a fiscalização ou a aplicação às forças militares e policiais mencionadas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação ao Governo sem quantificação financeira, a iniciativa não gera despesa pública imediata. Contudo, uma eventual regulamentação futura poderá implicar custos administrativos com certificação profissional e fiscalização, que não são detalhados no documento."
+ },
+ "affected": [
+  "detentores de cães",
+  "treinadores caninos",
+  "médicos veterinários"
+ ],
+ "categories": [
+  "animais"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "treino canino",
+  "coleiras eletrónicas",
+  "médicos veterinários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

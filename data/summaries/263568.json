@@ -1,0 +1,25 @@
+{
+ "short_title": "Comparticipação da Nutrição Entérica pelo SNS",
+ "summary": "Esta proposta de lei visa criar um regime de comparticipação a 100% para a nutrição entérica (alimentação especial por sonda ou suplementos orais) no Serviço Nacional de Saúde (SNS). Atualmente, esta nutrição, essencial para muitos doentes com malnutrição associada à doença, não é comparticipada, o que impõe custos elevados aos pacientes e suas famílias, levando a dificuldades financeiras e piora do estado de saúde. A proposta também prevê o reforço do número de nutricionistas nos cuidados de saúde primários para garantir o acompanhamento adequado dos doentes.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Serviço Nacional de Saúde pague a 100% a alimentação especial que algumas pessoas doentes precisam, seja por sonda ou em pó, porque é muito cara e as famílias não conseguem pagar. Também quer que haja mais nutricionistas nos centros de saúde para ajudar estas pessoas. É para garantir que ninguém fica sem o que precisa só por falta de dinheiro.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada do problema da malnutrição associada à doença em Portugal, destacando a sua prevalência, as graves consequências para os doentes (aumento de complicações, prolongamento de internamentos, maior mortalidade) e o impacto financeiro no SNS e nas famílias. A proposta alinha-se diretamente com o objetivo de resolver a falta de acesso e a sobrecarga financeira, ao propor a comparticipação total e o reforço dos recursos humanos (nutricionistas). É notável a referência à Norma Organizacional da DGS que já reconhece a necessidade desta nutrição, bem como o facto de Portugal ser um dos poucos países europeus sem comparticipação. A crítica implícita à inação governamental após uma resolução unânime anterior (2018) reforça a urgência e a lógica da presente iniciativa. Não se identificam inconsistências; pelo contrário, a proposta é uma resposta direta e lógica aos problemas identificados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento direto dos gastos do governo, uma vez que prevê a comparticipação a 100% da nutrição entérica. O documento estima que esta despesa seria de cerca de 0,1% do orçamento do SNS. No entanto, argumenta-se que os resultados (melhoria da saúde dos doentes, redução de complicações, diminuição do tempo de internamento hospitalar) superariam em muito a despesa associada, o que sugere uma potencial diminuição de outros custos indiretos para o SNS. O efeito líquido esperado é positivo em termos de saúde pública e eficiência do sistema, embora com um aumento inicial de despesa. Não há menção a impacto na receita do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

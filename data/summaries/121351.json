@@ -1,0 +1,25 @@
+{
+ "short_title": "Fixação de Preço de Referência para Combustíveis e GPL",
+ "summary": "A proposta visa combater o aumento especulativo dos preços dos combustíveis e do GPL, estabelecendo um novo preço de referência baseado no custo real de aquisição do petróleo, em vez de cotações especulativas. Pretende eliminar custos fictícios de transporte e fixar margens máximas de refinação. Adicionalmente, propõe uma contribuição extraordinária sobre os lucros especulativos das grandes petrolíferas, com a receita a ser usada para reduzir o preço final dos combustíveis para os consumidores através de uma diminuição do Imposto Sobre Produtos Petrolíferos (ISP).",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do PCP quer acabar com os preços da gasolina e do gás que sobem sem parar. Eles dizem que as grandes empresas de petróleo estão a lucrar muito à custa dos portugueses, usando um sistema de preços que é uma 'especulação'. A ideia é criar um preço de referência mais justo, baseado no custo real do petróleo, e acabar com taxas inventadas. Além disso, querem que as petrolíferas paguem uma taxa extra sobre os lucros que ganharam de forma 'especulativa', e esse dinheiro seria usado para baixar o preço dos combustíveis para toda a gente.",
+ "context": null,
+ "analysis": "O documento identifica claramente a especulação como a principal causa dos aumentos de preços dos combustíveis, atribuindo-a ao uso de índices privados e à absorção de alívios fiscais pelas petrolíferas. As medidas propostas alinham-se diretamente com estes problemas: a criação de um preço de referência baseado em custos reais e a eliminação de componentes especulativas (como o 'Frete') visam atacar a raiz da formação de preços. A fixação de margens máximas e a contribuição extraordinária sobre lucros especulativos são mecanismos coerentes para garantir que as reduções de custos e os lucros excessivos beneficiem os consumidores, em vez de serem absorvidos pelas empresas. A lógica é consistente, visando uma maior transparência e justiça na cadeia de valor dos combustíveis.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta introduz uma Contribuição Extraordinária sobre os ganhos especulativos das margens de refinação das petrolíferas. A receita obtida com esta contribuição é explicitamente consignada à redução do preço final dos combustíveis para os consumidores, através de uma diminuição correspondente do Imposto Sobre Produtos Petrolíferos (ISP). Isto significa que, embora aumente a receita do governo proveniente da contribuição, diminui a receita do governo proveniente do ISP na mesma proporção. O efeito líquido sobre as finanças públicas é, portanto, neutro, funcionando como um mecanismo de redistribuição de lucros das petrolíferas para os consumidores, mediado pelo sistema fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

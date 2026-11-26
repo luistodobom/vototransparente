@@ -1,0 +1,43 @@
+{
+ "short_title": "Levantamento e reabilitação de bairros públicos devolutos",
+ "summary": "Este Projeto de Resolução recomenda ao Governo medidas para inventariar, transferir e reabilitar património habitacional público sem uso, priorizando bairros do Estado abandonados. A iniciativa propõe cinco ações: atualizar e publicar com urgência o inventário nacional de imóveis públicos devolutos, suspendendo qualquer venda até o levantamento estar concluído; criar um Programa Nacional de Reabilitação de Bairros Públicos Abandonados, abrangendo antigos bairros prisionais, de barragens, industriais e vilas operárias; acelerar a transferência da gestão ou propriedade destes imóveis para os municípios interessados, como no caso de Alcoentre, na Azambuja; criar uma linha de financiamento específica no Orçamento do Estado e nos fundos europeus para habitação acessível e fixação no interior; e promover parcerias com empresas públicas e ex-públicas, sobretudo do setor energético. Por ser uma recomendação, não vincula o Governo.",
+ "key_points": [
+  "Atualizar e publicar integralmente o inventário nacional de imóveis públicos devolutos, suspendendo a sua venda até o levantamento estar concluído.",
+  "Criar um programa nacional para reabilitar bairros públicos abandonados, incluindo antigos bairros prisionais, industriais, de barragens e vilas operárias.",
+  "Acelerar a cedência ou transferência de propriedade destes imóveis para os municípios interessados, eliminando entraves administrativos.",
+  "Criar uma linha de financiamento específica no Orçamento do Estado e nos fundos europeus para habitação acessível e fixação no interior.",
+  "Estabelecer parcerias com empresas públicas e ex-públicas, sobretudo do setor energético, para reabilitar este património e evitar a sua venda especulativa."
+ ],
+ "plain_language": "O Estado e antigas empresas públicas têm centenas de casas e bairros inteiros ao abandono, como antigos bairros prisionais ou vilas de trabalhadores de barragens. Este projeto pede ao Governo que atualize a lista desses imóveis, suspenda a sua venda por agora e os entregue mais depressa às câmaras municipais que os queiram recuperar. Pede também dinheiro específico e parcerias com empresas da energia para reabilitar essas casas e arrendá-las a preços acessíveis, sobretudo no interior. Como é uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "Os proponentes justificam a iniciativa com o contraste entre a crise da habitação e a existência de centenas de imóveis públicos e bairros inteiros abandonados. Referem que, desde 2019, apenas 155 de 717 imóveis devolutos identificados passaram para as autarquias e que a lista oficial não é atualizada desde março de 2022. Destacam os antigos bairros prisionais da Azambuja e os bairros de barragens e complexos industriais do século XX, defendendo que recuperar infraestruturas já existentes combate o despovoamento do interior e evita construir de raiz.",
+ "analysis": "A iniciativa aponta um problema concreto e documentado: a lentidão na transferência de património público devoluto e a desatualização do inventário oficial desde 2022. Aproveitar bairros já dotados de infraestruturas é uma opção racional face à falta de oferta habitacional. Contudo, o texto apresenta fragilidades relevantes. Por ser um projeto de resolução, não vincula o Governo nem fixa prazos ou metas quantitativas. Além disso, não estima os custos de reabilitação de bairros muito degradados nem avalia se existe procura e serviços suficientes no interior que sustentem a fixação de moradores. Por fim, propõe suspender alienações e envolver empresas já privatizadas, como a EDP, sem clarificar o enquadramento jurídico de medidas sobre património que já não pertence ao Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização das recomendações aumentaria a despesa pública, ao propor um programa nacional de reabilitação e uma linha de financiamento específica no Orçamento do Estado, além de suspender a receita eventual com a venda de imóveis. Contudo, o texto não apresenta estimativas financeiras e, tratando-se de uma recomendação não vinculativa, não produz impacto orçamental imediato."
+ },
+ "affected": [
+  "municípios",
+  "famílias à procura de habitação acessível",
+  "população do interior",
+  "empresas públicas e ex-públicas com património habitacional"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "património público devoluto",
+  "reabilitação urbana",
+  "habitação acessível",
+  "autarquias",
+  "interior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

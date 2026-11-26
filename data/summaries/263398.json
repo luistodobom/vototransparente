@@ -1,0 +1,26 @@
+{
+ "short_title": "Fundo de Emergência para a Habitação e Contribuição Extraordinária sobre Imóveis",
+ "summary": "Esta proposta de lei, apresentada pelo partido LIVRE, visa criar um Fundo de Emergência para a Habitação. O objetivo principal é apoiar o direito à habitação em Portugal, combatendo a crise habitacional, a gentrificação e ajudando pessoas em situação de sem-abrigo. A receita para este fundo provirá de uma nova contribuição extraordinária aplicada à transmissão onerosa de imóveis de valor elevado (igual ou superior a 500.000 ou 1.000.000 euros) quando os compradores não são contribuintes nem residentes fiscais em Portugal, com exceção dos emigrantes portugueses. O fundo prestará apoio de emergência, ajudará no pagamento de rendas ou prestações de crédito à habitação e financiará soluções para pessoas sem-abrigo e intervenções no património habitacional.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer criar um \"Fundo de Ajuda para a Casa\" para os portugueses. A ideia é que o dinheiro para este fundo venha de um imposto extra que se vai cobrar a quem compra casas muito caras (tipo, acima de meio milhão ou um milhão de euros) em Portugal, mas que não vive cá nem paga impostos aqui – a não ser que sejam emigrantes portugueses a voltar. Com esse dinheiro, o fundo vai ajudar quem não tem casa, quem está com dificuldades para pagar a renda ou o empréstimo da casa, e também a evitar que os bairros fiquem tão caros que as pessoas de cá tenham de sair. É uma forma de fazer com que quem vem de fora e compra casas a preços altíssimos contribua para resolver o problema da habitação que afeta os portugueses.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a crise habitacional em Portugal, identificando a especulação imobiliária e o investimento estrangeiro como fatores contribuintes para a escalada dos preços. A criação de um Fundo de Emergência para a Habitação, financiado por uma contribuição extraordinária sobre transações imobiliárias de alto valor por não-residentes (excluindo emigrantes), é uma medida coerente com o objetivo de mitigar esses efeitos. A lógica de tributar \"externalidades económicas negativas\" (como o impacto nos preços da habitação) é explicitamente comparada a impostos sobre o tabaco ou emissões, o que demonstra uma linha de pensamento consistente. A exclusão de emigrantes portugueses da contribuição é um detalhe importante que alinha a proposta com a intenção de focar em investimento especulativo, e não em cidadãos que regressam ao país. Os objetivos do fundo (apoio de emergência, rendas/crédito, sem-abrigo, gentrificação) estão diretamente ligados às necessidades identificadas na exposição de motivos, mostrando um alinhamento claro entre o problema e as soluções propostas. Não se detetam inconsistências internas na lógica apresentada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto. Por um lado, aumentará a receita do governo através da criação de uma nova \"contribuição extraordinária\" sobre a transmissão onerosa de imóveis de alto valor a não-residentes e não-contribuintes. Esta contribuição é de 10% para imóveis entre 500.000 e 1.000.000 euros e de 20% para imóveis acima de 1.000.000 euros. Por outro lado, a criação do Fundo de Emergência para a Habitação implicará um aumento dos gastos do governo, uma vez que o fundo será dotado de verbas do Orçamento do Estado (inicialmente em 2024) e terá como objetivo financiar apoios e intervenções na área da habitação. O efeito líquido dependerá do volume de transações imobiliárias sujeitas a esta contribuição e da escala das despesas do fundo, mas a intenção é que a nova receita financie as novas despesas, visando um equilíbrio ou um impacto positivo na receita líquida para o setor da habitação."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

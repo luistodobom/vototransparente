@@ -1,0 +1,43 @@
+{
+ "short_title": "Alterações ao Código de Processo Penal e custas para acelerar megaprocessos",
+ "summary": "A proposta de lei do Governo altera o Código de Processo Penal e o Regulamento das Custas Processuais com o objetivo de tornar a justiça penal mais célere, em especial nos processos de elevada complexidade. Cria o dever de gestão e adequação processual para o juiz titular, permitindo-lhe recusar atos dilatórios, com decisões em regra irrecorríveis salvo violação de direitos, liberdades e garantias. Institui uma multa para atos manifestamente infundados e dilatórios, entre 2 e 100 unidades de conta para sujeitos processuais, e um mecanismo contra demoras abusivas nos recursos. Determina que o pedido de recusa de juiz deixa de suspender o processo e exige que acusações e contestações descrevam os factos por artigos. Alarga ainda o processo abreviado e os efeitos da confissão integral e sem reservas a crimes puníveis com pena superior a cinco anos de prisão, e eleva os limites máximos das taxas de justiça.",
+ "key_points": [
+  "Atribui ao juiz titular o dever de gestão processual ativa, permitindo-lhe recusar requerimentos dilatórios e limitar recursos sobre essas decisões.",
+  "Cria uma multa de 2 a 100 unidades de conta para atos manifestamente infundados e dilatórios, com participação à Ordem dos Advogados em caso de reincidência no mesmo processo.",
+  "Estabelece que o pedido de recusa de juiz deixa de suspender o andamento do processo, podendo o magistrado continuar a praticar atos.",
+  "Alarga o processo especial abreviado e a validade plena da confissão sem reservas a crimes puníveis com pena de prisão superior a cinco anos.",
+  "Obriga à descrição dos factos por artigos nas acusações, requerimentos de instrução e contestações, dispensando a convocação de testemunhas cujas declarações possam ser lidas por acordo.",
+  "Aumenta os limites máximos da taxa de justiça no processo comum e nos recursos para os tribunais superiores."
+ ],
+ "plain_language": "Esta proposta muda as regras dos julgamentos penais para tentar evitar que os casos grandes se arrastem durante anos. Passa a dar mais poderes ao juiz para cortar manobras que sirvam apenas para atrasar o processo e cria multas pesadas para quem o fizer de propósito. Se alguém pedir para afastar um juiz, o processo já não fica parado à espera de decisão. Além disso, crimes mais graves, com penas acima de cinco anos, passam a poder ser julgados num formato mais rápido quando a prova for simples e evidente. Também sobem os valores máximos das custas que podem ser cobrados nos tribunais.",
+ "context": "O Governo justifica a iniciativa com a necessidade de garantir justiça em tempo útil e combater o bloqueio e a lentidão dos chamados megaprocessos. Baseia-se nas propostas do relatório sobre megaprocessos apresentado ao Conselho Superior da Magistratura e em objetivos do Programa do XXV Governo Constitucional. Segundo a exposição de motivos, o baixo provimento dos pedidos de recusa de juiz, a duplicação de notificações e expedientes dilatórios na fase de recurso e de julgamento prejudicam a eficiência do sistema, defendendo-se uma agilização compatível com as garantias constitucionais de defesa.",
+ "analysis": "A proposta apresenta medidas pragmáticas de organização processual, como a articulação obrigatória dos factos, a concertação prévia de agendas e a eliminação de cópias duplicadas. Contudo, o reforço dos poderes de gestão do juiz, a limitação de recursos, a não suspensão do processo perante pedidos de recusa e a extensão do processo abreviado e da confissão a crimes graves aumentam a tensão entre celeridade e garantias de defesa. A aplicação de multas até 100 unidades de conta com participação disciplinar à Ordem dos Advogados pode gerar efeito dissuasor excessivo sobre a defesa. Tecnicamente, o texto evidencia falhas de revisão: duplica o artigo 3.º e omite o artigo 4.º, além de manter uma remissão provisória entre parêntesis retos para outra proposta de lei pendente.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A proposta eleva os limites máximos da taxa de justiça (para 12 UC em processo comum e na Relação, e 20 UC no Supremo Tribunal de Justiça) e cria multas por atos dilatórios entre 1 e 100 UC. Também reduz encargos ao eliminar o envio duplicado de cópias da acusação, mas o documento não apresenta estimativa orçamental do impacto global."
+ },
+ "affected": [
+  "arguidos",
+  "advogados e defensores",
+  "magistrados judiciais e do Ministério Público",
+  "assistentes e testemunhas"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "processo penal",
+  "megaprocessos",
+  "custas processuais",
+  "celeridade judicial",
+  "processo abreviado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

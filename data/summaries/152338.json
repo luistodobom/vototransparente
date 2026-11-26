@@ -1,0 +1,24 @@
+{
+ "short_title": "Isenção de IVA para pequenas remessas não comerciais",
+ "summary": "A proposta de lei visa clarificar a aplicação da isenção de IVA na importação de pequenas remessas sem caráter comercial, como presentes ou bens de uso pessoal, com valor até 45 euros. Desde julho de 2021, os CTT têm cobrado IVA sobre estas remessas extracomunitárias, uma prática que a Provedora de Justiça considerou insustentável. O projeto de lei altera o Decreto-Lei n.º 31/89 para garantir explicitamente que estas remessas, enviadas entre particulares de países terceiros para uso pessoal ou familiar, continuem isentas de IVA.",
+ "key_points": [],
+ "plain_language": "Imagina que alguém te envia um presente de aniversário de fora da Europa, tipo um livro ou uma camisola, que custa menos de 45 euros. Desde 2021, os CTT começaram a cobrar-te IVA para desalfandegar isso, mesmo sendo um presente. A Provedora de Justiça disse que isto não fazia sentido. Então, o PAN propôs esta lei para deixar bem claro que esses presentes e coisinhas pessoais, que não são para vender e valem até 45 euros, não devem pagar IVA. É para acabar com a chatice de ter de pagar imposto por um miminho que te mandam.",
+ "context": null,
+ "analysis": "O documento identifica uma inconsistência legal: enquanto a Lei n.º 47/2020 revogou a isenção para importações de baixo valor (até 22€), o Decreto-Lei n.º 398/86, que regula isenções para pequenas remessas não comerciais, permaneceu intocado. Esta ambiguidade levou os CTT a cobrar IVA sobre remessas até 45€, mesmo as de caráter pessoal. A proposta resolve diretamente esta inconsistência ao alterar o Decreto-Lei n.º 31/89, reintroduzindo e clarificando a isenção para remessas não comerciais até 45€, enviadas entre particulares. A implementação alinha-se perfeitamente com o objetivo de proteger os cidadãos de interpretações abusivas e garantir a isenção fiscal para este tipo de envios.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição da receita do governo. Antes da interpretação dos CTT, estas remessas eram geralmente isentas. Com a cobrança de IVA iniciada pelos CTT, o governo passou a arrecadar receita sobre estas transações. Ao reestabelecer a isenção, o governo deixará de cobrar este IVA, o que representa uma perda de receita. Não há indicação de aumento ou diminuição de despesas governamentais. O efeito líquido será uma diminuição da receita fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

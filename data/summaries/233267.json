@@ -1,0 +1,26 @@
+{
+ "short_title": "Proposta de Justiça Fiscal e Alívio de Impostos",
+ "summary": "Esta proposta do PCP visa reformar o sistema fiscal português para torná-lo mais justo. O objetivo principal é reduzir os impostos sobre os rendimentos do trabalho e o consumo de bens essenciais para a maioria da população, ao mesmo tempo que aumenta a tributação sobre grandes fortunas, lucros de grandes grupos económicos e rendimentos de capital. A proposta inclui medidas como o aumento das deduções no IRS, a redução do IVA em bens essenciais como energia e telecomunicações, o fim de regimes fiscais privilegiados (como o dos residentes não-habituais), o englobamento obrigatório de rendimentos de capital mais elevados, e a criação de novas taxas sobre transações financeiras para paraísos fiscais e lucros do setor financeiro.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PCP quer mudar as regras dos impostos para que a malta que trabalha e as famílias paguem menos, especialmente nas coisas essenciais como a luz e o gás. Ao mesmo tempo, querem que os ricos e as grandes empresas paguem mais impostos sobre os seus lucros e fortunas, acabando com uns esquemas que lhes dão vantagens fiscais. A ideia é que o dinheiro dos impostos seja distribuído de forma mais justa e ajude a melhorar a vida de toda a gente, em vez de só beneficiar alguns.",
+ "context": null,
+ "analysis": "A proposta do PCP é internamente consistente com o seu objetivo declarado de promover a justiça fiscal e a redistribuição da riqueza. O documento argumenta que as políticas fiscais anteriores agravaram a carga sobre trabalhadores e bens essenciais, enquanto beneficiaram o grande capital. As medidas propostas alinham-se diretamente com a correção destas tendências: a redução do IRS e do IVA para a maioria visa aliviar a pressão sobre os rendimentos e o consumo das famílias, enquanto o aumento da tributação sobre grandes fortunas, lucros empresariais e rendimentos de capital (através do fim de isenções, englobamento obrigatório e novas contribuições) procura reverter o que o PCP considera um regime de privilégio fiscal. A proposta também aborda a questão da habitação ao propor o fim do regime de residentes não-habituais, que é apontado como um fator de aumento dos preços. A lógica subjacente é clara: usar a política fiscal como ferramenta redistributiva para melhorar as condições de vida da maioria e financiar serviços públicos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto misto na receita e despesa do governo, mas o efeito líquido previsto é de um aumento da receita governamental, ou pelo menos uma redistribuição significativa da carga fiscal. Por um lado, a redução do IRS para a maioria dos trabalhadores e a diminuição do IVA em bens essenciais (energia, gás, telecomunicações) implicarão uma diminuição da receita fiscal. Por outro lado, o aumento da tributação sobre grandes fortunas, lucros de grandes grupos económicos, rendimentos de capital (através do englobamento obrigatório, fim de isenções fiscais, taxa adicional de solidariedade, taxa sobre transações financeiras para paraísos fiscais e contribuição adicional sobre o setor financeiro) visa gerar receitas significativas. O documento sugere que os lucros do setor financeiro e as grandes fortunas têm margens elevadas e beneficiam de privilégios, o que implica que a sua tributação pode compensar e até superar as perdas de receita decorrentes do alívio fiscal para a maioria. O objetivo é garantir que o Estado tenha meios para financiar serviços públicos, o que sugere que a proposta visa aumentar a capacidade de investimento público através de uma maior arrecadação de impostos dos setores mais ricos."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

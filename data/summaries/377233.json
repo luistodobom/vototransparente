@@ -1,0 +1,41 @@
+{
+ "short_title": "Isenção permanente de imposto do selo ao transferir ou renegociar crédito",
+ "summary": "O Projeto de Lei n.º 765/XVII/2.ª, da Iniciativa Liberal, altera o Código do Imposto do Selo para tornar permanente a isenção deste imposto na renegociação e transferência de crédito à habitação. Concretamente, modifica o artigo 7.º daquele código para isentar os contratos de empréstimo (mútuos) e respetivas garantias, até ao montante do capital em dívida, quando ocorra mudança de banco, sub-rogação nos direitos do credor hipotecário (transferência dos direitos da hipoteca para novo credor), alteração do prazo com diferencial de taxa de imposto, prorrogação do prazo ou novo contrato para refinanciamento da dívida. A iniciativa põe fim ao modelo de renovações anuais, que terminou em dezembro de 2025, e entra em vigor com o Orçamento do Estado seguinte à sua publicação.",
+ "key_points": [
+  "Altera a alínea j) do n.º 1 do artigo 7.º do Código do Imposto do Selo, tornando a isenção definitiva em vez de dependente de prorrogações anuais.",
+  "Isenta de imposto do selo os empréstimos de crédito à habitação e respetivas garantias até ao limite do capital em dívida na data da operação.",
+  "Abrange a transferência do empréstimo para outro banco e a transferência das garantias do credor hipotecário.",
+  "Inclui a prorrogação do prazo, a alteração de prazo que gerasse imposto a pagar e a celebração de novo contrato para refinanciamento da dívida.",
+  "Determina que a lei só entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Quando alguém tem um empréstimo da casa e quer mudar de banco ou alterar o prazo para conseguir melhores condições, paga imposto do selo desde janeiro de 2026. Antes, havia uma isenção temporária que caducou no fim de 2025. Esta proposta quer tornar essa isenção permanente, desde que não se peça mais dinheiro do que o já devido. O objetivo é evitar pagar imposto duas vezes pela mesma dívida e facilitar a mudança de banco, entrando em vigor no próximo Orçamento do Estado.",
+ "context": "Segundo a Iniciativa Liberal, a isenção criada em 2023 foi sendo renovada até 31 de dezembro de 2025, mas o Governo deixou-a caducar por omissão no Orçamento do Estado para 2026. O partido argumenta que isso equivale a um agravamento fiscal sem debate público e que o Estado não deve tributar novamente a mesma dívida e imóvel quando as famílias procuram melhores condições. Aponta ainda que as prorrogações anuais criam incerteza para famílias e bancos, prejudicando a concorrência.",
+ "analysis": "Como ponto positivo, a iniciativa elimina a incerteza associada às renovações orçamentais anuais e reduz os custos de mudança entre bancos, podendo estimular a concorrência e evitar nova tributação sobre capital já tributado. Contudo, o projeto apresenta fragilidades: não quantifica o impacto financeiro da perda permanente de receita fiscal para o Estado. Além disso, embora critique o regresso do imposto desde janeiro de 2026, o artigo sobre a entrada em vigor remete a aplicação apenas para o Orçamento do Estado subsequente, sem prever efeitos retroativos para quem renegociou em 2026. O texto também não apresenta um quadro comparativo com a redação atual da alínea j) do artigo 7.º, dificultando a leitura imediata das alterações específicas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A reposição permanente da isenção reduz a receita fiscal do Estado proveniente do imposto do selo sobre renegociações e transferências de crédito à habitação, que voltou a ser cobrado desde janeiro de 2026. O documento não apresenta estimativas do montante de receita perdido."
+ },
+ "affected": [
+  "titulares de crédito à habitação",
+  "instituições de crédito e bancos"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "imposto do selo",
+  "renegociação",
+  "transferência de crédito",
+  "isenção fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

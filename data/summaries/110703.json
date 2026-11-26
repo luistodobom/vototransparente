@@ -1,0 +1,26 @@
+{
+ "short_title": "Reutilização de Informação do Setor Público e Dados Abertos",
+ "summary": "Esta proposta de lei visa atualizar a legislação portuguesa sobre dados abertos e a reutilização de informações do setor público, transpondo diretivas da União Europeia. O objetivo principal é aumentar a transparência, impulsionar o crescimento económico (especialmente para startups e PME) e permitir uma tomada de decisão mais informada, tornando os dados públicos mais acessíveis e reutilizáveis. O diploma detalha os tipos de dados a disponibilizar, as condições para a sua reutilização (incluindo a aplicação de taxas e exceções) e o papel central do portal dados.gov.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o governo partilhe mais dados e informações que tem, de forma aberta e fácil de usar. A ideia é que, ao tornar estes dados acessíveis, as empresas (principalmente as mais pequenas), os investigadores e até os cidadãos possam usá-los para criar coisas novas, melhorar serviços e tomar decisões mais inteligentes. É como abrir os \"cofres\" de informação do Estado para benefício de todos, com algumas regras para proteger dados sensíveis e garantir que o sistema funciona bem.",
+ "context": null,
+ "analysis": "A proposta demonstra uma consistência clara entre os seus objetivos de transparência e desenvolvimento económico e os mecanismos de implementação propostos. Ao definir \"dados abertos\", \"dados dinâmicos\" e \"conjuntos de dados de elevado valor\", e ao estabelecer a sua disponibilização proativa (via APIs e portal dados.gov), a lei alinha-se com a meta de potenciar o valor da informação pública. As restrições ao acesso (dados pessoais, segurança nacional, segredos comerciais) são explicitamente previstas, equilibrando a abertura com a proteção de interesses legítimos. A criação de um regime de taxas que cobre custos marginais, mas que prevê a gratuitidade para fins educativos/investigação e dados de elevado valor, reflete um esforço para não onerar desnecessariamente a reutilização. A monitorização pela CADA reforça a supervisão da aplicação da lei, garantindo que os detalhes da implementação se alinham com o objetivo de maximizar o potencial da informação do setor público.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A implementação desta proposta implicará um aumento inicial nos gastos do governo, principalmente relacionados com o desenvolvimento e manutenção de infraestruturas tecnológicas (como o portal dados.gov e APIs), processos de anonimização de dados e os custos operacionais de entidades de monitorização como a CADA. Embora a reutilização de dados seja \"tendencialmente gratuita\", a lei permite a cobrança de taxas para cobrir custos marginais e um \"retorno razoável do investimento\" para certas entidades (como bibliotecas ou organismos do setor público com missões de geração de receita). Estas taxas poderão gerar alguma receita, mas o impacto fiscal mais significativo é esperado ser indireto, através da estimulação da atividade económica, inovação e criação de novos serviços por empresas e investigadores, o que, a longo prazo, deverá aumentar as receitas fiscais do governo. O efeito líquido direto no orçamento governamental será provavelmente um aumento de despesa inicial, com benefícios económicos indiretos a longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ambiente",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

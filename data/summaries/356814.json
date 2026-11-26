@@ -1,0 +1,43 @@
+{
+ "short_title": "Promoção da igualdade e combate à discriminação racial nos serviços públicos",
+ "summary": "O Projeto de Lei estabelece um conjunto de obrigações para vários ministérios com o objetivo de combater a discriminação etnorracial no acesso aos serviços públicos e ao emprego. Na saúde e na educação, responsabiliza o Governo pela garantia de acesso universal sem discriminação, pela recolha de dados sobre atendimento e segregação escolar, e pela formação de profissionais. Como medida concreta no ensino superior, cria, a partir do ano letivo de 2027/2028, um contingente especial para alunos oriundos de escolas dos Territórios Educativos de Intervenção Prioritária (TEIP), através do acréscimo de 5% de vagas adicionais em cada par curso/instituição. Prevê ainda planos plurianuais contra a discriminação no emprego, preparação para concursos públicos, formação nas áreas da justiça e segurança e o reforço dos meios da Comissão para a Igualdade e Contra a Discriminação Racial.",
+ "key_points": [
+  "Cria um contingente especial para alunos de escolas TEIP no concurso nacional de acesso ao ensino superior a partir de 2027/2028, acrescentando 5% de vagas por curso e instituição.",
+  "Atribui ao Ministério da Saúde o dever de garantir acesso universal ao SNS sem discriminação, produzir informação sobre a qualidade do atendimento e formar profissionais de saúde.",
+  "Determina que o Ministério da Educação monitorize a segregação escolar, garanta o acesso universal à creche, básico e secundário e promova a formação de profissionais da escola pública.",
+  "Prevê planos plurianuais de combate à discriminação no emprego e ações de preparação para concursos da Administração Pública dirigidas a populações-alvo.",
+  "Obriga os ministérios da Justiça e da Administração Interna a formar profissionais contra o racismo e incumbe o Parlamento de dotar a Comissão para a Igualdade e Contra a Discriminação Racial dos meios necessários."
+ ],
+ "plain_language": "Esta proposta de lei procura reduzir as desigualdades raciais e étnicas no dia a dia, obrigando o Estado a agir em várias áreas, como hospitais, escolas, tribunais, forças de segurança e emprego. Inclui ações de formação para funcionários públicos sobre diversidade e prevê mais meios para a comissão que apoia vítimas de racismo. A mudança mais concreta acontece no acesso às universidades: a partir de 2027/2028, alunos vindos de escolas situadas em zonas mais desfavorecidas passam a contar com mais 5% de vagas extra em cada curso, sem retirar lugares aos restantes candidatos.",
+ "context": "O proponente justifica a iniciativa com a persistência de desigualdades no emprego, na habitação e no acesso a serviços públicos que afetam pessoas racializadas em Portugal. Cita dados do inquérito do INE de 2023, segundo o qual mais de 1,2 milhões de residentes afirmaram ter sido discriminados e 2,7 milhões testemunharam discriminação. Argumenta que as políticas públicas atuais são frágeis e que a criação do contingente especial para escolas TEIP, já prevista no plano nacional contra o racismo, tarda em ser concretizada.",
+ "analysis": "A iniciativa tem o mérito de abordar a discriminação de forma transversal, combinando prevenção, recolha de dados e uma medida concreta de ação positiva no ensino superior baseada num critério territorial objetivo (escolas TEIP), que acrescenta vagas sem reduzir as existentes. Contudo, a maioria das normas relativas à saúde, educação, emprego, justiça e segurança assume um caráter marcadamente programático e genérico, atribuindo deveres aos ministérios sem definir metas, prazos de execução ou mecanismos de fiscalização. Nota-se ainda uma gralha de redação na alínea b) do artigo 3.º e a falta de critérios claros sobre como identificar as populações-alvo para a formação de acesso ao emprego público, ficando a aplicação prática dependente de regulamentação e de orçamento futuros.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de 5% de vagas adicionais no ensino superior, as ações de formação em vários ministérios, a monitorização de dados e o reforço de meios da Comissão para a Igualdade e Contra a Discriminação Racial implicam encargos financeiros para o Estado. O diploma não quantifica montantes e determina que os efeitos só se produzem com o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "pessoas racializadas e minorias étnicas",
+  "alunos de escolas TEIP",
+  "profissionais da saúde, educação, justiça e segurança",
+  "vítimas de discriminação racial"
+ ],
+ "categories": [
+  "direitos",
+  "educacao",
+  "saude"
+ ],
+ "tags": [
+  "discriminação racial",
+  "ensino superior",
+  "escolas teip",
+  "igualdade",
+  "serviços públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

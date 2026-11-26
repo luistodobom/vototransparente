@@ -1,0 +1,44 @@
+{
+ "short_title": "Redução fiscal nos combustíveis e controlo de margens no gás engarrafado",
+ "summary": "O Projeto de Resolução n.º 1222/XVII/1.ª, do JPP, recomenda ao Governo dez medidas temporárias para reduzir o preço dos combustíveis e do gás engarrafado, não tendo caráter vinculativo. A iniciativa sugere baixar de imediato o Imposto sobre os Produtos Petrolíferos (ISP) e outros impostos sobre a gasolina e o gasóleo para o mínimo legalmente admissível, recorrendo a exceções europeias caso seja necessário descer abaixo dos mínimos da União Europeia. Propõe ainda criar um mecanismo automático que reforce o corte fiscal quando a subida homóloga dos preços ultrapassar um limiar como os 15%, e devolver integralmente aos consumidores a receita extraordinária de IVA. Paralelamente, pede à Entidade Reguladora dos Serviços Energéticos (ERSE) maior fiscalização das margens, admitindo a fixação temporária de margens máximas nos combustíveis simples e preços máximos nas garrafas de gás doméstico. Inclui também apoios para famílias vulneráveis, setores essenciais e articulação com os Açores e a Madeira.",
+ "key_points": [
+  "Reduzir de imediato o ISP sobre a gasolina sem chumbo e o gasóleo rodoviário ao mínimo legal, acionando exceções europeias para descer abaixo dos mínimos comunitários se necessário.",
+  "Criar um mecanismo automático que reforce o corte no ISP sempre que a variação homóloga dos preços ultrapasse um limiar predefinido, tomando como referência os 15% aplicados em Espanha.",
+  "Devolver integralmente aos consumidores a receita extraordinária de IVA gerada pela subida dos combustíveis, sem que isso limite reduções fiscais adicionais.",
+  "Reforçar a monitorização pela ERSE dos custos e margens na distribuição e acionar limites temporários às margens nos combustíveis simples e preços máximos no GPL engarrafado doméstico.",
+  "Manter apoios às famílias vulneráveis na compra de GPL, criar ajudas direcionadas a transportes, agricultura e pescas, e articular medidas fiscais próprias com os Açores e a Madeira."
+ ],
+ "plain_language": "Este documento é uma recomendação do JPP para que o Governo baixe temporariamente os impostos sobre a gasolina e o gasóleo enquanto os preços estiverem muito altos. Como é um projeto de resolução, não obriga o Governo a agir. O partido sugere copiar medidas aplicadas em Espanha: baixar automaticamente o imposto se os preços subirem mais de 15% num ano, devolver o IVA extra cobrado e vigiar as empresas para que o desconto chegue ao consumidor. Propõe ainda limitar o preço das garrafas de gás doméstico e dar apoios a famílias vulneráveis, camionistas, agricultores e pescadores.",
+ "context": "O JPP justifica a iniciativa com a subida dos preços da energia provocada por conflitos militares no Médio Oriente, que aumenta os custos dos transportes e dos bens essenciais. O proponente considera insuficientes as medidas atuais do Governo e destaca a diferença face a Espanha: em agosto de 2026, a gasolina custava em média mais 28 cêntimos por litro em Portugal e o gás engarrafado era quase o dobro do valor regulado espanhol. Defende, por isso, usar plenamente a margem legal nacional e europeia para proteger famílias e empresas.",
+ "analysis": "A proposta articula descidas fiscais com vigilância regulatória das margens comerciais, procurando garantir que o alívio nos impostos chegue aos consumidores e não seja absorvido pelos operadores. É também relevante a atenção dada ao gás engarrafado, às regiões insulares e aos setores expostos aos transportes. Contudo, a iniciativa apresenta fragilidades: tratando-se de um projeto de resolução, é uma mera recomendação sem efeito vinculativo. O documento omite qualquer estimativa do impacto orçamental da perda de receita fiscal e do custo dos apoios setoriais. Adicionalmente, a redução generalizada de impostos sobre combustíveis fósseis subsidia o consumo sem distinguir rendimentos, e a imposição administrativa de preços máximos no GPL comporta riscos de distorção da concorrência ou retração da oferta.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "As medidas recomendadas implicam simultaneamente uma redução da receita fiscal (descida das taxas de ISP e devolução integral do IVA extraordinário) e um aumento da despesa pública (reforço de apoios sociais no GPL e ajudas aos setores dos transportes, agricultura e pescas). O documento não apresenta estimativas financeiras e, por ser um projeto de resolução, não tem aplicação vinculativa."
+ },
+ "affected": [
+  "automobilistas",
+  "famílias consumidoras de gás engarrafado",
+  "empresas de transporte, agricultura e pescas",
+  "distribuidores de combustíveis",
+  "residentes nos Açores e na Madeira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "combustíveis",
+  "isp",
+  "gás engarrafado",
+  "controlo de margens",
+  "carga fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

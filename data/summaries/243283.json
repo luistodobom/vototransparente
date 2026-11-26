@@ -1,0 +1,26 @@
+{
+ "short_title": "Revisão do ISP para compensar variações de IVA nos combustíveis",
+ "summary": "A proposta do PSD recomenda que o Governo implemente um mecanismo automático e regular para ajustar o Imposto sobre os Produtos Petrolíferos e Energéticos (ISP). O objetivo é que este imposto compense as variações na receita do IVA que surgem devido às flutuações semanais do preço dos combustíveis. Isto visa evitar que o Estado beneficie de aumentos de preços à custa dos cidadãos.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD quer que o Governo mude a forma como cobra o imposto sobre a gasolina e o gasóleo. A ideia é que, se o preço dos combustíveis subir muito, o imposto (ISP) baixe automaticamente para compensar o IVA extra que o Estado ganha. Assim, o Governo não fica a lucrar com a subida dos preços e os portugueses não pagam impostos a mais.",
+ "context": null,
+ "analysis": "O documento critica a inação do Governo em relação aos aumentos dos preços dos combustíveis e a sua falha em implementar recomendações anteriores para ajustar o ISP. A proposta do PSD visa corrigir esta inconsistência ao propor um mecanismo de ajuste automático e regular do ISP, que repercuta as variações da receita de IVA. Isto alinha-se com o objetivo de garantir a neutralidade fiscal e evitar que o Estado obtenha ganhos inesperados com a subida dos preços dos combustíveis. A crítica subjacente é que as medidas governamentais anteriores foram insuficientes ou não foram aplicadas de forma consistente, levando a um aumento da carga fiscal sobre os consumidores. A proposta atual procura uma solução mais transparente e vinculativa.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa a \"neutralidade fiscal\", o que significa que o objetivo é evitar que o aumento dos preços dos combustíveis resulte num aumento da receita do Estado através do IVA. Ao ajustar o ISP para compensar este aumento de IVA, a proposta tenderia a diminuir a receita do governo proveniente do ISP. O efeito líquido seria, idealmente, a manutenção da carga fiscal total sobre os combustíveis para o consumidor, o que implica que o governo não aumentaria a sua receita total com a subida dos preços. Na prática, isto pode significar uma diminuição da receita global do governo em comparação com um cenário sem este mecanismo de compensação, uma vez que o Estado estaria a abdicar de ganhos adicionais de IVA."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "transportes",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

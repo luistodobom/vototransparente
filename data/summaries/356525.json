@@ -1,0 +1,41 @@
+{
+ "short_title": "Regulação e controlo dos preços dos combustíveis",
+ "summary": "O Projeto de Resolução n.º 816/XVII/1.ª, apresentado pelo Bloco de Esquerda, recomenda ao Governo a criação de um mecanismo de regulação dos preços dos combustíveis. Trata-se de uma recomendação não vinculativa. Em concreto, a iniciativa propõe que esse mecanismo combine três dimensões: a fixação de preços máximos, a definição de limites às margens de lucro no setor e medidas de tributação. Na exposição de motivos, o proponente sustenta esta recomendação na volatilidade dos mercados energéticos associada à operação militar dos EUA e de Israel contra o Irão e na compatibilidade da intervenção pública com o direito da União Europeia, desde que aplicada de forma temporária, proporcional e não discriminatória, citando exemplos de outros Estados-Membros.",
+ "key_points": [
+  "Recomenda ao Governo a criação de um mecanismo de regulação dos preços dos combustíveis, sem força vinculativa.",
+  "Propõe a fixação de preços máximos para proteger consumidores e empresas da volatilidade dos mercados energéticos.",
+  "Defende o estabelecimento de limites às margens de lucro no setor dos combustíveis.",
+  "Inclui a componente da tributação no mecanismo de regulação, enquadrada em medidas temporárias, proporcionais e não discriminatórias admitidas pela União Europeia."
+ ],
+ "plain_language": "Este projeto é um pedido do Bloco de Esquerda para que o Governo passe a controlar os preços dos combustíveis. Como é um projeto de resolução, não obriga o Governo a avançar, servindo apenas como recomendação. A proposta junta três ferramentas: fixar um teto máximo para o preço dos combustíveis, limitar a margem de lucro das empresas e mexer nos impostos. O partido defende que esta intervenção é necessária devido à forte instabilidade dos preços provocada pela operação militar contra o Irão e afirma que as regras da União Europeia permitem medidas temporárias em crise.",
+ "context": "O proponente justifica a iniciativa com a forte volatilidade dos mercados energéticos desencadeada pela operação militar dos EUA e de Israel contra o Irão, que expôs a vulnerabilidade dos consumidores e das economias à variação dos preços dos combustíveis. Sublinha que a Comissão e o Conselho da União Europeia admitem intervenções públicas temporárias, proporcionais e não discriminatórias em crises energéticas. Cita ainda a experiência de vários Estados-Membros, como Croácia, Hungria, Espanha, França ou Eslovénia, que aplicaram preços máximos, controlo de margens, reduções fiscais ou gestão da procura para mitigar choques.",
+ "analysis": "Como ponto positivo, a iniciativa fundamenta a legitimidade da intervenção pública no direito da União Europeia e em exemplos comparados de vários Estados-Membros, procurando combinar preços máximos, limites de margens e política fiscal. Contudo, a recomendação é muito genérica e não define critérios operacionais essenciais: não indica valores ou fórmulas de cálculo para os preços máximos e margens, não fixa um prazo de vigência, apesar de invocar o requisito europeu da temporalidade, nem esclarece se a tributação prevista visa reduzir impostos ao consumo ou taxar lucros extraordinários, hipóteses distintas referidas na exposição de motivos. Acresce o risco de distorções no abastecimento, referido no próprio exemplo da Eslovénia, sem previsão de salvaguardas, bem como a natureza não vinculativa do diploma.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um projeto de resolução, não tem impacto orçamental direto nem vinculativo. Mesmo que venha a ser implementado pelo Governo, o efeito nas contas públicas é incerto, uma vez que o texto não concretiza se a componente de tributação passa por reduções fiscais ou devoluções de receita (que reduzem a receita) ou pela tributação de lucros extraordinários (que pode aumentá-la)."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "empresas do setor energético e distribuidores de combustíveis",
+  "empresas em geral"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "preços máximos",
+  "margens de lucro",
+  "regulação de preços",
+  "energia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

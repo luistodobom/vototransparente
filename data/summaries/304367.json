@@ -1,0 +1,24 @@
+{
+ "short_title": "Restrição do Acesso ao SNS para Estrangeiros Não Residentes",
+ "summary": "Esta proposta de lei visa regular o acesso de cidadãos estrangeiros não residentes ao Serviço Nacional de Saúde (SNS) em Portugal. O objetivo é combater o fenómeno do \"turismo de saúde\", onde estrangeiros utilizam os serviços de saúde públicos gratuitamente, o que, segundo o documento, sobrecarrega o sistema e compromete a qualidade dos cuidados para os residentes. A proposta pretende que os não residentes paguem pelos serviços usufruídos, salvaguardando apenas o acesso a situações de emergência médica por razões humanitárias, alinhando-se com práticas de outros países europeus.",
+ "key_points": [],
+ "plain_language": "Então, a ideia desta proposta é apertar as regras para quem pode usar o nosso Serviço Nacional de Saúde (SNS) de borla. Basicamente, querem acabar com o que chamam de \"turismo de saúde\", que é quando estrangeiros que não vivem cá vêm só para usar os hospitais e centros de saúde sem pagar nada. Dizem que isto está a esgotar os recursos do SNS e a prejudicar os portugueses. A proposta é que, a partir de agora, esses estrangeiros paguem pelos tratamentos, a não ser que seja uma emergência grave. É para o SNS não ir à falência e para ser mais justo para quem cá vive e contribui.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise clara do problema do \"turismo de saúde\" e os seus alegados impactos negativos na sustentabilidade e capacidade do SNS, citando reportagens e dados da IGAS para fundamentar a sua argumentação. A proposta de limitar o acesso gratuito a não residentes, exigindo pagamento pelos serviços (exceto em emergências), é uma solução direta e consistente com o problema identificado. Os detalhes da implementação, que alteram a Lei de Bases da Saúde e o Estatuto do SNS, alinham-se perfeitamente com o objetivo de redefinir quem são os beneficiários do sistema e em que condições. Não se detetam inconsistências entre a justificação e as medidas propostas, que visam explicitamente proteger os recursos do SNS para os contribuintes e residentes.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo principal diminuir os gastos do governo com a prestação de cuidados de saúde a cidadãos estrangeiros não residentes, ao exigir o pagamento pelos serviços. Consequentemente, prevê-se um aumento da receita do governo proveniente desses pagamentos. O efeito líquido esperado é uma melhoria na sustentabilidade financeira do Serviço Nacional de Saúde, resultando numa diminuição da despesa pública e um aumento da receita, contribuindo para a saúde orçamental do Estado."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

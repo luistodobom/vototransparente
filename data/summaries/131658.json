@@ -1,0 +1,25 @@
+{
+ "short_title": "Regularização de Dívidas do SNS a Fornecedores",
+ "summary": "Esta proposta aborda o problema recorrente dos atrasos nos pagamentos do Serviço Nacional de Saúde (SNS) aos seus fornecedores. O documento destaca que o Governo tem protelado unilateralmente os prazos de pagamento, causando graves dificuldades financeiras a muitas empresas, incluindo PME, que dependem desses pagamentos para cumprir os seus próprios compromissos. Estes atrasos resultam na falta de liquidez para os fornecedores e, consequentemente, na escassez de materiais e medicamentos essenciais nos serviços de saúde, afetando diretamente os utentes. A Iniciativa Liberal propõe que o Governo elabore um plano para regularizar todos os pagamentos em atraso ainda em 2022, se comprometa a liquidar pagamentos nas datas acordadas, estabeleça planos de pagamento por mútuo acordo em caso de impossibilidade e pague juros de mora em caso de incumprimento.",
+ "key_points": [],
+ "plain_language": "Basicamente, o Serviço Nacional de Saúde (SNS) está a dever uma \"massa\" de dinheiro aos seus fornecedores, como as empresas que vendem medicamentos e material médico, e demora uma eternidade a pagar. Isto está a deixar essas empresas em apuros, sem dinheiro para pagar as suas contas, e, por arrasto, está a faltar material básico nos hospitais e centros de saúde, o que acaba por prejudicar os doentes. A Iniciativa Liberal está a dizer que o Governo tem de meter a mão na consciência, criar um plano para pagar tudo o que deve ainda este ano e, a partir de agora, pagar a tempo e horas. Se não pagar, que pague juros, tal como qualquer um de nós teria de fazer.",
+ "context": null,
+ "analysis": "O documento aponta uma inconsistência clara na postura do Governo. Embora o Programa de Estabilidade 2022-2026 reconheça o impacto do aumento dos custos (devido à pandemia e à guerra na Ucrânia) nas empresas, o Programa do Governo ignora completamente o problema das dívidas do SNS aos fornecedores e não apresenta medidas para o resolver. Esta omissão é criticada como uma \"total opacidade\" e uma \"posição contraditória\". A proposta da Iniciativa Liberal, por outro lado, alinha-se diretamente com o objetivo de resolver o problema, ao recomendar medidas concretas: um plano de regularização de pagamentos, o compromisso de pagar atempadamente, a negociação de planos de pagamento em caso de impossibilidade e a aplicação de juros de mora. Estas recomendações visam não só resolver a dívida existente, mas também prevenir futuros atrasos, garantindo a estabilidade financeira dos fornecedores e a continuidade do abastecimento ao SNS.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A implementação desta proposta implicaria um aumento imediato dos gastos do governo, uma vez que exigiria o pagamento de todas as dívidas em atraso do SNS aos seus fornecedores, incluindo a possibilidade de juros de mora. Não há um impacto direto na receita do governo. O efeito líquido seria um aumento da despesa pública no curto prazo. No entanto, a longo prazo, a regularização dos pagamentos poderia estabilizar a cadeia de fornecimento do SNS, evitar interrupções nos serviços de saúde e reduzir os custos indiretos associados à instabilidade financeira dos fornecedores e à escassez de materiais."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

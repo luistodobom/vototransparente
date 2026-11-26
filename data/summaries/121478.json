@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração à Lei de Conservação de Dados de Comunicações",
+ "summary": "Esta proposta visa alterar a Lei n.º 32/2008, que regula a conservação de dados por operadoras de comunicações. A lei original foi considerada inconstitucional pelo Tribunal de Justiça da União Europeia e pelo Tribunal Constitucional português, por permitir a conservação generalizada e desproporcionada de dados, violando direitos fundamentais como a privacidade. As alterações propostas procuram harmonizar a lei com os preceitos constitucionais, tornando as condições de conservação e acesso aos dados mais restritas, exigindo autorização judicial e limitando o período de retenção.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer arrumar uma lei antiga que permitia às operadoras de telemóvel e internet guardar os nossos dados (tipo, a quem ligamos, onde estivemos, etc.) de forma generalizada e por muito tempo. Os tribunais, tanto europeus como portugueses, disseram que isso era inconstitucional e violava a nossa privacidade. Então, o objetivo é que só se guardem dados em casos muito específicos de crimes graves, por menos tempo (seis meses), e só com autorização de um juiz. E, quando a investigação permitir, as pessoas devem ser informadas que os seus dados foram acedidos. É para proteger melhor a nossa privacidade.",
+ "context": null,
+ "analysis": "O documento identifica claramente a inconsistência da Lei n.º 32/2008 com os preceitos constitucionais e as decisões dos tribunais superiores (TJUE e TC). A lei atual permitia uma conservação de dados generalizada e indiferenciada, sem previsão de notificação aos visados, o que violava os princípios da proporcionalidade, o direito à reserva da intimidade da vida privada e familiar, o sigilo das comunicações e o direito à tutela jurisdicional efetiva. A proposta alinha-se diretamente com o objetivo de corrigir estas inconstitucionalidades ao: revogar a conservação generalizada de dados de localização móvel; reduzir o período máximo de conservação de dados para seis meses; exigir despacho fundamentado de juiz para a transmissão de dados, garantindo que seja estritamente necessário para crimes graves; e introduzir a obrigação de as autoridades informarem os titulares dos dados acedidos, assim que tal não comprometa as investigações. As alterações propostas são consistentes e visam assegurar a proporcionalidade e a proteção dos direitos fundamentais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não fornece informações específicas sobre o impacto fiscal desta proposta. As alterações visam a conformidade legal e constitucional na gestão de dados, o que poderá implicar ajustes operacionais para as operadoras de comunicações e autoridades judiciais/policiais, mas não são detalhados custos ou receitas diretas para o governo."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

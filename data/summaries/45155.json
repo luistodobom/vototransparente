@@ -1,0 +1,24 @@
+{
+ "short_title": "Medidas Urgentes de Apoio à Recuperação de Empresas Pós-COVID-19",
+ "summary": "Esta proposta de lei visa adaptar e criar novos mecanismos legais para ajudar empresas e pessoas singulares a reestruturar as suas dívidas e a recuperar financeiramente, em resposta aos desafios económicos causados pela pandemia da COVID-19. Inclui a possibilidade de prorrogar prazos para negociações de planos de recuperação, a criação de um processo extraordinário e temporário para a viabilização de empresas que eram financeiramente saudáveis antes da pandemia, e a aceleração da distribuição de fundos em processos de insolvência pendentes para injetar liquidez na economia. Também prevê regras específicas para o tratamento de dívidas fiscais e à Segurança Social no âmbito destes processos de recuperação.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta lei é uma ajuda do governo para empresas e pessoas que estão a passar dificuldades financeiras por causa da pandemia. Basicamente, dá mais tempo para as empresas negociarem as suas dívidas, cria um atalho para salvar empresas que estavam bem antes da COVID-19 mas que agora estão em apuros, e faz com que o dinheiro que está parado em processos de falência seja distribuído mais depressa para a economia voltar a mexer. Também há umas facilidades para pagar as dívidas ao Estado e à Segurança Social, para que as empresas consigam respirar e recuperar.",
+ "context": null,
+ "analysis": "O documento aborda de forma coerente a necessidade de adaptar o quadro legal de insolvência e recuperação à crise gerada pela pandemia. A criação do Processo Extraordinário de Viabilização de Empresas (PEVE) é uma medida bem alinhada com o objetivo de salvar empresas viáveis, mas que foram afetadas pela COVID-19, ao exigir que tivessem um ativo superior ao passivo em 31 de dezembro de 2019. Esta condição é uma resposta direta a abusos passados do Processo Especial de Revitalização (PER), onde empresas não viáveis o utilizavam para atrasar a insolvência. A prioridade e celeridade atribuídas aos novos processos, bem como a obrigatoriedade de rateios parciais em processos de insolvência, são medidas eficazes para injetar liquidez na economia e acelerar a resolução de situações financeiras. A flexibilização das condições para dívidas fiscais e à Segurança Social também contribui para a consolidação financeira das empresas em recuperação. Não se detetam inconsistências, mas sim um esforço para tornar os mecanismos de recuperação mais ágeis e eficazes face a uma crise sem precedentes, aprendendo com experiências anteriores.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto. Por um lado, prevê a redução da taxa de juros de mora sobre dívidas tributárias e da Segurança Social em acordos de viabilização, o que resultará numa diminuição da receita do governo proveniente de juros. Por outro lado, ao acelerar a distribuição de fundos em processos de insolvência, o Estado, enquanto credor, poderá receber mais rapidamente os seus créditos, embora isso seja mais uma questão de fluxo de caixa do que de aumento de receita. Os benefícios fiscais concedidos às empresas que reestruturam dívidas (como a consideração de créditos incobráveis como gastos) também podem levar a uma diminuição da receita fiscal. O efeito líquido imediato será provavelmente uma diminuição da receita governamental em certas áreas, mas a intenção é promover a recuperação económica e evitar falências generalizadas, o que, a longo prazo, poderá estabilizar ou aumentar a base tributária."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

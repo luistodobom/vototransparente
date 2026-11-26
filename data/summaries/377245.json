@@ -1,0 +1,42 @@
+{
+ "short_title": "Aumento das pensões dos antigos combatentes e revisão de complemento",
+ "summary": "O Projeto de Resolução n.º 1259/XVII/2.ª, do LIVRE, recomenda ao Governo o aumento das pensões dos antigos combatentes e a revisão do complemento especial de pensão. Por ser um projeto de resolução, trata-se de uma recomendação não vinculativa. A iniciativa propõe três medidas principais: assegurar que as pensões inferiores ao salário mínimo nacional passem a corresponder a pelo menos 80 % desse valor na Segurança Social, na Caixa Geral de Aposentações e no regime unificado; apresentar ao Parlamento um calendário de subida faseada para igualar o salário mínimo até 2029, com atualização automática; e rever a fórmula do complemento especial de pensão. Quanto a este complemento, pede-se a fixação de um valor mínimo mensal que não dependa apenas do tempo de serviço e que seja pago regularmente ao longo do ano, em vez de numa só prestação anual.",
+ "key_points": [
+  "Garantir que as pensões dos antigos combatentes abaixo do salário mínimo nacional passem a valer pelo menos 80 % desse montante.",
+  "Aplicar esta garantia aos beneficiários da Segurança Social, da Caixa Geral de Aposentações e do regime unificado.",
+  "Apresentar à Assembleia da República um calendário de aumento faseado para que essas pensões atinjam pelo menos o salário mínimo nacional até 2029, com atualização automática.",
+  "Rever a fórmula de cálculo do complemento especial de pensão para criar um valor mínimo mensal que não dependa exclusivamente do tempo de serviço.",
+  "Alterar a forma de pagamento do complemento especial de pensão para prestações regulares ao longo do ano, substituindo o pagamento anual único."
+ ],
+ "plain_language": "Este documento é um pedido formal do LIVRE ao Governo para melhorar os rendimentos de antigos combatentes que recebem pensões baixas. Como se trata de um projeto de resolução, o Governo não é obrigado a cumpri-lo. A proposta pede que, numa primeira fase, nenhum antigo combatente receba menos de 80 % do salário mínimo nacional e que seja criado um plano até 2029 para que todas essas pensões cheguem pelo menos ao valor do salário mínimo. Sugere também mudar um apoio extra que hoje é pago uma vez por ano, passando a ter um valor mínimo mensal pago regularmente.",
+ "context": "O LIVRE defende que o Estatuto do Antigo Combatente não tem chegado para assegurar rendimentos dignos. Com base num relatório de 2022, aponta pensões médias baixas na Segurança Social e situações de pensões de invalidez de apenas 329,93 euros mensais na Caixa Geral de Aposentações. O partido considera ainda que o reforço do complemento especial de pensão aprovado no Orçamento do Estado para 2026 gera aumentos residuais de poucas dezenas de euros anuais e alerta para a perda de poder de compra face à inflação.",
+ "analysis": "A iniciativa tem o mérito de apontar disparidades concretas entre regimes de pensões e de procurar proteger antigos combatentes com rendimentos muito baixos, sobretudo nos casos de invalidez. A indexação ao salário mínimo nacional procura ainda evitar a perda de poder de compra provocada pela inflação. Por outro lado, o documento apresenta fragilidades importantes: como projeto de resolução, não vincula o Governo nem garante execução orçamental. O texto não apresenta qualquer estimativa de custo financeiro para o aumento faseado até 2029 nem para o novo valor mínimo mensal do complemento especial de pensão. Além disso, apoia-se em dados estatísticos de 2022 para fundamentar medidas em 2026 e não esclarece se as pensões de viuvez ficam também abrangidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização das medidas recomendadas aumentaria a despesa pública da Segurança Social e da Caixa Geral de Aposentações ao elevar as pensões mais baixas até ao salário mínimo nacional e ao fixar um mínimo mensal para o complemento especial de pensão. Contudo, tratando-se de um projeto de resolução não vinculativo e sem estimativa orçamental no documento, o custo não está quantificado."
+ },
+ "affected": [
+  "antigos combatentes pensionistas",
+  "pensionistas de invalidez antigos combatentes",
+  "beneficiários do complemento especial de pensão"
+ ],
+ "categories": [
+  "trabalho",
+  "defesa",
+  "familia"
+ ],
+ "tags": [
+  "antigos combatentes",
+  "pensões",
+  "salário mínimo",
+  "complemento especial de pensão",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

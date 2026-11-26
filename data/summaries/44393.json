@@ -1,0 +1,25 @@
+{
+ "short_title": "Plataforma Digital SIG para Combater Assimetrias Regionais",
+ "summary": "Portugal enfrenta grandes desigualdades regionais, com a população a concentrar-se no litoral (Lisboa e Porto) e o interior a despovoar-se, gerando disparidades económicas, sociais e demográficas. Para combater estas assimetrias e apoiar a digitalização, o Bloco de Esquerda propõe a criação de uma Plataforma Digital em Sistema de Informação Geográfica (SIG). Esta plataforma, operando a nível local, regional e nacional, permitiria identificar as melhores localizações para novas infraestruturas, combinando diversos fatores para otimizar a produção de informação e a tomada de decisões.",
+ "key_points": [],
+ "plain_language": "Basicamente, em Portugal, toda a gente se muda para Lisboa e Porto, e o resto do país fica vazio, o que causa muitos problemas. Para tentar resolver isto, o Bloco de Esquerda sugere criar uma espécie de \"mapa digital inteligente\" para o governo. Este mapa ajudaria a decidir onde é melhor construir coisas como hospitais ou escolas, para que fiquem nos sítios certos e ajudem a equilibrar o país, em vez de só concentrar tudo nas grandes cidades.",
+ "context": null,
+ "analysis": "O documento identifica de forma clara e consistente o problema das assimetrias regionais e as suas consequências negativas, como o despovoamento do interior e a sobrecarga das áreas metropolitanas. A proposta de uma Plataforma Digital SIG alinha-se diretamente com o objetivo de combater estas disparidades, fornecendo uma ferramenta baseada em dados para uma melhor planificação espacial e tomada de decisões sobre a localização de infraestruturas. A ideia é que, ao integrar informação geográfica e diversos fatores, se possa otimizar a distribuição de recursos e serviços, tornando a implementação da proposta coerente com o problema que visa resolver.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A implementação de uma Plataforma Digital em Sistema de Informação Geográfica (SIG) implicaria um aumento significativo dos gastos do governo. Seriam necessários investimentos avultados no desenvolvimento da plataforma, aquisição de software e hardware, recolha e integração de dados, e formação de pessoal. Adicionalmente, haveria custos contínuos de manutenção e atualização. A proposta não prevê um aumento direto da receita governamental. O efeito líquido seria, portanto, um aumento das despesas públicas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

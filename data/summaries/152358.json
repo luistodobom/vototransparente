@@ -1,0 +1,24 @@
+{
+ "short_title": "Melhorar acesso de animais em transportes públicos",
+ "summary": "Esta proposta recomenda ao Governo português que melhore as condições de transporte de animais de estimação nos serviços de mobilidade, como comboios e TVDE. Atualmente, existem dificuldades como a necessidade de comprar bilhetes para animais apenas na estação e pouco antes da viagem, sem direito a um lugar adjacente, e a falta de regulamentação clara para outros serviços. O objetivo é permitir a compra antecipada de bilhetes, garantir espaço e conforto para o animal e o seu dono, e desenvolver métodos eletrónicos para verificar a documentação dos animais, além de regulamentar os serviços de mobilidade para evitar cancelamentos indevidos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo facilite a vida a quem tem animais de estimação e precisa de andar de transportes públicos, tipo comboios ou TVDE. Hoje em dia, é uma chatice porque não dá para comprar o bilhete do bicho com antecedência, e depois no comboio, mesmo pagando, o animal não tem um lugar ao lado do dono, o que é super desconfortável. A ideia é que se possa comprar o bilhete online, que o animal tenha um espacinho ao lado do dono para ir mais à vontade e em segurança, e que se possa verificar a caderneta de vacinas e a licença do bicho de forma mais fácil, tipo online. Também querem que os serviços como os TVDE não possam recusar transportar animais depois de terem publicitado que o fazem.",
+ "context": null,
+ "analysis": "O documento aponta claramente as inconsistências das regras atuais, como a exigência de compra de bilhete para o animal no último minuto e a impossibilidade de reservar um lugar adjacente, o que cria desconforto e insegurança para o passageiro e o animal. As propostas de implementação alinham-se diretamente com o objetivo de superar estas dificuldades: permitir a compra antecipada de bilhetes, garantir um lugar adjacente para o animal e o seu dono, e desenvolver mecanismos eletrónicos para a verificação de documentos. A regulamentação dos serviços de mobilidade, como TVDE, também aborda a inconsistência de serviços que publicitam o transporte de animais mas depois o recusam. As soluções propostas são lógicas e visam resolver os problemas identificados, promovendo maior conforto, segurança e acessibilidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, sendo uma recomendação para regulamentação e melhoria de serviços, poderá implicar um ligeiro aumento nos gastos do governo relacionados com o desenvolvimento de novos mecanismos de verificação eletrónica e a adaptação de sistemas de bilhética. No entanto, não se prevê um impacto significativo na receita ou despesa direta. O efeito líquido será provavelmente um pequeno aumento nos custos administrativos para implementar as regulamentações e sistemas, mas com o potencial de aumentar a utilização dos transportes públicos por parte de famílias com animais de estimação, o que poderia ter um impacto positivo indireto na receita a longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

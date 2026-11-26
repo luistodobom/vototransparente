@@ -1,0 +1,24 @@
+{
+ "short_title": "Simplificação da Recuperação de IVA em Dívidas Incobráveis",
+ "summary": "A proposta visa simplificar o processo de recuperação do Imposto sobre o Valor Acrescentado (IVA) para empresas que têm dívidas de clientes consideradas de cobrança duvidosa. Atualmente, as empresas pagam o IVA antecipadamente e enfrentam processos demorados para o reaver. As alterações incluem a redução do prazo de apreciação dos pedidos de autorização prévia pela Autoridade Tributária de 4 para 2 meses, a introdução do deferimento tácito (aprovação automática se não houver resposta no prazo) e a permissão para que a documentação de suporte seja certificada por um Contabilista Certificado, e não apenas por um Revisor Oficial de Contas. O objetivo é aliviar as dificuldades de tesouraria das empresas e apoiar a recuperação económica.",
+ "key_points": [],
+ "plain_language": "Esta proposta é para facilitar a vida das empresas quando os clientes não pagam as contas. Hoje, as empresas pagam o IVA ao Estado mesmo que não recebam o dinheiro, e depois é uma dor de cabeça para o reaver. A ideia é que o Estado demore menos tempo a dizer se as empresas podem reaver esse IVA (passa de 4 para 2 meses), e se não disser nada, é como se tivesse aprovado. Além disso, um contabilista normal já pode assinar os papéis, não precisa de ser só um revisor oficial de contas. Tudo isto é para as empresas terem o dinheiro de volta mais depressa e não ficarem com a tesouraria presa, o que ajuda a economia.",
+ "context": null,
+ "analysis": "A proposta alinha-se diretamente com o seu objetivo de simplificar o processo de recuperação do IVA e apoiar as empresas. A redução do prazo de apreciação de 4 para 2 meses e a introdução do deferimento tácito são medidas eficazes para acelerar a resposta da Autoridade Tributária, eliminando atrasos burocráticos. A permissão para que Contabilistas Certificados possam certificar a documentação, em vez de apenas Revisores Oficiais de Contas, democratiza o acesso a este serviço, tornando-o potencialmente mais rápido e menos dispendioso para as empresas. Não se identificam inconsistências; os detalhes da implementação são coerentes com a meta de desburocratização e melhoria da liquidez empresarial.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta terá um impacto fiscal que tenderá a diminuir a receita imediata do governo. Ao simplificar e acelerar a recuperação do IVA sobre créditos de cobrança duvidosa, o Estado reterá esses valores por menos tempo ou terá de os reembolsar mais rapidamente. Isso significa uma diminuição da receita disponível no curto prazo para o governo. No entanto, a proposta argumenta que, ao melhorar a liquidez das empresas e apoiar a recuperação económica, poderá haver um efeito positivo indireto na economia que, a longo prazo, poderia gerar mais receita fiscal global. O efeito líquido direto é uma diminuição da receita governamental."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

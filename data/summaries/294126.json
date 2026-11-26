@@ -1,0 +1,24 @@
+{
+ "short_title": "Alargamento do Regime de IVA de Caixa e proteção de MPME",
+ "summary": "Esta proposta de lei, apresentada pelo PCP, visa alargar o acesso ao Regime de IVA de Caixa para micro e pequenas empresas (MPME). Atualmente, as empresas são obrigadas a entregar o IVA à Autoridade Tributária mesmo que ainda não tenham recebido o pagamento dos seus clientes, o que causa problemas de tesouraria. O Regime de IVA de Caixa permite que as empresas só paguem o IVA depois de o receberem. A proposta pretende aumentar o limite de volume de negócios para adesão a este regime de 500.000€ para 10.000.000€ e eliminar a obrigação de entregar o imposto no prazo de 12 meses, mesmo que não tenha sido cobrado, protegendo as empresas de créditos incobráveis ou de cobrança duvidosa.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PCP quer que mais empresas, especialmente as mais pequenas, possam pagar o IVA ao Estado só quando os clientes lhes pagarem. Hoje em dia, muitas empresas têm de adiantar o IVA, mesmo sem terem recebido o dinheiro, o que lhes aperta a carteira. Com esta proposta, o limite para aderir a este regime de 'IVA de Caixa' sobe muito (de meio milhão para dez milhões de euros) e acabam com a regra de ter de pagar o IVA ao fim de um ano, mesmo que o cliente ainda não tenha pago. Assim, as empresas ficam mais protegidas e com menos problemas de dinheiro.",
+ "context": null,
+ "analysis": "A proposta do PCP é consistente com o seu objetivo declarado de apoiar as micro e pequenas empresas (MPME) e aliviar os seus problemas de tesouraria. Não se identificam inconsistências internas na lógica da proposta. Os detalhes da implementação, como o aumento significativo do limite de volume de negócios para adesão ao Regime de IVA de Caixa (de 500.000€ para 10.000.000€) e a eliminação da obrigação de entrega do imposto no prazo de 12 meses (mesmo sem cobrança), alinham-se diretamente com o objetivo de tornar o regime mais acessível e eficaz. Estas medidas visam proteger as MPME de situações de créditos incobráveis ou de cobrança duvidosa, permitindo-lhes gerir melhor o seu fluxo de caixa e evitar que funcionem como 'financiadoras' do Estado. A proposta aborda diretamente uma das principais queixas das MPME, que é a pressão sobre a tesouraria devido ao adiantamento do IVA.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não implica um aumento direto dos gastos do governo. No que diz respeito à receita, o montante total de IVA a ser cobrado pelo governo não se altera, uma vez que o regime apenas modifica o momento da cobrança, não o valor. No entanto, haverá um atraso na entrada de receita para os cofres do Estado, o que pode resultar numa diminuição temporária do fluxo de caixa do governo. O efeito líquido é uma alteração no calendário de recebimento de impostos, sem perda de receita a longo prazo, mas com um impacto na liquidez imediata do Estado."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

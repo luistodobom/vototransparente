@@ -1,0 +1,26 @@
+{
+ "short_title": "Priorização da Ferrovia em Portugal",
+ "summary": "A proposta visa priorizar o transporte ferroviário em Portugal, revertendo décadas de desinvestimento e excessiva dependência do transporte rodoviário e aéreo. O objetivo é modernizar a rede, eletrificar linhas, ligar todas as capitais de distrito e centros logísticos, melhorar a acessibilidade e aumentar significativamente a quota de passageiros e mercadorias transportados por comboio até 2030. Inclui também a reativação de linhas desativadas e a substituição progressiva de voos domésticos por ligações ferroviárias, especialmente entre Lisboa, Porto e Faro.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que Portugal aposte a sério nos comboios. Durante muito tempo, andámos a construir estradas e a esquecer os caminhos de ferro, o que não é bom para o ambiente nem para ligar o país. A ideia é modernizar tudo, eletrificar as linhas, ligar as cidades principais e os portos/aeroportos por comboio, e fazer com que mais pessoas e mercadorias andem de comboio em vez de carro ou avião. Querem até que os voos entre Lisboa, Porto e Faro sejam substituídos por viagens de comboio. Tudo isto para termos um país mais verde e melhor ligado.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente da situação atual, onde o desinvestimento na ferrovia e a predominância do transporte rodoviário e aéreo contribuem para elevadas emissões de CO2 e menor coesão territorial. As propostas de investimento e modernização da rede ferroviária, eletrificação, ligação de centros urbanos e logísticos, e a meta de 40% de quota modal para a ferrovia, alinham-se diretamente com os objetivos de transição climática, modernização económica e coesão territorial. A substituição de voos domésticos por comboio é uma medida concreta para reduzir as emissões. A reativação de uma empresa pública e a modernização da frota são passos lógicos para garantir a capacidade de implementação. Não há inconsistências evidentes; pelo contrário, os detalhes da implementação são coerentes com os problemas identificados e os objetivos propostos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implica um aumento substancial dos gastos do governo. Prevê investimentos significativos na eletrificação da rede, construção e reabilitação de linhas, modernização de material circulante e reforço de uma empresa pública. Embora possa haver benefícios económicos a longo prazo que indiretamente aumentem as receitas (ex: menos importação de combustíveis, maior eficiência logística), o impacto direto e imediato será um aumento considerável das despesas públicas para financiar estas infraestruturas e operações. O efeito líquido será um aumento dos gastos do governo."
+ },
+ "affected": [],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

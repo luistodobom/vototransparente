@@ -1,0 +1,26 @@
+{
+ "short_title": "Isenção de IMT e Imposto do Selo para Jovens na Habitação",
+ "summary": "Esta proposta de lei visa isentar jovens até aos 35 anos do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT) e do Imposto do Selo na compra da sua primeira habitação própria e permanente. O objetivo é facilitar o acesso à casa própria para os jovens, que enfrentam dificuldades financeiras e um mercado imobiliário desafiador. A proposta inclui também um mecanismo de compensação para os municípios, de forma a garantir que não sejam prejudicados pela perda de receita do IMT.",
+ "key_points": [],
+ "plain_language": "Basicamente, o governo quer dar uma ajuda aos jovens até aos 35 anos para comprarem a sua primeira casa. A ideia é que não paguem dois impostos importantes, o IMT e o Imposto do Selo, que encarecem muito a compra. E para que as câmaras municipais não fiquem a perder dinheiro com isto, o governo vai compensá-las. É uma forma de facilitar a vida aos mais novos que querem ter a sua casa, numa altura em que está tudo tão caro.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema central: a crise de acesso à habitação para jovens, agravada por fatores macroeconómicos como a inflação e as taxas de juro elevadas, que dificultam a poupança e a aquisição de casa. A solução proposta, a isenção de IMT e Imposto do Selo, alinha-se diretamente com o objetivo de reduzir os custos iniciais de aquisição de habitação para este grupo etário. A inclusão de um mecanismo de compensação para os municípios demonstra uma preocupação em mitigar um potencial impacto negativo na receita municipal, garantindo a sustentabilidade da medida e a não-prejuízo das autarquias. Esta abordagem mostra uma implementação consistente com o objetivo declarado, ao mesmo tempo que aborda uma possível inconsistência fiscal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição da receita do governo central (devido à isenção do Imposto do Selo) e, inicialmente, dos municípios (devido à isenção do IMT). No entanto, o mecanismo de compensação previsto para os municípios significa que o governo central terá de transferir fundos para cobrir as perdas de receita do IMT dos municípios. Assim, o efeito líquido para o governo central será uma diminuição da receita (pelo Imposto do Selo) e um aumento da despesa (pela compensação aos municípios), resultando num aumento global dos gastos do governo e numa diminuição da receita líquida. Para os municípios, o impacto fiscal deverá ser neutro devido à compensação."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

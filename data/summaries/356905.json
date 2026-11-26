@@ -1,0 +1,42 @@
+{
+ "short_title": "Indexação do abono de família ao salário mínimo nacional",
+ "summary": "Este Projeto de Resolução do Juntos pelo Povo recomenda ao Governo que avalie e promova a reposição da indexação dos escalões de rendimento do abono de família para crianças e jovens ao salário mínimo nacional (retribuição mínima mensal garantida), substituindo a atual referência ao Indexante dos Apoios Sociais (IAS). Por se tratar de um Projeto de Resolução, é uma recomendação não vinculativa. Em concreto, pede ao Executivo que estude o impacto financeiro, social e administrativo da alteração, avaliando os efeitos nas famílias trabalhadoras, numerosas, monoparentais e de baixos rendimentos. Propõe ainda a alteração do Decreto-Lei n.º 176/2003, para evitar que aumentos do salário mínimo causem a perda do apoio ou a passagem para escalões inferiores sem melhoria económica real, devendo o Governo entregar um relatório e propostas legislativas em 180 dias.",
+ "key_points": [
+  "Avaliar o impacto financeiro, social e administrativo de voltar a indexar os escalões do abono de família ao salário mínimo nacional.",
+  "Alterar o Decreto-Lei n.º 176/2003, substituindo o Indexante dos Apoios Sociais (IAS) pela retribuição mínima mensal garantida na definição dos escalões de rendimento.",
+  "Analisar especificamente os efeitos da mudança nas famílias trabalhadoras, agregados de baixos rendimentos, famílias numerosas e famílias monoparentais.",
+  "Garantir que a atualização do salário mínimo nacional não provoca automaticamente a perda do abono ou a descida de escalão sem melhoria real da capacidade económica.",
+  "Apresentar à Assembleia da República, no prazo de 180 dias, um relatório de avaliação acompanhado das respetivas propostas legislativas ou regulamentares."
+ ],
+ "plain_language": "Atualmente, o valor que as famílias podem ganhar para ter direito ao abono de família é calculado com base num valor de referência chamado IAS. Quando o salário mínimo sobe, muitas famílias ultrapassam esses limites e perdem o abono ou recebem menos, mesmo que o custo de vida também tenha subido. Este projeto pede ao Governo que estude o regresso à regra antiga: ligar os escalões do abono ao salário mínimo nacional. Como é apenas uma recomendação, o Governo não é obrigado a fazê-lo, mas o texto sugere que apresente estudos e propostas de lei no prazo de 180 dias.",
+ "context": "O Juntos pelo Povo explica que o abono de família começou, em 2003, por estar indexado ao salário mínimo, mas passou posteriormente a depender do Indexante dos Apoios Sociais (IAS). Segundo o partido, esta mudança afastou os limites de acesso da realidade salarial das famílias. Num contexto de inflação, baixos salários e aumento do custo de vida, pequenos aumentos ligados apenas à atualização do salário mínimo têm levado famílias a perder apoios sociais ou a passar para escalões menos favoráveis, sem que tenham maior folga financeira.",
+ "analysis": "A iniciativa aborda um problema real de desfasamento entre a evolução dos salários mais baixos e os critérios de acesso a prestações sociais, optando de forma prudente por recomendar estudos prévios de impacto financeiro e social antes da alteração legal. Contudo, o texto apresenta fragilidades importantes. Desde logo, não indica que múltiplos do salário mínimo deveriam definir os novos escalões, o que deixa em aberto o alcance prático e o custo da medida. Além disso, o ponto 4 recomenda evitar perdas automáticas de abono sem melhoria real da capacidade económica, mas não clarifica que indicador mediria essa melhoria. Por fim, sendo um Projeto de Resolução, não vincula o Governo, e o prazo de 180 dias para apresentar estudos e propostas de lei não tem mecanismo de imposição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa que remete para uma avaliação financeira prévia do Governo, a iniciativa não produz impacto orçamental direto imediato. Caso a medida venha a ser concretizada para alargar ou proteger o acesso ao abono face às subidas do salário mínimo, poderá aumentar a despesa pública, mas o texto não apresenta estimativas nem define os novos valores dos escalões."
+ },
+ "affected": [
+  "famílias com crianças e jovens",
+  "famílias trabalhadoras de baixos rendimentos",
+  "famílias numerosas",
+  "famílias monoparentais"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "abono de família",
+  "salário mínimo",
+  "indexante dos apoios sociais",
+  "proteção familiar",
+  "pobreza infantil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

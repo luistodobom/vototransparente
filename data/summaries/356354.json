@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção da habitação própria face ao aumento dos juros no crédito",
+ "summary": "O Projeto de Lei cria um regime extraordinário e imperativo para proteger os contratos de crédito destinados a habitação própria permanente perante a subida das taxas de juro. Em primeiro lugar, determina que qualquer aumento da Euribor obriga os bancos a reduzir proporcionalmente comissões, seguros e outros encargos, impedindo que a TAEG inicial do contrato seja ultrapassada. Em segundo lugar, institui uma renegociação mediada por equipas do Banco de Portugal, sem oposição dos bancos, para baixar as prestações até uma taxa de esforço máxima de 35% durante 6 a 12 meses (renováveis até 24 meses), alargando o prazo. Aplica-se a pedido do cliente acima dos 35% ou obrigatoriamente pelo banco aos 50%. Por fim, admite a entrega da casa ao banco (dação em cumprimento) sem oposição bancária.",
+ "key_points": [
+  "A subida da Euribor obriga os bancos a reduzir comissões, seguros e outros encargos associados ao crédito para não ultrapassar a TAEG definida no início do contrato.",
+  "Os clientes com taxa de esforço superior a 35% podem exigir a renegociação do crédito com mediação do Banco de Portugal, sendo esta obrigatória por iniciativa do banco a partir dos 50%.",
+  "A renegociação reduz proporcionalmente juros e capital até ao limite de 35% de taxa de esforço durante um máximo de 24 meses, estendendo o prazo do empréstimo.",
+  "É permitida a entrega da casa ao banco (dação em cumprimento) sem oposição da instituição, avaliada pelo valor mais alto entre a avaliação inicial e a atual.",
+  "Se o banco vender a casa entregue nos cinco anos seguintes por valor superior ao da avaliação, tem de pagar a diferença ao cliente, que também pode anular a entrega se o imóvel não for vendido nesse prazo.",
+  "Os bancos ficam proibidos de restringir o acesso futuro ao crédito a quem recorra a estas medidas de proteção."
+ ],
+ "plain_language": "Se a prestação da casa subir por causa dos juros, esta proposta obriga o banco a cortar nas comissões e seguros para que o custo total do empréstimo não ultrapasse o previsto no contrato inicial. Caso o peso da prestação ultrapasse 35% do rendimento da família, o cliente pode pedir uma renegociação, mediada pelo Banco de Portugal, para baixar a prestação até esse limite durante um máximo de dois anos, alargando o prazo. Se quiser entregar a casa ao banco, este não pode recusar.",
+ "context": "O PCP justifica a iniciativa com a degradação das condições de vida, a perda de poder de compra das famílias e o impacto económico de conflitos internacionais. O partido aponta a ameaça de novas subidas das taxas de juro pelo Banco Central Europeu, alertando para o risco de incumprimento generalizado e perda de habitação própria. Defende que os bancos devem absorver parte dos encargos em vez de os fazer recair sobre as famílias.",
+ "analysis": "A proposta apresenta mecanismos concretos para conter o incumprimento, como o limite de 35% na taxa de esforço e a mediação pelo Banco de Portugal. Contudo, revela fragilidades técnicas e riscos de implementação. Primeiro, o corte de comissões e seguros para travar a TAEG tem margem finita, não explicando a lei como compensar subidas da Euribor após esses custos chegarem a zero. Segundo, existe uma inconsistência na dação em cumprimento: a exposição de motivos refere a extinção integral da dívida, mas o articulado apenas regula a amortização pelo valor da avaliação, sem extinguir expressamente eventual saldo remanescente, e permite anular a entrega aos cinco anos, criando insegurança jurídica. Por fim, apesar de extraordinário, o regime não fixa prazo de vigência.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A iniciativa não prevê transferências ou apoios diretos do Orçamento do Estado, fazendo recair os encargos financeiros sobre as instituições de crédito. Contudo, obriga o Banco de Portugal a constituir equipas técnicas de mediação e o Governo a regulamentar o processo, podendo gerar custos administrativos e efeitos indiretos na receita fiscal não quantificados no documento."
+ },
+ "affected": [
+  "mutuários de crédito à habitação própria permanente",
+  "instituições de crédito",
+  "Banco de Portugal"
+ ],
+ "categories": [
+  "habitacao",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "euribor",
+  "taxa de esforço",
+  "dação em cumprimento",
+  "banca"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

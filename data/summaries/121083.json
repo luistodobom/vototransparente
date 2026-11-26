@@ -1,0 +1,26 @@
+{
+ "short_title": "Nova Lei de Videovigilância para Forças de Segurança",
+ "summary": "A proposta de lei visa atualizar o regime jurídico da utilização de sistemas de videovigilância pelas forças e serviços de segurança em Portugal. Após mais de 15 anos da lei anterior, e face aos avanços tecnológicos, a nova legislação procura clarificar procedimentos, adaptar-se a novas tecnologias como drones e câmaras portáteis de uso individual, e reforçar a proteção dos direitos, liberdades e garantias dos cidadãos, especialmente no que toca à proteção de dados pessoais. Abrange a videovigilância em espaços públicos, privados de acesso público, em veículos, navios, e para fins específicos como segurança rodoviária, marítima/fluvial e deteção de incêndios rurais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para pôr as regras em dia sobre como a polícia e outras forças de segurança podem usar câmaras de vídeo, incluindo drones e as câmaras que os agentes podem levar no corpo. A ideia é que eles possam usar estas ferramentas para nos proteger e combater o crime, mas sempre com muito cuidado para não invadir a nossa privacidade. A lei diz onde e como podem filmar, como os vídeos são guardados e por quanto tempo, e garante que os nossos dados pessoais estão protegidos. É um esforço para modernizar a segurança sem esquecer os nossos direitos.",
+ "context": null,
+ "analysis": "A proposta demonstra um esforço consistente para equilibrar a necessidade de segurança pública com a salvaguarda dos direitos individuais. A exigência de autorização prévia do membro do Governo responsável, o parecer obrigatório da Comissão Nacional de Proteção de Dados (CNPD) e a definição clara dos fins e limites da utilização das câmaras (proibição de captação em áreas de resguardo ou vida íntima, exceção para som em perigo concreto) são exemplos de como os detalhes da implementação se alinham com o objetivo de uma videovigilância regulada e responsável. A previsão de destruição imediata de gravações obtidas ilegalmente e a limitação do tempo de conservação dos dados (30 dias) reforçam a proteção da privacidade. A necessidade de avaliação de impacto para sistemas com inteligência artificial também é um ponto positivo que demonstra alinhamento com as preocupações de proteção de dados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não detalha o impacto financeiro. No entanto, a aquisição, instalação e manutenção de novos sistemas de videovigilância, incluindo tecnologias mais avançadas como drones e câmaras portáteis, bem como a infraestrutura necessária para o armazenamento e tratamento de dados, implicarão um aumento dos gastos do governo. Não há indicação de que a proposta vá gerar receita adicional. O efeito líquido será, portanto, um aumento das despesas públicas."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "defesa",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

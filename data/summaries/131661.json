@@ -1,0 +1,24 @@
+{
+ "short_title": "Registo de Saúde Eletrónico Universal",
+ "summary": "Esta proposta visa criar um Registo de Saúde Eletrónico Universal em Portugal. Atualmente, o sistema existente (RSE) está limitado ao Serviço Nacional de Saúde (SNS), impedindo que prestadores de saúde privados ou sociais acedam ou partilhem dados clínicos dos utentes. A proposta defende que um sistema universal, acessível a todos os prestadores e com os dados pertencentes aos utentes, melhoraria a eficiência dos cuidados de saúde, reduziria tempos de espera e eliminaria exames duplicados, garantindo que a informação clínica esteja disponível onde e quando for necessária.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta ideia é para criar um sistema onde todos os teus dados de saúde – exames, consultas, histórico – estejam num único sítio digital, e que qualquer médico ou hospital, seja público ou privado, possa aceder a eles (com a tua permissão, claro). Assim, não tens de andar com papéis, não fazes exames repetidos à toa, e os médicos têm logo toda a informação para te tratar melhor e mais rápido. É para acabar com a confusão de teres os teus dados espalhados por aí.",
+ "context": null,
+ "analysis": "A proposta identifica claramente um problema existente – a fragmentação dos registos de saúde e a dificuldade de acesso a dados clínicos fora do SNS – e propõe uma solução direta: um Registo de Saúde Eletrónico Universal. A lógica de que a titularidade dos dados deve ser do utente e que o acesso universal melhora a eficiência e reduz redundâncias é consistente. A implementação de formatos e arquiteturas abertas é crucial para a interoperabilidade e alinhamento com o objetivo de acesso transversal. A proposta é coerente ao ligar a falta de acesso a dados com ineficiências e custos elevados, e a solução proposta aborda diretamente essas questões, prometendo uma melhoria na qualidade e celeridade dos cuidados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta indica que a implementação do Registo de Saúde Eletrónico Universal exigirá a dotação de recursos financeiros, o que implica um aumento inicial nos gastos do governo para o desenvolvimento e infraestrutura do sistema. No entanto, a longo prazo, a eliminação de redundâncias, como exames duplicados, e a maior eficiência na prestação de cuidados de saúde podem levar a uma diminuição de custos operacionais no sistema de saúde, resultando potencialmente numa poupança. O efeito líquido inicial será um aumento de gastos, mas com potencial de poupança futura, sem impacto direto na receita do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Liberdade de Escolha para Consultas de Especialidade no SNS",
+ "summary": "Esta proposta recomenda ao Governo português que, quando os Tempos Máximos de Resposta Garantidos (TMRG) para uma primeira consulta de especialidade no Serviço Nacional de Saúde (SNS) são ultrapassados, os utentes tenham a liberdade de escolher realizar essa consulta em qualquer outro hospital, seja ele público, privado ou do setor social. O objetivo é reduzir as longas listas de espera e garantir o acesso atempado aos cuidados de saúde.",
+ "key_points": [],
+ "plain_language": "Basicamente, a ideia é que se o Serviço Nacional de Saúde demorar muito tempo para te dar uma consulta com um médico especialista, o Governo deve permitir que escolhas ir a outro hospital qualquer – pode ser público, privado ou social – e o Estado paga. Assim, não ficas à espera uma eternidade e és atendido mais depressa.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente um problema grave no SNS: o incumprimento generalizado dos Tempos Máximos de Resposta Garantidos (TMRG) para consultas de especialidade, resultando em listas de espera excessivas. A solução proposta, de permitir a escolha do utente por hospitais dos setores privado e social quando os TMRG são excedidos, alinha-se diretamente com o objetivo de garantir o acesso atempado à saúde e reduzir as listas de espera. A implementação através de uma plataforma de marcação de consultas, à qual os hospitais privados e sociais teriam de aderir, parece ser um mecanismo prático para operacionalizar a medida, transpondo um modelo já existente para cirurgias. A proposta argumenta que não haverá aumento de despesa global, mas sim uma antecipação da mesma, uma vez que o SNS deixaria de ter a despesa inerente à consulta. Contudo, a eficácia dependerá da capacidade e vontade dos hospitais privados e sociais em absorver esta procura e da real disponibilidade de vagas dentro dos TMRG nestes setores. A proposta pressupõe que o sistema só será ativado se o SNS não for eficiente, o que é uma premissa importante para a sua justificação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta argumenta que não haverá um aumento líquido nos gastos do governo. Em vez disso, prevê uma antecipação da despesa que o SNS teria de suportar de qualquer forma, uma vez que o custo da consulta seria transferido para o setor privado ou social, mas o SNS deixaria de ter a despesa associada à sua realização. A longo prazo, a redução das listas de espera e o diagnóstico precoce podem levar a uma otimização de recursos e a ganhos em saúde pública, potencialmente diminuindo custos associados a tratamentos mais complexos ou urgências decorrentes da demora no acesso. Não há menção a impacto na receita do governo. O efeito líquido é apresentado como neutro ou positivo devido à eficiência e melhoria da saúde pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

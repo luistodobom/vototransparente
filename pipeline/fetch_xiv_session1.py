@@ -12,7 +12,7 @@ reads "<Tipo> <n>/XIV/<sessão>" are kept.
 Raw HTML (the initiative web-part only, to keep the cache small) is cached under
 data/raw/xiv_s1_html/<BID>.html so re-runs are cheap.
 
-Output: data/raw/opendata/IniciativasXIV_s1.json
+Output: data/scraped/IniciativasXIV_s1.json (committed: the 1st session is closed, so CI never re-scrapes it)
 
 Run:  python -m pipeline.fetch_xiv_session1 [--workers 4] [--refresh]
 """
@@ -31,11 +31,11 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from .config import OPENDATA_DIR, RAW, ROOT, USER_AGENT
+from .config import RAW, ROOT, SCRAPED, USER_AGENT
 
 URL = "https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID={}"
 CACHE = RAW / "xiv_s1_html"
-OUT = OPENDATA_DIR / "IniciativasXIV_s1.json"
+OUT = SCRAPED / "IniciativasXIV_s1.json"
 FIRST_OPENDATA_BID = 45227          # lowest IniId present in the official XIV dump
 SCAN_MARGIN = 300
 SEED_FILES = [

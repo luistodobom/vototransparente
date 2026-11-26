@@ -54,12 +54,14 @@ def json_link(leg_page: str, leg: str) -> str:
 def main(argv=None):
     p = argparse.ArgumentParser()
     p.add_argument("--legs", nargs="*", default=LEGISLATURES)
-    p.add_argument("--force", action="store_true")
+    p.add_argument("--force", action="store_true", help="re-download every requested legislature")
+    p.add_argument("--refresh", nargs="*", default=[], metavar="LEG",
+                   help="re-download only these legislatures (e.g. the current one); others are used from cache")
     a = p.parse_args(argv)
     pages = legislature_pages()
     for leg in a.legs:
         dest = OPENDATA_DIR / f"Iniciativas{leg}.json"
-        if dest.exists() and not a.force:
+        if dest.exists() and not (a.force or leg in a.refresh):
             print(f"{leg}: cached ({dest.stat().st_size / 1e6:.1f} MB)")
             continue
         url = json_link(pages[leg], leg)

@@ -1,0 +1,43 @@
+{
+ "short_title": "Valorização de pensões em 2026 e plano de aproximação ao salário mínimo",
+ "summary": "O Projeto de Resolução recomenda ao Governo, de forma não vinculativa, um conjunto de medidas para aumentar o valor das pensões. Em primeiro lugar, propõe uma atualização intercalar e permanente das pensões de velhice, invalidez e sobrevivência de valor mais baixo e médio, com efeitos a 1 de julho de 2026, dando prioridade às pensões até três vezes o Indexante dos Apoios Sociais (IAS). Recomenda também um reforço específico para as pensões mínimas, com destaque para quem descontou mais de 30 anos. Além disso, sugere a criação de um plano plurianual para aproximar gradualmente as pensões mínimas do valor do IAS e, numa segunda fase, da Remuneração Mínima Mensal Garantida. Por fim, pede o levantamento dos regimes de pensões existentes e a entrega no Parlamento, em 120 dias, de um relatório de impacto financeiro, social e orçamental.",
+ "key_points": [
+  "Realizar uma atualização intercalar e permanente das pensões de velhice, invalidez e sobrevivência mais baixas e médias a partir de 1 de julho de 2026, priorizando as pensões até três vezes o IAS.",
+  "Garantir uma valorização reforçada das pensões mínimas, sobretudo para os reformados com carreiras contributivas superiores a 30 anos.",
+  "Criar um plano plurianual para aproximar gradualmente as pensões mínimas do valor do IAS e, numa segunda fase, da Remuneração Mínima Mensal Garantida.",
+  "Efetuar um levantamento dos atuais regimes de pensões mínimas, sociais, de sobrevivência, não contributivas e agrícolas para identificar desigualdades e falhas de proteção.",
+  "Apresentar à Assembleia da República, em 120 dias, um relatório com o impacto financeiro, social e orçamental das medidas, fontes de financiamento e calendário."
+ ],
+ "plain_language": "Esta iniciativa é uma recomendação não vinculativa ao Governo para aumentar de forma definitiva as pensões baixas e médias em julho de 2026, em vez de dar bónus pontuais. O objetivo é apoiar quem recebe menos e quem descontou mais de 30 anos. Propõe também um plano de vários anos para aproximar as pensões mínimas do valor de referência dos apoios sociais (537,13 euros) e, depois, do salário mínimo (920 euros). Pede ainda um estudo sobre os regimes de pensões e os respetivos custos.",
+ "context": "O proponente invoca a proteção constitucional da Segurança Social e das pessoas idosas, afirmando que milhares de reformados têm rendimentos insuficientes para despesas essenciais. Aponta que, em 2026, as pensões mínimas do regime geral variam entre 341,08 euros e 493,52 euros, ficando abaixo do Indexante dos Apoios Sociais (537,13 euros) e muito distantes do salário mínimo (920 euros). Defende ainda que suplementos extraordinários e alterações anteriores, como o Decreto-Lei n.º 74/2024, não resolvem a insuficiência estrutural das pensões.",
+ "analysis": "Como ponto positivo, a iniciativa privilegia aumentos permanentes e estruturais em vez de suplementos avulsos, valoriza carreiras contributivas superiores a 30 anos e pede um levantamento prévio dos regimes existentes bem como um relatório de impacto orçamental. Contudo, tratando-se de um Projeto de Resolução, tem caráter meramente recomendatório e não obriga o Governo. O texto apresenta também fragilidades técnicas: não define percentagens ou montantes para a atualização intercalar de 2026 nem estabelece prazos ou limites financeiros para a convergência das pensões mínimas até ao salário mínimo, o que acarreta riscos relevantes de sustentabilidade orçamental. Verifica-se ainda uma inconsistência temporal no calendário proposto, pois a iniciativa é datada de 8 de junho de 2026 e prevê efeitos a 1 de julho de 2026, mas concede 120 dias para a entrega do relatório de avaliação financeira e orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um Projeto de Resolução, não cria despesa direta imediata, mas recomenda atualizações permanentes das pensões e a aproximação gradual das pensões mínimas (atualmente entre 341,08 euros e 493,52 euros) ao IAS (537,13 euros) e à RMMG (920 euros), o que aumentaria a despesa pública de forma estrutural. O documento não quantifica o custo total, remetendo essa avaliação e a identificação das fontes de financiamento para um relatório a apresentar pelo Governo em 120 dias."
+ },
+ "affected": [
+  "pensionistas de velhice",
+  "pensionistas de invalidez",
+  "pensionistas de sobrevivência",
+  "beneficiários de pensões sociais e agrícolas"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "ias",
+  "salário mínimo",
+  "carreiras contributivas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

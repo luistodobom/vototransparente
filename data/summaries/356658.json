@@ -1,0 +1,44 @@
+{
+ "short_title": "Novo conceito de agregado familiar e menos burocracia no abono de família",
+ "summary": "O Projeto de Lei altera a definição de agregado familiar para efeitos de abono de família para crianças e jovens, criando um regime especial face às regras gerais da condição de recursos. Em vez de incluir automaticamente avós, tios ou outros familiares que partilhem habitação, passa a considerar-se o agregado familiar fiscal definido no Código do IRS. Os familiares coabitantes apenas contam se tiverem tutela legal ou assumirem permanentemente os encargos da criança. Contudo, se os progenitores não integrarem o mesmo agregado fiscal, mas viverem juntos ou partilharem regularmente despesas relativas à criança, os seus rendimentos continuam a ser considerados. O diploma reforça também a dispensa de apresentação de documentos: mediante autorização do requerente, a Segurança Social deve obter os dados diretamente junto da Autoridade Tributária e dos Registos, incluindo na prova anual de rendimentos. A lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Define o agregado familiar fiscal, nos termos do Código do IRS, como referência para atribuir e calcular o abono de família para crianças e jovens.",
+  "Exclui do agregado familiar os ascendentes, colaterais ou outros familiares coabitantes, salvo quando tenham responsabilidade legal ou assumam permanentemente os encargos parentais.",
+  "Determina a contabilização dos rendimentos de ambos os progenitores, mesmo com agregados fiscais distintos, caso vivam juntos ou partilhem regularmente os encargos com a criança.",
+  "Obriga a Segurança Social, mediante autorização do requerente, a obter oficiosamente os dados de rendimento e agregado junto de outros serviços públicos, incluindo na prova anual.",
+  "Limita a exigência de documentos adicionais aos cidadãos apenas aos casos em que a informação falte, esteja desatualizada ou suscite dúvidas fundadas.",
+  "Prevê a regulamentação das novas regras em 90 dias, uma avaliação de impacto após dois anos e a entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, quando pais com menores rendimentos vivem em casa dos avós ou de outros familiares devido à crise na habitação, os rendimentos desses familiares entram nas contas do abono de família. Isso faz com que crianças percam o apoio ou desçam de escalão. Esta proposta muda a regra: contam apenas os rendimentos de quem declara IRS com a criança e dos pais que partilhem habitação ou despesas com ela, mesmo sem IRS conjunto. Além disso, mediante autorização, a Segurança Social obtém diretamente os documentos junto das Finanças e dos Registos, poupando burocracia às famílias.",
+ "context": "A Iniciativa Liberal argumenta que o conceito atual de economia comum, herdado da regra geral da condição de recursos, penaliza famílias jovens, monoparentais e de baixos rendimentos que a crise da habitação obriga a partilhar casa com avós ou outros parentes. Segundo o proponente, a mera coabitação não significa responsabilidade económica pela criança, apontando como precedente o Complemento Solidário para Idosos, que deixou de considerar os rendimentos dos filhos. Critica ainda a burocracia excessiva que continua a exigir aos cidadãos documentos que a Administração Pública já detém.",
+ "analysis": "A proposta corrige uma distorção ligada à crise habitacional, evitando penalizar famílias que vivem com avós sem partilha económica, e respeita o limite orçamental ao entrar em vigor apenas com o próximo Orçamento do Estado. A avaliação de impacto aos dois anos e o reforço da interconexão de dados são também medidas positivas. Contudo, o texto não quantifica o custo orçamental nem o universo de novos beneficiários. Além disso, a norma que soma os rendimentos de progenitores sem IRS conjunto quando exista partilha regular de recursos e encargos, em alternativa à coabitação, é ambígua e pode penalizar pais separados que apenas partilham despesas dos filhos. Por fim, comprovar encargos permanentes e adaptar os sistemas informáticos em 90 dias envolve riscos administrativos e de atraso na aplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao excluir os rendimentos de familiares coabitantes do cálculo, a medida tende a aumentar o número de crianças elegíveis e a colocá-las em escalões mais elevados, aumentando a despesa com o abono de família. O documento não apresenta qualquer estimativa do montante desse acréscimo de despesa."
+ },
+ "affected": [
+  "famílias com crianças e jovens",
+  "famílias monoparentais",
+  "avós e familiares coabitantes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "abono de família",
+  "agregado familiar",
+  "condição de recursos",
+  "segurança social",
+  "simplificação administrativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

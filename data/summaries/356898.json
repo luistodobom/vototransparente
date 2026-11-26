@@ -1,0 +1,42 @@
+{
+ "short_title": "Regularização de contratados ao abrigo do PRR e outros programas",
+ "summary": "O Projeto de Lei n.º 657/XVII/1.ª, apresentado pelo PCP, cria um mecanismo para regularizar o vínculo laboral de trabalhadores contratados a termo ao abrigo do Plano de Recuperação e Resiliência (PRR) ou de outros programas operacionais, quando desempenhem funções que correspondam a necessidades permanentes da Administração Pública. O diploma determina a criação das vagas necessárias nos mapas de pessoal dos respetivos serviços e a integração destes trabalhadores através de contratos por tempo indeterminado na categoria de base da respetiva carreira, com contagem de tempo de serviço para efeitos de período experimental e progressão remuneratória. Para evitar despedimentos antes da conclusão do processo, os contratos em vigor são prorrogados e os contratos já cessados antes da publicação da lei iniciam nova vigência até à integração definitiva. Os interessados dispõem de 90 dias após a entrada em vigor para requerer a regularização.",
+ "key_points": [
+  "Abrange trabalhadores contratados ao abrigo do PRR ou de outros programas operacionais que desempenhem funções contínuas, estáveis e essenciais ao funcionamento dos serviços públicos.",
+  "Cria obrigatoriamente as vagas necessárias nos mapas de pessoal para celebrar vínculos de emprego público por tempo indeterminado.",
+  "Integra os trabalhadores na categoria de base da respetiva carreira, atribuindo a primeira posição remuneratória ou a segunda na carreira geral de técnico superior.",
+  "Contabiliza o tempo de serviço anterior para dispensa ou redução do período experimental e para efeitos de progressão remuneratória e carreira contributiva.",
+  "Prorroga os contratos em vigor e reativa contratos já cessados antes da entrada em vigor da lei até à conclusão do processo de integração.",
+  "Estabelece o prazo de 90 dias após a entrada em vigor da lei para o trabalhador requerer a integração junto do respetivo serviço."
+ ],
+ "plain_language": "Muitas pessoas foram contratadas temporariamente pelo Estado com verbas do PRR ou de outros programas europeus. Esta proposta quer passá-las para os quadros efetivos, caso façam trabalho contínuo e necessário mesmo depois de os programas acabarem. Para isso, os serviços públicos teriam de criar as vagas necessárias e celebrar contratos sem termo, contando o tempo já trabalhado para a progressão na carreira. Quem já tenha terminado o contrato antes de a lei entrar em vigor também poderia regressar até o processo estar concluído, bastando apresentar um pedido no prazo de 90 dias.",
+ "context": "O proponente afirma que cerca de 2000 trabalhadores contratados ao abrigo do PRR em dezenas de serviços públicos enfrentam o risco de desemprego, na maioria até ao final do ano, apesar de assegurarem tarefas permanentes e essenciais. Aponta como exemplos o Instituto da Segurança Social e o Instituto da Habitação e da Reabilitação Urbana, referindo que alguns profissionais já desempenhavam funções desde 2018 através de trabalho temporário. Segundo a exposição de motivos, os mapas de pessoal estão incompletos e a saída destes trabalhadores agravaria as falhas de resposta do Estado.",
+ "analysis": "A iniciativa procura evitar a perda súbita de trabalhadores experientes em serviços com carências de pessoal e detalha regras claras de enquadramento remuneratório e contagem do tempo de serviço. Contudo, apresenta fragilidades jurídicas e operacionais relevantes. O texto não define quem decide nem através de que procedimento se comprova que uma função corresponde a uma necessidade permanente após o requerimento do trabalhador. Além disso, a reativação automática de contratos já cessados antes da entrada em vigor da lei não estabelece qualquer limite temporal retroativo, criando insegurança jurídica. A inclusão genérica de outros programas operacionais, sem balizas temporais, alarga indefinidamente o universo abrangido. Verifica-se ainda uma gralha na numeração do articulado, que salta do artigo 7.º para o 9.º, e a entrada em vigor imediata com aumento de despesa não quantificado pode suscitar objeções constitucionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A proposta cria vagas permanentes nos mapas de pessoal, converte contratos a termo financiados por programas temporários em vínculos sem termo a cargo do Orçamento do Estado e conta o tempo anterior para progressão salarial. Além disso, prorroga e reativa vínculos cessados, sem apresentar qualquer estimativa financeira do custo."
+ },
+ "affected": [
+  "trabalhadores contratados ao abrigo do PRR",
+  "trabalhadores contratados ao abrigo de programas operacionais",
+  "serviços e organismos da Administração Pública"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "prr",
+  "precariedade",
+  "administração pública",
+  "vínculos laborais",
+  "programas operacionais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

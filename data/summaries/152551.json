@@ -1,0 +1,25 @@
+{
+ "short_title": "Gratuitidade das creches: vagas por freguesia",
+ "summary": "A proposta, apresentada pelo PSD, visa alterar a forma como as vagas gratuitas em creches são atribuídas em Portugal. Atualmente, para uma família ter acesso a uma vaga gratuita numa creche privada, é verificado se existem vagas disponíveis em creches públicas ou do setor social em todo o concelho, independentemente da distância. Esta regra torna muitas vezes impraticável o acesso às vagas gratuitas. O PSD sugere que esta verificação de vagas disponíveis seja feita ao nível da freguesia, em vez do concelho. O objetivo é garantir que as famílias possam aceder a creches gratuitas mais próximas das suas casas ou locais de trabalho, tornando a política de gratuitidade das creches mais eficaz e prática para o dia a dia, e apoiando melhor a conciliação da vida profissional e familiar, bem como a natalidade.",
+ "key_points": [],
+ "plain_language": "Então, a ideia do PSD é simples: as vagas gratuitas nas creches deviam ser contadas por freguesia, e não pelo concelho todo. É que, como está agora, se houver uma vaga numa creche pública a 20 km de casa, mesmo que haja uma creche privada grátis mesmo ao lado, os pais não podem usar a mais próxima. Isto é para facilitar a vida às famílias, para que consigam pôr os filhos na creche sem terem de fazer viagens enormes, e assim conciliar melhor o trabalho com a vida familiar.",
+ "context": null,
+ "analysis": "O documento evidencia uma inconsistência significativa entre o objetivo declarado do governo de expandir o acesso a creches gratuitas para apoiar as famílias e a natalidade, e a implementação prática desta política. Embora o governo tenha alargado a gratuitidade às creches privadas, a regra de que as famílias só se qualificam se não houver vagas em qualquer creche social/pública em todo o concelho cria uma barreira substancial. Isto, na prática, nega o acesso a muitas famílias, uma vez que percorrer longas distâncias para uma creche dentro do mesmo concelho é frequentemente inviável. A proposta do PSD aborda diretamente esta questão, defendendo que o âmbito territorial da avaliação de vagas seja ao nível da freguesia. Esta alteração alinharia os detalhes da implementação com o objetivo primordial da política, garantindo que a medida da gratuitidade das creches seja verdadeiramente acessível e viável para as famílias, cumprindo assim o seu propósito de apoiar a conciliação da vida profissional e familiar e promover a natalidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta diz respeito principalmente ao mecanismo de atribuição de vagas gratuitas em creches existentes ou planeadas, e não a um aumento direto do número total de vagas ou do custo por vaga. Assim, não se prevê que aumente ou diminua significativamente a despesa global do governo. O seu principal efeito seria otimizar a utilização do orçamento existente para creches gratuitas, tornando-as mais acessíveis às famílias. Embora possa levar a um ligeiro aumento na taxa de adesão às vagas gratuitas em creches privadas devido à melhoria da proximidade, isso estaria dentro do âmbito da política de gratuitidade já aprovada. Não há impacto direto na receita do governo. O efeito fiscal líquido é provavelmente neutro, ou um aumento muito ligeiro na despesa se mais famílias conseguirem beneficiar da política existente, mas isso representaria uma utilização mais eficiente dos fundos públicos para o objetivo social pretendido."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

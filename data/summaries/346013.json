@@ -1,0 +1,40 @@
+{
+ "short_title": "Atualização dos apoios ao ensino particular, cooperativo e profissional",
+ "summary": "O Projeto de Resolução n.º 502/XVII/1.ª, apresentado pelo PS, recomenda ao Governo que estabeleça e aplique critérios objetivos e transparentes para rever os apoios financeiros públicos atribuídos a estabelecimentos de ensino particular, cooperativo e profissional privado. Por se tratar de um projeto de resolução, a iniciativa tem caráter recomendatório e não vinculativo. Em concreto, visa concretizar uma norma aprovada no Orçamento do Estado para 2026, abrangendo quatro instrumentos: os contratos de cooperação destinados a alunos com necessidades educativas especiais, os contratos de associação em zonas sem oferta pública suficiente, os contratos de patrocínio no ensino não superior (incluindo ensino artístico especializado) e as tabelas anuais de subsídio por turma e por curso para os cursos profissionais ministrados em escolas profissionais privadas. O objetivo declarado é garantir maior previsibilidade financeira às instituições contratadas e adequar os valores aos custos reais.",
+ "key_points": [
+  "Recomendar ao Governo a definição de critérios objetivos e transparentes para atualizar o apoio mensal por aluno nos contratos de cooperação para educação especial.",
+  "Solicitar a criação de regras claras para rever os valores anuais por turma pagos às escolas privadas com contratos de associação.",
+  "Propor a atualização do apoio financeiro anual por aluno nos contratos de patrocínio do ensino particular e cooperativo não superior.",
+  "Instar à revisão das tabelas dos valores anuais do subsídio por turma e por curso aplicáveis aos cursos profissionais nas escolas profissionais privadas."
+ ],
+ "plain_language": "Quando a escola pública não chega a todo o lado ou não tem resposta especializada, o Estado paga a colégios privados, cooperativas e escolas profissionais para assegurar essas aulas, como acontece na educação especial, no ensino artístico ou em cursos profissionais. Este projeto pede ao Governo que defina regras claras e transparentes para atualizar quanto o Estado paga por cada aluno ou turma nestes acordos, de modo a acompanhar a subida dos preços e dar estabilidade às escolas. Como é apenas uma recomendação do Parlamento, não obriga o Governo a avançar nem fixa novos valores exatos.",
+ "context": "O PS justifica a iniciativa com a necessidade de assegurar a execução efetiva de uma proposta de alteração aprovada no Orçamento do Estado para 2026 que prevê estas atualizações. Segundo o documento, a inflação e anos de congelamento ou revisões pontuais geraram um desfasamento entre os apoios públicos e os custos reais das instituições, nomeadamente nos contratos de cooperação para educação especial e nos contratos de associação. O proponente aponta ainda que o reforço de 2,9 milhões de euros anunciado em outubro de 2025 para a DGEstE apenas permitiu novos encaminhamentos, sem aumentar o valor por aluno.",
+ "analysis": "A iniciativa tem o mérito de apontar para a criação de critérios objetivos e transparentes de atualização financeira, o que pode reduzir a arbitrariedade política e dar maior previsibilidade de gestão às instituições que asseguram respostas educativas onde a rede pública é insuficiente. Além disso, funciona como instrumento de escrutínio parlamentar sobre o cumprimento de uma norma orçamental já aprovada. Contudo, apresenta fragilidades importantes: por ser um projeto de resolução, não tem força vinculativa e não obriga o Executivo a agir nem fixa prazos concretos. O texto também não propõe fórmulas específicas de indexação, como a ligação à inflação ou a custos salariais, nem apresenta qualquer estimativa do impacto financeiro das atualizações defendidas, transferindo integralmente para o Governo o desenho técnico e orçamental das medidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização da recomendação de atualizar em alta os valores por aluno e por turma implica um aumento da despesa pública com contratos no ensino privado e profissional. Contudo, o impacto exato não é quantificado no documento e depende dos critérios que o Governo venha a adotar, por se tratar de uma resolução não vinculativa."
+ },
+ "affected": [
+  "escolas particulares e cooperativas",
+  "escolas profissionais privadas",
+  "alunos com necessidades educativas especiais",
+  "alunos do ensino profissional e artístico"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "ensino particular e cooperativo",
+  "ensino profissional",
+  "contratos de associação",
+  "educação especial",
+  "financiamento escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

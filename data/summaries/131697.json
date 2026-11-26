@@ -1,0 +1,24 @@
+{
+ "short_title": "Simplificação da Certidão de Não Dívida Fiscal",
+ "summary": "Esta proposta de lei visa simplificar a obtenção da declaração de situação tributária regularizada, que é um documento essencial para empresas e contribuintes. Atualmente, pequenas dívidas fiscais, mesmo que de valor residual, impedem a emissão desta certidão, causando entraves burocráticos. A alteração proposta estabelece que a certidão pode ser emitida mesmo que o contribuinte tenha dívidas de impostos ou outras prestações tributárias e juros, desde que o valor total dessas dívidas não seja superior a 25 euros. O objetivo é evitar que valores insignificantes impeçam o acesso a apoios públicos ou financiamentos, sem, contudo, isentar o contribuinte da obrigação de pagar essas dívidas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer facilitar a vida de quem precisa de um comprovativo de que não tem dívidas ao Fisco. Muitas vezes, por causa de uma dívida pequenina, tipo uns trocos, as pessoas ou empresas não conseguem esse papel, o que lhes bloqueia o acesso a apoios ou empréstimos. A ideia é que, se a dívida for de 25 euros ou menos, já não impede a emissão do comprovativo. Atenção, a dívida continua lá e tem de ser paga, mas já não é um entrave para conseguir o documento. É para acabar com a chatice de ficar 'preso' por valores insignificantes.",
+ "context": null,
+ "analysis": "A proposta é consistente com o seu objetivo de simplificar a burocracia e remover obstáculos desnecessários para empresas e contribuintes. Ao estabelecer um limite de 25 euros para dívidas que não impedem a emissão da certidão de não dívida, a Iniciativa Liberal aborda diretamente a questão da 'materialidade' das dívidas, ou seja, a sua relevância prática. A implementação é clara e direta, alterando um artigo específico do Código de Procedimento e de Processo Tributário. A lógica subjacente é que o custo administrativo de perseguir e processar dívidas de valor tão baixo, que impedem processos maiores (como candidaturas a apoios), é desproporcional ao benefício fiscal. A proposta não isenta o pagamento da dívida, apenas desvincula a sua existência da emissão da certidão para valores residuais, o que é um alinhamento inteligente entre o objetivo de desburocratização e a manutenção da obrigação fiscal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não deverá ter um impacto fiscal significativo. Não se prevê um aumento substancial nos gastos do governo, uma vez que a alteração visa simplificar processos existentes, o que poderá até levar a uma ligeira diminuição da carga administrativa. Relativamente à receita do governo, a proposta não isenta os contribuintes do pagamento das dívidas abaixo de 25 euros, apenas permite a emissão da certidão. Portanto, o efeito líquido na receita será provavelmente negligenciável, ou até marginalmente positivo se a desburocratização facilitar outras transações económicas que gerem impostos. O principal impacto será na eficiência administrativa e na fluidez das operações para empresas e cidadãos."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Alargamento da licença parental inicial até 365 dias e proteção monoparental",
+ "summary": "O Projeto de Lei n.º 658/XVII/1.ª, apresentado pelo JPP, altera o Código do Trabalho e os regimes de proteção social da parentalidade (privado e função pública) para alargar a licença parental inicial. Passa a prever três modalidades de duração: 180 dias pagos a 100% da remuneração de referência, 240 dias a 80% ou 365 dias a 65%, permitindo acumular os dias após os 180 com trabalho a tempo parcial. O gozo pode ser partilhado ou simultâneo entre progenitores. Reforça ainda os períodos exclusivos: a licença obrigatória da mãe após o parto passa de 42 para 56 dias e a licença exclusiva do pai sobe para 56 dias (28 consecutivos logo após o nascimento). Garante também às famílias monoparentais o direito à totalidade da licença escolhida e aplica o mesmo modelo à adoção e aos subsídios sociais.",
+ "key_points": [
+  "Alarga a licença parental inicial para 180 dias (pagos a 100%), 240 dias (a 80%) ou 365 dias (a 65%), aplicáveis em caso de nado-vivo ou adoção.",
+  "Aumenta a licença obrigatória exclusiva da mãe após o parto para 56 dias consecutivos e fixa a licença exclusiva do pai em 56 dias, dos quais 28 imediatos ao nascimento.",
+  "Permite que ambos os progenitores gozem a licença parental inicial em simultâneo e possibilita a acumulação com trabalho a tempo parcial após os primeiros 180 dias.",
+  "Assegura às famílias monoparentais e aos progenitores em caso de impossibilidade do outro o direito à totalidade da licença escolhida, sem penalização por falta de partilha.",
+  "Prevê um regime transitório para licenças em curso mediante opção em 30 dias e determina a entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Esta proposta quer dar mais tempo e apoio financeiro aos pais após o nascimento ou adoção de um filho. Em vez dos atuais quatro a seis meses, os pais passariam a escolher entre seis meses a receber 100% do salário, oito meses a 80% ou um ano inteiro a 65%. A mãe teria de ficar obrigatoriamente oito semanas em casa após o parto e o pai teria direito a oito semanas exclusivas, sendo quatro logo após o nascimento. Além disso, quem cria um filho sozinho passaria a ter direito ao tempo total da licença sem perder dias por não poder partilhar com outro progenitor.",
+ "context": "O JPP justifica a iniciativa com a crise demográfica e a baixa natalidade em Portugal, citando dados do INE de 2024 que apontam para uma taxa de natalidade de 7,9‰ e apenas cerca de uma criança por cada cinco pessoas em idade ativa. Embora reconheça que o problema depende também de salários, habitação e creches, o proponente argumenta que o regime atual trata os seis meses como um teto e fica aquém de modelos europeus como os da Suécia, Dinamarca, Finlândia ou Alemanha, prejudicando sobretudo as famílias monoparentais.",
+ "analysis": "A proposta apresenta méritos claros, como fixar os 180 dias como patamar mínimo sem penalizações, proteger as famílias monoparentais, alinhar os setores privado e público e remeter a entrada em vigor para o Orçamento do Estado seguinte. Contudo, revela fragilidades relevantes: não inclui estimativa de impacto orçamental na Segurança Social nem avalia o impacto organizacional nas empresas face a ausências até um ano. Apresenta ainda lacunas técnicas: o artigo 5.º dá 120 dias após a publicação para regulamentar a lei, mas o artigo 7.º exige que tal ocorra até à entrada em vigor; a redução de 50% do subsídio no trabalho a tempo parcial é regulada para a função pública, mas omitida na alteração ao regime geral; e os meios de prova da monoparentalidade são remetidos para regulamentação futura.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da duração das licenças parentais iniciais até 365 dias, a garantia de 180 dias pagos a 100% sem exigência de partilha e o aumento da licença exclusiva do pai para 56 dias aumentam a despesa pública com prestações sociais da Segurança Social e do regime da função pública. O documento não apresenta estimativas financeiras do custo total, remetendo a entrada em vigor para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "trabalhadores do setor privado",
+  "trabalhadores em funções públicas",
+  "famílias monoparentais",
+  "candidatos a adotantes",
+  "entidades empregadoras"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "licença parental",
+  "natalidade",
+  "famílias monoparentais",
+  "código do trabalho",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

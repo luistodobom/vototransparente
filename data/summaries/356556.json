@@ -1,0 +1,44 @@
+{
+ "short_title": "Apoios e preços máximos para combustíveis, gás e agricultura",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a adoção de quatro medidas para mitigar o aumento dos preços dos combustíveis, do gás e de fatores de produção agrícola. Primeiro, propõe definir um preço de referência e fixar preços máximos de venda ao público para gasolina, gasóleo rodoviário, GPL auto e gás engarrafado ou canalizado, tornando definitivas as tarifas reguladas de energia e simplificando a mudança para o comercializador de último recurso. Segundo, recomenda pagamentos mensais compensatórios, via IAPMEI ou IFAP, a micro, pequenas e médias empresas, empresários em nome individual, cooperativas de setores expostos e bombeiros, cobrindo subidas superiores a 10% face ao início de março de 2026. Terceiro, prevê uma compensação semelhante para empresas industriais e da restauração face ao aumento do gás. Quarto, propõe que o IFAP adquira e armazene fertilizantes, rações e outros fatores de produção para venda a preço controlado a pequenos e médios agricultores.",
+ "key_points": [
+  "Fixação de um preço de referência e de preços máximos de venda ao público para gasolina IO95, gasóleo rodoviário, GPL auto e gás butano e propano, seja em garrafa ou canalizado.",
+  "Consagração definitiva dos regimes de tarifas reguladas da energia e simplificação da celebração ou transferência de contrato para o comercializador de último recurso.",
+  "Pagamento mensal compensatório pelo IAPMEI ou pelo IFAP a micro, pequenas e médias empresas, empresários em nome individual, cooperativas de setores expostos e bombeiros sempre que os combustíveis subam mais de 10% face ao início de março de 2026.",
+  "Criação de uma compensação extraordinária mensal pelo IAPMEI para empresas industriais e da restauração quando o preço do gás ultrapasse em mais de 10% o valor de referência de início de março de 2026.",
+  "Aquisição e armazenagem pública pelo IFAP de fatores de produção agrícola, como adubos, fertilizantes, fitofarmacêuticos e rações, para fornecimento a preço controlado a pequenos e médios agricultores e produtores pecuários."
+ ],
+ "plain_language": "Como este texto é um Projeto de Resolução, não cria uma lei obrigatória: é uma recomendação para que o Governo atue. O PCP propõe fixar preços máximos para os combustíveis e para o gás em garrafa ou canalizado, além de facilitar a adesão às tarifas reguladas de energia. Recomenda também que o Estado compense mensalmente pequenas empresas, transportadores, agricultores, pescadores, restaurantes e bombeiros quando o combustível ou o gás subirem mais de 10% face ao início de março de 2026. Por fim, sugere que o Estado compre e armazene adubos e rações para vender a preços controlados aos agricultores.",
+ "context": "O PCP justifica a iniciativa com a escalada dos preços dos combustíveis, energia e fertilizantes desencadeada pela guerra contra o Irão, iniciada em março de 2026, e por práticas especulativas nos mercados. Aponta que os apoios atuais do Governo são insuficientes e excluem os consumos de março, penalizando famílias, transportes, indústria, agricultura, pescas e bombeiros. Citando um alerta da FAO sobre subidas de 15% a 20% nos fertilizantes no primeiro semestre de 2026, o partido defende que, sem regulação de preços e compensações rápidas, há risco de inflação generalizada.",
+ "analysis": "Como ponto positivo, a proposta identifica com precisão os setores mais expostos a choques energéticos e define um critério objetivo de acionamento dos apoios (variação superior a 10% face ao início de março de 2026). Contudo, apresenta fragilidades relevantes. Tratando-se de um Projeto de Resolução, não tem força vinculativa sobre o Governo. Não inclui estimativa de impacto orçamental nem detalha o valor exato do preço de referência ou o cálculo dos preços máximos. Além disso, liquidar mensalmente compensações com base em 'idênticos consumos' para milhares de microempresas e empresários em nome individual envolve elevada complexidade administrativa e risco de atrasos no IAPMEI e no IFAP. Por fim, a fixação de preços máximos e a armazenagem pública exigem salvaguardas operacionais para evitar ruturas de abastecimento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As compensações financeiras mensais às empresas e bombeiros, bem como a aquisição e armazenagem pública de fatores de produção agrícola pelo IFAP, implicam um aumento direto da despesa do Orçamento do Estado, sem estimativa de custos no documento. Na exposição de motivos, o proponente sugere financiar estas medidas através de maior receita fiscal gerada pela subida de preços e pela reversão da descida do IRC, mas a parte resolutiva não contém alterações tributárias."
+ },
+ "affected": [
+  "micro, pequenas e médias empresas de transportes, indústria e comércio itinerante",
+  "pequenos e médios agricultores, produtores pecuários e pescadores",
+  "empresas da restauração",
+  "corporações de bombeiros",
+  "consumidores de combustíveis, eletricidade e gás"
+ ],
+ "categories": [
+  "energia",
+  "economia",
+  "agricultura"
+ ],
+ "tags": [
+  "combustíveis",
+  "preços máximos",
+  "apoio às empresas",
+  "agricultura",
+  "tarifas reguladas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

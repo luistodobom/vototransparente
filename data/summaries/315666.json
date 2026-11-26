@@ -1,0 +1,41 @@
+{
+ "short_title": "Atualização de apoios a contratos educativos e escolas profissionais",
+ "summary": "Este Projeto de Resolução da Iniciativa Liberal é uma recomendação não vinculativa ao Governo para atualizar os apoios financeiros pagos pelo Estado a estabelecimentos de ensino privado que prestam serviço público educativo. A iniciativa propõe a atualização, ainda em 2025 e com efeitos no ano letivo em curso, de quatro regimes previstos em portarias distintas. Em concreto, recomenda aumentar de acordo com a taxa de inflação o apoio aos contratos de associação (atualmente fixado em 88 244,48 euros por turma e ano escolar), o financiamento dos contratos de patrocínio, o subsídio por aluno nas escolas particulares de educação especial (atualmente de 651,26 euros mensais) e o subsídio anual por turma e curso nas escolas profissionais privadas. No caso dos contratos de associação, pede-se que a atualização ocorra aquando do lançamento de cada concurso.",
+ "key_points": [
+  "Recomendar ao Governo a atualização, ainda em 2025, do apoio aos contratos de associação (88 244,48 euros por turma e ano escolar) de acordo com a inflação aquando de cada concurso.",
+  "Atualizar o valor do apoio financeiro atribuído no âmbito dos contratos de patrocínio em montante equivalente à taxa de inflação.",
+  "Atualizar pela taxa de inflação o apoio mensal de 651,26 euros por aluno nas escolas particulares de educação especial.",
+  "Atualizar segundo a inflação o subsídio anual por turma e por curso previsto para as escolas profissionais privadas.",
+  "Assegurar o cumprimento de todas estas atualizações durante o ano letivo em curso."
+ ],
+ "plain_language": "Em Portugal, o Estado paga a algumas escolas privadas e profissionais para garantirem vagas aos alunos, seja no ensino regular, artístico, especial ou profissional. O grupo parlamentar da Iniciativa Liberal defende que os valores pagos pelo Estado estão congelados há anos, enquanto os custos subiram. Por isso, apresenta um pedido ao Governo — que não tem força de lei obrigatória — para que esses pagamentos aumentem consoante a inflação já em 2025. O objetivo declarado é evitar que estas escolas enfrentem prejuízos continuados ou percam sustentabilidade por falta de financiamento.",
+ "context": "O proponente afirma que o financiamento público a escolas privadas contratualizadas está estagnado há mais de uma década, apesar da inflação e do aumento de exigências legais. Destaca que os salários representam cerca de 70% dos custos das escolas, gerando prejuízos continuados e risco de inviabilidade para dezenas de estabelecimentos que servem dezenas de milhares de alunos. Invoca ainda o princípio legal da equivalência de tratamento face ao ensino público e a proteção da liberdade de escolha das famílias.",
+ "analysis": "A iniciativa identifica um problema objetivo: valores nominais fixados em portarias de 2007, 2015 e 2023 perderam poder de compra, o que pode comprometer a estabilidade das escolas abrangidas. Contudo, o texto apresenta fragilidades relevantes. Primeiro, tratando-se de um Projeto de Resolução, não obriga o Governo a agir nem garante verbas orçamentais. Segundo, a redação é ambígua ao pedir uma atualização pela taxa de inflação sem esclarecer se se refere apenas à inflação anual ou à acumulada desde cada portaria, cujo impacto difere substancialmente. Terceiro, pedir efeitos ainda em 2025 para um ano letivo já em curso em outubro cria riscos de execução orçamental e contratual. Falta também quantificação de custos e comparação concreta com os custos da rede pública.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Trata-se de uma recomendação não vinculativa, pelo que não gera despesa automática. Porém, se o Governo a adotar, a indexação à inflação de apoios como os 88 244,48 euros por turma e os 651,26 euros mensais por aluno aumentará a despesa pública, em montante não quantificado no documento."
+ },
+ "affected": [
+  "escolas privadas com contratos públicos",
+  "escolas profissionais privadas",
+  "alunos e famílias",
+  "professores e trabalhadores destas escolas"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "contratos de associação",
+  "ensino profissional",
+  "educação especial",
+  "ensino particular",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

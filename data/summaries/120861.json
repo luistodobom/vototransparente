@@ -1,0 +1,25 @@
+{
+ "short_title": "Plano Nacional de Reabilitação para Sobreviventes de AVC",
+ "summary": "A proposta visa criar um plano estratégico nacional para melhorar o acesso à reabilitação de pessoas que sofreram um Acidente Vascular Cerebral (AVC). O documento destaca que o AVC é a principal causa de morte e incapacidade em Portugal, com muitos sobreviventes a necessitar de reabilitação que atualmente é insuficiente e desigualmente distribuída. Propõe o reforço de equipas multidisciplinares de reabilitação em hospitais, a criação de mais Unidades de Acidente Vascular Cerebral com camas de internamento e uma campanha de sensibilização para a prevenção do AVC.",
+ "key_points": [],
+ "plain_language": "Basicamente, este plano quer que as pessoas que tiveram um AVC em Portugal tenham acesso a mais e melhores tratamentos para recuperarem. Hoje em dia, muita gente não consegue ter a reabilitação de que precisa, o que é um problema grave porque o AVC é a principal causa de morte e de ficar com incapacidade no país. A ideia é ter mais equipas de especialistas nos hospitais, mais sítios para tratar estes doentes e também ensinar as pessoas a prevenir o AVC. É para garantir que quem sofre um AVC tem a ajuda certa para voltar a ter uma vida o mais normal possível.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada da problemática do AVC em Portugal, desde a sua prevalência e impacto na saúde pública até às lacunas existentes nos cuidados de reabilitação. As propostas de intervenção – criação de um plano estratégico, reforço de equipas e infraestruturas, e campanhas de prevenção – alinham-se diretamente com os objetivos de minimizar as lesões, melhorar a recuperação e reduzir a incidência de novos AVC. A argumentação é lógica, partindo de dados estatísticos e inquéritos para justificar a urgência e a necessidade de uma resposta transversal e planeada. Não são identificadas inconsistências, mas sim uma clara correspondência entre o diagnóstico e as soluções propostas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A implementação das medidas propostas, como a contratação de mais profissionais de saúde, a instalação de novas Unidades de Acidente Vascular Cerebral e a realização de campanhas de sensibilização, implicará um aumento inicial dos gastos do governo. No entanto, o documento sugere que o reforço das equipas de reabilitação pode \"diminuir muito significativamente os custos para o SNS e para a sociedade\" a longo prazo, ao melhorar a funcionalidade dos sobreviventes e prevenir complicações. Assim, o efeito líquido pode ser uma redução de custos a longo prazo, mas com um investimento inicial significativo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

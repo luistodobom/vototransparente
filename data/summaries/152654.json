@@ -1,0 +1,25 @@
+{
+ "short_title": "Programa de regularização de dívidas com fins sociais",
+ "summary": "Esta proposta do PSD visa criar um regime extraordinário para a regularização de dívidas fiscais e contributivas à Segurança Social. O objetivo é recuperar cerca de 23 mil milhões de euros em dívidas fiscais e 5 mil milhões de euros em dívidas à Segurança Social, que estão por cobrar. A receita angariada será integralmente destinada a medidas de apoio social, como a redução do IRS para certos escalões, apoio direto a cidadãos ativos e pensionistas com rendimentos mais baixos, e a redução temporária do IVA da eletricidade e do gás para a taxa mínima. O programa oferece incentivos como a dispensa de juros de mora, juros compensatórios e custas de execução fiscal para pagamentos integrais, e reduções para pagamentos em prestações, além de atenuar as coimas associadas.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PSD quer criar um programa para que as pessoas e empresas possam pagar as suas dívidas antigas ao Estado (impostos) e à Segurança Social, mas com umas boas facilidades, como não pagar juros ou multas. O dinheiro que for arrecadado com isto, que é uma quantia avultada que está parada, vai ser todo usado para ajudar as famílias portuguesas. Essa ajuda virá através de descidas no IRS para a classe média, apoios diretos para quem ganha menos e para os reformados, e uma redução temporária do IVA na conta da luz e do gás. É uma forma de o Estado ir buscar dinheiro que está 'escondido' e usá-lo para dar uma mãozinha à economia e às pessoas que mais precisam.",
+ "context": null,
+ "analysis": "A proposta identifica claramente um problema significativo: a existência de um elevado montante de dívidas fiscais e contributivas por cobrar, num contexto de crise económica e perda de poder de compra das famílias. A solução proposta, um regime excecional de regularização, alinha-se com o objetivo de mobilizar estes fundos parados. Os detalhes de implementação, como a dispensa de juros e custas e a possibilidade de pagamento em prestações, são incentivos diretos para que os contribuintes adiram ao programa, facilitando a recuperação das dívidas. A afetação explícita da receita a medidas de apoio social (redução de IRS, IVA e apoios diretos) demonstra uma coerência forte entre a origem dos fundos e o seu destino, visando mitigar os efeitos da crise nas famílias e na classe média, conforme declarado na exposição de motivos. A menção de que a iniciativa não viola a «lei-travão» (porque despesa e receita são geradas no mesmo ano) sugere uma preocupação com a sustentabilidade fiscal da medida. Não se detetam inconsistências flagrantes; pelo contrário, a proposta parece bem articulada entre o problema, a solução e a aplicação dos resultados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo aumentar a receita do governo através da recuperação de dívidas fiscais (estimadas em 23 mil milhões de euros) e contributivas (estimadas em 5 mil milhões de euros). No entanto, esta receita recuperada é integralmente destinada a medidas de apoio social, que incluem reduções de impostos (IRS e IVA) e apoios diretos. As reduções de impostos implicam uma diminuição da receita fiscal futura, e os apoios diretos representam um aumento da despesa. O efeito líquido é, portanto, uma mobilização de fundos que estavam por cobrar para financiar medidas de apoio social. Embora aumente a receita de cobrança de dívidas, simultaneamente aumenta a despesa ou diminui outras receitas, com o objetivo de ser fiscalmente neutro ou positivo no balanço anual, dado que a receita e a despesa são geradas no mesmo ano. O impacto final dependerá da taxa de adesão ao programa e do montante efetivamente recuperado versus o custo das medidas de apoio."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Medidas Fiscais para a Crise da Habitação",
+ "summary": "Esta proposta de lei, apresentada pelo Grupo Parlamentar do PSD, visa combater a grave crise de habitação em Portugal, que se manifesta pela escassez de oferta, preços elevados e dificuldades de acesso. O documento aponta falhas na construção, rigidez nos licenciamentos e a ineficácia de medidas governamentais anteriores. Propõe um conjunto de medidas fiscais para estimular a oferta de habitação (nova construção, reabilitação e colocação de imóveis devolutos no mercado) e apoiar a procura, especialmente para famílias e jovens. As medidas incluem a redução de impostos sobre rendimentos de arrendamento, benefícios fiscais para a aquisição de habitação própria e permanente, redução do IVA na construção e reabilitação, e incentivos para a utilização de imóveis devolutos.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PSD quer resolver o problema da falta de casas em Portugal, que estão muito caras e difíceis de conseguir. Eles acham que o governo atual falhou e que há poucas casas novas a serem construídas, muita burocracia e muitas casas vazias. A ideia deles é dar um empurrão ao mercado através de impostos mais baixos: quem arrenda casas vai pagar menos IRS, quem constrói ou reabilita vai pagar menos IVA, e quem compra a primeira casa ou pede crédito à habitação vai ter mais benefícios fiscais. Também querem que as câmaras municipais identifiquem casas devolutas e usem o dinheiro daí para ajudar quem precisa de apoio para a renda. No fundo, é para haver mais casas no mercado e para que as pessoas, especialmente os jovens, consigam comprar ou arrendar sem ser tão apertado na carteira.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente a crise habitacional como um problema complexo, com causas na oferta (falta de construção, burocracia, imóveis devolutos) e na procura (aumento de juros, turismo, migração). As medidas fiscais propostas, como a redução do IRS sobre rendas, a descida do IVA na construção e a isenção de Imposto do Selo na primeira aquisição de habitação, alinham-se com o objetivo de estimular a oferta e aliviar a carga sobre os compradores e arrendatários. A intervenção da Autoridade Tributária na identificação de prédios devolutos e a afetação das receitas para apoio ao arrendamento é um mecanismo interessante para incentivar a proatividade municipal. No entanto, a proposta foca-se predominantemente em aspetos fiscais, e embora mencione a \"rigidez, lentidão e imprevisibilidade nos processos de licenciamento\" como um problema principal, as medidas apresentadas não detalham como estas barreiras burocráticas serão diretamente removidas, o que pode limitar a eficácia do aumento da oferta. A promoção da vinda de estrangeiros, embora vista como positiva para a economia, pode ser vista como um fator de pressão adicional sobre o mercado habitacional, se não for acompanhada de um aumento significativo e rápido da oferta.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo no curto e médio prazo, resultando numa diminuição da receita do governo e num aumento dos gastos. A redução da taxa liberatória do IRS sobre rendimentos prediais, a aplicação de IVA a 6% na construção e reabilitação, o desagravamento do IMT e a eliminação do Imposto do Selo em certas transações de arrendamento e compra de habitação própria, bem como o reforço de deduções no IRS e descontos no IMI, implicarão uma perda direta de receita fiscal. Adicionalmente, o Estado terá de compensar os municípios pelas perdas de receita resultantes das alterações ao IMT e IMI, o que representa um aumento da despesa pública. Embora a intenção seja estimular a economia e o mercado imobiliário, gerando potencialmente mais receita a longo prazo, o efeito líquido inicial será de um encargo para as finanças públicas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

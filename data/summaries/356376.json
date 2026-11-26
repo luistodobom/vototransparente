@@ -1,0 +1,42 @@
+{
+ "short_title": "Preservação do património digital e do acervo do SAPO Blogs",
+ "summary": "Este projeto de resolução, não vinculativo, recomenda ao Governo que atue para evitar a perda definitiva dos conteúdos do SAPO Blogs, cujo encerramento está previsto para junho de 2026 e a eliminação para novembro do mesmo ano. A iniciativa sugere que o Executivo contacte a empresa responsável pela plataforma para avaliar soluções de preservação antes do apagamento. Propõe também que avalie, com bibliotecas, arquivos e instituições científicas, a guarda institucional do acervo, dialogando com os autores para assegurar direitos de autor, proteção de dados e vontade dos criadores. Além disso, recomenda estudar mecanismos nacionais de arquivo digital, avaliar o regime jurídico de depósito legal para conteúdos online, fomentar a cooperação com universidades e sociedade civil e informar o Parlamento das diligências.",
+ "key_points": [
+  "Promover contactos institucionais com a empresa responsável pelo SAPO Blogs para avaliar soluções que preservem a totalidade dos conteúdos antes da sua eliminação definitiva.",
+  "Avaliar, em articulação com bibliotecas, arquivos e instituições científicas, a possibilidade de assegurar o arquivo institucional do acervo digital do SAPO Blogs.",
+  "Promover o diálogo com os autores dos conteúdos para garantir o respeito pelos direitos de autor, pela proteção de dados pessoais e pela vontade dos criadores.",
+  "Estudar a criação ou o reforço de mecanismos nacionais de preservação de património digital, incluindo sistemas de arquivo de conteúdos online produzidos em Portugal.",
+  "Avaliar a adequação do atual regime jurídico de depósito legal e preservação documental aos desafios do ambiente digital.",
+  "Incentivar a cooperação entre entidades públicas, universidades e sociedade civil para estratégias de memória digital e informar a Assembleia da República das diligências realizadas."
+ ],
+ "plain_language": "O SAPO Blogs vai fechar no final de junho de 2026 e todos os textos publicados ao longo de 23 anos serão apagados em novembro. Como este projeto é uma recomendação não vinculativa, o Parlamento pede ao Governo que tente evitar essa perda. A ideia é falar com a empresa dona da plataforma, bibliotecas, arquivos e autores para preservar os conteúdos em segurança, respeitando direitos de autor e dados pessoais. Pede ainda que se estude como guardar no futuro os conteúdos digitais relevantes produzidos no país.",
+ "context": "O proponente justifica a iniciativa com o encerramento do SAPO Blogs em junho de 2026 e a eliminação prevista para novembro. Segundo o texto, a plataforma reúne 23 anos de produção cultural, cívica e política, funcionando como fonte documental da história recente. Invocando preceitos constitucionais, orientações da UNESCO, a soberania tecnológica e alertas do Presidente da Assembleia da República, sublinha que os conteúdos digitais privados estão vulneráveis e falta um regime abrangente de preservação.",
+ "analysis": "Como ponto forte, a iniciativa identifica uma lacuna real na preservação digital face ao depósito legal impresso e combina uma resposta urgente com uma visão estrutural. Procura ainda equilibrar a liberdade empresarial com o interesse público, salvaguardando direitos de autor, dados pessoais e vontade dos criadores. Contudo, sendo uma recomendação não vinculativa, recorre a formulações vagas como 'avaliar' ou 'estudar', sem fixar prazos, financiamento ou entidades executoras, nem concretizar as iniciativas nacionais de arquivo da web já existentes. Na prática, o prazo até novembro de 2026 é curto para resolver questões técnicas e jurídicas, sobretudo obter autorizações ou gerir dados de milhares de autores potencialmente inativos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa centrada em contactos, avaliações e estudos, a iniciativa não produz impacto orçamental imediato nem apresenta estimativas de custos. Contudo, a eventual concretização de protocolos de arquivo institucional ou de novos mecanismos nacionais de preservação digital poderá implicar encargos para entidades públicas, cujo montante não é quantificado no documento."
+ },
+ "affected": [
+  "Autores e utilizadores do SAPO Blogs",
+  "Empresa detentora do SAPO Blogs (MEO/Altice Portugal/MEO universo empresarial — manter apenas MEO conforme documento: Empresa detentora do SAPO Blogs integrada no universo da MEO)? Wait - let's use exact wording from text!"
+ ],
+ "categories": [
+  "cultura",
+  "ciencia",
+  "comunicacao"
+ ],
+ "tags": [
+  "património digital",
+  "sapo blogs",
+  "arquivo da web",
+  "depósito legal",
+  "memória democrática"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Aumento da dedução específica no IRS para trabalho e pensões",
+ "summary": "O Projeto de Lei n.º 792/XVII/2.ª, do Grupo Parlamentar do LIVRE, propõe alterar o Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) para aumentar a dedução específica aplicada aos rendimentos do trabalho e das pensões. Atualmente fixada em 8,54 vezes o valor do Indexante dos Apoios Sociais (IAS), o que equivale a 4 587,09 euros anuais em 2026, a dedução passaria para 10 vezes o valor do IAS, correspondendo a 5 371,30 euros em 2026, mais 784 euros. Na prática, este aumento amplia a parcela de rendimento anual isenta de IRS, mantendo a atualização automática através do IAS. Embora o diploma anuncie alterações aos artigos 25.º e 70.º do Código do IRS, o articulado apresenta apenas a nova redação do artigo 25.º. A entrada em vigor fica prevista para o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Aumenta a dedução específica no Código do IRS de 8,54 vezes para 10 vezes o valor do Indexante dos Apoios Sociais (IAS).",
+  "Eleva a parcela anual de rendimento isenta de IRS para 5 371,30 euros em 2026, mais 784 euros face ao valor em vigor.",
+  "Mantém a indexação anual da dedução específica ao IAS para acompanhar a evolução deste indicador.",
+  "Prevê a entrada em vigor da alteração com o Orçamento do Estado subsequente à publicação da lei."
+ ],
+ "plain_language": "Quando pagamos IRS sobre o salário ou a pensão, há uma parte inicial desse dinheiro que não paga imposto — chama-se dedução específica. Essa parte esteve congelada durante mais de uma década e, apesar de ter sido atualizada recentemente, continua abaixo do valor que tinha em 2011 tendo em conta a subida dos preços. Este projeto de lei quer aumentar essa fatia livre de impostos de cerca de 4 587 euros para cerca de 5 371 euros por ano, permitindo que trabalhadores e pensionistas poupem no IRS, sobretudo nos rendimentos mais baixos e médios.",
+ "context": "O LIVRE argumenta que a descida das taxas marginais do IRS proposta pelo Governo gera poupanças reduzidas para salários baixos e que a dedução específica esteve congelada nos 4 104 euros entre 2011 e 2023. Segundo os cálculos da iniciativa, embora a dedução tenha sido indexada ao IAS em 2024 e fixada em 8,54 vezes esse valor para 2026, a inflação acumulada exigiria cerca de 5 230 euros a preços de 2025 para repor o poder de compra de 2011, justificando assim o aumento para 10 vezes o IAS.",
+ "analysis": "A iniciativa apresenta um objetivo claro e quantificado de reposição do valor real da dedução específica, utilizando um mecanismo simples e já indexado ao IAS que incide de forma mais proporcional sobre rendimentos baixos e médios. Contudo, o texto legislativo contém fragilidades técnicas relevantes. Embora o título e a exposição de motivos visem os rendimentos do trabalho e das pensões e o artigo de alteração refira os artigos 25.º e 70.º do Código do IRS, o articulado omite completamente a redação do artigo 70.º e apresenta apenas a alteração ao artigo 25.º, mantendo ainda texto rasurado. Adicionalmente, numera dois artigos distintos como «Artigo 2.º». No plano orçamental, o diploma reconhece um custo financeiro sem o quantificar globalmente, remetendo a compensação para outras medidas não integradas neste projeto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O aumento da dedução específica reduz a receita de IRS cobrada pelo Estado, estimando o documento uma poupança anual de 141 euros para salários brutos de 1 250 euros e de 166 euros para salários de 1 500 euros. O proponente reconhece o custo orçamental sem indicar um montante global e sugere compensá-lo com a reavaliação de benefícios fiscais e um imposto mínimo sobre grandes fortunas, medidas ausentes do articulado."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "pensionistas",
+  "contribuintes de IRS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "irs",
+  "dedução específica",
+  "rendimentos do trabalho",
+  "pensões",
+  "ias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

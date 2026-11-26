@@ -1,0 +1,43 @@
+{
+ "short_title": "Dispositivos antiálcool no transporte coletivo e de crianças",
+ "summary": "O Projeto de Resolução n.º 315/XVII/1.ª, apresentado pelo PAN, é uma recomendação não vinculativa ao Governo para que avalie a adaptação da legislação portuguesa às regras europeias sobre sistemas de bloqueio da ignição sensíveis ao álcool, conhecidos como sistemas Alcolock. Estes dispositivos ligam-se ao circuito elétrico do veículo e exigem um teste de ar expirado antes do arranque, bloqueando a ignição caso seja detetado álcool acima do limite ou o teste não seja realizado. A iniciativa recomenda igualmente a criação de medidas que tornem progressivamente obrigatória a instalação destes equipamentos em veículos de transporte de passageiros e de mercadorias não abrangidos pela obrigatoriedade europeia de pré-instalação, dando prioridade aos veículos de transporte de crianças e jovens. Propõe ainda que essa avaliação decorra em articulação com várias entidades públicas de segurança e mobilidade e com auscultação dos representantes empresariais e sindicais do setor.",
+ "key_points": [
+  "Recomenda ao Governo que avalie a adaptação da legislação nacional aos regulamentos europeus sobre pré-instalação de sistemas de bloqueio da ignição sensíveis ao álcool.",
+  "Propõe a criação de um quadro regulatório que torne progressivamente obrigatória a introdução destes sistemas nos veículos de passageiros e mercadorias ainda não abrangidos.",
+  "Define que a obrigatoriedade progressiva deve começar pelos veículos utilizados no transporte de crianças e jovens.",
+  "Exige articulação com o Ministério da Administração Interna, IMT, ANSR, AMT, GNR e PSP na realização dessa avaliação.",
+  "Prevê a auscultação do Instituto para os Comportamentos Aditivos e as Dependências e das organizações representativas do setor dos transportes e dos respetivos trabalhadores."
+ ],
+ "plain_language": "O PAN quer que o Parlamento recomende ao Governo que estude a introdução obrigatória de aparelhos que impedem o arranque de autocarros, carrinhas e camiões se o motorista tiver álcool no sangue acima do limite ou não soprar no dispositivo. A lei europeia já exige que os veículos novos vendidos desde julho de 2024 venham preparados de fábrica para receber este sistema. Como esta proposta é um projeto de resolução, não obriga o Governo a avançar, mas pede-lhe que avalie a medida, começando pelos veículos que transportam crianças e jovens, em diálogo com autoridades, empresas e trabalhadores.",
+ "context": "O proponente aponta o elevado consumo de álcool em Portugal (12,1 litros anuais per capita) e o impacto na sinistralidade rodoviária, referindo que, entre 2016 e 2018, condutores com taxa superior a 0,5 g/l estiveram envolvidos em 20,9% das mortes na estrada. Cita ainda um estudo que estimou os custos económicos e sociais dos acidentes de 2019 em 6 422,9 milhões de euros. Defende que os sistemas Alcolock são mais eficazes do que testes aleatórios e já são obrigatórios no transporte de passageiros em países como França e Espanha.",
+ "analysis": "Como ponto positivo, a iniciativa foca-se numa medida preventiva com respaldo em legislação europeia e prioriza o transporte de crianças e jovens, envolvendo na avaliação tanto as autoridades policiais e reguladoras como os parceiros sociais do setor. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e limita-se a recomendar uma avaliação sem definir prazos concretos. Além disso, o texto não distingue claramente a pré-instalação exigida pela União Europeia nos veículos novos (a interface técnica) da utilização efetiva do dispositivo. Também omite quem suportaria os custos de adaptação das frotas mais antigas e questões práticas de manutenção ou apoios às empresas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa para avaliação legislativa, a iniciativa não tem impacto orçamental direto imediato. Caso o Governo avance para a obrigatoriedade progressiva, poderá gerar custos de adaptação em frotas públicas ou escolares, embora vise reduzir encargos sociais e de saúde associados à sinistralidade."
+ },
+ "affected": [
+  "operadores de transporte de passageiros e mercadorias",
+  "motoristas profissionais",
+  "crianças e jovens utilizadores de transporte escolar",
+  "autoridades de segurança rodoviária e forças policiais"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "saude"
+ ],
+ "tags": [
+  "segurança rodoviária",
+  "alcolock",
+  "transporte de passageiros",
+  "transporte escolar",
+  "álcool"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Modelo de reforma parcial prioritário para trabalho por turnos e noturno",
+ "summary": "O Projeto de Resolução n.º 1293/XVII/2.ª recomenda ao Governo a criação de um modelo de aposentação parcial, de adesão voluntária, como alternativa antecipatória à reforma total. Este mecanismo permitiria aos trabalhadores reduzir o horário de trabalho antes da idade da reforma sem perda de rendimento, combinando trabalho a tempo parcial com uma pensão parcial e um mecanismo de compensação. O texto recomenda ainda que o período em reforma parcial seja contabilizado na íntegra para a carreira contributiva e para o cálculo da pensão final. A implementação proposta é faseada, dando prioridade a quem tenha carreiras contributivas longas e a quem execute, de forma continuada, trabalho noturno ou por turnos. Por fim, recomenda a inclusão de mecanismos de monitorização e correção para evitar desigualdades de género no acesso ao regime ou nos seus efeitos sobre rendimentos e carreiras.",
+ "key_points": [
+  "Desenvolver um modelo de aposentação parcial voluntário e antecipatório da reforma total, com redução do horário de trabalho sem perda de rendimento.",
+  "Garantir que o período em reforma parcial conta integralmente para a carreira contributiva e para o cálculo da pensão final.",
+  "Implementar o modelo de forma faseada, atribuindo prioridade de acesso a trabalhadores com carreiras contributivas longas.",
+  "Priorizar igualmente trabalhadores que executem, de forma continuada, trabalho noturno ou por turnos.",
+  "Incorporar mecanismos de monitorização e correção que previnam desigualdades de género no acesso ao regime, no rendimento e na carreira contributiva."
+ ],
+ "plain_language": "Este projeto de resolução não muda a lei diretamente, mas recomenda ao Governo que crie uma forma de passar à reforma aos poucos. Em vez de parar de trabalhar de um dia para o outro, os trabalhadores poderiam reduzir o seu horário antes da reforma total, recebendo parte da pensão e uma compensação para não perderem dinheiro, sem prejuízo para a pensão futura. O LIVRE sugere começar pelos trabalhadores com muitos anos de descontos e por quem faz trabalho noturno ou por turnos, garantindo também que o sistema não prejudica mais as mulheres.",
+ "context": "O proponente argumenta que a transição atual para a reforma é abrupta e não considera as diferenças entre profissões, saúde e trajetórias de vida. Aponta que o trabalho noturno e por turnos tem efeitos negativos comprovados na saúde cardiovascular, metabólica e do sono, além de citar dados do INE segundo os quais 13,2% dos pensionistas continuam a trabalhar após a reforma, maioritariamente por necessidade. Invocando experiências europeias como a alemã, sustenta que a reforma parcial pode melhorar a qualidade de vida e prolongar a vida ativa, evitando desigualdades sociais e de género.",
+ "analysis": "Como ponto positivo, a recomendação procura responder ao desgaste de carreiras longas e do trabalho por turnos, apoiando-se em modelos europeus comparados e alertando para assimetrias de género já documentadas noutros países. Contudo, trata-se de um Projeto de Resolução não vinculativo e com elevado grau de indefinição técnica e financeira. O texto não concretiza quem suporta o mecanismo de compensação salarial — se o Estado, a Segurança Social ou os empregadores — nem define critérios objetivos para carreira contributiva longa, idade mínima, percentagens de redução de horário ou duração do trabalho noturno exigida. Além disso, garantir ausência de perda de rendimento e contagem integral da carreira pode gerar pressão orçamental ou desincentivos à contratação de trabalhadores mais velhos caso o custo recaia sobre as empresas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Trata-se de uma recomendação não vinculativa e o documento não apresenta estimativas financeiras nem define se o mecanismo de compensação salarial seria suportado pelo Estado, pela Segurança Social ou pelos empregadores. Embora a antecipação parcial de pensões e a contagem integral da carreira possam aumentar a despesa pública, o impacto líquido depende do desenho final do modelo e de um eventual prolongamento da vida ativa."
+ },
+ "affected": [
+  "trabalhadores por turnos",
+  "trabalhadores com trabalho noturno",
+  "trabalhadores com carreiras longas",
+  "empregadores"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "reforma parcial",
+  "trabalho por turnos",
+  "trabalho noturno",
+  "segurança social",
+  "igualdade de género"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

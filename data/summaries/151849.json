@@ -1,0 +1,26 @@
+{
+ "short_title": "Alterações aos Impostos Especiais de Consumo",
+ "summary": "Esta proposta de lei introduz alterações no Código dos Impostos Especiais de Consumo (IEC) para harmonizar a legislação nacional com as diretivas da União Europeia. As mudanças clarificam as condições de exigibilidade e devedores do imposto, a aplicação uniforme do imposto sobre álcool e bebidas alcoólicas, e o regime geral dos impostos especiais de consumo. Inclui também a transposição de diretivas sobre o controlo eletrónico da circulação de produtos, reembolsos de impostos, e isenções para pequenos produtores de vinho e cerveja, bem como para produtos de fabrico caseiro ou usados em suplementos alimentares. Adicionalmente, reforça as medidas antifraude e atualiza os códigos pautais, e formaliza a consignação de parte da receita do imposto sobre produtos petrolíferos e energéticos para o financiamento da rede rodoviária nacional, sem aumentar a carga fiscal.",
+ "key_points": [],
+ "plain_language": "Esta proposta de lei é basicamente para arrumar a casa nos impostos que pagamos em coisas como o álcool, as bebidas e os combustíveis. A ideia é pôr as nossas regras em dia com o que a Europa manda, para que tudo seja mais claro sobre quando e quem paga estes impostos. Também vão facilitar a vida a pequenos produtores de vinho e cerveja, dando-lhes algumas isenções, e a quem faz bebidas em casa para consumo próprio. Uma novidade importante é que uma parte do imposto que pagamos na gasolina e no gasóleo vai ser oficialmente usada para pagar as nossas estradas, através da Infraestruturas de Portugal. O governo diz que isto não vai aumentar os impostos, mas sim ajudar a combater a fraude e a tornar o sistema mais justo e eficiente.",
+ "context": null,
+ "analysis": "O documento demonstra uma forte coerência entre os seus objetivos declarados e os detalhes da implementação. A principal meta de harmonização com as diretivas da UE é consistentemente abordada através de revisões detalhadas do Código dos IEC, abrangendo desde a definição de devedores e momentos de exigibilidade até aos procedimentos de controlo e reembolso. A clarificação das isenções e a introdução de novas categorias de produtores (pequenos produtores independentes) alinham-se com a necessidade de adaptar a legislação a realidades específicas do mercado. A consignação de uma parte da receita dos impostos sobre produtos petrolíferos e energéticos para o serviço rodoviário nacional é uma medida transparente que liga diretamente a receita fiscal à sua aplicação, reforçando o princípio de que os utilizadores da rede viária contribuem para os seus custos. As medidas antifraude e a atualização terminológica são passos lógicos para garantir a eficácia e a equidade do sistema fiscal, combatendo a economia paralela e a concorrência desleal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não prevê um aumento geral da carga tributária em sede de impostos especiais de consumo, conforme explicitamente mencionado no documento, assegurando a neutralidade para cidadãos e empresas. O principal impacto fiscal reside na formalização da consignação de uma parte da receita do imposto sobre produtos petrolíferos e energéticos (ISP) para o financiamento da Infraestruturas de Portugal (IP, S.A.) e da rede rodoviária nacional. Isto representa uma reafectação de receita já existente, não um acréscimo à receita total do governo. As isenções introduzidas para pequenos produtores de álcool e bebidas alcoólicas, produtos de fabrico caseiro e produtos utilizados em suplementos alimentares poderão resultar numa ligeira diminuição da receita potencial nesses segmentos específicos. No entanto, o reforço dos mecanismos de controlo e das medidas antifraude visa melhorar a eficiência da cobrança de impostos, o que poderá compensar ou até aumentar marginalmente a receita líquida ao reduzir a evasão fiscal. O efeito líquido global é, portanto, de uma gestão mais transparente e eficiente da receita existente, com potencial para um ligeiro aumento da receita efetivamente cobrada devido ao combate à fraude."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "energia",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

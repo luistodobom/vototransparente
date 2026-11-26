@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração à Lei dos Metadados para Conformidade Constitucional",
+ "summary": "Esta proposta visa alterar a Lei n.º 32/2008, conhecida como a \"lei dos metadados\", que regula a conservação de dados de comunicações eletrónicas. A alteração é necessária para cumprir um acórdão recente do Tribunal Constitucional (Acórdão n.º 268/2022) que declarou inconstitucionais vários artigos da lei original. O objetivo é adaptar a legislação para proteger os direitos fundamentais dos cidadãos à privacidade e proteção de dados, ao mesmo tempo que permite a investigação de crimes graves.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta é para arrumar a casa na lei que obriga as empresas de telecomunicações a guardar os nossos dados de chamadas e internet. O Tribunal Constitucional disse que algumas partes da lei antiga eram ilegais, porque guardavam dados a mais e por tempo demais, e não nos avisavam quando a polícia os consultava. Então, esta nova proposta vem corrigir isso, para que se guarde menos dados e por menos tempo, e para que sejamos avisados quando os nossos dados são acedidos, a não ser que isso ponha em risco uma investigação. É para proteger a nossa privacidade, mas sem impedir a investigação de crimes graves.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a inconstitucionalidade declarada pelo Tribunal Constitucional relativamente à Lei n.º 32/2008. Especificamente, procura retificar questões relacionadas com o período de retenção obrigatória de dados de tráfego e localização (reduzindo-o de um ano para 12 semanas), a ausência de um mecanismo de notificação para os titulares dos dados quando os seus dados são acedidos pelas autoridades de investigação criminal, e a falta de um âmbito territorial claro para o armazenamento e acesso aos dados. O documento afirma explicitamente que o seu propósito é \"expurgar as normas julgadas inconstitucionais\", o que indica um alinhamento direto dos detalhes de implementação com o objetivo declarado de conformar a lei à decisão do Tribunal Constitucional e à jurisprudência europeia. A norma transitória também demonstra uma abordagem pragmática aos dados existentes, permitindo a sua utilização sob certas condições para processos pendentes, o que equilibra a continuidade legal com os novos requisitos constitucionais. A proposta parece ser uma resposta necessária e direta a um mandato judicial, visando harmonizar a lei nacional com os direitos fundamentais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não fornece qualquer informação sobre o impacto fiscal desta proposta. Trata-se principalmente de conformidade legal e da regulamentação da conservação de dados por parte de prestadores de serviços de telecomunicações privados. Consequentemente, não se prevê que aumente ou diminua diretamente as despesas ou receitas do governo. Quaisquer custos seriam provavelmente suportados pelas entidades privadas que ajustam as suas práticas de conservação de dados."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime extraordinário de proteção da habitação face ao aumento do crédito",
+ "summary": "Esta proposta, apresentada pelo PCP, visa proteger as famílias de perderem as suas casas devido ao aumento dos custos dos empréstimos à habitação, especialmente com a subida das taxas de juro. Sugere várias medidas: obrigar os bancos a reduzir as suas margens de lucro quando as taxas Euribor sobem, para que o custo total do empréstimo não ultrapasse a Taxa Anual Efetiva Global (TAEG) inicial; tornar obrigatória a renegociação dos empréstimos se a taxa de esforço da família (percentagem do rendimento gasta no empréstimo) exceder 35%, permitindo prazos de pagamento alargados; possibilitar uma moratória temporária no pagamento do capital por até dois anos; e permitir que os proprietários entreguem a sua propriedade ao banco para saldar a dívida, com a possibilidade de permanecerem como arrendatários ou até de recomprarem a propriedade mais tarde.",
+ "key_points": [],
+ "plain_language": "Então, o PCP quer dar uma ajuda às famílias que estão aflitas com as prestações da casa, que não param de subir por causa dos juros. A ideia é que os bancos tenham de baixar os lucros quando os juros sobem, para a prestação não ficar mais cara do que o combinado no início. Também querem que os bancos sejam obrigados a renegociar os empréstimos se a pessoa já estiver a gastar mais de 35% do ordenado com a casa, e que se possa esticar o prazo de pagamento. Outra coisa é que se possa parar de pagar o capital do empréstimo por uns tempos, até dois anos. E se a pessoa não conseguir mesmo pagar, pode entregar a casa ao banco para saldar a dívida, e mesmo assim pode continuar a viver lá como inquilino ou até comprar a casa de volta mais tarde. É tudo para as pessoas não perderem a casa.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o objetivo de proteger as famílias de incumprimentos no crédito à habitação, impondo obrigações significativas aos bancos. As medidas, como a redução obrigatória de margens, a renegociação e a moratória de capital, são concebidas para aliviar o fardo financeiro dos mutuários. A cláusula de dação em cumprimento, em particular a impossibilidade de oposição dos bancos e as opções subsequentes para o ex-proprietário (permanecer como arrendatário, recompra, compensação se o banco vender por mais), é uma medida fortemente pró-devedor. Embora isto se alinhe com a proteção familiar, representa uma intervenção substancial no setor bancário, podendo afetar a rentabilidade dos bancos, a sua disposição para conceder crédito e a estabilidade geral do sistema financeiro. O papel alargado do Banco de Portugal na mediação e verificação destas condições também implica uma mudança de responsabilidades. Existe um potencial para risco moral se os mutuários perceberem menos risco de incumprimento devido a estas medidas protetoras.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não implica um aumento direto da despesa governamental. Os custos associados às equipas de mediação do Banco de Portugal seriam provavelmente absorvidos dentro do seu orçamento existente. No entanto, a proposta visa reduzir os lucros dos bancos ao limitar as suas margens e impor termos de renegociação. Isto poderá levar a uma diminuição da receita fiscal corporativa cobrada ao setor bancário. Por outro lado, ao prevenir incumprimentos generalizados e dificuldades sociais, poderá indiretamente reduzir futuras despesas governamentais com programas de apoio social e estabilizar a economia, potencialmente compensando algumas perdas de receita. O efeito líquido nas finanças governamentais é provavelmente uma ligeira diminuição da receita do setor bancário, mas com potenciais benefícios sociais e económicos a longo prazo que são mais difíceis de quantificar fiscalmente."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

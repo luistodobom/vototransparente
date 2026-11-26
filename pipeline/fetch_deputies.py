@@ -6,7 +6,7 @@ substitutes) with persistent cadastre id, names, electoral circle, parliamentary
 history and mandate-situation history (Efetivo, Suplente, Suspenso, ...).
 
 Writes data/processed/deputies.json: {"deputies": {cadId: {...}}, "aliases": {norm name: [cadId]}}.
-Run: python -m pipeline.fetch_deputies [--force] [--no-check]
+Run: python -m pipeline.fetch_deputies [--force | --refresh XVII] [--no-check]
 """
 from __future__ import annotations
 
@@ -49,11 +49,11 @@ def json_link(leg_page: str, leg: str) -> str:
     raise RuntimeError(f"InformacaoBase JSON link for {leg} not found on {leg_page}")
 
 
-def download(legs, force: bool):
+def download(legs, force: bool, refresh=()):
     pages = None
     for leg in legs:
         dest = OPENDATA_DIR / f"InformacaoBase{leg}.json"
-        if dest.exists() and not force:
+        if dest.exists() and not (force or leg in refresh):
             print(f"{leg}: cached ({dest.stat().st_size / 1e6:.1f} MB)")
             continue
         pages = pages or legislature_pages()
@@ -253,9 +253,11 @@ def main(argv=None):
     p = argparse.ArgumentParser()
     p.add_argument("--legs", nargs="*", default=LEGISLATURES)
     p.add_argument("--force", action="store_true", help="re-download even if cached")
+    p.add_argument("--refresh", nargs="*", default=[], metavar="LEG",
+                   help="re-download only these legislatures (e.g. the current one); others are used from cache")
     p.add_argument("--no-check", action="store_true", help="skip sanity checks")
     a = p.parse_args(argv)
-    download(a.legs, a.force)
+    download(a.legs, a.force, a.refresh)
     roster = build(a.legs)
     dest = PROCESSED / "deputies.json"
     dest.write_text(json.dumps(roster, ensure_ascii=False, separators=(",", ":")))

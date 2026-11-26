@@ -1,0 +1,25 @@
+{
+ "short_title": "Monitorização eletrónica remota (MER) dos barcos de pesca",
+ "summary": "A proposta visa tornar obrigatória a instalação de sistemas de Monitorização Eletrónica Remota (MER), que incluem câmaras e sensores, em embarcações de pesca comercial em Portugal. O objetivo principal é combater a sobrepesca, a pesca ilegal e a captura acidental de espécies protegidas, melhorando a fiscalização e a recolha de dados para garantir a sustentabilidade dos recursos marinhos e a conservação da biodiversidade dos oceanos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que todos os barcos de pesca em Portugal tenham câmaras e sensores instalados. A ideia é que, com esta \"vigilância eletrónica\", seja mais fácil ver o que os pescadores estão a apanhar, para evitar que pesquem demais ou que capturem espécies protegidas por engano. É uma forma mais barata e eficaz de controlar a pesca do que ter pessoas a bordo, e assim ajudamos a proteger os nossos oceanos e a garantir que haja peixe para o futuro. Se não cumprirem, levam multas pesadas.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise robusta e bem fundamentada, citando exemplos internacionais (EUA, Nova Zelândia, Austrália, Dinamarca, Reino Unido) onde a Monitorização Eletrónica Remota (MER) já provou ser uma ferramenta eficaz e mais económica do que os observadores humanos a bordo. A proposta aborda diretamente a dificuldade de fiscalização da pesca e a imprecisão dos relatórios atuais, mostrando como a MER pode aumentar a transparência e a fiabilidade dos dados. Os detalhes de implementação, como a instalação gradual e a restrição inicial a embarcações que pescam atum e espadarte (onde há mais problemas de capturas acidentais), demonstram uma abordagem pragmática. A exigência de parecer da Comissão Nacional de Proteção de Dados e a formação dos técnicos que analisam as imagens alinham a implementação com as preocupações de privacidade e a necessidade de interpretação correta dos dados. Não há inconsistências evidentes; pelo contrário, a proposta alinha claramente a tecnologia com o objetivo de conservação marinha e gestão sustentável da pesca.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê uma diminuição dos gastos do governo com a fiscalização da atividade piscatória, uma vez que os sistemas de Monitorização Eletrónica Remota (MER) são \"consideravelmente mais baratos\" do que a utilização de observadores humanos a bordo, com estudos a indicar uma poupança de 27% a 41%. Adicionalmente, a aplicação de coimas (multas) por infrações, que variam entre 500 e 50.000 euros, gerará receita para o Estado, com 50% do valor a ser-lhe diretamente atribuído. O efeito líquido esperado é uma redução dos custos de fiscalização e um aumento da receita através das multas, contribuindo para uma gestão mais eficiente dos recursos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

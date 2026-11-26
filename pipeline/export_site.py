@@ -11,7 +11,7 @@ import json
 from collections import Counter, defaultdict
 from itertools import combinations
 
-from .config import PROCESSED, SITE_DATA, SUMMARIES
+from .config import PROCESSED, SCRAPED, SITE_DATA, SUMMARIES
 from .summarize import CATEGORIES
 
 PARTIES = {
@@ -85,7 +85,7 @@ def export_mps(rows: list[dict]):
     roster = json.loads(dep_p.read_text())["deputies"]
     mv = json.loads(mv_p.read_text())
     # meeting-level attendance per MP (how many plenary meetings they missed, and why)
-    att_p = PROCESSED / "attendance.json"
+    att_p = SCRAPED / "attendance.json"
     attendance = json.loads(att_p.read_text()) if att_p.exists() else {}
     from .deputies import in_office, load_roster
     full_roster = load_roster()

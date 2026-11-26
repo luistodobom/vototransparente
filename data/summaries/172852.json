@@ -1,0 +1,26 @@
+{
+ "short_title": "Medidas de Proteção da Habitação",
+ "summary": "Esta proposta, apresentada pelo PCP, visa combater a grave crise habitacional em Portugal, protegendo inquilinos e proprietários de casas e aumentando a oferta de habitação acessível. As medidas incluem a limitação do valor das rendas em novos contratos, a restrição de despejos e a garantia de estabilidade para arrendamentos antigos. Para quem tem crédito à habitação, propõe-se que os bancos suportem parte do aumento dos juros, a renegociação obrigatória dos empréstimos, moratórias de capital e a possibilidade de entregar a casa para saldar a dívida ou convertê-la em arrendamento com opção de recompra. Adicionalmente, a proposta prevê o alargamento da habitação pública através da utilização de património do Estado, o apoio a programas de habitação sem fins lucrativos e a intervenção em imóveis devolutos. Por fim, propõe o fim de regimes fiscais favoráveis, como o dos Residentes Não Habituais, para combater a especulação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do PCP quer resolver o problema da habitação em Portugal, que está um caos. A ideia é proteger quem aluga casa para não ter rendas disparatadas e não ser despejado à toa. Para quem tem crédito à habitação, querem que os bancos ajudem mais, renegociando os empréstimos, dando pausas nos pagamentos ou até permitindo entregar a casa para saldar a dívida, com a possibilidade de depois a alugar ou até recomprar. Também querem que o Estado use mais os seus próprios imóveis para habitação social e ajude a recuperar casas vazias para alugar a preços justos. E, para acabar com a especulação, querem acabar com os benefícios fiscais para os \"residentes não habituais\", que acham que só servem para inflacionar o mercado.",
+ "context": null,
+ "analysis": "A proposta do PCP apresenta uma abordagem coerente e multifacetada para enfrentar a crise habitacional, alinhando as suas medidas com os objetivos declarados de proteção do direito à habitação e combate à especulação. Não se observam inconsistências internas significativas; pelo contrário, as diversas secções do projeto de lei complementam-se para atingir os fins propostos. Por exemplo, a criação de um \"regime especial de proteção dos inquilinos\" com limites à fixação de rendas e restrições aos despejos alinha-se diretamente com o objetivo de garantir a estabilidade no arrendamento e proteger as famílias do aumento dos custos. Da mesma forma, o \"regime especial de proteção da habitação própria\", que inclui a renegociação mediada de créditos, moratórias de capital e a dação em cumprimento, visa explicitamente aliviar a pressão sobre os mutuários face à subida das taxas de juro e evitar a perda da casa. A proposta de que os lucros da banca suportem parte do aumento das taxas Euribor é uma medida direta para transferir o ónus financeiro da família para as instituições financeiras, em linha com a crítica à especulação. O alargamento da oferta pública de habitação, através da mobilização do património público e da intervenção em imóveis devolutos, é uma resposta direta à escassez de habitação a custos acessíveis, procurando aumentar a disponibilidade de casas no regime de renda condicionada. Finalmente, a eliminação do regime fiscal para os Residentes Não Habituais é uma medida clara para combater a especulação imobiliária, que o PCP argumenta ser exacerbada por estes regimes, e para reorientar a política fiscal para o interesse geral. Em suma, a proposta é internamente consistente, com cada medida a contribuir para os objetivos globais de tornar a habitação mais acessível e proteger os cidadãos, contrastando com a visão de que a habitação é uma mercadoria.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto. Por um lado, prevê um aumento da despesa governamental através da criação de uma linha de crédito a taxa reduzida para a recuperação de imóveis devolutos, do apoio a programas-piloto para habitação sem fins lucrativos (incluindo a aquisição de imóveis pelo IHRU) e dos custos de gestão do património público para habitação social. A proibição da alienação de património público também representa uma perda de potencial receita de vendas. Por outro lado, a principal medida com potencial para aumentar a receita governamental é a eliminação do Regime Fiscal para Residentes Não Habituais. Ao revogar os benefícios fiscais, estes contribuintes passariam a ser tributados pelas regras gerais do IRS, o que, para rendimentos elevados, resultaria num aumento da receita fiscal por indivíduo que permaneça em Portugal. O efeito líquido dependerá da capacidade de o aumento da receita fiscal compensar o aumento da despesa em programas de habitação. A intenção é reorientar os recursos, com menos benefícios fiscais para grupos específicos e mais investimento direto em habitação pública e acessível, visando um benefício social que, a longo prazo, poderá reduzir custos sociais indiretos."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

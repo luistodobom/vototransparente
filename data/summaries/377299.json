@@ -1,0 +1,42 @@
+{
+ "short_title": "Valorização salarial e financiamento dos bombeiros profissionais",
+ "summary": "O Projeto de Resolução n.º 1288/XVII/2.ª, apresentado pelo PAN, recomenda ao Governo que negocie um Programa de Apoio Estrutural e Permanente dirigido aos corpos de bombeiros profissionais. Por se tratar de um projeto de resolução, esta iniciativa constitui uma recomendação não vinculativa ao Executivo. O texto propõe que a negociação envolva a Associação Nacional de Municípios Portugueses, a Autoridade Nacional de Emergência e Proteção Civil, os sindicatos e outras entidades representativas dos trabalhadores. O programa recomendado visa três eixos principais: assegurar verbas para manutenção e compra de equipamentos, recuperação de quartéis e renovação da frota automóvel, reduzindo assimetrias entre municípios; garantir o pagamento das horas extraordinárias realizadas; e aprovar um calendário de valorização salarial com aumentos regulares nos vencimentos base ao longo da carreira.",
+ "key_points": [
+  "Recomenda ao Governo a negociação de um Programa de Apoio Estrutural e Permanente com municípios, proteção civil e sindicatos.",
+  "Prevê financiamento estatal para aquisição e manutenção de equipamentos, nomeadamente de autoproteção, adequados a cada município.",
+  "Inclui verbas para a recuperação de quartéis degradados e da frota automóvel dos corpos de bombeiros profissionais.",
+  "Exige a garantia de pagamento integral das horas extraordinárias realizadas pelos bombeiros profissionais.",
+  "Propõe a aprovação de um calendário de valorização salarial que assegure aumentos regulares no vencimento base e progressão na carreira."
+ ],
+ "plain_language": "Os deputados propõem que o Parlamento recomende ao Governo a criação de um plano de apoio financeiro estável para os bombeiros profissionais. Atualmente, como estes bombeiros dependem dos orçamentos das câmaras municipais, as suas condições variam consoante a capacidade financeira de cada município. O objetivo é que o Estado ajude a pagar novos equipamentos, obras nos quartéis e viaturas, garanta o pagamento das horas extra e estabeleça aumentos salariais regulares. Contudo, como é um projeto de resolução, o Governo não é obrigado a pôr estas medidas em prática.",
+ "context": "Segundo a exposição de motivos, os corpos de bombeiros realizam 90% das missões de proteção civil em Portugal, estando os bombeiros profissionais na linha da frente dos seus municípios e em auxílio a outros corpos. O proponente argumenta que o financiamento municipal atual é desigual: autarquias com mais recursos garantem melhores equipamentos, horas extraordinárias e cuidados de saúde, ao contrário de municípios com menos fundos. O PAN defende um financiamento estatal permanente para assegurar previsibilidade operacional e valorização profissional, ressalvando que os bombeiros voluntários devem ter diploma próprio.",
+ "analysis": "A iniciativa tem o mérito de identificar um problema concreto na proteção civil: a dependência do orçamento autárquico gera assimetrias operacionais e laborais entre municípios. Além disso, acerta ao prever o envolvimento institucional da Associação Nacional de Municípios Portugueses, da proteção civil e dos sindicatos na negociação do programa. Contudo, a proposta apresenta fragilidades relevantes. Sendo um projeto de resolução, não tem força vinculativa e não obriga o Governo a legislar ou a alocar verbas. O texto também não quantifica o impacto orçamental, não esclarece a repartição de encargos entre o Estado e as autarquias, nem define critérios objetivos para avaliar a carência financeira local. Por fim, não estabelece prazos para o calendário salarial e contém uma possível gralha ao referir «saldando possíveis dúvidas» sobre horas extraordinárias.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um programa estatal permanente para financiar equipamentos, obras em quartéis, renovação da frota automóvel, pagamento de horas extraordinárias e aumentos salariais regulares implicaria um aumento da despesa pública. O documento não apresenta qualquer estimativa orçamental nem indica montantes."
+ },
+ "affected": [
+  "bombeiros profissionais",
+  "municípios",
+  "população servida por corpos de bombeiros profissionais"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho",
+  "territorio"
+ ],
+ "tags": [
+  "bombeiros profissionais",
+  "proteção civil",
+  "financiamento municipal",
+  "valorização salarial",
+  "horas extraordinárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Agilizar a Justiça Administrativa e Fiscal em Portugal",
+ "summary": "Esta proposta visa acelerar a justiça administrativa e fiscal em Portugal, que atualmente sofre de longos atrasos e baixa confiança pública, prejudicando a competitividade empresarial. Para isso, propõe-se a criação de mecanismos para agilizar a prolação de sentenças, como o incentivo ao acordo entre as partes sobre os factos e a simplificação da fundamentação das decisões em casos simples. Inclui também incentivos financeiros, como a isenção ou redução de custas processuais para quem resolver litígios rapidamente, a implementação da citação eletrónica para entidades públicas e o aumento do prazo para a apresentação da nota de custas de parte.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do PAN quer que os tribunais que lidam com o governo e impostos sejam muito mais rápidos. É que, hoje em dia, as coisas demoram uma eternidade, o que faz com que as pessoas não confiem na justiça e as empresas gastem mais dinheiro. Então, a ideia é simplificar as decisões dos juízes em casos mais fáceis, dar um empurrãozinho para as pessoas chegarem a acordo mais depressa (e até dar um desconto nas custas do tribunal se resolverem o problema cedo), e fazer com que as comunicações com o Estado sejam por email para ser tudo mais rápido. Assim, a justiça fica menos 'arrastada' e mais eficiente.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema central: a morosidade da justiça administrativa e fiscal em Portugal, que resulta em baixa confiança no sistema legal e custos acrescidos para a atividade empresarial. As medidas propostas alinham-se diretamente com o objetivo de aumentar a celeridade e eficiência. A simplificação das sentenças e o incentivo ao acordo sobre os factos abordam a complexidade e o tempo gasto na instrução processual, que são pontos críticos. Os incentivos financeiros para a resolução antecipada dos litígios são uma forma direta de reduzir o volume de pendências e encorajar a conciliação. A citação eletrónica das entidades públicas é uma medida prática que visa eliminar atrasos burocráticos. Por fim, o ajuste do prazo para as custas de parte resolve uma inconsistência processual que poderia gerar incidentes desnecessários. No geral, as propostas são coerentes e visam atacar as causas da lentidão identificadas, promovendo uma justiça mais ágil e menos onerosa.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê a isenção total ou parcial de custas processuais (incluindo taxas de justiça e custas de parte) em casos de resolução antecipada de litígios. Isto significa que haverá uma diminuição direta na receita do governo proveniente das custas judiciais. Embora não seja quantificado, o efeito líquido imediato será uma redução da receita. Contudo, uma justiça mais célere e eficiente pode gerar benefícios económicos indiretos a longo prazo, como o aumento da competitividade empresarial e a potencial redução de custos administrativos associados à gestão de processos prolongados, que poderiam, em teoria, compensar parte da perda de receita, mas este efeito é incerto e não quantificado."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

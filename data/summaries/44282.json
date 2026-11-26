@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime de avaliação ambiental para agricultura intensiva e superintensiva",
+ "summary": "Esta proposta de lei visa regular as explorações agrícolas intensivas e superintensivas em Portugal, estabelecendo faixas de salvaguarda e um novo regime de Avaliação de Incidências Ambientais (AIncA). O objetivo é mitigar os impactos negativos destas práticas na qualidade do solo, recursos hídricos, biodiversidade, saúde pública e património cultural, preenchendo lacunas na legislação existente que não avaliava adequadamente os efeitos cumulativos de projetos de menor dimensão.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer pôr travão às grandes explorações agrícolas que plantam tudo muito junto e usam muitos químicos, como os olivais e amendoais superintensivos. A ideia é que estas quintas tenham de manter uma distância segura de casas e rios, e que passem por uma espécie de 'check-up ambiental' antes de poderem funcionar. Se não cumprirem as regras, podem levar multas ou perder os apoios do governo. Tudo isto para proteger o ambiente, a água, o solo e a saúde das pessoas que vivem perto.",
+ "context": null,
+ "analysis": "A proposta aborda de forma consistente uma lacuna identificada na legislação atual (Decreto-Lei n.º 152-B/2017), que não exige Avaliação de Impacte Ambiental para projetos agrícolas intensivos e superintensivos que, individualmente, não atingem os limiares mínimos, mas que, em conjunto ou contiguamente, geram impactos ambientais significativos. O mecanismo da AIncA e a definição de faixas de salvaguarda alinham-se diretamente com o objetivo de proteger o ambiente e a saúde pública, ao exigir uma avaliação prévia e impor restrições à localização e operação destas explorações. A proposta reconhece os problemas sociais e económicos (concentração da propriedade, precariedade laboral) associados a estas explorações, embora as medidas propostas se foquem primariamente nos aspetos ambientais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A implementação desta proposta implicará um aumento dos gastos do governo, uma vez que exige a criação de novos procedimentos administrativos (AIncA), a regulamentação por portaria e o reforço da fiscalização por parte de entidades como as Direções Regionais de Agricultura e Pescas e as CCDR. Poderá haver um aumento da receita governamental através da aplicação de coimas por incumprimento. Por outro lado, a inibição de atribuição de apoios do PDR2020 a projetos com declaração de AIncA favorável condicionada pode representar uma diminuição da despesa pública em subsídios agrícolas, mas também um impacto negativo na receita dos agricultores afetados. O efeito líquido será provavelmente um aumento dos custos administrativos para o Estado, com potenciais compensações parciais via multas e redução de subsídios."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

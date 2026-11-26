@@ -1,0 +1,26 @@
+{
+ "short_title": "Alteração ao Regime Jurídico-Laboral do Teletrabalho",
+ "summary": "Esta proposta do PSD visa atualizar o enquadramento legal do teletrabalho em Portugal. O objetivo é clarificar e melhorar as regras existentes, especialmente após o aumento significativo do teletrabalho durante a pandemia de COVID-19. As principais áreas abordadas incluem o tratamento fiscal das despesas de teletrabalho (para que sejam custos para as empresas e não rendimentos para os trabalhadores), a garantia do respeito pela privacidade e vida familiar dos trabalhadores, e a clarificação das regras relativas a acidentes de trabalho ocorridos no domicílio. A proposta procura adaptar a legislação às novas realidades do trabalho à distância, equilibrando os interesses de empregados e empregadores.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do PSD quer pôr a lei do teletrabalho em dia. Com tanta gente a trabalhar de casa por causa da pandemia, a lei antiga já não servia bem. Agora, querem que as empresas paguem as despesas do teletrabalho (internet, etc.) sem que isso seja taxado ao trabalhador, e que as empresas não possam andar a espiar a vida privada de quem trabalha em casa. Também querem que seja mais claro o que acontece se houver um acidente de trabalho em casa. É para que o trabalho à distância seja mais justo e seguro para todos.",
+ "context": null,
+ "analysis": "O documento reconhece que a legislação anterior sobre teletrabalho era \"pouco densificada\" e que a pandemia forçou uma \"massificação\" do teletrabalho em circunstâncias não previstas, muitas vezes sem acordo prévio ou com a necessidade de conciliar com o acompanhamento familiar. A proposta alinha-se com o objetivo de corrigir estas inconsistências e lacunas. Ao propor que as despesas de teletrabalho sejam custos para as empresas e não rendimentos para os trabalhadores, e ao reforçar o direito à privacidade e as regras para acidentes de trabalho em casa, a proposta procura adaptar a lei à nova realidade, protegendo os direitos dos trabalhadores e clarificando as obrigações das empresas. A ênfase na necessidade de diálogo social para consolidar estas alterações demonstra uma abordagem que visa a estabilidade e a paz social, reconhecendo a complexidade das relações laborais. Não há inconsistências internas evidentes, mas sim uma tentativa de colmatar as lacunas da legislação existente face a um cenário de trabalho em rápida evolução.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta indica que as despesas pagas pelas empresas para custear o teletrabalho serão consideradas custos para as empresas e não rendimentos para os trabalhadores. Isto significa que as empresas poderão deduzir estes valores nos seus impostos (IRC), o que tenderá a diminuir a receita fiscal do governo. Para os trabalhadores, o facto de não ser considerado rendimento significa que não pagarão imposto sobre o rendimento das pessoas singulares (IRS) sobre esses valores, o que também pode resultar numa ligeira diminuição da receita fiscal do governo. O efeito líquido será, provavelmente, uma diminuição da receita do governo, sem um aumento direto nos gastos governamentais."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço de garantias e proteção de menores em centros de detenção de fronteira",
+ "summary": "Este projeto de lei do LIVRE altera a Lei do Asilo, a Lei de Estrangeiros e o regime dos Centros de Instalação Temporária para reforçar garantias processuais e proibir a pernoita de migrantes e requerentes de asilo nas zonas internacionais de portos e aeroportos, incluindo áreas de embarque e segunda linha. A iniciativa determina que qualquer colocação ou manutenção em centro de detenção administrativa exige uma avaliação individualizada pelo juiz competente sobre a necessidade, adequação e proporcionalidade da medida, precedida da audição obrigatória do interessado. No caso de menores acompanhados por adultos sem relação familiar imediatamente comprovada, proíbe a separação automática por mera falta de documentos, atribuindo ao Tribunal de Família e Menores a decisão sobre o alojamento conjunto ou separado, mediante avaliação de risco e apoio de intérprete.",
+ "key_points": [
+  "Proíbe a pernoita de cidadãos estrangeiros não admitidos e requerentes de proteção internacional na zona internacional de portos e aeroportos, incluindo zonas de embarque e de segunda linha.",
+  "Exige que qualquer colocação ou manutenção em centro de instalação temporária ou espaço equiparado seja precedida da audição do interessado e de uma apreciação judicial individualizada da sua necessidade, adequação e proporcionalidade.",
+  "Substitui o limite de 48 horas de permanência na zona internacional pela obrigação de as forças de segurança comunicarem ao tribunal logo que se revele necessária a adoção de medidas para evitar a pernoita.",
+  "Impede a separação automática entre menores e adultos acompanhantes pela mera ausência de documentos de filiação, exigindo uma avaliação de risco e a intervenção das entidades de proteção de crianças e jovens.",
+  "Atribui ao Tribunal de Família e Menores a decisão sobre o alojamento conjunto ou separado do menor e do adulto acompanhante, garantindo ao menor o direito a um intérprete numa língua que compreenda."
+ ],
+ "plain_language": "Quando alguém chega a um aeroporto ou porto português sem autorização de entrada ou a pedir asilo, pode ficar retido enquanto o caso é analisado. Esta proposta proíbe que essas pessoas durmam nas áreas internacionais de portos e aeroportos. Além disso, ninguém poderá ser colocado num centro de detenção sem ser ouvido previamente e sem que um juiz avalie o seu caso concreto. Para crianças que viajam com adultos sem documentos que provem o parentesco, a lei impede separações automáticas, cabendo ao Tribunal de Família e Menores decidir, com apoio especializado e direito a intérprete.",
+ "context": "O LIVRE baseia-se em relatórios de entidades como o Comité Europeu para a Prevenção da Tortura, a Provedoria de Justiça, a IGAI, a Ordem dos Advogados e o Conselho Português para os Refugiados, que denunciam falhas graves na detenção em fronteiras. Aponta sobretudo a pernoita prolongada de migrantes na zona internacional do aeroporto de Lisboa, sem camas, privacidade ou higiene adequada, por falta de vagas nos centros existentes. O partido cita ainda orientações do Conselho Superior da Magistratura e do ACNUR para reforçar o controlo judicial e a proteção de crianças.",
+ "analysis": "A iniciativa tem o mérito de harmonizar as três leis aplicáveis à detenção administrativa, reforçando o controlo judicial e a proteção de menores conforme recomendações jurídicas e internacionais. Contudo, apresenta fragilidades operacionais e de redação. Proibir a pernoita nas zonas internacionais não resolve a falta de vagas nos centros existentes, apontada na própria exposição de motivos, nem define que soluções de alojamento alternativo devem ser usadas quando não haja capacidade disponível. Além disso, a entrada em vigor imediata no dia seguinte à publicação coloca pressão sobre tribunais, forças de segurança e serviços de proteção de menores para assegurar audições prévias, intérpretes e transferências céleres. Nota-se ainda uma gralha de redação no n.º 3 do artigo 35.º-A da Lei do Asilo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do direito a intérprete para menores, a realização obrigatória de audições judiciais prévias, a intervenção de entidades de proteção de crianças e a proibição de pernoita em zonas internacionais tendem a aumentar os custos operacionais e de acolhimento do Estado. O projeto de lei não inclui estimativas orçamentais nem quantifica montantes."
+ },
+ "affected": [
+  "requerentes de proteção internacional",
+  "cidadãos estrangeiros não admitidos",
+  "menores migrantes em fronteira",
+  "forças de segurança",
+  "tribunais e entidades de proteção de menores"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "centros de instalação temporária",
+  "proteção de menores",
+  "direito de asilo",
+  "controlo de fronteiras",
+  "garantias processuais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

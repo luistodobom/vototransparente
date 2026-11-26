@@ -1,0 +1,25 @@
+{
+ "short_title": "Reorganização de obrigações fiscais declarativas em IRC e IVA",
+ "summary": "A proposta visa simplificar e desburocratizar as obrigações fiscais e de Segurança Social para empresas e contabilistas em Portugal. As principais medidas incluem a alteração da periodicidade da declaração de IVA para quadrimestral (para empresas com volume de negócios inferior a 650.000€), o alargamento do prazo de entrega da declaração de IRC (Modelo 22) de 31 de maio para 30 de junho, a eliminação da obrigação anual de entrega do Relatório Único ao Ministério do Trabalho e da Segurança Social (por ser redundante com a IES), e o alargamento do prazo de entrega da Informação Empresarial Simplificada (IES) de 15 de julho para 15 de setembro. O objetivo é reduzir a complexidade, a redundância e os custos administrativos associados a estas obrigações.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer facilitar a vida das empresas e dos contabilistas no que toca aos impostos e à Segurança Social. A ideia é que não tenham de preencher tantos papéis ou fazê-lo tão depressa. Por exemplo, o IVA passa a ser declarado de quatro em quatro meses em vez de três em três para as empresas mais pequenas, o prazo para entregar o imposto das empresas (IRC) é alargado um mês, um relatório anual que as empresas entregavam sobre os trabalhadores (o Relatório Único) vai acabar porque a informação já existe noutro sítio, e o prazo para entregar a Informação Empresarial Simplificada (IES) também é esticado. Tudo isto para que as empresas gastem menos tempo e dinheiro com burocracia.",
+ "context": null,
+ "analysis": "A proposta identifica claramente um problema de sobrecarga e redundância nas obrigações fiscais e de Segurança Social, que geram \"custos de contexto\" e ineficiência. As soluções propostas (alteração de periodicidade, alargamento de prazos, eliminação de relatórios redundantes) alinham-se diretamente com o objetivo de simplificação e desburocratização. A justificação para o alargamento do prazo do Modelo 22, citando um precedente durante a pandemia, demonstra que a medida é viável e já foi testada. A eliminação do Relatório Único é lógica, dado que a informação já é recolhida através da IES, evitando duplicação de esforços. A proposta é consistente na sua abordagem para aliviar a carga administrativa sobre empresas e contabilistas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não visa alterar as taxas de impostos ou criar novas fontes de receita. O seu foco é a simplificação administrativa. Ao reduzir a complexidade e a redundância das obrigações declarativas, espera-se uma diminuição dos \"custos de contexto\" para as empresas e contabilistas, o que representa uma poupança para o setor privado. Para o governo, a eliminação de relatórios redundantes e a otimização dos prazos podem levar a uma ligeira diminuição dos custos administrativos associados ao processamento e gestão destas obrigações, embora o impacto direto na receita ou despesa governamental seja provavelmente marginal. O efeito líquido será uma redução da carga burocrática e dos custos de conformidade para os contribuintes, com uma potencial, mas não quantificada, redução dos custos operacionais para a Autoridade Tributária e Segurança Social. Não há indicação de aumento de gastos ou receitas governamentais."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

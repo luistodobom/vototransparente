@@ -1,0 +1,25 @@
+{
+ "short_title": "Redução do IVA para ginásios e clubes de saúde",
+ "summary": "Esta proposta de lei visa reduzir a taxa de IVA aplicada aos serviços prestados por ginásios, clubes de fitness e de saúde, passando-a para a taxa mais reduzida. O objetivo principal é incentivar a prática de exercício físico em Portugal, onde os índices de atividade física são baixos e a obesidade é elevada. Ao tornar estes serviços mais acessíveis, espera-se melhorar a saúde pública, diminuir a pressão sobre o Serviço Nacional de Saúde (SNS) e apoiar o setor do fitness, que foi severamente afetado pelas restrições da pandemia de COVID-19, evitando o encerramento de estabelecimentos e a perda de empregos.",
+ "key_points": [],
+ "plain_language": "Então, a ideia é simples: baixar o imposto (IVA) que se paga nos ginásios e clubes de fitness. Porquê? Porque em Portugal, muita gente não faz exercício e está com excesso de peso. Se ficar mais barato ir ao ginásio, mais pessoas vão, ficam mais saudáveis e isso ajuda o nosso Serviço Nacional de Saúde a ter menos trabalho. Além disso, os ginásios estão a passar um mau bocado por causa da pandemia, e esta medida é para os ajudar a não fechar e a manter os empregos de muita gente.",
+ "context": null,
+ "analysis": "A proposta estabelece uma ligação clara entre a redução do IVA e os benefícios para a saúde pública, argumentando que cidadãos mais ativos fisicamente sobrecarregam menos o SNS. Além disso, aborda a crise económica que o setor dos ginásios enfrenta, especialmente após os encerramentos devido à pandemia, e propõe a redução do IVA como uma medida para revitalizar o setor, tornando os serviços mais acessíveis e, consequentemente, aumentando a procura. A lógica é consistente: a diminuição dos custos para o consumidor final deve impulsionar a adesão, beneficiando tanto a saúde individual e coletiva quanto a sustentabilidade económica dos negócios e dos empregos associados. A implementação da medida, através de um aditamento ao Código do IVA, é direta e alinhada com o objetivo de impacto imediato.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição direta da receita do governo proveniente do IVA sobre os serviços de ginásios e clubes de fitness, uma vez que a taxa será reduzida. No entanto, o documento argumenta que esta perda de receita pode ser compensada a longo prazo por uma potencial diminuição dos gastos do governo com o Serviço Nacional de Saúde, devido a uma população mais saudável. Adicionalmente, a medida visa evitar o encerramento de empresas e a perda de cerca de 25 mil empregos no setor, o que teria um impacto negativo na economia e nas finanças públicas através de subsídios de desemprego e menor arrecadação de impostos sobre o rendimento. O efeito líquido é apresentado como positivo, com um investimento inicial na redução de receita para ganhos em saúde pública e estabilidade económica."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

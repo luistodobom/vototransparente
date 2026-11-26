@@ -1,0 +1,25 @@
+{
+ "short_title": "Suspensão de pagamentos de alojamento universitário devido à COVID-19",
+ "summary": "Esta proposta de lei visa suspender o pagamento das mensalidades de alojamento em residências universitárias enquanto estiverem em vigor as medidas restritivas relacionadas com a pandemia de COVID-19. A justificação é que os estudantes não estão a usufruir destas residências, tendo regressado às suas casas de família devido ao encerramento dos estabelecimentos de ensino e à necessidade de isolamento social.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei serve para que os estudantes universitários não tenham de pagar o quarto na residência da faculdade enquanto estiverem em casa por causa da pandemia de COVID-19. Como não estão a usar o alojamento, não faz sentido que paguem por ele. A ideia é que só voltem a pagar quando as coisas voltarem ao normal e as restrições acabarem.",
+ "context": null,
+ "analysis": "A proposta é consistente e alinha-se diretamente com o seu objetivo. O documento identifica claramente o problema (estudantes a pagar por alojamento que não usam devido à pandemia) e propõe uma solução direta: a suspensão dos pagamentos. A implementação é lógica, vinculando a suspensão à duração das medidas restritivas da COVID-19 e estabelecendo a retroatividade dos efeitos para coincidir com o início das restrições, garantindo que os estudantes não sejam prejudicados por pagamentos já efetuados após o início do confinamento.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta provavelmente diminuirá a receita das entidades que gerem as residências universitárias (muitas das quais são públicas ou recebem financiamento público), uma vez que os pagamentos dos estudantes serão suspensos. O efeito líquido será uma diminuição da receita do governo ou das instituições públicas de ensino superior, sem um aumento direto nos gastos do governo, mas sim uma perda de receita esperada."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

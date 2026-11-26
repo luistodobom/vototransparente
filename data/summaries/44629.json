@@ -1,0 +1,26 @@
+{
+ "short_title": "Redução de Horas de Teletrabalho para Assistência a Filhos e Dependentes",
+ "summary": "Esta proposta de lei, apresentada pelo Grupo Parlamentar Os Verdes, visa estabelecer um limite máximo de horas de trabalho diárias e semanais para os trabalhadores em regime de teletrabalho que necessitem de prestar assistência a filhos ou outros dependentes. A medida aplica-se a dependentes menores de 15 anos ou, independentemente da idade, com deficiência ou doença crónica, e é válida enquanto durarem as medidas restritivas relacionadas com a COVID-19. Propõe-se que o número de horas diárias de trabalho seja igual ou inferior a cinco e o número máximo de horas semanais seja de 25, sem que haja perda de remuneração para o trabalhador.",
+ "key_points": [],
+ "plain_language": "Então, esta proposta é para ajudar os pais e cuidadores que estão a trabalhar de casa e têm de tomar conta dos filhos (até aos 15 anos ou com alguma doença/deficiência, independentemente da idade). A ideia é que estas pessoas possam trabalhar menos horas por dia (no máximo 5) e por semana (no máximo 25), mas sem que lhes cortem o salário. Isto só se aplica enquanto as restrições da COVID-19 estiverem em vigor. Basicamente, é para dar uma folga a quem está a tentar fazer tudo ao mesmo tempo: trabalhar e cuidar da família.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a dificuldade de conciliar o teletrabalho a tempo inteiro com a assistência a filhos e dependentes, uma situação que se tornou mais premente com a pandemia de COVID-19 e o encerramento de escolas e creches. A justificação inicial do documento descreve claramente o problema da sobrecarga dos pais e cuidadores, especialmente quando um dos progenitores está sozinho ou tem múltiplos filhos/dependentes com necessidades especiais. A solução proposta de redução de horário sem perda de remuneração alinha-se perfeitamente com o objetivo de aliviar essa carga e garantir o apoio necessário aos dependentes. A limitação da aplicação da lei ao período de medidas restritivas da COVID-19 demonstra consistência com o contexto de emergência que a motivou. Não se detetam inconsistências na lógica da proposta, que visa proteger o bem-estar familiar e a capacidade de conciliação trabalho-vida pessoal durante um período excecional.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta estabelece que a redução do horário de trabalho não implicará perda de remuneração para os trabalhadores. Isto significa que os empregadores (incluindo o Estado, no caso de funcionários públicos) terão de pagar o salário integral por um número reduzido de horas de trabalho. Para o governo, isto resultará num aumento dos gastos com pessoal no setor público, uma vez que a produtividade por hora trabalhada pode diminuir enquanto os custos salariais permanecem os mesmos. No setor privado, o aumento dos custos para as empresas pode levar a uma redução dos lucros, o que, por sua vez, poderá diminuir a receita do governo proveniente de impostos sobre as empresas. O efeito líquido será, portanto, um aumento dos gastos do governo e/ou uma diminuição das suas receitas, resultando num impacto fiscal negativo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

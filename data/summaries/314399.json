@@ -1,0 +1,26 @@
+{
+ "short_title": "Levantamento de custos de saúde em acordos bilaterais com países terceiros",
+ "summary": "Esta proposta recomenda que o Governo português faça um levantamento detalhado e publique os valores financeiros associados aos acordos bilaterais de saúde celebrados com outros países. O objetivo é apurar os custos totais para o Serviço Nacional de Saúde (SNS), os montantes já reembolsados pelos países parceiros, as dívidas pendentes, o número de beneficiários e os tipos de cuidados prestados. A iniciativa surge da preocupação com a degradação do SNS e a pressão adicional decorrente da utilização dos seus serviços por cidadãos estrangeiros ao abrigo destes acordos, cuja gestão carece de transparência e sustentabilidade.",
+ "key_points": [],
+ "plain_language": "O nosso Serviço Nacional de Saúde (SNS) está a passar por dificuldades, e uma das razões apontadas é o facto de muitos estrangeiros o usarem através de acordos que Portugal tem com os seus países. O problema é que não sabemos ao certo quanto é que isso custa ao SNS, nem se os outros países estão a pagar o que devem. Esta proposta pede ao Governo para fazer um 'raio-X' completo a esses acordos, para saber exatamente quanto gastamos, quanto recebemos de volta, quanto nos devem, e quem e como está a usar o SNS através deles. A ideia é ter todos os números na mesa para percebermos melhor a situação e, quem sabe, melhorar a gestão.",
+ "context": null,
+ "analysis": "O documento identifica claramente a falta de transparência e de dados detalhados sobre o impacto financeiro dos acordos bilaterais de saúde no SNS como um problema significativo. A proposta de proceder a um levantamento exaustivo e à publicitação desses dados é uma abordagem lógica e necessária para diagnosticar a extensão do problema. Ao focar-se na recolha de informação sobre custos, reembolsos e beneficiários, a proposta alinha-se diretamente com o objetivo de melhorar a sustentabilidade e a gestão do SNS. Não oferece uma solução imediata para a degradação do SNS, mas estabelece a base informacional crucial para futuras decisões políticas e para a reavaliação da eficácia e equidade destes acordos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta em si, que se foca na recolha e análise de dados, implicará um aumento marginal dos gastos do governo em termos de recursos administrativos e humanos para a compilação e processamento da informação. Não há um impacto direto na receita ou despesa do governo no curto prazo. No entanto, o objetivo subjacente é identificar e quantificar os custos e as dívidas associadas aos acordos bilaterais. Se os dados revelarem montantes significativos não reembolsados ou custos excessivos, isso poderá levar a futuras renegociações dos acordos ou a políticas que visem diminuir os gastos do governo ou aumentar as receitas através de reembolsos mais eficazes, resultando num potencial efeito líquido positivo a longo prazo para as finanças públicas."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "internacional"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

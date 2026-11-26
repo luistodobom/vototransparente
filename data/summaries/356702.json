@@ -1,0 +1,43 @@
+{
+ "short_title": "Alteração à Lei de Bases Agrária e ao regime de impacte ambiental",
+ "summary": "O Projeto de Lei n.º 608/XVII/1.ª, apresentado pelo Chega, visa fomentar a produção agrícola nacional através de alterações à Lei de Bases do Desenvolvimento Agrário e ao regime jurídico de Avaliação de Impacte Ambiental (AIA). Na Lei de Bases, consagra como princípios o direito a uma alimentação saudável e permanente e a garantia de condições dignas aos agricultores, definindo a soberania alimentar como objetivo estratégico. Prevê ainda a simplificação de licenciamentos, a redução de exigências contabilísticas e a garantia de acesso a informação, apoios e formação. No regime da AIA, o diploma altera os limiares para instalações de criação intensiva de aves e suínos, passando a sujeitar a avaliação obrigatória unidades com mais de 100 000 frangos, 70 000 galinhas ou 3 500 porcos de produção. Dispensa também de AIA projetos de emparcelamento com regadio de precisão ou gota-a-gota e a plantação de diversas espécies folhosas.",
+ "key_points": [
+  "Adita à Lei de Bases do Desenvolvimento Agrário os princípios do direito a uma alimentação saudável e suficiente e da garantia de condições de vida dignas aos agricultores.",
+  "Estabelece a soberania alimentar como objetivo estratégico da política agrícola nacional.",
+  "Determina a promoção da simplificação de licenciamentos agrícolas, a redução de exigências contabilísticas e o acesso a informação, apoios e formação.",
+  "Altera no Anexo I do regime de AIA os limiares para pecuária intensiva para mais de 100 000 frangos, 70 000 galinhas e 3 500 porcos de produção com mais de 30 kg.",
+  "Dispensa de AIA os projetos de emparcelamento rural com regadio de precisão ou gota-a-gota e a plantação de espécies folhosas como carvalhos, castanheiro, sobreiro, cerejeira, tramazeira e plátano-bastardo."
+ ],
+ "plain_language": "Esta proposta altera duas leis ligadas à agricultura e ao ambiente. Primeiro, acrescenta à lei principal do setor agrícola objetivos como a autossuficiência alimentar do país e a promessa de menos burocracia e menos exigências contabilísticas para os agricultores. Segundo, alivia as regras ambientais: permite avançar com aviários e pocilgas de maior dimensão sem avaliação de impacte ambiental obrigatória no Anexo I, e dispensa desse estudo os projetos de emparcelamento que usem rega de precisão ou gota-a-gota, bem como a plantação de várias árvores folhosas, como sobreiros, castanheiros ou carvalhos. Na prática, procura facilitar a atividade agrícola e pecuária reduzindo requisitos ambientais.",
+ "context": "O proponente justifica a iniciativa com a vulnerabilidade de Portugal no abastecimento alimentar, agravada por guerras como as da Ucrânia e do Médio Oriente, que encarecem a energia, os fertilizantes e os cereais. Aponta o baixo autoaprovisionamento português em cereais, o crescimento do défice agroalimentar e o elevado peso da alimentação no orçamento das famílias. Refere ainda o envelhecimento dos agricultores, a queda do emprego no setor e os atrasos burocráticos e financeiros no acesso aos apoios europeus do Plano Estratégico da Política Agrícola Comum.",
+ "analysis": "O projeto revela um desfasamento acentuado entre o diagnóstico inicial e as medidas propostas. Embora a exposição de motivos foque o défice de cereais, a falta de jovens agricultores e os bloqueios no Plano Estratégico da Política Agrícola Comum, o articulado não cria incentivos financeiros, medidas de renovação geracional nem regras para fundos europeus. As alterações à Lei de Bases são sobretudo programáticas, sem mecanismos concretos para reduzir obrigações contabilísticas. Já as mudanças na Avaliação de Impacte Ambiental têm efeito prático imediato ao alterar limiares para pecuária intensiva e dispensar estudos ambientais em regadios e florestações, abrangendo espécies de crescimento rápido e exóticas como o carvalho-americano. Esta opção pode acelerar investimentos, mas comporta riscos ambientais e possíveis incompatibilidades com diretivas europeias, apresentando ainda o texto pequenas gralhas formais de redação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O articulado não cria despesas orçamentais diretas nem alterações fiscais, não indicando quaisquer montantes. Contudo, a dispensa de procedimentos de Avaliação de Impacte Ambiental e a referência programática a apoios e simplificação administrativa podem gerar efeitos financeiros indiretos na receita de taxas ou em futuras dotações."
+ },
+ "affected": [
+  "agricultores",
+  "produtores pecuários",
+  "exploradores florestais",
+  "consumidores"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "economia"
+ ],
+ "tags": [
+  "soberania alimentar",
+  "lei de bases agrária",
+  "avaliação de impacte ambiental",
+  "pecuária intensiva",
+  "regadio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço das deduções no IRS por cada dependente",
+ "summary": "O Projeto de Lei n.º 654/XVII/1.ª, apresentado pelo LIVRE, altera o artigo 78.º-A do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) para aumentar os montantes fixos das deduções à coleta relativas a dependentes. A proposta eleva de 600 euros para 800 euros a dedução fixa por cada dependente. Adicionalmente, reforça o acréscimo aplicável quando o dependente não ultrapasse os três anos de idade até 31 de dezembro do ano a que respeita o imposto: esse valor suplementar sobe de 126 euros para 150 euros por dependente, no regime geral, e de 63 euros para 75 euros para cada sujeito passivo abrangido pela alínea b) do n.º 1 do mesmo artigo. O diploma não altera as restantes alíneas do artigo 78.º-A e prevê que as novas regras entrem em vigor apenas com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Aumenta de 600 euros para 800 euros a dedução fixa à coleta de IRS por cada dependente.",
+  "Eleva de 126 euros para 150 euros o acréscimo adicional para dependentes que não ultrapassem os três anos de idade até ao final do ano fiscal.",
+  "Aumenta de 63 euros para 75 euros o acréscimo por dependente até aos três anos atribuído a cada sujeito passivo abrangido pela alínea b) do n.º 1 do artigo 78.º-A.",
+  "Estabelece que a alteração entra em vigor com o Orçamento do Estado seguinte à publicação da lei."
+ ],
+ "plain_language": "Esta proposta pretende dar um alívio fiscal maior às famílias com filhos ou outros dependentes a cargo na altura de entregar o IRS. O valor fixo que os contribuintes podem abater diretamente ao imposto a pagar passa de 600 para 800 euros por cada dependente. Se a criança tiver até três anos no final do ano, soma-se um extra que sobe de 126 para 150 euros (ou de 63 para 75 euros por sujeito passivo em situações específicas previstas na lei). Como funciona como um desconto no imposto calculado, a medida só produz efeitos na medida em que exista imposto a pagar.",
+ "context": "O proponente cita o relatório «Portugal, Balanço Social 2025» para sublinhar que, apesar de a taxa de risco de pobreza ter descido para 15,4% (cerca de 1,66 milhões de pessoas), existiam em 2025 cerca de 301 mil crianças em situação de pobreza. Destaca que as famílias monoparentais e numerosas enfrentam riscos muito acima da média, com privação material e limitações educativas e habitacionais. Para combater a pobreza infantil através de mecanismos simples e uniformes, defende reforçar diretamente as deduções por dependente independentemente do nível de rendimento.",
+ "analysis": "A iniciativa apresenta uma alteração simples, objetiva e fácil de aplicar no sistema fiscal, com entrada em vigor diferida para o Orçamento do Estado seguinte, evitando alterações a meio do ano fiscal. Contudo, existe uma tensão entre o objetivo declarado — combater a pobreza infantil — e o instrumento escolhido. Como as deduções funcionam apenas até ao montante da coleta devida, famílias com rendimentos mais baixos, que têm coleta reduzida ou nula, poderão beneficiar pouco ou nada do aumento. Além disso, o texto atualiza o valor base da alínea a) do n.º 1 (800 euros) e ambos os valores do n.º 2, alínea a), mas deixa inalterada a alínea b) do n.º 1, podendo criar assimetrias se esta última previr um valor fixo autónomo. Falta também uma estimativa do impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O aumento das deduções à coleta por dependente (de 600 para 800 euros) e dos acréscimos para menores de três anos (de 126 para 150 euros, e de 63 para 75 euros) reduz o IRS apurado pelos agregados abrangidos, diminuindo a receita fiscal do Estado. O documento não apresenta uma quantificação do impacto orçamental global da medida, que apenas produz efeitos no Orçamento do Estado seguinte à publicação."
+ },
+ "affected": [
+  "agregados familiares com dependentes",
+  "sujeitos passivos de IRS com crianças até aos três anos",
+  "famílias monoparentais e numerosas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "deduções à coleta",
+  "dependentes",
+  "pobreza infantil",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Aumento permanente de 40 euros nas pensões mais baixas",
+ "summary": "O Projeto de Resolução n.º 1292/XVII/2.ª, apresentado pelo grupo parlamentar do LIVRE, recomenda ao Governo um aumento suplementar permanente de 40,00 euros mensais nas pensões de menor valor, com efeitos a partir de 1 de novembro de 2026. Por se tratar de um projeto de resolução, esta iniciativa constitui uma recomendação não vinculativa, cabendo ao Executivo decidir se a aplica. A medida dirige-se às pensões de valor igual ou inferior a duas vezes o Indexante de Apoios Sociais (que o texto situa em 1 074,26 euros) e não prejudica a atualização anual regular prevista na lei. O aumento abrange as pensões de velhice, invalidez e sobrevivência do regime previdencial da Segurança Social, bem como as pensões de reforma, aposentação e sobrevivência do regime convergente da Caixa Geral de Aposentações. Ao incorporar os 40 euros no valor mensal base, a iniciativa procura reforçar de forma duradoura os rendimentos dos pensionistas.",
+ "key_points": [
+  "Recomendar ao Governo um aumento suplementar de 40,00 euros mensais nas pensões de valor igual ou inferior a duas vezes o Indexante de Apoios Sociais (1 074,26 euros).",
+  "Aplicar o aumento a partir de 1 de novembro de 2026, integrando-o de forma permanente no valor mensal da pensão.",
+  "Manter este reforço sem prejuízo da atualização anual regular das pensões.",
+  "Abranger as pensões de velhice, invalidez e sobrevivência do regime previdencial da Segurança Social.",
+  "Incluir igualmente as pensões de reforma, aposentação e sobrevivência do regime convergente da Caixa Geral de Aposentações."
+ ],
+ "plain_language": "Esta proposta do LIVRE pede ao Governo que aumente em 40 euros por mês todas as reformas e pensões até cerca de 1 074 euros, já a partir de novembro de 2026. Inclui pensões de velhice, invalidez e de sobrevivência (pagas a familiares após falecimento), tanto da Segurança Social como da Caixa Geral de Aposentações. Em vez de dar um bónus pago apenas uma vez por ano, estes 40 euros passariam a fazer parte da pensão mensal definitiva, sem anular o aumento anual normal. Como é apenas uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente justifica a iniciativa com a elevada pobreza entre idosos (17,8% em risco de pobreza segundo relatório de 2025) e o baixo valor de muitas reformas, apontando que 65,7% das pensões de velhice eram inferiores a 600 euros e destacando desigualdades entre homens e mulheres. Acrescenta que a inflação de 3,3% em agosto de 2026 agrava o custo de vida e que os suplementos pontuais não resolvem o problema de fundo, invocando ainda os excedentes financeiros recentes da Segurança Social.",
+ "analysis": "Como ponto positivo, a proposta incide sobre os rendimentos mais vulneráveis e privilegia um aumento estrutural na pensão mensal, em vez de pagamentos únicos, abrangendo os dois regimes públicos de pensões. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não é vinculativo nem altera o Orçamento do Estado. A estimativa de 560 milhões de euros anuais resulta de um cálculo aproximado para um milhão de pensionistas da Segurança Social, sem quantificar o custo na Caixa Geral de Aposentações nem o impacto acumulado a longo prazo. Além disso, aplicar um valor fixo até 1 074,26 euros gera um efeito de degrau, podendo inverter posições entre quem está logo abaixo e logo acima do limite.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Como se trata de uma recomendação não vinculativa, o impacto orçamental depende da sua adoção pelo Governo. Caso seja aplicada, aumenta de forma permanente a despesa pública: o documento estima, grosso modo, um acréscimo de cerca de 560 milhões de euros por ano na Segurança Social (tomando como referência um milhão de pensionistas), sem apresentar estimativa separada para o encargo na Caixa Geral de Aposentações."
+ },
+ "affected": [
+  "pensionistas da Segurança Social com pensões até 1 074,26 euros",
+  "pensionistas da Caixa Geral de Aposentações com pensões até 1 074,26 euros",
+  "titulares de pensões de velhice, invalidez e sobrevivência de menor valor"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "caixa geral de aposentações",
+  "risco de pobreza",
+  "reformas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

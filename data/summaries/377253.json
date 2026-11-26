@@ -1,0 +1,44 @@
+{
+ "short_title": "Garantia pública e seguros no arrendamento habitacional",
+ "summary": "O Projeto de Lei n.º 773/XVII/2.ª, do PS, cria a Garantia Pública de Segurança no Arrendamento Habitacional e promove o mercado de seguros privados neste setor. A Garantia Pública é um mecanismo facultativo, que exige o acordo entre senhorio e arrendatário, gerido pelo Instituto da Habitação e da Reabilitação Urbana (IHRU) em articulação com a Autoridade Tributária. Aplica-se a contratos privados de arrendamento ou subarrendamento comunicados às Finanças, para residência permanente ou temporária (estudos ou mobilidade profissional), com rendas até aos limites do Regime Simplificado de Arrendamento Acessível. Podem aderir jovens entre os 18 e os 35 anos ou inquilinos de qualquer idade com rendimento anual bruto até ao sexto escalão do IRS. A garantia indemniza o senhorio por rendas em atraso e danos no imóvel, passando o Estado a deter o direito de cobrar esses valores ao inquilino por execução fiscal. Prevê ainda uma estratégia governamental para dinamizar seguros privados.",
+ "key_points": [
+  "Cria uma garantia pública voluntária, sujeita ao acordo de senhorio e inquilino, gerida pelo IHRU através de uma plataforma eletrónica.",
+  "Abrange contratos registados nas Finanças, de residência permanente ou temporária, cujas rendas cumpram os tetos do Regime Simplificado de Arrendamento Acessível.",
+  "Limita o acesso a jovens entre os 18 e os 35 anos ou a arrendatários cujo rendimento bruto não exceda o sexto escalão do IRS.",
+  "Indemniza o senhorio por falta de pagamento de rendas e danos no imóvel verificados na entrega, cobrando depois o Estado esses montantes ao inquilino via execução fiscal.",
+  "Obriga o Governo a aprovar uma estratégia, com a entidade supervisora dos seguros e representantes do setor, para diversificar seguros privados no arrendamento."
+ ],
+ "plain_language": "Muitas pessoas têm dificuldade em arrendar casa por não terem fiador, e muitos proprietários receiam rendas em atraso ou estragos no imóvel. Esta proposta cria uma garantia pública opcional para contratos com rendas até certos limites, dirigida a jovens entre 18 e 35 anos ou a quem tenha rendimentos até ao sexto escalão do IRS. Se o inquilino falhar a renda ou causar danos, o Estado indemniza o senhorio. Contudo, a dívida não é perdoada: o Estado passa a cobrá-la diretamente ao inquilino através das Finanças. A lei pede também ao Governo uma estratégia para incentivar seguros privados de arrendamento.",
+ "context": "O PS justifica a iniciativa com a forte pressão habitacional, rendas elevadas e escassez de oferta acessível. Aponta uma dupla insegurança no mercado: os senhorios temem o incumprimento das rendas, dificuldades na cobrança e danos nos imóveis, o que reduz a oferta e encarece os preços; já os inquilinos, sobretudo sem fiador, património ou historial contratual, enfrentam barreiras de acesso. O proponente defende que o Estado deve mitigar riscos de forma equilibrada e estimular seguros privados complementares.",
+ "analysis": "A proposta procura equilibrar a proteção de senhorios e o acesso de inquilinos, limitando o apoio a rendas acessíveis, jovens ou rendimentos até ao sexto escalão do IRS, e exigindo o reembolso ao devedor. Contudo, apresenta fragilidades relevantes. Primeiro, remete para futura portaria aspetos centrais, como os tetos de indemnização e os meios de prova para acionar a garantia, deixando em aberto a sua atratividade e o impacto financeiro. Segundo, a cobrança por execução fiscal transfere para o Estado o risco da recuperação de dívidas privadas e não prevê salvaguardas para incumprimentos por quebra súbita de rendimentos. Terceiro, as medidas para seguros privados são meramente programáticas, sem prazos vinculativos. Há ainda uma gralha na numeração do artigo 6.º e exigência de regulamentação em 120 dias.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O diploma prevê encargos orçamentais com a Garantia Pública, remetidos para o Orçamento do Estado subsequente, bem como custos de criação e gestão da plataforma eletrónica pelo IHRU. O documento não quantifica montantes, uma vez que os limites de cobertura dependem de portaria futura e parte dos pagamentos será recuperada por execução fiscal."
+ },
+ "affected": [
+  "arrendatários",
+  "senhorios",
+  "jovens entre 18 e 35 anos",
+  "empresas de seguros",
+  "IHRU"
+ ],
+ "categories": [
+  "habitacao",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "arrendamento",
+  "garantia pública",
+  "seguros privados",
+  "renda acessível",
+  "habitação jovem"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Postecipação de juros no crédito habitação",
+ "summary": "Esta proposta visa ajudar as famílias portuguesas que enfrentam dificuldades em pagar os seus créditos à habitação devido ao aumento das taxas de juro. A medida principal permite que os mutuários adiem o pagamento de uma parte dos juros, especificamente o valor que exceda uma taxa de referência de 2,5% da Euribor, até um máximo de 5% do montante inicial do empréstimo. Este valor diferido seria pago apenas na prestação final do contrato, aliviando a pressão imediata sobre o orçamento familiar.",
+ "key_points": [],
+ "plain_language": "Em termos simples, este projeto de lei é para dar uma folga às famílias que estão a apertar o cinto para pagar a casa por causa dos juros que não param de subir. A ideia é que, se os juros do empréstimo da casa passarem de um certo valor, uma parte desses juros pode ser paga mais tarde, só no fim do contrato. Assim, a prestação mensal fica mais leve agora, o que é um alívio para o bolso das pessoas. É uma ajuda direta para quem tem crédito habitação, sem que o Estado tenha de meter dinheiro.",
+ "context": null,
+ "analysis": "O documento identifica corretamente o problema central: o impacto severo do aumento das taxas de juro nos orçamentos familiares, especialmente no crédito à habitação. A proposta de postecipação dos juros é uma medida direta para aliviar a pressão imediata sobre o fluxo de caixa das famílias, ao limitar a taxa de juro efetiva paga mensalmente. Isto alinha-se com o objetivo de proporcionar um alívio financeiro urgente. No entanto, é crucial notar que esta medida não reduz o montante total devido, apenas o adia, o que pode resultar numa prestação final mais elevada ou num prolongamento do prazo do empréstimo. A proposta tenta mitigar isso ao permitir amortização antecipada sem penalização e ao exigir que os bancos apresentem um novo calendário de amortização. A justificação de que o esforço deve ser \"solidário e equitativo\" entre bancos e mutuários é um ponto forte da argumentação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não tem um impacto fiscal direto no aumento ou diminuição das despesas ou receitas do governo. A medida atua sobre os contratos de crédito entre instituições financeiras privadas e cidadãos, transferindo o ónus financeiro imediato dos mutuários para as instituições bancárias, ao adiar o recebimento de parte dos juros. O efeito líquido para o governo é nulo em termos de orçamento direto, embora possa haver impactos indiretos na estabilidade económica e na capacidade de consumo das famílias, o que, por sua vez, pode influenciar a economia em geral."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

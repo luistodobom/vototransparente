@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da segurança na micromobilidade elétrica",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a adoção de medidas para aumentar a segurança na utilização de veículos de micromobilidade elétrica, como trotinetas e bicicletas elétricas. Por se tratar de uma recomendação parlamentar, o texto não tem caráter vinculativo. Em primeiro lugar, propõe o reforço da fiscalização à circulação irregular destes veículos nos passeios, garantindo o cumprimento do artigo 17.º do Código da Estrada. Em segundo lugar, recomenda a regulamentação da obrigatoriedade de dispositivos limitadores de velocidade nas trotinetas com motor elétrico e veículos semelhantes, ao abrigo da lei rodoviária. Por fim, sugere o estudo de um programa-piloto para disponibilizar capacetes descartáveis ou outras soluções acessíveis, junto dos serviços de mobilidade partilhada, assegurando requisitos de segurança, higiene e sustentabilidade.",
+ "key_points": [
+  "Recomenda ao Governo o aumento da fiscalização da circulação de velocípedes e trotinetas elétricas nos passeios, garantindo o cumprimento do Código da Estrada.",
+  "Propõe a regulamentação da obrigatoriedade de dispositivos limitadores de velocidade em trotinetas com motor elétrico e dispositivos equiparados.",
+  "Sugere o estudo de um programa-piloto para disponibilizar capacetes descartáveis ou outras soluções equivalentes em complemento à mobilidade partilhada.",
+  "Determina que eventuais soluções de disponibilização de capacetes devem assegurar requisitos de segurança, higiene e sustentabilidade."
+ ],
+ "plain_language": "Este documento é uma recomendação do Parlamento ao Governo, pelo que não muda imediatamente a lei. A proposta pede três medidas principais para tornar o uso de trotinetas e bicicletas elétricas mais seguro nas cidades: mais fiscalização para impedir que circulem nos passeios, regras que obriguem as trotinetas a ter limitadores de velocidade instalados e o estudo de uma experiência-piloto com capacetes descartáveis ou fáceis de aceder para quem aluga estes veículos na rua. O objetivo é proteger tanto quem conduz como os peões.",
+ "context": "O grupo parlamentar do PS justifica a iniciativa com o crescimento da micromobilidade elétrica nas deslocações urbanas de curta distância. Segundo os proponentes, este aumento exige melhores condições de segurança para utilizadores, peões e restantes utentes da via. Defendem que a política pública não deve limitar-se a criar novas obrigações, mas combinar fiscalização efetiva dos passeios, uso de tecnologia para limitar velocidades excessivas e soluções práticas que facilitem o uso de capacete, sobretudo em utilizações ocasionais ou em sistemas partilhados.",
+ "analysis": "A iniciativa aborda problemas concretos de segurança urbana e recorre a instrumentos já previstos no Código da Estrada, evitando alterações legislativas complexas ao focar-se na fiscalização e regulamentação. Contudo, enquanto projeto de resolução, não tem força vinculativa. O texto apresenta fragilidades operacionais: pede maior fiscalização nos passeios sem referir reforço de meios policiais e não clarifica como os limitadores de velocidade seriam aplicados a trotinetas privadas já em circulação. Além disso, a aposta num piloto de capacetes descartáveis encerra uma contradição prática: apesar da ressalva pela sustentabilidade, materiais descartáveis podem gerar resíduos significativos e levantar dúvidas sobre a proteção oferecida face a capacetes convencionais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa e sem quantificação orçamental no documento, o impacto financeiro é incerto. Caso o Governo avance com as medidas, o reforço da fiscalização e o estudo de um programa-piloto poderão gerar despesa pública, dependendo também de eventuais custos assumidos pelos operadores privados."
+ },
+ "affected": [
+  "utilizadores de trotinetas e bicicletas elétricas",
+  "peões",
+  "operadores de mobilidade partilhada",
+  "forças de segurança"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca"
+ ],
+ "tags": [
+  "micromobilidade",
+  "trotinetas elétricas",
+  "segurança rodoviária",
+  "código da estrada",
+  "mobilidade partilhada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

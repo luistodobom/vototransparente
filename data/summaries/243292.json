@@ -1,0 +1,24 @@
+{
+ "short_title": "Reforço dos Cuidados de Saúde Primários de Proximidade",
+ "summary": "O documento, um Projeto de Resolução do PCP, denuncia um desinvestimento progressivo nos Cuidados de Saúde Primários (CSP) no Serviço Nacional de Saúde (SNS) em Portugal. Argumenta que este desinvestimento, juntamente com políticas de privatização, levou à redução do acesso, à falta de médicos de família para muitos cidadãos e à carência de recursos humanos, financeiros e técnicos. A proposta recomenda que o Governo reforce os CSP através da planificação e implementação de uma rede nacional de unidades de saúde de proximidade, assegurando financiamento e pessoal adequados (incluindo médicos, enfermeiros e outros especialistas), promovendo o acesso universal a médicos de família, integrando profissionais de saúde no serviço público com remuneração justa e modernizando os sistemas de informação de saúde. O objetivo final é garantir cuidados de saúde universais e de qualidade para todos os cidadãos.",
+ "key_points": [],
+ "plain_language": "Em bom português, o PCP está a dizer que a nossa saúde, especialmente os centros de saúde perto de casa, está a ser deixada ao abandono. Eles acham que os governos têm andado a cortar no investimento e a empurrar as pessoas para a saúde privada. Por isso, propõem que o governo meta mais dinheiro, contrate mais médicos e enfermeiros, reabra os centros de saúde que fecharam e garanta que toda a gente tem um médico de família. A ideia é que a saúde pública seja forte e acessível para todos, sem ter de andar a correr para hospitais ou a pagar consultas caras.",
+ "context": null,
+ "analysis": "O documento apresenta uma argumentação consistente: a degradação dos cuidados de saúde primários é atribuída diretamente ao subinvestimento contínuo e às políticas que favorecem a privatização. As dificuldades identificadas, como a falta de médicos de família, o encerramento de unidades locais, a escassez de pessoal e a desigualdade no acesso, são logicamente ligadas a estas causas. As soluções propostas, que incluem o aumento do investimento público, a reabertura de unidades encerradas, a garantia de acesso universal a médicos de família, a melhoria das condições de trabalho e remuneração dos profissionais de saúde e a modernização das infraestruturas, alinham-se diretamente com o objetivo de fortalecer um sistema de cuidados de saúde primários público e universal. Não se detetam inconsistências na lógica apresentada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta apela explicitamente a um \"claro reforço de meios humanos e financeiros\" e a \"mais investimento público\" nos Cuidados de Saúde Primários. Isto resultaria inequivocamente num aumento significativo das despesas governamentais, principalmente através do aumento do emprego no setor público (mais profissionais de saúde com melhores salários e carreiras) e do investimento em infraestruturas e equipamentos. O documento não sugere novas fontes de receita ou medidas de poupança que pudessem compensar estes aumentos de despesa. Consequentemente, o efeito líquido seria um aumento dos gastos do governo e uma diminuição da receita líquida do governo (ou um aumento do défice orçamental)."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

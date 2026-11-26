@@ -1,0 +1,26 @@
+{
+ "short_title": "Apoio excecional a Ovar pós-cerca sanitária COVID-19",
+ "summary": "Este projeto de resolução, proposto pelo Grupo Parlamentar do Partido Social Democrata (PSD), recomenda ao Governo a adoção de medidas excecionais de apoio social e recuperação económica para o município de Ovar. A proposta surge na sequência da imposição de uma cerca sanitária em Ovar devido à pandemia de COVID-19, que resultou no encerramento de estabelecimentos não essenciais, restrições de movimento e uma declaração de calamidade. As medidas propostas visam apoiar pessoas (através de subsídios de desemprego melhorados, deduções fiscais para Equipamentos de Proteção Individual – EPI, e alargamento de tarifas sociais), empresas e trabalhadores independentes (com linhas de crédito mais flexíveis, incentivos à normalização da atividade e deduções fiscais para EPI), e Instituições Particulares de Solidariedade Social (IPSS) com valências de centro de dia e residenciais para idosos (com apoios a fundo perdido para reestruturação de edifícios).",
+ "key_points": [],
+ "plain_language": "Esta proposta do PSD é tipo um pedido ao Governo para dar uma ajuda extra a Ovar. É que a cidade esteve fechada por causa do COVID-19 e a economia ficou parada. Então, eles querem que o Governo dê mais dinheiro a quem ficou sem trabalho, descontos nos impostos para quem comprou máscaras e álcool-gel, e contas mais baratas para a água, luz e gás. Para as empresas, querem que seja mais fácil e barato pedir empréstimos, e que tenham mais incentivos e descontos nos impostos se comprarem material de proteção. E para os lares de idosos, querem que o Governo ajude a pagar obras para os edifícios ficarem mais seguros contra o vírus. É tudo para Ovar se conseguir reerguer depois de ter passado por um período tão difícil.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise clara da situação de Ovar, destacando o impacto económico e social severo da cerca sanitária. As medidas propostas são coerentes e diretamente alinhadas com o objetivo de mitigar os efeitos da crise e promover a recuperação. A proposta é abrangente, visando diferentes setores da sociedade – indivíduos, empresas e instituições sociais – com soluções específicas para cada um. Por exemplo, a abolição do prazo de garantia para o subsídio de desemprego e a majoração do seu período de concessão respondem diretamente à perda súbita de rendimentos. As linhas de crédito flexíveis e os incentivos fiscais para empresas visam apoiar a liquidez e a retoma da atividade. O apoio às IPSS reconhece a vulnerabilidade dos idosos e a necessidade de adaptação das infraestruturas. Não se detetam inconsistências; pelo contrário, a proposta demonstra uma compreensão detalhada dos desafios enfrentados por Ovar e oferece um conjunto de soluções interligadas para os superar, complementando as medidas nacionais já existentes com apoios específicos para este município particularmente afetado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo no curto e médio prazo, implicando um aumento dos gastos do governo e uma diminuição das receitas. O aumento dos gastos decorrerá da majoração dos subsídios de desemprego e de outros apoios sociais, da bonificação nas comissões de garantia mútua para linhas de crédito e da concessão de apoios a fundo perdido para as IPSS. A diminuição das receitas governamentais resultará das deduções fiscais no IRS para a aquisição de EPI por parte de particulares e da dedução de 200% dos custos de EPI para empresas (IRC/IRS). O alargamento das tarifas sociais de água, saneamento, gás e eletricidade, embora possa ser suportado pelas empresas de serviços, pode implicar compensações estatais ou menor receita para entidades públicas. O efeito líquido será um aumento do défice orçamental, embora o objetivo seja estimular a economia local para uma eventual recuperação das receitas a longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

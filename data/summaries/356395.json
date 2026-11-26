@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço da Procriação Medicamente Assistida no SNS e Banco de Gâmetas",
+ "summary": "O Projeto de Resolução n.º 727/XVII/1.ª recomenda ao Governo um conjunto de oito medidas para melhorar o acesso, a transparência e a regulação da Procriação Medicamente Assistida (PMA) no Serviço Nacional de Saúde (SNS). Por ser um projeto de resolução, trata-se de uma recomendação não vinculativa. A iniciativa propõe fixar metas nacionais de espera máxima (90 dias até à primeira consulta e 180 dias até ao início do primeiro ciclo) e contratualizar metas trimestrais com os centros públicos, prevendo planos de recuperação em caso de incumprimento. Recomenda ainda atribuir dotação específica ao Banco Público de Gâmetas, corrigir assimetrias regionais através de expansão ou contratualização, apresentar um estatuto jurídico para o Conselho Nacional de Procriação Medicamente Assistida (CNPMA) em 90 dias, criar um registo nacional interoperável e instituir um programa nacional de preservação e promoção da fertilidade.",
+ "key_points": [
+  "Recomenda fixar metas medianas de acesso de até 90 dias para a primeira consulta e até 180 dias para o início do primeiro ciclo, com contratualização trimestral e planos de recuperação por centro público.",
+  "Propõe criar uma dotação orçamental específica para o Banco Público de Gâmetas, acompanhada de um plano anual de captação de dadores e divulgação trimestral de resultados.",
+  "Prevê a correção de desigualdades territoriais através da expansão da capacidade pública ou contratualização externa nas regiões mais carenciadas.",
+  "Recomenda a apresentação ao Parlamento, em 90 dias, do estatuto jurídico do Conselho Nacional de Procriação Medicamente Assistida e a criação de um registo nacional interoperável integrado no Registo de Saúde Eletrónico.",
+  "Propõe instituir o Programa Nacional de Preservação e Promoção da Fertilidade, incluindo literacia reprodutiva e uma via verde para doentes oncológicos ou sujeitos a terapêuticas que afetem a fertilidade."
+ ],
+ "plain_language": "Este projeto de resolução pede ao Governo que reduza as listas de espera para tratamentos de fertilidade no Serviço Nacional de Saúde. O objetivo é que o tempo típico de espera não passe de três meses até à primeira consulta nem de seis meses até ao início do tratamento. Sugere também reforçar o financiamento do Banco Público de Gâmetas, alargar a oferta nas regiões com menos serviços e criar um sistema informático único para acompanhar os atrasos. Inclui ainda atendimento prioritário para doentes oncológicos preservarem a fertilidade. Sendo uma recomendação, o Governo não fica obrigado a aplicá-la.",
+ "context": "Os proponentes citam relatórios oficiais que apontam atrasos graves e falta de dados no SNS. Em 2024, a mediana de espera para primeira consulta atingiu 142 dias, com 68,5% de incumprimento dos tempos máximos garantidos. Apontam também forte desigualdade nos tratamentos com gâmetas de dador: em 2023, apenas 6,1% dos tratamentos com espermatozoides doados e 3,3% com ovócitos doados ocorreram em centros públicos, remetendo a maioria dos utentes para o setor privado. Adicionalmente, falhas nos sistemas informáticos hospitalares permitiram apurar tempos de espera em apenas 23,7% dos casos.",
+ "analysis": "Como ponto forte, a iniciativa apoia-se em dados recentes da entidade reguladora e ataca problemas estruturais reais, ligando metas de acesso à recolha fiável de indicadores e à capacitação do Banco Público de Gâmetas. No entanto, apresenta fragilidades relevantes. Sendo um projeto de resolução, não tem força vinculativa nem garante execução orçamental, além de omitir estimativas de custos para o reforço de recursos humanos, equipamento ou contratualização com o setor privado. Por outro lado, o texto prevê mecanismos automáticos de correção após incumprimentos consecutivos sem detalhar que sanções ou incentivos concretos seriam aplicados aos hospitais. Além disso, a exigência de metas medianas de 90 e 180 dias e a criação de um registo interoperável enfrentam riscos práticos de implementação devido às limitações informáticas e à escassez de dadores já identificadas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução não vinculativo, não gera despesa automática. Contudo, a concretização das medidas recomendadas implica aumento da despesa pública, designadamente através da dotação específica para o Banco Público de Gâmetas, da expansão ou contratualização de capacidade nas regiões carenciadas e do desenvolvimento de sistemas de informação. O documento não quantifica quaisquer montantes."
+ },
+ "affected": [
+  "utentes em tratamentos de fertilidade no SNS",
+  "centros públicos de procriação medicamente assistida",
+  "dadores de gâmetas",
+  "doentes oncológicos",
+  "Conselho Nacional de Procriação Medicamente Assistida"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "procriação medicamente assistida",
+  "sns",
+  "banco público de gâmetas",
+  "fertilidade",
+  "listas de espera"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Auditoria, transparência financeira e privatização integral da RTP",
+ "summary": "Este Projeto de Resolução da Iniciativa Liberal recomenda ao Governo, de forma não vinculativa, um levantamento detalhado das contas da Rádio e Televisão de Portugal (RTP) seguido da sua privatização integral. Numa primeira fase, propõe uma auditoria independente urgente, contas separadas por canal, rádio, plataforma digital e estrutura regional, bem como a avaliação de imóveis, marcas e passivos, incluindo a clarificação contabilística do arquivo audiovisual. Numa segunda fase, recomenda que o Governo assuma como objetivo político a saída total do Estado da exploração direta da RTP, estude modelos de alienação e elimine progressivamente a Contribuição para o Audiovisual. O texto prevê ainda planos de transição operacional e laboral, a revisão do enquadramento legal para igualar a concorrência com operadores privados e o recurso a concursos ou contratação de conteúdos caso o Estado queira manter objetivos de interesse público.",
+ "key_points": [
+  "Realizar uma auditoria independente urgente e elaborar contas financeiras desagregadas para cada canal de televisão, estação de rádio, plataforma digital e estrutura regional da RTP.",
+  "Avaliar de forma independente todos os ativos tangíveis e intangíveis, mapear passivos financeiros, laborais e contingentes, e clarificar a situação contabilística do arquivo audiovisual.",
+  "Assumir a privatização integral da RTP como objetivo político, estudando modelos de venda total, faseada ou por unidades de negócio e suspendendo medidas que reduzam as suas receitas próprias antes da alienação.",
+  "Preparar a eliminação progressiva da Contribuição para o Audiovisual, substituindo o pagamento obrigatório por modelos baseados na escolha voluntária dos consumidores.",
+  "Criar planos de transição operacional e laboral, rever o estatuto legal da RTP para eliminar vantagens ou limitações especiais e assegurar eventuais objetivos públicos através de concursos ou contratação de conteúdos."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Parlamento recomende ao Governo um conjunto de passos para conhecer as contas reais da RTP e depois vendê-la a privados. Como é um projeto de resolução, não obriga o Governo a fazê-lo, servindo apenas como recomendação política. O partido propõe primeiro auditar a empresa, saber quanto valem os seus edifícios, marcas e arquivo, e separar as contas de cada canal e rádio. Em seguida, defende a venda total da RTP e o fim gradual da taxa paga na fatura da luz (Contribuição para o Audiovisual), passando eventuais programas de interesse público a ser comprados por concurso.",
+ "context": "O proponente argumenta que o financiamento obrigatório da RTP através da fatura da eletricidade viola a liberdade de escolha dos cidadãos e distorce a concorrência num mercado já servido por operadores privados. Cita dados do relatório de contas de 2025 para apontar dependência de receitas públicas (82,6%), baixa geração de valor por trabalhador face aos custos médios, capitais próprios negativos e um prejuízo de 3,9 milhões de euros. Sublinha ainda a opacidade nas contas por unidade de negócio e um passivo de 150 milhões de euros ligado ao arquivo audiovisual desde 2011.",
+ "analysis": "Como ponto forte, a iniciativa exige transparência contabilística prévia, contas detalhadas por unidade de negócio, auditorias independentes e o esclarecimento de passivos complexos, como o do arquivo audiovisual, medidas úteis para o escrutínio parlamentar independentemente do modelo de propriedade. Contudo, existe uma tensão interna no texto: embora o título e parte da exposição defendam reunir informação antes de decidir, os pontos resolutivos já vinculam politicamente o objetivo à privatização integral e ao fim da Contribuição para o Audiovisual antes de os estudos serem conhecidos. Faltam também métricas concretas para avaliar a viabilidade de mercado de serviços regionais, culturais ou internacionais caso passem a depender apenas de concursos. Por fim, tratando-se de uma recomendação sem força vinculativa, a execução efetiva depende inteiramente da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um projeto de resolução, não tem efeito orçamental direto ou vinculativo. Se implementado, combinaria custos imediatos com auditorias externas, eventuais receitas da venda de ativos, redução da receita associada à Contribuição para o Audiovisual e despesas futuras com contratação de conteúdos, cujo saldo líquido não é quantificado no documento."
+ },
+ "affected": [
+  "trabalhadores da RTP",
+  "consumidores de eletricidade",
+  "operadores privados de comunicação social",
+  "audiências de televisão e rádio"
+ ],
+ "categories": [
+  "comunicacao",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "rtp",
+  "privatização",
+  "contribuição audiovisual",
+  "transparência financeira",
+  "auditoria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

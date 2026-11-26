@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço dos direitos e melhoria do atendimento aos imigrantes",
+ "summary": "Este Projeto de Resolução do LIVRE recomenda ao Governo um conjunto de medidas para melhorar o funcionamento da Agência para a Integração, Migrações e Asilo (AIMA) e clarificar regras legais da imigração. Não tendo força vinculativa, a iniciativa propõe que o Executivo instrua a AIMA para criar um formulário de agendamento específico para reagrupamento de familiares fora do país, alargar o formulário atual às dispensas de visto do artigo 122.º da Lei n.º 23/2007 e emitir declarações digitais sobre o estado dos processos. Recomenda ainda assegurar atendimento telefónico eficaz, aceitar pedidos com documentação incompleta para posterior regularização, criar um canal permanente com a Ordem dos Advogados e reforçar a Provedoria dos Utentes. Pede também que o Governo defina por portaria os critérios de alojamento e meios de subsistência e estabeleça a lista de atividades altamente qualificadas.",
+ "key_points": [
+  "Criar no portal da AIMA um formulário específico para agendar pedidos de reagrupamento de familiares residentes fora de Portugal e adaptar o formulário atual a todas as situações de dispensa de visto do artigo 122.º da Lei n.º 23/2007.",
+  "Disponibilizar declarações eletrónicas comprovativas do estado dos processos para apresentação perante empregadores e serviços sociais, bem como assegurar o funcionamento do atendimento telefónico.",
+  "Eliminar a recusa liminar de pedidos de autorização de residência por falta de documentos, garantindo o registo do pedido e um prazo razoável para entrega dos elementos em falta.",
+  "Criar um mecanismo permanente de articulação entre a AIMA e a Ordem dos Advogados e reforçar a divulgação e o peso das recomendações da Provedoria dos Utentes.",
+  "Definir, por portaria, os critérios de alojamento adequado e de meios de subsistência suficientes para efeitos de reagrupamento familiar, além das atividades profissionais consideradas altamente qualificadas."
+ ],
+ "plain_language": "Esta proposta é uma recomendação ao Governo, sem força de lei, para facilitar o tratamento de documentos de residência em Portugal. O LIVRE pede que o sítio da AIMA passe a ter um formulário para trazer familiares do estrangeiro, que o atendimento telefónico funcione e que os utentes possam emitir um comprovativo online do estado do pedido para entregar no emprego ou na Segurança Social. Propõe ainda que a AIMA aceite pedidos mesmo quando falte algum documento, dando prazo para o entregar depois, e que o Governo clarifique os requisitos de habitação e rendimentos.",
+ "context": "O LIVRE aponta falhas persistentes na capacidade de resposta da AIMA que dificultam a regularização documental e o acesso a direitos. Cita 740 reclamações registadas no Portal da Queixa até maio de 2026, com um aumento de 37% no primeiro trimestre e baixas taxas de resposta e satisfação. Refere ainda a ausência de formulário online para reagrupamento de familiares fora do país, a recusa de pedidos incompletos e os alertas da Ordem dos Advogados, de agosto de 2026, sobre filas, falhas informáticas e falta de articulação institucional.",
+ "analysis": "A iniciativa apresenta propostas concretas e operacionais para desbloquear entraves práticos na AIMA, como comprovativos digitais de processo em curso e formulários previstos na lei. Contudo, tratando-se de um Projeto de Resolução, não é vinculativo para o Governo e não indica prazos, metas nem reforço de recursos para assegurar o atendimento telefónico ou o tratamento de pedidos incompletos, arriscando maior acumulação de pendências. Verifica-se ainda um desalinhamento interno: a exposição de motivos menciona o reconhecimento de qualificações estrangeiras, ausente da parte decisória, enquanto a regulamentação de alojamento, subsistência e profissões altamente qualificadas surge sem fundamentação prévia e os dados citados provêm sobretudo de uma plataforma privada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um Projeto de Resolução, a iniciativa não é vinculativa e não apresenta estimativas financeiras. A eventual execução das medidas recomendadas, como o desenvolvimento de plataformas digitais, a emissão de declarações online e o reforço do atendimento telefónico e administrativo, poderá implicar custos operacionais para a AIMA."
+ },
+ "affected": [
+  "pessoas imigrantes",
+  "familiares requerentes de reagrupamento",
+  "advogados",
+  "entidades empregadoras",
+  "serviços da AIMA"
+ ],
+ "categories": [
+  "imigracao",
+  "administracao",
+  "direitos"
+ ],
+ "tags": [
+  "aima",
+  "reagrupamento familiar",
+  "autorização de residência",
+  "atendimento público",
+  "ordem dos advogados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Nova Lei de Saúde Mental e Direitos dos Doentes",
+ "summary": "A proposta de lei visa substituir a atual Lei de Saúde Mental, definindo os princípios, fundamentos e objetivos da política de saúde mental em Portugal. O foco é garantir cuidados de saúde mental integrados e de qualidade, desde a prevenção à reabilitação, com um forte ênfase no respeito pela dignidade humana, direitos fundamentais e combate ao estigma. A lei promove a autonomia e participação das pessoas com necessidades de cuidados de saúde mental e dos seus familiares na definição das políticas. Regula também o tratamento involuntário, estabelecendo que deve ser um último recurso, focado na recuperação integral e sujeito a supervisão judicial rigorosa. Adicionalmente, aborda a gestão do património de pessoas com doença mental e cria uma comissão para monitorizar a execução do regime de tratamento involuntário.",
+ "key_points": [],
+ "plain_language": "Esta proposta é uma grande mudança na forma como lidamos com a saúde mental em Portugal. Basicamente, quer que as pessoas com problemas de saúde mental sejam tratadas com mais respeito e dignidade, e que os seus direitos sejam sempre protegidos. A ideia é que o tratamento seja feito o mais perto possível de casa, em vez de internar as pessoas em hospitões por muito tempo, e que elas próprias e as suas famílias possam dar a sua opinião sobre os cuidados. Mesmo quando alguém precisa de ser tratado contra a sua vontade, a lei garante que isso só acontece em último caso, com muita supervisão e sempre para ajudar a pessoa a recuperar e a voltar à sua vida normal. Também se preocupa com a gestão do dinheiro dessas pessoas e cria uma espécie de \"comissão de vigilância\" para garantir que tudo é feito como deve ser.",
+ "context": null,
+ "analysis": "O documento demonstra uma forte coerência entre os seus objetivos e os detalhes da implementação. A ênfase na dignidade humana e nos direitos fundamentais é consistentemente refletida nas disposições sobre o tratamento, que priorizam a desinstitucionalização, os cuidados na comunidade e a participação ativa do utente. As medidas coercivas e o tratamento involuntário são apresentados como exceções estritas, sujeitas a controlo judicial e médico rigoroso, o que alinha a necessidade de intervenção com a proteção das liberdades individuais. A criação de uma comissão de acompanhamento para o regime de tratamento involuntário é um mecanismo crucial para garantir a fiscalização e a conformidade com os princípios de direitos humanos, mitigando potenciais inconsistências entre a necessidade de tratamento e a salvaguarda da autonomia. A proposta procura, assim, modernizar a legislação de saúde mental, adaptando-a aos avanços clínicos e aos compromissos internacionais, sem comprometer os direitos dos cidadãos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de lei, ao ser enquadrada no Plano de Recuperação e Resiliência (PRR) e na componente 01 relativa ao Serviço Nacional de Saúde, implica um aumento dos gastos do governo. O documento menciona explicitamente a necessidade de \"investimentos\" para concretizar a reforma da Saúde Mental até 2026, o que sugere um reforço financeiro significativo para o desenvolvimento de serviços de saúde mental na comunidade e a desinstitucionalização. Não há menção de medidas que resultem em aumento de receita governamental ou diminuição de despesas. Portanto, o efeito líquido esperado é um aumento nos gastos do governo para a implementação das novas políticas e estruturas de saúde mental."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

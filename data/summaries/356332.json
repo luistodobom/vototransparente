@@ -1,0 +1,42 @@
+{
+ "short_title": "Transformação do Dia da Defesa Nacional em Semana da Defesa Nacional",
+ "summary": "O Projeto de Resolução n.º 690/XVII/1.ª, apresentado pelo Grupo Parlamentar do CHEGA, recomenda ao Governo o alargamento do atual Dia da Defesa Nacional para uma Semana da Defesa Nacional. Trata-se de uma recomendação não vinculativa que insta o Executivo a alterar a Lei do Serviço Militar e o respetivo regulamento. A iniciativa propõe que o dever militar obrigatório para os cidadãos portugueses no ano em que completam 18 anos passe a ter uma duração mínima de cinco dias úteis, cabendo ao Governo e aos ramos das Forças Armadas definir o formato concreto. Recomenda ainda que o programa passe a incluir a inspeção militar dos cidadãos convocados e que alargue as áreas informativas a matérias como a cibersegurança, a proteção civil e as ameaças híbridas, sem prejuízo de outras definidas pelos ramos militares.",
+ "key_points": [
+  "Recomenda ao Governo a alteração da Lei do Serviço Militar e do seu regulamento para criar a Semana da Defesa Nacional.",
+  "Estabelece uma duração mínima de cinco dias úteis para o programa, em substituição do atual formato de um único dia.",
+  "Atribui ao Governo e aos ramos das Forças Armadas a definição do formato concreto e de eventuais atividades complementares.",
+  "Propõe a inclusão obrigatória da inspeção militar dos cidadãos convocados durante o programa.",
+  "Sugere o alargamento dos conteúdos informativos a temas como cibersegurança, proteção civil e sensibilização para ameaças híbridas."
+ ],
+ "plain_language": "Atualmente, todos os cidadãos portugueses têm de participar no Dia da Defesa Nacional no ano em que fazem 18 anos, numa sessão que dura apenas um dia. Este projeto de resolução sugere ao Governo que transforme esse dia numa semana inteira, com pelo menos cinco dias úteis. A proposta pretende que os jovens passem por uma inspeção militar e tenham formação sobre temas como cibersegurança, proteção civil e novas ameaças. Como se trata de um projeto de resolução, é apenas uma recomendação parlamentar e não obriga o Governo a alterar a lei.",
+ "context": "O proponente justifica a iniciativa com a degradação da segurança europeia desde a invasão russa da Ucrânia em 2022 e com a maior concentração da política externa norte-americana na Ásia-Pacífico. Argumenta que esta conjuntura exige maior autonomia e preparação defensiva, citando reformas na Alemanha, Suécia, França e Polónia. Para o partido, o modelo atual de um dia não prepara os jovens nem permite ao Estado conhecer o estado dos cidadãos em idade mobilizável.",
+ "analysis": "A iniciativa acerta ao propor a atualização dos conteúdos de sensibilização para riscos modernos, como a cibersegurança e as ameaças híbridas, bem como a atualização de dados sobre cidadãos mobilizáveis. Porém, apresenta fragilidades importantes. Enquanto projeto de resolução, é meramente recomendatório e não vincula o Governo. O documento não inclui qualquer avaliação de custos nem analisa a capacidade logística e humana das Forças Armadas para acolher e inspecionar dezenas de milhares de jovens durante pelo menos cinco dias úteis. Omite também o impacto escolar e laboral desta ausência semanal e não concretiza em que termos decorreria a inspeção militar proposta.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora o projeto seja uma recomendação não vinculativa e não apresente montantes, a sua aplicação pelo Governo aumentaria a despesa pública ao alargar um evento de um dia para pelo menos cinco dias úteis e ao exigir inspeções militares a todos os cidadãos de 18 anos."
+ },
+ "affected": [
+  "jovens portugueses de 18 anos",
+  "Forças Armadas",
+  "Centros de Divulgação do Dia da Defesa Nacional",
+  "escolas e entidades empregadoras"
+ ],
+ "categories": [
+  "defesa",
+  "seguranca"
+ ],
+ "tags": [
+  "dia da defesa nacional",
+  "forças armadas",
+  "serviço militar",
+  "cibersegurança",
+  "juventude"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

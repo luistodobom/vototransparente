@@ -1,0 +1,26 @@
+{
+ "short_title": "Medidas para o Programa Mais Habitação",
+ "summary": "Esta proposta de lei visa responder à crise habitacional em Portugal, que se agravou devido à falta de políticas públicas de habitação ao longo de décadas, ao crescimento do turismo e a choques económicos recentes como a pandemia e a inflação. O objetivo principal é garantir o acesso a habitação digna e acessível para todas as famílias. As medidas propostas incluem a criação de apoios financeiros e a cedência de património público para a promoção de arrendamento acessível, o incentivo a um novo modelo de cooperativismo habitacional, a definição de regras excecionais para o valor das rendas em novos contratos, a proteção de inquilinos com contratos mais antigos, a simplificação dos processos de despejo e injunção através do Balcão do Arrendatário e do Senhorio (BAS), a aprovação de benefícios fiscais para o arrendamento de longa duração, a criação de uma contribuição extraordinária sobre o alojamento local e a revogação das autorizações de residência para atividade de investimento (Vistos Gold).",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do Governo é para tentar resolver o problema de não haver casas suficientes e de as que há serem muito caras em Portugal. Durante anos, o Estado não se preocupou muito com a habitação para todos, e agora, com o boom do turismo e a inflação, a situação piorou. A ideia é que o Estado ajude a construir mais casas para alugar a preços justos, usando terrenos públicos e dando dinheiro a quem quiser construir para esse fim. Também querem que as cooperativas de habitação voltem a ter um papel importante. Para quem tem alojamento local, a coisa vai apertar: vão ter de pagar uma taxa extra e não se podem abrir novos alojamentos locais na maioria dos sítios, para que essas casas voltem para o arrendamento normal. Também há benefícios nos impostos para quem alugar a casa por mais tempo. E para os despejos, criaram um balcão único para que tudo seja mais rápido e justo. Por fim, acabaram com os Vistos Gold, que eram vistos como uma forma de especulação imobiliária. Tudo isto para que as famílias portuguesas consigam ter uma casa decente e a um preço que consigam pagar.",
+ "context": null,
+ "analysis": "A proposta aborda de forma abrangente a crise habitacional, identificando corretamente as suas raízes históricas (ausência de política pública de habitação) e os fatores recentes que a agravaram (turismo, especulação, inflação). A estratégia é multifacetada, combinando o aumento da oferta pública (financiamento, cedência de terrenos, cooperativismo) com incentivos ao mercado privado de arrendamento e desincentivos ao alojamento local e à especulação (CEAL, Vistos Gold). A criação do BAS é um passo importante para agilizar os processos judiciais de arrendamento, que são frequentemente morosos. Os benefícios fiscais visam estimular a colocação de mais imóveis no mercado de arrendamento de longa duração. No entanto, a eficácia de algumas medidas dependerá da sua implementação prática e da capacidade de resposta das entidades envolvidas. Por exemplo, o arrendamento forçado de imóveis devolutos pode enfrentar desafios legais e operacionais. A regulação das rendas, embora benéfica para os inquilinos, exigirá um equilíbrio cuidadoso para não desincentivar o investimento privado no arrendamento. No geral, a proposta alinha os detalhes da implementação com o objetivo de aumentar a oferta de habitação acessível e digna, mas a sua concretização exigirá coordenação e monitorização contínuas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto, mas com uma tendência para o aumento dos gastos e a diminuição da receita no curto e médio prazo. Prevê-se um aumento dos gastos do governo através de linhas de financiamento significativas para a promoção de habitação acessível (250 milhões de euros) e para obras coercivas (150 milhões de euros). Adicionalmente, o Estado assumirá o pagamento de rendas em certas situações de despejo, o que representa uma nova despesa direta. A receita do governo diminuirá devido às diversas isenções e reduções fiscais (IMT, IMI, IRS, IRC, IVA) destinadas a incentivar o arrendamento de longa duração e a reabilitação. Contudo, será criada uma nova fonte de receita, a Contribuição Extraordinária sobre o Alojamento Local (CEAL), que será consignada ao Instituto da Habitação e da Reabilitação Urbana (IHRU). O efeito líquido imediato será provavelmente um aumento do défice orçamental, uma vez que as novas receitas da CEAL dificilmente compensarão a totalidade dos custos diretos e das perdas de receita fiscal. O benefício fiscal esperado é a estabilização do mercado de habitação e a melhoria das condições de vida, o que poderá ter impactos económicos positivos a longo prazo, mas não se traduz em ganhos fiscais diretos imediatos."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

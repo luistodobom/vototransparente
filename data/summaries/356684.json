@@ -1,0 +1,42 @@
+{
+ "short_title": "Incentivos à dádiva de sangue e reforço da recolha pública",
+ "summary": "O Projeto de Resolução n.º 917/XVII/1.ª, apresentado pelo PCP, recomenda ao Governo a adoção de três medidas para incentivar a dádiva de sangue e reforçar a capacidade de recolha no país. Tratando-se de um projeto de resolução, as propostas assumem a natureza de recomendação à atuação governamental, sem força vinculativa. Em primeiro lugar, propõe a reposição do direito à dispensa ao trabalho no dia da dádiva de sangue para todos os dadores, sem perda de direitos. Em segundo lugar, recomenda o reforço do apoio concedido às associações de dadores de sangue, que dinamizam ações de sensibilização e colheitas. Por fim, defende o reforço dos meios e recursos do Instituto Português do Sangue e da Transplantação, com o objetivo de aumentar a capacidade operacional de recolha de dádivas.",
+ "key_points": [
+  "Recomenda ao Governo a reposição do direito à dispensa ao trabalho no dia da dádiva de sangue para todos os dadores, sem perda de direitos.",
+  "Propõe o reforço do apoio destinado às associações de dadores de sangue que promovem campanhas de sensibilização e iniciativas de colheita.",
+  "Defende o reforço dos meios e recursos do Instituto Português do Sangue e da Transplantação para aumentar a capacidade de recolha de dádivas de sangue.",
+  "Assume a forma de recomendação não vinculativa dirigida ao Governo, não alterando diretamente a legislação laboral ou orçamental em vigor."
+ ],
+ "plain_language": "Este projeto pede ao Governo que tome medidas para haver mais pessoas a dar sangue e evitar faltas nos hospitais. Como é um projeto de resolução, funciona apenas como uma recomendação e não obriga o Governo a agir. A proposta principal passa por voltar a permitir que os trabalhadores faltem ao trabalho no dia em que vão dar sangue, sem perderem direitos no trabalho. Além disso, pede mais apoios para as associações de dadores e mais trabalhadores e meios para o instituto público responsável por recolher e gerir o sangue no país.",
+ "context": "O PCP justifica a iniciativa com a quebra nas dádivas e com níveis críticos recorrentes nas reservas nacionais, estimando uma necessidade diária de 1100 unidades de sangue. Segundo dados do Instituto Português do Sangue e da Transplantação citados no texto, entre 2017 e 2024 houve menos quase 10 mil dadores e menos 299 914 dádivas. O proponente aponta também o envelhecimento dos dadores, a dificuldade em atrair jovens, a ausência de dispensa laboral e um défice de 25% no quadro de pessoal do instituto, responsável pelo cancelamento de colheitas.",
+ "analysis": "A iniciativa tem o mérito de combinar o incentivo aos dadores com o reforço da capacidade de recolha, atacando simultaneamente a adesão de dadores e as falhas operacionais no terreno. Contudo, sendo um projeto de resolução, não tem efeito vinculativo e depende da vontade política e regulamentar do Governo. As recomendações para reforçar o apoio às associações e os meios do Instituto Português do Sangue e da Transplantação são genéricas, sem metas de contratação ou dotações indicadas. Além disso, a reposição da dispensa ao trabalho no dia da dádiva deixa questões práticas por definir, como os custos para entidades empregadoras e serviços públicos ou mecanismos contra eventuais abusos. Nota-se também que, embora o preâmbulo destaque a dificuldade em atrair jovens, nenhuma recomendação é dirigida especificamente a esse grupo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora o projeto de resolução não seja vinculativo, a concretização das recomendações implica aumento de despesa pública através do reforço de pessoal e recursos do Instituto Português do Sangue e da Transplantação e do maior apoio às associações de dadores. A reposição da dispensa laboral no dia da dádiva pode ainda gerar encargos para entidades empregadoras públicas e privadas, não sendo apresentados montantes no documento."
+ },
+ "affected": [
+  "dadores de sangue",
+  "trabalhadores por conta de outrem",
+  "utentes do Serviço Nacional de Saúde",
+  "associações de dadores de sangue",
+  "trabalhadores do Instituto Português do Sangue e da Transplantação"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "dispensa laboral",
+  "reservas de sangue",
+  "estatuto do dador",
+  "instituto português do sangue"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

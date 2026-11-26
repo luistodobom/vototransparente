@@ -1,0 +1,41 @@
+{
+ "short_title": "Recomendação de IVA Zero no cabaz alimentar essencial",
+ "summary": "O Projeto de Resolução n.º 1275/XVII/2.ª, apresentado pelo PAN, propõe que a Assembleia da República recomende ao Governo a aprovação do regime de IVA Zero em produtos alimentares considerados essenciais. A iniciativa surge como resposta à subida dos preços no setor alimentar e ao agravamento da inflação, visando aliviar os encargos das famílias portuguesas com o custo de vida. No texto, o partido recorda a aplicação anterior desta medida em 2023, através da Lei n.º 17/2023, e refere que uma proposta legislativa semelhante apresentada em abril de 2026 foi rejeitada pelo Parlamento. Trata-se de uma recomendação não vinculativa: mesmo que seja aprovada, não altera diretamente a lei fiscal nem obriga o Executivo a implementar a isenção, cabendo ao Governo decidir se avança com a medida, bem como definir a lista de produtos e a sua duração.",
+ "key_points": [
+  "Recomenda ao Governo que aprove a aplicação de uma taxa de IVA de 0% sobre produtos alimentares considerados essenciais.",
+  "Procura mitigar o aumento dos preços no setor alimentar e aliviar o custo de vida das famílias, em particular das mais desfavorecidas.",
+  "Invoca como precedente o regime temporário de IVA Zero aprovado em 2023 através da Lei n.º 17/2023.",
+  "Por ser um projeto de resolução, não tem caráter vinculativo e não define a lista de bens abrangidos nem o prazo de vigência da medida."
+ ],
+ "plain_language": "O PAN pede ao Parlamento que aconselhe o Governo a retirar o IVA, que é o imposto cobrado sobre o consumo, dos alimentos básicos do dia a dia. O partido argumenta que, como os preços da comida estão a subir devido à inflação, as famílias gastam mais e o Estado acaba por arrecadar mais imposto. Como se trata de um projeto de resolução, é apenas uma recomendação política e não uma lei obrigatória. Mesmo que a maioria dos deputados aprove esta ideia, o Governo não é obrigado a aplicá-la nem a baixar os impostos nos supermercados.",
+ "context": "Segundo a exposição de motivos, a crise no Médio Oriente e a incerteza internacional provocaram um aumento generalizado do custo de vida, levando a inflação a atingir 3,3% em agosto. O proponente afirma que a subida dos preços alimentares penaliza sobretudo as famílias mais desfavorecidas, enquanto aumenta as receitas do Estado em IVA. O PAN aponta o regime temporário de 2023 como um instrumento eficaz no passado e justifica o regresso do debate com o agravamento económico registado após o chumbo do seu Projeto de Lei n.º 510/XVII/1, em abril de 2026.",
+ "analysis": "A iniciativa aborda um problema concreto, o impacto da inflação alimentar nos orçamentos familiares, recorrendo a uma medida já aplicada em 2023. Contudo, apresenta fragilidades na forma e no conteúdo. Por ser um projeto de resolução, não tem força vinculativa, o que limita o seu efeito prático após o Parlamento ter rejeitado um projeto de lei semelhante em abril de 2026. O texto é também omisso em aspetos centrais: não especifica que produtos integrariam o cabaz essencial, não define a duração da isenção nem estima a perda de receita fiscal. Além disso, não prevê mecanismos de acompanhamento para assegurar que o corte no IVA chega ao consumidor final, nem avalia se uma redução fiscal generalizada é mais eficaz do que apoios direcionados às famílias mais desfavorecidas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação de uma taxa de IVA de 0% a bens alimentares essenciais implica uma redução da receita fiscal arrecadada pelo Estado, embora o documento não apresente qualquer estimativa orçamental. Por se tratar de uma recomendação não vinculativa, o impacto financeiro efetivo só ocorreria se o Governo decidisse aprovar a medida."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "famílias mais desfavorecidas",
+  "setor retalhista e alimentar"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "familia"
+ ],
+ "tags": [
+  "iva zero",
+  "cabaz alimentar",
+  "inflação",
+  "custo de vida",
+  "alívio fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

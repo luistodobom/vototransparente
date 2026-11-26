@@ -1,0 +1,26 @@
+{
+ "short_title": "Programa Nacional de Habitação (PNH)",
+ "summary": "O Programa Nacional de Habitação (PNH) é um plano plurianual (2022-2026) que visa reformar a política nacional de habitação em Portugal. O seu principal objetivo é garantir o acesso universal a uma habitação digna e a preços acessíveis para todas as famílias, independentemente dos seus rendimentos. Para tal, o PNH propõe um reforço significativo do parque habitacional público, a promoção do arrendamento acessível no setor privado e cooperativo, a reabilitação de edifícios e a garantia de soluções habitacionais sustentáveis e de qualidade. A proposta visa corrigir falhas de mercado passadas e assegurar que a habitação seja um direito fundamental e não apenas um bem de mercado.",
+ "key_points": [],
+ "plain_language": "Este plano é a grande aposta do governo para resolver o problema da habitação em Portugal. Basicamente, querem que toda a gente tenha uma casa decente e que consiga pagar, sem ter de gastar uma fortuna. Para isso, vão construir mais casas do Estado, usar prédios vazios para habitação social e dar uma ajuda para que as rendas no mercado privado sejam mais baratas. Também vão apertar a fiscalização e tentar que as casas sejam mais amigas do ambiente. É uma mudança de fundo para que o Estado tenha um papel mais ativo e não deixe o mercado sozinho a decidir os preços das casas.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica das políticas habitacionais anteriores, que se focaram excessivamente na promoção da aquisição de casa própria através de incentivos fiscais e bonificações de crédito, levando a um aumento do endividamento das famílias e à desregulação do mercado de arrendamento. Aponta que esta abordagem, juntamente com a financeirização do setor imobiliário e o aumento da procura turística (ex: Vistos Gold, Alojamento Local), resultou numa crise habitacional que afeta não só os mais carenciados, mas também a classe média. A inconsistência reside na crença de que o mercado, por si só, tornaria a habitação acessível, o que não se verificou. O PNH propõe uma 'rutura' com este paradigma, alinhando os detalhes da implementação com o objetivo de universalizar o direito à habitação. Isso é feito através do reforço do papel do Estado na promoção direta de habitação pública (com metas de aumento do parque público de 2% para 5%), da mobilização de património devoluto, da criação de uma bolsa de imóveis do Estado para habitação, e da implementação de medidas de regulação e fiscalização do mercado de arrendamento. A aposta na reabilitação urbana e na sustentabilidade também se alinha com a melhoria da qualidade e adequação da oferta habitacional.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento significativo dos gastos do governo, uma vez que se baseia num 'assinalável volume de investimento público', com recurso a fundos nacionais e europeus (nomeadamente do PRR e de outras fontes como o Banco Português de Fomento, BEI e CEB). As medidas 1 e 2, por exemplo, preveem investimentos de 1.311 M€ e 860 M€, respetivamente, até 2026, para a criação e mobilização de soluções habitacionais. Além disso, a promoção de arrendamento acessível e de contratos de longa duração implica a atribuição de 'benefícios fiscais' (Medidas 7, 10, 11, 12), o que resultará numa diminuição da receita do governo. O efeito líquido será um aumento substancial da despesa pública para financiar a criação e gestão de habitação acessível e para compensar a perda de receita fiscal, visando a desmercadorização da habitação."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

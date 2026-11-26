@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração ao IMI: Fim do coeficiente de qualidade e vetustez automático",
+ "summary": "Esta proposta de lei visa alterar o Código do Imposto Municipal sobre Imóveis (IMI) em Portugal. As principais mudanças incluem a revogação do coeficiente de qualidade e conforto, que atualmente aumenta o IMI para propriedades com certas características consideradas 'luxuosas' ou de maior qualidade. Além disso, propõe que o coeficiente de vetustez, que reduz o IMI para imóveis mais antigos, seja aplicado de forma automática, sem necessidade de nova avaliação. A proposta também reverte uma alteração recente do programa 'Mais Habitação' que impedia os alojamentos locais de beneficiar do coeficiente de vetustez, ou seja, de terem uma redução no IMI devido à idade do imóvel.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer mudar a forma como o imposto da casa (IMI) é calculado. Primeiro, querem acabar com aquela parte do imposto que aumenta se a tua casa tiver piscina, elevador ou outras coisas 'luxuosas', porque acham que isso não faz sentido. Segundo, querem que o desconto no imposto para casas mais antigas seja automático, sem teres de pedir uma nova avaliação que, às vezes, até te faz pagar mais. E, por fim, querem que os alojamentos locais voltem a ter direito a esse desconto por serem antigos, porque a lei atual tirou-lhes esse benefício, o que é visto como injusto, já que muitos deles ajudaram a recuperar prédios velhos.",
+ "context": null,
+ "analysis": "A proposta da Iniciativa Liberal argumenta que o coeficiente de qualidade e conforto é 'dirigista' e cria 'incentivos perversos', penalizando comodidades que não deveriam ser alvo de agravamento fiscal. Ao revogá-lo, a proposta alinha-se com o objetivo de reduzir a carga fiscal sobre os proprietários e simplificar o cálculo do IMI, removendo critérios subjetivos. No entanto, a remoção deste coeficiente pode ser vista como uma desincentiva à melhoria da qualidade habitacional, embora a proposta argumente que os custos de manutenção e consumo já servem como dissuasores naturais. A automatização do coeficiente de vetustez é consistente com o objetivo de incentivar a manutenção de imóveis antigos, pois elimina a barreira burocrática de uma nova avaliação que, paradoxalmente, poderia levar a um aumento do IMI. A reversão da regra para alojamentos locais é coerente com a lógica de que estes imóveis, muitas vezes reabilitados, não deveriam ser penalizados pela sua idade, promovendo a reabilitação urbana. Em suma, os detalhes da implementação alinham-se com o objetivo de desburocratizar o IMI, reduzir a carga fiscal e remover o que o proponente considera 'incentivos perversos' ou 'agravamentos injustos'.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao revogar o coeficiente de qualidade e conforto e ao permitir que os alojamentos locais beneficiem do coeficiente de vetustez, tenderá a diminuir a receita do governo proveniente do IMI. A automatização do coeficiente de vetustez também poderá levar a uma diminuição da receita, uma vez que mais imóveis antigos poderão beneficiar da redução sem a necessidade de um processo de reavaliação que, por vezes, resultava num aumento do valor patrimonial tributário. Não há indicação de que a proposta aumente os gastos do governo. O efeito líquido esperado é uma diminuição da receita fiscal para os municípios, o que poderá impactar a sua capacidade de investimento em serviços públicos e infraestruturas, que são financiados em parte pelo IMI."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Medidas fiscais de apoio a micro, pequenas e médias empresas",
+ "summary": "Esta proposta de lei, apresentada pelo PCP, visa apoiar as micro, pequenas e médias empresas (MPME) e cooperativas em Portugal, que enfrentam graves problemas de tesouraria devido à pandemia de COVID-19. As medidas propostas incluem a suspensão temporária do Pagamento por Conta (PPC) do IRC até ao final do ano em que as medidas excecionais da pandemia vigorarem. Adicionalmente, permite o reembolso antecipado de Pagamentos Especiais por Conta (PEC) não utilizados entre 2015 e 2019. Por fim, estabelece um prazo máximo de 15 dias para a efetivação de reembolsos de IVA, IRC e IRS, garantindo que as empresas e contribuintes recebam rapidamente os valores a que têm direito.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PCP quer dar uma ajuda às pequenas e médias empresas que estão a passar um mau bocado por causa da COVID-19. A ideia é que estas empresas não tenham de pagar adiantamentos de impostos que provavelmente não devem, que recebam de volta mais rapidamente o dinheiro que já pagaram a mais em impostos especiais, e que o Estado seja obrigado a devolver o IVA, IRC e IRS que as empresas ou pessoas pagaram a mais num prazo máximo de 15 dias. Tudo isto para que as empresas tenham mais dinheiro em caixa e consigam aguentar-se nesta crise.",
+ "context": null,
+ "analysis": "O documento critica as medidas governamentais existentes por serem insuficientes e focadas nas grandes empresas, ignorando a fragilidade e a dimensão informal das MPME. A proposta do PCP alinha-se diretamente com o objetivo de resolver os problemas de liquidez e tesouraria das MPME. A suspensão do PPC evita que estas empresas adiantem impostos com base em lucros de anos anteriores, que provavelmente não se repetirão em 2020, libertando capital. A antecipação dos reembolsos do PEC injeta diretamente dinheiro nas empresas, que de outra forma teriam de esperar anos. O estabelecimento de um prazo máximo para reembolsos de outros impostos garante um fluxo de caixa mais rápido e previsível. A lógica é consistente: em vez de criar novos apoios, a proposta foca-se em otimizar e acelerar a devolução de fundos que já pertencem às empresas ou em suspender pagamentos que seriam indevidos face à nova realidade económica, abordando diretamente as falhas apontadas nas políticas atuais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto imediato na tesouraria do governo. A suspensão do Pagamento por Conta (PPC) diminuirá a receita fiscal no curto prazo, embora o documento argumente que muitas MPME teriam lucros negativos e, portanto, esses valores seriam eventualmente reembolsados. A antecipação dos reembolsos de Pagamentos Especiais por Conta (PEC) e o estabelecimento de prazos máximos para reembolsos de IVA, IRC e IRS aumentarão os gastos do governo no curto prazo, pois aceleram a devolução de fundos que já foram pagos pelos contribuintes. Embora a proposta afirme que estas medidas não representam custos adicionais para o erário público a longo prazo (uma vez que são valores que seriam devolvidos de qualquer forma), o efeito líquido imediato será uma redução da liquidez disponível para o Estado e um aumento da necessidade de financiamento para cobrir estas saídas antecipadas de capital."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Proteção Extraordinária da Habitação Própria contra Aumento dos Encargos",
+ "summary": "A proposta, apresentada pelo PCP, visa criar um regime extraordinário para proteger os proprietários de habitação face ao aumento dos encargos com o crédito à habitação, provocado pela subida das taxas de juro. O objetivo é evitar que as famílias entrem em incumprimento ou percam as suas casas, através de medidas como a limitação da prestação mensal a 35% do rendimento familiar, a possibilidade de uma moratória de capital por até dois anos, e a dação em cumprimento do imóvel com direito a permanecer como arrendatário ou a readquirir a propriedade. A iniciativa também exige que os lucros dos bancos suportem parte do agravamento das taxas de juro e que o Banco de Portugal medie as renegociações.",
+ "key_points": [],
+ "plain_language": "Esta proposta do PCP quer dar uma ajuda extra às famílias que estão a sufocar com os empréstimos da casa por causa dos juros que não param de subir. A ideia é obrigar os bancos a meter a mão na massa e a usar os seus lucros para aliviar a pressão, limitando o que as famílias pagam por mês a 35% do seu rendimento. Também permite que as pessoas parem de pagar o capital do empréstimo por uns tempos (até dois anos) e, se a situação for mesmo má, que entreguem a casa ao banco mas possam continuar a viver lá como inquilinos ou até comprá-la de volta mais tarde. Tudo para que ninguém perca a casa por não conseguir pagar.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema central: o impacto negativo do aumento das taxas de juro nos agregados familiares com crédito à habitação, contrastando com os elevados lucros da banca. As soluções propostas alinham-se diretamente com este objetivo, procurando aliviar a carga financeira das famílias (limite de 35% da taxa de esforço, moratória de capital) e transferir parte do custo para as instituições bancárias (redução de outros custos, utilização dos lucros). A inclusão da dação em cumprimento com opção de arrendamento ou recompra oferece uma rede de segurança crucial contra o despejo. A proposta critica a ineficácia das medidas de renegociação existentes, justificando a necessidade de intervenções mais robustas e obrigatórias. A atribuição de responsabilidades ao Banco de Portugal para mediar as renegociações reforça a intenção de garantir processos justos e eficazes, em linha com o direito constitucional à habitação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta visa principalmente redistribuir os encargos financeiros do setor privado, transferindo a pressão das famílias para os bancos, em vez de impactar diretamente as despesas ou receitas do governo de forma significativa. O seu objetivo é reduzir a carga financeira sobre os agregados familiares com empréstimos para habitação e, consequentemente, diminuir os lucros bancários. A criação de equipas técnicas pelo Banco de Portugal (BdP) para a mediação implicará alguns custos administrativos para esta entidade pública, representando um ligeiro aumento nas despesas relacionadas com o governo. No entanto, o efeito líquido no orçamento geral do Estado é esperado ser negligenciável, uma vez que os principais ajustamentos financeiros ocorrem entre entidades privadas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

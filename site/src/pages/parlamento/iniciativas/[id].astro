@@ -34,7 +34,7 @@ const sources = [
     note: ini.votes.some((v) => v.source === "page") ? "Votações desta iniciativa recolhidas da página oficial (ausentes do ficheiro de dados abertos)." : null },
   ...(s ? [{ label: "Resumo gerado por IA", note: `${s._meta.model}, ${fmtDate(s._meta.generated)}, a partir do ${s._meta.source === "pdf" ? "texto integral (PDF)" : s._meta.source === "txt" ? "texto integral" : "título oficial"}` }] : []),
 ];
-const fiscalCls = s ? ({ aumenta_despesa: "no", reduz_receita: "no", reduz_despesa: "ok", aumenta_receita: "ok", misto: "mid", neutro: "neutral", incerto: "neutral" } as Record<string, string>)[s.fiscal_impact.direction] ?? "neutral" : "";
+const fiscalCls = s ? ({ aumenta_despesa: "no", reduz_receita: "no", reduz_despesa: "ok", aumenta_receita: "ok", misto: "mid", neutro: "neutral", incerto: "neutral" } as Record<string, string>)[s.fiscal_impact?.direction ?? ""] ?? "neutral" : "";
 ---
 <Base title={title} description={description} active="votacoes">
   <article
@@ -96,34 +96,48 @@ const fiscalCls = s ? ({ aumenta_despesa: "no", reduz_receita: "no", reduz_despe
                 </>
               )}
             </section>
-            <section class="card card-pad block simple">
-              <div class="eyebrow">Em linguagem simples</div>
-              <p class="plain-text">{s.plain_language}</p>
-            </section>
-            <div class="grid two">
-              <section class="card card-pad block">
-                <h3>Porque foi proposta</h3>
-                <div class="prose small"><p>{s.context}</p></div>
+            {s.plain_language && (
+              <section class="card card-pad block simple">
+                <div class="eyebrow">Em linguagem simples</div>
+                <p class="plain-text">{s.plain_language}</p>
               </section>
-              <section class="card card-pad block">
-                <h3>Análise crítica</h3>
-                <div class="prose small"><p>{s.analysis}</p></div>
-              </section>
-            </div>
-            <div class="grid two">
-              <section class="card card-pad block">
-                <h3>Impacto orçamental</h3>
-                <p><span class={`badge ${fiscalCls}`}>{FISCAL_LABEL[s.fiscal_impact.direction] ?? s.fiscal_impact.direction}</span></p>
-                <div class="prose small"><p>{s.fiscal_impact.explanation}</p></div>
-              </section>
-              <section class="card card-pad block">
-                <h3>Quem é afetado</h3>
-                <div class="tags">{s.affected.map((a) => <span class="chip">{a}</span>)}</div>
-                {s.tags?.length > 0 && <p class="xs muted tagline">Palavras-chave: {s.tags.join(", ")}</p>}
-              </section>
-            </div>
+            )}
+            {(s.context || s.analysis) && (
+              <div class="grid two">
+                {s.context && (
+                  <section class="card card-pad block">
+                    <h3>Porque foi proposta</h3>
+                    <div class="prose small"><p>{s.context}</p></div>
+                  </section>
+                )}
+                {s.analysis && (
+                  <section class="card card-pad block">
+                    <h3>Análise crítica</h3>
+                    <div class="prose small"><p>{s.analysis}</p></div>
+                  </section>
+                )}
+              </div>
+            )}
+            {(s.fiscal_impact?.explanation || s.affected?.length > 0) && (
+              <div class="grid two">
+                {s.fiscal_impact?.explanation && (
+                  <section class="card card-pad block">
+                    <h3>Impacto orçamental</h3>
+                    {s.fiscal_impact.direction && <p><span class={`badge ${fiscalCls}`}>{FISCAL_LABEL[s.fiscal_impact.direction] ?? s.fiscal_impact.direction}</span></p>}
+                    <div class="prose small"><p>{s.fiscal_impact.explanation}</p></div>
+                  </section>
+                )}
+                {s.affected?.length > 0 && (
+                  <section class="card card-pad block">
+                    <h3>Quem é afetado</h3>
+                    <div class="tags">{s.affected.map((a) => <span class="chip">{a}</span>)}</div>
+                    {s.tags?.length > 0 && <p class="xs muted tagline">Palavras-chave: {s.tags.join(", ")}</p>}
+                  </section>
+                )}
+              </div>
+            )}
             <p class="xs muted ai-note" data-pagefind-ignore>
-              Resumo gerado automaticamente por IA a partir do texto oficial da iniciativa. Pode conter imprecisões —
+              Resumo gerado automaticamente por IA ({s._meta.model}) a partir do texto oficial da iniciativa. Pode conter imprecisões —
               consulte sempre o <a href={ini.url} rel="noopener">documento original</a>.
             </p>
           </>

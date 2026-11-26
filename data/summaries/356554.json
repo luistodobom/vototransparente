@@ -1,0 +1,40 @@
+{
+ "short_title": "Isenção de IRS nas compensações a vítimas de abusos na Igreja Católica",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que, em articulação com a Autoridade Tributária e Aduaneira, garanta a isenção de Imposto sobre o Rendimento das Pessoas Singulares (IRS) para as compensações financeiras atribuídas a vítimas de abusos sexuais ocorridos no contexto da Igreja Católica em Portugal. Atualmente, como estas verbas pagas pela Conferência Episcopal Portuguesa não resultam de decisão judicial nem de acordo validado por um tribunal, podem ser tributadas como incrementos patrimoniais (categoria G do Código do IRS). A iniciativa pretende evitar que o imposto reduza o valor líquido recebido pelas vítimas e visa assegurar a reparação dos danos sofridos. Tratando-se de um Projeto de Resolução, a medida constitui uma recomendação ao Executivo, não tendo força de lei nem efeito vinculativo.",
+ "key_points": [
+  "Recomenda ao Governo que assegure a isenção de IRS nas compensações financeiras atribuídas às vítimas de abusos sexuais na Igreja Católica em Portugal.",
+  "Propõe que essa garantia seja operacionalizada em articulação direta com a Autoridade Tributária e Aduaneira.",
+  "Visa afastar a tributação na categoria G do Código do IRS (incrementos patrimoniais), aplicável atualmente por as verbas não resultarem de decisão judicial nem de acordo homologado por tribunal.",
+  "Abrange compensações atribuídas na sequência dos trabalhos da Comissão Independente, onde foram já aprovados 57 pedidos entre 9 mil e 45 mil euros e permanecem outros processos em avaliação."
+ ],
+ "plain_language": "A Igreja Católica decidiu pagar compensações em dinheiro, entre 9 mil e 45 mil euros, a dezenas de vítimas de abusos sexuais. Como estes pagamentos são feitos por acordo direto e não por ordem de um tribunal, a lei atual permite que o Estado cobre IRS sobre esse dinheiro, o que em alguns casos pode tirar quase metade do valor às vítimas. Com esta proposta, o PAN pede ao Governo que garanta que estas pessoas não pagam imposto sobre essas compensações. Como é apenas uma recomendação do Parlamento, o Governo não é obrigado a cumpri-la e a lei fiscal não muda automaticamente.",
+ "context": "O proponente aponta que a Conferência Episcopal Portuguesa aprovou 57 pedidos de compensação, num total superior a 1,6 milhões de euros, mas a lei atual permite tributar estas verbas em sede de IRS. Segundo o documento, o Estado poderia arrecadar 320 mil euros, reduzindo para perto de metade o valor líquido recebido em certos casos. O partido cita preocupações da Associação Portuguesa de Apoio à Vítima e da associação Coração Silenciado, considerando injusto que o Estado lucre com reparações de crimes graves.",
+ "analysis": "A iniciativa responde a um problema concreto assinalado por organizações de apoio às vítimas, procurando evitar que a carga fiscal reduza substancialmente compensações por danos não patrimoniais. Contudo, apresenta fragilidades jurídicas e práticas relevantes. Por ser um Projeto de Resolução, não é vinculativo e não altera o Código do IRS. Além disso, o texto recomenda apenas que o Governo garanta a isenção em articulação com a Autoridade Tributária, sem concretizar a via legislativa necessária nem esclarecer se a medida teria efeitos retroativos para os 57 casos já aprovados. Por fim, ao circunscrever a recomendação exclusivamente a vítimas no contexto da Igreja Católica, a proposta não acautela eventuais questões de igualdade fiscal face a outras vítimas de abusos que recebam compensações extrajudiciais semelhantes.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Por ser uma recomendação não vinculativa, a resolução não tem impacto orçamental direto imediato. Contudo, a concretização da isenção recomendada implicaria uma redução da receita fiscal estimada pelo proponente em 320 mil euros relativos aos pedidos já aprovados, acrescida da eventual perda de receita sobre processos ainda em avaliação."
+ },
+ "affected": [
+  "vítimas de abusos sexuais na Igreja Católica",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "irs",
+  "isenção fiscal",
+  "abusos sexuais",
+  "igreja católica",
+  "compensações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

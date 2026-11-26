@@ -1,0 +1,42 @@
+{
+ "short_title": "Regulamentação da profissão de treinador de cães e código de conduta",
+ "summary": "O Projeto de Resolução n.º 1097/XVII/1.ª, apresentado pelo Chega, consiste numa recomendação não vinculativa ao Governo para regulamentar a atividade profissional de treinador de cães em Portugal. Atualmente, a lei exige certificação apenas para o treino de cães perigosos ou potencialmente perigosos, deixando o treino canino em geral sem regras uniformes. A iniciativa recomenda que o executivo avalie e promova um enquadramento legal específico para a profissão, estabelecendo requisitos mínimos de qualificação, formação e certificação ajustados às diferentes especializações. Propõe igualmente a criação de um código de conduta profissional centrado no bem-estar animal e na proibição de métodos lesivos ou sem base científica. Por fim, pede que o Governo considere incluir esta atividade na lista de profissões regulamentadas e avalie mecanismos de supervisão, responsabilização e fiscalização para garantir o cumprimento de normas técnicas e éticas.",
+ "key_points": [
+  "Avaliar e promover a regulamentação legal específica para o exercício da atividade de treinador de cães.",
+  "Criar requisitos mínimos de qualificação, formação e certificação para as várias especializações do treino canino.",
+  "Estabelecer um código de conduta focado no bem-estar animal que proíba métodos lesivos ou sem fundamento científico.",
+  "Considerar a inclusão da atividade de treinador de cães na lista de profissões regulamentadas, garantindo supervisão e responsabilização.",
+  "Avaliar a criação de mecanismos de fiscalização para assegurar o cumprimento das normas técnicas e éticas."
+ ],
+ "plain_language": "Em Portugal, só quem treina cães considerados perigosos precisa de formação certificada por lei. Para todos os outros cães, qualquer pessoa pode trabalhar como treinador sem regras oficiais. Este projeto pede ao Governo que mude isso, criando regras claras para quem quer ser treinador de cães: formação mínima, um código de boas práticas que proíba métodos agressivos ou sem base científica, e fiscalização. Como é um Projeto de Resolução, funciona apenas como uma recomendação e não obriga o Governo a legislar.",
+ "context": "Os proponentes argumentam que o treino adequado previne problemas comportamentais, reduzindo o abandono e a eutanásia de cães. Apontam que, fora do regime dos cães perigosos, a falta de regulamentação permite práticas heterogéneas, incluindo o uso de dispositivos aversivos ou substâncias sem enquadramento clínico, além de impedir mecanismos claros de fiscalização, responsabilização e proteção laboral dos profissionais, como o acesso a seguros. Invocam ainda a evolução científica sobre bem-estar animal, o modelo dos Cinco Domínios e o debate internacional sobre acreditação profissional.",
+ "analysis": "A iniciativa aborda uma lacuna regulatória real, já que a certificação exigida pela Direção-Geral de Alimentação e Veterinária se limita a cães perigosos ou potencialmente perigosos, deixando os restantes tutores sem referências oficiais para escolher treinadores. Contudo, o texto apresenta inconsistências: o título refere «treino de animais» em sentido amplo, mas as recomendações restringem-se exclusivamente a «treinador de cães». Por ser um Projeto de Resolução, não vincula o Governo nem define prazos, entidades supervisoras ou regras de transição para os profissionais já no ativo. Além disso, a inclusão numa lista de profissões regulamentadas pode criar barreiras à entrada no mercado e custos de formação, aspetos não ponderados na exposição de motivos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, a iniciativa não gera impacto orçamental imediato. Contudo, a eventual criação de sistemas de certificação, supervisão e fiscalização da atividade poderá implicar encargos administrativos para o Estado, não quantificados no documento."
+ },
+ "affected": [
+  "treinadores de cães",
+  "tutores de cães",
+  "entidades formadoras e certificadoras",
+  "serviços de fiscalização"
+ ],
+ "categories": [
+  "animais",
+  "trabalho",
+  "consumidores"
+ ],
+ "tags": [
+  "treino canino",
+  "bem-estar animal",
+  "profissões regulamentadas",
+  "código de conduta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

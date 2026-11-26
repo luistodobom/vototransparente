@@ -1,0 +1,44 @@
+{
+ "short_title": "Travão aos juros do crédito à habitação na Caixa Geral de Depósitos",
+ "summary": "O Projeto de Resolução n.º 1252/XVII/2.ª, do Bloco de Esquerda, recomenda ao Governo que crie o mecanismo «Travão Caixa» através das orientações estratégicas da Caixa Geral de Depósitos (CGD), na qualidade de acionista único. A proposta visa impedir que o banco público repercuta, durante doze meses, as subidas das taxas de juro diretoras do Banco Central Europeu decididas em 2026 nos contratos de crédito à habitação própria e permanente, abrangendo créditos a taxa variável ou a taxa mista em período de indexação. Para tal, a CGD reduziria automaticamente o spread em medida equivalente ao aumento do indexante. A iniciativa prevê ainda a isenção de comissões de renegociação, transferência e reembolso antecipado, sendo o custo acomodado pelos dividendos do banco, sem transferências orçamentais. Trata-se de uma recomendação não vinculativa ao Governo.",
+ "key_points": [
+  "Inscrever nas orientações estratégicas da Caixa Geral de Depósitos um mecanismo de doze meses para não repercutir as subidas das taxas diretoras do Banco Central Europeu de 2026 no crédito à habitação própria e permanente.",
+  "Reduzir automaticamente o spread contratado em medida equivalente ao aumento do indexante resultante dessas decisões, nos contratos a taxa variável e a taxa mista em período de indexação.",
+  "Cessar o mecanismo quando o indexante regressar ao nível médio anterior às decisões de 2026, podendo ser prorrogado por períodos de doze meses enquanto continuar o ciclo de subidas.",
+  "Isentar os clientes de comissões de renegociação, de transferência de crédito de outra instituição e de reembolso antecipado na Caixa Geral de Depósitos durante a vigência do mecanismo.",
+  "Acomodar o impacto financeiro integralmente na política de dividendos do banco público, sem afetar os rácios prudenciais de capital nem gerar custos para o erário público.",
+  "Promover junto do Banco de Portugal o acompanhamento e a divulgação pública do impacto da medida nas prestações e nas condições praticadas pelos restantes bancos."
+ ],
+ "plain_language": "Esta proposta recomenda ao Governo que dê instruções à Caixa Geral de Depósitos para travar o aumento das prestações da casa durante um ano. Na prática, perante as subidas dos juros decididas pelo Banco Central Europeu em 2026, o banco público baixaria a sua margem de lucro (o spread) na mesma medida do aumento do indexante, evitando que a prestação suba. Além disso, não cobraria comissões a quem quisesse renegociar, amortizar ou transferir o crédito. Por ser um projeto de resolução, é apenas uma recomendação não vinculativa: o Governo não é obrigado a aplicá-la.",
+ "context": "O Bloco de Esquerda justifica a iniciativa com as duas subidas das taxas diretoras do Banco Central Europeu em junho e setembro de 2026, que fizeram subir a Euribor e levaram a prestação média da habitação para 441 euros. O partido refere que os preços das casas e o endividamento das famílias atingiram máximos, penalizando sobretudo contratos mais recentes. Em contrapartida, destaca os 913 milhões de euros de lucro líquido da Caixa Geral de Depósitos no primeiro semestre de 2026 e o dividendo de 1.250 milhões entregue ao Estado.",
+ "analysis": "A iniciativa destaca-se pela simplicidade operativa, aplicando-se automaticamente sem requerimento do cliente, e procura estimular a concorrência no setor ao eliminar comissões de transferência e reembolso antecipado. Contudo, apresenta fragilidades importantes. Primeiro, como projeto de resolução, não vincula o Governo. Segundo, assume que o Estado pode ditar a política de preços da Caixa Geral de Depósitos via orientações estratégicas, sem avaliar eventuais limites à autonomia de gestão comercial ou regras europeias de concorrência. Terceiro, embora evite despesa orçamental direta, a redução estimada de 75 a 100 milhões de euros anuais nos lucros diminui os dividendos recebidos pelo Estado, afetando a receita pública. Por último, o texto não detalha a fórmula técnica para isolar na Euribor o impacto estrito das decisões do Banco Central Europeu.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O documento estima um impacto anual entre 75 e 100 milhões de euros por cada meio ponto percentual não repercutido, acomodado sem transferências orçamentais através da redução dos dividendos entregues pela Caixa Geral de Depósitos ao Estado. Como se trata de uma recomendação não vinculativa, o efeito efetivo depende de eventual adoção pelo Governo."
+ },
+ "affected": [
+  "clientes com crédito à habitação na Caixa Geral de Depósitos",
+  "mutuários de crédito à habitação",
+  "Caixa Geral de Depósitos",
+  "instituições de crédito concorrentes"
+ ],
+ "categories": [
+  "habitacao",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "taxas de juro",
+  "caixa geral de depósitos",
+  "euribor",
+  "spread"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Divulgação de Dados COVID-19 para Investigação Científica",
+ "summary": "Esta proposta recomenda que o Governo português recolha e disponibilize à comunidade científica os microdados pseudo-anonimizados relativos a casos suspeitos ou confirmados de COVID-19 em Portugal. O objetivo é permitir que os cientistas compreendam melhor a pandemia, auxiliem as autoridades de saúde pública na adoção de medidas eficazes de prevenção e mitigação, e facilitem a colaboração com estudos internacionais, tudo isto em conformidade com o Regulamento Geral de Proteção de Dados.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo partilhe os dados detalhados sobre a COVID-19 com os cientistas. Assim, eles podem estudar melhor o vírus, ajudar a encontrar as melhores formas de o combater e colaborar com investigadores de outros países. Os dados seriam tratados para proteger a privacidade das pessoas, ou seja, ninguém saberia a quem pertencem os dados específicos.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente uma necessidade premente da comunidade científica, que é o acesso a dados detalhados sobre a COVID-19 para investigação. Ao especificar que os dados devem ser 'pseudo-anonimizados' e disponibilizados 'dentro do âmbito e dos procedimentos revistos no Regulamento Geral de Proteção de Dados', a proposta demonstra um alinhamento claro entre o objetivo de promover a investigação e a necessidade de proteger a privacidade dos cidadãos. Não se detetam inconsistências; pelo contrário, a metodologia proposta (pseudo-anonimização e conformidade com o RGPD) é crucial para a viabilidade e aceitação da iniciativa, garantindo que a partilha de dados não comprometa a segurança da informação pessoal. A justificação de que a falta de dados impede estudos urgentes reforça a pertinência da medida.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicaria um ligeiro aumento nos gastos do governo, principalmente relacionados com os custos administrativos de processamento, pseudo-anonimização e disponibilização segura dos microdados à comunidade científica. Não há indicação de que a proposta aumentaria ou diminuiria diretamente a receita do governo. O efeito líquido seria um pequeno aumento nas despesas operacionais, sem impacto direto na receita."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

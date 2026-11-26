@@ -1,0 +1,44 @@
+{
+ "short_title": "Subvenção pós-maternidade e proteção de carreira para atletas",
+ "summary": "O Projeto de Lei n.º 526/XVII cria um regime de proteção pós-maternidade para atletas de alto rendimento, profissionais e integrantes regulares de seleções nacionais. Estabelece uma subvenção complementar mensal no valor de um Indexante dos Apoios Sociais (IAS), paga pelo Instituto Português do Desporto e Juventude (IPDJ) e financiada pelo Orçamento do Estado, pelo período remanescente após o subsídio parental até perfazer 360 dias desde o nascimento. O regime garante a manutenção do estatuto desportivo, bolsas e contratos-programa, contabilizando a pausa como tempo útil de carreira. Impõe também a federações e clubes a disponibilização de treino adaptado, acompanhamento médico e psicológico durante a gestação e nos 12 meses após o regresso, planos de reintegração e decisão de litígios até 15 dias úteis. O incumprimento é punido com coimas até 50 000 euros. Produz efeitos no Orçamento do Estado seguinte e revoga o artigo 10.º da Lei n.º 13/2024.",
+ "key_points": [
+  "Atribui uma subvenção mensal de um Indexante dos Apoios Sociais, paga pelo IPDJ, até completar 360 dias após o parto, depois de terminado o subsídio parental.",
+  "Garante a manutenção do estatuto da atleta, das bolsas e dos apoios financeiros contratualizados, proibindo penalizações desportivas ou económicas por ausência competitiva.",
+  "Contabiliza integralmente o período de subvenção como tempo útil de carreira, obrigando as federações a criarem regras de equivalência para classificações e critérios de seleção.",
+  "Assegura acesso a treino adaptado, planos individuais de regresso à competição e acompanhamento médico, fisiológico e psicológico durante a gravidez e nos 12 meses seguintes.",
+  "Prevê fiscalização pelo IPDJ, resolução de litígios federativos em 15 dias úteis e coimas de 500 a 50 000 euros para clubes e entidades que incumpram."
+ ],
+ "plain_language": "Quando uma atleta de alta competição ou profissional engravida, arrisca-se muitas vezes a perder bolsas, estatuto e lugar nas competições por não conseguir treinar ou competir como antes. Esta proposta quer evitar essas perdas após o nascimento de um filho. Garante que a atleta recebe um apoio mensal extra do Estado quando terminar a licença de maternidade, até completar cerca de um ano após o parto. Além disso, proíbe clubes e federações de lhe retirarem apoios ou a penalizarem nos rankings, assegurando acompanhamento médico e treinos adaptados para regressar à competição em segurança.",
+ "context": "Os proponentes argumentam que o Código do Trabalho e a segurança social foram desenhados para empregos comuns e não respondem à realidade das atletas, frequentemente ligadas a bolsas e contratos-programa. Segundo a exposição de motivos, diagnósticos sobre igualdade de género no desporto identificam a maternidade como uma das principais causas de abandono precoce da competição pelas mulheres, devido à perda de apoios, quebra de elegibilidade e falta de recuperação física adequada. Apesar dos avanços da Lei n.º 13/2024, o PS defende um regime único que estabilize o pós-parto e corrija assimetrias face às carreiras masculinas.",
+ "analysis": "Como ponto forte, o diploma alarga a proteção pós-maternidade além do alto rendimento, incluindo atletas profissionais e de seleções nacionais, articulando apoio financeiro com reintegração desportiva, proibição de penalizações e transparência através de relatórios anuais. Contudo, o texto apresenta várias falhas técnicas graves que exigem correção na especialidade: a exposição de motivos anuncia 180 dias acrescidos à licença, mas o articulado fixa um teto total de 360 dias descontando o subsídio parental; falta o artigo 18.º, gerando remissões erradas para artigos sobre proteção de dados, contraordenações e regulamentação; e o artigo 9.º parece exigir cumulativamente os três estatutos de atleta para candidatura. Por fim, o projeto não estima o custo orçamental nem detalha como clubes mais pequenos financiarão o acompanhamento clínico especializado exigido durante mais de um ano.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O diploma cria uma subvenção mensal equivalente a um Indexante dos Apoios Sociais (IAS) por beneficiária, financiada por verbas do Orçamento do Estado transferidas para o IPDJ, além de alargar o universo de atletas abrangidas face à lei atual e reforçar encargos de fiscalização. O documento não apresenta estimativas do custo global nem do número esperado de beneficiárias, remetendo a produção de efeitos para o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "atletas de alto rendimento",
+  "praticantes desportivas profissionais",
+  "atletas de seleções nacionais",
+  "federações desportivas",
+  "clubes e sociedades desportivas"
+ ],
+ "categories": [
+  "desporto",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "maternidade",
+  "alto rendimento",
+  "igualdade de género",
+  "apoios desportivos",
+  "ipdj"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço do Complemento Garantia para a Infância com majorações do IRS",
+ "summary": "O Projeto de Lei n.º 674/XVII altera a Lei n.º 12/2022, de 27 de junho, para reforçar o Complemento Garantia para a Infância. Este apoio destina-se a crianças e jovens até aos 17 anos beneficiários do abono de família cujos agregados não consigam aproveitar na totalidade a dedução à coleta por dependente no IRS. A proposta estabelece que o cálculo do valor máximo de referência passa a incluir as majorações aplicáveis previstas no artigo 78.º-A do Código do IRS, associadas à idade dos filhos ou à dimensão do agregado familiar. Quando a soma entre o abono de família atribuído e a dedução apurada no IRS ficar abaixo desse teto majorado, a Autoridade Tributária transfere a diferença às famílias. O diploma obriga o Governo a adaptar a regulamentação em 90 dias e prevê a entrada em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Alarga a base de cálculo do Complemento Garantia para a Infância para incluir as majorações das deduções por dependente previstas no artigo 78.º-A do Código do IRS.",
+  "Garante o pagamento da diferença às crianças e jovens até aos 17 anos beneficiários do abono de família cuja soma entre abono e dedução no IRS seja inferior ao valor máximo majorado.",
+  "Mantém a Autoridade Tributária como entidade responsável pela transferência do montante diferencial aos agregados familiares.",
+  "Determina que o Governo proceda às alterações regulamentares necessárias no prazo de 90 dias após a entrada em vigor da lei.",
+  "Estabelece que a nova regra entra em vigor com o Orçamento do Estado seguinte à sua publicação."
+ ],
+ "plain_language": "As famílias com filhos têm direito a descontar um valor no IRS, que aumenta conforme a idade das crianças ou o número de filhos. Porém, quem ganha menos e não paga IRS suficiente não consegue aproveitar esse desconto na totalidade. Já existe um apoio, o Complemento Garantia para a Infância, que compensa essa diferença através de uma transferência direta para quem recebe abono de família. Esta proposta garante que o cálculo desse apoio passa também a incluir os aumentos extra daquele desconto fiscal, assegurando que as famílias de rendimentos mais baixos recebem o mesmo benefício que as restantes.",
+ "context": "O Partido Socialista aponta a persistência da pobreza infantil, citando dados do Instituto Nacional de Estatística de 2024: 17,6% das crianças e jovens até aos 17 anos estavam em risco de pobreza, subindo para 35,1% nas famílias monoparentais e 26,7% nos agregados com três ou mais filhos. Como quase 45% dos agregados não tiveram IRS liquidado em 2024, os proponentes argumentam que os reforços das deduções fiscais por dependente favorecem quem tem maior capacidade contributiva, justificando o alargamento do complemento para garantir equidade e apoiar a natalidade.",
+ "analysis": "A proposta tem o mérito de corrigir uma assimetria nos benefícios fiscais, estendendo o efeito das majorações por dependente às famílias sem coleta suficiente de IRS através de um mecanismo já existente. Contudo, apresenta fragilidades técnicas e de transparência. No plano formal, o corpo do artigo 2.º contém um lapso ao citar a «Lei n.º 22/2022», contradizendo a epígrafe e os restantes artigos, que referem a «Lei n.º 12/2022». Além disso, o projeto não inclui estimativa do impacto orçamental nem quantifica o universo de beneficiários abrangidos. Ao depender de regulamentação em 90 dias e manter a ligação exclusiva ao abono de família até aos 17 anos, a eficácia prática fica também condicionada à execução regulamentar e ao Orçamento do Estado seguinte.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao incluir as majorações das deduções por dependente no teto de referência do Complemento Garantia para a Infância, a medida aumenta o montante das transferências pagas pela Autoridade Tributária às famílias elegíveis. O documento não quantifica o encargo orçamental adicional."
+ },
+ "affected": [
+  "famílias com filhos até aos 17 anos",
+  "beneficiários do abono de família",
+  "famílias com baixos rendimentos",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "familia",
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "garantia para a infância",
+  "abono de família",
+  "irs",
+  "pobreza infantil",
+  "deduções por dependentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

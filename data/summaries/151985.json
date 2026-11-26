@@ -1,0 +1,25 @@
+{
+ "short_title": "Redução do IVA para eficiência hídrica em habitações",
+ "summary": "Esta proposta visa reduzir a taxa de IVA aplicada a serviços que promovem a eficiência hídrica em habitações, passando-a para 6%. Os serviços abrangidos incluem a substituição de equipamentos de água por outros mais eficientes, a instalação de sistemas de monitorização inteligente do consumo de água e a implementação de sistemas de aproveitamento de águas pluviais. O objetivo é incentivar as famílias a adotar medidas que contribuam para a poupança de água, face aos desafios da escassez hídrica em Portugal.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que seja mais barato para as pessoas fazerem obras em casa para poupar água. Por exemplo, se quiseres trocar as torneiras antigas por umas que gastam menos água, ou instalar um sistema para aproveitar a água da chuva, o imposto (IVA) sobre esses serviços vai ser mais baixo, de 23% para 6%. A ideia é ajudar Portugal a lidar com a falta de água, que é um problema sério, e incentivar toda a gente a ser mais amiga do ambiente em casa.",
+ "context": null,
+ "analysis": "O documento identifica claramente a escassez hídrica como um desafio crítico para Portugal, agravado pelas alterações climáticas. A proposta de redução do IVA para serviços de eficiência hídrica é uma medida fiscal direta para incentivar a ação individual na poupança de água. Os detalhes da implementação, como a substituição de dispositivos, a monitorização inteligente e o aproveitamento de águas pluviais, alinham-se perfeitamente com o objetivo de promover a gestão eficiente da água nas habitações. Não se detetam inconsistências; a lógica entre o problema identificado e a solução proposta é coerente e a medida fiscal é um incentivo claro para a mudança de comportamento.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao reduzir a taxa de IVA de 23% para 6% sobre os serviços de eficiência hídrica, resultará numa diminuição da receita do governo proveniente deste imposto. Embora possa haver um aumento na procura por estes serviços devido ao incentivo fiscal, o valor unitário do imposto cobrado será significativamente menor. Não há indicação de aumento direto nos gastos do governo. O efeito líquido esperado é uma diminuição da receita fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

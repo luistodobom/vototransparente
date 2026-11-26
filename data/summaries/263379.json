@@ -1,0 +1,25 @@
+{
+ "short_title": "Controlo de Rendas para Defender o Direito à Habitação",
+ "summary": "Esta proposta visa controlar as rendas de habitação para proteger o direito à habitação, dado o aumento desproporcionado dos preços das casas (51% desde 2013) em comparação com os salários (4% de aumento). O documento destaca que a habitação se tornou um ativo financeiro, gerando desigualdade social e tornando-a inacessível para muitos, especialmente nas grandes cidades. A lei proposta altera o Novo Regime do Arrendamento Urbano para estabelecer valores máximos de renda para novos contratos e renovações, com base em fatores como área, qualidade, certificação energética, localização e valores medianos de mercado. Também limita os aumentos de renda para imóveis recentemente desocupados sem obras de beneficiação significativas. A proposta fundamenta-se em exemplos de outros países europeus onde o controlo de rendas foi implementado com sucesso, sem impactos negativos no mercado.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer travar o aumento descontrolado das rendas em Portugal. Nos últimos anos, os preços das casas dispararam muito mais do que os salários, tornando difícil para as pessoas, especialmente os jovens, conseguirem uma casa. A ideia é pôr um travão nos valores das rendas, tanto para contratos novos como para renovações, tendo em conta a qualidade e localização da casa. Querem que ter uma casa seja um direito e não apenas um negócio para grandes investidores, mostrando que outros países já fazem isto com sucesso.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente da crise habitacional em Portugal, fundamentando a necessidade de controlo de rendas com dados sobre o aumento desproporcionado dos preços da habitação face aos salários e o impacto social. A proposta de lei alinha-se diretamente com o objetivo de defender o direito à habitação ao introduzir o conceito de \"renda máxima permitida\" e ao detalhar os fatores a considerar para a sua definição (área, qualidade, certificação energética, localização, valores medianos do INE, tipologia). A limitação de rendas para novos contratos e renovações, especialmente em imóveis sem obras de beneficiação, visa explicitamente conter a especulação e garantir a acessibilidade. A argumentação é reforçada por exemplos de sucesso de controlo de rendas noutros países europeus, contrariando mitos sobre a sua ineficácia ou impacto negativo no mercado. Não são identificadas inconsistências internas na argumentação ou na forma como os detalhes da implementação se alinham com o objetivo declarado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não fornece uma estimativa detalhada do impacto fiscal da proposta. No entanto, é possível inferir que a implementação do controlo de rendas poderá implicar custos administrativos para o governo, nomeadamente na definição e atualização das portarias que estabelecem os valores máximos de renda e na eventual supervisão do cumprimento da lei. Quanto à receita, a limitação das rendas poderá, em teoria, levar a uma ligeira diminuição da receita de IRS proveniente dos senhorios, caso os seus rendimentos de arrendamento diminuam. Contudo, se a medida melhorar a capacidade de compra e o bem-estar dos cidadãos, poderá haver um efeito positivo indireto na economia e, consequentemente, noutras fontes de receita fiscal (como o IVA), embora seja difícil quantificar. O efeito líquido é incerto, mas o principal objetivo da proposta é social e não fiscal, pelo que os impactos fiscais diretos não são o foco principal do documento."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

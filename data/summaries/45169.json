@@ -1,0 +1,26 @@
+{
+ "short_title": "Acesso a Videovigilância para Investigação de Acidentes Ferroviários",
+ "summary": "Esta proposta de lei visa autorizar o Governo português a legislar sobre a segurança ferroviária, concedendo ao Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários (GPIAAF) acesso a imagens de videovigilância para investigar acidentes e incidentes. Esta medida é essencial para determinar as causas das ocorrências, melhorar a segurança e prevenir futuros acidentes, uma vez que Portugal era o único Estado-Membro da UE onde o GPIAAF não tinha este acesso. A proposta também alarga o âmbito de atuação do GPIAAF a todos os sistemas ferroviários (incluindo metros e elétricos) e estabelece a cooperação com as autoridades judiciárias, salvaguardando a confidencialidade dos dados pessoais e distinguindo as investigações de segurança dos processos criminais.",
+ "key_points": [],
+ "plain_language": "Esta proposta de lei é para dar 'luz verde' ao Governo para criar uma lei que permita ao Gabinete que investiga acidentes de comboio (o GPIAAF) aceder às imagens das câmaras de vigilância quando há um acidente ou incidente. É que, até agora, Portugal era o único país da União Europeia onde eles não podiam ver essas imagens, o que dificultava muito perceber o que aconteceu e evitar que se repetisse. A ideia é tornar as investigações mais rápidas e eficazes para que os comboios sejam mais seguros para todos. A lei também esclarece que estas investigações são para aprender e prevenir, não para encontrar culpados, mas que haverá cooperação com a polícia e os tribunais. E ainda alarga a competência do GPIAAF a todos os tipos de transportes ferroviários, como metros e elétricos.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma lacuna crítica na legislação portuguesa: a incapacidade do GPIAAF de aceder a imagens de videovigilância para investigações de acidentes ferroviários, o que contrariava diretamente a Diretiva (UE) 2016/798. Esta proposta de lei resolve essa inconsistência, alinhando Portugal com as normas europeias. Os detalhes de implementação, como a definição do âmbito de acesso do GPIAAF, a proteção da privacidade dos dados pessoais e o estabelecimento de protocolos de cooperação com as autoridades judiciárias, demonstram um alinhamento claro com o objetivo de melhorar a segurança ferroviária. Ao permitir investigações mais eficazes e céleres, a proposta contribui diretamente para a identificação das causas de acidentes e a implementação de medidas preventivas, reforçando a segurança geral dos transportes ferroviários. A distinção entre a investigação de segurança (focada na prevenção) e o processo judicial (focada na responsabilidade) é mantida, garantindo a independência da primeira, mas com a necessária partilha de informações.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de lei em si, sendo uma autorização legislativa, não implica um aumento direto significativo dos gastos do governo. No entanto, o decreto-lei que dela advém clarifica que os custos de peritagens técnicas e reconstituições de acidentes são da responsabilidade do gestor da infraestrutura ou dos operadores, com o GPIAAF a ser reembolsado caso adiante esses pagamentos. Isto significa que o encargo financeiro direto das investigações não recai sobre o orçamento geral do Estado. Por outro lado, a proposta introduz contraordenações (multas) para o incumprimento de deveres de notificação e reembolso. As receitas destas multas serão partilhadas, com 40% a reverter para o GPIAAF e o restante para o Estado, o que representa um aumento da receita governamental. O efeito líquido é, portanto, um ligeiro aumento da receita do governo através das multas e potenciais benefícios a longo prazo decorrentes da melhoria da segurança ferroviária, que poderá reduzir custos associados a acidentes."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

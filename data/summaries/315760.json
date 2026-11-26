@@ -1,0 +1,42 @@
+{
+ "short_title": "Criminalização da discriminação e agravamento de penas no Código Penal",
+ "summary": "O Projeto de Lei, de iniciativa cidadã, altera o Código Penal para transformar diversas práticas discriminatórias em crimes puníveis com pena de prisão de seis meses a oito anos. Passa a ser crime, incluindo na forma tentada, recusar, limitar, condicionar ou dificultar o acesso a locais públicos, bens e serviços, atividade profissional, cuidados de saúde, ensino, cultura, habitação ou ao exercício de qualquer direito com base em características como origem étnico-racial, nacionalidade, religião, sexo, orientação sexual, identidade de género ou deficiência. A iniciativa fixa também a pena de seis meses a oito anos de prisão para o n.º 2 do artigo 240.º e cria agravamentos de penas: metade para difamação e injúria discriminatórias e um terço para crimes do artigo 240.º cometidos com ameaças graves, por divulgação pública ou por titulares de cargos públicos, académicos e jornalistas em funções. Por fim, revoga a Lei n.º 93/2017.",
+ "key_points": [
+  "Criminaliza atos discriminatórios no acesso a bens, serviços, saúde, ensino, cultura, habitação, trabalho, espaços públicos ou exercício de direitos, punindo-os com prisão de seis meses a oito anos.",
+  "Torna punível a tentativa daqueles atos discriminatórios e estabelece a pena de seis meses a oito anos de prisão no n.º 2 do artigo 240.º do Código Penal.",
+  "Agrava em metade as penas mínimas e máximas de difamação e injúria quando motivadas por discriminação.",
+  "Agrava em um terço as penas dos crimes do artigo 240.º praticados mediante ameaça grave, por meios de divulgação ou por titulares de cargos públicos, académicos ou jornalistas em funções.",
+  "Revoga integralmente a Lei n.º 93/2017, de 23 de agosto."
+ ],
+ "plain_language": "Atualmente, muitos comportamentos discriminatórios são tratados como infrações administrativas, punidas com coimas ou simples advertências. Esta proposta de cidadãos quer passar esses atos para crimes graves, punidos com prisão até oito anos. Por exemplo, recusar ou dificultar a alguém o acesso a uma loja, casa, escola, hospital ou emprego por causa da cor da pele, religião, sexo, orientação sexual ou deficiência passaria a ser crime, mesmo que fique só pela tentativa. Além disso, insultos discriminatórios teriam penas maiores e as punições aumentariam se fossem cometidos em público ou por políticos, professores universitários ou jornalistas.",
+ "context": "Os proponentes justificam a iniciativa com a persistência de fenómenos de racismo e discriminação em Portugal, citando o Plano Nacional de Combate ao Racismo e à Discriminação 2021-2025 e o relatório de 2022 da Comissão para a Igualdade e Contra a Discriminação Racial. Segundo esse relatório, das 491 denúncias registadas, apenas 97 originaram processos de contraordenação e só 11 resultaram em condenações, incluindo simples penas de admoestação. Para os subscritores, o tratamento como mera infração administrativa gera impunidade, desampara as vítimas e exige uma resposta penal firme.",
+ "analysis": "A proposta procura responder de forma clara à baixa taxa de condenações administrativas e uniformiza a proteção legal entre múltiplos fatores de discriminação. Contudo, apresenta fragilidades jurídicas relevantes. Ao aplicar a mesma moldura penal elevada, de seis meses a oito anos de prisão, a condutas de gravidade muito distinta, desde a apologia de genocídio até dificultar o acesso a serviços ou ao «exercício de qualquer direito», suscita dúvidas de proporcionalidade e de falta de precisão exigida pela lei penal. Além disso, a revogação total da Lei n.º 93/2017 elimina o regime contraordenacional existente sem prever alternativa para casos que não atinjam o limiar de prova criminal, arriscando deixar situações sem resposta sancionatória. Nota-se ainda uma gralha de redação no artigo 246.º-A, que numera apenas um ponto «1».",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta qualquer estimativa orçamental nem quantifica custos ou receitas. A transferência de condutas contraordenacionais para o sistema judicial penal, a criação de novos tipos de crime com penas de prisão e a revogação da Lei n.º 93/2017 têm impacto financeiro indeterminado nos tribunais, serviços prisionais e administração pública."
+ },
+ "affected": [
+  "vítimas de discriminação",
+  "prestadores de bens e serviços, senhorios e entidades empregadoras",
+  "estabelecimentos de ensino e de saúde",
+  "titulares de cargos públicos, académicos e jornalistas"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "código penal",
+  "discriminação",
+  "racismo",
+  "crimes de ódio",
+  "direitos fundamentais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "IVA a 0% temporário num cabaz alimentar essencial",
+ "summary": "O Projeto de Lei n.º 758/XVII/2.ª, apresentado pelo Chega, propõe a aplicação temporária de uma taxa de 0% de IVA a um conjunto alargado de produtos alimentares essenciais, designado por cabaz alimentar. A isenção abrange bens como pão, batata, arroz, massas, legumes, frutas, leguminosas secas, leite, iogurtes, queijos, carne, peixe fresco ou congelado, atum em conserva, ovos, azeite, óleos vegetais, manteiga, bebidas e iogurtes vegetais, além de produtos sem glúten para celíacos e de nutrição entérica. O texto estabelece que a isenção confere direito à dedução do IVA suportado a montante pelas empresas. Prevê ainda que o Governo avalie e acompanhe o impacto da medida no prazo de seis meses após a sua entrada em vigor, a qual fica dependente da aprovação do Orçamento do Estado seguinte à publicação da lei.",
+ "key_points": [
+  "Aplica uma taxa de 0% de IVA a uma lista fechada de alimentos essenciais, incluindo pão, cereais, hortícolas, frutas, laticínios, carne, peixe, ovos, azeite e gorduras.",
+  "Inclui no cabaz isento bebidas e iogurtes de base vegetal, bem como produtos dietéticos para nutrição entérica e alimentos sem glúten para doentes celíacos.",
+  "Garante aos operadores económicos o direito à dedução do IVA suportado na aquisição, importação ou utilização de bens e serviços associados a estes produtos.",
+  "Determina que o Governo avalie e acompanhe o impacto da medida nos seis meses seguintes à entrada em vigor.",
+  "Condiciona o início de vigência da lei à aprovação do Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Esta proposta quer retirar temporariamente o IVA de uma lista específica de alimentos básicos do dia a dia, como pão, leite, carne, peixe, fruta, legumes, ovos, azeite e também produtos sem glúten ou bebidas vegetais. Na prática, o imposto passa a 0%, com o objetivo de baixar o preço pago na caixa do supermercado. Como os vendedores continuam a poder descontar o IVA dos seus custos, o imposto não fica escondido na cadeia. Contudo, mesmo que seja aprovada no Parlamento, a medida só entra em vigor depois da aprovação do próximo Orçamento do Estado.",
+ "context": "O grupo parlamentar proponente justifica a iniciativa com a instabilidade geopolítica internacional, associada ao conflito envolvendo o Irão, e os seus efeitos nos mercados energéticos e cadeias de abastecimento. Alega que estes choques externos provocam subidas rápidas do custo de vida e da inflação alimentar, penalizando sobretudo as famílias mais vulneráveis. Invoca ainda a experiência da taxa de 0% de IVA aplicada durante a pandemia de COVID-19 e medidas semelhantes em Espanha e Itália como exemplos para proteger o poder de compra.",
+ "analysis": "A proposta define com clareza a lista de produtos abrangidos e acautela o direito à dedução do IVA pelas empresas, evitando custos fiscais ocultos na cadeia de distribuição. Contudo, apresenta inconsistências relevantes entre a exposição de motivos e o articulado. Apesar de anunciar uma aplicação temporária, o texto legal não fixa qualquer prazo de término ou regra de caducidade. Além disso, embora prometa outros bens básicos e mecanismos de controlo da repercussão nos preços finais, os artigos restringem-se a alimentos e limitam a fiscalização a uma avaliação governamental genérica após seis meses, sem garantir que a descida do imposto chegue ao consumidor. Finalmente, adiar a entrada em vigor para o Orçamento do Estado seguinte contraria a urgência invocada e deixa em aberto o impacto orçamental, não quantificado.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação da taxa de 0% de IVA com direito à dedução elimina a receita fiscal sobre um amplo conjunto de bens alimentares essenciais. O documento não quantifica o montante da perda de receita para o Estado, remetendo a entrada em vigor da medida para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "consumidores",
+  "agregados familiares",
+  "retalhistas alimentares",
+  "produtores e distribuidores agroalimentares",
+  "doentes celíacos"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "iva zero",
+  "cabaz alimentar",
+  "inflação",
+  "bens essenciais",
+  "preços alimentares"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

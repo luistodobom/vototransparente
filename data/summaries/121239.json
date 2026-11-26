@@ -1,0 +1,25 @@
+{
+ "short_title": "Melhora identificação de equídeos e permite registo como animais de companhia.",
+ "summary": "Esta proposta visa melhorar o sistema de identificação e registo de equídeos (cavalos, burros e mulas) em Portugal. Atualmente, há falhas na informação sobre a aptidão funcional destes animais, o que pode levar a abusos. A proposta pretende garantir que os equídeos sejam utilizados de acordo com a sua aptidão registada e, crucialmente, introduz a possibilidade de serem registados como animais de companhia. Esta alteração é fundamental para que estes animais fiquem abrangidos pelo regime de proteção do Código Penal relativo a crimes contra animais de companhia. A proposta também clarifica a responsabilidade do detentor do animal em manter a informação da sua aptidão funcional atualizada junto da Direção-Geral de Alimentação e Veterinária (DGAV).",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que os cavalos, burros e mulas tenham um 'cartão de cidadão' mais completo, onde diga para que servem (se são de trabalho, de desporto, etc.). E o mais importante: quer que possam ser registados como 'animais de companhia', tal como cães e gatos. Assim, se alguém lhes fizer mal, a lei pode protegê-los melhor, porque hoje em dia não têm essa proteção específica. Os donos também passam a ser responsáveis por manter a informação atualizada, para que os animais não sejam usados para coisas para as quais não estão preparados.",
+ "context": null,
+ "analysis": "O documento identifica claramente duas limitações principais no sistema atual: a falta ou desatualização da informação sobre a aptidão funcional dos equídeos, que os torna vulneráveis a abusos, e a impossibilidade de os registar como animais de companhia, excluindo-os de proteções legais cruciais. As soluções propostas alinham-se diretamente com estes objetivos. Ao tornar obrigatória a atualização da aptidão funcional pelo detentor e ao estipular que os animais só podem ser usados de acordo com essa aptidão, a proposta visa prevenir o uso indevido. A inclusão da categoria 'Aptidão para companhia' no registo é uma medida direta para estender a proteção do Código Penal a estes animais. As alterações relativas à competência para a instrução de processos de contraordenação (DGAV ou órgãos de polícia criminal) reforçam a capacidade de fiscalização e aplicação da lei. Não se detetam inconsistências; pelo contrário, os detalhes da implementação parecem bem desenhados para resolver os problemas identificados e alcançar os objetivos de maior proteção e clareza.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta foca-se em alterações administrativas e regulamentares a um sistema de registo já existente, transferindo a responsabilidade de atualização de dados para os detentores dos animais. Embora mencione a competência da DGAV e dos órgãos de polícia criminal na fiscalização e aplicação de coimas, estas são funções que se enquadram nas suas atribuições atuais. Não há indicação de criação de novos programas governamentais, subsídios ou impostos. O impacto fiscal será provavelmente neutro ou com um ligeiro aumento nos custos administrativos para a DGAV processar as atualizações e fiscalizar o cumprimento, mas é expectável que seja absorvido pelos orçamentos existentes, sem um impacto significativo nas despesas ou receitas do governo."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

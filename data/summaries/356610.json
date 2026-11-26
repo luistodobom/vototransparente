@@ -1,0 +1,44 @@
+{
+ "short_title": "Proibição do acorrentamento permanente e alojamento de animais em varandas",
+ "summary": "O Projeto de Lei n.º 581/XVII/1.ª altera o Decreto-Lei n.º 276/2001 para proibir o acorrentamento permanente e o alojamento habitual ou permanente de animais de companhia em varandas abertas, alpendres, arrecadações, anexos improvisados ou outros espaços inadequados. Proíbe ainda deixar os animais sem vigilância compatível com as suas necessidades por períodos que comprometam o seu bem-estar, saúde ou segurança. O acorrentamento temporário passa a ser admitido apenas quando indispensável para a segurança de pessoas ou animais e sem alternativa, até ao máximo de três horas diárias, garantindo abrigo, alimentação, água, higiene, exercício e lazer. O incumprimento constitui contraordenação. Adicionalmente, prevê a realização de campanhas anuais de sensibilização e a implementação de um Plano Nacional de Desacorrentamento pelo Governo e pelas autarquias, incluindo apoios financeiros a detentores em vulnerabilidade económica ou social. Impõe também relatórios anuais aos municípios e ao Governo.",
+ "key_points": [
+  "Proíbe deixar animais de companhia sem vigilância adequada por períodos que comprometam a sua saúde, segurança ou bem-estar.",
+  "Proíbe manter animais de companhia de forma habitual ou permanente em varandas abertas, alpendres, arrecadações ou anexos improvisados.",
+  "Proíbe o acorrentamento permanente, limitando a amarração excecional por razões de segurança a um máximo de três horas diárias, com condições básicas garantidas.",
+  "Qualifica a violação das novas regras de alojamento e vigilância como contraordenação, sem prejuízo de eventual responsabilidade civil ou criminal.",
+  "Determina a implementação de um Plano Nacional de Desacorrentamento e campanhas anuais de sensibilização, prevendo apoios financeiros a detentores economicamente vulneráveis.",
+  "Obriga os municípios a publicar relatórios anuais detalhados sobre ações de bem-estar animal e desacorrentamentos, e o Governo a apresentar um relatório nacional à Assembleia da República."
+ ],
+ "plain_language": "Esta proposta quer acabar com a prática de manter cães, gatos ou outros animais de companhia presos a correntes de forma permanente ou fechados em varandas, alpendres e arrecadações. Pela nova regra, prender um animal só será permitido em casos excecionais de segurança e nunca por mais de três horas por dia, com acesso a água, comida e abrigo. Quem não cumprir arrisca uma coima. A lei também obriga o Estado e as câmaras municipais a criar um plano nacional para ajudar a substituir as correntes por espaços adequados, prevendo apoios financeiros para famílias com menos recursos e campanhas de sensibilização.",
+ "context": "O PAN argumenta que as regras atuais, de 2001, são demasiado vagas, dificultam a fiscalização e geram impunidade. Aponta riscos graves em incêndios e fenómenos climáticos extremos, recordando mortes de animais em abrigos ilegais em Santo Tirso e Castro Marim. Cita pareceres da Ordem dos Médicos Veterinários e estudos internacionais que associam o acorrentamento prolongado a ferimentos físicos, asfixia, sofrimento psicológico e maior agressividade dos animais. Refere ainda conflitos de vizinhança e a sobrelotação de centros de recolha causados pelo confinamento em varandas, alinhando Portugal com práticas de outros países europeus.",
+ "analysis": "Como ponto positivo, a iniciativa substitui normas subjetivas do Decreto-Lei n.º 276/2001 por limites objetivos, como o teto de três horas diárias para contenção excecional, e combina a proibição com apoios sociais para evitar o abandono. Contudo, apresenta fragilidades jurídicas e práticas. Expressões como «forma habitual» ou «indispensável para segurança» mantêm margem para dúvida na fiscalização, que continua difícil no interior de propriedades privadas. O texto não define o escalão específico da coima aplicável nem fixa requisitos técnicos para os meios de contenção temporária, como o comprimento ou o peso das correntes, apesar de os referir na exposição de motivos. Impõe ainda novas obrigações de reporte anual a todos os municípios, incluindo dados de esterilizações e programas CED, sem garantir financiamento próprio para essa carga administrativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa prevê a implementação de um Plano Nacional de Desacorrentamento com apoios financeiros a detentores vulneráveis, criação de soluções alternativas de alojamento e campanhas anuais, embora condicione a execução à cobertura prevista no Orçamento do Estado (referindo na exposição de motivos 500 mil euros inscritos no OE de 2022 e verbas não quantificadas nos OE de 2025 e 2026). Cria ainda contraordenações, cujo eventual impacto na receita não é quantificado."
+ },
+ "affected": [
+  "detentores de animais de companhia",
+  "autarquias locais",
+  "associações de proteção animal",
+  "entidades fiscalizadoras"
+ ],
+ "categories": [
+  "animais",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "acorrentamento",
+  "animais de companhia",
+  "autarquias locais",
+  "alojamento animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

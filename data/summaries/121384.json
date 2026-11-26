@@ -1,0 +1,26 @@
+{
+ "short_title": "Medidas de apoio fiscal de emergência para combustíveis e agricultura.",
+ "summary": "Esta proposta de lei estabelece medidas fiscais de emergência para atenuar o impacto do aumento extraordinário dos preços dos combustíveis. Permite flexibilizar a taxa de imposto sobre os produtos petrolíferos (ISP) para gasolina e gasóleo, podendo ir até zero. Também obriga a Entidade Reguladora dos Serviços Energéticos (ERSE) a publicar relatórios trimestrais detalhados sobre a formação dos preços dos combustíveis. Por fim, isenta de IVA alguns bens essenciais para a produção agrícola, como adubos e alimentos para animais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para nos ajudar com os preços altos da gasolina e do gasóleo. O governo vai poder baixar mais os impostos sobre os combustíveis, até ao mínimo. Além disso, a entidade que regula a energia (ERSE) vai ter de explicar de três em três meses como é que os preços dos combustíveis são formados, para ser tudo mais transparente. E para os agricultores, alguns produtos importantes para as suas culturas e animais, como adubos e rações, vão deixar de ter IVA, o que lhes vai poupar dinheiro. Tudo isto é uma medida temporária para a situação atual.",
+ "context": null,
+ "analysis": "A proposta alinha-se diretamente com o objetivo de mitigar os efeitos do aumento dos preços dos combustíveis. A suspensão dos limites mínimos do ISP oferece ao governo uma ferramenta direta para reduzir o custo final dos combustíveis, respondendo à volatilidade do mercado. A exigência de relatórios trimestrais da ERSE sobre a formação de preços aumenta a transparência, o que pode ajudar a identificar e corrigir distorções no mercado, beneficiando os consumidores a longo prazo. A isenção de IVA para bens agrícolas visa reduzir os custos de produção no setor primário, o que, por sua vez, pode ajudar a estabilizar os preços dos alimentos e mitigar o impacto indireto dos custos energéticos na economia. As medidas são temporárias, o que é consistente com a natureza de \"emergência\" da proposta.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto negativo nas receitas do governo. A suspensão dos limites mínimos do Imposto sobre Produtos Petrolíferos (ISP) para gasolina e gasóleo significa que o governo pode reduzir ou mesmo eliminar a receita proveniente deste imposto. Adicionalmente, a isenção de Imposto sobre o Valor Acrescentado (IVA) sobre adubos, fertilizantes e alimentos para animais utilizados na produção agrícola resultará numa diminuição da receita de IVA. O efeito líquido será uma diminuição significativa das receitas do governo, sem que sejam previstas novas despesas diretas, mas sim uma redução da carga fiscal para cidadãos e agricultores."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ambiente",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

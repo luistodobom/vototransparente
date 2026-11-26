@@ -1,0 +1,24 @@
+{
+ "short_title": "Acesso de estrangeiros não residentes ao SNS",
+ "summary": "A proposta de lei visa alterar a Lei de Bases da Saúde para restringir o acesso gratuito ao Serviço Nacional de Saúde (SNS) por parte de cidadãos estrangeiros não residentes ou em situação irregular em Portugal. Atualmente, a lei permite que estes acedam a cuidados de saúde sem custos, o que, segundo os proponentes, tem levado a abusos e sobrecarga do sistema. A alteração proposta visa garantir que apenas cidadãos portugueses, residentes legais, ou aqueles em situação de estada temporária com acordos internacionais (como cidadãos da UE/EEE, apátridas ou requerentes de proteção internacional) tenham acesso pleno. Para os restantes, o acesso a cuidados não urgentes passará a exigir comprovativo de cobertura de saúde, embora os cuidados urgentes e vitais continuem a ser assegurados a todos. O objetivo é proteger a sustentabilidade do SNS e os direitos dos seus legítimos utentes.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer mudar as regras para quem pode usar o Serviço Nacional de Saúde (SNS) de borla. Atualmente, parece que muitos estrangeiros que não vivem cá ou não têm os papéis em ordem estão a usar o SNS sem pagar, o que está a sobrecarregar o sistema. A ideia é que, a partir de agora, só quem vive cá legalmente ou está cá temporariamente com os papéis em dia (tipo europeus, refugiados, etc.) tenha acesso total e gratuito. Se fores estrangeiro, não viveres cá e não tiveres seguro, vais ter de pagar ou mostrar que tens um seguro para a maioria dos tratamentos. No entanto, se for uma emergência grave, o SNS continua a ajudar toda a gente, independentemente da situação. O objetivo é que o SNS não seja abusado e continue a funcionar bem para quem realmente precisa e tem direito.",
+ "context": null,
+ "analysis": "O documento identifica uma alegada inconsistência na Lei de Bases da Saúde atual (Lei n.º 95/2019), que, segundo os proponentes, permite o acesso gratuito ao SNS por estrangeiros não residentes ou em situação irregular, levando a um \"turismo de saúde\" e sobrecarga do sistema. A análise crítica revela que a proposta se alinha diretamente com o objetivo declarado de combater este fenómeno e proteger a sustentabilidade do SNS. Os dados da Inspeção-Geral das Atividades em Saúde (IGAS) são apresentados como evidência do aumento do número de atendimentos a estrangeiros não residentes sem cobertura, o que reforça a argumentação dos proponentes sobre a necessidade da alteração. A proposta procura corrigir o que consideram uma \"solução errada e injusta\" ao exigir comprovativo de cobertura para cuidados não urgentes, ao mesmo tempo que salvaguarda o acesso a cuidados urgentes e vitais para todos, o que é consistente com princípios humanitários e constitucionais. Não há inconsistências internas na lógica da proposta, que visa explicitamente resolver o problema identificado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa diminuir os gastos do governo com o Serviço Nacional de Saúde (SNS). O documento refere que o acesso gratuito de estrangeiros não residentes ou em situação irregular resulta em \"usufruto, a expensas do Estado português\" e tem consequências negativas para o \"erário público\". Ao exigir comprovativo de cobertura de saúde para cuidados não urgentes a este grupo, a expectativa é que o custo associado a esses atendimentos seja transferido para seguros privados ou para os próprios utentes, reduzindo a despesa pública. Embora não haja uma estimativa numérica, o efeito líquido esperado é uma diminuição dos gastos do governo e, potencialmente, um aumento indireto da receita (se os utentes forem obrigados a pagar ou a ter seguros que contribuam para o sistema), contribuindo para a sustentabilidade financeira do SNS."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

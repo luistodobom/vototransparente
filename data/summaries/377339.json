@@ -1,0 +1,45 @@
+{
+ "short_title": "Plano Nacional de Reforma Estrutural do Sistema Prisional",
+ "summary": "Este Projeto de Resolução do PS recomenda ao Governo, de forma não vinculativa, a criação e execução de um Plano Nacional de Reforma Estrutural do Sistema Prisional para o período 2027-2037. A iniciativa propõe uma avaliação técnica independente de todas as prisões em seis meses e o recálculo da lotação oficial segundo a regra de cela individual e padrões europeus. Recomenda a definição, em 90 dias, de obras urgentes para corrigir falhas graves de segurança e salubridade, além de um programa permanente de manutenção preventiva. Inclui ainda a publicação de um plano detalhado para encerrar o Estabelecimento Prisional de Lisboa, o lançamento até ao primeiro trimestre de 2027 da empreitada da nova prisão de São Miguel, um plano plurianual de contratação e apoio psicológico para trabalhadores, programas de saúde prisional articulados com o Serviço Nacional de Saúde, modernização da segurança e monitorização semestral no Parlamento.",
+ "key_points": [
+  "Realizar, em seis meses, uma avaliação técnica independente a todos os estabelecimentos prisionais e recalcular a lotação oficial com base na regra de cela individual.",
+  "Aprovar até 30 de junho de 2027 o Plano Nacional de Reforma Estrutural do Sistema Prisional 2027-2037, com programação financeira plurianual e matriz de intervenções urgentes em 90 dias.",
+  "Divulgar o plano detalhado de encerramento do Estabelecimento Prisional de Lisboa e lançar a empreitada da nova prisão de São Miguel até ao primeiro trimestre de 2027.",
+  "Implementar um plano plurianual de recrutamento e retenção de profissionais, acompanhado por um programa confidencial de saúde ocupacional e prevenção do burnout.",
+  "Integrar um programa nacional de saúde prisional articulado com o Serviço Nacional de Saúde e modernizar os sistemas de segurança e vigilância.",
+  "Reforçar a execução de penas não privativas da liberdade e vigilância eletrónica, com envio semestral de relatórios de execução à Assembleia da República."
+ ],
+ "plain_language": "Um projeto de resolução não obriga o Governo a agir, mas serve para o Parlamento recomendar medidas. Aqui, pede-se ao Governo que deixe de responder aos problemas das prisões apenas após fugas ou crises, criando um plano para dez anos. Esse plano inclui avaliar todas as cadeias, calcular quantas pessoas lá cabem com dignidade, fazer obras urgentes, fechar a prisão de Lisboa sem sobrelotar outras e construir a nova prisão nos Açores. Recomenda ainda contratar mais profissionais, dar-lhes apoio psicológico, melhorar a saúde dos reclusos e reforçar alternativas à prisão, como a vigilância eletrónica.",
+ "context": "O proponente justifica a iniciativa com o fim, em 2027, da estratégia iniciada em 2017, o atraso em projetos como a nova prisão de Ponta Delgada e o aumento da população prisional, que atingiu 108,6% de ocupação em setembro de 2026. Destaca edifícios degradados do século XIX, condenações pelo Tribunal Europeu dos Direitos Humanos, alertas do Mecanismo Nacional de Prevenção, falhas de manutenção como a rotura de água no Linhó, evasões recentes e elevado desgaste psicológico dos guardas prisionais.",
+ "analysis": "A proposta destaca-se pela abordagem integrada, ligando edificado, segurança, recursos humanos, saúde e penas alternativas, além de exigir indicadores públicos, escrutínio semestral e o cálculo da lotação real por cela individual. Contudo, sendo um projeto de resolução, não vincula o Governo. Apresenta também riscos de execução elevados: fixa prazos curtos — 90 dias para obras urgentes, seis meses para avaliar os estabelecimentos e junho de 2027 para aprovar o plano decenal — sem quantificar os custos globais nem garantir financiamento para 2027-2037. Além disso, recalcular a lotação para celas individuais reduzirá a capacidade oficial, agravando a pressão sobre o sistema sem uma redução paralela de reclusos. O histórico de atrasos em planos anteriores, reconhecido no texto, reforça o risco de derrapagem nos calendários.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora o projeto de resolução não seja vinculativo, a concretização das medidas recomendadas implica aumento da despesa pública com obras urgentes, construção e requalificação de prisões, modernização da segurança, contratação de pessoal e programas de saúde. O documento não quantifica o custo total do plano 2027-2037, referindo apenas estimativas e dotações anteriores, como os 50 milhões de euros estimados em 2018 para a nova prisão de Ponta Delgada."
+ },
+ "affected": [
+  "pessoas reclusas",
+  "guardas prisionais",
+  "técnicos de reinserção social",
+  "profissionais de saúde e manutenção prisional",
+  "famílias das pessoas reclusas"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "sistema prisional",
+  "reforma prisional",
+  "guarda prisional",
+  "direitos humanos",
+  "estabelecimentos prisionais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

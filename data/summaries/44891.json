@@ -1,0 +1,24 @@
+{
+ "short_title": "Mecanismo de Regularização de Dívidas de Propinas no Ensino Superior",
+ "summary": "A proposta estabelece um mecanismo extraordinário para que estudantes do ensino superior público, com comprovada carência económica devido à pandemia de Covid-19, possam regularizar as suas dívidas de propinas. Este mecanismo permite um período de carência para o pagamento das dívidas, correspondente ao tempo necessário para a conclusão da licenciatura e, se aplicável, do mestrado, acrescido de cinco anos. Durante este período, os estudantes mantêm acesso a todos os atos administrativos e à emissão de diplomas. As instituições de ensino superior serão compensadas financeiramente pelo valor das propinas não pagas durante este período.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta é para ajudar os estudantes universitários que não conseguiram pagar as propinas por causa da pandemia. Dá-lhes um tempo extra para acabar o curso e só depois começarem a pagar o que devem. E para as universidades não ficarem sem dinheiro, o governo vai compensá-las por essas propinas que os alunos não pagaram logo. É uma ajuda para que ninguém desista da faculdade por falta de dinheiro neste período difícil.",
+ "context": null,
+ "analysis": "O documento identifica a crise económica e social, agravada pela pandemia, como um fator que impede os estudantes de pagar propinas, levando ao abandono escolar. A proposta visa mitigar este problema ao permitir que os estudantes concluam os seus cursos antes de saldar as dívidas. A implementação de um período de carência e a garantia de acesso aos serviços académicos alinham-se diretamente com o objetivo de reduzir o abandono e facilitar a conclusão dos estudos. Além disso, a compensação financeira às instituições de ensino superior assegura que estas não sofram uma perda imediata de receita, o que é crucial dado o subfinanciamento crónico do setor e a sua dependência das propinas. A natureza extraordinária e transitória do mecanismo reflete uma resposta a uma crise específica, sem abordar a questão mais ampla do financiamento do ensino superior, que é reconhecida como um problema estrutural.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta aumentará os gastos do governo no curto prazo, uma vez que o Estado compensará financeiramente as instituições de ensino superior pelos valores das propinas que os estudantes adiarem o pagamento. Embora os estudantes sejam obrigados a saldar as suas dívidas posteriormente, o impacto imediato é um aumento da despesa pública para cobrir a receita diferida das instituições. Não há um aumento direto na receita do governo decorrente desta medida, resultando num efeito líquido de aumento da despesa pública para apoiar o sistema de ensino superior e os estudantes em dificuldades."
+ },
+ "affected": [],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

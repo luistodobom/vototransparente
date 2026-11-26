@@ -1,0 +1,41 @@
+{
+ "short_title": "Pessoal não docente no ensino particular financiado pelo Estado",
+ "summary": "O Projeto de Lei altera o Estatuto do Ensino Particular e Cooperativo de nível não superior para definir e garantir a dotação de pessoal não docente nos estabelecimentos financiados pelo Estado. Passa a exigir que as escolas com contratos de associação garantam pessoal não docente em número suficiente para apoio educativo, vigilância, segurança e tarefas técnicas e administrativas. Determina ainda que as portarias que fixam os apoios financeiros nos contratos de associação e de patrocínio considerem e assegurem o financiamento desses trabalhadores. Nos contratos de cooperação, clarifica que o apoio estatal cobre vencimentos de docentes e não docentes e inclui produtos de apoio na ação social escolar. Adicionalmente, inclui o pessoal não docente nos requisitos de autorização de funcionamento, obriga à divulgação pública do número destes profissionais por escola e cria uma definição legal das suas funções, entrando em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Define legalmente o pessoal não docente no Estatuto do Ensino Particular e Cooperativo e reconhece a relevância pública das suas funções.",
+  "Obriga os estabelecimentos com contratos de associação a garantir pessoal não docente em número suficiente para apoio educativo, vigilância e serviços técnicos e administrativos.",
+  "Determina que as portarias de financiamento dos contratos de associação e de patrocínio assegurem os custos com pessoal docente e não docente.",
+  "Clarifica que os contratos de cooperação cobrem vencimentos de pessoal não docente e que a ação social escolar abrange produtos de apoio.",
+  "Passa a exigir o cumprimento das normas sobre pessoal não docente para a autorização de funcionamento e obriga as escolas a divulgar o número destes profissionais."
+ ],
+ "plain_language": "Nas escolas privadas e cooperativas que recebem dinheiro público, a lei atual foca-se nos professores e quase ignora os auxiliares, vigilantes e técnicos. Esta proposta muda a lei para definir quem são estes trabalhadores não docentes e obrigar as escolas financiadas pelo Estado a terem pessoal suficiente para apoiar os alunos. Em troca, o Estado terá de incluir o custo destes salários quando calcula quanto dinheiro dá às escolas, além de incluir material de apoio específico no ensino especial. As escolas também passam a ter de publicar quantos auxiliares têm, ajudando os pais a escolher.",
+ "context": "O proponente refere que cerca de 350 mil alunos frequentam o ensino particular e cooperativo, onde trabalham mais de 25 mil não docentes sem definição legal nem rácios mínimos, ao contrário do ensino público. Aponta que as tabelas salariais das convenções coletivas do setor ficaram abaixo do salário mínimo nacional e que o financiamento público atual, fixado em montantes globais por turma, não especifica verbas nem obriga à contratação destes profissionais, prejudicando trabalhadores e alunos.",
+ "analysis": "A iniciativa colmata uma lacuna legislativa evidente ao reconhecer o papel do pessoal não docente no Estatuto, aumentar a transparência junto das famílias e alinhar os apoios financeiros públicos com as necessidades efetivas das escolas. Contudo, apresenta fragilidades operacionais importantes: o diploma recorre repetidamente ao conceito indeterminado de «número suficiente» sem fixar rácios mínimos, fórmulas de cálculo ou critérios de fiscalização, o que dificulta a verificação do cumprimento e a aplicação da regra na autorização de funcionamento. Além disso, a norma que manda ter em conta o interesse público nas convenções coletivas e contratos de trabalho tem caráter meramente programático, sem impacto vinculativo nos salários. Por fim, não é apresentado qualquer cálculo do acréscimo de despesa pública decorrente da inclusão obrigatória destes custos nas portarias de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa determina que as portarias dos contratos de associação e de patrocínio garantam o financiamento de pessoal não docente e inclui produtos de apoio nos contratos de cooperação. A entrada em vigor é remetida para o Orçamento do Estado subsequente, não constando do documento qualquer estimativa do aumento de despesa."
+ },
+ "affected": [
+  "pessoal não docente do ensino particular e cooperativo",
+  "estabelecimentos de ensino particular e cooperativo financiados pelo Estado",
+  "alunos do ensino particular e cooperativo",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "ensino particular e cooperativo",
+  "pessoal não docente",
+  "contratos de associação",
+  "financiamento escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

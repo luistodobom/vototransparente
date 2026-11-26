@@ -1,0 +1,26 @@
+{
+ "short_title": "Programa Nacional de Crescimento",
+ "summary": "Esta proposta, apresentada pela Iniciativa Liberal, recomenda ao Governo português a implementação de um Programa Nacional de Crescimento. O documento critica a abordagem atual do Governo às recomendações europeias, que considera insuficiente para promover um crescimento sustentável. Aponta problemas estruturais em áreas como o financiamento empresarial, a burocracia, o mercado de trabalho, a saúde e a educação. Para resolver estas questões, a proposta sugere reformas estruturais, incluindo a simplificação administrativa, o incentivo ao acesso das empresas aos mercados de capitais, a reforma do sistema judicial, a integração dos setores privado e cooperativo na saúde e educação, a flexibilização do mercado laboral e a introdução de um pilar de capitalização na Segurança Social.",
+ "key_points": [],
+ "plain_language": "A Iniciativa Liberal está a dar um puxão de orelhas ao Governo, dizendo que as medidas que andam a tomar para o país crescer não chegam. Eles acham que Portugal está cheio de problemas graves – as empresas não conseguem dinheiro, há muita burocracia, a saúde e a educação não funcionam bem, e o mercado de trabalho é muito rígido. Por isso, propõem umas mudanças a sério: acabar com a papelada desnecessária, ajudar as empresas a arranjar financiamento fora dos bancos, melhorar a justiça, deixar os hospitais e escolas privados e cooperativos ajudar mais, tornar o mercado de trabalho mais flexível e criar uma poupança para a reforma que não dependa só do Estado. A ideia é que, com estas mudanças, o país cresça de forma mais sólida e as pessoas tenham mais liberdade.",
+ "context": null,
+ "analysis": "O documento da Iniciativa Liberal apresenta uma análise crítica coerente da política governamental, argumentando que as propostas atuais são paliativas e não abordam os problemas estruturais de Portugal. A proposta alinha os detalhes da implementação (simplificação administrativa, acesso a mercados de capitais, reforma judicial, parcerias público-privadas na saúde e educação, flexibilização laboral, capitalização da Segurança Social) com o objetivo de promover um crescimento sustentável e resiliência económica. Não se detetam inconsistências internas na argumentação da Iniciativa Liberal; pelo contrário, a proposta é construída como uma resposta direta e estrutural às falhas que identifica no diagnóstico do Governo e nas recomendações europeias.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa, em geral, diminuir a dependência do Estado e promover o investimento privado. A simplificação administrativa e a redução da burocracia podem diminuir os custos operacionais para o governo e para as empresas, potencialmente libertando recursos. O incentivo ao acesso a mercados de capitais e a integração dos setores privado e cooperativo na saúde e educação podem reduzir a necessidade de investimento público direto nestas áreas. A introdução de um pilar de capitalização na Segurança Social tenderá a diminuir a pressão sobre as finanças públicas a longo prazo, transferindo parte da responsabilidade para a poupança individual. Se as reformas propostas levarem ao crescimento económico, isso poderá aumentar a receita fiscal. O efeito líquido esperado é uma diminuição da despesa pública relativa e um potencial aumento da receita, resultando numa melhoria da sustentabilidade fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

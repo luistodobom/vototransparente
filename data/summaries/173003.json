@@ -1,0 +1,24 @@
+{
+ "short_title": "Acesso a apoios sociais para pessoas sem conta bancária",
+ "summary": "A proposta visa garantir que pessoas sem conta bancária possam aceder a apoios sociais extraordinários, como o apoio de 30 euros mensais, que atualmente só é pago por transferência bancária. Propõe que, nestes casos, o pagamento seja feito por vale postal. Adicionalmente, assegura que estes apoios não possam ser penhorados nem considerados rendimento disponível para efeitos de exoneração de passivo.",
+ "key_points": [],
+ "plain_language": "Basicamente, o governo deu um apoio de 30 euros para ajudar as famílias com a vida cara, mas só quem tinha conta no banco é que recebia. O problema é que muita gente pobre não tem conta e ficou de fora. Esta proposta do PAN diz que isso não faz sentido e quer que o dinheiro chegue a toda a gente, mesmo que seja por vale dos correios. E mais, garante que este dinheiro não pode ser \"roubado\" por dívidas ou contado para quem está a tentar livrar-se delas. É para que a ajuda chegue mesmo a quem precisa.",
+ "context": null,
+ "analysis": "O documento identifica uma inconsistência crucial na implementação do apoio extraordinário de 30 euros: a exigência de conta bancária, que exclui os mais vulneráveis. A proposta aborda diretamente esta falha, alinhando o método de pagamento (vale postal) com o que já era praticado noutros apoios sociais extraordinários (como o de outubro de 2022), garantindo assim a justiça social e a inclusão de todos os beneficiários elegíveis. A adição da impenhorabilidade e a não consideração como rendimento disponível para efeitos de insolvência reforçam o objetivo de proteger e apoiar efetivamente as famílias em dificuldades, impedindo que o auxílio seja desviado ou perdido devido a dívidas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não introduz novos apoios financeiros, mas sim altera a forma de pagamento e o estatuto legal de apoios já existentes. Consequentemente, não se prevê um aumento ou diminuição significativa dos gastos ou receitas do governo. Poderá haver um ligeiro aumento nos custos administrativos associados à emissão de vales postais, mas o efeito líquido global no orçamento será praticamente neutro, uma vez que o valor do apoio já estava orçamentado."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

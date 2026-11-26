@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço do controlo no setor petrolífero e novas regras de inversão do IVA",
+ "summary": "A proposta de lei do Governo altera o Código do IVA, o Código dos Impostos Especiais de Consumo (IEC) e o regime do Sistema Petrolífero Nacional (SPN). No IVA, aplica a inversão do sujeito passivo (o comprador autoliquida o imposto) na cadeia de fornecimento de gasolina, gasóleo e petróleo carburante introduzidos no consumo por destinatários registados ou certificados, até ao último revendedor, passando estes operadores ao regime mensal de declaração. Alarga também a inversão do sujeito passivo a todas as empreitadas e subempreitadas de construção civil adquiridas por sujeitos passivos nacionais. Nos IEC, faz depender autorizações fiscais da certificação no SPN e especifica isenções para biocombustíveis avançados e gases renováveis. No SPN, impõe o registo eletrónico prévio de transportes rodoviários, importações, exportações, preços e quantidades, exige uma garantia bancária de três milhões de euros aos comercializadores, agrava sanções e cria partilha de informação fiscal entre entidades.",
+ "key_points": [
+  "Aplica a inversão do sujeito passivo de IVA em toda a cadeia de combustíveis introduzidos no consumo por destinatários registados ou certificados, obrigando a faturas sem IVA liquidado com referência à declaração de introdução no consumo.",
+  "Passa para periodicidade mensal a entrega da declaração de IVA dos operadores que realizem transmissões de combustíveis abrangidos.",
+  "Estende a regra de inversão do sujeito passivo de IVA a todas as aquisições de serviços de construção civil em regime de empreitada ou subempreitada por sujeitos passivos em território nacional.",
+  "Obriga os comercializadores de petróleo bruto e de produtos de petróleo a prestar uma garantia bancária autónoma de 3 000 000 de euros para obter e manter a certificação.",
+  "Exige o registo prévio numa plataforma eletrónica de todas as movimentações rodoviárias, importações, exportações, preços e quantidades comercializadas nos postos de abastecimento.",
+  "Reforça o controlo e as sanções no Sistema Petrolífero Nacional, prevendo coimas até 1 000 000 de euros, inibição de atividade até cinco anos e partilha de dados entre a Autoridade Tributária, a DGEG e a ENSE."
+ ],
+ "plain_language": "Esta proposta muda a forma como o IVA é cobrado na venda de combustíveis e nas obras de construção civil, e aperta a vigilância sobre quem vende e transporta gasolina ou gasóleo. Em vez de o vendedor cobrar o IVA ao comprador e entregá-lo ao Estado, passa a ser o próprio comprador profissional a declarar e pagar esse imposto (o chamado mecanismo de autoliquidação), evitando fraudes em cadeia. Além disso, quem transporta ou vende combustíveis terá de registar antecipadamente os movimentos numa plataforma digital, comunicar preços e apresentar uma caução bancária de três milhões de euros para poder operar.",
+ "context": "O Governo justifica a iniciativa com o elevado volume de transações e a rápida rotação de mercadorias no setor dos combustíveis, que favorecem esquemas de evasão fiscal e fraude em cadeia. Aponta falhas na articulação entre o IVA e os Impostos Especiais de Consumo, bem como a necessidade de garantir rastreabilidade em tempo real e concorrência leal no Sistema Petrolífero Nacional. Quanto à construção civil, invoca razões de simplificação e redução de custos de cumprimento, alinhando procedimentos e aplicando soluções já usadas noutros países da União Europeia.",
+ "analysis": "A proposta apresenta como ponto forte uma abordagem integrada contra a fraude fiscal nos combustíveis, cruzando a faturação de IVA com as declarações aduaneiras e permitindo à Autoridade Tributária partilhar dados com os reguladores energéticos. Contudo, surgem fragilidades relevantes. A exigência uniforme de uma garantia bancária de três milhões de euros a todos os comercializadores pode criar barreiras à entrada de operadores de menor dimensão e reduzir a concorrência. Além disso, o diploma inclui no articulado um alargamento significativo da inversão do IVA na construção civil que não consta do título oficial, o que prejudica a transparência legislativa. Por fim, a eficácia prática depende de regulamentação técnica posterior num prazo curto de 60 dias e da transição institucional prevista para a nova Agência de Geologia e Energia.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diploma não apresenta estimativa de impacto orçamental. Embora a inversão do sujeito passivo seja neutra em operações regulares e vise prevenir perdas de receita por fraude fiscal, a criação de mecanismos de interoperabilidade e fiscalização implica custos administrativos não quantificados, enquanto a garantia de 3 000 000 de euros recai sobre os comercializadores privados."
+ },
+ "affected": [
+  "comercializadores e revendedores de combustíveis",
+  "transportadores rodoviários de produtos petrolíferos",
+  "empresas e adquirentes de serviços de construção civil",
+  "Autoridade Tributária e reguladores da energia"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "iva",
+  "inversão do sujeito passivo",
+  "sistema petrolífero",
+  "construção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

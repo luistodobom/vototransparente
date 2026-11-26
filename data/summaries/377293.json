@@ -1,0 +1,43 @@
+{
+ "short_title": "Prazos e regras de reinvestimento na habitação própria e permanente",
+ "summary": "Este Projeto de Resolução do JPP, uma recomendação não vinculativa, propõe ao Governo que avalie e clarifique as regras do Código do IRS relativas à exclusão de tributação das mais-valias quando o valor da venda de uma casa é reinvestido em habitação própria e permanente. Em primeiro lugar, recomenda a avaliação e o eventual alargamento dos prazos de reinvestimento posterior à venda, de inscrição matricial e de afetação do imóvel a habitação. Pede que eventuais novos prazos sejam gerais, dispensem pedidos individuais de prorrogação ou prova de atrasos e se apliquem aos prazos em curso, sem os reduzir. Por fim, solicita clarificações legais e administrativas para assegurar que o uso parcial da casa para trabalhar, incluindo em teletrabalho, não faça perder a isenção fiscal, distinguindo-o da afetação do imóvel a património empresarial.",
+ "key_points": [
+  "Recomenda ao Governo que avalie os prazos de reinvestimento posterior à venda, de inscrição matricial e de afetação a habitação própria e permanente previstos no Código do IRS, ponderando o seu alargamento.",
+  "Pede que uma eventual revisão fixe prazos gerais, sem exigir pedidos individuais de prorrogação nem prova de atrasos administrativos ou de obras.",
+  "Propõe que eventuais alargamentos se apliquem aos prazos em curso à data da alteração legislativa, garantindo coerência com os deveres declarativos e regimes de suspensão.",
+  "Recomenda clarificações legais e administrativas para que a utilização parcial da residência para trabalhar, incluindo em teletrabalho, não implique a perda automática da isenção de mais-valias.",
+  "Solicita orientações claras e uniformes que distingam o trabalho realizado na habitação da integração do próprio imóvel no património empresarial ou profissional."
+ ],
+ "plain_language": "Quando alguém vende a casa onde vive e usa o dinheiro para comprar ou construir outra para morar, pode não pagar IRS sobre o lucro da venda, desde que cumpra certos prazos, em regra 36 meses. Este Projeto de Resolução, que é apenas uma recomendação sem força de lei, pede ao Governo para avaliar se esses prazos são suficientes face aos atrasos nas licenças e nas obras. Pede também regras claras para que trabalhar numa divisão da casa, incluindo em teletrabalho, não faça perder automaticamente esse benefício fiscal, desde que o imóvel continue a ser a habitação principal.",
+ "context": "O JPP justifica a iniciativa com os atrasos nos procedimentos urbanísticos, a escassez de mão de obra e os custos da construção, citando um inquérito da AICCOPN e dados da DREM sobre a Madeira em 2026 que apontam para dificuldades na conclusão de obras. Refere ainda uma informação vinculativa da Autoridade Tributária, de maio de 2026, que recusou a exclusão de tributação devido ao uso parcial de um imóvel para a atividade de advogado, defendendo maior segurança jurídica para as famílias.",
+ "analysis": "A iniciativa identifica problemas práticos relevantes: a rigidez dos prazos perante atrasos no licenciamento e na construção, e a incerteza fiscal de quem trabalha a partir de casa. É positivo propor prazos gerais em vez de pedidos individuais de prorrogação, o que evita sobrecarga administrativa. Contudo, por ser um Projeto de Resolução, não vincula o Governo nem define novos prazos ou custos orçamentais. Além disso, remeter a solução para uma avaliação futura deixa em aberto como conciliar prazos mais longos com a prevenção de abusos e os deveres declarativos dos contribuintes. Embora peça distinção face ao património empresarial, também não concretiza critérios objetivos sobre a proporção da casa utilizável para trabalho.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Trata-se de uma recomendação não vinculativa para avaliar o alargamento de prazos e clarificar regras de isenção de mais-valias em IRS. Como não cria alterações imediatas nem quantifica montantes, o efeito orçamental é incerto, referindo o documento que o Governo deverá ponderar esse impacto."
+ },
+ "affected": [
+  "proprietários que vendam habitação própria e permanente",
+  "trabalhadores em teletrabalho",
+  "profissionais que trabalhem a partir de casa",
+  "famílias em processo de mudança de habitação"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [
+  "mais-valias",
+  "irs",
+  "habitação própria e permanente",
+  "reinvestimento",
+  "teletrabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

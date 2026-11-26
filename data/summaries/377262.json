@@ -1,0 +1,43 @@
+{
+ "short_title": "Fim das portagens e da PPP nas pontes 25 de Abril e Vasco da Gama",
+ "summary": "O Projeto de Lei n.º 776/XVII/2.ª, apresentado pelo PCP, propõe a eliminação total das taxas de portagem na travessia rodoviária das pontes 25 de Abril e Vasco da Gama e o fim da respetiva parceria público-privada. O diploma determina que deixa de ser devido qualquer pagamento pela utilização destas duas infraestruturas e estabelece, em nome do interesse público, que não haverá lugar a compensações à entidade concessionária atual. Adicionalmente, incumbe o Governo de realizar as diligências necessárias para reverter a concessão para o domínio público do Estado, designando a Infraestruturas de Portugal, S.A. como entidade gestora dos respetivos lanços e sublanços. A lei entra em vigor no dia seguinte à publicação, mas a produção de efeitos fica remetida para o Orçamento do Estado seguinte, podendo ser antecipada para o ano da publicação caso exista disponibilidade orçamental.",
+ "key_points": [
+  "Elimina a cobrança de taxas de portagem pela utilização da Ponte 25 de Abril e da Ponte Vasco da Gama.",
+  "Proíbe o pagamento de quaisquer compensações à entidade concessionária pela abolição das portagens.",
+  "Obriga o Governo a promover a reversão da concessão para o domínio público do Estado.",
+  "Atribui à Infraestruturas de Portugal, S.A. a gestão dos lanços e sublanços das travessias revertidas.",
+  "Remete a produção de efeitos da lei para o Orçamento do Estado subsequente, admitindo antecipação conforme a disponibilidade orçamental."
+ ],
+ "plain_language": "Esta proposta de lei acaba com as portagens nas duas pontes rodoviárias sobre o Tejo em Lisboa: a Ponte 25 de Abril e a Ponte Vasco da Gama. Além disso, põe fim ao contrato de concessão com a empresa privada que atualmente explora estas travessias, passando a gestão para a empresa pública Infraestruturas de Portugal. O texto estabelece ainda que o Estado não pagará qualquer indemnização à concessionária por esta decisão. Se for aprovada, a medida só começa a valer com o próximo Orçamento do Estado, a menos que o Governo tenha dinheiro disponível para a aplicar mais cedo.",
+ "context": "O PCP argumenta que estas são as únicas pontes rodoviárias portajadas no país, criando uma discriminação injusta contra as populações e empresas da Margem Sul, que já pagam portagens nas autoestrutadas A2, A12 e A33. O partido critica ainda o modelo da parceria público-privada com a Lusoponte, alegando que os lucros das portagens e dos aumentos ligados à inflação beneficiam acionistas privados, enquanto o Estado suportou obras de reparação na Ponte 25 de Abril, como as de 2010 e 2018.",
+ "analysis": "A iniciativa tem o mérito de apontar a assimetria territorial suportada pelos utentes da Margem Sul e de questionar um contrato em que o Estado financiou grandes reparações na Ponte 25 de Abril sem receber receitas de portagem. Contudo, apresenta fragilidades jurídicas e financeiras relevantes. Proibir por lei qualquer compensação na reversão unilateral de uma concessão expõe o Estado a litígios judiciais e a eventuais pedidos de indemnização elevados. Além disso, o texto não quantifica os custos anuais de operação e manutenção que passarão para a Infraestruturas de Portugal nem avalia o impacto no congestionamento rodoviário de Lisboa. Nota-se ainda uma imprecisão técnica no artigo 3.º, que refere «autoestradas» quando o artigo anterior apenas menciona as duas pontes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reversão da concessão transfere para a Infraestruturas de Portugal os encargos totais de operação e manutenção das duas pontes, sem receita de portagens associada, ficando a execução dependente do Orçamento do Estado. O documento não quantifica estes custos futuros, referindo apenas reparações públicas passadas na Ponte 25 de Abril de 7,99 milhões de euros (2010) e 12,6 milhões de euros (2018), e exclui por lei compensações à concessionária, embora isso comporte risco de litígio."
+ },
+ "affected": [
+  "utentes das pontes 25 de Abril e Vasco da Gama",
+  "população e empresas da Margem Sul",
+  "Lusoponte",
+  "Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "portagens",
+  "ponte 25 de abril",
+  "ponte vasco da gama",
+  "lusoponte",
+  "parceria público-privada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

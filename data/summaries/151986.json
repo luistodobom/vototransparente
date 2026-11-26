@@ -1,0 +1,24 @@
+{
+ "short_title": "Criação do Cheque de Saúde Mental para acesso rápido",
+ "summary": "Esta proposta de lei visa criar um mecanismo, denominado Cheque de Saúde Mental, para garantir que os cidadãos tenham acesso rápido a consultas de psiquiatria e psicologia. Se o Serviço Nacional de Saúde (SNS) não conseguir dar resposta dentro dos tempos máximos de espera estabelecidos, o utente poderá ser referenciado para prestadores de cuidados de saúde mental do setor privado ou social, sem que isso implique um custo superior ao que pagaria no SNS.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que, se precisares de ir a um psiquiatra ou psicólogo e o Serviço Nacional de Saúde (SNS) te fizer esperar muito tempo, o governo te dê um 'cheque' para ires a uma clínica ou médico privado. E o melhor é que não vais pagar mais do que pagarias no SNS. A ideia é que as pessoas consigam ajuda para a sua saúde mental mais depressa, porque as filas de espera no público são enormes e a saúde mental é um problema sério em Portugal.",
+ "context": null,
+ "analysis": "A proposta aborda uma falha crítica no sistema de saúde português: os longos tempos de espera para consultas de saúde mental no SNS, que são significativamente superiores aos tempos máximos de resposta garantidos. A \"Exposição de motivos\" fundamenta bem a urgência da medida, citando a alta prevalência de doenças psiquiátricas em Portugal e o elevado consumo de ansiolíticos e antidepressivos, agravados pela pandemia. A criação do Cheque de Saúde Mental alinha-se diretamente com o objetivo de assegurar o acesso atempado, ao permitir a referenciação para o setor privado ou social quando o SNS falha. A garantia de que o custo para o utente não será superior ao do SNS é crucial para a equidade. No entanto, a eficácia da implementação dependerá da capacidade do Ministério da Saúde em criar e manter uma plataforma atualizada de prestadores privados e sociais, com informação sobre vagas e tempos de resposta. Não são detalhados os mecanismos de incentivo para que o setor privado/social participe ativamente sob as condições de custo do SNS, o que pode ser um desafio. A entrada em vigor com o Orçamento do Estado subsequente à aprovação pode introduzir um atraso na sua aplicação prática.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta aumentará os gastos do governo. Ao criar o Cheque de Saúde Mental, o Estado passará a financiar consultas de psiquiatria e psicologia no setor privado e social para utentes que, de outra forma, estariam em listas de espera no SNS. Não há indicação de impacto na receita do governo. O efeito líquido será um aumento da despesa pública na área da saúde mental, visando melhorar o acesso e reduzir os tempos de espera."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Salvaguarda da memória digital da imprensa e da informação pública",
+ "summary": "Este projeto de resolução do Partido Socialista recomenda ao Governo a criação de mecanismos para preservar conteúdos jornalísticos, informação pública e outros formatos digitais de debate público. Por ser um projeto de resolução, trata-se de uma recomendação sem caráter vinculativo. A iniciativa propõe instituir um regime de depósito legal digital para edições jornalísticas e conteúdos públicos de relevância histórica ou social, integrando-os em repositórios como o Arquivo Digital Nacional (RODA). Recomenda ainda a elaboração de um regime jurídico próprio para preservar conteúdos digitais do debate público contemporâneo, definindo regras de classificação, acesso, duração e compatibilização com direitos de propriedade intelectual. Por fim, pede o reforço de um Arquivo Digital de Imprensa e Informação Pública sob tutela da Direção-Geral do Livro, dos Arquivos e das Bibliotecas e da Biblioteca Nacional de Portugal, além de parcerias de divulgação e formação.",
+ "key_points": [
+  "Criação de um regime de depósito legal digital para edições jornalísticas e informação pública relevante, com integração em repositórios públicos como o Arquivo Digital Nacional (RODA).",
+  "Elaboração de um regime jurídico para preservar conteúdos digitais de debate público, definindo regras de classificação, acesso, duração e compatibilização com direitos de propriedade intelectual.",
+  "Reforço e consolidação de um Arquivo Digital de Imprensa e Informação Pública sob tutela da Direção-Geral do Livro, dos Arquivos e das Bibliotecas e da Biblioteca Nacional de Portugal.",
+  "Realização de ações de divulgação, formação e cooperação com municípios, associações de media, organismos culturais e plataformas digitais para salvaguardar a memória digital."
+ ],
+ "plain_language": "Hoje em dia, muitos jornais, notícias e debates acontecem apenas na internet. Ao contrário do papel, que pode ser guardado em bibliotecas, os conteúdos digitais podem desaparecer se uma página fechar ou mudar de regras, como acontece com plataformas de blogues. Com esta iniciativa, o Parlamento recomenda ao Governo que crie regras para guardar este património digital de forma segura e duradoura em arquivos públicos. Isto inclui decidir o que deve ser preservado, quem pode consultar esses arquivos e como respeitar os direitos dos autores. Como é apenas uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "Os proponentes argumentam que o depósito legal impresso já garante a memória documental em papel, mas a informação digital enfrenta riscos graves de desaparecimento por falência de plataformas, obsolescência tecnológica ou remoção arbitrária. Referem a urgência apontada pelo setor dos media, o enquadramento do Regulamento Europeu sobre a Liberdade dos Meios de Comunicação Social e a iminente cessação de atividade dos Blogues do SAPO como alertas para a perda de registos essenciais do debate público e político do século XXI.",
+ "analysis": "A iniciativa aborda um problema real e urgente, perante a volatilidade da internet e o encerramento de plataformas digitais. Como ponto forte, reconhece que a memória pública atual inclui não só a imprensa, mas também blogues e novos formatos de debate, admitindo a complexidade de conciliar interesse público, propriedade intelectual e titularidade privada das plataformas. Porém, apresenta fragilidades relevantes: além de não ser vinculativa, a resolução não define prazos, critérios concretos de seleção nem os meios financeiros e técnicos necessários para a DGLAB e a Biblioteca Nacional executarem o arquivo. Há ainda riscos práticos na implementação, como a dificuldade jurídica de preservar conteúdos reservados a subscritores sem conflitos de direitos de autor e a eventual lentidão legislativa face a encerramentos iminentes de plataformas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa e não apresentar estimativas orçamentais, o impacto financeiro direto é incerto. A eventual concretização das medidas propostas, como o reforço do arquivo digital e ações de formação, poderá implicar um aumento de despesa pública para os organismos arquivísticos envolvidos."
+ },
+ "affected": [
+  "órgãos de comunicação social",
+  "plataformas digitais",
+  "investigadores e académicos",
+  "entidades arquivísticas públicas",
+  "autores de blogues"
+ ],
+ "categories": [
+  "cultura",
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "depósito legal digital",
+  "arquivo digital",
+  "imprensa",
+  "património cultural",
+  "blogues"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Redução temporária do IVA do gás para 6% durante um ano",
+ "summary": "O Projeto de Lei n.º 524/XVII/1.ª, apresentado pelo grupo parlamentar do LIVRE, propõe a redução temporária da taxa de Imposto sobre o Valor Acrescentado (IVA) aplicável ao gás para a taxa reduzida de 6%, pelo período de um ano. Para tal, a iniciativa repristina — ou seja, repõe em vigor — a verba 2.16 da lista I anexa ao Código do IVA, abrangendo o gás natural, o gás propano, o butano e as respetivas misturas, quer em formato engarrafado quer canalizado. A medida entraria em vigor no primeiro dia do mês seguinte ao da publicação. Antes de terminar o prazo de um ano, o Governo ficaria obrigado a avaliar a necessidade de prorrogar a vigência da redução fiscal, tendo em conta dados socioeconómicos atualizados sobre o contexto económico e a situação dos agregados familiares residentes em Portugal.",
+ "key_points": [
+  "Repõe em vigor a verba 2.16 da lista I anexa ao Código do IVA para aplicar a taxa reduzida de 6% ao gás.",
+  "Abrange o gás natural, o propano, o butano e as suas misturas, tanto em botija como canalizado.",
+  "Limita a produção de efeitos da redução fiscal ao período de um ano a contar da entrada em vigor.",
+  "Obriga o Governo a avaliar a eventual prorrogação da medida antes de decorrido um ano, com base em dados socioeconómicos atualizados.",
+  "Prevê que a lei entre em vigor no primeiro dia do mês seguinte ao da sua publicação."
+ ],
+ "plain_language": "Este projeto de lei do LIVRE quer baixar o IVA do gás para 6% durante um ano. A redução abrange tanto o gás canalizado como o gás de botija (butano, propano e misturas). A ideia é aliviar a fatura das famílias num momento de subida dos preços da energia, sobretudo para quem vive fora das grandes cidades e não tem acesso a gás natural canalizado. Antes de o ano acabar, o Governo teria de analisar a situação económica do país e das famílias para decidir se a taxa reduzida deve continuar.",
+ "context": "O proponente justifica a iniciativa com a crise energética internacional associada ao conflito no Irão e ao bloqueio parcial do Estreito de Ormuz, que fez subir o preço do petróleo Brent acima dos 110 dólares por barril. Segundo o documento, esta subida agrava a pobreza energética, penalizando em especial os mais de dois milhões de agregados familiares em Portugal que dependem do gás engarrafado em zonas rurais e do interior, onde uma botija custa em média cerca de 34 euros. O texto cita ainda reduções semelhantes do IVA aplicadas por outros Estados-membros da União Europeia.",
+ "analysis": "Como pontos positivos, a proposta é simples, rápida de aplicar e inclui uma cláusula de caducidade anual sujeita a avaliação, evitando tornar permanente um apoio conjuntural a combustíveis fósseis. Contudo, apresenta fragilidades relevantes. Embora a exposição de motivos refira o gás para consumo doméstico, a redação proposta para a verba 2.16 não restringe o benefício às famílias, alargando o âmbito da redução fiscal. O texto também não quantifica a perda de receita para o Orçamento do Estado nem cria mecanismos que garantam que a descida do IVA se traduz numa redução efetiva do preço final para o consumidor, risco real num mercado sem regulação de preços como o que o próprio projeto critica. Além disso, o articulado contém uma falha formal ao numerar dois artigos distintos como Artigo 2.º.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação da taxa reduzida de IVA de 6% ao gás natural, propano, butano e suas misturas diminui a receita fiscal arrecadada pelo Estado durante pelo menos um ano. O documento não apresenta qualquer estimativa do impacto orçamental desta redução."
+ },
+ "affected": [
+  "agregados familiares",
+  "consumidores de gás engarrafado",
+  "consumidores de gás natural",
+  "comercializadores de gás"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "iva",
+  "gás engarrafado",
+  "gás natural",
+  "pobreza energética",
+  "taxa reduzida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

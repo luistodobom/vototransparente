@@ -1,0 +1,43 @@
+{
+ "short_title": "Altera publicitação de atos autárquicos e tempos de antena nas rádios locais",
+ "summary": "A proposta de lei do Governo altera o Regime Jurídico das Autarquias Locais e a legislação eleitoral e de referendo, concretizando medidas do Plano de Ação para a Comunicação Social. Na vertente autárquica, redefine a obrigação de publicitar deliberações com eficácia externa nos jornais regionais e locais, incluindo meios digitais e sítios de rádios locais. Os municípios e as freguesias com mais de 10 000 eleitores passam a publicar apenas um sumário com linguagem simplificada, endereço eletrónico e código QR, remetendo para o texto integral na Internet, com preços limitados por portaria e dispensa da parte II do Código dos Contratos Públicos abaixo dos limiares europeus. Na vertente eleitoral, estende às eleições presidenciais, legislativas, europeias e aos referendos nacionais a obrigação de reserva de 30 minutos diários de direito de antena nas rádios locais, com compensação estatal.",
+ "key_points": [
+  "Limita a publicação obrigatória em jornais regionais e locais às deliberações com eficácia externa de órgãos colegiais municipais e de freguesias com mais de 10 000 eleitores.",
+  "Substitui a publicação integral nos jornais por um resumo em linguagem simplificada acompanhado de hiperligação e código QR para o texto completo no sítio oficial da autarquia.",
+  "Prevê tabelas anuais de preços de referência, dispensa a aplicação da parte II do Código dos Contratos Públicos abaixo dos limiares europeus e isenta a autarquia se os preços excederem os limites.",
+  "Alarga às eleições presidenciais, legislativas, europeias e aos referendos nacionais o dever de as estações privadas de radiodifusão local reservarem 30 minutos diários para tempos de antena.",
+  "Determina que o Estado compensa financeiramente as rádios locais pela emissão dos tempos de antena, com entrada em vigor prevista para 1 de julho de 2026."
+ ],
+ "plain_language": "Desde 2013 que existe uma lei que obriga câmaras e juntas a publicar todas as suas decisões nos jornais locais, mas era tão complexa que nunca chegou a funcionar. Esta proposta simplifica a regra: em vez de textos longos, os municípios e as grandes juntas de freguesia passam a publicar nos jornais ou sítios de rádios locais apenas um pequeno resumo com um código QR para ler a decisão completa na Internet. Além disso, durante as eleições presidenciais, legislativas, europeias e referendos, as rádios locais passam a transmitir tempos de antena dos candidatos, sendo pagas pelo Estado por esse serviço.",
+ "context": "Na exposição de motivos, o Governo afirma que a obrigação de publicação prevista desde 2013 no artigo 56.º do Regime Jurídico das Autarquias Locais é desproporcionada e complexa, motivo pelo qual nunca foi regulamentada nem aplicada. Argumenta ser necessário equilibrar a transparência com a racionalidade de meios, adaptando a divulgação às novas tecnologias e poupando a maioria das freguesias a encargos excessivos. Justifica ainda as mudanças com as medidas #25 e #26 do Plano de Ação para a Comunicação Social, visando apoiar e integrar a imprensa e as rádios regionais e locais.",
+ "analysis": "A proposta desbloqueia uma norma inaplicada desde 2013, tornando exequível a divulgação de atos municipais e aliviando pequenas freguesias, enquanto cria receitas para a comunicação social local. Contudo, apresenta fragilidades relevantes. O afastamento da parte II do Código dos Contratos Públicos reduz garantias de concorrência, embora o diploma imponha alternância quando existam mais de dois jornais. A exigência de periodicidade diária para jornais digitais e o critério dos dois impressos mais vendidos podem excluir meios locais com menor frequência ou tiragem. Além disso, punir a falta de publicação com a ineficácia das decisões gera insegurança jurídica, o texto contém uma gralha no ano da diretiva europeia (2024) e mantém procedimentos distintos para os referendos face às demais eleições.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A proposta gera novos encargos para o Orçamento do Estado através da compensação financeira às rádios locais pela emissão de tempos de antena nas eleições presidenciais, legislativas, europeias e em referendos. Acresce a despesa dos municípios e das freguesias com mais de 10 000 eleitores com a publicação obrigatória de sumários na imprensa local, embora mitigada por tabelas de referência e sem montantes quantificados no diploma."
+ },
+ "affected": [
+  "municípios e freguesias com mais de 10 000 eleitores",
+  "jornais e rádios regionais e locais",
+  "partidos políticos e candidaturas eleitorais",
+  "cidadãos e eleitores"
+ ],
+ "categories": [
+  "comunicacao",
+  "territorio",
+  "instituicoes"
+ ],
+ "tags": [
+  "autarquias locais",
+  "comunicação social regional",
+  "direito de antena",
+  "rádios locais",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Implementação de Mercado Voluntário de Carbono em Portugal",
+ "summary": "Esta proposta visa implementar um Mercado Voluntário de Carbono (MVC) em Portugal, permitindo que empresas e cidadãos compensem as suas emissões de gases com efeito de estufa (GEE) através de investimentos em projetos que reduzam ou capturem carbono. O objetivo é cumprir as metas de descarbonização de Portugal, atraindo investimento privado para setores como floresta, agricultura, mar, energia e gestão de resíduos, ao mesmo tempo que se evita burocracia excessiva e se promove a transparência e a integração com padrões internacionais de certificação.",
+ "key_points": [],
+ "plain_language": "Basicamente, a Iniciativa Liberal quer que Portugal crie um sistema onde as empresas e as pessoas possam pagar para 'limpar' a sua pegada de carbono. Isto significa investir em projetos que ajudem a tirar dióxido de carbono do ar, como plantar árvores ou melhorar a gestão de lixo. A ideia é que o dinheiro privado ajude o país a atingir as suas metas ambientais, mas sem criar uma montanha de novas regras e burocracia. Querem que seja fácil e transparente, usando as regras que já existem a nível internacional, para que mais gente invista e ajude o ambiente em Portugal.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica sobre a forma de implementação do Mercado Voluntário de Carbono, alertando para os perigos de uma regulamentação excessiva. Argumenta que a criação de uma nova entidade pública ou procedimentos administrativos internos para certificação seria desnecessária e contrária às recomendações da União Europeia. Em vez disso, a proposta alinha-se com o objetivo de atrair investimento e promover a competitividade, sugerindo o aproveitamento de sistemas de certificação internacionais já existentes e a harmonização com padrões globais. Esta abordagem visa evitar barreiras regulatórias que poderiam restringir a concorrência, dificultar investimentos nacionais e afastar investimento estrangeiro, mostrando uma coerência entre a análise crítica e as soluções propostas para alcançar os objetivos de descarbonização de forma eficiente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao defender a não criação de novas entidades públicas ou procedimentos administrativos complexos para a certificação do mercado de carbono, visa explicitamente evitar \"custos administrativos e financeiros desnecessários sobre o Estado e, consequentemente, sobre todos os contribuintes\". Assim, a sua implementação, conforme proposto, tenderá a diminuir os gastos diretos do governo com a criação e manutenção de novas estruturas regulatórias. O foco em atrair investimento privado para projetos de mitigação de carbono sugere um aumento da atividade económica e, consequentemente, um potencial aumento indireto da receita do governo através de impostos sobre essa atividade. O efeito líquido esperado é uma diminuição dos gastos governamentais diretos e um potencial aumento da receita indireta, resultando num impacto fiscal positivo ou neutro para o Estado."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ambiente",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

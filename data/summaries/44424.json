@@ -1,0 +1,24 @@
+{
+ "short_title": "Alteração ao Código do IRC para melhor distribuição de receita regional",
+ "summary": "Esta proposta de lei visa alterar o Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC) e o Regime Complementar do Procedimento de Inspeção Tributária e Aduaneira. O objetivo principal é corrigir a forma como as receitas fiscais de IRC são atribuídas às Regiões Autónomas (Madeira e Açores), garantindo que os rendimentos gerados nestes territórios sejam corretamente imputados e declarados. Atualmente, existem falhas no sistema de declaração que levam a uma distribuição incorreta das receitas, prejudicando as regiões. A proposta introduz a obrigatoriedade de preenchimento de um anexo específico (Anexo C) e adiciona um novo artigo ao Código do IRC para clarificar as regras de imputação de rendimentos a estabelecimentos estáveis nas Regiões Autónomas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer arrumar a casa nos impostos das empresas (o IRC) para que a Madeira e os Açores recebam a parte justa do dinheiro que as empresas geram lá. Atualmente, há uma confusão sobre como as empresas declaram os seus lucros quando operam em várias zonas do país, e isso faz com que as regiões percam receita. A ideia é obrigar as empresas a preencher um papel extra nas suas declarações de impostos e criar uma regra nova no código do IRC para que a distribuição das receitas fiscais seja mais clara e correta, evitando que as regiões fiquem a perder.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma inconsistência no sistema tributário atual, onde a falta de regras explícitas no Código do IRC para a imputação de rendimentos a estabelecimentos em Regiões Autónomas resulta em distorções na distribuição da receita fiscal. Esta situação acarreta um \"prejuízo\" para as Regiões Autónomas, que não recebem a totalidade do IRC gerado nos seus territórios. A proposta aborda diretamente esta falha ao tornar obrigatório o preenchimento do Anexo C da declaração Modelo 22, que detalha o volume de negócios por circunscrição, e ao aditar o artigo 5.º-A ao Código do IRC. Este novo artigo define de forma expressa como a receita de IRC deve ser atribuída a cada Região Autónoma, baseando-se no volume de negócios. As medidas propostas alinham-se diretamente com o objetivo de eliminar as ineficiências e garantir uma distribuição fiscal mais justa e transparente, corrigindo as ambiguidades que levavam a desvios de tributação e \"duplo prejuízo\" para as regiões.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta tem como objetivo corrigir uma falha na atribuição de receitas fiscais, o que implica que, se aprovada, deverá aumentar as receitas de IRC para as Regiões Autónomas (Madeira e Açores), uma vez que os rendimentos gerados nos seus territórios serão corretamente imputados. Consequentemente, poderá haver uma diminuição correspondente nas receitas de IRC para o governo central, caso este estivesse a reter indevidamente fundos que deveriam ser das regiões. O efeito líquido para o governo no seu todo será provavelmente neutro em termos de receita total, mas representa uma redistribuição mais equitativa. Não se prevê um aumento direto nos gastos do governo, mas sim uma otimização da arrecadação e distribuição de impostos já existentes. O documento afirma que o diploma \"tem impacto financeiro\", o que, no contexto, sugere um impacto positivo para as finanças das Regiões Autónomas."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

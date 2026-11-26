@@ -1,0 +1,42 @@
+{
+ "short_title": "Restringir benefícios fiscais do arrendamento a rendas acessíveis",
+ "summary": "O Projeto de Lei n.º 633/XVII/1.ª altera o Decreto-Lei n.º 97/2026 para restringir os benefícios fiscais na habitação, nomeadamente a redução da taxa autónoma de IRS sobre rendas de 25% para 10% e do IVA da construção para 6%, apenas a imóveis com rendas verdadeiramente acessíveis. Atualmente, o decreto-lei atribui estes incentivos a rendas designadas como moderadas até ao limite único nacional de 2300 euros mensais. A proposta substitui este conceito pelo de renda acessível, passando a exigir que o valor não ultrapasse os limites gerais por tipologia previstos na Portaria n.º 176/2019, atualizados anualmente segundo o coeficiente legal de atualização das rendas e arredondados ao euro superior. Altera ainda o artigo 4.º do Anexo III do mesmo diploma para alinhar os contratos de arrendamento acessível com esses tetos máximos. A lei entra em vigor apenas com a aprovação do Orçamento do Estado seguinte.",
+ "key_points": [
+  "Substitui o conceito de renda moderada (até 2300 euros mensais) pelo de renda acessível como condição de acesso aos benefícios fiscais do Decreto-Lei n.º 97/2026.",
+  "Limita os benefícios fiscais no arrendamento e na construção aos imóveis cujas rendas não excedam os tetos gerais por tipologia definidos na Portaria n.º 176/2019.",
+  "Determina a atualização anual desses tetos máximos de renda de acordo com o coeficiente legal de atualização das rendas habitacionais, com arredondamento ao euro superior.",
+  "Uniformiza os limites de renda aplicáveis aos contratos de arrendamento acessível no Anexo III do Decreto-Lei n.º 97/2026 segundo a mesma tabela e regra de atualização.",
+  "Remete a entrada em vigor das alterações para a aprovação do Orçamento do Estado subsequente à publicação da lei."
+ ],
+ "plain_language": "O Governo criou um desconto nos impostos para senhorios e construtores, baixando o IRS das rendas de 25% para 10% e o IVA da construção para 6%, desde que a renda não passe dos 2300 euros por mês. O Bloco de Esquerda considera esse valor demasiado alto para a maioria das famílias e propõe mudar a regra. Com esta lei, os descontos fiscais só se aplicam se a renda respeitar os limites mais baixos do Programa de Arrendamento Acessível, ajustados por tipologia da casa e atualizados todos os anos. A alteração só entraria em vigor no próximo Orçamento do Estado.",
+ "context": "O proponente aponta uma grave crise habitacional, com os preços das casas a subir 17,6% em 2025 e máximos históricos em 2026. Critica que chamar moderada a uma renda até 2300 euros, quando o salário mínimo é 920 euros, abrange cerca de 80% do mercado e financia rendas elevadas sem exigir reduções aos senhorios. Citando estudos económicos, a DECO PROteste e a Associação de Inquilinos Lisbonenses, alerta que benefícios fiscais sem contrapartidas inflam os preços e abandonam o conceito legal de renda acessível da Portaria n.º 176/2019.",
+ "analysis": "A proposta tem o mérito de alinhar os benefícios fiscais com um critério legal já existente, evitando perda de receita pública em rendas elevadas sem contrapartidas para os inquilinos. Contudo, tetos mais baixos podem reduzir a adesão de senhorios e construtores, limitando a oferta de habitação. Nota-se ainda que o articulado mantém intocado o limite do valor de aquisição e apresenta falhas técnicas: cita a Portaria n.º 176/2019 como sendo de 6 de julho (na exposição de motivos consta 6 de junho) e omite a referência explícita ao critério por concelho no texto legal. Além disso, o projeto é datado de 22 de maio para alterar um decreto-lei de 30 de maio e adia a vigência para o próximo Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Ao restringir a redução de IRS (de 25% para 10%) e de IVA (para 6%) apenas a rendas dentro dos limites acessíveis, a medida reduz o universo de contratos elegíveis face ao regime atual até 2300 euros. Isso diminui a renúncia fiscal do Estado, aumentando a receita tributária face à lei vigente, embora o documento não quantifique o montante."
+ },
+ "affected": [
+  "senhorios",
+  "inquilinos",
+  "construtores e promotores imobiliários"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "arrendamento acessível",
+  "benefícios fiscais",
+  "irs predial",
+  "rendas",
+  "habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Controlo de preços na alimentação, energia e redução de encargos bancários",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a adoção de medidas de controlo de preços e de margens comerciais em bens e serviços essenciais. Na alimentação, propõe a regulação dos preços dos produtos do cabaz essencial (bens incluídos na lista de taxa reduzida de IVA) e o controlo das margens na distribuição e logística. Nos combustíveis rodoviários, recomenda a criação de um preço de referência baseado no custo real do petróleo e a fixação de margens brutas máximas de refinação e de preços máximos ao público. Para o gás de botija e canalizado, sugere tetos máximos indexados à média da Zona Euro, fixando a garrafa de 13 kg nos 20 euros. Propõe ainda tornar definitivas as tarifas reguladas de eletricidade e gás natural, simplificando a adesão ao comercializador de último recurso, e exigir que os lucros da banca cubram encargos do crédito à habitação, reduzindo comissões bancárias e apoiando renegociações.",
+ "key_points": [
+  "Aplicar controlo de preços ao cabaz alimentar essencial e regular as margens dos operadores de distribuição, comércio, transporte e armazenagem.",
+  "Definir um preço de referência para a gasolina 95, gasóleo rodoviário e GPL auto baseado no preço real de aquisição do petróleo mais uma margem regulada.",
+  "Fixar margens brutas máximas na refinação e preços máximos de venda ao público para combustíveis simples e GPL auto, refletindo esses limites no preço final.",
+  "Estabelecer preços máximos para o gás de botija e canalizado com base na média da Zona Euro, fixando a garrafa de 13 kg no máximo de 20 euros.",
+  "Tornar definitivas as tarifas reguladas de eletricidade e gás natural e simplificar a transferência de contratos para o comercializador de último recurso.",
+  "Colocar os lucros da banca a suportar encargos do crédito à habitação, garantir apoio na renegociação mediada e reduzir comissões bancárias."
+ ],
+ "plain_language": "O PCP pede ao Parlamento que recomende ao Governo o controlo de preços em bens essenciais. A proposta sugere limitar as margens de lucro nos alimentos básicos, fixar preços máximos nos combustíveis e colocar a garrafa de gás de 13 kg nos 20 euros. Propõe também tornar permanentes as tarifas reguladas de eletricidade e gás, facilitando a mudança de contrato. Além disso, defende que os lucros da banca ajudem a pagar despesas dos empréstimos da casa e que se reduzam as comissões bancárias. Por ser um projeto de resolução, funciona apenas como uma recomendação, não obrigando o Governo a avançar.",
+ "context": "O PCP justifica a iniciativa com o aumento acentuado do custo de vida desde 2022, apontando subidas expressivas nos alimentos básicos, nos combustíveis — agravadas após conflitos no Médio Oriente — e no crédito à habitação após o aumento das taxas de juro pelo Banco Central Europeu. Os proponentes atribuem esta situação à especulação e aos lucros recorde das grandes empresas da energia, da distribuição alimentar e da banca, considerando insuficiente uma resposta centrada apenas na redução de impostos.",
+ "analysis": "A proposta aborda problemas imediatos do custo de vida com medidas objetivas, incluindo o recurso a normas legais já existentes para limitar margens nos combustíveis. Contudo, sendo um projeto de resolução, é apenas uma recomendação sem efeito vinculativo. O documento apresenta lacunas operacionais relevantes: não especifica como fiscalizar margens em toda a cadeia alimentar nem avalia o risco de escassez ou retração da oferta resultante da fixação administrativa de preços. Falta também clareza jurídica sobre como obrigar a banca a suportar encargos de créditos já contratados. Existe ainda uma inconsistência entre a exposição de motivos — que defende IVA a 6% na energia e apoios a fundo perdido — e a parte resolutiva, onde essas medidas desaparecem.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação sem efeito vinculativo e incidir sobretudo na regulação de preços e margens privadas, o impacto orçamental direto é indeterminado. Caso o Governo implemente as medidas, a redução de preços poderá diminuir indiretamente a receita de IVA e exigir custos adicionais de fiscalização."
+ },
+ "affected": [
+  "consumidores",
+  "famílias com crédito à habitação",
+  "empresas de distribuição alimentar e logística",
+  "operadores de combustíveis e energia",
+  "banca"
+ ],
+ "categories": [
+  "consumidores",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "controlo de preços",
+  "combustíveis",
+  "cabaz alimentar",
+  "tarifas reguladas",
+  "crédito à habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

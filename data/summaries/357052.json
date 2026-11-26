@@ -1,0 +1,40 @@
+{
+ "short_title": "Isenção de mais-valias no reinvestimento em ruínas e casas com uso misto",
+ "summary": "O Projeto de Lei n.º 712/XVII/1.ª propõe uma interpretação autêntica do artigo 10.º do Código do IRS sobre a exclusão de tributação das mais-valias imobiliárias em caso de reinvestimento. Estabelece que um imóvel mantém o estatuto de habitação própria e permanente mesmo quando utilizado parcialmente para atividade profissional, económica ou arrendamento parcial, desde que aí se centre a vida doméstica e o domicílio fiscal de forma duradoura. Clarifica igualmente que o conceito de reinvestimento abrange a compra de imóveis que necessitem de obras de construção, reconstrução, reabilitação ou recuperação, incluindo edifícios classificados como ruínas, bem como as respetivas obras, desde que cumpridos os prazos legais de afetação a habitação própria e permanente. A iniciativa determina que esta interpretação produz efeitos retroativos à data da entrada em vigor da Lei n.º 64-A/2008, de 31 de dezembro.",
+ "key_points": [
+  "Define como habitação própria e permanente o imóvel onde o contribuinte ou agregado tem domicílio fiscal e vida doméstica estável, admitindo uso parcial profissional, económico ou arrendamento parcial.",
+  "Inclui no conceito de reinvestimento elegível a aquisição de imóveis que precisem de obras de construção, reconstrução, reabilitação ou recuperação, abrangendo expressamente os classificados como ruínas.",
+  "Exige que o imóvel adquirido ou reabilitado seja efetivamente afeto a habitação própria e permanente nos prazos já fixados pelo Código do IRS.",
+  "Estabelece a retroatividade da lei interpretativa à data da entrada em vigor da Lei n.º 64-A/2008, de 31 de dezembro."
+ ],
+ "plain_language": "Quando vende a sua casa para comprar outra onde vai morar, não paga IRS sobre o lucro (mais-valia) obtido. Esta proposta clarifica duas situações em que as Finanças têm negado esse benefício. Primeiro, garante que não perde a isenção se usar parte da casa vendida como local de trabalho ou se arrendar uma parte, desde que continue a ser a sua residência principal. Segundo, confirma que pode usar o dinheiro da venda para comprar uma casa degradada ou em ruínas e fazer obras para lá viver, sem perder a isenção fiscal.",
+ "context": "A Iniciativa Liberal justifica o projeto com entendimentos recentes da Autoridade Tributária que considera restritivos e sem suporte legal. Segundo a exposição de motivos, o fisco tem excluído do benefício fiscal a compra de ruínas para reconstrução, por não serem habitáveis no momento da compra, bem como casas usadas simultaneamente como sede de trabalho do proprietário. O proponente argumenta que estas interpretações penalizam a reabilitação urbana numa crise habitacional, criam desigualdades e geram insegurança jurídica.",
+ "analysis": "A iniciativa procura travar entendimentos restritivos do fisco por via de uma lei interpretativa (que fixa o sentido de uma norma anterior), alinhando a compra de ruínas com a já prevista aquisição de terrenos para construção. Contudo, apresenta fragilidades. Ao admitir o arrendamento parcial e o uso económico sem definir limites objetivos de área ou afetação, deixa margem para novos litígios sobre a compatibilidade com a habitação principal. Além disso, a retroatividade a 2008 pode suscitar dúvidas constitucionais se os tribunais entenderem haver inovação normativa, além de gerar incerteza na revisão de liquidações passadas. O texto omite ainda qualquer estimativa orçamental e não identifica concretamente as orientações administrativas visadas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Embora o proponente afirme não criar um novo benefício fiscal, a proposta impede a Autoridade Tributária de cobrar IRS sobre mais-valias nos casos atualmente excluídos e aplica-se retroativamente a 2008, o que tende a reduzir a receita fiscal ou a gerar reembolsos. O documento não apresenta estimativas de impacto financeiro."
+ },
+ "affected": [
+  "proprietários de habitação própria e permanente",
+  "contribuintes com atividade económica ou profissional no domicílio",
+  "compradores de imóveis em ruínas ou para reabilitação"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "irs",
+  "mais-valias",
+  "reabilitacao urbana",
+  "habitacao propria e permanente",
+  "ruinas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

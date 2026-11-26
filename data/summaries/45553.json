@@ -1,0 +1,26 @@
+{
+ "short_title": "Vacinação Urgente e Legalização de Lares de Idosos Ilegais",
+ "summary": "Esta proposta, apresentada pelo PSD, aborda a questão dos milhares de lares de idosos ilegais em Portugal, onde residem cerca de 35 mil idosos cujo paradeiro é desconhecido. A falta de identificação e localização destes lares impede a vacinação dos seus residentes e profissionais contra a COVID-19, apesar de serem um grupo prioritário. A resolução recomenda que o Governo recolha urgentemente informações sobre estes lares não legalizados junto das corporações de bombeiros e autarquias locais para possibilitar a vacinação imediata. Sugere também a criação de um endereço eletrónico partilhado entre ministérios para a recolha de dados, o envio mensal desta informação à Assembleia da República e, futuramente, a criação de um corpo especializado para auxiliar na legalização destas instalações irregulares.",
+ "key_points": [],
+ "plain_language": "Em Portugal, há muitos lares de idosos que funcionam sem licença, e ninguém sabe bem onde estão ou quem lá vive. Por causa disso, os idosos e os funcionários desses lares não estão a ser vacinados contra a COVID-19, mesmo sendo um grupo de alto risco. O PSD está a pedir ao governo que descubra rapidamente onde estão estes lares e quem lá vive, usando os bombeiros e as câmaras municipais, para que possam ser vacinados já. Também querem que o governo crie uma forma de recolher esta informação, a envie todos os meses ao Parlamento e, mais tarde, ajude a legalizar estes sítios.",
+ "context": null,
+ "analysis": "O documento identifica uma falha crítica na resposta governamental à pandemia, nomeadamente a inação em relação à população idosa vulnerável em lares ilegais. A proposta argumenta que esta situação viola o princípio do acesso universal à vacina e põe em risco a vida destas pessoas e o projeto de imunidade de grupo do país. As soluções propostas, como a recolha imediata de dados através de entidades locais já existentes (bombeiros e autarquias) e a criação de um mecanismo de reporte e, posteriormente, de legalização, alinham-se diretamente com o objetivo de resolver o problema da invisibilidade e desproteção destes idosos. A crítica à inação governamental e ao chumbo de propostas anteriores do PSD reforça a urgência e a necessidade de uma abordagem mais proativa e coordenada para um problema que a pandemia expôs de forma dramática.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo, principalmente devido aos custos administrativos associados à recolha e gestão de informação (recursos humanos, infraestruturas eletrónicas). A extensão da vacinação a estes grupos, embora parte do plano nacional, pode gerar custos adicionais de logística e administração. A longo prazo, a criação de um corpo especializado para auxiliar na legalização das instalações e o possível apoio financeiro para as adaptações necessárias para a legalização também representarão um aumento das despesas governamentais. Não há indicação de impacto na receita do governo. O efeito líquido será um aumento dos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

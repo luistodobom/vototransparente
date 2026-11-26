@@ -1,0 +1,26 @@
+{
+ "short_title": "Declaração Mensal de Remunerações: Uma única submissão para AT e SS",
+ "summary": "Esta proposta de lei visa simplificar a entrega da Declaração Mensal de Remunerações (DMR) pelas empresas. Atualmente, as empresas têm de submeter duas declarações semelhantes, uma à Autoridade Tributária e Aduaneira (AT) e outra à Segurança Social (SS). O projeto propõe que seja submetida uma única declaração digital num só sítio na internet, que será automaticamente transmitida a ambas as entidades, contendo apenas a informação relevante para cada uma. O objetivo é reduzir a burocracia para as empresas e eliminar a redundância, mantendo a proteção de dados pessoais.",
+ "key_points": [],
+ "plain_language": "Basicamente, as empresas em Portugal têm de preencher dois papéis quase iguais todos os meses para dizer quanto pagam aos seus trabalhadores, um para as Finanças e outro para a Segurança Social. É uma chatice e dá muito trabalho. Este projeto de lei quer acabar com isso, fazendo com que as empresas preencham apenas um papel, num único site na internet. Esse papel único depois é enviado automaticamente para as Finanças e para a Segurança Social, cada uma recebendo só o que lhe interessa. Assim, as empresas perdem menos tempo com papelada e o Estado continua a ter toda a informação de que precisa, sem confusões com os dados pessoais das pessoas.",
+ "context": null,
+ "analysis": "A proposta aborda uma inconsistência clara na legislação atual, onde a mesma informação é exigida em duplicado por diferentes entidades do Estado, gerando burocracia desnecessária para as empresas. A solução de uma declaração única submetida num só sítio, com transmissão automática e separada para AT e SS, alinha-se perfeitamente com o objetivo de simplificação e redução da carga administrativa. A ênfase na proteção de dados pessoais e na não necessidade de remodelações profundas nos procedimentos da AT ou SS demonstra uma abordagem pragmática e bem pensada, evitando a mera transferência de burocracia das empresas para o Estado. A proposta é consistente e os detalhes de implementação (sítio único, transmissão automática e separada, respeito pelo RGPD) reforçam a sua viabilidade e eficácia na consecução do objetivo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá ter um impacto fiscal neutro a ligeiramente positivo. Não prevê um aumento direto dos gastos do governo, uma vez que a solução preconizada não obriga a remodelações profundas nos procedimentos da AT ou SS, mas sim a criação de um sítio dedicado. Pelo contrário, ao reduzir a burocracia para cerca de 400 mil empresas e eliminar 4 milhões de declarações anuais, pode levar a uma maior eficiência na recolha de dados e, potencialmente, a uma ligeira diminuição dos custos administrativos de processamento por parte do Estado a longo prazo. Não há impacto direto na receita do governo, pois a proposta apenas altera o método de submissão, não as obrigações fiscais ou contributivas em si. O efeito líquido será provavelmente uma melhoria da eficiência sem custos adicionais significativos."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Novos direitos laborais: parentalidade, aniversário, feriados e animais",
+ "summary": "O Projeto de Lei n.º 663/XVII/1.ª, apresentado pelo PAN, altera o Código do Trabalho para alargar direitos em matéria de parentalidade, saúde, descanso e conciliação laboral. Inclui expressamente a perda gestacional na licença por interrupção da gravidez, entre 14 e 30 dias para a trabalhadora e até três dias consecutivos de falta para o pai. Cria uma redução da jornada diária de trabalho em duas horas, sem perda de direitos laborais, para progenitores com filhos até aos dois anos. Institui o direito a dispensa no dia de aniversário, equiparada a serviço efetivo, e permite transferir feriados obrigatórios que coincidam com descanso semanal ou terça, quarta ou quinta-feira para a segunda-feira seguinte, mediante acordo ou contratação coletiva. Garante ainda o direito ao teletrabalho a vítimas de violência doméstica, quando compatível, e cria faltas justificadas por morte ou assistência veterinária urgente a animais de companhia registados.",
+ "key_points": [
+  "Inclui de forma expressa a perda gestacional no regime da licença por interrupção da gravidez, garantindo entre 14 e 30 dias à trabalhadora e até três dias seguidos de falta ao pai.",
+  "Cria o direito à redução de duas horas no horário diário de trabalho, sem perda de direitos laborais, para progenitores com filhos até aos dois anos de idade.",
+  "Consagra a dispensa ao serviço no dia de aniversário do trabalhador, equiparada a serviço efetivo, com regras de transferência quando coincida com descanso semanal, feriado ou 29 de fevereiro.",
+  "Permite, por acordo ou instrumento de regulamentação coletiva, passar feriados obrigatórios que calhem em descanso semanal ou entre terça e quinta-feira para a segunda-feira da semana seguinte.",
+  "Assegura o teletrabalho a trabalhadores com estatuto de vítima de violência doméstica, sempre que seja compatível com as funções e o empregador disponha de meios.",
+  "Cria faltas justificadas de um dia por morte e até dois dias por ano para assistência médica urgente a animais de companhia registados no Sistema de Informação de Animais de Companhia."
+ ],
+ "plain_language": "Esta proposta muda a lei do trabalho para reforçar apoios familiares e pessoais. Passa a incluir expressamente a perda gestacional na licença e nas faltas do pai, e reduz em duas horas o trabalho diário de pais com filhos até dois anos, sem perda de direitos. Cria ainda uma dispensa no dia de aniversário e permite acordar com a empresa a mudança de certos feriados para segunda-feira. Por fim, garante teletrabalho a vítimas de violência doméstica, quando possível, e permite faltar justificadamente por morte ou urgência veterinária de animais de companhia registados.",
+ "context": "O PAN defende que a lei laboral deve acompanhar as mudanças sociais e familiares. Aponta dificuldades de conciliação após a licença parental, desafios de natalidade e riscos de incerteza jurídica sobre o luto gestacional. Sustenta que a folga no aniversário e a mobilidade de feriados aumentam a motivação laboral, que vítimas de violência doméstica precisam de proteção no emprego, e que existe contradição entre obrigar legalmente ao cuidado de animais de companhia e não permitir faltas por luto ou urgências veterinárias.",
+ "analysis": "A iniciativa responde a necessidades concretas de conciliação e proteção social, clarificando o luto gestacional, reforçando o teletrabalho para vítimas de violência doméstica e exigindo registo no SIAC e declaração veterinária para as faltas por animais. Contudo, apresenta fragilidades técnicas e riscos de aplicação. Há contradição entre a exposição de motivos e o artigo 1.º, que limitam a redução horária de duas horas a «um dos progenitores», e o articulado proposto, que a atribui a «qualquer dos progenitores» sem regular a partilha entre ambos. O texto anuncia também a dispensa de aniversário para os setores público e privado, mas altera apenas o Código do Trabalho. Além disso, condicionar o teletrabalho aos meios do empregador pode restringir a proteção das vítimas, e a entrada em vigor no dia seguinte dificulta a adaptação empresarial.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto altera o Código do Trabalho e não apresenta estimativa de impacto orçamental. Embora preveja a dispensa remunerada no dia de aniversário e a redução horária sem perda de direitos até aos dois anos dos filhos — abrangendo também trabalhadores públicos sujeitos ao Código do Trabalho — e clarifique a licença por perda gestacional, os efeitos financeiros para o Estado e a Segurança Social não são quantificados no documento."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "progenitores com filhos até aos dois anos",
+  "vítimas de violência doméstica",
+  "detentores de animais de companhia",
+  "entidades empregadoras"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "animais"
+ ],
+ "tags": [
+  "código do trabalho",
+  "parentalidade",
+  "dia de aniversário",
+  "animais de companhia",
+  "violência doméstica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

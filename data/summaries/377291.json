@@ -1,0 +1,42 @@
+{
+ "short_title": "Acompanhamento simultâneo por ambos os pais de filhos com doença oncológica",
+ "summary": "Este Projeto de Resolução, iniciativa não vinculativa do Juntos pelo Povo, recomenda ao Governo que altere a legislação laboral e de proteção social para permitir que ambos os progenitores acompanhem em simultâneo filhos com doença oncológica. Atualmente, a lei apenas admite o gozo sucessivo da licença e impede que os dois pais recebam subsídio no mesmo período. A proposta recomenda a alteração do Código do Trabalho para autorizar faltas ou licença simultâneas quando a necessidade for clinicamente certificada, designadamente em tratamentos, internamentos ou situações de especial gravidade. Pede também a revisão dos regimes de proteção social geral e convergente para garantir que cada progenitor receba individualmente o subsídio correspondente a 100 % da sua remuneração de referência. Propõe ainda avaliar o teto mensal do subsídio e garantir efeitos imediatos ao pedido em casos urgentes, sem prazos de aviso prévio incompatíveis.",
+ "key_points": [
+  "Alterar o Código do Trabalho para permitir que ambos os progenitores gozem faltas ou licença em simultâneo, mediante certificação clínica, durante tratamentos, internamentos ou situações de especial gravidade.",
+  "Rever os decretos-lei dos regimes de proteção social geral e convergente para que cada progenitor possa receber individualmente o subsídio de 100 % da sua remuneração de referência no mesmo período.",
+  "Avaliar o limite máximo mensal do subsídio, atualmente fixado em três vezes o indexante dos apoios sociais, para evitar perdas significativas de rendimento familiar.",
+  "Garantir que o pedido de licença e dos respetivos subsídios produza efeitos imediatos em casos de diagnóstico, agravamento clínico ou imprevisto clinicamente certificado, dispensando prazos prévios incompatíveis com a urgência."
+ ],
+ "plain_language": "Atualmente, quando um filho tem doença oncológica, os pais não podem tirar licença ao mesmo tempo para o acompanhar, tendo de se revezar no trabalho e no apoio financeiro. Esta iniciativa recomenda ao Governo que mude a lei para permitir que ambos os progenitores faltem ou tirem licença em simultâneo nos momentos mais graves, como tratamentos ou internamentos, desde que um médico certifique essa necessidade. Recomenda ainda que ambos recebam o subsídio de 100 % do salário ao mesmo tempo, que o apoio avance logo em situações urgentes e que se avalie o limite máximo mensal pago.",
+ "context": "O proponente refere que o diagnóstico e o tratamento oncológico em crianças e jovens podem exigir a presença de ambos os progenitores, sem forçar a família a escolher quem interrompe o trabalho. Invoca a proteção constitucional da família e das crianças e aponta que, apesar de a Lei n.º 73-A/2025 ter fixado o subsídio em 100 % da remuneração de referência até três vezes o indexante dos apoios sociais, o Código do Trabalho e os diplomas da segurança social continuam a exigir períodos sucessivos e a impedir proteção simultânea.",
+ "analysis": "A iniciativa identifica com rigor uma articulação restritiva entre o Código do Trabalho e os dois regimes de proteção social, exigindo certificação clínica para o acompanhamento simultâneo e efeitos imediatos em situações urgentes. Contudo, tratando-se de um Projeto de Resolução, não é vinculativa nem apresenta articulado legal ou estimativa de impacto orçamental. Deixa por concretizar quais os critérios para a certificação clínica da necessidade simultânea, o que pode gerar disparidades na aplicação prática. Além disso, limita-se a pedir uma avaliação do teto de três vezes o indexante dos apoios sociais sem propor solução, e a dispensa de comunicação prévia pode colocar desafios de gestão às entidades empregadoras.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, não gera despesa imediata por si só. Contudo, caso o Governo adote as medidas propostas, o pagamento simultâneo do subsídio de 100 % da remuneração de referência a ambos os progenitores e uma eventual subida do limite atual de três vezes o indexante dos apoios sociais aumentarão a despesa dos regimes de proteção social."
+ },
+ "affected": [
+  "Progenitores de filhos com doença oncológica",
+  "Crianças e jovens com doença oncológica",
+  "Entidades empregadoras",
+  "Serviços clínicos responsáveis pela certificação"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "doença oncológica",
+  "assistência a filhos",
+  "subsídio parental",
+  "código do trabalho",
+  "proteção social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

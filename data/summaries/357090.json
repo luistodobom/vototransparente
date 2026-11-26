@@ -1,0 +1,41 @@
+{
+ "short_title": "Requalificação e auditoria do parque prisional português",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a requalificação do parque prisional português, tratando-se de uma recomendação parlamentar não vinculativa. O CDS-PP propõe quatro medidas principais para responder à degradação e sobrelotação das cadeias. Em primeiro lugar, pede uma auditoria técnica nacional para avaliar a conservação, segurança, salubridade e operacionalidade de todos os estabelecimentos prisionais. Em segundo lugar, recomenda a elaboração e execução de um Plano Integrado de Requalificação e Modernização do Parque Prisional Português. Em terceiro lugar, defende a priorização de intervenções imediatas nas prisões com degradação estrutural, risco sanitário ou falhas graves de segurança. Por fim, insta o Governo a garantir melhores condições de trabalho, segurança e proteção aos profissionais do Corpo da Guarda Prisional e restantes trabalhadores do sistema.",
+ "key_points": [
+  "Realização de uma auditoria técnica nacional ao estado de conservação, segurança, salubridade e operacionalidade de todos os estabelecimentos prisionais.",
+  "Elaboração e execução de um Plano Integrado de Requalificação e Modernização do Parque Prisional Português.",
+  "Intervenção imediata e prioritária nas prisões com degradação estrutural, risco sanitário ou falhas graves de segurança.",
+  "Garantia de melhores condições de trabalho, segurança e proteção para os guardas prisionais e restantes trabalhadores do sistema prisional."
+ ],
+ "plain_language": "O CDS-PP quer que o Governo faça obras e melhore a segurança nas prisões portuguesas. Como é um projeto de resolução, não obriga o Governo a cumprir, servindo apenas como um apelo político. O partido sugere que se comece por inspecionar todas as cadeias do país para perceber o que está estragado e onde há riscos para a saúde ou segurança. Depois, pede um plano geral para modernizar os edifícios e obras urgentes nos casos mais graves, como infiltrações ou pragas. Também pede melhores condições de trabalho e proteção para os guardas prisionais e outros funcionários.",
+ "context": "O proponente aponta o aumento da população reclusa, que atingiu 13 mil pessoas no final de 2025 segundo o RASI, e a falta de investimento sustentado. Cita indicadores de 2025 como 64 mortes de reclusos, 39 agressões a guardas, quatro evasões e milhares de apreensões de objetos proibidos. Destaca ainda denúncias de degradação extrema, como no Estabelecimento Prisional do Montijo, onde existem infiltrações, ratos e baratas. Além disso, refere que o Estado já pagou cerca de 15 milhões de euros em indemnizações desde 2016 por más condições prisionais.",
+ "analysis": "A iniciativa tem o mérito de cruzar preocupações de segurança interna, condições laborais dos guardas e direitos humanos dos reclusos, apoiando-se em dados oficiais do RASI 2025 e no custo financeiro das indemnizações pagas pelo Estado. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa sobre o Governo. Além disso, as recomendações finais são genéricas: não estabelecem prazos para a auditoria nem estimam custos ou fontes de financiamento para as obras. Nota-se ainda uma inconsistência entre a exposição de motivos e a parte resolutiva, já que o texto defende o combate à sobrelotação e a modernização tecnológica, mas nenhuma das quatro recomendações concretas apresenta medidas para reduzir o número de reclusos ou detalha essa modernização.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Caso o Governo siga estas recomendações não vinculativas, a auditoria nacional, as obras prioritárias e a modernização das prisões implicarão um aumento de despesa pública, não constando do documento quaisquer estimativas orçamentais. Por outro lado, o texto refere que a melhoria das condições prisionais visa responder a falhas que já custaram ao Estado cerca de 15 milhões de euros em indemnizações desde 2016."
+ },
+ "affected": [
+  "reclusos",
+  "guardas prisionais",
+  "trabalhadores do sistema prisional"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "estabelecimentos prisionais",
+  "sistema prisional",
+  "guardas prisionais",
+  "reclusos",
+  "requalificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualização das comparticipações do Estado nas refeições escolares",
+ "summary": "O Projeto de Resolução n.º 834/XVII/1.ª, apresentado pela Iniciativa Liberal, recomenda ao Governo um reforço do financiamento público para as refeições escolares no ensino obrigatório. Tratando-se de um projeto de resolução, não tem força vinculativa, funcionando como uma recomendação política ao Executivo. Em concreto, a iniciativa propõe três medidas: primeiro, uma atualização extraordinária mínima de 15% nas verbas que a Administração Central transfere para as câmaras municipais para este efeito, com aplicação prevista já em 2026; segundo, a criação de mecanismos de revisão periódica desses valores, tendo em conta a inflação verificada e projetada, para assegurar a qualidade nutricional sem sobrecarregar as autarquias; terceiro, a atualização das comparticipações do Estado para as refeições de alunos em contratos de associação, tornando-as equivalentes aos valores financiados pela Administração Central no ensino público.",
+ "key_points": [
+  "Recomenda ao Governo uma atualização extraordinária mínima de 15% nas transferências da Administração Central para as câmaras municipais destinadas ao financiamento das refeições escolares.",
+  "Propõe que os valores atualizados sirvam de base a mecanismos de revisão periódica em função da inflação verificada e projetada.",
+  "Visa garantir a adequação do financiamento sem comprometer a qualidade nutricional e alimentar nem impor encargos adicionais insuportáveis aos municípios.",
+  "Recomenda a atualização dos apoios do Estado às refeições de alunos em contratos de associação para garantir equivalência com o financiamento da Administração Central no ensino público."
+ ],
+ "plain_language": "Este documento é um pedido não obrigatório que o parlamento faz ao Governo para aumentar o dinheiro que o Estado transfere às câmaras municipais para pagar as refeições nas escolas. Como os preços dos alimentos, da energia e dos transportes subiram, muitas autarquias estão a gastar bastante mais do que recebem. A proposta pede um aumento mínimo de 15%, com efeitos já em 2026, e atualizações regulares segundo a inflação. Pede também que o Estado dê o mesmo apoio às refeições dos alunos de escolas privadas com contrato de associação (financiadas pelo Estado) que dá no ensino público.",
+ "context": "Os proponentes justificam a iniciativa com a subida dos preços dos bens alimentares, da energia e da logística, bem como com um estudo da Universidade do Minho segundo o qual 64% dos municípios reportam défices superiores a 20% nas refeições escolares. Argumentam que as autarquias acabam por desviar verbas de outras prioridades educativas, como os Territórios Educativos de Intervenção Prioritária (TEIP), para cobrir estes custos, arriscando a degradação da oferta alimentar. Apontam ainda uma desigualdade exposta pelo caso do Colégio dos Salesianos de Manique, onde alunos abrangidos por contratos de associação terão recebido apoios públicos inferiores aos do ensino público.",
+ "analysis": "A iniciativa identifica um problema financeiro documentado nos municípios e propõe uma medida estrutural pertinente ao prever revisões periódicas indexadas à inflação, o que ajuda a evitar desfasamentos futuros entre apoios e custos reais. Contudo, apresenta limitações claras. Por ser um projeto de resolução, não vincula o Governo nem inclui qualquer estimativa do impacto orçamental global para o Estado. Além disso, o texto não explica por que razão o patamar mínimo de 15% é adequado face a défices municipais reportados acima de 20%. Verifica-se ainda uma possível inconsistência técnica: a exposição de motivos critica a ausência de comparticipação municipal nos contratos de associação face às escolas públicas, mas a recomendação final pede apenas a equivalência com o financiamento da Administração Central, o que pode não corrigir a disparidade descrita.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Se o Governo acolher a recomendação, a despesa da Administração Central aumentará devido ao acréscimo mínimo de 15% nas transferências para os municípios, às futuras atualizações pela inflação e ao reforço para contratos de associação. O documento não apresenta uma quantificação do custo total em euros."
+ },
+ "affected": [
+  "alunos do ensino obrigatório",
+  "câmaras municipais",
+  "escolas com contratos de associação",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "familia"
+ ],
+ "tags": [
+  "refeições escolares",
+  "municípios",
+  "contratos de associação",
+  "inflação",
+  "financiamento educativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Impõe tetos às rendas e restringe benefícios fiscais a rendas acessíveis",
+ "summary": "O Projeto de Lei propõe duas alterações principais no mercado de arrendamento. Primeiro, adita ao Novo Regime do Arrendamento Urbano a criação de tetos máximos para as rendas em novos contratos, renovações e arrendamento de quartos, cujos valores concretos serão definidos por portaria do Governo com base em critérios como área, localização, tipologia, qualidade do imóvel, certificação energética e medianas estatísticas. Impede também aumentos em novos contratos celebrados menos de seis meses após o fim do contrato anterior sem obras de beneficiação. Segundo, altera o Decreto-Lei n.º 97/2026 para restringir os benefícios fiscais criados pelo Governo, como a taxa de IRS de 10% sobre rendas. Em vez de abranger rendas até 2.300 euros («rendas moderadas»), o desconto fiscal passa a aplicar-se apenas a rendas «acessíveis», definidas pelos limites por tipologia e concelho da Portaria n.º 176/2019, atualizados anualmente.",
+ "key_points": [
+  "Cria limites máximos para rendas em novos contratos e renovações no Novo Regime do Arrendamento Urbano, a definir por portaria governamental segundo critérios objetivos de qualidade, área, localização e valores medianos do INE.",
+  "Estabelece tetos específicos para o arrendamento de quartos, exigindo área útil superior a 6 metros quadrados, luz e ventilação natural direta.",
+  "Proíbe o aumento da renda em novos contratos celebrados menos de seis meses após a cessação do contrato anterior, salvo se tiverem sido realizadas obras de beneficiação.",
+  "Substitui o conceito de «renda moderada» (até 2.300 euros) no Decreto-Lei n.º 97/2026 pelo limite de «renda acessível» da Portaria n.º 176/2019, atualizado anualmente, como condição para os benefícios fiscais.",
+  "Determina que a lei entra em vigor com a aprovação do Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Esta proposta quer travar o aumento das rendas e mudar as regras dos descontos nos impostos dados aos senhorios. Por um lado, cria limites máximos para o valor das rendas de casas e quartos novos ou renovados, tendo em conta o tamanho, a zona e as condições da habitação, embora os valores exatos ainda tenham de ser definidos pelo Governo. Por outro, acaba com a regra atual que dá benefícios fiscais a rendas até 2.300 euros. Com esta mudança, os senhorios só têm direito à redução do imposto se cobrarem rendas consideradas acessíveis segundo as tabelas oficiais por concelho.",
+ "context": "O Bloco de Esquerda justifica a iniciativa com o agravamento da crise habitacional, referindo que os preços das casas subiram 17,6% em 2025 e que a Comissão Europeia aponta uma sobrevalorização de 35% em Portugal. O partido critica o pacote fiscal do Governo (Decreto-Lei n.º 97/2026) por considerar que qualificar como «moderada» uma renda até 2.300 euros — mais de duas vezes e meia o salário mínimo de 2026 — subsidia rendas elevadas sem exigir contrapartidas aos senhorios, arriscando inflacionar ainda mais o mercado.",
+ "analysis": "A iniciativa procura alinhar incentivos fiscais com preços compatíveis com os rendimentos locais, corrigindo a distorção de um teto nacional único de 2.300 euros. Contudo, apresenta fragilidades técnicas e riscos de execução. O articulado contém erros de remissão, pois o n.º 3 do novo artigo 24.º-A remete para si próprio e o n.º 5 remete para o n.º 3 em vez do n.º 2, além de citar a Portaria n.º 176/2019 com datas distintas (6 de junho na exposição de motivos e 6 de julho no articulado). Ademais, os tetos no arrendamento dependem de regulamentação futura por portaria do Governo, sem prazo definido, e a imposição administrativa de limites máximos às rendas pode provocar retração da oferta habitacional caso não seja acompanhada de mecanismos eficazes de controlo.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Ao restringir os benefícios fiscais do Decreto-Lei n.º 97/2026 (como a redução do IRS sobre rendas de 25% para 10%) apenas aos contratos abaixo dos limites de renda acessível da Portaria n.º 176/2019, em vez do teto de 2.300 euros, a proposta reduz a renúncia fiscal prevista. O documento não quantifica o impacto orçamental exato e remete a entrada em vigor para o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "promotores imobiliários"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "tetos às rendas",
+  "arrendamento acessível",
+  "benefícios fiscais",
+  "rendimentos prediais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

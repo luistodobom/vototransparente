@@ -1,0 +1,26 @@
+{
+ "short_title": "Inquérito Parlamentar à Gestão da Pandemia COVID-19",
+ "summary": "Este documento é um requerimento do Grupo Parlamentar do CHEGA para a constituição de uma Comissão Parlamentar de Inquérito para avaliar a gestão da pandemia de COVID-19 em Portugal. O documento detalha os impactos da pandemia na saúde, economia e sociedade, apontando falhas na planificação, na alocação de recursos humanos e económicos, e na gestão de contratos públicos. Sublinha a falta de transparência em aquisições de bens e serviços, como ventiladores e vacinas, e a ausência de cumprimento de compromissos financeiros com as autarquias. O objetivo da comissão é escrutinar as ações do Governo e da Administração, a afetação de recursos, os contratos públicos e os compromissos não cumpridos.",
+ "key_points": [],
+ "plain_language": "Este documento é basicamente um pedido do partido CHEGA para que o Parlamento investigue a fundo como o governo lidou com a pandemia de COVID-19. Eles querem saber porque é que as coisas correram mal na saúde, com hospitais sobrecarregados e tratamentos adiados, e porque é que a economia sofreu tanto, com muitas empresas a fechar e pessoas a perder o emprego. Também levantam muitas questões sobre como o dinheiro público foi gasto, especialmente em contratos para máscaras, ventiladores e vacinas, onde parece que houve falta de transparência e preços inflacionados. Querem que se apurem responsabilidades e que se perceba porque é que algumas promessas do governo, como pagar as despesas das autarquias, não foram cumpridas. É uma espécie de \"auditoria\" parlamentar para ver o que se passou.",
+ "context": null,
+ "analysis": "O documento funciona como uma análise crítica detalhada da gestão governamental da pandemia. Aponta inconsistências e falhas significativas, como a insuficiência de planeamento na saúde que levou a um atraso em cirurgias e diagnósticos não-COVID, e uma distribuição ineficiente de recursos. Na economia, critica a ineficácia de algumas medidas de apoio, como o lay-off simplificado, que não impediram o aumento do desemprego e insolvências. A principal crítica recai sobre a contratação pública, onde se destaca a falta de publicitação de contratos, a insuficiência de fundamentação para ajustes diretos, a ausência de critérios técnicos prévios e a discrepância de preços para produtos similares. A questão dos ventiladores que não chegaram a ser operacionais e a opacidade na compra de vacinas, com aumentos de preço e falta de transparência nas negociações, são exemplos claros de como os detalhes da implementação se alinham com o objetivo de demonstrar uma gestão deficiente e a necessidade de escrutínio parlamentar. O documento argumenta que estas falhas comprometeram a eficácia da resposta à pandemia e a correta utilização dos dinheiros públicos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta descreve um impacto fiscal negativo significativo. Detalha um aumento substancial nos gastos do governo com medidas de apoio (como o lay-off), aquisição de testes, e contratos públicos para material médico e vacinas, muitos dos quais são apontados como ineficientes ou excessivamente caros. Simultaneamente, a paralisação económica resultou numa quebra acentuada do Produto Interno Bruto (PIB), aumento do desemprego e insolvências, o que implicou uma diminuição da receita do governo. O documento também refere que as autarquias tiveram despesas relacionadas com a COVID-19 que totalizaram mais de 40 milhões de euros e não foram ressarcidas pelo governo central. O efeito líquido descrito é um aumento considerável da despesa pública e uma diminuição da receita, resultando num agravamento das contas públicas e da dívida."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção da maternidade para atletas de alto rendimento e profissionais",
+ "summary": "O Projeto de Lei propõe alterações à Lei n.º 13/2024 e à Lei n.º 54/2017 para reforçar os direitos de maternidade das atletas de alto rendimento e das praticantes desportivas profissionais. Para as atletas de alto rendimento sem contrato de trabalho desportivo, permite prorrogar até mais 120 dias a subvenção mensal paga pelo Instituto Português do Desporto e Juventude (IPDJ), equivalente ao Indexante dos Apoios Sociais, mediante requerimento e avaliação médico-desportiva. Garante também que a paragem por gravidez ou recuperação não reduz as bolsas de preparação e incumbe as federações de criarem regras de adaptação ao treino, amamentação e mitigação de impactos em rankings. Para as profissionais com contrato de trabalho desportivo, cria o direito à prorrogação do contrato por uma época se a gravidez ocorrer na última época contratual, mantendo a remuneração fixa, e obriga os clubes a assegurarem o treino adaptado e o regresso progressivo.",
+ "key_points": [
+  "Permite prorrogar por mais 120 dias a subvenção financeira do IPDJ para atletas de alto rendimento sem contrato de trabalho, mediante avaliação médico-desportiva.",
+  "Impede a cessação ou redução de bolsas de preparação devido à ausência competitiva causada por gravidez, maternidade ou recuperação, mesmo durante o retomar progressivo dos treinos.",
+  "Obriga as federações desportivas a criarem regras para adaptar treinos na gravidez, assegurar condições de amamentação e mitigar perdas em rankings nacionais sem atribuir resultados automáticos.",
+  "Concede às atletas profissionais o direito à prorrogação do contrato de trabalho desportivo por mais uma época caso a gravidez ocorra na última época contratual, mantendo a retribuição fixa.",
+  "Exige que as entidades empregadoras permitam a participação voluntária da atleta na dinâmica da equipa, adaptem o treino e sancionem o incumprimento destas normas como contraordenação grave."
+ ],
+ "plain_language": "Atualmente, as atletas de alto rendimento sem contrato de trabalho já recebem um apoio financeiro durante 120 dias após o subsídio parental, mas esse prazo pode ser curto para recuperar a forma física. Esta proposta permite estender esse apoio por mais 120 dias, se um médico desportivo confirmar a necessidade, e impede que percam as suas bolsas por não competirem durante a gravidez ou recuperação. Já para as atletas profissionais com contrato a prazo, se engravidarem no último ano de contrato, passam a poder prolongar o vínculo por mais uma época com o clube, garantindo o salário base e o acompanhamento no regresso.",
+ "context": "O proponente argumenta que a carreira desportiva depende da continuidade competitiva e que a gravidez e a recuperação pós-parto exigem prazos variáveis consoante a atleta e a modalidade, tornando insuficiente o limite fixo de 120 dias da Lei n.º 13/2024. Relativamente às atletas profissionais, salienta que os contratos de trabalho desportivo têm duração determinada e podem terminar precisamente durante a gravidez ou licença, dificultando o regresso à competição. Inspira-se no modelo espanhol para propor soluções laborais e federativas que protejam a maternidade sem anular os critérios técnicos e o mérito desportivo.",
+ "analysis": "A iniciativa apresenta como ponto forte a diferenciação jurídica entre atletas amadoras de alto rendimento e profissionais contratadas, preservando a autonomia técnica dos clubes e o mérito desportivo ao excluir convocatórias ou posições em rankings automáticas. Contudo, revela uma inconsistência formal evidente: o título anuncia alterações ao Decreto-Lei n.º 272/2009, mas o articulado apenas altera a Lei n.º 13/2024 e a Lei n.º 54/2017. Nota-se ainda que a prorrogação da subvenção remete para regulamentação posterior a criar em 90 dias, o que pode atrasar a aplicação prática. Além disso, a prorrogação contratual unilateral pode gerar encargos financeiros significativos para clubes de menor dimensão, e a proposta não apresenta estimativa do impacto orçamental para o IPDJ.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação da subvenção financeira complementar até mais 120 dias, no valor mensal de um Indexante dos Apoios Sociais, e a proibição de reduzir ou cessar bolsas de preparação durante a recuperação aumentam potencialmente a despesa pública do IPDJ. O documento não apresenta estimativas globais do custo orçamental, remetendo a entrada em vigor para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "atletas de alto rendimento",
+  "praticantes desportivas profissionais",
+  "clubes e entidades empregadoras desportivas",
+  "federações desportivas"
+ ],
+ "categories": [
+  "desporto",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "maternidade",
+  "desporto de alto rendimento",
+  "contrato de trabalho desportivo",
+  "subvenção pública",
+  "igualdade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime Excecional para Imóveis Públicos Devolutos",
+ "summary": "A proposta visa resolver a escassez de habitação em Portugal, especialmente a preços acessíveis, através da disponibilização de imóveis públicos devolutos ou subutilizados. Para tal, cria um programa de cooperação entre o Estado e as autarquias locais (municípios e freguesias com mais de 10 mil habitantes) para identificar, reabilitar e gerir estes imóveis, destinando-os a projetos de interesse público, nomeadamente habitação. O objetivo é aumentar a oferta habitacional e otimizar o uso do património público inativo.",
+ "key_points": [],
+ "plain_language": "Basicamente, o plano é pegar nos edifícios públicos que estão vazios ou mal aproveitados e pô-los a render. A ideia é que as câmaras municipais e as freguesias maiores ajudem a encontrar e a arranjar estes imóveis para depois os usar para habitação ou outros fins que sirvam a comunidade. Assim, resolve-se um bocado o problema da falta de casas, especialmente as mais baratas, e o Estado ainda pode ganhar algum dinheiro ou poupar nas despesas de manutenção. É uma forma de dar uso ao que está parado.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o problema da escassez de habitação, focando-se na oferta e na utilização de ativos públicos existentes. A sua força reside na aposta na descentralização e na colaboração com as autarquias locais, que possuem a proximidade e o conhecimento do território necessários para identificar e gerir eficazmente estes imóveis. O princípio da onerosidade, que prevê contrapartidas para o Estado (seja por pagamentos, serviços ou partilha de receitas), alinha a implementação com o objetivo de rentabilização do património. Os procedimentos detalhados para levantamento, regularização e cedência temporária, juntamente com os mecanismos de fiscalização, sugerem uma abordagem estruturada. O sucesso dependerá da capacidade de coordenação entre as entidades e da viabilidade financeira dos projetos de reabilitação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo principal transformar ativos inativos em produtivos, o que deverá resultar numa diminuição dos gastos do governo com a manutenção de imóveis devolutos. Prevê-se um aumento da receita do governo através do princípio da onerosidade, que inclui pagamentos pecuniários, partilha de rendas ou outras formas de compensação pela utilização dos imóveis. Embora possam existir custos administrativos iniciais para a Direção-Geral do Tesouro e Finanças (DGTF) e potenciais pagamentos às autarquias pelos seus serviços, o efeito líquido a longo prazo é esperado ser positivo, ao gerar valor e receita a partir de património atualmente subaproveitado."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Melhoria do Acesso e Condições de Alimentos para Menores",
+ "summary": "Esta proposta visa alterar as regras do Fundo de Garantia de Alimentos a Menores (FGADM) em Portugal. O objetivo principal é facilitar o acesso das crianças ao apoio financeiro quando o progenitor legalmente obrigado a pagar a pensão de alimentos não o faz. O sistema atual, com limites de rendimento rigorosos e um método de cálculo per capita específico, exclui muitas famílias necessitadas, mesmo aquelas com rendimentos próximos do salário mínimo. As alterações propostas procuram alargar o acesso, ajustando os limites de rendimento e os métodos de cálculo, para garantir que mais crianças sejam protegidas e recebam o apoio essencial para o seu desenvolvimento, em conformidade com os princípios constitucionais e as convenções internacionais sobre os direitos da criança.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que seja mais fácil para as crianças receberem a pensão de alimentos quando o pai ou a mãe que devia pagar não o faz. Atualmente, as regras são tão apertadas que muitas famílias, mesmo as que ganham pouco, ficam de fora. A ideia é mudar essas regras para que mais crianças tenham acesso a este apoio, garantindo que não lhes falte o essencial para crescerem bem.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma inconsistência crítica: embora o Fundo de Garantia de Alimentos a Menores (FGADM) tenha sido criado para assegurar o apoio financeiro a crianças em caso de incumprimento parental, os seus critérios de acesso atuais, nomeadamente o cálculo do rendimento per capita e o baixo Indexante de Apoios Sociais (IAS), limitam severamente a sua eficácia. A proposta afirma explicitamente que estas regras \"esvaziam a sua eficácia e alcance\", resultando numa diminuição do número de processos apesar de um aumento nos pedidos. As alterações propostas abordam diretamente esta inconsistência ao: 1) aumentar o limiar de rendimento para elegibilidade (permitindo, por exemplo, que um progenitor com rendimentos até 1000 euros se qualifique), 2) equiparar a criança beneficiária ao requerente para efeitos de cálculo do rendimento per capita, e 3) permitir maior flexibilidade na fixação do valor assegurado pelo Fundo. Estas implementações propostas estão diretamente alinhadas com o objetivo declarado de alargar o acesso e melhorar as condições, resolvendo assim a inconsistência identificada e tornando o fundo mais eficaz no cumprimento do seu propósito constitucional de proteção das crianças.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá aumentar os gastos do governo. Ao alargar os critérios de elegibilidade para o Fundo de Garantia de Alimentos a Menores (FGADM) e, potencialmente, permitir o pagamento de montantes mais elevados, mais famílias terão acesso a este apoio, e o valor total desembolsado pelo Fundo deverá aumentar. Embora o documento mencione que o IGFSS notificará os devedores para reembolso, este é um mecanismo de recuperação de fundos já despendidos, e não uma nova fonte de receita para o governo. Consequentemente, o efeito líquido será um aumento da despesa pública relacionada com o bem-estar social."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Medidas Anti-Inflação: Rendas, Eletricidade e Pensões",
+ "summary": "Esta proposta de lei visa combater os efeitos da inflação em Portugal através de várias medidas. Inclui a limitação temporária do aumento das rendas urbanas e rurais a um máximo de 2% em 2023, em vez dos 5,43% previstos, complementada por um benefício fiscal para os senhorios. Propõe também uma redução transitória do IVA da eletricidade de 13% para 6% para consumos até certos limites de potência e kWh, com limites mais altos para famílias numerosas. Por fim, estabelece um regime transitório para a atualização das pensões em 2023, com aumentos percentuais diferenciados consoante o valor da pensão, beneficiando mais as pensões de menor valor.",
+ "key_points": [],
+ "plain_language": "Então, o governo está a tentar ajudar as pessoas com a inflação. Basicamente, eles vão limitar o aumento das rendas em 2023 para um máximo de 2%, para não apertar tanto o orçamento das famílias. Para os senhorios não ficarem a perder muito, também vão ter um desconto nos impostos sobre as rendas. Além disso, o IVA da eletricidade vai baixar de 13% para 6% para a maioria das casas, especialmente para quem gasta menos ou tem famílias grandes. E as pensões também vão ter um aumento, sendo que as mais baixas vão subir mais um bocadinho. Tudo isto é para 2023, para dar uma ajuda extra neste período de preços altos.",
+ "context": null,
+ "analysis": "A proposta aborda de forma coerente o objetivo de mitigar os impactos da inflação nas famílias e empresas. A restrição ao aumento das rendas protege os inquilinos, enquanto o benefício fiscal para os senhorios tenta compensar a perda de receita, visando manter o equilíbrio no mercado de arrendamento. A redução do IVA na eletricidade, com limites de consumo e potência, é uma medida direcionada que beneficia a maioria dos agregados familiares, especialmente os mais numerosos, alinhando-se com a proteção do poder de compra. A atualização das pensões, com percentagens mais elevadas para os valores mais baixos, demonstra uma preocupação com a equidade e a sustentabilidade da segurança social. Todas as medidas são de natureza transitória, focadas no ano de 2023, o que é consistente com a resposta a uma situação inflacionária específica. Não se observam inconsistências internas, e os detalhes de implementação parecem bem alinhados com os objetivos declarados de apoio a famílias e pensionistas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo, ou seja, aumentará os gastos do governo e/ou diminuirá a receita. A redução do IVA na eletricidade resultará numa diminuição da receita fiscal. O benefício fiscal para os senhorios também implicará uma diminuição da receita de IRS e IRC. Por outro lado, a atualização das pensões representará um aumento direto nos gastos do governo com a segurança social. O efeito líquido será um aumento do défice or uma redução do excedente orçamental, devido à combinação de menor receita e maior despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

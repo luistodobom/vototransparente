@@ -1,0 +1,44 @@
+{
+ "short_title": "Dados regionais e audição parlamentar no Conselho das Finanças Públicas",
+ "summary": "O Projeto de Lei n.º 784/XVII/2.ª altera os Estatutos do Conselho das Finanças Públicas em dois domínios: o acesso a dados públicos e a nomeação do seu conselho superior. Primeiro, permite ao Conselho celebrar protocolos com quaisquer entidades públicas que produzam ou detenham informação necessária às suas funções, incluindo expressamente os serviços de finanças das regiões autónomas. Estes protocolos servem para definir o calendário, os formatos e o grau de desagregação dos dados, sem dispensar o dever legal de fornecimento já existente. Segundo, altera as regras de nomeação dos membros do conselho superior pelo Conselho de Ministros. Mantém a proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal, mas passa a exigir que a comissão competente da Assembleia da República realize previamente a audição dos candidatos e emita um parecer fundamentado antes da decisão final de nomeação.",
+ "key_points": [
+  "Altera os artigos 8.º e 13.º dos Estatutos do Conselho das Finanças Públicas.",
+  "Permite ao Conselho celebrar protocolos de cooperação com todas as entidades públicas que detenham ou produzam informação financeira relevante.",
+  "Inclui expressamente os serviços competentes em matéria de finanças das regiões autónomas nesses protocolos para definir calendários, formatos e desagregação de dados.",
+  "Mantém intacta a obrigação legal de fornecimento atempado de informação prevista na lei atual, independentemente da existência de protocolo.",
+  "Exige que os membros propostos para o conselho superior sejam obrigatoriamente ouvidos pela comissão parlamentar competente antes da emissão de parecer e da nomeação."
+ ],
+ "plain_language": "O Conselho das Finanças Públicas fiscaliza as contas do Estado, incluindo as das regiões autónomas. Esta iniciativa pretende facilitar esse trabalho ao permitir acordos diretos com os serviços financeiros regionais e outras entidades públicas para definir quando e em que formato entregam os dados. Além disso, muda a forma como são escolhidos os dirigentes deste Conselho. Atualmente a nomeação cabe ao Governo, mas esta proposta exige que os candidatos sejam primeiro ouvidos pelos deputados no Parlamento, que devem emitir uma opinião escrita antes de a nomeação avançar.",
+ "context": "O proponente refere que a avaliação das finanças regionais exige dados comparáveis, atempados e suficientemente detalhados. Critica a Proposta de Lei n.º 96/XVII/1.ª por limitar os protocolos de disponibilização de informação ao Ministério das Finanças, propondo alargá-los às entidades que detêm os dados, nomeadamente nas regiões autónomas. Quanto às nomeações, aponta que a proposta governamental prevê parecer parlamentar, mas com audição dos candidatos apenas a pedido do Governo, defendendo por isso que a audição prévia deve ser obrigatória.",
+ "analysis": "A iniciativa reforça o escrutínio parlamentar sobre um órgão fiscalizador independente e esclarece a cooperação técnica com as regiões autónomas. Ao tornar obrigatória a audição prévia na Assembleia da República, evita pareceres emitidos sem contacto direto com os candidatos, aumentando a transparência do processo. Contudo, o texto apresenta fragilidades jurídicas e operacionais. Por um lado, não clarifica se o parecer parlamentar tem natureza vinculativa ou meramente consultiva, mantendo a decisão final no Conselho de Ministros. Por outro, a celebração de protocolos é meramente facultativa, pelo que não garante, por si só, a uniformização dos dados se as entidades não aderirem. Verifica-se ainda uma dependência legislativa face à Proposta de Lei n.º 96/XVII/1.ª, pois a numeração do artigo 8.º assume a existência prévia de alterações ainda em discussão.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa introduz regras procedimentais sobre partilha de informação e audições parlamentares no processo de nomeação. Não prevê aumentos de despesa pública nem alterações na receita fiscal."
+ },
+ "affected": [
+  "Conselho das Finanças Públicas",
+  "Serviços de finanças das regiões autónomas",
+  "Entidades públicas detentoras de dados financeiros",
+  "Assembleia da República",
+  "Conselho de Ministros"
+ ],
+ "categories": [
+  "instituicoes",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "conselho das finanças públicas",
+  "regiões autónomas",
+  "audição parlamentar",
+  "transparência financeira",
+  "estatutos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

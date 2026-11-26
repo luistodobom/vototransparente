@@ -1,0 +1,42 @@
+{
+ "short_title": "Incluir o Porto de Vila Nova no Acordo de Defesa Portugal-EUA",
+ "summary": "O Projeto de Resolução recomenda ao Governo que promova a integração do Porto de Vila Nova, na Ilha Terceira, no Acordo de Cooperação e Defesa entre Portugal e os Estados Unidos da América. Sendo uma recomendação sem carácter vinculativo, pede aos ministérios dos Negócios Estrangeiros e da Defesa Nacional que diligenciem junto da Comissão Bilateral Permanente Portugal-EUA o reconhecimento deste porto como infraestrutura de interesse mútuo na periferia da Base das Lajes. Propõe ainda que o executivo negoceie um modelo de custos partilhados para financiar obras urgentes de estabilização da arriba e consolidação da estrada de acesso ao porto. Por fim, recomenda a articulação com o Governo Regional dos Açores e o Município da Praia da Vitória para realizar um levantamento técnico geotécnico, garantindo entretanto condições mínimas de segurança e operacionalidade através da proteção civil nacional.",
+ "key_points": [
+  "Diligenciar junto da Comissão Bilateral Permanente Portugal-EUA a inclusão do Porto de Vila Nova nas infraestruturas de interesse mútuo de apoio à Base das Lajes.",
+  "Negociar um modelo de custos partilhados com os Estados Unidos para financiar a estabilização da arriba e a reabilitação da estrada de acesso ao porto.",
+  "Articular com o Governo Regional dos Açores e o Município da Praia da Vitória o levantamento geotécnico necessário para instruir o pedido de financiamento internacional.",
+  "Assegurar condições mínimas de segurança e operacionalidade do porto de abrigo, através da proteção civil nacional, enquanto decorrem as negociações bilaterais."
+ ],
+ "plain_language": "Este projeto de resolução é um apelo do Parlamento ao Governo, sem força de lei, para resolver o problema de acesso ao Porto de Vila Nova, nos Açores. A estrada que liga ao porto está em risco de derrocada por causa da encosta instável, levando a cortes que isolam os pescadores e impedem o uso do porto em emergências no mar. Como a reparação é cara e a zona fica perto da Base das Lajes, os deputados sugerem que Portugal peça aos Estados Unidos para incluírem este porto no acordo de defesa entre os dois países, de modo a partilharem os custos das obras.",
+ "context": "Os proponentes explicam que o Porto de Vila Nova é o único porto de abrigo operacional na costa norte da Ilha Terceira durante intempéries, quando os portos dos Biscoitos e de Porto Martins ficam inacessíveis. Destacam também a ligação histórica aos Estados Unidos, iniciada com o salvamento de aviadores norte-americanos em 1948. Atualmente, graves riscos geotécnicos na arriba sobre a única estrada de acesso obrigam a encerramentos preventivos, isolando a pesca artesanal e anulando o refúgio marítimo. Como as obras exigem recursos financeiros avultados, defendem o recurso à cooperação bilateral prevista no Acordo de Cooperação e Defesa.",
+ "analysis": "A iniciativa foca um problema real de segurança marítima, proteção civil e acesso rodoviário na Ilha Terceira, procurando mobilizar financiamento externo para uma obra dispendiosa através de um instrumento diplomático existente. Contudo, trata-se de um projeto de resolução não vinculativo e a sua execução depende da aceitação de um Estado estrangeiro na Comissão Bilateral Permanente, o que gera elevada incerteza. O documento também não apresenta estimativas de custos para a intervenção geotécnica nem especifica medidas concretas para a proteção civil manter o porto operacional a curto prazo se a via terrestre continuar fechada. Além disso, envolve matérias de competência regional e municipal, exigindo coordenação estreita entre vários níveis de governo e negociações bilaterais potencialmente lentas face à urgência invocada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Como recomendação não vinculativa, não produz impacto orçamental direto imediato. Caso seja acolhida pelo Governo, envolverá despesa pública com estudos técnicos, medidas provisórias de proteção civil e obras na encosta e na estrada, cujo montante não é quantificado no documento e dependeria de eventual partilha de custos com os Estados Unidos."
+ },
+ "affected": [
+  "pescadores artesanais da Ilha Terceira",
+  "embarcações na costa norte da Ilha Terceira",
+  "Município da Praia da Vitória",
+  "Forças Armadas portuguesas e norte-americanas na Base das Lajes"
+ ],
+ "categories": [
+  "defesa",
+  "internacional",
+  "transportes"
+ ],
+ "tags": [
+  "porto de vila nova",
+  "base das lajes",
+  "açores",
+  "acordo de defesa",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

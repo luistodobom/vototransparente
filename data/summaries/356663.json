@@ -1,0 +1,44 @@
+{
+ "short_title": "Novo modelo de governação e independência da agência Lusa",
+ "summary": "O Projeto de Lei aprova o modelo societário e os novos estatutos da Lusa – Agência de Notícias de Portugal, S.A., após a aquisição da totalidade do capital pelo Estado. A medida central consiste na substituição do atual Conselho Consultivo por um Conselho Estratégico e de Acompanhamento com treze membros, de composição plural. Este órgão passa a escolher e indigitar os três membros do Conselho de Administração através de procedimento transparente e baseado num projeto estratégico, ficando a Assembleia Geral obrigada a investir apenas os nomes indigitados, após audição na Assembleia da República. O novo conselho fiscaliza o cumprimento do contrato de serviço público, publica avaliações semestrais e anuais e pode propor a exoneração da administração, sem deter poderes de gestão. Os estatutos regulam ainda o contrato plurianual de serviço público e reforçam o escrutínio parlamentar sobre a agência.",
+ "key_points": [
+  "Cria o Conselho Estratégico e de Acompanhamento, com treze membros designados pelo Parlamento, regiões autónomas, municípios, trabalhadores da Lusa, associações de comunicação social e RTP.",
+  "Atribui a este conselho o poder de escolher e indigitar os três administradores executivos, com base num projeto estratégico, vinculando a Assembleia Geral na sua nomeação.",
+  "Sujeita a designação do administrador responsável pela área financeira a parecer prévio vinculativo do Ministro das Finanças e todos os administradores a audição parlamentar.",
+  "Estabelece incompatibilidades para os membros do novo conselho, proíbe-lhes poderes de gestão e obriga à divulgação pública de avaliações semestrais e anuais.",
+  "Prevê um contrato plurianual de serviço público com revisão anual de custos validada por uma comissão que inclui a Inspeção-Geral de Finanças e uma auditora independente.",
+  "Impõe o envio anual de relatórios de atividade, contas e serviço público à Assembleia da República, bem como a comparência da administração e do diretor de informação em comissão parlamentar."
+ ],
+ "plain_language": "Como o Estado passou a ser o único dono da agência Lusa, esta lei define novas regras para impedir que o Governo de turno escolha diretamente quem manda na empresa. Em vez de um conselho meramente consultivo, cria-se um grupo independente de treze pessoas ligadas ao setor da comunicação social, trabalhadores, autarquias e Parlamento, que escolhe a administração da Lusa após avaliar os projetos dos candidatos. O Governo perde a escolha direta dos gestores, mantendo apenas veto sobre o administrador financeiro. Este novo órgão também avalia o trabalho da administração de seis em seis meses e publica os resultados, mas não gere a agência.",
+ "context": "A Iniciativa Liberal argumenta que a compra da totalidade do capital da Lusa pelo Estado tornou obsoleto o modelo anterior e exige garantias legais contra interferências políticas. Critica os estatutos do Governo por manterem um Conselho Consultivo cujo parecer não é vinculativo, o que permitiria ao Executivo continuar a nomear a administração e violaria o Regulamento Europeu da Liberdade dos Média. Recusa também importar o modelo da RTP por considerá-lo pesado e ineficiente, propondo uma solução intermédia.",
+ "analysis": "O projeto reforça a separação entre o acionista Estado e a gestão da Lusa, alinhando o processo de escolha com os critérios do regulamento europeu e evitando a criação de mais órgãos ao aproveitar a estrutura de treze membros já prevista. Contudo, apresenta uma contradição relevante: apesar de afirmar que o Governo deixa de designar a gestão, o artigo 11.º exige parecer vinculativo do ministro das Finanças para o administrador financeiro, mantendo um poder de veto governamental. Subsistem ainda riscos de influência política indireta, pois cinco dos treze membros são designados por órgãos políticos, e falhas técnicas de redação nos estatutos, como o número 9 do artigo 13.º em branco e a numeração do artigo 21.º iniciada no ponto 4.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto prevê senhas de presença e reembolso de deslocações para os membros do Conselho Estratégico e de Acompanhamento, bem como uma auditoria independente anual para validar os custos do contrato de serviço público. Não são apresentados valores nem estimativas que permitam quantificar o impacto orçamental líquido face aos estatutos anteriores."
+ },
+ "affected": [
+  "Lusa – Agência de Notícias de Portugal, S.A.",
+  "Trabalhadores da Lusa",
+  "Órgãos de comunicação social",
+  "Conselho de Administração da Lusa"
+ ],
+ "categories": [
+  "comunicacao",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "lusa",
+  "agência noticiosa",
+  "independência editorial",
+  "governação pública",
+  "serviço público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Alteração ao Código do Trabalho: 35 horas, férias e reforço de direitos",
+ "summary": "O Projeto de Lei n.º 669/XVII/1.ª, do Bloco de Esquerda, propõe uma revisão alargada do Código do Trabalho e legislação complementar. Entre as medidas principais, reduz o período normal de trabalho para 35 horas semanais e sete diárias, aumenta as férias mínimas para 25 dias úteis e universaliza o subsídio de refeição. O diploma acaba com a caducidade unilateral das convenções coletivas, repõe o princípio do tratamento mais favorável e reforça os direitos de intervenção sindical. Limita ainda a contratação a termo, sobe para 18 anos a idade mínima de admissão ao trabalho e aumenta as compensações por despedimento coletivo, permitindo contestar despedimentos ilícitos sem devolver a indemnização. Adicionalmente, integra o trabalho doméstico no Código do Trabalho, regula a utilização de inteligência artificial e gestão algorítmica, cria proteção laboral perante temperaturas extremas e alarga a licença do cuidador para 30 dias úteis pagos a 100%.",
+ "key_points": [
+  "Reduz o horário normal de trabalho para 35 horas semanais, fixa as férias mínimas em 25 dias úteis, universaliza o subsídio de refeição e incumbe o Governo de negociar a semana de quatro dias e 32 horas.",
+  "Elimina a caducidade unilateral das convenções coletivas, repõe o princípio do tratamento mais favorável ao trabalhador e obriga os empregadores a fornecer contactos dos trabalhadores às estruturas sindicais.",
+  "Aumenta a compensação por despedimento coletivo para um mês por ano (mínimo de três meses) e por caducidade de contrato a termo certo para 24 dias por ano, retirando a presunção de aceitação do despedimento pelo recebimento da compensação.",
+  "Integra o trabalho doméstico no Código do Trabalho com limite de 40 horas semanais e acréscimo salarial de 25% por acumulação de funções, e sobe a idade mínima de admissão ao trabalho para 18 anos.",
+  "Impõe transparência, revisão humana e proibição de despedimentos automatizados na gestão por algoritmos e inteligência artificial, e cria pausas ou dispensa de trabalho exterior em avisos meteorológicos laranja ou vermelho.",
+  "Alarga a licença anual do trabalhador cuidador para 30 dias úteis com subsídio de 100% da remuneração de referência e consagra o direito à jornada contínua para pais, cuidadores e trabalhadores-estudantes."
+ ],
+ "plain_language": "Este projeto de lei muda várias regras do trabalho para alargar os direitos de quem trabalha. Na prática, o limite semanal passaria para 35 horas, com 25 dias úteis de férias e subsídio de refeição garantido a partir de cinco horas diárias. Os contratos a prazo ficariam mais apertados, as indemnizações por despedimento subiriam e as horas extraordinárias seriam mais bem pagas. A proposta protege também quem trabalha ao ar livre sob temperaturas extremas, garante que decisões de sistemas de inteligência artificial sejam revistas por pessoas e integra os trabalhadores domésticos nas regras gerais do Código do Trabalho.",
+ "context": "O Bloco de Esquerda apresenta o diploma como alternativa ao pacote laboral do Governo («Agenda XXI»), que acusa de promover a precariedade, limitar a ação sindical e reverter avanços de 2023 sobre desconexão, trabalho em plataformas digitais e outsourcing. O proponente argumenta que a economia portuguesa assenta em baixos salários, crise na habitação e emigração de trabalhadores qualificados, criticando a condução das negociações pelo Executivo. Defende, assim, uma reforma para valorizar o trabalho, reforçar a contratação coletiva, combater a precariedade e responder a novos desafios, como a inteligência artificial e os fenómenos climáticos extremos.",
+ "analysis": "O projeto destaca-se pela abrangência e atualização de matérias pouco reguladas no Código do Trabalho, como a supervisão humana de sistemas algorítmicos, a proteção térmica em trabalho exterior e a integração do trabalho doméstico. Contudo, apresenta fragilidades jurídicas e de implementação relevantes. O texto contém erros de remissão e numeração, como revogar uma subalínea inexistente no artigo 101.º-C em vez do 101.º-E. A obrigação de entregar contactos de trabalhadores aos sindicatos, afastando regras de proteção de dados, arrisca colidir com o regime europeu de privacidade. No trabalho doméstico, o aviso prévio de 48 horas para inspeções pode reduzir a eficácia fiscalizadora. Por fim, o impacto cumulativo das 35 horas, do subsídio de refeição universal e da licença de cuidador carece de avaliação económica para empresas e Segurança Social.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa cria uma prestação substitutiva de 100% da remuneração de referência para a licença anual de 30 dias úteis do trabalhador cuidador, aumentando a despesa pública social. As restantes alterações laborais não incluem quantificação orçamental no texto, remetendo-se a entrada em vigor para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "entidades empregadoras",
+  "trabalhadores do serviço doméstico",
+  "trabalhadores cuidadores",
+  "associações sindicais e patronais"
+ ],
+ "categories": [
+  "trabalho",
+  "economia",
+  "direitos"
+ ],
+ "tags": [
+  "código do trabalho",
+  "redução horário",
+  "contratação coletiva",
+  "trabalho doméstico",
+  "inteligência artificial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

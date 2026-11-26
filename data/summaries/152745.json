@@ -1,0 +1,24 @@
+{
+ "short_title": "Aumento do limite de prestações para pagamento de impostos",
+ "summary": "Esta proposta de lei visa aumentar o número máximo de prestações mensais para o pagamento de dívidas fiscais, passando de 36 para 48 meses. O objetivo é aliviar a pressão financeira sobre famílias e empresas, que têm sido afetadas pela inflação elevada e pelo aumento das taxas de juro, especialmente no crédito à habitação. A alteração aplica-se a impostos como IRS, IRC, IUC, IVA e IMT, permitindo pagamentos mais diluídos no tempo.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar uma folga a quem está a ter dificuldades em pagar os impostos. Com a vida mais cara por causa da inflação e os juros dos empréstimos a subir, muita gente está apertada. Então, a ideia é que, em vez de ter só até 36 meses para pagar as dívidas ao Fisco, as pessoas e empresas passem a ter até 48 meses. Assim, a prestação mensal fica mais baixa e é mais fácil respirar um pouco, sem deixar de pagar o que se deve.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o problema da sobrecarga financeira de famílias e empresas, causada pela inflação e subida das taxas de juro, ao permitir um maior faseamento no pagamento de impostos. Ao estender o prazo máximo de pagamento de 36 para 48 meses, a medida alinha-se com o objetivo de reduzir a pressão mensal sobre os contribuintes. Não há inconsistências evidentes na lógica da proposta, uma vez que a flexibilização dos pagamentos é uma resposta direta à dificuldade de liquidez. Contudo, a eficácia dependerá da capacidade dos contribuintes de gerir os pagamentos ao longo de um período mais longo e da eventual acumulação de juros de mora, embora a proposta não especifique alterações a esses juros.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não deverá aumentar diretamente os gastos do governo. No que diz respeito à receita, a medida poderá resultar numa diminuição temporária da receita fiscal mensal, uma vez que os pagamentos serão mais diluídos no tempo. No entanto, ao facilitar o cumprimento das obrigações fiscais para quem enfrenta dificuldades, pode-se argumentar que a proposta visa prevenir a inadimplência e, consequentemente, a perda total de receita, o que, a longo prazo, poderia ter um efeito líquido positivo na arrecadação total, embora com um atraso. O efeito líquido imediato será uma desaceleração na entrada de receita, mas potencialmente uma melhoria na taxa de recuperação de dívidas."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

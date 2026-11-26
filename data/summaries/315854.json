@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio à saúde, comparticipações e literacia na menopausa",
+ "summary": "Este Projeto de Resolução do Partido Socialista recomenda ao Governo quatro medidas na área da saúde e dos direitos das mulheres relativas à menopausa. Por se tratar de um projeto de resolução, as propostas têm natureza recomendatória e não vinculativa. Primeiro, recomenda o reforço e alargamento da capacidade de resposta das consultas de acompanhamento para mulheres em perimenopausa e menopausa nos cuidados de saúde primários. Segundo, propõe a criação de um regime especial de comparticipação para hidratantes vaginais e vulvares, com ou sem hormonas, e para outras terapêuticas farmacológicas e não farmacológicas com evidência científica, desde que prescritas por médico. Terceiro, sugere um Programa Nacional de Literacia em Menopausa sob tutela da Direção-Geral da Saúde, com metas, prazos e indicadores, envolvendo o Ministério da Educação e organizações da sociedade civil. Por último, recomenda um estudo sobre o impacto da menopausa e da andropausa na saúde e no local de trabalho.",
+ "key_points": [
+  "Reforçar e alargar a capacidade de resposta das consultas de acompanhamento de mulheres em perimenopausa e menopausa nos cuidados de saúde primários.",
+  "Criar um regime especial de comparticipação para hidratantes vaginais e vulvares, com ou sem hormonas, e outras terapêuticas farmacológicas e não farmacológicas com evidência científica, mediante prescrição médica.",
+  "Promover a criação de um Programa Nacional de Literacia em Menopausa tutelado pela Direção-Geral da Saúde, com metas, prazos e indicadores, envolvendo o Ministério da Educação e a sociedade civil.",
+  "Promover a realização de um estudo sobre o impacto da menopausa e da andropausa na saúde e no local de trabalho, em articulação com as entidades competentes."
+ ],
+ "plain_language": "O PS pede ao Governo que dê mais apoio às mulheres que estão a passar pela menopausa ou pela fase que a antecede. Como é um projeto de resolução, é apenas uma recomendação e não obriga o Governo a avançar. A proposta inclui quatro ideias: ter mais consultas nos centros de saúde, baixar o preço de cremes e outros tratamentos receitados por médicos através de comparticipação do Estado, criar campanhas de informação com participação das escolas e da sociedade, e fazer um estudo sobre como a menopausa e a andropausa afetam a saúde e a vida profissional.",
+ "context": "O proponente aponta que, apesar de o Orçamento do Estado para 2025 ter reconhecido a menopausa como questão de saúde pública e igualdade, falta uma resposta integrada em Portugal. A exposição de motivos refere que a saúde feminina tem sido historicamente reduzida ao ciclo reprodutivo, persistindo mitos e negligência política. Citando a Organização Mundial da Saúde e a Sociedade Europeia de Menopausa e Andropausa, destaca que muitas mulheres sofrem sintomas moderados a graves durante anos, prevendo-se ainda um aumento significativo de mulheres com 50 ou mais anos até 2030.",
+ "analysis": "Como ponto positivo, a iniciativa dá visibilidade a uma área de saúde frequentemente descurada, exigindo evidência científica e prescrição médica para as terapêuticas comparticipadas e prevendo metas, prazos e indicadores para o programa de literacia. Contudo, trata-se de uma recomendação não vinculativa ao Governo, sem efeitos jurídicos imediatos. O texto não apresenta estimativa de custos nem explica de que forma será assegurado o reforço de capacidade nos cuidados de saúde primários. Também deixa por concretizar os critérios e percentagens do regime especial de comparticipação, especialmente quanto a outras terapêuticas farmacológicas e não farmacológicas. Por fim, verifica-se uma inconsistência estrutural: o quarto ponto inclui a andropausa no estudo proposto, apesar de o texto justificativo não fazer qualquer referência a esse tema.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não vincula o Governo nem cria despesa automática. Contudo, se as recomendações forem executadas — nomeadamente o reforço de consultas, a criação de um regime especial de comparticipação, um programa nacional e um estudo — implicarão aumento da despesa pública, sem que o documento apresente quaisquer estimativas financeiras."
+ },
+ "affected": [
+  "mulheres em perimenopausa, menopausa e pós-menopausa",
+  "utentes dos cuidados de saúde primários",
+  "profissionais de saúde do SNS",
+  "trabalhadores abrangidos pelo estudo sobre menopausa e andropausa"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "trabalho"
+ ],
+ "tags": [
+  "menopausa",
+  "saúde da mulher",
+  "comparticipação",
+  "cuidados de saúde primários",
+  "literacia em saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

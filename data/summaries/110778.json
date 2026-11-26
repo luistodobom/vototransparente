@@ -1,0 +1,26 @@
+{
+ "short_title": "Simplificação e Digitalização do Cartão de Cidadão",
+ "summary": "Esta proposta de lei visa modernizar e simplificar a administração pública através da transformação digital, focando-se no Cartão de Cidadão. As principais alterações incluem a harmonização da recolha de dados biométricos para que possam ser reutilizados, a implementação da medida \"Morada sempre atualizada\" para facilitar a alteração de morada, a atualização do Sistema de Certificação de Atributos Profissionais (SCAP) para alargar a sua aplicação, e a possibilidade de entrega do Cartão de Cidadão por via postal, bem como a ativação à distância dos certificados digitais. O objetivo é agilizar as interações entre cidadãos e empresas com o Estado, desmaterializar procedimentos e garantir a segurança dos dados, em conformidade com o Regulamento Geral sobre a Proteção de Dados (RGPD).",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer tornar a nossa vida com o Cartão de Cidadão muito mais fácil e digital. Vão simplificar a forma como se recolhem as nossas impressões digitais e fotos para que não tenhamos de as dar sempre que pedimos um documento novo. A morada no cartão vai ser mais simples de atualizar, e até vamos poder receber o cartão em casa pelo correio e ativar as assinaturas digitais à distância. Tudo isto para que a burocracia seja menor e os serviços públicos funcionem melhor e mais rápido, aproveitando as tecnologias, mas sempre com a nossa privacidade protegida.",
+ "context": null,
+ "analysis": "A proposta demonstra uma forte coerência com o seu objetivo declarado de simplificar e digitalizar os serviços da administração pública. As medidas detalhadas, como a reutilização de dados biométricos, a simplificação da alteração de morada, a expansão do SCAP e a ativação remota de certificados, alinham-se diretamente com a meta de reduzir a burocracia e melhorar a eficiência. A preocupação com a segurança documental e a conformidade com o RGPD (Regulamento (UE) 2016/679) através da ênfase no consentimento do titular para o tratamento de dados, mostra um equilíbrio entre a inovação tecnológica e a proteção da privacidade. Não se identificam inconsistências significativas; pelo contrário, os detalhes da implementação reforçam a visão de uma administração pública mais ágil e centrada no cidadão.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta deverá resultar numa diminuição dos gastos operacionais do governo a longo prazo, devido ao aumento da eficiência e à redução do trabalho duplicado. A harmonização da recolha de dados biométricos, a simplificação de processos e a desmaterialização de procedimentos administrativos (como a ativação remota de certificados e a entrega postal do Cartão de Cidadão) visam otimizar recursos e reduzir a necessidade de intervenção humana e infraestruturas físicas. Embora possa haver custos iniciais associados à implementação de novas tecnologias e à adaptação de sistemas, o efeito líquido esperado é de poupança através da racionalização e agilização dos serviços. Não há indicação direta de impacto na receita governamental, mas a maior eficiência pode indiretamente facilitar a conformidade e a interação económica."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "habitacao",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

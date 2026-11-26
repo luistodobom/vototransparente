@@ -1,0 +1,26 @@
+{
+ "short_title": "Criação de Base de Dados de Inibições e Destituições",
+ "summary": "Esta proposta visa transpor uma diretiva da União Europeia (2019/1151) para a legislação portuguesa, criando uma base de dados digital centralizada de indivíduos que foram legalmente proibidos de exercer atividades comerciais, ocupar certos cargos ou administrar bens de terceiros, bem como aqueles que foram judicialmente destituídos de órgãos sociais. O objetivo é proteger as pessoas que interagem com empresas e prevenir comportamentos fraudulentos ou abusivos, garantindo que indivíduos inibidos num Estado-Membro da UE não possam assumir funções semelhantes noutro. A base de dados permitirá a troca de informações entre os registos comerciais nacionais e de outros Estados-Membros da UE.",
+ "key_points": [],
+ "plain_language": "Basicamente, o governo quer criar uma lista digital centralizada de pessoas que foram proibidas de gerir empresas ou bens de outros, seja por fraude ou má conduta. Esta lista vai ajudar a impedir que essas pessoas voltem a fazer o mesmo, mesmo que tentem noutro país da União Europeia. Sempre que alguém for nomeado para um cargo numa empresa, os serviços de registo vão consultar esta lista para garantir que a pessoa não está impedida. É uma forma de proteger as empresas e os cidadãos de gente desonesta.",
+ "context": null,
+ "analysis": "A proposta aborda eficazmente a necessidade de transpor a diretiva da UE, estabelecendo uma base de dados abrangente (BDID). As disposições detalhadas para a recolha de dados (identificação pessoal, tipo e período de inibição, tribunal/entidade de origem), controlo de acesso (restrito a órgãos legais e administrativos relevantes) e consulta obrigatória pelos serviços de registo comercial demonstram uma abordagem bem estruturada para atingir o seu objetivo. A ênfase na interoperabilidade com os registos de outros Estados-Membros da UE reforça a capacidade do sistema para prevenir atividades fraudulentas transfronteiriças, alinhando-se perfeitamente com o objetivo da diretiva de aumentar a proteção e a transparência na governação empresarial. A comunicação automática de dados entre as bases de dados da Administração Pública e o IRN, I.P. é um detalhe de implementação prático que apoia a eficiência e a precisão dos dados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A criação, manutenção e interoperabilidade de uma nova base de dados nacional (BDID) implicarão um aumento dos gastos governamentais. Estes custos incluem o desenvolvimento de infraestruturas de TI, software, armazenamento de dados, medidas de cibersegurança e formação e gestão de pessoal. Embora os benefícios a longo prazo da prevenção de fraudes e da otimização da troca de informações possam levar a eficiências económicas indiretas, o documento não indica receitas diretas ou poupanças de custos que compensem as despesas iniciais e operacionais contínuas. Assim, o efeito líquido é um aumento da despesa governamental."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Criação do programa de Garantia Pública de Emprego",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a criação de um programa de Garantia Pública de Emprego. Por ser um projeto de resolução, não tem caráter vinculativo. A iniciativa propõe que o Estado, as autarquias locais e entidades de respostas sociais possam contratar pessoas desempregadas disponíveis para trabalhar. Segundo o texto, estes trabalhadores devem ser remunerados consoante a função exercida, em condições de igualdade com os restantes trabalhadores e nunca abaixo do salário mínimo nacional. Recomenda ainda que o Governo estabeleça os critérios de funcionamento do programa, definindo os beneficiários, as condições de participação, as entidades elegíveis e as modalidades de pagamento ou comparticipação. Por fim, propõe o envolvimento da academia e das organizações representativas dos trabalhadores no desenho e desenvolvimento da medida.",
+ "key_points": [
+  "Recomenda ao Governo a criação do programa de Garantia Pública de Emprego para contratar pessoas desempregadas disponíveis para trabalhar.",
+  "Prevê que a contratação possa ser feita pelo Estado, pelas autarquias locais e por entidades que asseguram respostas sociais.",
+  "Estabelece que a remuneração deve corresponder à função exercida, em igualdade com os restantes trabalhadores e nunca abaixo do salário mínimo nacional.",
+  "Solicita ao Governo a definição dos beneficiários, das condições de participação, das entidades candidatas e das modalidades de pagamento ou comparticipação.",
+  "Propõe a inclusão da academia e das organizações representativas dos trabalhadores no desenho e desenvolvimento do programa."
+ ],
+ "plain_language": "O LIVRE propõe que o Parlamento recomende ao Governo a criação de um programa para o Estado, as câmaras municipais e instituições sociais contratarem quem está desempregado, quer trabalhar e não encontra emprego. A ideia é garantir trabalho com direitos iguais aos dos outros funcionários e pelo menos o salário mínimo, reforçando áreas como a saúde, a educação ou o apoio social. Como é um projeto de resolução, trata-se apenas de uma recomendação, não obrigando o Governo a criar o programa.",
+ "context": "O proponente afirma que o desemprego resulta de constrangimentos económicos, formação desadequada e baixos salários, alertando para a inversão da descida da taxa de pobreza em Portugal. Aponta também uma grave falta de trabalhadores em serviços públicos essenciais, como a saúde, educação e habitação. Criticando a exigência de trabalho social na Prestação Social Única, o texto cita um relatório da ONU e um projeto-piloto na Áustria para defender o emprego público garantido como resposta digna.",
+ "analysis": "A iniciativa destaca-se por procurar articular o combate ao desemprego e à pobreza com o reforço de serviços públicos e sociais carenciados, exigindo igualdade salarial e proteção contra a precarização. Contudo, tratando-se de uma recomendação não vinculativa, o texto é pouco detalhado, remetendo para o Governo decisões estruturais como os critérios de acesso, a duração dos contratos e os limites de despesa. Embora a exposição de motivos sustente que o investimento líquido será reduzido graças ao retorno económico e contributivo, não apresenta estimativas de custos nem fontes de financiamento. Há ainda riscos práticos de substituição de emprego público regular e de sobrecarga administrativa para autarquias e entidades sociais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um programa de emprego financiado ou comparticipado pelo Estado e pelas autarquias implica um aumento da despesa pública com salários. O documento não apresenta montantes orçamentais, mas o proponente argumenta que o investimento líquido seria reduzido pelo aumento do consumo e das contribuições sociais, tratando-se de uma recomendação não vinculativa."
+ },
+ "affected": [
+  "pessoas desempregadas",
+  "autarquias locais",
+  "entidades do setor social",
+  "administração pública"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "garantia pública de emprego",
+  "desemprego",
+  "salário mínimo",
+  "setor social",
+  "autarquias locais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

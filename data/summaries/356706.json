@@ -1,0 +1,45 @@
+{
+ "short_title": "Política nacional para doentes em risco de fuga no SNS",
+ "summary": "Este Projeto de Resolução recomenda ao Governo o desenvolvimento e a implementação de uma política integrada de atuação para doentes em risco de fuga em todo o Serviço Nacional de Saúde (SNS). A iniciativa propõe a definição de orientações nacionais mínimas para identificar, sinalizar, acompanhar e responder a estas situações, avaliando a disseminação de boas práticas e soluções tecnológicas já existentes, como pulseiras de identificação ou alerta. Recomenda ainda que os procedimentos sejam proporcionais, validados clinicamente e respeitem os direitos dos utentes, o acompanhamento, o consentimento e a proteção de dados. Prevê também a articulação entre o SNS, forças de segurança, proteção civil, autarquias, setor social e associações de pessoas com demência e cuidadores. Por fim, propõe promover a utilização do sistema NOTIFICA para registar incidentes e reforçar a formação de profissionais de saúde e de segurança das unidades de saúde.",
+ "key_points": [
+  "Desenvolver uma política integrada de atuação para doentes em risco de fuga em todo o SNS, aproveitando iniciativas existentes.",
+  "Definir orientações nacionais mínimas de identificação, sinalização e resposta, avaliando a adoção de protocolos e tecnologias de alerta.",
+  "Assegurar a proporcionalidade, a validação clínica, o direito ao acompanhamento, a informação ao utente ou família e a proteção de dados.",
+  "Promover a cooperação entre o SNS, forças de segurança, proteção civil, autarquias, setor social e associações de apoio.",
+  "Divulgar e incentivar o registo de incidentes de fuga ou desaparecimento no sistema nacional NOTIFICA para melhoria contínua.",
+  "Reforçar a formação de profissionais de saúde e de segurança para prevenir e responder a situações de risco de fuga."
+ ],
+ "plain_language": "Nos hospitais, há doentes com demência ou confusão que podem sair sem ninguém notar e perder-se. Hoje, cada hospital resolve isto à sua maneira. Este projeto pede ao Governo que crie regras iguais para todo o SNS para evitar esses desaparecimentos. Por exemplo, sugere avaliar o uso de pulseiras de alerta, como já acontece num hospital, garantir que há autorização e privacidade, melhorar a comunicação com a polícia e famílias, registar melhor estes casos e dar formação às equipas de saúde e seguranças. Como é um projeto de resolução, é uma recomendação ao Governo, sem força de lei.",
+ "context": "A Iniciativa Liberal destaca que Portugal tem uma das maiores prevalências de demência da OCDE, num contexto de envelhecimento populacional. Aproximando-se o debate da Petição n.º 125/XVI/1.ª sobre desaparecimentos, o partido aponta que o risco de fuga nos hospitais abrange também outros doentes em estado de desorientação. Embora o Ministério da Saúde já tenha reconhecido a necessidade de uma política integrada e existam iniciativas locais e programas policiais, a resposta no SNS mantém-se desigual entre unidades. O proponente defende que a segurança de pessoas vulneráveis não pode depender da geografia.",
+ "analysis": "A proposta acerta ao abordar uma lacuna real de segurança hospitalar de forma equilibrada, integrando proteção de dados, consentimento, validação clínica e direitos dos utentes, o que ajuda a evitar soluções tecnológicas intrusivas sem salvaguardas. A aposta no aproveitamento de práticas existentes e no registo de incidentes via NOTIFICA é pragmática. Contudo, sendo um Projeto de Resolução, constitui uma recomendação não vinculativa ao Governo, sem prazos, metas mensuráveis ou definição clara de responsabilidades entre tutela e Unidades Locais de Saúde. A eventual implementação enfrenta riscos práticos, como a sobrecarga das equipas clínicas e de segurança para assegurar vigilância e formação contínua, além de custos financeiros e desafios técnicos para uniformizar tecnologias de alerta e garantir a articulação efetiva com as forças de segurança.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta estimativas orçamentais e trata-se de uma recomendação não vinculativa ao Governo. Contudo, a eventual implementação nacional de soluções tecnológicas de identificação ou alerta e o reforço da formação profissional implicam potenciais encargos financeiros para o SNS."
+ },
+ "affected": [
+  "doentes com demência ou desorientação",
+  "familiares e cuidadores",
+  "profissionais de saúde do SNS",
+  "profissionais de segurança hospitalar",
+  "forças de segurança"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "demência",
+  "risco de fuga",
+  "segurança do doente",
+  "sns",
+  "tecnologia hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

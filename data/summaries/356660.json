@@ -1,0 +1,41 @@
+{
+ "short_title": "Reintrodução dos dependentes no quociente familiar do IRS",
+ "summary": "O Projeto de Lei n.º 600/XVII/1.ª altera o artigo 69.º do Código do IRS para reintroduzir o número de dependentes no cálculo do quociente familiar. Na tributação conjunta de casados ou unidos de facto, o rendimento coletável passa a ser dividido por dois acrescido de 0,5 (um dependente), 0,75 por dependente (dois) ou 1 por dependente (três ou mais). Na tributação separada de casados ou unidos de facto, o divisor é de um mais metade daqueles fatores (0,25, 0,375 ou 0,5 por dependente). Para os restantes sujeitos passivos com dependentes, o rendimento coletável divide-se por um acrescido de 0,5, 0,75 ou 1 por dependente, consoante tenham um, dois, ou três ou mais dependentes. As taxas do artigo 68.º aplicam-se ao quociente apurado, multiplicando-se depois o resultado pelo respetivo divisor. Revoga ainda os n.ºs 4 e 5 do artigo 69.º e entra em vigor com o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Altera o artigo 69.º do Código do IRS para reintroduzir a ponderação dos dependentes no quociente familiar.",
+  "Aplica, na tributação conjunta de casados ou unidos de facto, um divisor igual a dois somado de 0,5, 0,75 ou 1 por dependente, consoante existam um, dois, ou três ou mais dependentes.",
+  "Cria um mecanismo equivalente para casados ou unidos de facto em tributação separada, usando um somado de metade dos fatores por dependente (0,25, 0,375 ou 0,5).",
+  "Estende o quociente familiar aos restantes contribuintes com dependentes, aplicando um divisor de um acrescido de 0,5, 0,75 ou 1 por dependente.",
+  "Determina que a lei entra em vigor apenas com o Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Quando calcula o IRS, o Estado divide os rendimentos do agregado por um número antes de aplicar as taxas do imposto, que são mais altas para quem ganha mais. Esta proposta faz com que esse número aumente consoante a quantidade de filhos ou outros dependentes a cargo, seja para casais (juntos ou em separado) ou para famílias monoparentais. Ao dividir o rendimento por um valor maior, o imposto aplica taxas de escalões mais baixos, reduzindo o IRS a pagar. Quanto mais filhos tiver o agregado, maior é o fator usado na divisão. A medida só começará a valer com o próximo Orçamento do Estado.",
+ "context": "A Iniciativa Liberal justifica o projeto com a crise demográfica em Portugal, marcada pelo envelhecimento e por um índice sintético de fecundidade de cerca de 1,4 filhos por mulher, abaixo dos 2,1 necessários para renovar gerações. Alerta para os riscos na sustentabilidade das pensões, no crescimento económico e nos serviços públicos. Argumenta que famílias com o mesmo rendimento mas diferente número de dependentes têm capacidades contributivas distintas, defendendo que o quociente familiar promove justiça fiscal ao reconhecer os encargos acrescidos com filhos.",
+ "analysis": "Como ponto positivo, a proposta abrange não só a tributação conjunta de casais, mas também a tributação separada e os agregados monoparentais, evitando excluir outros modelos familiares, e aumenta o divisor consoante o número de dependentes. Contudo, apresenta fragilidades relevantes. Ao aplicar-se ao rendimento coletável sem estabelecer um teto máximo ao benefício, tende a gerar poupanças absolutas maiores nos escalões de rendimento mais elevados e um efeito reduzido ou nulo nos rendimentos mais baixos. O documento omite também qualquer estimativa do impacto orçamental da medida e revoga os n.ºs 4 e 5 do artigo 69.º sem explicar o seu conteúdo ou efeitos. Nota-se ainda uma gralha na redação do n.º 1, alínea a) («dividido por pela soma»).",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A medida reduz a taxa efetiva de IRS das famílias com dependentes a cargo, diminuindo a receita fiscal do Estado. O projeto não apresenta montantes nem estimativas do impacto orçamental, remetendo a entrada em vigor para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "famílias com dependentes",
+  "agregados monoparentais",
+  "contribuintes de IRS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "quociente familiar",
+  "dependentes",
+  "natalidade",
+  "impostos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

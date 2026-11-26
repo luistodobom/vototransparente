@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração das Leis Eleitorais: Voto em Mobilidade e Simplificação",
+ "summary": "Esta proposta de lei visa modernizar e simplificar as leis eleitorais para as eleições presidenciais, legislativas e autárquicas, bem como os regimes de referendo e recenseamento eleitoral. As principais alterações incluem a substituição do número de eleitor pelo número de identificação civil, a adaptação do apoio prestado pelas autarquias aos eleitores, o alargamento do voto antecipado em mobilidade a todos os municípios (em vez de apenas capitais de distrito) e a redução do número máximo de eleitores por assembleia de voto para 1000, permitindo maior flexibilidade na organização das secções de voto, especialmente relevante no contexto da pandemia de COVID-19. O objetivo é melhorar a acessibilidade, o conforto e a segurança dos votantes, e agilizar os procedimentos eleitorais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer tornar as eleições e referendos mais fáceis e seguros para toda a gente. Acabou-se o 'número de eleitor', agora é só usar o cartão de cidadão. E a grande novidade é que já não é preciso ir à capital de distrito para votar antecipadamente; agora pode-se fazer isso em qualquer município. Além disso, para evitar filas e ajuntamentos (ainda mais importante com a pandemia), as mesas de voto vão ter menos gente, no máximo 1000 eleitores, e podem ser divididas mais facilmente. Tudo isto para que votar seja mais cómodo, rápido e seguro.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise coerente e as medidas propostas alinham-se diretamente com os objetivos declarados. A substituição do 'número de eleitor' pelo 'número de identificação civil' é uma medida de simplificação que moderniza o processo e reduz a burocracia. O alargamento do voto antecipado em mobilidade a todos os municípios é uma resposta direta à necessidade de facilitar o exercício do direito de voto, como evidenciado pela adesão significativa a esta modalidade. A redução do limite de eleitores por secção de voto para 1000 e a maior flexibilidade na criação de secções adicionais são medidas cruciais para evitar o congestionamento e garantir o distanciamento social, melhorando a segurança e o conforto dos votantes, especialmente no cenário pandémico. Não se detetam inconsistências; pelo contrário, os detalhes da implementação reforçam a intenção de tornar o processo eleitoral mais eficiente, acessível e seguro.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta de lei deverá aumentar os gastos do governo. O alargamento do voto antecipado em mobilidade a todos os municípios implicará a constituição de mais mesas de voto, o que requer mais pessoal (membros das mesas), mais materiais eleitorais e maior logística para o envio e gestão dos boletins de voto por parte da Secretaria-Geral do Ministério da Administração Interna. A redução do número máximo de eleitores por assembleia/secção de voto para 1000, e a consequente necessidade de desdobrar mais secções, também aumentará o número total de locais de votação e, por conseguinte, os custos associados a pessoal, segurança e infraestruturas. Não há indicação de medidas que possam diminuir os gastos ou aumentar as receitas. O efeito líquido será, portanto, um aumento dos gastos do governo para garantir a acessibilidade e segurança do processo eleitoral."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

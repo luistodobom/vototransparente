@@ -1,0 +1,43 @@
+{
+ "short_title": "Limitação excecional das margens de lucro nos combustíveis",
+ "summary": "Este Projeto de Resolução, que constitui uma recomendação não vinculativa ao Governo, propõe a fixação excecional e temporária de margens máximas de comercialização para os combustíveis rodoviários simples e o gás de petróleo liquefeito (GPL) engarrafado, ao abrigo do regime legal do Sistema Petrolífero Nacional. A iniciativa pede ao executivo que solicite à Entidade Reguladora dos Serviços Energéticos (ERSE), no prazo de cinco dias úteis, uma proposta técnica baseada nas cotações internacionais, nas margens históricas dos últimos 24 meses e nos custos operacionais eficientes. Recomenda ainda a publicação, até 15 dias após a resolução, de uma portaria conjunta com validade inicial de 60 dias renováveis, definindo tetos às margens brutas e mecanismos de monitorização. Prevê igualmente um parecer prévio da Autoridade da Concorrência e a publicação semanal, pela ERSE, de relatórios sobre margens praticadas e eventuais práticas anticoncorrenciais.",
+ "key_points": [
+  "Recomendar ao Governo que fixe margens máximas de comercialização para combustíveis simples ao abrigo do Decreto-Lei n.º 31/2006.",
+  "Solicitar à ERSE, em cinco dias úteis, uma proposta técnica para todas as componentes comerciais dos combustíveis simples e do GPL engarrafado.",
+  "Publicar, no prazo máximo de 15 dias, uma portaria conjunta com vigor inicial de 60 dias, renovável, que estabeleça o teto de margem e mecanismos de ajuste em caso de ruturas.",
+  "Obter parecer prévio da Autoridade da Concorrência para prevenir concentrações de mercado ou alinhamentos tácitos de preços.",
+  "Determinar a divulgação semanal pela ERSE de um relatório público sobre margens médias praticadas por operador e região e indícios anticoncorrenciais."
+ ],
+ "plain_language": "O LIVRE quer que o Governo limite temporariamente o lucro que as empresas podem cobrar na venda de gasolina, gasóleo simples e gás engarrafado. Em vez de congelar o preço final na bomba, o Estado definiria um teto máximo para a margem de comercialização, com base em cálculos do regulador da energia e parecer da entidade da concorrência. A medida duraria 60 dias, podendo ser prolongada, e obrigaria a divulgar todas as semanas os lucros praticados. Como é um projeto de resolução, trata-se apenas de uma recomendação: o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente aponta o choque petrolífero provocado pelo conflito no Irão e pelo bloqueio do Estreito de Ormuz desde fevereiro de 2026, que levou o gasóleo e a gasolina a máximos históricos em Portugal apesar do recuo posterior do petróleo bruto. Argumenta que a Contribuição de Solidariedade Temporária aprovada pelo Governo só atua sobre os lucros em 2027, não aliviando de imediato as famílias e empresas. Invoca ainda medidas semelhantes adotadas por outros países europeus e a lei portuguesa de 2021 que já permite fixar margens máximas.",
+ "analysis": "Como ponto forte, a proposta apoia-se num mecanismo legal já existente, evitando um congelamento cego de preços ao prever base técnica da ERSE, limite temporal de 60 dias, parecer concorrencial e monitorização semanal. Contudo, apresenta fragilidades operacionais e jurídicas. Os prazos recomendados são exigentes: cinco dias úteis para a proposta da ERSE e 15 dias para publicar a portaria após parecer prévio da Autoridade da Concorrência podem revelar-se irrealistas. Há também uma imprecisão interna, pois o ponto 1 refere apenas combustíveis simples, enquanto o ponto 2 inclui o GPL engarrafado. Além disso, o texto fundamenta os lucros extraordinários sobretudo na extração e refinação, mas propõe limitar margens em toda a cadeia comercial, o que pode gerar riscos de abastecimento ou compressão de operadores independentes. Sendo um projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Tratando-se de uma recomendação não vinculativa sem dotações orçamentais nem alterações fiscais diretas, não cria despesa direta imediata. Contudo, se for aplicada e reduzir os preços finais na bomba ou os lucros das empresas petrolíferas, poderá ter efeitos indiretos na receita de IVA e de impostos sobre os lucros, além dos encargos administrativos de monitorização."
+ },
+ "affected": [
+  "consumidores de combustíveis e gás engarrafado",
+  "empresas de comercialização e distribuição petrolífera",
+  "setor dos transportes",
+  "famílias"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "margens máximas",
+  "erse",
+  "gpl engarrafado",
+  "concorrência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

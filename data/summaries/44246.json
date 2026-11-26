@@ -1,0 +1,25 @@
+{
+ "short_title": "Criação da Conta Básica Universal para Acesso a Serviços Bancários Essenciais",
+ "summary": "A proposta visa criar um sistema de \"conta básica universal\" em Portugal para garantir que todos os cidadãos tenham acesso a serviços bancários essenciais a um custo justo e estável. O documento argumenta que os bancos têm aumentado abusivamente as comissões, que se tornaram uma fonte principal de lucro, e que o atual regime de \"serviços mínimos bancários\" é ineficaz. A nova conta incluirá serviços como constituição e manutenção da conta, cartão de débito, acesso a caixas automáticas e homebanking, depósitos, levantamentos, pagamentos, débitos diretos e transferências (intra e interbancárias limitadas). A proposta pretende corrigir as falhas do sistema anterior, permitindo que qualquer cidadão tenha esta conta, independentemente de ter outras, e sem que a conversão afete condições de crédito existentes.",
+ "key_points": [],
+ "plain_language": "Basicamente, os bancos em Portugal andam a cobrar comissões a torto e a direito, e isso está a pesar no bolso de toda a gente. A ideia desta proposta é criar uma \"conta bancária para todos\" que seja barata e justa, com os serviços essenciais incluídos, tipo ter um cartão, levantar dinheiro, fazer pagamentos e transferências. É para acabar com as letras miudinhas e as surpresas nas comissões, e garantir que ninguém fica sem acesso a uma conta só porque já tem outra ou porque tem um crédito. É uma forma de pôr ordem na casa e proteger os clientes dos bancos.",
+ "context": null,
+ "analysis": "A proposta identifica de forma consistente as falhas do sistema bancário atual, nomeadamente o aumento das comissões e a ineficácia dos serviços mínimos bancários existentes. A análise crítica do documento é bem fundamentada, citando dados sobre o volume de comissões e a condenação da Autoridade da Concorrência por práticas concertadas. Os detalhes da implementação, como a garantia de que a conta básica universal não pode ser condicionada à aquisição de outros produtos ou à perda de benefícios em contratos de crédito habitação, alinham-se diretamente com o objetivo de assegurar a inclusão financeira e proteger os consumidores de práticas abusivas. A proposta aborda as barreiras de saída e a falta de concorrência, que são os problemas centrais apontados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não prevê um aumento direto dos gastos do governo. Pelo contrário, visa reduzir os custos bancários para os cidadãos. No entanto, estabelece um regime sancionatório para as instituições de crédito que não cumprirem as novas regras. As coimas resultantes dessas sanções serão distribuídas, com 60% a reverter para o Estado e 40% para o Fundo de Garantia de Depósitos. Assim, a proposta tem o potencial de aumentar a receita do governo através da aplicação de multas, caso haja incumprimento por parte dos bancos. O efeito líquido para o governo seria um potencial aumento de receita, enquanto para os cidadãos seria uma diminuição dos seus encargos bancários."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

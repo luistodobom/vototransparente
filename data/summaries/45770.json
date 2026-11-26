@@ -1,0 +1,26 @@
+{
+ "short_title": "Base de dados europeia para registo de animais de companhia",
+ "summary": "A proposta recomenda ao Governo português que promova a criação de uma base de dados única europeia para o registo e identificação de animais de companhia. O objetivo é combater o comércio ilegal, o abandono e os maus-tratos de animais, garantindo o seu bem-estar e a saúde pública. Atualmente, a falta de uniformização legislativa e de um sistema de registo comunitário dificulta o controlo e a rastreabilidade dos animais que circulam na União Europeia e para países terceiros.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo português pressione a União Europeia para criar um sistema informático gigante onde todos os cães e gatos da Europa sejam registados. A ideia é acabar com o tráfico de animais, garantir que eles são bem tratados e que não são abandonados, e que se saiba sempre de onde vêm e para onde vão. É como um \"cartão de cidadão\" europeu para os bichos de estimação, para que ninguém os use para negócios ilegais.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente do problema do comércio ilegal de animais de companhia na Europa, destacando a falta de uniformização legislativa e de um sistema de registo comunitário. A proposta de uma base de dados única europeia alinha-se diretamente com o objetivo de aumentar o controlo e a rastreabilidade, combatendo as inconsistências atuais. O texto sublinha que Portugal já possui um sistema nacional (SIAC), mas a sua integração a nível comunitário é inexistente, o que justifica a necessidade da medida proposta. Não são identificadas inconsistências internas na argumentação; pelo contrário, os detalhes da implementação (intercâmbio de dados, ligação ao passaporte europeu, regulamentação da circulação) são apresentados como soluções diretas para os problemas identificados, como a dificuldade em garantir o bem-estar e o destino dos animais além-fronteiras.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, sendo uma recomendação do Parlamento português ao Governo para que este atue a nível europeu, não implica um aumento direto significativo dos gastos do governo português. Os custos associados à criação e manutenção de uma base de dados única europeia seriam, em grande parte, da responsabilidade da União Europeia. No entanto, o governo português teria custos indiretos relacionados com os esforços diplomáticos e de representação junto das instituições europeias para promover esta iniciativa. A longo prazo, uma maior fiscalização e controlo do comércio ilegal de animais poderá, potencialmente, diminuir os custos associados ao abandono e aos problemas de saúde pública e bem-estar animal, que atualmente recaem sobre as autarquias e associações, podendo resultar numa diminuição indireta de gastos públicos e, eventualmente, num aumento da receita através da legalização de atividades comerciais. O efeito líquido direto no orçamento português é provavelmente neutro a ligeiramente positivo a longo prazo, mas os custos iniciais de implementação seriam principalmente europeus."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

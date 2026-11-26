@@ -1,0 +1,45 @@
+{
+ "short_title": "Proteção e controlo populacional de animais errantes e de companhia",
+ "summary": "O Projeto de Resolução recomenda ao Governo oito medidas não vinculativas para reforçar a proteção animal e o controlo populacional de cães e gatos. Propõe alargar os programas de captura, esterilização e devolução (CED) aos cães errantes e estudar a obrigatoriedade de esterilização para todos os cães e gatos, salvo os de criadores licenciados. Recomenda ainda abrir o aviso anual de apoio à esterilização até junho de 2026, por um mínimo de três meses, e reforçar a equipa da Direção-Geral de Alimentação e Veterinária (DGAV) para acelerar as candidaturas. Por fim, pede a execução do plano nacional de desacorrentamento, previsto nos Orçamentos do Estado desde 2022, a aprovação da Estratégia Nacional para os Animais Errantes de 2023, a atualização dos planos de proteção civil e a realização do segundo Censo Nacional dos Animais Errantes até ao terceiro trimestre de 2026.",
+ "key_points": [
+  "Alargar os programas de captura, esterilização e devolução ao local de origem (CED) à população canina errante.",
+  "Estudar a viabilidade de tornar obrigatória a esterilização de todos os cães e gatos, excetuando animais de criadores licenciados.",
+  "Abrir o aviso anual de apoio à esterilização até ao fim de junho de 2026, durante pelo menos três meses, reforçando a equipa da DGAV.",
+  "Executar o plano nacional de desacorrentamento de animais de companhia, com metas, calendário e monitorização.",
+  "Aprovar e implementar a Estratégia Nacional para os Animais Errantes de 2023 e atualizar os planos de proteção civil com os dados do censo.",
+  "Financiar a realização do segundo Censo Nacional dos Animais Errantes com instituições públicas de ensino superior para entrega no terceiro trimestre de 2026."
+ ],
+ "plain_language": "Este projeto é uma recomendação ao Governo, sem força de lei, para melhorar o controlo de animais abandonados e de companhia. O partido propõe esterilizar cães de rua e devolvê-los ao seu local, como já se faz com gatos, e avaliar a esterilização obrigatória de cães e gatos domésticos. Pede também mais tempo e apoio técnico para as associações e câmaras se candidatarem a verbas de esterilização. Além disso, insta o Governo a pôr em prática planos já anunciados contra o acorrentamento de animais, a aprovar uma estratégia nacional pendente desde 2023 e a contar novamente quantos animais errantes existem no país.",
+ "context": "O LIVRE aponta que a exclusão dos cães dos programas CED agrava a sobrepopulação errante e os riscos de saúde pública. Critica o prazo curto de candidaturas de 2025 (apenas 13 dias em outubro) e o modelo de reembolso posterior, que dificulta a gestão financeira das associações zoófilas. O proponente sublinha ainda que a Estratégia Nacional para os Animais Errantes de 2023 continua por aprovar e que o plano de desacorrentamento, apesar de inscrito nos Orçamentos do Estado desde 2022, não teve execução significativa, sendo necessários dados atualizados após o censo de 2023.",
+ "analysis": "A iniciativa tem o mérito de apontar bloqueios concretos na execução de políticas já previstas, como a demora na estratégia de 2023, a inexecução do plano de desacorrentamento desde 2022 e os prazos curtos dos avisos da DGAV. Contudo, apresenta fragilidades. Sendo um Projeto de Resolução, não vincula o Governo nem altera a lei. Há também uma inconsistência interna: o texto critica o modelo de reembolso por dificultar a tesouraria das associações, mas as recomendações finais omitem o financiamento antecipado. Por fim, os prazos parecem irrealistas: datada de maio de 2026, pede a abertura do aviso até junho e a entrega de um censo nacional no terceiro trimestre de 2026, sem abordar os riscos de segurança associados à devolução de cães errantes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora seja uma recomendação não vinculativa, a sua adoção implica despesa pública adicional para reforçar a equipa da DGAV, realizar um novo censo nacional e alargar os programas CED a cães. O documento não quantifica o custo destas medidas, referindo apenas que a campanha de apoio à esterilização teve uma dotação de 3,8 milhões de euros em 2024 e de 4 milhões de euros em 2025."
+ },
+ "affected": [
+  "associações zoófilas",
+  "autarquias locais e centros de recolha oficial",
+  "detentores de cães e gatos",
+  "Direção-Geral de Alimentação e Veterinária",
+  "serviços de proteção civil"
+ ],
+ "categories": [
+  "animais",
+  "administracao",
+  "seguranca"
+ ],
+ "tags": [
+  "animais errantes",
+  "esterilização",
+  "bem-estar animal",
+  "proteção civil",
+  "censo animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

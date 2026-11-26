@@ -1,0 +1,26 @@
+{
+ "short_title": "Extensão de medidas de apoio a famílias na pandemia.",
+ "summary": "Esta proposta de lei visa prolongar as medidas de apoio às famílias, inicialmente estabelecidas pela Lei n.º 7/2020, devido à persistência da crise de saúde pública e às suas consequências económicas. As alterações permitem que, até 30 de setembro de 2020, não seja suspensa a prestação de serviços essenciais como água, eletricidade, gás e comunicações eletrónicas a agregados familiares em situação de desemprego, com quebra de rendimentos igual ou superior a 20%, ou por infeção por COVID-19. Adicionalmente, é possível a cessação unilateral ou suspensão temporária de contratos de telecomunicações sem penalizações. A proposta também estende a possibilidade de resgate antecipado de Planos de Poupança Reforma (PPR) para quem se encontre em situações de dificuldade económica ou de saúde relacionadas com a pandemia, até à mesma data. O objetivo é salvaguardar a liquidez das famílias e apoiar a retoma gradual da economia.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta é para continuar a ajudar as famílias por causa da pandemia. Basicamente, se estiver desempregado, com o ordenado mais baixo (pelo menos 20% menos) ou doente com COVID-19, não lhe podem cortar a água, a luz, o gás ou a internet até ao fim de setembro de 2020. Também pode cancelar ou suspender o seu contrato de telemóvel ou internet sem pagar multas. E, se precisar mesmo, pode levantar dinheiro do seu Plano Poupança Reforma (PPR) mais cedo, também até ao fim de setembro. Tudo isto é para que as famílias não fiquem sem dinheiro e para ajudar a economia a recuperar aos poucos.",
+ "context": null,
+ "analysis": "O documento alinha-se de forma consistente com o seu objetivo declarado de salvaguardar a liquidez das famílias e apoiar a retoma gradual da economia face à crise pandémica. As medidas propostas são extensões diretas de apoios já existentes, focando-se em pontos críticos para a subsistência familiar, como o acesso a serviços essenciais e a possibilidade de aceder a poupanças em momentos de necessidade. A prorrogação dos prazos até 30 de setembro de 2020 reflete a necessidade de um período de transição para a recuperação económica, reconhecendo que, apesar de uma retoma, muitas famílias ainda enfrentam dificuldades. Não se detetam inconsistências na proposta; os detalhes da implementação (proibição de cortes, flexibilidade nos contratos, resgate de PPR) são mecanismos diretos para mitigar o impacto económico da crise nas famílias mais vulneráveis.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não implica um aumento direto dos gastos do governo, uma vez que se foca na prorrogação de proibições de suspensão de serviços e na permissão de acesso a poupanças privadas (PPRs). Não há previsão de transferências diretas de fundos públicos. Contudo, ao impedir o corte de serviços essenciais, pode haver um impacto indireto nas empresas fornecedoras, que poderão enfrentar um aumento de dívidas incobráveis, o que, a longo prazo, poderia ter implicações fiscais indiretas se o governo tiver de intervir para apoiar essas empresas. No que diz respeito à receita do governo, o resgate de PPRs pode ter implicações fiscais dependendo das regras de tributação aplicáveis a esses resgates em situações de exceção, mas o documento não especifica. O efeito líquido imediato no orçamento do governo é provavelmente neutro a ligeiramente negativo em termos de receita indireta, mas o objetivo principal é a estabilização económica e social, o que pode ter benefícios fiscais a longo prazo ao evitar uma deterioração mais profunda da economia."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

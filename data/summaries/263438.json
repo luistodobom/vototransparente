@@ -1,0 +1,24 @@
+{
+ "short_title": "Novas obrigações para prestadores de pagamentos no combate à fraude do IVA",
+ "summary": "Esta proposta de lei visa transpor uma diretiva europeia para a legislação portuguesa, introduzindo novas obrigações para os prestadores de serviços de pagamento. O objetivo principal é combater a fraude no Imposto sobre o Valor Acrescentado (IVA) no comércio eletrónico transfronteiriço. Para isso, os prestadores de serviços de pagamento terão de manter registos detalhados de pagamentos transfronteiriços e comunicá-los periodicamente às autoridades fiscais. Estas informações serão depois enviadas para um sistema central europeu (CESOP) para análise. A proposta também altera leis fiscais existentes para prever sanções em caso de incumprimento e dar mais poderes à Autoridade Tributária para fiscalizar.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para apertar o cerco à fraude no IVA, especialmente nas compras online que fazemos de outros países. Agora, as empresas que processam os nossos pagamentos (tipo bancos ou outras plataformas) vão ter de guardar mais informações sobre quem paga e quem recebe, e enviar esses dados às Finanças. Assim, as Finanças conseguem ver melhor onde o IVA pode estar a ser fugido. Se não cumprirem, há multas, e as Finanças ficam com mais ferramentas para investigar.",
+ "context": null,
+ "analysis": "A proposta de lei é consistente com o seu objetivo declarado de transpor uma diretiva europeia para reforçar o combate à fraude do IVA no comércio eletrónico transfronteiriço. Os detalhes da implementação, como a criação da obrigação de registo e comunicação de pagamentos transfronteiriços pelos prestadores de serviços de pagamento, a transmissão desses dados para o sistema CESOP da Comissão Europeia, e as alterações ao Regime Geral das Infrações Tributárias e ao Regime Complementar do Procedimento de Inspeção Tributária e Aduaneira, alinham-se diretamente com a meta de aumentar a transparência e a capacidade de fiscalização das autoridades fiscais. Não se identificam inconsistências internas na lógica da proposta; pelo contrário, as medidas propostas são um reflexo direto e necessário da transposição da diretiva, visando dotar as autoridades nacionais dos instrumentos legais e operacionais para combater a fraude fiscal neste domínio específico.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá aumentar a receita do governo a médio e longo prazo, uma vez que o seu principal objetivo é combater a fraude no IVA, o que implica a recuperação de impostos que de outra forma seriam sonegados. Embora possa haver um aumento inicial nos gastos do governo com a adaptação dos sistemas informáticos da Autoridade Tributária e Aduaneira para receber e processar os novos dados, bem como com a formação de pessoal, estes custos são operacionais e provavelmente serão compensados pelo aumento da receita fiscal. O efeito líquido esperado é, portanto, um aumento da receita fiscal, contribuindo para a sustentabilidade das finanças públicas."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

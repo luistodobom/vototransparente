@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualização dos critérios para a lista de jurisdições fiscais favoráveis",
+ "summary": "A Proposta de Lei n.º 90/XVII/1.ª pede à Assembleia da República uma autorização legislativa, por 180 dias, para o Governo alterar o artigo 63.º-D da Lei Geral Tributária, que define os critérios de identificação de países, territórios ou regiões com regime fiscal claramente mais favorável. Segundo o anteprojeto de decreto-lei anexo, a lista nacional passa a integrar obrigatoriamente as jurisdições constantes da lista da União Europeia de jurisdições não cooperantes para efeitos fiscais. Além disso, o critério da taxa de imposto inferior a 60% do IRC português passa a ressalvar os casos em que exista um imposto complementar nacional qualificado alinhado com o imposto mínimo global da OCDE. Os critérios passam também a abranger situações de dupla não tributação, dupla ou múltipla dedução de despesas, ausência de substância económica e avaliações de organismos internacionais como o Fórum Global e o Grupo de Ação Financeira.",
+ "key_points": [
+  "Concede ao Governo uma autorização legislativa de 180 dias para alterar o artigo 63.º-D da Lei Geral Tributária.",
+  "Determina que a lista nacional de regimes fiscais claramente mais favoráveis integre as jurisdições da lista da União Europeia de jurisdições não cooperantes.",
+  "Atualiza o critério da taxa mínima de imposto sobre os lucros, excluindo da qualificação os territórios que apliquem um imposto complementar nacional qualificado segundo as regras do Quadro Inclusivo.",
+  "Reforça a identificação de regimes com regras que permitam dupla não tributação, dupla ou múltipla dedução de despesas ou redução substancial do imposto sem atividade económica real.",
+  "Estabelece que sejam consideradas as avaliações da União Europeia, do Fórum Global sobre Transparência e Troca de Informações, do Fórum sobre Práticas Fiscais Prejudiciais e do Grupo de Ação Financeira."
+ ],
+ "plain_language": "Esta proposta pede autorização do Parlamento para o Governo atualizar as regras usadas para definir quais os países ou territórios considerados paraísos fiscais em Portugal. Na prática, Portugal passará a incluir obrigatoriamente na sua lista os países que a União Europeia já considera não cooperantes em matéria fiscal. Além disso, as regras portuguesas passam a acompanhar novos acordos internacionais sobre impostos mínimos globais das empresas e a olhar com mais atenção para esquemas em que não há atividade económica real ou em que as empresas conseguem evitar pagar impostos nos dois países envolvidos ou deduzir a mesma despesa várias vezes.",
+ "context": "O Governo justifica a iniciativa com a crescente internacionalização e digitalização da economia e com a sofisticação das estruturas de planeamento fiscal que transferem lucros para jurisdições de baixa ou nula tributação. Aponta que o enquadramento internacional mudou significativamente nos últimos anos, com a lista da União Europeia de jurisdições não cooperantes, o projeto BEPS da OCDE e do G20 e as regras do imposto mínimo global. Segundo a exposição de motivos, é necessário alinhar o artigo 63.º-D da Lei Geral Tributária com estes padrões para reforçar o combate à fraude e evasão fiscais.",
+ "analysis": "A proposta tem o mérito de atualizar critérios legais desfasados da evolução recente da fiscalidade internacional, articulando a lista portuguesa com a lista da União Europeia e com o imposto mínimo global da OCDE, evitando penalizar jurisdições que adotem um imposto complementar qualificado. Contudo, o texto apresenta fragilidades de execução e clareza. Ao recorrer a uma autorização legislativa, remete a aprovação final para o Governo, embora apresente um anteprojeto. Nesse anteprojeto, conceitos indeterminados como «redução substancial», «substância económica adequada» ou «particularidades relevantes» podem gerar incerteza jurídica na aplicação. Além disso, determina-se que avaliações internacionais «são tidas em consideração» e que a lista deve integrar a lista europeia, mas não se explicita o mecanismo nem os prazos de atualização face às revisões semestrais da União Europeia. O texto inclui ainda pequenas gralhas de redação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proposta altera os critérios para elaborar a lista de regimes fiscais claramente mais favoráveis, mas não quantifica qualquer impacto orçamental. O efeito líquido na receita fiscal é incerto, pois depende de que jurisdições venham a ser incluídas (por integrarem a lista da UE ou permitirem dupla não tributação) ou excluídas (por aplicarem um imposto complementar qualificado)."
+ },
+ "affected": [
+  "empresas multinacionais com operações transfronteiriças",
+  "contribuintes com rendimentos ou entidades em jurisdições de baixa tributação",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "internacional"
+ ],
+ "tags": [
+  "lei geral tributária",
+  "paraísos fiscais",
+  "evasão fiscal",
+  "imposto mínimo global",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

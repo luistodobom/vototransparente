@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas de apoio aos custos de produção na agricultura",
+ "summary": "Este Projeto de Resolução, que constitui uma recomendação não vinculativa ao Governo, propõe duas medidas principais para mitigar a subida dos custos de produção na agricultura e pecuária. Em primeiro lugar, recomenda que o Estado, através do Instituto de Financiamento da Agricultura e Pescas (IFAP), realize compras e armazenagem pública de fatores de produção essenciais, como adubos, fertilizantes, produtos fitofarmacêuticos, rações e seus componentes, para os fornecer a preços controlados a pequenos e médios agricultores e produtores pecuários. Em segundo lugar, propõe um apoio financeiro extraordinário e mensal às explorações agrícolas, pago pelo IFAP, para compensar o aumento de despesa para consumos idênticos de combustíveis, com efeitos a partir de aumentos superiores a 10% face ao preço de referência do início de março de 2026.",
+ "key_points": [
+  "Recomenda ao Governo que o IFAP promova a aquisição e armazenagem pública de fatores de produção agrícola críticos, como fertilizantes, produtos fitofarmacêuticos e rações.",
+  "Prevê o fornecimento desses bens a preços controlados, especificamente direcionado aos pequenos e médios agricultores e produtores pecuários.",
+  "Propõe um apoio financeiro mensal às explorações agrícolas, pago pelo IFAP, correspondente ao acréscimo de despesa para consumos idênticos de combustíveis.",
+  "Estabelece que o apoio aos combustíveis produz efeitos quando os preços registem aumentos superiores a 10% face ao preço de referência do início de março de 2026."
+ ],
+ "plain_language": "Os deputados do PCP sugerem ao Governo duas formas de ajudar os agricultores a pagar as contas da energia e dos materiais agrícolas, que ficaram muito mais caros. Primeiro, querem que um organismo público (o IFAP) compre grandes quantidades de adubos, pesticidas e rações para animais e os venda depois a preços mais baixos aos pequenos e médios produtores. Segundo, pedem um subsídio mensal para compensar a subida dos combustíveis, cobrindo a diferença de preço para o mesmo consumo desde março de 2026. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O PCP justifica a iniciativa com o aumento expressivo dos custos de energia, combustíveis e fertilizantes no setor agrícola, atribuído aos impactos do conflito entre os EUA, Israel e o Irão e à especulação de grupos económicos. Cita alertas da FAO sobre uma subida de 15% a 20% nos fertilizantes no primeiro semestre de 2026. Aponta ainda que os apoios governamentais atuais aos combustíveis são insuficientes, que não se deve aguardar por decisões da União Europeia e que persistem problemas causados por intempéries anteriores.",
+ "analysis": "A iniciativa apresenta propostas concretas e focalizadas nos pequenos e médios produtores, procurando responder rapidamente ao aumento dos custos operacionais. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa sobre o Governo. Do ponto de vista técnico e financeiro, o texto não quantifica os custos orçamentais nem indica fontes de financiamento. A criação de um sistema de compra, armazenagem e venda a preço controlado pelo IFAP acarreta elevada complexidade logística, riscos de distorção de mercado e potenciais entraves face às regras europeias de concorrência e auxílios de Estado. Adicionalmente, o apoio mensal aos combustíveis, ao cobrir integralmente o acréscimo de despesa para consumos idênticos sem limite temporal definido, gera exposição orçamental aberta e exige fiscalização exigente dos consumos históricos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recomendação implica aumento de despesa pública através da aquisição e armazenagem de fatores de produção pelo IFAP para venda a preço controlado e da criação de um apoio financeiro mensal aos combustíveis. O documento não apresenta estimativas orçamentais nem indica montantes globais, referindo apenas que o apoio compensará aumentos de combustíveis superiores a 10% face ao início de março de 2026."
+ },
+ "affected": [
+  "pequenos e médios agricultores",
+  "produtores pecuários",
+  "explorações agrícolas",
+  "Instituto de Financiamento da Agricultura e Pescas (IFAP)"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "energia"
+ ],
+ "tags": [
+  "agricultura",
+  "fatores de produção",
+  "combustíveis",
+  "fertilizantes",
+  "ifap"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Indicador de Risco Sísmico para Edifícios",
+ "summary": "A proposta de lei visa criar um sistema de indicador de risco sísmico para edifícios em Portugal, especialmente nas zonas de maior risco. O objetivo é que este indicador seja fácil de entender e acessível, acompanhando a venda ou arrendamento de imóveis. A ideia é aumentar a perceção pública do risco sísmico e incentivar a reabilitação e construção de edifícios mais seguros, inspirando-se no modelo dos certificados energéticos. O Governo terá 180 dias para criar e regulamentar este sistema, consultando especialistas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer criar uma espécie de \"selo\" ou \"etiqueta\" para as casas, tipo as que já temos para a energia, mas que diga o quão \"à prova de sismo\" elas são. A ideia é que, quando fores comprar ou alugar uma casa, saibas logo se ela aguenta bem um terramoto, especialmente nas zonas do país onde há mais risco. Assim, as pessoas ficam mais informadas e os donos das casas são incentivados a fazer obras para as tornar mais seguras. O governo tem seis meses para pôr isto a funcionar, com a ajuda de especialistas.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada da necessidade de um indicador de risco sísmico. Começa por estabelecer o contexto geográfico de Portugal como zona sísmica e recorda eventos históricos devastadores, sublinhando a imprevisibilidade dos sismos. Aponta a lacuna na legislação atual, onde a resistência sísmica é comprovada por termo de responsabilidade sem verificação independente e com pouca fiscalização. A proposta alinha-se diretamente com o objetivo de aumentar a segurança sísmica do edificado, ao propor um indicador intuitivo e acessível, que visa informar o público e pressionar o mercado imobiliário e da construção para a reabilitação. A inspiração nos certificados energéticos é um bom paralelo para a implementação. A exigência de consulta a especialistas para a regulamentação reforça a robustez da proposta. Não se identificam inconsistências; pelo contrário, a proposta é uma resposta lógica e necessária a um problema de segurança pública e resiliência.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A criação e regulamentação de um sistema nacional de indicador de risco sísmico, conforme proposto, implicará um aumento dos gastos do governo. Serão necessários recursos para a consulta de especialistas, desenvolvimento da metodologia, criação da plataforma e infraestrutura para a atribuição e gestão dos indicadores. Embora o documento não detalhe quem suportará os custos da certificação individual dos edifícios (se proprietários ou o Estado), a implementação inicial do sistema será uma despesa pública. A longo prazo, a melhoria da segurança sísmica do edificado poderá reduzir custos associados a desastres naturais (reconstrução, apoio a vítimas), mas estes são benefícios indiretos e difíceis de quantificar. O impacto fiscal direto e imediato será um aumento da despesa governamental. Não há indicação de aumento direto da receita governamental. O efeito líquido será um aumento da despesa."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

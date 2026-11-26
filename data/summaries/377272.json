@@ -1,0 +1,42 @@
+{
+ "short_title": "Redução das taxas de IRS nos primeiros seis escalões de rendimento",
+ "summary": "Esta proposta de lei, apresentada pelo Governo com pedido de prioridade e urgência, solicita autorização à Assembleia da República para alterar o Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS). Concretamente, pretende reduzir as taxas normais aplicáveis aos primeiros seis escalões de rendimento coletável, até aos 43 090 euros, ajustando também as respetivas taxas médias. As taxas normais propostas passam para 12,2 %, 15,2 %, 20,7 %, 23,6 %, 30,6 % e 34,6 %, mantendo-se inalteradas as taxas dos três escalões superiores. A autorização legislativa tem a duração de 180 dias e o texto inclui o projeto de decreto-lei autorizado. Segundo a exposição de motivos, a descida aplica-se aos rendimentos obtidos em 2026, com efeitos a 1 de janeiro, beneficiando os contribuintes desses escalões e os de escalões superiores na parcela abrangida.",
+ "key_points": [
+  "Autoriza o Governo a alterar o artigo 68.º do Código do IRS através de decreto-lei autorizado, no prazo de 180 dias.",
+  "Reduz as taxas normais dos primeiros seis escalões de rendimento coletável, até 43 090 euros, para 12,20 %, 15,20 %, 20,70 %, 23,60 %, 30,60 % e 34,60 %.",
+  "Ajusta em conformidade as taxas médias aplicáveis a esses seis escalões de rendimento.",
+  "Mantém as taxas normais de 43,10 %, 44,60 % e 48,00 % para os três escalões de rendimento mais elevados.",
+  "Prevê, na exposição de motivos, a aplicação aos rendimentos de 2026 com efeitos retroativos a 1 de janeiro."
+ ],
+ "plain_language": "O Governo quer permissão do Parlamento para baixar o IRS nos primeiros seis escalões de rendimento, que abrangem até 43 090 euros de rendimento coletável por ano. Como o IRS é calculado por fatias, quem tem rendimentos até esse limite paga menos imposto e quem ganha acima também beneficia nas primeiras fatias do seu rendimento. Segundo o Governo, a descida aplica-se a todo o ano de 2026, desde 1 de janeiro. O documento já inclui a versão do decreto-lei que o Governo aprovará se os deputados autorizarem.",
+ "context": "O Governo justifica a iniciativa como uma prioridade para aliviar a carga fiscal sobre o trabalho e as pensões, refletindo os resultados da economia e da gestão das contas públicas no rendimento disponível. Refere que esta é a quinta redução do IRS desde abril de 2024, prosseguindo uma estratégia gradual para valorizar o trabalho, reforçar o rendimento das famílias, incentivar a poupança e promover a competitividade económica.",
+ "analysis": "Como ponto positivo, a proposta define com clareza as novas taxas e acompanha o pedido de autorização com o projeto de decreto-lei, permitindo escrutínio prévio. Contudo, apresenta fragilidades relevantes de transparência e técnica legislativa. O documento omite qualquer estimativa do impacto orçamental da perda de receita e não apresenta as taxas anteriormente em vigor para comparação imediata. Além disso, existe uma inconsistência entre a exposição de motivos e o articulado: refere-se que a medida produz efeitos desde 1 de janeiro de 2026, mas nem a proposta de lei nem o decreto-lei autorizado incluem uma norma expressa de retroatividade, prevendo apenas a entrada em vigor no dia seguinte à publicação, nem clarificam o impacto nas retenções na fonte.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução das taxas gerais de IRS nos primeiros seis escalões implica uma diminuição da receita fiscal do Estado. O documento não indica qualquer estimativa ou montante para o impacto orçamental desta medida."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "trabalhadores por conta de outrem e independentes",
+  "pensionistas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "irs",
+  "escalões de rendimento",
+  "taxas fiscais",
+  "autorização legislativa",
+  "rendimento disponível"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

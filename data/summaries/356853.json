@@ -1,0 +1,40 @@
+{
+ "short_title": "Suspensão do prazo da comissão de inquérito ao INEM",
+ "summary": "Este Projeto de Resolução, apresentado pelo Presidente da Assembleia da República a pedido da própria comissão, propõe suspender a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, IP. A suspensão aplica-se ao período compreendido entre os dias 3 e 17 de junho de 2026. A iniciativa enquadra-se no artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares e no Regimento da Assembleia da República, bem como no artigo 166.º da Constituição. Ao contrário de projetos de resolução que recomendam medidas ao Governo, trata-se de uma decisão interna do Parlamento que, sendo aprovada, trava temporariamente o relógio do prazo máximo da comissão enquanto decorrem tarefas preparatórias essenciais para o prosseguimento do inquérito.",
+ "key_points": [
+  "Suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, IP.",
+  "Fixa o período de suspensão entre os dias 3 e 17 de junho de 2026.",
+  "Dá resposta a um pedido formal apresentado pela própria comissão de inquérito ao Presidente da Assembleia da República.",
+  "Permite aguardar a receção de documentos previamente pedidos e organizar a convocatória de depoentes sem gastar o prazo da investigação."
+ ],
+ "plain_language": "As comissões de inquérito no Parlamento têm um prazo limitado para concluir o seu trabalho. Neste caso, a comissão que investiga o Instituto Nacional de Emergência Médica pediu uma pausa na contagem desse tempo entre 3 e 17 de junho de 2026. O motivo é prático: os deputados ainda estão à espera de documentos que pediram e precisam de convocar as pessoas que vão ser ouvidas. Para não perderem dias de trabalho enquanto esperam, o Presidente da Assembleia da República apresentou esta proposta para suspender oficialmente o prazo.",
+ "context": "A Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, IP, solicitou formalmente a suspensão do seu prazo de funcionamento ao abrigo da Lei n.º 5/93 e do Regimento da Assembleia da República. Segundo o documento, a paragem temporária justifica-se pela necessidade de aguardar a entrega de documentação previamente requisitada e de proceder à convocação dos depoentes para as respetivas audições.",
+ "analysis": "A proposta é de natureza estritamente procedimental e responde a uma solicitação da própria comissão, o que assegura alinhamento com as necessidades operacionais do inquérito. Como ponto positivo, evita que atrasos na receção de documentação reduzam o tempo efetivo para audições e análise de factos. Contudo, o texto é muito sucinto e não indica que entidades têm documentos em falta nem quantos depoentes falta convocar, dificultando a avaliação externa sobre a proporcionalidade da pausa. Existe ainda o risco de o período não bastar caso os documentos continuem em falta, obrigando a novas suspensões e prolongando o processo parlamentar.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A suspensão temporária do prazo de funcionamento de uma comissão parlamentar de inquérito é uma medida estritamente procedimental, não resultando do documento qualquer alteração de despesa ou receita pública."
+ },
+ "affected": [
+  "deputados da comissão de inquérito",
+  "Instituto Nacional de Emergência Médica",
+  "depoentes convocados"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "inem",
+  "emergência médica",
+  "suspensão de prazo",
+  "assembleia da república"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

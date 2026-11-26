@@ -1,0 +1,24 @@
+{
+ "short_title": "Ajudas de custo para professores deslocados.",
+ "summary": "Esta proposta de lei visa atribuir ajudas de custo a professores do ensino básico e secundário que se encontrem deslocados, ou seja, que trabalham longe da sua morada fiscal. O objetivo é mitigar as dificuldades financeiras que estes profissionais enfrentam com despesas de deslocação e habitação, que atualmente afetam a sua motivação e a qualidade do ensino. As ajudas de custo variam consoante a distância entre a morada fiscal e a profissional, com valores fixos de 75 euros (75-150 km), 150 euros (150-250 km) e 220 euros (mais de 250 km), sujeitos a atualizações anuais.",
+ "key_points": [],
+ "plain_language": "Em termos simples, este projeto de lei quer dar uma ajuda em dinheiro aos professores do ensino básico e secundário que têm de trabalhar longe de casa. A ideia é que, como muitos professores gastam muito em viagens e aluguer de casa quando são colocados longe, acabam por não aceitar os postos ou ficam desmotivados. Então, o governo daria um valor fixo por mês, que varia consoante a distância a que o professor está de casa (75€, 150€ ou 220€), e estes valores podem ser atualizados todos os anos. É uma forma de tentar aliviar o bolso dos professores e garantir que há mais gente disposta a ir para onde é preciso.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente um problema persistente no sistema de ensino português: a dificuldade em preencher vagas em certas regiões devido aos elevados custos de deslocação e habitação para os professores. Ao propor ajudas de custo, a iniciativa alinha-se com o objetivo de reduzir o encargo financeiro sobre os docentes, o que, em teoria, deveria aumentar a aceitação de colocações e melhorar a motivação profissional. No entanto, uma análise crítica pode questionar se os valores fixos propostos (75€, 150€, 220€) são realmente \"adequados à despesa efetuada\", como referido no documento, especialmente em zonas com custos de vida e habitação muito elevados, como Lisboa ou Algarve, que são explicitamente mencionadas como problemáticas. Embora a previsão de atualizações anuais seja positiva, a rigidez dos valores fixos pode não cobrir a totalidade das despesas, mantendo alguma inconsistência entre a ambição de \"colmatar as dificuldades\" e a eficácia prática da medida para todos os casos. A proposta é uma resposta direta a uma reivindicação antiga da classe docente, reforçada por uma petição com milhares de assinaturas, o que demonstra a relevância do problema.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo, uma vez que introduz um novo subsídio (ajudas de custo) a ser pago a um número indeterminado de professores deslocados. Não há menção de novas fontes de receita ou de cortes noutras despesas para compensar este aumento. Portanto, o efeito líquido será um aumento da despesa pública, cujo montante total dependerá do número de professores elegíveis e das distâncias das suas deslocações."
+ },
+ "affected": [],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

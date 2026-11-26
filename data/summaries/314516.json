@@ -1,0 +1,26 @@
+{
+ "short_title": "Limitação do trabalho em condições climáticas extremas.",
+ "summary": "A proposta visa limitar a prestação de trabalho em condições climáticas extremas, nomeadamente altas temperaturas, para prevenir acidentes de trabalho e doenças profissionais. O documento destaca a vulnerabilidade de Portugal às alterações climáticas e os impactos na saúde pública, citando dados sobre mortes e doenças relacionadas com o calor. Para tal, propõe alterações ao Código do Trabalho e à lei da segurança e saúde no trabalho, estabelecendo que a prestação de trabalho no exterior seja limitada a um período máximo de duas horas quando as temperaturas forem iguais ou superiores a 35ºC, com exceção para atividades de resgate e salvamento.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer impedir que as pessoas trabalhem na rua quando está um calorão daqueles, tipo acima dos 35 graus, por mais de duas horas seguidas. A ideia é proteger os trabalhadores de ficarem doentes ou terem acidentes por causa do calor extremo, que está a ser cada vez mais comum devido às alterações climáticas. Há uma exceção para quem trabalha em resgates e emergências. É uma forma de adaptar as nossas leis do trabalho à nova realidade do clima, para que ninguém seja obrigado a trabalhar em condições perigosas por causa do calor.",
+ "context": null,
+ "analysis": "O documento identifica de forma clara e fundamentada um problema crescente: o impacto das condições climáticas extremas na saúde e segurança dos trabalhadores, agravado pelas alterações climáticas. Apresenta evidências robustas, incluindo dados do Observatório Português da Saúde e Ambiente (OPSA) e da Organização Mundial da Saúde (OMS), bem como exemplos de medidas adotadas em Espanha e no Reino Unido, o que confere credibilidade à urgência da proposta. A solução proposta, que consiste em alterar a legislação laboral existente para incluir limites específicos para o trabalho em altas temperaturas, alinha-se diretamente com o objetivo de proteger os trabalhadores. A definição de um limiar de 35ºC e a exceção para serviços de resgate e salvamento demonstram uma abordagem prática e ponderada. Não se identificam inconsistências; a argumentação, a evidência e as alterações legislativas propostas são coerentes e diretamente direcionadas para a resolução do problema identificado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não apresenta uma análise fiscal direta da proposta. No entanto, pode inferir-se que a medida poderá, a longo prazo, resultar numa diminuição dos custos de saúde para o Estado, devido à redução de acidentes de trabalho e doenças profissionais relacionadas com o calor. Por outro lado, poderá haver impactos económicos indiretos, como perdas temporárias de produtividade em setores que dependem fortemente do trabalho ao ar livre (e.g., construção, agricultura, higiene urbana) durante períodos de calor extremo, o que poderia afetar as receitas fiscais. O efeito líquido não é quantificável com base no texto fornecido, mas o objetivo primordial é a saúde e segurança pública, que geralmente acarreta benefícios económicos a longo prazo ao reduzir o encargo da doença."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Avaliação do consumo de água na produção de hidrogénio verde",
+ "summary": "Esta proposta do PSD recomenda que o Governo português realize um estudo aprofundado sobre o consumo de água na produção de hidrogénio verde. O objetivo é garantir que a produção deste tipo de energia, que é importante para a descarbonização da economia e para reduzir a dependência energética, seja sustentável, especialmente considerando a escassez de recursos hídricos em Portugal e os impactos das alterações climáticas. O estudo deve avaliar os consumos previstos, as origens da água nos territórios, as implicações de cenários climáticos e propor medidas para um adequado desempenho ambiental.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD está a pedir ao Governo para fazer um estudo sério sobre quanta água é preciso para fazer hidrogénio verde em Portugal. É que, apesar de o hidrogénio verde ser bom para o ambiente e para não dependermos tanto do petróleo, a verdade é que a sua produção gasta muita água, e Portugal já anda com problemas de seca. A ideia é perceber bem como fazer isto sem secar o país, olhando para onde vem a água e como se pode poupar, para que a transição energética não crie um problema de água.",
+ "context": null,
+ "analysis": "O documento identifica uma potencial inconsistência: embora o hidrogénio verde seja crucial para a transição energética e a redução de emissões de CO2, a sua produção por eletrólise consome água, um recurso cada vez mais escasso em Portugal devido à seca e às alterações climáticas. A proposta aborda esta questão de forma proativa, recomendando um estudo detalhado antes que a produção em larga escala se torne um problema ambiental. A ênfase na avaliação das origens da água (incluindo alternativas como água residual tratada ou dessalinizada) e nos consumos cumulativos alinha-se com o objetivo de garantir a sustentabilidade e evitar que a solução para um problema (emissões) crie outro (escassez hídrica). A proposta é um passo inicial e necessário para informar futuras políticas e investimentos, mostrando uma preocupação legítima com a sustentabilidade a longo prazo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, sendo uma recomendação para a realização de um estudo, implicará um aumento dos gastos do governo para financiar a pesquisa e a elaboração do relatório. Não há indicação de que aumentará a receita do governo. O efeito líquido imediato será um ligeiro aumento nos gastos públicos. A longo prazo, se o estudo levar a uma produção de hidrogénio verde mais eficiente e sustentável, poderá haver benefícios económicos indiretos, como a redução da dependência energética e a mitigação de custos ambientais futuros, mas estes não são impactos fiscais diretos da proposta em si."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

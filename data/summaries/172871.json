@@ -1,0 +1,26 @@
+{
+ "short_title": "Simplificação de Licenciamentos Urbanísticos e Promoção de Habitação",
+ "summary": "Esta proposta, inserida no programa SIMPLEX e no Plano de Recuperação e Resiliência, visa simplificar os procedimentos administrativos, especialmente no urbanismo e licenciamento. O objetivo é reduzir a burocracia, os custos e a complexidade para cidadãos e empresas, impulsionando o investimento, a competitividade e a disponibilidade de habitação. As medidas incluem a eliminação de licenças desnecessárias, a introdução do deferimento tácito para obras, a simplificação de documentos, a clarificação dos poderes municipais e a criação de uma plataforma eletrónica nacional para procedimentos urbanísticos. Adicionalmente, facilita a reclassificação de solos rústicos para fins industriais ou habitacionais e simplifica formalidades em transações imobiliárias.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer acabar com a chatice das licenças e papéis para construir ou fazer obras em casa ou na empresa. A ideia é que seja tudo mais rápido e barato, sem tanta burocracia, para que as pessoas e as empresas não percam tempo nem dinheiro. Vão tirar licenças que não fazem falta, deixar que as coisas avancem mesmo que a câmara demore a responder, e criar um site onde se pode fazer tudo online. Também vai ser mais fácil transformar terrenos rústicos em urbanos para construir casas ou fábricas, e até há um 'desconto' nos impostos para as empresas se as câmaras forem lentas. Tudo para que haja mais casas e mais investimento no país.",
+ "context": null,
+ "analysis": "A proposta apresenta uma estratégia coesa para combater a burocracia excessiva, os custos elevados e a lentidão nos processos urbanísticos. As medidas detalhadas, como a eliminação de licenças, a introdução do deferimento tácito, a simplificação documental e a criação de uma plataforma eletrónica (com integração BIM), alinham-se diretamente com o objetivo de reduzir encargos administrativos e fomentar a competitividade, o investimento e a oferta de habitação. A clarificação dos poderes municipais, focando-os em aspetos externos e infraestruturas, enquanto delega a responsabilidade por detalhes internos e especialidades a técnicos qualificados, é um passo lógico para agilizar aprovações. A simplificação da reclassificação de solos rústicos para uso industrial ou habitacional apoia diretamente o aumento da disponibilidade de terrenos e a redução dos custos de habitação. O mecanismo de dedução fiscal (IRC) com majoração em caso de atrasos municipais é um incentivo inteligente para promover a eficiência das autarquias. Não se observam inconsistências significativas; pelo contrário, o documento delineia um conjunto de reformas interligadas para atingir os seus propósitos declarados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê uma diminuição da receita governamental através de deduções fiscais no IRC para taxas urbanísticas, com uma majoração de 50% caso os municípios não cumpram os prazos. Isso implica uma redução direta na receita do Estado e, potencialmente, nas transferências para os municípios que incorram em atrasos. Embora haja custos iniciais para o desenvolvimento da plataforma eletrónica e formação de pessoal, o objetivo é reduzir os encargos e custos para empresas e cidadãos, o que pode levar a uma menor arrecadação de certas taxas municipais ou à sua isenção. O efeito líquido esperado é uma redução da carga fiscal e burocrática sobre o setor privado, com a expectativa de que isso estimule a atividade económica e o investimento a longo prazo, o que poderá compensar as perdas de receita iniciais."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Elimina Dia de Reflexão e Modifica Períodos de Votação",
+ "summary": "Esta proposta visa eliminar o 'Dia de Reflexão' que antecede os atos eleitorais em Portugal, argumentando que o conceito se tornou obsoleto devido ao avanço das novas tecnologias e à existência do voto antecipado. Adicionalmente, propõe a possibilidade de os atos eleitorais decorrerem em dois dias consecutivos, com um domingo ou feriado incluído, para promover uma maior participação cívica e facilitar o voto a cidadãos com impedimentos profissionais, de viagem ou de saúde.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer acabar com aquele dia antes das eleições em que não se pode fazer campanha, o 'Dia de Reflexão', porque acham que já não faz sentido com a internet e o voto antecipado. E também querem que as eleições possam durar dois dias seguidos, para ser mais fácil para toda a gente ir votar, mesmo quem tem horários complicados ou está doente.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica do 'Dia de Reflexão', classificando-o como um conceito paternalista e sem evidência científica de eficácia, o que se alinha com o objetivo de modernizar o sistema eleitoral. A proposta de estender a votação para dois dias é uma medida coerente com o objetivo de aumentar a participação eleitoral, abordando diretamente as barreiras de acesso ao voto mencionadas (motivos profissionais, viagem, doença). A fundamentação é reforçada com a citação de constitucionalistas e exemplos de outros países europeus, mostrando que as alterações propostas são consideradas sensatas e alinhadas com as tendências democráticas atuais. Não são identificadas inconsistências internas na lógica da proposta.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A eliminação do 'Dia de Reflexão' poderá resultar em pequenas poupanças relacionadas com a fiscalização e aplicação das proibições de campanha. No entanto, a extensão do período de votação para dois dias implicará um aumento significativo dos gastos do governo. Serão necessários mais recursos humanos (membros de mesa, forças de segurança), maior logística para a guarda das urnas durante a noite e custos operacionais adicionais para manter os locais de votação abertos por um período mais longo. Não há indicação de aumento de receita governamental. O efeito líquido será, portanto, um aumento das despesas governamentais."
+ },
+ "affected": [],
+ "categories": [
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

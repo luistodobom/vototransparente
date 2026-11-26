@@ -1,0 +1,24 @@
+{
+ "short_title": "Alargamento e Melhoria da Rede de Cuidados Continuados Integrados",
+ "summary": "Esta proposta, apresentada pelo PAN, recomenda ao Governo que expanda a Rede Nacional de Cuidados Continuados Integrados (RNCCI) e melhore a sua capacidade de resposta. Baseia-se numa auditoria do Tribunal de Contas que identificou falhas na rede, como a falta de lugares, longas listas de espera e assimetrias regionais, que levam a internamentos hospitalares desnecessários e mais caros. O objetivo é garantir que mais pessoas dependentes tenham acesso a cuidados contínuos e integrados, atualizando os valores de apoio às unidades, revendo o modelo de funcionamento e financiamento, e estabelecendo tempos máximos de resposta.",
+ "key_points": [],
+ "plain_language": "Basicamente, o partido PAN está a pedir ao Governo para dar um empurrão à Rede Nacional de Cuidados Continuados, que é para ajudar pessoas que precisam de apoio contínuo, tipo idosos ou doentes. É que, segundo uma auditoria, faltam vagas, há muita gente à espera e os hospitais acabam por ter de ficar com pessoas que podiam estar nesta rede, o que sai mais caro. A ideia é aumentar a rede, pagar melhor às unidades que já existem, rever como tudo funciona e garantir que as pessoas não esperam uma eternidade por um lugar, além de acabar com as diferenças de acesso entre regiões. No fundo, é para poupar dinheiro e dar melhores cuidados.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise coerente e bem fundamentada. A identificação do problema, baseada no relatório do Tribunal de Contas, é clara: a insuficiência da RNCCI leva a internamentos hospitalares inapropriados e mais dispendiosos. As soluções propostas – alargamento da rede, atualização de apoios, revisão do modelo de financiamento, definição de tempos de resposta e eliminação de assimetrias regionais – alinham-se diretamente com os objetivos de melhorar a eficiência e a acessibilidade dos cuidados. Não se detetam inconsistências; pelo contrário, a proposta demonstra uma lógica direta entre o diagnóstico e as medidas sugeridas para otimizar um serviço público essencial.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta sugere que o alargamento e a melhoria da RNCCI têm um \"potencial de poupança\". Atualmente, a falta de vagas na RNCCI leva a internamentos hospitalares mais caros (111,98€/dia no setor privado/social, superior ao custo na RNCCI). Embora a atualização dos valores de apoio às Unidades de Cuidados Continuados Integrados possa representar um aumento direto nos gastos com a rede, o efeito líquido esperado é uma diminuição dos gastos globais do governo, ao reduzir os internamentos hospitalares desnecessários e mais onerosos. Não há menção direta ao impacto na receita do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

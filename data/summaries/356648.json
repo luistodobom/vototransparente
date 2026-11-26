@@ -1,0 +1,44 @@
+{
+ "short_title": "Simplificação e uniformização nacional do Passe do Antigo Combatente",
+ "summary": "Este Projeto de Resolução recomenda ao Governo medidas administrativas, regulamentares e financeiras para assegurar a plena efetividade do Passe do Antigo Combatente em todo o país. A iniciativa, sem caráter vinculativo, propõe garantir que o passe funcione de modo uniforme no continente e nas regiões autónomas, incluindo durante deslocações temporárias fora da área de residência. Recomenda igualmente a simplificação dos procedimentos de atribuição, renovação e carregamento, privilegiando a validação automática e a interoperabilidade entre entidades da Defesa, dos transportes e autoridades regionais para dispensar a entrega repetida de documentos. Pede ainda que o Executivo avalie a dispensa de ativações mensais, assegure pagamentos regulares e pontuais às empresas transportadoras e reforce a divulgação dos restantes direitos previstos no Estatuto do Antigo Combatente junto dos beneficiários mais idosos ou isolados.",
+ "key_points": [
+  "Assegurar a aplicação uniforme do Passe do Antigo Combatente no continente e nas regiões autónomas, incluindo em deslocações temporárias fora do local de residência.",
+  "Simplificar a atribuição, renovação e carregamento do passe, eliminando exigências burocráticas quando a Administração Pública já detenha os dados necessários.",
+  "Criar ou reforçar mecanismos de validação automática e interoperabilidade entre entidades da Defesa Nacional, autoridades de transporte, regiões autónomas e operadores.",
+  "Avaliar a dispensa de carregamentos ou ativações mensais para beneficiários com cartão válido e perfil ativo, substituindo-os por renovação automática.",
+  "Garantir o pagamento regular, pontual e previsível das compensações financeiras devidas às entidades transportadoras.",
+  "Reforçar a divulgação pública dos direitos previstos no Estatuto do Antigo Combatente junto dos beneficiários mais idosos, isolados ou residentes em zonas de menor densidade populacional."
+ ],
+ "plain_language": "O Parlamento recomenda ao Governo que melhore o funcionamento do Passe do Antigo Combatente, que garante transporte público gratuito aos antigos combatentes e às respetivas viúvas ou viúvos. Embora este direito já exista na lei, na prática pode ser difícil de utilizar fora da área de residência e obriga frequentemente a renovar ou carregar o cartão todos os meses. Esta recomendação, que não obriga o Governo a agir, pede menos burocracia, cruzamento automático de dados entre serviços públicos, pagamentos atempados às transportadoras e maior divulgação de outros apoios previstos na lei, como benefícios na saúde.",
+ "context": "O JPP considera que a consagração legal do Passe do Antigo Combatente não tem assegurado o seu exercício efetivo e igual em todo o país. Segundo a exposição de motivos, o regime atual assenta numa lógica territorial fragmentada que cria diferenças entre o continente e as regiões autónomas e dificulta deslocações temporárias. O proponente aponta ainda burocracias repetidas e ativações periódicas que penalizam beneficiários idosos ou vulneráveis, bem como atrasos nas compensações às transportadoras que colocam em risco a adesão dos operadores.",
+ "analysis": "A iniciativa identifica fragilidades operacionais concretas, como a fragmentação territorial dos títulos de transporte e os encargos burocráticos sobre uma população frequentemente envelhecida, propondo soluções coerentes de interoperabilidade administrativa. Contudo, tratando-se de um Projeto de Resolução, assume natureza meramente recomendatória e não vincula o Governo. Além disso, o documento não apresenta dados quantitativos sobre os atrasos nos pagamentos nem sobre o número de cidadãos afetados, e não detalha o modelo técnico ou orçamental para compatibilizar sistemas tarifários distintos nas Regiões Autónomas da Madeira e dos Açores. A dispensa de carregamentos mensais dependerá também da capacidade tecnológica heterogénea dos operadores locais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa e não apresentar estimativas financeiras, o impacto orçamental é incerto. A eventual implementação do alargamento territorial, dos sistemas de interoperabilidade e da garantia de financiamento suficiente às transportadoras poderá gerar despesa adicional consoante o desenho técnico e a utilização efetiva pelos beneficiários."
+ },
+ "affected": [
+  "antigos combatentes",
+  "viúvas e viúvos de antigos combatentes",
+  "operadores de transporte público",
+  "autoridades de transporte"
+ ],
+ "categories": [
+  "defesa",
+  "transportes",
+  "administracao"
+ ],
+ "tags": [
+  "antigos combatentes",
+  "passe gratuito",
+  "transportes públicos",
+  "simplificação administrativa",
+  "interoperabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

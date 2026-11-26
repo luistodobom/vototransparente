@@ -1,0 +1,25 @@
+{
+ "short_title": "Acesso a Dados para Investigação Criminal",
+ "summary": "Esta proposta de lei visa regular o acesso a dados de comunicações eletrónicas por parte das autoridades judiciárias para fins de investigação criminal. Surge na sequência de decisões do Tribunal Constitucional e do Tribunal de Justiça da União Europeia que declararam inconstitucional a conservação geral e indiscriminada de dados de tráfego e localização. O objetivo é permitir que as autoridades continuem a aceder a metadados essenciais para combater crimes graves, como terrorismo e criminalidade organizada, ao mesmo tempo que se garante um equilíbrio com os direitos fundamentais dos cidadãos, como a privacidade. A proposta estabelece que o acesso a estes dados é restrito a crimes específicos e exige autorização judicial, prevendo também a notificação dos titulares dos dados, salvo em casos que possam comprometer a investigação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para resolver um problema que surgiu porque o Tribunal Constitucional disse que a lei antiga sobre guardar dados de telemóveis e internet era inconstitucional, ou seja, ia contra a nossa Constituição. Agora, o Governo quer que a polícia e os tribunais continuem a ter acesso a alguns dados, mas só para investigar crimes muito graves, como terrorismo ou crime organizado. A ideia é que não se guardem dados de toda a gente sem motivo, mas que se possa aceder a eles quando for mesmo preciso para apanhar criminosos, sempre com a autorização de um juiz e, se possível, avisando a pessoa depois. É um esforço para equilibrar a segurança com a nossa privacidade.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a lacuna legal criada pelas decisões de inconstitucionalidade, procurando restabelecer a capacidade das autoridades de investigação criminal acederem a dados de comunicações, mas de forma mais restrita e controlada. A sua principal consistência reside na tentativa de equilibrar a segurança pública com os direitos fundamentais, ao limitar o acesso a crimes graves, exigir autorização judicial e prever a notificação dos visados. A inclusão de mecanismos de avaliação bienal pela Comissão Nacional de Proteção de Dados (CNPD) e pela Autoridade Nacional de Comunicações (ANACOM) demonstra um compromisso com a monitorização e o aperfeiçoamento contínuo da aplicação da lei, o que é crucial para garantir que os detalhes da implementação se alinham com o objetivo de proporcionalidade e respeito pelos direitos. Não se detetam inconsistências internas significativas, mas sim uma resposta legislativa a um desafio jurídico complexo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não detalha explicitamente um impacto fiscal direto em termos de aumento ou diminuição de gastos ou receitas governamentais. No entanto, a implementação das novas regras implicará custos administrativos para as autoridades judiciárias e para as entidades de supervisão (CNPD e ANACOM) na gestão dos pedidos de acesso, na realização de estatísticas e nas avaliações bienais. Estes custos deverão ser absorvidos pelos orçamentos existentes das respetivas entidades, não se prevendo um efeito líquido significativo no orçamento do Estado. As empresas de comunicações também terão de adaptar os seus procedimentos para a transmissão de dados, o que poderá implicar custos operacionais para as mesmas."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

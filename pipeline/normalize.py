@@ -12,7 +12,7 @@ import re
 from collections import Counter
 from datetime import date
 
-from .config import LEGISLATURES, OPENDATA_DIR, PROCESSED
+from .config import LEGISLATURES, OPENDATA_DIR, PROCESSED, SCRAPED
 
 VOTE_KEYS = {"A Favor": "favor", "Contra": "contra", "Abstenção": "abstencao", "Ausência": "ausente"}
 
@@ -216,7 +216,7 @@ def main():
     allrows = []
     for leg in LEGISLATURES:
         data = json.loads((OPENDATA_DIR / f"Iniciativas{leg}.json").read_text())
-        extra = OPENDATA_DIR / f"Iniciativas{leg}_s1.json"  # scraped 1st session (see fetch_xiv_session1)
+        extra = SCRAPED / f"Iniciativas{leg}_s1.json"  # scraped 1st session (see fetch_xiv_session1)
         if extra.exists():
             have = {str(i["IniId"]) for i in data}
             add = [i for i in json.loads(extra.read_text()) if str(i["IniId"]) not in have]

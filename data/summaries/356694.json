@@ -1,0 +1,43 @@
+{
+ "short_title": "Acesso público e digitalização de arquivos sobre violência política",
+ "summary": "O Projeto de Resolução n.º 927/XVII/1.ª, apresentado pelo LIVRE, recomenda ao Governo que garanta o acesso público a toda a documentação relativa à violência política organizada em Portugal, independentemente da origem ideológica ou de ter sido praticada por organismos do Estado. Como Projeto de Resolução, trata-se de uma recomendação não vinculativa dirigida ao Executivo. A iniciativa abrange documentos da extinta Divisão de Informações (DINFO), dos serviços de informações (SIS e SIED), das forças de segurança, do Ministério Público e de vários arquivos históricos, incluindo os fundos da PIDE/DGS na Torre do Tombo, arquivos militares, diplomáticos, ultramarinos e parlamentares. O texto propõe a definição de critérios uniformes de tratamento e desclassificação documental, a elaboração de um inventário público completo, a digitalização integral de todo o acervo e a disponibilização gratuita desses registos através de uma plataforma digital única para fins de investigação e transparência.",
+ "key_points": [
+  "Recomenda ao Governo que assegure o acesso aos arquivos sobre violência política organizada detidos por serviços de informações, forças de segurança, órgãos judiciais e arquivos históricos do Estado.",
+  "Propõe o estabelecimento de critérios uniformes de tratamento, desclassificação e disponibilização documental, aplicados sem exceções quanto à origem ideológica ou institucional dos factos.",
+  "Pede a criação de um inventário público completo de toda a documentação abrangida e a sua digitalização integral.",
+  "Sugere a disponibilização pública, centralizada e gratuita dos documentos digitalizados numa plataforma digital única."
+ ],
+ "plain_language": "Este projeto pede ao Governo que junte, digitalize e coloque na internet, de forma gratuita, os documentos antigos do Estado sobre violência política em Portugal. Isto inclui papéis da polícia política da ditadura (PIDE/DGS) e ficheiros sobre grupos armados de extrema-direita e de extrema-esquerda após o 25 de Abril. Hoje, estes registos estão espalhados por vários arquivos, polícias, tribunais e serviços secretos, com regras diferentes para serem consultados. Como é um Projeto de Resolução, não obriga o Governo a agir: funciona apenas como uma recomendação do Parlamento.",
+ "context": "O LIVRE argumenta que persistem falhas graves na memória histórica e no acesso a documentos sobre violência política em Portugal, tanto durante o Estado Novo como no período pós-25 de Abril, envolvendo grupos como o ELP, o MDLP e as FP-25. O partido aponta a destruição passada de arquivos militares, a dispersão documental por múltiplas entidades e a existência de regimes de acesso distintos, que dificultam o trabalho de investigadores e jornalistas. Defende, por isso, uma política uniforme que assegure o direito à verdade das vítimas e o conhecimento histórico pelos cidadãos.",
+ "analysis": "A proposta tem como ponto forte a abordagem simétrica e transversal, exigindo transparência para violência política de qualquer quadrante ideológico ou estatal, bem como a centralização de acervos hoje fragmentados. Contudo, apresenta fragilidades práticas e jurídicas relevantes. Por ser um Projeto de Resolução, não é vinculativo nem altera diretamente os regimes legais de acesso aos arquivos, segredo de Estado ou proteção de dados pessoais. Embora a exposição de motivos mencione cautelas com elementos sensíveis, o texto dispositivo recomenda a digitalização e acesso integrais sem definir limites temporais, salvaguardas de privacidade ou critérios de anonimização. Além disso, o âmbito vastíssimo, abrangendo processos judiciais, serviços de informações e até o arquivo parlamentar, levanta desafios de competência institucional, prazos inexistentes e exigência operacional elevada para inventariar e digitalizar toda a documentação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, o Projeto de Resolução não cria despesa direta imediata nem apresenta estimativa de custos. Caso o Governo adote as medidas propostas, a inventariação, a digitalização integral de múltiplos acervos e a criação de uma plataforma única implicarão encargos financeiros e de recursos humanos não quantificados."
+ },
+ "affected": [
+  "investigadores e historiadores",
+  "jornalistas",
+  "vítimas de violência política e respetivos familiares",
+  "serviços de informações e forças de segurança",
+  "arquivos públicos e organismos do Estado detentores de documentação"
+ ],
+ "categories": [
+  "direitos",
+  "cultura",
+  "administracao"
+ ],
+ "tags": [
+  "arquivos históricos",
+  "violência política",
+  "desclassificação",
+  "digitalização",
+  "memória histórica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

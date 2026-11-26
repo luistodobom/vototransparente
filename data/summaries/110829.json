@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime de Avaliação de Incidências Ambientais para Agricultura Intensiva e RAN",
+ "summary": "Esta proposta de lei visa criar um novo regime de Avaliação de Incidências Ambientais (AlncA) para projetos agrícolas intensivos e superintensivos, atividades industriais ligadas a estes, e utilizações não agrícolas de solos na Reserva Agrícola Nacional (RAN). O objetivo é colmatar lacunas no regime atual de Avaliação de Impacte Ambiental (AIA), que não abrange muitos projetos de menor dimensão individual, mas que, em conjunto, causam impactos ambientais significativos. A AlncA exigirá uma avaliação prévia ao licenciamento para garantir a proteção do ambiente, da saúde pública e a utilização racional dos recursos naturais.",
+ "key_points": [],
+ "plain_language": "Em termos mais simples, esta proposta é como um \"cartão amarelo\" para a agricultura que usa muita terra e produtos químicos, e também para os parques solares que querem ocupar terrenos bons para plantar. O PCP diz que as regras atuais não são suficientes porque muitos projetos, mesmo que não sejam gigantes, juntos estragam o ambiente. Então, querem que todos estes projetos passem por uma espécie de \"exame ambiental\" mais apertado antes de poderem avançar, para proteger a nossa terra, a água, os animais e a saúde das pessoas. Se o \"exame\" for negativo, o projeto não avança.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada da inadequação do regime de Avaliação de Impacte Ambiental (AIA) existente para lidar com os impactos cumulativos da agricultura intensiva e superintensiva, bem como de outras utilizações do solo. A principal inconsistência apontada é que os limiares mínimos de área para a AIA excluem muitos projetos que, individualmente, podem parecer pequenos, mas que, em conjunto, causam degradação ambiental significativa. A proposta de AlncA alinha-se diretamente com o objetivo de corrigir esta falha, ao aplicar-se a projetos que não atingem os limiares da AIA, mas que ainda assim têm um impacto local considerável (por exemplo, 50 hectares para agricultura intensiva ou 0,5 hectares em RAN). A inclusão de uma análise detalhada dos efeitos sobre o solo, recursos hídricos, biodiversidade, saúde pública, património cultural e paisagem demonstra uma abordagem abrangente para mitigar os problemas identificados, garantindo que os detalhes da implementação se alinham com o objetivo de uma avaliação ambiental mais rigorosa e inclusiva.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê a criação de \"taxas\" para o procedimento de Avaliação de Incidências Ambientais (AlncA), o que implicaria um aumento da receita do governo. No entanto, a implementação deste novo regime também aumentaria os gastos do governo, devido à necessidade de recursos adicionais para a Comissão de Coordenação e Desenvolvimento Regional (CCDR) e outras entidades envolvidas na realização e fiscalização destas avaliações. O efeito líquido é difícil de quantificar sem os valores das taxas e os custos administrativos, mas é provável que resulte num ligeiro aumento dos gastos administrativos, parcialmente compensado pelas receitas das taxas."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "energia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Apoio a pagamentos de serviços essenciais durante a pandemia",
+ "summary": "Esta proposta recomenda que o Governo português implemente medidas de apoio para famílias e micro e pequenas empresas no pagamento de serviços essenciais (água, eletricidade, gás natural e comunicações) durante a crise da COVID-19. As medidas incluem a suspensão do corte de serviços por falta de pagamento, a criação de moratórias para quem teve o rendimento afetado (por quebra de rendimento, desemprego ou layoff), e apoio ao consumo de gás engarrafado. A proposta também prevê a criação de medidas compensatórias para as empresas prestadoras destes serviços pelos lucros perdidos. As medidas teriam um caráter excecional e temporário, válidas por um período inicial de 3 meses.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer que o governo ajude as pessoas e as pequenas empresas a não ficarem sem água, luz, gás e internet durante a pandemia. A ideia é que não cortem estes serviços a quem não conseguir pagar e que se dê mais tempo para pagar as contas, especialmente a quem perdeu o emprego ou viu o seu rendimento diminuir. Também se quer ajudar quem usa gás de botija. Para que as empresas que fornecem estes serviços não fiquem no prejuízo, o governo deverá compensá-las. Tudo isto seria por três meses, para começar.",
+ "context": null,
+ "analysis": "O documento inicia com uma análise crítica das medidas já existentes, apontando que, embora louváveis, são insuficientes, não uniformes e não abrangem todos os trabalhadores (nomeadamente os informais). A proposta visa colmatar estas lacunas ao recomendar medidas mais abrangentes, de caráter obrigatório e nacional, que salvaguardem todas as famílias e empresas. A inclusão de compensações para as empresas de serviços essenciais é crucial para garantir a sustentabilidade da prestação destes serviços, alinhando a proteção social com a viabilidade económica. A proposta é consistente com o objetivo de assegurar serviços mínimos e bem-estar social durante uma crise, ao mesmo tempo que tenta mitigar o impacto financeiro nas empresas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao prever moratórias de pagamento e, mais significativamente, a criação de medidas compensatórias para as empresas de serviços essenciais pelos lucros perdidos, implicará um aumento dos gastos do governo. Embora não haja uma estimativa monetária, o Estado terá de suportar os custos associados à não cobrança ou ao atraso nos pagamentos, ou compensar diretamente as empresas. Isto resultará num aumento da despesa pública e/ou numa diminuição da receita governamental no curto prazo, com um efeito líquido de aumento da despesa ou défice para o governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

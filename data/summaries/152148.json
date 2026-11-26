@@ -1,0 +1,24 @@
+{
+ "short_title": "Sistema Nacional de Depósito e Reembolso de Embalagens para Economia Circular",
+ "summary": "A proposta visa implementar um Sistema Nacional de Depósito e Reembolso (SDR) autónomo para embalagens de uso único em Portugal, como garrafas de plástico, vidro e metal. O objetivo é combater as baixas taxas de reciclagem do país, que estão longe de cumprir as metas europeias, e incentivar a economia circular. O sistema funcionaria com os cidadãos a pagarem uma caução ao comprar embalagens, que seria reembolsada aquando da sua devolução em pontos de recolha. A Iniciativa Liberal argumenta que, apesar de já existir legislação que obriga à criação deste sistema desde janeiro de 2022, o Governo tem falhado na sua regulamentação e implementação. A proposta sugere a criação de uma única entidade gestora nacional, selecionada por concurso público, que possa contratar operadores públicos e privados para a recolha, e que os valores das cauções não reembolsadas revertam para a gestão do próprio sistema.",
+ "key_points": [],
+ "plain_language": "Em Portugal, estamos a reciclar mal, especialmente garrafas de plástico, e a poluição está a aumentar. A Iniciativa Liberal está a propor uma solução simples: quando comprarmos uma bebida, pagamos um extra, tipo uma caução, e recebemos esse dinheiro de volta quando devolvemos a embalagem vazia. Isto já funciona super bem noutros países, com taxas de devolução altíssimas. O problema é que, apesar de já haver uma lei que diz que este sistema devia estar a funcionar desde o início de 2022, o Governo ainda não fez nada para o pôr em prática. A proposta quer que o Governo se despache, crie uma empresa única para gerir isto a nível nacional, e que tanto empresas públicas como privadas possam ajudar na recolha. Assim, esperamos reciclar muito mais e ter um país mais limpo.",
+ "context": null,
+ "analysis": "O documento aponta uma clara inconsistência entre a legislação existente e a inação governamental. Desde janeiro de 2022, a lei portuguesa exige a existência de um sistema de depósito e reembolso, mas o Governo não publicou a portaria necessária para a sua implementação. Esta falha impede Portugal de cumprir as suas metas de reciclagem e de economia circular. A proposta alinha-se diretamente com o objetivo de resolver esta inconsistência, recomendando que o Governo proceda à regulamentação urgente do SDR. Além disso, o documento critica o modelo atual de gestão de resíduos, dominado pelos municípios e frequentemente deficitário, e a proibição legal de entidades privadas gerirem a recolha de resíduos sólidos. A proposta aborda estas questões ao defender um sistema autónomo, com uma única entidade gestora nacional selecionada por concurso e a possibilidade de livre contratualização com operadores públicos e privados, o que se alinha com as melhores práticas internacionais e visa superar os bloqueios atuais, incluindo as resistências dos municípios, ao mesmo tempo que salvaguarda os seus interesses através de campanhas de informação sobre as vantagens do sistema.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta sugere que a implementação de um Sistema Nacional de Depósito e Reembolso (SDR) requer um \"investimento inicial avultado\", o que pode implicar um aumento dos gastos iniciais, seja por parte do governo (se financiar a infraestrutura) ou de entidades privadas (se o sistema for gerido de forma autónoma e privada). No entanto, o documento salienta que os atuais sistemas municipais de gestão de resíduos (SGRU) funcionam de forma deficitária, com gastos superiores às receitas. Ao criar um SDR autónomo, que se financia em parte com as cauções não reembolsadas, a proposta visa aliviar a carga financeira dos municípios na gestão deste fluxo específico de resíduos, o que poderia resultar numa diminuição líquida dos gastos governamentais (municipais) a longo prazo nesta área. Não há indicação de um aumento direto da receita governamental, uma vez que as cauções não reembolsadas reverteriam para a gestão do próprio SDR."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Revisão da Reparação de Acidentes de Trabalho e Doenças Profissionais",
+ "summary": "Esta proposta visa rever o regime de reparação de acidentes de trabalho e doenças profissionais em Portugal. O objetivo principal é corrigir as injustiças percebidas no sistema atual, que o PCP argumenta beneficiar as companhias de seguros em detrimento dos trabalhadores sinistrados. A proposta procura garantir que os trabalhadores que sofrem acidentes ou desenvolvem doenças profissionais recebam uma indemnização completa por todos os danos, sejam eles patrimoniais ou não patrimoniais, independentemente de culpa da entidade patronal. Aborda também a questão da precariedade laboral que leva à perda de emprego após um acidente, a falta de fiscalização de empresas que não transferem responsabilidades para seguradoras, e as práticas das seguradoras em relação a avaliações médicas e remição de pensões. O intuito é reforçar a proteção social dos trabalhadores, assegurando que não caiam na pobreza ou exclusão social devido à sua incapacidade.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do PCP quer mudar as regras para quem sofre acidentes ou fica doente por causa do trabalho. A ideia é que as pessoas recebam uma indemnização completa por todos os problemas que tiveram, mesmo que a empresa não tenha tido culpa. Também querem que os trabalhadores possam escolher o seu médico, que não fiquem sem dinheiro se o contrato acabar por causa da doença, e que as pensões sejam mais justas, ligadas ao salário mínimo. Basicamente, é para que ninguém fique na miséria por causa de um acidente de trabalho e para que as seguradoras e empresas assumam mais responsabilidades.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica coerente do regime atual, identificando falhas significativas que levam à desproteção dos trabalhadores. As inconsistências apontadas, como a discriminação no regime de indemnização e a pressão das seguradoras, são diretamente abordadas pelas propostas. Por exemplo, a exigência de indemnização por todos os danos (patrimoniais e não patrimoniais) e a possibilidade de o sinistrado escolher o seu médico assistente ou recorrer a um perito judicial alinham-se diretamente com o objetivo de garantir uma proteção mais justa e independente. A proposta de indexar as prestações ao salário mínimo nacional, em vez do IAS, demonstra uma preocupação em assegurar que os rendimentos substitutivos do trabalho acompanhem de forma mais eficaz a evolução salarial, reforçando a segurança económica dos sinistrados. A intervenção do Fundo de Acidentes de Trabalho para adiantar pensões provisórias em caso de incumprimento patronal é uma medida prática que visa garantir a continuidade do apoio ao trabalhador, mesmo que a entidade responsável falhe. No geral, os detalhes da implementação propostos estão bem alinhados com o objetivo declarado de melhorar substancialmente a proteção e os direitos dos trabalhadores afetados por acidentes de trabalho ou doenças profissionais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá aumentar os custos para as entidades privadas, nomeadamente companhias de seguros e entidades patronais. Ao exigir a indemnização de todos os danos (patrimoniais e não patrimoniais), alterar as regras de remição de pensões para beneficiar os trabalhadores e transferir o ónus da prova para as entidades patronais em caso de lesões de manifestação tardia, as responsabilidades financeiras destas entidades tenderão a aumentar. Para o governo, o impacto fiscal direto está principalmente relacionado com o Fundo de Acidentes de Trabalho. A proposta prevê que este Fundo adiante pensões provisórias quando as entidades patronais não cumprirem as suas obrigações, o que implicará um aumento dos desembolsos iniciais por parte do Fundo. Contudo, o Fundo fica sub-rogado nos direitos do trabalhador, o que significa que procurará recuperar esses montantes junto da entidade patronal ou seguradora responsável. Assim, embora possa haver um impacto no fluxo de caixa do Fundo, o aumento líquido a longo prazo das despesas governamentais decorrentes desta medida específica poderá ser limitado, assumindo uma recuperação bem-sucedida. A indexação das prestações ao salário mínimo nacional (SMN) em vez do IAS poderá levar a pagamentos de benefícios mais elevados ao longo do tempo, aumentando potencialmente o custo global do sistema, o que poderá indiretamente afetar as contribuições para a segurança social ou a sustentabilidade do Fundo se não for totalmente coberto pelas contribuições de empregadores/seguradoras. O efeito líquido é uma redistribuição dos encargos financeiros para empregadores e seguradoras, visando beneficiar os trabalhadores sinistrados."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

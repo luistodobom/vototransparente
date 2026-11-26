@@ -1,0 +1,44 @@
+{
+ "short_title": "Levantamento urgente de famílias em vulnerabilidade habitacional",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa ao Governo apresentada pelo LIVRE, propõe medidas para responder a situações de desalojamento e precariedade habitacional. Recomenda ao executivo que realize, em articulação com as autarquias, um levantamento urgente das famílias já desalojadas, em risco de desalojamento ou a viver em novos núcleos precários, identificando necessidades de realojamento, apoio social e acompanhamento psicológico. Propõe ainda apoiar os municípios através do programa Porta de Entrada, disponibilizar rapidamente as verbas do Fundo de Emergência para a Habitação e atualizar as Estratégias Locais de Habitação para garantir financiamento após o término do Plano de Recuperação e Resiliência. A iniciativa recomenda também melhorar a coordenação entre autarquias, Instituto da Habitação e da Reabilitação Urbana e Segurança Social, ajustar os apoios às rendas praticadas em cada concelho, criar respostas para famílias monoparentais e publicar um relatório anual de execução dos programas habitacionais.",
+ "key_points": [
+  "Realizar, em articulação com as autarquias, um levantamento urgente das famílias desalojadas ou em risco e de novos núcleos precários, identificando necessidades de realojamento e apoio social e psicológico.",
+  "Apoiar as autarquias através do programa Porta de Entrada e disponibilizar rapidamente as verbas do Fundo de Emergência para a Habitação para soluções de alojamento temporário ou definitivo.",
+  "Atualizar as Estratégias Locais de Habitação para assegurar financiamento continuado aos programas públicos após o fim do Plano de Recuperação e Resiliência.",
+  "Rever os apoios financeiros habitacionais para os adequar aos valores reais de arrendamento praticados em cada município.",
+  "Reforçar a articulação entre autarquias, Instituto da Habitação e da Reabilitação Urbana e Segurança Social e criar respostas específicas para famílias monoparentais e em processo de desalojamento.",
+  "Apresentar um relatório anual público com a evolução dos programas de habitação, fontes de financiamento utilizadas, pessoas realojadas e desalojamentos evitados."
+ ],
+ "plain_language": "Este texto é uma recomendação do Parlamento ao Governo, sem força de lei obrigatória. O objetivo é pedir ao Governo que trabalhe com as câmaras municipais para contar rapidamente quantas famílias estão em risco de perder a casa, já foram desalojadas ou vivem em habitações precárias, e perceber de que apoios precisam. Também sugere libertar rapidamente dinheiro do fundo de emergência para alojamento temporário, aumentar os apoios para acompanhar o preço real das rendas em cada concelho, melhorar a colaboração entre serviços sociais e autarquias, e divulgar todos os anos quantas pessoas foram realojadas e quantos despejos foram evitados.",
+ "context": "O LIVRE justifica a iniciativa com as demolições recentes em Loures, Amadora e Odivelas, que deixaram dezenas de famílias sem alternativa de realojamento. Segundo relatos citados, os avisos foram de 48 horas, à sexta-feira, e faltou acompanhamento social. O proponente aponta a subida dos preços das casas, a ineficácia dos programas Porta de Entrada e 1.º Direito, a falta de regulamentação do Fundo de Emergência para a Habitação e a proibição legal de despejos administrativos sem alternativa habitacional.",
+ "analysis": "A proposta tem o mérito de articular medidas de diagnóstico imediato com transparência, ao recomendar um levantamento nacional de vulnerabilidades e um relatório anual com indicadores de execução e despejos evitados. A ligação entre autarquias, IHRU e Segurança Social responde a lacunas operacionais reais. Contudo, tratando-se de um Projeto de Resolução, não vincula o Governo nem define prazos concretos para a execução das recomendações. Há também uma fragilidade orçamental e jurídica: recomenda-se a libertação célere de verbas do Fundo de Emergência para a Habitação, mas o próprio texto reconhece que este ainda aguarda regulamentação. Adicionalmente, atualizar os apoios às rendas locais e manter o financiamento após o Plano de Recuperação e Resiliência implica despesa pública significativa sem indicar fontes de financiamento alternativas. Por fim, depender da capacidade de 298 municípios pode gerar desigualdades na aplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, não gera impacto orçamental direto imediato. Caso seja acolhida pelo Governo, tende a aumentar a despesa pública ao propor a libertação de verbas do Fundo de Emergência, o ajustamento dos apoios aos valores atuais das rendas e a continuidade do financiamento após o Plano de Recuperação e Resiliência, sem indicar montantes no documento."
+ },
+ "affected": [
+  "famílias em situação de vulnerabilidade habitacional",
+  "autarquias locais",
+  "pessoas em risco de desalojamento",
+  "famílias monoparentais"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "realojamento",
+  "vulnerabilidade habitacional",
+  "despejos",
+  "autarquias",
+  "porta de entrada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

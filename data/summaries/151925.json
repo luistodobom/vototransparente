@@ -1,0 +1,25 @@
+{
+ "short_title": "Medidas para melhorar acesso a juntas médicas e atestado multiuso",
+ "summary": "Esta proposta de lei visa resolver os atrasos significativos nas juntas médicas de avaliação de incapacidade, que impedem os cidadãos de aceder ao atestado médico de incapacidade multiuso (AMIM) e, consequentemente, a benefícios sociais e fiscais. As medidas propostas incluem a obrigatoriedade de convocar as juntas médicas num prazo máximo de 60 dias, a emissão automática do AMIM para patologias que conferem um grau de incapacidade igual ou superior a 60%, e a prorrogação da validade dos atestados multiuso já existentes até à realização de uma nova junta médica.",
+ "key_points": [],
+ "plain_language": "Basicamente, este projeto de lei quer acabar com as filas de espera gigantes para as juntas médicas que avaliam a incapacidade das pessoas. Muita gente está à espera há anos e, por causa disso, não consegue ter o atestado multiuso, que dá acesso a apoios sociais e benefícios fiscais. A ideia é obrigar as juntas a funcionar mais rápido (em 60 dias), dar o atestado automaticamente a quem tem doenças que dão logo um certo grau de incapacidade, e estender a validade dos atestados antigos até que a pessoa seja finalmente vista pela junta. Assim, ninguém perde os seus direitos por causa da burocracia.",
+ "context": null,
+ "analysis": "O documento critica a ineficácia das medidas governamentais anteriores para resolver os atrasos nas juntas médicas, que se agravaram com a pandemia. A proposta do Bloco de Esquerda alinha-se diretamente com o objetivo de garantir o acesso atempado aos direitos dos cidadãos. Ao estabelecer um prazo máximo de 60 dias para a convocação das juntas e prever a emissão automática do AMIM para casos específicos, a proposta aborda as principais causas dos atrasos e da negação de direitos. A prorrogação da validade dos atestados existentes é uma medida crucial para evitar que os beneficiários percam os seus direitos enquanto aguardam a avaliação. A consistência entre os problemas identificados e as soluções propostas é clara, visando desburocratizar e agilizar um processo essencial para pessoas em situação de vulnerabilidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta provavelmente aumentará os gastos do governo. Para cumprir o prazo de 60 dias para as juntas médicas, será necessário um reforço de recursos humanos e logísticos nas Administrações Regionais de Saúde e Agrupamentos de Centros de Saúde. A emissão automática de atestados e a prorrogação da sua validade garantirão que mais pessoas acedam a benefícios sociais e fiscais a que já têm direito, o que se traduzirá num aumento das despesas com prestações sociais e numa potencial diminuição da receita fiscal (devido a isenções e deduções). O efeito líquido será um aumento da despesa pública, sem um aumento correspondente da receita."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

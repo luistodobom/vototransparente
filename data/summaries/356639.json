@@ -1,0 +1,44 @@
+{
+ "short_title": "Nova Lei de Organização e Processo do Tribunal de Contas",
+ "summary": "A proposta de lei do Governo revoga a atual Lei de Organização e Processo do Tribunal de Contas e aprova um novo regime jurídico. Reorganiza a sede do Tribunal em três secções especializadas: a 1.ª Secção para fiscalização prévia, a 2.ª Secção para auditoria e verificação de contas e a 3.ª Secção para efetivação de responsabilidades financeiras e julgamento de todos os recursos. Na fiscalização prévia, o limiar de sujeição a visto sobe para 10 milhões de euros, mantendo-se a comunicação obrigatória de atos acima de 950 mil euros para eventual auditoria, e dispensam-se entidades com sistemas de controlo interno acreditados. A proposta alarga as competências de auditoria à execução de políticas públicas, reforça a autonomia do Ministério Público na investigação de infrações financeiras, exige dolo ou culpa grave para responsabilização pessoal, fixa a prescrição em cinco anos e cria um Conselho Consultivo.",
+ "key_points": [
+  "Separa as funções do Tribunal em três secções especializadas, dedicadas à fiscalização prévia (1.ª), às auditorias e certificação de contas (2.ª) e à responsabilidade financeira e recursos (3.ª).",
+  "Limita o visto prévio obrigatório a contratos de valor igual ou superior a 10 milhões de euros, exigindo a comunicação de atos acima de 950 mil euros e dispensando organismos com controlo interno acreditado.",
+  "Permite ao Tribunal auditar a execução de programas e políticas públicas com base em critérios técnicos, excluindo a avaliação das opções políticas subjacentes.",
+  "Restringe a responsabilidade financeira pessoal a situações de dolo ou culpa grave, afastando a punição por culpa leve e unificando o prazo de prescrição em cinco anos.",
+  "Confere ao Ministério Público autonomia para investigar factos conexos fora do enquadramento dos relatórios de auditoria e cria um Conselho Consultivo para intervir no recrutamento de juízes e na estratégia do Tribunal."
+ ],
+ "plain_language": "O Tribunal de Contas vigia a forma como o Estado e outras entidades públicas gastam o dinheiro dos contribuintes. Esta proposta muda as regras desse controlo. Hoje, muitos contratos públicos precisam da aprovação prévia do Tribunal antes de avançar; com a nova lei, essa aprovação prévia passa a aplicar-se apenas a contratos muito elevados, a partir de 10 milhões de euros, enquanto os restantes serão verificados depois, através de auditorias. Também muda as regras para castigar gestores públicos que cometa erros financeiros: só poderão ser multados ou obrigados a devolver dinheiro se agirem com intenção ou negligência grave, e não por descuidos menores.",
+ "context": "O Governo justifica a reforma com a necessidade de alinhar o Tribunal de Contas com as normas internacionais da INTOSAI e as práticas europeias, separando claramente as funções de auditoria das jurisdicionais e reduzindo sobreposições com os tribunais administrativos. Argumenta ainda que a fiscalização prévia quase não existe na Europa e que os sistemas internos de controlo em Portugal ainda não permitem eliminá-la totalmente, impondo-se reduzi-la a grandes valores. Por fim, defende que limitar a responsabilidade financeira a culpa grave evita paralisar decisões de dirigentes públicos perante cenários de incerteza.",
+ "analysis": "A separação orgânica entre auditoria e julgamento, a criação de recurso das decisões de recusa de visto e dos relatórios finais e a retirada ao Governo da designação dos académicos nos júris reforçam a imparcialidade e garantias de defesa. Contudo, elevar o limiar do visto para 10 milhões de euros e isentar organismos acreditados pelo próprio Executivo reduz o controlo preventivo antes de a despesa ocorrer, transferindo o risco para auditorias posteriores e para um controlo interno que o próprio diploma reconhece ainda ser frágil. Excluir a culpa leve pode também diminuir o rigor na gestão diária, ao passo que o aumento dos poderes do Ministério Público eleva o risco de contencioso após os factos. O texto apresenta ainda lapso formal na numeração, saltando do artigo 91.º para o 93.º, e remissões incoerentes sobre a regulamentação da acreditação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proposta não inclui estimativa orçamental, mas prevê o alargamento do quadro até 18 juízes na sede, a criação de um Conselho Consultivo, apoio técnico especializado ao Ministério Público e o eventual recurso a empresas de auditoria externa, suportados pelo Orçamento do Estado e por receitas próprias. Por outro lado, reduz os processos de fiscalização prévia e remete a revisão do regime de emolumentos do Tribunal para diploma posterior no prazo de 180 dias."
+ },
+ "affected": [
+  "juízes e trabalhadores do Tribunal de Contas",
+  "dirigentes e funcionários da Administração Pública",
+  "entidades do setor público e autarquias locais",
+  "contratantes públicos de obras e serviços",
+  "magistrados do Ministério Público"
+ ],
+ "categories": [
+  "instituicoes",
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "tribunal de contas",
+  "fiscalização prévia",
+  "auditoria pública",
+  "responsabilidade financeira",
+  "despesa pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

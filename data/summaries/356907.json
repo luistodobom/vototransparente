@@ -1,0 +1,43 @@
+{
+ "short_title": "Aumenta para 1,5% a consignação de IRS para várias entidades",
+ "summary": "O Projeto de Lei n.º 662/XVII/1.ª, apresentado pela Iniciativa Liberal, propõe aumentar para 1,5% a quota do Imposto sobre o Rendimento das Pessoas Singulares (IRS) que os contribuintes podem consignar a entidades de reconhecido interesse público, mantendo inalterada a carga fiscal. Para concretizar este aumento, o diploma altera três normas: o artigo 152.º do Código do IRS, abrangendo pessoas coletivas de utilidade pública com atividades culturais, juvenis ou desportivas; o artigo 14.º da Lei n.º 35/98, relativo às organizações não governamentais de ambiente; e o artigo 32.º da Lei da Liberdade Religiosa, destinado a igrejas ou comunidades religiosas radicadas no país para fins religiosos ou de beneficência. O projeto determina que as novas regras se aplicam aos rendimentos auferidos a partir de 2026 e entra em vigor no dia seguinte à sua publicação.",
+ "key_points": [
+  "Aumenta para 1,5% a quota do IRS liquidado que pode ser consignada pelo contribuinte na declaração anual de rendimentos.",
+  "Altera o Código do IRS para aplicar esta percentagem a pessoas coletivas de utilidade pública de natureza cultural, juvenil ou desportiva.",
+  "Altera a Lei n.º 35/98 para estender a consignação de 1,5% às organizações não governamentais de ambiente com estatuto de utilidade pública e benefício fiscal requerido.",
+  "Altera a Lei da Liberdade Religiosa para abranger igrejas e comunidades religiosas radicadas no país, para fins religiosos ou de beneficência.",
+  "Determina a produção de efeitos sobre os rendimentos auferidos em 2026 e anos seguintes, entrando em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quando entregam a declaração de IRS, os contribuintes podem escolher que uma pequena parte do imposto que já pagam ao Estado seja entregue diretamente a uma instituição cultural, desportiva, ambiental ou religiosa, sem pagarem mais impostos por isso. Atualmente, essa fatia é de 1%. Esta proposta da Iniciativa Liberal aumenta esse limite para 1,5%, permitindo canalizar mais dinheiro para essas organizações através da escolha dos cidadãos. O objetivo é reforçar o apoio financeiro a quem trabalha no terreno junto das comunidades, aplicando-se a alteração já aos rendimentos de 2026.",
+ "context": "A Iniciativa Liberal justifica a medida com o aumento dos custos de funcionamento das organizações da sociedade civil, devido à subida dos preços da energia, dos combustíveis e dos bens essenciais, bem como aos prejuízos causados por fenómenos meteorológicos extremos. O partido refere ainda que o PSD e o CDS-PP já assumiram o compromisso de elevar a consignação para 1,5% através de uma recomendação ao Governo, defendendo que a alteração deve avançar de imediato em vez de ser adiada para uma data indefinida.",
+ "analysis": "A proposta apresenta como ponto forte a concretização legislativa direta de uma medida com consenso político declarado, reforçando o financiamento de organizações civis sem agravar os impostos dos contribuintes. Contudo, o texto revela fragilidades relevantes. Em primeiro lugar, não apresenta qualquer estimativa de impacto orçamental, omitindo quanta receita fiscal deixará de entrar nos cofres do Estado, e prevê efeitos sobre os rendimentos do próprio ano de 2026 já em curso, sem avaliar o impacto na execução orçamental vigente. Em segundo lugar, verifica-se um desfasamento entre a exposição de motivos, que destaca o apoio às Instituições Particulares de Solidariedade Social e associações humanitárias, e o articulado, que apenas altera as normas relativas a entidades culturais, juvenis, desportivas, ambientais e religiosas, deixando sem atualização expressa outros eventuais regimes legais aplicáveis ao setor social.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao elevar de 1% para 1,5% a parcela do IRS liquidado que pode ser consignada pelos contribuintes, o Estado transfere uma maior fatia da receita fiscal para as entidades escolhidas, reduzindo a receita líquida disponível no Orçamento do Estado. O documento não apresenta estimativas nem montantes financeiros."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "entidades de utilidade pública culturais, juvenis e desportivas",
+  "organizações não governamentais de ambiente",
+  "igrejas e comunidades religiosas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "cultura",
+  "ambiente"
+ ],
+ "tags": [
+  "consignacao de irs",
+  "utilidade publica",
+  "beneficios fiscais",
+  "organizacoes ambientais",
+  "comunidades religiosas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

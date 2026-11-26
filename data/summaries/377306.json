@@ -1,0 +1,42 @@
+{
+ "short_title": "Redução das taxas do IRS nos seis primeiros escalões",
+ "summary": "O Projeto de Lei n.º 791/XVII/2.ª, apresentado pelo LIVRE, propõe alterar o artigo 68.º do Código do IRS para reduzir as taxas gerais aplicáveis aos seis primeiros escalões de rendimento coletável. A descida varia consoante o escalão, sendo mais acentuada nos rendimentos mais baixos: o primeiro escalão passa de 12,50% para 11,50%, o segundo de 15,70% para 14,60%, o terceiro de 21,20% para 20,60%, o quarto de 24,10% para 23,60%, o quinto de 31,10% para 30,60% e o sexto de 34,90% para 34,50%. As taxas marginais dos três últimos escalões, aplicadas a rendimentos coletáveis superiores a 43 090 euros, mantêm-se inalteradas em 43,10%, 44,60% e 48,00%, embora as taxas médias do sétimo e oitavo escalões registem ligeiras descidas por efeito dos escalões anteriores. A iniciativa aplica-se a todos os contribuintes, independentemente da idade, e entra em vigor com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Reduz as taxas normais dos dois primeiros escalões do IRS em 1 e 1,1 pontos percentuais, passando o primeiro escalão para 11,50% e o segundo para 14,60%.",
+  "Aplica descidas entre 0,4 e 0,6 pontos percentuais do terceiro ao sexto escalão, abrangendo rendimentos coletáveis até 43 090 euros.",
+  "Mantém inalteradas as taxas marginais a partir do sétimo escalão (43,10%, 44,60% e 48,00%) e preserva a taxa adicional de solidariedade.",
+  "Aplica o alívio fiscal de forma universal a todos os contribuintes sujeitos às taxas gerais, sem distinção etária.",
+  "Determina que a alteração entre em vigor apenas com o Orçamento do Estado seguinte à publicação da lei."
+ ],
+ "plain_language": "Esta proposta baixa as taxas do IRS nos seis primeiros escalões de rendimento, que abrangem quem tem rendimentos coletáveis até 43 090 euros por ano. A redução é maior nos escalões mais baixos e vai diminuindo gradualmente até ao sexto escalão, enquanto as taxas aplicadas aos rendimentos mais elevados não mudam. Na prática, quem paga IRS passa a descontar um pouco menos de imposto ao Estado, qualquer que seja a sua idade. Como o imposto funciona de forma progressiva, mesmo quem ganha acima daquele limite paga menos sobre a parte inicial do seu rendimento. A mudança só entra em vigor no Orçamento do Estado seguinte.",
+ "context": "O LIVRE argumenta que a progressividade do IRS recai sobretudo sobre o trabalho e as pensões, penalizando rendimentos intermédios face ao capital, geralmente tributado a 28%. O partido considera insuficientes os recentes cortes de poucas décimas nas taxas e critica o IRS Jovem, que custou 734 milhões de euros em 2025, por criar desigualdades entre trabalhadores com o mesmo salário, poder pressionar salários de entrada em baixa e não ter eficácia comprovada contra a emigração. Propõe, por isso, um alívio geral para rendimentos baixos e médios.",
+ "analysis": "Como ponto forte, a iniciativa é tecnicamente simples, preserva a progressividade do imposto ao concentrar os cortes nos escalões iniciais e evita tratamentos diferenciados por idade. Contudo, apresenta fragilidades e inconsistências relevantes. Embora o título e a exposição de motivos visem aliviar os rendimentos do trabalho, a alteração às taxas gerais do artigo 68.º abrange todo o rendimento coletável englobado, beneficiando igualmente pensões e outros rendimentos agregados, e não altera o regime dos rendimentos de capital. Além disso, apesar de reconhecer um custo orçamental relevante e de defender um imposto sobre grandes fortunas na fundamentação, o projeto não quantifica a perda de receita nem inclui medidas de compensação financeira ou alterações ao IRS Jovem. Por fim, quem já está isento de IRS por baixos rendimentos não obtém qualquer benefício.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução das taxas gerais nos seis primeiros escalões de IRS diminui a receita fiscal arrecadada pelo Estado a partir do Orçamento do Estado seguinte à sua publicação. O documento reconhece que a medida tem um custo orçamental relevante, mas não apresenta qualquer estimativa ou montante para essa redução de receita, nem propõe fontes de financiamento compensatórias no articulado."
+ },
+ "affected": [
+  "contribuintes sujeitos a IRS",
+  "trabalhadores com rendimentos englobados",
+  "pensionistas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "irs",
+  "escalões fiscais",
+  "rendimentos do trabalho",
+  "progressividade fiscal",
+  "código do irs"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

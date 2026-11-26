@@ -1,0 +1,24 @@
+{
+ "short_title": "Desenvolvimento da Rede Nacional de Cuidados Continuados Integrados",
+ "summary": "Esta proposta visa melhorar a Rede Nacional de Cuidados Continuados Integrados (RNCCI), que foi criada para fornecer cuidados de saúde contínuos a pessoas dependentes. O documento destaca que a rede tem falhas significativas, como a falta de unidades de internamento (especialmente para convalescença e reabilitação), a escassez de profissionais de saúde (médicos, enfermeiros, etc.) e a falta de meios de transporte para as equipas domiciliárias. Propõe um plano para expandir a rede, criar mais unidades e camas, contratar mais profissionais e utilizar edifícios públicos para este fim, garantindo uma distribuição mais equitativa dos serviços por todo o país.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é sobre como o sistema de saúde que ajuda as pessoas a recuperar depois de uma doença ou a ter cuidados de longa duração está a precisar de uma grande reforma. Está a faltar camas, especialmente para quem está a convalescer, e também não há enfermeiros, médicos e outros profissionais suficientes para atender toda a gente. A proposta do PCP é que o governo crie mais unidades, contrate mais gente e garanta que as equipas que vão a casa das pessoas tenham carros para se deslocar. O objetivo é que ninguém fique sem os cuidados de que precisa, especialmente os idosos e os doentes crónicos.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise clara e consistente dos problemas que afetam a Rede Nacional de Cuidados Continuados Integrados (RNCCI). As dificuldades identificadas, como a carência de unidades de convalescença e de média duração/reabilitação, a falta de recursos humanos e a distribuição desadequada, são bem fundamentadas com dados (por exemplo, a necessidade de mais 2537 camas de convalescença). As propostas de implementação alinham-se diretamente com os objetivos de colmatar estas lacunas: a criação de novas unidades e camas, o reforço das equipas multidisciplinares com mais profissionais e a provisão de transportes para as equipas domiciliárias são medidas que visam resolver os problemas apontados. Não se detetam inconsistências internas na proposta; pelo contrário, há uma lógica clara entre o diagnóstico e as soluções apresentadas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao prever a criação de novas unidades de internamento (como 100 novas Unidades de Convalescença até 2025 e mais de 600 camas em Unidades de Longa Duração/Manutenção por ano a partir de 2024), a contratação de mais profissionais de saúde (médicos, enfermeiros, nutricionistas, psicólogos, fisioterapeutas, técnicos superiores de serviço social) e a aquisição de meios de transporte para as equipas comunitárias, implicará um aumento significativo dos gastos do governo. Não há menção a novas fontes de receita ou a medidas que possam diminuir as despesas. Portanto, o efeito líquido será um aumento substancial dos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

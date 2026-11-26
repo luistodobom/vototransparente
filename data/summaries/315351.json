@@ -1,0 +1,42 @@
+{
+ "short_title": "Eliminação do adicional nos combustíveis e descida do IVA para 13%",
+ "summary": "O Projeto de Lei n.º 123/XVII/1.ª, apresentado pelo Chega, propõe duas alterações fiscais sobre os combustíveis rodoviários. Em primeiro lugar, elimina o adicional ao Imposto sobre os Produtos Petrolíferos (ISP), criado em 2016, revogando a Portaria n.º 24-A/2016 e as restantes normas regulamentares que o alteraram. Em segundo lugar, apesar de não constar do título nem da exposição de motivos, o articulado altera a Lista II do Código do IVA para incluir a gasolina e o gasóleo rodoviário nos bens sujeitos à taxa intermédia, reduzindo o IVA aplicado a estes combustíveis de 23% para 13%. A entrada em vigor das medidas fica remetida para a publicação do Orçamento do Estado seguinte à aprovação da lei.",
+ "key_points": [
+  "Elimina o adicional ao Imposto sobre os Produtos Petrolíferos (ISP) em vigor desde 2016.",
+  "Revoga a Portaria n.º 24-A/2016, de 11 de fevereiro, e demais disposições regulamentares associadas a esse adicional.",
+  "Reduz a taxa de IVA da gasolina e do gasóleo rodoviário de 23% para 13%, integrando-os na Lista II do Código do IVA.",
+  "Estabelece que a lei só entra em vigor com a publicação do Orçamento do Estado subsequente à sua aprovação."
+ ],
+ "plain_language": "Esta proposta pretende baixar os impostos pagos ao abastecer o carro. Por um lado, acaba com uma taxa extra sobre os combustíveis que foi criada em 2016 como medida temporária, mas que se manteve até hoje. Por outro lado, o texto da lei reduz o IVA da gasolina e do gasóleo rodoviário da taxa normal de 23% para a taxa intermédia de 13%. Mesmo que seja aprovada pelo Parlamento, a medida não teria efeito imediato: só entraria em vigor quando fosse publicado o Orçamento do Estado seguinte.",
+ "context": "O grupo parlamentar proponente afirma que o adicional ao ISP foi criado em 2016 de forma extraordinária e temporária para compensar quebras de receita, mas tornou-se permanente sem justificação económica ou social atual. Sustenta que Portugal continua dependente dos combustíveis fósseis e que a elevada carga fiscal agrava o custo de vida das famílias e os custos das empresas, sobretudo nos setores do transporte, logística e agricultura. Defende ainda que eliminar este adicional aumenta a transparência do preço final e devolve poder de compra aos contribuintes.",
+ "analysis": "Um aspeto positivo do diploma é remeter a entrada em vigor para o Orçamento do Estado seguinte, evitando quebras abruptas de receita no exercício em curso. Contudo, o texto apresenta fragilidades importantes. Há uma clara inconsistência entre o título e a exposição de motivos, que apenas referem o adicional ao ISP, e o articulado, que inclui também a descida do IVA para 13% sem fundamentação prévia. Além disso, não apresenta estimativas de perda de receita orçamental nem analisa a compatibilidade da redução do IVA com regras europeias. Na técnica legislativa, o artigo 1.º menciona a descida do IVA sem especificar os combustíveis, o artigo 3.º omite uma fórmula de aditamento à Lista II e o diploma não assegura a repercussão integral nos preços finais.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A eliminação do adicional ao ISP e a redução da taxa de IVA da gasolina e do gasóleo rodoviário de 23% para 13% diminuem a receita fiscal arrecadada pelo Estado. O documento não quantifica o montante desta quebra de receita, remetendo os efeitos para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "condutores e consumidores de combustíveis",
+  "empresas de transporte e logística",
+  "explorações agrícolas",
+  "distribuidores de combustíveis"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "combustíveis",
+  "imposto sobre produtos petrolíferos",
+  "iva",
+  "gasolina e gasóleo",
+  "carga fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

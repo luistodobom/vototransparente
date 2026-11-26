@@ -1,0 +1,42 @@
+{
+ "short_title": "Estratégia integrada de combate ao incendiarismo nos fogos rurais",
+ "summary": "O Projeto de Resolução n.º 230/XVII/1.ª, apresentado pelo PAN, recomenda ao Governo, sem força vinculativa, a aprovação de uma estratégia integrada e holística de combate ao incendiarismo no âmbito do Sistema de Gestão Integrada de Fogos Rurais. A iniciativa propõe complementar as medidas atuais de vigilância, deteção e investigação criminal com respostas focadas nas causas sociais e de saúde pública associadas ao fogo posto. Concretamente, recomenda que a estratégia garanta uma articulação estreita entre os ministérios da Administração Interna, da Justiça, da Saúde e do Trabalho e Segurança Social. Prevê ainda a criação de equipas multidisciplinares de reinserção social e de saúde mental. Estas equipas destinam-se a acompanhar incendiários com diagnóstico combinado de comportamentos aditivos e dependências e de doença mental, visando reduzir a área ardida e proteger pessoas e bens.",
+ "key_points": [
+  "Recomenda ao Governo que aprove uma estratégia integrada e holística de combate ao incendiarismo no âmbito do Sistema de Gestão Integrada de Fogos Rurais.",
+  "Propõe a articulação estreita entre os ministérios da Administração Interna, da Justiça, da Saúde e do Trabalho e Segurança Social.",
+  "Prevê a criação de equipas multidisciplinares dedicadas à reinserção social e à saúde mental.",
+  "Direciona este acompanhamento específico para incendiários diagnosticados com comportamentos aditivos e dependências em conjunto com doença mental."
+ ],
+ "plain_language": "Este projeto é uma recomendação ao Governo, sem força de lei obrigatória, para mudar a forma como se combate o fogo posto em Portugal. O PAN defende que vigiar, investigar e punir quem ateia fogos não chega, porque muitos casos estão ligados ao alcoolismo, à exclusão social e a doenças mentais. Por isso, pede que os ministérios responsáveis pela polícia, justiça, saúde e segurança social trabalhem em conjunto. O objetivo é criar equipas especializadas para tratar e reintegrar na sociedade os incendiários que sofrem de dependências e de doença mental, procurando evitar novos incêndios.",
+ "context": "O proponente justifica a iniciativa com a gravidade dos incêndios de 2025, cuja área ardida já ultrapassou os 185 mil hectares, tornando Portugal o terceiro país da União Europeia mais afetado. Citando o relatório de 2024 do Sistema de Gestão Integrada de Fogos Rurais, destaca que o incendiarismo causou 84 272 hectares ardidos, representando 84% dos fogos com origem conhecida. Refere ainda um estudo preliminar da Polícia Judiciária que associa o perfil do incendiário ao alcoolismo, exclusão social e perturbações psíquicas, apontando a falta atual de respostas sociais e de saúde pública.",
+ "analysis": "A proposta tem o mérito de abordar uma lacuna identificada nos relatórios oficiais, promovendo a coordenação entre segurança, justiça, saúde e ação social para tratar causas profundas do incendiarismo, em vez de depender apenas da vigilância e punição. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa, pelo que o Governo não é obrigado a aplicá-lo. O texto apresenta fragilidades operacionais: não define prazos, orçamento, modelos de funcionamento das equipas nem esclarece se o acompanhamento clínico ocorre em contexto prisional, judicial ou comunitário. Verifica-se ainda uma tensão na exposição de motivos, que promete ganhos imediatos na redução da área ardida através de medidas de saúde mental e reinserção social cujos efeitos tendem a ser de médio ou longo prazo, além de se basear num estudo ainda preliminar.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O impacto orçamental é incerto, pois trata-se de uma recomendação não vinculativa e o documento não apresenta estimativas financeiras. A eventual criação de equipas multidisciplinares poderá aumentar a despesa pública, dependendo de implicar novas contratações ou apenas a reafetação de recursos existentes nos ministérios envolvidos."
+ },
+ "affected": [
+  "incendiários com dependências e doença mental",
+  "populações vulneráveis a incêndios rurais",
+  "equipas de saúde mental e reinserção social",
+  "ministérios da Administração Interna, Justiça, Saúde e Trabalho"
+ ],
+ "categories": [
+  "seguranca",
+  "saude",
+  "justica"
+ ],
+ "tags": [
+  "incendiarismo",
+  "fogos rurais",
+  "saúde mental",
+  "reinserção social",
+  "dependências"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

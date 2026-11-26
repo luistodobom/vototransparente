@@ -1,0 +1,24 @@
+{
+ "short_title": "Sustentabilidade e Equidade no Acesso ao Medicamento",
+ "summary": "Esta proposta de resolução aborda a dificuldade de acesso a medicamentos em Portugal, um problema agravado por medidas de austeridade que afetaram a cadeia de distribuição. O documento destaca os custos económicos significativos para os doentes e para o Serviço Nacional de Saúde devido à necessidade de consultas adicionais e deslocações. Aponta também para maiores dificuldades de acesso em distritos do interior. A proposta recomenda ao Governo que assegure que os mecanismos de fixação de preços e margens dos medicamentos considerem todos os fatores que afetam a sustentabilidade da cadeia, visando evitar a escassez e promover a transparência, garantindo assim a equidade no acesso ao medicamento.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento diz que está difícil para as pessoas conseguirem os seus medicamentos em Portugal, em parte por causa de cortes no orçamento que apertaram as empresas que os distribuem. Isso está a custar muito dinheiro aos doentes e ao Serviço Nacional de Saúde, porque as pessoas têm de ir mais vezes ao médico ou gastar tempo e dinheiro a procurar os remédios. A proposta é que o Governo mude as regras de como os preços dos medicamentos são definidos, para que toda a cadeia de distribuição seja mais estável e transparente. A ideia é que, assim, não falte medicação e todos tenham acesso justo, especialmente nas zonas mais afastadas.",
+ "context": null,
+ "analysis": "A proposta identifica claramente os problemas de acesso a medicamentos, os custos associados e as disparidades regionais, fundamentando-se em dados como o estudo do Centro de Estudos e Avaliação em Saúde. A solução proposta, que se foca na revisão dos mecanismos de fixação de preços e margens para garantir a sustentabilidade da cadeia de valor do medicamento e maior transparência, alinha-se diretamente com o objetivo de resolver as inconsistências e dificuldades apresentadas. Ao garantir a sustentabilidade da cadeia, espera-se que a disponibilidade e o acesso aos medicamentos melhorem, reduzindo os custos indiretos para doentes e para o sistema de saúde. A ênfase na transparência é crucial para monitorizar e otimizar o processo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não implica um aumento direto dos gastos do governo, mas sim uma recomendação para ajustar os mecanismos existentes. O documento estima que a dificuldade de acesso a medicamentos gera custos adicionais de 2,1 milhões a 4,4 milhões de euros para os doentes e de 35,3 milhões a 43,8 milhões de euros para o sistema de saúde. Ao melhorar a sustentabilidade da cadeia de medicamentos e o acesso, a proposta visa diminuir estes custos indiretos para o governo e para os cidadãos. O efeito líquido esperado é uma diminuição dos gastos do governo relacionados com a má gestão da cadeia de medicamentos e uma potencial melhoria na saúde pública, que pode levar a uma redução de custos a longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

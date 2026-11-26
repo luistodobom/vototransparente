@@ -1,0 +1,26 @@
+{
+ "short_title": "Alargamento do voto antecipado para eleitores em confinamento obrigatório",
+ "summary": "Esta proposta de lei visa alargar o direito de voto antecipado a eleitores que se encontrem em confinamento obrigatório devido a situações de grave risco para a saúde pública, como pandemias. Para tal, altera diversas leis eleitorais, incluindo as do Presidente da República, Assembleia da República, autarquias locais e referendos nacional, regional e local. Adicionalmente, a proposta aproveita para atualizar as leis eleitorais, eliminando referências ao cartão e número de eleitor e padronizando o número de eleitores por assembleia de voto para 1000.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer que as pessoas que estão em quarentena ou isolamento por causa de doenças graves, como a COVID-19, possam votar mais cedo. Assim, ninguém fica sem votar por estar doente ou em casa. Também aproveita para dar uma \"arrumadela\" nas regras de voto, tirando a parte do cartão de eleitor e ajustando o número de pessoas por mesa de voto para que não haja confusão.",
+ "context": null,
+ "analysis": "A proposta aborda de forma consistente o desafio de garantir o direito de voto em situações de confinamento obrigatório, como a pandemia de COVID-19. Os detalhes de implementação, como a solicitação eletrónica, a exigência de comprovativo médico, a recolha de boletins por equipas municipais com acompanhamento de autoridades de saúde e segurança, e a desinfeção e quarentena dos votos, alinham-se diretamente com o objetivo de assegurar a participação eleitoral em segurança. A inclusão de alterações para modernizar as leis eleitorais (eliminação do cartão de eleitor e ajuste do número de eleitores por mesa) demonstra uma abordagem abrangente, aproveitando a oportunidade para resolver outras questões pendentes, o que é uma prática legislativa eficiente e não uma inconsistência. A redução do número de eleitores por mesa de voto (de 1500 para 1000) também contribui para a segurança sanitária e para uma melhor gestão do processo eleitoral.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo. A criação e manutenção de uma plataforma eletrónica para pedidos de voto antecipado, a mobilização de equipas (compostas por elementos municipais, de saúde e de segurança) para a recolha de votos ao domicílio ou em estabelecimentos de saúde, e os custos associados à desinfeção e quarentena dos boletins de voto representam novas despesas operacionais. A padronização do número de eleitores por assembleia de voto para 1000, que pode levar ao desdobramento de mais secções de voto, também poderá implicar custos adicionais com pessoal e logística. Não há indicação de que a proposta aumente a receita do governo. O efeito líquido será, portanto, um aumento dos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

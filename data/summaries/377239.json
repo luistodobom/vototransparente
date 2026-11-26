@@ -1,0 +1,42 @@
+{
+ "short_title": "IVA zero temporário nos produtos alimentares essenciais",
+ "summary": "O Projeto de Lei propõe a aplicação transitória de uma isenção de Imposto sobre o Valor Acrescentado (IVA) com direito à dedução, conhecida como taxa zero, sobre as importações e transmissões de um conjunto alargado de produtos alimentares essenciais. A lista abrange cereais, pão, batata, arroz, massas, legumes, frutas, leguminosas secas, laticínios, carnes, peixe fresco ou congelado selecionado, atum em conserva, ovos, azeite, óleos, manteiga, bebidas e iogurtes vegetais, bem como produtos dietéticos para nutrição entérica e alimentos sem glúten para doentes celíacos. A medida vigora por períodos renováveis de três meses, mediante despacho do Governo, que fica incumbido de celebrar acordos trimestrais de preços com produtores e distribuidores. A lei entra em vigor no dia seguinte à publicação, mas só produz efeitos com o Orçamento do Estado seguinte, podendo o Executivo antecipar a aplicação se houver disponibilidade orçamental.",
+ "key_points": [
+  "Isenta de IVA, com direito à dedução, as importações e transmissões de uma lista definida de alimentos essenciais, incluindo produtos sem glúten e para nutrição entérica.",
+  "Estabelece que a isenção vigora por períodos de três meses, renováveis mediante despacho do Governo.",
+  "Determina que o Governo celebre acordos trimestrais de preços com produtores e distribuidores durante a aplicação da medida.",
+  "Prevê que a lei produza efeitos apenas com o Orçamento do Estado subsequente, salvo antecipação decidida pelo Governo por disponibilidade orçamental."
+ ],
+ "plain_language": "Esta proposta volta a retirar o IVA de vários alimentos básicos, como pão, leite, carne, peixe, fruta, legumes, azeite e ovos, além de produtos sem glúten. Na prática, o imposto passa a zero durante três meses, renováveis. As empresas continuam a poder recuperar o IVA que pagaram antes na cadeia de produção, para esse custo não passar para o cliente. O Governo fica obrigado a negociar acordos de preços com produtores e supermercados para tentar garantir que a descida chega ao consumidor. A medida só arranca no próximo Orçamento do Estado, salvo decisão antecipada do Governo.",
+ "context": "O proponente justifica a iniciativa com o encarecimento continuado da alimentação, citando dados da DECO PROteste segundo os quais o cabaz alimentar atingiu 255,26 euros em setembro de 2026, mais 36% face a janeiro de 2022. Aponta também a subida da inflação para 3,3% em agosto de 2026 e choques externos decorrentes do conflito no Médio Oriente após o ataque ao Irão, que encareceram combustíveis e fertilizantes, somados a tempestades no início do ano. O texto contrasta a perda de poder de compra das famílias com o aumento dos lucros de grandes grupos da distribuição alimentar.",
+ "analysis": "Como ponto positivo, a proposta evita custos ocultos na cadeia ao manter o direito à dedução do IVA para os operadores e remete o início de efeitos para o Orçamento do Estado seguinte, respeitando a estabilidade orçamental. Contudo, apresenta fragilidades jurídicas e práticas. Embora a exposição de motivos afirme que o projeto obriga o Governo a monitorizar os preços, o articulado omite qualquer mecanismo, critério ou obrigação legal de fiscalização, referindo apenas acordos trimestrais de preços. Além disso, a lei não prevê sanções nem instrumentos vinculativos caso produtores ou distribuidores não celebrem acordos ou absorvam parte da redução fiscal nas suas margens. A isenção é ainda universal, beneficiando todos os rendimentos sem focalização social, e o documento não apresenta estimativa do impacto na receita pública.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação de taxa zero de IVA com direito à dedução sobre bens alimentares essenciais reduz diretamente a receita fiscal arrecadada pelo Estado em sede deste imposto. O documento não apresenta qualquer estimativa ou montante do impacto orçamental desta redução de receita."
+ },
+ "affected": [
+  "consumidores",
+  "famílias",
+  "produtores agrícolas",
+  "distribuidores e retalhistas alimentares"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "iva zero",
+  "cabaz alimentar",
+  "inflação",
+  "preços alimentares",
+  "impostos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Proteção social excecional para advogados e solicitadores durante COVID-19",
+ "summary": "Esta proposta visa criar um regime excecional de proteção social para advogados e solicitadores, em resposta à paralisação dos tribunais devido à pandemia de COVID-19. Muitos destes profissionais viram os seus rendimentos drasticamente reduzidos, mas continuam obrigados a pagar contribuições mensais à Caixa de Previdência dos Advogados e Solicitadores (CPAS). A proposta recomenda que o Governo lhes permita, se assim o desejarem, fazer descontos para a Segurança Social, de forma semelhante a outros trabalhadores independentes, e que as suas contribuições para a CPAS sejam canceladas durante este período excecional, sem qualquer penalização. O objetivo é evitar a discriminação e garantir que estes profissionais tenham acesso a medidas de proteção social básicas.",
+ "key_points": [],
+ "plain_language": "Esta proposta é para dar uma ajuda aos advogados e solicitadores que ficaram com os rendimentos em baixo por causa da pandemia. Como os tribunais pararam, eles não estavam a ganhar dinheiro, mas continuavam a ter de pagar as suas contribuições para a caixa de previdência deles. A ideia é que o Governo lhes dê a opção de pagar para a Segurança Social, como fazem os outros trabalhadores por conta própria, e que não tenham de pagar as contribuições da caixa deles durante este período complicado. Assim, eles não ficam desprotegidos e não são prejudicados financeiramente, tal como os outros trabalhadores independentes.",
+ "context": null,
+ "analysis": "A proposta identifica uma falha significativa no sistema de proteção social português, onde advogados e solicitadores, apesar de serem trabalhadores independentes, não beneficiam das mesmas medidas de apoio que outros profissionais nesta categoria, especialmente em tempos de crise como a pandemia de COVID-19. A manutenção da obrigação de contribuições para a CPAS, mesmo com a perda de rendimentos, cria uma situação de vulnerabilidade e discriminação. A solução proposta de equiparar o seu regime ao dos restantes trabalhadores independentes, permitindo a opção pela Segurança Social e o cancelamento das contribuições para a CPAS, é uma abordagem lógica e consistente com o objetivo de fornecer uma rede de segurança e corrigir a desigualdade. A necessidade de articulação com a Ordem dos Advogados e a CPAS é um passo prático para a implementação eficaz da medida, que é claramente definida como excecional e temporária.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta pode potencialmente aumentar os gastos do governo. Ao permitir que advogados e solicitadores optem por descontar para a Segurança Social, o Estado poderá ter de suportar custos associados a benefícios sociais (como subsídios de doença ou apoios extraordinários) que estes profissionais possam vir a requerer. Embora também contribuam para a Segurança Social, em períodos de crise, a despesa com benefícios tende a superar a receita das contribuições. O cancelamento das contribuições para a CPAS não afeta diretamente a receita do governo, uma vez que a CPAS é uma entidade privada. O efeito líquido para as finanças públicas será, provavelmente, um aumento da despesa em proteção social, sem um aumento correspondente e garantido da receita."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

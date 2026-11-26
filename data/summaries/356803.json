@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço do enquadramento penal dos crimes de ódio e discriminação",
+ "summary": "O Projeto de Lei n.º 628/XVII/1.ª, do LIVRE, altera os artigos 132.º, 184.º e 240.º do Código Penal para alargar e uniformizar a punição dos crimes de ódio e discriminação. A iniciativa passa a abranger características reais ou percecionadas, como origem étnico-racial, nacionalidade, religião, língua, sexo, orientação sexual, identidade ou expressão de género, características sexuais e deficiência. No artigo 240.º, distingue o discurso de ódio organizado (1 a 8 anos) do público, incluindo em plataformas digitais (6 meses a 5 anos), prevendo a remoção de conteúdos. Criminaliza, com prisão de 6 meses a 8 anos, a recusa discriminatória de acesso a bens, serviços, saúde, educação, habitação ou emprego, revogando a Lei n.º 93/2017. Cria ainda penas acessórias, como proibição de contacto, interdição de redes sociais e programas de prevenção.",
+ "key_points": [
+  "Alarga e uniformiza nos artigos 132.º, 184.º e 240.º do Código Penal o elenco de características protegidas, abrangendo traços reais ou percecionados da vítima.",
+  "Agrava em metade os limites das penas de difamação, injúria e calúnia quando motivadas por ódio ou discriminação.",
+  "Inclui expressamente meios de comunicação social, plataformas digitais e redes sociais no crime de discurso de ódio público e permite aos tribunais ordenar a eliminação de conteúdos.",
+  "Transforma condutas discriminatórias no acesso a bens, serviços, saúde, educação, emprego ou habitação em crimes puníveis com prisão de 6 meses a 8 anos, revogando a Lei n.º 93/2017.",
+  "Cria penas acessórias de proibição de contacto com a vítima, suspensão profissional, proibição de uso de redes sociais e frequência obrigatória de programas de prevenção."
+ ],
+ "plain_language": "Esta proposta pretende tornar a lei penal mais dura contra quem pratica discriminação ou incentiva ao ódio. Hoje, recusar alugar casa, negar atendimento ou barrar acesso a serviços por preconceito é punido apenas com multa administrativa. O projeto quer transformar esses casos em crimes que podem dar prisão, mesmo que o agressor se engane sobre a origem, religião ou outra característica da vítima. Também inclui explicitamente o ódio publicado nas redes sociais e permite aos juízes mandar apagar conteúdos, proibir o agressor de contactar a vítima ou de usar plataformas digitais e obrigá-lo a frequentar programas de prevenção.",
+ "context": "O LIVRE justifica a iniciativa com o aumento acentuado dos crimes de discriminação e incitamento ao ódio registados pela Direção-Geral da Política de Justiça, que cresceram 219% entre 2020 e 2024 e atingiram 449 ocorrências em 2025. Cita ainda alertas da União Europeia e do Conselho da Europa sobre a violência contra migrantes, comunidades ciganas e pessoas LGBTQIA+. O partido aponta a subnotificação das vítimas e a baixa taxa de condenações em 2022 (apenas 11 em 491 participações), considerando ineficaz o atual regime contraordenacional da Lei n.º 93/2017.",
+ "analysis": "O projeto tem o mérito de uniformizar as características protegidas no Código Penal, incluir discriminação por perceção e adaptar o enquadramento ao ambiente digital e às penas acessórias. Contudo, apresenta fragilidades relevantes. Ao revogar integralmente a Lei n.º 93/2017 sem substituir os mecanismos administrativos, elimina uma via célere para casos de menor gravidade, transferindo todo o contencioso para tribunais penais sujeitos a prova mais exigente, o que pode agravar pendências sem garantir mais condenações. A moldura de 6 meses a 8 anos para recusa de bens ou serviços supera a do discurso de ódio público (até 5 anos), levantando dúvidas de proporcionalidade. Além disso, a nova redação do artigo 132.º suprime a referência ao ódio político no homicídio qualificado, e falta definir quem financia ou executa os programas obrigatórios de prevenção.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não quantifica encargos orçamentais. A transferência de contraordenações para a esfera criminal, o alargamento das penas de prisão e a criação de programas obrigatórios de prevenção podem gerar custos adicionais para o sistema judicial, prisional e de reinserção, ao mesmo tempo que extinguem eventuais receitas de coimas previstas na Lei n.º 93/2017."
+ },
+ "affected": [
+  "vítimas de crimes de ódio e discriminação",
+  "minorias étnicas, migrantes e pessoas LGBTQIA+",
+  "prestadores de bens, serviços, saúde, educação e habitação",
+  "tribunais e órgãos de polícia criminal"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "seguranca"
+ ],
+ "tags": [
+  "crimes de ódio",
+  "código penal",
+  "discriminação",
+  "discurso de ódio",
+  "penas acessórias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

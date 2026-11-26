@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais meios policiais para fiscalizar trotinetes e bicicletas elétricas",
+ "summary": "Este Projeto de Resolução recomenda ao Governo o reforço da capacidade de fiscalização sobre a circulação de velocípedes e trotinetes com motor elétrico nos centros urbanos. Sendo um projeto de resolução, trata-se de uma recomendação política não vinculativa dirigida ao Executivo. O texto propõe duas medidas centrais: primeiro, a celebração de protocolos com os municípios para reforçar a atuação das Polícias Municipais nesta área, respeitando a autonomia local e as competências municipais; segundo, a disponibilização às forças de segurança, nomeadamente PSP e GNR, e às polícias municipais de equipamentos específicos para a micromobilidade. Entre os meios referidos na iniciativa constam equipamentos portáteis para verificação de velocidade, bem como meios de apoio à fiscalização em ciclovias e zonas pedonais, procurando dotar os agentes de instrumentos adaptados às características destes veículos.",
+ "key_points": [
+  "Recomenda ao Governo que estabeleça protocolos com os municípios para reforçar a capacidade das Polícias Municipais na fiscalização de velocípedes e trotinetes com motor elétrico.",
+  "Prevê que a cooperação com as autarquias respeite a autonomia local e as competências próprias dos órgãos municipais.",
+  "Propõe a entrega de meios portáteis de verificação de velocidade às forças de segurança e às polícias municipais, inspirados em equipamentos como bancos de rolos portáteis ou radares.",
+  "Sugere o fornecimento de equipamentos e meios de apoio específicos para fiscalizar a circulação em ciclovias e zonas pedonais."
+ ],
+ "plain_language": "O CHEGA quer que o Governo dê mais meios à polícia, incluindo PSP, GNR e Polícias Municipais, para controlar quem anda de trotinete e bicicleta elétrica nas cidades. A ideia passa por fazer acordos com as câmaras municipais e entregar equipamentos próprios aos agentes, como aparelhos portáteis para medir a velocidade destes veículos e meios para vigiar ciclovias e passeios. Como é um projeto de resolução, não obriga o Governo a agir nem cria novas multas ou leis, servindo apenas como um apelo político para melhorar a fiscalização das regras que já existem.",
+ "context": "O proponente argumenta que o aumento expressivo de velocípedes e trotinetes elétricas nos centros urbanos gerou desafios de segurança rodoviária que o Estado não tem conseguido acompanhar. Aponta problemas recorrentes sentidos por peões, automobilistas e ciclistas, como a circulação em passeios e em sentido proibido, o estacionamento abusivo, a falta de iluminação e velocidades excessivas resultantes de alterações mecânicas nos veículos. Sustenta que, sem fiscalização adaptada e equipamentos adequados, as regras existentes tornam-se meramente declarativas, citando o exemplo dos Países Baixos no uso de bancos de rolos e radares portáteis.",
+ "analysis": "Como ponto positivo, a iniciativa identifica um desfasamento real entre a legislação rodoviária aplicável à micromobilidade e a capacidade técnica de fiscalização no terreno, sugerindo meios específicos usados noutros países. Contudo, o texto apresenta fragilidades importantes: por ser um projeto de resolução, não tem força vinculativa e não garante a aquisição dos equipamentos. Além disso, existe uma inconsistência entre a exposição de motivos e a parte recomendatória, pois a primeira destaca a necessidade de formação específica, sistemas de registo de infrações e coordenação com a ANSR e o IMT, mas as recomendações finais omitem esses pontos. O documento também não estima custos orçamentais, não define critérios de distribuição pelos municípios nem explica como superar restrições operacionais ou de efetivos nas forças policiais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora seja uma recomendação não vinculativa, a sua execução pelo Governo implica despesa pública com a aquisição e disponibilização de equipamentos portáteis de verificação de velocidade e meios de apoio à fiscalização para forças de segurança e polícias municipais. O documento não apresenta estimativas de custos nem indica fonte de financiamento."
+ },
+ "affected": [
+  "utilizadores de trotinetes e bicicletas elétricas",
+  "forças de segurança e polícias municipais",
+  "municípios",
+  "peões e ciclistas"
+ ],
+ "categories": [
+  "seguranca",
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "trotinetes elétricas",
+  "micromobilidade",
+  "fiscalização rodoviária",
+  "polícias municipais",
+  "velocípedes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

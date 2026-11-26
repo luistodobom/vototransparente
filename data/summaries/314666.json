@@ -1,0 +1,25 @@
+{
+ "short_title": "Avaliação de Projeto-Piloto de Voto Eletrónico para Emigrantes",
+ "summary": "Esta proposta recomenda que o Governo português avalie as condições necessárias para implementar um projeto-piloto de voto eletrónico não presencial, sem caráter vinculativo, destinado aos cidadãos portugueses residentes no estrangeiro. O objetivo é combater a baixa participação eleitoral dos emigrantes, garantindo a autenticidade, segurança e confidencialidade do processo de voto.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD está a pedir ao Governo para estudar e testar uma forma de os portugueses que vivem lá fora poderem votar pela internet, sem terem de ir a um sítio físico. A ideia é ver se funciona e se é seguro, porque hoje em dia muito poucos emigrantes votam. É um teste, não é para já mudar tudo.",
+ "context": null,
+ "analysis": "O documento identifica corretamente a baixa participação eleitoral dos portugueses no estrangeiro como um problema significativo, apresentando dados concretos para sustentar essa afirmação. A proposta de um projeto-piloto não vinculativo é uma abordagem sensata e cautelosa, reconhecendo as \"questões de elevada complexidade técnica e jurídica\" associadas ao voto eletrónico não presencial, como a segurança da informação, a pessoalidade e o caráter secreto do voto. Ao focar-se numa avaliação prévia e num piloto, a proposta alinha a implementação com a necessidade de mitigar riscos e garantir a integridade do processo eleitoral, sem comprometer de imediato o sistema atual. Não há inconsistências, mas sim uma progressão lógica do problema para uma solução faseada e testada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao recomendar apenas a avaliação das condições e a implementação de um projeto-piloto, implicará um aumento dos gastos do governo. Estes custos estarão relacionados com estudos de viabilidade técnica e jurídica, desenvolvimento ou aquisição de tecnologia para o piloto, e a sua eventual implementação e monitorização. Não se prevê um impacto direto na receita do governo. O efeito líquido será um aumento dos gastos públicos, embora o montante exato seja incerto e dependa da escala e complexidade da avaliação e do piloto."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

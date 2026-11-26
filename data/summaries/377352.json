@@ -1,0 +1,44 @@
+{
+ "short_title": "Orçamento do Estado para 2027",
+ "summary": "A Proposta de Lei n.º 110/XVII/2.ª aprova o Orçamento do Estado para 2027 e autoriza o Governo a cobrar impostos e contribuições e a realizar despesas durante esse ano. O diploma estabelece reservas orçamentais de 5 % e 2,5 % nos programas das entidades públicas, limita o aumento de encargos com aquisição de serviços a 1,75 % face a 2026 e define regras de recrutamento e mobilidade na Administração Pública, ensino superior e Serviço Nacional de Saúde. Na área fiscal, atualiza os escalões de IRS e o mínimo de existência para 13 580 euros, prorroga incentivos como o SIFIDE II, isenta de IRS prémios de produtividade até 6 % e a habitação cedida por empregadores, e elimina gradualmente isenções sobre produtos petrolíferos. Fixa ainda o limite de endividamento líquido global direto em 22 mil milhões de euros e detalha as transferências financeiras para a Segurança Social, regiões autónomas, municípios, freguesias e entidades intermunicipais.",
+ "key_points": [
+  "Atualiza os escalões de IRS, eleva o mínimo de existência para 13 580 euros e mantém a isenção de IRS e contribuições sociais sobre prémios de produtividade até 6 % da retribuição base anual e sobre habitação permanente fornecida pelo empregador.",
+  "Cria reservas orçamentais de 5 % e 2,5 % nos programas de cada ministério e limita a 1,75 % o crescimento global da despesa com contratos de aquisição de serviços face a 2026.",
+  "Autoriza o Governo a aumentar o endividamento líquido global direto até 22 mil milhões de euros e fixa tetos para a concessão de garantias do Estado e empréstimos públicos.",
+  "Elimina gradualmente isenções fiscais em produtos petrolíferos e energéticos usados na produção de eletricidade e calor, consignando receitas ao Sistema Elétrico Nacional e ao Fundo Ambiental.",
+  "Define as transferências orçamentais para municípios, freguesias, regiões autónomas e Fundo de Financiamento da Descentralização, e limita a subida das propinas nas licenciaturas públicas à taxa de inflação."
+ ],
+ "plain_language": "Este projeto é a lei das contas do Estado para 2027, que diz quanto dinheiro o Governo pode cobrar em impostos, pedir emprestado e gastar. Traz mudanças diretas para as pessoas: ajusta os escalões do IRS e sobe o rendimento isento de imposto para 13 580 euros, mantém benefícios fiscais para prémios de desempenho e casas cedidas pelas empresas e trava o aumento das propinas nas licenciaturas públicas à inflação. Também fixa o dinheiro que vai para as câmaras municipais, juntas de freguesia, regiões autónomas, saúde, proteção civil e bem-estar animal, enquanto impõe travões aos gastos dos serviços públicos com contratos externos.",
+ "context": "O documento apresentado contém apenas o articulado da proposta de lei e os anexos de transferências, não incluindo a exposição de motivos ou o relatório justificativo do Governo. A iniciativa é submetida nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, que atribui ao Governo a competência para apresentar à Assembleia da República a proposta de Orçamento do Estado anual, assegurando o quadro legal de cobrança de impostos, realização de despesas, gestão da dívida pública e financiamento dos serviços do Estado e das autarquias para 2027.",
+ "analysis": "A proposta combina medidas de alívio fiscal no IRS e incentivos empresariais com mecanismos de controlo de despesa e disciplina financeira nas empresas públicas e autarquias, incluindo metas de redução de pagamentos em atraso e reporte obrigatório à Assembleia da República sobre garantias e recuperação de créditos. Contudo, apresenta fragilidades relevantes ao nível da transparência e escrutínio: as reservas orçamentais obrigatórias de 5 % e 2,5 % e as amplas autorizações para transferir verbas entre programas e utilizar o capítulo 60 conferem elevada discricionariedade ao Executivo durante a execução. Além disso, o texto multiplica exceções à fiscalização prévia do Tribunal de Contas e aos limites de endividamento municipal, aumentando riscos financeiros futuros. Por fim, a ausência dos mapas orçamentais principais e da fundamentação económica no documento anexo impede a avaliação global das receitas e despesas totais.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A proposta reduz receita fiscal ao atualizar os escalões de IRS e manter isenções sobre prémios de produtividade e habitação laboral, mas aumenta receitas com a eliminação de isenções nos produtos petrolíferos e a atualização de taxas ambientais em 4 %. Prevê grandes volumes de despesa e transferências, como 3 466 269 008 € para o Fundo de Equilíbrio Financeiro e 1 495 566 019 € para o Fundo de Financiamento da Descentralização, além de autorizar até 22 000 000 000 € de endividamento líquido global direto e 4 500 000 000 € em garantias do Estado."
+ },
+ "affected": [
+  "contribuintes e trabalhadores",
+  "empresas e setor empresarial do Estado",
+  "municípios, freguesias e regiões autónomas",
+  "serviços e trabalhadores da Administração Pública",
+  "estudantes do ensino superior público"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "orçamento do estado",
+  "irs",
+  "finanças locais",
+  "dívida pública",
+  "administração pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

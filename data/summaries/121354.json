@@ -1,0 +1,26 @@
+{
+ "short_title": "Fim da discriminação trans em rastreios oncológicos",
+ "summary": "Esta proposta visa acabar com a discriminação de pessoas trans nos programas de rastreio oncológico do Serviço Nacional de Saúde para cancro da mama, colorretal e colo do útero. Atualmente, o sistema convida pessoas com base no género civil, o que exclui pessoas trans cujos órgãos biológicos podem não corresponder ao seu género registado. A solução proposta é criar um campo confidencial no sistema SiiMA Rastreios para que os profissionais de saúde possam identificar e incluir estes utentes, garantindo a sua privacidade.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que as pessoas trans não sejam deixadas de fora dos exames de despiste de cancro da mama, intestino e colo do útero. Hoje em dia, o sistema só convida as pessoas com base no género que está no cartão de cidadão, o que é um problema para quem é trans e tem órgãos que não correspondem a esse género. A ideia é criar uma opção secreta no sistema para os médicos poderem assinalar esses casos e garantir que toda a gente é convidada para os exames importantes, sem que ninguém saiba da sua identidade de género.",
+ "context": null,
+ "analysis": "O documento aponta uma clara inconsistência entre o objetivo dos rastreios oncológicos populacionais e a sua implementação atual. Ao basear os convites no género civil, o sistema SiiMA Rastreios falha em incluir proativamente pessoas trans que, apesar de terem um género civil diferente, possuem os órgãos biológicos que necessitam de rastreio. Esta falha contraria as diretrizes da Estratégia Nacional para a Igualdade e a Não-Discriminação. A proposta alinha-se perfeitamente com o objetivo de inclusão, ao sugerir uma alteração técnica no sistema (a criação de um campo autónomo e acessível apenas ao sistema para sinalização por profissionais de saúde) que permite corrigir esta discriminação, garantindo que os rastreios chegam a todos os que deles necessitam, salvaguardando a privacidade dos utentes. A solução é tecnologicamente viável e eticamente sólida.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento marginal nos gastos do governo. Haverá um custo associado à modificação do sistema SiiMA Rastreios para incluir o novo campo, embora este deva ser relativamente baixo. Adicionalmente, a inclusão de um maior número de pessoas nos rastreios resultará num aumento dos custos diretos com a realização dos exames (mamografias, testes de sangue oculto nas fezes, citologias cervicais). Não se prevê um impacto direto na receita do governo. O efeito líquido será um ligeiro aumento da despesa, que poderá ser compensado a longo prazo pela deteção precoce de cancros, potencialmente reduzindo os custos de tratamentos mais avançados e melhorando os resultados de saúde pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da proteção de pessoas com demência nos estabelecimentos de saúde",
+ "summary": "O Projeto de Resolução n.º 929/XVII/1.ª, apresentado pelo Grupo Parlamentar do LIVRE, recomenda ao Governo quatro medidas para reforçar a proteção das pessoas com demência nos estabelecimentos de saúde. Como recomendação parlamentar, não tem força vinculativa. Primeiro, propõe que todos os estabelecimentos do Serviço Nacional de Saúde divulguem, de modo claro e visível, o direito ao acompanhamento previsto na Lei n.º 15/2014. Segundo, recomenda que o Governo avalie formas proporcionais e dignas de melhorar a identificação e referenciação de utentes com demência ou défice cognitivo na admissão. Terceiro, pede o reforço da formação sobre demência, prevenção de vulnerabilidades e resposta a incidentes para todos os trabalhadores da saúde. Por fim, solicita a monitorização das condições de segurança e a análise de incidentes para corrigir procedimentos.",
+ "key_points": [
+  "Divulgar de modo claro e visível o direito ao acompanhamento em todos os estabelecimentos do Serviço Nacional de Saúde.",
+  "Avaliar mecanismos proporcionais e dignos para melhorar a identificação e referenciação de pessoas com demência na admissão.",
+  "Reforçar a formação de todos os trabalhadores dos estabelecimentos de saúde sobre demência, prevenção de riscos e resposta a incidentes.",
+  "Monitorizar as condições de segurança de pessoas vulneráveis e analisar incidentes para corrigir procedimentos e emitir recomendações."
+ ],
+ "plain_language": "Este documento é uma recomendação ao Governo — não cria obrigações legais imediatas — para proteger melhor as pessoas com demência nos hospitais e centros de saúde. O objetivo é evitar que fiquem sozinhas, desorientadas ou desapareçam das instalações. Para isso, pede-se que os serviços informem claramente sobre o direito a ter um acompanhante, identifiquem estes utentes logo à entrada, deem formação sobre demência a todos os trabalhadores e analisem as falhas de segurança para corrigir problemas futuros.",
+ "context": "O proponente justifica a iniciativa com o crescimento da demência em Portugal, estimada em 238.401 pessoas atualmente e 367.807 até 2050. Destaca que a desorientação em ambiente hospitalar já causou desaparecimentos, citando o caso fatal de Avelina Ferreira nas urgências do Hospital de São Francisco Xavier, que motivou uma petição com cerca de 9.800 assinaturas. Aponta ainda centenas de queixas anuais à Entidade Reguladora da Saúde por falhas no acompanhamento, vigilância e controlo de saídas, que levaram a um alerta de supervisão em 2024.",
+ "analysis": "A iniciativa responde a falhas documentadas no sistema de saúde, apoiando-se em dados epidemiológicos e reclamações registadas pela Entidade Reguladora da Saúde sobre o incumprimento da Lei n.º 15/2014. A abordagem preventiva — combinando informação, referenciação, formação transversal e análise de incidentes — é coerente. Contudo, tratando-se de um Projeto de Resolução, tem natureza meramente recomendatória e não vinculativa para o Governo. Além disso, as medidas são genéricas: expressões como «avalie a possibilidade» e a falta de prazos, metas ou recursos definidos deixam incerta a aplicação prática, sobretudo perante constrangimentos de pessoal nos hospitais e a necessidade de conciliar a identificação de utentes com a privacidade clínica.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta estimativas de custos e, por ser uma recomendação não vinculativa, não gera despesa automática. Contudo, a eventual concretização de medidas como formação generalizada e reforço da monitorização poderá implicar encargos adicionais para os serviços de saúde."
+ },
+ "affected": [
+  "pessoas com demência",
+  "acompanhantes e familiares",
+  "trabalhadores dos estabelecimentos de saúde",
+  "estabelecimentos do Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "demência",
+  "direito ao acompanhamento",
+  "serviço nacional de saúde",
+  "segurança de utentes",
+  "formação profissional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

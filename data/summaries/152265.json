@@ -1,0 +1,26 @@
+{
+ "short_title": "Criação do Programa de Apoio às Cooperativas de Habitação",
+ "summary": "Portugal enfrenta uma grave crise habitacional, com preços de casas muito elevados e salários baixos. Esta proposta de lei, apresentada pelo partido LIVRE, visa criar o Programa de Apoio às Cooperativas de Habitação. O objetivo principal é estimular e financiar cooperativas que construam ou reabilitem imóveis para habitação acessível, promovendo a propriedade coletiva e um modelo não especulativo, contribuindo assim para a melhoria da qualidade de vida e a coesão social.",
+ "key_points": [],
+ "plain_language": "Em Portugal, as casas estão caríssimas e os salários não chegam para as despesas. Este projeto do LIVRE quer ajudar as pessoas a juntarem-se em cooperativas para construírem ou arranjarem casas mais baratas. A ideia é que a propriedade seja de todos e não para especular, garantindo que mais gente tenha uma casa digna e acessível. O governo vai dar dinheiro e empréstimos para ajudar estas cooperativas a funcionar.",
+ "context": null,
+ "analysis": "O documento fundamenta a necessidade da proposta na crise habitacional portuguesa, citando dados de sobrevalorização imobiliária e baixos salários, o que é consistente com a realidade. A solução proposta, o apoio a cooperativas de habitação, alinha-se com o direito constitucional à habitação digna e com políticas governamentais existentes, como a Nova Geração de Políticas de Habitação e a Estratégia Portugal 2030, que já preveem o apoio a cooperativas. Os detalhes de implementação, como a exigência de propriedade coletiva, a destinação exclusiva para habitação própria e permanente, e a utilização de custos de referência tabelados, são coerentes com o objetivo de combater a especulação e garantir a acessibilidade. A proposta também prevê a utilização de património público e o estímulo à reabilitação, o que demonstra uma abordagem integrada e sustentável. Não se identificam inconsistências no texto fornecido; pelo contrário, a proposta parece bem articulada e alinhada com os objetivos declarados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento dos gastos do governo, uma vez que estabelece financiamento público para as cooperativas de habitação. Isso inclui comparticipações a fundo perdido (não reembolsáveis) de pelo menos 25% do custo total de construção para projetos de reabilitação, e a concessão de empréstimos a longo prazo através do Instituto da Habitação e da Reabilitação Urbana (IHRU). Não há indicação de que a proposta aumentará a receita do governo. O efeito líquido será um aumento da despesa pública para apoiar a construção e reabilitação de habitação acessível."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

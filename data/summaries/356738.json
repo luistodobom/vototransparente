@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço da prevenção e combate à violência policial e abuso de poder",
+ "summary": "O Projeto de Resolução n.º 955/XVII/1.ª, apresentado pelo LIVRE, recomenda ao Governo um conjunto de medidas para prevenir e combater a violência policial e o abuso de poder nas forças de segurança. Por se tratar de um projeto de resolução, estas orientações não têm força vinculativa. A iniciativa propõe a instalação permanente de sistemas de videovigilância em salas de detenção, espaços comuns de esquadras, estabelecimentos prisionais, centros de instalação temporária, zonas internacionais de fronteira e veículos de transporte de detidos. Recomenda também o acesso imediato a advogado desde o início da privação de liberdade, através de uma bolsa de advogados. Prevê ainda o reforço dos critérios de admissão e permanência nas forças de segurança, com avaliações psicológicas e testes de deteção de radicalização periódicos, verificação do percurso dos candidatos e formação reforçada em Direitos Humanos e uso proporcional da força.",
+ "key_points": [
+  "Instalar sistemas de videovigilância permanentes em salas de detenção, áreas comuns de esquadras, estabelecimentos prisionais, centros de instalação temporária, postos de fronteira e veículos de transporte de detidos.",
+  "Assegurar acesso imediato a um advogado desde o início da detenção, mediante a criação de uma bolsa de advogados disponível em esquadras, postos policiais e prisões.",
+  "Tornar obrigatórias avaliações psicológicas rigorosas e testes de deteção de radicalização no ingresso nas forças de segurança e, periodicamente, nas avaliações de desempenho.",
+  "Reforçar o controlo de idoneidade dos candidatos às forças de segurança através da análise do seu percurso escolar e profissional.",
+  "Alargar a formação inicial e contínua em Direitos Humanos, combate ao racismo e à definição de perfis raciais, uso proporcional da força e atuação perante queixas de abusos."
+ ],
+ "plain_language": "O LIVRE recomenda ao Governo que adote mais medidas para evitar agressões e abusos de poder por parte das forças de segurança. Por ser uma recomendação, o Governo não é obrigado a aplicá-la. O texto sugere instalar câmaras de vigilância em todas as salas de detenção, nas zonas comuns das esquadras e prisões e nos veículos de transporte de detidos. Propõe também garantir que quem é detido tenha logo acesso a um advogado, exigir testes psicológicos e de deteção de radicalização regulares aos agentes e reforçar a formação em direitos humanos.",
+ "context": "O proponente invoca alertas reiterados de organismos internacionais e europeus, como o Comité Europeu para a Prevenção da Tortura, a ECRI e comités das Nações Unidas, sobre casos de violência policial, maus-tratos, definição de perfis raciais e falhas no acesso a advogado em Portugal. Cita ainda processos judiciais e denúncias recentes envolvendo agentes da PSP, do extinto SEF e guardas prisionais, incluindo agressões graves e tortura contra pessoas vulneráveis, bem como posições da Amnistia Internacional e do Sindicato Nacional dos Oficiais de Polícia favoráveis à videovigilância.",
+ "analysis": "A iniciativa tem o mérito de responder a recomendações internacionais concretas e de conjugar medidas de fiscalização, garantias jurídicas para os detidos e prevenção no recrutamento. O recurso à videovigilância recolhe inclusive apoio sindical citado no texto. Contudo, tratando-se de um projeto de resolução, as medidas não são vinculativas e carecem de concretização legislativa e orçamental. O documento não estima custos nem prazos, apesar do impacto logístico de equipar todas as esquadras, prisões e veículos, bem como de manter uma bolsa de advogados permanente. Além disso, faltam critérios técnicos e legais para os «testes de deteção de radicalização» e para a análise do percurso escolar dos candidatos, cuja aplicação periódica pode levantar questões de privacidade e direito laboral. Nota-se ainda uma imprecisão redatorial na referência a «postos policiais de estabelecimentos prisionais».",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Como projeto de resolução, não gera despesa direta imediata por não ser vinculativo. Contudo, a concretização das medidas recomendadas — nomeadamente a instalação de videovigilância em larga escala, a criação de uma bolsa de advogados, a realização periódica de avaliações e o reforço da formação — implicaria um aumento da despesa pública, sem que o documento apresente estimativas de custos."
+ },
+ "affected": [
+  "elementos das forças de segurança",
+  "guardas prisionais",
+  "pessoas detidas ou sob custódia",
+  "candidatos às forças de segurança",
+  "advogados"
+ ],
+ "categories": [
+  "seguranca",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "violência policial",
+  "forças de segurança",
+  "videovigilância",
+  "direitos humanos",
+  "abuso de poder"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

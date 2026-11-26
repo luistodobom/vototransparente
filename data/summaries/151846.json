@@ -1,0 +1,26 @@
+{
+ "short_title": "Redução do IVA do Gás e Eletricidade",
+ "summary": "A proposta visa reduzir a taxa de IVA aplicável ao gás e à eletricidade para a taxa mínima de 6%. O objetivo é aliviar o peso dos custos crescentes da energia sobre as famílias e empresas portuguesas, que têm enfrentado aumentos significativos nas faturas. O documento argumenta que, apesar de Portugal ser menos dependente do gás russo, os preços da energia continuam a subir, e a componente de impostos na eletricidade é das mais altas da Europa. A redução do IVA é apresentada como uma medida fiscal eficaz para desonerar os consumidores, seguindo exemplos de outros países europeus como a Alemanha e Espanha.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do CHEGA quer que o governo baixe o imposto (IVA) que pagamos na conta da luz e do gás. Eles dizem que os preços estão uma loucura e que as famílias já não aguentam mais. Como o governo tem tido muito dinheiro a mais (superávit), eles acham que é justo usar esse dinheiro para ajudar as pessoas a pagar menos pela energia, que é essencial. É uma forma de aliviar o bolso dos portugueses.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente o problema do aumento dos preços da energia e o seu impacto nas famílias e empresas. A argumentação é consistente, apontando que as medidas existentes (como o mecanismo ibérico) não são suficientes para anular a subida de preços e que a via fiscal é a mais eficaz. O documento destaca a elevada componente de impostos na fatura da eletricidade em Portugal e a situação de pobreza energética, onde uma parte significativa da população tem dificuldades em aquecer as suas casas. A justificação para a redução do IVA é reforçada pela menção aos excedentes orçamentais do governo, sugerindo que há margem financeira para esta medida sem comprometer as finanças públicas. A proposta alinha os detalhes da implementação (alteração do Código do IVA para incluir gás e eletricidade na taxa reduzida de 6%) com o objetivo de reduzir os custos para o consumidor.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição da receita do governo devido à redução da taxa de IVA sobre o gás e a eletricidade. O documento não quantifica a perda exata de receita, mas argumenta que o governo tem \"excedentes orçamentais\" significativos (432 milhões de euros em julho, 1113 milhões em junho), o que sugere que a medida é financeiramente viável. O efeito líquido será uma diminuição da receita fiscal do governo, mas com o objetivo de aliviar os gastos das famílias e empresas."
+ },
+ "affected": [],
+ "categories": [
+  "energia",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

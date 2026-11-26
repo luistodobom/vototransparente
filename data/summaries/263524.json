@@ -1,0 +1,25 @@
+{
+ "short_title": "Redução de impostos e contribuições para profissionais liberais",
+ "summary": "Esta proposta visa aliviar a carga fiscal e contributiva sobre os profissionais liberais em Portugal. As medidas incluem a diminuição da taxa mínima de retenção de IRS, a revogação do pagamento por conta, o aumento do patamar de isenção facultativa de IVA e a eliminação da penalização de contribuições para a Segurança Social em períodos sem atividade. O objetivo é simplificar as obrigações financeiras e melhorar a gestão de tesouraria destes profissionais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer facilitar a vida dos trabalhadores independentes, como médicos, advogados ou consultores. Querem que paguem menos impostos adiantados, acabem com algumas taxas que têm de pagar antes de tempo, permitam que mais deles não paguem IVA e que não sejam obrigados a pagar Segurança Social quando não estão a ganhar dinheiro. A ideia é que tenham mais dinheiro no bolso e menos chatices com as finanças.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e alinhada com o objetivo de simplificar e reduzir a carga fiscal e contributiva para os profissionais liberais. A \"Exposição de Motivos\" detalha os problemas enfrentados por este grupo, como a retenção desproporcional de IRS e a complexidade do sistema de IVA e Segurança Social. As medidas propostas, como a redução das taxas de retenção de IRS para 10% e 15%, o fim do pagamento por conta, o aumento do limite de isenção de IVA para 25.000 euros e a eliminação da contribuição mínima para a Segurança Social em períodos sem rendimentos, abordam diretamente as questões levantadas. A proposta também critica a inação de governos anteriores em resolver estas questões, reforçando a urgência e a necessidade das alterações. A implementação destas medidas parece diretamente alinhada com o objetivo de proporcionar maior liquidez e simplificação burocrática aos profissionais liberais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal que tenderá a diminuir a receita do governo. A redução das taxas de retenção de IRS e a revogação do pagamento por conta implicam uma diminuição dos adiantamentos de imposto, embora o imposto final devido possa ser o mesmo, o que afeta o fluxo de caixa do Estado. O aumento do patamar de isenção de IVA para 25.000 euros resultará numa diminuição da receita de IVA, uma vez que mais profissionais ficarão isentos. A eliminação da contribuição mínima para a Segurança Social em períodos sem atividade também diminuirá as receitas da Segurança Social. O efeito líquido será uma diminuição dos gastos dos contribuintes e, consequentemente, uma diminuição da receita do governo e das contribuições para a Segurança Social."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

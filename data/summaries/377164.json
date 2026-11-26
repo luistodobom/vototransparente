@@ -1,0 +1,45 @@
+{
+ "short_title": "Medidas urgentes contra o agravamento do custo de vida",
+ "summary": "Este Projeto de Resolução — uma recomendação não vinculativa dirigida ao Governo — propõe a adoção urgente de 15 medidas para conter a subida do custo de vida e apoiar famílias e setores económicos. No plano fiscal, recomenda a isenção temporária de IVA num cabaz alimentar essencial por três meses renováveis, a redução do IVA dos combustíveis e do gás engarrafado de 23% para 13% e a duplicação dos limites de consumo de eletricidade com IVA reduzido. Para as empresas e setores expostos, sugere reforçar os apoios à agricultura (fertilizantes e gasóleo agrícola), aos transportes, às indústrias com uso intensivo de energia e aos exportadores, além de avaliar os custos suportados por municípios e IPSS. Recomenda ainda apoios habitacionais para famílias com crédito à habitação, reforço do transporte público, monitorização das cadeias agroalimentares e a conversão de eventuais suplementos extraordinários aos pensionistas em atualizações permanentes das pensões.",
+ "key_points": [
+  "Isentar temporariamente de IVA um cabaz alimentar essencial durante três meses renováveis e reduzir de 23% para 13% o IVA dos combustíveis e do gás engarrafado.",
+  "Duplicar os limites de consumo doméstico de eletricidade abrangidos pela taxa reduzida de IVA, dando prioridade a famílias numerosas e agregados vulneráveis.",
+  "Reforçar os apoios agrícolas, duplicando a compensação por hectare para fertilizantes e aumentando o apoio ao gasóleo agrícola para pelo menos 30 cêntimos por litro.",
+  "Aprovar programas temporários de apoio para famílias com elevado esforço habitacional, setor dos transportes, indústrias com uso intensivo de energia e exportadores.",
+  "Converter qualquer novo suplemento extraordinário aos pensionistas numa atualização permanente da pensão financiada pelo Orçamento do Estado, com eventual ajustamento do IRC em um ponto percentual.",
+  "Avaliar trimestralmente os impactos económicos do conflito no Médio Oriente e criar um mecanismo de monitorização de preços e margens ao longo da cadeia agroalimentar."
+ ],
+ "plain_language": "Esta proposta é um pedido formal do Parlamento ao Governo para agir depressa contra a subida dos preços. Como é uma recomendação, o Governo não é obrigado a cumpri-la. O PS quer baixar temporariamente os impostos sobre a gasolina, o gasóleo e a botija de gás, retirar o IVA a um cabaz de alimentos básicos e alargar o desconto na eletricidade. Sugere também ajudar agricultores, transportadoras e indústrias que gastam muita energia, além de apoiar quem tem dificuldades em pagar a casa. Por fim, pede que eventuais bónus dados aos reformados passem a aumentos definitivos nas pensões.",
+ "context": "O PS justifica a urgência com a aceleração da inflação em agosto de 2026 (3,3% no Índice de Preços no Consumidor e 3,6% no índice harmonizado, acima dos 3,3% da zona euro), impulsionada pela energia e pela instabilidade no Médio Oriente. Aponta também a subida de 5,89% em um ano no cabaz alimentar monitorizado pela DECO PROteste e o impacto dos custos energéticos nas empresas e na habitação. Argumenta ainda que o Estado tem margem orçamental, devido ao acréscimo de receita com combustíveis e IVA, e que as respostas anteriores do Governo foram insuficientes.",
+ "analysis": "Como ponto positivo, a iniciativa combina alívio imediato nos preços com monitorização das margens agroalimentares e relatórios trimestrais ao Parlamento, procurando evitar que os apoios públicos sejam absorvidos pela cadeia de distribuição. É também de assinalar que indica uma fonte de financiamento eventual (ajustamento no IRC) para a atualização permanente das pensões. Contudo, apresenta fragilidades relevantes. Tratando-se de um Projeto de Resolução, não vincula o Governo nem quantifica o custo global das 15 medidas. As descidas generalizadas do IVA nos combustíveis e nos alimentos têm elevado impacto orçamental e beneficiam de forma indiferenciada todos os rendimentos, incluindo os mais altos. Além disso, medidas ditas temporárias enfrentam frequentemente resistência política aquando da reversão, e vários pontos — como os apoios à habitação e às indústrias — carecem de critérios operacionais concretos.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A iniciativa combina redução de receita fiscal (isenção e descidas de IVA nos alimentos, combustíveis, gás e eletricidade) com aumento de despesa pública em apoios setoriais, habitação e pensões permanentes. Para financiar estas pensões, prevê um eventual ajustamento de um ponto percentual nas taxas do IRC, sem quantificar o impacto orçamental global."
+ },
+ "affected": [
+  "famílias e consumidores",
+  "pensionistas",
+  "agricultores e setor das pescas",
+  "empresas de transportes e indústrias energointensivas",
+  "agregados com crédito à habitação"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "custo de vida",
+  "iva",
+  "combustíveis",
+  "pensões",
+  "apoios setoriais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

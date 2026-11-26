@@ -1,0 +1,25 @@
+{
+ "short_title": "Inquérito à Credibilidade dos Relatórios Anuais de Segurança Interna",
+ "summary": "O documento propõe a criação de uma Comissão Parlamentar de Inquérito para investigar a credibilidade dos Relatórios Anuais de Segurança Interna (RASI) apresentados pelo Governo. O partido proponente argumenta que estes relatórios têm sido alvo de alterações metodológicas, omissões de dados cruciais (como delinquência juvenil ou criminalidade grave por distrito), e alegada manipulação estatística para criar uma imagem distorcida da segurança em Portugal. A proposta destaca a discrepância entre os dados oficiais e a perceção pública da criminalidade, a diminuição dos efetivos policiais e a falta de utilização de inquéritos de vitimização para obter um panorama mais completo da criminalidade não participada. O objetivo é averiguar como os dados são recolhidos, analisados e divulgados, e se correspondem à realidade criminal do país.",
+ "key_points": [],
+ "plain_language": "Basicamente, o partido CHEGA está a dizer que os relatórios anuais do Governo sobre a segurança e o crime em Portugal (os tais RASI) não são de fiar. Eles acham que os números são \"maquilhados\", que se escondem dados importantes ou que se mudam as regras para as estatísticas parecerem melhores do que são. Por exemplo, dizem que crimes graves são desvalorizados para parecer que há menos violência. Também notam que, apesar de haver menos polícias nas ruas, os relatórios dizem que o crime está a descer, o que lhes parece estranho. Por isso, querem uma investigação parlamentar para perceber se o Governo está a ser transparente e a mostrar a verdadeira situação da criminalidade no país, ou se está a tentar passar uma imagem de Portugal mais seguro do que realmente é, talvez para o turismo.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica robusta, apontando várias inconsistências e falhas na forma como os Relatórios Anuais de Segurança Interna (RASI) são elaborados e apresentados, argumentando que a implementação atual não se alinha com o objetivo de fornecer um retrato fiel da segurança. As inconsistências incluem: 1) Alterações metodológicas não justificadas que afetam a contabilidade criminal. 2) Alegada manipulação de dados, como a reclassificação de crimes graves (ex: assaltos a multibancos com explosivos) para criminalidade geral, para artificialmente mostrar uma descida da criminalidade violenta e grave. 3) Contradições nos próprios relatórios, como a descida da criminalidade violenta e grave em 2018, enquanto os homicídios voluntários aumentaram. 4) A discrepância entre os dados oficiais e a realidade percebida, bem como a diminuição dos efetivos policiais, que paradoxalmente coincide com uma alegada descida da criminalidade. 5) A diferença entre a definição de criminalidade violenta no Código de Processo Penal e a usada no RASI, que exclui crimes significativos. O documento conclui que estas falhas criam uma imagem \"artificial e forçada\" da segurança, que não reflete a realidade, e que a comissão de inquérito é necessária para expor estas questões e garantir a credibilidade dos relatórios futuros.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não fornece uma estimativa educada sobre o impacto fiscal direto da proposta. Não são mencionados custos ou receitas específicas associadas à criação e funcionamento da Comissão Parlamentar de Inquérito. Embora se refira à diminuição dos efetivos da GNR e PSP, o documento aborda esta questão sob a perspetiva da segurança pública e não como uma medida de poupança orçamental ou com impacto fiscal quantificado. O foco principal é a integridade dos dados e a perceção da segurança, sem detalhar implicações financeiras para o governo."
+ },
+ "affected": [],
+ "categories": [
+  "defesa",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

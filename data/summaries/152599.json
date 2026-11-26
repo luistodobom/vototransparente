@@ -1,0 +1,25 @@
+{
+ "short_title": "Limitação de isenção de IRC para fundos imobiliários no arrendamento acessível",
+ "summary": "Esta proposta de lei visa alterar o Estatuto dos Benefícios Fiscais para limitar a isenção de Imposto sobre o Rendimento de Pessoas Coletivas (IRC) para fundos e sociedades de investimento imobiliário. A isenção só será mantida se estas entidades disponibilizarem pelo menos 30% dos seus bens imóveis no Programa de Apoio ao Arrendamento, que promove a oferta de habitação a preços acessíveis. O objetivo é combater a especulação imobiliária e aumentar a disponibilidade de casas para arrendamento a custos mais baixos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer apertar as regras para os grandes fundos e empresas que investem em imóveis. Atualmente, eles têm umas isenções de impostos (IRC) que os ajudam a ganhar mais dinheiro. A ideia é que, para continuarem a ter esses benefícios fiscais, eles sejam obrigados a colocar pelo menos 30% dos seus imóveis num programa do governo que oferece casas para arrendar a preços mais justos. Assim, ou pagam mais impostos, ou ajudam a resolver o problema da falta de casas baratas para alugar. É uma forma de travar a especulação e fazer com que o mercado imobiliário ajude mais as pessoas comuns.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a questão da especulação imobiliária e a escassez de habitação acessível em Portugal, ao condicionar benefícios fiscais à participação no Programa de Apoio ao Arrendamento (PAA). A lógica é clara: se as entidades imobiliárias querem manter as suas isenções fiscais, devem contribuir para a solução do problema habitacional. A implementação alinha-se com o objetivo de regular o mercado e aumentar a oferta de habitação a preços controlados. No entanto, a eficácia dependerá da adesão dos fundos e sociedades ao PAA, que, embora incentivada pela manutenção dos benefícios fiscais, ainda é voluntária. A proposta tenta colmatar a lacuna de adesão ao PAA, que o documento refere não ter tido o volume desejado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta tem o potencial de aumentar a receita do governo. Ao limitar a isenção de IRC, os fundos e sociedades de investimento imobiliário que não alocarem 30% dos seus ativos ao Programa de Apoio ao Arrendamento passarão a pagar este imposto, o que resultará num aumento da receita fiscal. Se, por outro lado, optarem por cumprir a condição para manter a isenção, o impacto direto na receita será nulo, mas haverá um aumento da oferta de habitação acessível, o que pode reduzir indiretamente os custos sociais e de apoio à habitação a longo prazo. O efeito líquido mais provável é um aumento da receita fiscal ou, no mínimo, uma melhoria na oferta de habitação sem perda de receita."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

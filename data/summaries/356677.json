@@ -1,0 +1,44 @@
+{
+ "short_title": "Plano de prevenção e resposta a desaparecimentos na demência",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a criação de um Plano Nacional de Prevenção e Resposta ao Desaparecimento de Pessoas com Demência ou Especial Vulnerabilidade Cognitiva. A iniciativa propõe articular serviços de saúde, forças de segurança, proteção civil, autarquias locais, setor social e famílias. Entre as dez medidas recomendadas, destaca-se a aprovação de orientações nacionais para unidades de saúde públicas, privadas e sociais sobre identificação e acompanhamento destes utentes, garantindo o cumprimento do direito ao acompanhamento (Lei n.º 15/2014) ou vigilância alternativa. Sugere também avaliar pulseiras, alarmes ou geolocalização, criar procedimentos operacionais rápidos entre autoridades, formar profissionais, criar pontos de contacto municipais, emitir alertas rápidos e mapear respostas locais. Sendo um projeto de resolução, não tem força vinculativa.",
+ "key_points": [
+  "Criar um plano nacional articulando saúde, forças de segurança, proteção civil, autarquias, setor social e cuidadores.",
+  "Definir orientações para identificar e acompanhar utentes vulneráveis na saúde e garantir vigilância alternativa quando o acompanhamento for limitado.",
+  "Avaliar a adoção de pulseiras distintivas, alarmes ou dispositivos de geolocalização, respeitando a proteção de dados e o consentimento informado.",
+  "Estabelecer um procedimento operacional rápido entre PSP, GNR, Polícia Judiciária, proteção civil, saúde, autarquias e famílias, bem como alertas públicos céleres.",
+  "Reforçar a formação dos profissionais envolvidos e criar pontos de contacto municipais e um mapeamento atualizado das respostas sociais e comunitárias."
+ ],
+ "plain_language": "O JPP pede ao Parlamento que recomende ao Governo um plano para evitar que pessoas com demência se percam e para agir depressa quando desaparecem. A proposta quer garantir que estas pessoas não ficam sozinhas nos hospitais, mesmo nas urgências ou salas de espera, e sugere estudar o uso de pulseiras ou aparelhos de localização, com respeito pela privacidade. Também propõe regras rápidas entre polícias, bombeiros, autarquias e famílias, formação para profissionais e pontos de contacto nos municípios. Sendo um projeto de resolução, é apenas uma recomendação que não obriga o Governo.",
+ "context": "O proponente justifica a iniciativa com o aumento da vulnerabilidade das pessoas com demência à medida que a doença evolui, gerando risco de desorientação e desaparecimento em espaços públicos ou circuitos hospitalares complexos. Defende que a prevenção e a resposta rápida nas primeiras horas não podem depender apenas das famílias ou redes informais, exigindo articulação do Estado. Aponta ainda que eventuais restrições ao acompanhamento nos serviços de saúde não podem resultar no abandono destes utentes.",
+ "analysis": "Como pontos fortes, a iniciativa aborda uma necessidade prática de coordenação entre saúde, forças de segurança, proteção civil e poder local, acautelando o consentimento informado e a proteção de dados na eventual adoção de tecnologia. Contudo, apresenta fragilidades relevantes: tratando-se de um projeto de resolução, não tem força vinculativa para obrigar o Governo. O texto é genérico, não indicando prazos, entidade coordenadora principal, metas nem financiamento. Na prática, garantir vigilância alternativa em hospitais, formar profissionais de vários setores e criar pontos de contacto municipais implica custos e recursos humanos não quantificados, dependendo ainda da capacidade e adesão de autarquias e entidades privadas e sociais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, não gera despesa automática imediata, e o documento não quantifica custos. Caso o Governo adote o plano, medidas como formação, vigilância hospitalar alternativa, dispositivos de localização e pontos de contacto locais tenderão a aumentar a despesa pública."
+ },
+ "affected": [
+  "pessoas com demência ou défice cognitivo",
+  "familiares e cuidadores",
+  "profissionais e unidades de saúde",
+  "forças de segurança e proteção civil",
+  "autarquias locais e setor social"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "familia"
+ ],
+ "tags": [
+  "demência",
+  "desaparecimentos",
+  "saúde",
+  "proteção civil",
+  "vulnerabilidade cognitiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

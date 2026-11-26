@@ -1,0 +1,25 @@
+{
+ "short_title": "Elimina adicional ao ISP e dupla tributação de combustíveis",
+ "summary": "A proposta do PCP visa reduzir o preço dos combustíveis em Portugal. Para isso, propõe duas medidas principais: primeiro, acabar com o \"adicional ao ISP\", um imposto extra sobre os combustíveis criado em 2016, revertendo as taxas para os valores anteriores a essa data, ajustados pela inflação. Segundo, eliminar a dupla tributação, onde o IVA é cobrado não só sobre o combustível, mas também sobre o próprio ISP. Para resolver esta dupla tributação, o PCP sugere a criação de um mecanismo que devolva, através do ISP, o valor correspondente ao IVA que incide sobre o ISP. O objetivo é aliviar o peso fiscal sobre os consumidores.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PCP quer que a gasolina e o gasóleo fiquem mais baratos. Eles propõem duas coisas: tirar um imposto extra que foi posto em 2016 (o \"adicional ao ISP\") e acabar com a situação em que pagamos IVA sobre um imposto (o ISP), o que faz com que o combustível fique mais caro. A ideia é que o governo crie um sistema para nos devolver essa parte do IVA que é cobrada a mais.",
+ "context": null,
+ "analysis": "A proposta do PCP é consistente com o seu objetivo declarado de reduzir o preço dos combustíveis e aliviar a carga fiscal sobre os consumidores. As medidas propostas – a eliminação do \"adicional ao ISP\" e a criação de um mecanismo para anular a dupla tributação do IVA sobre o ISP – abordam diretamente as causas apontadas pelo partido para os preços elevados. O documento argumenta que o \"adicional ao ISP\" perdeu a sua justificação original e que a dupla tributação é um \"imposto que paga imposto\", o que é logicamente coerente com a sua eliminação. A implementação através de um mecanismo de devolução do IVA sobre o ISP, sem alterar o código do IVA, pode ser vista como uma solução pragmática para um problema específico, embora possa ser considerada uma abordagem paliativa em vez de uma reforma fiscal mais abrangente. A proposta alinha-se com a visão do PCP de que o setor energético deve estar sob controlo público para servir o desenvolvimento do país, ao focar na componente fiscal como forma de intervenção no preço. No entanto, a proposta não detalha como as outras componentes do preço (cotação internacional e margens) seriam abordadas, embora mencione que existem outras iniciativas para tal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo significativo nas receitas do governo. Ao eliminar o \"adicional ao ISP\" e a dupla tributação (IVA sobre ISP), o Estado deixará de arrecadar uma parte considerável dos impostos sobre os combustíveis. O próprio documento estima uma redução imediata de 14,5 cêntimos por litro na gasolina e 10,7 cêntimos por litro no gasóleo para os consumidores, o que se traduz diretamente numa diminuição equivalente da receita fiscal para o Estado. Não há indicação de aumento de despesas governamentais, mas a redução da receita implicará menos fundos disponíveis para outras áreas do orçamento público. O efeito líquido será uma diminuição substancial da receita do governo."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

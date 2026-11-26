@@ -1,0 +1,26 @@
+{
+ "short_title": "Reforma do Financiamento do Ensino Superior",
+ "summary": "Esta proposta recomenda ao Governo português uma reforma no financiamento do ensino superior. O objetivo é garantir o acesso universal e a equidade, eliminando as propinas para licenciaturas e estabelecendo limites máximos para mestrados e doutoramentos, com redução progressiva. Propõe a criação de dois fundos: um Fundo Estratégico para investimentos estruturais, financiado por uma percentagem do IRC, e um Fundo de Apoio aos Estudantes, para alunos desfavorecidos, financiado por uma percentagem do IRS dos 5% mais ricos. A proposta também sugere que o financiamento às instituições seja feito através de contratos plurianuais, considerando as necessidades de desenvolvimento do país.",
+ "key_points": [],
+ "plain_language": "Basicamente, o partido LIVRE está a dizer ao Governo que é preciso mudar a forma como se paga e se financia as universidades em Portugal. A ideia é que as licenciaturas deixem de ter propinas e que os mestrados e doutoramentos fiquem mais baratos. Para compensar o dinheiro que as universidades deixam de receber das propinas, o Estado teria de pôr mais dinheiro, mas também se propõe que as empresas e as pessoas mais ricas paguem uma parte dos seus impostos para dois fundos novos: um para investir nas infraestruturas das universidades e outro para ajudar os estudantes com menos posses. Assim, o ensino superior seria mais justo e acessível para todos.",
+ "context": null,
+ "analysis": "O documento identifica corretamente o problema do subfinanciamento e da falta de um modelo de financiamento claro para o ensino superior em Portugal, ecoando preocupações já expressas pela Ministra da Ciência, Tecnologia e Ensino Superior e por relatórios da OCDE. As propostas de eliminação de propinas para licenciaturas e a criação de fundos específicos, financiados por impostos sobre empresas e rendimentos mais elevados, alinham-se diretamente com o objetivo de garantir o acesso universal e a democratização do ensino, bem como de assegurar financiamento estável e previsível para as instituições. A ideia de contratos plurianuais reforça a previsibilidade. Não há inconsistências internas; pelo contrário, os detalhes da implementação propostos são coerentes com os objetivos declarados de equidade e melhoria da qualidade do ensino superior.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta terá um impacto fiscal significativo. Por um lado, diminuirá a receita do governo proveniente das propinas de licenciatura e, em parte, das de mestrado e doutoramento. Por outro lado, aumentará a despesa do governo para compensar essa perda de receita e para financiar os novos fundos propostos. No entanto, a proposta prevê novas fontes de receita através da consignação de uma percentagem do Imposto sobre o Rendimento das Pessoas Coletivas (IRC) e do Imposto sobre o Rendimento das Pessoas Singulares (IRS) dos 5% com maiores rendimentos. O efeito líquido será provavelmente um aumento dos gastos públicos com o ensino superior, mas com uma redistribuição das fontes de financiamento, passando de propinas pagas pelos estudantes para impostos sobre empresas e rendimentos mais elevados, visando um sistema mais equitativo e melhor financiado."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

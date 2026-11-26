@@ -1,0 +1,43 @@
+{
+ "short_title": "Financiamento para redes de apoio a vítimas de violência e tráfico",
+ "summary": "O Projeto de Resolução n.º 1034/XVII/1.ª, apresentado pelo PCP, recomenda ao Governo que garanta financiamento estável às instituições que integram a Rede Nacional de Apoio às Vítimas de Violência Doméstica e a Rede de Apoio e Proteção às Vítimas de Tráfico. Por se tratar de um projeto de resolução, não tem força vinculativa, funcionando como uma recomendação política ao executivo. Concretamente, propõe duas medidas centrais: assegurar no imediato o financiamento através do Orçamento do Estado para evitar a interrupção ou encerramento de respostas de atendimento e acolhimento cujo financiamento comunitário está a terminar; e criar um novo modelo de financiamento plurianual, igualmente suportado pelo Orçamento do Estado e baseado em acordos formais. Este novo modelo deve contemplar a valorização salarial e progressão na carreira dos trabalhadores das instituições, bem como o pagamento das despesas fixas de funcionamento, prevendo a sua atualização anual face aos custos reais.",
+ "key_points": [
+  "Recomendar ao Governo que garanta, de imediato, financiamento pelo Orçamento do Estado para evitar o encerramento ou interrupção das instituições de apoio às vítimas.",
+  "Substituir o atual modelo assente em candidaturas a fundos comunitários por um modelo de financiamento plurianual e previsível através do Orçamento do Estado.",
+  "Estabelecer acordos formais com as organizações sem fins lucrativos que integram as duas redes nacionais de apoio e proteção às vítimas.",
+  "Incluir no financiamento a valorização das carreiras, progressões e salários das equipas técnicas que acompanham as vítimas.",
+  "Cobrir as despesas fixas de funcionamento das estruturas, como instalações, energia, comunicações e transportes, prevendo a sua atualização anual."
+ ],
+ "plain_language": "As organizações que gerem casas de acolhimento e gabinetes de apoio a vítimas de violência doméstica e de tráfico de seres humanos dependem hoje de projetos europeus com prazo para acabar. Quando esses projetos terminam, correm o risco de fechar portas ou de não conseguir pagar salários e contas correntes. Este projeto de resolução pede ao Governo que pague já essas despesas através do Orçamento do Estado e que crie contratos a vários anos, atualizados anualmente, para dar estabilidade às equipas e garantir que as vítimas continuam a ter ajuda. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O PCP alega que estas organizações asseguram serviços permanentes essenciais, mas dependem de financiamento temporário por candidaturas a fundos comunitários. Segundo o documento, os projetos de 12 instituições terminam nos próximos meses e outros 9 em 2027, ameaçando o fecho de gabinetes e casas de acolhimento, repetindo falhas da transição entre o PT 2020 e o PT 2030. Aponta ainda dificuldades em cobrir despesas correntes face à inflação e salários baixos e congelados nas tabelas das IPSS, provocando elevada rotatividade nas equipas.",
+ "analysis": "A iniciativa identifica uma vulnerabilidade estrutural relevante: a dependência de serviços sociais permanentes face a ciclos curtos de fundos europeus, que gera interrupções operacionais e rotatividade profissional. Contudo, enquanto projeto de resolução, não vincula o Governo nem altera o quadro orçamental vigente. O texto apresenta também fragilidades técnicas e operacionais. Não quantifica os custos da transição para o Orçamento do Estado nem detalha como seriam avaliados os acordos plurianuais, a atualização salarial ou os critérios de desempenho das instituições. Embora mencione a Rede de Apoio e Proteção às Vítimas de Tráfico no título e nas recomendações, os dados concretos apresentados na exposição de motivos incidem apenas sobre organizações da rede de violência doméstica, deixando por demonstrar a dimensão imediata do problema na rede de tráfico.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem efeito orçamental direto nem vinculativo. Contudo, caso o Governo adote as recomendações, a passagem do financiamento para o Orçamento do Estado, a valorização salarial e a atualização anual das despesas fixas implicam um aumento da despesa pública nacional, cujo montante não é quantificado no documento."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "vítimas de tráfico de seres humanos",
+  "instituições da rede de apoio e acolhimento",
+  "trabalhadores das equipas multidisciplinares"
+ ],
+ "categories": [
+  "familia",
+  "direitos",
+  "trabalho"
+ ],
+ "tags": [
+  "violência doméstica",
+  "tráfico de seres humanos",
+  "financiamento público",
+  "casas de acolhimento",
+  "orçamento do estado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

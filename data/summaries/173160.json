@@ -1,0 +1,24 @@
+{
+ "short_title": "Alteração ao ISV: Fim da discriminação de veículos usados da UE",
+ "summary": "Esta proposta de lei visa alterar o Código do Imposto Sobre Veículos (ISV) para eliminar a discriminação fiscal que atualmente afeta os veículos usados importados de outros países da União Europeia. O Tribunal de Justiça da União Europeia (TJUE) e o Centro de Arbitragem Administrativa (CAAD) já declararam que a forma como Portugal cobra o ISV sobre estes veículos é contrária às regras europeias, pois não considera adequadamente a sua desvalorização real, aplicando critérios diferentes para a componente de cilindrada e a componente ambiental. A proposta pretende corrigir esta situação, aplicando as mesmas percentagens de redução do imposto, baseadas na desvalorização comercial média dos veículos no mercado nacional, a ambas as componentes do imposto.",
+ "key_points": [],
+ "plain_language": "Basicamente, Portugal está a ser 'chamado à atenção' e a perder dinheiro em tribunal porque cobra impostos a carros usados importados de outros países da Europa de uma forma que não é justa. A lei atual faz com que estes carros paguem mais imposto do que deviam, mesmo que já sejam usados, ao contrário do que acontece com os carros vendidos cá. Esta proposta quer mudar a lei para que o imposto seja calculado de forma igual para todos os carros usados, sejam eles comprados cá ou lá fora, tendo em conta o quanto o carro já desvalorizou. Assim, evitamos mais multas e problemas com a União Europeia e poupamos dinheiro em processos judiciais.",
+ "context": null,
+ "analysis": "O documento aponta claramente uma inconsistência na legislação fiscal portuguesa: embora o Governo tenha tentado corrigir a lei em 2021, a alteração foi insuficiente. A inconsistência reside no facto de a lei atual continuar a aplicar critérios de desvalorização distintos para a componente de cilindrada e a componente ambiental do ISV, resultando numa carga fiscal residual diferente para veículos usados importados da UE em comparação com veículos nacionais com as mesmas características. Esta diferença viola o princípio da não discriminação fiscal da União Europeia. A proposta de lei aborda diretamente esta inconsistência ao propor que as percentagens de redução do imposto, para ambas as componentes (cilindrada e ambiental), sejam uniformemente associadas à desvalorização comercial média dos veículos no mercado nacional. Esta abordagem alinha os detalhes da implementação (cálculo da desvalorização) com o objetivo de eliminar a discriminação e cumprir as decisões dos tribunais europeus e nacionais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta provavelmente resultará numa diminuição da receita do Imposto Sobre Veículos (ISV) para carros usados importados, uma vez que visa eliminar a discriminação fiscal que atualmente os onera, levando a um imposto mais baixo. No entanto, espera-se que diminua significativamente os gastos do governo com litígios, multas e reembolsos a contribuintes, que têm sido uma consequência da lei atual e das decisões desfavoráveis em tribunal. O efeito líquido poderá ser uma estabilização ou ligeira diminuição da receita total proveniente do ISV sobre estes veículos, mas com uma redução substancial de custos e passivos futuros para o Estado, tornando o impacto fiscal global potencialmente neutro ou até positivo ao evitar perdas maiores."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

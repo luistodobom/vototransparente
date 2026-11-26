@@ -1,0 +1,26 @@
+{
+ "short_title": "Habitação Jovem: Alojamento, Arrendamento e Compra de Casa",
+ "summary": "A proposta do PSD visa facilitar o acesso à habitação para jovens portugueses em três fases: alojamento estudantil, arrendamento e compra da primeira casa. Para estudantes, prevê a contratação de alojamento acessível através de protocolos com entidades privadas, sociais e autarquias, e a construção de novas residências em parceria público-privada, com preços tabelados e possibilidade de uso turístico nas férias. Para o arrendamento, propõe um subsídio mensal não reembolsável correspondente a um terço da renda para jovens até 35 anos, e isenção de Imposto do Selo nos contratos. Para a compra da primeira casa, estabelece uma garantia pública de até 10% do valor do empréstimo (eliminando a necessidade de entrada) e isenção de IMT e Imposto do Selo para imóveis até 250.000€, também para jovens até 35 anos.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD quer dar uma mão aos jovens para saírem de casa dos pais. Para os estudantes, querem mais quartos a preços justos, seja alugando a privados ou construindo residências novas que até podem ser usadas para turismo nas férias. Para quem quer alugar, há um \"cheque-renda\" que paga um terço do aluguer e acabam-se os impostos nos contratos. E para quem quer comprar a primeira casa, o Estado garante uma parte do empréstimo para não ser preciso dar entrada, e ainda se poupa nos impostos da compra, isto tudo para casas até 250 mil euros e para jovens até aos 35 anos.",
+ "context": null,
+ "analysis": "A proposta do PSD aborda de forma abrangente os desafios habitacionais dos jovens, identificando as falhas das políticas anteriores (como o PNAES e o Porta 65) e propondo soluções que visam aumentar a oferta e reduzir os custos. A articulação das medidas para alojamento estudantil, arrendamento e compra de casa demonstra uma abordagem sistémica. A ideia de parcerias público-privadas e o regime dual para residências estudantis (com uso turístico) é um detalhe de implementação que se alinha com o objetivo de gerar receitas adicionais para mitigar custos e aumentar a oferta. A eliminação da necessidade de capitais próprios para a entrada na compra de casa, através da garantia pública, é uma medida direta para superar um dos maiores obstáculos. A proposta é consistente com os problemas que identifica, procurando soluções diretas para cada um dos três momentos-chave da emancipação jovem.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo, aumentando os gastos do governo e diminuindo as receitas. Os gastos aumentarão com o subsídio de renda para jovens e com as contrapartidas financeiras para as parcerias público-privadas no alojamento estudantil, bem como com as responsabilidades contingentes decorrentes das garantias públicas nos empréstimos à habitação. As receitas diminuirão devido às isenções de Imposto do Selo em contratos de arrendamento e às isenções de IMT e Imposto do Selo na aquisição da primeira habitação. Embora o regime dual das residências estudantis possa gerar algumas receitas para mitigar custos, o efeito líquido global será de um aumento da despesa pública e uma redução da receita fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

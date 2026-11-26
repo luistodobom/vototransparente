@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa “Voltar a Casa” para utentes com alta clínica",
+ "summary": "O Projeto de Lei n.º 389/XVII aprova o regime jurídico do Programa “Voltar a Casa”, destinado a utentes do Serviço Nacional de Saúde (SNS) que, após alta clínica, não têm resposta habitacional ou familiar adequada e necessitam de apoio social. O diploma articula seis modalidades de resposta, incluindo vagas contratualizadas em equipamentos sociais, acolhimento familiar, cuidados continuados, apoio domiciliário ou centros de dia, uma bolsa específica de camas (com valor de referência de 1.800 euros mensais) e uma nova resposta social designada Residência de Transição. Esta residência destina-se a acolher até 10 utentes, por períodos até dois anos, acoplada a um equipamento de retaguarda, com comparticipação pública inicial de 2.000 euros mensais por utente. Prevê ainda um apoio financeiro à adaptação de espaços, indicadores de monitorização obrigatória e revisão ao fim de três anos, produzindo efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Integra seis modalidades de encaminhamento após alta clínica, desde apoio domiciliário e acolhimento familiar até vagas contratualizadas em equipamentos sociais.",
+  "Cria uma bolsa específica de camas para altas sociais, com comparticipação pública que cobre a diferença entre a comparticipação familiar do utente e 1.800 euros mensais.",
+  "Institui a Residência de Transição, para até 10 utentes e por um máximo de dois anos, acoplada a um equipamento de retaguarda e com presença permanente de pessoal.",
+  "Fixa para o primeiro ano uma comparticipação de 2.000 euros mensais por utente nas Residências de Transição, repartida igualmente pela Segurança Social e pela Saúde e deduzida da quota do utente.",
+  "Prevê um programa governamental de apoio financeiro à adaptação de espaços e aquisição de equipamento na rede solidária, dispensando a vinculação dos acordos ao PROCOOP.",
+  "Impõe a monitorização de cinco indicadores de desempenho, relatórios anuais à Assembleia da República e uma avaliação global para revisão ao fim de três anos."
+ ],
+ "plain_language": "Muitas pessoas continuam internadas nos hospitais mesmo depois de os médicos lhes darem alta, por não terem casa adaptada, apoio familiar ou vaga num lar. Esta proposta cria o programa “Voltar a Casa” para garantir soluções rápidas fora do hospital. O SNS, a Segurança Social e as instituições solidárias passam a oferecer apoio em casa, acolhimento familiar, vagas reservadas ou novas “Residências de Transição”, pequenas unidades para até 10 pessoas onde ficam até dois anos enquanto aguardam solução definitiva. A Saúde e a Segurança Social pagam em conjunto até 1.800 ou 2.000 euros mensais por pessoa, descontando a comparticipação devida pelo utente.",
+ "context": "O Grupo Parlamentar do PS justifica a iniciativa com o aumento nos últimos dois anos do número de pessoas retidas nos hospitais após alta clínica por falta de resposta social, estimando mais de 2.800 casos atuais. Segundo a exposição de motivos, esta permanência prolongada expõe os utentes frágeis a riscos de infeções, perda funcional e isolamento, além de reduzir a capacidade hospitalar para quem necessita de cuidados médicos. O proponente refere ainda que um programa anterior de disponibilização de camas, iniciado em 2023, foi interrompido em 2024, tornando urgente criar soluções ágeis e transitórias.",
+ "analysis": "Como pontos positivos, o projeto enfrenta o bloqueio das altas sociais com um desenho operacional concreto, partilha o financiamento entre Saúde e Segurança Social e obriga à monitorização de indicadores objetivos, como reinternamentos a 30 dias. Contudo, apresenta fragilidades relevantes. Não quantifica o impacto orçamental global nem o número de vagas a criar face aos mais de 2.800 casos referidos, deixando o apoio à adaptação de espaços (artigo 7.º) sem critérios ou dotação definidos. Ao permitir estadias até dois anos nas Residências de Transição, existe o risco de estas se tornarem permanentes se a rede de retaguarda não crescer. Além disso, a flexibilização normativa e o recurso inicial às equipas existentes podem sobrecarregar os trabalhadores das instituições, enquanto o início de efeitos apenas no Orçamento do Estado seguinte adia a resposta.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa cria novas despesas públicas repartidas entre a Segurança Social e a Saúde, fixando valores de referência mensais de 1.800 euros por utente na bolsa específica de camas e de 2.000 euros por utente nas Residências de Transição (deduzidos da comparticipação do utente), além de um apoio financeiro à adaptação de espaços sem montante definido. Embora vise libertar camas hospitalares, o diploma não quantifica a despesa total nem eventuais poupanças líquidas no SNS."
+ },
+ "affected": [
+  "utentes do SNS com alta clínica",
+  "hospitais do SNS",
+  "entidades do setor social e solidário",
+  "serviços da Segurança Social"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "altas sociais",
+  "sns",
+  "residência de transição",
+  "setor social",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

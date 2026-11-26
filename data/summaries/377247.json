@@ -1,0 +1,41 @@
+{
+ "short_title": "Crédito à habitação: fim da comissão na taxa variável e limite na fixa",
+ "summary": "O Projeto de Lei n.º 771/XVII/2.ª altera o Decreto-Lei n.º 74-A/2017 para reduzir os custos de amortização antecipada e transferência nos contratos de crédito para aquisição ou construção de habitação própria e permanente. Nos períodos de taxa variável, a iniciativa elimina em definitivo qualquer comissão de reembolso antecipado, atualmente limitada a 0,5 %. Nos períodos de taxa fixa, passa a exigir que a comissão nunca exceda a perda financeira efetivamente sofrida pelo banco, ficando adicionalmente limitada ao menor de dois valores: 2 % do capital reembolsado nos primeiros 10 anos do período de taxa fixa (ou 1,5 % após esse prazo), ou a soma dos juros que seriam devidos até ao fim desse período. O diploma atualiza o regime contraordenacional para punir cobranças ilegais e prevê a aplicação imediata aos contratos já em vigor, relativamente a reembolsos realizados 60 dias após a publicação da lei, sem efeitos retroativos sobre comissões já pagas.",
+ "key_points": [
+  "Elimina definitivamente a comissão de reembolso antecipado nos períodos de taxa variável em contratos de aquisição ou construção de habitação própria e permanente.",
+  "Limita a comissão em períodos de taxa fixa à perda financeira efetiva sofrida pela instituição mutuante.",
+  "Fixa um teto adicional na taxa fixa pelo menor valor entre 2 % nos primeiros 10 anos (ou 1,5 % após esse prazo) e a soma dos juros até ao fim do período de taxa fixa.",
+  "Atualiza as contraordenações bancárias para punir a cobrança de comissões que violem os novos limites na taxa variável ou na taxa fixa.",
+  "Aplica o novo regime a contratos já existentes quanto a reembolsos efetuados após a entrada em vigor, declarando nulas cláusulas contratuais que restrinjam estes direitos."
+ ],
+ "plain_language": "Quando uma família quer abater o empréstimo da casa ou mudá-lo para outro banco, pode ter de pagar uma taxa de saída. Esta proposta acaba de vez com essa taxa nos empréstimos para compra ou construção de habitação própria e permanente com taxa variável. Nos contratos com taxa fixa, o banco só pode cobrar uma compensação se tiver um prejuízo real com o pagamento antecipado. Mesmo assim, o valor fica limitado a 2 % nos primeiros dez anos e a 1,5 % depois disso, nunca podendo superar os juros restantes até ao fim do período de taxa fixa. As regras valem também para contratos já existentes.",
+ "context": "O proponente invoca estudos da Autoridade da Concorrência e análises do Banco de Portugal que apontam baixa concorrência nas comissões de reembolso antecipado, com os bancos a praticarem os tetos máximos legais (0,5 % e 2 %). Argumenta que esta comissão trava a mobilidade bancária e reduz a pressão concorrencial. Recorda que a suspensão temporária na taxa variável, entre 2022 e 2025, incentivou amortizações e transferências de crédito, alinhando a proposta com recomendações da Autoridade da Concorrência e práticas de outros países europeus.",
+ "analysis": "A iniciativa destaca-se por concretizar uma recomendação da Autoridade da Concorrência, distinguindo de forma coerente o risco na taxa variável da eventual perda do banco na taxa fixa, sem gerar despesa pública. Contudo, há uma lacuna importante entre a exposição de motivos e o articulado: o texto justificativo afirma que o ónus da prova cabe ao mutuante, mas a lei proposta não define como calcular a «perda financeira» nem obriga expressamente o banco a demonstrá-la ao cliente, criando risco de litígio. Além disso, a aplicação imediata a contratos em curso pode gerar incerteza na cobertura de risco bancária e levar a ajustes noutras comissões ou margens. Nota-se ainda uma remissão imprecisa na alínea b) do n.º 5 do artigo 23.º para o n.º 8.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa regula apenas comissões entre clientes e instituições de crédito, não criando despesa pública nem subsídios à taxa de juro. A fiscalização das novas regras enquadra-se no regime contraordenacional já existente."
+ },
+ "affected": [
+  "titulares de crédito à habitação própria e permanente",
+  "instituições de crédito"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "reembolso antecipado",
+  "taxa variável",
+  "taxa fixa",
+  "comissões bancárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

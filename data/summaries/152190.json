@@ -1,0 +1,25 @@
+{
+ "short_title": "Isenção de IVA nos bens alimentares essenciais",
+ "summary": "A proposta visa isentar de Imposto sobre o Valor Acrescentado (IVA) os bens alimentares essenciais em Portugal. A justificação reside no aumento significativo da inflação, especialmente nos preços da energia e dos alimentos, que tem reduzido o poder de compra dos cidadãos, apesar do aumento das receitas fiscais do Estado. O documento destaca o crescente risco de pobreza e exclusão social e a necessidade de medidas fiscais urgentes para aliviar a carga sobre as famílias. A isenção de IVA é apresentada como uma solução direta e imediata, agora permitida por diretivas europeias. A proposta detalha os tipos de alimentos que seriam isentos, como cereais, carnes, peixe, leite, ovos, azeite e frutas frescas.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer tirar o IVA de alguns alimentos essenciais, tipo pão, carne, peixe, leite, ovos, azeite e fruta. A ideia é ajudar as pessoas a lidar com a subida dos preços, porque a inflação está a apertar o cinto a toda a gente, e o governo até tem arrecadado mais impostos. É uma forma de o Estado dar uma ajuda direta às famílias para que consigam comprar o básico sem pagar tanto imposto.",
+ "context": null,
+ "analysis": "A proposta é consistente na sua argumentação, identificando a inflação e a perda de poder de compra como problemas centrais e propondo a isenção de IVA em bens alimentares essenciais como solução direta. A referência à Diretiva (UE) 2022/542 valida a legalidade da medida a nível europeu, o que é um ponto forte. No entanto, a análise carece de uma estimativa do impacto financeiro direto para o Estado em termos de perda de receita, o que seria crucial para uma avaliação completa. Além disso, embora a isenção vise aliviar os consumidores, não há garantias explícitas de que a totalidade da redução do IVA será repercutida nos preços finais ao consumidor, podendo parte do benefício ser absorvida pela cadeia de distribuição. A entrada em vigor dependente da aprovação do Orçamento do Estado subsequente introduz um atraso na implementação, o que pode contradizer a urgência implícita na \"Exposição de motivos\".",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta diminuirá diretamente as receitas do governo, uma vez que isenta de Imposto sobre o Valor Acrescentado (IVA) uma categoria de bens que atualmente contribui para essas receitas. O objetivo é aliviar a carga financeira sobre os cidadãos, aumentando indiretamente o seu poder de compra para bens essenciais. Embora o documento não quantifique a perda de receita esperada, o efeito líquido será uma diminuição da receita fiscal do Estado, com o benefício de uma potencial melhoria na capacidade de compra das famílias, especialmente as de menores rendimentos."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

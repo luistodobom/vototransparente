@@ -1,0 +1,43 @@
+{
+ "short_title": "Valorização, independência e combate à precariedade na Agência Lusa",
+ "summary": "Este projeto de resolução, uma recomendação não vinculativa dirigida ao Governo, propõe um conjunto de medidas para reformar a governação e as condições de trabalho da Agência Lusa. O texto recomenda a extinção do Conselho Consultivo e a revisão do modelo de nomeação do Conselho de Administração, passando a envolver a Assembleia da República, o acionista público e os trabalhadores, os quais deverão também ter representação não executiva na administração. Propõe ainda a audição anual do presidente da agência no Parlamento. Além disso, pede a elaboração participada de um Livro Branco estratégico sobre a situação económica, laboral e editorial da Lusa, a classificação do seu arquivo como tesouro nacional com acesso público e medidas de combate à precariedade, incluindo a integração de precários, revisão salarial e reforço de meios humanos, técnicos e financeiros.",
+ "key_points": [
+  "Extinguir o Conselho Consultivo da Agência Lusa e rever o processo de nomeação do Conselho de Administração com responsabilidade partilhada entre Parlamento, Estado e trabalhadores.",
+  "Garantir a representação dos trabalhadores no Conselho de Administração como membros não executivos e instituir uma audição anual do presidente da Lusa no Parlamento.",
+  "Elaborar um Livro Branco sobre a situação económica, laboral, tecnológica e editorial da agência, com participação de trabalhadores, especialistas e sociedade civil.",
+  "Classificar o arquivo da Agência Lusa como tesouro nacional e assegurar a sua disponibilização ao público.",
+  "Integrar trabalhadores precários, rever a tabela salarial e reforçar os recursos humanos, técnicos e financeiros da agência."
+ ],
+ "plain_language": "A Agência Lusa é a única agência de notícias portuguesa e fornece informação a jornais, rádios, televisões e ao público. Este pedido ao Governo, que não é obrigatório cumprir por ser uma recomendação, quer mudar a forma como a Lusa é gerida para evitar influências políticas ou económicas. Propõe extinguir o atual Conselho Consultivo, dar voz aos trabalhadores na administração e obrigar o presidente da agência a prestar contas todos os anos no Parlamento. Pede também um estudo profundo sobre o futuro da Lusa, a abertura do seu arquivo histórico ao público e melhores salários e contratos estáveis para os funcionários.",
+ "context": "O Bloco de Esquerda afirma que a Lusa enfrenta problemas estruturais na governação e nas condições laborais, agravados num contexto de concentração mediática e desinformação. Critica o novo modelo de governação após a aquisição de 100% do capital pelo Estado, apontando dúvidas dos trabalhadores quanto à independência do Conselho de Administração e à utilidade do Conselho Consultivo. Alega ainda que falta um diagnóstico público sobre a missão da agência e que a precariedade salarial e contratual, bem como regras restritivas de contratação, prejudicam a qualidade do serviço público noticioso.",
+ "analysis": "A iniciativa aborda questões relevantes sobre a transparência e a sustentabilidade da única agência noticiosa nacional, propondo mecanismos de escrutínio parlamentar e participação dos trabalhadores que podem reforçar a independência editorial. A proposta de um Livro Branco e a valorização do arquivo respondem à falta de planeamento estratégico de longo prazo. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa, dependendo inteiramente da vontade política do Governo. Além disso, o texto não quantifica os custos da integração de trabalhadores precários, da revisão salarial ou da disponibilização pública do arquivo, nem detalha como funcionaria na prática a nomeação partilhada da administração entre Parlamento, Estado e trabalhadores, o que pode gerar impasses institucionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, não produz impacto orçamental imediato, mas a sua eventual aplicação aumentaria a despesa pública e da empresa, agora totalmente detida pelo Estado. O texto prevê a integração de trabalhadores precários, a revisão salarial e o reforço de meios financeiros e humanos, sem quantificar custos, mencionando apenas um aumento de capital de cinco milhões de euros já anunciado pelo Governo."
+ },
+ "affected": [
+  "trabalhadores da Agência Lusa",
+  "administração da Agência Lusa",
+  "órgãos de comunicação social",
+  "cidadãos"
+ ],
+ "categories": [
+  "comunicacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "agência lusa",
+  "comunicação social",
+  "independência editorial",
+  "precariedade laboral",
+  "governação pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

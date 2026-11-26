@@ -1,0 +1,41 @@
+{
+ "short_title": "Designação do cabeça-de-casal por maioria das partes da herança",
+ "summary": "O Projeto de Lei n.º 631/XVII/1.ª, apresentado pela Iniciativa Liberal, altera os artigos 2084.º e 2086.º do Código Civil para permitir que a administração de uma herança e as funções de cabeça-de-casal possam ser entregues a outra pessoa por acordo dos detentores de uma maioria simples das partes da herança, em vez da unanimidade atualmente exigida. A iniciativa estabelece duas exceções em que continua a ser necessário o acordo de todos os interessados: quando o falecido tiver definido em testamento o cabeça-de-casal, critérios ou limitações para a sua escolha, ou quando o cargo caiba ao cônjuge sobrevivo. Prevê ainda a inclusão desta designação no artigo 2086.º do Código Civil para permitir a substituição do anterior cabeça-de-casal. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Altera o artigo 2084.º do Código Civil para permitir entregar a administração da herança e as funções de cabeça-de-casal a outra pessoa por acordo dos detentores de maioria simples das partes da herança.",
+  "Mantém a exigência de acordo de todos os interessados quando o testador tenha definido o cabeça-de-casal, critérios ou limitações para a escolha.",
+  "Exceciona igualmente os casos em que o cabeça-de-casal seja o cônjuge sobrevivo, protegendo-o contra decisões de maiorias circunstanciais.",
+  "Adita uma nova alínea ao artigo 2086.º do Código Civil para contemplar a designação de um novo cabeça-de-casal por maioria.",
+  "Determina a entrada em vigor da lei no dia seguinte ao da sua publicação."
+ ],
+ "plain_language": "Quando alguém morre e os bens ainda não foram divididos, o cabeça-de-casal é quem os gere até às partilhas. Hoje, para entregar essa tarefa a outra pessoa, todos os interessados têm de concordar. Este projeto propõe que baste o acordo de quem detém a maioria das partes da herança, evitando bloqueios por minorias. Contudo, mantém-se a exigência de acordo total em dois casos: se a pessoa falecida tiver deixado regras sobre essa escolha ou se o cargo pertencer ao cônjuge que sobreviveu.",
+ "context": "A Iniciativa Liberal argumenta que a gestão de uma herança indivisa exige decisões difíceis para preservar o valor económico e social dos bens. Segundo o proponente, na ausência de indicação explícita do falecido, a administração não deve ficar entregue por inércia a um herdeiro ou testamenteiro que não represente os principais beneficiários, nem refém de bloqueios minoritários. Ao permitir a escolha por maioria das partes, salvaguardando os cônjuges meeiros e a vontade expressa do falecido, pretende incentivar a proatividade e o diálogo entre herdeiros.",
+ "analysis": "A proposta procura resolver impasses reais na gestão de heranças indivisas sem afastar a vontade do testador nem desproteger o cônjuge sobrevivo. Contudo, apresenta fragilidades técnicas relevantes. O texto refere uma maioria simples das partes que constituem a herança, mas não esclarece como se apura essa maioria quando os quinhões ainda estão por definir, nem distingue votos de abstenções, conceito implícito na expressão maioria simples. Além disso, não define qualquer procedimento formal para a tomada de decisão, como convocatória, prazos, forma escrita ou direito de oposição dos minoritários. Ao permitir a substituição do cabeça-de-casal apenas por acordo maioritário sem regras processuais nem norma transitória para heranças em curso, a alteração arrisca gerar novos litígios judiciais em vez de os reduzir.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa altera apenas regras de direito civil aplicáveis à administração de heranças entre particulares, sem implicações diretas na despesa ou na receita pública. O documento não apresenta estimativas financeiras."
+ },
+ "affected": [
+  "herdeiros",
+  "cônjuges sobrevivos",
+  "cabeças-de-casal",
+  "testamenteiros"
+ ],
+ "categories": [
+  "justica",
+  "familia"
+ ],
+ "tags": [
+  "heranças",
+  "código civil",
+  "cabeça-de-casal",
+  "sucessões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

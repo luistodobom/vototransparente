@@ -1,0 +1,43 @@
+{
+ "short_title": "Promoção do teletrabalho para reduzir gastos com combustíveis",
+ "summary": "O Projeto de Resolução, que constitui uma recomendação não vinculativa ao Governo, propõe medidas para fomentar o teletrabalho como forma de reduzir as deslocações diárias e os encargos com combustíveis. Em concreto, recomenda ao Executivo que promova o recurso voluntário ao teletrabalho na administração direta e indireta do Estado, sempre mediante acordo com os trabalhadores e garantindo a qualidade do atendimento público. Sugere também que recomende às empresas privadas a adoção ou o alargamento do trabalho à distância, incluindo em modelo híbrido. Além disso, pede a divulgação de orientações para assegurar o fornecimento de equipamentos e a compensação das despesas adicionais previstas no Código do Trabalho. Por fim, propõe a definição de critérios objetivos para identificar subidas excecionais e persistentes dos combustíveis, prevendo a apresentação de uma proposta de lei que imponha temporariamente às empresas o direito ao teletrabalho quando esses critérios se verifiquem.",
+ "key_points": [
+  "Promover o teletrabalho voluntário na administração direta e indireta do Estado mediante acordo e salvaguarda dos serviços públicos.",
+  "Recomendar às entidades empregadoras privadas a adoção ou o alargamento do teletrabalho, incluindo em regime de alternância.",
+  "Divulgar orientações para garantir a disponibilização de equipamentos e a compensação das despesas adicionais previstas no Código do Trabalho.",
+  "Definir critérios objetivos e públicos para identificar um agravamento excecional e persistente dos preços dos combustíveis.",
+  "Apresentar uma proposta de lei para tornar temporariamente obrigatório o acesso ao teletrabalho a quem o pretenda e tenha funções compatíveis, caso esses critérios se verifiquem."
+ ],
+ "plain_language": "Esta iniciativa pede ao Governo que incentive o trabalho a partir de casa para ajudar as famílias a poupar nos combustíveis. Como é um Projeto de Resolução, funciona apenas como uma recomendação e não obriga o Governo a agir. A proposta sugere facilitar o teletrabalho na função pública e nas empresas privadas, sempre que as tarefas o permitam e haja acordo, lembrando que os empregadores devem pagar os equipamentos e as despesas adicionais. Caso os preços dos combustíveis subam de forma grave e prolongada, sugere ainda a criação de uma lei temporária que obrigue as entidades empregadoras a aceitar o teletrabalho.",
+ "context": "O JPP justifica a iniciativa com o aumento dos combustíveis, que agrava os encargos diários das famílias, lembrando que o Governo reconheceu uma crise energética em setembro de 2026. Apoia-se num relatório de março de 2026 da Agência Internacional de Energia, que inclui o teletrabalho entre as medidas para baixar a procura de petróleo, estimando uma redução de 2 % a 6 % no consumo automóvel com três dias semanais à distância, embora sem previsão específica para Portugal. Nota também que a lei portuguesa já prevê o teletrabalho por acordo.",
+ "analysis": "A iniciativa tem o mérito de usar o enquadramento já existente no Código do Trabalho e na função pública, ressalvando a continuidade dos serviços e a compensação de despesas e equipamentos aos trabalhadores. Contudo, sendo um Projeto de Resolução, não é vinculativo, pelo que a sua concretização depende da vontade do Governo. A recomendação ao setor privado, sem incentivos associados, poderá ter efeito prático limitado. Além disso, a eventual lei de teletrabalho obrigatório remete para critérios futuros de agravamento excecional e persistente não definidos no texto. Por fim, o próprio documento admite que a estimativa de poupança de 2 % a 6 % não é específica para Portugal, e a medida não beneficia trabalhadores cujas funções exigem presença física.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo uma recomendação não vinculativa, a iniciativa não gera impacto orçamental direto imediato. Caso seja adotada na Administração Pública, poderá implicar custos com equipamentos e compensação de despesas adicionais previstas no artigo 168.º do Código do Trabalho, bem como eventual redução indireta na receita fiscal dos combustíveis, efeitos não quantificados no documento."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "trabalhadores do setor privado",
+  "entidades empregadoras públicas e privadas",
+  "utentes dos serviços públicos"
+ ],
+ "categories": [
+  "trabalho",
+  "energia",
+  "administracao"
+ ],
+ "tags": [
+  "teletrabalho",
+  "combustíveis",
+  "crise energética",
+  "administração pública",
+  "código do trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Melhoria da Prestação Social para a Inclusão e acumulação de rendimentos",
+ "summary": "Esta proposta visa melhorar as condições de acesso à Prestação Social para a Inclusão (PSI) e aumentar o valor que pode ser acumulado da Componente Base desta prestação com rendimentos de trabalho. Especificamente, pretende eliminar a discriminação por idade que impede pessoas com 55 ou mais anos de aceder à PSI se a sua deficiência for certificada após essa idade, e garantir que o limite de acumulação da Componente Base com rendimentos de trabalho não seja inferior à soma do valor da Componente Base e da Retribuição Mensal Mínima Garantida (salário mínimo). O objetivo é promover a autonomia e a inclusão social das pessoas com deficiência, incentivando o seu emprego.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer facilitar a vida das pessoas com deficiência que recebem um apoio do Estado chamado Prestação Social para a Inclusão. Atualmente, há duas chatices: uma é que se a deficiência for reconhecida depois dos 55 anos, a pessoa pode não ter direito ao apoio, e a outra é que se a pessoa trabalhar, pode perder parte do apoio. O CDS-PP quer acabar com a regra da idade e garantir que quem trabalha, mesmo que ganhe o salário mínimo, não perca o apoio, para que as pessoas com deficiência possam ter mais autonomia e trabalhar sem serem penalizadas.",
+ "context": null,
+ "analysis": "O documento identifica claramente duas inconsistências na legislação atual: a regra de idade para acesso à PSI, que é considerada discriminatória, e o baixo limite de acumulação da prestação com rendimentos de trabalho, que desincentiva a empregabilidade. A proposta aborda diretamente estas questões, eliminando as cláusulas de idade restritivas (artigo 15.º) e estabelecendo um novo limite mínimo para a acumulação de rendimentos (artigo 20.º). As alterações propostas alinham-se diretamente com o objetivo de tornar a PSI mais justa e eficaz na promoção da inclusão e autonomia das pessoas com deficiência, removendo barreiras e incentivando o trabalho. A lógica da proposta é consistente com os problemas que pretende resolver.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao alargar o acesso à Prestação Social para a Inclusão e ao permitir uma maior acumulação de rendimentos de trabalho com a prestação, levará a um aumento do número de beneficiários e/ou do montante total pago. Isto resultará num aumento dos gastos do governo com prestações sociais. Embora possa haver um efeito positivo indireto na receita do governo através do aumento da empregabilidade e, consequentemente, de impostos e contribuições sociais, o impacto direto e mais significativo será um aumento da despesa pública. O efeito líquido será, portanto, um aumento dos gastos do governo."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

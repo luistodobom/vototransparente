@@ -1,0 +1,40 @@
+{
+ "short_title": "Aumento suplementar de 40 euros nas pensões mais baixas",
+ "summary": "O Projeto de Resolução n.º 1055/XVII/1.ª, apresentado pelo grupo parlamentar do LIVRE, recomenda ao Governo que aplique um aumento suplementar nas pensões de menor valor a partir de 1 de julho de 2026. Trata-se de uma recomendação parlamentar não vinculativa, pelo que o Executivo não é obrigado a executá-la. Em concreto, a iniciativa propõe um acréscimo de 40,00 euros mensais para todas as pensões de valor igual ou inferior a duas vezes o Indexante dos Apoios Sociais, o que equivale a 1.074,26 euros segundo o texto. Este indexante é um valor de referência utilizado no cálculo de várias prestações públicas. A medida abrange as pensões de velhice, invalidez e sobrevivência pagas pela Segurança Social, bem como as pensões de reforma, aposentação e sobrevivência do regime convergente da Caixa Geral de Aposentações, aplicável a antigos trabalhadores da função pública.",
+ "key_points": [
+  "Recomenda ao Governo um aumento suplementar de 40,00 euros nas pensões de menor valor, com efeitos a partir de 1 de julho de 2026.",
+  "Define como limite de acesso as pensões de valor igual ou inferior a duas vezes o Indexante dos Apoios Sociais, equivalente a 1.074,26 euros.",
+  "Abrange as pensões de velhice, invalidez e sobrevivência atribuídas pela Segurança Social.",
+  "Inclui igualmente as pensões de reforma, aposentação e sobrevivência do regime convergente da Caixa Geral de Aposentações."
+ ],
+ "plain_language": "O Parlamento é convidado a pedir ao Governo que dê um reforço extra de 40 euros por mês às reformas e pensões mais baixas, a começar em julho de 2026. Este aumento aplicar-se-ia a quem recebe até 1.074,26 euros, abrangendo pensões de velhice, invalidez ou sobrevivência, tanto da Segurança Social como da Caixa Geral de Aposentações. Como é um projeto de resolução, funciona apenas como uma recomendação sem força obrigatória, cabendo ao Governo decidir se avança ou não.",
+ "context": "O proponente justifica a iniciativa com a elevada vulnerabilidade económica dos idosos, apontando que 17,8% se encontram em risco de pobreza e que cerca de 1,4 milhões de pensionistas viviam abaixo do limiar da pobreza em 2024. Refere ainda a persistência de desigualdades de género nas reformas, a permanência de cerca de 13% dos pensionistas no mercado de trabalho e a perda de poder de compra face à inflação e ao custo de vida, considerando insuficientes as atualizações anuais previstas na lei.",
+ "analysis": "A iniciativa apresenta um critério objetivo de aplicação, baseado num teto indexado aos apoios sociais, e dirige-se ao grupo etário mais exposto ao risco de pobreza. Contudo, por ser um projeto de resolução, não tem caráter vinculativo nem impõe prazos obrigatórios ao Governo. Uma fragilidade assinalável é a ausência de qualquer estimativa do custo orçamental global da medida ou de indicação de fontes de financiamento, apesar de o texto referir a salvaguarda da sustentabilidade da Segurança Social. Além disso, o aumento fixo de 40 euros não prevê mecanismos de transição para pensões imediatamente acima de 1.074,26 euros, o que pode criar distorções entre pensionistas com rendimentos muito próximos desse limite.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Caso o Governo adote a recomendação, a medida aumenta a despesa pública da Segurança Social e da Caixa Geral de Aposentações ao atribuir 40,00 euros adicionais às pensões até 1.074,26 euros. O documento não apresenta estimativas do custo orçamental total nem especifica como financiar esse acréscimo."
+ },
+ "affected": [
+  "pensionistas de velhice, invalidez e sobrevivência da Segurança Social",
+  "pensionistas do regime convergente da Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "caixa geral de aposentações",
+  "poder de compra",
+  "pobreza"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

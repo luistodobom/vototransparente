@@ -1,0 +1,44 @@
+{
+ "short_title": "Restrição da exportação marítima de animais vivos para países terceiros",
+ "summary": "O Projeto de Lei n.º 659/XVII/1.ª, do JPP, altera o Decreto-Lei n.º 265/2007 para restringir a exportação marítima de animais vivos a partir de Portugal para países fora da União Europeia. Proíbe a exportação de bovinos, ovinos, caprinos, suínos e equídeos vivos destinados a abate ou engorda, incluindo operações preparatórias em território nacional, como o transporte rodoviário e o embarque. Para outros fins, como reprodução ou conservação genética, exige autorização prévia da autoridade competente, condicionada à prova de bem-estar animal em todo o percurso até ao destino final e à presença permanente de um médico veterinário a bordo. Prevê ainda novas contraordenações, a proibição temporária de exportar até dois anos, um registo de decisões, fiscalizações sem aviso prévio e um período transitório de 365 dias com controlo reforçado.",
+ "key_points": [
+  "Proíbe a exportação por via marítima de bovinos, ovinos, caprinos, suínos e equídeos vivos para países fora da União Europeia quando destinados a abate ou engorda.",
+  "Sujeita a exportação marítima de animais vivos para outros fins, como reprodução ou investigação, a autorização prévia que garanta o bem-estar animal desde a origem até ao destino final no país terceiro.",
+  "Impõe a presença permanente a bordo de pelo menos um médico veterinário habilitado, responsável pela assistência clínica e pela elaboração de um relatório final nas operações autorizadas.",
+  "Obriga a autoridade competente a manter um registo atualizado das autorizações concedidas e recusadas e a realizar fiscalizações aleatórias e sem aviso prévio.",
+  "Cria novas contraordenações por incumprimento e prevê a sanção acessória de proibição temporária de exportar por via marítima até dois anos.",
+  "Estabelece um período transitório de 365 dias antes de as novas restrições produzirem efeitos, durante o qual a fiscalização das exportações atuais deve ser reforçada."
+ ],
+ "plain_language": "Esta proposta quer proibir a saída de navios de Portugal com gado vivo (vacas, ovelhas, cabras, porcos e cavalos) para países fora da União Europeia, quando o objetivo seja a engorda ou o abate. Para outros fins, como reprodução ou investigação científica, a viagem continua permitida, mas exige autorização prévia, provas de bom tratamento durante todo o percurso até ao destino final e um veterinário sempre a bordo. Quem desrespeitar as regras arrisca penalizações e ficar proibido de exportar até dois anos. As restrições aplicam-se um ano após a lei entrar em vigor.",
+ "context": "O JPP baseia a iniciativa numa petição da PATAV, segundo a qual Portugal exporta animais vivos por via marítima para o Médio Oriente e Norte de África desde 2015, totalizando cerca de meio milhão de bovinos e ovinos só em 2023, em viagens que duram em média nove dias. Invoca denúncias de sofrimento animal intenso, ausência de veterinário a bordo, falta de fiscalização fora da UE e elevados impactos ambientais. Argumenta que o direito europeu permite normas nacionais mais rigorosas e que existem alternativas como exportar carne ou carcaças.",
+ "analysis": "A iniciativa sustenta-se na margem conferida pelo direito europeu e evita uma proibição absoluta ao manter exceções controladas, prevendo um período transitório de 365 dias para adaptação do setor. Contudo, apresenta fragilidades jurídicas e práticas. Primeiro, há uma inconsistência face à exposição de motivos: esta refere abranger outras espécies para prevenir o alargamento da prática, mas a proibição do artigo 12.º-A limita-se a bovinos, ovinos, caprinos, suínos e equídeos. Segundo, exigir aos operadores a comprovação das condições de transporte terrestre e destino final em países terceiros acarreta dificuldades de verificação e risco de arbitrariedade administrativa. Terceiro, o diploma impõe novas fiscalizações aleatórias e um registo atualizado sem prever reforço de meios para a autoridade competente, nem apresenta avaliação do impacto económico sobre os produtores ou sobre a capacidade nacional de abate.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto de lei não apresenta estimativa de impacto orçamental nem quantifica custos ou receitas. Por um lado, impõe à autoridade competente novas tarefas de licenciamento, registo e fiscalização reforçada sem aviso prévio, o que pode gerar custos operacionais; por outro, a proibição da maioria das exportações reduzirá o número de operações a controlar após o período transitório, podendo ainda ocorrer variações na receita de coimas e na atividade económica do setor."
+ },
+ "affected": [
+  "produtores pecuários",
+  "operadores e transportadores de gado",
+  "médicos veterinários",
+  "autoridades competentes de fiscalização"
+ ],
+ "categories": [
+  "animais",
+  "agricultura",
+  "transportes"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "exportação de animais vivos",
+  "transporte marítimo",
+  "países terceiros",
+  "pecuária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

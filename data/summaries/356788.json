@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço da saúde e proteção social para pessoas com fibromialgia",
+ "summary": "Este Projeto de Resolução, que constitui uma recomendação não vinculativa ao Governo, propõe cinco medidas para melhorar a resposta pública às pessoas com fibromialgia. Na saúde, recomenda o reforço do Serviço Nacional de Saúde (SNS) através da aplicação efetiva de orientações clínicas, da formação dos profissionais e da garantia de acompanhamento adequado. Propõe ainda a revisão dos critérios de avaliação funcional e de incapacidade, designadamente na Tabela Nacional de Incapacidades e na Tabela Nacional de Funcionalidade. Em matéria de inclusão e proteção social, sugere a adaptação de condições de trabalho, garantias de resposta em casos de incapacidade significativa e apoios específicos para crianças e jovens nas escolas. Por último, recomenda campanhas de sensibilização contra o estigma e o envolvimento das associações na avaliação e criação de políticas públicas.",
+ "key_points": [
+  "Reforçar a resposta do SNS garantindo orientações clínicas, formação de profissionais de saúde e acompanhamento adequado aos doentes.",
+  "Rever a Tabela Nacional de Incapacidades e a Tabela Nacional de Funcionalidade para assegurar critérios ajustados à realidade da fibromialgia.",
+  "Promover a adaptação de condições laborais e garantir proteção social adequada perante situações de incapacidade funcional significativa.",
+  "Adotar medidas de apoio específicas para crianças e jovens com fibromialgia em contexto educativo.",
+  "Desenvolver ações de sensibilização pública e institucional contra o estigma e envolver as associações representativas na definição de políticas públicas."
+ ],
+ "plain_language": "A fibromialgia causa dor generalizada e fadiga extrema, mas, por ser uma doença invisível, os doentes enfrentam muitas vezes atrasos no diagnóstico e falta de apoio. Com esta iniciativa, o Parlamento recomenda ao Governo que melhore o acompanhamento no SNS, formando melhor os profissionais de saúde. Pede também que se atualizem as tabelas que avaliam a incapacidade, para facilitar o acesso a apoios sociais, adaptações no trabalho e ajuda para crianças e jovens nas escolas. Como se trata de um Projeto de Resolução, é uma recomendação política ao Governo e não uma lei obrigatória.",
+ "context": "O PAN justifica a proposta com as dificuldades vividas em Portugal pelas pessoas com fibromialgia, apesar do reconhecimento da doença pela Organização Mundial da Saúde. Segundo o partido, persistem falhas no diagnóstico atempado, falta de formação médica, incompreensão e estigma social, além de obstáculos no reconhecimento oficial da incapacidade funcional. A exposição de motivos cita alertas de associações médicas e petições de organizações de doentes que reclamam respostas mais fortes na saúde, no trabalho, na educação e na proteção social.",
+ "analysis": "A proposta destaca-se por encarar a fibromialgia de forma integrada, articulando cuidados de saúde, avaliação de incapacidade, emprego, educação e participação das associações de doentes. No entanto, por ser um Projeto de Resolução, não tem força de lei nem obriga o Governo a agir. Adicionalmente, o texto recorre a formulações genéricas: não detalha que alterações concretas devem ser feitas às tabelas de incapacidade, que regras laborais ajustar ou que recursos alocar ao SNS. A falta de metas, prazos e estimativas orçamentais limita a fiscalização parlamentar e torna incerto o impacto real da iniciativa caso o Executivo opte por não a concretizar.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A concretização das medidas recomendadas, como o reforço do acompanhamento no SNS, a formação profissional, apoios sociais e campanhas de sensibilização, implica aumento de despesa pública. Contudo, o documento não apresenta estimativas financeiras e, tratando-se de uma recomendação não vinculativa, não gera impacto orçamental imediato."
+ },
+ "affected": [
+  "pessoas com fibromialgia",
+  "profissionais de saúde do SNS",
+  "crianças e jovens em idade escolar com fibromialgia",
+  "entidades empregadoras",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "educacao"
+ ],
+ "tags": [
+  "fibromialgia",
+  "sns",
+  "incapacidade",
+  "proteção social",
+  "sensibilização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

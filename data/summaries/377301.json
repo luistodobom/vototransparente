@@ -1,0 +1,41 @@
+{
+ "short_title": "Criação de um regime voluntário de reforma parcial",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a criação de um regime voluntário de reforma parcial, não sendo vinculativo para o Executivo. A medida destina-se a trabalhadores que já reúnam as condições legais de acesso à pensão de velhice, permitindo-lhes reduzir o horário normal de trabalho e receber uma fração correspondente da pensão. A iniciativa recomenda que a adesão não aumente a idade da reforma completa nem crie penalizações adicionais, preservando o valor da pensão já adquirida. Propõe ainda a valorização das novas contribuições, a bonificação da parte da pensão cujo pagamento é adiado e a salvaguarda dos regimes de antecipação por carreiras longas ou atividades de especial desgaste. Por fim, pede adaptações laborais para garantir a continuidade na mesma empresa, mantendo a antiguidade e a retribuição horária, e impedindo a conversão automática do contrato em contrato a termo.",
+ "key_points": [
+  "Criar um regime voluntário de reforma parcial para trabalhadores que cumpram os requisitos legais de acesso à pensão de velhice, permitindo-lhes reduzir o período normal de trabalho.",
+  "Garantir que a adesão não aumenta a idade de acesso à reforma completa nem gera penalizações adicionais, preservando o valor e as atualizações da pensão adquirida anteriormente.",
+  "Valorizar as contribuições pagas durante o período de reforma parcial e atribuir uma bonificação à parcela da pensão cujo recebimento seja adiado.",
+  "Salvaguardar integralmente os direitos dos trabalhadores abrangidos por regimes de reforma antecipada por carreiras muito longas ou atividades de especial desgaste.",
+  "Adaptar as regras laborais para permitir a continuidade na mesma empresa, preservando a antiguidade e a retribuição horária e evitando a conversão automática em contrato a termo."
+ ],
+ "plain_language": "Este projeto é uma recomendação ao Governo para criar uma espécie de reforma a tempo parcial. A ideia é que quem já tem idade ou condições para se reformar possa reduzir as horas de trabalho, recebendo parte do salário da empresa e uma parte da pensão da Segurança Social. O documento pede que esta escolha seja voluntária e segura: não pode prejudicar a pensão já conquistada, nem transformar o contrato efetivo do trabalhador num contrato temporário. Como é um Projeto de Resolução, o Governo não é obrigado a aplicá-lo.",
+ "context": "O grupo parlamentar proponente argumenta que a transição para a reforma deve ser flexível e voluntária, permitindo continuar a trabalhar por escolha e não por necessidade económica. Embora a lei já permita acumular pensão com trabalho ou celebrar acordos de pré-reforma pagos pelo empregador, o proponente aponta a falta de um regime de reforma parcial financiado pela Segurança Social. Defende ainda que esta solução promove o envelhecimento ativo e a transmissão de conhecimentos a jovens trabalhadores, protegendo simultaneamente os direitos laborais e contributivos.",
+ "analysis": "A proposta apresenta mérito ao identificar entraves práticos à saída gradual do mercado de trabalho, nomeadamente o risco legal de conversão do contrato sem termo em contrato a termo após o acesso à pensão (artigo 348.º do Código do Trabalho). É também positivo que o texto reconheça a necessidade de avaliar o impacto financeiro, evitando assumir poupanças automáticas para a Segurança Social. Contudo, tratando-se de uma recomendação não vinculativa, o texto é vago quanto ao desenho concreto do regime: não define percentagens de redução horária, critérios de bonificação nem se a adesão exige acordo do empregador. Nota-se ainda uma inconsistência entre a exposição de motivos, que refere programas de tutoria e incentivos às empresas, e os cinco pontos recomendatórios finais, que omitem essas medidas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um Projeto de Resolução, não cria despesa nem receita direta imediata, dependendo de futura regulamentação governamental. O próprio documento não apresenta estimativas financeiras e sublinha que o efeito nas contas da Segurança Social exige ponderação entre pensões pagas, contribuições recebidas e bonificações futuras."
+ },
+ "affected": [
+  "trabalhadores elegíveis para pensão de velhice",
+  "empregadores",
+  "trabalhadores abrangidos por regimes de antecipação"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "reforma parcial",
+  "pensão de velhice",
+  "segurança social",
+  "código do trabalho",
+  "carreira contributiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

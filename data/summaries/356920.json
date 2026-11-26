@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforma laboral: 35 horas, semana de 4 dias, parentalidade e regulação da IA",
+ "summary": "O Projeto de Lei altera 13 diplomas, incluindo o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, para reforçar direitos laborais e proteção social. Reduz o horário normal para 35 horas semanais, aumenta as férias mínimas para 25 dias úteis e regula a semana de quatro dias e a jornada contínua. Alarga a licença parental inicial até 366 dias, paga a 100% nos primeiros seis meses, reforça apoios a famílias monoparentais e a filhos com deficiência ou doença grave, e reduz para três dias a espera do subsídio de doença de trabalhadores independentes. Proíbe decisões laborais exclusivamente automatizadas por inteligência artificial e cria o Fundo de Transição Tecnológica. Restringe o trabalho por turnos, fixa acréscimo salarial de 30% e antecipa a reforma sem penalização. Prevê ainda dispensas remuneradas em avisos meteorológicos graves, revoga a caducidade das convenções coletivas e integra trabalhadores na administração de grandes empresas.",
+ "key_points": [
+  "Reduz o período normal de trabalho para 7 horas diárias e 35 horas semanais, aumenta as férias mínimas para 25 dias úteis e permite a semana de quatro dias e a jornada contínua sem perda salarial.",
+  "Alarga a licença parental inicial até 366 dias, com subsídio a 100% nos primeiros 183 dias, estende a licença do pai para 42 dias e reforça apoios para famílias monoparentais e filhos com deficiência, doença grave ou em cuidados paliativos.",
+  "Obriga à intervenção humana e à transparência no uso de inteligência artificial no recrutamento, avaliação e despedimentos, e cria o Fundo de Transição Tecnológica para requalificação profissional.",
+  "Restringe o trabalho por turnos a casos tecnicamente indispensáveis, cria um acréscimo salarial de 30%, garante exames médicos semestrais e permite a reforma antecipada sem penalização.",
+  "Condiciona ou proíbe trabalhos ao ar livre sob avisos meteorológicos laranja ou vermelhos, com dispensa remunerada pelo empregador nos primeiros três dias e pela Segurança Social nos restantes.",
+  "Elimina a caducidade das convenções coletivas, alarga a presunção de contrato nas plataformas digitais e impõe representantes dos trabalhadores nos conselhos de administração de empresas com 250 ou mais trabalhadores."
+ ],
+ "plain_language": "Esta proposta altera profundamente as leis do trabalho para dar mais tempo livre e proteção às famílias e trabalhadores. Se aprovada, a semana de trabalho passa para 35 horas, as férias sobem para 25 dias e torna-se possível trabalhar quatro dias por semana sem perder salário. A licença após o nascimento de um filho pode ir até um ano, com seis meses pagos a 100%. Protege também contra decisões tomadas apenas por inteligência artificial, cria dispensas pagas em dias de mau tempo extremo, melhora direitos no trabalho por turnos e reforça o peso dos trabalhadores nas empresas.",
+ "context": "O LIVRE justifica a iniciativa com a necessidade de adaptar a lei laboral aos desafios do século XXI, como a automação, a inteligência artificial e os fenómenos climáticos extremos. O proponente critica a proposta de pacote laboral do Governo, acusando-a de promover precariedade, baixos salários e retrocessos de direitos. Defende um modelo económico de maior valor acrescentado em que os ganhos de produtividade e inovação tecnológica sejam repartidos em melhores rendimentos, saúde e tempo familiar, contrariando décadas em que os salários cresceram abaixo da produtividade.",
+ "analysis": "O projeto destaca-se pela abrangência e por responder a lacunas atuais, regulando a inteligência artificial no trabalho, riscos climáticos extremos, trabalho por turnos e direitos de famílias monoparentais e cuidadores. Contudo, apresenta fragilidades técnicas e de implementação. Embora a exposição de motivos proponha financiar o Fundo de Transição Tecnológica com impostos sobre lucros da automação, o articulado não cria esse tributo e remete o fundo para diploma futuro. Faltam também estudos de impacto sobre pequenas empresas perante a semana de 35 horas, mais férias e o acréscimo de 30% nos turnos, bem como sobre a sustentabilidade da Segurança Social. Há ainda imprecisões formais, como remissões erradas nos artigos climáticos e prazos de regulamentação de 60 dias previstos para uma lei que só entra em vigor no próximo Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A iniciativa aumenta a despesa pública e da Segurança Social ao alargar subsídios parentais até 366 dias, reduzir o período de espera na doença, antecipar reformas por turnos, criar prestações para calamidades e eventos meteorológicos, financiar um novo fundo tecnológico e elevar férias e suplementos na Função Pública. Em sentido inverso, alarga a base contributiva da taxa social única ao trabalho por turnos e noturno e restringe o benefício fiscal à valorização salarial, não constando do documento estimativas de montantes."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "trabalhadores independentes e de plataformas",
+  "entidades empregadoras",
+  "trabalhadores em funções públicas",
+  "famílias e cuidadores"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "código do trabalho",
+  "licença parental",
+  "semana de quatro dias",
+  "inteligência artificial",
+  "trabalho por turnos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

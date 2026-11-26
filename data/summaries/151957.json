@@ -1,0 +1,26 @@
+{
+ "short_title": "Cria o Programa 'Arrendar para Habitar'",
+ "summary": "A proposta cria o programa \"Arrendar para Habitar\", que permite a famílias com dificuldades em pagar o crédito à habitação vender a sua hipoteca a um fundo público. Este fundo, gerido pelo Instituto da Habitação e da Reabilitação Urbana, adquire o imóvel e arrenda-o de volta ao mutuário original por tempo indeterminado, com uma renda compatível com os seus rendimentos. O mutuário tem ainda a opção de recomprar o imóvel num prazo de dez anos. O programa visa proteger devedores em incumprimento e aumentar o parque habitacional público.",
+ "key_points": [],
+ "plain_language": "Basicamente, se não consegues pagar a tua casa, este programa do Bloco de Esquerda permite que um fundo do Estado compre a tua dívida ao banco. Assim, não perdes a casa, passas a alugá-la ao Estado por um valor que consegues pagar, e até podes comprá-la de volta nos próximos 10 anos. É uma forma de ajudar quem está em apuros com o crédito da casa e, ao mesmo tempo, o Estado fica com mais casas para alugar.",
+ "context": null,
+ "analysis": "A proposta do Bloco de Esquerda identifica claramente o problema do aumento dos preços da habitação e das prestações do crédito, bem como o aumento dos lucros bancários. A solução proposta, o programa \"Arrendar para Habitar\", alinha-se diretamente com os objetivos declarados: impedir o sobreendividamento das famílias, garantir o direito à habitação e contribuir para a formação de um parque público habitacional. Os detalhes de implementação, como a aquisição da hipoteca por um fundo público, o arrendamento por tempo indeterminado com renda acessível e a opção de recompra, são mecanismos coerentes para alcançar estes fins. A elegibilidade, baseada no valor patrimonial do imóvel (até 250.000€) e no rendimento anual bruto corrigido do agregado familiar (até 45.000€), foca-se nas famílias mais vulneráveis. A consignação das receitas da contribuição especial sobre lucros bancários ao fundo demonstra uma tentativa de financiar a solução através de quem, segundo a proposta, beneficia da crise. Não se detetam inconsistências internas na lógica da proposta, que procura uma resposta social a um problema económico crescente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo (ou de um fundo público) na aquisição de hipotecas de imóveis. Contudo, prevê-se que estas aquisições sejam financiadas pelas receitas de uma \"contribuição especial sobre lucros bancários\", o que representaria um aumento da receita governamental proveniente do setor bancário. O efeito líquido no orçamento geral do Estado dependerá do volume de hipotecas adquiridas e do montante arrecadado com a contribuição, mas a intenção é que o programa seja financiado por esta via específica, mitigando o impacto direto no orçamento geral. A longo prazo, os imóveis não recomprados integrarão o parque habitacional público, gerando rendas, o que pode contribuir para a sustentabilidade do programa."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

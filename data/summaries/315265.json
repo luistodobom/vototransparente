@@ -1,0 +1,24 @@
+{
+ "short_title": "Otimização do Serviço de Saúde Materna e Obstétrica no SNS",
+ "summary": "Esta proposta visa otimizar o serviço de saúde materna e obstétrica em Portugal, aproveitando as competências dos Enfermeiros Especialistas em Saúde Materna e Obstétrica (EESMO) no Serviço Nacional de Saúde (SNS). O documento destaca a crise nas urgências de obstetrícia, que força grávidas a percorrer longas distâncias, e a sobrecarga dos serviços devido à falta de médicos. A solução proposta é a plena e célere aplicação de uma orientação da Direção-Geral da Saúde (DGS) que permite aos EESMO assumir intervenções autónomas em situações de baixo risco, melhorando a qualidade dos cuidados e a gestão de recursos.",
+ "key_points": [],
+ "plain_language": "Basicamente, o pessoal do CHEGA está a dizer que o nosso sistema de saúde para grávidas está uma confusão, com as urgências a fechar e as futuras mães a ter de viajar imenso para serem atendidas, tudo porque faltam médicos. A ideia deles é simples: já temos enfermeiros super especializados em partos e gravidez que podem fazer muita coisa sozinhos, especialmente nos casos mais simples. Então, a proposta é que o Governo ponha em prática uma regra que já existe e que permite a estes enfermeiros fazerem mais, aliviando a pressão sobre os médicos e melhorando o atendimento para toda a gente. É tipo usar melhor o que já temos para resolver um problema grande.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente um problema grave no SNS, nomeadamente a sobrecarga das urgências de obstetrícia e a falta de médicos, que leva a constrangimentos significativos para as grávidas. A solução proposta, que é a plena aplicação da Orientação n.º 002/2023 da DGS, alinha-se diretamente com o objetivo de otimizar os recursos existentes. Ao permitir que os Enfermeiros Especialistas em Saúde Materna e Obstétrica (EESMO) atuem de forma autónoma em situações de baixo risco, a proposta visa aliviar a pressão sobre os médicos e os serviços, aproveitando competências já reconhecidas e existentes. Não há inconsistências aparentes, uma vez que a proposta se baseia em orientações e regulamentos já estabelecidos (DGS e Ordem dos Enfermeiros), procurando apenas a sua efetiva implementação para melhorar a eficiência e a qualidade dos cuidados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, ao focar-se na otimização e rentabilização de recursos humanos já existentes (Enfermeiros Especialistas em Saúde Materna e Obstétrica), tem um potencial para diminuir os gastos do governo a médio e longo prazo. Ao permitir que estes profissionais assumam mais responsabilidades autónomas em situações de baixo risco, pode-se reduzir a necessidade de contratação de mais médicos para essas funções ou diminuir os custos associados à sobrecarga e ineficiência dos serviços. Não se prevê um aumento direto da receita do governo. O efeito líquido esperado é uma diminuição dos gastos, através de uma melhor alocação de recursos e uma potencial redução de custos operacionais devido à maior eficiência."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-07-13",
+  "legacy": true
+ }
+}

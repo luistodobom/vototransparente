@@ -1,0 +1,41 @@
+{
+ "short_title": "Aumento das pensões baixas e redução da desigualdade entre mulheres e homens",
+ "summary": "O Projeto de Resolução n.º 1287/XVII/2.ª, apresentado pelo PAN, recomenda ao Governo que negoceie um aumento das pensões, dando prioridade às de valor mais baixo e à situação específica das mulheres pensionistas. Trata-se de uma recomendação da Assembleia da República sem força vinculativa, pelo que o Executivo não fica juridicamente obrigado a executá-la. Segundo o texto da iniciativa, essa negociação deve ser feita com as entidades que representam os reformados e pensionistas. Os objetivos apontados são compensar a perda de poder de compra causada pelo aumento generalizado do custo de vida e reduzir o fosso entre as pensões de mulheres e homens. A proposta estipula ainda que qualquer eventual aumento deve ser desenhado sem comprometer a sustentabilidade presente e futura do sistema de Segurança Social.",
+ "key_points": [
+  "Recomendar ao Governo que negocie o aumento das pensões com as entidades representativas de reformados e pensionistas.",
+  "Priorizar a valorização das pensões de valor mais baixo para travar a perda de poder de compra face à subida do custo de vida.",
+  "Atender de forma particular à situação das mulheres pensionistas, visando diminuir as desigualdades de género nos valores pagos.",
+  "Assegurar que as eventuais atualizações não colocam em causa a sustentabilidade presente e futura da Segurança Social."
+ ],
+ "plain_language": "O Parlamento sugere ao Governo que se sente à mesa com as associações de reformados para negociar um aumento das pensões, focando-se sobretudo nas mais baixas e nas das mulheres. A ideia é ajudar os pensionistas a acompanhar a subida dos preços do dia a dia e corrigir o facto de as mulheres receberem, em média, reformas bastante mais pequenas do que os homens. No entanto, este documento é apenas uma recomendação e não obriga o Governo a agir. Além disso, pede que qualquer aumento respeite as contas da Segurança Social para não pôr o sistema em risco.",
+ "context": "O PAN justifica a iniciativa com a perda de poder de compra dos pensionistas face à subida de preços em bens essenciais, referindo um cabaz próximo dos 260 euros. Aponta ainda a persistência de desigualdades de género na velhice, citando dados da OCDE (pensões das mulheres 23% abaixo das dos homens em Portugal) e do Banco de Portugal (pensão média de velhice de 490 euros nas mulheres contra 812 euros nos homens em 2024, com 60% das mulheres em pensões mínimas). Atribui este fosso a salários mais baixos, carreiras descontínuas e à sobrecarga com cuidados familiares.",
+ "analysis": "A iniciativa tem o mérito de sustentar o diagnóstico em estatísticas oficiais recentes e de enquadrar a desigualdade nas pensões como reflexo de assimetrias acumuladas na vida ativa, defendendo também o diálogo com representantes dos pensionistas e a atenção à sustentabilidade financeira. Contudo, apresenta fragilidades relevantes. Por ser um projeto de resolução, não tem força vinculativa. Além disso, a parte decisória é muito vaga: não define metas, percentagens, critérios de aplicação ou prazos, limitando-se a recomendar negociações. Verifica-se igualmente um desfasamento interno: a exposição de motivos sugere reconhecer contributivamente períodos de cuidados familiares e combater desigualdades salariais no mercado de trabalho, mas nenhuma dessas medidas estruturais passa para a recomendação final. Por fim, conciliar aumentos generalizados com a sustentabilidade da Segurança Social exigiria indicar fontes de financiamento, o que o texto omite.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa que não fixa valores, escalões ou calendário de atualização, o impacto orçamental imediato é incerto. A concretização do aumento das pensões aumentaria a despesa da Segurança Social, mas o texto exige que essa medida não comprometa a sustentabilidade do sistema, sem especificar fontes de financiamento."
+ },
+ "affected": [
+  "pensionistas com pensões baixas",
+  "mulheres pensionistas",
+  "associações de reformados e pensionistas"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "igualdade de género",
+  "custo de vida",
+  "reforma"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

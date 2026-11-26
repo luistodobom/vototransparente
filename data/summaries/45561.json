@@ -1,0 +1,26 @@
+{
+ "short_title": "Escolha de Regime de Segurança Social para Profissionais da Justiça",
+ "summary": "Esta proposta de lei visa permitir que advogados, solicitadores e agentes de execução possam escolher entre continuar a contribuir para a Caixa de Previdência dos Advogados e Solicitadores (CPAS) ou passar a descontar para o regime geral da Segurança Social. Atualmente, estes profissionais são obrigados a contribuir para a CPAS, um sistema que tem sido alvo de críticas devido, entre outros aspetos, à imposição de contribuições mínimas elevadas, independentemente dos rendimentos efetivamente auferidos, e à falta de apoio social adequado em situações de crise.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar aos advogados, solicitadores e agentes de execução a liberdade de escolherem onde descontam para a reforma e para a segurança social: se continuam na Caixa de Previdência deles (CPAS) ou se passam para a Segurança Social normal. É que a CPAS tem sido muito criticada porque obriga a pagar um mínimo alto, mesmo que não se ganhe nada, e não ajudou muito na pandemia. A ideia é que possam ter uma proteção social mais justa e adequada aos seus rendimentos.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica robusta do sistema atual da CPAS, argumentando que as suas regras de contribuição violam princípios constitucionais de igualdade e capacidade contributiva, conforme já reconhecido por decisões judiciais. A proposta destaca a inconsistência de a CPAS, apesar de ter lucros, não ter conseguido apoiar os seus membros durante a pandemia de COVID-19, ao contrário do sistema público de Segurança Social. Ao oferecer a possibilidade de escolha, a proposta alinha os detalhes da implementação (alterações aos estatutos profissionais e à legislação da segurança social) com o objetivo de garantir uma proteção social mais justa e adaptada à realidade económica dos profissionais, visando resolver as desigualdades e a insustentabilidade do modelo atual para muitos deles.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta poderá diminuir as receitas da CPAS, caso um número significativo de profissionais opte por mudar para a Segurança Social, o que pode afetar a sustentabilidade da própria Caixa. Para o governo, a mudança implicaria um aumento das receitas de contribuições para a Segurança Social, mas também um aumento das responsabilidades e passivos futuros, uma vez que mais profissionais passariam a ter direito a prestações e pensões do regime público. O efeito líquido é complexo, mas tenderá a transferir a responsabilidade e os fluxos financeiros de um sistema de previdência profissional específico para o sistema geral do Estado, aumentando as obrigações de longo prazo do governo em matéria de proteção social."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho",
+  "justica",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

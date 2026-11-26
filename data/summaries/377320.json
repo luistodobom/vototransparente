@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio ao desporto de alto rendimento e proteção da maternidade",
+ "summary": "Este Projeto de Resolução recomenda ao Governo quatro eixos de atuação para reforçar o desporto de alto rendimento, tratando-se de uma iniciativa não vinculativa. Propõe a criação de um programa estrutural de financiamento público, com bolsas e subvenções que garantam a dedicação exclusiva dos atletas, eliminando a necessidade de outros empregos. Recomenda ainda a execução de um plano nacional de requalificação e modernização das infraestruturas desportivas de alto rendimento. Adicionalmente, sugere um programa público de apoio multidisciplinar permanente para dotar federações e centros de treino de fisioterapeutas, fisiologistas e especialistas em saúde mental a tempo inteiro. Por fim, pede um regime de proteção da maternidade que mantenha os apoios e bolsas no pós-parto, preserve o estatuto desportivo e conte a parentalidade como tempo efetivo, evitando penalizações em rankings ou avaliações.",
+ "key_points": [
+  "Criar um programa estrutural de financiamento público com bolsas e subvenções adequadas para garantir a dedicação exclusiva dos praticantes de alto rendimento.",
+  "Executar um plano nacional de requalificação e modernização das infraestruturas desportivas de alto rendimento em todo o país.",
+  "Instituir um programa público permanente que dote federações e centros de treino de fisioterapeutas, fisiologistas e especialistas em saúde mental a tempo inteiro.",
+  "Assegurar a proteção da maternidade no pós-parto, mantendo apoios, bolsas e estatuto desportivo e proibindo penalizações nos rankings ou avaliações de desempenho."
+ ],
+ "plain_language": "O Parlamento recomenda ao Governo que melhore as condições de quem pratica desporto de alto rendimento em Portugal. A ideia é dar bolsas suficientes para que os atletas possam viver apenas do desporto, sem precisarem de ter outros trabalhos ou depender da família. Também pede melhores instalações de treino e equipas fixas de fisioterapeutas e psicólogos pagas pelo Estado nas federações. Outro ponto central é proteger as atletas que são mães, garantindo que não perdem dinheiro, bolsas nem o seu estatuto durante a gravidez e após o parto. Como é uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente aponta um subfinanciamento crónico e precariedade no desporto de alto rendimento em Portugal, obrigando muitos praticantes a ter outros empregos e a depender das famílias. Refere ainda infraestruturas degradadas que empurram atletas para o estrangeiro e a falta de equipas permanentes de fisioterapia e saúde mental. Sublinha que a maternidade provoca frequentemente a suspensão de apoios, exclusão de rankings e abandono desportivo. Por fim, contrasta a situação nacional com modelos europeus como os da Suécia, Alemanha e França, onde existem apoios estruturados às carreiras duais e maior estabilidade.",
+ "analysis": "A iniciativa tem o mérito de abordar problemas estruturais relevantes, articulando a sustentabilidade financeira dos atletas, o apoio clínico e psicológico e a proteção contra a discriminação na maternidade. Contudo, apresenta fragilidades importantes. Como Projeto de Resolução, não é vinculativa e não define fontes de financiamento, custos estimados, prazos ou critérios objetivos para definir o que é um montante adequado de bolsas. Existe também uma inconsistência interna: a exposição de motivos destaca exemplos europeus de carreiras duais, mas as recomendações finais não incluem medidas para conciliar estudos ou trabalho com o desporto. Além disso, a proibição de penalizações nos rankings desportivos durante a parentalidade pode ser difícil de aplicar em modalidades cujos rankings dependem de federações internacionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A execução das recomendações implica aumento da despesa pública com novas bolsas, requalificação de infraestruturas, contratação de equipas técnicas a tempo inteiro e manutenção de apoios na parentalidade. O documento não apresenta estimativas de custos e, sendo uma recomendação, o impacto depende de decisão futura do Governo."
+ },
+ "affected": [
+  "praticantes desportivos de alto rendimento",
+  "federações desportivas",
+  "centros de treino",
+  "atletas grávidas ou em pós-parto",
+  "fisioterapeutas, fisiologistas e especialistas em saúde mental"
+ ],
+ "categories": [
+  "desporto",
+  "direitos",
+  "saude"
+ ],
+ "tags": [
+  "alto rendimento",
+  "precariedade desportiva",
+  "proteção da maternidade",
+  "saúde mental",
+  "apoios desportivos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

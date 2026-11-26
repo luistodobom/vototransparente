@@ -1,0 +1,25 @@
+{
+ "short_title": "Limita a variação da taxa de esforço no crédito à habitação",
+ "summary": "Esta proposta de lei, apresentada pelo Bloco de Esquerda, visa proteger os mutuários de crédito à habitação própria e permanente dos aumentos excessivos das taxas de juro e das prestações mensais. O objetivo é limitar a variação da taxa de esforço (relação entre os encargos do empréstimo e o rendimento mensal) a um máximo de 2 pontos percentuais face à média de 2021, ou ao momento da contratualização, e garantir que esta taxa nunca ultrapasse os 50%. As instituições financeiras serão obrigadas a renegociar os contratos para atingir estes limites, sem poder cobrar comissões por essa renegociação. O Banco de Portugal será responsável pela supervisão e regulamentação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer dar uma ajuda a quem tem crédito da casa e está a ver a prestação subir muito por causa dos juros. A ideia é que a prestação não possa aumentar mais do que 2% em relação ao que era em 2021, ou quando se fez o empréstimo, e que nunca ultrapasse metade do rendimento da família. Os bancos vão ser obrigados a renegociar os contratos para que isto aconteça, e não podem cobrar nada por isso. É para proteger as famílias e evitar que fiquem com a corda na garganta por causa da casa.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente da escalada dos preços da habitação e do aumento das taxas de juro, que resultaram num aumento significativo das prestações de crédito à habitação e nos lucros da banca. A proposta alinha-se diretamente com o objetivo de proteger as famílias, impondo limites claros à taxa de esforço e obrigando os bancos a renegociar os contratos. Os requisitos de aplicabilidade (imóvel hipotecado como habitação própria e permanente, valor patrimonial tributário até 250.000€) focam a medida nos agregados familiares mais vulneráveis. A proibição de cobrança de comissões e as garantias aos beneficiários (como a impossibilidade de resolver o contrato por incumprimento decorrente desta medida) reforçam a proteção ao consumidor. A atribuição da supervisão ao Banco de Portugal e a previsão de sanções garantem a exequibilidade da lei. Não se detetam inconsistências entre a análise do problema e as soluções propostas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não prevê um aumento ou diminuição direta dos gastos ou receitas do governo. O seu impacto fiscal é indireto, uma vez que visa aliviar a pressão financeira sobre as famílias, o que poderá reduzir a necessidade de futuras medidas de apoio social por parte do Estado. A medida transfere o ónus da adaptação às condições de mercado para as instituições financeiras, que serão obrigadas a renegociar contratos e, potencialmente, a reduzir os seus lucros em benefício dos mutuários. O efeito líquido para o governo será provavelmente neutro ou ligeiramente positivo, ao contribuir para a estabilidade social e económica sem custos diretos para o erário público."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

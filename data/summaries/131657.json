@@ -1,0 +1,24 @@
+{
+ "short_title": "Regulamentação e Implementação das USF de Modelo C",
+ "summary": "Esta proposta visa regulamentar e implementar as Unidades de Saúde Familiar (USF) de Modelo C em Portugal. O objetivo principal é resolver a grave escassez de médicos de família no Serviço Nacional de Saúde (SNS), permitindo que as USF-C operem com maior autonomia organizacional e financeira, e que integrem profissionais dos setores privado e social. A iniciativa pretende melhorar o acesso aos cuidados de saúde primários, reduzir a pressão sobre as urgências hospitalares e garantir que mais cidadãos tenham um médico de família, aproveitando a capacidade de profissionais de saúde que atualmente não estão no SNS.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer que o governo deixe de lado a \"ideologia\" e comece a usar um tipo de centros de saúde mais independentes, chamados USF-C. A ideia é que estes centros, que podem ser geridos por privados ou instituições sociais, tenham mais liberdade para funcionar e para pagar melhor aos médicos. Assim, esperam resolver o problema de milhões de portugueses que não têm médico de família, aproveitando os médicos que já existem fora do SNS e que não querem trabalhar lá por falta de condições. É uma forma de ter mais médicos de família e de aliviar as urgências dos hospitais, que estão sempre cheias.",
+ "context": null,
+ "analysis": "O documento faz uma análise crítica da situação atual, destacando a falta de atratividade do SNS para reter e captar médicos de família, o que resulta em milhões de portugueses sem acesso a este serviço essencial. A proposta argumenta que a relutância do governo em implementar as USF-C se baseia em \"preconceito ideológico\". Os detalhes da implementação, como a maior autonomia organizacional e financeira, a diferenciação do modelo retributivo e de incentivos, a possibilidade de funcionamento 24/7 e a integração de profissionais de diferentes setores, alinham-se diretamente com o objetivo de resolver a escassez de médicos e melhorar o acesso. A proposta utiliza dados e citações de entidades como a Ordem dos Médicos e ex-ministros da Saúde para fundamentar a necessidade e a eficácia do modelo USF-C como solução para os problemas identificados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não especifica um aumento ou diminuição líquida dos gastos do governo. Em vez disso, argumenta que a implementação das USF-C, através de contratos com entidades dos setores privado e social, pode evitar um grande aumento nos custos diretos de contratação de novos médicos para o setor público. Embora implique um aumento dos gastos contratuais com as USF-C, a lógica subjacente é que esta abordagem é mais eficiente e rentável na utilização da capacidade médica existente fora do SNS. O efeito líquido é apresentado como uma utilização mais eficaz dos fundos públicos para resolver a falta de médicos de família e aliviar a pressão sobre as urgências hospitalares, em vez de um aumento ou diminuição clara do orçamento total. A proposta visa, portanto, uma reorientação do tipo de despesa governamental, de emprego direto para acordos contratuais, com o objetivo de otimizar o acesso e a eficiência."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

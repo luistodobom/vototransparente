@@ -1,0 +1,43 @@
+{
+ "short_title": "Modelo societário e estatutos públicos da agência Lusa",
+ "summary": "O Projeto de Lei n.º 555/XVII/1.ª aprova o modelo societário e os estatutos da Lusa - Agência de Notícias de Portugal, S.A., integrando-a no setor empresarial do Estado com capital social de 10 324 225,00 euros detido exclusivamente por entidades públicas. A iniciativa estabelece um novo modelo de governação inspirado no da RTP, criando um Conselho Geral Independente de seis membros encarregado de escolher o Conselho de Administração por concurso público e de fiscalizar o cumprimento do contrato de serviço de interesse público celebrado com o Estado. Consagra ainda a autonomia editorial da Direção de Informação, mantém o Conselho de Opinião como órgão consultivo representativo e reforça o controlo parlamentar através de audições anuais e envio regular de planos e contas à Assembleia da República.",
+ "key_points": [
+  "Fixa o capital social da Lusa em 10 324 225,00 euros, dividido em ações nominativas detidas exclusivamente pelo Estado, pessoas coletivas de direito público ou empresas públicas.",
+  "Cria o Conselho Geral Independente, com seis membros inamovíveis para mandatos únicos de seis anos, encarregado de selecionar a administração e supervisionar o serviço público.",
+  "Estabelece que o Conselho de Administração é escolhido por concurso público transparente, mediante parecer vinculativo das Finanças para o administrador financeiro e audição parlamentar.",
+  "Atribui à Direção de Informação a responsabilidade pelos conteúdos com autonomia editorial, sujeita a avaliação da Assembleia da República, do regulador dos media e dos órgãos internos.",
+  "Sujeita o Conselho Geral Independente e o Conselho de Administração a audições anuais obrigatórias na Assembleia da República e ao envio de planos e relatórios."
+ ],
+ "plain_language": "Esta proposta transforma em lei as regras de funcionamento da agência de notícias Lusa, definindo que pertence a 100% a entidades públicas e nunca pode ser vendida a privados. Para evitar que os governos mandem diretamente nas notícias ou escolham livremente quem dirige a empresa, cria-se um grupo independente de seis pessoas que seleciona a administração por concurso público e vigia o cumprimento do trabalho. Além disso, os administradores e os supervisores passam a ter de responder anualmente perante os deputados no Parlamento, garantindo maior transparência e proteção da liberdade jornalística.",
+ "context": "O proponente afirma ser necessário concluir a consolidação do controlo público da Lusa através de um estatuto aprovado pelo Parlamento, garantindo estabilidade institucional à sua missão de interesse público. Invoca igualmente a obrigação de cumprir o Regulamento Europeu da Liberdade dos Meios de Comunicação Social (EMFA), que exige aos Estados-Membros quadros jurídicos estáveis, financiamento previsível, procedimentos transparentes de nomeação e salvaguardas efetivas de independência editorial para os operadores públicos.",
+ "analysis": "O projeto apresenta como pontos fortes o reforço da transparência na escolha da administração por concurso público, a verificação de idoneidade pela Entidade Reguladora para a Comunicação Social e a prestação regular de contas ao Parlamento. Contudo, subsistem fragilidades relevantes: embora invoque o regulamento europeu EMFA quanto à previsibilidade do financiamento, o diploma não define critérios nem regras financeiras para o contrato com o Estado. Verifica-se também uma tensão entre a autonomia do Conselho Geral Independente e o parecer vinculativo do Governo para o administrador financeiro. Por fim, o texto contém lapsos de redação e numeração, incluindo dois artigos 3.º seguidos no articulado principal e a omissão do Capítulo III nos estatutos anexos, além de não prever normas transitórias para os órgãos e acionistas atuais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto fixa o capital social em 10 324 225,00 euros já integralmente realizado pelo Estado e prevê novos encargos internos, como senhas de presença, deslocações e estudos para o Conselho Geral Independente e auditorias anuais a empréstimos. Contudo, não quantifica os custos desta nova estrutura nem define o montante da compensação financeira do contrato de serviço de interesse público a celebrar com o Estado."
+ },
+ "affected": [
+  "trabalhadores da Lusa",
+  "direção de informação da Lusa",
+  "órgãos de comunicação social",
+  "Estado enquanto acionista"
+ ],
+ "categories": [
+  "comunicacao",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "lusa",
+  "comunicacao social",
+  "setor empresarial do estado",
+  "independencia editorial",
+  "estatutos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Isenção de mais-valias ao investir em cooperativas de propriedade coletiva",
+ "summary": "O Projeto de Lei n.º 793/XVII/2.ª, do Grupo Parlamentar do LIVRE, propõe alterar o artigo 10.º do Código do IRS para alargar a exclusão de tributação das mais-valias ao setor cooperativo. Atualmente, a isenção exige o reinvestimento da venda de habitação própria e permanente na compra da propriedade de outro imóvel. A iniciativa passa a incluir o reinvestimento na aquisição do direito de habitação num fogo de cooperativa em regime de propriedade coletiva, destinado a habitação própria e permanente, após amortização de eventual empréstimo. Exige também o registo predial do direito adquirido e estende a suspensão do prazo de reinvestimento aos contratos celebrados com estas cooperativas. Os efeitos produzem-se com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Altera o artigo 10.º do Código do IRS para excluir de tributação as mais-valias da venda de habitação própria e permanente reinvestidas na aquisição do direito de habitação em cooperativa de propriedade coletiva.",
+  "Exige que o valor de realização, deduzido da amortização de eventual empréstimo, seja aplicado num fogo destinado à habitação própria e permanente do contribuinte ou do seu agregado familiar.",
+  "Determina a perda do benefício fiscal caso o adquirente não requeira o registo predial do direito de habitação adquirido na cooperativa.",
+  "Estende a suspensão do prazo legal de reinvestimento, por facto superveniente não imputável ao contribuinte, aos contratos de compra e venda ou contratos-promessa relativos a este direito de habitação.",
+  "Estabelece que a lei entra em vigor no dia seguinte ao da publicação, mas só produz efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, se vender a sua casa para comprar outra onde viver, não paga IRS sobre o lucro da venda. Contudo, nas cooperativas de propriedade coletiva, o morador não fica dono do imóvel, pagando antes por um direito duradouro de lá morar (direito de habitação). Como a lei atual só isenta quem compra propriedade tradicional, quem vende a casa para ir viver para uma cooperativa destas pode ter de pagar imposto. Esta proposta acaba com essa diferença, com efeitos no próximo Orçamento do Estado.",
+ "context": "O LIVRE invoca o dever constitucional e legal do Estado de fomentar cooperativas de habitação, reforçado em 2023 pela criação da Nova Geração de Cooperativismo de propriedade coletiva, com projetos-piloto em Setúbal e Vila Nova de Gaia. Argumenta que o modelo cooperativo ajuda a responder à crise habitacional e promove o envelhecimento autónomo e em comunidade. Como o Código do IRS só isenta mais-valias reinvestidas na aquisição de propriedade, o proponente considera injusto penalizar quem vende a casa para adquirir o direito de habitação numa cooperativa.",
+ "analysis": "A proposta corrige uma assimetria fiscal evidente entre a compra tradicional de casa e a adesão a cooperativas de propriedade coletiva, alinhando o Código do IRS com a legislação recente e evitando desincentivos à mobilidade habitacional. Remete também os efeitos para o Orçamento do Estado subsequente, acautelando o impacto orçamental imediato. Contudo, a redação da nova alínea g) no n.º 5 do artigo 10.º revela fragilidades técnicas: insere uma regra autónoma numa lista de condições cumulativas e remete para alíneas b) a e) do número anterior (n.º 4), gerando ambiguidade sobre a aplicação dos prazos de reinvestimento. O diploma não quantifica ainda a eventual perda de receita fiscal.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao alargar a isenção de mais-valias em sede de IRS ao reinvestimento em cooperativas de propriedade coletiva, a medida reduz potencialmente a receita fiscal. O documento não apresenta estimativas de impacto financeiro e remete a produção de efeitos para o Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "proprietários que vendam habitação própria e permanente",
+  "cooperadores de habitação",
+  "cooperativas de habitação de propriedade coletiva"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "mais-valias",
+  "irs",
+  "cooperativas de habitação",
+  "propriedade coletiva",
+  "direito de habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

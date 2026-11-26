@@ -1,0 +1,26 @@
+{
+ "short_title": "Fiscalização de Álcool e Drogas na Aviação Civil",
+ "summary": "Esta proposta de lei estabelece um regime legal para o controlo e fiscalização do pessoal que desempenha funções críticas para a segurança da aviação civil em Portugal, no que diz respeito à influência de álcool, estupefacientes ou substâncias psicotrópicas. Define os limites de álcool no sangue (0,2 g/l para proibição de funções, com valores mais altos para contraordenações e crimes), os procedimentos para a realização de testes (no ar expirado, sangue e exames médicos), as substâncias a serem avaliadas e as consequências legais para quem violar estas regras, incluindo contraordenações e alterações ao Código Penal para abranger a pilotagem de aeronaves sob influência. A proposta visa aumentar a segurança operacional na aviação civil.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta nova lei é para garantir que quem trabalha na aviação civil, desde pilotos a controladores de tráfego aéreo e pessoal de manutenção, não esteja sob o efeito de álcool ou drogas enquanto está a trabalhar. A lei define que o limite de álcool no sangue é de 0,2 gramas por litro, e explica como é que vão ser feitos os testes (soprar no balão, análises ao sangue, etc.). Se alguém for apanhado, há multas pesadas e até pode ir para a prisão, e pode ficar proibido de exercer a sua profissão. O objetivo é simples: tornar os voos mais seguros para toda a gente.",
+ "context": null,
+ "analysis": "A proposta de lei demonstra uma forte coerência entre os seus objetivos e os detalhes da implementação. O principal objetivo é reforçar a segurança na aviação civil, e para isso, o documento estabelece um quadro legal robusto que abrange desde a definição de \"pessoal crítico\" até aos procedimentos de fiscalização e sanções. A escolha do limite de 0,2 g/l para a taxa de álcool no sangue é justificada com base em normas internacionais e nacionais já existentes (como o Código da Estrada para certas situações), e é cientificamente defendida para evitar penalizar desproporcionalmente \"metabolizadores lentos\" sem comprometer a segurança. Os procedimentos de teste são detalhados, incluindo a possibilidade de contraprova e exames médicos, o que confere um grau de garantia e justiça aos examinados. A extensão das proibições e sanções do Código Penal à pilotagem de aeronaves, com ou sem motor, é uma medida lógica que alinha a legislação aeronáutica com a rodoviária em termos de gravidade das infrações. Não se identificam inconsistências significativas; pelo contrário, a proposta parece bem fundamentada e alinhada com as melhores práticas e regulamentação existente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de lei implicará um aumento dos gastos do governo, uma vez que a Autoridade Nacional da Aviação Civil (ANAC) será responsável pelo pagamento das despesas iniciais dos exames de deteção de álcool e substâncias psicotrópicas. Isto inclui os custos com equipamentos, análises laboratoriais e transporte dos examinados. No entanto, a proposta prevê que, em caso de resultado positivo, as despesas dos exames sejam da responsabilidade do examinando, revertendo a favor da ANAC. Adicionalmente, a aplicação de coimas por contraordenações e penas por crimes relacionados com a violação destas normas poderá gerar alguma receita para o Estado. O efeito líquido será, provavelmente, um aumento dos gastos governamentais, dado que os custos de implementação e manutenção de um sistema de fiscalização abrangente tenderão a ser superiores às receitas geradas por multas e recuperação de custos em casos positivos, sendo o principal objetivo a segurança e não a geração de receita."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

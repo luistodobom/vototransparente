@@ -1,0 +1,44 @@
+{
+ "short_title": "Novas regras para recuperação e perda de bens de origem criminosa",
+ "summary": "A Proposta de Lei do Governo transpõe a Diretiva (UE) 2024/1260 e altera cinco diplomas, incluindo o Código Penal, o Código de Processo Penal e a lei da criminalidade organizada. O diploma cria novas modalidades de perda de bens a favor do Estado, nomeadamente a perda alargada após condenação e a perda de bens apreendidos ligados a atividade criminosa com benefício económico substancial, mesmo sem condenação por esses crimes específicos. Instaura um processo autónomo de perda de bens aplicável quando o processo penal cessa por morte, amnistia, doença, prescrição inferior a 15 anos ou arquivamento em fases preliminares. Cria ainda o estatuto processual de «pessoa afetada» para titulares de bens visados, alarga as regras de venda antecipada de bens apreendidos pelo Gabinete de Administração de Bens e atribui poderes de apreensão e arresto provisórios urgentes ao Gabinete de Recuperação de Ativos.",
+ "key_points": [
+  "Cria o mecanismo de perda alargada, quando o tribunal forma convicção de proveniência criminosa dos bens, e a perda de bens apreendidos ligados a atividade criminosa lucrativa mesmo sem condenação.",
+  "Institui um processo autónomo de perda de bens, com prazos de prescrição de 10 ou 15 anos, para casos em que o processo penal termina por morte, amnistia, prescrição ou arquivamento.",
+  "Define o estatuto processual de «pessoa afetada» para quem detém ou tem direitos sobre bens visados, assegurando representação obrigatória por advogado, audição e direito de recurso.",
+  "Autoriza o Ministério Público e o Gabinete de Recuperação de Ativos a ordenar apreensões ou arrestos provisórios urgentes, sujeitos a validação judicial em 72 horas.",
+  "Regula a venda antecipada ou afetação a fins públicos de bens perecíveis, perigosos ou de manutenção dispendiosa antes da decisão definitiva e obriga o Governo a aprovar uma estratégia nacional de recuperação de ativos até 24 de maio de 2027."
+ ],
+ "plain_language": "Esta proposta facilita ao Estado a retirada de bens e dinheiro obtidos através de crimes graves, como a corrupção. Mesmo que o suspeito morra, fuja ou o processo criminal termine antes da condenação, o Ministério Público poderá abrir um processo separado só para decidir o destino desses bens. Quem tiver bens apreendidos, mesmo não sendo o acusado, passa a ter o estatuto de «pessoa afetada», com direito a advogado e a defender-se em tribunal. Também permite vender mais depressa bens como veículos apreendidos antes que percam valor, guardando o dinheiro à ordem do processo.",
+ "context": "O Governo justifica a iniciativa com o combate à corrupção e à criminalidade organizada, em linha com o seu programa e a Agenda Anticorrupção de 2024, visando reforçar a confiança nas instituições. A proposta cumpre ainda a obrigação de transpor a Diretiva (UE) 2024/1260 sobre recuperação e perda de bens. O texto partiu de um grupo de especialistas e foi submetido a consulta pública em 2025, procurando dar um enquadramento processual claro à perda de bens e evitar o prolongamento artificial de processos penais quando não há condenação.",
+ "analysis": "Como pontos fortes, a proposta sistematiza num livro próprio do Código de Processo Penal o regime da perda de bens, fixa prazos de prescrição antes inexistentes e cria garantias claras para terceiros através do estatuto de «pessoa afetada», assegurando defesa obrigatória e recurso. A venda antecipada evita a desvalorização de bens apreendidos. Contudo, surgem riscos e fragilidades relevantes: a perda de bens sem condenação penal e com base em indícios ou exemplos-padrão exige forte escrutínio judicial para não colidir com garantias patrimoniais e a presunção de inocência. A multiplicação de processos autónomos poderá sobrecarregar os tribunais singulares e o Ministério Público, que enfrenta prazos curtos de caducidade e validação. O texto apresenta ainda pequenas inconsistências técnicas, como referir «arguido» num artigo do processo autónomo ou datar incorretamente a Lei n.º 45/2011 de 14 de junho.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O diploma pode gerar receita para o Estado através da perda e venda de bens de origem ilícita, mas também acarreta custos administrativos e judiciais com novos processos autónomos, assistência obrigatória por advogado e o reforço de meios dos gabinetes responsáveis. A proposta não quantifica o impacto orçamental."
+ },
+ "affected": [
+  "arguidos em processos-crime",
+  "titulares de bens apreendidos ou arrestados",
+  "lesados e vítimas de crimes",
+  "magistrados e advogados",
+  "serviços de recuperação e administração de bens"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "internacional"
+ ],
+ "tags": [
+  "perda de bens",
+  "recuperação de ativos",
+  "diretiva europeia",
+  "processo penal",
+  "combate à corrupção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

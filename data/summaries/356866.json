@@ -1,0 +1,44 @@
+{
+ "short_title": "Prova contra rendimento presumido e salvaguardas em apoios sociais",
+ "summary": "O Projeto de Lei n.º 643/XVII/1.ª, apresentado pelo JPP, estabelece que as presunções de rendimento associadas a património imobiliário, mobiliário ou financeiro admitem sempre prova em contrário na avaliação da condição de recursos ou da insuficiência económica. Aplica-se a prestações dos subsistemas de proteção familiar e de solidariedade, a outros apoios públicos e ao regime de proteção jurídica. Quando o interessado demonstre que o património não gera rendimento efetivo, está indisponível, degradado, indiviso ou ocupado por terceiros sem renda, a Administração deve considerar apenas o rendimento real, salvo em casos de ocultação, abuso ou fraude. O diploma impõe ainda garantias procedimentais, como fundamentação expressa e audiência prévia, e determina que a unificação de prestações sociais não pode reduzir o montante anteriormente recebido, criando um complemento transitório de salvaguarda.",
+ "key_points": [
+  "Admite prova em contrário contra presunções de rendimento patrimonial em prestações sociais, apoios públicos e no regime de proteção jurídica.",
+  "Impede que imóveis indivisos em herança, degradados, penhorados ou ocupados por terceiros sem renda gerem automaticamente rendimento presumido.",
+  "Determina que depósitos ou ativos financeiros bloqueados, onerados ou sem liquidez só contam para rendimento presumido se houver disponibilidade económica efetiva.",
+  "Obriga a Administração a notificar o interessado para audiência prévia e a fundamentar expressamente qualquer recusa ou redução baseada em rendimento presumido.",
+  "Garante um complemento transitório de salvaguarda caso a unificação de prestações sociais resulte num valor inferior ao anteriormente atribuído.",
+  "Determina que a unificação de apoios deve continuar a atender autonomamente a eventualidades como velhice, invalidez, deficiência, dependência ou desemprego."
+ ],
+ "plain_language": "Para atribuir apoios sociais ou apoio judiciário, o Estado calcula muitas vezes um rendimento fictício com base nos bens que a pessoa possui, mesmo que não lhe deem dinheiro. Esta proposta permite que os cidadãos provem que esses bens não geram rendimento real — como uma casa degradada, uma herança por partilhar ou uma conta bancária bloqueada. Nesses casos, o Estado só pode contar o dinheiro que entra efetivamente, salvo se houver fraude. Além disso, se o Estado juntar vários apoios sociais num só, garante que ninguém passa a receber menos do que já recebia antes.",
+ "context": "O proponente reconhece que considerar o património ajuda a prevenir abusos, mas defende que aplicar presunções automáticas de rendimento cria injustiças materiais ao assumir liquidez inexistente. Segundo o JPP, bens apenas formais, como imóveis indivisos ou ativos bloqueados, podem levar à recusa indevida de apoios essenciais e dificultar o acesso aos tribunais. Alerta ainda que a unificação de prestações sociais para simplificação administrativa não deve provocar perdas de proteção nem apagar as especificidades de riscos como velhice, deficiência ou desemprego.",
+ "analysis": "A iniciativa tem o mérito de reforçar a justiça material e o contraditório, protegendo requerentes com património ilíquido de exclusões automáticas e evitando que reformas de unificação de apoios reduzam rendimentos já atribuídos. Contudo, apresenta fragilidades jurídicas e operacionais relevantes. O texto entra em vigor no dia seguinte ao da publicação, mas remete os meios de prova admissíveis e a articulação entre serviços para regulamentação governamental a 90 dias, sem identificar os diplomas concretos alterados nem definir objetivamente o que constitui prova bastante. Além disso, o complemento transitório de salvaguarda não fixa duração, regras de atualização nem limites orçamentais, e a apreciação casuística obrigatória poderá aumentar a carga administrativa e a litigiosidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A possibilidade de afastar rendimentos presumidos tende a alargar o acesso e os montantes de prestações sociais e de proteção jurídica, enquanto o complemento transitório de salvaguarda impede reduções de despesa em processos de unificação de apoios. Acrescem eventuais encargos administrativos com a análise casuística e obtenção oficiosa de informação, não constando do documento qualquer estimativa orçamental."
+ },
+ "affected": [
+  "beneficiários de prestações sociais",
+  "requerentes de proteção jurídica",
+  "agregados familiares com património sem liquidez",
+  "serviços da Segurança Social e Administração Pública"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "justica"
+ ],
+ "tags": [
+  "condição de recursos",
+  "rendimento presumido",
+  "prestações sociais",
+  "proteção jurídica",
+  "património imobiliário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

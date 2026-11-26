@@ -1,0 +1,24 @@
+{
+ "short_title": "Majoração da componente base da prestação social para a inclusão",
+ "summary": "A proposta visa alterar a Prestação Social para a Inclusão (PSI), um apoio financeiro para pessoas com deficiência igual ou superior a 60%. Atualmente, o valor máximo da PSI é considerado muito baixo (273,39€) e há dificuldades para pessoas com mais de 55 anos que não possuíam o Atestado Médico de Incapacidade Multiusos (AMIM) antes dessa idade, mesmo que a deficiência seja anterior. A proposta pretende aumentar o valor da PSI para, pelo menos, o limiar da pobreza (505€) e indexá-lo ao Indexante dos Apoios Sociais (IAS). Além disso, procura facilitar o acesso à PSI para pessoas com mais de 55 anos, reconhecendo o direito à prestação se a deficiência tiver começado antes dessa idade, e permitindo formas excecionais de prova de deficiência.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar mais dinheiro às pessoas com deficiência que recebem a Prestação Social para a Inclusão (PSI), porque o valor atual é muito baixo e não chega para as despesas. Querem que o valor suba para, pelo menos, o que é considerado o limiar da pobreza e que seja atualizado automaticamente. Também querem facilitar a vida a quem tem mais de 55 anos e uma deficiência antiga, mas que por alguma razão não tinha os papéis certos na altura, para que também possam ter acesso a este apoio sem tanta burocracia.",
+ "context": null,
+ "analysis": "A proposta identifica claramente dois problemas principais: o valor insuficiente da Prestação Social para a Inclusão (PSI) e as barreiras burocráticas para pessoas com mais de 55 anos que adquiriram deficiência antes dessa idade. As soluções propostas são diretas e alinhadas com os objetivos: o aumento do valor da componente base da PSI para 1,15 vezes o Indexante dos Apoios Sociais (IAS) aborda a questão do valor baixo, enquanto as alterações aos artigos 15.º e 34.º do Decreto-Lei n.º 126-A/2017 visam simplificar o reconhecimento do direito à prestação para o grupo etário em questão, permitindo a prova da deficiência mesmo sem o atestado multiusos original. Não se detetam inconsistências na lógica da proposta; pelo contrário, os detalhes da implementação parecem bem direcionados para resolver as questões levantadas no preâmbulo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal de aumento dos gastos do governo. Ao majorar a componente base da Prestação Social para a Inclusão (PSI) e indexá-la ao Indexante dos Apoios Sociais (IAS), o valor pago por beneficiário aumentará significativamente. Adicionalmente, ao simplificar os critérios de acesso para pessoas com mais de 55 anos, é provável que o número de beneficiários elegíveis também aumente. Não há indicação de que a proposta vá gerar receita para o governo. O efeito líquido será, portanto, um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração à Lei de Conservação de Dados de Comunicações Eletrónicas",
+ "summary": "Esta proposta de lei, apresentada pelo PCP, visa alterar a Lei n.º 32/2008, que regula a conservação de dados de comunicações eletrónicas. A alteração surge na sequência de uma decisão do Tribunal Constitucional que declarou inconstitucionais alguns artigos da lei original. As principais mudanças propostas incluem a redução do período de conservação de dados de tráfego e localização de um ano para 90 dias, a obrigatoriedade de notificar os titulares dos dados sobre a sua transmissão em processos criminais (assim que tal não comprometa a investigação ou a segurança de terceiros), e a exigência de que os dados sejam conservados em território nacional e a sua transmissão internacional siga as regras de cooperação judiciária.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do PCP quer mudar uma lei antiga sobre como as empresas de telecomunicações guardam os nossos dados de chamadas e localização. É que o Tribunal Constitucional disse que a lei atual era inconstitucional porque guardava dados demais, por tempo demais (um ano), e não nos avisava quando a polícia acedia a eles. Então, a ideia é que os dados só sejam guardados por 90 dias e que, depois de um processo criminal, a pessoa seja avisada que os seus dados foram usados, a não ser que isso ponha em risco a investigação ou outras pessoas. Também querem que os dados fiquem em Portugal e que, se forem para o estrangeiro, seja tudo feito de forma legal e transparente.",
+ "context": null,
+ "analysis": "A proposta alinha-se diretamente com os problemas identificados pelo Tribunal Constitucional. A redução do período de conservação de dados de um ano para 90 dias aborda a questão da proporcionalidade na restrição de direitos fundamentais, como a privacidade e a autodeterminação informativa, que o Tribunal considerou violada pela conservação generalizada e prolongada. A introdução da notificação aos titulares dos dados, embora condicionada à não-prejuízo da investigação ou segurança de terceiros, visa corrigir a falha da lei original em prever a informação aos cidadãos sobre o acesso aos seus dados, garantindo o direito à defesa e reação contra acessos ilegítimos. A exigência de conservação em território nacional e a conformidade com a cooperação judiciária internacional reforçam a soberania e a proteção dos dados. A proposta é consistente com o objetivo de conciliar a eficácia da investigação criminal com a salvaguarda dos direitos constitucionais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta de lei não deverá ter um impacto fiscal significativo no aumento ou diminuição dos gastos ou receitas do governo. A redução do período de conservação de dados de um ano para 90 dias pode, teoricamente, levar a uma ligeira diminuição dos custos de armazenamento para os operadores de comunicações, mas estes custos não são diretamente suportados pelo governo. A introdução da notificação aos titulares dos dados pode implicar um ligeiro aumento da carga administrativa para os tribunais, mas este efeito será provavelmente marginal. O efeito líquido no orçamento do governo será, portanto, mínimo ou nulo."
+ },
+ "affected": [],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

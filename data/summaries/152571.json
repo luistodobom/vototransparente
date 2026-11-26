@@ -1,0 +1,26 @@
+{
+ "short_title": "Reabilitação de Imóveis Devolutos do Estado para Arrendamento Acessível",
+ "summary": "A proposta, designada FÉNIX, visa permitir que entidades privadas e sociais adquiram e reabilitem imóveis devolutos do Estado em todo o país. O objetivo é aumentar a oferta de habitação a preços acessíveis, combatendo a escassez e os altos preços no mercado. Os adquirentes comprometem-se a destinar os imóveis reabilitados a arrendamento acessível ou habitação própria e permanente por um período mínimo de cinco anos, após o qual podem dar a utilização que desejarem ao imóvel.",
+ "key_points": [],
+ "plain_language": "Basicamente, o governo tem muitos prédios vazios e a Iniciativa Liberal quer que empresas ou associações os comprem, arranjem e depois os aluguem a preços mais baixos ou os vendam para habitação própria. A ideia é pôr mais casas no mercado para ajudar a baixar os preços e facilitar o acesso à habitação, usando imóveis que estão parados e a degradar-se.",
+ "context": null,
+ "analysis": "O documento identifica corretamente a falta de oferta e a carga fiscal excessiva como problemas chave no mercado habitacional português. A proposta FÉNIX alinha-se com o objetivo de aumentar a oferta ao disponibilizar património estatal devoluto para reabilitação por parte de privados e entidades sociais. A exigência de destinar os imóveis a arrendamento acessível ou habitação própria e permanente por cinco anos garante que a reabilitação contribui para o objetivo social da proposta. A criação de um portal e a fiscalização pelo IHRU são mecanismos de implementação que visam assegurar a transparência e o cumprimento das obrigações. Não se detetam inconsistências internas na lógica da proposta, que foca na dinamização do lado da oferta.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta deverá aumentar a receita do governo através da venda de imóveis devolutos do Estado. Embora haja custos administrativos associados à criação e gestão do programa FÉNIX pelo IHRU (incluindo a plataforma informática), estes são provavelmente inferiores aos custos de manutenção de imóveis devolutos ou ao valor das vendas. A isenção temporária de Imposto Municipal sobre Imóveis (IMI) para os adquirentes representa uma perda de receita fiscal municipal a curto prazo, mas o objetivo é gerar receita a longo prazo através da dinamização do mercado e da eventual cobrança de IMI após a aquisição definitiva. O efeito líquido esperado é um aumento da receita governamental e uma redução de encargos com património devoluto, com o investimento principal na reabilitação a ser feito por entidades privadas/sociais."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

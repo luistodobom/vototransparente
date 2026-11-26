@@ -1,0 +1,25 @@
+{
+ "short_title": "Redução de IRS sobre rendas e facilitação de mudança de habitação",
+ "summary": "Esta proposta de lei, apresentada pela Iniciativa Liberal, visa aliviar a pressão no mercado de arrendamento habitacional em Portugal. Atualmente, o mercado está dividido entre contratos antigos com rendas baixas e novos contratos com rendas muito elevadas, dificultando o acesso à habitação. A proposta pretende reduzir a tributação autónoma de IRS sobre os rendimentos de arrendamento, baixando a taxa geral para 14,5% e aplicando reduções adicionais para contratos de longa duração (até 14 pontos percentuais para contratos com mais de 20 anos). Além disso, introduz uma medida que permite aos contribuintes descontar o valor das rendas pagas por uma nova habitação ao valor das rendas recebidas de uma habitação anterior, para efeitos de cálculo do IRS, desde que ambos os contratos estejam registados no Portal das Finanças. O objetivo é incentivar a colocação de mais imóveis no mercado de arrendamento e facilitar a mobilidade habitacional.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer tornar mais fácil e barato arrendar casas em Portugal. Hoje em dia, há casas com rendas antigas muito baratas e casas novas com rendas caríssimas, o que dificulta a vida de quem procura casa. A ideia é que os senhorios paguem menos impostos (IRS) sobre as rendas que recebem, especialmente se fizerem contratos de longa duração. Assim, espera-se que mais casas apareçam no mercado para arrendar. Além disso, se alguém mudar de casa e tiver de pagar uma renda nova enquanto ainda recebe renda de uma casa antiga, pode descontar o que paga do que recebe para efeitos de impostos. Tudo isto tem de ser feito com os contratos registados nas Finanças para ser transparente.",
+ "context": null,
+ "analysis": "A proposta da Iniciativa Liberal alinha-se diretamente com o objetivo declarado de aumentar a oferta de habitação para arrendamento e de reduzir os preços, através de incentivos fiscais. A redução da taxa autónoma de IRS para rendimentos prediais, especialmente para contratos de longa duração, é uma medida clara para tornar o arrendamento mais atrativo para os proprietários, incentivando-os a colocar imóveis no mercado e a oferecer contratos mais estáveis. A introdução da possibilidade de descontar rendas pagas de rendas recebidas para efeitos de IRS é uma inovação que visa facilitar a mudança de habitação, um aspeto crucial para a fluidez do mercado. Não se detetam inconsistências internas na lógica da proposta; as medidas propostas são coerentes com os problemas identificados (escassez de oferta, rendas elevadas, dificuldade de mobilidade). A exigência de registo dos contratos no Portal das Finanças para beneficiar destas medidas é um ponto positivo, pois contribui para a formalização do mercado e para mitigar riscos de evasão fiscal, conforme mencionado no Artigo 3.º.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo na receita do governo a curto e médio prazo, uma vez que prevê uma redução significativa da taxa de IRS aplicada aos rendimentos de arrendamento (de 25% para 14,5% e ainda menos para contratos mais longos), bem como a possibilidade de dedução de rendas pagas. Isto resultará numa diminuição da receita fiscal proveniente do IRS sobre rendimentos prediais. Não há indicação de aumento direto nos gastos do governo. O efeito líquido esperado é uma diminuição da receita fiscal, embora a longo prazo, se a medida for bem-sucedida em aumentar a oferta e formalizar o mercado, possa haver um aumento da base tributável que compense parcialmente a perda de receita por via da taxa mais baixa."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

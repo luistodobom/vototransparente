@@ -1,0 +1,25 @@
+{
+ "short_title": "Medidas fiscais de apoio a famílias com crédito à habitação",
+ "summary": "Esta proposta do PAN visa proteger as famílias portuguesas do impacto do aumento das taxas de juro nos créditos à habitação. Propõe alterações ao Código do IRS e ao Estatuto dos Benefícios Fiscais para permitir que todas as famílias com crédito à habitação deduzam os juros no IRS, independentemente da data do contrato, aumentando a percentagem dedutível de 15% para 23,85% e o limite máximo de dedução de 296 euros para 445 euros (podendo ir até 676 euros para rendimentos mais baixos). Adicionalmente, propõe a atualização do limite máximo de dedução de despesas com rendas e o prolongamento do período de isenção temporária de IMI para aquisição de habitação própria e permanente de 3 para 5 anos, visando aliviar a pressão financeira sobre as famílias.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PAN quer dar uma ajuda às famílias que estão a ver a prestação da casa subir por causa dos juros. A ideia é que possam descontar mais nos impostos (IRS) pelo que pagam de juros do crédito à habitação, e que fiquem mais tempo sem pagar o IMI da casa, especialmente quem comprou há pouco tempo. Assim, sobra mais dinheiro ao fim do mês para as famílias conseguirem lidar com os aumentos.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise clara e consistente do problema, utilizando dados do INE e da Deco Proteste para demonstrar o impacto do aumento das taxas de juro nas prestações dos créditos à habitação. As medidas propostas alinham-se diretamente com o objetivo de mitigar este impacto: o aumento das percentagens e limites de dedução no IRS é justificado como estando \"em linha com o aumento médio previsto da prestação no ano de 2023\", o que demonstra uma tentativa de proporcionalidade entre o problema e a solução. A proposta também aborda uma inconsistência anterior, ao permitir a dedução de juros para todos os contratos de crédito à habitação, corrigindo uma \"desigualdade injusta\" imposta por legislação prévia. O prolongamento da isenção de IMI complementa as medidas fiscais, visando beneficiar especialmente agregados familiares mais jovens que contraíram crédito recentemente. Não são identificadas inconsistências internas na lógica da proposta; pelo contrário, os detalhes da implementação parecem bem alinhados com o objetivo declarado de proteção e alívio financeiro das famílias.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo na receita do governo. Ao aumentar as deduções fiscais no IRS para juros de crédito à habitação e para rendas, o Estado arrecadará menos imposto sobre o rendimento das pessoas singulares. O prolongamento da isenção de IMI de 3 para 5 anos também resultará numa diminuição da receita municipal, uma vez que as famílias ficarão isentas do pagamento deste imposto por um período mais longo. Não há indicação de aumento de despesas governamentais diretas. O efeito líquido será uma diminuição da receita fiscal do governo, transferindo recursos financeiros para as famílias através de benefícios fiscais."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

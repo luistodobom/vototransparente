@@ -1,0 +1,42 @@
+{
+ "short_title": "Partilhas de heranças indivisas passam a poder ir aos julgados de paz",
+ "summary": "O Projeto de Lei n.º 625/XVII/1, apresentado pelo grupo parlamentar do LIVRE, propõe alargar a competência dos julgados de paz aos processos de inventário destinados a pôr termo a heranças indivisas quando não existe acordo entre os herdeiros. Para esse efeito, altera o Código de Processo Civil, permitindo que estes processos possam ser instaurados, por escolha ou acordo das partes, nos julgados de paz, em alternativa aos tribunais judiciais ou aos cartórios notariais. Altera também a lei que regula os julgados de paz, fixando em 750 000 euros o valor máximo das partilhas hereditárias que podem apreciar. O diploma determina ainda que, nos processos de inventário, os juízes de paz ficam obrigados a decidir segundo critérios de legalidade estrita, não podendo recorrer a juízos de equidade. A entrada em vigor está prevista para 90 dias após a publicação.",
+ "key_points": [
+  "Altera o Código de Processo Civil para permitir instaurar processos de inventário nos julgados de paz, em alternativa aos tribunais judiciais e cartórios notariais.",
+  "Alarga a competência dos julgados de paz aos processos de inventário quando não há acordo na partilha, nos termos do artigo 2102.º do Código Civil.",
+  "Fixa um teto máximo de 750 000 euros para o valor das questões a apreciar pelos julgados de paz na partilha de heranças.",
+  "Impede o juiz de paz de decidir por juízos de equidade nos processos de inventário, exigindo critérios de legalidade estrita.",
+  "Prevê a entrada em vigor das novas regras 90 dias após a publicação da lei."
+ ],
+ "plain_language": "Quando uma pessoa morre e os herdeiros não chegam a acordo sobre como dividir os bens, é preciso abrir um processo de inventário. Atualmente, isso faz-se nos tribunais ou nos cartórios notariais, o que muitas vezes é caro e demorado. Este projeto propõe que as famílias também possam recorrer aos julgados de paz para resolver estas partilhas, desde que o valor dos bens não ultrapasse os 750 mil euros. Os julgados de paz são serviços públicos mais simples, baratos e focados na mediação e no acordo, embora nestes casos o juiz tenha de seguir estritamente a lei.",
+ "context": "O LIVRE argumenta que a lentidão e os custos dos tribunais levam muitas famílias a adiar partilhas durante gerações, perpetuando heranças indivisas. Segundo o texto, esta situação agrava a falta de habitação disponível e deixa terrenos rurais abandonados e sem limpeza, aumentando o risco de incêndios florestais, sobretudo a norte do Tejo. Refere-se que cerca de 30% das propriedades rústicas pertencem a heranças indivisas. Os proponentes defendem que os julgados de paz, pela proximidade, rapidez e serviço de mediação, facilitam acordos, justificando o limite de 750 000 euros pela valorização atual dos imóveis urbanos.",
+ "analysis": "A iniciativa procura desbloquear heranças indivisas com impacto real na habitação e na gestão florestal, aproveitando a mediação e os tempos médios mais curtos dos julgados de paz, cujo teto de 750 000 euros acompanha o valor atual do mercado imobiliário. Contudo, apresenta fragilidades práticas e técnicas. Os julgados de paz não cobrem todo o país, faltando precisamente em muitas zonas rurais onde o problema das propriedades indivisas é mais agudo. Além disso, os processos de inventário são juridicamente complexos e podem sobrecarregar estruturas pensadas para litígios simples e de baixo valor, sem que o diploma preveja reforço de meios. Tecnicamente, a alteração ao artigo 11.º refere a abertura da sucessão mas omite os processos de inventário na enumeração da norma, e o artigo 26.º contém um lapso de redação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto não quantifica custos nem receitas e não prevê reforço orçamental direto. No entanto, o alargamento de competências a processos complexos até 750 000 euros poderá exigir mais meios nos julgados de paz, embora possa simultaneamente aliviar a carga dos tribunais judiciais."
+ },
+ "affected": [
+  "herdeiros em processos de partilha",
+  "julgados de paz",
+  "proprietários de imóveis e terrenos rústicos"
+ ],
+ "categories": [
+  "justica",
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "julgados de paz",
+  "heranças indivisas",
+  "processo de inventário",
+  "partilhas",
+  "mediação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

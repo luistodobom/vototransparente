@@ -1,0 +1,26 @@
+{
+ "short_title": "Reforça garantias na revalidação de cartas de condução e Código da Estrada.",
+ "summary": "A proposta visa melhorar o processo de revalidação das cartas de condução em Portugal. Propõe três mudanças principais: primeiro, o Instituto da Mobilidade e dos Transportes (IMT) passará a ter de notificar os condutores sobre a proximidade do fim da validade da sua carta, com seis meses de antecedência; segundo, a revalidação da carta de condução será automática em certos casos, sem necessidade de atestado médico ou psicológico, nem alteração de dados pessoais, à semelhança do Cartão de Cidadão; e terceiro, a multa por conduzir com carta caducada só será aplicada se a revalidação não tiver sido feita nos seis meses seguintes ao fim do prazo de validade.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer facilitar a vida a quem tem carta de condução. A ideia é que o IMT (o instituto das cartas) avise as pessoas com seis meses de antecedência quando a carta estiver quase a caducar, para ninguém se esquecer. Além disso, em muitos casos, a renovação da carta vai passar a ser automática, sem ser preciso ir a balcões ou fazer exames médicos, tal como já acontece com o Cartão de Cidadão. E a cereja no topo do bolo: se a carta caducar, só levas multa se deixares passar mais de seis meses sem a renovar. É para evitar multas por um simples esquecimento.",
+ "context": null,
+ "analysis": "A proposta alinha-se de forma consistente com os objetivos declarados de reforçar as garantias dos cidadãos, modernizar e simplificar os processos administrativos. A notificação prévia do IMT aborda diretamente o problema do desconhecimento das regras e prazos, que levou milhares de condutores a circular com cartas caducadas. A introdução da revalidação automática, inspirada no sucesso do Cartão de Cidadão, é um passo lógico para a desburocratização e poupança de tempo para os cidadãos e recursos para a administração. A alteração relativa às sanções, que estabelece um período de graça de seis meses antes da aplicação da coima, introduz um realismo necessário ao regime, evitando multas por esquecimentos pontuais e focando a penalização em situações de maior negligência. Não se detetam inconsistências, mas sim uma abordagem coerente para resolver problemas identificados na gestão das cartas de condução.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta poderá ter um impacto fiscal misto. Por um lado, a implementação de um sistema de notificação pelo IMT implicará um custo inicial de desenvolvimento e manutenção, bem como custos operacionais associados ao envio das notificações (seja por via digital ou postal). Por outro lado, a revalidação automática em certos casos poderá reduzir a carga administrativa e os custos de processamento manual para o IMT, embora o texto não especifique se haverá uma redução de taxas para o cidadão. A alteração das regras de aplicação de coimas, ao introduzir um período de graça de seis meses, poderá resultar numa diminuição da receita proveniente de multas por cartas caducadas, uma vez que menos infrações serão penalizadas. O efeito líquido é difícil de quantificar sem dados mais detalhados, mas é provável que haja um aumento marginal dos gastos iniciais para modernização e uma potencial diminuição da receita de multas, com o objetivo de melhorar a eficiência e a satisfação do cidadão a longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "transportes",
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Alarga isenção e prazo de reinvestimento de mais-valias imobiliárias",
+ "summary": "O Projeto de Lei n.º 788/XVII/2.ª, do Chega, altera o Código do IRS quanto às mais-valias imobiliárias em caso de reinvestimento. Primeiro, alarga o prazo posterior para reinvestir o valor de venda de 24 para 60 meses, mantendo os 24 meses anteriores (embora remeta por lapso para o artigo 5.º do código em vez do artigo das mais-valias). Segundo, adita o artigo 10.º-B para tornar permanente a isenção de IRS sobre ganhos com a venda de terrenos para construção ou de casas que não sejam habitação própria e permanente. Para isso, o valor obtido, deduzido de eventual empréstimo do imóvel vendido, tem de ser aplicado em seis meses na amortização de crédito à habitação própria e permanente do contribuinte ou de descendentes. A lei revoga a norma transitória de 2023 e entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga de 24 para 60 meses o prazo posterior à venda para efetuar o reinvestimento de mais-valias imobiliárias, embora o articulado remeta por lapso para o artigo 5.º do Código do IRS.",
+  "Adita o artigo 10.º-B ao Código do IRS para tornar permanente a exclusão de tributação sobre ganhos com a venda de terrenos para construção ou de imóveis habitacionais que não sejam habitação própria e permanente.",
+  "Exige que o valor de realização, descontado de eventual empréstimo do imóvel vendido, seja aplicado na amortização de capital em dívida de crédito à habitação própria e permanente do contribuinte ou dos seus descendentes.",
+  "Fixa um prazo de seis meses a contar da venda para concretizar a amortização do crédito à habitação.",
+  "Revoga a norma transitória do artigo 50.º da Lei n.º 56/2023 e determina a entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Quando alguém vende uma casa ou um terreno com lucro, normalmente paga IRS sobre esse ganho. Esta proposta cria duas mudanças. Por um lado, dá até cinco anos após a venda (em vez de dois) para reinvestir o dinheiro noutra casa própria. Por outro, torna permanente uma regra temporária de 2023: se vender uma segunda casa ou um terreno para construção e usar o dinheiro, no prazo de seis meses, para abater no empréstimo da sua casa principal ou na dos seus filhos ou netos, não paga imposto sobre o lucro dessa venda.",
+ "context": "O proponente aponta as dificuldades dos jovens em comprar ou arrendar casa e refere que, apesar da garantia pública até aos 35 anos, aumentaram os créditos de risco elevado e o Banco de Portugal apertou o limite da taxa de esforço para 45%. Assim, defende tornar definitiva a isenção fiscal criada em 2023 (aplicável apenas até fim de 2024), permitindo, por exemplo, que pais que vendam imóveis herdados amortizem empréstimos de descendentes. Sustenta ainda que alargar o prazo de reinvestimento de 24 para 60 meses dá maior liberdade temporal aos contribuintes.",
+ "analysis": "Como aspetos positivos, a medida confere previsibilidade ao tornar definitiva uma isenção fiscal que fora temporária, incentiva a redução do endividamento habitacional das famílias e amplia o horizonte temporal para reinvestimento. Contudo, o texto apresenta falhas graves de técnica legislativa. O artigo 2.º altera o artigo 5.º do Código do IRS em vez do artigo 10.º (referido na própria exposição de motivos como o das mais-valias), comprometendo a eficácia da mudança de prazo para 60 meses. Além disso, existem dois artigos numerados como «Artigo 3.º» e uma incongruência entre a justificação e o articulado: a exposição de motivos inclui créditos do agregado familiar, mas o novo artigo 10.º-B limita a isenção ao contribuinte e descendentes. O projeto não apresenta também qualquer estimativa do impacto orçamental na receita fiscal.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao tornar permanente uma isenção de IRS sobre mais-valias imobiliárias e ao alargar o prazo de reinvestimento de 24 para 60 meses, a iniciativa tende a reduzir a receita fiscal cobrada pelo Estado. O documento não apresenta estimativas nem montantes sobre esse impacto."
+ },
+ "affected": [
+  "proprietários de imóveis e terrenos para construção",
+  "mutuários de crédito à habitação própria e permanente",
+  "descendentes de proprietários"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "mais-valias",
+  "irs",
+  "reinvestimento",
+  "crédito à habitação",
+  "isenção fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

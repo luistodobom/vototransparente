@@ -1,0 +1,25 @@
+{
+ "short_title": "Regime Extraordinário de Proteção da Habitação Face à Inflação",
+ "summary": "Esta proposta de lei visa proteger os contratos de arrendamento em Portugal face ao aumento da inflação. O objetivo é limitar o aumento das rendas em 2023, fixando-o nos valores do coeficiente de atualização de rendas de 2021 (1,0043). Esta medida aplica-se a todos os contratos de arrendamento, independentemente da sua natureza, para evitar que as famílias enfrentem dificuldades financeiras insustentáveis devido ao aumento dos custos da habitação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer travar o aumento das rendas em 2023. Com a inflação a disparar, as rendas podiam subir muito, tipo 6%, o que ia apertar ainda mais o orçamento de muitas famílias. Então, a ideia é que as rendas só possam subir o mesmo que subiram em 2021, que foi um valor muito pequenino (0,043%). Assim, as pessoas não ficam com a corda na garganta por causa da casa, e ajuda a controlar um bocado esta loucura dos preços.",
+ "context": null,
+ "analysis": "A proposta surge num contexto de inflação elevada e de um aumento significativo dos preços da habitação e das rendas em Portugal. O objetivo declarado é garantir o direito à habitação e contrariar as pressões inflacionistas, impedindo que a atualização automática das rendas, que poderia atingir 6% em 2023, agrave a situação económica das famílias. A implementação, através da limitação do coeficiente de atualização ao valor de 2021 (0,043%), alinha-se diretamente com este objetivo, ao travar um aumento que seria substancialmente superior. A medida é apresentada como um travão à especulação e um apoio à população, especialmente num cenário de estagnação salarial. A sua abrangência a todos os contratos de arrendamento reforça a consistência com o princípio de justiça social e racionalidade económica invocado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não prevê um impacto fiscal direto no aumento ou diminuição dos gastos ou receitas do governo. A medida atua sobre as relações contratuais privadas entre senhorios e arrendatários, limitando o aumento das rendas. O efeito líquido será uma transferência de valor dos senhorios para os arrendatários, ao impedir que os primeiros apliquem a atualização de renda que seria permitida pela inflação. Indiretamente, pode ter um efeito estabilizador na economia ao proteger o poder de compra das famílias, o que poderia ter repercussões positivas no consumo e, consequentemente, na receita fiscal via IVA, mas não há um impacto direto e quantificável nas contas públicas."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

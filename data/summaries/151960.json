@@ -1,0 +1,26 @@
+{
+ "short_title": "Limitação da Taxa de Esforço no Crédito à Habitação",
+ "summary": "A proposta visa proteger as famílias com crédito à habitação de aumentos acentuados nas prestações mensais, resultantes da subida das taxas de juro. Para tal, impõe uma renegociação temporária das condições contratuais dos empréstimos para habitação própria e permanente, garantindo que a taxa de esforço (relação entre os encargos do crédito e o rendimento mensal) não aumente mais de 2 pontos percentuais face à média de 2021 (ou data de contratualização) e que, em nenhuma circunstância, ultrapasse os 50%. Esta medida aplica-se a imóveis com valor patrimonial tributário até 250.000€. As instituições financeiras ficam impedidas de cobrar comissões por esta renegociação ou de iniciar ações judiciais contra os mutuários abrangidos.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer dar uma ajuda às famílias que têm empréstimos para a casa e estão a ver as suas prestações subir muito por causa do aumento dos juros. A ideia é que os bancos sejam obrigados a renegociar esses empréstimos para que a prestação mensal não aumente mais de 2% em relação ao que era em 2021, e nunca passe de metade do rendimento da família. Isto aplica-se a casas até 250 mil euros. O melhor é que os bancos não podem cobrar nada por esta renegociação, nem podem processar as pessoas por causa disto. É uma forma de proteger quem está a ter dificuldades em pagar a casa.",
+ "context": null,
+ "analysis": "O documento apresenta de forma clara o problema da escalada dos preços da habitação e do aumento das taxas de juro, que tem levado a um agravamento significativo das prestações do crédito à habitação, colocando as famílias sob pressão financeira, enquanto os lucros da banca aumentam. A solução proposta, de limitar a variação da taxa de esforço e impor a renegociação dos contratos, alinha-se diretamente com o objetivo de proteger os mutuários. Os critérios de aplicabilidade, como a habitação própria e permanente e o limite de valor patrimonial tributário, focam a medida nos agregados familiares mais vulneráveis. A proibição de cobrança de comissões e de ações judiciais reforça a proteção dos beneficiários. Não se identificam inconsistências; os detalhes da implementação parecem coerentes com o propósito de estabilizar as finanças familiares face à crise habitacional e inflacionária.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não prevê um impacto direto nas despesas ou receitas do governo. O seu objetivo é aliviar a pressão financeira sobre as famílias com crédito à habitação, transferindo parte do encargo dos aumentos das taxas de juro para as instituições bancárias, através da renegociação de condições e da limitação da taxa de esforço. Embora não afete diretamente o orçamento do Estado, a estabilização das finanças familiares pode ter um efeito indireto positivo na economia, reduzindo o risco de incumprimento e a necessidade de apoios sociais futuros, o que, a longo prazo, poderia beneficiar a estabilidade fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

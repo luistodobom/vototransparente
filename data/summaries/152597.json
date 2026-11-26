@@ -1,0 +1,26 @@
+{
+ "short_title": "Criação do Portal Digital do Licenciamento Urbanístico",
+ "summary": "A proposta visa criar um Portal Digital do Licenciamento Urbanístico (PDLU) de âmbito nacional para simplificar e digitalizar os processos de licenciamento urbanístico em Portugal. O objetivo é tornar a submissão de requerimentos e a tramitação de procedimentos mais transparentes, eficientes e acessíveis a cidadãos e empresas, reduzindo a burocracia e os atrasos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer criar um site nacional onde toda a gente possa pedir licenças para construir ou fazer obras, e acompanhar o processo online. A ideia é acabar com a papelada, as demoras e a confusão, tornando tudo mais rápido e transparente. Assim, tanto as pessoas como as empresas sabem sempre em que pé está o seu pedido, e os municípios ficam mais organizados e eficientes.",
+ "context": null,
+ "analysis": "O documento identifica corretamente a complexidade e a morosidade dos atuais processos de licenciamento urbanístico como um problema significativo. A criação de um portal digital nacional, com uso de tecnologias como BIM e a disponibilização de informação em tempo real, alinha-se diretamente com os objetivos de simplificação, transparência e responsabilização. A proposta sugere que a digitalização e a uniformização dos procedimentos irão reduzir a discricionariedade e os custos administrativos, promovendo uma maior eficiência e equidade. A capacidade de comparar a atuação dos municípios através dos dados do portal é um detalhe de implementação que reforça o objetivo de melhoria contínua e responsabilização. Não há inconsistências evidentes; os detalhes da implementação parecem bem pensados para atingir os objetivos declarados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A criação do Portal Digital do Licenciamento Urbanístico implicará um investimento inicial por parte do governo para o desenvolvimento e implementação da plataforma. No entanto, a longo prazo, a proposta prevê uma diminuição dos custos administrativos e burocráticos associados aos processos de licenciamento, o que poderá resultar numa redução das despesas operacionais do governo. Além disso, ao acelerar e simplificar os licenciamentos, pode haver um aumento da atividade económica no setor da construção, o que, por sua vez, poderá gerar um aumento da receita fiscal para o governo. O efeito líquido esperado é positivo, com potencial para diminuir gastos e aumentar receitas a médio/longo prazo, após o investimento inicial."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "ciencia",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

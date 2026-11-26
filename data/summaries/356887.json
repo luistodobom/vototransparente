@@ -1,0 +1,44 @@
+{
+ "short_title": "Proibição da detenção de menores e garantias na fronteira e asilo",
+ "summary": "O Projeto de Lei n.º 650/XVII/1.ª altera os regimes jurídicos de entrada e afastamento de estrangeiros e de concessão de asilo para limitar a detenção por razões migratórias e reforçar as garantias processuais. A iniciativa proíbe a detenção de menores, acompanhados ou não, bem como de famílias com crianças, exigindo soluções de alojamento não privativas da liberdade. Para os adultos, define a detenção como último recurso, sujeita a validação judicial em 48 horas, reapreciação a cada 15 dias e um limite máximo improrrogável de quatro semanas. Limita ainda a triagem a três dias, sem caráter de detenção, e exclui menores e famílias do procedimento de fronteira. Prevê também a nomeação automática de advogado desde o registo do pedido de asilo, a designação de um tutor independente para menores não acompanhados, a proibição de retirar o mínimo de subsistência no acolhimento e a fiscalização independente pelo Provedor de Justiça.",
+ "key_points": [
+  "Proíbe a detenção de menores, acompanhados ou não, e de famílias com crianças, impondo alojamento adequado não privativo da liberdade que preserve a unidade familiar.",
+  "Limita a detenção de adultos ao último recurso, com validação judicial em 48 horas, reapreciação a cada 15 dias e duração máxima improrrogável de quatro semanas.",
+  "Exclui menores não acompanhados e famílias com crianças do procedimento de fronteira e limita a triagem a um máximo de três dias, sem caráter de detenção.",
+  "Garante a nomeação automática e gratuita de advogado desde o registo do pedido de asilo, bem como um tutor independente para menores não acompanhados.",
+  "Assegura condições materiais de acolhimento dignas, proibindo qualquer redução ou supressão sancionatória que prive o requerente do mínimo de subsistência.",
+  "Atribui ao Provedor de Justiça a monitorização independente dos direitos fundamentais nestes procedimentos, com acesso irrestrito e sem aviso prévio às instalações."
+ ],
+ "plain_language": "Esta proposta muda as regras para quem chega a Portugal sem autorização ou pede asilo. Se for aprovada, nenhuma criança ou família com filhos poderá ser fechada em centros de instalação ou zonas de fronteira, devendo ficar em alojamentos adequados. Os adultos só podem ser detidos se não houver outra opção, sempre com aprovação de um juiz em 48 horas e por no máximo quatro semanas, mesmo que recorram da decisão. Quem pede asilo passa a ter logo direito a um advogado gratuito, e as crianças sozinhas recebem um tutor independente. Além disso, o Provedor de Justiça ganha poderes para fiscalizar estes locais sem aviso prévio.",
+ "context": "O Bloco de Esquerda critica o novo Pacto Europeu em matéria de Migração e Asilo, considerando que normaliza a privação de liberdade nas fronteiras. Segundo o proponente, o Governo utilizou a margem de decisão nacional nas Propostas de Lei n.º 75/XVII/1.ª e n.º 76/XVII/1.ª no sentido mais restritivo, permitindo longos períodos de detenção, inclusive até perto de um ano no asilo. O partido defende que Portugal deve usar essa margem para garantir os direitos humanos, proteger o superior interesse da criança e transferir da Administração para os tribunais o controlo sobre a detenção.",
+ "analysis": "A iniciativa apresenta garantias claras de direitos fundamentais, alinhando o controlo da detenção com a intervenção judicial em 48 horas e concretizando a proteção de menores através de tutores independentes e apoio jurídico automático. Contudo, o texto revela fragilidades técnicas e operacionais. Na redação, o artigo 4.º anuncia o aditamento dos artigos 40.º-C a 40.º-E à Lei n.º 23/2007, mas introduz um artigo 40.º-A em vez do 40.º-C, criando uma incoerência sistemática. Além disso, a entrada automática em território nacional após o limite improrrogável de quatro semanas pode conflituar com prazos de regulamentos europeus diretamente aplicáveis e dificultar a execução de decisões de regresso. Por fim, o projeto exige respostas céleres, como tutores antes da triagem, alojamento não privativo da liberdade e meios próprios para o Provedor de Justiça, sem definir dotações nem a capacidade instalada necessária.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O próprio artigo 8.º reconhece um acréscimo de despesa decorrente da nomeação automática de advogado no pedido de asilo, remetendo a sua produção de efeitos para o Orçamento do Estado subsequente. A criação de tutores independentes, o alojamento alternativo para famílias e menores e o reforço de meios do Provedor de Justiça também implicam encargos adicionais para o Estado, embora o documento não quantifique montantes."
+ },
+ "affected": [
+  "requerentes de proteção internacional",
+  "menores migrantes e famílias",
+  "cidadãos estrangeiros na fronteira",
+  "Provedor de Justiça"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "asilo",
+  "detenção de menores",
+  "fronteiras",
+  "direitos fundamentais",
+  "tutor independente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Fiscalização e transparência nos empréstimos SAFE da Defesa",
+ "summary": "Este projeto de resolução, que constitui uma recomendação não vinculativa ao Governo, visa reforçar o controlo independente e a transparência na aplicação dos cerca de 5,8 mil milhões de euros do instrumento europeu SAFE na área da Defesa. O Bloco de Esquerda recomenda ao Executivo que publique com urgência os diplomas de governação e da comissão de auditoria aprovados em maio de 2026 e que integre nela, como membros de pleno direito e mediante convite formal, o Tribunal de Contas e a Procuradoria-Geral da República. Propõe ainda alargar a Comissão de Acompanhamento dos Investimentos na Defesa a todos os partidos parlamentares, limitar a confidencialidade à informação legalmente classificada, manter os contratos sujeitos à fiscalização integral do Tribunal de Contas, divulgar contratos e beneficiários finais, enviar relatórios semestrais ao Parlamento e suspender novas adjudicações até estas estruturas funcionarem.",
+ "key_points": [
+  "Publicar sem demora os diplomas de governação do Instrumento SAFE e da respetiva comissão de auditoria (CAC-SAFE), explicando o atraso à Assembleia da República.",
+  "Garantir assento de pleno direito ao Tribunal de Contas e à Procuradoria-Geral da República na comissão de auditoria através de convite formal em 30 dias, respeitando a sua autonomia.",
+  "Alargar a Comissão de Acompanhamento dos Investimentos na Defesa a todos os partidos parlamentares e limitar o dever de sigilo à informação legalmente classificada.",
+  "Sujeitar todos os contratos do SAFE à fiscalização prévia, concomitante e sucessiva do Tribunal de Contas, sem regimes de exceção ou dispensa.",
+  "Publicar os elementos essenciais, critérios de adjudicação e beneficiários finais dos contratos, enviando relatórios semestrais de execução física e financeira ao Parlamento.",
+  "Suspender a celebração de novos contratos ao abrigo do SAFE até que a comissão de acompanhamento alargada e a comissão de auditoria estejam em efetivo funcionamento."
+ ],
+ "plain_language": "Portugal pediu um empréstimo europeu de 5,8 mil milhões de euros para comprar equipamento militar até 2030, que será pago ao longo de várias décadas. Como muitos contratos estão a ser assinados entre governos e sem concurso público, este projeto pede ao Governo que não avance com novas compras antes de existirem regras claras de vigilância. Na prática, recomenda que todos os partidos no Parlamento acompanhem os gastos sem segredos desnecessários, que o Tribunal de Contas e o Ministério Público façam parte da auditoria, e que o público possa saber o valor, os fornecedores e os custos reais destes empréstimos.",
+ "context": "O proponente alerta que o empréstimo SAFE, com custo estimado até doze mil milhões de euros incluindo juros até 2071, está a ser executado entre Estados sem concurso nem dever europeu de divulgar beneficiários finais. Aponta que o contrato das fragatas, de 3,9 mil milhões, foi assinado antes de publicada a comissão de auditoria ou instalada a comissão de acompanhamento, limitada aos três maiores partidos e sujeita a confidencialidade. Invoca ainda um historial de irregularidades e processos judiciais na Defesa, como os submarinos, Pandur II, Tancos e Tempestade Perfeita.",
+ "analysis": "A iniciativa identifica com rigor fragilidades reais de escrutínio num programa de 5,8 mil milhões de euros contratado sem concurso público, apontando o desfasamento temporal entre a assinatura do contrato das fragatas e a criação das estruturas de fiscalização, bem como a exclusão de partidos menores e o sigilo da comissão de acompanhamento. Respeita ainda a separação de poderes ao propor convites formais, e não imposições, ao Tribunal de Contas e à Procuradoria-Geral da República. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa. Além disso, a recomendação de suspender novos contratos até à instalação das comissões pode colidir com os prazos curtos de contratação do SAFE, e a presença de órgãos judiciais e de fiscalização externa numa comissão governamental levanta riscos de conflito institucional que podem levar essas entidades a recusar o convite.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Tratando-se de uma recomendação não vinculativa centrada em regras de auditoria, transparência e reporte parlamentar, não cria despesa nem receita direta para o Estado. O documento refere que o envelope do empréstimo SAFE em causa é de cerca de 5,8 mil milhões de euros, podendo atingir cerca de doze mil milhões com juros até 2071, mas a resolução não altera esses montantes."
+ },
+ "affected": [
+  "Governo e Ministério da Defesa Nacional",
+  "Tribunal de Contas e Procuradoria-Geral da República",
+  "partidos com representação parlamentar",
+  "empresas contratadas no setor da defesa"
+ ],
+ "categories": [
+  "defesa",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "instrumento safe",
+  "contratação pública",
+  "defesa nacional",
+  "tribunal de contas",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Valorização de carreiras e reforço dos serviços prisionais e de reinserção",
+ "summary": "Este Projeto de Resolução recomenda ao Governo doze medidas para valorizar os trabalhadores e reforçar os recursos humanos da Direção-Geral de Reinserção e Serviços Prisionais. Como recomendação parlamentar, não tem força vinculativa. Propõe a retoma das negociações com todos os sindicatos do setor, incluindo os que não assinaram o acordo de dezembro de 2025, e a criação de uma carreira especial para assistentes técnicos e operacionais. Recomenda ainda a harmonização dos suplementos de risco, a extensão equitativa do suplemento de fixação nas Regiões Autónomas, o levantamento e reabilitação das casas de função e a atribuição de um suplemento de renda de casa. Adicionalmente, sugere um plano plurianual de admissões, a definição de rácios máximos de processos por técnico, o reforço da medicina no trabalho e do apoio psicológico, concursos com formação específica para cargos dirigentes, maior formação profissional e a adoção de regimes de aposentação adequados ao especial desgaste das funções.",
+ "key_points": [
+  "Retomar a negociação coletiva com todos os sindicatos da Direção-Geral de Reinserção e Serviços Prisionais e criar uma carreira especial para assistentes técnicos e operacionais.",
+  "Harmonizar os suplementos de risco, estender o suplemento de fixação nas Regiões Autónomas e criar um suplemento de renda para quem não usufrui de casa de função.",
+  "Aprovar um plano plurianual de admissões com dotação própria para preencher os mapas de pessoal e reduzir o recurso estrutural a horas extraordinárias.",
+  "Definir rácios máximos de processos por técnico nas equipas de reinserção, vigilância eletrónica e centros educativos, e assegurar medicina do trabalho e apoio psicológico a nível nacional.",
+  "Exigir concursos e formação específica para o provimento de cargos de direção e estudar regimes de aposentação adequados ao especial desgaste das funções."
+ ],
+ "plain_language": "Esta iniciativa é uma recomendação não vinculativa ao Governo para melhorar as condições de quem trabalha nas prisões, nos centros educativos para jovens e no acompanhamento de penas na comunidade, como a vigilância eletrónica. Apesar de um acordo recente para algumas carreiras técnicas, vários funcionários ficaram excluídos, faltam mais de mil guardas e técnicos, e o serviço depende de muitas horas extraordinárias. O Bloco de Esquerda sugere ao Governo que volte a negociar com todos os sindicatos, melhore salários e subsídios, contrate mais pessoal, limite os processos por técnico, reforce o apoio psicológico e use concursos transparentes para escolher chefias.",
+ "context": "O proponente aponta uma dívida histórica desde 2008 na revisão de carreiras da Direção-Geral de Reinserção e Serviços Prisionais, agravada por salários iniciais próximos do mínimo nacional e fraca atratividade nos concursos. O texto documenta um défice superior a mil guardas prisionais, vagas por preencher na reinserção e recurso estrutural a horas extraordinárias, enquanto crescem a vigilância eletrónica, os internamentos educativos e a sobrelotação prisional (106% em maio de 2026). Apesar do acordo de dezembro de 2025 e dos decretos-leis de julho de 2026, persistem exclusões, assimetrias e falhas na saúde no trabalho.",
+ "analysis": "Como ponto forte, a iniciativa apresenta um diagnóstico detalhado apoiado em dados oficiais sobre efetivos, sobrecarga e sobrelotação prisional, identificando lacunas deixadas pelo acordo de 2025, como a exclusão de assistentes técnicos e operacionais e a ausência de rácios máximos por técnico. Contudo, tratando-se de um Projeto de Resolução, não é vinculativo para o Governo. Além disso, reúne doze recomendações amplas e de elevado impacto financeiro permanente — novas carreiras, suplementos, habitação, admissões plurianuais e aposentações — sem quantificar custos, fontes de financiamento ou prioridades. A implementação enfrenta ainda dois riscos práticos: reabrir negociações logo após os decretos-leis de julho de 2026 pode esbarrar na resistência do Executivo, e o plano de contratações depende da capacidade de atrair candidatos, num setor que registou muito poucas candidaturas em concursos recentes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Sendo uma recomendação não vinculativa, a iniciativa não gera despesa imediata por si só, mas a eventual concretização das medidas propostas aumentaria significativamente a despesa pública permanente. O documento não quantifica o custo global das novas carreiras, contratações plurianuais, suplementos de renda, reabilitação de habitações ou regimes de aposentação, mencionando apenas o valor de 225 euros mensais relativo ao suplemento de risco já previsto em diploma governamental anterior."
+ },
+ "affected": [
+  "guardas prisionais",
+  "técnicos de reinserção social e reeducação",
+  "assistentes técnicos e operacionais da DGRSP",
+  "reclusos e jovens em centros educativos",
+  "dirigentes de estabelecimentos prisionais e delegações de reinserção"
+ ],
+ "categories": [
+  "justica",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "serviços prisionais",
+  "reinserção social",
+  "carreiras especiais",
+  "suplemento de risco",
+  "guarda prisional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

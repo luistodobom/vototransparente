@@ -1,0 +1,45 @@
+{
+ "short_title": "Reconhecimento e apoio na fibromialgia e encefalomielite miálgica",
+ "summary": "O Projeto de Resolução do PCP recomenda ao Governo um conjunto de medidas para o reconhecimento clínico, laboral e social da fibromialgia e da encefalomielite miálgica. Sem caráter vinculativo, a iniciativa propõe que o Executivo reveja a Tabela Nacional de Incapacidades e a Tabela Nacional de Funcionalidade, e inclua ambas as patologias na Lista de Doenças Crónicas da Direção-Geral da Saúde. No plano assistencial, recomenda o reforço de médicos nas juntas médicas para reduzir listas de espera e o aumento de profissionais nas unidades de saúde, especialmente nas especialidades relevantes. Pede ainda a abertura de mais unidades de reumatologia, neurologia e medicina da dor para assegurar cobertura nacional, bem como ações de formação e sensibilização dirigidas aos profissionais de saúde. Por fim, recomenda a garantia de acesso efetivo a medidas de suporte à aprendizagem e inclusão para crianças e jovens diagnosticados.",
+ "key_points": [
+  "Rever a Tabela Nacional de Incapacidades e a Tabela Nacional de Funcionalidade, bem como incluir estas doenças na Lista de Doenças Crónicas da Direção-Geral da Saúde.",
+  "Reforçar o número de médicos nas juntas médicas para dar resposta às listas de espera existentes.",
+  "Aumentar o número de profissionais nas unidades de saúde, em particular nas áreas de especialidade ligadas a estas patologias.",
+  "Abrir mais unidades de reumatologia, neurologia e medicina da dor para garantir cobertura em todo o país.",
+  "Promover ações de sensibilização e formação sobre fibromialgia e encefalomielite miálgica dirigidas aos profissionais de saúde.",
+  "Assegurar aos alunos com estas doenças o acesso efetivo a medidas de suporte à aprendizagem e à inclusão escolar."
+ ],
+ "plain_language": "A Assembleia da República pede ao Governo que passe a reconhecer oficialmente a fibromialgia e a síndrome da fadiga crónica como doenças crónicas que causam incapacidade. Na prática, recomenda que sejam incluídas nas tabelas oficiais usadas pelas juntas médicas, o que facilitaria o acesso a horários de trabalho adaptados ou à reforma antecipada em casos graves. O texto sugere também mais médicos nas juntas médicas e nos hospitais, novas consultas especializadas em todo o país, formação para profissionais de saúde e apoio escolar para crianças doentes. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O PCP afirma que os sintomas da fibromialgia e da encefalomielite miálgica são frequentemente desvalorizados por entidades patronais, juntas médicas e alguns profissionais de saúde, apesar de serem doenças debilitantes reconhecidas pela Organização Mundial da Saúde. Segundo o proponente, os doentes enfrentam diagnósticos tardios, escassez de consultas especializadas no Serviço Nacional de Saúde, atrasos nas juntas médicas e falta de adaptação das condições de trabalho, o que gera assédio laboral, despedimentos e perda de rendimento. Aponta ainda que crianças e jovens afetados ficam muitas vezes privados de apoio educativo por desconhecimento do diagnóstico.",
+ "analysis": "A iniciativa tem o mérito de abordar estas patologias de forma transversal, articulando saúde, avaliação de incapacidade, proteção laboral e inclusão escolar. Contudo, tratando-se de um projeto de resolução, as suas recomendações não vinculam o Governo. As medidas são formuladas de modo genérico, sem metas quantificadas, prazos, critérios clínicos para a revisão das tabelas ou estimativa de impacto orçamental. Na prática, recomendações como o reforço de médicos e a abertura de unidades especializadas em todo o país enfrentam riscos de exequibilidade devido à escassez de profissionais. Além disso, o texto apresenta falhas de rigor redatorial, mencionando de forma deslocada a doença de Chron no parágrafo da fibromialgia, indicando a XV Legislatura no cabeçalho apesar da data de 2026 e referindo na parte resolutiva apenas estas doenças sem as nomear.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem impacto financeiro direto nem vincula o Executivo, não apresentando o documento qualquer estimativa orçamental. Contudo, a concretização das medidas recomendadas, como a contratação de profissionais, a abertura de novas unidades de saúde, ações de formação e recursos educativos, implicaria um aumento da despesa pública."
+ },
+ "affected": [
+  "pessoas com fibromialgia",
+  "pessoas com encefalomielite miálgica",
+  "crianças e jovens em idade escolar com estas doenças",
+  "profissionais de saúde e juntas médicas",
+  "entidades patronais"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "educacao"
+ ],
+ "tags": [
+  "fibromialgia",
+  "encefalomielite miálgica",
+  "doenças crónicas",
+  "juntas médicas",
+  "incapacidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

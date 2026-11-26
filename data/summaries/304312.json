@@ -1,0 +1,26 @@
+{
+ "short_title": "Regulamentação dos Serviços Digitais em Portugal",
+ "summary": "Esta proposta de lei visa implementar em Portugal o Regulamento dos Serviços Digitais da União Europeia. O seu objetivo principal é criar um ambiente online mais seguro e fiável, estabelecendo regras harmonizadas para os prestadores de serviços digitais intermediários. Isto inclui a forma como devem lidar com conteúdos ilegais e riscos sistémicos, especialmente para plataformas e motores de pesquisa de grande dimensão. A lei designa as autoridades nacionais competentes (ANACOM, ERC e CNPD) para supervisionar e aplicar estas regras, definindo os seus poderes, mecanismos de cooperação e o regime sancionatório em caso de incumprimento.",
+ "key_points": [],
+ "plain_language": "Esta proposta é basicamente para pôr em prática em Portugal uma lei europeia que quer tornar a internet mais segura. A ideia é que as empresas que nos dão serviços online (como redes sociais ou motores de busca) sejam mais responsáveis pelo que lá aparece, especialmente conteúdos ilegais. Para isso, o governo está a dizer quais são as entidades cá em Portugal que vão fiscalizar isto (a ANACOM, a ERC e a CNPD), o que é que elas podem fazer, como vão trabalhar juntas e que multas podem aplicar se as regras não forem cumpridas. É para que a internet seja um sítio mais fiável e onde os nossos direitos estejam protegidos.",
+ "context": null,
+ "analysis": "O documento apresenta uma transposição clara e detalhada do Regulamento dos Serviços Digitais da UE para a ordem jurídica portuguesa. A designação explícita das autoridades competentes (ANACOM como Coordenador dos Serviços Digitais, ERC e CNPD) e a delimitação das suas atribuições e poderes de investigação e execução demonstram uma estrutura bem definida para a implementação. A previsão de um Conselho Consultivo, com representantes da sociedade civil, científica e empresarial, é um ponto positivo para assegurar uma supervisão informada e abrangente. O regime sancionatório detalhado e os procedimentos de fiscalização alinham-se com o objetivo de garantir o cumprimento das obrigações. Não se identificam inconsistências significativas; pelo contrário, a proposta parece ser uma adaptação robusta e coerente da legislação europeia ao contexto nacional, visando efetivamente a proteção dos direitos fundamentais e a segurança no ambiente digital.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento dos gastos do governo para financiar as novas funções de supervisão e execução das autoridades designadas (ANACOM, ERC e CNPD). No entanto, este aumento de despesa é explicitamente coberto pelas receitas obtidas no leilão 5G para os exercícios económicos de 2024 a 2028. Por exemplo, a ANACOM receberá 1.410.000€ em 2024 e 2.608.000€ em 2025, a ERC 480.000€ e 625.000€, e a CNPD 340.000€ e 675.000€, respetivamente. Isto sugere que, embora haja um aumento de despesa em áreas específicas, o efeito líquido no orçamento geral do governo será neutro ou minimamente impactante, uma vez que os custos são financiados por uma receita dedicada."
+ },
+ "affected": [],
+ "categories": [
+  "ciencia",
+  "justica",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

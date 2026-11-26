@@ -1,0 +1,24 @@
+{
+ "short_title": "Devolução Automática do ISV Ilegalmente Cobrado",
+ "summary": "Esta proposta recomenda que o Governo português proceda à devolução automática do Imposto Sobre Veículos (ISV) que foi cobrado indevidamente sobre veículos importados da União Europeia entre 2017 e 2021. A recomendação surge na sequência de decisões do Tribunal de Justiça da União Europeia e do Tribunal Constitucional, que consideraram a cobrança ilegal. Para facilitar a devolução, sugere-se a criação de um mecanismo específico no Portal das Finanças, evitando que os contribuintes tenham de apresentar reclamações individuais.",
+ "key_points": [],
+ "plain_language": "Basicamente, o governo cobrou um imposto (o ISV) a mais em carros importados da Europa entre 2017 e 2021, e os tribunais disseram que isso era ilegal. Agora, em vez de as pessoas terem de ir pedir o dinheiro de volta, esta proposta quer que o governo devolva o dinheiro automaticamente, criando uma forma simples de fazer isso no site das Finanças. É para facilitar a vida a quem pagou a mais.",
+ "context": null,
+ "analysis": "O documento aponta uma clara inconsistência: apesar das decisões judiciais que confirmam a ilegalidade da cobrança do ISV, os contribuintes ainda são obrigados a iniciar um processo de reclamação para reaver o dinheiro. A proposta visa corrigir esta falha, alinhando a prática do Estado com os princípios de boa-fé e responsabilidade, ao propor a devolução automática. A criação de uma funcionalidade no Portal das Finanças é um detalhe de implementação que se alinha perfeitamente com o objetivo de simplificar e automatizar o processo, tornando-o mais acessível e menos oneroso para os cidadãos, tal como já aconteceu com o Imposto Único de Circulação (IUC).",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta resultará numa diminuição da receita do governo, uma vez que implica a devolução de impostos já cobrados. Poderá haver um pequeno aumento nos gastos do governo para desenvolver e implementar a funcionalidade no Portal das Finanças. O efeito líquido será uma diminuição significativa da receita governamental devido aos reembolsos do ISV."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

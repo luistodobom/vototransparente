@@ -1,0 +1,44 @@
+{
+ "short_title": "Levantamento e programa de requalificação dos terminais rodoviários",
+ "summary": "O Projeto de Resolução n.º 439/XVII/1.ª, apresentado pelo Chega, recomenda ao Governo a realização de um levantamento nacional exaustivo dos terminais rodoviários e de um diagnóstico técnico sobre o seu estado de conservação, segurança e acessibilidade. Com base nesse diagnóstico, propõe a definição de padrões mínimos de qualidade para todo o país, abrangendo abrigos cobertos, instalações sanitárias acessíveis, informação atualizada de horários, iluminação adequada e acessibilidade universal. A iniciativa recomenda ainda a criação de um programa faseado de requalificação que dê prioridade ao interior, a zonas de baixa densidade populacional, a localidades onde o transporte rodoviário é o único meio coletivo e a infraestruturas inseguras. Sugere também a articulação de governança e financiamento entre o Governo, municípios, comunidades intermunicipais e áreas metropolitanas, em alinhamento com fundos europeus. Por ser um projeto de resolução, não tem força vinculativa.",
+ "key_points": [
+  "Realizar um levantamento nacional exaustivo de todos os terminais rodoviários, das áreas metropolitanas aos territórios do interior.",
+  "Elaborar um diagnóstico técnico nacional sobre conservação, acessibilidade, segurança, conforto, serviços disponíveis, integração modal e capacidade operacional.",
+  "Definir padrões mínimos nacionais de qualidade, incluindo zonas de espera cobertas, sanitários acessíveis, informação de horários, iluminação e acessibilidade universal.",
+  "Estabelecer um programa de requalificação faseada com prioridade para o interior, zonas de baixa densidade e terminais inseguros ou únicos no transporte coletivo.",
+  "Assegurar a articulação de governança e financiamento adequado entre o Governo, os municípios, as comunidades intermunicipais e as áreas metropolitanas.",
+  "Alinhar o programa de requalificação com os instrumentos de financiamento europeu para coesão, mobilidade sustentável e transição climática."
+ ],
+ "plain_language": "Este projeto é uma recomendação ao Governo — sem efeito obrigatório — para fazer um inventário de todas as estações e terminais de autocarros em Portugal e avaliar as suas condições. O objetivo é definir regras mínimas de qualidade em todo o país, garantindo que estes espaços têm abrigos contra o mau tempo, casas de banho limpas e acessíveis, boa iluminação e horários visíveis. A proposta sugere depois avançar com um plano de obras por fases para recuperar os terminais mais degradados, começando pelo interior, onde o autocarro é muitas vezes o único transporte público, com apoio das câmaras municipais e de fundos europeus.",
+ "context": "O grupo parlamentar proponente sublinha que os terminais rodoviários são essenciais para a coesão social e para o acesso a serviços de saúde, educação e emprego, sobretudo no interior onde muitas vezes constituem o único transporte coletivo. Argumenta que existe uma forte desigualdade na qualidade destas infraestruturas, com situações de degradação, insegurança e falta de acessibilidade. Segundo o texto, a ausência de um diagnóstico nacional gera investimentos pontuais e desarticulados, agravando disparidades regionais. Invoca a Constituição, legislação nacional sobre transportes e acessibilidade e orientações europeias de coesão territorial.",
+ "analysis": "A iniciativa foca um problema concreto de mobilidade e equidade territorial, frequentemente secundarizado fora das grandes áreas urbanas. Tem o mérito de propor um diagnóstico prévio ao investimento, critérios técnicos mínimos uniformes e a articulação com fundos europeus. Contudo, apresenta limitações relevantes: tratando-se de um projeto de resolução, não vincula o Executivo nem cria obrigações legais. Além disso, o texto não define prazos para o levantamento nem para as obras, não apresenta qualquer estimativa de custos e omite a complexidade jurídica da propriedade e gestão dos terminais, muitos dos quais pertencem a municípios ou privados, o que pode dificultar a implementação de um programa nacional uniforme.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, a iniciativa não produz impacto orçamental direto imediato. Caso seja adotada pelo Governo, a realização do levantamento técnico e do programa de requalificação implicará despesa pública, cujo montante não é estimado no documento e dependerá da eventual mobilização de fundos europeus e da repartição de encargos com as autarquias."
+ },
+ "affected": [
+  "utentes de transporte rodoviário",
+  "municípios",
+  "comunidades intermunicipais e áreas metropolitanas",
+  "pessoas com mobilidade condicionada",
+  "operadores de transporte rodoviário"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "mobilidade",
+  "coesão territorial",
+  "acessibilidade",
+  "requalificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

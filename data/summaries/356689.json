@@ -1,0 +1,41 @@
+{
+ "short_title": "Dispensa de serviço no dia da dádiva de sangue e campanha de incentivo",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo a adoção de duas medidas para reforçar as reservas nacionais de sangue, não sendo vinculativo. Em primeiro lugar, sugere a alteração do Estatuto do Dador de Sangue e do Código do Trabalho para permitir que o trabalhador dador se ausente da atividade profissional sem perda de direitos ou regalias, superando a ambiguidade da atual regra do «tempo necessário». Em segundo lugar, recomenda a realização de uma campanha extraordinária de incentivo à doação de sangue, visando a reposição das reservas em falha. Esta campanha deverá envolver o Instituto Português de Sangue, a Federação Portuguesa de Dadores Benévolos de Sangue, as autarquias locais, os estabelecimentos de saúde e outras entidades relevantes.",
+ "key_points": [
+  "Recomenda ao Governo que altere o Estatuto do Dador de Sangue e o Código do Trabalho para permitir a ausência ao trabalho sem perda de direitos ou regalias.",
+  "Pretende assegurar proteção laboral e remuneração ao trabalhador dador, permitindo o repouso pós-dádiva recomendado clinicamente.",
+  "Propõe a realização de uma campanha extraordinária de incentivo à doação de sangue para repor as reservas nacionais em falha.",
+  "Sugere a execução da campanha em parceria com o Instituto Português de Sangue, a FEPODABES, autarquias locais, estabelecimentos de saúde e outras entidades relevantes."
+ ],
+ "plain_language": "Esta proposta do PAN pede ao Governo que mude a lei laboral para proteger quem dá sangue e que faça uma campanha extraordinária para atrair mais dadores. Atualmente, a lei só garante dispensa pelo tempo necessário para a recolha e não assegura claramente o pagamento nem o descanso no resto do dia, o que desincentiva quem tem trabalhos físicos ou exigentes. Como é um Projeto de Resolução, funciona apenas como uma recomendação ao Governo e não muda a lei diretamente. A ideia é garantir que ninguém perde dinheiro ou direitos ao doar sangue e aumentar as reservas nos hospitais.",
+ "context": "O PAN justifica a iniciativa com a insuficiência recorrente das reservas nacionais de sangue, essenciais para tratamentos oncológicos, hematológicos, cuidados intensivos e doentes crónicos. Argumenta que a lei atual apenas prevê dispensa pelo «tempo necessário» e é ambígua no Código do Trabalho quanto à remuneração, obrigando trabalhadores a regressar a funções exigentes contra recomendações clínicas de repouso. Refere ainda que propostas legislativas do PAN e do Bloco de Esquerda sobre esta matéria foram rejeitadas em fevereiro de 2026.",
+ "analysis": "A iniciativa tem o mérito de articular a proteção laboral dos dadores com recomendações clínicas de segurança e com a reposição das reservas de sangue. Contudo, apresenta fragilidades de precisão: embora o título refira o «dia de dádiva», o ponto resolutivo não especifica a duração da ausência recomendada, nem distingue profissões de esforço físico ou risco das restantes, ao contrário do sugerido na exposição de motivos. Além disso, não aborda o impacto organizacional e financeiro para as entidades empregadoras. Por ser um Projeto de Resolução, não é vinculativo, dependendo da vontade política do Governo e da Assembleia da República, onde, segundo o próprio texto, propostas semelhantes foram rejeitadas em fevereiro de 2026 (havendo ainda a inconsistência de o documento indicar a IL nos votos contra e nas abstenções).",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo uma recomendação não vinculativa, a iniciativa não produz impacto orçamental direto imediato. Caso seja implementada pelo Governo, a campanha nacional extraordinária e eventuais ausências remuneradas na Administração Pública poderão gerar despesa, mas o documento não apresenta estimativas nem define quem suporta o encargo."
+ },
+ "affected": [
+  "trabalhadores dadores de sangue",
+  "entidades empregadoras",
+  "doentes dependentes de transfusões",
+  "estabelecimentos de saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "estatuto do dador",
+  "código do trabalho",
+  "dispensa laboral",
+  "reservas de sangue"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

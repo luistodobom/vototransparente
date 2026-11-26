@@ -1,0 +1,41 @@
+{
+ "short_title": "Passe nacional do Antigo Combatente e pagamento às transportadoras",
+ "summary": "O Projeto de Resolução n.º 889/XVII/1.ª, apresentado pelo CDS-PP e pelo PSD, recomenda ao Governo que alargue a gratuitidade dos passes de transporte público para os Antigos Combatentes a todo o território nacional e que reformule o sistema de compensação financeira pago pelo Estado às operadoras. Tratando-se de um projeto de resolução, estas medidas constituem uma recomendação não vinculativa ao executivo. Atualmente, ao abrigo da Lei n.º 46/2020 e da Portaria n.º 198/2021, o benefício restringe-se à área metropolitana ou comunidade intermunicipal da residência habitual do beneficiário ou respetiva viúva ou viúvo. A iniciativa propõe eliminar essa limitação geográfica, passando simultaneamente de um modelo de pagamento baseado no número de passes atribuídos e carregados para um modelo assente na utilização efetiva do serviço, com menor número de entidades intermediárias.",
+ "key_points": [
+  "Recomendar ao Governo o alargamento geográfico da gratuitidade dos transportes públicos prevista na Lei n.º 46/2020 a todo o território nacional.",
+  "Substituir o atual critério de compensação baseado em passes atribuídos e carregados por pagamentos calculados segundo a utilização efetiva do serviço.",
+  "Simplificar os procedimentos administrativos através da redução do número de entidades envolvidas no processo de pagamento às empresas de transportes."
+ ],
+ "plain_language": "Hoje, os Antigos Combatentes e os seus viúvos têm passe gratuito nos transportes públicos, mas apenas na região onde vivem. Este projeto pede ao Governo que alargue a gratuitidade a todo o país, facilitando viagens para as suas terras de origem ou para visitar familiares. Pede também que o Estado mude a forma como compensa as transportadoras: em vez de pagar pelo número de passes carregados, passaria a pagar apenas pelas viagens efetivamente realizadas, reduzindo as entidades envolvidas no processo. Como é um projeto de resolução, trata-se de uma recomendação, pelo que o Governo não é obrigado a segui-la.",
+ "context": "Os proponentes justificam a iniciativa com o dever de justiça e reconhecimento para com os Antigos Combatentes, considerando que a limitação atual do passe à área metropolitana ou comunidade intermunicipal de residência não reflete a sua realidade social. Muitos beneficiários mantêm fortes ligações às suas terras de origem e têm familiares noutras regiões do país. Adicionalmente, o texto aponta que o modelo vigente de compensação às transportadoras, assente nos passes atribuídos e carregados, pode gerar ineficiências financeiras por não corresponder à utilização real do serviço, justificando simplificação administrativa.",
+ "analysis": "A iniciativa procura equilibrar o alargamento de um apoio social com a racionalização da despesa pública, ao propor simultaneamente cobertura nacional e pagamentos indexados à utilização efetiva. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não vincula o Governo nem altera diretamente a Lei n.º 46/2020 ou a Portaria n.º 198/2021. Além disso, o texto não define o alcance prático da expressão alargar a todo o território nacional: não esclarece se inclui apenas passes regionais de áreas metropolitanas e comunidades intermunicipais ou também ligações ferroviárias e rodoviárias inter-regionais de longo curso. Também faltam dados quantitativos sobre custos atuais, número de beneficiários ou poupanças estimadas, e não são especificadas quais as entidades a retirar do circuito de pagamento, criando incerteza na implementação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação ao Governo, não produz impacto orçamental imediato e o documento não apresenta estimativas financeiras. Caso seja aplicada, combina medidas com efeitos opostos: o alargamento territorial da gratuitidade tende a aumentar a despesa pública, enquanto o pagamento por utilização efetiva e a simplificação administrativa visam reduzir ineficiências."
+ },
+ "affected": [
+  "Antigos Combatentes",
+  "Viúvas e viúvos de antigos combatentes",
+  "Empresas de transporte público",
+  "Entidades públicas envolvidas no processamento de pagamentos"
+ ],
+ "categories": [
+  "transportes",
+  "defesa",
+  "administracao"
+ ],
+ "tags": [
+  "antigos combatentes",
+  "transportes públicos",
+  "passes gratuitos",
+  "compensação financeira",
+  "simplificação administrativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

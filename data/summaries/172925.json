@@ -1,0 +1,26 @@
+{
+ "short_title": "Travão à subida da prestação do crédito habitação",
+ "summary": "A proposta do PAN visa criar um mecanismo para limitar o aumento das prestações do crédito à habitação em Portugal. Face à subida das taxas de juro pelo Banco Central Europeu, que tem levado a aumentos significativos nas prestações mensais e nos lucros dos bancos, e considerando que os apoios governamentais existentes são insuficientes, o PAN recomenda ao Governo que, em articulação com as instituições financeiras, implemente um \"travão\" que seja ativado quando a taxa de juro aplicada ao contrato subir mais de 3 pontos percentuais face à taxa inicial e a taxa de esforço do agregado familiar ultrapassar os 35%. O objetivo é proteger as famílias de aumentos insustentáveis.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PAN quer que o Governo meta um travão nos aumentos das prestações da casa. Com os juros a subir a pique, muita gente está a ter de pagar muito mais pelo empréstimo da casa, enquanto os bancos estão a ter lucros enormes. O PAN diz que os apoios que já existem não chegam. Por isso, propõe que, se os juros subirem mais de 3% e a prestação da casa começar a \"comer\" mais de 35% do rendimento da família, haja um limite para o aumento, para as pessoas não ficarem com a corda na garganta.",
+ "context": null,
+ "analysis": "A proposta do PAN identifica corretamente a pressão sobre as famílias devido à subida das taxas de juro e a insuficiência dos apoios existentes, como o Decreto-Lei n.º 52/2022. A sua abordagem de \"travão\" é consistente com o objetivo de proteger os rendimentos familiares, ao focar-se em dois limiares claros (aumento de 3 pontos percentuais na taxa de juro e taxa de esforço superior a 35%). A proposta destaca que não exige intervenção direta do Estado nem encargos adicionais para o governo, colocando a responsabilidade na banca para uma maior solidariedade. A menção de uma poupança mensal de 113,23 euros por família reforça a justificação da medida. A consistência reside em alinhar a solução (travão) com o problema (aumento insustentável das prestações) e as condições de ativação com a vulnerabilidade das famílias.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta afirma explicitamente que a criação deste mecanismo de travão não implicará \"quaisquer encargos adicionais\" para o governo. O objetivo é que a medida seja implementada em articulação com as instituições de crédito, sugerindo que o impacto financeiro, se houver, recairá sobre os bancos, possivelmente diminuindo os seus lucros ou exigindo ajustes nas suas políticas de crédito. Não há indicação de aumento ou diminuição direta das despesas ou receitas do governo. O efeito líquido para o governo é nulo em termos de despesa ou receita direta."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

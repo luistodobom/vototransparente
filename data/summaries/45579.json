@@ -1,0 +1,24 @@
+{
+ "short_title": "Aumento da comparticipação em tratamento de trombose para doentes oncológicos",
+ "summary": "Esta proposta recomenda que o Governo aumente a comparticipação, para 90%, das Heparinas de Baixo Peso Molecular (HBPM) usadas no tratamento da trombose associada ao cancro em doentes oncológicos. O objetivo é facilitar o acesso a esta terapêutica essencial, que pode salvar vidas e reduzir custos a longo prazo para o Serviço Nacional de Saúde, uma vez que a trombose é a segunda causa de morte em doentes oncológicos e o tratamento atual é dispendioso para os pacientes.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta é para que o governo ajude mais os doentes com cancro a pagar um medicamento importante que evita coágulos no sangue. É que esses coágulos são perigosos e podem até matar, e o tratamento é caro para quem já está a lutar contra o cancro. A ideia é que, se o governo pagar uma fatia maior (passando de 69% para 90%), mais pessoas conseguem fazer o tratamento, o que pode salvar vidas e, no fim das contas, até poupar dinheiro ao Serviço Nacional de Saúde, porque evita complicações mais graves e caras.",
+ "context": null,
+ "analysis": "O documento apresenta uma argumentação consistente e bem fundamentada. Começa por estabelecer a gravidade do tromboembolismo venoso (TEV) em doentes oncológicos, citando dados sobre a sua incidência, mortalidade e os elevados custos associados à sua gestão. Em seguida, compara a comparticipação atual em Portugal (69%) com a de outros países europeus (onde é significativamente superior, chegando a 100%), evidenciando o encargo financeiro para os doentes portugueses. A proposta alinha os detalhes da implementação (aumento para 90% de comparticipação) com o objetivo de melhorar o acesso ao tratamento e, consequentemente, a qualidade de vida e a sobrevivência dos doentes, ao mesmo tempo que argumenta que o impacto orçamental adicional é \"irrisório\" face aos benefícios e aos custos já existentes com o cancro. Não são identificadas inconsistências na lógica apresentada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta estima que o aumento da comparticipação das Heparinas de Baixo Peso Molecular de 69% para 90% resultaria num aumento anual dos gastos do governo em cerca de 152.000 euros (passando de 500.000 euros para 652.000 euros). Embora represente um aumento direto nos gastos, o documento sugere que este investimento pode levar a uma diminuição dos custos gerais de saúde a longo prazo, ao reduzir hospitalizações, atrasos em quimioterapia e outras complicações associadas à trombose, que atualmente geram custos elevados para o SNS. O efeito líquido é um aumento direto da despesa, mas com potencial para otimizar o investimento já feito no tratamento oncológico e reduzir custos indiretos."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

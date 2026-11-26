@@ -1,0 +1,42 @@
+{
+ "short_title": "Majoração no quociente familiar do IRS para famílias com maiores encargos",
+ "summary": "Este Projeto de Resolução, de natureza não vinculativa, recomenda ao Governo que reforce o peso de certos agregados caso os dependentes voltem a ser considerados no quociente familiar do IRS. O JPP propõe que as famílias monoparentais beneficiem de um coeficiente superior ao coeficiente geral aplicável aos restantes dependentes e que os dependentes com deficiência ou incapacidade fiscalmente relevante tenham igualmente uma ponderação reforçada. Sugere também uma majoração progressiva a partir do terceiro dependente, para reconhecer os encargos das famílias numerosas. A iniciativa recomenda ainda que estas medidas não prejudiquem as deduções à coleta já existentes, como as de saúde, educação ou deficiência. Por fim, pede ao Governo uma avaliação do impacto fiscal e social — incluindo nos agregados de baixos e médios rendimentos — e a entrega de um relatório e respetivas propostas legislativas à Assembleia da República no prazo de 120 dias.",
+ "key_points": [
+  "Recomenda ao Governo que avalie uma ponderação reforçada para famílias monoparentais, famílias numerosas e dependentes com deficiência no quociente familiar do IRS.",
+  "Propõe um coeficiente superior ao geral para dependentes em agregados monoparentais e uma ponderação acrescida para dependentes com deficiência ou incapacidade.",
+  "Sugere a criação de uma majoração progressiva a partir do terceiro dependente.",
+  "Exige que o novo modelo não reduza as deduções à coleta atuais em áreas como saúde, educação, deficiência e encargos familiares.",
+  "Solicita uma avaliação do impacto fiscal e social das medidas e a apresentação de um relatório ao Parlamento no prazo de 120 dias."
+ ],
+ "plain_language": "Quando se discute voltar a contar os filhos e outros dependentes no cálculo do IRS através do chamado quociente familiar (uma regra que divide o rendimento da família para reduzir o imposto), este projeto recomenda ao Governo que dê um apoio extra a quem tem mais despesas. Pede reduções maiores para pais ou mães que criam filhos sozinhos, para famílias com três ou mais filhos e para agregados com dependentes com deficiência, sem retirar os descontos que já existem em saúde ou educação. Como é apenas uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente argumenta que o IRS deve refletir a capacidade económica real das famílias e não apenas o seu rendimento bruto. Perante o debate sobre a reintrodução dos dependentes no quociente familiar, o JPP defende que nem todos os agregados enfrentam custos da mesma intensidade. Destaca que as famílias monoparentais dependem de um único adulto, que os dependentes com deficiência geram despesas permanentes de saúde, terapias e habitação, e que as famílias numerosas suportam encargos acumulados que justificam proteção fiscal e apoio à natalidade.",
+ "analysis": "A iniciativa tem o mérito de promover a equidade fiscal, reconhecendo que agregados com igual rendimento têm disponibilidade económica distinta consoante os encargos. É também positivo exigir uma avaliação prévia do impacto nos rendimentos baixos e médios, a proteção das deduções existentes e um prazo de 120 dias para resposta. Contudo, por ser um Projeto de Resolução, não vincula o Governo nem altera a lei. O texto também não propõe coeficientes concretos nem estima o custo orçamental das medidas. Além disso, o documento não aborda uma limitação técnica do quociente familiar: por reduzir o rendimento sujeito a taxas progressivas, tende a beneficiar mais quem tem rendimentos mais altos, oferecendo pouca ou nenhuma vantagem a famílias de baixos rendimentos que já estão isentas de IRS.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Trata-se de uma recomendação não vinculativa que pede uma avaliação de impacto sem definir coeficientes nem apresentar estimativas financeiras, estando condicionada à eventual reintrodução dos dependentes no quociente familiar. Caso as majorações recomendadas fossem aplicadas sem corte nas deduções existentes, tenderiam a reduzir a receita de IRS."
+ },
+ "affected": [
+  "famílias monoparentais",
+  "famílias com dependentes com deficiência ou incapacidade",
+  "famílias numerosas",
+  "contribuintes de IRS com dependentes"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "quociente familiar",
+  "famílias monoparentais",
+  "deficiência",
+  "famílias numerosas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Regras das bolsas e ação social no Ensino Superior",
+ "summary": "Este Projeto de Resolução recomenda ao Governo quatro alterações no âmbito da reforma do Sistema de Ação Social no Ensino Superior. Em primeiro lugar, propõe que os rendimentos de trabalho independente de jovens até aos 27 anos deixem de contar para o cálculo do rendimento do agregado familiar na atribuição de bolsas, até ao limite anual de 14 vezes a retribuição mínima mensal garantida, equiparando-os aos trabalhadores por conta de outrem. Em segundo lugar, pede um mecanismo de revisão célere do estatuto de bolseiro quando ocorram alterações económicas ou familiares súbitas. Em terceiro lugar, sugere a antecipação do pagamento de apoios a estudantes com comprovada incapacidade financeira enquanto aguardam decisão, com posterior acerto ou reembolso. Por último, recomenda a atribuição de bolsas nas mesmas condições no ensino público e privado. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Excluir os rendimentos de trabalho independente de jovens até aos 27 anos do cálculo do rendimento familiar para bolsas, até ao limite anual de 14 retribuições mínimas mensais garantidas.",
+  "Criar um mecanismo de revisão célere do estatuto de bolseiro em casos de alteração económica, social ou familiar significativa.",
+  "Permitir a antecipação do pagamento de apoios a estudantes com comprovada incapacidade financeira que aguardam bolsa, prevendo regras de reajustamento ou reembolso.",
+  "Garantir a atribuição de bolsas de ação social nas mesmas condições tanto em instituições de Ensino Superior públicas como privadas."
+ ],
+ "plain_language": "O Parlamento recomenda ao Governo que mude várias regras das bolsas de estudo no Ensino Superior, embora esta recomendação não seja obrigatória. A proposta defende que os estudantes que trabalham por conta própria não sejam prejudicados no pedido de bolsa face a quem trabalha por conta de outrem. Pede também processos mais rápidos para apoiar quem sofre quebras súbitas nos rendimentos familiares e adiantamentos de dinheiro para alunos com dificuldades financeiras que ainda aguardam pela bolsa. Por fim, quer que as condições das bolsas sejam iguais nas instituições públicas e privadas.",
+ "context": "A Iniciativa Liberal reconhece os passos do Governo para reformar a ação social no Ensino Superior, mas considera que a discussão prévia deixa de fora problemas importantes. Segundo o partido, o sistema atual não garante igualdade entre alunos do ensino público e privado, penaliza os trabalhadores-estudantes com atividade independente face aos trabalhadores dependentes e não responde com rapidez a quebras súbitas de rendimento ou aos custos iniciais de ingresso. O objetivo é combater o abandono escolar e obter validação parlamentar para incluir estas medidas na reforma anunciada.",
+ "analysis": "A iniciativa identifica fragilidades concretas da ação social, como a disparidade de tratamento entre trabalho dependente e independente e a dificuldade em responder aos custos iniciais de ingresso. Contudo, sendo um projeto de resolução, não tem força vinculativa nem altera diretamente a lei. O texto apresenta também lacunas práticas: não define critérios para o conceito de revisão célere nem para a comprovação de incapacidade financeira nos adiantamentos, e a recuperação de verbas pagas em excesso junto de estudantes vulneráveis pode gerar riscos sociais e administrativos. Nota-se ainda uma pequena inconsistência entre a exposição de motivos, que inclui o setor cooperativo e social, e a parte resolutiva, que refere apenas o setor público ou privado. Além disso, o documento não estima o impacto orçamental de alargar as bolsas em igualdade de condições.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem efeito orçamental imediato por não ser vinculativo. Contudo, se o Governo adotar as recomendações — nomeadamente alargar as bolsas em igualdade ao setor privado, excluir rendimentos independentes do cálculo e antecipar pagamentos —, a despesa pública com a ação social tenderá a aumentar, não existindo estimativas financeiras no documento."
+ },
+ "affected": [
+  "estudantes do Ensino Superior",
+  "trabalhadores-estudantes independentes",
+  "instituições de Ensino Superior privadas",
+  "agregados familiares de estudantes bolseiros"
+ ],
+ "categories": [
+  "educacao",
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "ensino superior",
+  "ação social",
+  "bolsas de estudo",
+  "trabalho independente",
+  "ensino privado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

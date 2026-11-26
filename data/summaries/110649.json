@@ -1,0 +1,25 @@
+{
+ "short_title": "Regime Jurídico da Partilha de Dados Informáticos",
+ "summary": "A proposta do PCP visa criar um regime legal para a partilha gratuita e não comercial de obras culturais digitais, como filmes e músicas. O objetivo é equilibrar o acesso livre à cultura com a necessidade de remunerar os criadores. Para isso, propõe a criação de um fundo, financiado por uma contribuição mensal de 0,75€ por contrato de internet, a ser paga pelos fornecedores de serviços de acesso à internet. Este fundo compensará os titulares de direitos que autorizem a partilha das suas obras e apoiará a criação cultural.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PCP quer que possas partilhar filmes, músicas e outros conteúdos culturais na internet de borla, sem que isso seja ilegal. Mas para que os artistas e criadores não fiquem a perder dinheiro, eles vão ser pagos na mesma. Como? Vai ser criado um fundo que recebe uma pequena taxa mensal (75 cêntimos) por cada contrato de internet, que as empresas de internet vão ter de pagar. Assim, a cultura chega a mais gente e quem cria continua a receber pelo seu trabalho.",
+ "context": null,
+ "analysis": "A proposta procura resolver a tensão entre a livre circulação de conteúdos culturais e a proteção dos direitos de autor, propondo um modelo inovador de compensação. A sua consistência reside na tentativa de conciliar estes dois objetivos, ao permitir a partilha não comercial e, simultaneamente, garantir a remuneração dos criadores através de um fundo. A implementação detalha que a contribuição é obrigatória para os fornecedores de serviços de internet, que são vistos como beneficiários da circulação de conteúdos, e que a adesão dos criadores à partilha gratuita é voluntária, mas com direito a compensação. A criação de um catálogo público de obras partilháveis é um mecanismo prático para operacionalizar o sistema, alinhando os detalhes da implementação com o objetivo de promover a difusão cultural e salvaguardar os interesses dos criadores.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê a criação de um novo \"Fundo para a Partilha de Dados Informáticos\", que será financiado por uma contribuição mensal de 0,75€ por contrato de fornecimento de serviços de acesso à internet, a ser cobrada aos fornecedores de serviços de internet. Isto representa um aumento da receita gerida pelo governo (através do fundo). As verbas do fundo serão distribuídas para compensar os titulares de direitos e para apoiar a criação cultural, o que implica um aumento correspondente nos gastos do governo (através da gestão e distribuição do fundo). O efeito líquido no orçamento geral do Estado será provavelmente neutro, uma vez que o fundo é auto-sustentável através das contribuições dos ISPs, mas introduz um novo fluxo financeiro gerido pelo setor público."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

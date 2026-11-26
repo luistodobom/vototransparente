@@ -1,0 +1,41 @@
+{
+ "short_title": "Sem comissão de reembolso antecipado no crédito à habitação variável",
+ "summary": "O Projeto de Lei n.º 518/XVII/1.ª, apresentado pelo Chega, propõe proibir a cobrança de comissões pelo reembolso antecipado nos contratos de crédito à habitação durante períodos em que seja aplicável a taxa de juro variável. Para o efeito, a iniciativa altera o artigo 23.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, que regula os contratos de crédito hipotecário em Portugal. Concretamente, o diploma revoga a alínea a) do n.º 5 desse artigo — que atualmente permite aos bancos cobrar até 0,5% sobre o capital amortizado antecipadamente nos contratos de taxa variável — e adita um novo n.º 12. Esta nova norma estabelece expressamente que não é permitida a cobrança de qualquer comissão sobre o capital reembolsado sempre que a amortização ocorra num período de taxa variável. A lei prevê entrar em vigor no dia seguinte ao da sua publicação em Diário da República.",
+ "key_points": [
+  "Altera o artigo 23.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, que regula os contratos de crédito à habitação.",
+  "Revoga a alínea a) do n.º 5 daquele artigo, eliminando a possibilidade legal de cobrar uma comissão máxima de 0,5% no reembolso antecipado em taxa variável.",
+  "Adita um n.º 12 ao mesmo artigo, proibindo a cobrança de qualquer comissão sobre o capital reembolsado em períodos de taxa de juro variável.",
+  "Mantém inalterado o regime aplicável aos contratos ou períodos com taxa de juro fixa.",
+  "Estabelece a entrada em vigor da lei no dia seguinte ao da sua publicação em Diário da República."
+ ],
+ "plain_language": "Quando alguém tem um empréstimo para comprar casa com taxa de juro variável e quer pagar uma parte ou a totalidade da dívida antes do prazo, os bancos podem cobrar uma comissão de até 0,5% sobre o valor entregue. Esta proposta quer proibir essa cobrança por completo. Se for aprovada, quem amortizar o crédito ou mudar o empréstimo para outro banco durante um período de taxa variável deixa de pagar essa penalização. A regra aplica-se apenas à taxa variável, mantendo-se as comissões existentes para os empréstimos com taxa fixa.",
+ "context": "O proponente argumenta que o crédito à habitação é o maior encargo das famílias e que 51,20% dos empréstimos para habitação própria estão em taxa variável, segundo dados do Banco de Portugal de janeiro de 2026. Como neste regime o consumidor suporta o risco das variações de juros, considera excessivo cobrar a comissão habitual de 0,5% a quem reduz o seu endividamento. Cita ainda práticas da Alemanha, Áustria e Irlanda e um estudo da Autoridade da Concorrência indicando que limitar comissões fomenta a transferência de créditos entre bancos e a concorrência.",
+ "analysis": "A iniciativa apresenta uma redação direta e simples, proibindo a comissão sempre que o reembolso ocorra num período em que vigore a taxa variável. Tem o mérito potencial de reduzir custos para os mutuários que amortizam dívida e de facilitar a transferência de empréstimos entre bancos, estimulando a concorrência no setor. Contudo, o diploma entra em vigor no dia seguinte à publicação sem incluir uma disposição transitória que clarifique a sua aplicação a contratos já existentes, o que pode suscitar dúvidas jurídicas. Adicionalmente, não avalia possíveis efeitos indiretos no mercado de crédito: as instituições financeiras poderão ajustar condições comerciais ou outras comissões para compensar a perda desta receita, nem o texto prevê limites para eventuais encargos administrativos associados ao reembolso.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida regula relações contratuais privadas entre instituições financeiras e consumidores, não prevendo despesa pública nem alterações fiscais diretas no documento."
+ },
+ "affected": [
+  "titulares de crédito à habitação com taxa variável",
+  "instituições bancárias e de crédito"
+ ],
+ "categories": [
+  "habitacao",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "reembolso antecipado",
+  "taxa variável",
+  "comissões bancárias",
+  "proteção dos consumidores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

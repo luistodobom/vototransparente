@@ -1,0 +1,44 @@
+{
+ "short_title": "Proíbe acorrentamento e coleiras coercivas e apoia bem-estar animal",
+ "summary": "O Projeto de Lei n.º 797/XVII/2.ª, apresentado pelo Bloco de Esquerda, estabelece um regime jurídico para proteger os animais de companhia contra maus-tratos no alojamento e na contenção, alterando o Decreto-Lei n.º 276/2001 e a Lei n.º 92/95. Proíbe o acorrentamento permanente, definido como fixação habitual ou superior a três horas diárias, e limita o temporário a casos excecionais de segurança com regras técnicas estritas. Veda ainda o alojamento habitual em varandas, marquises, garagens ou anexos precários, e fixa critérios mínimos para espaços exteriores. Adicionalmente, proíbe a comercialização, publicidade, inclusive em plataformas digitais, detenção e uso de dispositivos coercivos, como coleiras elétricas, de picos ou estranguladoras sem segurança. Cria também o Plano Nacional pelo Bem-Estar dos Animais de Companhia, com apoios a famílias vulneráveis, reconversão para treinadores, dever de comunicação para veterinários e coimas agravadas.",
+ "key_points": [
+  "Proíbe o acorrentamento permanente de animais de companhia, definido como fixação habitual ou superior a três horas por dia, impondo limites técnicos estritos ao acorrentamento temporário excecional.",
+  "Veda o alojamento habitual em varandas, marquises, garagens, arrecadações ou anexos improvisados, definindo requisitos mínimos de abrigo, espaço e socialização no exterior.",
+  "Proíbe a comercialização, publicidade, detenção e utilização de dispositivos coercivos, como coleiras elétricas, de picos, estranguladoras sem segurança e vedações elétricas, obrigando plataformas digitais a remover anúncios em 48 horas.",
+  "Cria o Plano Nacional pelo Bem-Estar dos Animais de Companhia, com apoios financeiros e materiais a detentores economicamente vulneráveis e formação financiada em reforço positivo para treinadores.",
+  "Obriga os médicos veterinários a comunicar infrações detetadas no prazo de 48 horas, protege os denunciantes e agrava as coimas para contraordenações graves e muito graves."
+ ],
+ "plain_language": "Esta proposta de lei acaba com a prática de manter cães, gatos e outros animais de companhia presos a correntes de forma habitual ou por mais de três horas por dia, bem como fechados em varandas, marquises ou garagens. Também proíbe o uso e a venda, em lojas ou na internet, de coleiras de choque, de picos ou estranguladoras que causem dor ou medo. Como muitas famílias não têm dinheiro para vedar quintais ou construir abrigos, a lei prevê apoios públicos municipais e um período de transição de um ano antes de aplicar multas, salvo em casos graves.",
+ "context": "O proponente argumenta que a lei atual, de 2001, usa expressões vagas como «espaço adequado», o que impede as autoridades de fiscalizar e gera impunidade perante o acorrentamento permanente e o alojamento precário. Cita estudos científicos sobre lesões físicas, agressividade e medo causados por correntes e coleiras aversivas, bem como o parecer contrário de associações veterinárias. Aponta ainda que vários países europeus e um acordo provisório da União Europeia já avançaram para proibições expressas, defendendo que estas devem ser acompanhadas de apoio social.",
+ "analysis": "A iniciativa tem o mérito de substituir conceitos jurídicos vagos por critérios objetivos e mensuráveis, facilitando a fiscalização, e de associar proibições a apoios sociais e prazos transitórios para evitar penalizar famílias carenciadas. Responsabilizar as plataformas digitais colmata também uma lacuna do comércio eletrónico. Contudo, apresenta fragilidades de execução: verificar o limite acumulado de três horas diárias de acorrentamento ou a permanência habitual em varandas exige recursos de inspeção difíceis de garantir. Além disso, obrigar veterinários a comunicar infrações sob ameaça de coima grave pode dissuadir detentores de procurar cuidados clínicos para animais feridos. A dependência de verbas anuais do Orçamento do Estado e a suspensão de sanções por falta de fundos arriscam criar desigualdades entre municípios. Nota-se ainda uma falha de numeração nas secções do texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria o Plano Nacional pelo Bem-Estar dos Animais de Companhia, financiado por dotação anual no Orçamento do Estado, para atribuir apoios financeiros e materiais a famílias vulneráveis, financiar a reconversão de treinadores e apoiar associações, autarquias e campanhas públicas. Embora preveja o agravamento de coimas, entre 500 euros e 89 783,62 euros consoante a gravidade e o agente, o impacto líquido esperado é de aumento de despesa pública, sem montantes globais quantificados no texto."
+ },
+ "affected": [
+  "detentores de animais de companhia",
+  "comerciantes e plataformas digitais",
+  "educadores e treinadores caninos",
+  "médicos veterinários",
+  "municípios e entidades fiscalizadoras"
+ ],
+ "categories": [
+  "animais",
+  "consumidores",
+  "justica"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "acorrentamento",
+  "coleiras coercivas",
+  "animais de companhia",
+  "contraordenações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

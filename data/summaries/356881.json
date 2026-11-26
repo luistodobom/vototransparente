@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço da fiscalização da Segurança Social nos centros distritais e regionais",
+ "summary": "O Projeto de Resolução n.º 1051/XVII/1.ª, apresentado pelo Chega, recomenda ao Governo o reforço dos mecanismos de controlo sobre as prestações atribuídas pela Segurança Social. Como projeto de resolução, não tem força de lei nem vincula o executivo, funcionando como uma recomendação política. Em concreto, a iniciativa propõe três linhas de atuação: reorganizar os serviços integrados de inspeção e fiscalização para garantir cobertura em todos os centros distritais e regionais; criar mecanismos mais eficazes para suspender, cessar e exigir a restituição de apoios em casos de incumprimento injustificado, falsas declarações ou ocultação de rendimentos e património; e reforçar o cruzamento de dados entre a Segurança Social, a Autoridade Tributária, a Agência para a Integração, Migrações e Asilo (AIMA), o Instituto do Emprego e Formação Profissional (IEFP) e outras entidades públicas, visando prevenir fraudes, omissões e duplicação de apoios.",
+ "key_points": [
+  "Recomenda ao Governo a reorganização orgânica e funcional dos serviços de inspeção e fiscalização da Segurança Social.",
+  "Prevê estruturas fiscalizadoras em todos os centros distritais e regionais para monitorizar prestações processadas e a processar.",
+  "Propõe mecanismos mais eficazes de suspensão, cessação e restituição de prestações em casos de incumprimento, falsas declarações ou ocultação de rendimentos e património.",
+  "Defende o reforço da fiscalização e do cruzamento de dados entre a Segurança Social, a Autoridade Tributária, a AIMA, o IEFP e outras entidades públicas para prevenir fraudes e duplicações."
+ ],
+ "plain_language": "Esta proposta é uma recomendação ao Governo, sem força de lei, para reforçar o controlo sobre os apoios da Segurança Social. O objetivo é assegurar equipas de inspeção em todos os distritos e regiões para vigiar os subsídios antes e depois de serem pagos. Pede também meios mais eficazes para suspender, cancelar e recuperar dinheiro quando haja falsas declarações, ocultação de bens ou incumprimento das regras. Por fim, sugere que a Segurança Social partilhe e cruze mais dados com as Finanças, o IEFP e a AIMA para evitar fraudes e apoios duplicados.",
+ "context": "O proponente argumenta que atribuir apoios sem controlo posterior favorece abusos e reduz os recursos disponíveis para quem realmente precisa. Na exposição de motivos, cita uma notícia segundo a qual a Segurança Social pagou indevidamente 760 milhões de euros em subsídios de desemprego, parentalidade e doença entre 2016 e 2024. Refere ainda o relatório anual da Provedora de Justiça, indicando que 25,7% das queixas recebidas respeitam à Segurança Social e que foi pedida uma revisão do sistema de produtos de apoio a pessoas com deficiência ou incapacidade.",
+ "analysis": "A iniciativa aborda um problema relevante de gestão pública, dado o volume de pagamentos indevidos citado, e aponta uma via prática através do cruzamento de informação entre entidades como a Autoridade Tributária, o IEFP e a AIMA. Contudo, apresenta fragilidades significativas. Por ser um projeto de resolução, não tem efeito vinculativo nem define metas de recursos humanos, prazos ou orçamento para criar núcleos em todos os centros distritais e regionais. Verifica-se também uma incongruência na fundamentação: o texto mistura casos de fraude de beneficiários com queixas à Provedora de Justiça motivadas por atrasos e falhas dos serviços na atribuição de pensões e produtos de apoio, problemas que uma maior fiscalização sobre utentes não resolve. Por fim, o alargamento da partilha de dados acarreta riscos legais de proteção de dados e exigências técnicas não detalhadas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Trata-se de uma recomendação não vinculativa sem quantificação de custos. A criação ou reorganização de estruturas de inspeção e sistemas de cruzamento de dados pode aumentar a despesa administrativa, mas a prevenção e recuperação de pagamentos indevidos visa reduzir gastos improdutivos (o documento refere 760 milhões de euros pagos indevidamente entre 2016 e 2024)."
+ },
+ "affected": [
+  "beneficiários de prestações sociais",
+  "trabalhadores dos serviços de inspeção da Segurança Social",
+  "centros distritais e regionais da Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "segurança social",
+  "fiscalização",
+  "prestações sociais",
+  "combate à fraude",
+  "cruzamento de dados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

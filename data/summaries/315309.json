@@ -1,0 +1,43 @@
+{
+ "short_title": "Criação do Conselho Nacional para o Bem-estar e Proteção Animal",
+ "summary": "O Projeto de Lei n.º 107/XVII/1, do LIVRE, cria o Conselho Nacional para o Bem-estar e Proteção Animal (CNBPA), uma entidade consultiva, independente e especializada a funcionar na Assembleia da República. O Conselho integra especialistas de mérito em domínios como saúde veterinária, comportamento animal, habitats e nutrição, bem como representantes obrigatórios de entidades governamentais, organizações não governamentais, sociedade civil, setor agropecuário e veterinário, centros de investigação e forças de segurança. Compete-lhe emitir pareceres sobre legislação e políticas públicas, formular recomendações sobre recursos públicos e investigação, promover a sensibilização pública e monitorizar animais em cativeiro e espetáculos, incluindo jardins zoológicos, circos e centros de reabilitação. O órgão apresenta um relatório anual ao Parlamento e aos ministérios do Ambiente e Energia e da Agricultura e Pescas. O Governo deve regulamentar a sua composição e funcionamento em 90 dias, sendo o financiamento assegurado pelo Orçamento da Assembleia da República.",
+ "key_points": [
+  "Cria o Conselho Nacional para o Bem-estar e Proteção Animal como órgão consultivo e independente no âmbito da Assembleia da República.",
+  "Reúne especialistas de mérito e representantes de entidades governamentais, ONG, sociedade civil, setor agropecuário e veterinário, investigação e forças de segurança.",
+  "Atribui ao Conselho competências para emitir pareceres sobre legislação e políticas públicas e recomendar a aplicação de recursos públicos e investigação.",
+  "Encarrega o órgão de monitorizar e emitir recomendações sobre animais em cativeiro e espetáculos, como jardins zoológicos, circos e centros de reabilitação.",
+  "Impõe a entrega de um relatório anual de atividades à Assembleia da República e aos ministérios do Ambiente e Energia e da Agricultura e Pescas.",
+  "Determina financiamento por dotação específica no Orçamento da Assembleia da República e regulamentação governamental no prazo de 90 dias."
+ ],
+ "plain_language": "Este projeto de lei propõe criar um novo conselho nacional dedicado à proteção e ao bem-estar dos animais, a funcionar junto da Assembleia da República. Em vez de aprovar leis diretamente, este órgão terá um papel consultivo: vai juntar veterinários, cientistas, associações de proteção animal, representantes do setor agropecuário, forças de segurança e entidades públicas para dar pareceres sobre leis e políticas. Caber-lhe-á também acompanhar o tratamento de animais em jardins zoológicos, circos e centros de reabilitação. O objetivo é reunir diferentes visões numa mesa comum e ajudar o Parlamento e o Governo a tomar decisões baseadas em evidência científica.",
+ "context": "O proponente sustenta que a proteção animal em Portugal sofre de dispersão de responsabilidades entre entidades, provocando lacunas na fiscalização, no cumprimento da lei e na articulação das políticas públicas. Apoia-se em relatórios da União Europeia, em sondagens do Eurobarómetro e num artigo científico da revista Science para demonstrar que o bem-estar animal raramente entra na formulação de políticas, apesar da expectativa dos cidadãos por maior proteção. Defende ainda a recuperação e ampliação da antiga Comissão de Ética e Acompanhamento de Parques Zoológicos para reforçar a monitorização de animais em cativeiro.",
+ "analysis": "A iniciativa procura responder à fragmentação institucional existente ao criar um fórum plural que reúne especialistas, Estado, associações e setor agropecuário, o que pode melhorar a base científica e a coerência das políticas de proteção animal. Contudo, o projeto apresenta fragilidades jurídicas e operacionais. Apesar de o Conselho funcionar na Assembleia da República e depender do orçamento parlamentar, o texto atribui ao Governo a regulamentação da sua composição e funcionamento, o que suscita dúvidas de articulação entre poderes. Faltam também regras sobre o número de membros, critérios de designação, eventual remuneração e articulação com entidades já existentes, ficando por concretizar no articulado a anunciada recuperação da Comissão de Ética dos Parques Zoológicos. Sendo consultivo, o seu impacto real dependerá da vontade política.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O projeto estabelece que a Assembleia da República assegura os encargos de funcionamento e o apoio técnico e administrativo do Conselho, através de dotação específica no seu orçamento anual. O documento não apresenta estimativas financeiras nem montantes previstos."
+ },
+ "affected": [
+  "entidades de proteção animal",
+  "setor agropecuário e veterinário",
+  "jardins zoológicos, circos e centros de reabilitação",
+  "administração pública e Assembleia da República"
+ ],
+ "categories": [
+  "animais",
+  "instituicoes",
+  "ambiente"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "conselho nacional",
+  "assembleia da republica",
+  "parques zoologicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

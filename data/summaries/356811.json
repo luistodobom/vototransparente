@@ -1,0 +1,45 @@
+{
+ "short_title": "Medidas de proteção e apoio para pessoas com fibromialgia",
+ "summary": "Este projeto de resolução recomenda ao Governo oito medidas para proteger e apoiar pessoas com fibromialgia nas áreas da saúde, trabalho, Segurança Social e educação. Na saúde, propõe incluir formalmente a doença na Lista de Doenças Crónicas da Direção-Geral da Saúde, elaborar uma norma clínica sobre diagnóstico, tratamento e incapacidade, divulgar informação nos serviços públicos e assegurar o acesso a cuidados primários e de especialidade. Nos planos laboral e social, recomenda rever as tabelas de incapacidades e funcionalidade, informar a Autoridade para as Condições do Trabalho, a Segurança Social e a medicina do trabalho, e promover a adaptação de horários e postos de trabalho pelas entidades empregadoras. Propõe ainda integrar a fibromialgia nas Necessidades de Saúde Especiais nas escolas. Tratando-se de uma recomendação ao Governo, esta iniciativa não é vinculativa.",
+ "key_points": [
+  "Incluir formalmente a fibromialgia na Lista de Doenças Crónicas da Direção-Geral da Saúde e elaborar uma norma de orientação clínica sobre diagnóstico, tratamento e avaliação de incapacidade.",
+  "Rever e atualizar a Tabela Nacional de Incapacidades e a Tabela Nacional de Funcionalidade para avaliar adequadamente as limitações laborais, escolares e sociais causadas pela doença.",
+  "Divulgar informação clínica sobre a fibromialgia no Serviço Nacional de Saúde e assegurar aos utentes o acesso a cuidados de saúde primários e de especialidade.",
+  "Informar a Autoridade para as Condições do Trabalho, os serviços da Segurança Social e os profissionais de medicina do trabalho sobre a doença.",
+  "Promover a adaptação dos postos e horários de trabalho pelas entidades empregadoras, incluindo redução horária e alargamento de pausas.",
+  "Integrar a fibromialgia nas Necessidades de Saúde Especiais para garantir suporte educativo a crianças e jovens ao abrigo do Decreto-Lei n.º 54/2018."
+ ],
+ "plain_language": "Esta proposta quer que o Parlamento peça ao Governo que melhore o apoio a quem sofre de fibromialgia, uma doença crónica que causa dores generalizadas e cansaço extremo. A ideia é garantir que a doença seja oficialmente reconhecida como crónica, que os médicos tenham regras claras para a diagnosticar e tratar, e que os utentes consigam consultas mais facilmente. Também sugere ajustar as regras que avaliam a incapacidade, permitir horários e pausas adaptadas no trabalho e garantir apoio específico a crianças e jovens nas escolas. Como é apenas uma recomendação, o Governo não é obrigado a cumprir estas medidas.",
+ "context": "O Bloco de Esquerda justifica a iniciativa com o impacto incapacitante da fibromialgia, que afeta entre 2% e cerca de 3,9% da população, sobretudo mulheres entre os 20 e os 50 anos. Apesar do reconhecimento internacional e de circulares antigas da Direção-Geral da Saúde, aponta desconhecimento clínico, atrasos no diagnóstico, encaminhamentos inadequados para psiquiatria e dificuldades de proteção laboral. Invoca duas petições entregues em 2024, com milhares de assinaturas, e critica o facto de uma resolução parlamentar semelhante de 2015 pouco ter avançado na prática.",
+ "analysis": "A proposta tem o mérito de responder a reivindicações concretas de associações de doentes, articulando respostas na saúde, no trabalho, na Segurança Social e no ensino. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não vincula o Governo, e a própria exposição de motivos reconhece que uma resolução semelhante de 2015 teve pouca ou nenhuma aplicação prática. Além disso, as recomendações são formuladas de forma genérica, sem prazos, metas ou mecanismos operacionais. Por exemplo, a adaptação de horários e postos de trabalho pelas entidades empregadoras exigiria alterações legais ou incentivos que não são detalhados. Nota-se ainda uma inconsistência interna: o texto cita o incumprimento de uma norma diagnóstica da Direção-Geral da Saúde de 2017, mas recomenda elaborar uma nova norma sem explicar o que falhou na anterior nem como se articulam.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, o projeto de resolução não gera despesa orçamental imediata nem apresenta estimativas de custos. Contudo, a eventual execução das medidas pelo Governo, nomeadamente no acesso a cuidados de especialidade, na revisão das tabelas de incapacidade com impacto na Segurança Social e no apoio escolar, poderá implicar aumento da despesa pública."
+ },
+ "affected": [
+  "pessoas com fibromialgia",
+  "profissionais de saúde do SNS",
+  "entidades empregadoras",
+  "crianças e jovens com fibromialgia em idade escolar",
+  "profissionais de medicina do trabalho e Segurança Social"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "educacao"
+ ],
+ "tags": [
+  "fibromialgia",
+  "doenças crónicas",
+  "incapacidade",
+  "serviço nacional de saúde",
+  "adaptação laboral"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

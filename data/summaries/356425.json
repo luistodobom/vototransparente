@@ -1,0 +1,43 @@
+{
+ "short_title": "Limite às margens de lucro nos fertilizantes agrícolas",
+ "summary": "O Projeto de Resolução n.º 750/XVII/1.ª, apresentado pelo grupo parlamentar do LIVRE, recomenda ao Governo um conjunto de medidas para travar a subida dos custos dos fertilizantes agrícolas. Sendo um projeto de resolução, trata-se de uma recomendação não vinculativa. Em concreto, a iniciativa propõe que o Executivo avalie, aprove e adote, com carácter urgente e temporário, um limite máximo às margens de lucro aplicável aos principais fertilizantes usados na agricultura. Recomenda ainda que a Autoridade de Segurança Alimentar e Económica (ASAE) intensifique as ações inspetivas em toda a cadeia de comercialização, desde a produção e importação até aos grossistas e retalhistas, para detetar e combater a especulação de preços e o incumprimento de margens. Por fim, pede a criação de uma linha de apoio específica para compensar os agricultores pelo aumento dos custos com fertilizantes, energia e alimentação animal, prevendo bonificações para pequenas e médias explorações.",
+ "key_points": [
+  "Adoção urgente e temporária de um limite máximo para as margens de lucro na comercialização dos principais fertilizantes agrícolas.",
+  "Reforço da fiscalização pela Autoridade de Segurança Alimentar e Económica (ASAE) junto de produtores, importadores, grossistas e retalhistas.",
+  "Combate a práticas de especulação de preços e verificação do cumprimento dos eventuais limites às margens de lucro.",
+  "Criação de uma linha de apoio financeiro para compensar agricultores pela subida de custos com fertilizantes, energia e alimentação animal.",
+  "Atribuição de bonificações específicas às pequenas e médias explorações agrícolas no âmbito dessa linha de apoio."
+ ],
+ "plain_language": "Os adubos e fertilizantes estão muito mais caros, o que encarece a produção agrícola e faz subir os preços da comida nos supermercados. Com esta proposta, o LIVRE sugere ao Governo que limite temporariamente o lucro que as empresas podem ter ao vender fertilizantes essenciais. Pede também mais inspeções da ASAE para evitar preços abusivos e a criação de um apoio financeiro para ajudar os agricultores, sobretudo os mais pequenos, a pagar as contas da energia, dos fertilizantes e da ração animal. Como é apenas uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O LIVRE aponta que a guerra no Irão e as perturbações no Estreito de Ormuz, por onde passa entre 25% e 35% do comércio mundial de fertilizantes, estão a provocar um choque nos custos agrícolas. Soma-se o mau tempo recente e a subida da energia, levando o cabaz alimentar a um máximo de 254 euros. Como Portugal importou 342 milhões de euros em adubos em 2025, o partido defende uma intervenção temporária semelhante ao limite de 15% nas margens de lucro aplicado durante a pandemia de COVID-19.",
+ "analysis": "A iniciativa procura responder com rapidez a um problema concreto de pressão de custos na agricultura e nos bens alimentares, apoiando-se num precedente legal usado em Portugal durante a pandemia e combinando regulação de mercado com fiscalização e apoios diretos às pequenas explorações. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não vincula o Governo nem garante aplicação imediata. O texto também não define qual a percentagem máxima de lucro recomendada, a duração do regime nem a dotação da linha de apoio. Além disso, como os fertilizantes são maioritariamente importados, limitar margens internas não reduz o preço na origem e pode gerar riscos de escassez de oferta se os operadores reduzirem importações. Por fim, apesar de o preâmbulo defender incentivos à produção sustentável, essa medida desaparece das recomendações finais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem efeito orçamental direto ou vinculativo. Contudo, caso o Governo adote as medidas propostas, a criação de uma linha de apoio financeiro aos agricultores e o reforço das ações inspetivas da ASAE implicarão um aumento da despesa pública, cujo montante não é quantificado no documento."
+ },
+ "affected": [
+  "agricultores",
+  "pequenas e médias explorações agrícolas",
+  "importadores e retalhistas de fertilizantes",
+  "consumidores"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "fertilizantes",
+  "margens de lucro",
+  "preços alimentares",
+  "apoio agrícola",
+  "asae"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

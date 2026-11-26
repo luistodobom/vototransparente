@@ -1,0 +1,45 @@
+{
+ "short_title": "Fim dos veículos de tração animal e reconversão elétrica",
+ "summary": "O Projeto de Lei n.º 521/XVII/1.ª visa proibir a utilização de animais para a tração de veículos destinados ao transporte de pessoas ou bens, abrangendo charretes turísticas, carroças, atrelados e transporte pessoal ou agrícola. A proibição entra em vigor dois anos após o início da vigência da lei, cessando de imediato a emissão de novas licenças e sendo indeferidos os pedidos pendentes. Durante o período transitório, impõe-se o registo obrigatório e a identificação por microchip dos animais, a criação de um Cadastro Nacional gerido pela Direção-Geral de Alimentação e Veterinária com as autarquias, e limites de circulação sob condições meteorológicas adversas. O diploma obriga ainda o Governo a criar incentivos financeiros para a substituição por veículos elétricos, programas de reconversão profissional através do IEFP e centros de acolhimento para animais de grande porte entregues ou apreendidos, prevendo coimas entre 500 e 50 000 euros por incumprimento.",
+ "key_points": [
+  "Proíbe a utilização de veículos de tração animal para transporte de pessoas ou bens, com um período transitório de dois anos.",
+  "Suspende de imediato novas autorizações para veículos de tração animal e determina o indeferimento dos requerimentos pendentes.",
+  "Obriga ao registo, identificação por microchip e inspeção dos animais e veículos, criando um Cadastro Nacional gerido pela Direção-Geral de Alimentação e Veterinária e pelas autarquias.",
+  "Impede a circulação em condições meteorológicas adversas, como calor extremo, vento forte ou chuva intensa, durante o período transitório.",
+  "Determina a criação de apoios financeiros para substituir veículos por alternativas elétricas e medidas de formação profissional pelo Instituto do Emprego e da Formação Profissional.",
+  "Prevê a abertura ou adaptação de centros de recolha para animais de grande porte e coimas até 50 000 euros por infrações."
+ ],
+ "plain_language": "Esta proposta do PAN quer acabar em Portugal com o uso de animais, como cavalos ou burros, para puxar charretes turísticas, carroças ou atrelados. Dá um prazo de dois anos para a mudança acontecer. Enquanto esse prazo decorre, os donos têm de registar todos os animais, não podem obter novas licenças e ficam proibidos de circular com mau tempo ou calor extremo. Para ajudar quem vive desta atividade, o Estado terá de criar apoios financeiros para comprar veículos elétricos e cursos de formação profissional. Se os donos não conseguirem cuidar dos animais depois da mudança, o Governo terá de garantir espaços para os acolher.",
+ "context": "O PAN justifica a iniciativa com preocupações de bem-estar animal e segurança rodoviária. Na exposição de motivos, aponta casos de exaustão, desidratação sob vagas de calor, maus-tratos, abandono e abate clandestino de animais usados em charretes e carroças, bem como o risco de acidentes em estradas movimentadas por falta de homologação, seguro ou formação dos condutores. Invoca ainda o estatuto jurídico dos animais como seres sencientes no Código Civil e exemplos de transição para veículos elétricos em cidades como Bruxelas, Málaga, Palma de Maiorca e municípios brasileiros.",
+ "analysis": "Como ponto positivo, o projeto procura conjugar a proteção animal com uma transição gradual de dois anos e mecanismos de apoio financeiro e formativo para trabalhadores economicamente vulneráveis. Contudo, apresenta fragilidades relevantes. Primeiro, impõe uma proibição total sem distinguir entre charretes turísticas urbanas e usos rurais ou agrícolas, para os quais um veículo elétrico pode não ser tecnicamente viável. Segundo, cria encargos expressivos para o Estado — subsídios, centros de acolhimento para animais de grande porte e reforço de fiscalização pela DGAV, forças de segurança e autarquias — sem estimar custos nem definir fontes de financiamento. Terceiro, o articulado contém erros de numeração interna nos artigos 3.º e 9.º e remete aspetos essenciais para portarias futuras com prazos distintos de 90 e 180 dias, gerando incerteza operacional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa cria uma linha de incentivos financeiros à reconversão para veículos elétricos, obriga à abertura ou adaptação de centros de recolha para animais de grande porte e prevê ações de formação, campanhas e reforço de meios de fiscalização, sem quantificar os encargos orçamentais. Prevê a entrada em vigor apenas com o Orçamento do Estado subsequente e estabelece coimas entre 500 euros e 50 000 euros por incumprimento."
+ },
+ "affected": [
+  "proprietários e condutores de veículos de tração animal",
+  "operadores de charretes turísticas",
+  "trabalhadores agrícolas que usam tração animal",
+  "autarquias locais e forças de fiscalização",
+  "animais utilizados na tração de veículos"
+ ],
+ "categories": [
+  "animais",
+  "transportes",
+  "trabalho"
+ ],
+ "tags": [
+  "tração animal",
+  "veículos elétricos",
+  "bem-estar animal",
+  "charretes",
+  "reconversão profissional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

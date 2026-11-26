@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da responsabilização das plataformas digitais perante utilizadores",
+ "summary": "O Projeto de Resolução n.º 1128/XVII/1.ª, apresentado pelo JPP, recomenda ao Governo, de forma não vinculativa, que reforce a responsabilização das plataformas digitais na prevenção, deteção e correção de práticas lesivas dos direitos dos utilizadores. A iniciativa propõe avaliar a aplicação prática em Portugal do Regulamento dos Serviços Digitais da União Europeia e da Lei n.º 12-A/2026, promovendo medidas adicionais se necessário. Recomenda ainda consagrar uma responsabilidade ativa das plataformas para que atuem perante fraudes, perfis falsos ou bloqueios injustificados sem dependerem apenas de denúncias. Exige também maior transparência sobre algoritmos de recomendação e moderação, mecanismos efetivos de contestação e revisão humana de decisões relevantes, bem como o reforço da fiscalização e da recolha de dados públicos sobre o desempenho das plataformas.",
+ "key_points": [
+  "Avaliar a aplicação prática do Regulamento dos Serviços Digitais e da Lei n.º 12-A/2026 em Portugal, avançando com novas medidas legislativas ou administrativas se necessário.",
+  "Reforçar a responsabilidade ativa das plataformas digitais para prevenir, detetar e corrigir fraudes, perfis falsos, publicidade enganosa e bloqueios injustificados sem esperar por denúncias.",
+  "Aumentar a transparência dos sistemas algorítmicos de recomendação, ordenação, publicidade direcionada e moderação automática, informando os utilizadores sobre os respetivos critérios.",
+  "Garantir mecanismos eficazes de fundamentação, contestação e revisão humana para decisões de remoção de conteúdos, suspensão de contas ou desmonetização.",
+  "Intensificar a fiscalização, a cooperação entre autoridades competentes e a divulgação de dados públicos sobre denúncias, tempos de resposta, fraudes e decisões revertidas."
+ ],
+ "plain_language": "Este projeto pede ao Governo que exija mais responsabilidade às redes sociais, sites de compras e outras plataformas digitais em Portugal. Hoje, quando há burlas, contas falsas ou bloqueios injustos, o utilizador tem de ser ele a detetar o problema, reclamar e insistir por resposta. Embora seja apenas uma recomendação sem força de lei, a proposta sugere que o Governo leve as plataformas a agir por iniciativa própria, a explicar os critérios dos algoritmos que ordenam o que vemos e a garantir revisão humana quando encerram contas ou removem conteúdos.",
+ "context": "O JPP argumenta que as plataformas digitais assumiram um papel central no quotidiano, mas expõem os utilizadores a fraudes, perfis falsos, publicidade enganosa, assédio digital e decisões automatizadas opacas. Segundo o proponente, apesar de já existirem o Regulamento dos Serviços Digitais e a Lei n.º 12-A/2026, a proteção depende em excesso da iniciativa individual para denunciar e contestar. Como as plataformas lucram com algoritmos que moldam o consumo e a opinião pública, devem responder ativamente pelos riscos que criam.",
+ "analysis": "A iniciativa aborda problemas concretos e atuais, como a opacidade algorítmica, a moderação automatizada sem revisão humana e o desequilíbrio entre plataformas e utilizadores individuais. É também positivo o pedido de dados públicos sobre tempos de resposta e decisões revertidas, essencial para escrutinar a aplicação da lei. Contudo, trata-se de um Projeto de Resolução não vinculativo e formulado em termos genéricos, sem prazos, metas ou alterações concretas à Lei n.º 12-A/2026. Na implementação, persiste uma tensão delicada: embora o texto ressalve a inexistência de uma obrigação geral de monitorização no regime europeu, exigir prevenção e deteção ativas sem resvalar para vigilância indiscriminada carece de concretização. Ademais, o reforço da fiscalização implica meios que não são especificados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um Projeto de Resolução não vinculativo, não gera despesa nem receita direta imediata e não apresenta estimativas orçamentais. Contudo, caso o Governo adote as recomendações de reforço da fiscalização, cooperação institucional e recolha pública de dados, tal poderá implicar custos administrativos adicionais para as autoridades competentes."
+ },
+ "affected": [
+  "utilizadores de plataformas digitais",
+  "plataformas digitais e serviços de intermediação",
+  "consumidores",
+  "autoridades reguladoras e de fiscalização"
+ ],
+ "categories": [
+  "ciencia",
+  "consumidores",
+  "direitos"
+ ],
+ "tags": [
+  "plataformas digitais",
+  "algoritmos",
+  "direitos dos utilizadores",
+  "serviços digitais",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

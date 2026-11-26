@@ -1,0 +1,44 @@
+{
+ "short_title": "Criação da Prestação de Coesão Social",
+ "summary": "O Projeto de Lei cria a Prestação de Coesão Social, um apoio mensal financiado pelo Orçamento do Estado e gerido pela Segurança Social, com início previsto a 1 de janeiro de 2027. A iniciativa unifica seis prestações não contributivas: rendimento social de inserção, subsídios sociais de parentalidade, pensão social de velhice, pensão social de invalidez, complemento extraordinário de solidariedade e subsídio social de desemprego. O apoio abrange residentes maiores de 18 anos com rendimentos inferiores ao montante de referência individual, fixado inicialmente em pelo menos 60% do limiar de risco de pobreza e com subida gradual até 100% até 2030. O texto proíbe exigir trabalho não remunerado, prevê acréscimos para famílias monoparentais, pessoas com incapacidade e cuidadores informais, e protege parte dos salários durante 12 meses após o regresso ao emprego. Determina também que as pensões mínimas contributivas convirjam para o limiar de pobreza até 2030.",
+ "key_points": [
+  "Integra e substitui o rendimento social de inserção, pensões sociais de velhice e invalidez, complemento extraordinário de solidariedade, subsídios sociais de parentalidade e subsídio social de desemprego numa prestação única.",
+  "Fixa um montante de referência individual não inferior a 60% do limiar de risco de pobreza, com convergência anual mínima de 8 pontos percentuais até atingir 100% até 31 de dezembro de 2030.",
+  "Proíbe condicionar a atribuição ou manutenção da prestação à realização de atividades de solidariedade, trabalho comunitário ou qualquer trabalho não remunerado.",
+  "Cria um incentivo ao emprego que exclui entre 80% e 20% dos rendimentos de trabalho do cálculo da prestação durante os primeiros 12 meses de atividade.",
+  "Aplica majorações cumulativas para famílias monoparentais (25%), titulares com incapacidade igual ou superior a 60% (15%) e cuidadores informais principais (15%), além de ponderações por membro do agregado.",
+  "Determina que os valores mínimos garantidos das pensões contributivas de velhice e invalidez convirjam progressivamente para 100% do limiar de risco de pobreza até 2030, a partir de pelo menos 65%."
+ ],
+ "plain_language": "Em vez de seis apoios sociais diferentes, este projeto junta-os numa só prestação mensal para garantir um rendimento mínimo digno. O valor base começa em pelo menos 60% do limiar oficial da pobreza e sobe todos os anos até atingir 100% em 2030, aumentando consoante o tamanho da família ou casos de deficiência e monoparentalidade. Quem arranjar emprego mantém parte do apoio durante o primeiro ano, e ninguém pode ser obrigado a fazer trabalho não remunerado para o receber. A lei também determina que as pensões mínimas contributivas subam gradualmente até ao limiar da pobreza.",
+ "context": "O proponente salienta que, em 2024, 15,4% da população vivia abaixo do limiar de pobreza, afetando crianças, idosos e trabalhadores pobres, num total de 1,66 milhões de pessoas em risco de pobreza ou exclusão. Critica a fragmentação e o baixo valor de apoios como o rendimento social de inserção (média de 155 euros/mês em 2025). O projeto apresenta-se ainda como alternativa à Proposta de Lei n.º 85/XVII/1.ª do Governo, no âmbito do Plano de Recuperação e Resiliência, criticada por não fixar valores na lei, exigir trabalho não remunerado e aplicar sanções a todo o agregado.",
+ "analysis": "A proposta tem o mérito de simplificar seis prestações dispersas, definir critérios objetivos indexados ao limiar oficial de pobreza, garantir salvaguarda transitória até 24 meses e suavizar a transição para o emprego. Contudo, apresenta fragilidades relevantes. Omite qualquer estimativa de impacto orçamental, apesar de aumentar significativamente a despesa até 2030, incluindo nas pensões mínimas contributivas (artigo 18.º), inseridas sem ligação direta ao subsistema de solidariedade nem fonte de financiamento. Além disso, integrar subsídios de parentalidade e desemprego num rendimento mínimo contínuo gera incongruências, excluindo menores de 18 anos e residentes extracomunitários há menos de um ano. Por fim, prazos curtos para decidir requerimentos (20 dias) e notificar todos os atuais beneficiários (90 dias) comportam riscos operacionais para a Segurança Social.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A convergência progressiva da prestação para 100% do limiar de pobreza (723 euros mensais em 2024) até 2030, as majorações acumuláveis e a subida das pensões mínimas contributivas aumentam a despesa do Orçamento do Estado. O documento não apresenta estimativas do custo orçamental global da medida."
+ },
+ "affected": [
+  "beneficiários de prestações não contributivas",
+  "pessoas em risco de pobreza",
+  "pensionistas com pensões mínimas",
+  "desempregados sem subsídio contributivo",
+  "famílias monoparentais e cuidadores informais"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "prestação de coesão social",
+  "segurança social",
+  "combate à pobreza",
+  "rendimento mínimo",
+  "pensões mínimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

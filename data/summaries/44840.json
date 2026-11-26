@@ -1,0 +1,25 @@
+{
+ "short_title": "Moratória IMI para senhorios com perdas de rendimentos",
+ "summary": "Esta proposta de resolução visa recomendar ao Governo a implementação de uma moratória no pagamento do Imposto Municipal sobre Imóveis (IMI) para senhorios. A moratória aplicar-se-ia a proprietários que, devido ao não pagamento de rendas pelos seus inquilinos (ao abrigo da Lei n.º 4-C/2020, de 6 de abril, relacionada com a pandemia COVID-19), tenham sofrido uma quebra de rendimentos superior a 20%. Adicionalmente, a proposta sugere que estes senhorios tenham a possibilidade de fracionar o pagamento do IMI em 12 prestações, sem juros ou coimas.",
+ "key_points": [],
+ "plain_language": "Basicamente, durante a pandemia, o governo deixou os inquilinos que perderam mais de 20% do seu dinheiro sem pagar rendas. Mas muitos donos de casas, que também perderam dinheiro porque os inquilinos não pagaram, ficaram numa situação difícil, porque os apoios para eles eram muito complicados de conseguir. Esta proposta é para que esses senhorios, que perderam mais de 20% dos seus rendimentos por causa das rendas não pagas, possam atrasar o pagamento do IMI (o imposto da casa) e pagá-lo em 12 vezes, sem multas nem juros. É uma forma de ajudar os senhorios a aguentar as despesas, já que os inquilinos foram protegidos.",
+ "context": null,
+ "analysis": "A proposta surge como uma tentativa de equilibrar as medidas de apoio aos arrendatários durante a pandemia com as dificuldades enfrentadas pelos senhorios. O documento aponta uma inconsistência no regime existente, onde os inquilinos podiam suspender o pagamento de rendas, mas o apoio governamental aos senhorios era limitado e de difícil acesso. A iniciativa alinha-se com o objetivo de mitigar as dificuldades financeiras dos proprietários, que, apesar das perdas de rendimentos, continuam a assegurar a função social do direito à habitação. Ao propor uma moratória e o fracionamento do IMI, a proposta oferece uma solução de compromisso que visa garantir alguma justiça e aliviar a pressão financeira sobre os senhorios afetados, sem isentar totalmente o imposto, mas sim diferindo-o e facilitando o seu pagamento.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, se implementada, resultaria numa diminuição temporária da receita do governo proveniente do IMI, uma vez que o pagamento seria diferido. No entanto, como se trata de uma moratória e não de uma isenção total, a receita seria apenas adiada, não perdida permanentemente. A possibilidade de fracionamento sem juros ou coimas pode, a longo prazo, ajudar a garantir que o imposto seja pago, evitando incumprimentos totais que poderiam levar a custos de cobrança ou perdas maiores. O efeito líquido seria uma diminuição da receita a curto prazo, mas com a expectativa de recuperação a médio prazo, e potencialmente a prevenção de situações de insolvência para alguns senhorios, o que poderia ter impactos negativos mais amplos na economia."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

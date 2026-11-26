@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforço e simplificação das Comunidades de Energia Renovável",
+ "summary": "O Projeto de Lei do LIVRE altera o regime do Sistema Elétrico Nacional (Decreto-Lei n.º 15/2022) para alargar limites técnicos, prazos e regras de participação no autoconsumo e nas Comunidades de Energia Renovável (CER). Aumenta de 1 para 5 megawatts (MW) o limite de potência para procedimentos mais simples na produção renovável, autoconsumo e armazenamento, e eleva de 30 para 100 quilowatts (kW) o limiar de registo prévio. Substitui o termo de responsabilidade de técnico habilitado por uma declaração eletrónica de compromisso de honra na entrada em funcionamento. Expande as distâncias geográficas permitidas no autoconsumo coletivo, permite aprovação de projetos em condomínios por maioria relativa e reduz de quatro para dois meses o prazo para instalação de contadores pelo operador de rede. Exige propriedade exclusiva pela CER, alarga as suas atividades e elimina limites geográficos nas Comunidades de Cidadãos para a Energia.",
+ "key_points": [
+  "Alarga os patamares de potência instalada para regimes simplificados, passando de 1 para 5 MW o limite geral e de 30 para 100 kW o teto do registo prévio no autoconsumo.",
+  "Substitui o termo de responsabilidade assinado por técnico habilitado por uma declaração eletrónica sobre compromisso de honra do interessado ao iniciar o funcionamento da instalação.",
+  "Aumenta a distância permitida entre produção e consumo em baixa tensão de 2 para 4 km, ou 8 km em zonas urbanas, e reduz de quatro para dois meses o prazo de instalação de contadores.",
+  "Passa a permitir que condomínios aprovem a instalação e o financiamento de sistemas de autoconsumo coletivo por maioria relativa em deliberação conjunta.",
+  "Impõe que os projetos das Comunidades de Energia Renovável sejam detidos e desenvolvidos exclusivamente pela própria comunidade, excluindo terceiros, e cria nelas o papel de Balcão Único.",
+  "Elimina restrições de proximidade geográfica nas Comunidades de Cidadãos para a Energia e obriga ao mapeamento das comunidades existentes e à inclusão de dados sobre autoconsumo individual nos relatórios bianuais."
+ ],
+ "plain_language": "Este projeto quer facilitar a produção de eletricidade solar por famílias, condomínios e comunidades locais. Atualmente, existem limites de potência, distâncias curtas entre os painéis e as casas e exigências burocráticas que atrasam estes projetos. A proposta aumenta a potência permitida sem licenças complexas, reduz para metade o tempo de espera pela instalação de contadores e deixa que os condomínios aprovem painéis solares por maioria relativa. Além disso, permite que vizinhos mais afastados partilhem energia na mesma comunidade e dispensa a assinatura de um técnico no arranque da instalação, bastando uma declaração do próprio interessado.",
+ "context": "O proponente argumenta que as Comunidades de Energia Renovável permitem produzir energia local, limpa e com menores perdas na rede, mas enfrentam barreiras burocráticas e limites geográficos restritivos. Sustenta que Portugal tem condições para liderar a transição energética na União Europeia e cumprir metas de descarbonização e da Agenda 2030. Invoca ainda o contexto geopolítico atual para defender a descentralização e maior autonomia e resiliência do sistema elétrico nacional, facilitando o autoconsumo familiar e o alargamento da participação cidadã.",
+ "analysis": "A iniciativa procura reduzir entraves administrativos ao autoconsumo e aumentar a escala das comunidades energéticas, clarificando ainda o controlo pelos cidadãos nas Comunidades de Cidadãos para a Energia. Contudo, apresenta fragilidades jurídicas e riscos técnicos relevantes. No artigo 83.º, cria uma contradição direta ao exigir a ligação à mesma subestação e, na mesma frase, dispensá-la. A substituição do termo de responsabilidade de técnico habilitado por uma autodeclaração de honra reduz custos, mas fragiliza a segurança elétrica das instalações. Além disso, proibir terceiros de desenvolver projetos em benefício das comunidades pode dificultar o financiamento e a capacitação técnica, contrariando o objetivo de facilitar a sua criação. Por fim, o texto não avalia a capacidade da rede para absorver potências maiores nem a exequibilidade dos prazos mais curtos pelos operadores.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta valores financeiros nem previsões orçamentais. Atribui novas tarefas de mapeamento e reporte à Direção-Geral de Energia e Geologia (DGEG) e à ADENE, cujo impacto administrativo nas contas públicas não é quantificado, enquanto os custos dos prazos reduzidos recaem sobre os operadores de rede ou sobre os interessados em pedidos urgentes."
+ },
+ "affected": [
+  "consumidores e autoconsumidores de energia",
+  "comunidades de energia renovável",
+  "condomínios",
+  "operadores de rede elétrica",
+  "pequenas e médias empresas"
+ ],
+ "categories": [
+  "energia",
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "autoconsumo",
+  "energia renovável",
+  "comunidades de energia",
+  "condomínios",
+  "rede elétrica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

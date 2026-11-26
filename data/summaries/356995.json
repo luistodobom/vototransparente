@@ -1,0 +1,44 @@
+{
+ "short_title": "Criação do Registo Nacional de Condenados por Maus-Tratos a Animais",
+ "summary": "O Projeto de Lei propõe a criação do Registo Nacional de Condenados por Maus-Tratos a Animais (RNCMA), administrado pelos serviços de identificação criminal da Direção-Geral da Administração da Justiça. O registo abrange cidadãos portugueses e estrangeiros residentes condenados, com decisão transitada em julgado, pelos crimes de morte, maus-tratos ou abandono de animais de companhia (artigos 387.º e 388.º do Código Penal), bem como pessoas condenadas por contraordenações previstas na Lei n.º 92/95. As condenações penais permanecem inscritas por 10 anos e as contraordenações por 5 anos. Qualquer pessoa poderá consultar eletronicamente a plataforma para saber se existe um impedimento ativo, sem acesso a dados sensíveis como morada exata ou número fiscal. O acesso integral aos dados é reservado a autoridades, municípios, centros de recolha, associações e vendedores de animais.",
+ "key_points": [
+  "Cria o Registo Nacional de Condenados por Maus-Tratos a Animais (RNCMA), gerido pela Direção-Geral da Administração da Justiça.",
+  "Inscreve condenações definitivas pelos crimes dos artigos 387.º e 388.º do Código Penal e por contraordenações da Lei n.º 92/95.",
+  "Mantém os dados no registo durante 10 anos no caso de crimes e 5 anos no caso de contraordenações.",
+  "Permite a qualquer cidadão verificar eletronicamente se existe um impedimento ativo, ocultando dados pessoais sensíveis.",
+  "Reserva o acesso integral à informação a autoridades, municípios, associações de proteção animal, canis e estabelecimentos de venda ou cedência."
+ ],
+ "plain_language": "Esta proposta cria uma base de dados nacional para registar quem tenha sido condenado em definitivo por abandonar, maltratar ou matar animais. O objetivo é dificultar que essas pessoas voltem a adotar ou comprar animais. Qualquer pessoa poderá aceder a uma plataforma online para confirmar se alguém tem algum impedimento ativo, sem ver dados privados como a morada exata ou a data de nascimento. Já as lojas de animais, canis, associações, municípios e autoridades terão acesso completo ao registo. As condenações por crime ficam registadas durante 10 anos e as contraordenações durante 5 anos.",
+ "context": "O grupo parlamentar do Chega argumenta que, apesar do reforço da lei penal, persistem centenas de casos anuais de abandono e crueldade contra animais em Portugal. Segundo os proponentes, a pena acessória de privação do direito de deter animais de companhia, prevista até ao máximo de 6 anos, falha na prática por falta de fiscalização e de um meio fiável para entidades públicas e privadas confirmarem a idoneidade de potenciais adotantes ou compradores.",
+ "analysis": "A iniciativa responde a uma lacuna real de fiscalização na verificação de impedimentos para deter animais, mas apresenta fragilidades graves de técnica legislativa e riscos jurídicos. O artigo 1.º anuncia alterações ao Código Penal e à Lei n.º 92/95 que não constam do articulado, o texto omite o artigo 13.º e o artigo 7.º remete para uma alínea inexistente. A entrada em vigor em 60 dias precede ainda os 90 dias dados ao Governo para regulamentação. Mais relevante, o projeto equipara qualquer inscrição (por 5 ou 10 anos) a um «impedimento» consultável por qualquer cidadão, mesmo sem pena acessória judicial de proibição (cujo máximo legal é 6 anos) e abrangendo contraordenações, levantando dúvidas de proporcionalidade e proteção de dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O documento não apresenta qualquer estimativa de custos. Contudo, a criação e manutenção de uma nova plataforma eletrónica e base de dados pela Direção-Geral da Administração da Justiça, bem como a articulação com tribunais, municípios e Direção-Geral de Alimentação e Veterinária, implicarão encargos operacionais e financeiros para o Estado."
+ },
+ "affected": [
+  "pessoas condenadas por maus-tratos a animais",
+  "associações e centros de recolha animal",
+  "estabelecimentos de venda de animais",
+  "serviços de identificação criminal (DGAJ) e tribunais",
+  "municípios e autoridades de fiscalização"
+ ],
+ "categories": [
+  "animais",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "maus-tratos a animais",
+  "registo nacional",
+  "código penal",
+  "proteção de dados",
+  "adoção de animais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

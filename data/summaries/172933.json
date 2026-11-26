@@ -1,0 +1,26 @@
+{
+ "short_title": "Proteção de trabalhadores do calor extremo",
+ "summary": "Esta proposta visa adaptar a legislação laboral portuguesa para proteger os trabalhadores dos efeitos dos fenómenos climáticos extremos, especialmente as altas temperaturas. O objetivo é prevenir acidentes de trabalho e doenças profissionais, limitando a prestação de trabalho ao ar livre quando as temperaturas atingirem ou excederem os 35ºC por mais de duas horas, com exceções para atividades de resgate e salvamento. A iniciativa surge em resposta ao aumento de ondas de calor e mortes relacionadas, inspirando-se em medidas semelhantes adotadas em Espanha e no Reino Unido.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta quer mudar as regras do trabalho em Portugal para proteger as pessoas que trabalham na rua do calorão. A ideia é que, se estiver muito quente (tipo 35 graus ou mais) por mais de duas horas, não se possa trabalhar lá fora. Isto é para evitar que as pessoas fiquem doentes ou tenham acidentes por causa do calor, já que temos tido muitas ondas de calor e a nossa lei ainda não tem nada específico para isto, ao contrário do que já se faz em Espanha ou no Reino Unido. Só os bombeiros e pessoal de emergência é que teriam regras especiais.",
+ "context": null,
+ "analysis": "O documento identifica de forma clara uma lacuna na legislação laboral portuguesa, que, apesar de ter princípios gerais de segurança e saúde no trabalho, não possui disposições específicas para o trabalho em condições de calor extremo ao ar livre. A justificação é robusta, apresentando dados sobre mortalidade em Portugal e exemplos de legislação e incidentes noutros países (Espanha e Reino Unido), o que reforça a necessidade da medida. A proposta de alteração do Código do Trabalho e da Lei da Promoção da Segurança e Saúde no Trabalho é direta e alinha-se perfeitamente com o objetivo de preencher essa lacuna. A inclusão de uma exceção para profissionais de resgate e salvamento demonstra uma consideração prática e necessária, garantindo que serviços essenciais não sejam indevidamente impedidos. A implementação de um limite de temperatura e duração específicos (35ºC por mais de duas horas) oferece clareza e um critério objetivo para a aplicação da lei.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento não detalha explicitamente o impacto fiscal da proposta. No entanto, ao limitar o trabalho em condições de calor extremo, pode haver uma diminuição temporária da produtividade em setores que dependem fortemente de mão de obra ao ar livre, como a construção, agricultura e higiene urbana, durante as ondas de calor. Isso poderia, em teoria, levar a uma ligeira redução na receita do governo proveniente de impostos sobre a atividade económica. Por outro lado, a prevenção de acidentes de trabalho e doenças profissionais relacionadas com o calor pode resultar numa diminuição dos custos de saúde a longo prazo para o sistema nacional de saúde, o que representaria uma poupança para o governo. O efeito líquido é difícil de quantificar sem dados mais específicos, mas a proposta não parece implicar um aumento direto significativo nas despesas governamentais, focando-se mais na regulação das condições de trabalho."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "short_title": "Apoio e incentivo à natalidade em Portugal",
+ "summary": "A proposta do PCP aborda a preocupante diminuição da natalidade e o envelhecimento da população em Portugal, identificando as causas em fatores socioeconómicos como a precariedade laboral, baixos salários, falta de acesso a serviços públicos (creches, saúde, educação) e habitação digna. Para reverter esta tendência, o partido recomenda ao Governo a adoção de um conjunto de medidas transversais e integradas que visam melhorar as condições de vida das famílias, permitindo-lhes ter mais filhos sem constrangimentos económicos ou sociais.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PCP está a dizer que em Portugal nascem poucos bebés e a população está a envelhecer, o que é um problema grave. Eles acham que isto acontece porque as pessoas não têm empregos estáveis, ganham pouco, e é difícil ter acesso a creches, médicos e casas a preços justos. Para mudar isto, propõem que o governo ajude as famílias a ter mais filhos, aumentando os salários, garantindo empregos seguros, mais creches e escolas públicas, melhores cuidados de saúde e habitação mais barata. A ideia é que, com mais segurança e apoio, as pessoas se sintam à vontade para aumentar a família.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise coerente e bem estruturada do problema da baixa natalidade em Portugal, ligando-o diretamente a fatores socioeconómicos e à falta de apoio estatal. A proposta de resolução alinha-se de forma consistente com esta análise, oferecendo um vasto leque de medidas que visam precisamente mitigar os condicionalismos identificados. Por exemplo, a identificação da precariedade laboral e dos baixos salários como entraves à decisão de ter filhos é diretamente abordada pela proposta de aumento do Salário Mínimo Nacional e combate à precariedade. Da mesma forma, a falta de acesso a creches e habitação é respondida com a criação de vagas públicas e programas de arrendamento apoiado. Não se detetam inconsistências lógicas; pelo contrário, a proposta é uma resposta direta e abrangente às causas apontadas para a crise demográfica.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta terá um impacto fiscal significativo, resultando num aumento substancial dos gastos do governo. As medidas propostas incluem o aumento do Salário Mínimo Nacional, o reforço e alargamento de apoios sociais (abono de família, subsídios de maternidade/paternidade a 100%), a criação de uma vasta rede pública de creches (com 100.000 vagas até 2023), o alargamento da rede pré-escolar, o reforço de meios na Escola Pública e nos cuidados de saúde primários (incluindo procriação medicamente assistida), a garantia de passe de transporte gratuito para jovens e a dinamização de programas de habitação a custos controlados. Embora o aumento dos salários possa, a longo prazo, gerar algum aumento de receita fiscal, os custos diretos e indiretos associados à implementação destas medidas (construção, contratação de pessoal, subsídios, etc.) implicarão um aumento considerável da despesa pública, resultando num efeito líquido de aumento dos gastos do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

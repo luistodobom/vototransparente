@@ -1,0 +1,26 @@
+{
+ "short_title": "Avaliação da Aplicação do Estado de Emergência COVID-19",
+ "summary": "Este documento é uma resolução da Assembleia da República Portuguesa que avalia a aplicação do estado de emergência, declarado devido à pandemia de COVID-19, especificamente o segundo período que vigorou de 3 a 17 de abril de 2020. O texto detalha como as medidas implementadas, incluindo a suspensão de certos direitos fundamentais (como liberdade de circulação, iniciativa económica, reunião, culto e educação), foram executadas em conformidade com os princípios constitucionais e as leis aplicáveis, nomeadamente o princípio da proporcionalidade. A resolução também reconhece os esforços dos cidadãos, profissionais de saúde, forças de segurança e autoridades locais na resposta à pandemia.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é o Parlamento a fazer um balanço de como correu a segunda fase do estado de emergência por causa da COVID-19, entre 3 e 17 de abril de 2020. Diz que as regras, como as restrições de circulação, o fecho de lojas, as aulas à distância e outras limitações, foram aplicadas de forma correta e dentro da lei. Agradece o esforço de toda a gente, desde os cidadãos aos profissionais de saúde e forças de segurança, e conclui que tudo foi feito para combater a pandemia sem abusos.",
+ "context": null,
+ "analysis": "O documento funciona como uma autoavaliação parlamentar, concluindo que a implementação das medidas do estado de emergência foi, em grande parte, conforme os requisitos legais e constitucionais, com particular ênfase no princípio da proporcionalidade. Destaca o alinhamento entre as medidas adotadas e o objetivo de combater a pandemia, sublinhando a necessidade e adequação das restrições. Embora não aponte inconsistências, a sua natureza de 'apreciação' foca-se em confirmar a adesão ao quadro legal, em vez de oferecer uma perspetiva externa crítica sobre a eficácia ou alternativas às medidas. Elogia o comportamento cívico e os esforços de vários setores, reforçando a narrativa de uma resposta à crise bem gerida dentro dos limites legais estabelecidos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "O documento menciona medidas como o regime de 'lay-off simplificado' e 'linhas de crédito especial de apoio às empresas' para proteger empregos e negócios. Estas medidas implicam um aumento da despesa pública através de subsídios e apoio financeiro, e potencialmente uma diminuição da receita governamental devido à desaceleração económica ou a diferimentos/isenções fiscais. Assim, a proposta, ao avaliar e implicitamente endossar estas medidas, aponta para um aumento global da despesa governamental e uma diminuição da receita, resultando num impacto fiscal líquido negativo (aumento do défice/dívida)."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "justica",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

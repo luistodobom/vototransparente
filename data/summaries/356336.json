@@ -1,0 +1,42 @@
+{
+ "short_title": "Referendo sobre limites de residência e quotas de imigração",
+ "summary": "O Projeto de Resolução n.º 693/XVII/1.ª propõe ao Presidente da República a realização de um referendo nacional, abrangendo eleitores recenseados em Portugal e no estrangeiro. O texto submete duas perguntas aos cidadãos: primeiro, se concordam que a Assembleia da República defina anualmente um limite máximo para a concessão de autorizações de residência a estrangeiros; segundo, se concordam com um sistema de quotas de imigração, revisto anualmente consoante os interesses económicos e as necessidades do mercado de trabalho. Na fundamentação, o proponente sugere recuperar a eficácia do contingente global indicativo da Lei dos Estrangeiros, ligando vistos a ofertas de emprego no IEFP e em agências privadas. A aprovação desta resolução não convoca automaticamente o referendo, cabendo a decisão final ao Presidente da República.",
+ "key_points": [
+  "Propõe ao Presidente da República a convocação de um referendo dirigido aos cidadãos eleitores recenseados em território nacional e no estrangeiro.",
+  "Questiona os eleitores sobre se a Assembleia da República deve fixar anualmente um limite máximo de autorizações de residência para cidadãos estrangeiros.",
+  "Pergunta se deve ser criado um sistema anual de quotas de imigração baseado nos interesses económicos do país e nas necessidades laborais.",
+  "Defende na exposição de motivos que a concessão de vistos dependa do contingente global indicativo e de ofertas concretizadas junto do IEFP ou de agências privadas sinalizadas."
+ ],
+ "plain_language": "O Chega quer que o Parlamento peça ao Presidente da República para realizar um referendo sobre a imigração. Todos os portugueses recenseados, em Portugal e no estrangeiro, seriam chamados a responder sim ou não a duas perguntas. A primeira é se o Parlamento deve fixar, todos os anos, um número máximo de autorizações de residência para estrangeiros. A segunda é se Portugal deve ter quotas anuais de entrada de imigrantes, definidas de acordo com o que a economia e as empresas precisam. Mesmo que o Parlamento aprove este pedido, a realização do referendo depende sempre da decisão do Presidente da República.",
+ "context": "O proponente aponta o crescimento da população estrangeira residente, de 421 802 em 2017 para 1 543 697 em 2024, argumentando que a flexibilização legal desde 2017 e a extinção do SEF geraram pressão na saúde, educação, habitação, segurança e Administração Pública. Considera insuficientes as alterações legislativas de 2025, incluindo a Lei n.º 61/2025 e a criação da Unidade Nacional de Estrangeiros e Fronteiras, ainda sem plena operacionalidade. Por se tratar de escolhas estruturais, defende uma decisão democrática direta através de referendo.",
+ "analysis": "A iniciativa recorre a um mecanismo constitucional previsto para auscultar os cidadãos sobre matérias de relevante interesse nacional e fundamenta o debate em dados oficiais e no quadro legal vigente. Contudo, as perguntas propostas são genéricas e omitem definições essenciais, não clarificando se os limites e as quotas abrangem apenas imigração laboral ou também reagrupamento familiar, estudantes, asilo e cidadãos europeus. Além disso, o texto não avalia a compatibilidade de tetos anuais rígidos com o direito da União Europeia e compromissos internacionais de proteção. Como proposta de referendo, o projeto não cria por si regras operacionais nem detalha como seriam calculadas as quotas ou garantida a capacidade de fiscalização, quando a própria exposição de motivos reconhece que os serviços e a nova unidade policial ainda enfrentam limitações operacionais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta estimativas orçamentais. A eventual convocação de um referendo nacional implicaria custos de organização eleitoral para o Estado, enquanto o impacto financeiro de futuros limites e quotas de imigração nas receitas fiscais, na Segurança Social e nos serviços públicos permanece incerto e por quantificar."
+ },
+ "affected": [
+  "cidadãos eleitores",
+  "cidadãos estrangeiros candidatos a residência",
+  "empregadores com necessidade de mão de obra",
+  "serviços públicos de imigração e emprego"
+ ],
+ "categories": [
+  "imigracao",
+  "instituicoes",
+  "trabalho"
+ ],
+ "tags": [
+  "referendo",
+  "quotas de imigração",
+  "autorização de residência",
+  "lei dos estrangeiros",
+  "mercado de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

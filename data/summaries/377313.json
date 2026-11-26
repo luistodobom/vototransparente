@@ -1,0 +1,44 @@
+{
+ "short_title": "Melhorar o acesso de pessoas imigrantes ao Serviço Nacional de Saúde",
+ "summary": "Este Projeto de Resolução recomenda ao Governo, sem caráter vinculativo, seis medidas para remover barreiras administrativas no acesso das pessoas imigrantes ao Serviço Nacional de Saúde (SNS). Propõe a atualização dos campos e procedimentos do Registo Nacional de Utentes (RNU) às diferentes situações de permanência e a atualização de dados em qualquer contacto, incluindo urgências, com mecanismos para corrigir encargos indevidos. Pede a revisão das regras de inscrição nos cuidados de saúde primários para abranger cidadãos estrangeiros em situação regular, temporária ou em renovação, bem como o registo partilhado de contactos esporádicos. Recomenda ainda orientações nacionais uniformes para evitar recusas, sobretudo para grávidas, menores, urgências e casos de insuficiência económica, formação regular aos profissionais de atendimento e reforço dos serviços de tradução e interpretação.",
+ "key_points": [
+  "Atualizar o Registo Nacional de Utentes (RNU) para adequar campos e procedimentos às várias situações de residência e permanência e definir corretamente a responsabilidade financeira.",
+  "Garantir a atualização dos dados dos utentes imigrantes em qualquer contacto com o SNS, incluindo urgências, com mecanismos para corrigir encargos baseados em informação desatualizada.",
+  "Rever a inscrição nos cuidados de saúde primários para incluir estrangeiros com permanência temporária ou em renovação e assegurar o registo acessível de contactos esporádicos em todo o SNS.",
+  "Emitir orientações nacionais uniformes para evitar recusas ou atrasos, clarificando os procedimentos aplicáveis a grávidas, menores de 18 anos, urgências vitais e insuficiência económica.",
+  "Assegurar formação regular e orientações atualizadas aos profissionais de atendimento e registo, em articulação com entidades públicas e da sociedade civil.",
+  "Reforçar a disponibilização de serviços de tradução e interpretação nas unidades do SNS para eliminar barreiras linguísticas."
+ ],
+ "plain_language": "Embora a lei reconheça o direito à saúde aos imigrantes em Portugal, muitos enfrentam dificuldades práticas quando vão a um centro de saúde ou hospital, devido a regras confusas ou sistemas informáticos desatualizados. Esta proposta do Parlamento não obriga o Governo, mas recomenda-lhe que simplifique e uniformize os procedimentos em todo o país. Sugere atualizar a base de dados dos utentes, facilitar a inscrição no centro de saúde a quem está em situação regular ou a renovar documentos, garantir atendimento claro a grávidas, crianças e casos urgentes, dar formação aos funcionários e disponibilizar mais tradutores.",
+ "context": "O LIVRE sustenta que, apesar de a Constituição e a Lei de Bases da Saúde garantirem o acesso ao SNS, subsistem entraves práticos. Baseia-se num estudo da Entidade Reguladora da Saúde (ERS) de 2025, onde 89,9% das unidades apontaram obstáculos legais e 48,8% constrangimentos administrativos, além de limitações informáticas, falta de formação e ausência de tradução. Refere ainda sucessivas alterações regulamentares sobre o RNU entre 2024 e 2026 e recomendações da ERS de julho de 2025 que pedem maior uniformidade entre unidades.",
+ "analysis": "A iniciativa tem como ponto forte assentar em dados recentes e recomendações técnicas da própria ERS, propondo soluções operacionais concretas como a atualização do RNU, a partilha de registos de contactos esporádicos e a clarificação de regras para grupos vulneráveis. Contudo, tratando-se de um Projeto de Resolução, não vincula o Governo nem define prazos ou metas. Além disso, o texto é vago quanto aos meios financeiros e humanos necessários para assegurar formação contínua e serviços de tradução em todo o SNS, bem como quanto à operacionalização da correção retroativa de encargos. Por fim, o alargamento da inscrição nos cuidados primários a situações temporárias ou em renovação pode aumentar a pressão sobre as listas de médicos de família sem prever reforço de capacidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atualização dos sistemas de informação do RNU, a formação regular de profissionais, o reforço de serviços de tradução e interpretação e a correção de encargos implicam custos adicionais para o Estado, embora o documento não apresente estimativas nem montantes financeiros."
+ },
+ "affected": [
+  "pessoas imigrantes",
+  "profissionais de registo e atendimento do SNS",
+  "equipas de cuidados de saúde primários",
+  "unidades locais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "imigracao",
+  "administracao"
+ ],
+ "tags": [
+  "serviço nacional de saúde",
+  "imigrantes",
+  "registo nacional de utentes",
+  "cuidados de saúde primários",
+  "tradução e interpretação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

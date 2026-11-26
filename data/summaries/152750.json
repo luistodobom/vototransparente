@@ -1,0 +1,24 @@
+{
+ "short_title": "Direitos dos passageiros em caso de greve ferroviária",
+ "summary": "Esta proposta de lei, apresentada pelo Grupo Parlamentar do CHEGA, visa alterar o regime jurídico dos contratos de transporte ferroviário para proteger os direitos dos passageiros em caso de greve. O objetivo é garantir que os utilizadores de transportes públicos, especialmente os detentores de passes ou assinaturas, sejam compensados pelos transtornos causados pelas paralisações. A proposta introduz a figura do Provedor do Cliente e estabelece um mecanismo de reembolso para os dias de greve que impossibilitem o transporte.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta do CHEGA quer que, se houver greves nos comboios e não puderes viajar, sejas compensado. Se tiveres passe, vais receber um desconto no mês seguinte por cada dia de greve. E também querem criar um \"Provedor do Cliente\" para ajudar com as reclamações. É para que os passageiros não fiquem a perder quando há greves.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o problema do impacto das greves nos passageiros, equilibrando o direito à greve com o direito do utilizador ao serviço pago. A introdução de um Provedor do Cliente é uma medida positiva para a defesa do consumidor, criando um canal formal para reclamações e sugestões. O mecanismo de compensação de 1/30 do valor do passe por dia de greve é claro e quantificável, alinhando-se com o objetivo de ressarcir o passageiro. A proposta afirma que a compensação deve ocorrer \"sem onerar demasiado as empresas\", o que pode ser um ponto de discussão, pois qualquer compensação terá um custo para os operadores, mesmo que seja sob a forma de crédito. No entanto, a implementação de um crédito de viagens em vez de um reembolso monetário direto pode mitigar o impacto financeiro imediato nas empresas, incentivando a continuidade do uso do serviço. A proposta é consistente nos seus objetivos e na forma como os detalhes da implementação visam alcançá-los.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não prevê um aumento direto dos gastos do governo nem um aumento ou diminuição da receita governamental. O impacto financeiro recai sobre as empresas operadoras de transporte ferroviário (como a CP), que serão obrigadas a compensar os passageiros afetados pelas greves. Essa compensação, na forma de crédito ou desconto em passes, representa uma diminuição da receita efetiva para as operadoras nos meses seguintes às greves. O efeito líquido é uma transferência de valor das empresas de transporte para os passageiros, sem impacto direto no orçamento do Estado."
+ },
+ "affected": [],
+ "categories": [
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

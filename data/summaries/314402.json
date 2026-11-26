@@ -1,0 +1,24 @@
+{
+ "short_title": "Alteração de taxas moderadoras para estrangeiros não residentes no SNS",
+ "summary": "Esta proposta de lei visa alterar as regras de acesso ao Serviço Nacional de Saúde (SNS) para cidadãos estrangeiros não residentes em Portugal, provenientes de países fora da União Europeia. O objetivo principal é que estes cidadãos passem a pagar as taxas moderadoras ou os custos totais dos serviços de saúde que utilizam, eliminando as isenções atualmente existentes para este grupo. A proposta justifica-se pela necessidade de garantir a sustentabilidade do SNS e de controlar o que é descrito como 'turismo de nascimento' e o uso indevido dos serviços por quem não contribui para o sistema.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que os estrangeiros que não vivem cá e vêm de fora da União Europeia paguem para usar os hospitais e centros de saúde em Portugal. Atualmente, muitos não pagam, e a ideia é que passem a pagar as consultas e tratamentos, ou até o valor total, para ajudar a manter o nosso Serviço Nacional de Saúde a funcionar e evitar que seja usado de forma gratuita por quem não contribui para ele.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente entre o problema identificado e a solução proposta. A 'Exposição de motivos' detalha a preocupação com a sustentabilidade do SNS e o alegado 'turismo de saúde', citando dados sobre o número de atendimentos a estrangeiros não residentes sem cobertura de seguros. A alteração proposta ao Decreto-Lei n.º 113/2011, especificamente no Artigo 4.º e Artigo 6.º, alinha-se diretamente com o objetivo de remover as isenções de taxas moderadoras para este grupo, exigindo o pagamento no momento da alta clínica ou dos custos integrais dos atos prestados. A proposta é clara na sua intenção de diferenciar o acesso com base na residência legal e contribuição para o sistema, visando mitigar o impacto financeiro no SNS. Não são identificadas inconsistências internas na lógica apresentada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo aumentar a receita do governo e diminuir os gastos públicos com a saúde. Ao exigir que cidadãos estrangeiros não residentes de países terceiros paguem as taxas moderadoras ou os custos integrais dos serviços de saúde, espera-se uma redução da despesa do Serviço Nacional de Saúde com este grupo e um aumento das receitas provenientes dos pagamentos diretos. O efeito líquido esperado é positivo para as finanças públicas, contribuindo para a sustentabilidade do SNS, conforme explicitado no documento."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Reorientação dos apoios sociais e novos critérios de acesso",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa dirigida ao Governo, propõe sete linhas de ação para reformular os apoios sociais não contributivos, aproveitando a anunciada Prestação Social Única. O texto recomenda a revisão dos critérios de acesso com maior controlo e cruzamento de dados para combater abusos. Propõe que cidadãos estrangeiros de países terceiros só acedam a prestações não contributivas após cinco anos de residência legal e contribuição efetiva para a Segurança Social. Em contrapartida, recomenda o reforço dos apoios às famílias com crianças com deficiência, às pessoas com grau de incapacidade igual ou superior a 60%, à natalidade e às famílias com filhos, bem como aos idosos pobres, dependentes ou isolados e aos cuidadores informais. Por fim, sugere a criação de um regime especial que permita aos emigrantes portugueses regressados aceder à Prestação Social Única até um ano.",
+ "key_points": [
+  "Rever os critérios de acesso às prestações sociais não contributivas, reforçando a fiscalização e o controlo da condição económica.",
+  "Exigir cinco anos de residência legal e de contribuição efetiva para a Segurança Social para que cidadãos de países terceiros acedam a apoios não contributivos.",
+  "Reforçar os apoios às famílias com crianças com deficiência, reduzindo prazos e simplificando procedimentos, bem como às pessoas com incapacidade igual ou superior a 60%.",
+  "Aumentar os apoios à natalidade, maternidade, paternidade e famílias com filhos.",
+  "Reforçar a proteção social aos idosos em situação de pobreza, dependência ou isolamento e aos cuidadores informais.",
+  "Criar um regime especial para emigrantes portugueses que regressem, permitindo o acesso à Prestação Social Única até um ano em caso de insuficiência económica."
+ ],
+ "plain_language": "O Parlamento não está a aprovar uma lei obrigatória, mas sim a sugerir ao Governo como deve distribuir os apoios sociais pagos pelos impostos de todos. A proposta pede mais controlo para evitar fraudes e sugere que imigrantes de fora da União Europeia só recebam estes apoios após cinco anos de residência legal e descontos. Ao mesmo tempo, pede mais ajuda para quem mais precisa, como famílias com crianças ou adultos com deficiência grave, casais com filhos, idosos pobres ou isolados e quem cuida deles. Também propõe apoiar emigrantes portugueses que voltem ao país sem recursos, durante até um ano.",
+ "context": "O Grupo Parlamentar do Chega afirma que o Estado Social tem recursos limitados e enfrenta o envelhecimento populacional, baixa natalidade e dificuldades financeiras das famílias. Defende que faltam controlo rigoroso, cruzamento eficaz de dados e critérios claros de prioridade. Argumenta ainda que o acesso rápido de estrangeiros a apoios não contributivos gera um efeito chamada insustentável, sustentando que apenas quem tem uma ligação estável e contributiva deve beneficiar de apoios permanentes. Por isso, vê a anunciada Prestação Social Única como oportunidade para reorientar a proteção social para grupos considerados prioritários e emigrantes regressados.",
+ "analysis": "A iniciativa acerta ao apontar fragilidades reais da proteção social, como os encargos das famílias com crianças com deficiência, os apoios a cuidadores informais e a lentidão dos procedimentos. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e recorre a formulações genéricas sobre os reforços propostos, sem metas nem avaliação orçamental. Existe também uma tensão interna: exige cinco anos de contribuição efetiva para prestações que são, por natureza, não contributivas aos cidadãos de países terceiros, mas cria um acesso facilitado de até um ano à Prestação Social Única para emigrantes regressados sem exigir esse período prévio de descontos em Portugal. Além disso, embora o preâmbulo ressalve situações humanitárias, menores e obrigações internacionais, o ponto 2 da parte recomendatória formula uma exclusão absoluta, arriscando conflitos com normas constitucionais e compromissos internacionais.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A proposta combina a redução de despesa, ao restringir o acesso de cidadãos de países terceiros a apoios não contributivos, com o aumento de despesa decorrente do reforço de prestações para famílias, deficiência, natalidade, idosos, cuidadores e emigrantes regressados. O documento não apresenta estimativas financeiras e, por ser um projeto de resolução, não tem impacto orçamental direto ou vinculativo."
+ },
+ "affected": [
+  "cidadãos estrangeiros de países terceiros",
+  "famílias com filhos e crianças com deficiência",
+  "pessoas com deficiência igual ou superior a 60%",
+  "idosos vulneráveis e cuidadores informais",
+  "emigrantes portugueses que regressem"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "imigracao"
+ ],
+ "tags": [
+  "prestação social única",
+  "apoios não contributivos",
+  "imigração",
+  "cuidadores informais",
+  "deficiência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

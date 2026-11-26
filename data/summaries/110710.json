@@ -1,0 +1,24 @@
+{
+ "short_title": "Criação Urgente de UCI no Centro Hospitalar do Oeste",
+ "summary": "Esta proposta visa a criação urgente de uma Unidade de Cuidados Intensivos (UCI) no Centro Hospitalar do Oeste (CHO), que serve uma população de cerca de 300 mil pessoas em vários concelhos. Atualmente, nenhum dos três hospitais que compõem o CHO possui uma UCI, o que tem causado grandes dificuldades, especialmente durante a pandemia de COVID-19, levando à transferência de doentes críticos para outros hospitais e sobrecarga dos profissionais de saúde. A proposta argumenta que a criação de uma UCI é essencial para melhorar a capacidade de resposta da região a emergências de saúde e outras patologias, além de permitir a realização de mais cirurgias e a retenção de profissionais.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é um pedido urgente para que o governo crie uma Unidade de Cuidados Intensivos, ou UCI, no hospital da zona Oeste. É que, por lá, não há nenhuma, e isso tem sido um problema enorme, especialmente com a pandemia. Os doentes graves têm de ser levados para outros hospitais longe, o que é um stress para toda a gente e para os profissionais de saúde. Já havia um plano para isto, que custava cerca de um milhão de euros, e agora com a COVID-19, a situação ficou ainda mais crítica. A ideia é que, com uma UCI, o hospital consiga tratar melhor os doentes mais graves e não precise de os andar a transferir para todo o lado.",
+ "context": null,
+ "analysis": "O documento apresenta uma argumentação clara e consistente. A necessidade de uma Unidade de Cuidados Intensivos no Centro Hospitalar do Oeste é bem justificada, tanto pela ausência pré-existente de uma UCI na região, que já causava dificuldades, quanto pela urgência acrescida imposta pela pandemia de COVID-19. Os detalhes da implementação, embora não sejam técnicos, alinham-se diretamente com o objetivo: a criação da UCI permitiria tratar doentes críticos localmente, reduzir a necessidade de transferências demoradas e onerosas, e melhorar a capacidade de resposta do hospital. A menção de um projeto anterior já orçamentado em um milhão de euros para o mesmo fim reforça a viabilidade e a pertinência da proposta, mostrando que a ideia não é nova e já teve alguma consideração prévia.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento nos gastos do governo, uma vez que requer a criação de uma nova Unidade de Cuidados Intensivos. O documento menciona que um projeto anterior para este fim estava orçamentado em um milhão de euros, o que serve como uma estimativa mínima para o investimento inicial. Não há menção direta a um aumento ou diminuição da receita do governo. No entanto, a longo prazo, a existência de uma UCI local pode levar a uma maior eficiência na gestão de recursos, potencialmente reduzindo custos associados a transferências de doentes e otimizando o uso de pessoal. O efeito líquido inicial será um aumento de despesa, com potenciais benefícios de eficiência a médio e longo prazo."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

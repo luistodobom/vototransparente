@@ -1,0 +1,41 @@
+{
+ "short_title": "Cedência de imóveis devolutos do Estado para arrendamento",
+ "summary": "O Projeto de Resolução n.º 987/XVII/1.ª, apresentado pela Iniciativa Liberal, recomenda ao Governo que crie um regime para aproveitar imóveis públicos devolutos ou subutilizados na habitação. Por se tratar de um projeto de resolução, não tem força de lei e funciona apenas como uma recomendação. O texto propõe quatro medidas principais: concluir definitivamente o inventário completo do património imobiliário da administração pública; concretizar, no prazo máximo de três meses, um regime legal semiautomático que permita apresentar projetos habitacionais para esses imóveis, conforme previsto no programa Construir Portugal; estabelecer mecanismos concursais transparentes para atribuir direitos de superfície e de exploração destinados exclusivamente ao arrendamento; e enviar relatórios trimestrais à Assembleia da República sobre os imóveis passíveis de cedência, os já cedidos e o andamento dos respetivos projetos.",
+ "key_points": [
+  "Concluir definitivamente o inventário completo e atualizado de todos os imóveis detidos pela administração pública.",
+  "Concretizar, no prazo máximo de três meses, um regime legal semiautomático para aproveitar imóveis públicos devolutos mediante apresentação de projetos habitacionais.",
+  "Estabelecer mecanismos concursais transparentes para atribuir direitos de superfície e de exploração destinados exclusivamente à habitação para arrendamento.",
+  "Apresentar à Assembleia da República um relatório trimestral com os imóveis elegíveis, a execução do regime e o estado dos projetos."
+ ],
+ "plain_language": "Esta proposta é um pedido ao Governo — sem efeito vinculativo — para dar uso a casas, terrenos e edifícios do Estado que estão vazios ou abandonados. O texto recomenda que o Estado termine a lista completa desses bens e crie, em três meses, regras rápidas para permitir que interessados apresentem projetos para os transformar em casas para arrendar. O Estado continuaria a ser dono dos imóveis, cedendo apenas o direito de os recuperar e explorar por concurso público. De três em três meses, o Governo teria de informar o Parlamento sobre o avanço destes projetos.",
+ "context": "A Iniciativa Liberal justifica a proposta com a grave crise de habitação, que atinge sobretudo jovens e famílias, apontando como causas a burocracia, planos municipais desatualizados, carga fiscal e instabilidade no arrendamento. O partido critica que o Estado anuncie construção pública enquanto mantém quartéis, terrenos e edifícios abandonados sem inventário atualizado. Recorda ainda que apresentou projetos de lei semelhantes em 2023 e 2025, ambos rejeitados, e sublinha que o programa Construir Portugal do Governo previa este regime semiautomático há dois anos, sem concretização.",
+ "analysis": "Como pontos fortes, a iniciativa promove a transparência e o escrutínio parlamentar através de inventários completos e relatórios trimestrais, cobrando ao Governo uma medida do seu próprio programa enquanto preserva a propriedade pública via direitos de superfície. Contudo, sendo um projeto de resolução, não obriga o Executivo a agir. Existem também fragilidades práticas: exigir a conclusão de um inventário estatal historicamente incompleto e a criação de um novo regime legal em apenas três meses revela-se pouco realista. Nota-se ainda uma inconsistência relevante: a exposição de motivos foca-se na habitação acessível, mas o texto da resolução recomenda apenas habitação para arrendamento, sem definir limites de renda nem critérios sociais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa, não produz impacto orçamental direto imediato. Caso seja implementada, a conclusão do inventário e a gestão concursal podem gerar custos administrativos, enquanto as cedências poderão trazer receitas ou poupanças na manutenção, não existindo montantes estimados no documento."
+ },
+ "affected": [
+  "inquilinos",
+  "jovens e famílias à procura de habitação",
+  "promotores imobiliários e empresas de construção",
+  "entidades da administração pública"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao"
+ ],
+ "tags": [
+  "imóveis devolutos",
+  "arrendamento",
+  "património público",
+  "inventário",
+  "construir portugal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Transparência fiscal e atualização automática dos escalões do IRS",
+ "summary": "Esta proposta visa aumentar a transparência e a democracia na gestão das finanças públicas em Portugal. Aborda duas questões principais: primeiro, exige que qualquer excesso de receita fiscal (impostos cobrados acima do previsto no Orçamento do Estado) seja debatido e aprovado pelo Parlamento antes de ser utilizado, garantindo que o seu destino seja democraticamente decidido. Segundo, propõe a atualização automática dos escalões do IRS (Imposto sobre o Rendimento das Pessoas Singulares) com base na variação do PIB nominal por trabalhador, para evitar que a inflação e o crescimento económico levem a um aumento 'escondido' da carga fiscal sobre os cidadãos, sem uma decisão explícita.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o governo seja mais transparente com o nosso dinheiro. Primeiro, se o Estado cobrar mais impostos do que o que estava previsto no orçamento, não pode simplesmente gastar esse dinheiro extra como quer; tem de ir ao Parlamento discutir e decidir com os deputados o que fazer com ele. Segundo, quer que os escalões do IRS (as 'fatias' de rendimento que pagam diferentes percentagens de imposto) sejam atualizados automaticamente todos os anos. Assim, mesmo que o nosso salário aumente um pouco por causa da inflação ou do crescimento da economia, não vamos passar para um escalão de imposto mais alto e acabar por pagar mais impostos sem que ninguém tenha decidido isso de forma clara. É para evitar que o governo nos 'roube' dinheiro sem darmos por isso.",
+ "context": null,
+ "analysis": "A proposta aborda de forma consistente os problemas que identifica: a falta de legitimidade na utilização de excessos de receita fiscal e o aumento 'silencioso' da carga fiscal devido à não atualização dos escalões do IRS. Ao exigir um debate parlamentar e deliberação sobre os excedentes, a proposta alinha a implementação com o objetivo de maior transparência e controlo democrático sobre os fundos públicos. Da mesma forma, a indexação automática dos escalões do IRS ao PIB nominal por trabalhador é uma solução direta para o problema do 'arrastamento fiscal' (fiscal drag), garantindo que o aumento da tributação seja sempre resultado de uma decisão política explícita e não de um efeito automático da inflação ou do crescimento. A escolha do PIB nominal por trabalhador como indexante é justificada para refletir tanto o crescimento económico como a inflação interna, evitando distorções de preços de bens importados. A proposta é coerente nos seus objetivos de reforçar a legitimidade democrática e a previsibilidade fiscal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto, mas com uma tendência provável para diminuir a receita líquida do governo ou, pelo menos, abrandar o seu crescimento. A exigência de aprovação parlamentar para o uso de excessos de receita fiscal pode levar a que esses excedentes sejam devolvidos aos contribuintes (por exemplo, através de reduções de impostos ou reembolsos) ou direcionados para despesas específicas que, de outra forma, não ocorreriam. No entanto, a proposta não impede a cobrança do excesso, apenas a sua utilização. A atualização automática dos escalões do IRS, por outro lado, visa explicitamente evitar o aumento da carga fiscal real sobre os cidadãos devido à inflação e ao crescimento dos rendimentos. Isso significa que, em cenários de inflação e crescimento, o governo arrecadaria menos receita de IRS do que arrecadaria se os escalões não fossem atualizados. O efeito líquido mais provável é uma diminuição da receita fiscal do governo em comparação com o cenário atual, onde o 'arrastamento fiscal' e a utilização discricionária de excedentes podem aumentar a receita sem escrutínio democrático direto."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

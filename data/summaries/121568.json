@@ -1,0 +1,26 @@
+{
+ "short_title": "Alteração ao Regime de Arrendamento Urbano para Aumentar Confiança",
+ "summary": "Esta proposta de lei visa alterar o regime de Arrendamento Urbano em Portugal para resolver a escassez de habitação e os altos preços das rendas. O proponente argumenta que a legislação atual, em particular a Lei 13/2019, desequilibrou os direitos a favor dos inquilinos, levando à desconfiança dos proprietários e à redução da oferta de imóveis para arrendamento. A proposta sugere mudanças no Código Civil para aumentar a confiança dos senhorios, nomeadamente através do aumento da indemnização por incumprimento do inquilino, da redução dos prazos de aviso prévio para denúncia de contratos por parte do senhorio e da diminuição do período mínimo para o senhorio se opor à primeira renovação do contrato. Contudo, revoga também uma disposição que isentava arrendamentos não permanentes ou transitórios das regras de renovação automática, o que pode ter implicações para o arrendamento de curta duração.",
+ "key_points": [],
+ "plain_language": "Em termos simples, este projeto de lei do Chega quer dar uma volta às regras do arrendamento em Portugal. A ideia é que há poucas casas para alugar e as rendas estão caríssimas porque os donos das casas não confiam no sistema. Acham que a lei protege demasiado os inquilinos, que a justiça é muito lenta e que têm muitos custos. Por isso, o Chega propõe que, se o inquilino não pagar, a multa seja maior; que o senhorio possa acabar com o contrato mais depressa (com menos aviso); e que possa recusar renovar o contrato mais cedo. O objetivo é que, com estas mudanças, os senhorios se sintam mais seguros e ponham mais casas no mercado. Mas há um pormenor que pode ser um problema: a proposta acaba com uma regra que permitia contratos mais curtos para estudantes ou para quem precisa de casa por pouco tempo, o que pode fazer com que haja menos casas disponíveis para esses casos específicos.",
+ "context": null,
+ "analysis": "O objetivo principal da proposta é aumentar a confiança dos proprietários para dinamizar o mercado de arrendamento e, consequentemente, aumentar a oferta de habitação. As alterações propostas ao Artigo 1041.º (aumento da indemnização por mora do inquilino de 20% para 50%), ao Artigo 1097.º (redução do prazo para oposição à primeira renovação de 3 para 2 anos) e ao Artigo 1101.º (redução do aviso prévio para denúncia de contrato de 5 para 2 anos) são consistentes com este objetivo, pois conferem maior segurança e flexibilidade aos senhorios. No entanto, a revogação do Artigo 1110.º, n.º 4, introduz uma inconsistência significativa. Ao revogar esta alínea, as regras de renovação automática (incluindo a renovação por três anos se o prazo inicial for inferior) passariam a aplicar-se a contratos de arrendamento para habitação não permanente ou para fins especiais transitórios (como estudantes ou trabalhadores deslocados). Isto pode desincentivar os proprietários a oferecerem arrendamentos de curta duração ou específicos, reduzindo a flexibilidade e, paradoxalmente, a oferta nestes segmentos, contrariando o objetivo geral de aumentar a oferta e a confiança no mercado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não prevê impactos fiscais diretos significativos. Não introduz novas taxas, impostos ou subsídios. O seu foco é a alteração do quadro legal do arrendamento. Se as alterações propostas levarem a um aumento da confiança dos proprietários e, consequentemente, a uma maior formalização de contratos de arrendamento, poderá haver um ligeiro aumento da receita fiscal proveniente do Imposto de Selo e do IRS/IRC sobre as rendas. Por outro lado, se as mudanças resultarem num aumento de litígios judiciais, poderá haver um aumento marginal dos custos para o sistema de justiça. No entanto, o efeito líquido direto sobre as finanças públicas é provável que seja neutro ou mínimo, sendo o impacto principal sentido na dinâmica do mercado privado de arrendamento."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

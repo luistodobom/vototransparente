@@ -1,0 +1,43 @@
+{
+ "short_title": "Altera o regime do arrendamento urbano e extingue o Balcão do Arrendamento",
+ "summary": "O Projeto de Lei n.º 760/XVII/2.ª, apresentado pelo PCP, altera o Código Civil, o Novo Regime do Arrendamento Urbano (NRAU) e o regime de celebração do contrato de arrendamento urbano. A iniciativa revoga os artigos relativos ao procedimento especial de despejo e ao Balcão do Arrendamento. No silêncio das partes, fixa um prazo inicial de dez anos e renovações mínimas de três anos, eliminando a regra de «salvo estipulação em contrário» na renovação automática. Limita a caução ao valor de uma renda, com devolução obrigatória até à entrega do imóvel em documento escrito, e limita a antecipação a três rendas. Prevê ainda a manutenção do contrato em caso de caducidade por direito temporário do senhorio se o inquilino o comunicar, a transmissão por morte, a obrigação de acompanhamento e relatório da Segurança Social nos despejos com possível suspensão por fragilidade social, e maior proteção para inquilinos idosos ou com deficiência em contratos anteriores ao RAU.",
+ "key_points": [
+  "Revoga os artigos 15.º a 15.º-S do Novo Regime do Arrendamento Urbano, extinguindo o Balcão do Arrendamento e o procedimento especial de despejo.",
+  "Fixa, no silêncio das partes, a duração inicial de dez anos para contratos a prazo certo, com renovações automáticas mínimas de três anos sem possibilidade de afastamento contratual dessa renovação.",
+  "Limita a caução ao máximo de uma renda, exigindo a sua devolução até à entrega do local em documento escrito, e restringe a antecipação de rendas a três meses.",
+  "Impõe o acompanhamento permanente da Segurança Social nos processos de despejo, prevendo a suspensão excecional por falta de alternativa habitacional ou razão social imperiosa.",
+  "Aumenta para o equivalente a dois anos e meio de renda a indemnização devida pelo senhorio na denúncia para habitação própria e exige cinco anos de titularidade.",
+  "Protege contratos anteriores ao RAU transitados para o NRAU de inquilinos com mais de 20 anos de residência e 65 ou mais anos de idade ou deficiência igual ou superior a 60 %."
+ ],
+ "plain_language": "Esta proposta muda várias regras do arrendamento para dar mais segurança a quem vive em casas arrendadas. Acaba com o Balcão do Arrendamento, o mecanismo rápido de despejos, e obriga a Segurança Social a acompanhar os casos de despejo e a fazer um relatório que pode suspender a saída se a pessoa não tiver para onde ir. Também limita a caução a um mês de renda, obrigando o senhorio a devolvê-la até à entrega das chaves, e define contratos mais longos quando nada for escrito em contrário. Além disso, reforça a proteção de inquilinos idosos, com deficiência ou em risco após a morte do titular do contrato.",
+ "context": "Na exposição de motivos, o PCP refere que mais de cem mil famílias vivem em alojamento indigno e que muitos jovens e agregados enfrentam dificuldades de acesso à habitação devido aos preços, baixos salários e taxas de juro. Critica a Lei n.º 31/2012, que apelida de «Lei dos Despejos», por gerar injustiça, insegurança e conflitualidade no mercado de arrendamento. O proponente defende que a habitação é um direito constitucional e não uma mercadoria, considerando insuficientes as alterações legislativas anteriores e urgente reforçar a estabilidade contratual e a proteção social nos despejos.",
+ "analysis": "A iniciativa apresenta medidas concretas e abrangentes para reforçar a estabilidade contratual dos arrendatários, limitar exigências financeiras iniciais e assegurar avaliação social antes da execução de despejos. Contudo, revela fragilidades técnicas relevantes no texto: a numeração salta do artigo 4.º diretamente para o artigo 7.º, faltando os artigos 5.º e 6.º e qualquer norma de entrada em vigor, e não prevê regime transitório para os processos pendentes no Balcão do Arrendamento após a sua extinção. Além disso, a suspensão indeterminada de despejos por falta de alternativa habitacional e o alargamento de prazos e indemnizações para denúncia podem gerar contencioso nos tribunais, pressionar os serviços da Segurança Social e retrair a oferta privada de arrendamento se não forem acompanhados de resposta habitacional pública.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proposta não apresenta quantificação orçamental. A extinção do Balcão do Arrendamento elimina uma estrutura administrativa existente, mas a transferência de processos para os tribunais e a obrigação de acompanhamento e elaboração de relatórios pela Segurança Social em todos os despejos tendem a aumentar a carga sobre estes serviços públicos, tornando o saldo financeiro incerto."
+ },
+ "affected": [
+  "arrendatários",
+  "senhorios",
+  "serviços de segurança social",
+  "tribunais"
+ ],
+ "categories": [
+  "habitacao",
+  "justica"
+ ],
+ "tags": [
+  "arrendamento urbano",
+  "balcão do arrendamento",
+  "despejos",
+  "caução",
+  "contratos de arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

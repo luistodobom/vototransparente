@@ -1,0 +1,24 @@
+{
+ "short_title": "Melhorar o SNS: Dedicação Plena e Acesso à Saúde",
+ "summary": "A proposta visa resolver a grave crise no Serviço Nacional de Saúde (SNS), caracterizada pela falta de profissionais, más condições de trabalho e longas listas de espera. Para tal, propõe alterar o regime de dedicação plena para os médicos, tornando-o facultativo e associado a um aumento salarial mínimo de 45% e prémios de desempenho. Inclui também incentivos para a fixação de médicos em zonas carenciadas, como subsídios de transporte e alojamento. Adicionalmente, prevê a obrigatoriedade de o Estado celebrar protocolos com o setor privado e social para garantir o direito à saúde, encaminhando utentes para estes serviços quando os tempos máximos de resposta garantida no SNS não são cumpridos. Por fim, revoga o artigo que cria os 'CEO da saúde', considerado ineficiente e gerador de despesa.",
+ "key_points": [],
+ "plain_language": "Basicamente, a saúde em Portugal está um caos, com poucos médicos e muita gente à espera. O CHEGA quer mudar isto, dando um grande aumento (pelo menos 45%) aos médicos que trabalham a tempo inteiro só para o Serviço Nacional de Saúde (SNS) e pagando-lhes as viagens e alojamento se forem para sítios mais longe. Também querem que o Estado seja obrigado a usar hospitais e clínicas privadas ou sociais se o SNS não conseguir atender as pessoas a tempo. E, para poupar dinheiro, querem acabar com uns cargos de 'CEO' na saúde que acham que não servem para nada.",
+ "context": null,
+ "analysis": "O documento identifica corretamente os problemas do SNS, como a falta de profissionais e a ineficiência. Contudo, há uma aparente inconsistência ao propor a reintrodução de um regime de dedicação exclusiva com aumento salarial, quando o próprio texto refere que um regime similar foi extinto em 2009 por não ter acrescentado valor. A justificação implícita é que a diferença reside na remuneração mais atrativa e na natureza facultativa, visando realmente fixar profissionais. A proposta alinha-se com o objetivo de assegurar o direito à saúde ao propor a colaboração obrigatória com os setores privado e social para cumprir os tempos de resposta, reconhecendo a capacidade complementar destes. A revogação do artigo sobre os 'CEO da saúde' é apresentada como uma medida para combater a despesa e ineficiência, o que se alinha com a crítica geral à gestão do SNS.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento significativo dos gastos do governo devido ao incremento salarial de pelo menos 45% para os médicos em regime de dedicação plena, prémios de desempenho e subsídios de transporte e alojamento. A obrigatoriedade de referenciar utentes para o setor privado ou social quando os tempos de resposta não são cumpridos no SNS também poderá implicar custos adicionais para o Estado, caso este tenha de pagar por esses serviços. Embora a revogação do artigo sobre os 'CEO da saúde' possa gerar alguma poupança, o efeito líquido global da proposta será um aumento substancial da despesa governamental, com o objetivo de atrair e reter profissionais de saúde e melhorar o acesso aos cuidados."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

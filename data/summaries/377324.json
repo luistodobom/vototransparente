@@ -1,0 +1,42 @@
+{
+ "short_title": "Monitorização do acesso de estrangeiros ao Serviço Nacional de Saúde",
+ "summary": "O Projeto de Resolução n.º 1302/XVII/2.ª, apresentado pelo Grupo Parlamentar do PS, é uma recomendação não vinculativa dirigida ao Governo sobre o acesso de cidadãos estrangeiros não residentes ao Serviço Nacional de Saúde (SNS). A iniciativa propõe que o Executivo realize um levantamento atualizado e abrangente sobre estes atendimentos, detalhando o número de utentes, a natureza dos cuidados prestados, os regimes de cobertura aplicáveis e os respetivos encargos financeiros. Recomenda ainda o reforço dos mecanismos de identificação das entidades financeiramente responsáveis, como seguradoras ou outros Estados, e dos procedimentos de faturação, cobrança e recuperação de verbas. Além disso, pede uma avaliação pelas entidades de inspeção e auditoria da saúde sobre eventuais falhas atuais. Por fim, solicita a entrega ao Parlamento, em 90 dias, de um relatório com os resultados e propostas de melhoria, sem criar obstáculos aos cuidados clinicamente necessários.",
+ "key_points": [
+  "Realizar um levantamento atualizado sobre o acesso de cidadãos estrangeiros não residentes ao Serviço Nacional de Saúde, incluindo número de utentes, cuidados prestados, regimes de cobertura e custos.",
+  "Reforçar a identificação das entidades financeiramente responsáveis pelos cuidados e melhorar os procedimentos de faturação, cobrança e recuperação dos encargos que não caibam ao Serviço Nacional de Saúde.",
+  "Solicitar às entidades de inspeção e auditoria da saúde uma avaliação aos procedimentos atuais e às eventuais insuficiências na faturação e cobrança.",
+  "Apresentar à Assembleia da República, no prazo de 90 dias, um relatório com os resultados do levantamento, o impacto financeiro efetivo e propostas de melhoria, sem prejudicar o acesso a cuidados clinicamente necessários."
+ ],
+ "plain_language": "Este projeto é um pedido oficial do Parlamento ao Governo, mas não tem força de lei nem obriga o Executivo a cumpri-lo. O objetivo é perceber exatamente quantos estrangeiros que não vivem em Portugal usam o Serviço Nacional de Saúde, que tratamentos recebem e quanto isso custa. Quando um utente não tem cobertura, a despesa cabe muitas vezes a seguradoras ou a outros Estados. O texto recomenda reforçar a cobrança, auditar falhas e entregar um relatório em 90 dias, assegurando que ninguém fica sem cuidados médicos necessários por burocracia.",
+ "context": "O PS argumenta que o debate parlamentar sobre o acesso de estrangeiros não residentes ao Serviço Nacional de Saúde deve assentar em dados objetivos, evitando generalizações ou estimativas não verificadas. Recorda que, embora a prestação de cuidados siga necessidades clínicas, os custos não devem recair no Orçamento do Estado quando existe outra entidade responsável, como seguradoras ou outros Estados. O partido menciona ainda uma resolução semelhante aprovada na legislatura anterior e dois projetos de lei do Chega em apreciação, defendendo informação rigorosa para avaliar o impacto real.",
+ "analysis": "Como ponto forte, a iniciativa procura basear o debate político em dados verificáveis e distingue o acesso aos cuidados clinicamente necessários da responsabilidade financeira pelo pagamento, procurando proteger as contas públicas sem restringir o atendimento. Contudo, apresenta fragilidades relevantes: tratando-se de um projeto de resolução, não é vinculativo, pelo que o Governo não é obrigado a cumprir o prazo de 90 dias nem as medidas recomendadas. Além disso, o texto não define indicadores concretos para o levantamento nem especifica os recursos humanos ou informáticos necessários para melhorar a faturação nas unidades de saúde. Existe também o risco de 90 dias serem insuficientes para auditar e recolher dados abrangentes de todo o sistema, gerando relatórios incompletos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser um projeto de resolução (recomendação não vinculativa), não gera impacto orçamental direto. Caso o Governo execute as medidas, o reforço da faturação e cobrança a terceiros responsáveis pode recuperar receitas para o Serviço Nacional de Saúde, mas os eventuais custos administrativos do levantamento e auditoria não estão quantificados no documento."
+ },
+ "affected": [
+  "cidadãos estrangeiros não residentes",
+  "Serviço Nacional de Saúde",
+  "serviços de faturação e auditoria na saúde",
+  "seguradoras e entidades terceiras responsáveis"
+ ],
+ "categories": [
+  "saude",
+  "imigracao",
+  "administracao"
+ ],
+ "tags": [
+  "serviço nacional de saúde",
+  "estrangeiros não residentes",
+  "faturação e cobrança",
+  "monitorização",
+  "auditoria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Criação da Prestação Social Única para erradicar a pobreza",
+ "summary": "O Projeto de Lei n.º 648/XVII/1.ª cria a Prestação Social Única (PSU) na Segurança Social, unificando e substituindo prestações não contributivas como o Rendimento Social de Inserção (RSI), pensões sociais de velhice e invalidez e subsídios sociais de desemprego e parentalidade. Trata-se de uma prestação pecuniária mensal diferencial correspondente à diferença entre os rendimentos do agregado familiar e um valor de referência igual ao limiar de risco de pobreza apurado pelo INE, multiplicado pelos adultos equivalentes do agregado. Exige residência em Portugal, património mobiliário até 240 vezes o IAS, acesso a dados fiscais e bancários e, para desempregados em idade ativa, inscrição no IEFP. Inclui 14 mensalidades para idosos, pessoas com incapacidade grave e certos órfãos, isenção de IRS e produção de efeitos no Orçamento subsequente.",
+ "key_points": [
+  "Substitui e converte oficiosamente prestações não contributivas como o RSI, as pensões sociais de velhice e invalidez e os subsídios sociais de desemprego e parentalidade numa única prestação mensal, garantindo os valores já recebidos.",
+  "Indexa o valor de referência da PSU ao limiar de risco de pobreza calculado pelo INE, multiplicado pelo número de adultos equivalentes (1 por cada adulto e 0,5 por cada menor) e deduzido dos rendimentos do agregado.",
+  "Exige residência em território nacional, património mobiliário não superior a 240 vezes o IAS, autorização de acesso a dados fiscais e bancários e, para desempregados em idade ativa, inscrição e disponibilidade no IEFP.",
+  "Garante 14 mensalidades anuais a idosos, pessoas com incapacidade igual ou superior a 60% ou permanente absoluta e órfãos menores sem pensão de orfandade, além de prever uma majoração por parentalidade.",
+  "Estabelece a isenção de IRS da prestação, o registo de remunerações por equivalência em situações de desemprego e a exclusão temporária de três meses em caso de falsas declarações ou recusa injustificada de emprego ou formação."
+ ],
+ "plain_language": "Em vez de vários apoios sociais separados, esta proposta junta os apoios a quem tem baixos rendimentos numa única prestação mensal. O objetivo é garantir que nenhuma família fica abaixo da linha de pobreza. O Estado calcula quanto falta ao agregado para atingir esse patamar, descontando os seus rendimentos, e paga a diferença. Quem pode trabalhar e está desempregado tem de se inscrever no centro de emprego e aceitar ofertas ou formação, com exceções para doentes, estudantes ou cuidadores informais. Quem já recebe RSI ou pensões sociais mantém, pelo menos, o valor atual.",
+ "context": "O Bloco de Esquerda argumenta que a pobreza em Portugal é estrutural, afetando 1,66 milhões de pessoas em 2024 abaixo dos 723 euros mensais, com especial incidência em desempregados, famílias monoparentais, crianças e trabalhadores pobres. Sustenta que o sistema não contributivo é fragmentado, difícil de aceder e oferece valores de mera sobrevivência, como no RSI. Aponta ainda que Portugal gasta apenas cerca de 0,3% do PIB no combate à exclusão social, menos de um terço da média da União Europeia (1,1%), defendendo uma unificação acompanhada de reforço financeiro para erradicar a pobreza.",
+ "analysis": "A iniciativa tem o mérito de racionalizar prestações não contributivas fragmentadas, reduzindo lacunas de cobertura e indexando o apoio ao limiar oficial de pobreza, com deveres de ativação laboral e salvaguardas na transição. Contudo, apresenta fragilidades relevantes. Primeiro, não quantifica o custo orçamental nem indica fontes de financiamento para aumentar a despesa pública face aos atuais 0,3% do PIB, remetendo os efeitos para um Orçamento futuro. Segundo, o artigo 23.º prevê um teto máximo a fixar por portaria, podendo contrariar o objetivo de garantir rendimentos acima do limiar de pobreza a agregados maiores. Terceiro, meios de prova e execução ficam remetidos para regulamentação futura, enquanto a revogação ampla de regimes vigentes e a articulação entre Segurança Social, IEFP e autarquias comportam riscos operacionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A proposta aumenta a despesa pública ao elevar o valor das prestações não contributivas para o limiar de risco de pobreza (723 euros por mês em 2024) e ao visar aproximar o investimento no combate à exclusão social dos atuais 0,3% do PIB para a média europeia de 1,1%. O diploma não quantifica o encargo exato nem indica fontes de receita, remetendo a produção de efeitos para o Orçamento subsequente."
+ },
+ "affected": [
+  "agregados familiares abaixo do limiar de pobreza",
+  "beneficiários do RSI e de pensões sociais",
+  "desempregados sem acesso ao subsídio de desemprego",
+  "Segurança Social, IEFP e câmaras municipais"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "prestação social única",
+  "pobreza",
+  "segurança social",
+  "rendimento social de inserção",
+  "apoios não contributivos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

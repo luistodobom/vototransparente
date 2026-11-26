@@ -1,0 +1,26 @@
+{
+ "short_title": "Prevenir uso indevido do SNS por estrangeiros não residentes",
+ "summary": "Esta proposta visa resolver o problema do uso indevido do Serviço Nacional de Saúde (SNS) por cidadãos estrangeiros não residentes, que têm acesso a cuidados de saúde gratuitos sem estarem abrangidos por seguros ou acordos internacionais, sobrecarregando o sistema. A Iniciativa Liberal propõe que os cuidados de saúde não-emergentes e fármacos sejam cobrados no momento da prestação, ou que os utentes apresentem um seguro de saúde válido. As receitas resultantes seriam destinadas às Unidades Locais de Saúde (ULS) que prestam os cuidados. Além disso, a proposta recomenda a integração de sistemas de informação entre o SNS, a Agência para a Integração Migrações e Asilo (AIMA) e a Autoridade Tributária (AT) para facilitar a verificação do estatuto dos utentes e a cobrança. É salvaguardado o acesso a cuidados emergentes, urgentes, vitais e para doenças transmissíveis, bem como para imigrantes em processo de regularização com insuficiência económica comprovada.",
+ "key_points": [],
+ "plain_language": "Basicamente, o SNS está a ser usado por muitos estrangeiros que não vivem cá e não pagam nada, o que está a esgotar os nossos recursos. A Iniciativa Liberal quer que, a partir de agora, quem não vive em Portugal e precisar de ir ao médico por algo que não seja uma emergência ou uma doença contagiosa, pague logo ou mostre um seguro de saúde. O dinheiro que for cobrado vai diretamente para os hospitais que prestaram o serviço. Também querem que os sistemas informáticos do SNS, da imigração e das finanças falem uns com os outros para ser mais fácil saber quem é quem e cobrar o que é devido. Mas atenção, as urgências e os casos de doenças perigosas continuam a ser atendidos sem pagar, e os imigrantes que estão a tentar legalizar-se e não têm dinheiro também continuam a ter acesso.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma inconsistência entre a legislação atual, que equipara o acesso de residentes e não residentes, e a capacidade de cobrança efetiva, resultando em faturas não pagas. A proposta alinha os detalhes da implementação (cobrança prévia, uso de seguros, integração de sistemas) com o objetivo de garantir a sustentabilidade do SNS e a justiça para os contribuintes. A ênfase na cobrança direta e na reversão das receitas para as ULS cria um incentivo financeiro para a boa gestão. No entanto, a eficácia da cobrança prévia pode ser um desafio prático, especialmente em situações de urgência que, embora não sejam o foco principal da cobrança, podem gerar custos iniciais. A proposta tenta mitigar isso ao focar nos cuidados não-emergentes. A integração de sistemas é crucial e, se bem-sucedida, resolveria a raiz do problema da falta de dados e moradas incorretas, que o próprio documento aponta como falhas atuais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta tem como objetivo principal diminuir os gastos do governo com a prestação de cuidados de saúde a cidadãos estrangeiros não residentes e aumentar a receita do governo através da cobrança desses serviços. Ao exigir o pagamento prévio ou a apresentação de seguro para cuidados não-emergentes, espera-se uma redução da despesa pública e um aumento das receitas para as Unidades Locais de Saúde. O efeito líquido esperado é uma diminuição da carga financeira sobre o SNS e, consequentemente, sobre o orçamento do Estado, contribuindo para a sustentabilidade do sistema de saúde."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

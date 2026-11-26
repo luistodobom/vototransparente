@@ -1,0 +1,25 @@
+{
+ "short_title": "Proíbe a Venda de Casas a Não Residentes",
+ "summary": "Esta proposta de lei visa combater a crise habitacional em Portugal, onde os preços das casas e as rendas aumentaram drasticamente, tornando a habitação inacessível para muitos residentes. O documento argumenta que esta situação é resultado de políticas públicas que promoveram a especulação imobiliária e o turismo residencial de luxo, atraindo capital estrangeiro. A solução proposta é proibir a venda de imóveis destinados à habitação a pessoas singulares ou coletivas que não tenham residência própria e permanente ou sede em Portugal, especialmente em zonas de pressão urbanística. A proposta inclui exceções para cidadãos portugueses residentes no estrangeiro, imigrantes com autorização de residência permanente, e transações em territórios de baixa densidade.",
+ "key_points": [],
+ "plain_language": "Esta proposta quer acabar com a loucura dos preços das casas em Portugal. Basicamente, proíbe que pessoas que não vivem cá comprem casas, especialmente nas cidades. A ideia é que, se menos gente de fora comprar casas para especular, os preços baixam e os portugueses conseguem finalmente ter uma casa digna. É uma medida para pôr a habitação em primeiro lugar, em vez do lucro fácil.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada da crise habitacional em Portugal, atribuindo-a diretamente à financeirização do mercado imobiliário e à atração de capital estrangeiro para fins especulativos. Os dados apresentados sobre o aumento dos preços e rendas, bem como a percentagem de transações por não residentes, reforçam a argumentação. A proposta de proibir a venda de casas a não residentes alinha-se diretamente com o objetivo de reduzir a pressão especulativa sobre o mercado e tornar a habitação mais acessível. O texto aborda proativamente as potenciais objeções legais, nomeadamente em relação ao direito comunitário, argumentando que a restrição se baseia na residência e não na nacionalidade, e que serve um interesse público imperioso (o direito à habitação) que não pode ser alcançado por medidas menos restritivas. As exceções previstas demonstram uma tentativa de mitigar impactos indesejados, como a penalização de emigrantes portugueses ou a estagnação em áreas de baixa densidade. A lógica é clara: identificar a procura externa como um fator chave da inflação e propor uma medida direta para a conter.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo nas receitas do governo. O documento menciona que a atração de capitais estrangeiros para o imobiliário foi uma estratégia para \"potenciar as receitas fiscais\". Ao proibir a venda de imóveis a não residentes, o governo perderá receitas provenientes de impostos sobre transações imobiliárias (como o IMT e o Imposto do Selo) e de mais-valias geradas por estas vendas. Embora possa haver benefícios indiretos para a economia através da estabilização dos preços da habitação e do aumento do poder de compra dos residentes, o efeito líquido direto sobre as receitas fiscais do governo será de diminuição, uma vez que uma fonte significativa de investimento e tributação será restringida."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

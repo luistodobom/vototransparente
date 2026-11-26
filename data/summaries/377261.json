@@ -1,0 +1,44 @@
+{
+ "short_title": "Regulação temporária dos preços máximos dos combustíveis",
+ "summary": "O Projeto de Resolução n.º 1268/XVII/2.ª, do Bloco de Esquerda, recomenda ao Governo que crie um regime transitório de fixação de preços máximos de venda ao público para a gasolina sem chumbo e o gasóleo rodoviário. Como projeto de resolução, trata-se de uma recomendação sem força vinculativa. A proposta inspira-se no modelo adotado pela Polónia e sugere que o preço máximo seja calculado através de uma fórmula legal que soma o preço grossista médio nacional do dia útil anterior, os impostos e taxas em vigor (ISP, Contribuição de Serviço Rodoviário e IVA) e uma margem retalhista máxima a definir em diploma próprio. Os cinco maiores operadores grossistas teriam de comunicar diariamente os seus preços à DGEG e à ENSE até às 9h00, cabendo ao Governo publicar o preço máximo diário para o dia útil seguinte. A fiscalização ficaria a cargo da ASAE e da ENSE, prevendo-se coimas até um milhão de euros.",
+ "key_points": [
+  "Definir por portaria uma fórmula de preço máximo que soma o preço grossista médio do dia útil anterior, impostos e taxas (ISP, Contribuição de Serviço Rodoviário e IVA) e uma margem retalhista máxima.",
+  "Obrigar os cinco maiores operadores grossistas a comunicar eletronicamente os preços à DGEG e à ENSE até às 9h00 de cada dia útil.",
+  "Fixar uma margem máxima de retalho em diploma próprio, tomando como referência o teto polaco equivalente a cerca de 0,07 euros por litro.",
+  "Publicar diariamente por despacho governamental o preço máximo de venda ao público, válido a partir do dia útil seguinte.",
+  "Atribuir a fiscalização à ASAE e à ENSE, com aplicação de coimas que podem atingir 1 000 000 de euros por venda acima do limite.",
+  "Manter o regime em vigor apenas pelo período mínimo necessário para mitigar os efeitos económicos da guerra no Médio Oriente."
+ ],
+ "plain_language": "Esta iniciativa pede ao Governo que ponha um limite máximo no preço da gasolina e do gasóleo enquanto durar a crise energética provocada pelo conflito no Médio Oriente. A ideia é calcular esse teto todos os dias úteis, somando o preço a que as grandes empresas vendem o combustível por grosso, os impostos e um lucro máximo para os postos de abastecimento. Se algum posto vender mais caro do que o valor publicado pelo Governo, pode ser multado até um milhão de euros. Como é uma recomendação, o Governo não é obrigado a seguir a proposta.",
+ "context": "O Bloco de Esquerda justifica a iniciativa com a escalada dos preços dos combustíveis após o início da guerra no Médio Oriente, em fevereiro de 2026, e o bloqueio do Estreito de Ormuz. Segundo o documento, em abril de 2026 o gasóleo tinha subido cerca de 60 cêntimos e a gasolina 20 cêntimos. O proponente considera os descontos no ISP insuficientes por não travarem as margens dos operadores nem o efeito do IVA, apontando os tetos máximos aplicados nos Açores, na Madeira e na Polónia como exemplos eficazes de proteção ao consumidor.",
+ "analysis": "A proposta apresenta uma fórmula transparente, delimita o universo de operadores obrigados ao reporte e prevê caráter temporário e fiscalização clara pela ASAE e pela ENSE. Contudo, enquanto projeto de resolução, não vincula o Executivo. Há fragilidades operacionais e de desenho: o cálculo baseia-se no preço grossista comunicado pelos cinco maiores operadores, sem limitar a margem grossista, o que pode permitir transferências de margem para cima na cadeia de valor. Além disso, a publicação diária por despacho exige elevada capacidade administrativa e uma margem retalhista uniforme pode penalizar postos de menor dimensão ou em zonas rurais. Nota-se ainda um desfasamento temporal no texto, datado de setembro de 2026 mas apoiado em preços e prazos de abril e junho, e a ausência da descida do IVA que integrou o pacote polaco citado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Como recomendação sem força vinculativa, a iniciativa não produz impacto orçamental direto. Se implementada pelo Governo, não altera as taxas de ISP ou IVA, mas um preço máximo inferior ao de mercado reduziria a receita de IVA por litro vendido, gerando ainda custos administrativos de gestão diária e fiscalização pela DGEG, ENSE e ASAE, potencialmente compensados por coimas até 1 000 000 de euros."
+ },
+ "affected": [
+  "condutores e consumidores de combustíveis",
+  "operadores grossistas de combustíveis",
+  "retalhistas e postos de abastecimento",
+  "DGEG, ENSE e ASAE"
+ ],
+ "categories": [
+  "energia",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "combustíveis",
+  "preços máximos",
+  "regulação de preços",
+  "margem retalhista",
+  "custo de vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

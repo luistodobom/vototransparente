@@ -1,0 +1,26 @@
+{
+ "short_title": "Combate a Conteúdos Terroristas Online",
+ "summary": "Esta proposta de lei visa adaptar a legislação portuguesa ao Regulamento (UE) 2021/784, que estabelece medidas para combater a difusão de conteúdos terroristas em linha. O objetivo é garantir o bom funcionamento do Mercado Único Digital, impedindo o uso abusivo de serviços de alojamento virtual para fins terroristas. A proposta designa a Polícia Judiciária como a entidade responsável por emitir decisões de supressão ou bloqueio de conteúdos e a Autoridade Nacional de Comunicações (ANACOM) para supervisionar a aplicação das medidas e aplicar sanções. Adicionalmente, estabelece um regime de recurso para as decisões tomadas e define um conjunto de contraordenações com coimas elevadas para o incumprimento das obrigações por parte dos prestadores de serviços de alojamento virtual e fornecedores de conteúdos.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta é para apertar o cerco ao terrorismo na internet. Basicamente, o Governo quer ter autorização para criar leis que obriguem as empresas que alojam sites e conteúdos a tirar do ar ou bloquear rapidamente tudo o que seja terrorismo. A Polícia Judiciária vai ser a polícia da internet para estas coisas, e a ANACOM vai ser a fiscalizadora, podendo multar as empresas que não cumprirem. Também se explica como as empresas podem reclamar se acharem que uma decisão é injusta e quais são as multas para quem não obedecer. O objetivo é tornar a internet mais segura, mas sem esquecer que as pessoas têm direito à liberdade de expressão.",
+ "context": null,
+ "analysis": "O documento apresenta uma abordagem coerente e detalhada para a transposição do Regulamento (UE) 2021/784 para a ordem jurídica portuguesa. A designação clara da Polícia Judiciária para a emissão de ordens de supressão e da ANACOM para a supervisão e aplicação de sanções demonstra uma divisão de competências que se alinha com as suas missões institucionais. A previsão de um regime de recurso robusto, envolvendo tribunais criminais e o Tribunal da Relação, bem como o Tribunal da Concorrência, Regulação e Supervisão para as decisões da ANACOM, é fundamental para garantir o equilíbrio entre a segurança e a liberdade de expressão, conforme explicitado na exposição de motivos. A definição de contraordenações e coimas, incluindo a responsabilidade de pessoas singulares e coletivas, reforça a seriedade do compromisso com o combate ao terrorismo online. Não se identificam inconsistências significativas; pelo contrário, os detalhes da implementação parecem bem alinhados com o objetivo de criar um quadro legal eficaz e justo para lidar com esta ameaça global.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento da receita do governo através da aplicação de coimas e sanções pecuniárias compulsórias por incumprimento das obrigações. O produto destas coimas será distribuído, com 60% a reverter para o Estado e 40% para a ANACOM. Embora não haja menção explícita a um aumento direto das despesas governamentais, a implementação e fiscalização destas medidas pela Polícia Judiciária e pela ANACOM implicarão, naturalmente, custos operacionais e administrativos adicionais. No entanto, dada a natureza e o potencial valor das coimas, que podem atingir montantes significativos (até 4% do volume de negócios global em caso de reincidência), o efeito líquido esperado é um aumento da receita governamental, que deverá compensar os custos de implementação e fiscalização."
+ },
+ "affected": [],
+ "categories": [
+  "defesa",
+  "justica",
+  "ciencia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

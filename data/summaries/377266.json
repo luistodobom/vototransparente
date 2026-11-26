@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargamento da dedução no IRS do crédito à habitação a todos os contratos",
+ "summary": "O Projeto de Resolução n.º 1271/XVII/2.ª, apresentado pelo PAN, propõe que a Assembleia da República recomende ao Governo o alargamento da possibilidade de dedução no IRS dos encargos com o crédito à habitação a todos os contratos. Atualmente, segundo o texto da iniciativa, a dedução prevista nas alíneas b), c) e d) do n.º 1 do artigo 78.º-E do Código do IRS aplica-se apenas a contratos celebrados até 31 de dezembro de 2011, na sequência de uma alteração introduzida pelo Orçamento do Estado para 2012. A recomendação visa incluir quem contraiu empréstimos após essa data e quem, tendo contratos anteriores a 2012, procedeu posteriormente à sua renegociação. Trata-se de uma recomendação não vinculativa, pelo que não altera diretamente a lei fiscal sem posterior iniciativa legislativa.",
+ "key_points": [
+  "Recomenda ao Governo que estenda a dedução em sede de IRS de gastos com o crédito à habitação a todos os contratos, independentemente da data de celebração.",
+  "Visa eliminar a restrição em vigor desde o Orçamento do Estado para 2012, que limita este benefício fiscal aos contratos celebrados até 31 de dezembro de 2011.",
+  "Pretende abranger mutuários com contratos mais recentes, incluindo jovens compradores, bem como famílias que renegociaram créditos anteriores a 2012 após essa data.",
+  "Sendo um projeto de resolução, não tem força de lei nem efeitos fiscais imediatos, cabendo ao Governo decidir se avança com a alteração legislativa."
+ ],
+ "plain_language": "Quando entregas o IRS, podes abater certas despesas para pagar menos imposto. No caso do crédito à habitação, essa vantagem só existe hoje para empréstimos assinados até ao final de 2011. Quem comprou casa depois disso, ou até quem já tinha empréstimo mas o renegociou mais tarde, ficou de fora. Com este projeto, o Parlamento recomenda ao Governo que mude essa regra e deixe todas as famílias com crédito à habitação deduzir estes gastos no IRS. Como é apenas uma recomendação, o Governo não é obrigado a fazê-lo e nada muda já nos impostos.",
+ "context": "O proponente justifica a iniciativa com a retoma da subida das taxas de juro pelo Banco Central Europeu, para 2,50% no início de setembro, podendo atingir 3%, num cenário de inflação e aumento do preço dos combustíveis associado à guerra no Médio Oriente e ao bloqueio do Estreito de Hormuz. Argumenta ainda que a limitação introduzida em 2012 cria desigualdade face a compradores recentes, nomeadamente jovens, e a famílias que renegociaram créditos antigos após 2011, defendendo um alívio fiscal para equilibrar os orçamentos familiares.",
+ "analysis": "Como ponto positivo, a iniciativa identifica uma assimetria fiscal real entre mutuários com contratos anteriores a 2012 e quem comprou casa ou renegociou o empréstimo posteriormente. Contudo, apresenta fragilidades relevantes. Primeiro, por ser um projeto de resolução, é uma recomendação não vinculativa sem força para alterar o Código do IRS. Segundo, há imprecisão terminológica no texto: a exposição de motivos refere a dedução de «juros», enquanto o título e a recomendação final falam de «gastos com a prestação», expressão mais ampla que pode gerar dúvidas sobre a inclusão de amortização de capital. Terceiro, a proposta não define limites de rendimento, montantes máximos de dedução, prazos nem estimativas de impacto orçamental, dificultando a avaliação da sua sustentabilidade financeira e eficácia distributiva.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Por ser um projeto de resolução não vinculativo, não produz efeitos orçamentais imediatos. Contudo, a implementação da medida recomendada reduziria a receita fiscal do Estado em sede de IRS ao alargar uma dedução a um universo muito mais vasto de contribuintes. O documento não apresenta estimativas do custo orçamental."
+ },
+ "affected": [
+  "mutuários com crédito à habitação posterior a 2011",
+  "famílias que renegociaram contratos antigos após 2011",
+  "jovens compradores de habitação"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "crédito à habitação",
+  "deduções fiscais",
+  "taxas de juro",
+  "habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

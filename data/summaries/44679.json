@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime excecional de preços máximos para combustíveis",
+ "summary": "Esta proposta de lei estabelece um regime excecional e temporário de preços máximos para os combustíveis líquidos em Portugal. O objetivo é garantir que os preços dos combustíveis acompanhem a descida do preço do barril de Brent no mercado internacional, algo que não tem acontecido de forma proporcional, resultando em lucros excessivos para as empresas do setor em detrimento das famílias e das pequenas e médias empresas, especialmente no contexto da desaceleração económica causada pela pandemia de SARS-CoV-2. O regime prevê que o Governo fixe e atualize semanalmente os preços máximos, tendo em conta a evolução do preço do Brent, e que as entidades reguladoras intensifiquem a fiscalização.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo meta um travão nos preços da gasolina e do gasóleo. A ideia é que, como o petróleo lá fora (o Brent) está mais barato, os combustíveis cá também deviam estar, mas não estão a descer tanto. Isto faz com que as empresas de combustíveis ganhem mais à custa das pessoas e das empresas, numa altura em que a economia está fraca por causa da pandemia. Então, o PCP propõe que o Governo defina um preço máximo para os combustíveis, que seja atualizado todas as semanas com base no preço do petróleo, para que as famílias e as pequenas empresas não sejam tão apertadas. E também quer que as entidades que fiscalizam os preços estejam mais atentas.",
+ "context": null,
+ "analysis": "A proposta identifica uma inconsistência clara entre a descida do preço do Brent e a manutenção de preços elevados dos combustíveis refinados em Portugal, atribuindo-a a estratégias especulativas e à lógica de formação de preços baseada em índices artificiais. A solução proposta, um regime de preços máximos temporário e excecional, alinha-se diretamente com o objetivo de corrigir esta distorção e proteger os consumidores e as atividades económicas (agricultura, pescas, transportes). A implementação prevê que o Governo fixe os preços máximos semanalmente, com base no Brent, o que é uma medida direta para forçar o alinhamento. Contudo, a proposta não detalha a metodologia exata para o cálculo do preço máximo a partir do Brent, nem como será feita a \"proporcionalidade\" para as atividades económicas, o que pode ser uma área de ambiguidade na sua aplicação prática. A chamada para a intensificação da fiscalização por parte da ERSE e ENSE é um complemento importante para garantir a conformidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta estabelece um regime de preços máximos antes de imposto. Se estes preços máximos forem inferiores aos que o mercado praticaria, e se os impostos sobre os combustíveis forem calculados como uma percentagem do preço base, então a receita do governo proveniente dos impostos sobre os combustíveis poderá diminuir por unidade vendida. No entanto, ao reduzir os custos para famílias e empresas, a medida pode estimular a atividade económica, o que, por sua vez, poderia levar a um aumento de outras receitas fiscais (como IVA ou impostos sobre o rendimento). O efeito líquido é incerto, mas a intenção primária não é aumentar a receita do governo, mas sim aliviar a carga sobre os consumidores e empresas, o que pode resultar numa diminuição líquida da receita direta dos impostos sobre os combustíveis, potencialmente compensada por um aumento indireto noutras áreas fiscais devido ao estímulo económico."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "transportes",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

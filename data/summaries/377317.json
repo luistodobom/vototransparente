@@ -1,0 +1,43 @@
+{
+ "short_title": "Cobrança de cuidados no SNS a estrangeiros não residentes",
+ "summary": "O Projeto de Resolução n.º 1297/XVII/2.ª, da Iniciativa Liberal, recomenda ao Governo medidas para cobrar efetivamente os cuidados prestados no Serviço Nacional de Saúde (SNS) a cidadãos estrangeiros não residentes. Por ser um projeto de resolução, não vincula o Governo nem altera diretamente a lei. O texto propõe a cobrança prévia de cuidados não emergentes e de medicamentos dispensados a estes utentes, ou a exigência de uma caução inicial quando o custo final não possa ser calculado antes. Mantêm-se salvaguardados os cuidados imediatos em situações emergentes, urgentes, vitais ou de doenças transmissíveis que representem risco para a saúde pública. Quando exista seguro ou acordo internacional, a fatura deve ser imputada à entidade responsável. Recomenda ainda a uniformização de procedimentos, o cruzamento de dados entre organismos públicos e a entrega integral dos valores cobrados às Unidades Locais de Saúde que prestaram o atendimento.",
+ "key_points": [
+  "Cobrar previamente aos cidadãos estrangeiros não residentes os cuidados de saúde não emergentes e os medicamentos, salvaguardando sempre o atendimento imediato em situações urgentes, vitais ou de risco para a saúde pública.",
+  "Avaliar a exigência de uma caução inicial quando o utente seja o responsável pelo pagamento e o custo total só possa ser apurado após o tratamento.",
+  "Imputar os encargos às seguradoras ou Estados competentes sempre que o utente tenha seguro de saúde ou cobertura por acordo internacional, identificando o pagador nos sistemas de faturação.",
+  "Entregar integralmente os montantes cobrados à Unidade Local de Saúde que prestou os cuidados.",
+  "Integrar os sistemas de informação entre o Serviço Nacional de Saúde, a Agência para a Integração, Migrações e Asilo, a Autoridade Tributária e a Segurança Social para verificar identidade e residência na admissão.",
+  "Definir procedimentos administrativos uniformes em todos os serviços de saúde, desde a admissão até à recuperação de dívidas."
+ ],
+ "plain_language": "Este documento é uma recomendação do Parlamento ao Governo, sem força de lei, para evitar que o serviço público de saúde suporte custos com estrangeiros que não vivem em Portugal. Em emergências, situações urgentes ou doenças contagiosas perigosas, o atendimento imediato mantém-se garantido. Contudo, para cuidados não urgentes e medicamentos, propõe-se o pagamento prévio ou uma caução quando a despesa cabe ao utente. Se existir seguro ou acordo entre países, o hospital deve faturar à entidade responsável e ficar com os valores cobrados, cruzando dados do Estado na admissão.",
+ "context": "O proponente afirma que o SNS tem prestado cuidados gratuitos a estrangeiros não residentes sem conseguir cobrar os respetivos custos, sobrecarregando os contribuintes e os recursos do sistema. Refere ainda relatos de redes organizadas que facilitam deslocações a Portugal para obter tratamentos gratuitos. Embora já existam regras de registo de utentes, disposições orçamentais e resoluções anteriores, o texto cita auditorias da inspeção da saúde e estudos regulatórios que mostram falhas informáticas, falta de cobertura por seguro em muitos atendimentos e baixas taxas de cobrança efetiva nas unidades hospitalares.",
+ "analysis": "A iniciativa aborda um problema administrativo documentado no texto através de auditorias e recomendações regulatórias, propondo medidas concretas como o pagamento prévio, cauções e incentivos diretos às unidades de saúde. Tem o mérito de salvaguardar expressamente situações urgentes, vitais e de saúde pública. Contudo, apresenta fragilidades de execução. Como projeto de resolução, não tem caráter vinculativo e repete em parte recomendações já feitas em 2025 e previstas no Orçamento do Estado para 2026. Além disso, não quantifica os custos nem os prazos necessários para integrar quatro grandes bases de dados públicas (SNS, AIMA, Autoridade Tributária e Segurança Social), nem detalha regras de proteção de dados ou procedimentos para utentes sem documentação imediata ou em situação de vulnerabilidade económica fora das urgências.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa, não produz impacto orçamental direto imediato. Caso seja aplicada, visa aumentar a receita das Unidades Locais de Saúde através da cobrança efetiva de cuidados (o texto refere 1.234.358 euros por cobrar apenas na ULS do Algarve em 2023 e 2024), mas exige investimentos não quantificados na integração de sistemas informáticos e meios administrativos."
+ },
+ "affected": [
+  "cidadãos estrangeiros não residentes",
+  "Unidades Locais de Saúde",
+  "equipas administrativas e de faturação do SNS",
+  "seguradoras e entidades internacionais responsáveis"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "sns",
+  "não residentes",
+  "faturação hospitalar",
+  "unidades locais de saúde",
+  "interoperabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

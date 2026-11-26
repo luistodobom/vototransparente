@@ -1,0 +1,45 @@
+{
+ "short_title": "Inventário urgente e uso habitacional de imóveis públicos devolutos",
+ "summary": "O Projeto de Resolução do PAN recomenda ao Governo medidas urgentes para identificar e disponibilizar património imobiliário público devoluto ou subutilizado para fins habitacionais. Como projeto de resolução, não tem força de lei nem efeito vinculativo, funcionando como uma exortação política ao Executivo. Em concreto, a iniciativa pede a conclusão urgente do inventário de imóveis públicos com aptidão habitacional, previsto desde 2020, alargando-o a casos de compropriedade ou indivisão em que o Estado tenha parte. Recomenda ainda um plano de ação com cronograma, a afetação de recursos humanos, técnicos e financeiros ao processo e a divulgação pública e periódica dos dados apurados. Por fim, propõe que esses imóveis sejam afetos prioritariamente à bolsa de imóveis do Estado para habitação acessível e que o Governo avalie e resolva entraves jurídicos e administrativos à sua utilização.",
+ "key_points": [
+  "Concluir com urgência o inventário do património público apto para habitação, incluindo edifícios devolutos, subutilizados ou detidos em compropriedade pelo Estado.",
+  "Apresentar um plano de ação com cronograma definido para finalizar o inventário e pôr em funcionamento a bolsa de imóveis do Estado para habitação.",
+  "Assegurar os meios humanos, técnicos e financeiros necessários para concluir este levantamento.",
+  "Divulgar pública e periodicamente informação transparente sobre o avanço do inventário e o estado dos imóveis identificados.",
+  "Canalizar prioritariamente os imóveis públicos aptos para a bolsa de imóveis do Estado, reforçando a oferta de habitação pública e acessível.",
+  "Avaliar obstáculos jurídicos e administrativos, sobretudo em imóveis partilhados ou indivisos, criando soluções que respeitem os direitos dos restantes titulares."
+ ],
+ "plain_language": "O Estado tem vários edifícios vazios ou mal aproveitados que podiam servir para dar casa a quem precisa. Embora uma lei de 2020 já obrigue a fazer uma lista desses imóveis, ainda não são conhecidos os resultados concretos. Com esta proposta, o PAN quer que o Parlamento peça ao Governo, sem o poder obrigar, que termine a lista rapidamente, divulgue os dados e disponibilize esses imóveis para habitação acessível. Inclui também imóveis em que o Estado partilha a propriedade com outros donos (compropriedade ou bens não partilhados), pedindo soluções para os desbloquear.",
+ "context": "O PAN justifica a iniciativa com o agravamento da crise da habitação, marcada pela escassez de oferta acessível e pela subida dos preços face aos rendimentos, afetando sobretudo jovens, famílias monoparentais e agregados vulneráveis. Invoca petições públicas e reportagens sobre imóveis do Estado encerrados e degradados para apontar a falha na execução do Decreto-Lei n.º 82/2020, que já previa um inventário e uma bolsa de imóveis públicos a cargo do Instituto da Habitação e da Reabilitação Urbana, mas cujos resultados concretos continuam por conhecer.",
+ "analysis": "A proposta tem o mérito de exigir o cumprimento de legislação já existente e de reforçar a transparência sobre o património público, um passo prévio indispensável para qualquer política de habitação pública. É também relevante ao incluir imóveis em compropriedade ou indivisão, frequentemente bloqueados por impasses jurídicos. Contudo, tratando-se de um projeto de resolução, não vincula o Governo nem fixa prazos concretos, dependendo inteiramente da vontade política do Executivo. Além disso, o texto é genérico quanto à execução: pede a afetação de recursos sem os quantificar e não define critérios nem fontes de financiamento para reabilitar os imóveis após o inventário. A resolução de situações de compropriedade envolve ainda processos civis complexos, cujo desbloqueio pode ser moroso devido à proteção legal dos restantes titulares.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo um projeto de resolução, não é vinculativo e o documento não apresenta estimativas de custos nem montantes. Embora recomende a afetação de recursos humanos, técnicos e financeiros para concluir o inventário e mobilizar imóveis, não esclarece se tal exigirá nova despesa orçamental ou apenas reafetação de meios existentes."
+ },
+ "affected": [
+  "famílias em situação de vulnerabilidade socioeconómica",
+  "jovens",
+  "famílias monoparentais",
+  "comproprietários de imóveis partilhados com o Estado",
+  "Instituto da Habitação e da Reabilitação Urbana"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao",
+  "familia"
+ ],
+ "tags": [
+  "habitação pública",
+  "património devoluto",
+  "inventário imobiliário",
+  "bolsa de imóveis",
+  "compropriedade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

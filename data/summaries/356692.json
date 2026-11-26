@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas contra o aumento do preço dos fertilizantes agrícolas",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo a adoção de três medidas para responder à subida do preço dos fertilizantes agrícolas e reforçar a autonomia do setor. Por se tratar de um projeto de resolução, as propostas não têm força vinculativa imediata, funcionando como orientações políticas dirigidas ao executivo. Em primeiro lugar, sugere a criação de um regime extraordinário para limitar as margens de lucro na comercialização de fertilizantes agrícolas. Em segundo lugar, propõe um regime de majoração para incentivar a utilização e a produção de produtos biológicos na agricultura. Por último, recomenda a promoção de cadeias curtas de produção através do incentivo à compra de produtos agrícolas locais, integrando géneros produzidos por agricultores de proximidade nas cantinas públicas de escolas, instituições de ensino superior, estabelecimentos de saúde e outras entidades públicas.",
+ "key_points": [
+  "Recomenda ao Governo a aprovação de um regime extraordinário que limite as margens de lucro aplicáveis aos fertilizantes no setor agrícola.",
+  "Propõe a criação de um regime de majoração para incentivar a produção e a utilização de produtos biológicos na agricultura.",
+  "Defende o incentivo à compra de produtos agrícolas locais e à criação de cadeias curtas de produção.",
+  "Sugere o fornecimento de produtos de agricultores locais às cantinas públicas de escolas, instituições de ensino superior, unidades de saúde e outras instituições públicas."
+ ],
+ "plain_language": "Como os fertilizantes ficaram muito mais caros, o PAN pede ao Governo que tome medidas para ajudar os agricultores e tornar a agricultura menos dependente do estrangeiro. Esta proposta não obriga o Governo a agir, porque é apenas uma recomendação do Parlamento. Na prática, sugere pôr um travão aos lucros das empresas que vendem fertilizantes, dar benefícios reforçados a quem use e produza produtos biológicos e fazer com que as cantinas de escolas, universidades e hospitais comprem mais alimentos diretamente a agricultores locais.",
+ "context": "O PAN justifica a iniciativa com o agravamento do custo de vida decorrente da guerra no Irão e do bloqueio do Estreito de Ormuz, por onde passa entre 25% e 35% do comércio global de fertilizantes. Segundo o partido, esta subida dos preços pode gerar inflação excessiva e lucros indevidos das empresas comerciantes, deixando os agricultores desprotegidos. O proponente aponta ainda as alterações climáticas, a dependência das importações e das exportações e a necessidade de reduzir a pegada carbónica através da produção biológica e de cadeias locais.",
+ "analysis": "Como ponto positivo, a iniciativa articula a resposta a um choque de custos nos fertilizantes com objetivos estruturais, como a promoção de cadeias curtas em cantinas públicas e a redução da dependência externa. Contudo, trata-se de uma recomendação não vinculativa e formulada em termos muito genéricos. O texto não define tetos para as margens de lucro, prazos de vigência do regime extraordinário nem critérios para a majoração dos produtos biológicos. A limitação administrativa de margens comporta riscos económicos, como eventual escassez ou retração da oferta se os importadores redirecionarem mercadoria. Além disso, dar preferência a produtores locais nas compras públicas pode enfrentar constrangimentos nas regras de contratação pública e concorrência.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo um projeto de resolução não vinculativo e sem valores orçamentados, não gera impacto financeiro direto imediato. Contudo, a eventual criação de um regime de majoração para produtos biológicos e o incentivo a compras locais em cantinas públicas poderão aumentar a despesa pública ou reduzir a receita fiscal, consoante o modelo adotado pelo Governo."
+ },
+ "affected": [
+  "agricultores",
+  "empresas comerciantes de fertilizantes",
+  "produtores agrícolas biológicos",
+  "cantinas de escolas e hospitais públicos"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [
+  "fertilizantes",
+  "margens de lucro",
+  "agricultura biológica",
+  "cadeias curtas",
+  "cantinas públicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Prevenção do desaparecimento de pessoas com demência",
+ "summary": "Este Projeto de Resolução, de natureza não vinculativa, recomenda ao Governo três medidas para prevenir e responder ao desaparecimento de pessoas com demência. Em primeiro lugar, propõe tornar obrigatória a identificação, sinalização interna e acompanhamento permanente de doentes com diagnóstico confirmado ou suspeita clínica de demência nas unidades hospitalares e de saúde. Isso inclui a colocação de pulseiras com tecnologia de geolocalização na triagem, a proibição de circulação sem vigilância e a responsabilização das administrações em caso de incumprimento. Em segundo lugar, recomenda a criação de um sistema nacional de alerta e resposta rápida, articulando unidades de saúde, forças de segurança e proteção civil, focado nas primeiras horas após um desaparecimento. Por fim, pede mecanismos eficazes de fiscalização e responsabilização jurídica e material para instituições de saúde e estruturas residenciais que violem os deveres de vigilância e proteção.",
+ "key_points": [
+  "Recomenda a identificação, sinalização interna e acompanhamento permanente de pessoas com diagnóstico confirmado ou suspeita clínica de demência nas unidades de saúde.",
+  "Propõe a colocação obrigatória de pulseiras com geolocalização na triagem hospitalar, proibindo a permanência ou circulação sem vigilância adequada.",
+  "Sugere a imputação de responsabilidade às administrações das unidades de saúde em caso de incumprimento dos deveres de vigilância.",
+  "Propõe a criação de um sistema nacional de alerta e resposta rápida entre saúde, forças de segurança e proteção civil, focado nas primeiras horas após o desaparecimento.",
+  "Recomenda mecanismos efetivos de fiscalização e responsabilização material e jurídica para instituições de saúde e estruturas residenciais que falhem na proteção destes utentes."
+ ],
+ "plain_language": "Esta proposta é uma recomendação do Parlamento ao Governo, sem força de lei, para proteger melhor as pessoas com demência contra desaparecimentos. A iniciativa sugere três medidas principais: obrigar os hospitais a identificar logo à entrada quem tem ou possa ter demência e a colocar-lhes pulseiras com localização, impedindo que circulem sem vigilância; criar uma rede de alerta rápido entre hospitais, polícia e proteção civil para atuar nas primeiras horas se alguém se perder; e fiscalizar e punir hospitais ou lares que não garantam a devida vigilância destes doentes.",
+ "context": "Os proponentes justificam a iniciativa com o elevado número de pessoas com demência em Portugal, estimado entre 200 mil e 205 mil casos, podendo ultrapassar os 322 mil até 2050. Destacam que o país apresenta uma prevalência superior à média da OCDE, num contexto de envelhecimento acentuado, sobretudo no interior. Apontam ainda o estigma social, o atraso nos diagnósticos, a falta de recolha de dados, a escassa formação de profissionais e a inexistência de uma estratégia nacional integrada como falhas sistémicas que aumentam o risco de desorientação e desaparecimento.",
+ "analysis": "Tratando-se de um Projeto de Resolução, não obriga legalmente o Governo a agir. Tem o mérito de chamar a atenção para um problema real de saúde pública e de procurar articular saúde, forças de segurança e proteção civil. Contudo, apresenta fragilidades jurídicas e operacionais. Tornar obrigatórias pulseiras com geolocalização logo na triagem, inclusive em meras suspeitas clínicas, levanta questões de privacidade, proteção de dados e restrição da liberdade pessoal que o texto não regula. Além disso, proibir a circulação sem vigilância permanente exige reforço significativo de equipas em hospitais já sobrecarregados. O documento também não apresenta estimativas de custos nem concretiza como funcionaria o sistema nacional de alerta ou o modelo sancionatório.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora seja uma recomendação não vinculativa e não indique montantes, a eventual implementação das medidas implicaria aumento de despesa pública. Exigiria a compra de pulseiras com geolocalização, reforço de pessoal para vigilância permanente nos hospitais, criação de um sistema nacional de alerta e mais fiscalização."
+ },
+ "affected": [
+  "pessoas com demência",
+  "cuidadores e familiares",
+  "unidades hospitalares e de saúde",
+  "estruturas residenciais para idosos",
+  "forças de segurança e proteção civil"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "familia"
+ ],
+ "tags": [
+  "demência",
+  "desaparecimentos",
+  "geolocalização",
+  "proteção civil",
+  "unidades de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

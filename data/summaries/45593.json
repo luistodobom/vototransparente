@@ -1,0 +1,24 @@
+{
+ "short_title": "Conta-corrente entre Contribuintes e Estado",
+ "summary": "Esta proposta de lei estabelece um regime excecional que permite aos contribuintes pagar as suas dívidas fiscais utilizando créditos que têm sobre o Estado, sejam eles de natureza tributária (como reembolsos de IVA) ou não tributária (como pagamentos devidos por bens ou serviços prestados ao Estado). O objetivo é assegurar liquidez a pessoas e empresas, especialmente no contexto da recuperação económica pós-pandemia, e garantir que o Estado, quando devedor, não exija pagamentos antecipados aos contribuintes.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei é para ajudar as pessoas e as empresas a terem mais dinheiro no bolso, especialmente depois da pandemia. A ideia é simples: se o Estado te deve dinheiro (seja por um reembolso de impostos ou porque lhe vendeste algo e ainda não pagou), podes usar esse dinheiro para pagar os teus próprios impostos, em vez de teres de esperar que o Estado te pague e depois pagares tu. É como uma 'conta-corrente' entre ti e o Estado, para que ninguém fique a dever a ninguém sem poder compensar. E se o Estado demorar a responder ao teu pedido, considera-se que aceitou, para que o processo seja rápido.",
+ "context": null,
+ "analysis": "A proposta alinha-se diretamente com o objetivo declarado de assegurar liquidez a famílias e empresas, permitindo-lhes compensar dívidas fiscais com créditos que já possuem junto do Estado. A implementação detalhada, como a possibilidade de compensação com créditos tributários e não tributários (Artigos 2.º e 3.º) e a exigência de que os créditos do Estado sejam certos, líquidos e exigíveis, garante um processo claro. A regra do deferimento tácito (Artigo 5.º, n.º 2), que considera o pedido aceite se a Administração Tributária não se pronunciar nos prazos definidos, é um mecanismo crucial para evitar atrasos e reforçar a celeridade, o que é fundamental para o objetivo de liquidez. A previsão de sanções para falsas declarações (Artigo 6.º) visa prevenir abusos, mantendo a integridade do sistema. Não se identificam inconsistências, mas sim uma coerência entre o objetivo e os meios propostos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não deverá aumentar diretamente os gastos do governo, mas sim alterar a forma como as dívidas e créditos são geridos. Ao permitir a compensação, o governo poderá registar uma diminuição na receita fiscal em termos de fluxo de caixa imediato, uma vez que os contribuintes pagarão menos em dinheiro. Contudo, isto é compensado pelo facto de o Estado não ter de efetuar pagamentos em dinheiro pelos créditos que os contribuintes detêm. O efeito líquido no orçamento poderá ser neutro, pois trata-se de uma operação de 'netting' de dívidas e créditos, mas terá um impacto na tesouraria, reduzindo as entradas de caixa no curto prazo e, simultaneamente, as saídas de caixa para pagamentos de dívidas do Estado. Em suma, diminui a receita de caixa do governo e diminui a despesa de caixa do governo, com um efeito líquido potencialmente neutro no balanço orçamental, mas com impacto na gestão de tesouraria."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

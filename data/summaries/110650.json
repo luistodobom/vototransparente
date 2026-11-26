@@ -1,0 +1,24 @@
+{
+ "short_title": "Elimina o aumento de impostos no alojamento local",
+ "summary": "A proposta visa reverter o aumento de impostos sobre os estabelecimentos de alojamento local (AL), especialmente aqueles localizados em áreas de contenção. Pretende alterar os Códigos do IRS e do IRC para que o coeficiente de tributação dos rendimentos do AL volte a ser de 0,35, em vez dos atuais 0,50. Os proponentes argumentam que o AL é um setor vital para a economia nacional, a criação de emprego e a reabilitação urbana, e que a carga fiscal atual prejudica pequenos proprietários e empresas, dificultando a recuperação económica, sobretudo após a pandemia.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer acabar com o aumento de impostos que foi aplicado ao alojamento local, especialmente nas zonas mais procuradas. A ideia é que os impostos voltem a ser mais baixos, porque o alojamento local é super importante para a economia, para criar empregos e para recuperar edifícios antigos. Dizem que o imposto mais alto está a apertar a vida aos pequenos proprietários e empresas, ainda para mais depois da pandemia.",
+ "context": null,
+ "analysis": "A proposta estabelece claramente o seu objetivo de eliminar o aumento da carga fiscal sobre o alojamento local em áreas de contenção. Os detalhes da implementação, que consistem em reverter os coeficientes de tributação no IRS e IRC de 0,50 para 0,35, alinham-se diretamente com este objetivo. O documento argumenta de forma consistente que esta alteração é crucial para apoiar o setor do AL, que é apresentado como fundamental para o desenvolvimento económico, a criação de emprego e a reabilitação urbana, beneficiando particularmente pequenos negócios e famílias. Não são identificadas inconsistências internas na argumentação apresentada; a solução proposta aborda diretamente o problema identificado (excesso de carga fiscal). No entanto, a análise é unilateral, focando-se apenas nos benefícios do AL e no impacto negativo do aumento fiscal, sem abordar as razões subjacentes que levaram à introdução do coeficiente mais elevado (por exemplo, preocupações com a acessibilidade à habitação ou gentrificação em centros urbanos).",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa reduzir a carga fiscal sobre os rendimentos do alojamento local, diminuindo os coeficientes de tributação no IRS e IRC de 0,50 para 0,35. Isto resultará numa diminuição direta da receita fiscal do governo proveniente deste setor. Embora a proposta argumente que a medida ajudará na recuperação económica e de rendimentos, o efeito líquido imediato para as finanças públicas será uma diminuição da receita governamental, sem um aumento direto nos gastos."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

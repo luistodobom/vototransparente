@@ -1,0 +1,44 @@
+{
+ "short_title": "Integração de investigadores precários e bolseiros na carreira científica",
+ "summary": "O Projeto de Lei cria um regime transitório para integrar investigadores doutorados com vínculos precários e bolseiros na carreira de investigação científica prevista no Estatuto aprovado pela Lei n.º 55/2025. Os doutorados que tenham exercido funções durante pelo menos três anos nos últimos dez em instituições públicas, universidades fundacionais ou entidades privadas sem fins lucrativos por elas participadas ou dirigidas passam, mediante requerimento e procedimento individualizado sem concurso externo, a contrato em funções públicas por tempo indeterminado, em exclusividade. Investigadores juniores e pós-doutorandos ingressam como investigadores auxiliares. Os restantes bolseiros transitam para contratos de trabalho a termo nas categorias de investigador doutorando ou assistente de investigação, abrindo-se concurso até seis meses após o doutoramento. A iniciativa contabiliza ainda o trabalho anterior para o período experimental, determina transferências orçamentais do Estado para cobrir salários e revoga gradualmente o Estatuto do Bolseiro de Investigação e o Decreto-Lei n.º 57/2016.",
+ "key_points": [
+  "Doutorados com pelo menos três anos de investigação nos últimos dez anos em instituições públicas ou privadas sem fins lucrativos associadas transitam, se o requererem em seis meses, para contratos por tempo indeterminado em exclusividade.",
+  "Investigadores juniores e bolseiros de pós-doutoramento passam para a categoria de investigador auxiliar, mantendo os restantes doutorados categoria igual ou superior à que detinham.",
+  "Os bolseiros de investigação não abrangidos pela transição definitiva passam a contratos de trabalho a termo como investigador doutorando ou assistente de investigação, com concurso para a carreira nos seis meses posteriores ao doutoramento.",
+  "O tempo de serviço prestado após o doutoramento e a duração de contratos anteriores contam integralmente para o período experimental.",
+  "O Governo fica obrigado a transferir para as instituições públicas, incluindo fundacionais, as verbas necessárias para assegurar os salários e encargos sociais.",
+  "São revogados o Estatuto do Bolseiro de Investigação e o regime de contratação de doutorados do Decreto-Lei n.º 57/2016 assim que transitem a última bolsa e o último contrato."
+ ],
+ "plain_language": "Na prática, esta proposta quer acabar com as bolsas e os contratos temporários na ciência, transformando-os em empregos permanentes ou em contratos de trabalho normais. Quem já é doutorado e trabalha há pelo menos três anos na investigação pública (ou em centros ligados às universidades) poderia pedir para passar diretamente a efetivo, sem ter de enfrentar um novo concurso público, e sem poder ser deslocado para longe do seu local de trabalho. Já os bolseiros que ainda estão a fazer o doutoramento ou a começar passariam a ter contrato de trabalho com direitos laborais e segurança social, em vez de uma bolsa.",
+ "context": "O PCP justifica a iniciativa com uma situação de precariedade crónica que afeta mais de três mil investigadores e bolseiros de cujo trabalho depende o Sistema Científico e Tecnológico Nacional. Segundo o proponente, a recente revisão do Estatuto da Carreira de Investigação Científica desperdiçou a oportunidade de resolver este problema ao rejeitar quase todas as suas propostas na especialidade. O partido defende que o progresso científico, a valorização dos recursos nacionais e a melhoria das condições laborais exigem a integração destes trabalhadores na carreira e a revogação dos mecanismos legais de precariedade.",
+ "analysis": "Como ponto positivo, a iniciativa responde à instabilidade laboral na ciência com critérios objetivos e remete a vigência para o Orçamento do Estado seguinte. Contudo, apresenta fragilidades relevantes. Primeiro, não quantifica o custo da conversão de milhares de vínculos, limitando-se a impor transferências orçamentais ao Governo. Segundo, a integração direta de trabalhadores de entidades privadas nos mapas de pessoal públicos, sem concurso aberto e com adaptação automática dos quadros, levanta dúvidas jurídicas sobre a igualdade de acesso à função pública e a autonomia institucional. Acresce uma aparente inconsistência técnica: o artigo 4.º remete para a categoria de assistente de investigação no Estatuto, apesar de o preâmbulo referir que essa criação foi rejeitada na especialidade. Por fim, proibir deslocações além de 50 quilómetros pode dificultar a gestão de equipas financiadas por projetos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração nos mapas de pessoal públicos por tempo indeterminado e a conversão de bolsas de investigação em contratos de trabalho com contribuições sociais aumentam a despesa pública permanente. O próprio artigo 6.º determina a transferência de dotações orçamentais do Estado para as instituições públicas suportarem os salários e obrigações sociais, embora o diploma não apresente qualquer estimativa financeira."
+ },
+ "affected": [
+  "investigadores científicos doutorados",
+  "bolseiros de investigação científica",
+  "instituições públicas de ensino superior e investigação",
+  "entidades privadas sem fins lucrativos do sistema científico"
+ ],
+ "categories": [
+  "ciencia",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "investigação científica",
+  "precariedade laboral",
+  "bolseiros de investigação",
+  "carreira de investigação",
+  "ensino superior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

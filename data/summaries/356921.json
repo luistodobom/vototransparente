@@ -1,0 +1,44 @@
+{
+ "short_title": "Proteção de famílias vulneráveis no abono de família e apoios sociais",
+ "summary": "O Projeto de Lei do PS altera as regras do abono de família e da condição de recursos dos apoios sociais. Primeiro, mantém o estatuto de agregado monoparental quando um jovem com deficiência perde o abono por atingir o limite de idade, exigindo dependência reconhecida, pedido de maior acompanhado e que apenas um adulto assegure os encargos e cuidados predominantes. Segundo, impede que mudanças temporárias no agregado familiar prejudiquem a avaliação de rendimentos em apoios já atribuídos, como o abono de família ou o Rendimento Social de Inserção, em casos comprovados de perda de habitação, doença, desemprego ou perda de rendimento, sem contribuição financeira regular. Esta exceção exige requerimento, prova documental, decisão técnica e reavaliação periódica. O Governo regulamenta esta regra em 90 dias e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Mantém a qualificação de agregado monoparental nos casos em que um jovem com deficiência perde o abono de família por atingir o limite de idade.",
+  "Exige, para manter esse estatuto, situação de dependência reconhecida, pedido de regime de maior acompanhado e que apenas um elemento assegure predominantemente os encargos e cuidados.",
+  "Exclui da condição de recursos as alterações temporárias no agregado familiar causadas por situações comprovadas de especial vulnerabilidade, como perda de habitação, doença ou desemprego.",
+  "Condiciona a não contabilização de novos elementos à ausência de contribuição regular relevante para as despesas e à inexistência de apoios incompatíveis.",
+  "Submete a exceção a requerimento fundamentado, prova documental, avaliação técnica da entidade gestora e reavaliação periódica.",
+  "Determina a regulamentação pelo Governo em 90 dias e a entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quando um jovem com deficiência atinge a idade limite do abono de família, existem dois adultos na casa, mas muitas vezes só um trabalha e cuida dele. Esta proposta garante que o agregado continua a ser tratado como monoparental para manter a majoração desse apoio, se o jovem for dependente e tiver pedido de maior acompanhado. Além disso, se uma família que já recebe apoios sociais acolher temporariamente alguém por crise habitacional, doença ou desemprego, essa mudança não corta os apoios existentes, desde que haja prova da situação e essa pessoa não participe regularmente nas despesas.",
+ "context": "O PS justifica a iniciativa com um alerta da Provedoria de Justiça sobre famílias monoparentais com jovens com deficiência que atingem a idade limite do abono de família. Embora existam dois adultos no agregado, apenas um pode trabalhar e cuidar, perdendo a majoração atual. O proponente invoca também a crise da habitação e o aumento do custo de vida, que forçam alterações temporárias nos agregados por necessidade extrema, gerando risco de perda do abono, do Rendimento Social de Inserção ou de apoios sociais de desemprego e parentalidade.",
+ "analysis": "A proposta responde a lacunas concretas de proteção social, procurando evitar que famílias vulneráveis percam apoios por acolherem temporariamente pessoas em crise ou por um filho com deficiência atingir o limite etário do abono. Como ponto positivo, inclui salvaguardas contra abusos, exigindo prova documental, avaliação técnica e reavaliação periódica. Contudo, apresenta fragilidades operacionais: remete para regulamentação posterior critérios essenciais, como a duração da transitoriedade e o limite de contribuição relevante, o que pode gerar atrasos e decisões desiguais entre serviços. A exigência de avaliações técnicas e reavaliações periódicas aumentará também a carga administrativa das entidades gestoras. Nota-se ainda uma ambiguidade técnica na redação do artigo 2.º, pois manter o estatuto monoparental após a perda do abono pelo jovem depende de existirem outros titulares ou prestações associadas, e o texto não inclui estimativa de impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao manter a majoração por monoparentalidade e evitar a perda ou redução de prestações sociais sujeitas a condição de recursos, a medida tende a aumentar a despesa pública com apoios sociais. O projeto remete a entrada em vigor para o Orçamento do Estado seguinte, mas não apresenta qualquer quantificação financeira."
+ },
+ "affected": [
+  "famílias monoparentais",
+  "jovens adultos com deficiência dependentes",
+  "beneficiários do abono de família",
+  "beneficiários do Rendimento Social de Inserção e apoios sociais"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "abono de família",
+  "famílias monoparentais",
+  "condição de recursos",
+  "maior acompanhado",
+  "apoios sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

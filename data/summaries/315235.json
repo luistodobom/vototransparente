@@ -1,0 +1,24 @@
+{
+ "short_title": "IRS: Opção de reembolso para redução intercalar",
+ "summary": "Esta proposta recomenda ao Governo que permita aos contribuintes escolherem como querem sentir o impacto de uma redução intercalar do IRS. Em vez de a redução se refletir apenas em menos imposto retido mensalmente, o que pode levar a reembolsos menores ou inexistentes no final do ano, os contribuintes poderiam optar por que essa redução se reflita no valor do reembolso de IRS a receber no ano seguinte. O objetivo é dar mais controlo aos cidadãos sobre quando beneficiam da descida de impostos.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PAN quer que o Governo dê às pessoas a opção de escolher como querem receber o dinheiro de uma descida de impostos. Em vez de pagarem um pouco menos todos os meses e depois ficarem com um reembolso de IRS mais pequeno (ou nenhum), podem escolher pagar o mesmo todos os meses e receber um reembolso maior no ano seguinte. É para evitar que as pessoas fiquem surpreendidas com reembolsos baixos, como aconteceu da última vez.",
+ "context": null,
+ "analysis": "A proposta aborda uma inconsistência percebida na implementação de reduções fiscais anteriores. O documento aponta que a descida de IRS do ano passado (Lei n.º 33/2024) resultou em contribuintes a receberem menos ou nenhum reembolso, o que foi visto como uma privação de rendimentos importantes. A presente iniciativa visa corrigir este problema, permitindo que os contribuintes optem por refletir o impacto da redução no reembolso, alinhando-se com o objetivo de evitar surpresas e permitir um maior planeamento financeiro. A proposta é consistente com o objetivo de aumentar a literacia fiscal e a capacidade de planeamento dos contribuintes, ao mesmo tempo que mitiga um efeito secundário indesejado de reduções fiscais anteriores.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta em si não altera o montante global da descida de IRS de 500 milhões de euros, que já está prevista noutra Proposta de Lei (n.º 4/XVII/1.ª). O seu impacto fiscal direto é neutro em termos de receita total para o governo, uma vez que se trata de uma medida que afeta apenas a forma e o momento em que os contribuintes beneficiam da redução fiscal já aprovada. Pode haver um impacto na gestão de tesouraria do Estado, dependendo da opção dos contribuintes, mas o efeito líquido na receita e despesa governamental global é nulo, pois o valor total do imposto a ser cobrado ou reembolsado não se altera por esta proposta."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-07-08",
+  "legacy": true
+ }
+}

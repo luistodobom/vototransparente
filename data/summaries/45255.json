@@ -1,0 +1,25 @@
+{
+ "short_title": "Inquérito Parlamentar: Perdas do Novo Banco e Fundo de Resolução",
+ "summary": "Este documento é uma proposta para a criação de uma Comissão Parlamentar de Inquérito para investigar as perdas registadas pelo Novo Banco (NB) que foram imputadas ao Fundo de Resolução (FdR). A proposta detalha como o Banco Espírito Santo (BES) faliu devido a má gestão, levando à criação do Novo Banco para assumir os ativos 'bons'. No entanto, muitos ativos problemáticos do BES foram transferidos para o NB, resultando em perdas significativas e na necessidade de injeções de capital de milhares de milhões de euros por parte do FdR. O documento aponta falhas no processo de resolução, na venda do NB e na alienação de ativos por valores muito abaixo do seu valor contabilístico, questionando a proteção do interesse público e a responsabilidade das entidades envolvidas. O inquérito visa apurar as práticas de gestão do BES e NB, a atuação das autoridades de supervisão e a gestão dos fundos públicos.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é uma proposta para investigar a fundo o que se passou com o Banco Espírito Santo (BES) e o Novo Banco. O BES faliu por causa de muita má gestão, e quando criaram o Novo Banco para salvar o que era bom, acabaram por lá meter também muitos dos problemas do BES. Resultado? O Fundo de Resolução, que é alimentado pelos bancos mas tem o Estado por trás, teve de injetar milhares de milhões de euros para tapar buracos. A proposta diz que a venda do Novo Banco correu mal, que venderam ativos por tuta e meia e que houve muitas coisas estranhas na gestão. Por isso, querem um inquérito no Parlamento para perceber quem é o responsável por este descalabro financeiro e porque é que tanto dinheiro público foi gasto nesta história.",
+ "context": null,
+ "analysis": "O documento em si funciona como uma análise crítica detalhada dos eventos, apontando várias inconsistências e falhas na gestão e resolução do caso BES/Novo Banco. Destaca-se a contradição entre a promessa inicial de que o Novo Banco seria 'expurgado de ativos problemáticos' e a realidade de que a 'doença' do BES 'passou para o NB'. A capitalização inicial do NB é descrita como 'muito aquém do necessário', e a resolução do BES é categoricamente afirmada como tendo 'falhado'. O texto questiona a interrupção do processo de venda do NB, apesar de propostas favoráveis, e a retransmissão de obrigações seniores, que prejudicou a reputação financeira de Portugal. A venda de ativos por valores muito abaixo do contabilístico é apresentada como uma fonte de 'enorme estupefação'. A auditoria da Deloitte, que aponta para cerca de 140 desconformidades na gestão do NB, reforça a necessidade de apurar responsabilidades. A proposta alinha-se com o seu objetivo de justificar um inquérito parlamentar, ao expor sistematicamente as falhas, as perdas financeiras e as questões não respondidas que lesaram o interesse público.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta indica um impacto fiscal negativo substancial, com um aumento significativo dos gastos do governo (indiretamente, através do Fundo de Resolução) e um potencial aumento dos custos de financiamento da dívida pública. O Fundo de Resolução injetou 4.900 milhões de euros inicialmente no Novo Banco e, posteriormente, mais 1.941 milhões de euros (2017/2018) e 1.039 milhões de euros (2019), totalizando mais de 7.800 milhões de euros. Além disso, a retransmissão de 2.000 milhões de euros em obrigações seniores para o BES em liquidação causou 'prejuízo no nível reputacional do “rating” da República', o que pode ter levado a um aumento dos juros da dívida pública suportados por Portugal. O efeito líquido é um aumento considerável dos gastos públicos e dos custos de endividamento."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

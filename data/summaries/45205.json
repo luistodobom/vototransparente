@@ -1,0 +1,25 @@
+{
+ "short_title": "Extensão da proteção a arrendatários e apoio IHRU devido à COVID-19",
+ "summary": "Esta proposta de lei, apresentada pelo PCP, visa estender o regime extraordinário de proteção aos arrendatários, tanto habitacionais como não habitacionais, até 31 de dezembro de 2021. Além disso, estabelece um novo prazo, até 31 de dezembro de 2020, para que os inquilinos possam candidatar-se a apoio financeiro do Instituto de Habitação e Reabilitação Urbana (IHRU) para o pagamento de rendas em atraso, devido à pandemia de COVID-19. A medida procura dar resposta às dificuldades económicas e sociais agravadas pela pandemia, que levaram a desemprego, redução de rendimentos e suspensão de negócios.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar mais tempo às pessoas para se protegerem de serem despejadas das suas casas ou negócios por causa da pandemia. Querem que as regras especiais que impedem os senhorios de despejar os inquilinos durem até ao fim de 2021. E também querem reabrir o prazo, até ao fim de 2020, para quem precisa de pedir um empréstimo ao IHRU para conseguir pagar as rendas em atraso. Tudo isto é para ajudar quem ficou com menos dinheiro ou sem trabalho por causa da COVID-19.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema: o agravamento da situação económica e social devido à COVID-19, que resultou em desemprego, redução de rendimentos e dificuldades no pagamento de rendas. A proposta alinha-se diretamente com este objetivo ao estender as medidas de proteção aos arrendatários e reabrir o prazo para candidaturas a apoio financeiro. A crítica implícita no texto é que o apoio anterior do IHRU teve uma adesão muito baixa (apenas cerca de 2100 pedidos, dos quais metade foram considerados, num universo de 735 mil contratos), o que sugere que a informação ou o acesso ao apoio não foram eficazes. A reabertura do prazo e a extensão da proteção visam corrigir essa falha, permitindo que mais pessoas acedam aos apoios e mantenham as suas habitações. A proposta é consistente na sua abordagem de mitigar os impactos da pandemia no setor do arrendamento.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta em si não implica um aumento direto nos gastos do governo, uma vez que o apoio financeiro do IHRU já estava previsto no Orçamento Suplementar. O que a proposta faz é estender o prazo para a apresentação de candidaturas a esses apoios, o que pode levar a um maior desembolso dos fundos já alocados. Os apoios do IHRU são empréstimos, não subsídios a fundo perdido, o que significa que, em teoria, os fundos deverão ser reembolsados. No entanto, a extensão do regime de proteção aos arrendatários não gera receita para o governo, nem implica gastos diretos, mas pode ter um efeito indireto na economia ao evitar despejos e manter a estabilidade habitacional. O efeito líquido sobre as finanças públicas, considerando que os fundos para os empréstimos já estão orçamentados, será provavelmente neutro em termos de nova despesa, mas poderá aumentar a utilização dos fundos já previstos."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

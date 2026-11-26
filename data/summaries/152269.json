@@ -1,0 +1,24 @@
+{
+ "short_title": "Extensão da Proibição de Comissões Bancárias em Contratos de Crédito",
+ "summary": "Esta proposta de lei visa alterar a Lei n.º 57/2020, de 23 de junho, para estender a proibição de cobrança de certas comissões bancárias a todos os contratos de crédito, incluindo aqueles celebrados antes da entrada em vigor da referida lei. Atualmente, a proibição de cobrar comissões pelo processamento de prestações e pela emissão de distrates ou declarações de dívida aplica-se apenas a contratos mais recentes, criando uma desigualdade. O objetivo é proteger os consumidores de pagamentos abusivos, especialmente num contexto de aumento dos lucros da banca.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que os bancos parem de nos cobrar taxas por coisas como pagar as prestações do crédito ou pedir um papel a dizer que já pagámos o empréstimo. A lei já proíbe isto, mas só para os empréstimos mais recentes. O Bloco de Esquerda quer que esta regra se aplique a todos os empréstimos, mesmo os antigos, para que ninguém seja enganado e os bancos não continuem a ganhar dinheiro à custa dos clientes, especialmente agora que os juros subiram e eles já estão a lucrar mais.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma inconsistência na Lei n.º 57/2020, que, apesar de proibir a cobrança de certas comissões, o faz apenas para contratos celebrados após a sua publicação. Esta limitação deixa milhões de contratos de crédito antigos desprotegidos, criando uma situação de desigualdade. A proposta do Bloco de Esquerda aborda diretamente esta falha, estendendo a aplicação da proibição a todos os contratos, independentemente da data de celebração. Esta alteração alinha a implementação da lei com o seu objetivo original de proteção do consumidor e justiça nas práticas bancárias, corrigindo a lacuna identificada e garantindo igualdade de tratamento para todos os clientes.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta terá um impacto fiscal indireto. Ao proibir a cobrança de certas comissões, diminuirá a receita dos bancos proveniente dessas taxas, o que poderá levar a uma ligeira redução na receita do governo proveniente do imposto sobre o lucro das empresas (IRC) pago pelos bancos. Por outro lado, o aumento do rendimento disponível dos consumidores, resultante da não cobrança dessas comissões, poderá estimular o consumo e, consequentemente, aumentar a receita do governo através do Imposto sobre o Valor Acrescentado (IVA). O efeito líquido sobre as finanças públicas é difícil de quantificar, mas a principal consequência será uma redistribuição de valor dos bancos para os consumidores, com um impacto potencialmente neutro ou ligeiramente negativo nas receitas fiscais diretas do governo."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

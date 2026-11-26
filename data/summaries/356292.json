@@ -1,0 +1,44 @@
+{
+ "short_title": "Proteção e socorro de animais na resposta a incêndios rurais",
+ "summary": "O Projeto de Lei altera o regime extraordinário de apoio e mitigação de incêndios rurais (Decreto-Lei n.º 98-A/2025) para integrar a proteção, busca, salvamento, socorro e acolhimento temporário de animais. A iniciativa abrange animais de companhia (com ou sem detentor), animais de produção e fauna selvagem. Passa a exigir que as autarquias registem os danos relativos a animais, independentemente da espécie, e prevê a articulação entre a Proteção Civil, autarquias, autoridades veterinárias e de conservação da natureza, médicos veterinários municipais e outras entidades. Cria também apoios extraordinários para autarquias, centros de recolha oficial e associações zoófilas financiarem transporte, alojamento temporário, alimentação, medicamentos e assistência veterinária urgente. Alarga ainda o Fundo de Emergência Municipal à reparação de centros de recolha e estruturas de acolhimento, prevê a compra de equipamentos de resgate animal e obriga a ponderar a suspensão temporária da caça em zonas ardidas.",
+ "key_points": [
+  "Cria uma norma específica de busca, salvamento, socorro, evacuação e assistência veterinária urgente para animais de companhia, de produção e fauna selvagem afetados por incêndios rurais.",
+  "Prevê apoios extraordinários para autarquias, centros de recolha oficial e associações zoófilas cobrirem despesas de transporte, alimentação, medicamentos, alojamento temporário e cuidados veterinários.",
+  "Inclui instalações de acolhimento temporário e centros de recolha oficial de animais nos equipamentos municipais financiáveis pelo Fundo de Emergência Municipal.",
+  "Alarga os apoios à aquisição de equipamentos e meios operacionais destinados especificamente ao resgate, transporte e acolhimento de animais.",
+  "Determina o registo autárquico de danos relativos a animais de qualquer espécie e impõe a ponderação fundamentada da suspensão temporária da caça em zonas afetadas."
+ ],
+ "plain_language": "Atualmente, a lei de apoio após grandes incêndios olha para os animais sobretudo como bens agrícolas ou prejuízos económicos, sem regras claras para os salvar durante o fogo. Esta proposta do PAN quer mudar isso, garantindo que a proteção civil, os municípios, os veterinários e as associações tenham cobertura legal e dinheiro para resgatar, tratar e abrigar temporariamente cães, gatos, gado e animais selvagens. Além disso, permite usar fundos de emergência para reparar canis ou comprar material de resgate, e exige que se avalie a suspensão temporária da caça nas áreas ardidas.",
+ "context": "O PAN argumenta que o regime vigente protege os animais apenas numa lógica económica e produtiva, omitindo o seu socorro e assistência veterinária de emergência. Aponta que esta lacuna contraria a Lei de Bases da Proteção Civil, que já obriga a socorrer outros seres vivos em perigo. Citando o caso do incêndio de 2020 em Santo Tirso, onde morreram mais de 90 animais, o partido sustenta que a falta de protocolos e estruturas de acolhimento gera improvisação, atrasa evacuações de pessoas que recusam abandonar os seus animais e compromete a segurança pública.",
+ "analysis": "Como ponto forte, a iniciativa preenche uma lacuna operacional relevante, alinhando a resposta pós-incêndio com a Lei de Bases da Proteção Civil e clarificando despesas elegíveis para autarquias e associações. Contudo, apresenta fragilidades jurídicas e práticas. O artigo 2.º contém gralhas formais evidentes: omite o número do primeiro artigo alterado («artigos .º») e anuncia alterações ao artigo 21.º que não constam do texto. Além disso, a entrada em vigor só ocorre com o próximo Orçamento do Estado e a execução dos novos apoios e da articulação entre múltiplas entidades depende de regulamentação governamental posterior, o que atrasa a aplicação prática e mantém indefinidos os critérios de financiamento e a cadeia de comando no terreno.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa alarga os apoios extraordinários, o Fundo de Emergência Municipal e o financiamento de equipamentos a novas despesas com resgate, transporte, alojamento temporário e assistência veterinária de animais. O documento não quantifica estes encargos e faz depender a entrada em vigor do Orçamento do Estado subsequente, bem como da respetiva regulamentação."
+ },
+ "affected": [
+  "detentores de animais",
+  "autarquias locais",
+  "associações zoófilas e centros de recolha oficial",
+  "entidades gestoras de zonas de caça e baldios",
+  "forças de proteção civil"
+ ],
+ "categories": [
+  "animais",
+  "seguranca",
+  "ambiente"
+ ],
+ "tags": [
+  "incêndios rurais",
+  "proteção animal",
+  "proteção civil",
+  "socorro veterinário",
+  "fauna selvagem"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

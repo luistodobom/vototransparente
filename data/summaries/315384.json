@@ -1,0 +1,44 @@
+{
+ "short_title": "Equipas de resgate e hospitais de campanha para animais em emergência",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo a criação de um programa nacional de socorro e resgate animal para situações de emergência. Por ser um projeto de resolução, não tem força de lei vinculativa. A iniciativa propõe a criação de equipas especializadas integradas nos corpos de bombeiros em todo o país, compostas por elementos com formação contínua em abordagem, maneio e primeiros socorros animais, em colaboração com escolas de bombeiros, instituições de ensino veterinário e associações de proteção animal. Prevê também o suporte técnico da autoridade veterinária e o reforço da dotação orçamental para estas equipas. Adicionalmente, recomenda o cumprimento de normas já inscritas nos Orçamentos do Estado de 2022, 2023 e 2025, exigindo a atualização dos planos de proteção civil e a criação de hospitais de campanha.",
+ "key_points": [
+  "Criar equipas de socorro e resgate animal integradas nos corpos de bombeiros de todo o território nacional.",
+  "Assegurar formação contínua e especializada aos bombeiros em técnicas de abordagem, maneio e primeiros socorros animais.",
+  "Prever a colaboração e o suporte técnico da autoridade veterinária às equipas de resgate em situações de emergência.",
+  "Reforçar a dotação orçamental para implementar as equipas e garantir a capacitação dos seus membros.",
+  "Definir orientações estratégicas e atualizar os planos de emergência de proteção civil para incluir o resgate animal.",
+  "Criar hospitais de campanha e meios de socorro animal para catástrofes, emergências quotidianas e apoio policial ou judicial."
+ ],
+ "plain_language": "Esta proposta pede ao Governo que organize melhor o salvamento de animais durante incêndios, cheias e outras emergências, funcionando apenas como uma recomendação sem obrigação legal. A ideia é criar equipas de bombeiros treinadas especificamente para resgatar animais em segurança, com apoio de veterinários e mais dinheiro para formação. O documento também cobra ao Governo medidas que já tinham sido aprovadas em Orçamentos do Estado anteriores, mas que nunca saíram do papel: atualizar os planos de proteção civil para incluir animais e montar hospitais de campanha para os tratar no local.",
+ "context": "O PAN justifica a iniciativa com o aumento de catástrofes naturais e a perda de centenas de milhares de animais em incêndios passados, citando Pedrógão Grande em 2017, Monchique em 2018, Santo Tirso em 2020 e Santa Rita em 2021, além das cheias no Brasil. O partido aponta falta de coordenação do Estado e ausência de formação específica dos bombeiros. Sublinha ainda que o Governo não executou normas aprovadas nos Orçamentos do Estado de 2022, 2023 e 2025 sobre hospitais de campanha e planos de emergência.",
+ "analysis": "Como ponto forte, a iniciativa identifica uma lacuna operacional real nos planos de proteção civil e valoriza a formação especializada para proteger tanto os animais como os operacionais, além de exigir o cumprimento de normas orçamentais já aprovadas. Contudo, apresenta fragilidades relevantes: sendo um projeto de resolução, não vincula o Governo nem garante execução. O texto recomenda equipas em todos os corpos de bombeiros e reforço orçamental sem apresentar estimativas de custos, necessidades de efetivos ou modelos de financiamento, ignorando as assimetrias entre corporações voluntárias e profissionais. Também não clarifica a divisão de competências entre municípios, bombeiros e autoridade veterinária, nem delimita o alcance de hospitais de campanha para emergências do quotidiano, o que aumenta os riscos na implementação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A implementação das medidas recomendadas implica aumento da despesa pública, pois prevê expressamente o reforço da dotação orçamental para criar equipas em todo o país, assegurar formação contínua e instalar hospitais de campanha. O documento não apresenta quaisquer estimativas de custos, tratando-se de uma recomendação não vinculativa ao Governo."
+ },
+ "affected": [
+  "corpos de bombeiros",
+  "autoridades veterinárias",
+  "proteção civil",
+  "detentores de animais",
+  "organizações de proteção animal"
+ ],
+ "categories": [
+  "animais",
+  "seguranca"
+ ],
+ "tags": [
+  "resgate animal",
+  "proteção civil",
+  "bombeiros",
+  "hospitais de campanha",
+  "emergências"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

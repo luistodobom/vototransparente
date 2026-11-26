@@ -1,0 +1,43 @@
+{
+ "short_title": "Passe de transporte gratuito em todo o país para antigos combatentes",
+ "summary": "O Projeto de Lei n.º 613/XVII/1.ª, apresentado pelo Bloco de Esquerda, altera o artigo 17.º do Estatuto do Antigo Combatente para alargar a todo o território nacional a gratuitidade dos transportes públicos coletivos destinada aos antigos combatentes e às respetivas viúvas e viúvos elegíveis. Atualmente, o Passe de Antigo Combatente está limitado à área metropolitana ou comunidade intermunicipal de residência habitual. A proposta estende a isenção aos serviços regulares rodoviários, ferroviários e fluviais nas áreas metropolitanas, comunidades intermunicipais e ligações inter-regionais, incluindo os comboios urbanos, suburbanos, regionais e inter-regionais da CP, com exceção do Alfa Pendular. O texto mantém as atuais regras de elegibilidade, incumbe o Governo de rever a Portaria n.º 198/2021 no prazo de 90 dias para garantir a interoperabilidade dos títulos de transporte e prevê que a compensação aos operadores continue a ser assegurada pelo Orçamento do Estado e pela Direção-Geral de Recursos da Defesa Nacional.",
+ "key_points": [
+  "Alarga a gratuitidade dos transportes públicos coletivos para os antigos combatentes e respetivos viúvos ou viúvas a todo o território nacional, eliminando a restrição à área de residência.",
+  "Abrange serviços regulares rodoviários, ferroviários e fluviais nas áreas metropolitanas, comunidades intermunicipais e ligações inter-regionais, bem como comboios da CP exceto o Alfa Pendular.",
+  "Incumbe o Governo de regulamentar a medida em 90 dias, revendo a Portaria n.º 198/2021 para garantir um título único e interoperável em todo o país.",
+  "Assegura a compensação financeira aos operadores através de transferências específicas do Orçamento do Estado, sem prejuízo da contribuição da Direção-Geral de Recursos da Defesa Nacional.",
+  "Prevê a adaptação nas regiões autónomas por diploma próprio, garantindo o direito aos seus residentes no continente, e dispensa novos requerimentos ou encargos aos atuais titulares."
+ ],
+ "plain_language": "Hoje em dia, os antigos combatentes e os seus cônjuges sobrevivos têm passe gratuito, mas apenas dentro da região onde moram. Se precisarem de viajar de autocarro, barco ou comboio para outro distrito, têm de pagar bilhete. Esta proposta muda a lei para que o passe dê acesso gratuito aos transportes públicos em todo o país, incluindo viagens entre regiões e a maioria dos comboios da CP, deixando de fora apenas o Alfa Pendular. Quem já tem o passe não precisará de fazer novo pedido nem de pagar nada pela atualização. A medida só entrará em vigor financeiro no próximo Orçamento do Estado.",
+ "context": "O proponente justifica a medida com uma obrigação de reparação social face a uma população envelhecida, maioritariamente mobilizada de forma obrigatória para a Guerra Colonial, e marcada por sequelas físicas, stress pós-traumático e pensões baixas. Argumenta que limitar o passe gratuito à área de residência penaliza quem vive fora dos grandes centros urbanos, obrigando a deslocações pagas para aceder a consultas especializadas, associações de apoio, serviços públicos ou redes familiares, sobretudo em zonas de baixa densidade.",
+ "analysis": "A iniciativa corrige uma assimetria territorial real, já que os centros clínicos especializados se concentram nas grandes cidades, e evita aumentar a despesa do orçamento em curso ao remeter os efeitos para o Orçamento do Estado seguinte, poupando burocracia aos titulares. Contudo, apresenta fragilidades. Não inclui qualquer estimativa de custo do alargamento, apoiando-se apenas numa projeção informal de dezenas de milhares de utilizadores. Subsistem também imprecisões técnicas: exclui o Alfa Pendular, mas não clarifica os comboios Intercidades nem o alcance das ligações rodoviárias inter-regionais. Além disso, a norma de vigência remete por lapso para o n.º 3 do artigo 3.º em vez do n.º 2 sobre antecipação, e a rejeição do pagamento por viagem fica apenas na exposição de motivos, sem força de lei.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da gratuitidade a todo o país e às ligações inter-regionais aumenta a despesa pública através de transferências do Orçamento do Estado para compensar os operadores de transporte. O documento não apresenta uma estimativa financeira do custo da medida, referindo apenas que o universo de utilizadores efetivos se deverá situar em algumas dezenas de milhares, tendo por base cerca de 12 mil passes ativos na Área Metropolitana do Porto em novembro de 2024."
+ },
+ "affected": [
+  "antigos combatentes",
+  "viúvas e viúvos de antigos combatentes",
+  "operadores de transporte público",
+  "autoridades de transportes"
+ ],
+ "categories": [
+  "transportes",
+  "defesa",
+  "familia"
+ ],
+ "tags": [
+  "antigos combatentes",
+  "passe gratuito",
+  "transportes públicos",
+  "coesão territorial",
+  "viúvos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Relatório anual e fiscalização das habitações municipais",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que promova duas medidas relativas à gestão das habitações municipais. Em primeiro lugar, propõe que o Executivo procure assegurar a publicação anual, pelos municípios, de um relatório público sobre o parque habitacional camarário. Esse documento deve incluir os valores das rendas cobradas e em dívida, o número de habitações ocupadas e de vagas disponíveis, os despejos por falta de pagamento ou mau uso, os pedidos em lista de espera e os critérios de atribuição de habitação social. Em segundo lugar, recomenda que o Governo contribua para práticas regulares de fiscalização pelas polícias municipais, nos concelhos onde existam, de modo a combater situações irregulares. Tratando-se de um Projeto de Resolução, estas propostas não têm força vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que procure assegurar a publicação anual, pelos municípios, de um relatório público sobre as habitações municipais.",
+  "O relatório deve divulgar o valor das rendas cobradas e em dívida, as habitações em utilização, as vagas disponíveis e os pedidos em espera.",
+  "O documento deve ainda apresentar o número de despejos por falta de pagamento ou mau uso e os critérios de atribuição de habitação social.",
+  "Propõe que o Governo contribua para o desenvolvimento de práticas regulares de fiscalização pela polícia municipal, onde esta exista, contra irregularidades."
+ ],
+ "plain_language": "Esta proposta pede ao Governo que incentive as câmaras municipais a publicarem, todos os anos, um relatório aberto ao público sobre as suas casas sociais. O objetivo é que qualquer cidadão possa consultar quantas casas estão ocupadas ou vazias, quantas pessoas estão em lista de espera, que regras são usadas para atribuir as casas, quanto dinheiro está por pagar em rendas e quantos despejos ocorreram. Recomenda também que as polícias municipais, onde existirem, façam fiscalizações regulares para travar ocupações e subarrendamentos ilegais. Como é apenas uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente aponta a falta de informação periódica e centralizada sobre a habitação municipal. Na exposição de motivos, destaca dívidas elevadas nas rendas, citando dados de Lisboa com 9.992 contratos em incumprimento num total de 21.625, com atrasos médios de 45 meses. Menciona ainda ocupações ilegais após a morte ou ausência do titular ou por arrombamento, bem como o subarrendamento ilegal de camas por períodos de doze horas. Refere também listas de espera de cerca de dois anos e meio, defendendo maior transparência e acesso justo.",
+ "analysis": "A iniciativa aborda uma lacuna real de transparência na gestão do parque habitacional público, propondo indicadores objetivos que facilitariam o escrutínio cidadão. Contudo, apresenta fragilidades jurídicas e operacionais. Por ser um Projeto de Resolução, não vincula o Governo nem cria obrigações legais para as autarquias, cuja autonomia limita a capacidade do Executivo para impor relatórios ou orientar diretamente as polícias municipais. O texto também não define um modelo normalizado para os relatórios nem esclarece como os dados seriam centralizados, referidos na motivação como ausentes. Por fim, não avalia os encargos administrativos para os municípios mais pequenos nem aborda a proteção de dados pessoais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa, a iniciativa não gera impacto orçamental direto imediato. Caso seja adotada pelos municípios, a produção anual de relatórios e a fiscalização regular pelas polícias municipais poderão acarretar custos administrativos e operacionais não quantificados no documento."
+ },
+ "affected": [
+  "municípios",
+  "inquilinos de habitação municipal",
+  "candidatos a habitação social",
+  "polícias municipais"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "habitação municipal",
+  "transparência",
+  "autarquias",
+  "fiscalização",
+  "rendas em dívida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Criação do programa «Parlamento Sénior» na Assembleia da República",
+ "summary": "O Projeto de Resolução n.º 1200/XVII/1.ª, apresentado pelo deputado único do JPP, propõe instituir o programa «Parlamento Sénior» na Assembleia da República, destinado a cidadãos com idade igual ou superior a 65 anos. A iniciativa visa promover a participação cívica e política das pessoas mais velhas, dar a conhecer o funcionamento parlamentar, debater anualmente um tema de interesse nacional e aprovar recomendações dirigidas aos órgãos do poder político. O modelo prevê a representação de todos os círculos eleitorais, incluindo as Regiões Autónomas e os círculos da emigração, admitindo candidaturas individuais ou através de entidades como universidades seniores, centros de dia e associações. Exige ainda condições de acessibilidade física, comunicacional e digital. A comissão parlamentar competente definirá o regulamento e o tema anual, cabendo a coordenação aos serviços da Assembleia da República, em parceria com outras entidades públicas e sociais, com a primeira sessão nacional prevista para o ano seguinte ao da publicação.",
+ "key_points": [
+  "Institui o programa «Parlamento Sénior» na Assembleia da República para cidadãos com 65 ou mais anos, inspirado no «Parlamento dos Jovens».",
+  "Garante a representação de todos os círculos eleitorais, incluindo as Regiões Autónomas, a Europa e Fora da Europa.",
+  "Permite a participação através de universidades seniores, centros de dia, associações ou por candidatura individual, assegurando acessibilidade física, comunicacional e digital.",
+  "Atribui à comissão parlamentar competente a aprovação do regulamento e a escolha do tema anual, com coordenação dos serviços do Parlamento.",
+  "Prevê uma sessão nacional anual, executada com meios do orçamento da Assembleia da República, com a primeira edição no ano seguinte ao da publicação."
+ ],
+ "plain_language": "Esta proposta cria o «Parlamento Sénior», um programa anual parecido com o «Parlamento dos Jovens», mas dedicado a pessoas com 65 ou mais anos. A ideia é permitir que os cidadãos mais velhos de todo o país e das comunidades no estrangeiro conheçam como funciona a Assembleia da República, debatam um tema nacional e apresentem recomendações aos políticos. Qualquer pessoa com 65 anos ou mais pode candidatar-se, seja através de associações e universidades seniores, seja a título individual, com apoios para quem tem mobilidade reduzida ou dificuldades digitais. O programa é gerido pelo próprio Parlamento e terá uma sessão nacional anual.",
+ "context": "O proponente justifica a iniciativa com o envelhecimento demográfico em Portugal, apontando dados do INE de 2024 em que 24,3% da população tinha 65 ou mais anos e o índice de envelhecimento atingia 192,4 idosos por 100 jovens. Argumenta que as pessoas mais velhas não são um grupo homogéneo nem meras destinatárias de apoios sociais, devendo ver valorizada a sua experiência e participação cívica. Invoca ainda o Plano de Ação do Envelhecimento Ativo e Saudável 2023-2026, princípios das Nações Unidas e as experiências do «Parlamento dos Jovens» e do «Parlamento Sénior» da Madeira.",
+ "analysis": "Como ponto forte, a proposta alarga a participação democrática a um grupo etário crescente, prevê candidaturas individuais fora de redes associativas e exige acessibilidade para pessoas com mobilidade condicionada ou menor literacia digital. Contudo, apresenta fragilidades operacionais: remete para futuro regulamento os critérios de seleção, o número de participantes e o formato exato da sessão anual, sem definir metas mensuráveis para o seguimento das recomendações aprovadas pelos órgãos políticos. Além disso, envolve múltiplos parceiros externos, como ministérios, autarquias e entidades sociais, mas um Projeto de Resolução não cria obrigações vinculativas para o Governo nem para terceiros, dependendo de protocolos voluntários. Falta igualmente qualquer estimativa dos custos logísticos de deslocação, alojamento e apoio especializado, remetendo tudo para as disponibilidades do orçamento da Assembleia da República.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização anual do programa com representação de todos os círculos eleitorais e apoios de acessibilidade implica custos logísticos e operacionais para a Assembleia da República. O documento não indica montantes nem estimativa de custos, remetendo a execução para os meios previstos no orçamento parlamentar."
+ },
+ "affected": [
+  "pessoas com 65 ou mais anos",
+  "serviços e comissões da Assembleia da República",
+  "universidades seniores, centros de dia e associações de idosos"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "parlamento sénior",
+  "participação cívica",
+  "pessoas idosas",
+  "assembleia da república",
+  "envelhecimento ativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

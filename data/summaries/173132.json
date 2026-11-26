@@ -1,0 +1,26 @@
+{
+ "short_title": "Mais Acesso ao Medicamento",
+ "summary": "Esta proposta do PSD visa melhorar o acesso aos medicamentos em Portugal, que é considerado fundamental para a sustentabilidade do sistema de saúde e a coesão social. O documento destaca que, apesar de políticas anteriores terem reduzido custos e melhorado o acesso, atualmente há um aumento dos encargos para o Estado e utentes, dificuldades económicas para muitos adquirirem medicamentos, ruturas frequentes de stock e atrasos na introdução de novos fármacos no mercado. A proposta recomenda ao Governo que atribua uma comparticipação financeira de até 100% para medicamentos essenciais a utentes com comprovada insuficiência económica, reduza os tempos de aprovação para novos medicamentos, estimule o investimento na indústria farmacêutica nacional, incentive o crescimento do mercado de genéricos (com meta de 60% até 2026) e crie mecanismos para prevenir e resolver as ruturas de stock.",
+ "key_points": [],
+ "plain_language": "Esta proposta do PSD é basicamente para garantir que toda a gente em Portugal consiga ter acesso aos medicamentos de que precisa. Eles dizem que, apesar de já se terem feito coisas boas no passado, agora está mais difícil: as pessoas com menos dinheiro não conseguem comprar os remédios, há muitas vezes falta de stock nas farmácias e os medicamentos novos demoram muito a chegar. Por isso, o PSD quer que o governo pague a totalidade dos medicamentos essenciais para quem tem dificuldades financeiras, que se despachem a aprovar os remédios novos, que ajudem a indústria farmacêutica cá em Portugal a crescer, que se usem mais os medicamentos genéricos (que são mais baratos) e que se criem formas de evitar que faltem medicamentos. A ideia é, no fundo, poupar dinheiro a longo prazo com os genéricos e um sistema mais eficiente, ao mesmo tempo que se ajuda quem mais precisa.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise coerente dos problemas que afetam o acesso ao medicamento em Portugal, identificando claramente as barreiras económicas, as ruturas de stock e os atrasos na introdução de novos fármacos. As soluções propostas alinham-se diretamente com os problemas identificados: a comparticipação a 100% para os mais carenciados aborda a barreira económica; a criação de mecanismos de importação de urgência e controlo de stock visa resolver as ruturas; e a simplificação de procedimentos e estímulo ao investimento na indústria farmacêutica procuram acelerar o acesso à inovação e fortalecer a produção nacional. Não se detetam inconsistências, mas sim uma abordagem multifacetada que procura resolver as diversas dimensões do problema do acesso ao medicamento, com um foco claro na eficiência e na proteção dos mais vulneráveis.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento direto dos gastos do governo na forma de comparticipação de até 100% para medicamentos essenciais a utentes com insuficiência económica comprovada. No entanto, o documento argumenta que o aumento da quota de mercado dos medicamentos genéricos, que é um dos objetivos centrais, resultará em poupanças significativas para o Estado e para os consumidores, estimando poupanças anuais na ordem dos 500 milhões de euros. Além disso, a redução da dívida das entidades públicas às empresas farmacêuticas e a melhoria dos prazos de pagamento, bem como o estímulo ao investimento industrial, podem levar a uma maior eficiência e sustentabilidade do sistema. O efeito líquido pretendido é uma redução da despesa pública evitável e uma alocação mais eficiente dos recursos, com as poupanças dos genéricos a compensarem e superarem o aumento do apoio direto aos mais vulneráveis."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

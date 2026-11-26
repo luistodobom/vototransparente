@@ -1,0 +1,42 @@
+{
+ "short_title": "Combate à discriminação e aos crimes de ódio em Portugal",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo quatro medidas para reforçar o combate à discriminação, aos crimes de ódio e ao discurso de ódio em Portugal. Trata-se de uma recomendação não vinculativa dirigida ao Executivo, que não altera diretamente a lei em vigor. Em primeiro lugar, propõe uma revisão da legislação atual para avaliar a sua eficácia na prevenção e combate a crimes motivados por fatores como origem étnico-racial, nacionalidade, religião, sexo, orientação sexual, identidade ou expressão de género, características sexuais ou deficiência. Em segundo lugar, recomenda que o Governo defenda o reforço da proteção penal (tutela criminal) para todas as formas de discriminação, atendendo à sua gravidade. Em terceiro lugar, pede a promoção de formação dirigida a juízes e magistrados do Ministério Público, visando respostas judiciais proporcionais. Por fim, propõe o reforço de campanhas de sensibilização nas escolas, em cooperação com os estabelecimentos de ensino e as autarquias locais.",
+ "key_points": [
+  "Rever a legislação sobre crimes de ódio, discriminação e discurso de ódio, avaliando a sua eficácia face a múltiplos motivos discriminatórios.",
+  "Defender o reforço da proteção penal para todas as formas de discriminação, tendo em conta a gravidade destes comportamentos.",
+  "Promover uma campanha de formação sobre prevenção e combate à discriminação dirigida a juízes e magistrados do Ministério Público.",
+  "Reforçar as campanhas de sensibilização sobre discurso e crimes de ódio nas escolas, em cooperação com estabelecimentos de ensino e autarquias locais."
+ ],
+ "plain_language": "O PAN quer que o Parlamento recomende ao Governo um conjunto de medidas para combater a discriminação e os crimes de ódio. Como se trata de um projeto de resolução, não obriga o Governo a agir nem muda imediatamente a lei. Na prática, o partido sugere rever as leis atuais para perceber porque falham, reforçar a resposta da lei penal contra a discriminação, dar formação aos juízes e procuradores sobre a gravidade destes casos e fazer mais ações de sensibilização nas escolas, com o apoio das câmaras municipais, para prevenir atitudes preconceituosas entre os jovens.",
+ "context": "O PAN sustenta que a legislação atual tem sido ineficaz no combate à discriminação. Cita o Relatório Anual de Segurança Interna de 2025, que refere maior crispação social, 449 participações de discriminação e incitamento ao ódio e crimes cometidos frequentemente por jovens, além de elevados registos de violência doméstica e violação. Refere ainda dados de 2022 da Comissão para a Igualdade e Contra a Discriminação Racial (apenas 11 condenações em 491 participações), denúncias contra pessoas LGBTI+, alertas sobre projetos de lei recentes e uma iniciativa cidadã subscrita por mais de 20 mil pessoas.",
+ "analysis": "A iniciativa tem o mérito de propor uma abordagem em várias frentes (revisão legal, formação judicial e prevenção escolar) sustentada em estatísticas oficiais e de observatórios independentes. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não é vinculativo nem concretiza que alterações ao Código Penal defende, limitando-se a recomendar o reforço genérico da tutela criminal. A recomendação de formação para juízes e magistrados do Ministério Público exige também articulação com os respetivos órgãos autónomos, por respeito à independência judicial. Além disso, o texto não define prazos, metas nem critérios de avaliação. Nota-se ainda alguma dispersão ao agrupar violência doméstica, violação e crimes de ódio sem propostas diferenciadas, além de falhas redatoriais pontuais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa e não apresentar estimativas de custos, a iniciativa não gera despesa imediata. A eventual concretização de campanhas de formação para magistrados e de sensibilização nas escolas poderá implicar custos adicionais, cujo montante dependerá da execução pelo Governo."
+ },
+ "affected": [
+  "vítimas de discriminação e crimes de ódio",
+  "juízes e magistrados do Ministério Público",
+  "comunidade educativa",
+  "autarquias locais"
+ ],
+ "categories": [
+  "direitos",
+  "justica",
+  "educacao"
+ ],
+ "tags": [
+  "discriminação",
+  "crimes de ódio",
+  "discurso de ódio",
+  "formação judicial",
+  "sensibilização escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

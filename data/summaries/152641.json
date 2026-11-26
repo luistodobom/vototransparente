@@ -1,0 +1,26 @@
+{
+ "short_title": "Apoio à Habitação: Subsídio de Renda e Juros de Crédito",
+ "summary": "Esta proposta do PSD visa combater a crise habitacional em Portugal através de duas frentes principais: a criação de um subsídio de renda transitório para agregados familiares com menores rendimentos e a implementação de medidas para mitigar o impacto do aumento dos juros nos créditos à habitação. O objetivo é aumentar a oferta de habitação, simplificar os processos de licenciamento, direcionar o parque habitacional público para os mais carenciados e facilitar o acesso à habitação, nomeadamente para os jovens. As medidas de crédito incluem a simplificação do reescalonamento da dívida e a promoção de taxas de juro fixas, com possível garantia pública.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do PSD quer dar uma ajuda às pessoas com a casa. Primeiro, vai haver um apoio temporário para quem paga renda e tem menos dinheiro, para que não fiquem apertados. Segundo, para quem tem empréstimo da casa e está a sofrer com os juros a subir, a ideia é facilitar a renegociação da dívida e fazer com que os bancos ofereçam mais opções de taxa fixa. No fundo, é para haver mais casas disponíveis, os processos de construção serem mais rápidos e as famílias terem mais folga para pagar a sua habitação.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica das políticas habitacionais anteriores, especialmente as do Partido Socialista, apontando falhas na compreensão do problema, incapacidade de execução e medidas burocráticas que, alegadamente, destruíram a confiança no mercado e reduziram a oferta. A proposta do PSD procura alinhar a intervenção estatal (subsídio de renda) com a promoção da iniciativa privada e a desburocratização para aumentar a oferta. A inconsistência apontada é que, embora a expansão da oferta seja a resposta estrutural, os seus efeitos demorarão a sentir-se, justificando o subsídio de renda como uma medida transitória para proteger os mais vulneráveis. As medidas de mitigação dos juros do crédito à habitação, como o reescalonamento simplificado e a promoção de taxas fixas, alinham-se diretamente com o objetivo de aliviar a pressão financeira sobre as famílias, reconhecendo a urgência da situação inflacionista.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implicará um aumento dos gastos do governo devido à criação e gestão do subsídio de renda, que será assegurado pelo Estado através do Instituto da Segurança Social, I.P., com dotação orçamental anual. Adicionalmente, a previsão de garantias públicas para os valores da dívida objeto de reescalonamento nos créditos à habitação representa uma potencial despesa para o Estado. A isenção de taxas e emolumentos para os atos de reescalonamento e mudança de taxas de crédito poderá resultar numa ligeira diminuição da receita governamental nessas áreas específicas. O efeito líquido será um aumento da despesa pública, visando apoiar as famílias e estabilizar o mercado habitacional."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

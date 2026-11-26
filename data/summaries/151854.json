@@ -1,0 +1,26 @@
+{
+ "short_title": "Medidas de emergência contra o custo de vida e desigualdades",
+ "summary": "A proposta do PCP visa combater a degradação das condições de vida em Portugal, causada pelo aumento dos preços, perda de poder de compra e acumulação de lucros por grandes grupos económicos. Propõe medidas de emergência para valorizar salários e pensões, controlar o aumento dos preços de bens essenciais (energia, combustíveis, alimentos), garantir direitos sociais (saúde, educação, habitação) e promover uma distribuição mais justa da riqueza através da tributação extraordinária de lucros.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PCP diz que a vida está muito cara, os salários não chegam para nada e as grandes empresas estão a encher os bolsos. Por isso, propõem que o governo tome medidas urgentes: aumentar os salários e as pensões, pôr um travão nos preços da comida, da luz e dos combustíveis, melhorar os serviços públicos como a saúde e a educação, e cobrar mais impostos aos lucros gigantes das empresas para ajudar a pagar tudo isto.",
+ "context": null,
+ "analysis": "A proposta do PCP apresenta uma análise crítica coerente da situação económica e social, atribuindo a degradação das condições de vida à liberalização dos mercados, privatizações, exploração laboral e recusa em aumentar salários. As medidas propostas alinham-se diretamente com esta visão: o controlo de preços visa combater a especulação, o aumento de salários e pensões e o reforço das prestações sociais visam valorizar o poder de compra, e a tributação extraordinária dos lucros visa redistribuir a riqueza e financiar os serviços públicos, que o PCP considera estarem a ser destruídos. A proposta é internamente consistente com a ideologia do partido, que defende uma intervenção estatal forte na economia e na proteção social.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento significativo dos gastos do governo com o aumento de salários, pensões e prestações sociais, bem como com a contratação de profissionais de saúde e educação e investimento em serviços públicos. Por outro lado, prevê uma diminuição da receita fiscal através da alteração dos escalões do IRS, da aplicação de uma taxa de IVA reduzida à energia e da eliminação da dupla tributação sobre os combustíveis. Para compensar e financiar estas medidas, a proposta sugere uma tributação extraordinária dos lucros dos grandes grupos económicos, com o objetivo de reverter uma parte substancial desses lucros para o investimento nos serviços públicos e políticas sociais. O efeito líquido pretendido é uma redistribuição da riqueza, com o aumento da despesa social a ser financiado pela taxação dos lucros empresariais, visando um impacto positivo na vida das famílias e nos serviços públicos, sem necessariamente aumentar o défice público se a taxação for eficaz."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

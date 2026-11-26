@@ -1,0 +1,26 @@
+{
+ "short_title": "Combate à pobreza energética: alargamento das tarifas sociais",
+ "summary": "A proposta visa combater a pobreza energética em Portugal, alargando o número de beneficiários das tarifas sociais de eletricidade e gás natural. Atualmente, muitas famílias abaixo do limiar da pobreza não têm acesso a estes apoios. O projeto de lei propõe harmonizar os critérios de elegibilidade para ambas as tarifas, garantindo que todas as famílias com rendimento igual ou inferior ao limiar da pobreza (7095 euros anuais, segundo o INE) sejam abrangidas. Além disso, pretende incluir explicitamente os beneficiários de pensão social de velhice e de abono de família (para além do primeiro escalão) nas tarifas sociais de gás natural, equiparando-os aos beneficiários da tarifa social de eletricidade.",
+ "key_points": [],
+ "plain_language": "Em termos simples, este projeto de lei do PAN quer que mais pessoas em Portugal consigam ter descontos na conta da luz e do gás. Atualmente, há muita gente que precisa e não consegue, porque as regras são um bocado confusas e diferentes para a luz e para o gás. A ideia é que, se o teu rendimento anual for igual ou inferior ao valor do limiar da pobreza (que é cerca de 7095 euros por ano), tenhas direito a estes descontos, tanto na luz como no gás. Também querem que quem recebe pensão de velhice ou abono de família tenha acesso mais fácil ao desconto no gás. Basicamente, é para ajudar mais famílias a não passarem dificuldades com as contas da energia.",
+ "context": null,
+ "analysis": "A proposta identifica claramente as inconsistências existentes na legislação atual, nomeadamente a diferença nos critérios de elegibilidade entre as tarifas sociais de eletricidade e gás natural, e o facto de o referencial de vulnerabilidade económica para a eletricidade estar abaixo do limiar da pobreza. A implementação detalhada da proposta, que inclui a harmonização do rendimento de referência para o limiar da pobreza (7095 euros anuais) para ambas as tarifas e a inclusão de beneficiários de pensão social de velhice e abono de família para o gás natural, alinha-se diretamente com o objetivo de corrigir estas inconsistências e garantir que o apoio chega a mais famílias em situação de pobreza energética. A lógica subjacente é robusta, visando uma aplicação mais justa e abrangente dos apoios sociais.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao alargar o número de beneficiários das tarifas sociais de eletricidade e gás natural e ao aumentar o referencial de rendimento para elegibilidade, implicará um aumento dos gastos do governo ou das entidades responsáveis pela compensação destas tarifas. Mais famílias a pagar menos pela energia significa que a diferença terá de ser coberta, seja por subsídios diretos do Estado ou por mecanismos de compensação que, em última instância, podem ter impacto nas contas públicas. Não há indicação de que a proposta aumente a receita do governo; pelo contrário, o efeito líquido será um aumento da despesa pública ou uma redução da receita líquida do setor energético que o Estado possa ter de compensar."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "short_title": "Contribuição Temporária sobre a Banca para Apoio à Habitação",
+ "summary": "A proposta visa criar uma contribuição de solidariedade temporária sobre os lucros extraordinários do setor da banca, aplicável nos anos de 2024 e 2025. O objetivo é angariar fundos para fazer face à escalada dos preços no setor da habitação e às dificuldades que as famílias enfrentam para aceder a uma casa. As receitas desta contribuição serão exclusivamente direcionadas para programas de apoio à habitação, como subsídios para pagamentos de hipotecas, reestruturação de dívidas e apoio à habitação acessível. Esta medida alarga uma lei existente que já aplica contribuições semelhantes aos setores da energia e da distribuição alimentar.",
+ "key_points": [],
+ "plain_language": "Em termos simples, este projeto de lei quer que os bancos paguem um imposto extra, mas só por um tempo (em 2024 e 2025), sobre os lucros que eles ganharam a mais. A ideia é usar esse dinheiro para ajudar as pessoas a lidar com os preços altos das casas, seja dando uma ajuda para pagar a prestação da casa, renegociar dívidas ou construir casas mais baratas. É como pedir aos bancos para darem uma ajuda solidária para resolver o problema da habitação em Portugal, tal como já se fez com as empresas de energia e de supermercados.",
+ "context": null,
+ "analysis": "A proposta identifica claramente a crise habitacional e o aumento do endividamento das famílias como problemas centrais, ligando-os ao aumento dos lucros do setor bancário. A criação de uma contribuição temporária de 40% sobre os lucros excedentários (definidos como um aumento superior a 25% face à média de 2019-2022) e a afetação exclusiva destas receitas a programas de apoio à habitação demonstram um alinhamento direto entre o problema, a fonte de financiamento e a solução proposta. A justificação baseia-se em regulamentos europeus sobre impostos sobre lucros inesperados e em precedentes nacionais em outros setores. Contudo, embora a proposta mencione a importância de manter a viabilidade financeira das instituições de crédito, não detalha como uma taxa de 40% sobre os lucros excedentários pode impactar a capacidade de investimento ou empréstimo dos bancos a longo prazo, ou se poderá ter consequências não intencionais para o mercado financeiro. Apesar desta omissão, o mecanismo central da proposta é coerente com o objetivo de redistribuir lucros de um setor beneficiado pela conjuntura económica para mitigar os efeitos da crise habitacional.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará a receita do governo através da imposição de uma nova contribuição temporária sobre os lucros extraordinários do setor bancário. Simultaneamente, aumentará os gastos do governo, uma vez que as receitas geradas serão exclusivamente afetadas a programas de apoio à habitação, incluindo subsídios, reestruturação de dívidas e construção de habitação acessível. O efeito líquido no orçamento geral do governo é concebido para ser neutro, pois a nova receita destina-se a cobrir as novas despesas no setor da habitação. No entanto, representa uma transferência significativa de fundos do setor bancário privado para iniciativas públicas destinadas a aliviar a crise habitacional."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

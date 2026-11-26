@@ -1,0 +1,44 @@
+{
+ "short_title": "Quociente familiar e aumento das deduções por dependente no IRS",
+ "summary": "O Projeto de Lei n.º 646/XVII/1.ª, do Grupo Parlamentar do Chega, altera o Código do IRS para reintroduzir a consideração de dependentes no quociente familiar e aumentar as deduções à coleta por descendente. Na tributação conjunta de casados ou unidos de facto, o rendimento coletável é dividido por dois mais 0,5 por cada dependente; na tributação separada, divide-se por um mais 0,25 por dependente. Para os restantes contribuintes, o divisor é um mais 0,5 por dependente. Aplicam-se as taxas do artigo 68.º ao quociente e multiplica-se o resultado pelo mesmo divisor para apurar a coleta. Além disso, a dedução fixa sobe para 700 euros por dependente, ou 350 euros para cada progenitor em residência alternada. Acrescem 350 euros, ou 200 euros na residência alternada, a partir do segundo dependente até aos seis anos. A lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Reintroduz os dependentes no cálculo do quociente familiar do IRS, aplicando um fator de 0,5 por dependente na tributação conjunta e nos contribuintes não casados nem unidos de facto.",
+  "Fixa um fator de 0,25 por dependente no divisor do rendimento coletável quando os cônjuges ou unidos de facto optam pela tributação separada.",
+  "Determina que a coleta resulta da aplicação das taxas gerais ao quociente do rendimento coletável, multiplicada pelo respetivo divisor apurado.",
+  "Fixa a dedução à coleta em 700 euros por dependente, ou em 350 euros para cada progenitor em casos de responsabilidade conjunta com residência alternada.",
+  "Atribui um acréscimo de dedução de 350 euros, ou de 200 euros em residência alternada, para o segundo dependente e seguintes que não ultrapassem seis anos de idade.",
+  "Prevê que a lei entre em vigor com o Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Esta proposta muda a forma como as famílias com dependentes pagam IRS, procurando reduzir o imposto. Primeiro, recupera uma regra que existiu até 2015: antes de aplicar a taxa de imposto, o rendimento da família é dividido também pelos dependentes (cada um conta meio ponto na maioria dos casos), o que pode baixar o escalão aplicado. Segundo, fixa o desconto direto no imposto a pagar em 700 euros por dependente, dando um reforço extra a partir do segundo filho até aos seis anos. As mudanças só entram em vigor com o próximo Orçamento do Estado.",
+ "context": "O proponente afirma que Portugal enfrenta um grave desequilíbrio demográfico, marcado pela baixa natalidade e pelo facto de ser o segundo país mais envelhecido da União Europeia. Sustenta que o atual modelo de IRS não reflete adequadamente a menor capacidade contributiva das famílias com dependentes, penalizando em particular as famílias numerosas com rendimentos idênticos aos de agregados sem filhos. Assim, defende a reposição do quociente familiar revogado em 2016 e o aumento das deduções como forma de garantir justiça fiscal, simplificar o sistema e incentivar a natalidade.",
+ "analysis": "A iniciativa apresenta regras claras e uniformes que procuram adequar o IRS aos encargos familiares, recuperando um mecanismo simples de divisão do rendimento. Contudo, o projeto omite qualquer estimativa do impacto orçamental na receita fiscal e apresenta lacunas técnicas relevantes. Por um lado, ao contrário das deduções, o artigo 69.º não prevê como repartir o fator de 0,5 em situações de residência alternada para contribuintes não casados nem unidos de facto. Por outro lado, o acréscimo de dedução para crianças até seis anos gera uma assimetria matemática: em residência alternada, a soma para os dois progenitores atinge 1100 euros (350 mais 200 euros cada), superando os 1050 euros atribuídos a um casal conjunto. Ademais, o quociente familiar tende a beneficiar menos agregados de baixos rendimentos ou sem coleta, reduzindo a progressividade.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A reintrodução do quociente familiar com fator de 0,5 ou 0,25 por dependente e a fixação de deduções de 700 euros (acrescidas de 350 euros a partir do segundo dependente até aos seis anos, ou 350 e 200 euros em residência alternada) diminuem o imposto apurado pelos agregados familiares, reduzindo a receita pública de IRS. O documento não quantifica o impacto financeiro global da medida para o Orçamento do Estado."
+ },
+ "affected": [
+  "agregados familiares com dependentes",
+  "contribuintes de IRS",
+  "progenitores com residência alternada",
+  "famílias numerosas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "irs",
+  "quociente familiar",
+  "deduções fiscais",
+  "dependentes",
+  "natalidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

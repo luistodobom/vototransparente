@@ -1,0 +1,43 @@
+{
+ "short_title": "Campanha nacional anual contra o acorrentamento de cães",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a criação de uma campanha nacional anual contra o acorrentamento de cães, tratando-se de uma recomendação não vinculativa. A campanha deverá alertar para os danos físicos e psicológicos do acorrentamento permanente, divulgar alternativas de contenção adequadas ao bem-estar animal e indicar como agir em situações de catástrofe natural. A iniciativa pede ainda ao executivo que reforce a fiscalização de casos de acorrentamento, confinamento e maus-tratos, e que promova a formação dos agentes fiscalizadores em articulação com as autarquias locais e a Direção-Geral de Alimentação e Veterinária. Propõe também que os Centros de Recolha Oficial incluam nos seus relatórios anuais dados sobre os meios usados e os resultados da campanha. Por fim, recomenda que o Governo avalie a criação de restrições legais a correntes ou dispositivos que limitem significativamente a mobilidade dos cães.",
+ "key_points": [
+  "Realizar anualmente uma campanha nacional anti-acorrentamento de cães com foco nos impactos negativos, alternativas de contenção e conduta em catástrofes naturais.",
+  "Adotar medidas para reforçar a fiscalização de casos de acorrentamento, confinamento e maus-tratos a animais de companhia.",
+  "Promover a formação dos agentes fiscalizadores em articulação com as autarquias locais e a Direção-Geral de Alimentação e Veterinária.",
+  "Incluir nos relatórios de atividade dos Centros de Recolha Oficial os meios empregues, o público alcançado e os resultados da campanha.",
+  "Avaliar a introdução de restrições legais a correntes ou dispositivos que limitem significativamente a área de circulação adequada ao porte e comportamento do cão."
+ ],
+ "plain_language": "Os deputados propõem que o Parlamento peça ao Governo para fazer todos os anos uma campanha nacional contra manter cães acorrentados. A ideia é explicar os perigos para a saúde dos animais, mostrar alternativas mais seguras e ensinar o que fazer com eles em emergências, como cheias. O texto pede também mais vigilância, formação para os inspetores e relatórios sobre o alcance da campanha nos canis municipais. Além disso, sugere que o Governo estude proibir por lei correntes demasiado curtas. Como é uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O proponente aponta que Portugal é o segundo país da União Europeia com mais cães por habitante e ultrapassou os quatro milhões de animais de companhia registados em 2023. Argumenta que muitos cães vivem permanentemente acorrentados ou confinados em espaços indignos, sofrendo lesões físicas, problemas de pele e stresse crónico que os pode tornar agressivos. Destaca também o risco em catástrofes naturais, recordando a morte de dezenas de cães acorrentados por afogamento em Loures, no final de 2022. Defende que sensibilizar e educar os detentores é essencial para prevenir estes maus-tratos.",
+ "analysis": "A iniciativa tem como mérito articular prevenção, proteção civil e fiscalização, procurando corrigir uma lacuna educativa e reduzir riscos para animais em cheias ou outras calamidades. A inclusão de metas de avaliação nos relatórios dos Centros de Recolha Oficial também favorece o acompanhamento dos resultados. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não tem força vinculativa, dependendo da vontade política do Governo. Além disso, apesar de a exposição de motivos defender alterações legislativas, o texto limita-se a recomendar uma avaliação sobre restrições legais, sem apresentar um projeto de lei concreto. Falta ainda especificar que meios humanos e financeiros serão necessários para reforçar a fiscalização e formar agentes em articulação com autarquias, bem como clarificar de que forma os centros municipais conseguirão medir o alcance de uma campanha de âmbito nacional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de campanhas nacionais anuais, a formação de agentes fiscalizadores e o reforço da fiscalização implicam custos para o Estado e autarquias caso sejam implementados. O documento não quantifica quaisquer montantes e, por ser uma recomendação não vinculativa, não gera despesa automática."
+ },
+ "affected": [
+  "detentores de cães",
+  "agentes fiscalizadores",
+  "autarquias locais",
+  "Centros de Recolha Oficial"
+ ],
+ "categories": [
+  "animais",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "acorrentamento de cães",
+  "bem-estar animal",
+  "campanha de sensibilização",
+  "fiscalização",
+  "catástrofes naturais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Redução temporária do IVA dos combustíveis para 13%",
+ "summary": "O Projeto de Lei n.º 757/XVII/2.ª, apresentado pelo Chega, propõe reduzir temporariamente o Imposto sobre o Valor Acrescentado (IVA) aplicado aos combustíveis rodoviários da taxa normal de 23% para a taxa intermédia de 13%. A medida abrange a transmissão de gasolina e gasóleo, simples ou aditivados, bem como outros combustíveis líquidos para uso rodoviário a definir por portaria do membro do Governo responsável pelas finanças. A redução vigorará por um período inicial de 12 meses, com possibilidade de renovação. O diploma determina ainda que o Governo proceda à avaliação e acompanhamento do impacto da medida no prazo de seis meses após a sua entrada em vigor. A aplicação da lei fica condicionada à aprovação do Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Reduz a tributação da gasolina e do gasóleo, simples e aditivados, da taxa normal de IVA de 23% para a taxa intermédia de 13%.",
+  "Prevê a aplicação da taxa intermédia a outros combustíveis líquidos rodoviários definidos por portaria do Ministério das Finanças.",
+  "Fixa a duração da medida em 12 meses, permitindo a sua renovação.",
+  "Determina que o Governo avalie e acompanhe o impacto da medida seis meses após a entrada em vigor.",
+  "Adia a entrada em vigor da lei para o momento posterior à aprovação do Orçamento do Estado seguinte à sua publicação."
+ ],
+ "plain_language": "Este projeto de lei quer baixar o IVA da gasolina e do gasóleo de 23% para 13%, durante um ano, podendo esse prazo ser prolongado. O objetivo é tornar o abastecimento mais barato para as famílias e para as empresas que dependem dos transportes. Se a lei for aprovada, o Governo terá de verificar ao fim de seis meses se a medida está a funcionar. No entanto, a descida do imposto não seria imediata: o texto prevê que só comece a valer depois de aprovado o próximo Orçamento do Estado.",
+ "context": "O proponente justifica a iniciativa com o aumento dos preços da energia associado a tensões geopolíticas no Médio Oriente, nomeadamente a guerra no Irão. Segundo o documento, a carga fiscal portuguesa — onde o IVA de 23% incide também sobre o imposto petrolífero — aproxima os impostos de quase metade do preço final na bomba, superando a média europeia e a de Espanha. Argumenta que o encarecimento dos combustíveis gera um efeito em cadeia nos restantes bens essenciais e defende um alívio temporário semelhante ao de outros países europeus.",
+ "analysis": "A iniciativa procura mitigar os custos energéticos de famílias e empresas, incluindo positivamente uma cláusula de avaliação aos seis meses e remetendo o início de vigência para o Orçamento do Estado seguinte, respeitando restrições orçamentais em curso. Contudo, apresenta fragilidades relevantes. Primeiro, não quantifica o impacto da perda de receita decorrente da descida de dez pontos percentuais no IVA. Segundo, o próprio texto reconhece limitações nas regras europeias do IVA, sem demonstrar compatibilidade jurídica com a diretiva comunitária aplicável. Terceiro, há tensão entre a urgência invocada na exposição de motivos e o adiamento da entrada em vigor. Por fim, o articulado não assegura que a redução fiscal seja integralmente repercutida no preço ao consumidor e contém imprecisões redatoriais, como a referência ao 'Código IV' sem alterar formalmente a Lista II anexa ao código.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A passagem da taxa de IVA de 23% para 13% sobre os combustíveis rodoviários reduz a receita fiscal arrecadada pelo Estado por cada litro vendido. O projeto de lei não apresenta qualquer estimativa orçamental do montante desta perda de receita."
+ },
+ "affected": [
+  "automobilistas",
+  "empresas de transporte",
+  "consumidores",
+  "postos de abastecimento"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "transportes"
+ ],
+ "tags": [
+  "iva",
+  "combustíveis",
+  "gasolina",
+  "gasóleo",
+  "impostos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

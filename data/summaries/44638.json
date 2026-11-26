@@ -1,0 +1,25 @@
+{
+ "short_title": "Proteção de Idosos em Lares contra COVID-19",
+ "summary": "Esta proposta de resolução visa proteger os idosos em lares, incluindo os que não têm licença, contra o vírus SARS-CoV-2. O documento destaca a vulnerabilidade desta população, o elevado número de infetados e mortos em lares, e a sobrelotação de algumas instituições. Recomenda-se ao Governo a implementação de medidas urgentes como o rastreio massivo e obrigatório de utentes e profissionais, o reforço de material de proteção e pessoal, a transferência de infetados para unidades de saúde e o apoio psicológico e emocional aos idosos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta é um grito de alerta para proteger os nossos avós e bisavós que vivem em lares, especialmente aqueles que funcionam sem licença, contra o coronavírus. A ideia é que o governo faça testes a toda a gente nos lares (idosos e funcionários), dê máscaras e outros equipamentos de proteção, arranje mais pessoal para ajudar e garanta que os idosos infetados vão para o hospital. Também se preocupam em dar apoio psicológico, já que as visitas foram suspensas. O objetivo é travar os surtos e cuidar melhor dos mais velhos, que são os mais frágeis nesta pandemia.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente a extrema vulnerabilidade dos idosos em lares durante a pandemia de COVID-19, sublinhando a necessidade de intervenção urgente, especialmente em lares não licenciados. Os detalhes da implementação, como o rastreio generalizado e obrigatório, o fornecimento de equipamento de proteção individual (EPI) e o reforço de pessoal, alinham-se diretamente com o objetivo de conter a disseminação do vírus e proteger esta população. A menção à necessidade de apoio psicológico e emocional é um ponto forte, reconhecendo o impacto do isolamento. Uma inconsistência apontada no próprio documento é a escolha territorial do governo para a campanha de rastreio, que não corresponde à geopolítica da COVID-19, sugerindo que a estratégia governamental pode não ser a mais eficaz no combate à doença, o que a proposta tenta corrigir com as suas recomendações mais abrangentes.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao recomendar o rastreio massivo e obrigatório, o fornecimento de material de proteção (máscaras, batas, luvas, desinfetantes) e o reforço de profissionais (seja por contratação ou requisição civil), implicará um aumento significativo dos gastos do governo. Não há menção a medidas que possam aumentar a receita do governo. O efeito líquido será, portanto, um aumento substancial da despesa pública para a implementação destas medidas de saúde e segurança social."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

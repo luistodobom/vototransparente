@@ -1,0 +1,40 @@
+{
+ "short_title": "Integração dos investigadores bolseiros na carreira científica",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo que negoceie a transição dos investigadores bolseiros para a carreira de investigação científica. Trata-se de uma recomendação não vinculativa dirigida ao Executivo, que visa promover a inclusão gradual de todos os bolseiros naquela carreira. Segundo o texto da iniciativa, esse processo negocial deve decorrer em articulação com as entidades representantes dos trabalhadores do setor. A proposta surge como resposta ao diagnóstico de precariedade crónica no Sistema Científico e Tecnológico Nacional, onde muitos investigadores dependem de bolsas de investigação sem vínculo laboral, apesar de estarem sujeitos a um regime de exclusividade. Com esta medida, pretende-se garantir estabilidade profissional e acesso a direitos laborais e sociais hoje ausentes para estes trabalhadores.",
+ "key_points": [
+  "Recomenda ao Governo que negoceie a transição dos investigadores bolseiros para a carreira de investigação científica.",
+  "Estabelece que essa negociação deve ser feita em conjunto com as entidades representantes dos trabalhadores do setor.",
+  "Define como objetivo a inclusão gradual de todos os investigadores bolseiros na carreira científica.",
+  "Visa substituir a dependência contínua de bolsas sem contrato por vínculos laborais estáveis e com proteção social."
+ ],
+ "plain_language": "Em Portugal, muitos cientistas trabalham através de bolsas de investigação em vez de terem um contrato de trabalho normal. Como não têm contrato, faltam-lhes direitos básicos como subsídio de férias e de Natal, subsídio de alimentação ou proteção na doença e na parentalidade, mesmo quando trabalham em exclusividade. Esta proposta do PAN é uma recomendação ao Governo — ou seja, não obriga a mudar a lei de imediato — para que abra negociações com os representantes destes trabalhadores. O objetivo é passar gradualmente os bolseiros para a carreira oficial de investigação científica, garantindo-lhes estabilidade e direitos laborais.",
+ "context": "O PAN aponta que grande parte da investigação científica em Portugal assenta em bolseiros sujeitos a precariedade crónica e a atrasos em concursos. Por dependerem de um subsídio de manutenção sem vínculo laboral, estes profissionais, apesar do regime de exclusividade, não têm direito a 13.º e 14.º meses, subsídio de alimentação, proteção na doença ou direitos de parentalidade. Segundo a exposição de motivos, esta instabilidade desvaloriza o trabalho científico, estagna carreiras e leva muitos investigadores a procurar melhores condições no estrangeiro.",
+ "analysis": "A iniciativa aborda um problema estrutural do sistema científico português — a dependência de bolsas em vez de contratos — e acerta ao prever uma transição gradual negociada com os representantes dos trabalhadores. Contudo, apresenta fragilidades relevantes. Por ser um Projeto de Resolução, não tem força vinculativa e não obriga o Governo a atuar. Além disso, o texto é muito vago quanto à execução: não define prazos, metas anuais ou critérios de transição, nem distingue entre bolseiros em formação de doutoramento e investigadores já doutorados. Também omite qualquer estimativa de custos orçamentais ou de impacto nas instituições científicas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A transição dos bolseiros para a carreira de investigação científica, atribuindo-lhes contratos de trabalho, 13.º e 14.º meses, subsídio de alimentação e proteção social, implicaria um aumento da despesa pública. Contudo, por se tratar de uma recomendação não vinculativa para negociar, o documento não apresenta estimativas financeiras nem montantes."
+ },
+ "affected": [
+  "investigadores bolseiros",
+  "instituições do Sistema Científico e Tecnológico Nacional",
+  "entidades representantes dos trabalhadores científicos"
+ ],
+ "categories": [
+  "ciencia",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "investigação científica",
+  "bolseiros",
+  "precariedade laboral",
+  "carreira científica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

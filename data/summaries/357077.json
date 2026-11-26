@@ -1,0 +1,40 @@
+{
+ "short_title": "Mecanismos de reforma a tempo parcial e acumulação com trabalho",
+ "summary": "Este Projeto de Resolução do CDS-PP recomenda ao Governo que crie mecanismos de reforma a tempo parcial. Sendo um projeto de resolução, trata-se de uma recomendação não vinculativa, pelo que não altera diretamente a lei. A iniciativa propõe que os trabalhadores possam fazer uma transição gradual para a reforma, reduzindo o seu horário de trabalho sem perderem totalmente o vínculo laboral. Durante esse período, acumulariam o salário correspondente ao trabalho prestado com uma parcela proporcional da pensão de velhice. O objetivo declarado é permitir prolongar a vida ativa, evitar quebras bruscas de rendimento e flexibilizar a idade de acesso à pensão completa. O texto não define percentagens, limites etários, regras contributivas nem prazos de implementação, deixando esses aspetos para eventual regulamentação futura pelo Governo.",
+ "key_points": [
+  "Recomenda ao Governo a criação de mecanismos legais para permitir a reforma a tempo parcial.",
+  "Prevê a possibilidade de reduzir a carga horária mantendo o vínculo laboral na transição para a reforma.",
+  "Propõe a acumulação de rendimentos do trabalho parcial com uma parte proporcional da pensão.",
+  "Visa flexibilizar a idade de acesso à pensão completa por velhice e prolongar a vida ativa dos contribuintes."
+ ],
+ "plain_language": "Em vez de passar de um dia para o outro de trabalhar a tempo inteiro para estar totalmente reformado, esta proposta sugere que o trabalhador possa ir abrandando aos poucos. A ideia é trabalhar menos horas, receber o salário dessas horas e juntar-lhe uma fatia da sua pensão. Assim, quem quiser continuar ativo não perde todo o rendimento de repente nem sai logo do mercado de trabalho. No entanto, isto é apenas um pedido ao Governo, não é uma lei. Como não traz regras concretas nem datas, nada muda para já na vida das pessoas.",
+ "context": "O CDS-PP argumenta que o atual modelo de pensões é rígido, levando os trabalhadores a deixar a atividade profissional ao atingir a idade legal de reforma. Segundo o partido, este sistema não reflete as preferências individuais nem otimiza os recursos humanos na economia. A transição gradual evitaria quebras bruscas de rendimento e permitiria reduzir o horário sem perder o vínculo laboral. O proponente afirma ainda que manter contribuintes ativos por mais tempo reforçaria a sustentabilidade financeira da Segurança Social, beneficiando trabalhadores, empregadores e Estado.",
+ "analysis": "A iniciativa levanta uma questão pertinente ao propor maior flexibilidade na transição para a reforma, procurando conciliar preferências individuais, permanência no mercado de trabalho e continuidade contributiva. Contudo, tratando-se de um Projeto de Resolução, constitui apenas uma recomendação não vinculativa ao Governo. O documento é pouco detalhado e não define critérios essenciais de aplicação, como a idade de acesso, a proporção da pensão a pagar, o impacto no cálculo da pensão completa ou se a redução horária depende de acordo do empregador. Também assume que o modelo atual é totalmente rígido sem demonstrar essa premissa com dados. Embora o proponente antecipe ganhos para a Segurança Social, a ausência de regras concretas e de avaliação financeira impede confirmar esse efeito.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação sem efeitos vinculativos nem parâmetros concretos, não tem impacto orçamental direto imediato. O documento não apresenta estimativas financeiras, pelo que o efeito líquido futuro na Segurança Social dependerá das regras de acesso, das contribuições e dos valores proporcionais de pensão que o Governo venha a definir."
+ },
+ "affected": [
+  "trabalhadores próximos da idade de reforma",
+  "empregadores",
+  "sistema de segurança social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "reforma parcial",
+  "pensões",
+  "segurança social",
+  "vida ativa",
+  "tempo parcial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

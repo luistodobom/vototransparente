@@ -1,0 +1,25 @@
+{
+ "short_title": "Apoio a famílias com dependentes em ensino particular e cooperativo",
+ "summary": "Esta proposta de lei, apresentada pelo PAN, visa criar uma linha de apoio financeiro para famílias com dependentes que frequentam estabelecimentos de ensino particulares, cooperativos ou do setor social e solidário (pré-escolar, básico e secundário). O apoio destina-se a agregados familiares que sofreram quebras significativas de rendimento devido à pandemia de COVID-19. Adicionalmente, a proposta prevê a suspensão ou redução obrigatória das mensalidades nestes estabelecimentos de ensino durante o estado de emergência, dependendo da garantia de ensino à distância e da redução de gastos.",
+ "key_points": [],
+ "plain_language": "Basicamente, o partido PAN quer ajudar as famílias que, por causa da COVID-19, viram os seus rendimentos diminuir e estão com dificuldades em pagar as escolas privadas, cooperativas ou do setor social dos filhos. A ideia é criar uma espécie de empréstimo do Estado, sem juros, para essas famílias. Além disso, enquanto durar o estado de emergência, as escolas privadas e cooperativas teriam de suspender ou baixar as mensalidades, especialmente se não estiverem a dar aulas online ou se tiverem menos despesas.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente um problema financeiro real enfrentado por muitas famílias durante a pandemia de COVID-19, que se viram com dificuldades em manter o pagamento das mensalidades escolares privadas. A criação de uma linha de apoio financeiro, sob a forma de empréstimo sem juros, e a imposição de suspensão ou redução de mensalidades, são medidas que se alinham com o objetivo de salvaguardar a continuidade da educação e aliviar a pressão económica sobre as famílias. A exigência de uma quebra de rendimentos superior a 20% e a condição de o estabelecimento não estar a assegurar ensino à distância ou aprendizagens devidas (para suspensão total) ou ter reduzido gastos (para redução proporcional) são critérios que visam direcionar o apoio a quem mais precisa e garantir alguma equidade. A implementação através de uma portaria do Ministério da Educação assegura a flexibilidade necessária para a regulamentação dos detalhes.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê a criação de uma linha de apoio financeiro que será financiada pelo Orçamento de Estado para 2020, através de verbas próprias do Ministério da Educação. Isso significa que haverá um aumento inicial nos gastos do governo, uma vez que se trata de um desembolso de fundos para conceder empréstimos. Embora os empréstimos sejam sem juros e devam ser reembolsados pelas famílias num prazo de 12 meses após o fim do estado de emergência, o efeito líquido inicial será um aumento da despesa pública. A longo prazo, com os reembolsos, parte do valor poderá ser recuperado, mas não haverá aumento de receita via juros. Portanto, o impacto fiscal imediato é um aumento dos gastos do governo, com uma potencial diminuição da receita líquida a curto prazo devido à ausência de juros e ao tempo de recuperação dos fundos."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

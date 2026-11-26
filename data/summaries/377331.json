@@ -1,0 +1,41 @@
+{
+ "short_title": "Urgência na votação da proposta de lei sobre combustíveis",
+ "summary": "Este Projeto de Deliberação propõe que o Plenário da Assembleia da República conceda processo de urgência à Proposta de Lei n.º 86/XVII/1.ª, apresentada pelo Governo. Na prática, a iniciativa estabelece um procedimento parlamentar acelerado para essa proposta de lei, que altera o Código do Imposto sobre o Valor Acrescentado para os revendedores de combustíveis líquidos e reforça o controlo, a certificação e a rastreabilidade no Sistema Petrolífero Nacional. A deliberação determina que a votação na generalidade, na especialidade e a votação final global decorram em simultâneo. Além disso, dispensa o envio do diploma aprovado à comissão parlamentar competente para a elaboração da redação final e elimina o prazo habitual para apresentação de reclamações contra eventuais inexatidões do decreto parlamentar.",
+ "key_points": [
+  "Concede processo de urgência à Proposta de Lei n.º 86/XVII/1.ª sobre tributação e controlo de combustíveis líquidos.",
+  "Determina a realização simultânea das votações na generalidade, na especialidade e final global em Plenário.",
+  "Dispensa o envio do texto aprovado à comissão parlamentar competente para efeitos de redação final.",
+  "Dispensa o prazo regimental para apresentação de reclamações contra inexatidões no decreto da Assembleia da República."
+ ],
+ "plain_language": "Normalmente, quando o Governo envia uma proposta de lei ao Parlamento, esta passa por várias etapas demoradas: é votada nas linhas gerais, discutida artigo a artigo em comissão e revista antes da votação final. Neste documento, o Presidente da Assembleia da República pede aos deputados que aprovem uma via rápida para a lei do Governo sobre impostos e fiscalização nos combustíveis. Se isto for aprovado, o Parlamento salta passos intermédios, faz todas as votações de uma só vez e prescinde do tempo extra para rever o texto final ou corrigir gralhas.",
+ "context": "O projeto de deliberação surge na sequência de um pedido de urgência formalizado pelo Ministério dos Assuntos Parlamentares, a 28 de setembro de 2026. De acordo com o n.º 3 do artigo 128.º-A do Regimento da Assembleia da República, sempre que é pedido um processo de urgência, cabe ao Presidente do Parlamento submeter uma deliberação à votação na primeira reunião plenária seguinte. O texto não apresenta razões políticas ou económicas adicionais para a urgência, limitando-se a dar cumprimento regimental ao pedido do Governo.",
+ "analysis": "Como ponto positivo, este mecanismo regimental permite ao Parlamento responder com rapidez a matérias que exijam entrada em vigor imediata, evitando atrasos processuais entre a aprovação e o envio para promulgação. Contudo, a dispensa de debate em comissão, da redação final e do prazo para reclamações contra inexatidões comporta riscos significativos: reduz o escrutínio técnico e político sobre alterações ao IVA e ao setor petrolífero e aumenta a probabilidade de erros formais no texto legal. Além disso, o próprio texto desta deliberação omite a justificação da urgência e contém uma gralha na identificação da proposta de lei, referindo-a uma vez como 86/XVIII/1.ª em vez de 86/XVII/1.ª, o que ilustra os riscos da tramitação acelerada.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Este projeto de deliberação tem natureza exclusivamente processual, regulando apenas o ritmo de votação na Assembleia da República, pelo que não gera impacto orçamental direto. O eventual efeito nas receitas fiscais resultará apenas da aprovação da Proposta de Lei n.º 86/XVII/1.ª sobre o IVA dos combustíveis líquidos."
+ },
+ "affected": [
+  "deputados da Assembleia da República",
+  "Governo",
+  "revendedores de combustíveis líquidos"
+ ],
+ "categories": [
+  "instituicoes",
+  "fiscalidade",
+  "energia"
+ ],
+ "tags": [
+  "processo de urgência",
+  "regimento parlamentar",
+  "combustíveis líquidos",
+  "iva",
+  "sistema petrolífero"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

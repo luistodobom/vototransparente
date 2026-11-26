@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio ao acesso a capacetes para velocípedes e micromobilidade",
+ "summary": "O Projeto de Resolução n.º 1273/XVII/2.ª, apresentado pelo PAN, recomenda ao Governo quatro medidas para facilitar o acesso e incentivar o uso de capacete certificado por parte de quem circula em bicicletas, bicicletas com motor auxiliar, trotinetas elétricas e outros veículos equiparados a velocípedes ao abrigo do artigo 112.º do Código da Estrada. As propostas incluem a criação de uma comparticipação financeira para a compra de capacete, o desenvolvimento de um programa de disponibilização gratuita em idade escolar, a inclusão de capacetes nos serviços de micromobilidade partilhada e a realização de uma campanha de sensibilização. Por se tratar de um projeto de resolução, estas medidas constituem recomendações não vinculativas ao Executivo.",
+ "key_points": [
+  "Recomenda a criação de uma comparticipação estatal para a aquisição de capacete certificado destinado a utilizadores de velocípedes e dispositivos equiparados.",
+  "Propõe um programa de disponibilização gratuita de capacetes certificados a crianças e jovens em idade escolar, em articulação com a Autoridade Nacional de Segurança Rodoviária, municípios e Direção-Geral de Educação.",
+  "Sugere que o Governo promova, com os municípios e operadores de sistemas partilhados, a disponibilização de capacetes no aluguer de bicicletas e trotinetas, com soluções de higienização, armazenamento e informação de segurança.",
+  "Prevê o acompanhamento destas medidas através de uma campanha de sensibilização para o uso de capacete."
+ ],
+ "plain_language": "O PAN quer que o Governo ajude as pessoas a ter e a usar capacete quando andam de bicicleta ou de trotineta elétrica. Em vez de impor multas ou obrigações legais, a proposta recomenda que o Estado pague uma parte do preço do capacete, dê capacetes gratuitos nas escolas e trabalhe com as câmaras municipais e empresas de aluguer para que haja capacetes limpos disponíveis nas bicicletas e trotinetas partilhadas, juntando campanhas de informação. Como é apenas uma recomendação parlamentar, o Governo não é obrigado a pôr estas ideias em prática.",
+ "context": "O proponente justifica a iniciativa com o crescimento da mobilidade suave e da respetiva sinistralidade. Segundo o relatório de 2024 da Autoridade Nacional de Segurança Rodoviária, os velocípedes registaram o maior aumento acumulado em acidentes com vítimas (52,2% face a 2019), e a GNR contabilizou mais de 1900 acidentes com trotinetas em sete anos, com 10 vítimas mortais. Face ao risco elevado de lesões cranianas, à ausência de obrigatoriedade geral ou de apoios públicos e ao debate sobre uma eventual imposição legal (Projeto de Lei n.º 622/XVII/1.ª do PSD), o PAN defende incentivos para evitar o abandono destes meios de transporte.",
+ "analysis": "A proposta destaca-se por abordar barreiras económicas e práticas à utilização do capacete, procurando aumentar a segurança sem desincentivar a mobilidade ativa e reconhecendo que o equipamento não substitui medidas rodoviárias estruturais. Contudo, apresenta fragilidades relevantes: sendo um projeto de resolução, carece de força vinculativa; não define percentagens de comparticipação, critérios de elegibilidade nem fontes de financiamento; e a disponibilização de capacetes em sistemas partilhados enfrenta desafios operacionais elevados em matéria de furto, vandalismo, adequação de tamanhos e garantia efetiva de higienização. O texto apresenta ainda falhas formais de revisão, incluindo gralhas ortográficas no título e no texto e a data de 18 de setembro de 2026.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, a iniciativa não gera despesa imediata. Caso seja aplicada pelo Governo, implicará aumento da despesa pública com comparticipações, aquisição de capacetes para escolas e campanhas, não constando quaisquer montantes no documento."
+ },
+ "affected": [
+  "utilizadores de velocípedes e trotinetas elétricas",
+  "crianças e jovens em idade escolar",
+  "operadores de micromobilidade partilhada",
+  "municípios"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "educacao"
+ ],
+ "tags": [
+  "micromobilidade",
+  "capacetes",
+  "velocípedes",
+  "segurança rodoviária",
+  "trotinetas elétricas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

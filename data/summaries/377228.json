@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço dos cuidados na gravidez e das urgências de obstetrícia no SNS",
+ "summary": "Este Projeto de Resolução do PCP recomenda ao Governo um conjunto de dez medidas para reforçar os cuidados na gravidez e os serviços de obstetrícia no Serviço Nacional de Saúde (SNS). Por se tratar de uma resolução, as propostas não são vinculativas. O texto recomenda a revogação do Decreto-Lei n.º 2/2026, que criou o modelo centralizado de urgências regionais, e a reabertura dos serviços e urgências de obstetrícia encerrados. Propõe ainda valorizar as carreiras para fixar profissionais, aumentar as vagas de especialidade em ginecologia e obstetrícia e reforçar os enfermeiros especialistas nos cuidados primários e hospitais. Recomenda também maior investimento em equipamentos e meios de diagnóstico, apoio na saúde mental antes e após o parto, fiscalização mais rigorosa dos acordos com clínicas privadas e melhor informação para uma participação esclarecida das grávidas.",
+ "key_points": [
+  "Revogar o Decreto-Lei n.º 2/2026 e reabrir os serviços e urgências de obstetrícia encerrados.",
+  "Valorizar as carreiras dos profissionais de saúde e aumentar as vagas de formação especializada em obstetrícia e ginecologia.",
+  "Dotar os cuidados de saúde primários e hospitais de enfermeiros especialistas em saúde materna e obstétrica para acompanhar gravidezes de baixo risco.",
+  "Reforçar o investimento em equipamentos e meios de diagnóstico para garantir exames atempados e acompanhamento de saúde mental antes e após o parto.",
+  "Intensificar a fiscalização do cumprimento dos acordos convencionados entre o SNS e o setor privado.",
+  "Promover informação sobre direitos, saúde e cuidados ao recém-nascido para assegurar a participação ativa das grávidas."
+ ],
+ "plain_language": "O PCP pede ao Governo que reforce os cuidados às mulheres grávidas e às mães no SNS, mas atenção: esta iniciativa é apenas uma recomendação e não obriga o Governo a agir. Em termos práticos, propõe voltar atrás na concentração das urgências de obstetrícia e reabrir as que fecharam. Pede também mais médicos e enfermeiros especializados, melhores condições para os fixar no SNS e mais investimento para reduzir as esperas por exames, como ecografias. Inclui ainda apoio psicológico durante e depois da gravidez e mais fiscalização às clínicas privadas que têm acordo com o Estado para garantir que atendem as utentes.",
+ "context": "Na exposição de motivos, o PCP afirma que a falta de profissionais, de tempo de consulta e de condições de trabalho no SNS compromete um acompanhamento humanizado e seguro. Critica o encerramento e a centralização de urgências de obstetrícia, bem como a triagem obrigatória pela Linha SNS Grávida, apontando sobrelotação, recusas de atendimento e deslocações para hospitais distantes. Menciona ainda a falta de médicos de família, obstáculos ao acompanhamento por enfermeiros especialistas e listas de espera para ecografias agravadas por clínicas privadas que recusam requisições ou rescindem acordos com o SNS.",
+ "analysis": "A iniciativa aborda de forma integrada todo o percurso da gravidez, ligando cuidados primários, hospitais, saúde mental e direitos de informação das utentes, e aponta fragilidades concretas como a fiscalização de convenções privadas. Contudo, sendo um Projeto de Resolução, carece de força vinculativa e não apresenta estimativas de custos nem fontes de financiamento para o investimento e contratações propostos. Existe também uma tensão operacional nas medidas: recomenda-se a reabertura imediata das urgências encerradas quando o próprio texto reconhece uma escassez estrutural de obstetras, cujo reforço através de mais vagas de formação só produzirá efeitos a médio prazo. Além disso, várias recomendações usam formulações genéricas e a exposição de motivos critica a Linha SNS Grávida sem incluir qualquer medida sobre ela na parte resolutiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, não tem impacto orçamental direto nem vinculativo, e o documento não apresenta estimativas financeiras. Contudo, a concretização de medidas como a reabertura de urgências, a valorização de carreiras, o reforço de equipas e a aquisição de equipamentos implicaria um aumento significativo da despesa pública."
+ },
+ "affected": [
+  "grávidas e puérperas",
+  "recém-nascidos e famílias",
+  "profissionais de saúde do SNS",
+  "unidades de saúde do SNS",
+  "clínicas privadas convencionadas"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "obstetrícia",
+  "gravidez",
+  "urgências hospitalares",
+  "serviço nacional de saúde",
+  "saúde materna"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

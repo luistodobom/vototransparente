@@ -1,0 +1,26 @@
+{
+ "short_title": "Criação de Complemento Social de Crise para famílias, independentes e lares.",
+ "summary": "Esta proposta visa criar um Complemento Social de Crise (CSC) temporário para mitigar os impactos económicos e sociais da pandemia de COVID-19. O objetivo é apoiar financeiramente as famílias durante os períodos de férias escolares, complementar o rendimento dos trabalhadores independentes e fornecer apoio direto aos lares de idosos para aquisição de material de proteção e contratação de pessoal. A medida é uma resposta à rejeição do Governo em prolongar apoios excecionais e à redução de rendimentos de várias famílias e profissionais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta ideia é criar um dinheiro extra, tipo um 'cheque-crise', para ajudar as famílias com miúdos nas férias (já que os avós não podem ajudar tanto e outros apoios acabaram), dar uma mão aos trabalhadores por conta própria que viram os seus rendimentos cair a pique, e também ajudar os lares de idosos a comprar material de proteção e a contratar mais gente. Tudo isto por causa da crise da COVID-19, e só enquanto a situação de emergência durar.",
+ "context": null,
+ "analysis": "A proposta é consistente nos seus objetivos e na forma como os detalhes da implementação se alinham com esses objetivos. Os três pilares do Complemento Social de Crise (apoio a famílias, trabalhadores independentes e lares de idosos) correspondem diretamente às necessidades identificadas na exposição de motivos, como a dificuldade das famílias em encontrar alternativas para o cuidado dos filhos durante as férias, a redução drástica do rendimento dos trabalhadores independentes e a escassez de recursos nos lares de idosos. A definição dos valores (IAS para famílias, 50% da base de incidência para independentes, e valor a definir para lares em função dos utentes) demonstra uma tentativa de quantificar e direcionar o apoio de forma específica a cada grupo. A natureza extraordinária e temporária do complemento, vinculada à duração das circunstâncias excecionais da pandemia, reforça a sua pertinência como medida de crise.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo, uma vez que prevê a criação de novos subsídios e complementos de rendimento para famílias, trabalhadores independentes e lares de idosos. Não há menção de novas fontes de receita ou cortes noutras áreas para compensar estes custos. Consequentemente, o efeito líquido será um aumento do défice orçamental e uma diminuição da receita líquida do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

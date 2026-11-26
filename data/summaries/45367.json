@@ -1,0 +1,25 @@
+{
+ "short_title": "Simplificação e Aceleração de Atestados Médicos de Incapacidade Multiuso",
+ "summary": "Esta proposta recomenda ao Governo português que simplifique e acelere a emissão e revalidação dos Atestados Médicos de Incapacidade Multiuso (AMIM). O documento destaca que, devido à pandemia de COVID-19 e a problemas preexistentes, há atrasos significativos (muitas vezes superiores a um ano) na realização das juntas médicas necessárias para estes atestados, o que impede o acesso de cerca de 50 mil pessoas a benefícios sociais essenciais. A proposta sugere a alteração do regime legal para desburocratizar o processo, garantir que as juntas médicas ocorram dentro do prazo legal de 60 dias, atribuir um grau de incapacidade provisório de 60% a doentes oncológicos em caso de atraso, e prorrogar a validade de atestados em processo de renovação durante a crise pandémica.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é uma chamada de atenção ao Governo para que resolva a confusão e os atrasos enormes na emissão dos atestados médicos para pessoas com deficiência. Muita gente está à espera há mais de um ano para ter o seu atestado, o que as impede de aceder a apoios importantes. A proposta pede para simplificar as regras, garantir que as consultas médicas aconteçam em 60 dias, dar um atestado provisório a doentes com cancro se houver atrasos, e estender a validade dos atestados que estão a ser renovados enquanto a pandemia durar. O objetivo é que as pessoas que mais precisam não fiquem presas na burocracia.",
+ "context": null,
+ "analysis": "A proposta identifica claramente um problema grave e premente: os atrasos na emissão e revalidação dos Atestados Médicos de Incapacidade Multiuso (AMIM), agravados pela pandemia de COVID-19. A análise é consistente ao ligar a suspensão das juntas médicas para libertar recursos para a pandemia com o aumento exponencial das dificuldades. Os detalhes da implementação, como a alteração do regime legal, a garantia do prazo de 60 dias, a atribuição provisória de incapacidade a doentes oncológicos e a prorrogação de atestados, alinham-se diretamente com o objetivo de desburocratizar e acelerar o processo. Não há inconsistências evidentes; pelo contrário, as medidas propostas são respostas diretas aos problemas levantados, visando mitigar o impacto negativo na vida dos cidadãos mais vulneráveis.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "É provável que esta proposta não tenha um impacto fiscal direto significativo no aumento dos gastos do governo, uma vez que se foca na otimização de processos existentes e na garantia de prazos legais. No entanto, a aceleração da emissão de atestados pode levar a um aumento mais rápido no acesso a benefícios sociais (como a Prestação Social de Inclusão), o que, por sua vez, aumentaria as despesas do governo com esses benefícios. Por outro lado, a desburocratização e a eficiência podem, a longo prazo, reduzir custos administrativos. O efeito líquido seria provavelmente um aumento nas despesas com benefícios sociais, mas não necessariamente um aumento nos gastos operacionais do governo, e não teria um impacto direto na receita do governo."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

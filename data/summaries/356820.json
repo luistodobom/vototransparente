@@ -1,0 +1,44 @@
+{
+ "short_title": "Restrição do acesso gratuito ao SNS por estrangeiros não residentes",
+ "summary": "O Projeto de Lei n.º 638/XVII/1.ª altera a Lei de Bases da Saúde e o Estatuto do Serviço Nacional de Saúde (SNS) para restringir o acesso de cidadãos estrangeiros não beneficiários. Na Lei de Bases da Saúde, exclui do estatuto de beneficiários os nacionais de países fora da União Europeia que não sejam residentes, condicionando o seu acesso ao pagamento dos serviços usufruídos. Limita ainda a condição de beneficiários estrangeiros a residentes ou pessoas em estada temporária nacionais da União Europeia ou equiparados, migrantes com situação legalizada e pessoas a quem já tenha sido concedido direito de asilo. No Estatuto do SNS, determina que apátridas, requerentes de proteção internacional com pedido pendente e migrantes sem situação legalizada apenas acedam ao SNS mediante pagamento e em situações de emergência médica, exigindo apresentação posterior de comprovativo de cobertura de saúde. O Governo deve regulamentar a lei em 90 dias.",
+ "key_points": [
+  "Altera a Lei de Bases da Saúde para excluir cidadãos não residentes de países fora da União Europeia da condição de beneficiários do SNS.",
+  "Condiciona o acesso ao SNS por cidadãos não residentes de países terceiros ao pagamento dos serviços usufruídos.",
+  "Limita o estatuto de beneficiários estrangeiros do SNS a nacionais da União Europeia ou equiparados, migrantes com situação legalizada e pessoas com direito de asilo concedido.",
+  "Estabelece no Estatuto do SNS que apátridas, requerentes de proteção internacional com pedido pendente e migrantes sem situação legalizada apenas acedem mediante pagamento e em emergências médicas.",
+  "Obriga os não beneficiários atendidos a apresentar posteriormente comprovativo de cobertura de cuidados de saúde e incumbe o Governo de regulamentar a lei em 90 dias."
+ ],
+ "plain_language": "Esta proposta muda as regras sobre quem tem direito a usar o Serviço Nacional de Saúde nas condições aplicáveis aos residentes. Se for aprovada, estrangeiros de fora da União Europeia que não vivam em Portugal, migrantes sem situação legalizada e pessoas que ainda aguardam resposta a pedidos de proteção internacional deixam de ser beneficiários do SNS. Estes grupos passam a poder recorrer ao SNS mediante pagamento e em situações de emergência médica, tendo ainda de apresentar depois comprovativo de cobertura de saúde. O objetivo declarado é evitar deslocações a Portugal para obter cuidados médicos sem custos.",
+ "context": "O proponente justifica a iniciativa com o aumento do chamado turismo de saúde e de nascimento, alegando que estrangeiros não residentes recorrem a hospitais públicos para tratamentos dispendiosos e partos sem custos, por vezes através de consultores de imigração. Cita reportagens de 2023 e 2024 e um relatório da IGAS de novembro de 2024, segundo o qual 43.264 não residentes foram atendidos nas urgências em 2023 e 45.476 nos primeiros nove meses de 2024 sem seguro ou acordo de cobertura. Argumenta que este fluxo sobrecarrega equipas médicas e compromete a sustentabilidade do SNS.",
+ "analysis": "A proposta procura responder a um problema documentado por dados da IGAS sobre atendimentos sem cobertura financeira, visando proteger os recursos do SNS. Contudo, existe uma clara discrepância entre o título e o articulado: embora apresentada como regulação para estrangeiros não residentes, a alteração à Base 21 e ao Estatuto do SNS restringe também o estatuto de beneficiários de migrantes sem situação legalizada já em Portugal e de requerentes de proteção internacional com pedido pendente. A redação do novo n.º 3 do artigo 4.º é ambígua ao exigir cumulativamente pagamento e situação de emergência médica, além de impor posteriormente comprovativo de cobertura mesmo a quem possa não ter seguro. Faltam ainda mecanismos concretos de cobrança e avaliação de impacto na saúde pública.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A iniciativa prevê o pagamento dos serviços prestados por não beneficiários do SNS, visando obter compensação financeira por cuidados atualmente não ressarcidos. Contudo, o documento não apresenta estimativas orçamentais e o efeito efetivo dependerá da capacidade real de cobrança, da eventual redução da procura e dos custos administrativos de regulamentação e fiscalização."
+ },
+ "affected": [
+  "cidadãos estrangeiros não residentes",
+  "migrantes sem situação legalizada",
+  "requerentes de proteção internacional",
+  "apátridas",
+  "unidades e profissionais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "sns",
+  "turismo de saúde",
+  "estrangeiros não residentes",
+  "lei de bases da saúde",
+  "imigração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

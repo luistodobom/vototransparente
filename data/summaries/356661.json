@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa de voluntariado jovem para a defesa «Defender Portugal»",
+ "summary": "Este projeto de resolução recomenda ao Governo, sem caráter vinculativo, a criação do programa «Defender Portugal», um regime especial de voluntariado cívico-militar dirigido a cidadãos portugueses entre os 18 e os 23 anos. Com duração de três a seis semanas, combina internato em instalações militares e externato, integrando formação militar teórico-prática e serviço cívico junto das comunidades. Para quem conclua o programa, propõe-se uma retribuição única de 439,21 euros, a possibilidade de obter gratuitamente a carta de condução em estabelecimentos militares em articulação com o IMT, e valorização curricular nos concursos de acesso às Forças Armadas, forças e serviços de segurança, órgãos de polícia e bombeiros profissionais. Recomenda ainda incluir conteúdos de Defesa Nacional na disciplina de Cidadania e Desenvolvimento, assegurar a divulgação nas escolas e regulamentar o número anual de vagas.",
+ "key_points": [
+  "Destina-se a cidadãos portugueses entre os 18 e os 23 anos, independentemente da escolaridade, desde que não estejam inibidos do exercício de funções públicas.",
+  "Estabelece uma duração de três a seis semanas em regimes de internato e externato, conjugando formação militar teórico-prática com serviço cívico comunitário.",
+  "Atribui uma retribuição única de 439,21 euros aos participantes que concluam o programa, correspondente a metade do pagamento base de instrução militar.",
+  "Prevê a possibilidade de obtenção gratuita da carta de condução em estabelecimentos militares habilitados, em articulação com o IMT.",
+  "Garante valorização curricular nos concursos de acesso às Forças Armadas, forças e serviços de segurança, órgãos de polícia e bombeiros profissionais.",
+  "Recomenda ensinar conteúdos de Defesa Nacional na disciplina de Cidadania e Desenvolvimento e assegurar a divulgação do programa nas escolas."
+ ],
+ "plain_language": "Esta iniciativa não cria uma lei obrigatória; pede ao Governo que crie um programa voluntário para jovens portugueses dos 18 aos 23 anos interessados em conhecer as Forças Armadas. Durante três a seis semanas, os participantes recebem treino físico e militar, passam parte do tempo em quartéis e ajudam comunidades locais. No final, quem concluir recebe 439,21 euros, pode tirar a carta de condução gratuitamente em instalações militares e ganha pontos extra caso queira candidatar-se às Forças Armadas, à polícia ou aos bombeiros. O texto sugere também ensinar temas de defesa nacional nas aulas de Cidadania.",
+ "context": "Os proponentes justificam o programa com o agravamento da segurança internacional e o défice de efetivos das Forças Armadas, que passaram de cerca de 80.000 no final da Guerra Fria para cerca de 24.500 atualmente. Atribuem esta quebra ao inverno demográfico e ao afastamento da sociedade civil após a suspensão do Serviço Militar Obrigatório. Recorrendo a exemplos como Alemanha, França, países nórdicos e Estados Unidos, defendem incentivos voluntários para atrair jovens sem regressar à obrigatoriedade.",
+ "analysis": "Como ponto positivo, a iniciativa aposta em incentivos concretos e voluntários, como retribuição, carta de condução gratuita e valorização curricular, evitando o regresso ao serviço obrigatório. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e remete para regulamentação futura aspetos essenciais, como o número de vagas e o orçamento. A duração curta de três a seis semanas levanta dúvidas quanto ao impacto real na falta de efetivos, pois não garante o ingresso posterior nas fileiras nem na reserva. Além disso, o documento não avalia se Forças Armadas já com escassez de pessoal terão meios humanos e logísticos para acolher, formar e habilitar para a condução estes voluntários, nem detalha como o programa se conciliará com o calendário escolar ou laboral.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser uma recomendação não vinculativa, não gera despesa imediata, mas a sua implementação aumentará a despesa pública. O documento não quantifica o custo total nem o número de vagas, prevendo uma retribuição única de 439,21 euros por participante que conclua o programa, além dos encargos com alojamento, formação e obtenção gratuita da carta de condução."
+ },
+ "affected": [
+  "jovens entre os 18 e os 23 anos",
+  "Forças Armadas",
+  "estabelecimentos de ensino",
+  "candidatos às forças de segurança e bombeiros"
+ ],
+ "categories": [
+  "defesa",
+  "desporto",
+  "educacao"
+ ],
+ "tags": [
+  "voluntariado jovem",
+  "defesa nacional",
+  "forças armadas",
+  "recrutamento militar",
+  "cidadania"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

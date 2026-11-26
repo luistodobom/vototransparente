@@ -1,0 +1,26 @@
+{
+ "short_title": "Interdição de Voos Noturnos Civis",
+ "summary": "A proposta visa proibir voos civis noturnos, exceto em casos de emergência ou outros motivos atendíveis, para mitigar os impactos negativos do ruído e da poluição atmosférica dos aeroportos, especialmente o Aeroporto Humberto Delgado em Lisboa. O documento destaca os problemas de saúde pública e ambientais causados pela proximidade do aeroporto a zonas populacionais e a insuficiência das regulamentações atuais para proteger os cidadãos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer acabar com os voos de aviões civis durante a noite, a não ser que seja uma emergência. A ideia é que o barulho e a poluição dos aeroportos, como o de Lisboa, estão a fazer mal à saúde das pessoas e ao ambiente, e as regras atuais não estão a resolver o problema. É para as pessoas poderem dormir e respirar melhor.",
+ "context": null,
+ "analysis": "A proposta é consistente com o seu objetivo de reduzir os impactos negativos do ruído e da poluição aérea, especialmente durante a noite, ao proibir os voos civis noturnos. O documento apresenta uma argumentação sólida, baseada em estudos científicos e dados sobre a ultrapassagem dos limites de ruído, que justificam a necessidade de uma intervenção mais drástica. A implementação da interdição de voos noturnos é uma medida direta para mitigar os problemas de saúde (sono, cardiovasculares, cognitivos) e ambientais (poluição sonora e atmosférica) detalhados na exposição de motivos. A proposta reconhece implicitamente o potencial impacto económico ao afirmar que \"não pode valer apenas o potencial ganho económico\", o que demonstra uma priorização da saúde e ambiente sobre o lucro.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta provavelmente resultará numa diminuição da receita do governo, uma vez que a interdição de voos noturnos pode reduzir o volume de tráfego aéreo e, consequentemente, as taxas aeroportuárias e outras receitas associadas à atividade económica do aeroporto. Poderá haver uma diminuição indireta nos gastos com saúde pública a longo prazo devido à melhoria da qualidade de vida e redução de doenças relacionadas com o ruído e a poluição, mas este efeito é difícil de quantificar e provavelmente não compensará a perda de receita direta. O efeito líquido será, muito provavelmente, uma diminuição da receita governamental."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

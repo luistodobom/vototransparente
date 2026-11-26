@@ -1,0 +1,24 @@
+{
+ "short_title": "Reforço da Saúde Pública em Portugal",
+ "summary": "Esta proposta visa reforçar a saúde pública em Portugal, destacando a sua importância, especialmente após a pandemia de COVID-19. O documento aponta para a falta de profissionais, o subfinanciamento crónico e a desatualização dos rácios legais de pessoal. Propõe a criação de um Conselho Científico para Emergências de Saúde Pública, o aumento do número e diversidade de profissionais nas unidades de saúde pública, o reconhecimento oficial da profissão de epidemiologista e a retirada das juntas médicas das unidades de saúde pública para libertar os seus especialistas.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento diz que a saúde pública em Portugal está a precisar de uma grande ajuda. A pandemia de COVID-19 mostrou que não temos gente suficiente nem dinheiro para lidar com crises de saúde, e que as regras sobre quantos profissionais devíamos ter estão desatualizadas e nem sequer são cumpridas. A ideia é criar um grupo de cientistas para ajudar em emergências, contratar mais médicos, enfermeiros e outros especialistas para as equipas de saúde pública, dar um reconhecimento oficial aos epidemiologistas (que são super importantes, mas não têm a profissão reconhecida) e tirar as juntas médicas das unidades de saúde pública para que os profissionais de lá se possam focar no que realmente interessa.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica consistente da situação atual da saúde pública em Portugal, apontando várias inconsistências. Primeiramente, destaca que os rácios de profissionais de saúde pública definidos por lei não são cumpridos e, mesmo que fossem, são considerados insuficientes e desatualizados para as necessidades atuais. Em segundo lugar, critica a falta de investimento e a forma como a saúde pública tem sido tratada como secundária, apesar do seu papel fundamental. A proposta alinha os detalhes da implementação, como o reforço de equipas, a diversificação de competências e o reconhecimento de epidemiologistas, diretamente com o objetivo de corrigir estas falhas e fortalecer a capacidade de resposta do país a futuras emergências e às necessidades diárias de saúde pública.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao preconizar o aumento do número de profissionais de saúde pública (médicos, enfermeiros, técnicos de saúde ambiental), a contratação definitiva de precários e o lançamento de concursos para formação especializada, implicará um aumento significativo dos gastos do governo com pessoal. A criação de um novo Conselho Científico também representará custos adicionais. Não há indicação de que a proposta aumente a receita do governo. Portanto, o efeito líquido será um aumento substancial dos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Prorrogação dos apoios ao emprego e empresas após tempestades no Centro",
+ "summary": "O Projeto de Resolução recomenda ao Governo o prolongamento dos apoios extraordinários às empresas da Região Centro afetadas pelas tempestades e à manutenção dos respetivos postos de trabalho. Concretamente, propõe a prorrogação, por pelo menos seis meses, do regime de lay-off simplificado e do Incentivo Financeiro Extraordinário do IEFP para empresas que demonstrem manter limitações resultantes dos danos sofridos. Recomenda também o prolongamento da isenção total de contribuições para a Segurança Social enquanto essas empresas não recuperarem plenamente a sua capacidade produtiva ou tiverem instalações e equipamentos essenciais por reparar. Adicionalmente, pede urgência na análise dos pedidos pendentes e no pagamento atempado das verbas em falta, bem como a monitorização periódica das medidas, com envio à Assembleia da República de dados sobre candidaturas, montantes pagos e empresas abrangidas. Tratando-se de um projeto de resolução, estas medidas não são vinculativas para o Governo.",
+ "key_points": [
+  "Prorrogar, por um mínimo de seis meses, o regime de lay-off simplificado e o Incentivo Financeiro Extraordinário do IEFP para empresas afetadas que mantenham limitações causadas pelas tempestades.",
+  "Estender a isenção total de contribuições para a Segurança Social enquanto as empresas não recuperarem plenamente a capacidade produtiva ou tiverem infraestruturas, maquinaria e equipamentos essenciais por reparar ou substituir.",
+  "Apreciar com urgência os pedidos de prorrogação e assegurar o pagamento atempado das verbas devidas às empresas para evitar o agravamento de problemas de tesouraria.",
+  "Monitorizar e divulgar periodicamente a execução dos apoios, enviando à Assembleia da República dados detalhados sobre candidaturas, montantes pagos e empresas abrangidas."
+ ],
+ "plain_language": "Este projeto pede ao Governo que mantenha por mais tempo as ajudas dadas às empresas da Região Centro atingidas pelas tempestades. Na prática, sugere prolongar por pelo menos seis meses os apoios para evitar despedimentos, como o lay-off simplificado (mecanismo que reduz temporariamente o trabalho ou suspende contratos com apoio do Estado) e os subsídios do IEFP, além de manter o perdão das contribuições para a Segurança Social enquanto as empresas ainda estiverem a reparar instalações e máquinas. Pede também mais rapidez nos pagamentos em atraso e relatórios regulares ao Parlamento. Como é uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O Partido Socialista justifica a iniciativa com o impacto severo das tempestades na Região Centro, que, segundo a Estrutura de Missão para a Recuperação da Região Centro, afetaram entre 35 mil e 40 mil empresas e causaram prejuízos superiores a cinco mil milhões de euros. Embora reconheça que os apoios já pagos ultrapassam 51 milhões de euros, o proponente aponta centenas de processos pendentes e dificuldades persistentes em setores como moldes, plásticos, vidro, madeira, turismo e agricultura. Sem prorrogação, alerta para o risco de encerramento de empresas e perda de empregos.",
+ "analysis": "A iniciativa tem o mérito de ligar os apoios à recuperação efetiva das empresas e de exigir transparência através da prestação periódica de contas ao Parlamento. Contudo, apresenta fragilidades operacionais importantes. O texto não define critérios objetivos para comprovar quando uma empresa mantém limitações ou não recuperou a sua capacidade produtiva, o que cria margem para interpretações díspares na isenção contributiva, que não tem limite temporal máximo definido. Além disso, não estima o custo orçamental da prorrogação nem identifica fontes de financiamento, e o pedido de urgência na apreciação de processos não indica como reforçar a capacidade administrativa que já regista centenas de pedidos por concluir. Por fim, tratando-se de um projeto de resolução, não vincula o Governo nem garante execução.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Caso seja acolhida pelo Governo, a prorrogação do lay-off simplificado e do incentivo do IEFP aumenta a despesa pública, enquanto o prolongamento da isenção contributiva para a Segurança Social reduz a receita. O texto refere que já foram desembolsados mais de 51 milhões de euros nos apoios em curso, mas não quantifica o custo adicional das prorrogações propostas."
+ },
+ "affected": [
+  "empresas da Região Centro afetadas pelas tempestades",
+  "trabalhadores das empresas afetadas"
+ ],
+ "categories": [
+  "economia",
+  "trabalho",
+  "territorio"
+ ],
+ "tags": [
+  "região centro",
+  "tempestades",
+  "lay-off simplificado",
+  "apoio ao emprego",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

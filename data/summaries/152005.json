@@ -1,0 +1,26 @@
+{
+ "short_title": "Orçamento do Estado para 2023",
+ "summary": "Este documento é a Proposta de Lei do Orçamento do Estado para 2023, que estabelece as regras para a gestão das finanças públicas de Portugal durante o ano. Abrange a aprovação das despesas e receitas do Estado, incluindo as da administração central, segurança social e autarquias locais. A proposta detalha as transferências de verbas para diversas áreas como saúde, educação, defesa, transportes e ambiente, e introduz alterações em vários códigos fiscais, como o IRS e o IRC, e no imposto do selo, nomeadamente em relação a criptoativos. Define também regras para a gestão do património público, contratação de pessoal na administração pública e empresas públicas, e mecanismos de apoio financeiro a regiões e municípios.",
+ "key_points": [],
+ "plain_language": "Este papelão é o plano de contas do governo para 2023. Basicamente, diz de onde vem o dinheiro (impostos, agora também de criptomoedas!) e para onde vai (hospitais, escolas, transportes, apoios sociais, e para as câmaras e juntas). Também dá umas ajudas às empresas para pagarem a luz e o gás, e para aumentarem os salários. A ideia é pôr as contas em ordem e garantir que os serviços públicos funcionam, ao mesmo tempo que se tenta dar uma mãozinha à economia e às pessoas. É o mapa do tesouro do país para o próximo ano.",
+ "context": null,
+ "analysis": "A proposta de lei demonstra uma abordagem abrangente e detalhada à gestão orçamental, visando a estabilidade financeira e a eficiência na prestação de serviços públicos. A sua estrutura, com a aprovação de mapas de despesas e receitas, e a autorização para alterações orçamentais, alinha-se com o objetivo de flexibilidade e controlo na execução do orçamento. A inclusão de medidas como a afetação de receitas da alienação de imóveis do Estado para reabilitação, a autorização para contratação de médicos aposentados no SNS, e os incentivos fiscais para a valorização salarial e capitalização de empresas, mostra uma tentativa de alinhar a política fiscal com objetivos sociais e económicos mais amplos. A introdução de tributação sobre criptoativos e a atualização de taxas ambientais refletem a adaptação do sistema fiscal a novas realidades e prioridades. Não se identificam inconsistências flagrantes, uma vez que o documento se foca em estabelecer o quadro legal para a execução orçamental, com disposições que se complementam para atingir os objetivos de gestão financeira e apoio a setores estratégicos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de lei, sendo o Orçamento do Estado para 2023, define o quadro fiscal global para o ano. Prevê um aumento da receita governamental através da introdução de tributação sobre criptoativos (IRS e Imposto do Selo) e da atualização de taxas ambientais. Contudo, também contempla reduções de receita líquida através de benefícios fiscais, como o apoio extraordinário a encargos com eletricidade, gás e produção agrícola, e incentivos à valorização salarial e capitalização de empresas. No lado da despesa, autoriza transferências significativas para as regiões autónomas, municípios (incluindo para a descentralização de competências), segurança social, saúde, educação, defesa e transportes públicos. O documento também aborda a recuperação financeira de empresas públicas e a redução de pagamentos em atraso no setor local, o que pode diminuir passivos futuros. O efeito líquido é o de um orçamento planeado para o ano, que visa um equilíbrio fiscal específico, com um controlo rigoroso das despesas e a diversificação das fontes de receita, sem indicar um aumento ou diminuição líquida substancial dos gastos ou receitas totais para além do previsto no plano orçamental global."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao",
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

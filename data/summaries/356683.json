@@ -1,0 +1,43 @@
+{
+ "short_title": "Gratuitidade das refeições escolares e financiamento às autarquias",
+ "summary": "Este Projeto de Resolução do PCP recomenda ao Governo que garanta a gratuitidade das refeições escolares para todas as crianças e estudantes do ensino pré-escolar, básico e secundário, independentemente da sua condição socioeconómica. Atualmente, as famílias suportam, regra geral, 1,46 euros por refeição, reduzindo-se esse valor em 50% para o escalão B e sendo gratuito para o escalão A. Adicionalmente, a iniciativa recomenda que o Orçamento do Estado assegure o financiamento integral destas refeições às autarquias. Para tal, propõe a atualização das fórmulas de cálculo em vigor, contemplando os custos reais, a taxa de inflação e o número de refeições servidas, bem como despesas associadas à transferência de competências nos 2.º e 3.º ciclos e no ensino secundário, como o reforço de equipas municipais e plataformas digitais de gestão. Recomenda ainda a aquisição e o consumo de produtos locais nos refeitórios escolares. Por ser um projeto de resolução, não tem força de lei vinculativa.",
+ "key_points": [
+  "Recomendar ao Governo que assegure a gratuitidade das refeições escolares para todos os alunos do ensino pré-escolar, básico e secundário.",
+  "Garantir o financiamento integral das refeições escolares às autarquias através do Orçamento do Estado.",
+  "Atualizar as fórmulas de cálculo do financiamento em vigor, considerando os custos reais, a taxa de inflação e o número de refeições servidas.",
+  "Incluir no financiamento o custo real de todas as componentes da gestão dos refeitórios, incluindo o reforço de equipas municipais e plataformas digitais nos 2.º e 3.º ciclos e no secundário.",
+  "Promover a aquisição e o consumo de produtos locais nos refeitórios escolares."
+ ],
+ "plain_language": "Esta proposta pede ao Governo que torne as refeições escolares gratuitas para todos os alunos, desde o pré-escolar até ao ensino secundário, independentemente dos rendimentos das famílias. Além disso, pede que o Estado pague às câmaras municipais o valor total e real do que estas gastam com os refeitórios escolares, incluindo trabalhadores e plataformas digitais, e que promova o uso de alimentos locais. Como é uma recomendação da Assembleia da República ao Governo, mesmo que seja aprovada no Parlamento, o Executivo não é obrigado a aplicá-la.",
+ "context": "O PCP justifica a iniciativa com o desígnio constitucional da igualdade e gratuitidade na educação e com o impacto de uma alimentação saudável no desenvolvimento e desempenho escolar, combatendo estigmas e exclusão. O partido alega que a comparticipação do Estado fica aquém dos custos reais suportados pelos municípios após a transferência de competências nos 2.º e 3.º ciclos e secundário, devido a fórmulas de cálculo desfasadas e instrumentos de reporte inativos no 1.º ciclo e pré-escolar, gerando défices autárquicos e condicionando a qualidade das refeições.",
+ "analysis": "A iniciativa aborda duas questões relevantes: o alargamento da ação social escolar e o alegado subfinanciamento autárquico na gestão de refeitórios após a transferência de competências. Como ponto positivo, procura alinhar o financiamento estatal com os custos efetivos de funcionamento, incluindo recursos humanos e plataformas digitais, além de incentivar o consumo de produtos locais. Contudo, o texto apresenta fragilidades: não quantifica o impacto orçamental da gratuitidade universal nem da atualização das transferências, apesar de apontar défices significativos. Também não define critérios objetivos para calcular os custos reais nem esclarece como conciliar a preferência por produtos locais com as regras da contratação pública. Sendo um projeto de resolução, não vincula o Governo nem altera o Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Embora seja uma recomendação não vinculativa, a sua concretização aumentaria a despesa pública no Orçamento do Estado ao alargar a gratuitidade total das refeições escolares e ao reforçar as transferências para as autarquias cobrirem os custos reais. O documento indica que o custo atual para as famílias é de 1,46 euros por refeição (metade no escalão B), mas não quantifica o impacto financeiro da medida."
+ },
+ "affected": [
+  "alunos do ensino pré-escolar, básico e secundário",
+  "famílias com estudantes",
+  "autarquias locais",
+  "produtores agrícolas locais"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "familia"
+ ],
+ "tags": [
+  "refeições escolares",
+  "gratuitidade",
+  "autarquias",
+  "transferência de competências",
+  "produtos locais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

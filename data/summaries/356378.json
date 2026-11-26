@@ -1,0 +1,43 @@
+{
+ "short_title": "Registo de equídeos com aptidão para companhia",
+ "summary": "O Projeto de Lei n.º 522/XVII/1.ª, apresentado pelo PAN, propõe a primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto, que regula o sistema de identificação de equídeos em Portugal. A iniciativa atualiza as referências normativas europeias desse diploma para remeter para o Regulamento de Execução (UE) 2015/262 e inclui expressamente os equídeos mantidos para companhia na obrigação de identificação em território nacional. Além disso, impõe aos proprietários o dever de atualizar o Documento de Identificação de Equídeo (DIE) e a base de dados nacional sempre que ocorram alterações relevantes na identificação ou na aptidão funcional do animal. O projeto acrescenta ainda o campo «Aptidão para companhia» aos dados mínimos da base de dados e estabelece um prazo máximo de 90 dias, após a entrada em vigor, para a entidade gestora realizar as adaptações técnicas necessárias.",
+ "key_points": [
+  "Atualiza as referências legais do Decreto-Lei n.º 123/2013 ao revogado Regulamento (CE) n.º 504/2008 para o Regulamento de Execução (UE) 2015/262.",
+  "Inclui explicitamente os equídeos mantidos para companhia na obrigação de identificação em território nacional.",
+  "Obriga o proprietário a atualizar o Documento de Identificação de Equídeo (DIE) e a base de dados nacional sempre que mudem a identificação, a titularidade ou a aptidão funcional do animal.",
+  "Adiciona a categoria «Aptidão para companhia» à lista de dados mínimos obrigatórios na base de dados nacional de equídeos.",
+  "Fixa um prazo máximo de 90 dias após a entrada em vigor para a entidade gestora adaptar tecnicamente a base de dados nacional."
+ ],
+ "plain_language": "Hoje em dia, muitos equídeos não são usados para trabalho ou produção, vivendo apenas como animais de estimação, sobretudo após resgates. Contudo, a lei portuguesa que regula o registo e o passaporte destes animais não prevê essa opção. Este projeto de lei quer permitir que os donos registem os equídeos com a finalidade de «companhia» na base de dados oficial. Também obriga os proprietários a atualizar os registos sempre que a função ou o titular do animal mudarem, dando 90 dias à entidade gestora para adaptar o sistema informático.",
+ "context": "O PAN justifica a iniciativa com o aumento do número de equídeos mantidos exclusivamente para companhia, em particular por cidadãos e associações que resgatam animais vítimas de abandono ou maus-tratos. Segundo o partido, a lei atual não prevê expressamente esta finalidade e remete para um regulamento europeu já revogado, gerando discrepâncias entre a utilização efetiva do animal e a informação do Documento de Identificação de Equídeo. O proponente invoca ainda o estatuto jurídico dos animais como seres dotados de sensibilidade para defender maior transparência e proteção do seu bem-estar.",
+ "analysis": "A iniciativa tem o mérito de procurar atualizar remissões europeias desatualizadas e alinhar o registo nacional com situações reais de detenção não produtiva, como o acolhimento por associações. Contudo, apresenta fragilidades jurídicas e de redação relevantes. Desde logo, embora a exposição de motivos defenda a aplicabilidade de regras dos animais de companhia a estes equídeos, o articulado não altera qualquer regime material de proteção ou bem-estar, limitando-se a criar um campo de registo. Além disso, o dever de atualização da aptidão funcional não define prazos nem consequências para o incumprimento, dependendo de regras posteriores da autoridade competente. Por fim, o texto contém erros formais evidentes: no artigo 8.º proposto surgem dois números «5» seguidos e, após o artigo 5.º, a norma de entrada em vigor surge erroneamente numerada como «Artigo 4.º».",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diploma não estima custos orçamentais, embora exija à entidade gestora da base de dados nacional de equídeos adaptações técnicas no prazo de 90 dias. Também não quantifica eventuais encargos administrativos para a autoridade competente ou para os proprietários."
+ },
+ "affected": [
+  "proprietários de equídeos",
+  "associações de proteção animal",
+  "entidade gestora da base de dados nacional de equídeos",
+  "autoridade competente pela regulação de equídeos"
+ ],
+ "categories": [
+  "animais",
+  "agricultura",
+  "administracao"
+ ],
+ "tags": [
+  "equídeos",
+  "animais de companhia",
+  "identificação animal",
+  "base de dados",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

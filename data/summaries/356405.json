@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da Tarifa Social de Eletricidade em caso de crise energética",
+ "summary": "O Projeto de Lei n.º 525/XVII/1.ª, do LIVRE, cria um mecanismo para reforçar a Tarifa Social de Eletricidade em cenários de crise energética. O Governo deve declarar a situação de crise, por resolução do Conselho de Ministros, sempre que a Entidade Reguladora dos Serviços Energéticos (ERSE) ateste uma subida igual ou superior a 10% no preço médio mensal da eletricidade no mercado grossista ibérico (MIBEL) durante dois meses consecutivos, face à média dos 12 meses anteriores. Com essa declaração, o desconto sobre a tarifa de acesso às redes em baixa tensão normal aumenta 10 pontos percentuais, até ao limite de 50%, e o teto de rendimento anual dos beneficiários passa para 12 880 euros, acrescido de 50% por cada membro sem rendimentos até ao máximo de dez. Os custos adicionais recaem sobre os produtores de eletricidade, segundo a potência instalada, sem poderem ser transferidos para comercializadores ou consumidores.",
+ "key_points": [
+  "Define a declaração de crise energética pelo Governo quando o preço médio mensal da eletricidade no mercado grossista ibérico (MIBEL) subir 10% ou mais durante dois meses seguidos, face à média dos 12 meses anteriores.",
+  "Aumenta o desconto da tarifa social em 10 pontos percentuais, até ao limite de 50%, sobre a tarifa de acesso às redes em baixa tensão normal.",
+  "Alarga o limite de rendimento anual para acesso à tarifa social em crise energética para 12 880 euros, acrescidos de 50% por cada elemento do agregado sem rendimentos até um máximo de dez.",
+  "Determina que o Governo publica no prazo de 15 dias após a declaração de crise o despacho que fixa a percentagem do desconto.",
+  "Impõe que os custos adicionais do alargamento sejam pagos pelos titulares de centros eletroprodutores, proporcionalmente à potência instalada, proibindo a transferência desse encargo para comercializadores ou consumidores finais."
+ ],
+ "plain_language": "Quando o preço da eletricidade no mercado ibérico subir muito durante dois meses seguidos, o Governo passa a ter de declarar uma crise energética. Se isso acontecer, a tarifa social da luz, que dá um desconto automático às famílias mais pobres, chega a mais pessoas, incluindo quem ganha o salário mínimo, e o desconto aumenta até um máximo de 50% na componente de acesso às redes. Em vez de serem os restantes consumidores a pagar este reforço na fatura, a lei obriga as empresas produtoras de eletricidade a suportar os custos extras e proíbe que os passem para os clientes.",
+ "context": "O LIVRE justifica a iniciativa com o choque energético causado pelo conflito no Médio Oriente envolvendo o Irão, os Estados Unidos e Israel, que está a encarecer o petróleo e o gás natural e deverá refletir-se na eletricidade. Segundo o partido, este aumento atinge mais duramente as famílias pobres e os trabalhadores com salário mínimo, hoje excluídos da tarifa social pelo teto atual de 6 272,64 euros anuais. Critica ainda que o financiamento da tarifa recaia sobre os consumidores, cujo custo previsto pela ERSE para 2026 atinge 145 milhões de euros.",
+ "analysis": "A proposta tem o mérito de criar um gatilho objetivo no mercado grossista (MIBEL) para acionar apoios preventivos e de alinhar o teto de acesso com o salário mínimo anual. Contudo, apresenta fragilidades técnicas relevantes. Desde logo, o n.º 3 do artigo 3.º tem uma frase incompleta, sem o verbo que garante a atribuição da tarifa social ao cliente abrangido pelo novo limite. Além disso, o diploma define como se declara a crise energética, mas não estabelece critérios nem prazo para a sua cessação. Por outro lado, proibir os produtores de repercutirem custos nos consumidores é difícil de fiscalizar num mercado concorrencial, podendo refletir-se nos preços grossistas. Por fim, a articulação com programas de eficiência energética referida na justificação falta no articulado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto não prevê despesa direta para o Orçamento do Estado, imputando os custos adicionais aos titulares de centros eletroprodutores. Contudo, o impacto orçamental global é incerto por não haver estimativa do alargamento de beneficiários nem avaliação de efeitos indiretos, designadamente na receita de IVA."
+ },
+ "affected": [
+  "famílias de baixos rendimentos",
+  "trabalhadores com salário mínimo",
+  "titulares de centros eletroprodutores",
+  "comercializadores de eletricidade"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "familia"
+ ],
+ "tags": [
+  "tarifa social",
+  "eletricidade",
+  "crise energética",
+  "pobreza energética",
+  "mibel"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

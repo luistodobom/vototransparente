@@ -1,0 +1,26 @@
+{
+ "short_title": "Orçamento do Estado para 2025",
+ "summary": "Esta proposta de lei aprova o Orçamento do Estado para o ano de 2025, detalhando como o Governo planeia gerir as finanças públicas. Abrange a autorização para cobrar impostos, as regras para a execução das despesas públicas, a gestão da dívida do Estado, e as transferências de verbas para diversas entidades, como autarquias locais, regiões autónomas, segurança social e empresas públicas. Inclui também medidas fiscais, como alterações ao IRS e IRC, e disposições sobre a contratação de pessoal no setor público, a gestão de património imobiliário do Estado e o financiamento de setores específicos como a saúde, educação, defesa, ambiente e transportes.",
+ "key_points": [],
+ "plain_language": "Este papelão é o plano de contas do governo para o ano que vem, 2025. Basicamente, diz como o Estado vai gastar o dinheiro que tem e de onde o vai buscar. Vão continuar a cobrar impostos e a vender alguns imóveis do Estado para ter mais uns trocos. Há regras apertadas para gastar, com alguns cortes e limites, mas também vão contratar mais gente em certas áreas e dar mais dinheiro para a saúde, educação, segurança social, municípios e regiões. No fim das contas, o governo prevê que vai precisar de pedir mais uns 20 mil milhões de euros emprestados para conseguir pagar tudo o que está planeado.",
+ "context": null,
+ "analysis": "O documento é uma proposta de lei orçamental abrangente e detalhada, que estabelece o quadro financeiro e as regras de execução para o ano de 2025. A sua estrutura e conteúdo demonstram uma forte consistência com o objetivo declarado de aprovar o Orçamento do Estado. Cada artigo e capítulo aborda aspetos específicos da gestão financeira pública, desde a arrecadação de receitas e a alocação de despesas até à regulação de setores-chave e à gestão de recursos humanos. As disposições sobre cativações e limites de endividamento visam controlar o gasto público, enquanto as autorizações para transferências e financiamentos específicos garantem a operacionalidade e o investimento em diversas áreas. Não se identificam inconsistências internas evidentes; pelo contrário, a proposta procura alinhar os detalhes da implementação com os objetivos macroeconómicos e setoriais do Governo, assegurando a continuidade e a adaptação das políticas públicas às necessidades financeiras e sociais do país.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta de lei prevê um aumento líquido do endividamento global direto do Estado em até 20 mil milhões de euros, o que indica que os gastos do governo deverão exceder as receitas, exigindo um maior recurso ao empréstimo. Embora inclua medidas de controlo de despesa, como cativações em certas rubricas e limites para a aquisição de serviços, e algumas medidas que aumentam a receita (como a eliminação gradual de isenções fiscais para produtos energéticos), também introduz ou mantém benefícios fiscais (como isenções de IRS para jovens e incentivos para aumentos salariais e capitalização empresarial) que reduzem a receita fiscal. No geral, o efeito líquido aponta para um aumento dos gastos do governo, financiado por um acréscimo significativo da dívida pública."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

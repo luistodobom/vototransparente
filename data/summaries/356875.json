@@ -1,0 +1,43 @@
+{
+ "short_title": "Calendário comum para obrigações fiscais e contributivas",
+ "summary": "O Projeto de Lei n.º 644/XVII/1.ª, da Iniciativa Liberal, altera cinco diplomas fiscais e contributivos para uniformizar prazos de entrega de declarações a partir de 1 de janeiro de 2027. A iniciativa fixa o dia 20 do mês seguinte como prazo para o envio da Declaração Mensal de Remunerações à Autoridade Tributária e para a comunicação de faturas (SAF-T). No âmbito da Segurança Social, alinha a declaração trimestral dos trabalhadores independentes com os prazos do IVA, fixando-a até ao 20.º dia do segundo mês seguinte ao trimestre, com prazo específico até 20 de setembro para o segundo trimestre. Para as obrigações anuais, estabelece o envio da declaração Modelo 22 de IRC até ao último dia de junho (ou do sexto mês seguinte em períodos especiais) e fixa o prazo da Informação Empresarial Simplificada (IES) e respetivos anexos de IRS, IRC e IVA até 20 de julho.",
+ "key_points": [
+  "Fixa até ao dia 20 do mês seguinte o prazo para entrega da Declaração Mensal de Remunerações à Autoridade Tributária e para a comunicação de faturas.",
+  "Alinha a declaração trimestral de rendimentos dos trabalhadores independentes para a Segurança Social no 20.º dia do segundo mês seguinte ao trimestre, fixando 20 de setembro para o segundo trimestre.",
+  "Estabelece o envio da declaração anual de IRC (Modelo 22) até ao último dia de junho, independentemente de ser dia útil ou não.",
+  "Uniformiza até 20 de julho a entrega da Informação Empresarial Simplificada (IES) e das declarações anuais associadas em sede de IRS, IRC e IVA.",
+  "Prevê a entrada em vigor das alterações em 1 de janeiro de 2027."
+ ],
+ "plain_language": "Hoje, empresas, trabalhadores independentes e contabilistas têm de cumprir prazos diferentes ao longo do mês para enviar declarações às Finanças e à Segurança Social. Esta proposta junta várias dessas datas. A ideia é usar o dia 20 de cada mês como referência para entregar a lista de salários pagos, comunicar faturas e declarar rendimentos trimestrais de recibos verdes (com prazo alargado até 20 de setembro no verão). Já as contas anuais das empresas passariam a ter como limite 30 de junho para o IRC e 20 de julho para a declaração anual simplificada, a partir de 2027.",
+ "context": "A Iniciativa Liberal justifica a proposta com o elevado número de obrigações declarativas e a dispersão dos prazos fiscais e contributivos, que geram custos administrativos e dificultam a gestão de trabalho. Segundo o partido, esta complexidade penaliza sobretudo micro, pequenas e médias empresas, trabalhadores independentes e contabilistas certificados. Ao concentrar várias declarações em datas de referência, o proponente pretende aumentar a previsibilidade, reduzir a burocracia e responder a reivindicações antigas do setor, libertando tempo para a atividade económica.",
+ "analysis": "A harmonização de prazos responde a queixas recorrentes sobre burocracia e facilita o planeamento administrativo ao alinhar declarações mensais (como remunerações e faturação) e obrigações anuais entre códigos distintos. Contudo, a concentração de múltiplas entregas no dia 20 e em 20 de julho comporta riscos operacionais: pode gerar picos de sobrecarga para gabinetes de contabilidade e para os sistemas informáticos da Autoridade Tributária e da Segurança Social. Além disso, ao fixar prazos anuais «independentemente de esse dia ser útil ou não», a proposta não concede extensão quando a data coincida com fim de semana ou feriado. Por fim, ao alterar apenas datas declarativas sem mexer em prazos de pagamento ou na totalidade das declarações periódicas, subsiste alguma fragmentação no calendário global.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O projeto altera apenas datas-limite para o envio de declarações fiscais e contributivas, sem modificar taxas, bases tributáveis ou níveis de despesa pública. Eventuais custos de adaptação informática da administração não são quantificados no documento."
+ },
+ "affected": [
+  "empresas",
+  "trabalhadores independentes",
+  "contabilistas certificados",
+  "Autoridade Tributária e Segurança Social"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "calendário fiscal",
+  "obrigações declarativas",
+  "segurança social",
+  "irc e irs",
+  "iva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

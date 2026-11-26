@@ -1,0 +1,42 @@
+{
+ "short_title": "Dispensa de estágio profissional para nutricionistas com estágio curricular",
+ "summary": "O Projeto de Lei n.º 400/XVII/1.ª, apresentado pela Iniciativa Liberal, propõe alterar o artigo 64.º do Estatuto da Ordem dos Nutricionistas para simplificar o acesso à profissão. A iniciativa adita dois novos números ao artigo relativo ao estágio profissional. Em concreto, dispensa os candidatos de realizarem o estágio profissional da Ordem sempre que tenham concluído um estágio curricular em contexto profissional integrado no curso que confere a habilitação académica exigida, desde que esse estágio tenha uma duração igual ou superior à definida no Estatuto. Além disso, estabelece que os candidatos nessas condições podem requerer a inscrição na Ordem até ao prazo máximo de três anos após a conclusão do curso. A lei entra em vigor no dia seguinte ao da publicação, mas só produz efeitos após a Ordem atualizar o seu Regulamento de Estágio, o que deverá fazer em 60 dias.",
+ "key_points": [
+  "Altera o artigo 64.º do Estatuto da Ordem dos Nutricionistas, aprovado em anexo à Lei n.º 126/2015.",
+  "Dispensa do estágio profissional da Ordem os candidatos que tenham feito um estágio curricular em contexto profissional integrado no respetivo curso.",
+  "Exige que o estágio curricular tenha uma duração igual ou superior à prevista no Estatuto para o estágio profissional.",
+  "Fixa um prazo máximo de três anos após a conclusão do curso para que estes candidatos requeiram a inscrição na Ordem.",
+  "Determina que a lei só produz efeitos após a Ordem dos Nutricionistas atualizar o Regulamento de Estágio, no prazo de 60 dias."
+ ],
+ "plain_language": "Atualmente, quem termina o curso de Nutrição já faz um estágio prático durante o curso, mas as regras da Ordem dos Nutricionistas obrigam a fazer outro estágio profissional para poder exercer. Como há poucas vagas para este segundo estágio, muitos recém-formados ficam impedidos de se inscrever na Ordem. Esta proposta acaba com essa duplicação: se o estágio feito durante o curso tiver pelo menos a mesma duração exigida pela Ordem, o candidato fica dispensado do estágio profissional. Terá depois até três anos após acabar o curso para pedir a inscrição na Ordem.",
+ "context": "A Iniciativa Liberal justifica a proposta com o bloqueio no acesso à profissão criado pelas regras de estágio em vigor desde março de 2024. Segundo o documento, em 2024 estimavam-se 380 novos licenciados, mas a Ordem dispunha apenas de cerca de 52 vagas de estágio protocoladas em 35 entidades, levando a que apenas 12% se tivessem inscrito até outubro desse ano, face a 89% dos licenciados de 2022. Como os cursos já incluem um estágio curricular obrigatório, o proponente aponta uma duplicação desnecessária, já alertada pela Ordem e pela associação de estudantes.",
+ "analysis": "A proposta responde de forma direta a um estrangulamento quantificado no acesso à profissão, evitando a duplicação de estágios quando a formação inicial já inclui prática profissional com igual duração. Contudo, apresenta fragilidades técnicas e de implementação. Primeiro, o texto apoia-se em dados até outubro de 2024, apesar de estar datado de fevereiro de 2026, e contém uma gralha no cabeçalho ao referir a XVI Legislatura. Segundo, a dispensa baseia-se apenas na duração do estágio curricular, sem definir critérios de equivalência sobre conteúdos, supervisão ou avaliação face ao estágio da Ordem. Por fim, a produção de efeitos fica dependente da atualização do Regulamento de Estágio pela Ordem em 60 dias, sem prever consequências ou solução supletiva em caso de atraso, nem clarificar a situação transitória de quem concluiu o curso anteriormente.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa não cria despesa pública nem altera impostos ou receitas do Estado, limitando-se a modificar regras de acesso à inscrição numa ordem profissional. Eventuais variações de taxas de estágio ou de inscrição ocorrem apenas no orçamento da Ordem dos Nutricionistas."
+ },
+ "affected": [
+  "licenciados em Nutrição",
+  "estudantes de Nutrição",
+  "Ordem dos Nutricionistas",
+  "entidades com protocolo de estágio"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "educacao"
+ ],
+ "tags": [
+  "ordem dos nutricionistas",
+  "estágio profissional",
+  "estágio curricular",
+  "acesso à profissão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

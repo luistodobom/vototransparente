@@ -1,0 +1,42 @@
+{
+ "short_title": "Prazos máximos e compensações nos apoios agrícolas, florestais e das pescas",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa dirigida ao Governo, visa combater os atrasos nos pagamentos de apoios financeiros aos setores agrícola, florestal e das pescas efetuados pelo Instituto de Financiamento da Agricultura e Pescas (IFAP). A iniciativa propõe três medidas concretas: primeiro, que o Governo defina prazos máximos obrigatórios para a entrega destes fundos, assegurando previsibilidade financeira; segundo, a criação de mecanismos automáticos de compensação ou pagamento de juros de mora aos beneficiários sempre que os prazos estabelecidos sejam ultrapassados; e terceiro, a simplificação dos procedimentos internos do organismo. Para concretizar este último objetivo, recomenda-se a modernização digital dos serviços e o reforço dos meios técnicos e humanos do IFAP, procurando eliminar entraves administrativos e responsabilizar a Administração Pública pelos atrasos.",
+ "key_points": [
+  "Recomenda ao Governo a definição de prazos máximos para o pagamento de apoios agrícolas, florestais e das pescas pelo IFAP.",
+  "Propõe a criação de mecanismos automáticos de compensação ou de juro de mora caso os prazos estabelecidos não sejam cumpridos.",
+  "Sugere a simplificação dos procedimentos internos do IFAP através da modernização digital dos seus serviços.",
+  "Defende o reforço dos meios técnicos e humanos do organismo para reduzir constrangimentos administrativos que originam atrasos."
+ ],
+ "plain_language": "O Parlamento recomenda ao Governo que obrigue o organismo responsável pelos apoios à agricultura, florestas e pescas (o IFAP) a pagar o dinheiro dentro de prazos definidos. Como os pagamentos costumam atrasar-se, a proposta sugere que, se o Estado falhar o prazo, tenha de compensar automaticamente os produtores com juros pelo atraso. Pede também que o serviço seja modernizado digitalmente e tenha mais trabalhadores e meios técnicos para despachar os processos mais depressa. Como é um projeto de resolução, funciona apenas como uma recomendação ao Governo, sem força de lei obrigatória.",
+ "context": "Os proponentes alegam que o IFAP sofre atrasos significativos e recorrentes no pagamento de fundos comunitários e nacionais. Segundo a exposição de motivos, esta situação prejudica agricultores, pescadores e agentes florestais, sobretudo nas regiões autónomas, causando problemas de tesouraria, travando investimentos, reduzindo a competitividade e ameaçando a viabilidade das explorações. Argumenta-se ainda que o Estado exige prazos rigorosos aos produtores, mas falha na obrigação de pagar em tempo útil.",
+ "analysis": "A iniciativa aborda um problema recorrente de gestão pública, procurando equilibrar deveres entre o Estado e os beneficiários de apoios rurais e marítimos. Como ponto positivo, articula a responsabilização financeira através de juros de mora com medidas operacionais de simplificação e reforço de recursos. Contudo, apresenta fragilidades: por ser um projeto de resolução, não vincula o Governo nem cria obrigações legais imediatas. Além disso, o texto é genérico, não especificando que prazos máximos seriam adequados, que taxas de compensação seriam aplicadas, nem qual o custo ou a dimensão do reforço de meios necessário. Também não analisa eventuais exigências de controlo e auditoria da União Europeia que condicionam a libertação de fundos comunitários e que podem dificultar prazos rígidos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, não tem impacto orçamental direto imediato. Contudo, a eventual execução das medidas propostas aumentaria a despesa pública devido ao reforço de meios técnicos e humanos, à modernização digital e ao pagamento automático de compensações ou juros de mora em caso de atraso, não constando quaisquer montantes do documento."
+ },
+ "affected": [
+  "agricultores",
+  "pescadores",
+  "agentes florestais",
+  "Instituto de Financiamento da Agricultura e Pescas (IFAP)"
+ ],
+ "categories": [
+  "agricultura",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "ifap",
+  "apoios agrícolas",
+  "pescas",
+  "juros de mora",
+  "atrasos nos pagamentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

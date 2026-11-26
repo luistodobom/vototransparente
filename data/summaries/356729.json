@@ -1,0 +1,43 @@
+{
+ "short_title": "Posto de fronteira marítimo sazonal na Ilha das Flores",
+ "summary": "Este projeto de resolução recomenda ao Governo, sem caráter vinculativo, a qualificação e atribuição de um posto de fronteira marítimo sazonal ou condicionado na Ilha das Flores, na Região Autónoma dos Açores. Para o efeito, propõe a alteração da Portaria n.º 322/2023, de 27 de outubro, incluindo um porto da ilha na lista de postos qualificados. A iniciativa sugere um modelo operacional flexível, ativo nos períodos de maior afluência náutica ou mediante aviso prévio das embarcações, com deslocação programada de equipas da Guarda Nacional Republicana. Pede ainda a articulação entre o Governo da República, o Governo Regional dos Açores, a Guarda Nacional Republicana e as autoridades portuárias. Por fim, recomenda uma avaliação dos impactos económicos, turísticos e operacionais no prazo de dois anos após a entrada em funcionamento, ponderando uma eventual passagem a regime permanente.",
+ "key_points": [
+  "Qualificar e atribuir um posto de fronteira marítimo sazonal ou condicionado na Ilha das Flores.",
+  "Alterar a Portaria n.º 322/2023, de 27 de outubro, para incluir um porto da Ilha das Flores na lista de postos de fronteira marítimos qualificados.",
+  "Criar um modelo operacional flexível baseado nos períodos de maior tráfego náutico, com sistema de aviso prévio das embarcações e mobilização programada de meios.",
+  "Articular o Governo da República, o Governo Regional dos Açores, a Guarda Nacional Republicana e as entidades portuárias para garantir os meios operacionais necessários.",
+  "Monitorizar e avaliar os impactos económicos, turísticos e operacionais dois anos após o início de funcionamento, ponderando a evolução para um regime permanente."
+ ],
+ "plain_language": "Muitos barcos que atravessam o Atlântico vindos da América do Norte ou das Caraíbas passam primeiro pela Ilha das Flores, nos Açores. Como a ilha não tem um posto de fronteira oficial, essas embarcações não podem entrar legalmente em Portugal ali e seguem para outros portos, deixando de gastar dinheiro no comércio e turismo locais. Esta proposta é uma recomendação não vinculativa ao Governo para criar um posto de fronteira sazonal ou por marcação na ilha. Em vez de agentes em permanência, equipas da Guarda Nacional Republicana iriam ao porto nas épocas de maior movimento ou quando os barcos avisassem antes.",
+ "context": "O proponente afirma que a Ilha das Flores é um ponto estratégico nas rotas transatlânticas, sendo frequentemente a primeira aproximação europeia para embarcações de recreio vindas de fora da União Europeia. Contudo, a Portaria n.º 322/2023 não inclui nenhum posto de fronteira qualificado na ilha. Segundo o texto, este vazio administrativo afasta escalas náuticas e prejudica a economia local na estadia, abastecimento, manutenção e turismo, além de limitar o apoio em situações de necessidade. Argumenta ainda que o Código das Fronteiras Schengen permite aos Estados-Membros adotar postos flexíveis sem exigir funcionamento permanente.",
+ "analysis": "A proposta procura responder a um constrangimento geográfico concreto com um modelo proporcional, evitando os custos de uma estrutura permanente e prevendo uma avaliação ao fim de dois anos. Contudo, trata-se de uma recomendação não vinculativa, pelo que não obriga o Governo a agir. O texto apresenta fragilidades de fundamentação, pois não inclui dados sobre o número atual de embarcações afetadas, estimativas de retorno económico nem cálculos dos custos operacionais. Ficam também por definir aspetos práticos essenciais, como qual o porto a qualificar, os prazos mínimos de aviso prévio, a origem das equipas da Guarda Nacional Republicana e a resposta a emergências meteorológicas fora dos períodos previstos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O documento não apresenta estimativas orçamentais. No entanto, a eventual criação do posto de fronteira e a mobilização programada de equipas da Guarda Nacional Republicana e de meios portuários implicarão custos operacionais adicionais face à situação atual, mesmo com um regime flexível."
+ },
+ "affected": [
+  "navegadores e embarcações de recreio",
+  "operadores turísticos e comércio local da Ilha das Flores",
+  "Guarda Nacional Republicana",
+  "entidades portuárias dos Açores"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "transportes"
+ ],
+ "tags": [
+  "ilha das flores",
+  "açores",
+  "posto de fronteira",
+  "navegação marítima",
+  "espaço schengen"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

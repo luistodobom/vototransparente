@@ -1,0 +1,43 @@
+{
+ "short_title": "Novo modelo societário e estatutos para a agência LUSA",
+ "summary": "O Projeto de Lei n.º 605/XVII/1.ª, apresentado pelo LIVRE, aprova o modelo societário e os estatutos da LUSA – Agência de Notícias de Portugal, S.A., mantendo-a no setor empresarial do Estado com capital social de 10.324.225,00 euros integralmente detido por entidades públicas. O diploma consagra a plena independência editorial da agência face a quaisquer poderes externos e determina que conflitos entre gestão e independência editorial se resolvem a favor desta. Cria um Conselho Geral Independente de 13 membros — com representantes das Regiões Autónomas, municípios, associações de comunicação social, jornalistas, trabalhadores e sindicatos — incumbido de escolher o Conselho de Administração e fiscalizar o contrato de serviço público de cinco anos. Reforça ainda a participação laboral, exigindo a audição obrigatória da Comissão de Trabalhadores, do Conselho de Redação e dos sindicatos em alterações estatutárias, contratos e reestruturações.",
+ "key_points": [
+  "Mantém a LUSA como sociedade anónima do setor empresarial do Estado, com capital social de 10.324.225,00 euros e ações detidas exclusivamente por entidades públicas.",
+  "Proíbe qualquer censura ou ingerência externa e determina que eventuais conflitos entre orientações de gestão e independência editorial se resolvem a favor desta.",
+  "Cria o Conselho Geral Independente, composto por 13 membros com mandatos não renováveis de seis anos, para escolher a administração e avaliar o serviço público.",
+  "Sujeita a nomeação do administrador financeiro a parecer prévio vinculativo do membro do Governo das finanças e prevê relatórios anuais à Assembleia da República.",
+  "Torna obrigatória a audição escrita e pública da Comissão de Trabalhadores, do Conselho de Redação e dos sindicatos sobre estatutos, contrato de serviço público e planos de reestruturação."
+ ],
+ "plain_language": "Esta proposta de lei define novas regras para o funcionamento e gestão da agência de notícias LUSA, garantindo que continua a ser totalmente pública. Para proteger as notícias de pressões políticas ou económicas, o projeto cria um Conselho Geral Independente com 13 pessoas ligadas às regiões, municípios, órgãos de comunicação social, jornalistas e trabalhadores. Este conselho passa a escolher a administração da empresa e a vigiar se a LUSA cumpre a sua missão. Além disso, obriga a empresa a ouvir os sindicatos e representantes dos trabalhadores antes de avançar com reestruturações ou mudanças nos estatutos.",
+ "context": "O LIVRE justifica a iniciativa com o processo de reestruturação e revisão estatutária da LUSA desencadeado pelo Governo após o Estado adquirir a totalidade do capital da empresa. Segundo a exposição de motivos, esse processo decorreu sem debate público nem transparência e à margem dos sindicatos e representantes dos trabalhadores, motivando uma greve a 12 de março. Os proponentes alertam para riscos de ingerência política e incerteza laboral, defendendo que cabe ao Parlamento definir o modelo de governação.",
+ "analysis": "O projeto procura blindar a independência editorial da LUSA com regras claras de resolução de conflitos a favor do jornalismo e um modelo de governação participado, retirando ao Governo a nomeação direta da maioria da administração. Contudo, apresenta fragilidades graves de redação e técnica legislativa que dificultam a sua aplicação: omite os artigos 22.º e 27.º dos estatutos, salta do Capítulo II para o Capítulo VI, deixa uma frase incompleta na exposição de motivos, duplica numerações nos artigos 28.º e 30.º e troca a ordem das alíneas do artigo 14.º. No plano substantivo, não regula eventuais remunerações ou incompatibilidades dos membros do Conselho Geral Independente e mantém um parecer vinculativo governamental para o administrador financeiro sem prever mecanismos de desbloqueio em caso de impasse.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diploma remete os montantes e métodos de cálculo das indemnizações compensatórias para o contrato de serviço público de cinco anos, não apresentando estimativas orçamentais. Além disso, o novo Conselho Geral Independente pode requerer estudos e pesquisas e dispor de um secretariado técnico afeto dos quadros da empresa, sem que sejam especificados custos ou eventuais remunerações."
+ },
+ "affected": [
+  "jornalistas e trabalhadores da LUSA",
+  "órgãos de comunicação social nacionais, regionais e locais",
+  "administração e órgãos sociais da LUSA",
+  "sindicatos do setor da comunicação social"
+ ],
+ "categories": [
+  "comunicacao",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "lusa",
+  "agência de notícias",
+  "independência editorial",
+  "setor empresarial do estado",
+  "governação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

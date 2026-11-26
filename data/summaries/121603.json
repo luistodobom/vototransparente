@@ -1,0 +1,24 @@
+{
+ "short_title": "Acesso rápido a consultas e exames no SNS",
+ "summary": "Esta proposta de lei visa garantir que os cidadãos tenham acesso a consultas, exames e tratamentos no Serviço Nacional de Saúde (SNS) dentro dos tempos máximos de resposta garantidos. Se o SNS não conseguir cumprir esses prazos, os utentes serão encaminhados para prestadores de saúde dos setores privado ou social. O objetivo é reduzir as listas de espera e assegurar que os cuidados de saúde sejam prestados de forma atempada, sem custos adicionais para o utente além do que pagaria no SNS.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer acabar com as filas de espera gigantes no Serviço Nacional de Saúde. Se o SNS não conseguir dar-te uma consulta ou um exame a tempo, eles vão ter de te mandar para um hospital ou clínica privada ou social, mas sem te custar mais do que se fosses ao SNS. A ideia é que tenhas acesso rápido aos cuidados de saúde de que precisas, e o SNS até vai ter uma plataforma para ver onde há vagas. E se fores carenciado, o transporte também é pago.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente o problema das longas listas de espera no SNS para consultas e exames, que levam ao recurso indevido aos serviços de urgência e atrasam diagnósticos e tratamentos. A solução de referenciar utentes para o setor privado ou social quando os tempos de resposta garantidos não são cumpridos é uma abordagem direta para aliviar a pressão sobre o SNS e melhorar o acesso. A criação de uma plataforma informática para gerir estas referenciações e a garantia de que o utente não terá custos adicionais são detalhes de implementação que se alinham com o objetivo de facilitar o acesso. No entanto, a afirmação de que não haverá aumento de despesa para o SNS, pois este deixará de realizar a despesa inerente à consulta, pode ser otimista. Embora o custo direto da consulta seja transferido, a gestão e monitorização dos prestadores externos, bem como os custos de transporte para utentes carenciados, representam despesas que o SNS terá de suportar. A eficácia da medida dependerá muito da capacidade do SNS em gerir eficientemente estas referenciações e da disponibilidade de vagas nos setores privado e social.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta sugere que não haverá um aumento líquido nos gastos do governo, pois o SNS deixaria de incorrer nas despesas das consultas e tratamentos que seriam realizados externamente. No entanto, o governo terá de cobrir os custos dos serviços prestados pelos setores privado e social, de acordo com as tabelas de preços em vigor. Além disso, o SNS continuará a assegurar os encargos com o transporte não urgente de doentes economicamente carenciados que sejam referenciados. O efeito líquido é incerto; embora possa haver uma otimização de recursos ao reduzir a pressão sobre o SNS, a transferência de custos para o setor privado/social pode não resultar numa diminuição global da despesa, mas sim numa reatribuição da mesma. A receita do governo não é diretamente afetada por esta proposta."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

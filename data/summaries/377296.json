@@ -1,0 +1,43 @@
+{
+ "short_title": "Restrição do acesso de estrangeiros não residentes ao SNS",
+ "summary": "O Projeto de Lei n.º 786/XVII/2.ª, apresentado pelo PSD e pelo CDS-PP, altera a Base 21 da Lei de Bases da Saúde (Lei n.º 95/2019) para restringir o estatuto de beneficiário do Serviço Nacional de Saúde (SNS). Passam a ser beneficiários apenas os cidadãos portugueses, os estrangeiros em situação de permanência regular, estada ou residência temporária (da União Europeia, equiparados ou de países terceiros), os apátridas e os requerentes de proteção internacional, retirando esse estatuto aos cidadãos em situação irregular. Para estrangeiros não residentes não abrangidos e cidadãos em permanência irregular, o acesso ao SNS passa a exigir pagamento, comprovativo de cobertura por seguro ou terceiro responsável, além de documentação de identificação e contacto. Excetuam-se os cuidados emergentes ou urgentes e vitais, mantendo-se a obrigação de entregar documentação e comprovativo posteriormente. Remete ainda para lei futura os mecanismos de cobrança, garantia e pagamento antecipado.",
+ "key_points": [
+  "Limita o estatuto de beneficiário do SNS a cidadãos portugueses, estrangeiros em situação regular, estada ou residência temporária, apátridas e requerentes de proteção internacional.",
+  "Exclui os cidadãos em permanência irregular e os estrangeiros não residentes não abrangidos da lista de beneficiários do SNS.",
+  "Exige o pagamento dos cuidados ou a apresentação de comprovativo de cobertura e documentação de identificação para o acesso de não beneficiários ao SNS.",
+  "Assegura o atendimento imediato em situações emergentes ou urgentes e vitais, exigindo a entrega posterior dos documentos e comprovativos.",
+  "Remete para legislação posterior a definição de mecanismos de identificação dos responsáveis, cobrança, garantias ou pagamento antecipado."
+ ],
+ "plain_language": "Atualmente, a lei inclui como beneficiários do SNS quaisquer estrangeiros que estejam em Portugal, mesmo sem situação legalizada. Esta proposta muda essa regra. Só terão direito automático ao SNS os cidadãos portugueses, os estrangeiros com situação regular ou residência temporária, os apátridas e quem pediu proteção internacional. Turistas sem residência ou migrantes sem documentos passam a ter de pagar os tratamentos ou apresentar um seguro de saúde válido e documentos de identificação. Ninguém ficará sem atendimento em casos de emergência ou risco de vida, mas terá de apresentar os documentos e resolver o pagamento depois.",
+ "context": "Os proponentes afirmam que a Lei de Bases da Saúde de 2019 permite o acesso gratuito de não residentes ao SNS, potenciando deslocações a Portugal, por vezes ligadas a redes ilegais, para obter tratamentos dispendiosos pagos pelos contribuintes. Citam dados da Inspeção-Geral das Atividades em Saúde que registam cerca de 330 mil atendimentos de estrangeiros não residentes nas urgências do SNS entre 2021 e setembro de 2024, mais de 140 mil sem seguro ou acordo internacional, bem como pressões sobre unidades como a ULS Amadora-Sintra. Retomam assim uma proposta de 2018 e uma iniciativa anterior que caducou.",
+ "analysis": "A iniciativa responde a um problema documentado de atendimentos sem cobertura nas urgências e salvaguarda o acesso a cuidados emergentes e vitais. Contudo, apresenta fragilidades jurídicas e práticas. Embora a exposição de motivos vise sobretudo estrangeiros que viajam para obter tratamentos gratuitos, o articulado retira também o estatuto de beneficiário a migrantes em situação irregular já residentes no país. Além disso, o texto legal apenas exceciona cuidados emergentes ou urgentes e vitais, omitindo exceções expressas para doenças transmissíveis e saúde pública, ao contrário de recomendações parlamentares anteriores citadas. Por fim, sendo uma alteração à Lei de Bases com entrada em vigor imediata, remete os mecanismos de cobrança e garantia para legislação futura, deixando um vazio operacional sobre como cobrar ou exigir pagamento antecipado sem atrasar cuidados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A iniciativa pretende reduzir encargos não compensados e assegurar a cobrança de cuidados prestados a estrangeiros sem cobertura, mas o documento não apresenta estimativas financeiras e reconhece desconhecer a exata dimensão do fenómeno. Além disso, o impacto real depende de legislação futura para criar os mecanismos de cobrança e garantia."
+ },
+ "affected": [
+  "estrangeiros não residentes em Portugal",
+  "imigrantes em situação irregular",
+  "utentes do SNS",
+  "unidades de saúde e profissionais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "sns",
+  "lei de bases da saude",
+  "nao residentes",
+  "imigracao irregular",
+  "cuidados de saude"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

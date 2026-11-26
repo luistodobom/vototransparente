@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço do financiamento e monitorização das refeições escolares",
+ "summary": "Este Projeto de Resolução do Partido Socialista recomenda ao Governo três medidas para responder às dificuldades de financiamento das refeições escolares geridas pelas autarquias no ensino obrigatório. Sendo uma recomendação, o texto não tem força vinculativa. Em primeiro lugar, pede ao Executivo que entregue à Assembleia da República, no prazo de 60 dias, um relatório detalhado sobre a evolução dos défices municipais nesta área, identificando falhas de financiamento e soluções. Em segundo lugar, propõe a criação de um mecanismo permanente de acompanhamento e avaliação, desenvolvido em articulação com a Associação Nacional de Municípios Portugueses, com indicadores públicos de custo, qualidade, cobertura e equidade territorial. Por fim, recomenda que, após o relatório, o Governo proceda a uma atualização extraordinária das verbas transferidas para as Câmaras Municipais através do Fundo de Financiamento da Descentralização.",
+ "key_points": [
+  "Entrega de um relatório ao Parlamento, no prazo de 60 dias, sobre os défices municipais nas refeições escolares e propostas de reforço do apoio estatal.",
+  "Criação de um mecanismo permanente de monitorização do serviço, em articulação com a Associação Nacional de Municípios Portugueses.",
+  "Recolha e divulgação periódica de indicadores sobre custo, qualidade, cobertura e equidade territorial para corrigir assimetrias entre municípios.",
+  "Atualização extraordinária das transferências do Estado para as Câmaras Municipais, através do Fundo de Financiamento da Descentralização, para financiar as refeições do ensino obrigatório."
+ ],
+ "plain_language": "Desde a transferência de competências na educação, cabe às câmaras municipais gerir as refeições no ensino obrigatório, com o almoço cobrado aos alunos atualmente fixado em 1,46 euros. Como muitas autarquias referem que o apoio estatal não chega para os custos atuais, o PS propõe que o Parlamento recomende ao Governo três medidas: apresentar um relatório sobre estes défices em 60 dias, criar um sistema permanente de acompanhamento dos custos e da qualidade das refeições, e reforçar extraordinariamente as verbas transferidas para os municípios. Por ser um projeto de resolução, trata-se de uma recomendação não obrigatória para o Governo.",
+ "context": "O PS baseia a iniciativa num estudo da Universidade do Minho sobre a descentralização educativa, segundo o qual a maioria das autarquias considera as verbas recebidas insuficientes e 64% dos autarcas apontam défices superiores a 20% nas refeições escolares. O documento refere ainda que a inflação agravou os custos da alimentação, enquanto o preço do almoço pago pelos alunos permanece em 1,46 euros. Perante a ausência de monitorização sistemática e o chumbo de uma proposta anterior em 2025, o proponente argumenta que estes encargos podem comprometer outros investimentos municipais essenciais.",
+ "analysis": "Como ponto forte, a iniciativa procura ligar a revisão das transferências financeiras a um diagnóstico prévio e a indicadores regulares de custo, qualidade e equidade territorial, envolvendo os municípios na definição do mecanismo de acompanhamento. Contudo, apresenta fragilidades relevantes. Por ser um projeto de resolução, não vincula o Governo nem garante a execução das medidas. O texto não quantifica o montante da atualização extraordinária proposta, não define critérios objetivos de atualização futura face à inflação nem identifica a respetiva fonte orçamental. Além disso, o prazo de 60 dias para apresentar um relatório abrangente sobre os défices de todos os municípios pode revelar-se curto para recolher dados financeiros comparáveis, e a recomendação insiste num modelo de monitorização semelhante ao já rejeitado pelo Parlamento em 2025.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda uma atualização extraordinária das transferências da Administração Central para os municípios através do Fundo de Financiamento da Descentralização, o que aumentaria a despesa pública se for concretizado. O documento não indica o montante do reforço necessário e, por ser um projeto de resolução, não tem efeito orçamental direto ou vinculativo."
+ },
+ "affected": [
+  "municípios",
+  "alunos do ensino obrigatório",
+  "famílias",
+  "Administração Central"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "refeições escolares",
+  "descentralização",
+  "municípios",
+  "financiamento",
+  "ensino obrigatório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

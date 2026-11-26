@@ -1,0 +1,40 @@
+{
+ "short_title": "Atualização de apoios a contratos de associação, cooperação e profissionais",
+ "summary": "O Projeto de Resolução n.º 178/XVII/1.ª, apresentado pelo Chega, recomenda ao Governo que proceda à atualização do valor dos apoios financeiros atribuídos no âmbito dos contratos de associação e de cooperação, bem como às escolas profissionais privadas. A iniciativa aponta como horizonte temporal de aplicação o ano letivo de 2026/2027. Além de uma revisão dos montantes em vigor, o texto propõe o estabelecimento de critérios de atualização anual para garantir que os valores de apoio monetário acompanham o aumento dos custos de operação destas instituições. Sendo um projeto de resolução, consiste numa recomendação não vinculativa dirigida ao Executivo, sem definir valores concretos.",
+ "key_points": [
+  "Recomenda ao Governo que atualize os valores dos apoios financeiros para os contratos de associação para o ano letivo de 2026/2027.",
+  "Propõe que a mesma atualização de apoios abranja os contratos de cooperação, aplicáveis a estabelecimentos como colégios de educação especial.",
+  "Inclui na recomendação a revisão dos apoios monetários dirigidos às escolas profissionais privadas.",
+  "Sugere a definição de critérios de atualização anual para que os financiamentos acompanhem o aumento dos custos operacionais das escolas."
+ ],
+ "plain_language": "O Estado paga a algumas escolas privadas e cooperativas para oferecerem ensino gratuito aos alunos, através dos chamados contratos de associação e de cooperação, além de financiar escolas profissionais privadas. Neste documento, o Chega pede ao Governo que aumente esses apoios para o ano letivo de 2026/2027 e que crie uma regra para os atualizar todos os anos consoante as despesas das escolas. Como se trata de uma recomendação, o Governo não é obrigado a segui-la, e o texto também não indica que montantes deveriam ser pagos.",
+ "context": "O proponente alega que estes estabelecimentos estão subfinanciados, considerando insignificante o ajuste de 2024 que fixou o contrato de associação em 86 176,25 euros por turma. Segundo o partido, o custo para o Estado é muito inferior ao das escolas públicas, mas a falta de verbas ameaça o fecho de instituições, afetando o ensino artístico especializado e a educação especial. O texto critica o estigma contra o ensino privado e recorda o chumbo de uma proposta semelhante no Orçamento do Estado para 2025.",
+ "analysis": "A iniciativa tem o mérito de apontar a ausência de mecanismos previsíveis de atualização dos apoios, procurando dar estabilidade a áreas sensíveis como o ensino artístico especializado e a educação especial. Contudo, o texto apresenta fragilidades na concretização. A parte resolutiva é vaga: não quantifica a atualização pretendida nem especifica os indicadores que deveriam compor os critérios anuais, como a inflação ou os salários. Além disso, agrupa três regimes de financiamento distintos sem diferenciar as suas especificidades. Na fundamentação, afirma que o custo por turma é muito inferior ao da escola pública, mas não apresenta dados comparativos que sustentem essa premissa. Por ser um projeto de resolução, não tem força vinculativa nem assegura dotação orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atualização dos apoios para acompanhar o aumento dos custos operacionais implica um aumento da despesa pública com estes estabelecimentos caso o Governo adote a recomendação. O documento refere o valor atual de 86 176,25 euros por turma nos contratos de associação, mas não quantifica os montantes ou o impacto orçamental da atualização proposta."
+ },
+ "affected": [
+  "escolas com contratos de associação e cooperação",
+  "escolas profissionais privadas",
+  "alunos e famílias destas instituições",
+  "estabelecimentos de ensino artístico especializado e educação especial"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "contratos de associação",
+  "contratos de cooperação",
+  "escolas profissionais privadas",
+  "financiamento escolar",
+  "ensino particular e cooperativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

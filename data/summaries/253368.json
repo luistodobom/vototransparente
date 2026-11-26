@@ -1,0 +1,25 @@
+{
+ "short_title": "Fim da dupla tributação de ISV e IVA em veículos",
+ "summary": "Esta proposta de lei visa eliminar a dupla tributação que ocorre na compra de veículos a motor em Portugal. Atualmente, o Imposto Sobre Veículos (ISV) é incluído na base de cálculo do Imposto sobre o Valor Acrescentado (IVA), o que significa que os consumidores pagam IVA sobre o ISV, resultando num imposto sobre outro imposto. O objetivo é alterar o Código do IVA para excluir o ISV da base tributável do IVA, tornando a aquisição de veículos mais justa e potencialmente mais acessível.",
+ "key_points": [],
+ "plain_language": "Basicamente, quando compras um carro novo em Portugal, pagas dois impostos um em cima do outro: o Imposto Sobre Veículos (ISV) e depois o IVA, que é calculado já com o ISV incluído. Esta proposta quer acabar com essa 'taxa sobre taxa', fazendo com que o IVA seja calculado apenas sobre o preço do carro, sem o ISV. A ideia é que comprar carro fique mais justo e, quem sabe, um pouco mais barato.",
+ "context": null,
+ "analysis": "A proposta identifica claramente uma inconsistência fiscal: a tributação de um imposto (ISV) por outro imposto (IVA), o que é considerado injusto e contrário aos princípios básicos da fiscalidade. O documento fundamenta esta posição com referências a críticas de entidades do setor automóvel e a um acórdão do Tribunal de Justiça da União Europeia, que sugere que o ISV não deveria integrar a base tributável do IVA. A solução proposta, que consiste em alterar os artigos 16.º e 17.º do Código do IVA para explicitamente excluir o ISV da base de cálculo do IVA para veículos a motor, alinha-se diretamente com o objetivo de eliminar esta dupla tributação. A implementação é precisa e visa corrigir a base legal que permite a situação atual.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao eliminar a dupla tributação de ISV e IVA, resultará numa diminuição da receita do governo, uma vez que o valor total sobre o qual o IVA é calculado será reduzido. Consequentemente, o valor final dos veículos para os consumidores deverá diminuir, o que pode, em teoria, estimular a compra de veículos novos, mas o efeito líquido direto será uma redução na arrecadação de impostos por parte do Estado."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

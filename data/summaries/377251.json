@@ -1,0 +1,43 @@
+{
+ "short_title": "Escolha de seguros no crédito à habitação sem penalização",
+ "summary": "O Projeto de Resolução recomenda ao Governo alterações legislativas para reforçar a liberdade de escolha dos seguros associados ao crédito à habitação. Propõe que a escolha ou substituição de seguros com garantias equivalentes não implique condições de empréstimo menos favoráveis nem a perda de bonificações no crédito apenas por causa da seguradora ou do canal de contratação. Esta proteção deve abranger contratos novos e contratos já em vigor, aplicando-se às substituições futuras através de um regime transitório proporcionado, sem exigir a renegociação do crédito nem afetar pagamentos passados lícitos. Recomenda ainda melhorar a clareza e comparabilidade da informação sobre custos dos seguros e simplificar os procedimentos de substituição, com critérios objetivos de equivalência, prazos definidos e decisões fundamentadas. Por fim, pede ao Governo que adote ou apresente medidas no prazo de 90 dias, ouvindo supervisores, consumidores e setores envolvidos, e que informe a Assembleia da República.",
+ "key_points": [
+  "Proibir o agravamento das condições do crédito à habitação ou a perda de bonificações apenas pela escolha ou substituição de seguro equivalente noutra seguradora ou canal.",
+  "Estender esta proteção aos contratos de crédito à habitação já existentes, aplicando-a às substituições futuras sem exigir a renegociação do empréstimo.",
+  "Reforçar a clareza e comparabilidade da informação sobre o custo dos seguros, garantias exigidas e impacto nos encargos totais do crédito.",
+  "Simplificar os processos de substituição de seguros através de critérios objetivos de equivalência, prazos definidos, decisões fundamentadas e garantia de continuidade da cobertura.",
+  "Fixar um prazo de 90 dias para o Governo adotar ou propor medidas legislativas, ouvindo o Banco de Portugal, a Autoridade de Supervisão de Seguros e Fundos de Pensões e representantes dos consumidores e dos setores envolvidos."
+ ],
+ "plain_language": "Quando se pede um crédito à habitação, a lei já permite escolher o seguro fora do banco, mas os bancos podem agravar o empréstimo (retirando bonificações no spread, que é a margem do banco) se o cliente não usar o seguro proposto. Este projeto recomenda ao Governo que mude a lei para impedir essa penalização, desde que o novo seguro ofereça as mesmas garantias. A ideia é que quem faz um crédito novo ou já está a pagar a casa possa trocar para um seguro equivalente de forma simples, rápida e transparente, sem perder os descontos no empréstimo.",
+ "context": "O JPP argumenta que os seguros pesam nos encargos das famílias com a habitação. Embora a lei já reconheça a liberdade de escolha do segurador, a cessação de produtos associados pode levar à perda da bonificação do spread, tornando a mudança de seguro desvantajosa. Ligando este tema ao debate sobre o custo da habitação e ao Projeto de Lei n.º 511/XVII/1.ª, o proponente defende que a proteção do crédito deve depender da suficiência das garantias, não da identidade do segurador, tanto em contratos novos como existentes.",
+ "analysis": "Como ponto positivo, a iniciativa identifica um entrave prático real: a liberdade legal de escolher seguradora é limitada pelo risco de perda de bonificações no spread. Destaca-se também o cuidado jurídico ao propor um regime transitório proporcionado para contratos existentes, preservando atos passados lícitos, bem como a previsão de consulta aos supervisores (Banco de Portugal e ASF). Contudo, tratando-se de um Projeto de Resolução, é uma recomendação não vinculativa ao Governo, sem efeito imediato na lei. Além disso, o texto remete para futura regulamentação a definição concreta dos critérios objetivos de equivalência e dos prazos. Na implementação, existe o risco de os bancos compensarem a proibição aumentando o spread base de novos contratos ou transferindo bonificações para outros produtos associados, reduzindo o ganho efetivo para as famílias.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Tratando-se de uma recomendação ao Governo sobre regras contratuais privadas entre bancos, seguradoras e clientes, a iniciativa não prevê despesas nem alterações fiscais públicas. Além disso, por ser um Projeto de Resolução, não produz efeitos vinculativos diretos sobre o Orçamento do Estado."
+ },
+ "affected": [
+  "titulares de crédito à habitação",
+  "novos compradores de habitação com crédito",
+  "bancos e instituições de crédito",
+  "seguradoras"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "seguros",
+  "spread",
+  "bonificações",
+  "liberdade de escolha"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

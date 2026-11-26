@@ -1,0 +1,45 @@
+{
+ "short_title": "Alargamento da duração de estágios de médicos da CPLP em Portugal",
+ "summary": "O Projeto de Lei n.º 709/XVII/1.ª, apresentado pelo PSD e pelo CDS-PP, altera o Estatuto da Ordem dos Médicos para reformular o regime dos estágios profissionais de médicos nacionais de países da CPLP. A iniciativa substitui o limite atual de 18 meses sem renovação por autorizações iniciais até 24 meses, renováveis sucessivamente por períodos até 24 meses e sem limite máximo de renovações, desde que o médico mantenha aproveitamento satisfatório e continue no mesmo programa formativo ou em programa complementar justificado. O diploma exige inscrição médica no país de origem, seguro de responsabilidade civil e de saúde, supervisão por especialista e uma declaração de compromisso de retorno que proíbe o exercício de medicina em Portugal após o estágio. Cria ainda um registo nacional gerido pela Ordem dos Médicos, atribui à ACSS a coordenação e monitorização no SNS e prevê regras transitórias para licenças ativas ou caducadas há menos de seis meses.",
+ "key_points": [
+  "Aumenta a duração inicial máxima dos estágios de médicos da CPLP para 24 meses, substituindo o teto anterior de 18 meses não renováveis.",
+  "Permite renovações sucessivas por períodos até 24 meses, sem limite numérico, mediante aproveitamento satisfatório, manutenção dos seguros e continuidade no programa de formação.",
+  "Exige uma declaração assinada de compromisso profissional e de retorno, proibindo o estagiário de exercer medicina em Portugal após o fim do estágio.",
+  "Prevê a comunicação imediata à AIMA, ao Ministério da Saúde e à ordem médica do país de origem em caso de não renovação ou incumprimento do retorno.",
+  "Obriga a Ordem dos Médicos a manter um registo nacional atualizado e a reportar anualmente os dados à ACSS, I. P. e ao Ministério da Saúde.",
+  "Permite que licenças caducadas há menos de seis meses ao abrigo da regra anterior possam ser substituídas por nova licença através de procedimento simplificado."
+ ],
+ "plain_language": "Atualmente, médicos de países de língua portuguesa que vêm fazer estágios de especialização em Portugal só podem ficar até 18 meses, sem direito a renovação. Como uma especialidade médica demora pelo menos quatro a seis anos, esse prazo é insuficiente. Esta proposta altera a lei para permitir autorizações até dois anos, que podem ser renovadas várias vezes até o médico concluir a formação. Em troca, o médico tem de ter seguros válidos, trabalhar sempre sob supervisão de um especialista e assinar um compromisso de que voltará ao seu país e não exercerá medicina em Portugal depois do estágio.",
+ "context": "Os proponentes justificam a medida com os compromissos de cooperação em saúde da CPLP para 2023-2027, nos quais Portugal assume um papel central na formação médica. Argumentam que o limite de 18 meses sem renovação, introduzido pela Lei n.º 9/2024, é incompatível com as especialidades médicas, que duram entre quatro e seis anos. Apontam ainda que países como Angola necessitam de formações complementares mais longas e que Estados como São Tomé e Príncipe, Guiné-Bissau e Timor-Leste carecem da maioria das especialidades, tornando a formação no exterior uma necessidade estrutural.",
+ "analysis": "A proposta corrige uma incongruência objetiva da Lei n.º 9/2024 ao alinhar a duração dos estágios com o ciclo real das especialidades médicas, reforçando também a transparência através de um registo anual na ACSS e de regras transitórias claras. Contudo, apresenta fragilidades relevantes. Ao eliminar qualquer teto máximo de renovações e admitir a transição para programas complementares, o regime pode prolongar indefinidamente a permanência formativa sem um limite global definido. Além disso, a fiscalização do compromisso de retorno limita-se à comunicação à AIMA e às ordens profissionais de origem, sem clarificar mecanismos concretos de controlo nem sanções internas eficazes em caso de permanência em território nacional. Por fim, o texto não avalia o impacto na capacidade formativa dos serviços do SNS nem regula condições de remuneração ou financiamento dos estagiários.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O projeto de lei não prevê dotações orçamentais diretas nem indica montantes associados aos estágios. Contudo, o alargamento da duração das autorizações no Serviço Nacional de Saúde e as novas tarefas de registo e monitorização atribuídas à Administração Central do Sistema de Saúde podem gerar impactos operacionais indiretos não quantificados no documento."
+ },
+ "affected": [
+  "médicos nacionais dos países da CPLP",
+  "serviços de saúde formadores do SNS",
+  "Ordem dos Médicos",
+  "médicos especialistas orientadores",
+  "Administração Central do Sistema de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "internacional",
+  "imigracao"
+ ],
+ "tags": [
+  "ordem dos médicos",
+  "cplp",
+  "estágios médicos",
+  "especialidade médica",
+  "formação profissional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

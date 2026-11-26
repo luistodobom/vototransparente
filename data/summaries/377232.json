@@ -1,0 +1,42 @@
+{
+ "short_title": "Fim do congelamento de rendas e criação de apoio público aos inquilinos",
+ "summary": "O Projeto de Lei n.º 764/XVII/2.ª, da Iniciativa Liberal, revoga os regimes de condicionamento e congelamento administrativo de rendas em contratos antigos, alterando o Novo Regime do Arrendamento Urbano e legislação conexa, e revogando o Decreto-Lei n.º 132/2023. Para gerir a transição, estabelece um regime transitório de três anos durante o qual os contratos se mantêm inalterados, permitindo apenas uma atualização anual adicional de 50 pontos base acima do coeficiente legal, até ao limite do valor médio apurado pelo Instituto Nacional de Estatística para a localização e tipologia do imóvel. Paralelamente, cria um apoio público à renda para inquilinos que cumpram cumulativamente pelo menos dois requisitos relativos a baixos rendimentos, idade igual ou superior a 65 anos ou incapacidade de 60% ou mais, e taxa de esforço superior a 35%. A entrada em vigor ocorre com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Revoga as normas do Novo Regime do Arrendamento Urbano, da Lei n.º 56/2023 e o Decreto-Lei n.º 132/2023 que mantêm o congelamento de rendas e os respetivos regimes de exceção.",
+  "Cria um período transitório de três anos com atualizações anuais limitadas ao coeficiente legal acrescido de 50 pontos base, até ao valor médio apurado pelo Instituto Nacional de Estatística.",
+  "Institui um apoio público à renda para arrendatários que cumpram pelo menos dois critérios de rendimento, idade ou incapacidade e taxa de esforço superior a 35%.",
+  "Exclui do apoio à renda os arrendatários que possuam outra habitação em condições de habitabilidade no mesmo distrito.",
+  "Prevê a regulamentação do regime transitório e do apoio à renda por portaria governamental no prazo de 60 dias e a entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Esta proposta pretende acabar com as regras especiais que mantêm congeladas as rendas de contratos de arrendamento antigos, anteriores a 1990. A ideia é que esses contratos passem a seguir as mesmas regras dos restantes, deixando de ser os senhorios a suportar rendas muito baixas sem apoio. Durante três anos, as rendas só podem subir um pouco acima da atualização anual normal, sem ultrapassar a média da zona. Para proteger os inquilinos com menos recursos, idosos ou com deficiência cuja renda passe a pesar demasiado no orçamento, o Estado pagará um subsídio direto para ajudar a cobrir a subida.",
+ "context": "A Iniciativa Liberal argumenta que o congelamento de rendas anteriores a 1990, que estima abranger cerca de 150 mil contratos, desrespeita o direito de propriedade, degrada o edificado e reduz a oferta de casas no mercado. Defende que a proteção social dos inquilinos vulneráveis cabe ao Estado, através de apoios diretos, e não aos senhorios privados. Critica ainda a existência de múltiplos regimes e compensações burocráticas, sustentando que regras uniformes restauram a confiança dos proprietários e evitam proteger arrendatários sem carência económica.",
+ "analysis": "A iniciativa procura conciliar a unificação das regras do arrendamento com um período transitório de três anos e um subsídio direcionado a inquilinos vulneráveis. Contudo, apresenta fragilidades jurídicas e de conceção relevantes. Primeiro, o texto contém lapsos de redação, como anunciar alterações ao Decreto-Lei n.º 158/2006 sem o alterar no articulado, referir incorretamente «Decreto-Lei» no artigo 5.º e fazer remissões imprecisas nos artigos 3.º e 4.º. Segundo, o acréscimo de apenas 50 pontos base anuais durante três anos dificilmente corrige rendas muito baixas nesse prazo, ficando por clarificar o regime após a transição. Terceiro, a fórmula da alínea b) do n.º 3 do artigo 4.º é ambígua no cálculo do apoio e não é apresentada qualquer estimativa do custo orçamental do novo subsídio.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A proposta revoga o Decreto-Lei n.º 132/2023, eliminando o regime de compensação aos senhorios pelas rendas congeladas, cujo custo o documento refere poder variar entre 138 milhões e 653 milhões de euros por ano segundo um estudo do IHRU. Em sentido inverso, cria um novo apoio público à renda para inquilinos elegíveis sem quantificar a respetiva despesa orçamental, tornando o saldo líquido dependente do número de beneficiários."
+ },
+ "affected": [
+  "inquilinos com contratos antigos",
+  "senhorios com rendas congeladas",
+  "beneficiários de apoio à renda"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "congelamento de rendas",
+  "arrendamento urbano",
+  "apoio à renda",
+  "senhorios",
+  "contratos antigos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

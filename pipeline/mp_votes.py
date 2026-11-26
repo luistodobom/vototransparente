@@ -22,7 +22,7 @@ from __future__ import annotations
 import json
 from collections import Counter, defaultdict
 
-from .config import LEGISLATURES, PROCESSED
+from .config import LEGISLATURES, PROCESSED, SCRAPED
 from .deputies import in_office, load_roster, resolve_mp
 
 CODE = {"favor": "F", "contra": "C", "abstencao": "A", "ausente": "X"}
@@ -33,7 +33,7 @@ def load_attendance():
 
     Several meetings can share a date (keys 'YYYY-MM-DD#2'); an MP counts as absent only if absent from all.
     """
-    p = PROCESSED / "attendance.json"
+    p = SCRAPED / "attendance.json"
     if not p.exists():
         return {}
     data = json.loads(p.read_text())

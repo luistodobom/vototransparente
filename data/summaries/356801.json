@@ -1,0 +1,43 @@
+{
+ "short_title": "Afetação de imóveis devolutos do Estado para habitação pública",
+ "summary": "O Projeto de Resolução n.º 997/XVII/1.ª, apresentado pelo Grupo Parlamentar do LIVRE, recomenda ao Governo que reoriente a gestão do património imobiliário público devoluto com aptidão habitacional, suspendendo a sua venda e concessão a privados para reforçar o parque público de habitação. Concretamente, propõe a suspensão da Resolução do Conselho de Ministros n.º 159/2025, que autorizou a alienação de imóveis através da ESTAMO, e a interrupção das concessões previstas no programa «Parcerias para o Arrendamento Acessível». Em alternativa, recomenda a transferência de propriedade ou gestão de imóveis para as autarquias locais e a atribuição de património vago ao Instituto da Habitação e da Reabilitação Urbana (IHRU) para habitação pública, arrendamento acessível e cooperativas. Pede ainda a divulgação de informação detalhada sobre os imóveis identificados pela ESTAMO. Tratando-se de um projeto de resolução, constitui uma recomendação não vinculativa.",
+ "key_points": [
+  "Suspender e rever a política de venda de património público devoluto, sustando a Resolução do Conselho de Ministros n.º 159/2025.",
+  "Interromper o modelo de concessão de imóveis públicos a privados previsto nas «Parcerias para o Arrendamento Acessível».",
+  "Desenvolver mecanismos com as autarquias locais para transferir a propriedade ou a gestão de imóveis estatais aptos para habitação a custos controlados.",
+  "Atribuir ao Instituto da Habitação e da Reabilitação Urbana a gestão de imóveis vagos para habitação pública, arrendamento acessível e cooperativas.",
+  "Disponibilizar informação detalhada e atualizada sobre a localização, características e ocupação dos imóveis identificados pela ESTAMO."
+ ],
+ "plain_language": "Este texto é uma recomendação do parlamento ao Governo, sem força de lei obrigatória, para que o Estado deixe de vender ou ceder a privados edifícios públicos vazios que sirvam para moradia. O LIVRE defende que, em vez de obter dinheiro imediato com a venda desses prédios, o Estado deve entregá-los às câmaras municipais ou ao instituto público da habitação. O objetivo é recuperá-los para criar casas com rendas mais baixas, adequadas aos rendimentos das famílias, e apoiar cooperativas. Pede também que seja divulgada a lista detalhada desses imóveis devolutos.",
+ "context": "O proponente argumenta que a venda e concessão de edifícios estatais, incluindo dois prédios em Lisboa alienados por 15,7 milhões e 5,2 milhões de euros, retira definitivamente património do domínio público num país onde a habitação pública representa apenas cerca de 2% do total. Cita reservas do Conselho das Finanças Públicas quanto à falta de detalhe e previsibilidade destas receitas pontuais e aponta a doação da antiga sede da Presidência do Conselho de Ministros à Câmara de Lisboa como exemplo positivo a alargar.",
+ "analysis": "A proposta apresenta uma alternativa clara de política pública, sustentada em valores concretos de vendas recentes, experiências anteriores de reconversão municipal e alertas do Conselho das Finanças Públicas sobre o caráter pontual destas receitas extraordinárias. O pedido de divulgação do inventário da ESTAMO reforça a transparência e o escrutínio parlamentar. Contudo, tratando-se de um projeto de resolução, não vincula o Governo nem suspende automaticamente os atos já aprovados. Além disso, o texto não estima os custos nem os prazos das obras de reabilitação necessárias, não avalia o impacto orçamental da perda de receitas previstas e omite uma análise sobre a capacidade técnica do IHRU e dos municípios para executar estes projetos em tempo útil.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Sendo uma recomendação não vinculativa, não produz impacto orçamental direto imediato. Caso seja adotada pelo Governo, a suspensão das alienações reduzirá receitas extraordinárias futuras (após a venda inicial de dois imóveis em Lisboa por 15,7 milhões e 5,2 milhões de euros), enquanto a reabilitação pelo IHRU ou pelas autarquias implicará despesa pública não quantificada no documento."
+ },
+ "affected": [
+  "famílias à procura de habitação acessível",
+  "autarquias locais",
+  "cooperativas de habitação",
+  "Instituto da Habitação e da Reabilitação Urbana"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao",
+  "territorio"
+ ],
+ "tags": [
+  "habitação pública",
+  "património do estado",
+  "arrendamento acessível",
+  "ihru",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

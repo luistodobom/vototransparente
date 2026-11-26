@@ -1,0 +1,40 @@
+{
+ "short_title": "Proteção de inquilinos em situações de arrendamento informal",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa dirigida ao Governo, propõe medidas para proteger os inquilinos que vivem em situações de arrendamento informal, ou seja, sem contrato reduzido a escrito ou declarado. O Bloco de Esquerda recomenda alterações à política de habitação, em particular ao Novo Regime de Arrendamento Urbano (NRAU), que regula as relações entre senhorios e arrendatários. Em concreto, pede ao Executivo que garanta ao inquilino a possibilidade efetiva de intimar o senhorio a regularizar a existência do contrato de arrendamento. Caso essa intimação não produza efeitos, a iniciativa recomenda ainda que a injunção em matéria de arrendamento, um mecanismo legal mais rápido do que uma ação judicial comum, passe a servir como meio processual expedito para efetivar contratos que já existem na prática, mas não são formalmente reconhecidos.",
+ "key_points": [
+  "Recomenda ao Governo uma alteração ao Novo Regime de Arrendamento Urbano (NRAU) para reforçar a proteção dos inquilinos em casos de arrendamento informal.",
+  "Propõe que seja garantida ao inquilino a possibilidade efetiva de intimar o senhorio a regularizar um contrato de arrendamento existente.",
+  "Sugere que a injunção em matéria de arrendamento funcione como meio processual rápido para efetivar contratos não reconhecidos quando a intimação falhar.",
+  "Procura criar um mecanismo proativo de regularização contratual, evitando que a existência do contrato só seja discutida perante a ameaça de despejo."
+ ],
+ "plain_language": "Muitas pessoas pagam renda sem ter um contrato escrito, o que as deixa desprotegidas e sem acesso a apoios públicos à renda. A lei atual já permite provar que o contrato existe, mas na prática isso só funciona como defesa quando o inquilino já está prestes a ser despejado. Este documento, que é apenas uma recomendação sem força de lei, pede ao Governo que mude as regras para que o inquilino possa tomar a iniciativa: primeiro notificando o senhorio para passar o contrato a escrito e, se este recusar, usando um processo rápido para oficializar o arrendamento.",
+ "context": "O Bloco de Esquerda aponta o agravamento da crise da habitação, citando dados do Instituto Nacional de Estatística do primeiro trimestre de 2025 que mostram um aumento homólogo de 10,0% na renda mediana e uma quebra de 10,4% nos novos contratos. Segundo o partido, a informalidade expõe os inquilinos à precariedade e impede-os de aceder a apoios à renda. Argumenta ainda que a Lei n.º 13/2019 apenas criou um mecanismo de defesa perante despejos, faltando uma via para regularizar atempadamente esses contratos.",
+ "analysis": "Como ponto positivo, a proposta identifica uma lacuna processual real: o regime atual protege o arrendatário sem contrato escrito sobretudo em contexto reativo de despejo, dificultando a regularização prévia necessária para segurança jurídica e acesso a apoios públicos. Contudo, tratando-se de um Projeto de Resolução, não tem força vinculativa e não obriga o Governo a legislar. O texto é também pouco detalhado quanto à sua execução, omitindo como se facilita a prova do arrendamento sem contrato escrito e como se previnem retaliações ou pressões sobre o inquilino após a intimação do senhorio. Existe ainda o risco de sobrecarga do procedimento de injunção caso os pedidos aumentem sem reforço de meios.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por ser uma recomendação não vinculativa e sem quantificação orçamental, a iniciativa não gera impacto direto imediato. Caso fosse implementada, a formalização de contratos poderia aumentar a despesa pública com apoios à renda e os custos de tramitação das injunções, mas também gerar maior receita fiscal pela declaração de rendas."
+ },
+ "affected": [
+  "inquilinos em arrendamento informal",
+  "senhorios",
+  "serviços de injunção e tribunais"
+ ],
+ "categories": [
+  "habitacao",
+  "justica"
+ ],
+ "tags": [
+  "arrendamento informal",
+  "inquilinos",
+  "nrau",
+  "injunção",
+  "contratos de arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

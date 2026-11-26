@@ -1,0 +1,26 @@
+{
+ "short_title": "Incentivo fiscal para alojamento de estudantes do ensino superior",
+ "summary": "Esta proposta de lei visa reduzir a taxa de imposto sobre os rendimentos de proprietários de alojamento local (AL) que celebrem contratos de arrendamento com estudantes do ensino superior. A taxa autónoma aplicável passaria de 28% para 10% para o ano letivo de 2022/2023. O objetivo é incentivar a disponibilização de mais quartos para estudantes, face à escassez e aos preços elevados no mercado privado, especialmente em Lisboa e no Porto, e assim mitigar o problema da falta de alojamento digno para os alunos deslocados.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar um desconto nos impostos a quem tem casas de alojamento local e as alugar a estudantes universitários. A ideia é que, com menos impostos a pagar, os donos das casas se sintam mais tentados a alugar aos miúdos que vêm estudar para fora, ajudando a resolver o problema de não haver quartos e de os que há serem caríssimos, principalmente em Lisboa e no Porto. É uma forma de tentar que mais casas fiquem disponíveis para os estudantes.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente um problema premente: a escassez e o custo elevado do alojamento para estudantes universitários, que leva ao abandono escolar. A solução proposta é um incentivo fiscal direto aos proprietários de alojamento local para que convertam as suas unidades para arrendamento estudantil. A lógica é que, ao reduzir a carga fiscal, os proprietários teriam margem para oferecer preços mais competitivos ou, pelo menos, seriam mais incentivados a arrendar a estudantes em vez de turistas. No entanto, a eficácia desta medida em baixar significativamente os preços para os estudantes não é garantida, pois a redução fiscal beneficia diretamente o proprietário e não há um mecanismo explícito que obrigue à repercussão dessa poupança nos valores das rendas. Embora possa aumentar a oferta disponível, a questão da acessibilidade dos preços para os estudantes dependerá da dinâmica do mercado e da vontade dos proprietários em repassar a poupança fiscal. A proposta alinha-se com o objetivo de aumentar a oferta, mas a sua capacidade de tornar o alojamento mais acessível é uma inferência e não uma consequência direta e garantida.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta resultará numa diminuição da receita do governo, uma vez que prevê uma redução significativa da taxa de tributação autónoma (de 28% para 10%) sobre os rendimentos de alojamento local que sejam arrendados a estudantes. Não há indicação de aumento de despesas governamentais associadas. O efeito líquido será, portanto, uma diminuição da receita fiscal do Estado."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

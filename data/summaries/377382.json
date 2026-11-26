@@ -1,0 +1,42 @@
+{
+ "short_title": "Regulamento de registo de audiências e pegada legislativa no Parlamento",
+ "summary": "Este Projeto de Resolução aprova o regulamento da Assembleia da República sobre o registo e a divulgação pública de audiências e interações com representantes de interesses legítimos, bem como o mecanismo de pegada legislativa, dando execução à Lei n.º 5-A/2026. O regulamento aplica-se a todos os órgãos parlamentares, deputados, comissões, grupos parlamentares, serviços e gabinetes de apoio. Passa a exigir que os representantes de interesses estejam inscritos no Registo de Transparência da Representação de Interesses antes de obterem audiência. As interações são registadas numa plataforma parlamentar por responsáveis designados e publicadas na internet no prazo de 30 dias, indicando datas, participantes, entidades representadas e iniciativas em causa, salvo casos sujeitos a sigilo ou proteção de dados. Cria ainda um formulário obrigatório de pegada legislativa para os autores de iniciativas, prevê um relatório anual de avaliação e estabelece um regime transitório até o registo entrar em funcionamento.",
+ "key_points": [
+  "Exige inscrição prévia no Registo de Transparência da Representação de Interesses (RTRI) antes da concessão de audiências ou participação em audições parlamentares.",
+  "Obriga órgãos, serviços, comissões e grupos parlamentares a designar responsáveis pelo registo e publicação das interações numa plataforma da Assembleia da República.",
+  "Determina a divulgação pública das audiências no prazo de 30 dias, com exceções temporárias para casos de sigilo, confidencialidade ou proteção de dados pessoais.",
+  "Institui o mecanismo de pegada legislativa, obrigando os autores de projetos e propostas de lei a preencher um formulário com os contactos preparatórios realizados.",
+  "Prevê um relatório anual de avaliação com participação de entidades externas e um regime transitório com inscrição voluntária até o RTRI entrar em funcionamento."
+ ],
+ "plain_language": "Esta iniciativa define as regras para o Parlamento registar e publicar os encontros com empresas, associações ou outros grupos que defendem interesses junto dos deputados. Antes de pedir uma reunião, essas entidades têm de estar inscritas num registo oficial de transparência. Depois do encontro, o Parlamento tem 30 dias para divulgar na sua página quem participou, que entidade estava representada e que propostas foram discutidas. Além disso, quem apresentar uma nova lei passa a ter de preencher uma ficha a indicar com quem falou durante a preparação do texto, ajudando os cidadãos a perceber quem influenciou as decisões.",
+ "context": "Os proponentes explicam que a Lei n.º 5-A/2026 criou o regime de transparência para entidades privadas que fazem representação legítima de interesses junto de entidades públicas, instituindo o Registo de Transparência da Representação de Interesses junto do Parlamento. Referem ainda que a Lei n.º 37-A/2026 aprovou o modelo de gestão desse registo e regras de aplicação. Com base no mandato previsto nessa lei, consideram necessário aprovar o regulamento que define como a Assembleia da República concede, regista e publica essas audiências e interações.",
+ "analysis": "Ao contrário das habituais recomendações ao Governo, este projeto de resolução exerce uma competência regulamentar própria do Parlamento prevista na lei. Como pontos positivos, abrange todos os órgãos parlamentares e gabinetes, fixa um prazo de 30 dias para publicação pesquisável, permite aos representantes reclamar se faltarem registos e institui a pegada legislativa ligada às consultas públicas, além de prever avaliação anual com entidades cívicas e académicas. Contudo, apresenta fragilidades: a reserva de divulgação por sigilo ou proteção de dados é formulada de modo amplo e sem critério de escrutínio, o formulário de pegada legislativa depende da autodeclaração dos autores e faltam sanções claras para omissões. A exigência de registo retroativo desde janeiro de 2026 e a inscrição voluntária transitória podem também gerar registos incompletos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não indica montantes nem dotações orçamentais. A criação e manutenção da plataforma de registo pesquisável e a elaboração de relatórios anuais podem implicar custos operacionais para os serviços da Assembleia da República, cujo valor não está quantificado."
+ },
+ "affected": [
+  "deputados e grupos parlamentares",
+  "comissões e serviços da Assembleia da República",
+  "representantes de interesses legítimos",
+  "entidades privadas e associações"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "transparência",
+  "representação de interesses",
+  "pegada legislativa",
+  "assembleia da república",
+  "audiências parlamentares"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

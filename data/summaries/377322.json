@@ -1,0 +1,40 @@
+{
+ "short_title": "Aumento permanente das pensões com parte do suplemento extraordinário",
+ "summary": "O Projeto de Resolução n.º 1300/XVII/2.ª, apresentado pelo Bloco de Esquerda, recomenda ao Governo que transforme parte do suplemento extraordinário pago em dezembro num aumento permanente das pensões. Como se trata de um projeto de resolução, não tem força de lei nem vincula o executivo. A iniciativa propõe que a pensão base absorva, a partir de janeiro, pelo menos metade do valor desse suplemento avulso, que varia entre 100 e 200 euros consoante o montante da pensão. Este acréscimo definitivo deverá somar-se à atualização anual regular calculada com base na inflação e no crescimento económico. A medida recomendada abrange as pensões de invalidez, velhice e sobrevivência da Segurança Social, bem como as de aposentação, reforma e sobrevivência da Caixa Geral de Aposentações (CGA), prevendo a interconexão de dados entre ambas as entidades para operacionalizar o pagamento.",
+ "key_points": [
+  "Recomenda a integração permanente na pensão base de pelo menos metade do suplemento extraordinário pago em dezembro, cujo valor varia entre 100 e 200 euros.",
+  "Estabelece que este aumento entra em vigor a partir de janeiro e acresce à atualização anual regular prevista na lei.",
+  "Abrange as pensões de invalidez, velhice e sobrevivência da Segurança Social e as de aposentação, reforma e sobrevivência da Caixa Geral de Aposentações.",
+  "Prevê a interconexão de dados entre a Segurança Social e a Caixa Geral de Aposentações para transmitir a informação necessária à aplicação da medida."
+ ],
+ "plain_language": "Em vez de os pensionistas receberem apenas um bónus pontual no final do ano, o Bloco de Esquerda quer que o Governo passe parte desse valor para a pensão mensal de forma definitiva. Como o suplemento anunciado varia entre 100 e 200 euros, isto significaria aumentar permanentemente a pensão base em pelo menos 50 a 100 euros a partir de janeiro, mantendo também o aumento normal de início de ano. A proposta abrange reformados da Segurança Social e da Caixa Geral de Aposentações, mas, por ser uma recomendação, o Governo não é obrigado a aplicá-la.",
+ "context": "O Bloco de Esquerda justifica a iniciativa com a vulnerabilidade económica dos mais idosos, apontando baixos salários passados, carreiras precárias e o aumento do custo de vida, sobretudo na habitação e nos bens essenciais. Critica a opção do Governo PSD/CDS por suplementos extraordinários avulsos em dezembro, citando associações como a APRE e o MURPI, que os consideram insuficientes para travar a perda estrutural de poder de compra. Defende ainda que a valorização das pensões dinamiza o consumo interno e a coesão social.",
+ "analysis": "A proposta procura dar previsibilidade ao rendimento dos pensionistas ao transformar um pagamento pontual num aumento permanente, identificando os regimes abrangidos e prevendo a partilha de dados entre a Segurança Social e a CGA. Contudo, apresenta fragilidades importantes. Por ser um projeto de resolução, é uma recomendação não vinculativa. O texto também não quantifica o custo financeiro da medida nem aponta fontes de financiamento, embora a incorporação na pensão base crie uma despesa permanente que se acumula nos anos seguintes. Há ainda imprecisões técnicas: propõe incorporar «pelo menos metade» do suplemento sem definir a percentagem ou os escalões exatos, e o ponto 4 refere-se à «aplicação do presente artigo», uma formulação típica de projetos de lei e desadequada a uma resolução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A conversão de pelo menos metade de um suplemento pontual (entre 100 e 200 euros) num aumento definitivo da pensão base gera um acréscimo permanente da despesa da Segurança Social e da CGA, agravado pelas atualizações anuais futuras. O documento não apresenta estimativas do custo orçamental global."
+ },
+ "affected": [
+  "pensionistas da Segurança Social",
+  "pensionistas da Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "economia",
+  "familia"
+ ],
+ "tags": [
+  "pensões",
+  "suplemento extraordinário",
+  "segurança social",
+  "caixa geral de aposentações",
+  "poder de compra"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

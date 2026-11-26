@@ -1,0 +1,26 @@
+{
+ "short_title": "Mitigação e Controlo de Emissões do Transporte Marítimo",
+ "summary": "Esta proposta visa combater a poluição causada pelo transporte marítimo, que utiliza combustíveis altamente poluentes e tem um impacto significativo na saúde humana e no ambiente. O documento destaca que o transporte marítimo, apesar de ser responsável por grande parte do comércio mundial e do turismo de cruzeiros, não está abrangido pelo Acordo de Paris e beneficia de isenções fiscais sobre o combustível. A proposta recomenda ao Governo português a realização de estudos sobre os impactos da poluição marítima, o aumento da fiscalização e monitorização, a divulgação da qualidade do ar nos portos, o incentivo ao transporte ferroviário, a criação de uma Área de Controlo de Emissões na costa portuguesa, a intercessão junto das instituições europeias para uma tributação mais justa do setor, a proibição de navios manterem motores ligados nos portos e a implementação de medidas para o uso de combustíveis e tecnologias mais limpas.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento é uma chamada de atenção para a poluição brutal que os navios causam, seja de carga ou de cruzeiro. Eles usam combustíveis super sujos e, para piorar, não pagam impostos sobre isso, ao contrário dos carros. A proposta quer que o Governo português faça a sua parte para limpar o ar e a água, pedindo para se fazerem mais estudos sobre os estragos, fiscalizar melhor, e até proibir os navios de manterem os motores ligados nos portos, obrigando-os a ligarem-se à eletricidade da terra. Também querem que Portugal pressione a Europa para que os navios comecem a pagar impostos sobre o combustível e usem tecnologias mais limpas. É tudo para que o ar que respiramos e o nosso ambiente fiquem melhores.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada sobre o problema da poluição marítima, destacando a sua gravidade e as lacunas regulatórias e fiscais existentes. Não há inconsistências internas na argumentação. Os detalhes da implementação propostos alinham-se diretamente com o objetivo de mitigar e controlar as emissões. Por exemplo, a recomendação de criar uma Área de Controlo de Emissões na costa portuguesa e de proibir o funcionamento de motores nos portos (cold ironing) são medidas concretas que visam reduzir diretamente as emissões nos locais mais afetados. A sugestão de interceder por uma solução fiscal mais justa aborda a raiz do problema da falta de incentivos para a transição energética. A ênfase em estudos e monitorização garante que as futuras ações sejam baseadas em dados concretos. A proposta reconhece a complexidade do problema, que exige tanto ações nacionais quanto coordenação europeia e internacional, o que reforça a sua coerência e potencial eficácia.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta provavelmente aumentará os gastos do governo a curto prazo, devido à necessidade de financiar estudos, aumentar a fiscalização e monitorização, e potencialmente investir em infraestruturas para o fornecimento de eletricidade em portos (cold ironing) ou incentivos para o transporte ferroviário. No entanto, a proposta também sugere a intercessão junto das instituições europeias para uma solução fiscal mais justa para o setor dos transportes marítimos, o que implica a possibilidade de aumentar a receita do governo através da tributação dos combustíveis marítimos, que atualmente beneficiam de isenções. Se essa medida for implementada, poderá haver um aumento significativo da receita, potencialmente compensando os gastos e resultando num efeito líquido positivo ou neutro a médio e longo prazo, ao mesmo tempo que internaliza os custos ambientais e de saúde associados à poluição."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "saude",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

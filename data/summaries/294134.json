@@ -1,0 +1,26 @@
+{
+ "short_title": "Reestruturação do Controlo de Fronteiras e Migrações",
+ "summary": "Esta proposta visa reestruturar o sistema de controlo de fronteiras e a gestão de migrações em Portugal. Cria uma nova Unidade Nacional de Estrangeiros e Fronteiras (UNEF) na Polícia de Segurança Pública (PSP), transferindo-lhe competências operacionais essenciais relativas ao controlo de fronteiras aéreas, expulsão, readmissão e retorno de cidadãos estrangeiros, que antes estavam na Agência para a Integração, Migrações e Asilo (AIMA). A proposta também adapta a legislação portuguesa para implementar o Sistema de Entrada/Saída (SES) da União Europeia, um sistema informático automatizado para registar entradas e saídas de nacionais de países terceiros, visando aumentar a eficácia e a segurança nas fronteiras. Adicionalmente, harmoniza a validade das autorizações de residência para cidadãos da Comunidade dos Países de Língua Portuguesa (CPLP) com as concedidas a outros cidadãos não-UE.",
+ "key_points": [],
+ "plain_language": "Em termos simples, Portugal está a mudar a forma como gere as suas fronteiras e os estrangeiros. A Polícia (PSP) vai passar a ser a principal responsável por controlar quem entra e sai do país, especialmente nos aeroportos, e também por tratar dos processos de expulsão de quem está ilegal. Isto acontece porque a União Europeia tem novas regras, incluindo um sistema digital para registar todas as entradas e saídas, e Portugal tem de se adaptar. A ideia é tornar tudo mais rápido e seguro. Além disso, a proposta também garante que os cidadãos dos países de língua portuguesa (CPLP) tenham as mesmas condições para obter residência que os outros estrangeiros.",
+ "context": null,
+ "analysis": "A proposta demonstra consistência ao alinhar a criação da UNEF na PSP e as alterações legislativas com os objetivos de reforçar o controlo de fronteiras, agilizar os processos de retorno e adaptar-se às exigências europeias. A centralização das competências operacionais de fronteiras e afastamento na PSP pode, de facto, melhorar a coordenação e a eficiência. No entanto, a transferência de funções de um organismo com foco na integração (AIMA) para uma força policial (PSP) para aspetos como a expulsão e o retorno, embora justificada pela busca de celeridade e racionalização, pode gerar uma tensão entre a dimensão de segurança e a dimensão humanitária da gestão migratória. O documento, contudo, salvaguarda a manutenção das competências administrativas de regularização na AIMA e a garantia dos direitos fundamentais dos cidadãos, o que sugere uma tentativa de equilibrar estas vertentes. A implementação do SES é uma medida necessária para a conformidade com o direito da UE e para a segurança do Espaço Schengen.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta deverá implicar um aumento inicial dos gastos do governo. A criação da Unidade Nacional de Estrangeiros e Fronteiras (UNEF) na PSP exigirá investimentos em recursos humanos (recrutamento e formação), infraestruturas e equipamentos. A implementação do Sistema de Entrada/Saída (SES) da União Europeia, sendo um sistema informático automatizado, acarretará custos significativos de desenvolvimento, aquisição de tecnologia e manutenção. Embora uma gestão de fronteiras e de processos de retorno mais eficiente possa, a longo prazo, reduzir alguns custos associados à permanência irregular de estrangeiros, estes potenciais ganhos de eficiência não deverão compensar os avultados custos iniciais de reestruturação e investimento tecnológico. Não são explicitamente mencionadas fontes de aumento de receita governamental, pelo que o efeito líquido será, previsivelmente, um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "defesa",
+  "justica",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

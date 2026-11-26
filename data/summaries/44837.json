@@ -1,0 +1,26 @@
+{
+ "short_title": "Condicionar licenças de centrais de biomassa a padrões ambientais",
+ "summary": "Esta proposta recomenda que o Governo português apenas conceda licenças de exploração a novas centrais de biomassa se estas cumprirem rigorosos padrões ambientais e de sustentabilidade. O objetivo é assegurar que a produção de eletricidade a partir de biomassa, embora importante para a mitigação das alterações climáticas e gestão florestal, não resulte em poluição (ar e ruído) e que a biomassa utilizada seja de origem sustentável e rastreável, contribuindo efetivamente para a prevenção de incêndios florestais e a gestão do território.",
+ "key_points": [],
+ "plain_language": "A ideia é que o Governo só dê luz verde para as novas fábricas que queimam restos de madeira para fazer eletricidade se elas provarem que são mesmo amigas do ambiente e que ajudam a limpar as florestas para evitar incêndios. Chega de poluição e de usar madeira de qualquer lado! Querem que estas centrais sejam transparentes, mostrem de onde vem a madeira e que não façam barulho ou sujem o ar. É para garantir que o dinheiro público investido nestes projetos vale a pena e que eles cumprem o que prometem, em vez de só darem problemas.",
+ "context": null,
+ "analysis": "O documento expõe criticamente várias inconsistências entre os objetivos declarados das centrais de biomassa e a sua implementação prática. Primeiramente, apesar do seu papel estratégico, muitas centrais (especialmente as de menor potência) não estão sujeitas a avaliação de impacte ambiental obrigatória, resultando em problemas de poluição sonora e do ar, como evidenciado no caso do Fundão. Em segundo lugar, o próprio Roteiro para a Neutralidade Carbónica 2050 reconhece um 'trade-off' entre o aumento do consumo de biomassa e a qualidade do ar, agravado por exceções aos limites de emissão para biomassa sólida. Por fim, a ausência de um mecanismo de rastreabilidade da origem da biomassa florestal compromete a garantia de que estas centrais contribuem efetivamente para a gestão florestal e a redução do risco de incêndio. A proposta alinha os detalhes da implementação com o objetivo ao recomendar condições mais rigorosas para o licenciamento, monitorização ambiental obrigatória, um sistema de registo e rastreabilidade da biomassa, e relatórios semestrais, visando corrigir estas falhas e assegurar que os investimentos públicos gerem os benefícios ambientais e de segurança florestal prometidos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não prevê um aumento ou diminuição direta e substancial dos gastos ou receitas do governo. Contudo, ao exigir maior fiscalização, monitorização (com envolvimento do ICNF) e relatórios semestrais, haverá um ligeiro aumento nos custos administrativos para as entidades governamentais responsáveis. Por outro lado, ao garantir que as centrais de biomassa operam de forma mais sustentável e contribuem para a gestão florestal e prevenção de incêndios, a proposta visa otimizar o uso dos subsídios públicos já existentes, potencialmente reduzindo custos futuros associados a incêndios florestais e problemas de saúde pública decorrentes da poluição. O efeito líquido é, portanto, uma melhor alocação e eficácia do investimento público, com um possível aumento marginal nos custos de supervisão, mas com benefícios a longo prazo na redução de externalidades negativas."
+ },
+ "affected": [],
+ "categories": [
+  "energia",
+  "ambiente",
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

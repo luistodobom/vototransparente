@@ -1,0 +1,43 @@
+{
+ "short_title": "Redução automática do imposto sobre combustíveis em subidas do petróleo",
+ "summary": "Este Projeto de Resolução recomenda ao Governo, de forma não vinculativa, a criação por portaria de um mecanismo extraordinário, temporário e automático para reduzir o Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) nos combustíveis rodoviários quando o preço internacional do petróleo suba de forma acentuada. Segundo a proposta, o mecanismo é ativado quando a média semanal do barril de referência Brent ultrapasse os 100 dólares, aplicando uma redução inicial de 30% na taxa de ISP. Prevê-se uma escala progressiva de cortes (até 20% entre 90 e 100 dólares, 30% entre 100 e 120 dólares, e até 40% acima de 120 dólares) baseada na evolução contínua dos preços, bem como a reversão automática quando o Brent desça abaixo dos patamares definidos. A medida cessa automaticamente se o petróleo permanecer abaixo de 80 dólares por 30 dias seguidos e obriga à publicação mensal de dados no Portal das Finanças.",
+ "key_points": [
+  "Recomenda ao Governo a criação, por portaria conjunta das Finanças e da Energia, de um mecanismo automático e temporário para ajustar o ISP dos combustíveis rodoviários consoante o preço internacional do petróleo Brent.",
+  "Determina a ativação automática quando o preço médio semanal do Brent ultrapassar os 100 dólares por barril, com uma redução inicial de 30% na taxa de ISP.",
+  "Prevê uma escala progressiva de reduções do imposto: até 20% entre 90 e 100 dólares, 30% entre 100 e 120 dólares e até 40% acima dos 120 dólares por barril.",
+  "Estabelece a reversão automática dos descontos quando a cotação do Brent desça abaixo dos limiares e a extinção do mecanismo após 30 dias seguidos abaixo dos 80 dólares.",
+  "Exige a publicação mensal no Portal das Finanças do preço médio semanal do Brent, da taxa de câmbio, do nível de ativação, da taxa de ISP em vigor e da estimativa de impacto no preço ao consumidor."
+ ],
+ "plain_language": "Quando o preço do petróleo dispara lá fora, atestar o carro e transportar mercadorias fica logo mais caro. Como os impostos pesam muito no preço dos combustíveis, este projeto sugere ao Governo que crie uma regra automática: sempre que o barril de petróleo passar dos 100 dólares durante uma semana, o imposto sobre os combustíveis (ISP) baixa logo 30%, podendo chegar a 40% se o petróleo passar dos 120 dólares. Quando o petróleo baixar, o imposto volta automaticamente ao normal. Como é apenas uma recomendação do Parlamento, o Governo não é obrigado a aplicá-la.",
+ "context": "O LIVRE justifica a iniciativa com o choque energético causado por tensões geopolíticas no Médio Oriente e restrições no Estreito de Ormuz, que levaram o crude do Dubai acima dos 150 dólares por barril em março de 2026. Argumenta que Portugal, sendo importador líquido de energia, sofre aumentos rápidos nos combustíveis e na inflação geral. Citando dados do INE e da Fundação la Caixa, destaca que as famílias destinam 60% a 80% da despesa a bens essenciais e que 26,5% têm poupança negativa, criticando as respostas governamentais atuais por serem reativas, casuísticas e pouco previsíveis.",
+ "analysis": "A proposta tem o mérito de procurar maior previsibilidade, transparência e regras objetivas na fiscalidade energética, incluindo divulgação mensal de dados e cessação automática. Contudo, apresenta fragilidades técnicas e inconsistências. Primeiro, fixa a ativação acima dos 100 dólares com corte inicial de 30%, mas prevê um escalão entre 90 e 100 dólares (até 20%) sem clarificar se se aplica apenas na descida ou em subidas graduais. Segundo, os limiares estão definidos em dólares sem indexação ao câmbio euro-dólar, o que pode distorcer o efeito real em Portugal. Terceiro, invoca neutralidade orçamental, mas só prevê cortes de imposto sem mecanismos compensatórios. Por fim, sendo um Projeto de Resolução, não vincula o Governo, e o corte do ISP arrisca ser parcialmente absorvido por margens comerciais.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Por ser um Projeto de Resolução, não tem efeito orçamental direto imediato. Caso seja adotado pelo Governo, o mecanismo reduz a receita fiscal do ISP entre 20% e 40% durante os períodos em que o barril de Brent ultrapasse os limiares definidos, sem apresentar medidas de compensação financeira apesar de invocar neutralidade orçamental."
+ },
+ "affected": [
+  "condutores de veículos rodoviários",
+  "famílias",
+  "empresas de transporte e logística",
+  "distribuidoras de combustíveis"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "isp",
+  "combustíveis",
+  "petróleo",
+  "brent",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

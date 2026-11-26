@@ -1,0 +1,25 @@
+{
+ "short_title": "Isenção de Imposto de Selo para Habitação até 250 mil euros",
+ "summary": "Este projeto de lei, proposto pelo partido CHEGA, visa aliviar o peso financeiro na aquisição de habitação em Portugal. A proposta alarga a isenção do Imposto de Selo para a compra de imóveis com valor até 250.000 euros. Adicionalmente, isenta o Imposto de Selo sobre os juros de empréstimos destinados à aquisição, construção, reconstrução ou melhoramento de habitação própria permanente, ou de imóveis para serem colocados no mercado de arrendamento. O objetivo é reduzir os custos associados à compra de casa e facilitar o acesso à habitação, especialmente num contexto de preços elevados e salários baixos.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do CHEGA quer dar uma ajuda a quem quer comprar casa em Portugal. A ideia é que, se fores comprar uma casa que custe até 250 mil euros, não pagues o Imposto de Selo, que é um imposto que se paga quando se compra imóveis. Além disso, também não pagarias Imposto de Selo sobre os juros dos empréstimos que pedes para comprar, construir ou melhorar a tua casa, ou até para uma casa que vás pôr no mercado para alugar. O objetivo é que as casas fiquem mais baratas para quem quer comprar, especialmente para os jovens, já que os preços estão altíssimos e os salários baixos.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente a crise habitacional em Portugal, caracterizada por preços elevados, baixa capacidade de compra e um significativo peso fiscal. A medida de isenção do Imposto de Selo para imóveis até 250.000 euros e para juros de créditos à habitação alinha-se diretamente com o objetivo de reduzir os custos de aquisição e, assim, facilitar o acesso à habitação, em particular para os jovens e famílias com rendimentos mais baixos. No entanto, a proposta é uma solução parcial para um problema complexo. Embora alivie uma das componentes fiscais, não aborda diretamente outras questões cruciais mencionadas na exposição de motivos, como a falta de construção de novas habitações, a burocracia geral do processo de compra ou a necessidade de aumentar a oferta no mercado. A sua eficácia dependerá do impacto real da isenção do Imposto de Selo no custo total da habitação e se essa poupança será suficiente para impulsionar as decisões de compra, sem que os preços de mercado absorvam essa poupança. É uma medida de alívio fiscal, mas não uma estratégia abrangente para resolver a crise da habitação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta resultaria numa diminuição da receita do governo. Ao isentar o Imposto de Selo sobre a aquisição de imóveis até 250.000 euros e sobre os juros de empréstimos para habitação, o Estado deixaria de arrecadar os valores correspondentes a este imposto nessas transações. Embora o documento não forneça estimativas quantitativas, o efeito direto seria uma redução na receita fiscal. O impacto líquido seria uma diminuição dos gastos do cidadão na compra de casa, mas uma diminuição da receita do governo, resultando num efeito líquido de redução da receita pública."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

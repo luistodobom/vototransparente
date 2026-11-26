@@ -7,7 +7,7 @@ Source (official, HTML only - there is no open-data dataset for this):
           one row per MP in office that day: name (link Biografia.aspx?BID=<cadastre id>),
           party, "Presença/Falta" status and, for justified absences, "Motivo".
 
-Output: data/processed/attendance.json
+Output: data/scraped/attendance.json (committed, so CI never re-scrapes history)
   { "<LEG>": { "<YYYY-MM-DD>": { "meeting": "<n.º>", "type": "Ordinária", "bid": "<BID>",
       "n_deputies": 230, "n_present": 221,
       "absent": [{"id": "<DepCadId>", "name": ..., "party": ..., "status": "FJ",
@@ -16,7 +16,17 @@ Output: data/processed/attendance.json
 
 If two meetings fall on the same date, the later-listed one is stored under "<date>#2" etc.
 
-Run:  .venv/bin/python -m pipeline.fetch_attendance [--legs XVI XVII] [--refresh-days 45] [--offline]
+Incremental by default (works without the local HTML cache, e.g. in CI):
+  - closed legislatures (all but config.CURRENT_LEG) already present in the output are skipped entirely
+    (no listing, no detail pages);
+  - for the current legislature the meeting list is re-read, and detail pages are only fetched for meetings
+    that are new (BID not in the output yet) or newer than --refresh-days (justifications get filled in
+    later); every other meeting keeps its existing record.
+  --all re-lists every requested legislature and rebuilds every meeting (from the HTML cache when present).
+Detail pages that are downloaded are also saved to the HTML cache (data/raw/attendance/, gitignored;
+override with --cache-dir or $ATTENDANCE_CACHE).
+
+Run:  .venv/bin/python -m pipeline.fetch_attendance [--legs XVI XVII] [--refresh-days 45] [--all] [--offline]
 """
 from __future__ import annotations
 
@@ -34,12 +44,14 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from .config import LEGISLATURES, PROCESSED, RAW, USER_AGENT
+import os
+
+from .config import CURRENT_LEG, LEGISLATURES, RAW, SCRAPED, USER_AGENT
 
 LIST_URL = "https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx"
 DETAIL_URL = "https://www.parlamento.pt/DeputadoGP/Paginas/DetalheReuniaoPlenaria.aspx?BID={bid}"
-CACHE = RAW / "attendance"
-OUT = PROCESSED / "attendance.json"
+CACHE = Path(os.environ.get("ATTENDANCE_CACHE") or RAW / "attendance")
+OUT = SCRAPED / "attendance.json"
 DELAY = 0.5  # min seconds between request starts, across all threads (<= 2 req/s)
 WORKERS = 4  # concurrent detail-page downloads
 
@@ -218,65 +230,110 @@ def fetch_detail(leg: str, bid: str, mdate: str, refresh_days: int, offline: boo
 
 
 # ---------------------------------------------------------------- main
+def _record(mt: dict, deps: list[dict]) -> dict:
+    absent = [{k: d[k] for k in ("id", "name", "party", "status", "status_text", "reason")}
+              for d in deps if not is_present(d["status_text"])]
+    return {
+        "meeting": mt["meeting"],
+        "type": mt["type"],
+        "bid": mt["bid"],
+        "n_deputies": len(deps),
+        "n_present": len(deps) - len(absent),
+        "absent": absent,
+        "source": DETAIL_URL.format(bid=mt["bid"]),
+    }
+
+
+def update_leg(leg: str, old: dict, a) -> dict | None:
+    """Rebuild one legislature's records, reusing `old` ones where allowed. None = keep `old` as is."""
+    idx_path = CACHE / f"index_{leg}.json"
+    if a.offline:
+        if not idx_path.exists():
+            print(f"[{leg}] no cached index; keeping existing records")
+            return None
+        meetings = json.loads(idx_path.read_text())
+    else:
+        print(f"[{leg}] listing meetings…", flush=True)
+        meetings = list_meetings(leg)
+        idx_path.write_text(json.dumps(meetings, ensure_ascii=False, indent=1))
+    old_by_bid = {rec["bid"]: rec for rec in old.values()}
+    if len({m["bid"] for m in meetings} | set(old_by_bid)) > len(meetings):
+        missing = sorted(set(old_by_bid) - {m["bid"] for m in meetings})
+        print(f"[{leg}] WARNING listing lacks {len(missing)} known meetings (e.g. BID {missing[:5]}); "
+              f"keeping existing records", file=sys.stderr)
+        return None
+    cutoff = (date.today() - timedelta(days=a.refresh_days)).isoformat()
+    todo = [mt for mt in meetings if a.all or mt["bid"] not in old_by_bid or mt["date"] >= cutoff]
+    print(f"[{leg}] {len(meetings)} meetings; fetching {len(todo)} detail pages "
+          f"({len(meetings) - len(todo)} kept from {OUT.name})…", flush=True)
+    done = [0]
+
+    def job(mt):
+        try:
+            html = fetch_detail(leg, mt["bid"], mt["date"], a.refresh_days, a.offline)
+        except Exception as e:  # pragma: no cover - network
+            print(f"  ! BID={mt['bid']} ({mt['date']}): {e}", file=sys.stderr)
+            html = None
+        done[0] += 1
+        if done[0] % 25 == 0:
+            print(f"  {done[0]}/{len(todo)}", flush=True)
+        return html
+
+    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        fetched = dict(zip((mt["bid"] for mt in todo), ex.map(job, todo)))
+
+    legout: dict = {}
+    statuses: Counter = Counter()
+    for mt in meetings:
+        html = fetched.get(mt["bid"])
+        if html is not None:
+            deps = parse_detail(html)
+            statuses.update(d["status_text"] for d in deps)
+            rec = _record(mt, deps)
+        elif mt["bid"] in old_by_bid:  # unchanged (or failed to refresh): keep what we had
+            prev = old_by_bid[mt["bid"]]
+            rec = {**prev, "meeting": mt["meeting"], "type": mt["type"]}
+        else:  # new meeting whose page could not be fetched: try again next run
+            continue
+        key, n = mt["date"], 2
+        while key in legout:
+            key = f"{mt['date']}#{n}"
+            n += 1
+        legout[key] = rec
+    empty = sum(1 for v in legout.values() if v["n_deputies"] == 0)
+    n_abs = sum(len(v["absent"]) for v in legout.values())
+    dates = sorted(k[:10] for k in legout)
+    print(f"[{leg}] meetings={len(legout)} (no attendance rows: {empty}) absences={n_abs} "
+          f"range={dates[0] if dates else '-'}..{dates[-1] if dates else '-'}")
+    if statuses:
+        print(f"[{leg}] statuses (fetched pages): {dict(statuses.most_common())}")
+    return legout
+
+
 def main(argv=None):
+    global CACHE
     p = argparse.ArgumentParser()
     p.add_argument("--legs", nargs="*", default=LEGISLATURES)
     p.add_argument("--refresh-days", type=int, default=45,
                    help="re-download detail pages of meetings newer than this (justifications get filled in later)")
+    p.add_argument("--all", action="store_true",
+                   help="also re-list closed legislatures and rebuild every meeting (uses the HTML cache when present)")
     p.add_argument("--offline", action="store_true", help="use cached index + detail pages only")
+    p.add_argument("--cache-dir", type=Path, help=f"HTML cache directory (default {CACHE})")
     a = p.parse_args(argv)
+    if a.cache_dir:
+        CACHE = a.cache_dir
     CACHE.mkdir(parents=True, exist_ok=True)
 
     result = json.loads(OUT.read_text()) if OUT.exists() else {}
     for leg in a.legs:
-        idx_path = CACHE / f"index_{leg}.json"
-        if a.offline:
-            meetings = json.loads(idx_path.read_text())
-        else:
-            print(f"[{leg}] listing meetings…", flush=True)
-            meetings = list_meetings(leg)
-            idx_path.write_text(json.dumps(meetings, ensure_ascii=False, indent=1))
-        print(f"[{leg}] {len(meetings)} meetings; fetching details…", flush=True)
-        legout: dict = {}
-        statuses: Counter = Counter()
-        done = [0]
-
-        def job(mt):
-            html = fetch_detail(leg, mt["bid"], mt["date"], a.refresh_days, a.offline)
-            done[0] += 1
-            if done[0] % 25 == 0:
-                print(f"  {done[0]}/{len(meetings)}", flush=True)
-            return html
-
-        with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-            htmls = list(ex.map(job, meetings))
-        for mt, html in zip(meetings, htmls):
-            if html is None:
-                continue
-            deps = parse_detail(html)
-            statuses.update(d["status_text"] for d in deps)
-            absent = [{k: d[k] for k in ("id", "name", "party", "status", "status_text", "reason")}
-                      for d in deps if not is_present(d["status_text"])]
-            key, n = mt["date"], 2
-            while key in legout:
-                key = f"{mt['date']}#{n}"
-                n += 1
-            legout[key] = {
-                "meeting": mt["meeting"],
-                "type": mt["type"],
-                "bid": mt["bid"],
-                "n_deputies": len(deps),
-                "n_present": len(deps) - len(absent),
-                "absent": absent,
-                "source": DETAIL_URL.format(bid=mt["bid"]),
-            }
-        result[leg] = legout
-        empty = sum(1 for v in legout.values() if v["n_deputies"] == 0)
-        n_abs = sum(len(v["absent"]) for v in legout.values())
-        dates = sorted(k[:10] for k in legout)
-        print(f"[{leg}] meetings={len(legout)} (no attendance rows: {empty}) absences={n_abs} "
-              f"range={dates[0] if dates else '-'}..{dates[-1] if dates else '-'}")
-        print(f"[{leg}] statuses: {dict(statuses.most_common())}")
+        old = result.get(leg) or {}
+        if leg != CURRENT_LEG and old and not a.all:
+            print(f"[{leg}] closed legislature already in {OUT.name} ({len(old)} meetings); skipping")
+            continue
+        legout = update_leg(leg, old, a)
+        if legout is not None:
+            result[leg] = legout
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=1, sort_keys=True))
     print(f"wrote {OUT}")
 

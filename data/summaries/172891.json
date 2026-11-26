@@ -1,0 +1,25 @@
+{
+ "short_title": "Alívio da taxa de esforço no crédito à habitação",
+ "summary": "Esta proposta visa aliviar a carga financeira das famílias portuguesas que enfrentam o aumento das prestações dos seus créditos à habitação, devido à subida das taxas de juro. A medida principal sugere que, se a taxa de referência (Euribor) exceder os 2,5%, o valor em excesso seja convertido num \"valor residual\" que pode ir até 5% do montante inicial do empréstimo. Este valor residual poderá ser pago mais tarde, sem penalizações, proporcionando um alívio imediato na prestação mensal.",
+ "key_points": [],
+ "plain_language": "Então, a ideia desta proposta é dar uma ajuda às famílias portuguesas que estão a apertar o cinto por causa dos empréstimos da casa. Com os juros a subir, a prestação fica caríssima. O que se propõe é que, se a taxa de juro (a tal Euribor) passar dos 2,5%, o que exceder esse valor não é pago logo. Em vez disso, essa 'diferença' vira uma espécie de dívida extra, que pode ir até 5% do valor inicial do empréstimo, e que se paga mais tarde, sem multas. Assim, as pessoas pagam menos agora e ganham um fôlego, mas ficam com uma parte para saldar no futuro.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente o problema da \"asfixia\" financeira das famílias causada pelo aumento dos custos da habitação, em particular das prestações do crédito. Ao introduzir um teto para a taxa de juro imediata e diferir o excedente para um valor residual, oferece um alívio financeiro a curto prazo, alinhando-se com o seu objetivo de mitigar os efeitos do incremento dos indexantes. Contudo, esta medida, embora proporcione um fôlego imediato, adia uma parte da dívida, o que pode resultar num aumento do montante total a pagar ao longo da vida do empréstimo, caso o valor residual não seja amortizado antecipadamente. A proposta argumenta que o esforço deve ser \"solidário e equitativo\", sugerindo que a banca também deve contribuir, tal como os portugueses a apoiaram no passado. A implementação exige que as instituições financeiras apresentem calendários de amortização ajustados e informem sobre o direito à amortização antecipada sem penalização, o que é crucial para a transparência e proteção do consumidor. No entanto, as implicações a longo prazo da acumulação de dívida residual para as famílias merecem uma análise cuidadosa.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta tem um impacto direto principalmente no setor privado, afetando as famílias com crédito à habitação e as instituições financeiras (bancos). Não prevê um aumento ou diminuição direta das despesas ou receitas do governo. O objetivo é aliviar a pressão financeira sobre as famílias, o que poderá, indiretamente, reduzir a necessidade de apoios sociais ou prevenir um aumento de incumprimentos que poderiam, a longo prazo, exigir intervenção governamental no sistema financeiro. Contudo, estes são efeitos indiretos e o impacto fiscal direto no orçamento do Estado é considerado negligenciável."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

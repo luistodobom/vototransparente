@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforma dos tribunais administrativos e fiscais e arbitragem tributária",
+ "summary": "A proposta de lei do Governo altera o Estatuto dos Tribunais Administrativos e Fiscais, o Código de Procedimento e de Processo Tributário e o regime da arbitragem tributária. No essencial, reforça os poderes de gestão do Conselho Superior dos Tribunais Administrativos e Fiscais, aproximando as suas regras às da jurisdição comum e às recomendações anticorrupção do Conselho da Europa (GRECO). O diploma cria juízos especializados em imigração e proteção internacional, regula a reafetação de juízes e processos mediante concordância dos magistrados e reformula o quadro complementar de juízes e os serviços de inspeção judicial, criando a figura do inspetor coordenador. Define ainda novas regras sobre domicílio necessário, dever de cooperação dos juízes e prazos de contencioso eleitoral interno. Por fim, altera a competência territorial para impugnar decisões arbitrais tributárias, atribuindo-a ao Tribunal Central Administrativo do domicílio ou sede do requerente.",
+ "key_points": [
+  "Cria o juízo especializado de imigração e proteção internacional para julgar processos relativos a entrada, permanência, afastamento de estrangeiros, asilo e proteção temporária.",
+  "Alarga as competências do Conselho Superior dos Tribunais Administrativos e Fiscais, incluindo a fixação de objetivos processuais, controlo de declarações de rendimentos dos juízes e aceleração de processos atrasados.",
+  "Permite a reafetação de juízes do quadro complementar, a redistribuição de processos e a acumulação de funções dentro da mesma zona geográfica, mediante concordância dos juízes envolvidos.",
+  "Reformula o serviço de inspeção judicial, exigindo procedimento prévio de seleção para inspetores em comissão de três anos e criando o cargo de inspetor coordenador.",
+  "Atribui a competência para anular ou impugnar decisões da arbitragem tributária ao Tribunal Central Administrativo da área do domicílio ou sede do requerente."
+ ],
+ "plain_language": "Esta proposta do Governo muda várias regras de funcionamento dos tribunais que julgam litígios com o Estado e questões de impostos. Passam a existir tribunais especializados apenas para processos de imigração e asilo, o que pretende acelerar essas decisões. O órgão que gere estes juízes ganha mais ferramentas para distribuir processos equilibradamente, destacar juízes de reserva para tribunais com atrasos e fiscalizar as declarações de rendimentos dos magistrados. Além disso, quem quiser contestar uma decisão da arbitragem fiscal passa a fazê-lo no Tribunal Central Administrativo da sua área de residência ou sede, em vez de depender apenas da localização do tribunal arbitral.",
+ "context": "O Governo justifica esta reforma com o crescimento da jurisdição administrativa e fiscal e a necessidade de tornar a gestão dos tribunais mais célere e eficaz. Aponta ainda a conveniência de alinhar estas regras com o Estatuto dos Magistrados Judiciais e com as recomendações do Grupo de Estados contra a Corrupção (GRECO), reforçando a transparência e a integridade. A criação de juízos especializados em imigração e asilo visa dar resposta às exigências atuais e cumprir o Pacto Europeu em matéria de Migração e Asilo, enquanto a alteração na arbitragem procura repartir o trabalho entre tribunais superiores.",
+ "analysis": "Como pontos positivos, a proposta esclarece competências de gestão e inspeção, reforça o controlo patrimonial dos juízes em linha com o GRECO e descentraliza os recursos da arbitragem tributária consoante o domicílio do requerente, aliviando potencialmente tribunais mais congestionados. A exigência de concordância do juiz para reafetações ou acumulação de funções protege a independência judicial. Contudo, o diploma apresenta fragilidades práticas: exige vários regulamentos futuros a aprovar pelo conselho superior, o que pode atrasar a execução, e não apresenta estimativa de impacto orçamental nem previsão de recursos humanos para instalar os novos juízos de imigração e asilo. A eficácia real dependerá da capacidade de recrutamento e da disponibilidade de juízes no quadro complementar.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O documento não apresenta estimativas financeiras nem valores orçamentais. No entanto, prevê encargos adicionais decorrentes da criação de juízos especializados, do cargo de inspetor coordenador, do pagamento de ajudas de custo a juízes do quadro complementar destacados fora da sede e da equiparação salarial de juízes de direito inspetores ao vencimento de juiz desembargador."
+ },
+ "affected": [
+  "juízes dos tribunais administrativos e fiscais",
+  "requerentes de asilo e cidadãos estrangeiros",
+  "contribuintes e partes em arbitragem tributária",
+  "oficiais de justiça e administradores judiciários"
+ ],
+ "categories": [
+  "justica",
+  "imigracao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "tribunais administrativos",
+  "arbitragem tributária",
+  "imigração e asilo",
+  "magistratura",
+  "gestão judicial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargamento do prazo de comunicação de faturas à Autoridade Tributária",
+ "summary": "O Projeto de Lei n.º 78/XVII/1.ª, apresentado pelo grupo parlamentar do Chega, propõe alterar o Decreto-Lei n.º 198/2012, de 24 de agosto, para alargar o prazo de comunicação dos elementos das faturas à Autoridade Tributária e Aduaneira. Atualmente, os sujeitos passivos, ou seja, os contribuintes obrigados por lei a esta comunicação, devem fazê-la até ao dia 5 do mês seguinte ao da emissão dos documentos. A iniciativa altera a redação do n.º 2 do artigo 3.º daquele diploma, passando a data-limite para o dia 7 do mês seguinte. Segundo a exposição de motivos, a medida abrange a comunicação efetuada quer por meios informáticos quer por via manual, visando dar mais dois dias aos contribuintes e aos seus contabilistas. Caso seja aprovada, a lei entra em vigor no dia seguinte ao da sua publicação.",
+ "key_points": [
+  "Altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, relativo à comunicação de faturas à Autoridade Tributária e Aduaneira.",
+  "Alarga o prazo mensal de comunicação dos elementos das faturas do dia 5 para o dia 7 do mês seguinte ao da sua emissão.",
+  "Mantém inalteradas todas as restantes disposições do artigo 3.º do referido decreto-lei.",
+  "Determina a entrada em vigor da alteração legislativa no dia seguinte ao da sua publicação."
+ ],
+ "plain_language": "Hoje em dia, quem emite faturas tem de enviar esses dados às Finanças até ao dia 5 do mês seguinte. Como os primeiros dias do mês incluem muitas vezes fins de semana ou feriados, empresas e contabilistas ficam com poucos dias úteis para tratar dessa entrega. Este projeto de lei propõe mudar a data-limite do dia 5 para o dia 7 do mês seguinte. Assim, quem comunica as faturas, seja através de programas informáticos ou manualmente, ganha mais dois dias de calendário para cumprir esta obrigação mensal, sem alterar as restantes regras sobre o que tem de ser comunicado.",
+ "context": "O proponente justifica a medida com a Agenda para a Simplificação Fiscal, aprovada em Conselho de Ministros a 16 de janeiro de 2025, que visa reduzir custos de contexto, melhorar a transparência e harmonizar prazos declarativos. Argumenta que o prazo atual, até ao dia 5, deixa por vezes poucos dias úteis disponíveis a empresas e contabilistas devido a fins de semana e feriados, propondo o dia 7 para assegurar cinco dias úteis efetivos.",
+ "analysis": "A proposta é objetiva, simples de legislar e responde a uma dificuldade operacional real de contabilistas e empresas no início de cada mês. Contudo, apresenta uma inconsistência entre a exposição de motivos e o articulado: o preâmbulo refere o objetivo de garantir efetivamente cinco dias úteis, mas a norma fixa um dia de calendário, o dia 7. Em meses que combinem um fim de semana com um feriado nos primeiros sete dias, continuarão a existir apenas quatro dias úteis. Além disso, o texto prevê entrada em vigor imediata no dia seguinte à publicação e não analisa eventuais impactos desta alteração noutros prazos do calendário fiscal ou nos sistemas da Autoridade Tributária.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa apenas prolonga em dois dias o prazo mensal para comunicar faturas à Autoridade Tributária, sem alterar taxas, isenções ou criar nova despesa pública. O documento não apresenta estimativas de impacto orçamental ou custos administrativos."
+ },
+ "affected": [
+  "sujeitos passivos obrigados a comunicar faturas",
+  "contabilistas",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "faturas",
+  "comunicação de faturas",
+  "autoridade tributária",
+  "prazos fiscais",
+  "contabilistas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

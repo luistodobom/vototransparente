@@ -1,0 +1,25 @@
+{
+ "short_title": "Atualização semanal do ISP para neutralizar IVA dos combustíveis",
+ "summary": "A proposta do PSD visa criar um mecanismo obrigatório de atualização semanal do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) para gasolina e gasóleo. O objetivo é que as variações na receita do IVA, resultantes das flutuações semanais dos preços dos combustíveis, sejam repercutidas no ISP. Isto impede que o Estado obtenha ganhos adicionais (enriquecimento) devido ao aumento dos preços dos combustíveis e, consequentemente, do IVA cobrado. A proposta também exige que o Governo envie um relatório mensal ao Parlamento, detalhando o impacto das alterações de preços na receita do IVA e nas taxas do ISP, promovendo a transparência na gestão fiscal dos combustíveis.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o PSD quer que o governo mude o imposto sobre a gasolina e o gasóleo (o ISP) todas as semanas. A ideia é que, se o preço dos combustíveis subir e o governo começar a ganhar mais dinheiro com o IVA (que é um imposto sobre o preço), então o ISP deve baixar para compensar. Assim, o governo não ganha mais dinheiro à custa dos aumentos de preços. E para que tudo seja claro, o governo teria de enviar um relatório mensal ao parlamento a explicar estas contas. É uma forma de garantir que os impostos sobre os combustíveis são mais justos e transparentes para os cidadãos.",
+ "context": null,
+ "analysis": "O documento, na sua essência, é uma crítica do PSD à gestão governamental das taxas sobre os combustíveis. A proposta aborda diretamente as inconsistências apontadas, como a falta de um mecanismo de ajuste automático e a opacidade na gestão das receitas. Ao propor uma atualização semanal obrigatória do ISP para neutralizar a receita adicional de IVA, a proposta alinha-se com o objetivo de garantir a neutralidade fiscal e evitar que o Estado beneficie dos aumentos de preços. A exigência de relatórios mensais ao Parlamento visa combater a alegada falta de transparência, assegurando que os detalhes da implementação (ajustes do ISP e impacto no IVA) sejam publicamente escrutinados. A proposta é, portanto, uma resposta direta às falhas percebidas na política fiscal de combustíveis do Governo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta visa neutralizar o 'enriquecimento' do Estado decorrente do aumento da receita de IVA quando os preços dos combustíveis sobem. Isso significa que, em períodos de subida de preços, o ISP seria reduzido para compensar o IVA adicional cobrado, resultando numa diminuição da receita governamental que de outra forma ocorreria. Em termos líquidos, a proposta tenderia a diminuir a receita do governo em cenários de aumento de preços, ao mesmo tempo que aliviaria a carga fiscal sobre os consumidores. Não implicaria um aumento direto nos gastos do governo, mas sim uma limitação ou potencial diminuição da receita proveniente dos impostos sobre os combustíveis."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Financiamento estatal para bombeiros profissionais municipais",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que crie um mecanismo permanente de financiamento estatal para os municípios que dispõem de corpos de bombeiros profissionais da administração local. A iniciativa pede que a proposta seja apresentada na preparação do próximo Orçamento do Estado e que as verbas sejam transferidas diretamente para as autarquias beneficiárias. Recomenda também que este financiamento seja adicional aos fundos gerais municipais e distinto dos apoios dados às associações humanitárias de bombeiros. A repartição deve seguir critérios objetivos, transparentes e verificáveis, incluindo a população servida, a área territorial, o risco, o efetivo profissional, a atividade operacional e as exigências de prontidão permanente. Por fim, propõe a articulação com a Lei das Finanças Locais e com o regime de descentralização, bem como a auscultação da Associação Nacional de Municípios Portugueses, dos sindicatos e da Autoridade Nacional de Emergência e Proteção Civil.",
+ "key_points": [
+  "Recomendar ao Governo a apresentação, no próximo Orçamento do Estado, de um mecanismo permanente de financiamento para municípios com bombeiros profissionais.",
+  "Garantir que as transferências sejam diretas para os municípios, adicionais aos fundos gerais autárquicos e distintas dos apoios às associações humanitárias.",
+  "Definir critérios de repartição objetivos e verificáveis, como a população servida, área territorial, risco, efetivo profissional, atividade operacional e prontidão.",
+  "Articular o novo financiamento com a Lei das Finanças Locais e com o regime jurídico da transferência de competências para as autarquias.",
+  "Ouvir a Associação Nacional de Municípios Portugueses, as associações sindicais representativas e a Autoridade Nacional de Emergência e Proteção Civil."
+ ],
+ "plain_language": "Esta iniciativa é uma recomendação ao Governo, sem força obrigatória, para criar um apoio financeiro permanente para os bombeiros profissionais que dependem das câmaras municipais. Atualmente, os municípios suportam custos elevados e constantes com pessoal, equipamentos e funcionamento contínuo, sem uma verba estatal dedicada a essa responsabilidade. O proponente pede que o próximo Orçamento do Estado inclua dinheiro próprio para estas autarquias, distribuído segundo regras claras como a população abrangida ou o nível de risco. Esta verba seria separada tanto do financiamento geral das câmaras como dos apoios atribuídos às associações humanitárias de bombeiros.",
+ "context": "O proponente afirma que a proteção e o socorro são funções essenciais que geram custos estáveis e elevados para os municípios com corpos de bombeiros profissionais, nomeadamente em pessoal, formação, equipamentos, instalações e prontidão contínua. Argumenta que o atual financiamento autárquico não reflete de forma autónoma, previsível e proporcional esse esforço, distinguindo esta situação do regime aplicável às associações humanitárias de bombeiros. Enquadra a necessidade de um mecanismo permanente no financiamento das competências municipais de proteção civil, à luz da Lei das Finanças Locais e da descentralização administrativa.",
+ "analysis": "Como ponto forte, a iniciativa identifica uma distinção relevante entre os encargos com corpos de bombeiros profissionais municipais e o apoio às associações humanitárias, defendendo critérios objetivos, transparentes e verificáveis para a distribuição de verbas. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa e limita-se a recomendar uma solução ao Governo, sem criar efeitos práticos imediatos. Do ponto de vista técnico, o texto apresenta fragilidades por não quantificar o impacto orçamental necessário, não definir a ponderação entre os vários critérios sugeridos nem esclarecer se o mecanismo exige alterações legislativas prévias à Lei das Finanças Locais, remetendo toda a concretização financeira e normativa para o Executivo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um projeto de resolução, o texto não cria diretamente despesa nem obriga o Governo a atuar. Contudo, a medida recomendada prevê financiamento estatal adicional aos fundos municipais existentes, o que aumentaria a despesa pública se fosse aplicada, não constando quaisquer montantes do documento."
+ },
+ "affected": [
+  "municípios com bombeiros profissionais",
+  "bombeiros profissionais municipais",
+  "população servida por estes corpos"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "bombeiros profissionais",
+  "proteção civil",
+  "finanças locais",
+  "orçamento do estado",
+  "municípios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

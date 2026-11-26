@@ -1,0 +1,26 @@
+{
+ "short_title": "Recomendação para Combater a Pobreza Energética",
+ "summary": "Esta proposta, apresentada pelo Grupo Parlamentar Os Verdes, aborda o problema da pobreza energética em Portugal. Explica que, apesar de medidas como a tarifa social, muitos portugueses ainda não conseguem aquecer as suas casas adequadamente devido aos baixos rendimentos e aos altos custos da energia, agravados pela má qualidade das habitações. O documento destaca os impactos negativos da pobreza energética na saúde, bem-estar, educação e até na mortalidade, especialmente em períodos de frio intenso. Propõe um conjunto de medidas para combater esta situação, incluindo o apoio à eficiência energética em habitações sociais e de famílias carenciadas, a reabilitação do parque habitacional social, a criação de serviços domésticos de apoio, e o aumento dos apoios na fatura de energia para famílias e idosos abrangidos pela tarifa social, bem como a garantia de climatização em escolas e edifícios públicos.",
+ "key_points": [],
+ "plain_language": "Basicamente, este documento dos Verdes diz que muita gente em Portugal não consegue ter a casa quentinha no inverno porque não tem dinheiro para pagar a luz e o gás, e as casas também não ajudam, são frias e gastam muita energia. Isto faz mal à saúde, à escola das crianças e ao bem-estar geral. Por isso, eles propõem que o governo ajude a arranjar as casas mais antigas para gastarem menos energia, dê mais descontos na conta da luz e do gás, especialmente aos idosos e a quem já tem tarifa social, e que garanta que as escolas e outros edifícios públicos tenham aquecimento.",
+ "context": null,
+ "analysis": "O documento apresenta uma análise consistente e bem fundamentada do problema da pobreza energética em Portugal. Começa por contextualizar o conceito e a sua evolução, apontando as falhas do mercado liberalizado e o impacto do aumento do IVA na energia como fatores agravantes. A argumentação é lógica, ligando os baixos rendimentos e a má qualidade habitacional aos custos crescentes da energia e aos seus impactos sociais e de saúde. As medidas propostas (apoio à eficiência energética via PRR, reabilitação de habitação social, serviços domésticos, aumento de apoios na fatura, climatização de edifícios públicos) alinham-se diretamente com os problemas identificados, visando reduzir os custos para os consumidores vulneráveis e melhorar as condições de habitabilidade. Não se detetam inconsistências internas; pelo contrário, a proposta é uma resposta direta e abrangente aos desafios levantados, reforçando a necessidade de uma abordagem integrada que combine políticas sociais e melhorias na eficiência energética.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta implica um aumento significativo dos gastos do governo. As medidas incluem a criação de um programa de apoio à eficiência energética (provavelmente com fundos do PRR, mas que ainda assim representam despesa pública), a reabilitação do parque habitacional social, o estabelecimento de serviços domésticos de apoio (que podem ser subsidiados ou geridos por autarquias com apoio central), e o aumento dos apoios diretos na fatura de eletricidade e gás para famílias e idosos (reduções de 25% e 75%). Além disso, a garantia de climatização em escolas e edifícios públicos implicará custos adicionais com energia e eventuais intervenções. Não são mencionadas fontes de receita adicionais. O efeito líquido será um aumento da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

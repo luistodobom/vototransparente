@@ -1,0 +1,26 @@
+{
+ "short_title": "Avaliação Ambiental Estratégica para Mineração de Lítio",
+ "summary": "A proposta, apresentada pela Deputada Joacine Katar Moreira, defende a urgência de uma Avaliação Ambiental Estratégica (AAE) nacional para a mineração, com foco nos projetos de lítio. Argumenta que a transição energética baseada na extração intensiva de minerais não é sustentável, causa danos ambientais e sociais irreversíveis, e que os custos reais da mineração (externalidades) não são devidamente considerados. Propõe uma estratégia pós-extrativista que inclua a internalização de custos, reciclagem de baterias e mineração urbana, bem como a criação de comissões de acompanhamento com participação local.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta diz que não faz sentido andarmos a escavar Portugal para tirar lítio, porque isso estraga o ambiente, a nossa água e a vida das pessoas, e nem sequer é assim tão bom negócio. A deputada Joacine Katar Moreira quer que o governo pare para pensar bem nisto, faça estudos sérios sobre os estragos que a mineração pode causar e obrigue as empresas a pagar por todos os custos que agora ficam para o Estado e para nós. Em vez de só tirar, devíamos apostar em reciclar as baterias e usar o que já temos nas cidades. É uma chamada de atenção para não trocarmos um problema (combustíveis fósseis) por outro (mineração destrutiva).",
+ "context": null,
+ "analysis": "O documento apresenta uma análise crítica coerente e bem fundamentada sobre a exploração de lítio em Portugal. Não há inconsistências internas; pelo contrário, a proposta alinha-se diretamente com os problemas identificados. A argumentação é construída sobre a premissa de que a mineração de lítio, tal como planeada, é insustentável ambiental, social e economicamente. Os detalhes da implementação, como a exigência de AAEs nacionais e regionais, a internalização de custos e a promoção de uma economia circular (reciclagem, mineração urbana), são medidas diretas para abordar as falhas apontadas no modelo extrativista atual. A proposta sublinha que a exploração de lítio em Portugal é dispendiosa e de baixa rentabilidade face a outros países, e que os benefícios ambientais da transição para veículos elétricos são questionáveis se a produção de lítio for tão destrutiva.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta sugere que a mineração, tal como está, impõe \"externalidades\" (custos ambientais e sociais) ao Estado e às comunidades, o que implica um aumento dos gastos públicos para mitigar esses danos. Ao propor a internalização desses custos pelas empresas e a aplicação de impostos sobre o setor extrativista, a proposta visa transferir a carga financeira para os promotores da mineração, o que, a longo prazo, tenderia a diminuir os gastos do governo com a reparação de danos e potencialmente aumentar as receitas através de impostos. O efeito líquido seria uma diminuição dos gastos públicos e um aumento das receitas, resultando num impacto fiscal positivo para o Estado, embora possa haver custos iniciais para a implementação das AAEs e das novas estruturas de acompanhamento."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "economia",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

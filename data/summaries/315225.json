@@ -1,0 +1,26 @@
+{
+ "short_title": "Alteração à Dedução de Juros de Crédito Habitação no IRS",
+ "summary": "Esta proposta visa alterar o Código do IRS para permitir que mais famílias possam deduzir os juros dos seus empréstimos para habitação própria e permanente. Atualmente, essa dedução só é possível para contratos celebrados até 2011. A proposta pretende eliminar essa limitação temporal e atualizar o valor máximo dedutível, como forma de aliviar a pressão financeira sobre as famílias devido ao aumento dos preços da habitação e das taxas de juro.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer dar uma ajuda às famílias que estão a sofrer com os empréstimos da casa. Como os preços das casas e os juros subiram muito, a ideia é que as pessoas possam descontar mais juros no IRS, sem aquela regra antiga de só poderem fazê-lo se o empréstimo fosse de antes de 2012. Assim, sobra mais dinheiro ao fim do mês para quem tem crédito à habitação.",
+ "context": null,
+ "analysis": "A proposta identifica corretamente o problema do aumento dos custos da habitação e das taxas de juro, que têm colocado uma pressão significativa sobre as famílias portuguesas com crédito à habitação. A solução proposta, de alargar e atualizar a dedução de juros no IRS, alinha-se com o objetivo de proporcionar um alívio financeiro imediato a estas famílias. No entanto, o próprio documento reconhece uma inconsistência fundamental: \"propostas de natureza fiscal não terão a capacidade de alterar as condições estruturais de desigualdade e empobrecimento relacionadas com o acesso à habitação. Não resolvendo a crise em curso, nem permitindo o acesso a uma casa por parte de quem hoje está impedido de o fazer\". Isto significa que, embora a medida possa mitigar os efeitos imediatos, os proponentes admitem que ela não resolve as causas profundas da crise habitacional nem garante o acesso à habitação para todos.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao alargar a elegibilidade e potencialmente aumentar o valor da dedução de juros de crédito à habitação no IRS, resultará numa diminuição da receita do governo proveniente do Imposto sobre o Rendimento das Pessoas Singulares. Não há indicação de que aumente diretamente os gastos do governo. O efeito líquido será uma diminuição da receita fiscal do governo."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-07-08",
+  "legacy": true
+ }
+}

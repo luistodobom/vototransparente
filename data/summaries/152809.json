@@ -1,0 +1,25 @@
+{
+ "short_title": "Escolha de Regime Contributivo para Advogados e Solicitadores",
+ "summary": "Esta proposta de lei permite que advogados, solicitadores e agentes de execução escolham entre o regime contributivo da Caixa de Previdência dos Advogados e Solicitadores (CPAS) ou o regime geral da Segurança Social. Além disso, revoga a competência da Segurança Social para iniciar processos de execução de dívidas à CPAS, transferindo essa responsabilidade para os tribunais judiciais. O objetivo é melhorar a proteção social destes profissionais, que a CPAS tem demonstrado ser insuficiente, especialmente em situações de doença, parentalidade ou perda de rendimentos.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer dar aos advogados e outros profissionais do direito a liberdade de escolherem onde querem descontar para a reforma e para terem apoio em caso de doença ou parentalidade: ou continuam na Caixa deles (CPAS), que tem tido problemas, ou passam para a Segurança Social, como a maioria das pessoas. Além disso, a Segurança Social deixa de ter poder para cobrar as dívidas à Caixa dos advogados, porque isso não faz muito sentido, já que são entidades separadas.",
+ "context": null,
+ "analysis": "A proposta aborda uma inconsistência fundamental na proteção social de advogados, solicitadores e agentes de execução, que atualmente estão vinculados a um sistema (CPAS) com reconhecidas limitações de sustentabilidade e cobertura social. A \"Exposição de motivos\" detalha como a CPAS não oferece proteção adequada em situações como doença ou parentalidade, e como a crise da COVID-19 expôs ainda mais essas falhas. A possibilidade de escolha entre a CPAS e a Segurança Social alinha-se diretamente com o objetivo de fortalecer a proteção social, permitindo que os profissionais optem por um regime que considerem mais robusto e abrangente. A revogação da competência da Segurança Social para cobrar dívidas da CPAS também é lógica, uma vez que a CPAS não faz parte do Instituto da Segurança Social e as suas contribuições não têm natureza tributária, tornando a intervenção da Segurança Social nesse processo desadequada.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "É provável que esta proposta aumente as responsabilidades de despesa do governo através do sistema da Segurança Social, uma vez que mais profissionais poderão optar por este regime, beneficiando das suas prestações (doença, parentalidade, reforma). Contudo, também aumentará a receita da Segurança Social através das contribuições desses profissionais. O efeito líquido é incerto, pois dependerá do número de profissionais que transitem e do equilíbrio entre as suas novas contribuições e os benefícios que venham a receber. No entanto, a proposta visa mais uma redistribuição de encargos e responsabilidades do que uma alteração substancial no volume total de despesa pública, embora possa implicar um aumento da despesa da Segurança Social em particular."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho",
+  "justica"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

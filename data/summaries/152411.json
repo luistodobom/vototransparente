@@ -1,0 +1,25 @@
+{
+ "short_title": "Novo Certificado para Baixas Médicas Recorrentes e Intermitentes",
+ "summary": "Esta proposta de lei visa criar um novo tipo de certificado médico para trabalhadores que sofrem de doenças que causam incapacidade para o trabalho de forma recorrente e intermitente. O objetivo é proteger estes trabalhadores da perda significativa de rendimentos, uma vez que o regime atual de subsídio de doença só começa a pagar após três dias de ausência, o que penaliza quem tem muitas ausências curtas. Com este certificado, o trabalhador só teria de cumprir um período de espera para o subsídio de doença uma única vez durante a validade do certificado, em vez de em cada episódio de doença.",
+ "key_points": [],
+ "plain_language": "Basicamente, a ideia é ajudar as pessoas que ficam doentes muitas vezes, mas por poucos dias de cada vez. Hoje em dia, se ficas doente, só recebes o subsídio de doença a partir do quarto dia. Se tens uma doença que te faz faltar dois ou três dias por mês, acabas por perder muito dinheiro ao fim do ano porque nunca chegas a receber o subsídio. Esta proposta quer criar um 'cartão' especial para essas pessoas, para que só tenham de esperar os primeiros três dias uma única vez por ano. Assim, nas faltas seguintes, o subsídio começa a ser pago logo, sem mais esperas, evitando que percam tanto dinheiro.",
+ "context": null,
+ "analysis": "A proposta aborda uma lacuna clara no regime atual de subsídio de doença, que não está adaptado a patologias com episódios de incapacidade curtos, mas frequentes. A inconsistência reside na forma como o sistema atual penaliza financeiramente os trabalhadores com estas condições, ao exigir repetidamente o período de espera de três dias. A solução proposta, a criação de um certificado de incapacidade recorrente e intermitente, alinha-se diretamente com o objetivo de mitigar essa perda de rendimentos. Ao permitir que o período de espera seja cumprido apenas uma vez por ano (ou durante a validade do certificado), a proposta garante que os detalhes da implementação resolvem o problema central de forma eficaz, protegendo os rendimentos dos trabalhadores afetados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo através do sistema de Segurança Social. Ao eliminar a necessidade de múltiplos períodos de espera para o subsídio de doença para os trabalhadores com o novo certificado, o Estado passará a pagar subsídios de doença mais cedo e por mais dias do que no regime atual para este grupo. Não há um impacto direto na receita do governo. O efeito líquido será um aumento das despesas da Segurança Social, o que poderá exigir um maior financiamento ou pressionar o equilíbrio financeiro do sistema."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

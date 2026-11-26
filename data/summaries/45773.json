@@ -1,0 +1,25 @@
+{
+ "short_title": "Adaptação das regras de acesso ao APOIAR para restaurantes",
+ "summary": "Esta proposta visa adaptar as regras de acesso à medida de apoio APOIAR, criada para ajudar empresas afetadas pela pandemia. O problema identificado é que restaurantes que usam plataformas de entrega (delivery) veem a sua faturação artificialmente inflacionada pelas taxas e comissões dessas plataformas, o que os impede de aceder aos apoios, pois a sua quebra de faturação real é mascarada. A proposta recomenda ao Governo que altere as regras para considerar a faturação real das empresas e crie um sistema, nomeadamente no portal e-fatura, que permita desconsiderar valores que não correspondem à atividade produtiva ou a serviços prestados pelas empresas.",
+ "key_points": [],
+ "plain_language": "Basicamente, durante a pandemia, o governo criou um apoio para restaurantes que perderam mais de 25% da faturação. Mas muitos restaurantes que começaram a usar serviços de entrega (tipo Uber Eats ou Glovo) viram a sua faturação parecer maior do que era na realidade, por causa das taxas que pagavam a essas plataformas. Isso fazia com que não conseguissem o apoio, mesmo estando a perder dinheiro a sério. Esta proposta é para o governo mudar as regras e criar um sistema no e-fatura para que só conte o dinheiro que o restaurante realmente ganha, sem as taxas das plataformas, para que quem precisa do apoio o possa receber e não feche as portas.",
+ "context": null,
+ "analysis": "A proposta identifica uma inconsistência clara na aplicação da medida APOIAR: a forma como a faturação é calculada não reflete a realidade económica de empresas que se adaptaram à pandemia através de serviços de entrega. Ao incluir as taxas e comissões das plataformas de delivery na faturação bruta, muitas empresas, especialmente restaurantes, parecem ter uma quebra de faturação inferior ao limite de 25% exigido para aceder aos apoios, quando na verdade a sua quebra real é superior. A solução proposta – adaptar as regras para considerar a faturação real e criar um mecanismo no e-fatura para desconsiderar valores não produtivos – alinha-se diretamente com o objetivo de corrigir esta injustiça e garantir que os apoios cheguem a quem realmente precisa, evitando o encerramento de negócios e a perda de empregos. A implementação de um sistema no e-fatura é uma forma prática e centralizada de resolver o problema.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, se implementada, provavelmente aumentará os gastos do governo. Ao adaptar as regras da medida APOIAR para considerar a faturação real das empresas, mais negócios que antes eram excluídos devido à faturação artificialmente inflacionada poderão qualificar-se para receber apoio financeiro. Isso significa que o governo terá de desembolsar mais fundos para a medida APOIAR. Não há indicação de que a proposta aumente a receita do governo. O efeito líquido será um aumento nos gastos públicos."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

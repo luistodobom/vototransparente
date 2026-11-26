@@ -1,0 +1,43 @@
+{
+ "short_title": "Piloto de Centros de Parto Normal e continuidade na gravidez no SNS",
+ "summary": "O Projeto de Resolução n.º 1244/XVII/2.ª recomenda ao Governo a criação de um modelo integrado de continuidade de cuidados para mulheres com gravidez de baixo risco nas Unidades Locais de Saúde, articulando cuidados primários e hospitalares na gravidez, parto e puerpério. Recomenda igualmente um projeto-piloto de Centros de Parto Normal, instalados dentro de hospitais do SNS e integrados nos serviços de obstetrícia com resposta cirúrgica, anestésica e neonatal. A iniciativa pede critérios nacionais de elegibilidade e transferência clínica, protocolos obrigatórios com o projeto de vigilância por enfermeiros especialistas previsto no Despacho n.º 1572/2026 e com o INEM, além de indicadores nacionais de segurança. Por fim, propõe uma avaliação independente dos resultados clínicos e da utilização de recursos antes de qualquer alargamento. Por ser um projeto de resolução, não tem força vinculativa.",
+ "key_points": [
+  "Desenvolver nas Unidades Locais de Saúde um modelo integrado de cuidados para gravidezes de baixo risco entre os cuidados primários e hospitalares.",
+  "Implementar um projeto-piloto de Centros de Parto Normal no interior de hospitais do SNS, integrados nos serviços de obstetrícia com capacidade de resposta diferenciada.",
+  "Definir critérios nacionais de elegibilidade, exclusão, reavaliação de risco e transferência imediata sempre que a situação clínica se altere.",
+  "Articular o modelo com o projeto de vigilância da gravidez de baixo risco do Despacho n.º 1572/2026, com os serviços hospitalares e com o INEM.",
+  "Criar protocolos obrigatórios e indicadores nacionais de monitorização sobre segurança materna e neonatal, transferências, intervenções obstétricas e experiência das utentes.",
+  "Submeter o projeto-piloto a uma avaliação independente que condicione qualquer eventual alargamento a outras unidades do SNS."
+ ],
+ "plain_language": "Este documento é uma recomendação ao Governo, sem força de lei, para melhorar o acompanhamento das grávidas saudáveis no SNS. A ideia é ligar melhor o centro de saúde e o hospital, para que a mulher tenha seguimento contínuo desde a gravidez até ao pós-parto. Propõe ainda testar Centros de Parto Normal dentro de hospitais equipados, dedicados a partos de baixo risco, mas com equipa médica e bloco operatório por perto caso surja alguma complicação. Antes de alargar a ideia a todo o país, pede-se que o teste seja avaliado de forma independente.",
+ "context": "O proponente aponta dificuldades persistentes nas urgências obstétricas do SNS, que levaram à concentração de partos em hospitais mais diferenciados e à criação de projetos experimentais de vigilância de baixo risco nos cuidados primários. Defende que essa concentração exige manter a proximidade e ligar a vigilância da gravidez ao parto e puerpério. Invoca ainda recomendações internacionais sobre modelos de continuidade de cuidados e uma proposta técnica da Ordem dos Enfermeiros sobre Centros de Parto Normal.",
+ "analysis": "A iniciativa destaca-se pela prudência clínica: exige que o projeto-piloto decorra dentro de hospitais com resposta cirúrgica e neonatal completa, impõe critérios objetivos de transferência e condiciona o alargamento a uma avaliação independente. Também acerta ao articular o seguimento nos cuidados primários com o parto hospitalar. Contudo, tratando-se de uma recomendação não vinculativa, não define prazos, orçamento nem o número de hospitais envolvidos. Embora se apoie numa proposta da Ordem dos Enfermeiros, o texto deixa em aberto o modelo concreto de liderança e dotação de equipas nestas unidades, remetendo potenciais conflitos de competências entre profissões para regulamentação futura. A sua execução depende ainda de recursos humanos num setor já pressionado pela falta de profissionais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A implementação de projetos-piloto, sistemas de monitorização e avaliação independente implica custos operacionais e organizativos, embora o modelo também vise libertar capacidade hospitalar diferenciada. Por ser uma recomendação não vinculativa e não apresentar estimativas orçamentais nem dimensão do piloto, o impacto financeiro é incerto."
+ },
+ "affected": [
+  "grávidas de baixo risco",
+  "profissionais de saúde materna e obstétrica",
+  "Unidades Locais de Saúde",
+  "serviços hospitalares de obstetrícia e neonatologia"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "obstetrícia",
+  "gravidez de baixo risco",
+  "centros de parto normal",
+  "serviço nacional de saúde",
+  "cuidados de saúde primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

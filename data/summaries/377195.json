@@ -1,0 +1,41 @@
+{
+ "short_title": "Aumento intercalar mínimo de 50 euros nas reformas e pensões em 2026",
+ "summary": "O Projeto de Resolução n.º 1236/XVII/2.ª, apresentado pelo Grupo Parlamentar do PCP, propõe que a Assembleia da República recomende ao Governo um aumento intercalar das reformas e pensões no ano de 2026. A medida prevê um acréscimo mínimo de 50 euros por mês para todos os pensionistas, com efeitos retroativos a 1 de julho de 2026. De acordo com a exposição de motivos, este reforço aplica-se às pensões da Segurança Social e da Caixa Geral de Aposentações, correspondendo a 300 euros adicionais até ao final do ano e integrando o valor base da pensão para efeitos da atualização anual de janeiro de 2027. Por se tratar de um projeto de resolução, a eventual aprovação constitui uma recomendação política ao Executivo, não sendo vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo um aumento intercalar de todas as pensões e reformas no valor mínimo de 50 euros mensais por pensionista.",
+  "Determina que o aumento produza efeitos retroativos a 1 de julho de 2026, somando pelo menos 300 euros até ao final do ano.",
+  "Estabelece que o acréscimo consolida no montante global da pensão, passando a integrar a base de cálculo para a atualização de janeiro de 2027.",
+  "Abrange a universalidade dos pensionistas, em alternativa a suplementos extraordinários pontuais que não se incorporam nas pensões futuras."
+ ],
+ "plain_language": "O PCP quer que o Parlamento peça ao Governo para aumentar todas as reformas e pensões ainda em 2026, dando pelo menos mais 50 euros por mês a cada pensionista. A ideia é que esse aumento conte desde 1 de julho, o que daria pelo menos 300 euros adicionais até dezembro. Ao contrário de bónus pagos uma só vez, este dinheiro ficaria integrado para sempre na pensão e contaria para os aumentos dos anos seguintes. Como é um projeto de resolução, mesmo que seja aprovado, funciona apenas como uma recomendação e o Governo não é obrigado a aplicá-lo.",
+ "context": "O proponente justifica a iniciativa com a perda de poder de compra dos reformados face ao aumento do custo de vida, nomeadamente na alimentação, energia, medicamentos e habitação. Segundo o documento, cerca de metade dos reformados recebe menos de 500 euros mensais e a média das pensões situa-se abaixo do limiar da pobreza. O partido considera insuficientes tanto a fórmula legal de atualização anual como os suplementos pontuais adotados por anteriores governos, defendendo que o excedente da Segurança Social permite financiar um aumento permanente.",
+ "analysis": "A proposta define de forma clara o montante mínimo e a data de produção de efeitos, distinguindo-se de apoios pontuais ao consolidar o aumento na pensão base. Contudo, apresenta fragilidades relevantes. Por ser um projeto de resolução, não tem força vinculativa para obrigar o Governo à execução orçamental. Além disso, apesar de a exposição de motivos enfatizar a pobreza nas pensões mais baixas, a recomendação abrange todos os pensionistas sem limite de rendimento nem critérios de progressividade para valores acima dos 50 euros. Do ponto de vista financeiro, o texto estima um custo até mil milhões de euros em 2026 com base no excedente quadrimestral da Segurança Social, mas omite o encargo permanente nos orçamentos futuros resultante da consolidação na base de 2027 e não detalha o impacto específico na Caixa Geral de Aposentações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Caso seja adotada pelo Governo, a medida aumenta a despesa pública permanente com pensões, com um impacto estimado pelo proponente que não ultrapassa os 1 000 milhões de euros em 2026 (cerca de 300 euros por pensionista até ao final do ano). O documento refere que o excedente da Segurança Social no primeiro quadrimestre do ano corrente foi de 4 415,8 milhões de euros e que a consolidação na base da pensão influenciará também as atualizações a partir de 2027."
+ },
+ "affected": [
+  "reformados",
+  "pensionistas da Segurança Social",
+  "pensionistas da Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "reformas",
+  "segurança social",
+  "poder de compra",
+  "aumento intercalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

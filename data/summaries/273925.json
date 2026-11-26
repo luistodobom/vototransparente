@@ -1,0 +1,24 @@
+{
+ "short_title": "Redução do Limiar de Isenção Fiscal para Empresas",
+ "summary": "Esta proposta de lei visa alterar o Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC) para reduzir o limiar mínimo de participação exigido para que as empresas beneficiem do regime de eliminação da dupla tributação económica de lucros e reservas distribuídos, conhecido como regime de 'participation exemption'. Atualmente, o requisito é de 10% de participação no capital social ou nos direitos de voto, e a proposta pretende baixá-lo para 5%. O objetivo é atrair mais investimento, modernizar o sistema fiscal português e promover o crescimento económico, alinhando-se também com diretivas da União Europeia.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o governo quer facilitar a vida às empresas para que não paguem impostos duas vezes sobre os mesmos lucros. Atualmente, para ter este benefício fiscal, uma empresa precisa de ter pelo menos 10% de outra. A ideia é baixar esse mínimo para 5%. Assim, mais empresas podem aproveitar esta isenção, o que se espera que atraia mais dinheiro para Portugal e ajude a nossa economia a crescer, tornando o país mais competitivo para os negócios.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a limitação identificada no regime atual, onde o requisito de 10% de participação é visto como um entrave ao investimento. Ao reduzir este limiar para 5%, a medida alarga o universo de empresas que podem beneficiar da isenção de dupla tributação, o que é consistente com o objetivo declarado de atrair investimento e potenciar o crescimento económico. A menção à Diretiva n.º 2011/96/UE do Conselho reforça a coerência da proposta com as normas fiscais europeias, indicando uma harmonização que pode aumentar a competitividade do sistema fiscal português. Não se identificam inconsistências no documento, e os detalhes da implementação (alteração dos artigos 14.º e 51.º do Código do IRC) alinham-se perfeitamente com o objetivo de flexibilizar o acesso ao regime de 'participation exemption'.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, ao alargar o acesso a uma isenção fiscal, resultará numa diminuição da receita do governo proveniente do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), uma vez que menos lucros e mais-valias serão duplamente tributados. Não há indicação de que a proposta aumente os gastos do governo. O efeito líquido esperado é uma diminuição da receita fiscal, embora o governo espere que esta medida estimule o investimento e o crescimento económico, o que, a longo prazo, poderá compensar a perda de receita através de uma base tributável mais ampla ou de outros impostos."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

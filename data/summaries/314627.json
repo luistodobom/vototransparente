@@ -1,0 +1,24 @@
+{
+ "short_title": "Proteção de detentores de créditos não produtivos",
+ "summary": "Esta proposta do PAN recomenda ao Governo a criação de dois mecanismos para proteger os cidadãos que têm créditos malparados (NPLs) que são vendidos a outras entidades. Primeiro, sugere um mecanismo de renegociação obrigatória da dívida se o consumidor não foi informado da venda do seu crédito. Segundo, propõe a criação de uma sociedade de gestão de ativos nacional que teria preferência na compra de NPLs portugueses e funcionaria como um registo central para todas as vendas de créditos, aumentando a transparência e protegendo os devedores.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PAN quer que o Governo crie duas coisas para ajudar as pessoas que têm dívidas ao banco e que, de repente, veem a sua dívida vendida a outra empresa sem saberem. Primeiro, querem que seja obrigatório renegociar a dívida se a pessoa não foi avisada da venda. Segundo, querem criar uma empresa pública que compre estas dívidas e que sirva de \"cartório\" para todas as vendas de dívidas, para que tudo seja mais claro e as pessoas não fiquem à mercê de empresas que cobram de forma agressiva.",
+ "context": null,
+ "analysis": "O documento identifica claramente um problema de vulnerabilidade dos consumidores quando os seus créditos são vendidos a terceiros sem informação adequada, levando à perda de proteções e dificuldades na renegociação. As soluções propostas alinham-se diretamente com o objetivo de mitigar estas questões: o mecanismo de renegociação obrigatória aborda a falta de informação e a dificuldade em renegociar, enquanto a sociedade de gestão de ativos nacional visa trazer mais transparência ao mercado de NPLs e garantir que os devedores não fiquem desprotegidos. A proposta baseia-se na Diretiva (UE) 2021/2167, mostrando uma preocupação em alinhar a legislação nacional com as diretrizes europeias, mas indo além para reforçar a proteção do consumidor. Não se detetam inconsistências internas; os detalhes da implementação propostos são uma resposta direta aos problemas levantados.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A criação de um mecanismo de renegociação obrigatória poderá ter um impacto fiscal mínimo, talvez exigindo alguns recursos para supervisão regulatória. No entanto, a criação de uma sociedade de gestão de ativos nacional implicaria um aumento nos gastos do governo para a sua constituição e operação. Embora esta sociedade possa gerar receita a longo prazo através da gestão e venda de ativos, os custos iniciais de implementação e manutenção seriam uma despesa. O efeito líquido inicial seria provavelmente um aumento dos gastos do governo, com potencial para retorno futuro, mas sem garantia de cobrir os custos iniciais."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

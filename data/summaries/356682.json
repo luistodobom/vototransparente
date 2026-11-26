@@ -1,0 +1,41 @@
+{
+ "short_title": "Acompanhamento de doentes com demência ou instabilidade psicológica",
+ "summary": "O Projeto de Resolução n.º 915/XVII/1.ª, apresentado pelo PCP, recomenda ao Governo a adoção de medidas para assegurar o direito ao acompanhamento e a segurança dos doentes com demência ou em situação psicologicamente instável nos serviços de saúde. Tratando-se de um projeto de resolução, o texto constitui uma recomendação não vinculativa para o Governo. Em concreto, propõe que sejam tomadas medidas para garantir o direito ao acompanhamento dos utentes e emitidas normas procedimentais uniformes para todas as unidades de saúde, visando prevenir saídas não autorizadas e definir como atuar quando estas ocorram. Recomenda igualmente o reforço da capacidade financeira e tecnológica das unidades de saúde para controlar essas saídas, bem como o reforço dos recursos humanos, nomeadamente vigilantes e enfermeiros.",
+ "key_points": [
+  "Adotar medidas para garantir o direito ao acompanhamento dos utentes nos serviços de saúde.",
+  "Emitir normas de procedimento comuns a todas as unidades de saúde para prevenir saídas não autorizadas e definir a resposta caso aconteçam.",
+  "Reforçar as capacidades financeiras e tecnológicas das unidades de saúde para controlar as saídas não autorizadas.",
+  "Reforçar os recursos humanos nas unidades de saúde, em particular vigilantes e enfermeiros, para garantir maior segurança e acompanhamento aos utentes."
+ ],
+ "plain_language": "Esta iniciativa é uma recomendação ao Governo, sem força obrigatória, para evitar que pessoas com demência ou psicologicamente instáveis fiquem sem acompanhante ou saiam sem autorização dos hospitais e urgências. O PCP pede que seja garantido o direito ao acompanhamento previsto na lei e que existam regras iguais em todas as unidades de saúde para prevenir fugas e saber como agir se acontecerem. Pede também mais dinheiro, meios tecnológicos para vigiar saídas e a contratação de mais enfermeiros e vigilantes para proteger estes doentes.",
+ "context": "O PCP aponta o registo de 420 queixas na Entidade Reguladora da Saúde, num período de cerca de três anos, sobre saídas indevidas de doentes psicologicamente instáveis e proibições de acompanhantes nas urgências, referindo ainda 355 queixas até abril de 2025. O partido associa estas ocorrências à pressão sobre os serviços de saúde e afirma que, apesar de ter sido aprovada no Orçamento do Estado de 2026 uma proposta sua para dotar as unidades de meios, ainda não foram aplicadas medidas transversais em todo o sistema.",
+ "analysis": "Por ser um projeto de resolução, a iniciativa não vincula o Governo nem fixa prazos ou verbas específicas para a sua execução. Tem o mérito de abordar um risco concreto de segurança dos utentes e de articular regras de procedimento, tecnologia e reforço de pessoal, em vez de depender apenas de equipamentos eletrónicos como as pulseiras de alarme já usadas nalgumas unidades. Como fragilidades, a comparação apresentada entre as 420 queixas em cerca de três anos e as 355 até abril de 2025 não precisa os períodos de referência exatos para sustentar a tendência crescente invocada, e o texto é genérico quanto ao impacto orçamental e à compatibilização entre o controlo de saídas e a sobrecarga das urgências.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Sendo uma recomendação não vinculativa, o projeto de resolução não gera despesa imediata por si só. Contudo, a sua concretização pelo Governo implica aumento de despesa pública para reforçar as dotações financeiras, os meios tecnológicos e os quadros de vigilantes e enfermeiros das unidades de saúde, não constando montantes do documento."
+ },
+ "affected": [
+  "doentes com demência ou instabilidade psicológica",
+  "acompanhantes de utentes",
+  "unidades de saúde e serviços de urgência",
+  "enfermeiros e vigilantes"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "saúde",
+  "urgências hospitalares",
+  "demência",
+  "direito ao acompanhamento",
+  "segurança dos utentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

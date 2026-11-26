@@ -1,0 +1,42 @@
+{
+ "short_title": "Reposicionamento na carreira docente por ultrapassagens salariais",
+ "summary": "Este projeto de lei, de iniciativa cidadã, visa corrigir desigualdades na carreira dos professores do ensino público básico e secundário que ingressaram antes de 1 de janeiro de 2011. A proposta determina o reposicionamento retroativo e compensatório dos docentes ultrapassados por colegas com menos tempo de serviço, em resultado da Portaria n.º 119/2018. Estabelece igualmente a garantia de não ultrapassagem, impedindo que um docente com mais antiguidade e igual avaliação de desempenho aufira remuneração inferior à de outro com menos serviço. O Ministério da Educação disporá de 180 dias para reavaliar e corrigir os posicionamentos, com efeitos retroativos a 1 de janeiro de 2018. Os professores poderão requerer revisão individual junto da Direção-Geral dos Estabelecimentos Escolares, prevendo-se o pagamento faseado dos retroativos e a entrada em vigor no Orçamento do Estado seguinte.",
+ "key_points": [
+  "Aplica-se aos docentes do ensino público básico e secundário que ingressaram antes de 1 de janeiro de 2011 e foram ultrapassados por colegas com menos antiguidade.",
+  "Determina o reposicionamento retroativo e compensatório dos professores prejudicados pela Portaria n.º 119/2018, reconhecendo o tempo de serviço prestado antes e após o congelamento.",
+  "Proíbe que qualquer docente com mais tempo de serviço e igual avaliação de desempenho receba menos do que um colega com menos tempo de serviço.",
+  "Fixa um prazo de 180 dias para o Ministério da Educação reavaliar as carreiras, com efeitos retroativos a 1 de janeiro de 2018, permitindo pedidos de revisão individual junto da DGEstE.",
+  "Prevê que os pagamentos retroativos possam ser faseados através de decreto regulamentar a aprovar em 90 dias, entrando a lei em vigor com o Orçamento do Estado posterior à publicação."
+ ],
+ "plain_language": "Imagina que trabalhas há mais tempo do que um colega, tens a mesma avaliação, mas acabas por receber um salário mais baixo por causa de mudanças nas regras de progressão. Esta proposta de cidadãos quer acabar com essa situação nas escolas públicas. Se for aprovada, o Governo terá de recalcular a posição na carreira dos professores que entraram antes de 2011 e que ficaram atrás de colegas mais novos. Os salários e escalões serão ajustados como se o tempo de serviço tivesse contado por igual, com acertos pagos desde 2018, possivelmente às prestações.",
+ "context": "Os cidadãos proponentes argumentam que sucessivas alterações legais, em particular a Portaria n.º 119/2018, criaram regras diferenciadas para docentes que ingressaram entre 2011 e 2017, originando uma discriminação inversa contra professores mais antigos. Segundo o preâmbulo, estas situações em que docentes com mais tempo de serviço recebem menos do que colegas com menos antiguidade violam princípios da Constituição da República Portuguesa, como a igualdade, o salário igual para trabalho igual e a proteção da confiança, bem como a Carta dos Direitos Fundamentais da União Europeia.",
+ "analysis": "A iniciativa procura resolver um problema concreto de equidade interna na carreira docente e remete a sua entrada em vigor para o Orçamento do Estado seguinte, procurando acautelar o limite constitucional ao aumento de despesa no ano corrente. Contudo, apresenta fragilidades técnicas e financeiras relevantes. O texto não quantifica o número de professores abrangidos nem apresenta qualquer estimativa de custos, apesar de impor retroativos desde 2018. Além disso, não fixa limites temporais para o pagamento faseado dos retroativos em decreto regulamentar nem detalha como comparar avaliações de desempenho em percursos distintos. A formulação ampla sobre o reconhecimento do tempo prestado antes e após o congelamento pode também gerar dúvidas jurídicas face às normas de recuperação parcial já existentes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A medida aumenta a despesa pública ao obrigar ao reposicionamento salarial de docentes em escalões superiores e ao pagamento de valores retroativos desde 1 de janeiro de 2018. O documento não indica montantes nem estimativas orçamentais, prevendo apenas que a execução ocorra por dotação orçamental e com eventual pagamento faseado."
+ },
+ "affected": [
+  "docentes do ensino público básico e secundário",
+  "Direção-Geral dos Estabelecimentos Escolares",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "carreira docente",
+  "reposicionamento salarial",
+  "tempo de serviço",
+  "portaria 119/2018",
+  "ensino público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

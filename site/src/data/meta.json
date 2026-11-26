@@ -116,107 +116,107 @@
  "categories": {
   "saude": {
    "label": "Saúde",
-   "count": 1
+   "count": 1293
   },
   "educacao": {
    "label": "Educação",
-   "count": 1
+   "count": 747
   },
   "habitacao": {
    "label": "Habitação",
-   "count": 0
+   "count": 602
   },
   "economia": {
    "label": "Economia e Finanças",
-   "count": 0
+   "count": 1670
   },
   "fiscalidade": {
    "label": "Impostos",
-   "count": 0
+   "count": 51
   },
   "trabalho": {
    "label": "Trabalho e Segurança Social",
-   "count": 1
+   "count": 1260
   },
   "justica": {
    "label": "Justiça",
-   "count": 1
+   "count": 1055
   },
   "seguranca": {
    "label": "Segurança e Proteção Civil",
-   "count": 0
+   "count": 46
   },
   "defesa": {
    "label": "Defesa",
-   "count": 0
+   "count": 150
   },
   "ambiente": {
    "label": "Ambiente e Clima",
-   "count": 2
+   "count": 716
   },
   "energia": {
    "label": "Energia",
-   "count": 1
+   "count": 237
   },
   "agricultura": {
    "label": "Agricultura, Pescas e Mar",
-   "count": 0
+   "count": 19
   },
   "transportes": {
    "label": "Transportes e Infraestruturas",
-   "count": 1
+   "count": 360
   },
   "cultura": {
    "label": "Cultura e Património",
-   "count": 0
+   "count": 14
   },
   "desporto": {
    "label": "Desporto e Juventude",
-   "count": 0
+   "count": 10
   },
   "ciencia": {
    "label": "Ciência, Tecnologia e Digital",
-   "count": 0
+   "count": 240
   },
   "administracao": {
    "label": "Administração Pública e Estado",
-   "count": 0
+   "count": 84
   },
   "instituicoes": {
    "label": "Instituições, Constituição e Eleições",
-   "count": 0
+   "count": 42
   },
   "internacional": {
    "label": "Assuntos Europeus e Internacionais",
-   "count": 0
+   "count": 360
   },
   "direitos": {
    "label": "Direitos, Liberdades e Igualdade",
-   "count": 1
+   "count": 72
   },
   "imigracao": {
    "label": "Imigração",
-   "count": 0
+   "count": 18
   },
   "territorio": {
    "label": "Regiões, Autarquias e Território",
-   "count": 0
+   "count": 52
   },
   "animais": {
    "label": "Animais",
-   "count": 0
+   "count": 24
   },
   "comunicacao": {
    "label": "Comunicação Social",
-   "count": 0
+   "count": 18
   },
   "familia": {
    "label": "Família e Ação Social",
-   "count": 0
+   "count": 85
   },
   "consumidores": {
    "label": "Consumidores e Concorrência",
-   "count": 0
+   "count": 32
   }
  },
  "types": {
@@ -260,7 +260,7 @@
  "stats": {
   "initiatives": 6236,
   "votes": 9976,
-  "summarized": 3,
+  "summarized": 4392,
   "byStatus": {
    "aprovado": 2785,
    "rejeitado": 3269,
@@ -274,7 +274,7 @@
   }
  },
  "sources": {
-  "generated": "2026-11-25T22:54Z",
+  "generated": "2026-11-26T00:03Z",
   "files": [
    {
     "label": "Iniciativas — XIV Legislatura (dados abertos)",
@@ -351,12 +351,12 @@
    {
     "label": "Registo de presenças nas reuniões plenárias (625 reuniões)",
     "page": "https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx",
-    "file": "attendance/",
-    "retrieved": "2026-11-25T22:48Z",
-    "bytes": 195647638,
-    "sha256": null
+    "file": "attendance.json",
+    "retrieved": "2026-11-25T23:49Z",
+    "bytes": 2034604,
+    "sha256": "75803c1854880292f4b3afbb97684babb77ce1e7cd402b76a6f66f3f43ab29f3"
    }
   ],
-  "summaries": 3
+  "summaries": 4392
  }
 }

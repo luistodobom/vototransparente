@@ -1,0 +1,44 @@
+{
+ "short_title": "Registo de Agressores de Animais e publicidade de condenações",
+ "summary": "O Projeto de Lei n.º 702/XVII/1.ª, apresentado pelo PAN, propõe alterar o Código Penal, a Lei da Identificação Criminal e três diplomas de proteção animal para tornar pública a condenação por crimes e contraordenações contra animais de companhia, como sanção acessória. Cria também o Registo Nacional de Agressores de Animais de Companhia e prevê a sua interligação automática com o Sistema de Informação de Animais de Companhia (SIAC). O objetivo é permitir que entidades como a Direção-Geral de Alimentação e Veterinária, autarquias, forças de segurança e centros de recolha oficial verifiquem se existe uma proibição judicial ou administrativa ativa antes de registar, transmitir, dar para adoção ou licenciar atividades com animais. As associações zoófilas poderão pedir essa verificação através do médico veterinário municipal. O Governo terá 90 dias para regulamentar a plataforma eletrónica.",
+ "key_points": [
+  "Introduz a publicidade da condenação como sanção acessória no Código Penal e na legislação contraordenacional relativa à proteção animal.",
+  "Cria o Registo Nacional de Agressores de Animais de Companhia, onde ficam inscritas penas e sanções acessórias por morte, maus-tratos, abandono e infrações graves.",
+  "Permite que entidades fiscalizadoras, licenciadoras e centros de recolha oficial acedam aos dados estritamente necessários para confirmar proibições de detenção de animais.",
+  "Estabelece a comunicação eletrónica automática entre o novo registo e o Sistema de Informação de Animais de Companhia (SIAC) para bloquear registos ou licenças a pessoas impedidas.",
+  "Autoriza as associações zoófilas legalmente constituídas a solicitar a verificação de proibições através do médico veterinário municipal em processos de adoção ou suspeita de incumprimento."
+ ],
+ "plain_language": "Atualmente, mesmo quando um tribunal proíbe alguém condenado por maus-tratos de voltar a ter animais, as câmaras municipais, veterinários e abrigos não conseguem verificar facilmente essa proibição. Na prática, a pessoa pode continuar a registar, adotar ou criar animais. Esta proposta quer resolver esse problema criando uma base de dados para as autoridades consultarem quem está proibido de deter animais e ligando-a ao sistema oficial de registo de animais de companhia (SIAC). Além disso, passa a permitir que os tribunais e autoridades tornem públicas essas condenações, funcionando como um aviso adicional.",
+ "context": "O PAN justifica a iniciativa com casos recentes de resgates de dezenas ou centenas de cães em más condições em Amarante, Torres Vedras, Montemor-o-Novo e Vila Nova de Foz Côa, bem como com os números do Relatório Anual de Segurança Interna de 2026 (1665 crimes contra animais). Segundo o partido, embora já exista a pena acessória de proibição de deter animais e o registo criminal, faltam mecanismos práticos para as autoridades administrativas e fiscalizadoras verificarem essas proibições e evitarem a reincidência.",
+ "analysis": "A proposta responde a uma lacuna real na execução das penas acessórias, ligando o registo criminal ao SIAC e restringindo o acesso direto a entidades públicas competentes. Contudo, apresenta fragilidades técnicas relevantes. Primeiro, cria a sanção acessória de «publicidade da condenação» em quatro diplomas sem definir regras sobre a forma, o suporte, os custos ou a duração dessa divulgação, ao contrário do regime ambiental citado como referência. Segundo, prevê que a lei entre em vigor em 60 dias, mas dá 90 dias ao Governo para a regulamentar, criando um vazio operacional inicial. Por fim, o texto revela falhas de redação, alternando a designação do registo e incluindo contraordenações gerais de proteção animal além dos animais de companhia, sem quantificar os custos da plataforma.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e manutenção de uma plataforma eletrónica nacional, bem como a sua interligação técnica com o SIAC e o registo criminal, implicam custos de desenvolvimento e operação para o Estado. O projeto de lei não apresenta, contudo, qualquer estimativa orçamental."
+ },
+ "affected": [
+  "condenados por crimes ou contraordenações contra animais",
+  "criadores e operadores de alojamentos de animais",
+  "entidades fiscalizadoras e autarquias",
+  "centros de recolha oficial e associações zoófilas",
+  "adotantes e detentores de animais de companhia"
+ ],
+ "categories": [
+  "animais",
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "maus-tratos a animais",
+  "registo de agressores",
+  "sanções acessórias",
+  "siac",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

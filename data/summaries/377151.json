@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio à formação de pessoal não docente na educação inclusiva",
+ "summary": "Este Projeto de Resolução, que constitui uma recomendação não vinculativa ao Governo, propõe o apoio estatal aos municípios para a criação de programas de formação específica e contínua destinados ao pessoal não docente das escolas. O foco é capacitar os trabalhadores que acompanham diretamente alunos com necessidades de suporte à aprendizagem e à inclusão. A iniciativa recomenda que o Governo disponibilize um referencial nacional comum, apoio técnico e financiamento adequado, abrangendo áreas como mobilidade, alimentação, higiene, comunicação, segurança, gestão comportamental e promoção da autonomia. Recomenda ainda que a formação seja certificada, gratuita, realizada em horário de trabalho e acompanhada dos meios necessários para substituir temporariamente os trabalhadores ausentes. Por fim, propõe a monitorização anual da execução e cobertura territorial, com publicação anual de dados sobre municípios, escolas, trabalhadores abrangidos, financiamento atribuído e ações realizadas.",
+ "key_points": [
+  "Apoiar e incentivar os municípios a criar programas de formação específica, contínua, certificada e gratuita para o pessoal não docente.",
+  "Disponibilizar um referencial nacional comum, apoio técnico e financiamento adequado às autarquias.",
+  "Garantir que a formação abranja mobilidade, alimentação, higiene, comunicação, segurança, gestão comportamental e promoção da autonomia.",
+  "Promover a realização das ações formativas em horário de trabalho, assegurando meios para a substituição temporária dos trabalhadores.",
+  "Assegurar a monitorização anual da execução e publicar dados sobre municípios, escolas, trabalhadores abrangidos e financiamento atribuído."
+ ],
+ "plain_language": "Os assistentes operacionais e outros funcionários não docentes apoiam diariamente crianças e jovens com deficiência ou outras dificuldades na escola, desde a alimentação à higiene ou segurança. Como as câmaras municipais gerem agora estes trabalhadores, o documento sugere ao Governo que ajude os municípios a dar-lhes formação gratuita e certificada em várias áreas práticas. A ideia é que aprendam dentro do horário de trabalho, com substitutos disponíveis para não faltar apoio nas escolas, e que o Estado financie e acompanhe estes cursos todos os anos. Por ser um projeto de resolução, não obriga o Governo a avançar, servindo apenas como recomendação.",
+ "context": "Os proponentes invocam o dever constitucional de integrar pessoas com deficiência e o regime jurídico da educação inclusiva. Argumentam que o pessoal não docente presta o apoio imediato aos alunos em tarefas diárias, mas a boa vontade e a experiência não substituem formação especializada para lidar com limitações motoras, cognitivas ou comportamentais. Referem ainda que a transferência de competências para os municípios criou o risco de desigualdades territoriais consoante os recursos de cada autarquia, justificando um programa nacional articulado.",
+ "analysis": "A iniciativa aborda uma necessidade real no terreno escolar, uma vez que a eficácia da educação inclusiva depende da preparação prática de quem acompanha os alunos fora da sala de aula. Destaca-se positivamente a preocupação com a equidade territorial, a realização da formação em horário laboral, a previsão de substituições temporárias e a publicação anual de dados de execução. Contudo, tratando-se de um Projeto de Resolução, não tem força vinculativa, dependendo da vontade política do Governo. Além disso, apresenta fragilidades operacionais: não estima custos nem quantifica o financiamento necessário, não clarifica como assegurar substituições num setor com frequente escassez de recursos humanos e não estabelece prazos para a elaboração do referencial nacional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um Projeto de Resolução, não gera impacto orçamental imediato nem vinculativo. Contudo, a eventual concretização pelo Governo implica aumento de despesa pública com financiamento às autarquias, formação gratuita e substituição temporária de trabalhadores, não constando quaisquer montantes do documento."
+ },
+ "affected": [
+  "Pessoal não docente das escolas",
+  "Alunos com necessidades de suporte à aprendizagem e à inclusão",
+  "Municípios",
+  "Agrupamentos de escolas e escolas não agrupadas"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "trabalho"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "pessoal não docente",
+  "formação contínua",
+  "municípios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

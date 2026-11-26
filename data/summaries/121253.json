@@ -1,0 +1,25 @@
+{
+ "short_title": "Apoio ao setor dos transportes face ao aumento dos combustíveis",
+ "summary": "A proposta do Governo visa mitigar o impacto do aumento dos preços dos combustíveis no setor dos transportes rodoviários, que subiram significativamente em 2021 após uma descida em 2020 devido à pandemia. Para tal, propõe duas medidas principais: a redução para metade das taxas do Imposto Único de Circulação (IUC) para veículos da Categoria D e a prorrogação, até 31 de dezembro de 2026, da majoração dos gastos com aquisição de combustíveis para efeitos de determinação do lucro tributável em sede de Imposto sobre o Rendimento das Pessoas Coletivas (IRC). O objetivo é aliviar a estrutura de custos das empresas de transporte de mercadorias e passageiros.",
+ "key_points": [],
+ "plain_language": "Em termos simples, o Governo quer dar uma ajuda às empresas de transportes (como as de camiões e autocarros) porque o preço da gasolina e do gasóleo disparou. Para isso, propõe duas coisas: cortar para metade o imposto anual que pagam pelos veículos mais pesados (o IUC) e deixar que continuem a ter um benefício fiscal nos impostos das empresas (IRC) por causa dos gastos com combustível, prolongando essa ajuda até ao fim de 2026. A ideia é que estas empresas não fiquem tão apertadas com os custos.",
+ "context": null,
+ "analysis": "A proposta identifica claramente o problema do aumento dos preços dos combustíveis e o seu impacto adverso no setor dos transportes rodoviários. As medidas propostas – redução do IUC para veículos pesados e prorrogação do benefício fiscal no IRC para gastos com combustível – alinham-se diretamente com o objetivo de mitigar os custos operacionais para as empresas de transporte. O documento detalha as alterações específicas ao Código do IUC e a extensão do benefício fiscal, demonstrando uma implementação coerente com o propósito declarado. Não são identificadas inconsistências; as ações propostas são uma resposta direta e lógica ao contexto económico apresentado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta resultará numa diminuição da receita do governo. A redução das taxas do Imposto Único de Circulação (IUC) para veículos da Categoria D significa uma menor arrecadação de impostos sobre estes veículos. Adicionalmente, a prorrogação da majoração dos gastos com combustíveis para efeitos de Imposto sobre o Rendimento das Pessoas Coletivas (IRC) permitirá que as empresas deduzam mais custos, o que se traduzirá numa menor base tributável e, consequentemente, numa menor receita de IRC para o Estado. Não há indicação de aumento de despesas governamentais. O efeito líquido será, portanto, uma diminuição da receita fiscal."
+ },
+ "affected": [],
+ "categories": [
+  "transportes",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

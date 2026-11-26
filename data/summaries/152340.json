@@ -1,0 +1,26 @@
+{
+ "short_title": "Fomenta o regresso de emigrados e contratação de jovens qualificados",
+ "summary": "A proposta visa incentivar o regresso de portugueses emigrados qualificados e a contratação de jovens qualificados em Portugal. Para tal, propõe a alteração de um decreto-lei existente para conceder benefícios fiscais às empresas que contratem estes grupos. Os benefícios consistem na dispensa parcial ou isenção total do pagamento de contribuições para a Segurança Social, na parte relativa à entidade empregadora. A iniciativa surge da preocupação com as más condições laborais em Portugal, os baixos salários e a consequente emigração de jovens e trabalhadores qualificados.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer trazer de volta os portugueses que foram trabalhar para fora e ajudar os jovens com estudos a arranjar emprego cá. A ideia é dar um \"desconto\" às empresas nas contribuições para a Segurança Social quando contratam estas pessoas. Isto acontece porque em Portugal os salários são baixos e muita gente qualificada vai embora, e o partido que propôs isto quer mudar essa situação.",
+ "context": null,
+ "analysis": "A proposta alinha-se com o objetivo de fomentar o regresso de emigrantes e a contratação de jovens qualificados ao reduzir os custos laborais para as empresas através de isenções na Segurança Social. Contudo, a \"Exposição de motivos\" aponta os baixos salários como uma das principais razões para a emigração e a precariedade laboral. A medida proposta, ao focar-se na redução dos encargos para o empregador, não aborda diretamente a questão dos salários baixos do ponto de vista do trabalhador. Embora possa incentivar a contratação, não garante necessariamente uma melhoria substancial nas condições salariais que motivaram a saída de Portugal, o que pode ser visto como uma inconsistência entre a análise do problema e a solução proposta para o trabalhador. A eficácia em reverter a emigração pode ser limitada se os salários líquidos continuarem a ser pouco competitivos face a outros países.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal negativo direto na receita do governo, uma vez que prevê a dispensa parcial ou isenção total do pagamento de contribuições para a Segurança Social por parte das entidades empregadoras. Isso significa uma diminuição da receita proveniente dessas contribuições. Não há indicação de aumento direto nos gastos do governo. O efeito líquido inicial será uma diminuição da receita governamental. A longo prazo, se a medida for bem-sucedida em aumentar o emprego e a atividade económica, poderá haver um aumento indireto da receita fiscal (via impostos sobre o rendimento ou consumo), mas isso é incerto e não quantificado."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

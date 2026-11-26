@@ -1,0 +1,44 @@
+{
+ "short_title": "Autoriza alteração ao regime do arrendamento urbano, despejos e obras",
+ "summary": "Esta Proposta de Lei pede autorização à Assembleia da República, por 180 dias, para alterar o Novo Regime do Arrendamento Urbano, os códigos Civil e de Processo Civil e o regime das obras em prédios arrendados, apresentando o respetivo decreto-lei. O diploma revoga os limites à fixação de renda em novos contratos, elimina prazos mínimos nas renovações automáticas e permite acordar cauções sem teto e rendas antecipadas até três meses. Facilita a resolução do contrato por falta de pagamento após dois meses de mora ou atrasos repetidos superiores a oito dias. Promove a transição de contratos anteriores a 1990 para o regime atual, mantendo proteções para idosos, pessoas com deficiência igual ou superior a 60 % e agregados de baixos rendimentos, além de simplificar o procedimento de despejo e as regras para realização de obras profundas ou demolição.",
+ "key_points": [
+  "Revoga os limites à renda em novos contratos previstos na Lei n.º 56/2023, elimina prazos mínimos na renovação automática de contratos e autoriza o pagamento antecipado até três rendas bem como cauções sem limite legal.",
+  "Permite ao senhorio resolver o contrato quando haja mora igual ou superior a dois meses ou atrasos superiores a oito dias por mais de três vezes em 12 meses ou quatro vezes em 18 meses.",
+  "Acelera o procedimento especial de despejo e o Balcão do Arrendamento e do Senhorio, atribuindo efeito meramente devolutivo aos recursos e dispensando decisão judicial para formar título executivo fora do domicílio do inquilino.",
+  "Promove a transição para o regime atual dos contratos anteriores a 1990 por prazo certo de cinco anos na falta de acordo, salvaguardando inquilinos com 65 ou mais anos, deficiência igual ou superior a 60 % ou baixos rendimentos.",
+  "Simplifica a denúncia de contratos para obras profundas com base num critério de custo de 15 % do valor mediano por metro quadrado e obriga os municípios a indemnizar senhorios impedidos de denunciar contratos em lojas históricas."
+ ],
+ "plain_language": "O Governo quer autorização do Parlamento para mudar várias leis do arrendamento, tornando os contratos mais flexíveis e os despejos mais rápidos. Se a proposta avançar, senhorios e inquilinos passam a negociar livremente as rendas, cauções e renovações, sem os tetos criados em 2023, e os contratos antigos anteriores a 1990 aproximam-se das regras atuais, mantendo proteções para idosos, pessoas com deficiência e famílias com rendimentos mais baixos. Também será mais rápido terminar o contrato se houver dois meses de rendas em atraso ou atrasos frequentes, e os processos de despejo e de obras nos edifícios tornam-se mais simples.",
+ "context": "O Governo argumenta que sucessivas restrições legais enfraqueceram o mercado de arrendamento, afastaram imóveis e agravaram a subida das rendas, dificultando o acesso à habitação e a emancipação dos jovens. Citando os Censos 2021, aponta cerca de 375 mil alojamentos vagos sem intenção de venda ou arrendamento, dos quais quase 250 mil em boas condições. Assim, defende que reforçar a liberdade contratual, garantir despejos céleres e clarificar regras processuais devolverá confiança aos proprietários para aumentar a oferta e reduzir preços, cabendo ao Estado apoiar as situações de maior vulnerabilidade.",
+ "analysis": "A iniciativa tem o mérito de harmonizar nove diplomas, modernizar notificações eletrónicas e manter salvaguardas para idosos, pessoas com deficiência e agregados de baixos rendimentos nos contratos antigos, dando-lhes prioridade na resposta social. Contudo, apresenta fragilidades relevantes. A aplicação imediata das novas regras a contratos em curso altera equilíbrios já firmados. Além disso, o fim dos limites às rendas e cauções, a resolução mais célere por mora, a denúncia pelo senhorio com três anos de antecedência e os recursos apenas devolutivos reduzem a segurança dos inquilinos, sem evidência no texto de que gerem descida de rendas. Por fim, o critério de 15 % para obras profundas facilita denúncias, e as novas indemnizações a pagar pelos municípios em estabelecimentos históricos surgem sem avaliação orçamental.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diploma não apresenta estimativa de impacto orçamental. Prevê que os municípios indemnizem senhorios impedidos de denunciar contratos em imóveis com estabelecimentos de interesse histórico, cultural ou social local, e fixa o pagamento de rendas pelo Estado através do IHRU até 2,5 vezes a retribuição mínima mensal garantida de 2026 por um máximo de nove meses, além de criar prioridade na resposta social da Segurança Social."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "arrendatários não habitacionais",
+  "municípios",
+  "estabelecimentos de interesse histórico ou social"
+ ],
+ "categories": [
+  "habitacao",
+  "justica",
+  "economia"
+ ],
+ "tags": [
+  "arrendamento urbano",
+  "despejo",
+  "nrau",
+  "obras em prédios arrendados",
+  "contratos anteriores a 1990"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

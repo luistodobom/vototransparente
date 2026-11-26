@@ -1,0 +1,43 @@
+{
+ "short_title": "Estratégia Nacional para o Património Imobiliário da Justiça",
+ "summary": "Este Projeto de Resolução recomenda ao Governo a criação e execução de uma Estratégia Nacional para o Património da Justiça, com objetivos, metas, indicadores e calendário definidos. A iniciativa, de natureza não vinculativa, propõe o levantamento e a avaliação de todos os imóveis afetos ao setor, identificando o seu estado de conservação, grau de utilização e custos. Prevê também a alienação ou reafetação a outras políticas públicas, nomeadamente à habitação acessível, dos edifícios considerados excedentários. Além disso, recomenda a redução gradual da despesa com arrendamentos através da instalação de serviços em património próprio do Estado, a definição de uma política plurianual de reabilitação, eficiência energética e modernização digital dos edifícios, e a criação de programas permanentes de manutenção preventiva segundo prioridades de investimento baseadas no risco e no benefício económico.",
+ "key_points": [
+  "Recomenda ao Governo a elaboração de uma Estratégia Nacional para o Património da Justiça com metas, indicadores e calendário de implementação.",
+  "Propõe o levantamento e a caracterização do estado de conservação, utilização e custos de todos os imóveis afetos ao setor.",
+  "Prevê a venda ou reafetação a outras políticas públicas, como a habitação acessível, dos imóveis identificados como excedentários.",
+  "Sugere a redução progressiva da despesa com arrendamentos, privilegiando a instalação dos serviços da Justiça em imóveis próprios do Estado.",
+  "Defende uma política plurianual de reabilitação, eficiência energética, acessibilidade e adaptação digital, apoiada por programas permanentes de manutenção preventiva."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que crie um plano nacional para organizar, recuperar e gerir melhor os edifícios da Justiça, como tribunais e prisões. A ideia é fazer primeiro uma lista completa para saber o que existe, o que está a precisar de obras e o que está vazio. Os imóveis que não façam falta podem ser vendidos ou usados, por exemplo, para habitação acessível. Também se quer gastar menos dinheiro em rendas, passando serviços para edifícios do Estado, e fazer manutenção regular para evitar que se degradem. Sendo um projeto de resolução, é apenas uma recomendação sem força de lei.",
+ "context": "Segundo o CDS-PP, uma parte significativa do património imobiliário da Justiça encontra-se envelhecida, dispersa e inadequada às exigências atuais, devido à falta de manutenção preventiva. Ao mesmo tempo, o partido aponta a coexistência de vários imóveis devolutos ou subaproveitados com encargos elevados em rendas pagas pelo Estado. Para os proponentes, uma gestão estratégica e integrada é essencial para otimizar recursos públicos, reduzir despesas permanentes e garantir condições de trabalho dignas a magistrados, oficiais de justiça, outros profissionais e cidadãos.",
+ "analysis": "A proposta aborda um problema estrutural reconhecido no setor da Justiça, combinando a racionalização de custos com a melhoria das condições físicas dos serviços e a possível libertação de imóveis para habitação acessível. Como ponto positivo, destaca-se a aposta na manutenção preventiva e no levantamento prévio como base para decisões de investimento. Contudo, o texto apresenta fragilidades relevantes: não quantifica o parque imobiliário existente, os gastos atuais com arrendamentos nem o investimento necessário para as obras de reabilitação. Além disso, carece de prazos concretos e de indicação das fontes de financiamento ou das entidades responsáveis pela execução. Tratando-se de um Projeto de Resolução, não vincula o Governo, funcionando sobretudo como uma orientação política genérica cuja eficácia dependerá da vontade executiva e da disponibilidade orçamental.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa e sem quantificação financeira no documento, o impacto orçamental depende da execução governamental. A estratégia preconizada combina potenciais poupanças com a redução de rendas e receitas com a venda de imóveis excedentários, mas implica aumento de despesa pública na reabilitação, modernização e manutenção dos edifícios."
+ },
+ "affected": [
+  "magistrados",
+  "oficiais de justiça",
+  "trabalhadores do setor da justiça",
+  "utentes da justiça"
+ ],
+ "categories": [
+  "justica",
+  "administracao",
+  "habitacao"
+ ],
+ "tags": [
+  "património público",
+  "tribunais",
+  "reabilitação",
+  "arrendamento",
+  "habitação acessível"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

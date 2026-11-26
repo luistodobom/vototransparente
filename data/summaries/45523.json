@@ -1,0 +1,26 @@
+{
+ "short_title": "Regime excecional de pagamento das rendas",
+ "summary": "Esta proposta de lei estabelece um regime excecional para o pagamento de rendas, tanto habitacionais como não habitacionais, para inquilinos que sofreram uma quebra de rendimentos igual ou superior a 20% devido à pandemia de COVID-19. O regime prevê uma redução proporcional da renda, sendo a diferença subsidiada diretamente pelo Estado ao senhorio. O subsídio é limitado a rendas que não excedam um determinado valor em relação ao Valor Patrimonial Tributário do imóvel, visando evitar o apoio a rendas especulativas. Aplica-se também a micro e pequenas empresas e associações desportivas, culturais e sociais em crise.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta é para ajudar as pessoas e empresas que, por causa da pandemia, viram os seus rendimentos cair muito (mais de 20%). A ideia é que, em vez de acumularem dívidas de renda, o Estado pague a parte da renda que eles já não conseguem pagar. Assim, os inquilinos não ficam endividados e os senhorios continuam a receber o seu dinheiro. Mas atenção, o Estado só ajuda se a renda não for um disparate de cara, para não andar a pagar rendas especulativas.",
+ "context": null,
+ "analysis": "A proposta aborda de forma coerente o problema da acumulação de dívidas de renda por parte de inquilinos (particulares e empresas) afetados pela pandemia, ao mesmo tempo que procura salvaguardar os rendimentos dos senhorios, especialmente os pequenos proprietários. A solução de subsídio direto do Estado ao senhorio, com base na quebra de rendimentos do inquilino e um teto para o valor da renda subsidiável, parece ser um mecanismo equilibrado. Alinha-se com o objetivo de evitar o endividamento e apoiar a estabilidade económica, ao mesmo tempo que tenta prevenir abusos ou o subsídio de rendas excessivamente elevadas. A inclusão de arrendamentos não habitacionais e a definição clara da quebra de rendimentos (20% face a fevereiro de 2020) são pontos positivos que aumentam a abrangência e a clareza da implementação.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta aumentará os gastos do governo, uma vez que o Estado passará a subsidiar diretamente uma parte das rendas dos inquilinos elegíveis. Não há indicação de que aumentará ou diminuirá diretamente a receita do governo. O efeito líquido será um aumento da despesa pública e, consequentemente, do défice orçamental, embora possa haver benefícios indiretos a longo prazo pela prevenção de falências e despejos, que poderiam gerar custos sociais e económicos adicionais."
+ },
+ "affected": [],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

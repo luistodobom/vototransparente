@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço urgente dos meios da Entidade para a Transparência",
+ "summary": "O Projeto de Resolução n.º 1238/XVII/2.ª, apresentado pelo Bloco de Esquerda, é uma recomendação não vinculativa dirigida ao Governo para reforçar os recursos da Entidade para a Transparência. Em primeiro lugar, recomenda o alargamento do mapa de pessoal da instituição em, pelo menos, onze postos de trabalho, dando prioridade à contratação de técnicos superiores de Direito e de Auditoria, com autorização imediata para abrir concursos. Em segundo lugar, propõe que a proposta de Orçamento do Estado para 2027 inclua verbas para esse alargamento, para um novo sistema de registo de expediente e tramitação processual e para melhorias na plataforma eletrónica, garantindo maior fiabilidade dos dados do Sistema de Informação da Organização do Estado e interoperabilidade com o Portal Autárquico. Por último, insta o Governo a determinar que os serviços centrais regularizem em 60 dias as comunicações de início e cessação de funções em falta desde março de 2024 e a promover idêntica regularização nas autarquias locais.",
+ "key_points": [
+  "Alargar o mapa de pessoal da Entidade para a Transparência em pelo menos onze postos de trabalho, com prioridade para técnicos superiores de Direito e Auditoria e abertura imediata de concursos.",
+  "Inscrever no Orçamento do Estado para 2027 as dotações necessárias para o novo mapa de pessoal, para um novo sistema de registo de expediente e para a evolução da plataforma eletrónica.",
+  "Garantir a fiabilidade dos dados provenientes do Sistema de Informação da Organização do Estado e a interoperabilidade da plataforma com o Portal Autárquico.",
+  "Determinar aos serviços da administração direta e indireta do Estado a regularização, no prazo de 60 dias, das comunicações de início e cessação de funções em falta desde 7 de março de 2024.",
+  "Promover idêntica regularização das comunicações em falta no universo das autarquias locais, em articulação com a Direção-Geral das Autarquias Locais e as associações representativas de municípios e freguesias."
+ ],
+ "plain_language": "Este projeto é um apelo ao Governo — sem força obrigatória — para dar mais trabalhadores, dinheiro e ferramentas informáticas à Entidade para a Transparência, o organismo que verifica as declarações de rendimentos e bens dos políticos e altos cargos públicos. Atualmente, apenas seis técnicos analisam milhares de declarações, o que deixa a maioria por verificar. O texto pede ao Governo que contrate pelo menos mais onze pessoas, preveja esse financiamento no Orçamento do Estado de 2027, melhore os sistemas digitais e obrigue os organismos públicos e autarquias a informar quem entra e sai de funções.",
+ "context": "O proponente alega que a fiscalização das declarações de rendimentos e património é ineficaz por falta de meios. Criada em 2019, a Entidade só iniciou atividade externa em março de 2024 e opera com apenas seis técnicos superiores no ativo. Entre março de 2024 e julho de 2026, recebeu 11 490 declarações, mas concluiu a verificação de apenas cerca de dez por cento, enquanto o tempo médio de análise triplicou para 74 dias. Além disso, muitas entidades públicas e autarquias não comunicam os nomes dos obrigados a declarar, inviabilizando notificações e sanções.",
+ "analysis": "O projeto destaca-se por sustentar o diagnóstico em dados oficiais do Tribunal Constitucional e da própria Entidade, identificando bloqueios operacionais concretos: o reduzido número de técnicos, sistemas de registo insuficientes e a ausência de cadastro atualizado dos titulares obrigados. Apresenta também metas objetivas ao apontar para o Orçamento do Estado para 2027 e um prazo de 60 dias para regularizar comunicações. Contudo, tratando-se de um Projeto de Resolução, não vincula o Governo nem quantifica o custo financeiro das contratações e das melhorias tecnológicas propostas. Acresce um risco relevante de eficácia: a recomendação mantém o dever de comunicação assente em organismos cuja omissão, segundo o próprio texto, não tem consequências legais, e depende da adesão voluntária das autarquias, remetendo as necessárias alterações legislativas para uma iniciativa futura ainda não apresentada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, não cria despesa direta imediata, mas a concretização do alargamento do mapa de pessoal em pelo menos onze postos de trabalho e dos investimentos em sistemas informáticos aumentaria a despesa pública a partir do Orçamento do Estado para 2027. O documento não indica montantes estimados para estas medidas."
+ },
+ "affected": [
+  "Entidade para a Transparência",
+  "titulares de cargos políticos e altos cargos públicos",
+  "serviços da administração direta e indireta do Estado",
+  "autarquias locais"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "entidade para a transparência",
+  "declarações de rendimentos",
+  "cargos públicos",
+  "orçamento do estado",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

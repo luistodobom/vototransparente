@@ -1,0 +1,44 @@
+{
+ "short_title": "Limites às rendas, prazos mínimos de três anos e registo de arrendamento",
+ "summary": "O Projeto de Lei n.º 769/XVII/2.ª, apresentado pelo LIVRE, altera o Código Civil e a Lei n.º 56/2023 para reforçar a estabilidade contratual e conter os preços no arrendamento habitacional. Propõe aumentar de um para três anos a duração mínima dos contratos com prazo certo e reduzir para um mês o limite máximo quer da caução, quer da antecipação de rendas, declarando nula qualquer exigência prévia superior. Nos novos contratos de habitação, incluindo imóveis sem arrendamento nos últimos cinco anos, estabelece que a renda inicial não pode exceder em mais de 30% os valores tabelados na Portaria n.º 176/2019. Atribui à Autoridade Tributária e Aduaneira a verificação desses limites, prevendo contraordenações tributárias graves em caso de incumprimento. Cria ainda a Plataforma Nacional de Registo do Arrendamento, gerida pelo Instituto da Habitação e da Reabilitação Urbana e pela Autoridade Tributária, obrigatória para contratos novos e em vigor.",
+ "key_points": [
+  "Alarga de um para três anos o prazo mínimo dos contratos de arrendamento com prazo certo, exceto para habitação não permanente ou fins especiais transitórios.",
+  "Reduz para o valor de uma renda o limite máximo quer da caução, quer da antecipação de rendas, tornando nula qualquer estipulação prévia de quantia superior.",
+  "Limita a renda inicial nos novos contratos habitacionais a um máximo de 30% acima dos valores de referência da Portaria n.º 176/2019, mesmo em imóveis sem contrato nos cinco anos anteriores.",
+  "Incumbe a Autoridade Tributária e Aduaneira de verificar os limites de renda e notificar os locadores para ajustamento em dois meses, punindo o incumprimento como contraordenação tributária grave.",
+  "Cria a Plataforma Nacional de Registo do Arrendamento, obrigatória para contratos novos e em vigor, com dados estatísticos públicos anonimizados e exigida para aceder a benefícios fiscais."
+ ],
+ "plain_language": "Este projeto de lei procura dar mais estabilidade a quem vive em casa arrendada e travar o aumento das rendas. Se avançar, os novos contratos passam a durar no mínimo três anos e o senhorio só pode exigir até um mês de caução e um mês de renda adiantada. O valor pedido nos novos contratos passa também a ter um limite máximo definido por lei, que será verificado pelas Finanças. Além disso, cria um registo nacional obrigatório de todos os contratos de arrendamento, permitindo que os inquilinos registem o contrato caso o senhorio não o faça.",
+ "context": "O LIVRE aponta uma grave crise no arrendamento, com subidas anuais das rendas próximas de 10% entre 2023 e o início de 2026, contratos curtos, exigências ilegais de cauções e elevado peso da habitação no rendimento das famílias. Critica a Proposta de Lei n.º 103/XVII/1.ª do Governo por reduzir proteções dos inquilinos e argumenta que faltam dados públicos fiáveis sobre os contratos em vigor, defendendo medidas que contenham a especulação e garantam transparência no mercado.",
+ "analysis": "A iniciativa procura colmatar falhas de fiscalização existentes ao atribuir à Autoridade Tributária competência para verificar limites às rendas e punir incumprimentos, reforçando a transparência com dados públicos anonimizados e nulidade para cauções excessivas. Contudo, apresenta fragilidades jurídicas e riscos de execução. A redação proposta para os artigos 1077.º e 1096.º do Código Civil gera ambiguidades na atualização das rendas e na duração das renovações, ao suprimir expressões como «se esta for inferior». Há ainda sobreposição entre o registo automático via Portal das Finanças e a exigência de declaração em modelo oficial na nova plataforma. Na prática, tetos rígidos às rendas e contratos mínimos de três anos podem retrair a oferta formal ou desviar imóveis para contratos transitórios isentos, dependendo a plataforma de futura regulamentação e do próximo Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão da Plataforma Nacional de Registo do Arrendamento e as novas competências de verificação da Autoridade Tributária implicam encargos para o Orçamento do Estado. O artigo 10.º remete a produção de efeitos das disposições com impacto orçamental para a entrada em vigor do Orçamento do Estado subsequente, não indicando montantes."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "sublocadores e subarrendatários",
+  "Autoridade Tributária e Aduaneira",
+  "Instituto da Habitação e da Reabilitação Urbana"
+ ],
+ "categories": [
+  "habitacao",
+  "justica",
+  "fiscalidade"
+ ],
+ "tags": [
+  "arrendamento",
+  "controlo de rendas",
+  "código civil",
+  "contratos habitacionais",
+  "registo de arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

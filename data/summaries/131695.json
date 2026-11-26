@@ -1,0 +1,24 @@
+{
+ "short_title": "Simplificação da comunicação de rendimentos a não residentes",
+ "summary": "A proposta visa alterar o Código do IRS para permitir que a comunicação de rendimentos devidos a sujeitos passivos não residentes, atualmente mensal, passe a ser trimestral. O objetivo é reduzir a burocracia para empresas e profissionais liberais, mantendo a opção de comunicação mensal para quem preferir, oferecendo maior flexibilidade.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer facilitar a vida das empresas e dos trabalhadores independentes que pagam a pessoas que vivem noutros países. Em vez de terem de avisar o Fisco todos os meses sobre esses pagamentos, passam a poder fazê-lo de três em três meses. Assim, perdem menos tempo com papelada, mas quem quiser continuar a fazer mensalmente, pode.",
+ "context": null,
+ "analysis": "A proposta é consistente com o objetivo de simplificação administrativa. Ao permitir a comunicação trimestral, sem impedir a opção mensal, oferece flexibilidade às entidades devedoras, especialmente PME e profissionais liberais, que enfrentam uma carga burocrática significativa. O documento argumenta que esta alteração não compromete o controlo eficiente dos rendimentos, o que parece plausível, uma vez que a informação continua a ser fornecida, apenas com uma periodicidade diferente. Não são identificadas inconsistências, e os detalhes da implementação alinham-se com o objetivo de desburocratização.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta é uma alteração processual e não fiscal. Não se prevê que aumente ou diminua diretamente a receita do governo, uma vez que não altera as taxas de imposto ou a base tributável. Poderá haver uma ligeira diminuição dos custos administrativos para o governo devido à menor frequência de processamento de dados, e uma redução da carga administrativa para as empresas, o que pode ter um efeito positivo indireto na economia ao libertar recursos. O efeito líquido sobre as finanças públicas será provavelmente neutro ou ligeiramente positivo devido à eficiência."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

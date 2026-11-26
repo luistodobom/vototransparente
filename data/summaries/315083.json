@@ -1,0 +1,40 @@
+{
+ "short_title": "Atualização dos apoios ao ensino particular, cooperativo e profissional",
+ "summary": "O Projeto de Resolução n.º 26/XVII/1.ª, apresentado pelo CDS-PP, recomenda ao Governo a atualização do valor dos apoios financeiros atribuídos por turma e por ano às escolas abrangidas por contratos de associação, cooperação e patrocínio, bem como às escolas profissionais privadas integradas na rede pública. Além de uma revisão imediata das verbas, a iniciativa propõe que sejam estabelecidos critérios de atualização anual automática, assentes em fórmulas claras e estáveis que acompanhem a evolução geral dos preços. O objetivo é garantir que o financiamento público acompanha o aumento dos custos operacionais destes estabelecimentos de ensino, retirando a decisão de atualização da dependência exclusiva do poder político. Tratando-se de um projeto de resolução, a medida tem caráter recomendatório e não vincula juridicamente o Executivo.",
+ "key_points": [
+  "Recomenda ao Governo a atualização do financiamento anual por turma para escolas com contratos de associação, cooperação e patrocínio.",
+  "Propõe a atualização dos apoios às escolas profissionais privadas que integram a rede pública, no âmbito da revisão do seu modelo de financiamento.",
+  "Sugere a criação de critérios de atualização anual automática baseados em fórmulas estáveis que acompanhem a subida geral dos preços.",
+  "Visa evitar que o valor dos apoios fique congelado por falta de decisão política, protegendo a sustentabilidade operacional das escolas contratualizadas."
+ ],
+ "plain_language": "Muitos colégios privados, escolas artísticas, instituições de ensino especial e escolas profissionais têm acordos com o Estado para dar aulas gratuitas aos alunos onde não há escolas públicas suficientes. Como o dinheiro que o Estado lhes paga pouco mudou desde 2015, mas os preços e os salários subiram muito, o CDS-PP recomenda ao Governo que aumente esses apoios. Além disso, pede que passe a haver uma regra automática para atualizar as verbas todos os anos conforme a inflação, sem depender da vontade de cada governo. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente afirma que os estabelecimentos privados e cooperativos com contratos públicos sofreram subfinanciamento desde 2015, pondo em risco a sua viabilidade. Aponta que, desde esse ano, o Índice de Preços no Consumidor subiu cerca de 20,5% e o Salário Mínimo Nacional passou de 505€ para 870€, enquanto os apoios ao ensino artístico não foram atualizados e os da educação especial e ensino profissional tiveram apenas ligeiras revisões em 2023. Menciona ainda que apenas Lisboa e Algarve têm comparticipação pública nas escolas profissionais privadas, dependendo as restantes de fundos comunitários.",
+ "analysis": "A proposta identifica um problema objetivo de perda de poder de compra dos apoios estatais face à inflação acumulada e ao aumento salarial desde 2015, propondo previsibilidade através da indexação anual. Contudo, apresenta fragilidades e inconsistências técnicas. Primeiro, sendo um projeto de resolução, não tem força vinculativa. Segundo, não define qual o índice ou fórmula concreta de atualização, nem estima o impacto orçamental. Terceiro, existe uma imprecisão entre a fundamentação e a parte final: o texto refere que os contratos de patrocínio são pagos por aluno e que o ensino profissional depende sobretudo de fundos europeus fora de Lisboa e Algarve, mas a recomendação final agrupa tudo sob apoios por turma e por ano, sem detalhar a revisão prometida no título para o modelo de financiamento do ensino profissional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A implementação das recomendações aumentaria a despesa pública ao atualizar os montantes de apoio por turma e instituir revisões anuais automáticas associadas aos preços. O documento menciona valores de referência dos contratos de associação (88.244,48€ por turma em início de ciclo), mas não quantifica o custo global da medida, que, sendo uma recomendação, não produz efeitos orçamentais diretos."
+ },
+ "affected": [
+  "escolas com contratos de associação, cooperação e patrocínio",
+  "escolas profissionais privadas",
+  "alunos do ensino artístico especializado e educação especial",
+  "estudantes do ensino profissional"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "contratos de associação",
+  "ensino particular e cooperativo",
+  "ensino profissional",
+  "ensino artístico especializado",
+  "financiamento escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

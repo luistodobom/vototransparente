@@ -1,0 +1,24 @@
+{
+ "short_title": "Atualização do apoio alimentar a menores",
+ "summary": "Esta proposta recomenda ao Governo que avalie e atualize o Fundo de Garantia de Alimentos Devidos a Menores (FGADM). O FGADM foi criado para assegurar que crianças recebam pensões de alimentos quando os responsáveis não cumprem essa obrigação. No entanto, a legislação atual, que data de 1998/1999, tem critérios de elegibilidade desatualizados, baseados no Indexante dos Apoios Sociais (IAS), que é inferior ao salário mínimo nacional. Isso faz com que muitas crianças em necessidade não sejam elegíveis. A proposta sugere reavaliar os critérios de elegibilidade, substituindo o IAS por uma referência mais adequada como o salário mínimo nacional, e ajustar o modelo de cálculo para refletir melhor a situação económica das famílias, sem as penalizar desproporcionalmente.",
+ "key_points": [],
+ "plain_language": "Basicamente, existe um fundo que ajuda crianças a receberem a pensão de alimentos quando os pais não pagam. Mas as regras para quem pode receber essa ajuda são muito antigas e apertadas, usando um valor de referência (o IAS) que é baixo demais. Por causa disso, muitas crianças que precisam de apoio acabam por não o conseguir. Esta proposta quer que o Governo mude essas regras, usando um critério mais justo, como o salário mínimo, para que mais crianças em dificuldades possam ter acesso a essa ajuda essencial.",
+ "context": null,
+ "analysis": "O documento identifica claramente uma inconsistência entre o propósito original do FGADM (garantir a proteção social de menores) e a sua eficácia atual, devido a critérios de elegibilidade desatualizados. A principal falha apontada é a utilização do Indexante dos Apoios Sociais (IAS) como limiar de rendimento, que é considerado demasiado baixo e não reflete a realidade socioeconómica atual, especialmente quando comparado com o salário mínimo nacional. As soluções propostas – reavaliar os critérios de elegibilidade e ajustar o modelo de cálculo – alinham-se diretamente com o objetivo de tornar o fundo mais justo e equitativo, corrigindo a desatualização e garantindo que o apoio chegue a quem realmente precisa. Não há inconsistências internas na argumentação; a proposta é lógica e coerente na sua análise do problema e nas soluções apresentadas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta, ao alargar os critérios de elegibilidade para o Fundo de Garantia de Alimentos Devidos a Menores, provavelmente aumentará o número de beneficiários e, consequentemente, os gastos do governo com este fundo. Não há menção a novas fontes de receita ou a medidas de poupança. O efeito líquido esperado é um aumento nos gastos do governo, sem um aumento correspondente na receita."
+ },
+ "affected": [],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

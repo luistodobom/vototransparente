@@ -1,0 +1,24 @@
+{
+ "short_title": "Programa \"Regressar Saúde\" para Profissionais Emigrados",
+ "summary": "Esta proposta recomenda ao Governo a criação de um programa específico chamado \"Regressar Saúde\". O objetivo é atrair de volta a Portugal os profissionais de saúde portugueses que estão emigrados, oferecendo-lhes incentivos adicionais. A ideia é complementar o programa \"Regressar\" já existente, que é mais geral, focando-se na área da saúde, onde há uma grande carência de profissionais, como enfermeiros e médicos, para fortalecer o Serviço Nacional de Saúde.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer que o Governo crie um programa especial para trazer de volta os nossos médicos e enfermeiros que estão a trabalhar lá fora. Já existe um programa chamado \"Regressar\" para quem quer voltar, mas este seria só para a malta da saúde, porque precisamos mesmo deles cá. A ideia é dar-lhes mais vantagens, tipo benefícios fiscais ou ajudas para se instalarem, para que voltem e ajudem a melhorar o nosso Serviço Nacional de Saúde, que está a precisar de gente.",
+ "context": null,
+ "analysis": "O documento aponta uma inconsistência no programa \"Regressar\" atual: embora seja transversal, muitos dos seus beneficiários são profissionais de saúde, e Portugal enfrenta uma grave escassez nesta área. A proposta alinha-se com o objetivo de resolver esta carência ao sugerir um programa direcionado. A implementação de incentivos adicionais, como regimes fiscais favoráveis, apoio financeiro e linhas de crédito, visa especificamente atrair estes profissionais. Contudo, o documento também sublinha que os problemas estruturais do Serviço Nacional de Saúde só serão atenuados com \"melhores condições de trabalho, remunerações justas e horários\", o que sugere que os incentivos financeiros, por si só, podem não ser suficientes sem uma reforma mais ampla das condições de carreira.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta, ao sugerir \"incentivos adicionais\" como um \"regime fiscal mais favorável\" e \"apoio financeiro\", indica que haverá um aumento nos gastos do governo, seja através de subsídios diretos ou de menor arrecadação fiscal. A \"linha de crédito para apoiar o investimento empresarial\" também pode implicar custos ou garantias para o Estado. Embora o regresso de profissionais possa, a longo prazo, otimizar recursos e potencialmente aumentar a base de contribuintes, o efeito líquido inicial será um aumento dos gastos governamentais para implementar e manter estes incentivos."
+ },
+ "affected": [],
+ "categories": [
+  "saude"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

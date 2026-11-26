@@ -1,0 +1,26 @@
+{
+ "short_title": "Programa de Resposta Económica e Social para o Algarve",
+ "summary": "Esta proposta do PSD visa criar um programa de resposta económica e social urgente para o Algarve, uma região particularmente vulnerável aos impactos da pandemia COVID-19 devido à sua forte dependência do turismo. O documento detalha a situação crítica do setor turístico, o aumento do desemprego e a incerteza económica. As recomendações ao Governo incluem medidas fiscais e financeiras para empresas (manutenção do lay-off, regimes fiscais favoráveis, flexibilização de pagamentos, linhas de crédito), programas de emprego e formação, apoio social a famílias e idosos, e investimentos em infraestruturas e diversificação económica. A proposta também sugere a revisão do tratamento do Algarve em relação aos fundos comunitários e a promoção turística.",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD está a dizer que o Algarve está numa situação muito má por causa da pandemia, já que vive muito do turismo. Por isso, propõem um monte de coisas para ajudar a região a não ir ao fundo. Querem que as empresas continuem a ter apoios para não despedir, que paguem menos impostos e que tenham mais facilidade em conseguir empréstimos. Também querem dar uma ajuda às famílias e aos idosos que estão a passar mal, melhorar os hospitais e os transportes, e tentar que a região não dependa só do turismo no futuro. E ainda pedem à Europa mais dinheiro para o Algarve. É um plano para tentar salvar a economia e o bem-estar das pessoas lá.",
+ "context": null,
+ "analysis": "A proposta aborda de forma consistente os desafios específicos do Algarve, uma região altamente dependente do turismo, que foi severamente afetada pela pandemia. As medidas propostas alinham-se diretamente com o objetivo de mitigar os impactos económicos e sociais. Por exemplo, a manutenção do lay-off e os regimes fiscais favoráveis visam preservar empresas e empregos, enquanto os subsídios eventuais e o reforço dos cuidados sociais procuram apoiar as famílias e os mais vulneráveis. A ênfase na diversificação económica e nos investimentos em infraestruturas (como o Hospital Central do Algarve) demonstra uma visão de longo prazo para tornar a região mais resiliente. Não se detetam inconsistências, mas sim uma abordagem multifacetada que tenta cobrir as várias dimensões da crise na região, desde o apoio imediato à recuperação e preparação para o futuro.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal significativo, resultando num aumento dos gastos do governo e numa diminuição da receita. O aumento dos gastos decorrerá de programas de formação financiados pelo IEFP, subsídios sociais, reforço de infraestruturas de saúde e transportes, e potenciais verbas do Orçamento de Estado caso os fundos comunitários não sejam obtidos. A diminuição da receita será causada por regimes fiscais mais favoráveis (IRC reduzido, majoração de crédito fiscal), diferimento de pagamentos de impostos e contribuições, perdão de juros moratórios, isenção de taxas municipais e exceções fiscais para residentes não habituais. O efeito líquido será um aumento substancial do défice orçamental no curto e médio prazo, embora as medidas visem uma recuperação económica que, a longo prazo, poderia estabilizar ou aumentar as receitas."
+ },
+ "affected": [],
+ "categories": [
+  "saude",
+  "educacao",
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

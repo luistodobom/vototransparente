@@ -1,0 +1,44 @@
+{
+ "short_title": "Atualização e simplificação da legislação e gestão da caça",
+ "summary": "Este projeto de resolução, apresentado pelo grupo parlamentar do Chega, recomenda ao Governo que proceda à revisão e modernização das regras aplicáveis à caça em Portugal. Tratando-se de um projeto de resolução, as suas medidas têm caráter de recomendação e não são vinculativas para o Executivo. Em concreto, a iniciativa propõe atualizar e simplificar o quadro legal do setor cinegético, digitalizar e modernizar os sistemas de registo, candidatura e fiscalização das zonas de caça e reforçar a fiscalização bem como a aplicação de sanções para garantir o cumprimento da lei. Pede ainda ao Governo que valorize a caça como ferramenta de gestão ambiental e desenvolvimento rural, apoiando o associativismo e a monitorização de espécies, e que assegure o reinvestimento das receitas geradas pelo setor na conservação da natureza e no mundo rural.",
+ "key_points": [
+  "Atualizar e simplificar a legislação do setor da caça, tornando os procedimentos mais claros e adaptados à realidade atual.",
+  "Modernizar e digitalizar os sistemas de registo, candidatura e fiscalização usados na gestão das zonas de caça.",
+  "Reforçar a fiscalização e a aplicação de sanções para assegurar o cumprimento das normas e a equidade entre caçadores e entidades gestoras.",
+  "Promover a caça como instrumento de gestão ambiental e desenvolvimento rural, apoiando o associativismo e a monitorização de espécies.",
+  "Garantir que as receitas do setor são reinvestidas na conservação da natureza e no desenvolvimento rural, incentivando a segurança e a sustentabilidade."
+ ],
+ "plain_language": "Esta proposta funciona como um pedido formal do Parlamento ao Governo, sem força de lei obrigatória, para mudar e modernizar as regras da caça em Portugal. O objetivo é tornar os processos mais simples e digitais, tanto para quem gere zonas de caça como para os caçadores. Também pede mais fiscalização e multas para quem não cumpre a lei, melhor contagem das populações de animais e que o dinheiro arrecadado com taxas e licenças da caça volte a ser investido na proteção da natureza e nas zonas rurais.",
+ "context": "O proponente argumenta que a legislação atual da caça está desatualizada, mantendo estruturas antigas desde 1986 no que toca às tipologias e ao regime das zonas de caça. Aponta ainda que Portugal não dispõe de um sistema nacional credível de controlo e fiscalização para certas espécies exigido por critérios europeus, dando o exemplo da rola brava. Cita também uma auditoria da Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território que identificou lacunas e recomendou melhorias nos procedimentos administrativos e financeiros do Instituto da Conservação da Natureza e das Florestas.",
+ "analysis": "A iniciativa tem o mérito de apontar problemas concretos já identificados por entidades públicas, como as falhas administrativas detetadas pela IGAMAOT no ICNF e a falta de sistemas de controlo exigidos a nível europeu para espécies como a rola brava. A aposta na digitalização e na transparência dos registos responde a necessidades práticas de gestão. Contudo, o texto é demasiado genérico e não define soluções concretas, prazos ou metas, limitando-se a recomendações amplas ao Governo sem força vinculativa. Não especifica que alterações devem ser feitas às tipologias das zonas de caça nem esclarece como seria garantida na prática a afetação exclusiva das receitas do setor à conservação e ao mundo rural, o que pode colidir com regras orçamentais gerais. Falta ainda avaliar o impacto financeiro do reforço da fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Por se tratar de uma recomendação não vinculativa, a aprovação deste projeto não gera despesa imediata. Caso o Governo venha a aplicar as medidas sugeridas, a modernização digital e o reforço da fiscalização podem implicar custos administrativos, compensáveis ou não por eventuais sanções e pela afetação das receitas do setor, não existindo qualquer estimativa orçamental no documento."
+ },
+ "affected": [
+  "caçadores",
+  "entidades gestoras de zonas de caça",
+  "associações cinegéticas",
+  "Instituto da Conservação da Natureza e das Florestas",
+  "comunidades rurais"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "caça",
+  "gestão cinegética",
+  "icnf",
+  "fiscalização",
+  "mundo rural"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforma laboral: teletrabalho, prevenção, desempenho e licença parental",
+ "summary": "O Projeto de Lei n.º 664/XVII/1.ª, da Iniciativa Liberal, altera o Código do Trabalho e o regime de proteção social na parentalidade. Propõe criar o despedimento por desempenho negativo reiterado, após dois anos de avaliação negativa e plano de melhoria, e alarga a todas as empresas a possibilidade de excluir a reintegração em despedimentos ilícitos, aumentando a respetiva indemnização para 60 a 80 dias por ano. Reintroduz o banco de horas individual com período de referência de quatro meses e compensação obrigatória, bem como até três dias extra de férias por assiduidade. Cria ainda o regime de prevenção paga, substitui o trabalho intermitente pelo trabalho à chamada e move o teletrabalho para as regras do local de trabalho. Na parentalidade, alarga a licença inicial até 240 dias, aumenta a licença obrigatória do pai para 42 dias, abrange famílias monoparentais e transfere o custo da dispensa para cuidados infantis para a Segurança Social.",
+ "key_points": [
+  "Cria o despedimento por desempenho negativo reiterado após dois anos seguidos de avaliação negativa, formação e plano de melhoria, excluindo trabalhadores com mais de 55 anos ou com filhos menores de 12 anos.",
+  "Alarga a todas as empresas o pedido de exclusão da reintegração em despedimentos ilícitos e fixa a indemnização substitutiva entre 60 e 80 dias por ano de antiguidade, com mínimo de um ano de retribuição.",
+  "Reintroduz o banco de horas individual até 150 horas anuais num período de referência de quatro meses, com compensação obrigatória do saldo positivo e até três dias adicionais de férias por assiduidade.",
+  "Regula o regime de prevenção com pagamento de 50% do valor horário pela disponibilidade e acréscimo de 50% nas horas trabalhadas, e substitui o trabalho intermitente pelo trabalho à chamada.",
+  "Alarga a licença parental inicial até 240 dias e a licença exclusiva do pai para 42 dias obrigatórios, integrando famílias monoparentais e transferindo a dispensa para cuidados ao filho até dois anos para a Segurança Social.",
+  "Enumera na lei direitos laborais para trabalhadores independentes economicamente dependentes que aufiram até cinco salários mínimos mensais, incluindo férias, descanso e proteção na parentalidade."
+ ],
+ "plain_language": "Este projeto de lei muda várias regras do trabalho e da parentalidade. Permite às empresas despedir trabalhadores com mau desempenho durante dois anos seguidos, após formação, e evitar a reintegração em despedimentos ilegais mediante indemnização mais elevada. Em contrapartida, obriga a pagar a disponibilidade em regime de prevenção, repõe até três dias extra de férias por assiduidade e garante férias e descanso a independentes economicamente dependentes de menores rendimentos. Alarga ainda a licença parental até 240 dias, fixa 42 dias obrigatórios para o pai, inclui famílias monoparentais e transfere o custo das dispensas para cuidados até aos dois anos para a Segurança Social.",
+ "context": "A Iniciativa Liberal afirma que o mercado laboral português é demasiado rígido, gerando baixos salários, baixa produtividade, precariedade jovem de 39% e intenção de emigração entre estudantes. Critica o impasse de nove meses na Concertação Social e considera que o anteprojeto governamental \"Trabalho XXI\" se ficou por retoques insuficientes, adiando direitos para regulamentação futura e prolongando contratos a prazo. Defende um modelo de flexissegurança que combine flexibilidade empresarial com garantias claras para os trabalhadores, enquadre práticas informais como a prevenção não paga e proteja a carreira em vez do posto de trabalho.",
+ "analysis": "A iniciativa apresenta medidas concretas para áreas pouco reguladas, como o regime de prevenção remunerado, as garantias no banco de horas individual e a inclusão de famílias monoparentais na parentalidade. Contudo, revela fragilidades técnicas severas na redação legislativa: o artigo 4.º adita normas ao \"Código de Processo Civil\" em vez do Código do Trabalho, o artigo 149.º admite renovações até três anos contrariando o limite de dois anos do artigo 148.º, e os novos artigos do teletrabalho mantêm remissões para artigos revogados e restringem a compensação de despesas ao teletrabalho não voluntário, além de manterem o caráter temporário da mudança de local contra o anunciado no preâmbulo. Acresce a falta de estimativa orçamental para o alargamento dos subsídios parentais e para a transferência de encargos das empresas para a Segurança Social.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da licença parental inicial até 240 dias (com 180 dias a 100%), da licença do pai para 42 dias e dos partos prematuros até às 37 semanas aumenta a despesa da Segurança Social com subsídios. Além disso, o artigo 6.º transfere o encargo financeiro dos direitos de parentalidade e conciliação, atualmente suportado pelas empresas, para a Segurança Social no prazo de 90 dias, não constando do diploma qualquer quantificação destes custos."
+ },
+ "affected": [
+  "trabalhadores por conta de outrem",
+  "entidades empregadoras",
+  "trabalhadores independentes dependentes",
+  "famílias com filhos e adotantes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "código do trabalho",
+  "parentalidade",
+  "teletrabalho",
+  "despedimento",
+  "banco de horas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

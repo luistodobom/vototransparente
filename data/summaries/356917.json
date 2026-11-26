@@ -1,0 +1,43 @@
+{
+ "short_title": "Aumenta consignação do IRS para 1,5% e permite escolher até quatro entidades",
+ "summary": "O Projeto de Lei n.º 667/XVII/1.ª, apresentado pelo grupo parlamentar do LIVRE, pretende aumentar de 1% para 1,5% a quota do IRS liquidado que os contribuintes podem consignar a entidades elegíveis, passando também o limite de uma para até quatro entidades beneficiárias por declaração. Para o efeito, a iniciativa altera o artigo 152.º do Código do IRS (relativo a pessoas coletivas de utilidade pública das áreas cultural, juvenil ou desportiva), a lei das organizações não governamentais de ambiente e o regime do associativismo jovem, onde a quota sobe de 0,5% para 1,5%. Quando escolher mais do que uma entidade, o contribuinte deverá indicar na declaração de rendimentos a fração atribuída a cada uma. O projeto prevê que as alterações produzam efeitos sobre o IRS liquidado relativamente aos rendimentos de 2026 e anos seguintes.",
+ "key_points": [
+  "Aumenta de 1% para 1,5% a quota do IRS liquidado que pode ser consignada pelos contribuintes no âmbito do Código do IRS e da lei das organizações não governamentais de ambiente.",
+  "Eleva de 0,5% para 1,5% o limite da consignação do IRS aplicável às associações juvenis e de estudantes.",
+  "Alarga de uma para até quatro o número máximo de entidades beneficiárias que cada contribuinte pode indicar na declaração anual de rendimentos.",
+  "Obriga o contribuinte que escolha mais do que uma entidade a indicar na declaração de rendimentos a respetiva quota-parte atribuída a cada organização.",
+  "Determina que as novas regras se aplicam ao imposto liquidado relativamente aos rendimentos auferidos a partir de 2026."
+ ],
+ "plain_language": "Atualmente, ao entregar a declaração de IRS, cada pessoa pode escolher entregar 1% do imposto que já pagou ao Estado a uma única instituição, sem gastar mais dinheiro por isso. Esta proposta quer aumentar essa percentagem para 1,5% e acabar com a obrigação de escolher apenas uma entidade. Se for aprovada, os contribuintes poderão dividir esse valor por até quatro associações diferentes, por exemplo, de cultura, desporto, ambiente ou juventude, indicando quanto querem dar a cada uma, ou manter tudo numa só. A mudança começaria a contar para os rendimentos de 2026.",
+ "context": "O LIVRE aponta que o aumento anterior da consignação de 0,5% para 1% levou o valor entregue à economia social a atingir 77,4 milhões de euros na campanha de 2025, num universo de mais de 5.500 instituições. Contudo, argumenta que áreas como a cultura, o desporto, a juventude e o ambiente continuam subfinanciadas e dependentes de apoios públicos incertos. Além disso, considera que limitar a escolha a uma só entidade concentra os recursos nas grandes organizações com maior visibilidade, prejudicando as pequenas associações locais.",
+ "analysis": "A proposta procura responder a uma limitação real do modelo atual, permitindo distribuir o apoio por associações locais de menor dimensão sem exigir custos diretos ao contribuinte. Contudo, apresenta fragilidades técnicas e orçamentais. Primeiro, a exposição de motivos afirma que a medida não acarreta custos orçamentais relevantes, ignorando que subir a consignação para 1,5% transfere mais receita fiscal do Orçamento do Estado para entidades privadas, com potencial de ultrapassar os 110 milhões de euros anuais. Segundo, o articulado contém gralhas evidentes de redação (como referências a '1,5 /prct' e 'associaçõesão juvenisl') e não clarifica regras práticas essenciais, como a validação da soma das frações ou a articulação quando o contribuinte escolhe entidades abrangidas por regimes legais distintos. Por fim, exige adaptações informáticas da Autoridade Tributária no Modelo 3 e no IRS Automático.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Embora o proponente afirme que não existem custos orçamentais relevantes, o aumento da consignação do IRS retira receita fiscal disponível do Orçamento do Estado para a transferir para entidades elegíveis. Com base nos 77,4 milhões de euros consignados na campanha de 2025 (com o limite de 1%), o documento estima que a medida possa elevar esse montante para mais de 110 milhões de euros anuais."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "associações culturais, juvenis e desportivas",
+  "organizações não governamentais de ambiente",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "cultura",
+  "desporto"
+ ],
+ "tags": [
+  "irs",
+  "consignação fiscal",
+  "terceiro setor",
+  "associações",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

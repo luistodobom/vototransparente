@@ -1,0 +1,42 @@
+{
+ "short_title": "Redução do IRS com aumento da dedução específica e fim do 2.º escalão",
+ "summary": "O Projeto de Lei n.º 799/XVII/2.ª, apresentado pela Iniciativa Liberal, propõe alterações ao Código do IRS para reduzir a carga fiscal sobre os rendimentos do trabalho. Em concreto, a iniciativa aumenta a dedução específica prevista no artigo 25.º para 6.000 euros e revoga os n.ºs 3, 5 e 6 do mesmo artigo. Altera ainda a tabela de taxas gerais do artigo 68.º, reduzindo a taxa do primeiro escalão em 0,3 pontos percentuais para 12,2% e eliminando o segundo escalão, passando o primeiro escalão a abranger rendimentos coletáveis até 12.587 euros. O diploma ajusta igualmente a fórmula de divisão do rendimento coletável para substituir a referência a 8.059 euros pelo limite do primeiro escalão. Prevê que as medidas produzam efeitos relativamente aos rendimentos obtidos em 2026, com liquidação em 2027, entrando a lei em vigor com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Aumenta a dedução específica no IRS para 6.000 euros e revoga os n.ºs 3, 5 e 6 do artigo 25.º do Código do IRS.",
+  "Reduz a taxa normal do primeiro escalão de IRS em 0,3 pontos percentuais, fixando-a em 12,2%.",
+  "Elimina o segundo escalão do IRS, alargando o primeiro escalão aos rendimentos coletáveis até 12.587 euros e passando a tabela para oito escalões.",
+  "Determina a aplicação das alterações aos rendimentos de 2026, com liquidação em 2027, entrando a lei em vigor com o Orçamento do Estado seguinte à publicação."
+ ],
+ "plain_language": "Este projeto de lei quer baixar o IRS pago pelos trabalhadores, sobretudo através de duas mudanças principais. Primeiro, aumenta para 6.000 euros a dedução específica, que é uma parte fixa do salário que não paga imposto antes de se aplicarem as taxas. Segundo, junta os dois primeiros escalões de rendimento num só, aplicando uma taxa mais baixa de 12,2% até aos 12.587 euros de rendimento coletável. Como o IRS funciona de forma progressiva, esta redução nos escalões iniciais baixa o imposto a quase todos os contribuintes. A medida aplicar-se-ia aos rendimentos de 2026, com acerto de contas em 2027.",
+ "context": "A Iniciativa Liberal justifica a iniciativa com a pressão sobre os orçamentos familiares causada pela subida dos preços dos combustíveis e pelo elevado custo de vida. O partido argumenta que a classe média aufere salários baixos para o padrão europeu, mas fica excluída de apoios públicos. Apresenta o diploma como alternativa à proposta do Governo da AD, considerando que uma descida de apenas 5 ou 10 euros mensais é insuficiente, e defende que estas alterações oferecem um alívio fiscal mais expressivo sem comprometer a margem orçamental prevista para 2026.",
+ "analysis": "O projeto tem o mérito de apresentar alterações concretas e mensuráveis ao Código do IRS, com impacto direto no rendimento disponível dos trabalhadores. Contudo, apresenta fragilidades relevantes. Desde logo, não inclui qualquer estimativa quantificada da perda de receita fiscal, apesar de afirmar que a medida cabe na margem orçamental de 2026. Além disso, o articulado revoga os n.ºs 3, 5 e 6 do artigo 25.º sem justificar ou explicar essas revogações na exposição de motivos. Verifica-se ainda uma tensão temporal na aplicação da lei: datada de setembro de 2026, remete a entrada em vigor para o Orçamento do Estado seguinte, mas determina efeitos sobre todos os rendimentos de 2026. Por fim, embora dirigida à classe média, a redução na base da tabela abrange transversalmente todos os escalões superiores.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A subida da dedução específica para 6.000 euros, a redução da taxa do primeiro escalão para 12,2% e a eliminação do segundo escalão diminuem a receita fiscal do Estado em sede de IRS. O documento não quantifica o montante da perda de receita, limitando-se a afirmar que a proposta é cabimentável na margem orçamental prevista para 2026."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "trabalhadores por conta de outrem",
+  "famílias de classe média",
+  "Estado"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "irs",
+  "dedução específica",
+  "escalões de irs",
+  "alívio fiscal",
+  "classe média"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

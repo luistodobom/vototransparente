@@ -1,0 +1,26 @@
+{
+ "short_title": "Aprofundamento da Disponibilização de Dados Abertos do Setor Público",
+ "summary": "Esta proposta de lei visa aprofundar a disponibilização de dados abertos do setor público em Portugal, transpondo uma diretiva europeia. O objetivo é eliminar barreiras à reutilização de informações detidas pelo setor público e de dados obtidos com fundos públicos, adaptando a legislação aos avanços tecnológicos e estimulando a inovação digital. A proposta foca-se em garantir o acesso em tempo real a dados dinâmicos, aumentar a oferta de dados públicos de valor (incluindo de empresas públicas e organismos de investigação), combater acordos de exclusividade e assegurar que a informação seja gratuita e universal, salvaguardando sempre os dados sensíveis e pessoais.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer que o governo e outras entidades públicas partilhem mais e melhor a informação que têm, tornando-a \"aberta\" e fácil de usar por qualquer pessoa, de graça. A ideia é que, ao tornar estes dados acessíveis (como dados sobre o tempo, transportes ou empresas), se possa criar coisas novas, como aplicações ou serviços, e assim ajudar a economia a crescer e a sociedade a beneficiar. A lei também quer acabar com os acordos que dão a certas empresas o direito exclusivo de usar certos dados, para que todos tenham as mesmas oportunidades. E claro, tudo isto sem pôr em risco a privacidade das pessoas.",
+ "context": null,
+ "analysis": "A proposta de lei demonstra uma forte coerência entre os seus objetivos declarados de promover a transparência e a inovação digital e os detalhes da sua implementação. Ao transpor a Diretiva (UE) 2019/1024, o documento procura sistematicamente eliminar obstáculos económicos e restrições à reutilização de dados do setor público, promovendo a gratuitidade e a universalidade do acesso. A ênfase na disponibilização de dados dinâmicos em tempo real, a definição de 'conjuntos de dados de elevado valor' e a proibição de acordos de exclusividade (com exceções justificadas e transparentes) alinham-se diretamente com o objetivo de maximizar o potencial de reutilização da informação. A salvaguarda de dados pessoais através da anonimização e a proteção de dados sensíveis demonstram uma preocupação com a privacidade, sem comprometer o princípio da abertura. A inclusão de um regime de monitorização do impacto social e económico da lei, bem como a necessidade de reforço orçamental para garantir a disponibilidade célere dos dados, sublinha um planeamento cuidadoso e uma abordagem pragmática para assegurar a eficácia da medida. Não se identificam inconsistências significativas, mas sim um esforço para equilibrar a abertura com as necessidades de segurança e sustentabilidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto. Por um lado, prevê-se uma diminuição da receita governamental, uma vez que a reutilização de documentos e dados será, por princípio, gratuita, eliminando potenciais fontes de receita pela venda de informação. Por outro lado, a proposta indica que o orçamento dos organismos do setor público deverá ser reforçado caso a disponibilização imediata de dados dinâmicos exceda as suas capacidades financeiras e técnicas, o que sugere um aumento dos gastos do governo para garantir a implementação eficaz da lei. O efeito líquido é provável que seja um aumento dos gastos do governo a curto prazo para a adaptação e disponibilização de infraestruturas e dados, com uma diminuição ou estagnação das receitas diretas da venda de dados. No entanto, a expectativa é que a promoção da inovação digital e o desenvolvimento económico, resultantes da maior disponibilidade de dados abertos, gerem benefícios económicos indiretos a médio e longo prazo, que poderão compensar os custos iniciais e a perda de receitas diretas."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforço da Proteção Civil e valorização dos bombeiros associativos",
+ "summary": "Este projeto de resolução recomenda ao Governo uma reforma estrutural da Proteção Civil e do financiamento dos bombeiros das associações humanitárias. Por ser uma recomendação parlamentar, não tem força vinculativa. A iniciativa propõe a definição, em 180 dias, de um referencial nacional de capacidade operacional mínima permanente por município e a criação de um modelo de financiamento público baseado na disponibilidade certificada, substituindo progressivamente a dependência de atividades acessórias. Recomenda ainda harmonizar por lei as responsabilidades e o financiamento entre administração central e municípios, celebrar contratos-programa plurianuais e instituir uma compensação por disponibilidade operacional distinta de vínculo laboral. Prevê também unidades regionais de apoio logístico, um modelo misto permanente de meios aéreos e terrestres, um programa obrigatório de vigilância de saúde ocupacional, recuperação pós-evento crítico e a entrega de um relatório de execução à Assembleia da República no prazo de um ano.",
+ "key_points": [
+  "Definir, em 180 dias, um referencial nacional de equipas mínimas de socorro em prontidão permanente por município e separar a emergência vital de missões assistenciais.",
+  "Substituir progressivamente o financiamento indireto de atividades acessórias por um modelo público indexado à disponibilidade operacional certificada, através de contratos-programa plurianuais.",
+  "Harmonizar por diploma próprio a correspondência entre responsabilidade pelo risco, autoridade operacional e financiamento entre Estado, municípios e estruturas operacionais, criando coordenação permanente interagências.",
+  "Implementar um regime de compensação por disponibilidade operacional distinto do vínculo laboral e mecanismos de compatibilização com a atividade profissional ou académica.",
+  "Criar um programa nacional de vigilância de saúde ocupacional com rastreio obrigatório, limites de exposição a agentes nocivos, recuperação pós-evento crítico e requalificação funcional.",
+  "Implementar unidades regionais de apoio logístico, um modelo misto de meios aéreos e terrestres, um relatório de execução ao Parlamento num ano e revisões trienais do sistema."
+ ],
+ "plain_language": "Este documento é um pedido não obrigatório do Parlamento ao Governo para reorganizar o funcionamento e o financiamento dos bombeiros das associações humanitárias. Hoje, muitas corporações dependem de serviços como o transporte não urgente de doentes para pagar as suas contas, o que pode prejudicar a resposta rápida a emergências graves. A proposta sugere que o Estado pague às associações para garantirem um número mínimo de equipas sempre prontas em cada concelho, compense os bombeiros pela sua disponibilidade sem criar um contrato de trabalho normal e assegure exames de saúde regulares e apoio psicológico.",
+ "context": "O proponente argumenta que o modelo português de proteção e socorro, assente em bombeiros associativos e voluntários, apresenta fragilidades estruturais por falta de financiamento público estável ligado à prontidão permanente. Aponta que a dependência económica de tarefas acessórias, como o transporte não urgente de doentes, condiciona a resposta a emergências vitais. Refere ainda o envelhecimento do voluntariado, o aumento de fenómenos extremos, a complexidade das ocorrências e a sobreposição de funções sem correspondência clara entre risco, decisão e financiamento entre entidades centrais e locais.",
+ "analysis": "A iniciativa identifica problemas estruturais reconhecidos no setor, como a dependência financeira do transporte de doentes, a desigualdade territorial na prontidão e as lacunas na saúde ocupacional dos bombeiros. A proposta de contratos-programa plurianuais e de um relatório de execução com indicadores favorece a previsibilidade e o controlo parlamentar. Contudo, enquanto projeto de resolução, não vincula o Governo nem concretiza normas de execução. O texto omite qualquer estimativa orçamental para o financiamento por disponibilidade, a compensação aos operacionais ou as unidades regionais logísticas, e não explica quem assumirá o transporte não urgente de doentes caso os bombeiros dele abdiquem. A criação de compensações regulares fora de vínculo laboral pode ainda levantar dúvidas de enquadramento jurídico e laboral.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Caso seja acolhida pelo Governo, a recomendação implica aumento de despesa pública através do financiamento direto por disponibilidade, contratos-programa plurianuais, compensações aos operacionais, unidades regionais de logística e um programa nacional de saúde ocupacional. Por se tratar de um projeto de resolução sem força vinculativa, não tem impacto orçamental imediato nem apresenta estimativas financeiras."
+ },
+ "affected": [
+  "bombeiros das associações humanitárias",
+  "associações humanitárias de bombeiros",
+  "municípios",
+  "entidades e serviços de proteção civil",
+  "utentes de emergência médica e transporte de doentes"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "proteção civil",
+  "bombeiros",
+  "associações humanitárias",
+  "financiamento público",
+  "saúde ocupacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

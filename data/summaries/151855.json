@@ -1,0 +1,25 @@
+{
+ "short_title": "Recarga artificial de aquíferos para reforço da eficiência hídrica",
+ "summary": "Portugal enfrenta secas mais frequentes e uma redução da disponibilidade de água devido às alterações climáticas. Esta proposta sugere a recarga artificial de aquíferos, que são reservatórios de água subterrânea, como uma solução para armazenar água excedente em períodos de maior precipitação e usá-la em tempos de escassez. A ideia é reabastecer os aquíferos usando diversas fontes de água, incluindo águas residuais tratadas, águas de escoamento superficial e águas de rios, funcionando como um reservatório natural com menor evaporação.",
+ "key_points": [],
+ "plain_language": "Basicamente, Portugal está a ficar com pouca água por causa das secas e das mudanças no clima. A ideia é \"encher\" os nossos reservatórios de água debaixo da terra (os aquíferos) com a água que sobra quando chove muito, ou até com água tratada que já não serve para mais nada. Assim, guardamos essa água para quando ela faz mais falta. É como ter um \"depósito\" gigante e natural debaixo dos nossos pés, que não evapora tanto como as barragens.",
+ "context": null,
+ "analysis": "O documento identifica claramente o problema da escassez hídrica e a degradação dos aquíferos em Portugal, fornecendo dados e exemplos de massas de água em situação crítica. A recarga artificial de aquíferos é apresentada como uma solução complementar e estratégica, alinhando-se com o objetivo de aumentar a eficiência hídrica e a resiliência face às alterações climáticas. A proposta destaca as vantagens do armazenamento subterrâneo (menor evaporação, mitigação da intrusão salina) e a possibilidade de reutilizar águas residuais tratadas. Contudo, sublinha a necessidade de avaliar cuidadosamente os impactos ambientais e de assegurar o licenciamento adequado, o que demonstra uma abordagem cautelosa e alinhada com a sustentabilidade. A menção à legislação existente e a projetos académicos reforça a base técnica da proposta, embora reconheça que a recarga artificial ainda não é uma solução ativa generalizada em Portugal.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta é um \"Projeto de Resolução\" que recomenda ao Governo \"incentivar o desenvolvimento de projetos e iniciativas\". Isso implica que o governo terá de alocar fundos para financiar ou cofinanciar esses projetos, bem como para a avaliação e licenciamento necessários. Portanto, espera-se um aumento dos gastos governamentais a curto e médio prazo. Não há menção direta a aumento de receita. No entanto, a longo prazo, uma gestão hídrica mais eficiente e a garantia do abastecimento de água podem gerar poupanças significativas e evitar custos associados a crises de seca, beneficiando a economia e a sociedade, o que pode ser visto como um efeito líquido positivo indireto."
+ },
+ "affected": [],
+ "categories": [
+  "ambiente",
+  "energia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

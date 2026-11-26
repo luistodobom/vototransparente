@@ -1,0 +1,42 @@
+{
+ "short_title": "Investimento nos serviços públicos ajustado ao crescimento da população",
+ "summary": "Este Projeto de Resolução recomenda ao Governo que reforce o investimento em todos os serviços públicos, dando particular destaque à Escola Pública e ao Serviço Nacional de Saúde. A iniciativa propõe que o dimensionamento desses serviços seja ajustado às estimativas revistas da população residente em Portugal, que atingiu 11 424 031 pessoas em 2025. O objetivo declarado é acompanhar o crescimento demográfico registado desde 2021 e assegurar o acesso em condições de igualdade a todos os residentes, nacionais e estrangeiros. Trata-se de uma recomendação parlamentar, não vinculativa, que surge em contraponto a uma petição sobre políticas migratórias, defendendo o reforço da capacidade estatal, inclusive na habitação e nos transportes.",
+ "key_points": [
+  "Recomenda ao Governo o reforço do investimento na generalidade dos serviços públicos, sem natureza vinculativa.",
+  "Elege a Escola Pública e o Serviço Nacional de Saúde como áreas prioritárias de investimento para responder a falhas como a falta de professores e de médicos de família.",
+  "Propõe o redimensionamento da capacidade dos serviços públicos com base nas estimativas revistas da população residente do Instituto Nacional de Estatística.",
+  "Visa garantir a igualdade de acesso aos serviços públicos a todos os residentes em território nacional, independentemente da nacionalidade."
+ ],
+ "plain_language": "Como a população a viver em Portugal aumentou muito nos últimos anos, há mais pressão sobre os serviços do Estado, como os hospitais e as escolas. Em resposta a quem culpa os imigrantes por estas dificuldades, este projeto propõe que o Parlamento peça ao Governo para investir mais dinheiro nos serviços públicos. A ideia é adaptar escolas, centros de saúde e outros serviços ao número real de pessoas que hoje moram no país, garantindo que portugueses e estrangeiros sejam atendidos em igualdade. Sendo um Projeto de Resolução, funciona apenas como uma recomendação, não obrigando o Governo a agir.",
+ "context": "O proponente apresenta a iniciativa em reação à Petição n.º 72/XVI/1.ª, rejeitando responsabilizar os imigrantes pelos problemas do país. Com base em dados oficiais, argumenta que a população residente atingiu 11,4 milhões em 2025 e que os trabalhadores estrangeiros impulsionaram a economia e geraram um saldo líquido positivo na Segurança Social. Defende que as falhas atuais, como mais de 1,66 milhões de utentes sem médico de família e cerca de 160 mil alunos sem professor, resultam da falta de investimento público para acompanhar o crescimento demográfico.",
+ "analysis": "Como ponto forte, a exposição de motivos sustenta o diagnóstico em dados quantitativos de fontes oficiais e coloca em evidência o desfasamento entre a evolução demográfica recente e a capacidade instalada dos serviços públicos. Porém, na parte resolutiva, o texto é altamente genérico: limita-se a uma única recomendação abstrata, sem metas quantificadas, prazos, prioridades orçamentais ou indicação de fontes de financiamento. Sendo um Projeto de Resolução não vinculativo, não obriga o Executivo a atuar nem altera o Orçamento do Estado. Além disso, embora identifique falta de médicos de família e professores, a proposta não detalha medidas concretas para ultrapassar os entraves estruturais de recrutamento e fixação de profissionais, nem aborda como financiar ou executar a expansão da habitação e dos transportes mencionada na fundamentação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A iniciativa recomenda um reforço generalizado do investimento nos serviços públicos, o que implicaria um aumento da despesa pública caso seja acolhido pelo Governo. O documento não apresenta qualquer estimativa de custos nem indica os montantes necessários para esse redimensionamento, tratando-se apenas de uma recomendação sem efeito orçamental direto."
+ },
+ "affected": [
+  "utentes do Serviço Nacional de Saúde",
+  "alunos e docentes da Escola Pública",
+  "cidadãos imigrantes residentes",
+  "população residente em geral"
+ ],
+ "categories": [
+  "saude",
+  "educacao",
+  "imigracao"
+ ],
+ "tags": [
+  "serviços públicos",
+  "serviço nacional de saúde",
+  "escola pública",
+  "crescimento demográfico",
+  "imigração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

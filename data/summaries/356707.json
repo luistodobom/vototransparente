@@ -1,0 +1,41 @@
+{
+ "short_title": "Redução temporária de impostos sobre fertilizantes, energia e alimentos",
+ "summary": "O Projeto de Resolução n.º 935/XVII/1.ª, apresentado pela Iniciativa Liberal, recomenda ao Governo, sem caráter vinculativo, que atue sobre a carga fiscal incidente nos bens essenciais e fatores de produção agrícola. Em concreto, propõe a redução urgente e temporária de impostos, taxas e outros encargos do Estado sobre fertilizantes, energia, combustíveis, transportes e bens indispensáveis à produção agrícola, apícola e cadeia alimentar. Além disso, pede ao Executivo que calcule e divulgue publicamente o peso dessa componente fiscal nos preços finais e que avalie mecanismos para devolver, compensar ou evitar ganhos automáticos de receita pública gerados pela inflação. Por fim, recomenda que o Governo se abstenha de impor tetos administrativos a preços ou margens de lucro privadas, exigindo que qualquer intervenção desse tipo seja precedida por uma avaliação pública de impacto económico sobre eventuais riscos de escassez ou quebra de oferta.",
+ "key_points": [
+  "Adotar medidas urgentes e temporárias para reduzir impostos, taxas e outros encargos do Estado sobre fertilizantes, energia, combustíveis, transportes e demais bens essenciais à produção agrícola, apícola e à cadeia alimentar.",
+  "Identificar, quantificar e publicar de forma acessível o peso da componente fiscal e parafiscal no preço final dos principais bens e serviços da cadeia alimentar.",
+  "Garantir que o Estado não beneficia de aumentos automáticos de receita fiscal devido à inflação nos bens essenciais, avaliando mecanismos para reduzir, devolver ou compensar essa receita adicional.",
+  "Evitar medidas de controlo administrativo de preços ou margens comerciais sem uma avaliação de impacto económico objetiva e pública que analise riscos como escassez, quebra das importações ou saída de operadores."
+ ],
+ "plain_language": "Como os preços da energia, dos combustíveis, dos fertilizantes e da comida têm subido, este documento pede ao Governo que reduza temporariamente os impostos e taxas sobre estes produtos, em vez de limitar os lucros das empresas. O partido argumenta que, quando os preços sobem, o Estado acaba por cobrar mais impostos automaticamente. Por isso, sugere que o Governo mostre claramente quanto do preço final vai para impostos e encontre formas de devolver ou reduzir esse dinheiro extra. Por ser um projeto de resolução, não obriga o Governo a agir, funcionando apenas como uma recomendação política.",
+ "context": "A Iniciativa Liberal justifica a iniciativa com o aumento do custo de vida na alimentação, energia e combustíveis, que pressiona as famílias e a viabilidade das explorações agrícolas. O partido reage diretamente ao Projeto de Resolução n.º 750/XVII/1.ª do LIVRE, que propõe limitar administrativamente as margens de lucro nos fertilizantes. Segundo os proponentes, esse controlo de preços pode causar escassez e prejudicar pequenos operadores, defendendo que o Estado deve primeiro reduzir a sua própria carga fiscal e evitar beneficiar de receitas extra geradas pela inflação.",
+ "analysis": "Como aspetos positivos, a iniciativa promove a transparência fiscal ao pedir a divulgação detalhada dos impostos e taxas embutidos nos preços finais e alerta para potenciais riscos económicos do controlo administrativo de margens, como a redução da oferta. Contudo, apresenta fragilidades práticas relevantes. Sendo um Projeto de Resolução, não vincula o Governo nem especifica quais os impostos ou taxas a reduzir, a duração da medida ou os critérios para definir e devolver o acréscimo de receita resultante da inflação. Além disso, falta uma estimativa do impacto orçamental de cortes fiscais tão abrangentes e a garantia de que essas reduções seriam integralmente refletidas nos preços ao consumidor. Nota-se ainda um lapso formal no cabeçalho, que indica a XVI legislatura apesar de o texto datar de maio de 2026.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Por ser um Projeto de Resolução, não tem efeito vinculativo imediato nas contas públicas. Contudo, a concretização das recomendações reduziria a receita do Estado, ao propor cortes temporários de impostos e taxas e a devolução ou compensação de receitas adicionais geradas pela inflação, sem indicar montantes."
+ },
+ "affected": [
+  "agricultores e apicultores",
+  "empresas de transporte e distribuição alimentar",
+  "consumidores"
+ ],
+ "categories": [
+  "fiscalidade",
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "fertilizantes",
+  "impostos",
+  "inflação",
+  "energia",
+  "cadeia alimentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Valorização e reforço da enfermagem nos Cuidados Primários",
+ "summary": "Este Projeto de Resolução recomenda ao Governo, de forma não vinculativa, o reforço do papel dos enfermeiros e da enfermagem especializada nos Cuidados de Saúde Primários. Propõe um modelo organizativo nas Unidades de Saúde Familiar (USF) que reconheça o Enfermeiro de Família como gestor do processo assistencial e integre funcionalmente enfermeiros especialistas em saúde infantil e pediátrica e em saúde materna e obstétrica na vigilância clínica, segundo normas da Direção-Geral da Saúde. A iniciativa recomenda ainda a criação de circuitos nacionais padrão de referenciação interna e externa, o acesso pleno dos enfermeiros aos sistemas de informação e atos administrativos, o reforço da contratação e retenção através de incentivos e majorações em zonas carenciadas, formação certificada para equipas multiprofissionais, respeito pelas dotações seguras e um quadro nacional de monitorização com metas anuais por Unidade Local de Saúde.",
+ "key_points": [
+  "Reconhecer o Enfermeiro de Família como gestor do processo assistencial nas Unidades de Saúde Familiar, com fluxos formalizados e auditáveis de referenciação.",
+  "Integrar funcionalmente enfermeiros especialistas em saúde infantil e pediátrica e em saúde materna e obstétrica para assegurar a vigilância clínica segundo normas da Direção-Geral da Saúde.",
+  "Definir um circuito nacional padrão de referenciação interna e externa e garantir aos enfermeiros acesso pleno aos sistemas de informação e capacidade para emitir atos administrativos.",
+  "Reforçar a contratação, retenção e distribuição territorial de enfermeiros especialistas através de incentivos de progressão, mobilidade, contratação célere e majorações em zonas carenciadas.",
+  "Criar metas anuais de monitorização por Unidade Local de Saúde e USF, promover formação certificada para equipas multiprofissionais e respeitar os rácios mínimos de profissionais (dotações seguras)."
+ ],
+ "plain_language": "Trata-se de uma recomendação do Parlamento ao Governo, sem força de lei, para dar mais responsabilidades aos enfermeiros nos centros de saúde. A ideia é que o Enfermeiro de Família coordene o acompanhamento dos utentes e que enfermeiros especialistas em saúde infantil e saúde materna façam consultas de vigilância de rotina, libertando os médicos de família para casos de doença. Para que isto funcione, o texto pede também que os enfermeiros possam usar plenamente os sistemas informáticos, que haja regras claras para encaminhar doentes, formação para as equipas e incentivos para contratar mais enfermeiros especialistas, sobretudo onde faltam profissionais.",
+ "context": "O proponente justifica a iniciativa com a existência de 1.672.130 utentes sem Médico de Família em junho de 2026 e com assimetrias territoriais identificadas pela Entidade Reguladora da Saúde. Cita um relatório da OCDE que aponta Portugal como um dos países onde as funções avançadas dos enfermeiros nos cuidados primários permanecem pouco desenvolvidas. Segundo a exposição de motivos, atribuir a vigilância da saúde infantil e da mulher a enfermeiros especialistas reduziria centenas de consultas médicas anuais por médico, permitindo reforçar a prevenção e o acesso de novos utentes.",
+ "analysis": "Como ponto forte, a proposta enfrenta um estrangulamento real no acesso aos cuidados primários, alinhando-se com recomendações da OCDE e da Ordem dos Enfermeiros, e prevê condições operacionais essenciais como interoperabilidade informática, protocolos de referenciação e formação conjunta. Contudo, tratando-se de um Projeto de Resolução, não vincula o Governo nem cria obrigações orçamentais ou prazos concretos. A iniciativa apresenta fragilidades de execução: recomenda incentivos financeiros e contratações céleres sem estimar custos, num contexto de escassez generalizada de enfermeiros especialistas que dificulta a cobertura rápida das zonas carenciadas. Adicionalmente, a definição do Enfermeiro de Família como gestor do processo assistencial e a emissão de atos administrativos podem gerar conflitos de competências com os médicos se não forem rigorosamente reguladas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por ser um Projeto de Resolução não vinculativo, não produz impacto orçamental imediato. Contudo, a eventual execução das recomendações implica aumento de despesa pública com novas contratações, progressões na carreira, majorações em zonas carenciadas, formação certificada e adaptações informáticas, sem que o documento apresente qualquer quantificação financeira."
+ },
+ "affected": [
+  "utentes do SNS",
+  "enfermeiros de família e especialistas",
+  "médicos de família",
+  "Unidades Locais de Saúde e USF"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "cuidados de saúde primários",
+  "enfermagem especializada",
+  "unidades de saúde familiar",
+  "médico de família",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

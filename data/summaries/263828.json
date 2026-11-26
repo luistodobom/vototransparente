@@ -1,0 +1,25 @@
+{
+ "short_title": "Alteração das Taxas do IMT",
+ "summary": "A proposta visa alterar as taxas do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT). O objetivo é reduzir o imposto para a compra de habitação própria e permanente, ao mesmo tempo que se aumenta o imposto para a compra de segundas habitações. Esta medida procura responder ao aumento do custo de vida e ao sobre-endividamento das famílias, promovendo maior justiça social no acesso à habitação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer mudar o imposto que se paga quando se compra uma casa (o IMT). A ideia é que quem compra a primeira casa, para viver, pague menos imposto. Mas, para compensar, quem compra uma segunda casa (para férias, investimento, etc.) vai pagar mais. Tudo isto para ajudar as pessoas a terem casa própria e a lidar com os preços altos.",
+ "context": null,
+ "analysis": "A proposta alinha-se com o objetivo declarado de promover o direito à habitação e a justiça social, ao tentar aliviar a carga fiscal sobre a habitação própria e permanente e compensar com o agravamento para segundas habitações. A \"Exposição de motivos\" justifica bem a necessidade da intervenção face ao aumento do custo de vida e do endividamento. No entanto, o documento apresenta as novas tabelas de taxas (tabela a e b do Artigo 17.º) sem uma comparação explícita com as taxas atualmente em vigor. Embora a intenção seja \"desagravar\" para habitação própria e \"agravar\" para segunda habitação, a ausência das taxas anteriores impede uma verificação direta da magnitude e do impacto real dessas alterações. Assume-se que a tabela (a) se refere à habitação própria e permanente e a tabela (b) à segunda habitação, dada a diferença de valores e a intenção expressa.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta tem como objetivo ser fiscalmente neutra ou com impacto mínimo na receita global do governo, uma vez que o desagravamento do IMT para habitação própria e permanente será compensado pelo agravamento para segundas habitações. O efeito líquido dependerá do volume de transações em cada categoria e da elasticidade da procura face às novas taxas. Não se prevê um aumento direto nos gastos do governo."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "habitacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "short_title": "Adaptação Fiscal de Seguradoras a Novas Regras Contabilísticas",
+ "summary": "Esta proposta de lei visa atualizar o Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC) para as empresas de seguros em Portugal. A alteração é necessária porque estas empresas têm de adotar novas normas internacionais de contabilidade (IFRS 17 e IFRS 9) a partir de 1 de janeiro de 2023. O objetivo é garantir que o cálculo do lucro tributável continue a ser consistente e preciso, mantendo a essência do regime fiscal anterior, e estabelece um regime transitório para facilitar esta adaptação.",
+ "key_points": [],
+ "plain_language": "Esta proposta serve para ajustar as regras dos impostos que as seguradoras pagam. É que elas vão ter de usar umas novas regras internacionais para fazer as suas contas, a partir de 2023. Então, para que o cálculo do imposto continue a ser certinho e justo, o governo está a mudar a lei do IRC. Assim, as contas das seguradoras e o fisco continuam a falar a mesma língua, sem grandes sobressaltos, e há um período de transição para que tudo se adapte com calma.",
+ "context": null,
+ "analysis": "O documento demonstra uma clara necessidade de alinhamento entre as normas contabilísticas e fiscais. A adoção das IFRS 17 e IFRS 9 pelas empresas de seguros implica alterações significativas na forma como os seus resultados financeiros são apurados. Uma vez que o lucro tributável para efeitos de IRC é determinado a partir do resultado contabilístico, a adaptação do Código do IRC é imperiosa para evitar inconsistências e garantir a continuidade da tributação adequada. A introdução de um regime transitório, como previsto no Artigo 4.º, é uma medida sensata para suavizar o impacto destas mudanças nas empresas ao longo de um período de dez anos, permitindo uma adaptação gradual e minimizando potenciais perturbações fiscais. A proposta alinha os detalhes da implementação (alterações específicas ao IRC e regime transitório) com o objetivo de manter a coerência fiscal face às novas regras contabilísticas.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta é essencialmente um ajustamento técnico ao Código do IRC para o harmonizar com as novas normas contabilísticas internacionais aplicáveis às empresas de seguros. O seu objetivo é manter o \"essencial do regime fiscal anteriormente em vigor\". Assim, o impacto fiscal direto na despesa ou receita do governo é esperado ser neutro. A proposta não introduz novos impostos nem aumenta as taxas existentes, nem prevê novas despesas governamentais. O seu propósito é assegurar que o governo continue a arrecadar o montante apropriado de imposto sobre o rendimento das empresas de seguros, prevenindo uma potencial diminuição da receita que poderia ocorrer se o código fiscal não fosse atualizado para refletir as novas realidades contabilísticas."
+ },
+ "affected": [],
+ "categories": [
+  "economia"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

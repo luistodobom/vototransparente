@@ -1,0 +1,25 @@
+{
+ "short_title": "Simplificação da Declaração Mensal de Remunerações",
+ "summary": "Esta proposta de lei visa simplificar o processo de entrega da Declaração Mensal de Remunerações (DMR) por parte das empresas. Atualmente, as empresas são obrigadas a submeter esta declaração, que contém dados salariais dos trabalhadores, duas vezes: uma à Autoridade Tributária (AT) e outra à Segurança Social (SS). A proposta pretende unificar este processo, permitindo que as empresas entreguem uma única declaração que seja válida para ambas as entidades, reduzindo assim a duplicação de esforços e a burocracia.",
+ "key_points": [],
+ "plain_language": "Basicamente, as empresas hoje em dia têm de preencher e enviar a mesma papelada sobre os salários dos funcionários duas vezes: uma para as Finanças e outra para a Segurança Social. Esta proposta quer acabar com essa chatice, permitindo que as empresas enviem apenas um documento que sirva para as duas entidades. Assim, poupam tempo e trabalho, e a vida fica um bocadinho mais fácil para quem tem negócios.",
+ "context": null,
+ "analysis": "A proposta aborda diretamente a inconsistência de exigir duas declarações idênticas a entidades diferentes, o que é uma redundância clara. Ao permitir uma única submissão, alinha-se perfeitamente com o objetivo de desburocratização e simplificação para as empresas. A implementação parece direta, com o Artigo 2.º a especificar que a declaração única pode ser apresentada a qualquer uma das entidades, e o Artigo 3.º a delegar a regulamentação ao Governo num prazo de 90 dias, o que é um período razoável para definir os detalhes técnicos. A entrada em vigor com o Orçamento do Estado subsequente garante que a medida será integrada no planeamento financeiro e administrativo do Estado.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta não deverá ter um impacto direto significativo nas receitas ou despesas do governo. O seu principal objetivo é a simplificação administrativa para as empresas, o que pode levar a uma ligeira diminuição dos custos de conformidade para as mesmas. Para o governo, poderá haver uma pequena redução nos custos de processamento de dados, uma vez que apenas uma declaração terá de ser gerida, embora os sistemas internos da AT e da SS ainda precisem de ser integrados para partilhar a informação. O efeito líquido será provavelmente neutro ou ligeiramente positivo para a eficiência geral, sem alterar substancialmente as finanças públicas."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

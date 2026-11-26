@@ -1,0 +1,42 @@
+{
+ "short_title": "Proteção no crédito à habitação em caso de taxa de esforço elevada",
+ "summary": "O Projeto de Lei n.º 756/XVII/2.ª cria um regime especial de prevenção do incumprimento para contratos de crédito destinados a habitação própria e permanente garantidos por hipoteca, excluindo segundas habitações ou imóveis de investimento. Considera-se existir agravamento significativo quando os encargos mensais com o crédito igualam ou superam 55% do rendimento líquido mensal do agregado familiar, obrigando ainda os bancos a avaliar oficiosamente a situação a partir dos 50%. Verificados os requisitos, o mutuário ganha o direito de pedir a renegociação, devendo a instituição apresentar, em 20 dias úteis, pelo menos duas propostas para recuperar uma taxa de esforço sustentável, como o alargamento do prazo, carência de capital entre 6 e 12 meses, alteração da taxa de juro ou redução do spread. O projeto proíbe comissões, venda associada de produtos financeiros e a execução da hipoteca durante a negociação, sob supervisão do Banco de Portugal.",
+ "key_points": [
+  "Aplica-se exclusivamente a créditos garantidos por hipoteca destinados a habitação própria e permanente, excluindo segundas habitações e imóveis para investimento.",
+  "Confere direito à renegociação quando os encargos do crédito atingem 55% ou mais do rendimento líquido mensal do agregado familiar, exigindo avaliação oficiosa pelo banco a partir dos 50%.",
+  "Obriga a instituição de crédito a apresentar pelo menos duas propostas adequadas no prazo de 20 dias úteis, podendo incluir alargamento do prazo, carência de capital de 6 a 12 meses, alteração de taxa de juro ou redução do spread.",
+  "Proíbe a cobrança de comissões, a exigência de contratação de outros produtos financeiros e o agravamento de encargos pelo recurso a este regime, sem implicar perdão de dívida.",
+  "Impede o banco de resolver o contrato, executar a hipoteca ou ceder o crédito para contornar estas garantias durante a negociação, cabendo a fiscalização ao Banco de Portugal."
+ ],
+ "plain_language": "Quando a prestação da casa própria passa a levar pelo menos 55% do rendimento líquido mensal de uma família, este projeto dá-lhe o direito de exigir ao banco uma renegociação do empréstimo. Se a prestação já atingir 50% do rendimento, o banco tem de avaliar a situação por iniciativa própria. Depois do pedido, o banco tem 20 dias úteis para apresentar pelo menos duas soluções, como alargar o prazo, reduzir a margem de lucro (spread) ou suspender temporariamente o pagamento do capital por 6 a 12 meses. Enquanto negociarem, o banco não pode cobrar taxas, exigir outros produtos nem executar a hipoteca da casa.",
+ "context": "O Grupo Parlamentar do Chega argumenta que a longa duração dos contratos e a predominância de taxas variáveis e mistas deixam as famílias expostas a subidas de juros e quedas de rendimento. Citando dados do Banco de Portugal de 2025, refere que o incumprimento é reduzido (0,1%), mas que os atuais mecanismos (PARI e PERSI) geram poucos acordos (apenas 0,1% dos processos concluídos) e que a maioria das renegociações ocorre antes de haver dívidas vencidas. Defende, por isso, reforçar a prevenção para evitar execuções de hipotecas.",
+ "analysis": "Como ponto positivo, a iniciativa foca-se na prevenção antes do incumprimento, protege o mutuário contra comissões, venda associada de produtos e execução hipotecária durante a negociação, e exclui créditos de investimento ou perdões de dívida. Contudo, apresenta fragilidades técnicas relevantes. Primeiro, apesar do título referir um agravamento da taxa de esforço, a norma define um limiar estático (55%), sem exigir comparação com a taxa inicial. Segundo, obriga os bancos a avaliar oficiosamente clientes nos 50% de esforço sem explicitar como acedem a rendimentos líquidos atualizados fora de pedidos do cliente. Terceiro, falta definir taxa de esforço sustentável, não há prazo limite para concluir a negociação nem regime sancionatório específico, dependendo a operacionalização de regulamentação futura.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa regula relações contratuais privadas entre mutuários e instituições de crédito, não prevendo apoios públicos, benefícios fiscais nem perdão de dívida. A fiscalização é atribuída ao Banco de Portugal no âmbito das suas competências de supervisão já existentes."
+ },
+ "affected": [
+  "mutuários de crédito à habitação própria e permanente",
+  "instituições de crédito",
+  "agregados familiares com elevada taxa de esforço"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "taxa de esforço",
+  "renegociação",
+  "incumprimento",
+  "hipoteca"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

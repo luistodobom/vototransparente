@@ -1,0 +1,40 @@
+{
+ "short_title": "Aumento extraordinário mínimo de 50 euros nas pensões",
+ "summary": "Este projeto de resolução, uma recomendação não vinculativa ao Governo, propõe um aumento extraordinário das pensões a partir de 1 de julho de 2026, com um valor mínimo de 50,00 euros por pensionista. De acordo com o texto, o valor da atualização regular anual efetuada em janeiro de 2026 é incorporado no cálculo deste aumento extraordinário. A iniciativa abrange as pensões de invalidez, velhice e sobrevivência atribuídas pela Segurança Social, bem como as pensões de aposentação, reforma e sobrevivência do regime de proteção social convergente da Caixa Geral de Aposentações. O documento recomenda ainda a criação de um processo de interconexão de dados entre ambas as entidades para transmitir a informação necessária à aplicação da medida. Ao contrário de suplementos pontuais, o aumento passaria a integrar o valor definitivo da pensão para futuras atualizações.",
+ "key_points": [
+  "Recomenda ao Governo um aumento extraordinário das pensões, no valor mínimo de 50,00 euros por pensionista, a partir de 1 de julho de 2026.",
+  "Estabelece que o valor da atualização regular anual efetuada em janeiro de 2026 é incorporado no cálculo deste aumento extraordinário.",
+  "Abrange as pensões de invalidez, velhice e sobrevivência da Segurança Social e as pensões de aposentação, reforma e sobrevivência da Caixa Geral de Aposentações.",
+  "Prevê a criação de um processo de interconexão de dados entre a Caixa Geral de Aposentações e a Segurança Social para aplicar a medida."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que a Assembleia da República recomende ao Governo um aumento permanente nas pensões a partir de julho de 2026. A ideia é garantir uma subida mínima de 50 euros por pensionista, na qual já entra o aumento anual normal de janeiro de 2026. Ao contrário de bónus pagos apenas uma vez, este valor ficaria integrado na pensão, servindo de base para os aumentos dos anos seguintes. A medida aplica-se aos pensionistas da Segurança Social e da Caixa Geral de Aposentações. Como é um projeto de resolução, trata-se de uma recomendação e não obriga o Governo a avançar.",
+ "context": "O proponente afirma que os mais idosos e pensionistas são particularmente afetados pela pobreza em Portugal, devido a pensões baixas resultantes de salários baixos e carreiras contributivas débeis. Invoca dados do Instituto Nacional de Estatística sobre a vulnerabilidade dos pensionistas ao aumento do custo de vida na alimentação, habitação, energia, medicamentos e saúde. Critica ainda que as atualizações anuais legais excluam fatores como o preço da habitação e que o Governo recorra a suplementos avulsos sem consolidação na pensão.",
+ "analysis": "Como aspetos positivos, a proposta define uma data concreta de entrada em vigor, um valor mínimo objetivo por pensionista e o cruzamento de dados entre sistemas para operacionalizar a medida, evitando suplementos não consolidáveis. Contudo, tratando-se de um projeto de resolução, não tem força vinculativa para obrigar o Governo à sua execução nem cria direito imediato ao aumento. Além disso, o texto apresenta ambiguidade técnica no ponto sobre a incorporação da atualização de janeiro de 2026, não esclarecendo plenamente se os 50,00 euros incluem esse aumento ou lhe acrescem, nem define limites máximos, escalões ou regras para pensões acumuladas. Por fim, não inclui estimativa de impacto orçamental nem indica fontes de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A medida proposta implica um aumento permanente da despesa pública com pensões na Segurança Social e na Caixa Geral de Aposentações, ao fixar um acréscimo mínimo de 50,00 euros por pensionista, incorporando a atualização de janeiro de 2026. O documento não apresenta uma estimativa do custo orçamental global nem indica fontes de financiamento, tratando-se de uma recomendação não vinculativa ao Governo."
+ },
+ "affected": [
+  "pensionistas de invalidez, velhice e sobrevivência da Segurança Social",
+  "pensionistas de aposentação, reforma e sobrevivência da Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensoes",
+  "seguranca social",
+  "caixa geral de aposentacoes",
+  "aumento extraordinario",
+  "poder de compra"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

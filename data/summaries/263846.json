@@ -1,0 +1,26 @@
+{
+ "short_title": "Simplificação e Prevenção de Fraudes no Subsídio de Mobilidade",
+ "summary": "A proposta visa simplificar e combater fraudes na atribuição do subsídio social de mobilidade para residentes das Regiões Autónomas dos Açores e da Madeira. Atualmente, os beneficiários pagam o bilhete e são reembolsados, num processo burocrático. A alteração proposta permite que o valor do subsídio seja descontado diretamente no momento da compra do bilhete pela transportadora aérea, que será posteriormente reembolsada pelo Estado através da Autoridade Tributária e Aduaneira. Também estabelece um limite máximo para as taxas de emissão de bilhete.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta proposta quer tornar mais fácil e segura a forma como os residentes dos Açores e da Madeira recebem o apoio para as viagens de avião entre as ilhas e o continente. Em vez de pagarem o bilhete todo e depois pedirem o dinheiro de volta ao Estado (o que é uma chatice e dá muito trabalho), a ideia é que o desconto seja feito logo na hora da compra. Assim, as companhias aéreas é que recebem o dinheiro do Estado, e também se põe um travão nos valores que as companhias podem cobrar por taxas de emissão.",
+ "context": null,
+ "analysis": "A proposta aborda uma falha clara no sistema atual, que é a burocracia e a necessidade de os beneficiários adiantarem o valor das viagens, o que pode ser um entrave. A mudança para o desconto direto no bilhete simplifica significativamente o processo para o cidadão, alinhando-se com o objetivo de \"simplificar\". A responsabilidade pela verificação da elegibilidade passa para as transportadoras aéreas, com o Estado (Autoridade Tributária e Aduaneira) a reembolsá-las, o que, em teoria, permite um maior controlo e prevenção de fraudes, como referido no documento. A introdução de um limite máximo para as taxas de emissão de bilhete (30 euros) é uma medida crucial para evitar que as companhias aéreas inflem os custos à custa do Estado, garantindo que o subsídio seja efetivamente para a mobilidade e não uma fonte de receita ilimitada para as transportadoras. A fiscalização anual pela IGF reforça o controlo.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta não altera o valor base do subsídio atribuído, mas sim o mecanismo de pagamento. Ao simplificar o processo e, crucialmente, ao introduzir mecanismos de controlo mais apertados e um limite máximo para as taxas de emissão de bilhete, espera-se que a proposta leve a uma diminuição dos gastos governamentais associados a pagamentos indevidos ou fraudulentos. A imposição de um teto para as taxas de emissão de bilhete (30 euros) pode reduzir a receita das companhias aéreas proveniente dessas taxas, mas, por outro lado, diminui a despesa do Estado com o reembolso de valores excessivos. O efeito líquido esperado é uma maior eficiência na utilização dos fundos públicos e uma potencial diminuição da despesa total do governo com este subsídio, ao evitar abusos e otimizar a gestão."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "trabalho",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

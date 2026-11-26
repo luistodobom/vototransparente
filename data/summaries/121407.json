@@ -1,0 +1,26 @@
+{
+ "short_title": "Programa \"Bairros Mais Sustentáveis\" para eficiência energética",
+ "summary": "Esta proposta do PSD visa criar um novo programa, chamado \"Bairros Mais Sustentáveis\", para complementar o já existente \"Programa de Apoio Edifícios Mais Sustentáveis\". O objetivo é melhorar a eficiência energética em edifícios residenciais, especialmente em bairros sociais e históricos, que são áreas com maior vulnerabilidade social e risco de pobreza energética. Ao contrário do programa atual, que apoia beneficiários individuais, o novo programa seria gerido por empresas municipais de habitação, permitindo intervenções em maior escala e com economias de escala, utilizando fundos do Plano de Recuperação e Resiliência (PRR).",
+ "key_points": [],
+ "plain_language": "Basicamente, o PSD quer criar um programa novo para ajudar a tornar as casas mais eficientes em termos de energia, especialmente nos bairros mais antigos e nos bairros sociais, onde vivem pessoas com mais dificuldades. A ideia é que, em vez de cada pessoa pedir um apoio individual, as empresas municipais que gerem esses prédios sejam as responsáveis por fazer as obras em grande escala. Assim, consegue-se poupar mais dinheiro nas obras e usar melhor os fundos europeus que já existem para isto, ajudando mais famílias a poupar na conta da luz e do gás.",
+ "context": null,
+ "analysis": "A proposta aborda uma inconsistência identificada no programa existente, que beneficia principalmente proprietários individuais com maior literacia e capacidade para gerir candidaturas e obras, resultando numa fragmentação das intervenções. Ao focar nas empresas municipais de habitação como beneficiárias e gestoras, o novo programa permite intervenções em larga escala, abrangendo múltiplos edifícios e áreas comuns, o que se alinha com o objetivo de alcançar economias de escala e acelerar a execução dos fundos do PRR. Esta abordagem é consistente com a Estratégia Nacional de Longo Prazo para o Combate à Pobreza Energética, que prevê ações locais para criar dinâmicas comunitárias e concentrar apoios em famílias mais vulneráveis. A mudança de foco de indivíduos para entidades gestoras de património social parece ser uma forma eficaz de atingir as populações mais necessitadas e garantir uma implementação mais abrangente e eficiente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta prevê um aumento significativo dos gastos governamentais no curto prazo, uma vez que o novo programa seria financiado pelo Plano de Recuperação e Resiliência (PRR), que já aloca 300 milhões de euros para eficiência energética em edifícios residenciais. Embora seja um investimento substancial, o objetivo é reduzir o consumo de energia primária nos edifícios intervencionados, o que levará a uma diminuição das faturas de energia para os consumidores e, consequentemente, a uma poupança para as famílias. A longo prazo, espera-se que esta redução do consumo energético diminua a dependência de importações de energia e contribua para a mitigação das emissões de gases com efeito de estufa, o que pode ter um efeito líquido positivo na economia e no ambiente, apesar do aumento inicial da despesa pública."
+ },
+ "affected": [],
+ "categories": [
+  "energia",
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

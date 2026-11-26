@@ -1,0 +1,26 @@
+{
+ "short_title": "Dedutibilidade de despesas com computadores no IRS",
+ "summary": "A proposta de lei visa permitir que os contribuintes deduzam no seu IRS (Imposto sobre o Rendimento das Pessoas Singulares) as despesas com a compra ou reparação de computadores, unidades periféricas e programas informáticos, desde que utilizados para formação e educação de qualquer membro do agregado familiar. O objetivo é facilitar o acesso a equipamentos digitais, especialmente face às dificuldades de implementação do Programa Escola Digital, e promover a economia circular através da reparação.",
+ "key_points": [],
+ "plain_language": "Basicamente, esta lei quer que as pessoas possam descontar no IRS o dinheiro que gastam a comprar ou arranjar computadores, teclados, ratos e programas, desde que sejam para usar na escola ou em cursos. A ideia é ajudar as famílias a ter computadores, já que o governo não conseguiu dar a todos os alunos, e também incentivar a arranjar as coisas em vez de comprar sempre novo, o que é bom para o ambiente.",
+ "context": null,
+ "analysis": "O documento identifica corretamente a lacuna deixada pela dificuldade do Governo em cumprir a promessa de distribuição de computadores a todos os alunos, exacerbada pela digitalização forçada pela COVID-19. A proposta do PAN alinha-se com o objetivo de garantir o acesso a ferramentas digitais para a educação, complementando a ação governamental. Ao permitir a dedução de despesas, transfere parte do encargo para os contribuintes, mas oferece um incentivo direto. A inclusão da dedutibilidade de reparações é um ponto forte, pois promove a sustentabilidade e a economia circular, o que é consistente com a visão de longo prazo para o uso de tecnologia. Não há inconsistências internas na proposta; ela visa preencher uma falha na implementação de uma política pública existente e adicionar um benefício ambiental.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta terá um impacto negativo na receita do governo, uma vez que permitirá aos contribuintes deduzir mais despesas no IRS, resultando num menor valor de imposto a pagar. Embora possa estimular a aquisição e reparação de equipamentos, o efeito líquido será uma diminuição da receita fiscal. Não há indicação de aumento direto nos gastos do governo, mas sim uma redução na sua arrecadação."
+ },
+ "affected": [],
+ "categories": [
+  "educacao",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-14",
+  "legacy": true
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Dispensa laboral para dádiva de sangue e reforço da colheita de plasma",
+ "summary": "Este Projeto de Resolução recomenda ao Governo cinco medidas para incentivar a dádiva de sangue e aumentar a recolha de plasma, não tendo força vinculativa. Em primeiro lugar, propõe alterar o Estatuto do Dador de Sangue para repor a dispensa de comparência ao serviço durante todo o dia da dádiva, sem perda de direitos ou regalias, mediante comprovativo. Em segundo, pede que esse regime seja aplicado de forma clara e uniforme a todos os trabalhadores, evitando interpretações divergentes das entidades empregadoras. Em terceiro, recomenda que seja feita em 2027 uma avaliação técnica, financeira e operacional para criar um programa nacional de colheita de plasma por aférese (técnica que recolhe seletivamente o plasma), com metas para reduzir a dependência externa. Por fim, sugere reforçar os meios humanos, equipamentos e unidades móveis do Instituto Português do Sangue e da Transplantação e articular as medidas com as associações de dadores.",
+ "key_points": [
+  "Alterar o Estatuto do Dador de Sangue para garantir dispensa de comparência ao serviço no dia da dádiva, sem perda de direitos ou regalias, mediante comprovação adequada.",
+  "Assegurar a aplicação homogénea e não discriminatória da dispensa laboral a todos os trabalhadores dadores, garantindo segurança jurídica às entidades empregadoras e aos trabalhadores.",
+  "Realizar em 2027 uma avaliação técnica, financeira e operacional para criar um programa nacional de colheita de plasma por aférese com metas de crescimento e redução da dependência externa.",
+  "Reforçar os meios humanos, técnicos e logísticos do Instituto Português do Sangue e da Transplantação, incluindo contratação ou afetação de profissionais, equipamentos de aférese e eventuais unidades móveis.",
+  "Articular a execução de todas as medidas com as federações, associações e grupos de dadores benévolos de sangue."
+ ],
+ "plain_language": "O JPP quer que o Parlamento recomende ao Governo mudanças para facilitar a vida a quem dá sangue. Hoje, a lei apenas dá dispensa pelo tempo considerado necessário para a dádiva, o que gera dúvidas nos locais de trabalho. A proposta defende que o dador tenha direito a faltar o dia inteiro, sem perder direitos nem regalias, bastando apresentar comprovativo. Também pede mais profissionais e equipamentos para o instituto público responsável pelo sangue e um plano para recolher mais plasma através de aférese, uma técnica que separa apenas esse componente. Como é uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente invoca uma petição da Federação Portuguesa de Dadores Benévolos de Sangue, com 7648 assinaturas, alertando para a quebra nas dádivas. Segundo os dados citados, Portugal perdeu cerca de 40 mil dadores regulares entre 2011 e 2021, enquanto a idade média subiu de 42 para 48 anos. O JPP aponta ainda que o atual Estatuto do Dador, ao limitar a dispensa ao «tempo considerado necessário», cria incerteza laboral, e que a falta de meios do sistema público compromete a recolha de plasma, essencial para medicamentos.",
+ "analysis": "A iniciativa combina de forma coerente o incentivo individual à dádiva com o reforço da capacidade operacional pública, evitando o risco de mobilizar dadores sem meios para realizar colheitas. Também procura resolver uma ambiguidade real da lei atual sobre o tempo de ausência laboral. Contudo, apresenta fragilidades relevantes: tratando-se de um Projeto de Resolução, não obriga o Governo a legislar nem a investir. Além disso, o texto não estima o impacto financeiro para o Estado com a contratação de profissionais e aquisição de equipamentos de aférese, nem avalia os custos laborais que a dispensa de dia inteiro impõe às entidades empregadoras públicas e privadas. O horizonte de 2027 para avaliar o programa de plasma e a ausência de metas concretas de reforço de pessoal também reduzem a exigência imediata da proposta.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Enquanto recomendação, a iniciativa não gera despesa automática, mas a sua execução implica aumento da despesa pública com a contratação de profissionais, aquisição de equipamentos de aférese e eventual recurso a unidades móveis pelo Instituto Português do Sangue e da Transplantação. O documento não apresenta estimativas orçamentais nem quantifica o encargo laboral para empregadores públicos e privados."
+ },
+ "affected": [
+  "dadores de sangue",
+  "trabalhadores por conta de outrem",
+  "entidades empregadoras",
+  "Instituto Português do Sangue e da Transplantação",
+  "utentes do sistema de saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "plasma",
+  "aférese",
+  "dispensa laboral",
+  "ipst"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

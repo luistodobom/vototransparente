@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas de regulação no arrendamento e reconversão de alojamento local",
+ "summary": "Este Projeto de Resolução, uma recomendação não vinculativa dirigida ao Governo pelo PAN, propõe quatro medidas no mercado de arrendamento para apoiar a classe média e as famílias mais vulneráveis. Em primeiro lugar, recomenda a manutenção do controlo de rendas nos novos contratos e o estudo do seu alargamento. Em segundo lugar, defende a criação de um limite máximo para o valor de caução exigido ao arrendatário, calculado segundo a sua realidade económica e taxa de esforço. Em terceiro lugar, propõe um programa de incentivo à reconversão de alojamentos locais em arrendamentos de longa duração. Por fim, recomenda a aprovação de um projeto-piloto temporário e excecional para aplicar tetos às rendas a pessoas e famílias em situação económica vulnerável, mediante pedido dos interessados.",
+ "key_points": [
+  "Manter o controlo de rendas nos novos contratos de arrendamento e estudar o seu alargamento.",
+  "Estabelecer um valor máximo para a caução exigida ao arrendatário, ajustado à realidade económica e à taxa de esforço da pessoa ou família.",
+  "Desenvolver um programa de incentivo à reconversão de alojamentos locais em arrendamentos habitacionais de longa duração.",
+  "Aprovar um projeto-piloto temporário e excecional de aplicação de tetos às rendas, a requerimento do arrendatário, para proteger pessoas e famílias em situação económica vulnerável."
+ ],
+ "plain_language": "Como arrendar casa está cada vez mais caro em Portugal, o PAN quer que o Parlamento recomende ao Governo várias medidas para proteger os inquilinos, embora esta recomendação não obrigue o executivo a agir. O partido pede que se mantenham os limites às rendas nos novos contratos e que a caução pedida pelos senhorios tenha um valor máximo ajustado ao rendimento de cada família. Propõe também dar incentivos para transformar casas de alojamento turístico em arrendamento normal de longa duração e testar limites máximos nas rendas para famílias com dificuldades económicas.",
+ "context": "O PAN justifica a iniciativa com a subida acentuada das rendas, citando dados do INE e estudos que mostram que um salário médio não chega para pagar um apartamento de 50 metros quadrados. Aponta o turismo e o alojamento local como fatores de gentrificação e destaca a saída tardia dos jovens de casa dos pais. Critica ainda as medidas de desregulação atribuídas ao XXV Governo, invocando a posição da Comissão Europeia.",
+ "analysis": "A proposta responde a uma dificuldade social evidente e procura mitigar riscos económicos ao sugerir que os tetos às rendas funcionem apenas em formato de projeto-piloto, de forma temporária e mediante requerimento. Contudo, enquanto Projeto de Resolução, não tem força vinculativa sobre o Governo. Além disso, o texto apresenta fragilidades operacionais: não define como calcular o limite máximo das cauções com base na taxa de esforço, o que pode gerar complexidade e litígios nos contratos entre privados ou retrair a oferta. Também não concretiza o desenho, o financiamento nem os critérios do programa de incentivo à reconversão do alojamento local.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Tratando-se de uma recomendação não vinculativa, a iniciativa não gera impacto orçamental direto imediato. Caso venha a ser implementada pelo Governo, o programa de incentivo à reconversão de alojamentos locais e o projeto-piloto de tetos às rendas poderão aumentar a despesa pública ou reduzir a receita fiscal, mas o documento não especifica montantes nem modalidades de apoio."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "proprietários de alojamento local",
+  "famílias vulneráveis",
+  "jovens"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "arrendamento",
+  "controlo de rendas",
+  "caução",
+  "alojamento local",
+  "habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

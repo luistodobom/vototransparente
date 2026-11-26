@@ -1,0 +1,26 @@
+{
+ "short_title": "Prorrogação e Ajustes de Benefícios Fiscais",
+ "summary": "Esta proposta de lei visa simplificar e melhorar o sistema de benefícios fiscais em Portugal, que se tornou complexo e de difícil escrutínio. Baseando-se num estudo aprofundado, o Governo propõe a prorrogação da vigência de vários benefícios fiscais considerados eficazes e eficientes para as políticas públicas. Adicionalmente, introduz ajustamentos pontuais na legislação fiscal, como a transferência de um benefício fiscal e a criação de uma medida extraordinária para a contagem de prazos no âmbito do Imposto sobre o Rendimento das Pessoas Coletivas, em resposta ao contexto pandémico. Por fim, revoga dois benefícios fiscais relacionados com impostos sobre veículos, por serem considerados injustificados e contrários a princípios ambientais.",
+ "key_points": [],
+ "plain_language": "Em termos simples, esta proposta do governo é para dar uma arrumadela nos benefícios fiscais que existem em Portugal. Como há muitos e é difícil saber se servem para alguma coisa, o governo estudou alguns e decidiu prolongar os que funcionam bem por mais cinco anos. Também aproveita para fazer umas pequenas alterações nas leis dos impostos e, por causa da pandemia, dá mais tempo às empresas para acertarem as contas com o fisco. E, para terminar, vai acabar com dois benefícios fiscais que se aplicavam aos carros, porque já não faziam sentido e até eram maus para o ambiente.",
+ "context": null,
+ "analysis": "O documento reconhece a complexidade e a dispersão do sistema de benefícios fiscais, bem como a dificuldade de escrutínio, o que demonstra uma análise crítica inicial. No entanto, a solução proposta é mais pragmática do que uma reforma abrangente, optando pela prorrogação seletiva de benefícios cuja avaliação foi considerada urgente e positiva, em vez de uma reavaliação completa de todos os benefícios. Esta abordagem, embora compreensível pela limitação de tempo, significa que a questão fundamental da complexidade sistémica não é totalmente resolvida, mas sim gerida. A revogação de benefícios fiscais sobre veículos, por serem 'injustificados e contrários aos princípios ambientais', alinha-se com objetivos de eficiência e sustentabilidade. A medida extraordinária de contagem de prazos para o IRC é uma resposta direta e coerente ao contexto da pandemia, demonstrando adaptabilidade.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "A proposta terá um impacto fiscal misto, mas predominantemente de manutenção da 'despesa fiscal'. A prorrogação de numerosos benefícios fiscais implica a continuação da renúncia a receita por parte do governo, ou seja, uma diminuição da receita potencial. A revogação de dois benefícios fiscais relacionados com impostos sobre veículos poderá resultar num ligeiro aumento da receita governamental. A medida extraordinária de contagem de prazos para o IRC poderá adiar a cobrança de algumas receitas. No geral, o efeito líquido a curto e médio prazo será provavelmente uma continuação da diminuição da receita governamental (ou receita não arrecadada), embora a intenção de promover a eficiência e o investimento possa, a longo prazo, contribuir para o crescimento económico e, consequentemente, para o aumento da base tributável."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "ambiente",
+  "transportes"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

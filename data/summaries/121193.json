@@ -1,0 +1,26 @@
+{
+ "short_title": "Orçamento do Estado para 2022",
+ "summary": "Esta proposta de lei aprova o Orçamento do Estado para o ano de 2022, estabelecendo as regras para a gestão das finanças públicas. O documento detalha como as receitas serão cobradas e as despesas serão realizadas em diversas áreas, como administração central, regiões autónomas, autarquias locais, empresas públicas e segurança social. Inclui disposições sobre impostos, benefícios fiscais, gestão de dívida, políticas de emprego, saúde, educação, justiça, ambiente e transportes, visando a execução das políticas governamentais para o ano.",
+ "key_points": [],
+ "plain_language": "Basicamente, este papelão é o plano do governo para gastar e arrecadar dinheiro em 2022. Diz onde o dinheiro vai ser aplicado – tipo na saúde, escolas, segurança, e até para ajudar quem está sem casa ou para combater incêndios. Também explica de onde vem a massa, como os impostos que pagamos. É a forma de o governo organizar as contas do país para o ano todo, garantindo que há dinheiro para as coisas importantes e para as políticas que querem implementar.",
+ "context": null,
+ "analysis": "O documento é uma proposta de Lei do Orçamento do Estado, o que significa que o seu objetivo principal é, por natureza, definir e regulamentar a gestão financeira do país para o ano de 2022. Não se esperam inconsistências fundamentais, uma vez que a sua função é precisamente alinhar os detalhes da implementação orçamental com os objetivos macroeconómicos e setoriais do Governo. A proposta demonstra um alinhamento claro entre os objetivos políticos e a sua concretização financeira, ao detalhar as dotações orçamentais, as transferências entre entidades e as alterações fiscais necessárias para suportar as diversas áreas de governação, desde a saúde e educação até à segurança e ambiente. A abrangência dos temas abordados reflete uma abordagem integrada à gestão pública, onde as políticas setoriais são suportadas por um quadro financeiro coerente.",
+ "fiscal_impact": {
+  "direction": null,
+  "explanation": "Esta proposta de lei define o plano fiscal do governo para 2022. Por ser o Orçamento do Estado, ela detalha as receitas esperadas (impostos, contribuições) e as despesas planeadas em todos os setores. Consequentemente, aumentará os gastos em certas áreas (como saúde, educação, segurança social, infraestruturas, apoio a empresas e autarquias) e poderá ajustar a receita através de alterações fiscais (IRS, IRC, IVA, impostos especiais de consumo). O efeito líquido será o saldo orçamental (défice ou excedente) previsto para o ano, que é o resultado da diferença entre as receitas e as despesas totais definidas por esta lei."
+ },
+ "affected": [],
+ "categories": [
+  "economia",
+  "saude",
+  "educacao"
+ ],
+ "tags": [],
+ "_meta": {
+  "model": "gemini-2.5-flash (versão anterior do projeto)",
+  "prompt_version": 0,
+  "source": "pdf",
+  "generated": "2025-06-15",
+  "legacy": true
+ }
+}

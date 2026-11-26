@@ -1,0 +1,40 @@
+{
+ "short_title": "Atualização das taxas gerais dos escalões de IRS",
+ "summary": "O Projeto de Lei n.º 787/XVII/2.ª, apresentado pelo grupo parlamentar do Chega, propõe alterar o n.º 1 do artigo 68.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), redefinindo a tabela de taxas gerais aplicáveis aos rendimentos coletáveis. A iniciativa mantém uma estrutura de nove escalões de rendimento coletável, com limites que vão desde valores até 8 342 euros até rendimentos superiores a 86 634 euros. Para estes escalões, o projeto fixa taxas normais progressivas entre 12,10% no primeiro escalão e 48,00% no nono escalão, acompanhadas das respetivas taxas médias até ao oitavo escalão. O diploma determina ainda que estas alterações entram em vigor apenas com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Altera o artigo 68.º do Código do IRS para atualizar a tabela das taxas gerais aplicáveis aos rendimentos coletáveis.",
+  "Mantém a divisão em nove escalões de rendimento coletável, entre valores até 8 342 euros e montantes superiores a 86 634 euros.",
+  "Fixa taxas normais entre 12,10% no primeiro escalão e 48,00% no último escalão, definindo também as respetivas taxas médias até ao oitavo escalão.",
+  "Determina que a alteração legislativa só produz efeitos com a entrada em vigor do Orçamento do Estado seguinte à sua publicação."
+ ],
+ "plain_language": "Este projeto de lei muda a tabela das taxas do IRS, o imposto que as famílias pagam sobre os seus rendimentos. A proposta mantém nove patamares de rendimento e define novas percentagens de imposto para cada um deles: começa nos 12,10% para rendimentos anuais sujeitos a imposto até 8 342 euros e sobe progressivamente até aos 48% para a fatia acima de 86 634 euros. Se a lei for aprovada no Parlamento, as novas taxas não se aplicam de imediato, entrando em vigor apenas com o próximo Orçamento do Estado.",
+ "context": "O proponente argumenta que a carga fiscal sobre o trabalho em Portugal é elevada, citando dados da OCDE de 2025 que apontam uma carga de 39,3% do custo do trabalho para um trabalhador solteiro sem filhos com salário médio, acima da média da OCDE (35,1%). Refere ainda dados da Autoridade Tributária de 2024, segundo os quais 75,62% dos agregados declarantes se encontravam nos três primeiros escalões. O partido defende que o peso fiscal penaliza o mérito e a retenção de trabalhadores qualificados, visando aliviar o custo de vida das famílias de menores e médios rendimentos.",
+ "analysis": "Como ponto positivo, a iniciativa apoia-se em estatísticas identificadas da Autoridade Tributária e da OCDE, reconhecendo com rigor que o indicador da OCDE inclui contribuições sociais e não apenas IRS. Além disso, remete a entrada em vigor para o Orçamento do Estado subsequente, acautelando a estabilidade do orçamento em execução. Contudo, o texto apresenta fragilidades relevantes. Embora critique a existência de nove escalões por gerar progressividade excessiva, o articulado mantém exatamente nove escalões. O projeto não apresenta as taxas vigentes para comparação direta, nem quantifica a perda de receita fiscal, apesar de reconhecer o peso central do IRS nas receitas públicas. Adicionalmente, as taxas médias indicadas nos sétimo e oitavo escalões revelam pequenas discrepâncias aritméticas face às taxas normais propostas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A iniciativa visa reduzir os impostos sobre o trabalho através da atualização das taxas gerais de IRS, o que implica uma diminuição da receita fiscal do Estado a partir do próximo Orçamento do Estado. O documento não quantifica o montante da perda de receita nem indica fontes de compensação orçamental."
+ },
+ "affected": [
+  "contribuintes de IRS",
+  "famílias",
+  "trabalhadores"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "escalões fiscais",
+  "rendimento disponível",
+  "impostos sobre o trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

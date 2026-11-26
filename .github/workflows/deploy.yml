@@ -1,11 +1,14 @@
 name: Deploy site
 
 # Builds the static site from the data committed in site/src/data and site/public/data
-# and publishes it to GitHub Pages. Data is refreshed locally (`make data site`) and committed.
+# and publishes it to GitHub Pages. It never fetches or summarizes data: that is update-data.yml
+# (daily), which commits new data and then calls this workflow (pushes made with GITHUB_TOKEN
+# do not trigger `push` workflows).
 on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_call:
 
 permissions:
   contents: read
@@ -21,6 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # when called from update-data.yml, build the commit it just pushed
 
       - uses: actions/setup-node@v4
         with:

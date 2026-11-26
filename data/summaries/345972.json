@@ -1,0 +1,44 @@
+{
+ "short_title": "Novas regras de troca de informações policiais na União Europeia",
+ "summary": "A proposta de lei do Governo estabelece um novo regime jurídico para o pedido e a transmissão de informações entre autoridades policiais nacionais e dos restantes Estados-Membros da União Europeia, com vista à prevenção, deteção, investigação ou repressão de infrações penais e terrorismo. Transpõe duas diretivas europeias de 2023 e revoga a Lei n.º 74/2009. O diploma centraliza a coordenação no Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), impõe a utilização da rede segura SIENA da Europol como canal preferencial e fixa prazos máximos de resposta entre oito horas e sete dias. Prevê ainda a criação de um sistema eletrónico único de gestão de processos pelo PUC-CPI, limita as categorias de dados pessoais partilháveis e alarga a definição legal de grupo terrorista na lei de combate ao terrorismo às entidades listadas pela União Europeia.",
+ "key_points": [
+  "Centraliza no Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI) o encaminhamento, receção e difusão de pedidos de informação com outros Estados-Membros.",
+  "Fixa prazos máximos de resposta de oito horas para pedidos urgentes com acesso direto a bases de dados, três dias para pedidos urgentes indiretos e sete dias para os restantes pedidos.",
+  "Estabelece a plataforma SIENA da Europol como canal obrigatório para a troca de informações, admitindo exceções em casos de urgência, falha técnica ou envolvimento de países terceiros.",
+  "Determina que o PUC-CPI implemente um sistema eletrónico único de gestão de processos, com verificação de necessidade dos dados pessoais no prazo máximo de seis meses após o fim da troca e posterior eliminação permanente.",
+  "Define regras para recusa de pedidos, incluindo crimes puníveis em Portugal com prisão até um ano, riscos para a segurança nacional ou violação manifesta de direitos fundamentais.",
+  "Altera a lei de combate ao terrorismo para incluir na definição de grupo terrorista as entidades listadas na Posição Comum 2001/931/PESC do Conselho."
+ ],
+ "plain_language": "Como não há controlos nas fronteiras dentro da União Europeia, as polícias dos diferentes países precisam de trocar informações rapidamente para investigar crimes e combater o terrorismo. Esta lei cria regras mais claras para essa partilha. Em Portugal, os pedidos passam a ser geridos por um único centro, o PUC-CPI, usando uma rede informática segura da Europol. Há prazos curtos para responder: oito horas em casos urgentes e até sete dias nos restantes. A lei também protege os dados dos cidadãos, obrigando a apagar informações que deixem de ser necessárias, e atualiza a lista oficial de grupos considerados terroristas.",
+ "context": "O Governo afirma que o anterior regime europeu de troca de informações policiais era pouco claro, pouco utilizado e permitia o uso disperso de vários canais de comunicação, gerando atrasos e riscos para a proteção de dados pessoais. Perante a criminalidade organizada e o terrorismo transfronteiriços, foram aprovadas em 2023 duas diretivas europeias que revogam o quadro anterior e harmonizam a proteção de dados. A proposta visa cumprir as obrigações de transposição de Portugal e articular a cooperação policial europeia com a estrutura nacional já existente.",
+ "analysis": "A proposta clarifica prazos de resposta, concentra pedidos num ponto único e impõe um canal seguro comum (SIENA), reduzindo riscos de dispersão de informação. Inclui salvaguardas relevantes, como a verificação de direitos fundamentais, limites às categorias de dados pessoais partilháveis e revisão periódica para eliminação de registos. Contudo, existem riscos de implementação: cumprir prazos de oito horas exige capacidade operacional permanente dos órgãos de polícia criminal e rápida articulação com o Ministério Público quando seja necessária validação judiciária. Além disso, os mecanismos de segurança e interoperabilidade do novo sistema eletrónico único de gestão de processos ficam remetidos para portaria posterior, sem prazo de aprovação. O texto também não quantifica custos tecnológicos nem divulga o conteúdo dos pareceres emitidos pela Comissão Nacional de Proteção de Dados, pelo Conselho Superior do Ministério Público e pelo SIS.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O documento não apresenta estimativa de impacto orçamental nem quantifica encargos financeiros. Embora a estrutura do PUC-CPI já exista, a obrigação de implementar e operar um sistema eletrónico único de gestão de processos e de garantir prazos de resposta reduzidos pode gerar custos tecnológicos e operacionais não quantificados."
+ },
+ "affected": [
+  "órgãos de polícia criminal",
+  "Ponto Único de Contacto para a Cooperação Policial Internacional",
+  "Ministério Público e autoridades judiciárias",
+  "cidadãos objeto de troca de dados pessoais"
+ ],
+ "categories": [
+  "seguranca",
+  "justica",
+  "internacional"
+ ],
+ "tags": [
+  "cooperação policial",
+  "proteção de dados",
+  "terrorismo",
+  "europol",
+  "união europeia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}

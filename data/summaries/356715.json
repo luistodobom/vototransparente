@@ -1,0 +1,42 @@
+{
+ "short_title": "Prevenção de fugas e acompanhamento de doentes vulneráveis no SNS",
+ "summary": "Este projeto de resolução recomenda ao Governo, de forma não vinculativa, a criação de mecanismos de prevenção para utentes com patologias do foro cognitivo ou psiquiátrico nos hospitais do Serviço Nacional de Saúde (SNS) e o reforço do direito ao acompanhamento. Concretamente, propõe que o Executivo implemente, no prazo de seis meses, um sistema universal de pulseiras distintivas para prevenir fugas e situações de risco, assegurando privacidade, dignidade e tecnologia fiável. Recomenda ainda a definição de protocolos clínicos uniformes para identificar os doentes elegíveis, a formação adequada dos profissionais de saúde e a avaliação regular do sistema. Paralelamente, insta o Governo a garantir o cumprimento efetivo da Lei n.º 15/2014, eliminando restrições injustificadas à presença de acompanhantes, criando condições físicas e organizativas para a sua permanência e assegurando informação clara sobre este direito.",
+ "key_points": [
+  "Criar e adotar, no prazo de seis meses, um sistema universal de pulseiras distintivas nos hospitais do SNS para prevenir fugas de doentes com patologias cognitivas ou psiquiátricas.",
+  "Definir protocolos clínicos claros e uniformes em todo o país para identificar os utentes elegíveis para este sistema de monitorização.",
+  "Garantir formação adequada aos profissionais de saúde sobre a utilização dos dispositivos tecnológicos e o acompanhamento destes doentes.",
+  "Assegurar o cumprimento efetivo do direito ao acompanhamento previsto na Lei n.º 15/2014, eliminando restrições injustificadas e melhorando as condições físicas e de informação nos hospitais.",
+  "Avaliar regularmente o funcionamento das medidas adotadas, envolvendo utentes, cuidadores, profissionais de saúde e autoridades públicas."
+ ],
+ "plain_language": "Esta proposta do Parlamento pede ao Governo que torne mais segura a ida ao hospital de pessoas com demência, Alzheimer ou problemas psiquiátricos, evitando que se percam ou fujam. Como é uma recomendação, não obriga o Governo a agir, mas sugere que todos os hospitais públicos passem a usar pulseiras eletrónicas para vigiar estes doentes, respeitando a sua privacidade. Também pede que os hospitais cumpram a lei que já existe e deixem sempre familiares ou cuidadores ficar ao lado destes doentes, dando-lhes espaço e informação clara, em vez de impedir a sua entrada.",
+ "context": "O proponente justifica a iniciativa com o envelhecimento populacional e o aumento de casos de demência, que geram desorientação e vulnerabilidade nos hospitais. Refere episódios trágicos de fuga no SNS e cita dados da Entidade Reguladora da Saúde (ERS): 335 reclamações sobre falhas na alta e controlos de saída até ao primeiro trimestre de 2025, além de 4056 queixas sobre acompanhamento entre 2023 e 2024. Aponta ainda a desigualdade no uso de pulseiras eletrónicas entre hospitais e acompanha a Petição n.º 125/XVI/1.ª, subscrita por mais de 9740 pessoas.",
+ "analysis": "Como ponto forte, a iniciativa aborda um problema real e documentado por dados da ERS, combinando tecnologia de prevenção com o reforço humano do direito ao acompanhamento já previsto na lei. A exigência de protocolos clínicos uniformes procura corrigir desigualdades entre hospitais. Contudo, apresenta fragilidades relevantes. Sendo um projeto de resolução, não tem força vinculativa para obrigar o Governo ou os hospitais a agir. Além disso, o prazo de seis meses para implementar um sistema universal de pulseiras em todo o SNS revela-se exigente face aos processos de contratação pública, adaptação tecnológica e formação. O texto também não estima custos nem detalha como compatibilizar a sinalização de doentes («pulseiras distintivas») com a proteção contra o estigma e a privacidade, nem como superar limitações físicas de espaço nas urgências para acolher acompanhantes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Por se tratar de uma recomendação não vinculativa, a resolução não gera despesa obrigatória imediata. Contudo, a concretização das medidas propostas implicaria custos com a aquisição universal de pulseiras eletrónicas no SNS, formação de profissionais e adaptação física dos espaços hospitalares, não existindo montantes quantificados no documento."
+ },
+ "affected": [
+  "utentes com patologias cognitivas ou psiquiátricas",
+  "familiares e cuidadores",
+  "profissionais de saúde do SNS",
+  "hospitais do Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "demência",
+  "saúde mental",
+  "sns",
+  "direito ao acompanhamento",
+  "pulseiras eletrónicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "gemini-4-hydrogen",
+  "prompt_version": 1,
+  "source": "pdf",
+  "generated": "2026-11-25"
+ }
+}
