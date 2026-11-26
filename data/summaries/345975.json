@@ -1,0 +1,40 @@
+{
+ "short_title": "Inclusão das creches no sistema educativo",
+ "summary": "O Bloco de Esquerda propõe alterar a Lei de Bases do Sistema Educativo para integrar a creche no sistema educativo, sob a designação de educação para a infância, destinada a crianças desde o nascimento até ao ingresso no ensino básico. Incumbe ao Estado assegurar uma rede de educação para a infância, composta por instituições públicas, regionais, locais e de outras entidades, e apoiar com subvenção, pelo menos parcial, as instituições da rede pública. A orientação pedagógica é assegurada por educadores de infância, a frequência é facultativa e passam a aplicar-se os serviços de ação social escolar. A lei entra em vigor no dia seguinte à publicação, com efeitos a partir do Orçamento do Estado subsequente.",
+ "key_points": [
+  "Integra a educação para a infância (do nascimento ao ensino básico) no sistema educativo.",
+  "Incumbe o Estado de assegurar uma rede de educação para a infância, com instituições públicas e de outras entidades.",
+  "Subvenção estatal a, pelo menos, parte dos custos das instituições da rede pública.",
+  "Orientação pedagógica por educadores de infância e frequência facultativa.",
+  "Alarga a ação social escolar a esta etapa."
+ ],
+ "plain_language": "A creche deixaria de ser vista apenas como apoio às famílias e passaria a fazer parte do sistema de educação, com educadores e apoio do Estado, mas os pais continuariam a decidir se querem usá-la.",
+ "context": "O proponente invoca pareceres e conclusões do Conselho Nacional de Educação, segundo os quais a educação dos 0 aos 6 anos é decisiva e a creche deve ser reconhecida como serviço educativo, em linha com o direito das crianças à educação.",
+ "analysis": "Dá enquadramento educativo à creche e uniformiza o estatuto da primeira infância. Fragilidades: a alteração é de natureza programática e não fixa gratuitidade nem calendário; não quantifica custos nem meios, incluindo educadores e instalações; a expressão «rede» e a subvenção «pelo menos parcial» dão ampla margem ao Governo; e não esclarece a articulação com a tutela da Segurança Social, que hoje gere as creches.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração e o apoio do Estado às instituições da rede pública implicam mais despesa, que o texto não quantifica."
+ },
+ "affected": [
+  "crianças até à idade escolar e famílias",
+  "educadores de infância",
+  "instituições de creche"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "creches",
+  "sistema educativo",
+  "primeira infância",
+  "educadores de infância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

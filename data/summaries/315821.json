@@ -1,0 +1,42 @@
+{
+ "short_title": "Alarga reforma antecipada por deficiência a incapacidade de 60-79%",
+ "summary": "O Projeto de Lei n.º 311/XVII/1.ª, do PS, altera o artigo 2.º da Lei n.º 5/2022 para alargar o acesso à antecipação da pensão de velhice por deficiência. Mantém a idade de 60 anos e passa a admitir incapacidade igual ou superior a 60%, certificada por Atestado Médico de Incapacidade Multiusos. Para incapacidade igual ou superior a 80%, exige 15 anos de carreira com deficiência de grau igual ou superior a 60%; para incapacidade entre 60% e 79%, exige 20 anos. Neste segundo caso, a idade é atualizada com a esperança média de vida e depende de validação dos serviços de verificação da Segurança Social. O Governo regulamenta em 60 dias e a lei é reavaliada em 36 meses.",
+ "key_points": [
+  "Admite incapacidade igual ou superior a 60%, certificada por Atestado Médico de Incapacidade Multiusos, com 60 anos ou mais.",
+  "Incapacidade igual ou superior a 80%: 15 anos de carreira contributiva com deficiência de grau igual ou superior a 60%.",
+  "Incapacidade entre 60% e 79%: 20 anos de carreira contributiva, idade atualizada com a esperança média de vida e validação pelos Serviços de Verificação de Incapacidade Permanente.",
+  "Regulamentação pelo Governo em 60 dias e reavaliação da lei em 36 meses.",
+  "Efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje só reformam mais cedo por deficiência as pessoas com 80% ou mais de incapacidade. O PS quer incluir também quem tem entre 60% e 79%, mas com mais exigências: 20 anos de descontos com essa deficiência e uma avaliação da Segurança Social que confirme um desgaste elevado e irreversível. A lei seria revista ao fim de três anos.",
+ "context": "O PS refere que o regime criado pela Lei n.º 5/2022, de 7 de janeiro, só abrange incapacidade igual ou superior a 80% e que o acesso tem sido muito reduzido. Considera que situações como deficiências motoras, amputações, paralisia cerebral ou surdez ficam de fora por não atingirem 80% na Tabela Nacional de Incapacidades, o que gera iniquidade.",
+ "analysis": "O projeto alarga o regime de forma graduada, com requisitos mais exigentes para o novo grupo, uma avaliação específica e uma cláusula de reavaliação, o que reduz riscos orçamentais. Fragilidades: a validação do desgaste elevado e irreversível depende de critérios por definir pelo Governo, o que pode gerar incerteza e demora; e não há estimativa do número de novos beneficiários nem do custo. A idade de 60 anos, face ao PCP que propõe 55, é mais conservadora.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao alargar o universo de beneficiários da pensão antecipada, a despesa da Segurança Social aumentaria. O texto não apresenta montantes e os efeitos começam com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "pessoas com deficiência com incapacidade entre 60% e 79%",
+  "pessoas com incapacidade igual ou superior a 80%",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "deficiência",
+  "pensão de velhice",
+  "reforma antecipada",
+  "incapacidade",
+  "Lei 5/2022"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

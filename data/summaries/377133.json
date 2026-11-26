@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização para rever o Código do Processo nos Tribunais Administrativos",
+ "summary": "Proposta de lei do Governo que pede à Assembleia da República autorização legislativa, por 180 dias, para rever o Código de Processo nos Tribunais Administrativos (CPTA), com o decreto-lei autorizado anexo. Reforça os deveres de gestão processual do juiz e de cooperação e boa-fé da Administração, incluindo a reapreciação oficiosa da validade dos atos impugnados. Cria um novo capítulo de tramitação simplificada para ações administrativas até 15.000 euros: articulados em formulário eletrónico, sem reconvenção nem intervenção do Ministério Público, prazo geral de cinco dias, restantes prazos reduzidos a metade, máximo de cinco testemunhas (oito com autorização), audiência por meios tecnológicos, sentença oral em casos simples e duração máxima indicada de 18 meses na primeira instância. Prevê restituição de 25% das taxas de justiça se as partes porem termo à instância, muda a competência territorial nas intimações contra a AIMA e clarifica o patrocínio do Estado.",
+ "key_points": [
+  "Reforça a gestão processual pelo juiz e a cooperação e boa-fé da Administração, que deve reapreciar oficiosamente os atos impugnados e comunicar ao tribunal factos que possam pôr termo ao processo, com responsabilidade disciplinar em caso de incumprimento.",
+  "Tramitação simplificada para ações administrativas até 15.000 euros, não aplicável se a parte não tiver advogado (quando não obrigatório) ou houver contrainteressados.",
+  "Prazo geral de cinco dias, outros prazos reduzidos a metade, no máximo cinco testemunhas por parte (até oito, com decisão sem recurso), audiência por meios tecnológicos e sentença oral em casos de manifesta simplicidade; o juiz pode passar o processo para a tramitação comum.",
+  "Duração máxima de 18 meses entre a propositura e a decisão de primeira instância e restituição de 25% das taxas de justiça quando as partes ponham termo à instância por acordo.",
+  "Nas intimações para proteção de direitos, liberdades e garantias contra a AIMA, o tribunal competente passa a ser o da residência ou sede do autor, com articulados em formulário eletrónico.",
+  "Clarifica que o Estado é representado pelo Ministério Público, com possibilidade de mandatário judicial por decisão fundamentada, na sequência da declaração de inconstitucionalidade da norma anterior."
+ ],
+ "plain_language": "O Governo quer que o Parlamento o autorize a mudar as regras dos processos nos tribunais administrativos para os tornar mais rápidos. Os casos mais pequenos, até 15.000 euros, teriam um processo mais simples; a Administração teria de colaborar mais com os tribunais e de corrigir por si os atos ilegais; e as pessoas que processam a AIMA poderiam fazê-lo no tribunal da sua área de residência. Também se clarifica quem representa o Estado nos processos.",
+ "context": "O Governo refere o aumento da pendência processual na jurisdição administrativa e fiscal e a necessidade de agilizar a tramitação sem prejudicar as garantias das partes. Invoca também a necessidade de redistribuir a carga processual dos processos contra a AIMA e de clarificar o patrocínio do Estado após uma declaração de inconstitucionalidade com força obrigatória geral.",
+ "analysis": "A proposta ataca causas reconhecidas da morosidade, com procedimentos padronizados, oralidade e incentivos à resolução consensual, e protege garantias ao permitir a passagem à tramitação comum com possibilidade de completar os articulados. Contudo, é uma lei de autorização: o Parlamento define o sentido e a extensão, mas o conteúdo final fica nas mãos do Governo. A compressão de prazos, o limite de testemunhas e a exclusão do Ministério Público podem reduzir meios de defesa em litígios de valor baixo mas relevantes para as pessoas; a meta de 18 meses é indicativa e depende de meios dos tribunais que o texto não aborda. A responsabilidade disciplinar da Administração pode ser difícil de aplicar, e a alteração de competência territorial contra a AIMA pode deslocar a carga processual sem reforçar os tribunais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica impactos orçamentais. A restituição de 25% das taxas de justiça e o pagamento reduzido de 75% por entidades dispensadas de pagamento prévio reduzem receitas de custas; a maior celeridade pode reduzir custos, mas a implementação eletrónica pode exigir meios."
+ },
+ "affected": [
+  "cidadãos e empresas em litígio com a Administração",
+  "magistrados e tribunais administrativos",
+  "advogados",
+  "AIMA e outras entidades públicas",
+  "Ministério Público"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "cpta",
+  "tribunais administrativos",
+  "autorização legislativa",
+  "tramitação simplificada",
+  "aima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

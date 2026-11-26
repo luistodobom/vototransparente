@@ -1,0 +1,40 @@
+{
+ "short_title": "Direito ao subsídio de refeição no Código do Trabalho",
+ "summary": "Projeto de Lei do BE que adita o artigo 262.º-A ao Código do Trabalho para consagrar o subsídio de refeição como direito geral dos trabalhadores por conta de outrem. O valor diário não pode ser inferior ao fixado para a função pública, sem prejuízo de valores superiores já acordados. Salvo regime coletivo mais favorável, o direito pressupõe trabalho efetivo e pelo menos cinco horas de trabalho por dia; os trabalhadores a tempo parcial recebem valor proporcional às horas trabalhadas. O subsídio pode ser pago em dinheiro, em espécie ou através de vales ou cartões de refeição, cabendo a escolha ao trabalhador quando exista alternativa. A lei entraria em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cria o artigo 262.º-A do Código do Trabalho com o direito ao subsídio diário de refeição.",
+  "O valor mínimo é o fixado para os trabalhadores da função pública, mantendo-se valores superiores já existentes.",
+  "Exige trabalho efetivo e pelo menos 5 horas diárias, salvo regime coletivo mais favorável.",
+  "Trabalhadores a tempo parcial recebem valor proporcional às horas trabalhadas.",
+  "Pagamento em dinheiro, em espécie ou por vales/cartões, com escolha do trabalhador quando haja alternativa."
+ ],
+ "plain_language": "Hoje o subsídio de refeição no privado só existe se estiver no contrato ou num acordo coletivo. O BE propõe que passe a ser um direito de todos os trabalhadores, com um valor mínimo igual ao da função pública. Quem trabalhe pelo menos cinco horas num dia teria direito a ele, e quem trabalha a tempo parcial receberia uma parte proporcional.",
+ "context": "O proponente nota que o subsídio de refeição não é obrigatório no setor privado e que cerca de 60% dos trabalhadores o recebem, deixando 1,7 milhões sem qualquer valor. Compara com o subsídio de Natal, que começou na contratação coletiva e foi depois universalizado por lei, e defende maior igualdade entre trabalhadores.",
+ "analysis": "A proposta uniformiza um direito hoje dependente da negociação e protege trabalhadores precários, com regras claras sobre tempo parcial e forma de pagamento. Há fragilidades: o texto não prevê regime sancionatório nem transição para as empresas, e não quantifica o impacto, que pode pesar sobre micro e pequenas empresas. O limiar de cinco horas pode deixar de fora alguns trabalhadores. A indexação ao valor da função pública liga o piso a decisões do Estado sobre a sua própria política salarial.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A medida aumenta custos para empregadores privados. O efeito nas receitas fiscais e contributivas depende do regime fiscal do subsídio, que o texto não altera nem quantifica."
+ },
+ "affected": [
+  "trabalhadores do setor privado sem subsídio de refeição",
+  "trabalhadores a tempo parcial",
+  "empregadores privados"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "subsídio de refeição",
+  "código do trabalho",
+  "setor privado",
+  "salário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

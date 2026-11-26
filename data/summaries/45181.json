@@ -1,0 +1,39 @@
+{
+ "short_title": "Integrar assistentes operacionais precários na escola pública",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo que regularize os vínculos precários dos assistentes operacionais contratados no ano letivo 2017/2018, garantindo a sua vinculação através de contrato de trabalho em funções públicas por tempo indeterminado. O texto afirma que estes trabalhadores são contratados a termo todos os anos, renovados até ao limite legal e depois despedidos, apesar de corresponderem a necessidades permanentes das escolas, e refere que mais de 1000 contratados em 2017 seriam dispensados a 31 de agosto. Critica a desadequação da portaria de rácios e aponta o agravamento das exigências com a pandemia de COVID-19. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a regularização dos vínculos precários dos assistentes operacionais contratados em 2017/2018.",
+  "A vinculação seria por contrato de trabalho em funções públicas por tempo indeterminado.",
+  "Alega que as funções correspondem a necessidades permanentes das escolas.",
+  "Refere mais de 1000 trabalhadores contratados em 2017 em risco de despedimento."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que dê contratos permanentes aos auxiliares das escolas que foram contratados a prazo em 2017/2018 e que fazem falta todos os anos. Hoje, depois de acabar o limite de renovações, são despedidos e substituídos por outros com contrato precário. É só uma recomendação.",
+ "context": "O proponente diz que a portaria de rácios está desadequada e que há défice crónico de assistentes operacionais, com sobrecarga e baixas médicas. Afirma que o Governo responde com contratos a prazo renovados e depois substitui os trabalhadores, em vez de abrir concursos para contratação sem termo.",
+ "analysis": "A proposta é específica, dirigida a um grupo identificado, e responde a uma alegada irregularidade de uso de contratos a prazo para funções permanentes. Fragilidades: o texto não quantifica o total de trabalhadores abrangidos além de referir mais de 1000, não discute a via legal, como concurso, nem o custo, e a data do despedimento citada, 31 de agosto, já é anterior à data do documento, o que limita a sua utilidade prática. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A passagem a vínculos sem termo implicaria despesa permanente com pessoal, que o texto não quantifica."
+ },
+ "affected": [
+  "assistentes operacionais das escolas",
+  "escolas e agrupamentos",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "assistentes operacionais",
+  "vínculos precários",
+  "escola pública",
+  "contratação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Competência territorial das ações contra a AIMA",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 20.º do Código de Processo nos Tribunais Administrativos. Acrescenta um novo n.º 6 segundo o qual os pedidos de intimação para proteção de direitos, liberdades e garantias contra a AIMA são da competência do tribunal da área da unidade orgânica territorialmente desconcentrada em que o autor iniciou o processo de acolhimento e integração, ou, se iniciado em Lisboa, do tribunal para onde foi distribuído. Prevê que os processos pendentes no Tribunal Administrativo de Círculo de Lisboa sejam redistribuídos pelo Conselho Superior dos Tribunais Administrativos e Fiscais, segundo critérios objetivos, e aplica-se aos processos sem decisão.",
+ "key_points": [
+  "Novo n.º 6 do artigo 20.º do CPTA: competência territorial das intimações contra a AIMA segue a unidade desconcentrada do autor.",
+  "Processos pendentes em Lisboa são redistribuídos por qualquer tribunal administrativo, por decisão do CSTAF.",
+  "O CSTAF fixa os critérios objetivos da redistribuição.",
+  "Aplica-se apenas a processos em que o TAC de Lisboa ainda não tenha decidido.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje, quase todas as ações contra a AIMA acabam no tribunal de Lisboa, que está sobrecarregado. A Iniciativa Liberal propõe que passem a ser tratadas no tribunal da zona onde a pessoa iniciou o seu processo, e que os casos pendentes sejam repartidos por outros tribunais.",
+ "context": "A IL refere o aumento exponencial de processos contra a AIMA no Tribunal Administrativo de Círculo de Lisboa: até 31 de outubro de 2024 recebera 8.278 ações, das quais 3.123 intimações, e a Ordem dos Advogados indicava 54.381 processos pendentes. Considera que isso afeta toda a tramitação do tribunal.",
+ "analysis": "A medida ataca a concentração geográfica de processos de forma simples e com efeito imediato. Riscos: pode apenas deslocar o congestionamento para outros tribunais sem mais juízes ou funcionários; a redistribuição de processos pendentes pode atrasar casos urgentes; e não resolve a causa dos litígios, ou seja, a demora da AIMA. O texto não apresenta estimativa do impacto na pendência. Os efeitos dependem também da capacidade dos tribunais de destino.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa nem receita; limita-se a alterar regras de competência territorial e a redistribuir processos. Eventuais necessidades de meios nos tribunais de destino não são abordadas."
+ },
+ "affected": [
+  "imigrantes com ações contra a AIMA",
+  "tribunais administrativos",
+  "AIMA",
+  "advogados"
+ ],
+ "categories": [
+  "justica",
+  "imigracao"
+ ],
+ "tags": [
+  "AIMA",
+  "tribunais administrativos",
+  "competência territorial",
+  "intimações",
+  "CPTA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

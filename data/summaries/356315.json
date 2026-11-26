@@ -1,0 +1,42 @@
+{
+ "short_title": "Quadro legal para identidade de género nas escolas",
+ "summary": "O Projeto de Lei do BE retoma o texto do Decreto da Assembleia da República 127/XV, que não chegou a ser lei após veto político do Presidente da República. Altera o artigo 12.º da Lei n.º 38/2018 e estabelece o quadro jurídico das medidas administrativas que as escolas devem adotar para garantir o direito à autodeterminação da identidade e expressão de género e à proteção das características sexuais. Prevê medidas de prevenção da discriminação, canais de deteção e intervenção, adaptação de documentos e uso do nome autoatribuído, regras sobre vestuário, atividades separadas por sexo, casas de banho e balneários, formação do pessoal e confidencialidade dos dados.",
+ "key_points": [
+  "Reformula o artigo 12.º da Lei n.º 38/2018, remetendo a definição do quadro das medidas administrativas para lei própria.",
+  "Obriga as escolas a adotar medidas de prevenção da discriminação, deteção de situações de risco, proteção da identidade de género e formação.",
+  "Cada escola deve definir responsáveis e canais de comunicação e, após conhecimento da situação, promover a avaliação em articulação com os pais ou representantes legais.",
+  "Garante o uso do nome autoatribuído nas atividades escolares, a adequação da documentação e a escolha do vestuário e de atividades diferenciadas por sexo.",
+  "Prevê o acesso a casas de banho e balneários, com as adaptações necessárias, e a confidencialidade dos dados dos estudantes em transição."
+ ],
+ "plain_language": "A proposta obriga as escolas a seguir regras claras para respeitar crianças e jovens trans ou de género diverso. Por exemplo, usar o nome que escolheram, proteger a sua privacidade, combater a discriminação e formar professores e funcionários. As escolas devem também falar com os pais ou encarregados de educação quando tomam conhecimento de uma situação e ativar apoio psicológico ou comunicar à comissão de proteção quando houver risco.",
+ "context": "O BE recorda que o Tribunal Constitucional declarou inconstitucionais, em 2021, normas da Lei n.º 38/2018 por remeterem matéria de direitos para decreto-lei, e que o diploma de 2023/2024 sobre o tema foi vetado e não foi reapreciado por causa de eleições antecipadas. Argumenta que repor estas normas é necessário, sobretudo face a um projeto de outro partido que visa revogar a lei de 2018.",
+ "analysis": "A proposta tem a vantagem de resolver a lacuna criada pela decisão do Tribunal Constitucional, fixando em lei da Assembleia da República o que antes estava em decreto-lei, e de recuperar um texto já discutido em especialidade. Em contrapartida, retoma um texto que mereceu veto político por causa do papel dos pais, e o articulado mantém tensões: o respeito pela vontade dos pais coexiste com a garantia de autonomia e privacidade do menor. Algumas formulações (por exemplo, o acesso a balneários com adaptações «que considere necessárias») deixam grande margem às escolas. O texto não quantifica custos de formação ou adaptação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A formação do pessoal e eventuais adaptações de instalações escolares podem implicar despesa, mas não é estimada."
+ },
+ "affected": [
+  "crianças e jovens trans ou de género diverso",
+  "escolas e agrupamentos",
+  "docentes e pessoal não docente",
+  "pais e encarregados de educação"
+ ],
+ "categories": [
+  "direitos",
+  "educacao"
+ ],
+ "tags": [
+  "identidade de género",
+  "escolas",
+  "Lei 38/2018",
+  "autodeterminação",
+  "não discriminação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

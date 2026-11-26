@@ -1,0 +1,44 @@
+{
+ "short_title": "Regime excecional de finanças locais para concelhos em calamidade",
+ "summary": "A Proposta de Lei do Governo, com pedido de prioridade e urgência, cria um regime temporário e excecional de flexibilização da Lei das Finanças Locais (Lei n.º 73/2013) para os concelhos abrangidos pela situação de calamidade declarada após a tempestade Kristin, em janeiro de 2026. Permite às câmaras contrair empréstimos de curto prazo até 31 de agosto de 2026 sem autorização prévia da assembleia municipal, com ratificação posterior. Dispensa limites na previsão de receita própria para despesas da calamidade, exclui essa despesa do equilíbrio orçamental e permite revisões orçamentais aprovadas pelo presidente do executivo. Autoriza apoios entre autarquias, apoios a pessoas vulneráveis e isenções de taxas até ao fim do ano. Produz efeitos a 28 de janeiro de 2026 e cessa a 31 de dezembro de 2026.",
+ "key_points": [
+  "Empréstimos de curto prazo das câmaras até 31 de agosto de 2026, sem autorização prévia da assembleia municipal e com ratificação posterior.",
+  "Municípios e entidades intermunicipais podem apoiar outras autarquias afetadas sem autorização das Finanças e das Autarquias Locais.",
+  "Despesa da calamidade e perda de receita por isenções não contam para o equilíbrio orçamental.",
+  "Revisão orçamental para empreitadas e aquisições de reconstrução aprovada pelo presidente do órgão executivo, com ratificação posterior.",
+  "Isenção de taxas, preços e tarifas decidida pela câmara, até ao termo do ano civil.",
+  "Mantém-se a tutela inspetiva sobre as autarquias; o regime termina a 31 de dezembro de 2026."
+ ],
+ "plain_language": "Depois da tempestade Kristin e das cheias, o Governo propõe regras mais flexíveis, só por este ano, para as câmaras dos concelhos afetados poderem gastar e pedir empréstimos mais depressa na reconstrução e no apoio às pessoas, sem as habituais limitações. As decisões têm depois de ser comunicadas ou ratificadas pelos órgãos municipais.",
+ "context": "O Governo explica que a tempestade Kristin, a 28 de janeiro de 2026, e episódios seguintes causaram cheias e danos de grande dimensão, levando à declaração de calamidade. As autarquias enfrentam despesa extraordinária para a qual a Lei n.º 73/2013 pode não ser adequada.",
+ "analysis": "O regime dá rapidez às autarquias numa emergência, mantendo ratificação posterior e tutela inspetiva, e tem prazo de vigência. Os riscos são o endividamento de curto prazo sem controlo prévio dos órgãos deliberativos, a dispensa de limites de receita e equilíbrio, que pode fragilizar contas locais, e a margem para classificar despesa como ligada à calamidade. O texto não quantifica os montantes nem identifica fontes de financiamento ou apoio do Estado central, e a ligação direta à calamidade depende de fundamentação por cada município.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Flexibiliza limites de endividamento e permite mais despesa e perda de receita por isenções nas autarquias afetadas. O texto não indica montantes."
+ },
+ "affected": [
+  "municípios dos concelhos em calamidade",
+  "assembleias municipais",
+  "população afetada pela tempestade",
+  "freguesias e entidades intermunicipais"
+ ],
+ "categories": [
+  "territorio",
+  "administracao",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestade kristin",
+  "calamidade",
+  "finanças locais",
+  "empréstimos",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

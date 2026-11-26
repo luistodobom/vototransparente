@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio extraordinário à vindima de 2026 no Douro",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo quatro medidas para a Região Demarcada do Douro. Primeiro, instituir um mecanismo extraordinário de apoio à vindima de 2026 para absorção e destilação de uvas excedentárias, com compensação financeira por quilograma referenciada aos custos de produção da viticultura de montanha. Segundo, converter o excedente em aguardente vínica de origem regional, para recuperar os montantes públicos. Terceiro, mobilizar os saldos não executados das medidas extraordinárias de 2025 e os fundos do novo quadro de cofinanciamento da União Europeia para a destilação de crise. Quarto, abrir o apoio antes do início da vindima, salvaguardando a capacidade de armazenamento das adegas.",
+ "key_points": [
+  "Criar um mecanismo extraordinário de absorção e destilação de uvas excedentárias na vindima de 2026.",
+  "Compensar por quilograma, com referência aos custos da viticultura de montanha.",
+  "Converter o excedente em aguardente vínica regional para recuperar os montantes públicos.",
+  "Mobilizar saldos não executados de 2025 e fundos europeus de destilação de crise.",
+  "Abrir o apoio antes da vindima, protegendo a capacidade de armazenamento das adegas."
+ ],
+ "plain_language": "O Chega pede ao Governo que ajude os viticultores do Douro a escoar as uvas que não conseguem vender, pagando-lhes por quilo para essas uvas serem transformadas em aguardente. O dinheiro viria de verbas de 2025 por gastar e de fundos europeus, e o apoio teria de estar disponível antes de a vindima começar. É uma recomendação ao Governo, sem caráter obrigatório.",
+ "context": "O proponente descreve uma crise na região, com redução das vendas de vinho do Porto e perdas acumuladas estimadas em cerca de 41 milhões de euros em três anos. O benefício desceu de 116 mil pipas em 2022 para 75 mil em 2025, e algumas uvas ficaram por vindimar. Refere novas regras da União Europeia que cofinanciam a destilação e a colheita em verde.",
+ "analysis": "A medida visa um problema real e urgente e prevê a recuperação de parte do dinheiro através da venda de aguardente. Fragilidades: não estima o custo total nem o valor por quilograma, depende da aprovação do cofinanciamento europeu e de saldos cuja existência não demonstra, e a destilação de crise não resolve o desequilíbrio estrutural entre oferta e procura, como o próprio texto reconhece. Sendo projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio por quilograma seria financiado por saldos de 2025 e fundos europeus, com possível recuperação parcial pela venda de aguardente; o texto não indica montantes totais."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "adegas cooperativas",
+  "produtores de vinho do Porto"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "douro",
+  "vindima",
+  "destilação de crise",
+  "vinho do porto",
+  "viticultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

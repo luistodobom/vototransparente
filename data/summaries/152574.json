@@ -1,0 +1,40 @@
+{
+ "short_title": "Fundo de Garantia para Riscos Climáticos e Sísmicos",
+ "summary": "O PS recomenda ao Governo que, em articulação com a ASF (autoridade de supervisão de seguros) e em coerência com o trabalho em curso na União Europeia, crie e regulamente um Fundo de Garantia para os Riscos Climáticos e Sísmicos, assegurando a satisfação das indemnizações pelos danos resultantes de fenómenos climáticos extremos. Recomenda também uma avaliação das opções de política pública disponíveis para reduzir o hiato de proteção contra cheias, tempestades, sismos e outros fenómenos naturais. A exposição de motivos refere que só 10% a 15% das perdas das cheias de Lisboa estariam cobertas por seguros e que um sismo como o de 1755 poderia causar perdas de cerca de 20% do PIB, segundo estimativas das seguradoras. É uma recomendação.",
+ "key_points": [
+  "Criar e regulamentar um Fundo de Garantia para os Riscos Climáticos e Sísmicos, em articulação com a ASF.",
+  "Assegurar indemnizações por danos de fenómenos climáticos extremos.",
+  "Avaliar opções de política pública para reduzir o hiato de proteção contra cheias, tempestades e sismos."
+ ],
+ "plain_language": "O texto pede ao Governo que crie um fundo para pagar indemnizações quando cheias, tempestades ou sismos causam danos que os seguros normais não cobrem. Também pede um estudo sobre outras formas de proteger as pessoas. Hoje, muitas famílias pensam estar cobertas e descobrem que não estão. É apenas uma recomendação.",
+ "context": "O proponente destaca as cheias do final de 2022, em que a maior parte das perdas não estava coberta por seguros (10% a 15%), e o risco sísmico, para o qual as seguradoras estimam perdas de cerca de 20% do PIB num sismo como o de 1755. Os sismos na Turquia e na Síria ilustraram as consequências.",
+ "analysis": "A iniciativa responde a uma lacuna reconhecida e alinha-se com o trabalho europeu. Fragilidades: não define o modelo (financiamento por prémios, contribuição pública ou mista, obrigatoriedade do seguro), o valor do fundo nem quem o gere; o texto também não esclarece a articulação com os seguros privados e o risco de reduzir o incentivo à prevenção. A criação de um fundo pode envolver garantia do Estado com passivos contingentes elevados. É uma recomendação, não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não define o financiamento do fundo nem montantes; o impacto orçamental dependeria do modelo, incluindo eventual garantia do Estado."
+ },
+ "affected": [
+  "famílias e empresas expostas a riscos naturais",
+  "seguradoras",
+  "ASF",
+  "Estado"
+ ],
+ "categories": [
+  "economia",
+  "seguranca",
+  "consumidores"
+ ],
+ "tags": [
+  "fundo de garantia",
+  "risco sísmico",
+  "cheias",
+  "seguros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

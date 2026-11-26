@@ -1,0 +1,40 @@
+{
+ "short_title": "Equipas nas CCDR para apoios das tempestades",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo a adoção de medidas excecionais de mobilização de meios humanos e a constituição de equipas dedicadas nas Comissões de Coordenação e Desenvolvimento Regional (CCDR) para apreciar as candidaturas de cidadãos, empresas, explorações agrícolas e do setor das pescas aos apoios criados após as tempestades do início do ano, em colaboração com as autarquias, para concluir rapidamente os processos e pagar os apoios.",
+ "key_points": [
+  "Mobilizar meios humanos adicionais e constituir equipas dedicadas nas CCDR para apreciar as candidaturas aos apoios.",
+  "Abranger candidaturas de cidadãos, empresas, explorações agrícolas e setor das pescas.",
+  "Colaborar com as autarquias para concluir os processos o quanto antes e proceder ao pagamento dos apoios."
+ ],
+ "plain_language": "Depois das tempestades do início do ano, muitas pessoas e empresas ainda não receberam apoios porque os pedidos demoram a ser analisados. O PCP pede ao Governo que reforce as equipas das CCDR para decidir mais depressa e pagar. É apenas uma recomendação.",
+ "context": "O PCP afirma que, quase cinco meses depois, há afetados sem qualquer apoio. Cita dados da Estrutura de Missão a 26 de junho de 2026: nas habitações, 210,3 milhões de euros solicitados, 69,9 aprovados e 64 pagos; na linha de crédito do Banco de Fomento, 1928,6 milhões solicitados e 1582,6 aprovados. Refere ainda que, de 1300 milhões de prejuízos segurados, foram pagos 530 milhões.",
+ "analysis": "A medida é concreta e dirigida a um estrangulamento identificado, a análise de dezenas de milhares de candidaturas, e apoia-se em dados da estrutura de missão. A exposição de motivos mistura, porém, o diagnóstico com críticas políticas e classificações muito fortes, por exemplo ao programa PTRR, sem demonstração no texto. A recomendação não indica o número de técnicos, prazos nem custo, e o atraso pode ter causas, como a qualidade das candidaturas ou a verificação de documentos, que o texto não analisa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A mobilização de meios humanos e a aceleração de pagamentos de apoios implicam despesa, que o texto não quantifica."
+ },
+ "affected": [
+  "famílias e empresas afetadas pelas tempestades",
+  "agricultores e pescadores",
+  "CCDR e autarquias da região centro"
+ ],
+ "categories": [
+  "administracao",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "tempestades",
+  "apoios",
+  "ccdr",
+  "região centro",
+  "candidaturas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

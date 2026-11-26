@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço do apoio a doentes com doença inflamatória do intestino (PCP)",
+ "summary": "O PCP propõe que a Assembleia da República recomende ao Governo quatro medidas para doentes com doença inflamatória do intestino (doença de Crohn e colite ulcerosa): isentá-los de taxas moderadoras; criar um grupo de trabalho que atualize, integre e sistematize as necessidades e apoios específicos aos doentes crónicos, propondo medidas legislativas sobre doenças altamente incapacitantes; estudar com as associações de doentes, a Direção-Geral da Saúde e outras entidades a emissão de um cartão de acesso a instalações sanitárias de estabelecimentos privados abertos ao público; e assegurar no SNS o acesso a tratamentos farmacológicos e não farmacológicos, incluindo apoio psicológico. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a isenção de taxas moderadoras para doentes com doença inflamatória do intestino.",
+  "Recomenda um grupo de trabalho para atualizar os apoios a doentes crónicos e doenças incapacitantes.",
+  "Recomenda estudar um cartão de acesso a instalações sanitárias em estabelecimentos privados abertos ao público.",
+  "Recomenda garantir no SNS os tratamentos farmacológicos e não farmacológicos."
+ ],
+ "plain_language": "O PCP pede ao Governo que os doentes com Crohn ou colite ulcerosa não paguem taxas moderadoras, que se atualizem os apoios a doentes crónicos, que se estude um cartão para usar casas de banho e que o SNS garanta todos os tratamentos, incluindo apoio psicológico. É uma recomendação sem força de lei.",
+ "context": "O proponente cita dados de um inquérito dos promotores de uma petição, como 56% dos doentes que não saíram de casa por receio de não ter casa de banho, e refere que o despacho sobre doenças incapacitantes foi revogado. Defende o fim das taxas moderadoras, ou pelo menos a isenção dos doentes crónicos.",
+ "analysis": "A proposta cobre vários planos, da isenção de taxas ao acesso a terapêuticas não farmacológicas, e propõe um estudo prévio para o cartão, o que é prudente. Fragilidades: o grupo de trabalho não tem prazo nem composição definida, a isenção de taxas moderadoras não vem acompanhada de estimativa da perda de receita, e o acesso a tratamentos não farmacológicos implica reforço de recursos humanos que não é quantificado. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A isenção de taxas moderadoras reduziria receita do SNS e o acesso a mais tratamentos aumentaria a despesa, sem montantes indicados no texto."
+ },
+ "affected": [
+  "pessoas com doença de Crohn e colite ulcerosa",
+  "doentes crónicos",
+  "SNS",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "doença inflamatória do intestino",
+  "taxas moderadoras",
+  "doentes crónicos",
+  "tratamento psicológico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

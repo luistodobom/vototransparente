@@ -1,0 +1,42 @@
+{
+ "short_title": "Recuperar a Mata Nacional de Vale de Canas, em Coimbra",
+ "summary": "O PCP recomenda ao Governo seis medidas para a Mata Nacional de Vale de Canas (16 ha, gerida pelo ICNF): ações de redução da carga combustível em 2021, em particular nas extremas; reposição da sinalética e painéis informativos, incluindo no jardim de entrada; sinalética da Árvore Monumental, um Eucalyptus diversicolor de 73 metros; recuperação do telhado da Casa do Fogo, de bancos, mesas, mobiliário e pontos de água; recuperação e instalação de regos e valas de drenagem nos caminhos; e recuperação do jardim de entrada. O texto descreve sinais de abandono e degradação e refere um Plano de Gestão Florestal de 2014. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Redução da carga combustível em 2021, sobretudo nas extremas da mata.",
+  "Reposição da sinalética e painéis informativos, e sinalização da árvore monumental.",
+  "Recuperação da Casa do Fogo, mobiliário e pontos de água.",
+  "Recuperação ou instalação de regos e valas de drenagem nos caminhos.",
+  "Recuperação do jardim de entrada."
+ ],
+ "plain_language": "O PCP pede ao Governo que arranje a Mata Nacional de Vale de Canas, em Coimbra, que está degradada: limpar o mato para reduzir o risco de incêndio, repor placas, reparar edifícios, mesas e fontes, drenar os caminhos e recuperar o jardim de entrada.",
+ "context": "O PCP descreve uma mata periurbana com grande diversidade e a árvore classificada mais alta da Europa, mas com estruturas ao abandono, painéis danificados, caminhos encharcados e risco de incêndio para povoações vizinhas. Reconhece como positiva apenas alguma limpeza de faixas laterais, ainda insuficiente.",
+ "analysis": "A proposta é concreta e de âmbito local, com medidas simples de executar e relevantes para a segurança contra incêndios e o uso público. Fragilidades: não define financiamento, calendário para além de 2021 nem responsabilidades entre o ICNF e as autarquias; as descrições do estado da mata não são acompanhadas de dados ou fotografias. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As obras e a manutenção implicam despesa do ICNF; o texto não indica montantes."
+ },
+ "affected": [
+  "visitantes da Mata de Vale de Canas",
+  "povoações vizinhas",
+  "ICNF",
+  "município de Coimbra"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "mata nacional",
+  "coimbra",
+  "icnf",
+  "incêndios",
+  "árvore monumental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

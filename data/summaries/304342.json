@@ -1,0 +1,40 @@
+{
+ "short_title": "Centro de investigação sem animais e transparência na experimentação animal",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo três medidas: garantir, em cumprimento do artigo 265.º da Lei do Orçamento do Estado para 2022 (que previu 4 milhões de euros), a criação do primeiro centro de investigação em Portugal com recurso a modelos alternativos aos animais utilizados para fins científicos, com data indicada no texto de 2023; promover ativamente a transparência e divulgação objetiva da informação sobre o número de animais e métodos usados e as alternativas existentes, por universidades e centros de investigação; e incentivar, em articulação com o ensino superior, a aquisição de modelos alternativos aos animais. O texto cita dados de 2017 (40.998 animais usados em Portugal), a Diretiva 2010/63/UE e o princípio dos três R. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir a criação do primeiro centro nacional de investigação com modelos alternativos aos animais, prevista no Orçamento do Estado de 2022.",
+  "Promover a transparência sobre o número de animais e os métodos usados na investigação.",
+  "Divulgar as alternativas existentes à experimentação animal.",
+  "Incentivar, com o ensino superior, a aquisição de modelos alternativos (como simuladores e organóides)."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie finalmente um centro de investigação que use métodos sem animais, como já estava previsto no Orçamento de 2022, e que as universidades divulguem quantos animais usam e porquê. Quer também que se incentive a compra de alternativas, como simuladores, para o ensino.",
+ "context": "O PAN recorda que o Orçamento do Estado para 2022 previu 4 milhões de euros para o centro, sem diligências conhecidas, que a Diretiva 2010/63/UE obriga os Estados a promover alternativas e transparência, e que em 2019 apenas 26% das instituições tinham declaração pública sobre o uso de animais, segundo a EARA. Menciona duas petições sobre o tema.",
+ "analysis": "A proposta insiste numa medida já prevista na lei do Orçamento, o que reforça a sua legitimidade, e liga-se a obrigações europeias. Fragilidades: fixa o prazo no ano de 2023, que já estava ultrapassado à data do texto (novembro de 2024), pelo que a recomendação está desatualizada; não explica por que a verba prevista não foi executada; e a transparência pode colidir com preocupações de segurança de investigadores. Parte do texto defende o fim das experiências em animais, o que vai além do objeto da recomendação. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do centro implica despesa, tendo o Orçamento do Estado para 2022 previsto 4 milhões de euros. As restantes medidas não são quantificadas."
+ },
+ "affected": [
+  "animais de laboratório",
+  "investigadores e universidades",
+  "estudantes do ensino superior"
+ ],
+ "categories": [
+  "animais",
+  "ciencia"
+ ],
+ "tags": [
+  "experimentação animal",
+  "métodos alternativos",
+  "3R",
+  "transparência",
+  "investigação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

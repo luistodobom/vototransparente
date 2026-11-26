@@ -1,0 +1,39 @@
+{
+ "short_title": "Reforço dos apoios aos Centros de Recursos para a Inclusão",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que garanta o reforço do valor dos apoios financeiros dos contratos de cooperação com os Centros de Recursos para a Inclusão para o ano letivo de 2025-2026 e que fixe critérios de atualização anual desses apoios, de modo a acomodar o aumento dos custos de operação, assegurar os meios humanos adequados e a suficiência dos apoios terapêuticos a crianças e jovens. Parte do facto de o montante global aprovado para 2025-2026, 13,1 milhões de euros, ser igual ao dos dois anos letivos anteriores. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar os apoios financeiros dos contratos de cooperação com os Centros de Recursos para a Inclusão em 2025-2026.",
+  "Fixar critérios de atualização anual dos apoios.",
+  "Cobrir o aumento dos custos de operação, os meios humanos e os apoios terapêuticos."
+ ],
+ "plain_language": "O PAN pede ao Governo que aumente o dinheiro dado aos centros que apoiam crianças com necessidades especiais nas escolas, que está congelado há três anos, e que o atualize todos os anos.",
+ "context": "A proponente afirma que o valor aprovado para 2025-2026, até 13,1 milhões de euros, é igual ao dos dois anos letivos anteriores, o que agrava insuficiências no acesso a apoios terapêuticos, com o aumento do número de alunos que necessitam de medidas adicionais de suporte. Considera haver desadequação entre financiamento e exigências da educação inclusiva.",
+ "analysis": "Ponto forte: identifica um congelamento verificável e propõe uma regra de atualização anual, o que dá previsibilidade às instituições. Fragilidades: não indica o montante do reforço nem os critérios concretos de atualização; é uma recomendação sem força vinculativa; não avalia a qualidade ou a cobertura dos apoios prestados. A fonte de financiamento do reforço não é identificada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço dos apoios implica despesa pública acima dos 13,1 milhões de euros aprovados para 2025-2026, sem montante adicional definido no texto."
+ },
+ "affected": [
+  "alunos com necessidades de medidas adicionais de suporte",
+  "Centros de Recursos para a Inclusão",
+  "técnicos e terapeutas",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "centros de recursos para a inclusão",
+  "contratos de cooperação",
+  "educação inclusiva",
+  "apoios terapêuticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

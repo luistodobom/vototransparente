@@ -1,0 +1,40 @@
+{
+ "short_title": "Tornar o gás de botija mais acessível às famílias",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo duas medidas. Primeiro, manter em vigor durante 2026 o apoio extraordinário Botija de Gás Solidária para famílias vulneráveis, criado pelo Despacho n.º 2939-A/2025, simplificando o procedimento de acesso e reforçando a divulgação. Segundo, aumentar a capacidade de armazenagem de botijas pelos revendedores sem necessidade de licenciamento, de modo a que a redução dos custos logísticos se reflita no preço pago pelos consumidores. O texto refere que o limite atual é de 20 botijas, contra 60 em Espanha e França. É uma recomendação, sem efeito vinculativo.",
+ "key_points": [
+  "Manter em 2026 o apoio Botija de Gás Solidária, que permite aceder a botijas por 15 euros.",
+  "Simplificar o acesso ao apoio e reforçar a sua divulgação.",
+  "Aumentar a capacidade de armazenagem sem licenciamento pelos revendedores.",
+  "Garantir que a poupança logística chegue ao preço final dos consumidores."
+ ],
+ "plain_language": "Muitas famílias usam gás de botija, cujo preço subiu. O PAN pede ao Governo que mantenha em 2026 o apoio que permite às famílias vulneráveis comprar a botija por 15 euros, que torne esse apoio mais simples e conhecido, e que deixe os revendedores guardar mais botijas sem licença para baixar custos.",
+ "context": "O PAN indica que 12,2% das pessoas dependem do gás de botija, que os preços subiram até 36% (butano) e quase 28% (propano) em cinco anos, e que a pobreza energética afeta 16% da população. Compara com Espanha, onde há subsidiação e tabelamento.",
+ "analysis": "Pontos fortes: combina apoio social imediato com uma medida estrutural de redução de custos. Fragilidades: o aumento de armazenagem sem licenciamento levanta questões de segurança, que o texto não aborda; não há garantia legal de que a poupança se transfira para o preço final. A manutenção do apoio exige verba, não quantificada, e é uma recomendação sem força vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Manter o apoio Botija de Gás Solidária durante 2026 implica despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "famílias vulneráveis",
+  "consumidores de gás de botija",
+  "revendedores de botijas de gás"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "familia"
+ ],
+ "tags": [
+  "gás de botija",
+  "pobreza energética",
+  "apoio social",
+  "GPL"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

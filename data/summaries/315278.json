@@ -1,0 +1,43 @@
+{
+ "short_title": "Proibição automática de funções com menores após crimes sexuais",
+ "summary": "O projeto de lei da Iniciativa Liberal altera os artigos 69.º-B e 69.º-C do Código Penal para que a proibição de exercer profissões ou funções com contacto regular com menores, e a proibição de assumir a confiança de menores ou de exercer responsabilidades parentais, deixem de ser penas acessórias facultativas e passem a efeito da condenação por crimes contra a liberdade e a autodeterminação sexual. Aumenta os períodos mínimos de proibição, de 2 para 5 anos quando a vítima não é menor e de 5 para 10 anos nos restantes casos, mantendo o máximo de 20 anos. Prevê agravamento de um terço em caso de grave abuso da profissão, exclui do prazo o tempo de privação de liberdade e acrescenta duas medidas de segurança, os artigos 101.º-A e 101.º-B, para inimputáveis. Entra em vigor 60 dias após a publicação.",
+ "key_points": [
+  "A proibição de exercer funções com contacto regular com menores passa a efeito automático da condenação por crimes sexuais, em vez de pena acessória facultativa.",
+  "Aumento dos mínimos de proibição para 5 anos (vítima não menor) e 10 anos (vítima menor ou crime do artigo 166.º), com máximo de 20 anos.",
+  "Agravamento de um terço dos limites em caso de grave abuso da profissão ou violação grosseira de deveres.",
+  "O tempo de privação de liberdade não conta para o prazo da proibição.",
+  "Novas medidas de segurança (artigos 101.º-A e 101.º-B) para quem seja absolvido por falta de imputabilidade."
+ ],
+ "plain_language": "Hoje, o tribunal pode decidir proibir quem cometeu um crime sexual de trabalhar com crianças. A proposta torna essa proibição automática para quem for condenado, com períodos mais longos, de pelo menos 5 ou 10 anos, e prevê também medidas para pessoas consideradas inimputáveis que representem perigo. A lei entraria em vigor 60 dias depois de publicada.",
+ "context": "A Iniciativa Liberal defende que o Estado e a sociedade devem proteger hoje o livre e saudável desenvolvimento das crianças. Pretende, mantendo a finalidade de reintegração social do sistema penal, converter em efeito da pena o que hoje é pena acessória, regime que diz já ter existido.",
+ "analysis": "A medida reforça a proteção de menores e reduz a discricionariedade dos tribunais, dando previsibilidade. Fragilidades: o automatismo de efeitos penais pode ser contestado do ponto de vista constitucional, nomeadamente pela proibição de efeitos automáticos das penas e pela proporcionalidade, sobretudo quando o crime não envolve menores; mínimos elevados reduzem a margem de ajuste ao caso concreto e à reintegração; o texto apresenta alterações com redação sobreposta que dificulta a leitura; não se avalia o impacto prático na fiscalização.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa altera o regime de penas e medidas de segurança e não prevê despesa ou receita diretas no texto."
+ },
+ "affected": [
+  "pessoas condenadas por crimes sexuais",
+  "crianças e jovens",
+  "empregadores e entidades com contacto com menores",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "código penal",
+  "crimes sexuais",
+  "menores",
+  "penas acessórias",
+  "medidas de segurança"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

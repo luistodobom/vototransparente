@@ -1,0 +1,39 @@
+{
+ "short_title": "Prioridade à requalificação do Pavilhão 5 do Hospital da Guarda",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo, na sequência das decisões já tomadas, prioridade absoluta à conclusão do projeto e ao lançamento da obra de requalificação do Pavilhão 5 do Hospital Sousa Martins, na Guarda, para instalação dos serviços de saúde materno-infantis e da maternidade. O texto sustenta que o projeto é irreversível, que o investimento atinge quase 7 milhões de euros, que o programa funcional está tecnicamente validado pela ARS e pela ACSS e que o Pavilhão 5 é a primeira fase da segunda fase do hospital. Destaca o movimento cívico e a petição com quase 20.000 assinaturas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Dar prioridade absoluta à conclusão do projeto de requalificação do Pavilhão 5.",
+  "Lançar a obra para instalar os serviços materno-infantis e a maternidade.",
+  "Enquadrar a obra como primeira parte da segunda fase do Hospital da Guarda."
+ ],
+ "plain_language": "O PS pede ao Governo que trate como prioridade absoluta acabar o projeto e arrancar com a obra do Pavilhão 5 do hospital da Guarda, onde ficará a maternidade e os serviços de mães e crianças. A obra custa quase 7 milhões de euros. É uma recomendação.",
+ "context": "O PS destaca a mobilização da população da Guarda, com quase 20.000 assinaturas de 14 concelhos, e historia as decisões sobre o hospital, atribuindo ao seu Governo o descongelamento da segunda fase a partir de 2016. Afirma que o programa funcional está validado e que se justifica responder a problemas estruturais de um distrito do interior.",
+ "analysis": "A proposta reconhece o avanço do processo e pede prioridade, mas não fixa prazos, data de início da obra nem identifica a origem do financiamento, e o texto afirma que o projeto é irreversível sem apresentar a autorização de investimento. A parte histórica é de natureza política, comparando governos, e não é essencial à recomendação. O próprio texto tem um erro na numeração (XVI em vez de XIV).",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obra implica despesa de investimento, referida no texto como quase 7 milhões de euros."
+ },
+ "affected": [
+  "utentes da ULS da Guarda",
+  "mulheres e crianças do distrito da Guarda",
+  "profissionais do Hospital Sousa Martins"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "hospital da guarda",
+  "maternidade",
+  "pavilhão 5",
+  "serviços materno-infantis",
+  "petição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Levantamento das profissões de desgaste rápido",
+ "summary": "Projeto de resolução do Chega que recomenda ao Governo quatro medidas: promover o levantamento de todas as profissões que devem ser consideradas de desgaste rápido, tornando públicas as conclusões; identificar os critérios para atribuir essa qualificação; promover a intervenção da medicina do trabalho ao longo da carreira, com exame médico periódico anual obrigatório; e proceder ao enquadramento jurídico das profissões de desgaste rápido, fundamentando a distinção quando não forem equiparadas em IRS e segurança social. O objetivo é atualizar e unificar um enquadramento legal que o proponente considera estagnado e desequilibrado. Não é vinculativo.",
+ "key_points": [
+  "Recomenda o levantamento público de todas as profissões a considerar de desgaste rápido.",
+  "Recomenda identificar os critérios para a qualificação.",
+  "Recomenda exame médico periódico anual obrigatório para estes profissionais.",
+  "Recomenda o enquadramento jurídico das profissões e a fundamentação de eventuais diferenças em IRS e segurança social.",
+  "É uma recomendação não vinculativa."
+ ],
+ "plain_language": "O Chega pede ao Governo que faça uma lista atualizada das profissões que desgastam mais quem as exerce, defina critérios claros, obrigue a exames médicos anuais e unifique as regras que hoje estão espalhadas por vários diplomas, por exemplo sobre reforma antecipada e IRS. É só uma recomendação.",
+ "context": "O Chega descreve um enquadramento disperso entre vários diplomas (como o Decreto-Lei n.º 329/93, o Decreto-Lei n.º 187/2007 e o artigo 27.º do CIRS), regimes de reforma antecipada entre os 45 e os 65 anos e um grupo de trabalho do Governo que não terá produzido respostas por falta de consenso sobre o conceito. Defende valorização destas profissões para as tornar atrativas e prevenir erros por cansaço.",
+ "analysis": "Propõe um passo prévio, o levantamento e a clarificação de critérios, que é prudente num tema em que o próprio grupo de trabalho não alcançou consenso. Fragilidades: duplica em parte o trabalho já em curso do grupo de trabalho do Governo e não fixa prazos nem define quem faria o levantamento; o exame médico anual obrigatório implica custos para empregadores, não estimados, e a recomendação não compromete uma conclusão sobre quem passaria a ter direito a reforma antecipada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O levantamento tem custo administrativo, e eventuais alterações de regime poderiam aumentar despesa da Segurança Social, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores de profissões desgastantes",
+  "empregadores",
+  "Segurança Social",
+  "serviços de medicina do trabalho"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "reforma antecipada",
+  "medicina do trabalho",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

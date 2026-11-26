@@ -1,0 +1,40 @@
+{
+ "short_title": "Reparar o IC3 e a ER347 em Penela e compensar o município",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo a reparação urgente do troço do IC3 em Penela e da Estrada Regional 347, e a compensação financeira ao Município de Penela pelos investimentos extraordinários feitos na rede viária municipal. As vias, da responsabilidade da Infraestruturas de Portugal, foram encerradas na sequência das intempéries devido a movimentos de vertente e instabilidade de taludes. O texto aponta os impactos na mobilidade, nas empresas locais e nos Bombeiros Voluntários de Penela, que têm de usar percursos alternativos mais longos, e critica a ausência de um calendário de intervenção. Não indica montantes de compensação.",
+ "key_points": [
+  "Reparar com urgência o troço do IC3 em Penela.",
+  "Reparar a Estrada Regional 347.",
+  "Compensar financeiramente o Município de Penela pelos investimentos extraordinários na rede viária municipal."
+ ],
+ "plain_language": "Duas estradas importantes em Penela estão fechadas desde as tempestades e o município teve de gastar dinheiro a reparar estradas municipais usadas como desvio. O CHEGA recomenda ao Governo que repare as estradas depressa e compense a câmara. É uma recomendação sem força de lei.",
+ "context": "O proponente descreve o encerramento do IC3 desde 10 de fevereiro e da ER347, com impacto no acesso a saúde e serviços, nas empresas e na resposta dos bombeiros, e afirma que o município assumiu custos que seriam responsabilidade do Estado, sem calendário claro de reabertura.",
+ "analysis": "A iniciativa responde a um problema local concreto. Fragilidades: o texto não fornece prazos, estimativas de custo nem o montante investido pelo município, o que dificulta avaliar a compensação pedida. Não detalha o fundamento legal para a compensação nem avalia causas técnicas ou o ritmo das obras em curso. Recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Implica despesa do Estado em obras e numa compensação ao município; o texto não indica montantes."
+ },
+ "affected": [
+  "População e empresas de Penela",
+  "Município de Penela",
+  "Bombeiros Voluntários de Penela",
+  "Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "penela",
+  "ic3",
+  "er347",
+  "intempéries",
+  "infraestruturas de portugal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

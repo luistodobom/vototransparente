@@ -1,0 +1,40 @@
+{
+ "short_title": "Contratar terapeutas e psicólogos para alunos com NEE",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo três medidas para apoiar crianças com necessidades educativas especiais (NEE): proceder a um levantamento concreto e detalhado das escolas com falta de psicólogos e terapeutas; reforçar o número destes profissionais para garantir melhor apoio a todos os alunos; e implementar, a partir do ano letivo de 2025/2026, políticas públicas que valorizem os psicólogos e terapeutas escolares, incentivando a sua permanência nos quadros e a sua motivação. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Levantamento detalhado das escolas com falta de psicólogos e terapeutas.",
+  "Reforço do número de psicólogos e terapeutas nas escolas.",
+  "Políticas de valorização destes profissionais a partir de 2025/2026, para incentivar a sua permanência nos quadros."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que descubra em que escolas faltam psicólogos e terapeutas, contrate mais e crie incentivos para que fiquem, para melhor apoiar os alunos com necessidades educativas especiais. É apenas uma recomendação ao Governo.",
+ "context": "O proponente invoca o artigo 74.º da Constituição e afirma que faltam profissionais especializados para apoiar estes alunos. Cita notícias segundo as quais, em 2023, havia um psicólogo escolar para 744 alunos, acima do recomendado pela NASP (um por 500 a 700), e o Conselho Nacional de Educação, que refere que a ação destes profissionais se divide frequentemente por várias escolas.",
+ "analysis": "A iniciativa aponta um problema reconhecido (rácio de profissionais) com dados citados, e a proposta de levantamento é um primeiro passo sensato. Fragilidades: é genérica, sem metas de contratação, prazos ou custos; o rácio citado respeita aos psicólogos e não aos terapeutas; os dados vêm de uma notícia e de uma referência internacional; e o texto não explica o que impede a permanência nos quadros, nem como articular com o regime de educação inclusiva em vigor.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais psicólogos e terapeutas e as medidas de valorização implicariam despesa pública, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "alunos com necessidades educativas especiais",
+  "famílias",
+  "psicólogos e terapeutas escolares",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "saude"
+ ],
+ "tags": [
+  "necessidades educativas especiais",
+  "psicólogos escolares",
+  "terapeutas",
+  "educação inclusiva",
+  "contratação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

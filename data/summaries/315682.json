@@ -1,0 +1,43 @@
+{
+ "short_title": "Gestão democrática das escolas públicas",
+ "summary": "O Projeto de Lei n.º 256/XVII/1.ª, do PCP, propõe um novo regime de direção e gestão dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, em substituição do modelo do Decreto-Lei n.º 75/2008. Assenta na eleição de todos os membros dos órgãos de direção e gestão, na colegialidade e na ampla participação de professores, alunos, pessoal não docente, pais e autarquias. Reforça o conselho pedagógico, que passa a ter poderes decisórios, separa a direção da gestão, cria zonas pedagógicas com conselhos de coordenação interescolar e conselhos regionais de educação, e prevê assembleias de turma e de delegados de turma para os alunos. O texto disponível está truncado, pelo que nem todas as disposições foram analisadas.",
+ "key_points": [
+  "Eleição de todos os membros dos órgãos de direção e gestão das escolas, em substituição de órgãos unipessoais.",
+  "Participação de pais, alunos e autarquias num órgão de direção estratégica, com mecanismos de auscultação permanente.",
+  "Conselho pedagógico reforçado, com poderes decisórios sobre a direção pedagógica e educativa.",
+  "Criação de zonas pedagógicas com conselhos de coordenação interescolar e de conselhos regionais de educação.",
+  "Assembleias de turma e de delegados de turma com competências de debate e proposta sobre o funcionamento da escola."
+ ],
+ "plain_language": "Este projeto quer que as escolas públicas sejam geridas por órgãos eleitos e colegiais, e não por um diretor com muito poder. Todos os membros da direção seriam eleitos, com professores, alunos, funcionários, pais e autarquias a participar. Os conselhos pedagógicos passariam a decidir mais, e os alunos teriam assembleias de turma para discutir os problemas da escola. O texto analisado está incompleto.",
+ "context": "O PCP defende que o regime de 2008 desrespeitou a Lei de Bases do Sistema Educativo e a Constituição ao concentrar poderes em órgãos unipessoais não eleitos e esvaziar os órgãos colegiais. Critica a transferência de competências para as autarquias e a proposta governamental de um estatuto do diretor, e sustenta que só uma gestão democrática, colegial e eletiva garante transparência e participação.",
+ "analysis": "Pontos fortes: aposta na participação e na colegialidade, na linha da Lei de Bases do Sistema Educativo, e prevê canais estruturados de voz para os alunos. Fragilidades: a eleição de todos os órgãos e a criação de novas estruturas, como conselhos interescolares e regionais, podem aumentar a complexidade e a carga burocrática; o texto disponível não permite avaliar o seu custo nem a articulação com a gestão financeira e de pessoal; a ausência de uma liderança unipessoal clara pode dificultar a responsabilização. Análise limitada por texto truncado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto disponível não indica custos. A criação de novas estruturas de coordenação poderia implicar despesa, mas não é quantificada."
+ },
+ "affected": [
+  "professores",
+  "alunos",
+  "pessoal não docente",
+  "pais e encarregados de educação",
+  "autarquias"
+ ],
+ "categories": [
+  "educacao",
+  "administracao"
+ ],
+ "tags": [
+  "gestão democrática",
+  "escolas públicas",
+  "conselho pedagógico",
+  "direção escolar",
+  "participação dos alunos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

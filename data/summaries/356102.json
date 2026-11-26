@@ -1,0 +1,39 @@
+{
+ "short_title": "Aumento do subsídio de funeral para menores e maiores acompanhados",
+ "summary": "O PAN propõe alterar o artigo 16.º do Decreto-Lei n.º 176/2003 para que o subsídio de funeral seja de três vezes o IAS quando o falecido tenha menos de 18 anos ou seja maior acompanhado, e igual a um IAS nos restantes casos. Hoje o subsídio é um montante fixo de 261,25 euros (segundo o texto), por se considerar que estas pessoas não têm carreira contributiva. O novo valor máximo passa para 1.611,39 euros (3 IAS), equiparando-o ao limite de reembolso do Decreto-Lei n.º 322/90. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Subsídio de três IAS para falecidos menores de 18 anos ou maiores acompanhados.",
+  "Subsídio igual a um IAS nos restantes casos sem direito a reembolso.",
+  "Aumento dos atuais 261,25 euros para 1.611,39 euros nos casos de menores.",
+  "Equiparação ao máximo de reembolso previsto no Decreto-Lei n.º 322/90."
+ ],
+ "plain_language": "Quando morre uma criança ou uma pessoa acompanhada judicialmente, o Estado paga hoje cerca de 261 euros pelo funeral. A proposta eleva-o para cerca de 1.600 euros e fixa um valor de um IAS para as restantes situações.",
+ "context": "O proponente considera injustificável que a ausência de carreira contributiva de crianças e pessoas com deficiência reduza o apoio a um subsídio fixo. Recorda iniciativas anteriores do partido sobre luto parental e gestacional e pretende dignificar a proteção às famílias enlutadas.",
+ "analysis": "Reduz uma desigualdade clara e alarga a proteção a maiores acompanhados. Fragilidades: o texto não estima o custo orçamental; ao fixar o valor em montante fixo, paga o mesmo mesmo que o funeral custe menos; e a subida do mínimo para um IAS nos restantes casos pode ter impacto mais alargado do que a justificação principal indica.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta a despesa da Segurança Social, por subir o subsídio de funeral dos atuais cerca de 261 euros para 3 IAS em menores e maiores acompanhados. Não há estimativa de custo."
+ },
+ "affected": [
+  "famílias de menores e maiores acompanhados falecidos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "maior acompanhado",
+  "IAS",
+  "luto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

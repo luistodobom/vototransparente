@@ -1,0 +1,40 @@
+{
+ "short_title": "Moradas falsas em autorizações de residência e lojas de fachada",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo três medidas: medidas regulamentares e administrativas que garantam a veracidade da morada declarada por quem requer autorização de residência, através de prova da propriedade do prédio ou de declaração do senhorio; reforço da fiscalização da Inspeção-Geral de Finanças sobre o exercício de competências das autarquias nos processos de autorização de residência de estrangeiros; e maior informação às câmaras municipais sobre a abertura de novos estabelecimentos comerciais na sua área. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Comprovar a morada de quem pede autorização de residência com prova de propriedade ou declaração do senhorio.",
+  "Reforçar a fiscalização da Inspeção-Geral de Finanças sobre as autarquias nestes processos.",
+  "Dar às câmaras municipais mais informação sobre a abertura de novos estabelecimentos comerciais."
+ ],
+ "plain_language": "O CHEGA quer que quem pede autorização de residência tenha de provar melhor onde mora, que as juntas de freguesia sejam mais fiscalizadas na emissão de atestados de residência e que as câmaras saibam quando abrem novas lojas. É apenas uma recomendação ao Governo.",
+ "context": "O proponente refere uma reportagem sobre lojas de fachada em Lisboa e a comunicação da AIMA às autoridades judiciais de cerca de mil casos de estrangeiros registados nas mesmas moradas. Aponta o regime de licenciamento zero, que não obriga a notificar a câmara, e atestados de residência de juntas de freguesia, alegando emissões indevidas.",
+ "analysis": "O texto aponta problemas reais de controlo de moradas e de informação às autarquias. Fragilidades: a exposição associa genericamente lojas de fachada a imigrantes de certas nacionalidades e a crimes, sem dados que quantifiquem a relação; exigir propriedade do prédio ou declaração do senhorio pode prejudicar imigrantes em arrendamentos informais ou sem contrato, o que o texto não avalia; e a maior informação às câmaras tem implicações para o regime de licenciamento zero que não são descritas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Mais fiscalização e novos procedimentos de informação implicam custos administrativos, mas o texto não indica montantes."
+ },
+ "affected": [
+  "imigrantes requerentes de autorização de residência",
+  "juntas de freguesia",
+  "câmaras municipais",
+  "AIMA"
+ ],
+ "categories": [
+  "imigracao",
+  "administracao",
+  "seguranca"
+ ],
+ "tags": [
+  "autorização de residência",
+  "atestado de residência",
+  "licenciamento zero",
+  "lojas de fachada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

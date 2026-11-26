@@ -1,0 +1,42 @@
+{
+ "short_title": "Descontos da ADM e da SAD apenas sobre 12 meses",
+ "summary": "O BE propõe alterar o regime da Assistência na Doença aos Militares (ADM, Decreto-Lei n.º 167/2005, artigo 13.º) e da assistência na doença da GNR e PSP (SAD, Decreto-Lei n.º 158/2005, artigo 24.º) através de um novo n.º 10 segundo o qual o desconto incide nos 12 meses da remuneração mensal, com exclusão dos subsídios de férias e de Natal. Atualmente o desconto de 3,5% incide sobre 14 meses. O título fala em reduzir contribuições, mas o articulado não altera a taxa. A lei entraria em vigor com o Orçamento do Estado subsequente à aprovação.",
+ "key_points": [
+  "Acrescenta um n.º 10 ao artigo 13.º do Decreto-Lei n.º 167/2005 (ADM): o desconto incide em 12 meses.",
+  "Acrescenta um n.º 10 ao artigo 24.º do Decreto-Lei n.º 158/2005 (SAD da GNR e PSP) com a mesma regra.",
+  "Exclui os subsídios de férias e de Natal da base de incidência.",
+  "Entra em vigor com o Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "Militares, guardas da GNR e agentes da PSP pagam 3,5% do vencimento para os seus subsistemas de saúde, e o desconto também é feito sobre os subsídios de férias e de Natal, ou seja, em 14 meses. O BE propõe que o desconto seja feito só em 12 meses, o que baixaria o valor pago por ano.",
+ "context": "O BE considera injusto descontar sobre 14 meses quando a assistência só é usufruída durante 12, e diz que o modelo remonta à austeridade e onera mais os salários baixos. Cita o Tribunal de Contas (Relatório n.º 22/2019), segundo o qual a taxa de 3,5% sobre 14 meses equivale a 4,08% do vencimento bruto, e recorda iniciativas anteriores do partido.",
+ "analysis": "A medida é de aplicação simples, alinha ADM e SAD e apoia-se num relatório do Tribunal de Contas sobre a ADSE. Fragilidades: esse relatório diz respeito à ADSE e o texto estende as conclusões por analogia. Não quantifica a perda de receita nem como será compensada, o que pode afetar os subsistemas. O título, que fala em reduzir contribuições, corresponde apenas a uma redução dos meses de incidência, mantendo a taxa de 3,5%.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução de 14 para 12 meses diminui as contribuições para a ADM e a SAD. O texto não apresenta montantes."
+ },
+ "affected": [
+  "militares das Forças Armadas",
+  "agentes da PSP",
+  "militares da GNR",
+  "beneficiários da ADM e da SAD"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "ADM",
+  "SAD",
+  "descontos",
+  "forças de segurança",
+  "subsídios de férias e de Natal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

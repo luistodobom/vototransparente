@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço do apoio às vítimas dos incêndios de 2025",
+ "summary": "Projeto de Lei do PCP que altera o Decreto-Lei n.º 98-A/2025, de 24 de agosto, reforçando as medidas de apoio às vítimas dos incêndios rurais. Prevê apoios sociais por um mínimo de um ano, apoio à reconstrução de segunda habitação (pelo menos 50 %, até 100 000 euros), apoio excecional a agricultores até 15 000 euros mesmo sem documentos, prazos curtos para abrir e analisar candidaturas agrícolas, apoios às empresas pela diferença entre o prejuízo e o seguro, parques de receção de salvados, equipas de sapadores florestais, contratos locais de desenvolvimento financiados a 100 %, balcões de apoio nas CCDR, reforço de pessoal e financiamento pelo Fundo de Socorro Social e pelo Fundo de Solidariedade da UE.",
+ "key_points": [
+  "Garantir apoios sociais às famílias com duração mínima de um ano.",
+  "Apoiar a reconstrução de segunda habitação em pelo menos 50 %, até 100 000 euros, com linha de crédito garantida pelo Estado.",
+  "Pagar a agricultores apoio excecional até 15 000 euros, mesmo indocumentado, com prazos de 15 dias para abrir e analisar candidaturas.",
+  "Apoiar empresas pelo diferencial entre prejuízo e seguro e criar parques de receção de salvados de madeira.",
+  "Criar equipas de sapadores florestais, balcões de apoio nas CCDR e contratos locais de desenvolvimento financiados a 100 %.",
+  "Financiar através do Fundo de Socorro Social, da dotação provisional e do Fundo de Solidariedade da UE."
+ ],
+ "plain_language": "Depois da grande vaga de incêndios de 2025, o PCP propõe alargar e acelerar os apoios já criados pelo Governo: ajudas às famílias durante pelo menos um ano, dinheiro para reconstruir casas, apoio a agricultores e empresas, venda da madeira queimada, mais sapadores florestais e balcões para ajudar as vítimas. Quer também prazos curtos de pagamento e mais pessoal nos serviços públicos.",
+ "context": "O proponente descreve uma vaga de incêndios de um mês que consumiu mais de 250 mil hectares e destruiu casas, explorações agrícolas, equipamentos e património ambiental. Considera que as medidas do Decreto-Lei n.º 98-A/2025 são insuficientes ou demasiado lentas e propõe reforçá-las, com apoios mais abrangentes, prazos curtos, simplificação do acesso e envolvimento das autarquias e das organizações de produtores.",
+ "analysis": "O projeto é detalhado, cobre vários setores e introduz prazos e valores concretos, o que facilita a fiscalização. Tem também fragilidades: o impacto orçamental global não é calculado no texto; prazos como 15 dias para abrir candidaturas e analisar pedidos podem ser difíceis de cumprir pela administração; o apoio a agricultores sem documentação até 15 000 euros exige salvaguardas contra abusos, embora seja prevista vistoria conjunta. O financiamento depende de fundos e dotações sem montantes definidos. Como projeto de lei, é vinculativo se aprovado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Introduz novos apoios (reconstrução, agricultores até 15 000 euros, empresas, sapadores, contratos locais a 100 %, reforço de pessoal), financiados por fundos nacionais e pelo Fundo de Solidariedade da UE; o texto não indica o valor global."
+ },
+ "affected": [
+  "vítimas dos incêndios",
+  "agricultores e produtores florestais",
+  "empresas afetadas",
+  "municípios e baldios"
+ ],
+ "categories": [
+  "seguranca",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "incêndios",
+  "apoio às vítimas",
+  "decreto-lei 98-A/2025",
+  "reconstrução"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

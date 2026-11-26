@@ -1,0 +1,40 @@
+{
+ "short_title": "Revisão do regime jurídico das amas",
+ "summary": "O Projeto de Resolução n.º 673/XVII/1.ª, do CHEGA, recomenda ao Governo a revisão do quadro normativo e social da atividade das amas, como apoio no cuidado de crianças até aos três anos ou até à idade de ingresso no pré-escolar. Pede que se garanta a qualificação e a formação contínua das amas e um sistema de avaliação, mais recursos por zona geográfica para colmatar a falta de vagas, fiscalização contínua das condições de bem-estar dos locais de acolhimento e o fim do deferimento tácito na autorização para exercer a atividade. Recomenda ainda a valorização da atividade, com remuneração adequada, apoios para adaptar os domicílios, integração em redes de apoio e supervisão e formação gratuita. Não é vinculativa.",
+ "key_points": [
+  "Garantir qualificação, formação contínua e avaliação das amas.",
+  "Assegurar mais recursos por zona geográfica para colmatar a falta de vagas em creche.",
+  "Criar fiscalização contínua das condições de bem-estar nos locais de acolhimento.",
+  "Afastar o deferimento tácito na autorização para o exercício da atividade.",
+  "Valorizar a atividade com remuneração adequada, apoios à adaptação dos domicílios e formação gratuita."
+ ],
+ "plain_language": "Há falta de vagas em creche e muitos pais ficam sem solução. O CHEGA pede ao Governo que reveja as regras das amas: melhor formação, mais fiscalização, mais amas onde fazem falta e melhores condições de trabalho. Também propõe que a autorização para ser ama não seja dada automaticamente por falta de resposta da administração. É só uma recomendação.",
+ "context": "O CHEGA aponta a falta de vagas em creche como problema crítico, que leva pais a deixar de trabalhar, citando o testemunho de uma mãe sem resposta durante quase dois anos. Entende que faltam políticas sociais sólidas e que a atividade das amas deve ser valorizada e fiscalizada.",
+ "analysis": "Pontos fortes: combina o reforço da qualidade e da fiscalização com a valorização da profissão. Fragilidades: as medidas são genéricas, sem metas, prazos ou financiamento, e a remuneração adequada e os apoios à adaptação dos domicílios implicam despesa não estimada. Não esclarece o regime atual das amas nem como se articula com o programa de creches gratuitas. A base empírica é sobretudo anedótica e a resolução não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. Remuneração adequada, apoios à adaptação dos domicílios, formação gratuita e fiscalização contínua implicariam maior despesa pública."
+ },
+ "affected": [
+  "amas",
+  "famílias com crianças até aos 3 anos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "amas",
+  "creche",
+  "fiscalização",
+  "deferimento tácito"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

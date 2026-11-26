@@ -1,0 +1,38 @@
+{
+ "short_title": "Médico de família para grupos vulneráveis até ao fim de 2025",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que garanta a atribuição, até ao fim do ano civil de 2025, de um médico de família aos grupos mais vulneráveis, identificados como crianças, mulheres grávidas e idosos. A exposição de motivos recorda que o ano de 2024 começou com 1.647.700 pessoas sem médico de família e terminou com 1.522.545, uma redução de 125.155 (7,5%), saúda o esforço do Governo e do Ministério da Saúde e defende a colaboração do SNS com os setores privado e social. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda atribuir médico de família a crianças, mulheres grávidas e idosos até ao fim de 2025.",
+  "Parte de 1.522.545 pessoas sem médico de família no final de 2024.",
+  "Defende a colaboração do SNS com o setor privado e o setor social."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que, até ao fim de 2025, as crianças, as grávidas e os idosos que ainda não têm médico de família passem a ter um. É apenas uma recomendação, sem obrigação legal.",
+ "context": "O proponente afirma que a promessa de um médico de família para todos não foi cumprida e que o objetivo consta do programa do Governo e do Plano de Emergência e Transformação na Saúde. Refere que os médicos de família são a base do sistema e que a cooperação com os setores privado e social dá bons resultados.",
+ "analysis": "A prioridade a grupos vulneráveis é um critério claro e mensurável, com prazo definido. Em contrapartida, o texto não indica os meios para cumprir a meta, como a contratação de médicos, nem o número de pessoas abrangidas por estes grupos, e o prazo de menos de um ano pode ser difícil face à escassez de profissionais. Por ser recomendação, não vincula o Governo. A exposição tem tom político, com críticas a governos anteriores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atribuição de médicos de família implicaria despesa em contratação ou contratualização de serviços, que o texto não quantifica."
+ },
+ "affected": [
+  "crianças",
+  "mulheres grávidas",
+  "idosos",
+  "utentes sem médico de família"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "médico de família",
+  "grupos vulneráveis",
+  "cuidados primários",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

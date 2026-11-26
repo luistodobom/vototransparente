@@ -1,0 +1,40 @@
+{
+ "short_title": "Salvaguarda do património digital e reforço do Arquivo.pt",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo medidas para preservar o património digital português, a propósito do anunciado encerramento do SAPO Blogs, com eliminação definitiva dos conteúdos prevista para 30 de novembro de 2026. Recomenda que se formalize e reforce a colaboração entre a Altice Portugal e a FCT|FCCN para preservar esses conteúdos, respeitando direitos de autor, dados pessoais e a vontade dos autores. Pede ainda que o Arquivo.pt seja dotado de meios humanos, técnicos e financeiros, que seja valorizado como recurso educativo e científico, e que se estabeleça uma estratégia nacional de preservação do património digital.",
+ "key_points": [
+  "Formalizar e reforçar, com urgência, a colaboração entre a Altice Portugal e a FCT|FCCN para preservar os conteúdos do SAPO Blogs.",
+  "Dotar o Arquivo.pt de meios humanos, técnicos e financeiros e modernizar a sua interface.",
+  "Promover o Arquivo.pt como recurso educativo e científico nos vários níveis de ensino e na investigação.",
+  "Estabelecer uma estratégia nacional de preservação do património digital."
+ ],
+ "plain_language": "O SAPO vai apagar definitivamente os blogues que aloja. O LIVRE pede ao Governo que se garanta que esses conteúdos ficam guardados no Arquivo.pt, o arquivo público da internet portuguesa, e que este serviço receba mais meios. Pede ainda uma estratégia nacional para que conteúdos digitais de interesse público não se percam. É uma recomendação, não uma obrigação legal.",
+ "context": "O LIVRE refere o anúncio do encerramento da gestão do SAPO Blogs a 30 de junho de 2026 e a eliminação irreversível dos conteúdos em 30 de novembro de 2026. Considera que esse acervo documenta o debate público e que a sua perda não deve ser tratada como questão meramente comercial, invocando a Carta da UNESCO sobre a Preservação do Património Digital.",
+ "analysis": "A proposta identifica um risco concreto e com prazo, e apoia-se numa infraestrutura pública já existente. Fragilidades: as recomendações sobre meios e estratégia nacional são genéricas, sem montantes, calendário ou entidade responsável; a negociação com uma empresa privada depende da vontade desta; e a recolha de conteúdos levanta questões de direitos de autor e dados pessoais, que o texto menciona mas não resolve. Sendo uma resolução, não vincula o Governo, e o prazo de novembro de 2026 pode ser curto face à tramitação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios do Arquivo.pt e a estratégia nacional implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Autores de blogues",
+  "Investigadores e estudantes",
+  "FCT|FCCN (Arquivo.pt)",
+  "Utilizadores do SAPO Blogs"
+ ],
+ "categories": [
+  "cultura",
+  "ciencia"
+ ],
+ "tags": [
+  "património digital",
+  "Arquivo.pt",
+  "SAPO Blogs",
+  "preservação digital"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

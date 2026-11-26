@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas nacionais e europeias contra a poluição luminosa",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas nacionais e europeias de combate à poluição luminosa. No âmbito da Estratégia para a Redução da Poluição Luminosa, pede que fixe metas nacionais para atingir poluição zero até 31 de dezembro de 2030, que preveja uma Lei de Proteção contra a Poluição Luminosa com limites à emissão de luz exterior, e que pondere atribuir à APA e ao ICNF competências de inspeção e monitorização. Pede ainda que estude uma rede nacional de Zonas de Céu Noturno Limpo, procure apoios do Horizonte Europa à investigação e promova, na UE, um sistema de monitorização com indicadores comuns, um guia de iluminação sustentável e requisitos para iluminação exterior em diretivas ambientais e de segurança rodoviária.",
+ "key_points": [
+  "Fixar metas nacionais de redução da poluição luminosa, para atingir poluição zero até 31 de dezembro de 2030.",
+  "Prever uma Lei de Proteção contra a Poluição Luminosa, com limites à luz exterior, incluindo iluminação pública, publicidade iluminada e montras.",
+  "Ponderar competência da APA e do ICNF para inspeção e monitorização do brilho do céu noturno e dos impactos nos ecossistemas.",
+  "Estudar uma rede nacional de Zonas de Céu Noturno Limpo, valorizando as Reservas Dark Sky do Alqueva e das Aldeias do Xisto.",
+  "Promover na UE um sistema de monitorização, um guia europeu de iluminação sustentável e requisitos em diretivas, incluindo iluminação rodoviária adaptável ao tráfego."
+ ],
+ "plain_language": "O excesso de luz artificial à noite, sobretudo das luzes LED brancas, prejudica o sono, os animais e o céu noturno. O PAN pede ao Governo que fixe metas para o reduzir, prepare uma lei com limites à iluminação exterior e crie zonas de céu escuro. Pede também que Portugal defenda regras comuns na UE. É uma recomendação.",
+ "context": "O PAN afirma que a luz artificial é reconhecida como poluente atmosférico pela ONU desde 1979, e que o Programa Geral de Ação da UE para 2030 fixou o objetivo de poluição zero em poluição luminosa até 31 de dezembro de 2030. Cita estudos segundo os quais a poluição luminosa aumenta 10% ao ano e nenhum cidadão em Portugal Continental vive num local isento dela, e aponta impactos na saúde e na biodiversidade.",
+ "analysis": "A proposta apoia-se em objetivos europeus existentes e é detalhada nas medidas, incluindo propostas para a UE, e combina regulação com incentivos como as Zonas de Céu Noturno Limpo. Fica por definir como se compatibilizariam os limites de luz com a segurança rodoviária e a segurança de pessoas, o custo para os municípios de substituir iluminação e a capacidade de fiscalização. Os efeitos para a saúde apontados são citados em termos gerais, sem quantificação. As recomendações não vinculam o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A adaptação da iluminação pública e a fiscalização implicariam custos, enquanto a eficiência energética poderia reduzir despesa com eletricidade; o texto não apresenta montantes."
+ },
+ "affected": [
+  "municípios e gestores de iluminação pública",
+  "população e saúde pública",
+  "biodiversidade e ecossistemas",
+  "operadores de turismo astronómico"
+ ],
+ "categories": [
+  "ambiente",
+  "energia",
+  "territorio"
+ ],
+ "tags": [
+  "poluição luminosa",
+  "céu noturno",
+  "iluminação pública",
+  "dark sky",
+  "biodiversidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

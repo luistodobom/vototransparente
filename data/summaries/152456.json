@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço das incompatibilidades de titulares de cargos políticos",
+ "summary": "Projeto de Lei do BE que altera a Lei n.º 52/2019 sobre o exercício de funções por titulares de cargos políticos e altos cargos públicos. Acrescenta como impedimento a candidatura a fundos europeus estruturais e de investimento, ou similares, cuja atribuição caiba à pessoa coletiva que tutelam, extensível a cônjuges e unidos de facto. Cria uma nova obrigação de, nos três anos seguintes ao fim do mandato, os titulares executivos apresentarem declaração atualizada das atividades exercidas. Agrava para oito anos a inibição de funções por violação das regras pós-mandato ou por falta de declaração, e tipifica como desobediência qualificada, punida com prisão de 1 a 5 anos, a falta da declaração ou o exercício de atividade em violação do artigo 10.º.",
+ "key_points": [
+  "Novo impedimento: candidatar-se a fundos europeus estruturais e de investimento ou similares da entidade que tutelam.",
+  "Obrigação de declaração atualizada de atividades nos três anos seguintes à cessação do mandato.",
+  "Inibição de oito anos para o exercício de cargos políticos e altos cargos públicos em caso de infração.",
+  "Desobediência qualificada com prisão de 1 a 5 anos para falta de declaração ou exercício de atividade proibida.",
+  "Entidades notificam os antigos titulares com 30 dias de antecedência do fim do prazo."
+ ],
+ "plain_language": "O projeto aperta as regras para quem exerceu cargos políticos: não poderiam pedir fundos europeus geridos pela entidade que tutelam, teriam de declarar durante três anos o que fazem depois de saírem e arriscariam inibição de oito anos ou prisão se violassem as regras. Visa travar as chamadas «portas giratórias».",
+ "context": "O BE defende que o regime atual de incompatibilidades é insuficiente para garantir transparência e evitar promiscuidade entre cargos públicos e interesses privados. Considera que o prazo de inibição de três anos não tem efeito dissuasor e que a declaração pós-mandato é a forma mais eficaz de detetar incumprimentos.",
+ "analysis": "Ponto forte: cria um mecanismo de deteção (declaração pós-mandato) até agora inexistente, em linha com o objetivo de prevenir conflitos de interesses. Fragilidades: o agravamento das sanções, incluindo prisão de 1 a 5 anos, levanta questões de proporcionalidade; a fiscalização de atividades no estrangeiro e em entidades privadas é difícil e exigirá meios; o texto não estima custos nem esclarece quem verifica as declarações.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não refere custos. A fiscalização das novas declarações poderá exigir meios adicionais das entidades de controlo, não quantificados."
+ },
+ "affected": [
+  "titulares de cargos políticos e altos cargos públicos",
+  "cônjuges e unidos de facto",
+  "entidades de controlo e fiscalização"
+ ],
+ "categories": [
+  "instituicoes",
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "incompatibilidades",
+  "transparência",
+  "portas giratórias",
+  "fundos europeus"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Mais proteção a pais de filhos com cancro",
+ "summary": "O projeto de lei do PAN altera o Código do Trabalho, o Decreto-Lei n.º 91/2009 e a Lei n.º 71/2009 para reforçar a proteção social e laboral dos pais de filhos com doença oncológica. Permite prorrogar a licença para assistência a filho até seis anos e, no caso de doença oncológica, para além desse prazo se esta persistir ou tiver recidiva. Fixa o subsídio para assistência a filho com deficiência, doença crónica ou oncológica em 100% da remuneração de referência, com limite de dois IAS por mês. Comparticipa alojamento quando a distância ao tratamento exceda 100 km, garante acompanhamento psicológico e cria consultas para sobreviventes de cancro infantil.",
+ "key_points": [
+  "Licença para assistência a filho prorrogável até seis anos e, no caso de doença oncológica, além disso se a doença persistir ou reaparecer.",
+  "Subsídio a 100% da remuneração de referência, com limite máximo mensal de duas vezes o IAS.",
+  "Licença excecional simultânea dos dois progenitores em caso de doença crónica e deficiência, com limite de 90 dias por ano por progenitor.",
+  "Comparticipação do alojamento da criança e acompanhantes em caso de insuficiência económica e distância superior a 100 km.",
+  "Acompanhamento psicológico regular, com consulta de avaliação até 30 dias após o diagnóstico.",
+  "Consultas de acompanhamento para sobreviventes de cancro infantil."
+ ],
+ "plain_language": "O PAN propõe melhor apoio aos pais de crianças com cancro: mais tempo de licença, subsídio pago por inteiro (até um limite), apoio no alojamento quando o tratamento é longe de casa, apoio psicológico rápido e consultas de seguimento para quem sobrevive ao cancro na infância.",
+ "context": "O proponente invoca a proteção constitucional da família e da infância e refere que o cancro em crianças e jovens é raro e com taxa de cura em torno de 80%, mas exige adaptação total das famílias e acompanhamento diário. Defende que os pais devem ter proteção que garanta o acompanhamento sem prejuízo da integração laboral.",
+ "analysis": "A proposta combina medidas laborais, de segurança social e de saúde, num conjunto coerente e orientado para uma situação grave. Fragilidades: o custo para a Segurança Social e para o SNS não é estimado, e a prorrogação sem limite temporal em caso de recidiva pode ser de difícil gestão para os empregadores. A extensão do subsídio a 100% aplica-se também a doença crónica e deficiência, para além do cancro, ultrapassando o título. A articulação entre licença, subsídio e proteção do emprego ao longo de vários anos não é detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio a 100%, a comparticipação de alojamento, as consultas e o acompanhamento psicológico aumentam a despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "pais de crianças e jovens com cancro",
+  "crianças e jovens com doença oncológica",
+  "sobreviventes de cancro infantil",
+  "empregadores"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "doença oncológica",
+  "licença parental",
+  "cancro infantil",
+  "subsídio de assistência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

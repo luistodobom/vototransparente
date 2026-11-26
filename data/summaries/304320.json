@@ -1,0 +1,38 @@
+{
+ "short_title": "Fim da inspeção técnica obrigatória de motociclos",
+ "summary": "O PSD propõe a quinta alteração ao regime de inspeções técnicas de veículos (Decreto-Lei n.º 144/2012) para eliminar a obrigatoriedade de inspeção periódica de motociclos, triciclos e quadriciclos, eliminando o n.º 5 do artigo 11.º e revogando o n.º 2 do artigo 18.º. Prevê que o membro do Governo responsável pelos transportes aprove, em 90 dias, uma portaria com medidas eficazes de segurança rodoviária para veículos de duas ou três rodas, como a diretiva europeia exige para permitir a exclusão. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Elimina o n.º 5 do artigo 11.º do regime de inspeções técnicas.",
+  "Revoga o n.º 2 do artigo 18.º do Decreto-Lei n.º 144/2012.",
+  "O Governo aprova, em 90 dias, uma portaria com medidas eficazes de segurança rodoviária para veículos de duas ou três rodas.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A proposta acaba com a obrigação de levar motas a inspeção periódica. Em vez disso, o Governo teria de definir, em 90 dias, outras medidas de segurança rodoviária para estes veículos. O PSD defende que a fiscalização deve ser feita na estrada.",
+ "context": "O PSD invoca a diretiva europeia que permite excluir motociclos da inspeção periódica se houver medidas alternativas eficazes. Sustenta que as mortes de motociclistas desceram mais de 80% entre 1995 e 2022 (610 para 119), apesar de o parque ter crescido mais de 400%, e que vários estudos indicam pouco impacto das inspeções na sinistralidade.",
+ "analysis": "A proposta reduz encargos e burocracia para os motociclistas e apoia-se em dados de sinistralidade e na previsão da diretiva europeia. Fragilidades: o texto não define as medidas alternativas, remetendo-as para uma portaria posterior, pelo que a exclusão pode ocorrer antes de existirem substitutos; a evolução das mortes pode ter outras causas além das inspeções; e a redução de inspeções pode afetar os centros de inspeção e a deteção de falhas mecânicas, embora estas sejam descritas como causa menos provável de sinistros.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica. Os motociclistas deixam de pagar inspeções, e os centros de inspeção perdem atividade, mas o impacto nas receitas e despesas públicas não é indicado."
+ },
+ "affected": [
+  "motociclistas",
+  "centros de inspeção técnica",
+  "utilizadores de veículos de duas e três rodas"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca"
+ ],
+ "tags": [
+  "inspeção técnica",
+  "motociclos",
+  "segurança rodoviária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

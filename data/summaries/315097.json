@@ -1,0 +1,42 @@
+{
+ "short_title": "Programa Semana de quatro dias no setor privado e público",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a criação, em 2025, de dois programas da semana de quatro dias de trabalho, com redução do horário sem diminuição da retribuição. O primeiro, no setor privado, seria coordenado pelo IEFP, que daria apoio técnico e administrativo às empresas aderentes, com base no relatório final do projeto-piloto de 2024. O segundo, na Administração Pública, seria aplicado a um conjunto de serviços a identificar e coordenado pela DGAEP. Ambos teriam avaliação do impacto na conciliação da vida profissional e familiar, produtividade, absentismo, custos, bem-estar e saúde mental e emissões de gases com efeito de estufa. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Criar em 2025 o programa Semana de quatro dias de trabalho no setor privado, coordenado pelo IEFP.",
+  "Criar em 2025 o programa equivalente na Administração Pública, coordenado pela DGAEP e aplicado a serviços a identificar.",
+  "Redução do horário sem diminuição da retribuição nos dois programas.",
+  "Avaliar o impacto na conciliação, produtividade, absentismo, custos, bem-estar e saúde mental dos trabalhadores.",
+  "Avaliar também o impacto nas emissões de gases com efeito de estufa e outros efeitos ambientais."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que crie programas oficiais para que empresas privadas e serviços do Estado possam experimentar trabalhar quatro dias por semana, sem perder salário. Depois, seria medido o que mudou na vida dos trabalhadores, na produtividade e no ambiente. É apenas uma recomendação.",
+ "context": "O proponente recorda que o Orçamento do Estado para 2022 previu um programa-piloto e que o projeto no setor privado envolveu 41 empresas e mais de 1000 trabalhadores, com melhorias na conciliação e redução da exaustão. Refere também um estudo na Administração Pública com mais de 14 mil trabalhadores e a referência da OIT aos benefícios de horários mais equilibrados.",
+ "analysis": "A iniciativa assenta em resultados de um piloto e em estudos de dimensão relevante, e propõe avaliação em vários domínios, incluindo o ambiental. Contudo, os resultados do piloto vêm de empresas que aderiram voluntariamente, o que limita a generalização; o texto não quantifica custos, nem aborda setores com atendimento contínuo ou turnos. Como a medida cabe ao Governo e não altera a lei laboral, a execução e os prazos de 2025 dependem de vontade política e orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os programas implicam apoio técnico do IEFP e da DGAEP e possível custo para o Estado como empregador; o texto não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores do setor privado",
+  "trabalhadores da Administração Pública",
+  "empresas aderentes",
+  "IEFP e DGAEP"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "semana de quatro dias",
+  "projeto-piloto",
+  "tempo de trabalho",
+  "conciliação",
+  "administração pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

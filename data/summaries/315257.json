@@ -1,0 +1,42 @@
+{
+ "short_title": "Lobbying e Sistema de Transparência dos Poderes Públicos",
+ "summary": "O projeto de lei da Iniciativa Liberal regulamenta o lobbying em Portugal e cria o Sistema de Transparência dos Poderes Públicos, com um registo de transparência e uma plataforma digital únicos para todos os representantes de interesses. Define princípios, incompatibilidades e impedimentos (incluindo um período de três anos para antigos titulares), direitos e deveres das entidades registadas, audiências e consultas públicas e um mecanismo de pegada legislativa, com um formulário obrigatório a acompanhar todos os projetos e propostas de lei, sob pena de rejeição. A violação de deveres pode levar a suspensão do registo ou limitação de acesso, decididas pela Entidade para a Transparência, com recurso para o Tribunal Constitucional. Prevê regime transitório e aplicação às Regiões Autónomas.",
+ "key_points": [
+  "Cria um registo único de transparência e uma plataforma digital para todos os representantes de interesses.",
+  "Incompatibilidades e impedimentos, incluindo um período de três anos após o fim de funções.",
+  "Formulário de pegada legislativa obrigatório em todos os projetos e propostas de lei, sob pena de rejeição.",
+  "Sanções: suspensão do registo ou limitação de acesso, aplicadas pela Entidade para a Transparência.",
+  "Recurso das decisões sancionatórias para o Tribunal Constitucional."
+ ],
+ "plain_language": "Todos os que tentam influenciar decisões públicas teriam de se registar numa plataforma única, igual para todos. As leis em preparação teriam de indicar quem foi consultado, e quem violar as regras pode ser suspenso do registo. Antigos titulares de cargos não podem fazer lobbying junto do seu antigo serviço durante três anos.",
+ "context": "A Iniciativa Liberal defende que regular o lobbying combate preconceitos sobre a atividade, aumenta a transparência e previne a corrupção. Argumenta que o lobbying já existe e que a falta de regras favorece quem tem mais acesso aos decisores, pelo que um registo universal garante igualdade de condições entre os vários interesses.",
+ "analysis": "A universalidade do registo e a obrigação de pegada legislativa em cada iniciativa são fortes em transparência. Fragilidades: a rejeição de iniciativas legislativas por falta de formulário é uma consequência severa e pode gerar problemas formais; recurso para o Tribunal Constitucional é incomum para decisões administrativas sancionatórias e pode ser questionável; a Entidade para a Transparência exige meios que o texto não detalha. As sanções são de natureza administrativa e limitadas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A plataforma digital, o registo e a entidade responsável implicam custos administrativos. O texto não indica montantes."
+ },
+ "affected": [
+  "lobistas e representantes de interesses",
+  "titulares de cargos públicos",
+  "entidades que exercem poderes públicos",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "lobbying",
+  "pegada legislativa",
+  "registo de transparência",
+  "incompatibilidades",
+  "entidade para a transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

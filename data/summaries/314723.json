@@ -1,0 +1,41 @@
+{
+ "short_title": "Direitos laborais e proteção social no serviço doméstico",
+ "summary": "Projeto de lei do PCP que cria, no Código do Trabalho, uma nova modalidade de contrato de trabalho para serviço doméstico (artigos 192.º-A a 192.º-K), integrando estes trabalhadores no regime geral laboral e revogando o Decreto-Lei n.º 235/92. Define o contrato, regula o termo, as modalidades com ou sem alojamento e alimentação e o período experimental, e proíbe a utilização por pessoas coletivas com fins lucrativos. Altera o Código dos Regimes Contributivos: a base de incidência passa a ser a remuneração efetiva e a RMMG em vez do IAS, com taxa de 33,3% (22,3% a cargo do empregador e 11% do trabalhador). Prevê rever em um ano o regime de proteção social. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cria uma modalidade de contrato de trabalho para serviço doméstico no Código do Trabalho e revoga o Decreto-Lei n.º 235/92.",
+  "Proíbe a utilização desta modalidade por pessoas coletivas com fins lucrativos.",
+  "Altera a base de incidência contributiva, passando a remuneração efetiva e a RMMG, em vez do IAS.",
+  "Fixa a taxa contributiva em 33,3%, sendo 22,3% do empregador e 11% do trabalhador.",
+  "Prevê integrar o trabalho doméstico no regime geral da Segurança Social no prazo de um ano."
+ ],
+ "plain_language": "O PCP quer que quem trabalha em casas de outras pessoas tenha os mesmos direitos laborais dos restantes trabalhadores, com regras próprias adaptadas ao trabalho no domicílio, e uma proteção social melhor, com descontos calculados sobre o salário mínimo ou o salário real. Isto aumenta a proteção em desemprego, doença e reforma, mas também os custos de quem emprega.",
+ "context": "O PCP afirma que, apesar de Portugal ter ratificado em 2015 a Convenção n.º 189 da OIT, o regime atual continua em desconformidade com ela e é insuficiente: não regula a idade mínima, a cessação do contrato nem o alojamento, e deixa lacunas na proteção contra abuso e na inspeção do trabalho. Os trabalhadores domésticos teriam menos direitos do que os de outros setores.",
+ "analysis": "A proposta reforça direitos e proteção social e alinha o regime com a Convenção da OIT. Em contrapartida, a subida da base contributiva aumenta os custos das famílias empregadoras e pode estimular o trabalho não declarado, risco que o texto não analisa. A equiparação ao regime geral levanta questões práticas, como o controlo do horário e a inspeção em domicílio, só parcialmente tratadas. O texto não quantifica o impacto financeiro para a Segurança Social nem para as famílias.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Aumentam as contribuições devidas à Segurança Social por via da nova base de incidência, mas também as prestações a pagar no futuro; o texto não quantifica os valores."
+ },
+ "affected": [
+  "trabalhadores de serviço doméstico",
+  "famílias empregadoras",
+  "Segurança Social",
+  "Autoridade para as Condições do Trabalho"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "serviço doméstico",
+  "código do trabalho",
+  "segurança social",
+  "convenção 189 da OIT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

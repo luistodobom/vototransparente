@@ -1,0 +1,39 @@
+{
+ "short_title": "Emendas de 2014 à Convenção do Trabalho Marítimo",
+ "summary": "Proposta de Resolução do Governo que aprova as Emendas de 2014 à Convenção do Trabalho Marítimo de 2006, adotadas na 103.ª sessão da Conferência Internacional do Trabalho, a 11 de junho de 2014. As emendas dizem respeito à responsabilidade dos armadores quanto a indemnização por morte, lesão corporal e abandono de marítimos. O objetivo é assegurar sistemas de garantia financeira rápidos e eficazes para assistir marítimos abandonados e garantir o pagamento de indemnização em caso de morte ou incapacidade de longa duração resultante de acidente de trabalho ou doença profissional.",
+ "key_points": [
+  "Sistemas de garantia financeira para marítimos abandonados pelo armador.",
+  "Garantia de indemnização por morte ou incapacidade de longa duração por acidente de trabalho ou doença profissional.",
+  "Reforço da responsabilidade dos armadores."
+ ],
+ "plain_language": "Se um marítimo for abandonado pelo armador, ou morrer ou ficar incapacitado no trabalho, tem de existir uma garantia financeira para o apoiar ou indemnizar. O Parlamento é chamado a aprovar estas regras internacionais.",
+ "context": "A Convenção do Trabalho Marítimo vigora em Portugal desde 2017. O Governo propõe aprovar as emendas de 2014 para assegurar proteção financeira rápida em situações de abandono, morte ou incapacidade.",
+ "analysis": "Reforça a proteção de trabalhadores vulneráveis e a responsabilidade dos armadores. Fragilidades: a proposta é sintética, sem avaliação de impacto nos armadores portugueses ou no número de marítimos abrangidos, e não explicita se será necessária adaptação do direito interno.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não indica impacto orçamental; os encargos de garantia financeira recaem sobre os armadores."
+ },
+ "affected": [
+  "marítimos",
+  "armadores",
+  "seguradoras"
+ ],
+ "categories": [
+  "trabalho",
+  "internacional",
+  "transportes"
+ ],
+ "tags": [
+  "marítimos",
+  "indemnização",
+  "abandono",
+  "convenção do trabalho marítimo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

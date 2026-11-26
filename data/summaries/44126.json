@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio à mobilidade fora das áreas metropolitanas",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo políticas de equilíbrio e coesão territorial que incentivem a mobilidade das populações fora das áreas metropolitanas de Lisboa e do Porto, à semelhança do Programa de Apoio à Redução Tarifária (PART). Propõe reduzir em 50% as portagens das ex-SCUT e de outras autoestradas em que se aplique o mesmo princípio para veículos a combustão e em 75% para veículos totalmente elétricos, reduzir em 50% o preço dos bilhetes dos comboios regionais e intercidades não abrangidos pelo PART, e garantir e financiar o regime de transporte a pedido ou flexível, sobretudo nas regiões sem rede de transportes públicos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Redução de 50% das portagens das ex-SCUT para veículos a combustão.",
+  "Redução de 75% das portagens para veículos totalmente elétricos.",
+  "Redução de 50% do preço dos comboios regionais e intercidades fora do PART.",
+  "Financiamento adequado do transporte a pedido ou flexível nas regiões desfavorecidas."
+ ],
+ "plain_language": "O PSD defende que os apoios aos transportes não devem ficar só para Lisboa e Porto. Pede ao Governo portagens mais baratas nas antigas autoestradas sem custos para o utilizador, bilhetes de comboio regional e intercidades 50% mais baratos e mais apoio ao transporte a pedido nas zonas sem transportes públicos. O Governo pode ou não seguir a recomendação.",
+ "context": "O PSD afirma que o PART beneficia sobretudo as áreas metropolitanas: de 104 milhões de euros previstos, 73 milhões seriam para Lisboa e 15,08 milhões para o Porto. Argumenta que as populações do interior dependem do carro, pagam combustíveis e portagens elevados, e que o programa contraria o objetivo de coesão territorial.",
+ "analysis": "A proposta responde a uma assimetria territorial apresentada com números concretos e alinha incentivos ambientais com a mobilidade do interior. Em contrapartida, cortar portagens estimula o uso do automóvel, em tensão com o objetivo de descarbonização invocado, e o texto admite que a medida pode ser neutra financeiramente com base em estudos não identificados, sem apresentar estimativa de custo. Não define fontes de financiamento nem quais autoestradas se aplicam além das ex-SCUT. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução das portagens e dos preços dos bilhetes de comboio diminuiria receitas das concessões e da CP, e o financiamento do transporte a pedido aumentaria a despesa. O texto não apresenta valores, apenas sugere que o desvio de tráfego atenuaria o custo."
+ },
+ "affected": [
+  "residentes fora das áreas metropolitanas",
+  "utilizadores de autoestradas ex-SCUT",
+  "utilizadores de comboios regionais e intercidades",
+  "proprietários de veículos elétricos"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "ambiente"
+ ],
+ "tags": [
+  "portagens",
+  "ex-scut",
+  "coesão territorial",
+  "comboios regionais",
+  "transporte a pedido"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

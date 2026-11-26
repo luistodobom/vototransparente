@@ -1,0 +1,42 @@
+{
+ "short_title": "Simplificar tarifas e integrar a bilhética dos transportes públicos",
+ "summary": "O projeto de resolução do PS recomenda ao Governo um conjunto de medidas para simplificar e integrar o sistema de transportes públicos. Propõe criar em todas as regiões títulos intermodais que cubram todos os modos, aprofundar a simplificação tarifária segundo o princípio de uma viagem, um título, garantir a interoperabilidade da bilhética por referenciais técnicos comuns, rever os mecanismos de financiamento do transporte público, consolidando os programas de incentivo e de redução tarifária num quadro estável e previsível, e criar um modelo mais simples de informação ao passageiro. Recomenda ainda capacitar as autoridades de transporte no planeamento e criar mecanismos de articulação entre elas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Títulos intermodais em todas as regiões, para todos os modos de transporte.",
+  "Simplificação tarifária segundo o princípio de uma viagem, um título.",
+  "Interoperabilidade e integração dos sistemas de bilhética.",
+  "Revisão e consolidação dos mecanismos de financiamento do transporte público.",
+  "Informação ao passageiro mais simples e integrada, incluindo perturbações e atrasos.",
+  "Capacitação e articulação entre autoridades de transporte."
+ ],
+ "plain_language": "O PS pede ao Governo que torne mais fácil usar os transportes públicos: um só bilhete ou passe para vários operadores e modos, regras de preços mais simples, informação mais clara sobre horários e atrasos e financiamento mais organizado. É uma recomendação que o Governo pode seguir ou não.",
+ "context": "O proponente recorda os programas criados desde 2019 (PART, PROTransP, Incentiva+TP) e a gratuitidade para jovens estudantes, e considera que as medidas sucessivas criaram uma arquitetura fragmentada de financiamento, bilhética e compensação, que complica a vida a utilizadores, autoridades e operadores.",
+ "analysis": "A iniciativa propõe consolidar, sem reverter os direitos adquiridos, e identifica problemas reais de fragmentação e de informação ao passageiro. Fragilidades: é genérica, sem prazos, custos nem indicadores; a revisão do financiamento pode implicar mais ou menos apoio consoante o desenho, o que o texto não esclarece; a integração tecnológica entre vários operadores é complexa; o texto dedica grande parte à valorização de governos anteriores do próprio proponente. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A revisão dos mecanismos de financiamento e a integração da bilhética podem implicar despesa ou poupança, consoante a sua concretização. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "autoridades de transporte e operadores",
+  "municípios, áreas metropolitanas e comunidades intermunicipais"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "administracao"
+ ],
+ "tags": [
+  "bilhética",
+  "títulos intermodais",
+  "tarifas",
+  "financiamento do transporte público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

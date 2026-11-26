@@ -1,0 +1,42 @@
+{
+ "short_title": "Revogar o artigo 6.º da Carta Digital para proteger a liberdade de expressão online",
+ "summary": "A Iniciativa Liberal propõe revogar o artigo 6.º da Lei n.º 27/2021 (Carta Portuguesa de Direitos Humanos na Era Digital), relativo ao direito à proteção contra a desinformação. A lei entra em vigor no dia seguinte ao da publicação. A exposição de motivos defende que a norma promove mecanismos censórios: define desinformação de forma ampla, cria uma rede de verificadores de factos reconhecidos pelo Estado, atribui à ERC o poder de apreciar queixas e prevê selos de qualidade. Propõe que a ameaça de campanhas externas de desinformação seja tratada, se for caso disso, em legislação própria de segurança que salvaguarde direitos fundamentais.",
+ "key_points": [
+  "Revoga o artigo 6.º da Lei n.º 27/2021 (Carta Portuguesa de Direitos Humanos na Era Digital).",
+  "Elimina o conceito legal de desinformação, o papel da ERC nas queixas e a previsão de verificadores de factos e selos de qualidade.",
+  "Remete o combate a campanhas externas de desinformação para legislação própria de segurança, com salvaguarda de direitos.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A Iniciativa Liberal quer apagar da Carta de Direitos Humanos na Era Digital o artigo que trata da desinformação, por entender que dá ao Estado e a entidades por ele reconhecidas o poder de decidir o que é verdadeiro e de pressionar quem publica opiniões políticas online. Defende que a resposta à informação falsa deve ser mais debate e informação, não mais regulação.",
+ "context": "A IL saúda o alargamento dos direitos às plataformas digitais, mas considera o artigo 6.º, inspirado no Plano de Ação contra a Desinformação da UE, uma ameaça à liberdade de expressão. Argumenta que a ameaça de campanhas externas é matéria de segurança nacional e não de direitos individuais, e que a norma abre caminho a censura e autocensura.",
+ "analysis": "A proposta defende com clareza a liberdade de expressão. Fragilidades: o texto usa linguagem muito polémica (\"Ministério da Verdade\", \"cartel\") e afirmações como a de que o artigo promove censura sistematizada que não são demonstradas por análise jurídica da redação concreta; revoga o artigo inteiro sem alternativa para a desinformação organizada, remetendo para legislação futura; não distingue entre as disposições problemáticas e outras. A ausência de resposta pública pode deixar sem proteção os cidadãos face à desinformação.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A revogação não tem impacto orçamental quantificado no texto."
+ },
+ "affected": [
+  "utilizadores da internet",
+  "órgãos de comunicação social",
+  "ERC",
+  "entidades de verificação de factos"
+ ],
+ "categories": [
+  "direitos",
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "liberdade de expressão",
+  "desinformação",
+  "carta digital",
+  "censura",
+  "erc"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

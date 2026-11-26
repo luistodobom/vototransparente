@@ -1,0 +1,44 @@
+{
+ "short_title": "Prevenção da extorsão sexual e das burlas românticas online",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo um conjunto integrado de medidas contra a extorsão sexual digital e as burlas românticas, com especial enfoque em crianças e jovens. Inclui conteúdos de literacia digital nos currículos do básico e secundário; protocolos de atuação perante violência digital nas escolas, incluindo deepfakes; guias práticos de prevenção e resposta; campanhas de sensibilização; formação de magistrados, forças de segurança, professores, psicólogos e assistentes sociais; reforço de meios da Unidade Nacional de Combate ao Cibercrime; cooperação bilateral com outros Estados; e uma secção de apoio a vítimas no portal da CIG.",
+ "key_points": [
+  "Integrar literacia digital e segurança online nos currículos do ensino básico e secundário.",
+  "Criar protocolos para casos de violência digital em contexto escolar, incluindo deepfakes, com apoio psicológico e remoção rápida de conteúdos.",
+  "Elaborar guias práticos de prevenção e resposta e realizar campanhas de sensibilização.",
+  "Formar magistrados, forças de segurança, professores, psicólogos e assistentes sociais.",
+  "Reforçar a Unidade Nacional de Combate ao Cibercrime e a cooperação internacional.",
+  "Criar uma secção de apoio a vítimas no portal da CIG."
+ ],
+ "plain_language": "O PAN pede ao Governo que ensine nas escolas como evitar burlas amorosas e chantagem com imagens íntimas na internet, que crie regras claras para as escolas quando alunos são vítimas, e que dê mais meios à Polícia Judiciária para investigar. Pede também guias e campanhas para o público. É uma recomendação, não uma obrigação legal.",
+ "context": "O PAN refere que a extorsão sexual representa mais de metade dos casos de extorsão investigados e cita números da Polícia Judiciária: 665 processos de natureza sexual em 1017 casos em 2024 e 732 em 1229 no ano seguinte. Aponta também o uso de inteligência artificial para criar deepfakes entre alunos e a subnotificação por vergonha e medo.",
+ "analysis": "A proposta combina prevenção, formação e investigação, com base em dados da Polícia Judiciária. Fragilidades: as medidas são numerosas e sem prazos, metas ou orçamento, e a integração curricular transversal pode sobrecarregar escolas sem recursos adicionais. A articulação entre muitos organismos (IGEC, CNPDPCJ, plataformas, associações) não define responsabilidades. A remoção rápida de conteúdos e as medidas punitivas nas escolas suscitam questões de proporcionalidade e de articulação com plataformas privadas. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios da unidade de cibercrime, a formação, as campanhas e os materiais implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Crianças e jovens",
+  "Escolas, professores e psicólogos",
+  "Vítimas de crimes digitais",
+  "Polícia Judiciária e forças de segurança"
+ ],
+ "categories": [
+  "seguranca",
+  "educacao",
+  "justica"
+ ],
+ "tags": [
+  "sextortion",
+  "burlas românticas",
+  "deepfakes",
+  "literacia digital",
+  "cibercrime"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargamento da rede pública de educação pré-escolar",
+ "summary": "Projeto de Lei do PCP que altera a Lei-Quadro da Educação Pré-Escolar e a Lei n.º 85/2009 para garantir a gratuitidade e a universalização da educação pré-escolar pública a partir dos três anos. Estabelece um máximo de 19 crianças por sala (15 em turmas homogéneas de três anos e 13 nas turmas com crianças apoiadas, com um máximo de duas), determina que a rede é pública, podendo ser complementada por rede privada, social e cooperativa quando a oferta for insuficiente, e que a frequência é gratuita em todas as componentes. Obriga o Governo, com os municípios, a planear o alargamento da rede até 2029, abrindo pelo menos 150 novas salas em 2026/2027, financiado pelo Orçamento do Estado e fundos europeus.",
+ "key_points": [
+  "Garante a gratuitidade de todas as componentes da educação pré-escolar.",
+  "Estabelece o máximo de 19 crianças por sala, com limites menores para turmas de três anos e com crianças apoiadas.",
+  "Faz da rede pública a base da oferta, com a rede privada, social e cooperativa como complemento temporário.",
+  "Abre pelo menos 150 novas salas públicas em 2026/2027 e visa a universalização do acesso até 2029.",
+  "Financiamento pelo Orçamento do Estado e fundos europeus; entrada em vigor com o Orçamento posterior."
+ ],
+ "plain_language": "O PCP quer que todas as crianças a partir dos 3 anos tenham vaga gratuita num jardim de infância público. Para isso, o Governo teria de abrir pelo menos 150 novas salas já em 2026/2027 e completar o alargamento até 2029, com salas com menos crianças. O custo seria suportado pelo Orçamento do Estado.",
+ "context": "O PCP lembra que o Estado deve criar uma rede pública de educação pré-escolar que cubra toda a população, mas que a rede pública cobre apenas 54,5% das crianças inscritas (144.363 de 265.025 em 2022/2023, segundo a DGEEC). Isso empurra as famílias para IPSS ou oferta privada, por vezes com custos proibitivos. Propostas anteriores do PCP foram rejeitadas.",
+ "analysis": "A proposta tem metas e calendário concretos e responde a uma lacuna de cobertura documentada. Fragilidades: o texto não estima o custo, nem o número de educadores e assistentes a recrutar, e apresenta a abertura de 150 salas em 2026/2027 sem avaliar se corresponde às carências por concelho. Limita a oferta complementar à rede social e privada, o que pode afetar instituições existentes. A articulação com os municípios e as Cartas Educativas pode atrasar a execução. A redução do máximo de crianças por sala aumenta as necessidades de salas e pessoal.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de salas, a contratação de pessoal e a gratuitidade total implicam despesa do Orçamento do Estado e fundos europeus. O texto não apresenta estimativa de custos."
+ },
+ "affected": [
+  "Crianças dos 3 aos 5 anos e as suas famílias",
+  "Educadores de infância e assistentes operacionais",
+  "Municípios",
+  "IPSS e escolas privadas"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "educação pré-escolar",
+  "rede pública",
+  "gratuitidade",
+  "salas de jardim de infância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

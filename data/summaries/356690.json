@@ -1,0 +1,39 @@
+{
+ "short_title": "Atualizar a comparticipação das refeições escolares",
+ "summary": "A deputada única do PAN recomenda ao Governo que atualize os valores da comparticipação pública nas refeições escolares, tendo em conta a evolução dos custos alimentares, energéticos e logísticos, de modo a garantir refeições nutricionalmente equilibradas e de qualidade; que assegure a convergência dos níveis de financiamento entre alunos do ensino público e alunos abrangidos por contratos de associação, eliminando desigualdades injustificadas; e que leve a cabo as diligências necessárias para que todos os alunos tenham acesso a refeições adequadas, diversificadas e de qualidade equivalente, independentemente do tipo de estabelecimento ou regime de frequência. O texto refere que o valor para refeições nos contratos de associação está fixado em 1,46 euros desde 2015. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Atualizar os valores da comparticipação pública nas refeições escolares.",
+  "Aproximar o financiamento das refeições entre ensino público e contratos de associação.",
+  "Garantir refeições nutricionalmente equilibradas e de qualidade equivalente a todos os alunos."
+ ],
+ "plain_language": "O PAN pede ao Governo que aumente o dinheiro que o Estado dá para as refeições nas escolas, porque os valores estão desatualizados, e que os alunos das escolas com contrato de associação tenham refeições de qualidade igual às dos alunos do ensino público. É só uma recomendação.",
+ "context": "O proponente defende que a refeição escolar é essencial ao bem-estar e combate desigualdades, que os municípios suportam défices por a comparticipação central ser insuficiente e que os valores estão desatualizados há mais de uma década. Refere que, nos contratos de associação, o valor de 1,46 euros desde 2015 é insuficiente.",
+ "analysis": "A proposta identifica um problema concreto (valores fixos há anos, inflação alimentar e energética) e apela à igualdade de tratamento dos alunos. Fragilidades: não indica o novo valor, o custo total nem o financiamento, e o texto tem inconsistências formais, como a numeração XV/1.ª no cabeçalho e a data de 2023 no fim, embora os metadados a situem na XVII Legislatura. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar a comparticipação do Estado e convergir o financiamento dos contratos de associação aumentaria a despesa pública; o texto não indica valores."
+ },
+ "affected": [
+  "alunos do ensino obrigatório",
+  "municípios",
+  "escolas com contrato de associação",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "refeições escolares",
+  "comparticipação",
+  "contratos de associação",
+  "alimentação escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Direitos dos utilizadores de veículos elétricos e alargamento da rede de carregamento",
+ "summary": "O PAN recomenda ao Governo que, na adaptação da legislação ao Regulamento (UE) 2023/1804 sobre infraestrutura de combustíveis alternativos, reforce os direitos dos utilizadores de veículos elétricos, alargue a rede de postos de carregamento e aumente a sustentabilidade da mobilidade elétrica, avaliando sete medidas: portal centralizado para registar ocorrências nos postos; tarifas expressas por kWh e por tempo de carregamento; informação clara e permanente sobre custo e potência máxima; metas de expansão nas autoestradas e áreas de serviço; concursos autónomos para postos de carregamento nas áreas de serviço; bonificação tarifária proporcional à energia produzida localmente em autoconsumo; e incentivos à reutilização de baterias em fim de vida para armazenamento de energia. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Portal centralizado para registo de ocorrências nos postos de carregamento públicos.",
+  "Tarifas expressas por kWh e por tempo de carregamento, com informação clara sobre custo e potência.",
+  "Metas de expansão da rede de carregamento nas autoestradas e áreas de serviço.",
+  "Concursos autónomos para postos de carregamento face aos de combustíveis fósseis nas áreas de serviço.",
+  "Bonificação tarifária ligada à energia produzida localmente em autoconsumo.",
+  "Incentivos à reutilização de baterias em fim de vida para armazenamento de energia."
+ ],
+ "plain_language": "O PAN pede ao Governo que avalie medidas para facilitar a vida a quem tem carro elétrico: mais carregadores, preços claros, uma forma central de reportar avarias e incentivos a usar baterias usadas para guardar energia. É apenas uma recomendação.",
+ "context": "O PAN sustenta que os transportes são responsáveis por cerca de um quarto das emissões de gases com efeito de estufa e que os elétricos emitem menos ao longo do ciclo de vida. Refere que os incentivos à compra tiveram procura superior à dotação e que a quota de elétricos no parque automóvel é ainda baixa (0,8% em 2023), a par das exigências europeias.",
+ "analysis": "As medidas abordam falhas concretas, como a transparência de preços, e alinham-se com o regulamento europeu. Fragilidades: todas são formuladas como medidas a avaliar, sem prazos, metas quantificadas ou fontes de financiamento. A bonificação tarifária e os incentivos às baterias poderiam gerar custo ou perda de receita, não estimados. Por ser uma recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de incentivos, bonificações tarifárias e a expansão da rede podem implicar despesa ou perda de receita, mas o texto limita-se a pedir a sua avaliação e não indica montantes."
+ },
+ "affected": [
+  "utilizadores de veículos elétricos",
+  "operadores de pontos de carregamento",
+  "concessionárias de autoestradas"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "energia"
+ ],
+ "tags": [
+  "veículos elétricos",
+  "postos de carregamento",
+  "AFIR",
+  "baterias",
+  "tarifas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

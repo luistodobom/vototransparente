@@ -1,0 +1,39 @@
+{
+ "short_title": "Contribuições dos trabalhadores independentes por recibo e retenção de IRS a 21,5%",
+ "summary": "O Bloco de Esquerda recomenda ao Governo três medidas: permitir que os trabalhadores independentes optem por fazer as contribuições para a Segurança Social por cada recibo ou fatura-recibo emitido no portal da Autoridade Tributária; dispensar da entrega da declaração trimestral à Segurança Social quem descontar por cada fatura-recibo; e fixar em 21,5% a taxa de retenção na fonte de IRS aplicável aos rendimentos das atividades profissionais previstas na tabela do artigo 151.º do Código do IRS. É um projeto de resolução, que recomenda ao Governo e não o vincula.",
+ "key_points": [
+  "Opção de contribuir para a Segurança Social por cada recibo ou fatura-recibo emitido no portal da AT.",
+  "Dispensa da declaração trimestral para quem opte por esse modelo.",
+  "Taxa de retenção na fonte de IRS fixada em 21,5% para as atividades da tabela do artigo 151.º do Código do IRS."
+ ],
+ "plain_language": "O BE quer que os trabalhadores a recibos verdes possam descontar para a Segurança Social sempre que passam um recibo, em vez de por médias trimestrais, e que deixem de entregar a declaração trimestral. Pede também que a retenção de IRS nos seus recibos desça para 21,5%. É uma recomendação ao Governo.",
+ "context": "O proponente recorda que, em 2019, o regime contributivo dos independentes foi alterado e que o Estatuto dos Profissionais da Área da Cultura (2021) já prevê contribuições com base em cada recibo. Defende alargar essa solução a todos os independentes, ajustando a contribuição ao rendimento de cada momento, e retomar a retenção anterior à austeridade, já reduzida de 25% para 23% no Orçamento do Estado para 2025.",
+ "analysis": "A contribuição por recibo aproxima a contribuição do rendimento efetivo e reduz carga declarativa, sendo opcional. Contudo, pode tornar as receitas da Segurança Social mais irregulares e levanta questões de proteção em meses de baixos rendimentos, que o texto não analisa. A descida da retenção para 21,5% antecipa menos imposto retido, afetando a tesouraria do Estado, embora a retenção seja uma entrega por conta do imposto final. Não há estimativas de impacto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da taxa de retenção na fonte para 21,5% antecipa menos receita de IRS. O efeito sobre as contribuições à Segurança Social não é quantificado no texto."
+ },
+ "affected": [
+  "trabalhadores independentes",
+  "Segurança Social",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "trabalho",
+  "fiscalidade"
+ ],
+ "tags": [
+  "trabalhadores independentes",
+  "segurança social",
+  "retenção na fonte",
+  "IRS",
+  "recibos verdes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão do regime jurídico dos TVDE",
+ "summary": "Projeto de Lei do PSD que altera a Lei n.º 45/2018 (regime do transporte em veículos de plataforma eletrónica, TVDE). Mantém a sigla mas retira a exigência de veículos \"descaracterizados\", permite publicidade nas viaturas e que empresas e viaturas de táxi operem também em TVDE, distingue operadores de TVDE de gestores de plataforma, harmoniza licenças em ciclos de cinco anos e eleva o limite de idade dos veículos de 7 para 10 anos (12 se elétricos). Elimina o teto da tarifa dinâmica, torna obrigatória a partilha de dados em tempo real com o IMT, a escolha do português como língua do motorista, o botão de pânico e a avaliação mútua, e redistribui as competências sancionatórias. Habilita as Regiões Autónomas a adotar medidas complementares.",
+ "key_points": [
+  "Retira a exigência de veículos descaracterizados, permite publicidade e reforça o dístico de identificação.",
+  "Empresas de táxi podem ser licenciadas como operadores TVDE e táxis podem operar em TVDE fora do serviço público.",
+  "Limite de idade dos veículos sobe de 7 para 10 anos (12 anos se exclusivamente elétricos); gestores de plataforma não podem ser proprietários de veículos TVDE.",
+  "Elimina o limite da tarifa dinâmica e clarifica que a taxa de intermediação máxima de 25% incide sobre o valor sem IVA.",
+  "Obriga as plataformas à partilha de dados em tempo real com o IMT, à opção de motorista que fale português, a botão de pânico e à avaliação mútua.",
+  "Clarifica competências sancionatórias e habilita as Regiões Autónomas a adotar medidas complementares por decreto legislativo regional."
+ ],
+ "plain_language": "O PSD propõe atualizar as regras de Uber, Bolt e semelhantes. Os táxis poderiam também trabalhar como TVDE, os carros poderiam ser mais velhos e ter publicidade, e deixaria de haver limite ao preço dinâmico. As plataformas teriam de partilhar dados com o IMT, ter botão de pânico e permitir avaliar passageiros. As ilhas poderiam acrescentar regras próprias.",
+ "context": "O PSD refere que a Lei n.º 45/2018 previa uma avaliação ao fim de três anos, feita pelo IMT em 2021, que apontou melhorias na qualidade, na certificação e nos dados. Recorda o seu Projeto de Resolução n.º 409/XVI e o portal do IMT de cruzamento de dados, operacionalizado em março de 2025, e quer atualizar o regime face ao mercado.",
+ "analysis": "O projeto reúne medidas que respondem a recomendações do IMT e a problemas de fiscalização e segurança, como a partilha de dados e o botão de pânico. Contudo, eliminar o limite à tarifa dinâmica pode aumentar os preços em picos de procura, e o argumento da concorrência entre as duas maiores plataformas não é demonstrado com dados. A aproximação entre táxi e TVDE e a autonomia regional podem gerar fragmentação regulatória. A versão analisada está truncada, pelo que alguns detalhes do articulado podem não estar refletidos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto lido não apresenta estimativas de custos ou receitas. A redistribuição de competências sancionatórias e a obrigatoriedade de dados implicam custos administrativos não quantificados."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "plataformas e operadores de TVDE",
+  "empresas e motoristas de táxi",
+  "passageiros",
+  "Regiões Autónomas"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "tvde",
+  "plataformas eletrónicas",
+  "táxi",
+  "tarifa dinâmica",
+  "imt"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

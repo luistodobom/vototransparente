@@ -1,0 +1,42 @@
+{
+ "short_title": "Créditos parentais para o cálculo da pensão de velhice",
+ "summary": "O Projeto de Lei n.º 682/XVII/1.ª, do CHEGA, cria na Segurança Social créditos parentais que relevam para o prazo de garantia e para a taxa global de formação da pensão de velhice. São elegíveis períodos de licença parental complementar, licença para assistência a dependente, trabalho a tempo parcial com responsabilidades familiares e redução ou suspensão da atividade de trabalhador independente. Cada dois meses de redução ou suspensão dão direito a um mês de carreira contributiva, até 12 meses por dependente, ou 24 em caso de deficiência, doença crónica ou oncológica. Os créditos não contam para a remuneração de referência nem para regimes de reforma antecipada por carreiras muito longas, e prevalece o regime mais favorável sem cumulação. O Governo regulamenta em 90 dias e a lei só se aplica a períodos futuros, com entrada em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Um mês de crédito parental por cada dois meses de redução ou suspensão da atividade, até 12 meses por dependente (24 em caso de deficiência, doença crónica ou oncológica).",
+  "Os créditos relevam para o prazo de garantia e a taxa global de formação da pensão, mas não para a remuneração de referência.",
+  "Os créditos podem ser repartidos entre os progenitores por declaração conjunta, e não são atribuídos em períodos já cobertos por equivalência à entrada de contribuições com efeitos equivalentes.",
+  "Aplica-se apenas a períodos após a entrada em vigor, sem retroativos, e o Governo regulamenta no prazo de 90 dias.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Quem reduz o trabalho ou o deixa temporariamente para cuidar dos filhos pode ter uma pensão mais baixa no futuro. Este projeto cria um crédito: por cada dois meses em que o pai ou a mãe reduz ou suspende a atividade, conta um mês na carreira contributiva, até um máximo de um ano por criança, ou dois se a criança tiver deficiência ou doença grave. Esse tempo ajudaria a calcular uma pensão melhor.",
+ "context": "O CHEGA argumenta que a decisão de acompanhar os filhos nos primeiros anos penaliza a carreira contributiva e, no futuro, a pensão de velhice, e que o reconhecimento atual é limitado. Defende que o cuidado dos filhos tem valor social, familiar e económico, e invoca como precedente sistemas como os da Alemanha, da Áustria e de França, onde os períodos de educação dos filhos são reconhecidos para efeitos de pensão.",
+ "analysis": "Pontos fortes: reconhece o impacto da parentalidade nas carreiras contributivas, protege situações de maior vulnerabilidade e inclui salvaguardas contra duplicação de efeitos e cumulação. Fragilidades: o benefício favorece quem tem possibilidade de reduzir a atividade, e pode manter ou aprofundar a desigualdade de género se recair mais sobre as mães; o texto não estima o impacto financeiro nem diz quem suporta as contribuições creditadas; e remete elementos essenciais, como meios de prova e fiscalização, para regulamentação do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atribuir tempo de carreira contributiva sem contribuições efetivas aumentaria a despesa futura da Segurança Social com pensões; o texto não quantifica o custo."
+ },
+ "affected": [
+  "pais e mães trabalhadores",
+  "trabalhadores independentes",
+  "futuros pensionistas",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "créditos parentais",
+  "pensão de velhice",
+  "parentalidade",
+  "carreira contributiva",
+  "Segurança Social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Revisão dos planos de gestão de bacia hidrográfica face ao clima",
+ "summary": "O PAN recomenda ao Governo que, com os organismos competentes, a academia e especialistas, desencadeie uma revisão dos planos de gestão de bacia hidrográfica para os adaptar aos cenários climáticos de escassez de água, aumento de temperatura e seca. Entre os conteúdos propostos estão uma estratégia de mitigação dos efeitos das alterações climáticas e da seca, com objetivos calendarizados e medidas adaptadas a cada território (incluindo culturas compatíveis com a disponibilidade hídrica projetada); um programa de remoção de infraestruturas hidráulicas obsoletas; incentivos à conversão para agricultura biológica nas margens dos rios; caudais ecológicos nas regiões hidrográficas partilhadas com Espanha; e um relatório anual de monitorização público. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Recomenda rever os planos de gestão de bacia hidrográfica para os adaptar a cenários de escassez, calor e seca.",
+  "Estratégia de mitigação da seca com objetivos calendarizados e medidas por território.",
+  "Programa de remoção de infraestruturas hidráulicas obsoletas e promoção de caudais ecológicos.",
+  "Incentivos à agricultura biológica nas margens dos rios e ribeiros.",
+  "Relatório anual de monitorização pública da execução dos programas de medidas."
+ ],
+ "plain_language": "O texto pede ao Governo que atualize os planos que gerem a água em cada bacia hidrográfica, para ter em conta que haverá menos água e mais seca. Propõe medidas como adequar as culturas à água disponível, retirar barragens e açudes sem uso, apoiar a agricultura biológica junto aos rios e publicar um relatório anual. É uma recomendação.",
+ "context": "A proponente invoca dados recentes sobre calor extremo e alterações climáticas e a perda de disponibilidade e qualidade da água. Refere que os planos atuais não preveem estratégias específicas contra a seca, o número elevado de infraestruturas obsoletas (7.687) e os incumprimentos de Espanha na convenção de Albufeira.",
+ "analysis": "A iniciativa liga os planos de bacia ao clima e traz medidas específicas e verificáveis, incluindo transparência. Fragilidades: é genérica quanto ao processo de revisão (prazos, orçamento, quem decide); a remoção de infraestruturas pode ter impactos para usos atuais como produção de energia e rega, que não são analisados; e a cooperação com Espanha depende de outro Estado. É uma recomendação, e o Governo pode não a seguir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A revisão dos planos, a remoção de infraestruturas e os incentivos à agricultura biológica implicariam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "agricultores",
+  "entidades gestoras de bacias hidrográficas",
+  "utilizadores da água",
+  "Agência Portuguesa do Ambiente"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "planos de bacia hidrográfica",
+  "seca",
+  "alterações climáticas",
+  "caudais ecológicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

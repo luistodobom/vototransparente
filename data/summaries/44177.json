@@ -1,0 +1,43 @@
+{
+ "short_title": "Rever rácios e contratar pessoal não docente nas escolas",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que identifique as necessidades imediatas das escolas e contrate urgentemente, até ao final de 2019, os assistentes operacionais e técnicos em falta, incluindo para substituir ausências por mobilidade, aposentação ou reforma. Recomenda também a revisão da Portaria de Rácios (Portaria n.º 272-A/2017) e o reforço, até ao fim do ano letivo 2019/2020, da dotação de pessoal não docente, com vínculo público efetivo. Os critérios a corrigir incluem a segurança de pessoas e bens, a vigilância em escolas de grande dimensão ou requalificadas, formação para acompanhar alunos com necessidades educativas especiais e para manter equipamentos tecnológicos, tipologias específicas e a contagem de todos os estabelecimentos de cada agrupamento. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Contratação urgente, até ao final de 2019, de assistentes operacionais e técnicos em falta.",
+  "Revisão da Portaria de Rácios e reforço da dotação de pessoal até ao final do ano letivo 2019/2020.",
+  "Integração do pessoal na carreira com vínculo público efetivo.",
+  "Critérios de dotação que considerem segurança, dimensão das escolas e alunos com necessidades educativas especiais.",
+  "Assistentes técnicos calculados pela totalidade dos estabelecimentos do agrupamento e não só pela escola sede."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que contrate depressa os funcionários que faltam nas escolas, como auxiliares e administrativos, e que mude a fórmula que calcula quantos funcionários cada escola pode ter, porque considera que não corresponde às necessidades reais. É apenas uma recomendação, sem obrigatoriedade.",
+ "context": "O BE afirma que desde o início do ano letivo 2019/2020 várias escolas e associações de pais denunciam a falta de assistentes operacionais e técnicos, com serviços e blocos de salas paralisados. Considera que a fórmula da portaria não contempla espaços verdes, laboratórios, refeitórios não concessionados nem as necessidades dos alunos com necessidades educativas especiais.",
+ "analysis": "A proposta identifica falhas concretas na fórmula de cálculo e liga-as a consequências no funcionamento das escolas, apresentando critérios detalhados de revisão. Em contrapartida, não quantifica o número de contratações nem o custo, e o prazo de final de 2019 é muito curto. Exigir vínculo efetivo para todo o pessoal acrescenta encargos permanentes e rigidez. Sendo resolução, o seu efeito depende do Governo, e a revisão de uma portaria pode colidir com restrições orçamentais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais pessoal não docente com vínculo efetivo e o reforço das dotações aumentam a despesa com pessoal na educação. O texto não apresenta valores."
+ },
+ "affected": [
+  "assistentes operacionais e técnicos das escolas",
+  "alunos com necessidades educativas especiais",
+  "agrupamentos de escolas",
+  "pais e encarregados de educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "pessoal não docente",
+  "portaria de rácios",
+  "assistentes operacionais",
+  "escolas",
+  "contratação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

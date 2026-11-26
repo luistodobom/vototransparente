@@ -1,0 +1,43 @@
+{
+ "short_title": "Preços máximos para o gás engarrafado, natural e canalizado",
+ "summary": "O PCP propõe rever o regime de preços máximos do gás de petróleo liquefeito (GPL) engarrafado, previsto no artigo 26.º do Decreto n.º 3-A/2021, para reduzir o preço final, num prazo de 30 dias, e prolongá-lo até 31 de dezembro de 2022. Propõe ainda que o Governo estabeleça um regime de margens máximas na comercialização grossista e distribuição do gás natural e do gás propano, butano e misturas, engarrafado ou canalizado. Para o GPL, as referências seriam os preços médios antes de impostos na Zona Euro e um preço final não superior em mais de 5% à média em Espanha. A regulamentação deve ocorrer em 30 dias após a publicação.",
+ "key_points": [
+  "Revisão, em 30 dias, do regime de preços máximos do GPL engarrafado para reduzir o preço final.",
+  "Prolongamento desse regime até 31 de dezembro de 2022.",
+  "Regime de margens máximas na comercialização grossista e distribuição de gás natural e GPL.",
+  "Referências: preços médios pré-imposto na Zona Euro e preço final até 5% acima da média espanhola.",
+  "Regulamentação pelo Governo em 30 dias após a publicação da lei."
+ ],
+ "plain_language": "O PCP quer que o gás de botija e o gás canalizado fiquem mais baratos: o Governo reveria os preços máximos do gás de botija em 30 dias, prolongaria o regime até ao fim de 2022 e limitaria as margens das empresas, para que o preço em Portugal não fique mais de 5% acima do de Espanha.",
+ "context": "O PCP afirma que o gás de botija pesa nas famílias, sobretudo em zonas rurais, e que o preço em Portugal (cerca de 26 euros, segundo o texto) é superior ao de Espanha (cerca de 17 euros). Cita relatórios da ENMC e da ERSE sobre margens elevadas e concentração do mercado, e considera paliativa a \"botija de gás social\".",
+ "analysis": "A medida procura aliviar custos de famílias e atacar margens num mercado concentrado, com base em relatórios do regulador. Fragilidades: tetos de preço podem desincentivar a distribuição, sobretudo em zonas de baixa procura, e criar escassez; a referência a Espanha depende de outro regime regulatório; o texto não estima o impacto nas empresas nem na receita do Estado. O prazo de 30 dias para regulamentar pode ser exigente.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos ou receitas; a redução de preços pode diminuir receita de IVA sobre o gás, mas o efeito depende da regulamentação."
+ },
+ "affected": [
+  "famílias consumidoras de gás de botija",
+  "comercializadores e distribuidores de gás",
+  "populações rurais",
+  "ERSE"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "gás de botija",
+  "gpl",
+  "preços máximos",
+  "margens",
+  "erse"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

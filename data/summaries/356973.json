@@ -1,0 +1,41 @@
+{
+ "short_title": "Alívio fiscal: IVA dos combustíveis e dos alimentos",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo três medidas para aliviar o custo de vida. A primeira é reduzir temporariamente o IVA dos combustíveis (gasolina e gasóleo) da taxa normal de 23% para a taxa intermédia de 13%, por um período inicial de seis meses sujeito a reavaliação. A segunda é aplicar a taxa de IVA 0% a um conjunto de bens alimentares essenciais, e a exposição de motivos menciona pão, leite, frutas, legumes, arroz, massas, azeite, carne, peixe e ovos. A terceira é reforçar a fiscalização da formação de preços em setores estratégicos, prevenindo práticas especulativas e distorções de mercado.",
+ "key_points": [
+  "Reduzir temporariamente o IVA dos combustíveis de 23% para 13%, por seis meses, com reavaliação.",
+  "Aplicar IVA 0% a um conjunto de bens alimentares essenciais.",
+  "Reforçar a fiscalização da formação de preços em setores estratégicos."
+ ],
+ "plain_language": "O Chega propõe que o Governo baixe o imposto (IVA) sobre a gasolina e o gasóleo durante seis meses e deixe de cobrar IVA sobre alimentos básicos como pão, leite, fruta, carne e peixe. Pede também mais fiscalização dos preços para evitar abusos. O objetivo é ajudar as famílias com o custo de vida. É uma recomendação ao Governo, que não é obrigado a aplicá-la.",
+ "context": "O proponente invoca a instabilidade geopolítica e os seus efeitos nos preços da energia, combustíveis e alimentos, uma elevada carga fiscal e baixos salários. Cita estudos que indicam um forte impacto do aumento dos combustíveis nas famílias portuguesas e recorda a aplicação de IVA 0% a bens alimentares durante a pandemia.",
+ "analysis": "As medidas têm efeito direto e rápido no preço final, e a primeira é temporária e reavaliável. Fragilidades: o texto não quantifica a perda de receita nem indica como a compensar, não define o cabaz alimentar na parte dispositiva e não prevê mecanismos que garantam que a descida do IVA é repercutida nos preços. Reduzir o imposto sobre combustíveis também pode ir contra objetivos ambientais e beneficiar mais quem consome mais. Sendo projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Baixar o IVA dos combustíveis para 13% e aplicar 0% a alimentos essenciais reduz a receita fiscal; o texto não apresenta valores."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "condutores e transportadores",
+  "empresas dependentes de transporte",
+  "retalho alimentar"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "iva",
+  "combustíveis",
+  "cabaz alimentar",
+  "custo de vida",
+  "preços"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

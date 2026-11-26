@@ -1,0 +1,40 @@
+{
+ "short_title": "Desvincular Portugal do Cartão Europeu de Vacinação",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo quatro medidas: não implementar o Cartão Europeu de Vacinação nem adotá-lo no âmbito do projeto EUVABECO; promover a saída imediata de Portugal desse projeto; garantir que toda a partilha de dados de saúde com organismos estrangeiros ou supranacionais cumpre o RGPD e depende de consentimento informado e explícito; e adotar na União Europeia uma postura de oposição à centralização de dados pessoais sensíveis. A exposição afirma que Portugal é um dos cinco países-piloto e invoca riscos para a privacidade, discriminação e cibersegurança. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Não implementar o Cartão Europeu de Vacinação em Portugal.",
+  "Promover a saída imediata de Portugal do projeto EUVABECO.",
+  "Partilha de dados de saúde apenas com consentimento informado e explícito, em conformidade com o RGPD.",
+  "Oposição, na UE, à centralização de dados pessoais sensíveis."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que Portugal abandone o projeto europeu de um cartão digital de vacinação, por recear perda de privacidade e discriminação de quem não se vacine. Entende que o boletim de vacinas eletrónico já existente chega. É apenas uma recomendação ao Governo.",
+ "context": "O proponente afirma que o EUVABECO é uma iniciativa da Comissão Europeia em fase-piloto em cinco Estados-membros, incluindo Portugal, e que o cartão estaria ligado ao sistema de certificação da OMS. Invoca os artigos 26.º e 35.º da Constituição, o RGPD e uma petição com quase quinze mil assinaturas.",
+ "analysis": "A proposta levanta preocupações legítimas sobre proteção de dados de saúde, às quais o RGPD já responde com regras de consentimento e segurança. Fragilidades: a exposição usa linguagem fortemente valorativa e faz afirmações sobre vigilância e controlo que o texto não demonstra com base no desenho concreto do projeto; as ligações a outros projetos, como a identidade digital, são asseguradas sem prova. A redundância face ao Boletim de Vacinas Eletrónico é um argumento relevante, mas a interoperabilidade transfronteiriça não é discutida.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A resolução recomenda não aderir a um projeto e não prevê despesa ou receita pública diretas no texto."
+ },
+ "affected": [
+  "utentes do SNS",
+  "viajantes e cidadãos portugueses",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "internacional"
+ ],
+ "tags": [
+  "Cartão Europeu de Vacinação",
+  "EUVABECO",
+  "proteção de dados",
+  "RGPD"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

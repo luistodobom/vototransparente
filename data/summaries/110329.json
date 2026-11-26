@@ -1,0 +1,41 @@
+{
+ "short_title": "Reabertura das escolas em segurança",
+ "summary": "A Iniciativa Liberal recomenda ao Governo três medidas para a reabertura das escolas durante a pandemia de COVID-19. Pede um plano de reabertura e de retoma do ensino presencial, com caráter de urgência, em todos os ciclos de aprendizagem; a realização massiva, recorrente, voluntária e gratuita de testes rápidos de antigénio (TRAg) à comunidade escolar, com isolamento imediato dos casos positivos e inquérito epidemiológico logo após a deteção; e o desenvolvimento dos procedimentos para recuperações educativas para todos os alunos prejudicados pelo ensino não presencial. O texto considera o encerramento das escolas desproporcional face à descida de casos e aos seus custos sociais e económicos. É uma recomendação ao Governo, sem caráter vinculativo.",
+ "key_points": [
+  "Elaborar, com urgência, um plano de reabertura das escolas e de retoma do ensino presencial em todos os ciclos.",
+  "Realizar testes rápidos TRAg massivos, recorrentes, voluntários e gratuitos à comunidade escolar.",
+  "Isolar de imediato os casos positivos e fazer o inquérito epidemiológico logo após a deteção.",
+  "Implementar recuperações educativas para os alunos afetados pelo ensino não presencial."
+ ],
+ "plain_language": "A Iniciativa Liberal pede que as escolas voltem a abrir com segurança, com um plano urgente e testes rápidos gratuitos e voluntários para alunos e funcionários, e que os alunos que perderam aprendizagens durante o ensino à distância tenham aulas de recuperação. É uma recomendação ao Governo.",
+ "context": "O proponente afirma que o encerramento das escolas teve efeitos negativos na aprendizagem, sobretudo dos alunos mais carenciados, e na saúde mental e desenvolvimento social. Cita estudos e a Comissão Nacional de Saúde Materna, da Criança e do Adolescente, refere a falta de computadores prometidos e defende que as crianças têm menor taxa de infeção e doença mais ligeira.",
+ "analysis": "A proposta é concreta ao ligar a reabertura a testagem e recuperação de aprendizagens, e invoca estudos sobre os efeitos do ensino à distância. Fragilidades: não define critérios epidemiológicos para reabrir nem prazos, não estima o custo e a logística de testes recorrentes em todo o sistema, e tira a conclusão de desproporcionalidade a partir de dados gerais, sem ponderar o risco de transmissão na comunidade escolar. O valor de perda de PIB citado no texto («212 mil de milhões de euros») é apresentado sem contexto. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os testes gratuitos e recorrentes e as recuperações educativas implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "alunos",
+  "professores e pessoal não docente",
+  "famílias",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "saude"
+ ],
+ "tags": [
+  "reabertura das escolas",
+  "COVID-19",
+  "testes rápidos",
+  "ensino presencial",
+  "recuperação de aprendizagens"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

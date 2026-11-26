@@ -1,0 +1,40 @@
+{
+ "short_title": "Recuperação urgente das escolas públicas no distrito do Porto",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que assegure o financiamento necessário para concretizar, ao longo do ano letivo 2025/2026, a recuperação, reabilitação ou ampliação das escolas dos 2.º e 3.º ciclos e do secundário do distrito do Porto cuja propriedade foi transferida para os municípios e que foram identificadas como necessitando de intervenção prioritária, urgente ou muito urgente no Acordo Setorial de Compromisso entre o Governo e a ANMP. O texto lista 54 escolas do distrito nesta situação. É uma recomendação.",
+ "key_points": [
+  "Assegurar o financiamento para recuperar, reabilitar ou ampliar escolas no distrito do Porto durante o ano letivo 2025/2026.",
+  "Abrange escolas de 2.º e 3.º ciclos e secundárias transferidas para os municípios e identificadas no Acordo Setorial.",
+  "Lista de 54 escolas do distrito classificadas como prioritárias, urgentes ou muito urgentes.",
+  "Garantir a comparticipação pública necessária, complementar ao PRR e a outros fundos da UE."
+ ],
+ "plain_language": "O PCP quer que o Governo pague as obras em dezenas de escolas do distrito do Porto que, segundo um acordo com as autarquias, precisam de intervenção urgente. Muitas escolas têm pavilhões inutilizáveis e salas com infiltrações e as obras demoram.",
+ "context": "O proponente critica o processo de descentralização de competências na educação, que considera uma desresponsabilização do Estado, e afirma que o acordo entre o Governo e a ANMP, que previa financiamento total das obras prioritárias, tarda a ser concretizado, com degradação do parque escolar.",
+ "analysis": "A proposta apresenta uma lista concreta de escolas com base num acordo existente, o que a torna verificável, e liga a obra a financiamento público. Fragilidades: não estima custos nem distingue as obras já em curso ou financiadas por outros meios; o prazo de um ano letivo pode ser irrealista dadas as exigências de concurso e execução; a crítica à descentralização é política e não está ligada à parte resolutiva. Limita-se a um distrito, sem resolver o problema a nível nacional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda assegurar o financiamento das obras em dezenas de escolas, sem apresentar valores."
+ },
+ "affected": [
+  "alunos e comunidades escolares do distrito do Porto",
+  "docentes e pessoal não docente",
+  "municípios do distrito do Porto"
+ ],
+ "categories": [
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "escolas",
+  "Porto",
+  "descentralização",
+  "obras",
+  "ANMP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Regime de grupos de IVA",
+ "summary": "Proposta de Lei do Governo que introduz em Portugal o regime de grupos de IVA, permitindo que um grupo de entidades estreitamente ligadas, em termos financeiros, económicos e de organização, seja tratado como um único sujeito passivo para efeitos de IVA. Os saldos de imposto a pagar ou a recuperar dos membros são consolidados numa declaração do grupo, entregue pela entidade dominante, que paga o imposto ou recebe o reembolso, embora cada membro continue a apresentar a sua declaração periódica. Exige participação de pelo menos 75 % do capital e mais de 50 % dos direitos de voto, prevê cessação e exclusão de membros, regras antiabuso e garantias dos contribuintes. Produz efeitos nos períodos de imposto iniciados a partir de 1 de julho de 2026.",
+ "key_points": [
+  "Criar um regime facultativo de grupos de IVA, com consolidação dos saldos de imposto numa única declaração.",
+  "Exigir participação de pelo menos 75 % do capital e mais de 50 % dos direitos de voto, e vínculos financeiros, económicos e de organização.",
+  "Atribuir à entidade dominante a entrega da declaração, o pagamento ou o reembolso e o cumprimento das obrigações do grupo.",
+  "Prever cessação do regime e exclusão de entidades, como em caso de insolvência ou inatividade superior a um ano.",
+  "Aplicar a lei a períodos de imposto a partir de 1 de julho de 2026."
+ ],
+ "plain_language": "Hoje, cada empresa de um grupo faz as suas contas de IVA separadamente. A proposta permite que empresas do mesmo grupo se juntem, somem o que devem e o que têm a receber de IVA e façam um único acerto com o Estado. O Governo diz que isto facilita a gestão de tesouraria e reduz custos, e inclui regras para evitar fraudes. Aplica-se a partir de julho de 2026.",
+ "context": "O Governo enquadra a medida no objetivo de simplificar e reduzir os custos de cumprimento fiscal e de reforçar a competitividade das empresas, num contexto em que as empresas se organizam cada vez mais em grupos. Invoca a experiência com a tributação de grupos em sede de IRC, os contributos do Fórum dos Grandes Contribuintes e a consulta prévia ao Comité do IVA, prevista na Diretiva IVA, e salienta a concorrência com grupos de outros Estados da UE.",
+ "analysis": "A medida é tecnicamente enquadrada na Diretiva IVA e inclui salvaguardas antiabuso, como o limiar de 75 % e causas de exclusão. Beneficia sobretudo grandes grupos, com ganhos de tesouraria, o que pode levantar questões de equidade face a empresas isoladas. O texto não apresenta estimativa de custo ou de perda de receita, nem avalia o risco de fraude e a carga de controlo da Autoridade Tributária. A responsabilidade centralizada na entidade dominante simplifica a gestão, mas concentra obrigações e riscos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O regime altera o momento e a forma de entrega e reembolso do IVA e visa melhorar a tesouraria das empresas; o texto não apresenta estimativa do efeito na receita do Estado."
+ },
+ "affected": [
+  "grupos empresariais",
+  "entidades dominantes e dominadas",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IVA",
+  "grupos de IVA",
+  "consolidação",
+  "tesouraria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

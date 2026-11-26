@@ -1,0 +1,39 @@
+{
+ "short_title": "Subsídio Social de Mobilidade: pagar só o valor após subsídio",
+ "summary": "Este projeto de resolução do Bloco de Esquerda recomenda ao Governo que garanta aos beneficiários do Subsídio Social de Mobilidade que, no momento da compra das passagens aéreas, seja cobrado apenas o valor resultante do cálculo do subsídio e não o preço total da viagem. Pede também que o Governo articule com as entidades responsáveis a operacionalização desta medida. É uma recomendação não vinculativa. O texto critica o modelo do Decreto-Lei n.º 37-A/2025, em que o beneficiário paga a viagem completa e é reembolsado através de uma plataforma eletrónica, e refere que o artigo 4.º da Lei n.º 105/2019 previa pagamento apenas do valor do subsídio, mas nunca foi regulamentado e foi revogado.",
+ "key_points": [
+  "Recomenda que, na compra, só seja cobrado o valor calculado ao abrigo do subsídio.",
+  "Recomenda que o Governo articule com as entidades responsáveis a operacionalização.",
+  "Aponta que a plataforma de reembolso do Decreto-Lei n.º 37-A/2025 ainda não estava operacional."
+ ],
+ "plain_language": "Quem vive nas ilhas e usa o Subsídio Social de Mobilidade tem de pagar o bilhete inteiro e esperar pelo reembolso. O Bloco de Esquerda pede que as pessoas paguem logo só a parte que lhes cabe. Como é uma recomendação, o Governo decide se a segue.",
+ "context": "O proponente afirma que o novo regime de 2025 mantém a principal dificuldade, que é o beneficiário ter de suportar o valor total da viagem. Acrescenta que a plataforma eletrónica ainda não funcionava e que a regra de pagamento do valor do subsídio, de 2019, nunca foi regulamentada e foi revogada.",
+ "analysis": "A proposta é clara no objetivo e baseia-se numa regra que já existiu no ordenamento jurídico, o que a torna coerente. Fragilidades: não indica como seria feita a compensação às companhias aéreas, quem financia o adiantamento nem prazos, e remete a operacionalização para o Governo. Sendo recomendação, não tem força obrigatória e não apresenta estimativa de custos ou riscos de fraude.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A medida poderia alterar o momento e o esquema de pagamento do subsídio, mas os montantes não constam do texto."
+ },
+ "affected": [
+  "residentes dos Açores",
+  "residentes da Madeira",
+  "estudantes das regiões autónomas",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "insularidade",
+  "viagens aéreas",
+  "regiões autónomas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Benefícios fiscais para empresas que criem creches",
+ "summary": "O projeto de resolução do CDS-PP recomenda ao Governo que equacione a criação, ou o reforço, de benefícios fiscais para as empresas que criem creches para os filhos dos trabalhadores. O texto não define o tipo de benefício, o valor nem as condições. Enquadra a medida no programa Creche Feliz, de gratuitidade das creches, e na conciliação entre trabalho e família, e recorda que o Orçamento do Estado para 2025 aprovou uma proposta do PSD e do CDS para o desenvolvimento de incentivos à criação de salas de creche por empresas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que equacione benefícios fiscais para empresas que criem creches para filhos de trabalhadores.",
+  "Enquadra-se no programa Creche Feliz e na conciliação entre trabalho e família.",
+  "Não especifica o tipo de benefício, o valor nem os critérios."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que estude dar vantagens fiscais às empresas que montem creches para os filhos dos seus trabalhadores, para ajudar as famílias a conciliar o trabalho com a vida familiar. Não diz quais seriam essas vantagens. É uma recomendação que o Governo pode seguir ou não.",
+ "context": "O proponente refere que, entre março de 2024 e janeiro de 2026, foram criadas mais 16.800 vagas no programa Creche Feliz, com 128.000 crianças com vaga gratuita, mas considera que ainda não há resposta para todas as famílias. Entende que as empresas podem ser aliadas, com os incentivos certos.",
+ "analysis": "A iniciativa visa aumentar a oferta de creches através de privados e tem apoio numa medida orçamental já aprovada. Fragilidades: é muito genérica, e a recomendação de «equacionar» benefícios é de baixo compromisso; não estima o custo fiscal nem avalia se o incentivo seria suficiente para empresas pequenas, que serão a maioria; pode favorecer trabalhadores de empresas grandes face aos restantes; não clarifica a articulação com o Creche Feliz. Como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Os benefícios fiscais recomendados reduziriam a receita fiscal. O texto não indica o tipo ou os montantes."
+ },
+ "affected": [
+  "empresas",
+  "trabalhadores com filhos pequenos",
+  "famílias",
+  "crianças em idade de creche"
+ ],
+ "categories": [
+  "familia",
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "creches",
+  "benefícios fiscais",
+  "creche feliz",
+  "conciliação trabalho-família"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

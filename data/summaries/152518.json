@@ -1,0 +1,40 @@
+{
+ "short_title": "Unidade de missão para rever as custas judiciais",
+ "summary": "Projeto de Lei do PCP que cria uma unidade de missão, a funcionar junto da Assembleia da República, para estudar e propor a revisão do regime das custas judiciais. É composta por sete elementos mais um professor de Direito cooptado: o presidente da comissão parlamentar de Justiça, que preside, um representante de cada grupo parlamentar, e elementos designados pelo Ministério da Justiça, pelos Conselhos Superiores da Magistratura, dos Tribunais Administrativos e Fiscais e do Ministério Público, pela Ordem dos Advogados e pelo Centro de Estudos Judiciários. Elabora um relatório com conclusões e propostas no prazo de seis meses, que é entregue ao Presidente da Assembleia, debatido em plenário, após audição dos membros. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cria uma unidade de missão junto da Assembleia da República para estudar as custas judiciais.",
+  "Composição com deputados, Governo, magistraturas, Ordem dos Advogados, CEJ e um professor de Direito.",
+  "Relatório com conclusões e propostas em seis meses.",
+  "Relatório disponibilizado aos Deputados e ao Governo, com audição e debate em plenário.",
+  "Entrada em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "O projeto cria um grupo de trabalho no Parlamento com juristas e representantes de várias entidades para estudar como baixar o custo de ir a tribunal. Tem seis meses para apresentar um relatório com propostas, que será debatido no plenário.",
+ "context": "O PCP considera que o elevado valor das custas afasta a maioria dos cidadãos dos tribunais, em contradição com o n.º 1 do artigo 20.º da Constituição, e defende reduzir significativamente as custas e alargar isenções. Entende que a revisão, pela sua complexidade, deve ser precedida de estudo por uma unidade de missão especializada.",
+ "analysis": "Ponto forte: promove uma reflexão técnica plural, com prazo definido e debate público. Fragilidades: não altera diretamente as custas, adia a decisão; a composição, com presidência por uma figura parlamentar e muitos representantes institucionais, pode tornar o processo moroso ou pouco independente; não estima custos de funcionamento nem as consequências para a receita da justiça de uma eventual redução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O funcionamento da unidade de missão, com instalações e meios logísticos assegurados pela Assembleia da República, implica alguma despesa; o texto não indica montantes."
+ },
+ "affected": [
+  "cidadãos e empresas que recorrem aos tribunais",
+  "magistrados e advogados",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "custas judiciais",
+  "acesso à justiça",
+  "unidade de missão",
+  "tribunais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

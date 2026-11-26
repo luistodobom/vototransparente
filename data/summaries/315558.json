@@ -1,0 +1,43 @@
+{
+ "short_title": "Habitação acessível e linha de crédito bonificada para pessoas com deficiência",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo sete medidas sobre habitação, autonomia e independência de pessoas com deficiência. Inclui um levantamento das necessidades e da oferta de habitação sem barreiras arquitetónicas por município, com mapeamento de imóveis abandonados reabilitáveis; o cumprimento das regras de acessibilidade na construção; incentivos fiscais e financeiros à reabilitação para habitação acessível; uma análise das políticas de inserção das pessoas com deficiência; a expansão dos projetos de vida independente com assistência pessoal; o cumprimento do programa de acessibilidades 360.º; e uma linha de crédito bonificada para aquisição, reabilitação e adaptação de habitação. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Levantar as necessidades e a oferta de habitação sem barreiras arquitetónicas por município, incluindo imóveis abandonados reabilitáveis.",
+  "Assegurar, com os municípios, o cumprimento das regras de acessibilidade estrutural na construção e reabilitação.",
+  "Criar incentivos fiscais e financeiros para projetos de habitação acessível.",
+  "Expandir os Projetos de Vida Independente com assistência pessoal e assegurar o cumprimento do programa de acessibilidades 360.º.",
+  "Criar uma linha de crédito bonificada para pessoas com deficiência adquirirem ou adaptarem habitação."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que descubra quantas casas acessíveis existem, incentive a construção e a reabilitação de casas sem barreiras e crie um crédito com juros mais baixos para pessoas com deficiência comprarem ou adaptarem a sua casa. Pede também mais apoio à vida independente e que se cumpra o programa de obras de acessibilidade em edifícios públicos.",
+ "context": "O CHEGA cita os Censos 2021: 10,9% da população residente (1,1 milhões de pessoas) tem pelo menos uma incapacidade, e 68,1% das pessoas com incapacidade de mobilidade vivem em alojamentos sem acessibilidade para cadeira de rodas. Refere ainda que apenas 10 dos 1500 edifícios públicos do programa 360.º tinham obras concluídas, segundo uma notícia citada.",
+ "analysis": "A proposta cobre vários aspetos com base em dados dos Censos e dá atenção a prevenção, ao exigir acessibilidade desde a construção. Fragilidades: reúne medidas muito diversas, sem metas, prazos ou custo; a linha de crédito bonificada não define condições, montante nem entidade financiadora; e a ligação a questões como o incentivo fiscal aos profissionais da construção e o inventário por município implicam custos administrativos não estimados. A proposta sobre o programa 360.º assenta em notícia de jornal e não em dados oficiais atualizados. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A linha de crédito bonificada, os incentivos fiscais e financeiros e a expansão de programas de vida independente implicam despesa ou perda de receita, não quantificadas."
+ },
+ "affected": [
+  "Pessoas com deficiência e incapacidade e famílias",
+  "Municípios",
+  "Setor da construção e reabilitação",
+  "Instituições financeiras"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "pessoas com deficiência",
+  "habitação acessível",
+  "linha de crédito",
+  "vida independente",
+  "acessibilidades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

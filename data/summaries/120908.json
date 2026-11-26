@@ -1,0 +1,42 @@
+{
+ "short_title": "Estatuto do Arrependido (arguido colaborador)",
+ "summary": "O CDS-PP propõe criar o Estatuto do Arrependido, como meio especial de obtenção de prova em processo penal. É arguido colaborador quem abandona voluntariamente a atividade criminosa e, até ao encerramento da audiência de julgamento em primeira instância, ajuda concretamente a obter provas decisivas para identificar ou capturar outros responsáveis. Aplica-se a crimes como terrorismo, corrupção, tráfico de influência, branqueamento, tráfico de estupefacientes e de armas e associação criminosa. O acordo é formalizado na fase de inquérito perante o juiz de instrução. O arguido tem direito a advogado e a ocultação de identidade até à acusação. Os benefícios são a atenuação especial da pena ou a dispensa de pena. Altera o Código de Processo Penal e entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cria o estatuto do arguido colaborador em crimes como terrorismo, corrupção, branqueamento, tráficos e associação criminosa.",
+  "Exige abandono voluntário da atividade criminosa e auxílio concreto com provas decisivas até ao fim do julgamento em primeira instância.",
+  "O acordo é formalizado em inquérito, perante o juiz de instrução, e prevê as contrapartidas premiais.",
+  "Concede atenuação especial da pena ou dispensa de pena, e isenção em caso de denúncia em 30 dias com restituição da vantagem.",
+  "Estabelece que a condenação não pode assentar exclusivamente na prova obtida por colaboração de um co-arguido, e que os processos ficam em segredo de justiça."
+ ],
+ "plain_language": "O CDS-PP quer que arguidos em crimes graves, como corrupção ou tráfico, possam receber uma pena mais leve, ou até ficar dispensados dela, se pararem a atividade criminosa e ajudarem decisivamente a provar o crime e a identificar outros responsáveis. O acordo é feito perante um juiz e o arguido tem proteção, mas a condenação não pode basear-se apenas no que o colaborador disser.",
+ "context": "O CDS-PP considera que o combate à corrupção e à criminalidade altamente organizada é dificultado pela falta de meios de investigação e de instrumentos de prova. Defende o chamado direito premial, que premeia a colaboração do arguido com atenuação ou dispensa de pena, como forma de romper redes complexas de criminalidade.",
+ "analysis": "A medida pode dar à investigação acesso a informação difícil de obter e inclui salvaguardas relevantes: formalização perante juiz, assistência de advogado e proibição de condenação baseada apenas na colaboração. Em contrapartida, o direito premial levanta riscos conhecidos, como o incentivo a declarações falsas para obter benefícios, a desigualdade de tratamento e a tensão com princípios penais. A dispensa de pena em crimes graves e o segredo de justiça obrigatório podem ser controversos. O texto não define critérios para medir a utilidade da colaboração.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa altera regras de processo penal e não prevê despesa ou receita específicas no texto."
+ },
+ "affected": [
+  "arguidos em processos de criminalidade grave",
+  "Ministério Público e tribunais",
+  "juízes de instrução",
+  "vítimas e testemunhas"
+ ],
+ "categories": [
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "arrependido",
+  "arguido colaborador",
+  "direito premial",
+  "corrupção",
+  "código de processo penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

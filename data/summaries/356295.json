@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço e qualificação da atividade de ama",
+ "summary": "O Projeto de Lei n.º 485/XVII/1.ª, do PAN, reforça e qualifica a atividade de ama, alterando o Código do IVA, o Código do IRS e o Decreto-Lei n.º 115/2015. Isenta de IVA os serviços de ama e de assistência a crianças e inclui os serviços de ama nas despesas de educação do IRS. Impõe contrato de trabalho às amas de creche familiar, permite o exercício em espaços comunitários geridos por instituições de enquadramento, com verificação do ISS em 90 dias, reforça a formação, a fiscalização e um canal nacional de denúncias de maus-tratos, e prevê apoio psicológico e recolocação das crianças em caso de cancelamento da autorização. Equipara as amas liberais a creches privadas para a gratuitidade, quando não haja vagas no setor social.",
+ "key_points": [
+  "Isenta de IVA os serviços de ama e de assistência a crianças e permite deduzi-los em IRS como despesas de educação.",
+  "Impõe contrato de trabalho às amas no âmbito de instituições de enquadramento.",
+  "Permite a atividade de ama em espaços comunitários, com verificação do ISS em 90 dias e papel supletivo dos municípios.",
+  "Cria canal nacional de denúncias de maus-tratos e reforça a fiscalização e a formação.",
+  "Equipara amas liberais a creches privadas para efeitos de gratuitidade, quando não haja vagas no setor social."
+ ],
+ "plain_language": "A proposta quer mais amas, mais bem formadas e protegidas. Prevê contratos de trabalho, menos impostos sobre o serviço, mais fiscalização e um canal de denúncia de maus-tratos. Também permite que as amas trabalhem em espaços comunitários e que as famílias tenham creche gratuita em ama quando não houver vaga no setor social.",
+ "context": "O PAN refere a procura crescente de respostas para a primeira infância e carências de vagas em creche, sobretudo nas áreas metropolitanas de Lisboa e do Porto. Entende que a atividade de ama é um complemento relevante e que importa reforçar a qualificação, as condições do trabalho e a proteção das crianças contra maus-tratos.",
+ "analysis": "Pontos fortes: combina valorização da profissão, proteção das crianças e aumento da oferta, e apresenta mecanismos concretos como o canal de denúncia e a verificação em 90 dias. Fragilidades: reduz receita de IVA e IRS e aumenta despesa sem estimativa, e o papel supletivo dos municípios na autorização provisória levanta questões de responsabilidade e de capacidade técnica. A equiparação a creches depende da ausência de vagas, com um critério difícil de aferir, e o contrato de trabalho pode aumentar custos das instituições.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Reduz receita (isenção de IVA e dedução de IRS) e aumenta despesa (gratuitidade das amas liberais, fiscalização e custos laborais). O texto não quantifica valores; as disposições com impacto orçamental só produzem efeitos com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "amas",
+  "famílias com crianças pequenas",
+  "instituições de enquadramento",
+  "Segurança Social",
+  "municípios"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "fiscalidade"
+ ],
+ "tags": [
+  "amas",
+  "creche familiar",
+  "iva",
+  "proteção de crianças"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

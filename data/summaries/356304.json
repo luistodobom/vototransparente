@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio à recuperação do potencial produtivo após as tempestades",
+ "summary": "O Projeto de Lei n.º 488/XVII/1.ª, do PCP, aprova medidas de apoio à recuperação do potencial produtivo de empresas e unidades de produção nos setores da agricultura, pescas, indústria, comércio e serviços afetados pelas tempestades. Prevê um processo simplificado de apoio até 15.000 euros por empresa, financiamento de 25% a fundo perdido pelo Estado dos prejuízos não cobertos por seguros e um apoio público de 500 milhões de euros, 80 milhões de euros para a medida C.4.1.3 do PEPAC, apoio à perda de rendimentos agrícolas, força maior e derrogações, parques de receção de madeira com preço base, e linha de apoio até 15.000 euros a aquiculturas. O financiamento viria do Fundo de Socorro Social, da dotação provisional e do Fundo de Solidariedade da UE.",
+ "key_points": [
+  "Apoio simplificado de até 15.000 euros por empresa e 25% a fundo perdido dos prejuízos não cobertos por seguros.",
+  "Fixa 500 milhões de euros para o restabelecimento das condições da atividade económica.",
+  "Dota com 80 milhões de euros a medida C.4.1.3 do PEPAC, com cobertura de 100% até 15.000 euros.",
+  "Apoia a perda de rendimentos de agricultores e produtores florestais e considera as tempestades caso de força maior.",
+  "Cria parques de receção de madeira com preço base e linha de até 15.000 euros para aquiculturas."
+ ],
+ "plain_language": "O PCP propõe apoios diretos a empresas, agricultores e pescadores afetados pelas tempestades: dinheiro a fundo perdido, compensação pelos rendimentos perdidos, mais flexibilidade nas regras dos apoios europeus e locais para receber e vender madeira caída. O dinheiro viria de fundos do Estado e da União Europeia.",
+ "context": "O PCP considera a resposta do Governo tardia, descoordenada e insuficiente, e critica os anúncios sem medidas e meios identificados. Defende apoios imediatos às populações, às empresas e aos setores produtivos para retomarem a atividade, sem prejuízo de as seguradoras cumprirem as suas obrigações.",
+ "analysis": "Pontos fortes: indica valores, mecanismos e fontes de financiamento concretos, e cobre vários setores, incluindo a madeira e a aquicultura. Fragilidades: o texto usa linguagem política dura sobre o Governo, e os montantes (como os 500 milhões de euros) não são justificados por estimativa de prejuízos. Implica forte aumento de despesa, com efeitos financeiros dependentes do Orçamento do Estado e da avaliação do Governo, e pode sobrepor-se a apoios já existentes. Alguns mecanismos dependem de regras da UE.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto fixa 500 milhões de euros para a atividade económica e 80 milhões de euros para a medida C.4.1.3 do PEPAC, além de apoios até 15.000 euros e de 25% a fundo perdido, a financiar pelo Fundo de Socorro Social e a dotação provisional."
+ },
+ "affected": [
+  "empresas e unidades de produção afetadas",
+  "agricultores e produtores florestais",
+  "aquicultores",
+  "setor das pescas"
+ ],
+ "categories": [
+  "economia",
+  "agricultura",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestades",
+  "potencial produtivo",
+  "fundo perdido",
+  "pepac"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

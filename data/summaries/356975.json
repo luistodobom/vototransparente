@@ -1,0 +1,39 @@
+{
+ "short_title": "Limite à acumulação de subvenções e fim de regimes especiais",
+ "summary": "O Projeto de Lei n.º 685/XVII/1.ª, do PCP, limita a acumulação das subvenções vitalícias do regime transitório do artigo 8.º da Lei n.º 52-A/2005 com reformas ou pensões, de modo a que o total não possa exceder o vencimento do cargo político que deu origem à subvenção. Proíbe também que qualquer entidade pública, incluindo entidades administrativas e reguladoras independentes, ou entidade privada em que o Estado tenha direito de veto sobre decisões da administração, crie regimes especiais de reforma, aposentação, indemnização ou prémio por cessação de funções aplicáveis aos seus administradores ou dirigentes. O texto é curto, com dois artigos de fundo, e justifica a limitação por respeito pela jurisprudência constitucional sobre a proteção da confiança.",
+ "key_points": [
+  "A acumulação de subvenção vitalícia com reforma ou pensão não pode resultar num montante superior ao vencimento do cargo político de origem.",
+  "Proíbe a criação de regimes especiais de reforma, aposentação, indemnização ou prémio por cessação de funções para administradores e dirigentes.",
+  "A proibição abrange entidades públicas, incluindo reguladores independentes, e entidades privadas em que o Estado tenha direito de veto."
+ ],
+ "plain_language": "Alguns antigos políticos recebem uma subvenção vitalícia e, além disso, uma reforma ou pensão. Este projeto diz que a soma das duas não pode ser maior do que o salário do cargo político que deu origem à subvenção. Diz também que organismos públicos e empresas onde o Estado manda não podem criar reformas, indemnizações ou prémios especiais para os seus administradores e dirigentes quando saem.",
+ "context": "O PCP afirma opor-se desde sempre às subvenções vitalícias e aos subsídios de reintegração, abolidos em 2005 com uma norma transitória. Recorda que a condição de recursos aprovada no Orçamento de 2015 foi declarada inconstitucional por violação da proteção da confiança, pelo que propõe um limite à acumulação que não comprometa a subsistência dos beneficiários, e quer travar a autoatribuição de regalias nas empresas e entidades públicas.",
+ "analysis": "Pontos fortes: procura respeitar a jurisprudência constitucional ao limitar a acumulação, em vez de extinguir a subvenção, e visa também o problema dos regimes especiais nas entidades públicas. Fragilidades: o teto ao vencimento do cargo pode ainda ser contestado como afetação de direitos adquiridos; a proibição de regimes especiais usa conceitos amplos, como direito de veto do Estado, que podem gerar dúvidas de aplicação; e o texto não quantifica a poupança nem identifica quantos beneficiários seriam afetados.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "Limitar a acumulação de subvenções e impedir novos regimes especiais tende a reduzir a despesa pública, mas o texto não quantifica a poupança."
+ },
+ "affected": [
+  "beneficiários de subvenções vitalícias",
+  "administradores e dirigentes de entidades públicas",
+  "empresas e entidades com participação do Estado"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "subvenção vitalícia",
+  "regimes especiais",
+  "cargos políticos",
+  "acumulação de pensões",
+  "entidades públicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

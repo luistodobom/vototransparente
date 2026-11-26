@@ -1,0 +1,38 @@
+{
+ "short_title": "Subsídio de risco para profissionais de segurança privada",
+ "summary": "O projeto de resolução do PAN recomenda ao Governo que, em negociação com sindicatos e demais entidades representantes dos profissionais de segurança privada, negoceie a aprovação de um subsídio de risco que corresponda à realidade laboral destes trabalhadores. O texto sublinha que os seguranças privados enfrentam agressões, ameaças e turnos longos, incluindo de 14 horas, que complementam as forças de segurança pública e protegem locais como hospitais, tribunais e aeroportos, e que não beneficiam de qualquer subsídio de risco. A proposta não define o montante nem a fonte de financiamento. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a negociação de um subsídio de risco para os profissionais de segurança privada.",
+  "A negociação deve envolver sindicatos e entidades representantes do setor.",
+  "Não define o valor do subsídio nem quem o paga."
+ ],
+ "plain_language": "Os seguranças privados trabalham muitas vezes em situações de perigo e com horários longos, mas não recebem subsídio de risco. O PAN pede ao Governo que negoceie com os sindicatos e representantes do setor a criação desse subsídio. Não diz quanto seria nem quem pagaria. É apenas uma recomendação.",
+ "context": "O proponente afirma que os profissionais de segurança privada são frequentemente os primeiros a enfrentar confrontos e ameaças, trabalham em regime de complementaridade com as forças de segurança e têm turnos de até 14 horas. Indica que, em 2024, o setor cresceu 8,5% no volume de negócios e empregava mais de 12 mil pessoas em 77 empresas.",
+ "analysis": "A proposta dá visibilidade a uma profissão com riscos reais e propõe a negociação com os representantes, o que respeita a contratação coletiva. É, no entanto, vaga: não define o valor, quem suporta o custo (empresas, Estado ou clientes) nem prazos. Os dados do setor no texto apresentam inconsistências, por exemplo um volume de negócios de «1 milhão e 200 mil euros» para 77 empresas. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não define o valor do subsídio nem quem o suportaria, por isso o impacto orçamental não é determinável."
+ },
+ "affected": [
+  "profissionais de segurança privada",
+  "empresas de segurança privada",
+  "clientes dos serviços de vigilância"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca"
+ ],
+ "tags": [
+  "segurança privada",
+  "subsídio de risco",
+  "vigilantes",
+  "negociação coletiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

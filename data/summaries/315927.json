@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforma para a construção e aumento da oferta de habitação",
+ "summary": "O projeto de lei da Iniciativa Liberal propõe um pacote de medidas para aumentar a oferta de habitação por via da construção e do arrendamento. Entre elas estão a redução do IVA da construção de 23% para 6%, a redução do IRS sobre rendas de 25% para 10%, a isenção de IRS e de IMI por cinco anos para imóveis novos no arrendamento, o alargamento da isenção de mais-valias e um regime temporário de isenção de mais-valias até 2027, a possibilidade de os municípios baixarem o IMT e o IMI, a cedência de património público devoluto através de concurso, a revogação do direito de preferência do Estado em imóveis, a agilização do despejo e a revogação do adicional ao IMI.",
+ "key_points": [
+  "Reduz o IVA da construção de habitação e de empreitadas de reabilitação para a taxa reduzida, de 23% para 6%.",
+  "Reduz o IRS sobre rendimentos de rendas de 25% para 10%.",
+  "Isenta de IRS e de IMI por cinco anos os arrendamentos de imóveis sem contrato de arrendamento nos cinco anos anteriores.",
+  "Alarga a isenção de mais-valias e cria um regime temporário de isenção na venda de imóveis detidos a 1 de janeiro de 2026.",
+  "Permite aos municípios reduzir o IMT e o IMI e transfere para eles o IRS dos rendimentos prediais.",
+  "Cede património público devoluto por concurso para habitação, revoga o direito de preferência do Estado e o adicional ao IMI, e agiliza o despejo."
+ ],
+ "plain_language": "A IL propõe baixar impostos sobre a construção, o arrendamento e a venda de casas, dar mais poder aos municípios sobre os impostos locais e disponibilizar imóveis públicos devolutos para construir habitação, esperando assim aumentar a oferta e baixar os preços.",
+ "context": "A IL afirma que Portugal tem a pior relação entre preços das casas e rendimentos da OCDE e que os preços subiram 135,2% desde 2014, contra 33% nos rendimentos. Critica programas anteriores e do atual Governo por não reforçarem a oferta, e define três eixos: aumentar a construção, recuperar a confiança no arrendamento e clarificar o papel do Estado.",
+ "analysis": "O pacote ataca o lado da oferta com incentivos fiscais de ampla abrangência. Contudo, reduções de impostos têm custo orçamental relevante, não quantificado, e o seu efeito sobre a oferta e os preços é incerto, podendo ser capturado em parte por preços mais altos. A revogação do direito de preferência do Estado e do adicional ao IMI e a agilização dos despejos implicam escolhas de política com efeitos distributivos e sobre a proteção dos inquilinos, não avaliados no texto. O texto foi lido apenas em parte, por estar truncado.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução do IVA e do IRS, as isenções de IRS, IMI e mais-valias e a revogação do adicional ao IMI reduziriam receitas fiscais; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "proprietários e senhorios",
+  "construtores e promotores imobiliários",
+  "arrendatários e compradores de habitação",
+  "municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IVA da construção",
+  "IRS das rendas",
+  "mais-valias",
+  "arrendamento",
+  "IMI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Proteção do Perímetro de Rega do Mira e Parque do Sudoeste",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo quatro medidas para o território do Perímetro de Rega do Mira e do Parque Natural do Sudoeste Alentejano e Costa Vicentina: diligenciar o cumprimento do regime da avaliação de incidências ambientais (Rede Natura 2000), do regime de avaliação de impacte ambiental e do plano de ordenamento do parque pelas explorações agrícolas; realizar um estudo sobre os efeitos cumulativos na biodiversidade, solos, recursos hídricos e tecido social; promover a concessão pública da utilização dos recursos hídricos do perímetro; e implementar um plano de ação de transição ecológica da área agrícola. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Diligenciar o cumprimento da avaliação de incidências ambientais, da avaliação de impacte ambiental e do plano de ordenamento do parque.",
+  "Realizar um estudo dos efeitos cumulativos das explorações agrícolas do Perímetro de Rega do Mira.",
+  "Promover a concessão pública da utilização dos recursos hídricos da área.",
+  "Implementar um plano de ação de transição ecológica da área agrícola do perímetro."
+ ],
+ "plain_language": "O PAN considera que a agricultura intensiva em estufas no Sudoeste Alentejano está a consumir água e a danificar a natureza sem o controlo devido. Pede ao Governo que faça cumprir a lei ambiental, estude os impactos, retire a gestão da água a uma associação privada e prepare uma transição para uma agricultura mais sustentável. É uma recomendação.",
+ "context": "O PAN cita um relatório da IGAMAOT segundo o qual o ICNF não dispõe de dados completos sobre as atividades agrícolas na área e a instalação de explorações não depende de parecer prévio nem de licenciamento. Refere a queixa à Comissão Europeia de um movimento de cidadãos, a escassez de água na Barragem de Santa Clara e o corte de água a pequenos produtores pela Associação de Beneficiários do Mira.",
+ "analysis": "A proposta assenta num relatório oficial de inspeção e propõe medidas diretas, incluindo um estudo de impacte cumulativo. Fragilidades: a recomendação de concessão pública da água não define o modelo nem o enquadramento legal da Associação de Beneficiários do Mira, e a transição ecológica não tem metas, prazos ou apoios à reconversão dos agricultores. A caracterização do setor é crítica e unilateral, sem ouvir os produtores. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O estudo, a fiscalização e o plano de transição implicam despesa pública, e a concessão da água pode alterar receitas, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "agricultores e produtores do Perímetro de Rega do Mira",
+  "Associação de Beneficiários do Mira",
+  "residentes e ecossistemas do Parque Natural do Sudoeste Alentejano e Costa Vicentina"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "perímetro de rega do mira",
+  "rede natura 2000",
+  "agricultura intensiva",
+  "água",
+  "costa vicentina"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

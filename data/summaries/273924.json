@@ -1,0 +1,39 @@
+{
+ "short_title": "Alargamento do regime de IVA de caixa a empresas até 2 milhões de euros",
+ "summary": "O Governo pede à Assembleia da República autorização legislativa, com duração de 180 dias, para alterar o regime de IVA de caixa (Decreto-Lei n.º 71/2013). A alteração aumenta de 500.000 euros para 2.000.000 de euros o limiar do volume de negócios que permite aderir ao regime, em que o imposto só é exigível quando o preço é recebido. A proposta anexa o decreto-lei autorizado, que altera os artigos 1.º e 5.º do regime e produz efeitos a partir de 1 de janeiro de 2025. Mantêm-se as demais condições, como a exclusão de quem esteja no regime de isenção ou de pequenos retalhistas.",
+ "key_points": [
+  "Autorização legislativa ao Governo com duração de 180 dias.",
+  "Limiar do volume de negócios do IVA de caixa sobe de 500.000 euros para 2.000.000 de euros.",
+  "Altera os artigos 1.º e 5.º do regime de IVA de caixa.",
+  "Decreto-lei autorizado produz efeitos a partir de 1 de janeiro de 2025.",
+  "Mantêm-se as exclusões do artigo 9.º, da isenção do artigo 53.º e dos pequenos retalhistas."
+ ],
+ "plain_language": "Atualmente, só as empresas com volume de negócios até 500.000 euros podem pagar o IVA apenas depois de receberem dos clientes. O Governo quer alargar esta possibilidade às empresas até 2 milhões de euros, melhorando a sua tesouraria. Para isso precisa de autorização do Parlamento.",
+ "context": "O Governo afirma que a medida cumpre o seu Programa, que visa reduzir a carga fiscal e burocrática das empresas e apoiar o financiamento e crescimento empresarial. Refere que a diretiva europeia de 2020 dispensou a consulta ao Comité do IVA e fixou o limiar máximo em 2.000.000 de euros.",
+ "analysis": "A medida melhora a tesouraria de mais empresas e está dentro do limite máximo permitido pela diretiva europeia. Em contrapartida, o Estado passa a receber o IVA mais tarde em relação a essas empresas, o que pode ter efeito de curto prazo na cobrança, não quantificado no texto. A adesão é opcional. A proposta não apresenta estimativa do número de empresas abrangidas nem do impacto orçamental, e a forma de lei de autorização obriga a passar por duas fases legislativas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica o efeito. O alargamento adia o momento em que o Estado cobra o IVA de empresas aderentes, com possível efeito de tesouraria, mas sem montantes indicados."
+ },
+ "affected": [
+  "empresas com volume de negócios até 2 milhões de euros",
+  "sujeitos passivos de IVA",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "iva de caixa",
+  "autorização legislativa",
+  "tesouraria das empresas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais proteção a denunciantes de crimes ambientais",
+ "summary": "Projeto de Lei do PAN que altera a Lei n.º 93/2021 (regime geral de proteção de denunciantes). Alarga o âmbito às condutas que violem normas nacionais, e não apenas do direito da União, incluindo em matéria penal e contraordenacional. Define como denunciante quem denuncie, dentro ou fora de uma organização e independentemente de relação laboral. Estende a proteção a pessoas coletivas ligadas ao denunciante, a pessoas apontadas como denunciantes e a organizações da sociedade civil que os assistam. Presume retaliatório, até prova em contrário, o processo disciplinar ou judicial movido pela entidade denunciada nos dois anos seguintes. Proíbe imputar responsabilidade ao denunciante em processo judicial, inverte o ónus da prova quanto a quem o processe e prevê multa, reembolso de despesas e indemnização por ações abusivas (SLAPP).",
+ "key_points": [
+  "Âmbito alargado a violações de normas nacionais, incluindo penais e contraordenacionais.",
+  "Conceito de denunciante independente de relação laboral; proteção alargada a entidades ligadas, pessoas apontadas como denunciantes e organizações de apoio.",
+  "Presunção de retaliação para processos disciplinares ou judiciais movidos até dois anos após a denúncia.",
+  "Inversão do ónus da prova em ações contra denunciantes e sanções para ações abusivas.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A proposta alarga a proteção legal de quem denuncia crimes e infrações, sobretudo ambientais. Protege também organizações que os apoiem e dificulta que empresas processem denunciantes só para os intimidar: quem os processar terá de provar que a ação nada tem a ver com a denúncia, sob pena de multa e indemnização.",
+ "context": "O PAN considera que a lei de 2021 ficou aquém da diretiva europeia, ao cobrir apenas violações do direito da União e certos crimes, e não protege contra ações judiciais abusivas (SLAPP). Invoca um manifesto subscrito por 28 organizações e uma iniciativa legislativa de cidadãos, e a gravidade dos crimes ambientais.",
+ "analysis": "Ponto forte: responde a lacunas apontadas por organizações e pelo Conselho Superior do Ministério Público e reforça salvaguardas contra litigância abusiva. Fragilidades: a extensão a toda a legislação nacional pode ser muito ampla, com impacto em entidades e procuradoria; a inversão do ónus da prova e a presunção de retaliação exigem cuidado face ao direito de defesa; o texto não analisa custos de implementação nem a articulação com a litigância de má-fé.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não identifica custos. A aplicação de sanções e a gestão de canais de denúncia podem ter efeitos nos tribunais e entidades públicas, não quantificados."
+ },
+ "affected": [
+  "denunciantes e ativistas ambientais",
+  "organizações da sociedade civil",
+  "entidades denunciadas",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "ambiente",
+  "direitos"
+ ],
+ "tags": [
+  "denunciantes",
+  "slapp",
+  "crimes ambientais",
+  "lei 93/2021"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

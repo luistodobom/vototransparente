@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibir a caça à raposa",
+ "summary": "Projeto de lei do PEV que proíbe a caça à raposa (Vulpes vulpes), retira-a da lista de espécies cinegéticas do Anexo I do Decreto-Lei n.º 202/2004 e interdita a sua captura ou abate em qualquer altura do ano, bem como a perturbação dos locais de reprodução e repouso. Admite a correção de efetivos apenas com censos reconhecidos pelo organismo de conservação da natureza que comprovem excesso populacional que ponha em causa os ecossistemas ou a saúde pública, e executada por técnicos desse organismo. Altera os artigos 79.º, 84.º, 87.º, 89.º e 94.º do decreto-lei, prevê contraordenações, regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe a caça à raposa e retira-a da lista de espécies cinegéticas.",
+  "Interdita captura, abate e perturbação dos locais de reprodução e repouso em qualquer altura do ano.",
+  "A correção de efetivos só é possível com censos reconhecidos e por técnicos do organismo de conservação da natureza.",
+  "Altera artigos do Decreto-Lei n.º 202/2004 sobre armas, cães, cavalo, dias de caça e caça ao saca-rabos.",
+  "Regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O PEV quer que a raposa deixe de poder ser caçada em Portugal. Só poderia ser abatida pelo Estado se estudos mostrassem excesso de raposas com risco para os ecossistemas ou a saúde pública. Quem a caçar passa a cometer uma contraordenação.",
+ "context": "O proponente afirma que, segundo dados do ICNF, entre 2005 e 2015 foram abatidas pelo menos 143 mil raposas em regime cinegético, que a espécie não tem interesse gastronómico nem perigo comprovado e que os conflitos com a criação de animais se devem muitas vezes a proteção deficiente. Defende que a caça deve limitar-se a espécies com valor gastronómico e que o controlo de populações é responsabilidade do Estado.",
+ "analysis": "A proposta visa proteger uma espécie comum, sustentando-se em dados do ICNF e no papel ecológico da raposa. Contudo, o texto reconhece que a dinâmica populacional não é bem conhecida e que há conflitos com a pecuária, e remete o controlo para o Estado sem estimar meios ou custos. Há erros de redação aparentes: o artigo 3.º refere melros em vez de raposas, e as alterações aos artigos 79.º e 94.º tratam do saca-rabos. A prova de excesso populacional exige censos que podem ser difíceis de obter.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O controlo de populações passa a ser feito por técnicos do organismo de conservação da natureza, com meios humanos e financeiros que o texto não quantifica; poderá haver menos receitas da atividade cinegética."
+ },
+ "affected": [
+  "caçadores",
+  "zonas de caça",
+  "pecuaristas",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "raposa",
+  "caça",
+  "espécies cinegéticas",
+  "biodiversidade",
+  "decreto-lei 202/2004"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

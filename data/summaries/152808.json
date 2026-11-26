@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargar apoios a rendas e prestações de crédito à habitação",
+ "summary": "Projeto de Lei do PAN que altera os artigos 4.º, 9.º, 14.º, 15.º e 16.º do Decreto-Lei n.º 20-B/2023, que cria apoios extraordinários às famílias para pagamento da renda e da prestação do crédito à habitação. Passa a considerar, como limite de rendimento de acesso (sexto escalão do IRS), o rendimento anual por sujeito passivo do agregado e não o total do agregado, e calcula a taxa de esforço com todas as responsabilidades de crédito do beneficiário, não só as do crédito à habitação apoiado. Entra em vigor a 1 de janeiro de 2024, com efeitos à data do decreto-lei alterado.",
+ "key_points": [
+  "O limite de rendimento (sexto escalão do IRS) passa a aplicar-se por sujeito passivo do agregado familiar.",
+  "A taxa de esforço de acesso (35% do rendimento) considera todas as responsabilidades de crédito.",
+  "Alterações nos artigos 4.º, 9.º, 14.º, 15.º e 16.º do Decreto-Lei n.º 20-B/2023.",
+  "Entra em vigor a 1 de janeiro de 2024, com efeitos à data do decreto-lei alterado."
+ ],
+ "plain_language": "Os apoios do Governo para pagar a renda ou o crédito da casa excluem muitas famílias por causa do limite de rendimentos do agregado. O PAN propõe contar o rendimento de cada pessoa e incluir todos os créditos no cálculo do esforço financeiro, para mais famílias terem acesso.",
+ "context": "O PAN, com base na Deco Proteste, afirma que o apoio exclui pelo menos um quarto dos contratos de crédito e 84% dos contratos de arrendamento, que o limite anual de 38 632 euros deixa de fora agregados com o salário médio, e que a fórmula da taxa de esforço só considera o crédito à habitação.",
+ "analysis": "Dirige-se a uma lacuna de cobertura apontada por uma entidade de defesa do consumidor e aproxima o regime de outros apoios do Governo. Fragilidades: aplicar o limite por pessoa pode abranger agregados com rendimento total elevado, e o texto não estima número de novos beneficiários nem custo. Considerar todas as responsabilidades de crédito pode beneficiar famílias com crédito ao consumo, o que levanta questões de equidade, e não corrige o valor baixo do apoio, que o PAN admite.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao alargar o universo de beneficiários dos apoios à renda e ao crédito à habitação, aumenta a despesa pública. O texto não quantifica."
+ },
+ "affected": [
+  "Famílias com crédito à habitação",
+  "Arrendatários",
+  "Bancos que concedem a bonificação"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "apoio à renda",
+  "crédito à habitação",
+  "taxa de esforço",
+  "mais habitação",
+  "deco proteste"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

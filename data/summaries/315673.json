@@ -1,0 +1,40 @@
+{
+ "short_title": "Repor carreiras na Administração Pública e revogar o SIADAP",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que, durante 2025, desenvolva processos de negociação coletiva com as organizações representativas dos trabalhadores para repor, valorizar e criar novas carreiras profissionais na Administração Pública, com descritivos funcionais concretos, progressão e tradução remuneratória. Recomenda ainda a revogação do SIADAP e dos sistemas específicos nele baseados, substituindo-o por um sistema de avaliação sem quotas, formativo, transparente, equitativo e justo, também negociado com as organizações representativas. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Negociação coletiva em 2025 para repor, valorizar e criar carreiras profissionais na Administração Pública.",
+  "Definição de descritivos funcionais concretos e de progressão com tradução remuneratória em cada carreira.",
+  "Revogação do SIADAP e dos sistemas específicos nele baseados.",
+  "Novo sistema de avaliação sem quotas, formativo e transparente, negociado com as organizações dos trabalhadores."
+ ],
+ "plain_language": "O PCP pede ao Governo que negoceie com os sindicatos para recuperar carreiras específicas no Estado, em vez das três carreiras gerais atuais, e que acabe com o atual sistema de avaliação dos funcionários públicos (SIADAP), trocando-o por outro sem quotas. O Governo não é obrigado a cumprir a recomendação.",
+ "context": "O proponente critica a Lei n.º 12-A/2008, que criou três carreiras generalistas e uma tabela remuneratória única e, segundo afirma, limitou a progressão (dependente de 10 pontos de avaliação) e a especialização. Considera que o SIADAP, criado em 2007, impede a progressão e facilita despedimentos, e defende a reposição de carreiras especificas como valorização do serviço público.",
+ "analysis": "A proposta dá relevância à negociação coletiva e identifica problemas concretos de progressão e avaliação. Contudo, não especifica que carreiras repor, o seu custo, a articulação com a tabela remuneratória, nem como funcionaria o novo modelo de avaliação (sem quotas, mas com que critérios de diferenciação). A caracterização histórica é fortemente crítica e não apresenta dados de impacto. O prazo de 2025 pode ser exigente face ao âmbito da reforma.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reposição e valorização de carreiras e a eliminação de quotas na progressão tenderiam a aumentar a despesa com pessoal, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "organizações sindicais",
+  "Governo como empregador"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "SIADAP",
+  "carreiras",
+  "administração pública",
+  "negociação coletiva",
+  "avaliação de desempenho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

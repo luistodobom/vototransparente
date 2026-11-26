@@ -1,0 +1,42 @@
+{
+ "short_title": "Integrar a medicina dentária na carreira médica do SNS",
+ "summary": "O Chega propõe alterar os Decretos-Leis n.º 176/2009 e n.º 177/2009 para integrar a medicina dentária na carreira especial médica do SNS. Cria-se a área de medicina dentária, com regras adaptadas do regime da medicina geral e familiar, e reconhece-se o papel da Ordem dos Médicos Dentistas, que seria ouvida nos procedimentos concursais. A integração dos médicos dentistas do SNS faria-se por procedimento concursal. A regulamentação seria precedida de um estudo público de impacto financeiro, que identifique necessidades de recursos humanos, calendarização e impacto orçamental anual, podendo a implementação ser faseada ou com projetos-piloto. Haveria avaliação ao fim de três anos, e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria a área de medicina dentária na carreira especial médica, aplicando com adaptações o regime da medicina geral e familiar.",
+  "Prevê a integração dos médicos dentistas por procedimento concursal.",
+  "Associa a Ordem dos Médicos Dentistas à regulamentação.",
+  "Exige um estudo público de impacto financeiro antes da regulamentação do regime remuneratório.",
+  "Permite implementação faseada ou projetos-piloto e determina avaliação ao fim de três anos."
+ ],
+ "plain_language": "Hoje os centros de saúde do SNS têm poucos dentistas. O Chega propõe que os médicos dentistas passem a fazer parte da carreira médica do SNS, para que mais pessoas tenham acesso a cuidados de saúde oral. A medida seria introduzida por fases e só depois de um estudo sobre os custos.",
+ "context": "O proponente indica que Portugal tem uma das proporções mais elevadas da UE de necessidades dentárias não satisfeitas por motivos financeiros, e que a falta de integração da medicina dentária no SNS cria desigualdades de acesso. Invoca a OMS, a Comissão Europeia e a OCDE e a redução de episódios agudos e urgências evitáveis.",
+ "analysis": "A proposta atua sobre um problema de acesso bem documentado e é prudente na execução, com estudo prévio, faseamento e avaliação. Contudo, remete o essencial, como o regime remuneratório, as vagas e o calendário, para regulamentação futura, e não quantifica o custo nem a oferta de profissionais. A entrada em vigor com o Orçamento do Estado e o carácter faseado podem atrasar o efeito, e a integração na carreira médica pode levantar questões de equivalência de funções.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de médicos dentistas para o SNS implicaria despesa com pessoal. O texto exige um estudo de impacto orçamental mas não indica montantes."
+ },
+ "affected": [
+  "médicos dentistas",
+  "utentes do SNS",
+  "Ministério da Saúde",
+  "Ordem dos Médicos Dentistas"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "medicina dentária",
+  "carreira médica",
+  "SNS",
+  "saúde oral",
+  "médicos dentistas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

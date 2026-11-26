@@ -1,0 +1,41 @@
+{
+ "short_title": "Nova maternidade de Coimbra no campus dos Covões",
+ "summary": "Projeto de resolução do PEV que recomenda ao Governo quatro medidas: realizar estudos e iniciar, a breve prazo, o processo de implementação da nova maternidade de Coimbra no espaço do Hospital Geral (Covões); construí-la sem recorrer a Parcerias Público Privadas; reforçar o Hospital Geral com os meios e valências necessários às necessidades da nova maternidade, desde logo reabrindo as urgências em horário noturno; e assegurar a qualidade do serviço nas maternidades Bissaya Barreto e Daniel de Matos, com recursos humanos, equipamentos e obras de manutenção até à construção da nova unidade. O texto critica a fusão que criou o CHUC em 2011. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Realizar estudos e iniciar a implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões).",
+  "Construir a maternidade sem recorrer a Parcerias Público Privadas.",
+  "Reforçar o Hospital Geral, nomeadamente reabrindo as urgências em horário noturno.",
+  "Garantir recursos humanos, equipamentos e obras de manutenção nas maternidades Bissaya Barreto e Daniel de Matos até à nova construção."
+ ],
+ "plain_language": "O PEV pede ao Governo que a nova maternidade de Coimbra seja construída junto ao Hospital Geral (Covões), com dinheiro público e sem parcerias com privados, e que, enquanto isso, as duas maternidades atuais recebam pessoal, equipamento e obras. Pede ainda a reabertura das urgências noturnas do Hospital Geral. É uma recomendação ao Governo.",
+ "context": "O PEV recorda que o Decreto-Lei n.º 30/2011 fundiu vários hospitais no Centro Hospitalar e Universitário de Coimbra, com 2.300 camas, e considera que a fusão não melhorou os cuidados. Afirma haver reconhecimento geral da necessidade urgente de uma nova maternidade junto de um hospital central, e que a localização nos Covões tem crescente apoio de entidades da região.",
+ "analysis": "A proposta junta a escolha de localização com medidas de curto prazo para as maternidades existentes, o que dá realismo à transição. Contudo, o texto assenta em juízos de valor sobre a fusão hospitalar e não apresenta estudos de custo, prazo ou comparação de localizações. A exclusão a priori de parcerias público-privadas limita opções de financiamento, e a reabertura das urgências noturnas é uma medida adicional com custos de pessoal não estimados. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção da maternidade com financiamento público, o reforço do Hospital Geral e as obras, equipamentos e pessoal nas maternidades atuais implicam despesa. O texto não apresenta valores."
+ },
+ "affected": [
+  "grávidas e recém-nascidos da região de Coimbra",
+  "profissionais das maternidades de Coimbra",
+  "utentes do Hospital Geral (Covões)",
+  "Centro Hospitalar e Universitário de Coimbra"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "maternidade",
+  "coimbra",
+  "hospital geral covões",
+  "chuc",
+  "parcerias público-privadas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

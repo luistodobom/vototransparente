@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio a viagens aéreas de estudantes das Regiões Autónomas",
+ "summary": "O Projeto de Lei do JPP cria um regime de apoio à mobilidade aérea para estudantes do ensino superior da Madeira e dos Açores que frequentem instituições públicas ou privadas no território continental ou na outra região autónoma. O apoio financia até quatro viagens aéreas de ida e volta por ano letivo, sob a forma de comparticipação ou reembolso, independentemente de o estudante ser bolseiro. O valor máximo por viagem será fixado por portaria, preferindo-se a comparticipação direta no momento da compra, através de acordos com transportadoras. Substitui o benefício anual de transporte do regulamento de bolsas e produz efeitos financeiros com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Apoio até quatro viagens aéreas de ida e volta por ano letivo, entre a região de residência e o local de estudo.",
+  "Aplica-se a estudantes com residência habitual ou domicílio fiscal na Madeira ou nos Açores, bolseiros ou não.",
+  "O valor máximo por viagem e os procedimentos são definidos por portaria, tendo em conta as variações tarifárias.",
+  "Cumulável com bolsas e outros apoios, mas substitui o benefício anual de transporte do Despacho n.º 7253/2024.",
+  "O Governo regulamenta em 90 dias, podendo alargar o apoio a estudantes do continente que estudem nas regiões autónomas."
+ ],
+ "plain_language": "Estudantes da Madeira e dos Açores que estudam fora da sua ilha gastam muito dinheiro em viagens de avião. Esta proposta passa a comparticipar até quatro viagens de ida e volta por ano, mesmo para quem não tem bolsa. O valor exato por viagem seria definido depois pelo Governo.",
+ "context": "O proponente afirma que a insularidade e os custos das viagens aéreas criam desigualdade no acesso e na frequência do ensino superior. Considera insuficiente o regime atual, que prevê apenas um benefício anual de transporte, limitado a bolseiros e sujeito a condições, deixando de fora muitos estudantes.",
+ "analysis": "A medida responde a um problema concreto de desigualdade territorial e alarga o apoio a não bolseiros. Tem, porém, fragilidades: o montante por viagem fica para portaria, o que impede estimar o custo; a possibilidade de estender o apoio a estudantes do continente é só admitida na regulamentação; a articulação com o subsídio social de mobilidade existente é referida, mas não detalhada. Não há estimativa de despesa nem de número de beneficiários, e os efeitos dependem do futuro Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Financia até quatro viagens por estudante e por ano, sem teto nem estimativa no texto. Os efeitos financeiros só se produzem com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "estudantes do ensino superior da Madeira e dos Açores",
+  "famílias dos estudantes",
+  "companhias aéreas",
+  "Governo e orçamento do Estado"
+ ],
+ "categories": [
+  "educacao",
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "mobilidade aérea",
+  "ensino superior",
+  "Madeira",
+  "Açores",
+  "ação social escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

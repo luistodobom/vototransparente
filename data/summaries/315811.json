@@ -1,0 +1,42 @@
+{
+ "short_title": "Transparência e escrutínio no Setor Empresarial do Estado",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o regime jurídico do setor público empresarial (Decreto-Lei n.º 133/2013) para impor prazos e sanções de transparência. O plano de atividade e orçamento deve ser entregue ao titular da função acionista 60 dias antes do ano económico e aprovado até 7 dias antes. Empresas com capital próprio negativo durante três exercícios seguidos têm de propor medidas ou a extinção, com possibilidade de recuperação até dois anos, após o que a empresa é extinta (exceto entidades da saúde). Cria mecanismos judiciais para a falta de apresentação e aprovação das contas, alarga a informação nos sítios da internet das empresas e aplica as alterações a partir de 1 de janeiro de 2026.",
+ "key_points": [
+  "Plano de atividade e orçamento entregue 60 dias antes do ano económico e aprovado até 7 dias antes.",
+  "Capital próprio negativo durante três exercícios obriga a propor medidas ou a extinção, com recuperação até dois anos.",
+  "Entidades públicas empresariais da saúde ficam excluídas da extinção, mas têm de cumprir o plano de recuperação.",
+  "Se as contas não forem apresentadas, o titular da função acionista requer inquérito judicial.",
+  "Os sítios das empresas passam a divulgar obrigações de serviço público e apoios financeiros dos últimos dez exercícios."
+ ],
+ "plain_language": "As empresas do Estado passam a ter prazos obrigatórios para entregar orçamentos e contas e consequências se não os cumprirem, incluindo a intervenção de um tribunal. Empresas que tenham prejuízos acumulados durante três anos têm de apresentar um plano de recuperação ou ser extintas, e têm de publicar mais informação sobre o dinheiro público que recebem.",
+ "context": "A Iniciativa Liberal afirma que o setor empresarial do Estado acumula prejuízos e opacidade. Cita relatórios do Conselho das Finanças Públicas, segundo os quais em 2024 o esforço financeiro foi de mais de 4,2 mil milhões de euros e que, em novembro de 2025, apenas 51% dos relatórios e contas entregues estavam aprovados pela tutela. Defende igual exigência para empresas públicas e privadas.",
+ "analysis": "A proposta aproxima as empresas públicas dos padrões do setor privado e dá consequências ao incumprimento, apoiando-se em dados do CFP. Fragilidades: a extinção automática de empresas com capital próprio negativo pode pôr em causa serviços públicos essenciais, embora a saúde seja excluída; o recurso ao tribunal pode ser lento; o mesmo Estado seria simultaneamente tutela e entidade sancionada em caso de atraso na aprovação. O texto não estima custos de conformidade ou poupanças.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Maior escrutínio e a extinção de empresas deficitárias podem reduzir transferências públicas, mas há custos de conformidade e eventuais custos de extinção. O texto não apresenta montantes para a medida."
+ },
+ "affected": [
+  "empresas do setor empresarial do Estado",
+  "administradores de empresas públicas",
+  "contribuintes",
+  "tutela e Ministério das Finanças"
+ ],
+ "categories": [
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "setor empresarial do estado",
+  "transparência",
+  "empresas públicas",
+  "contas",
+  "capital próprio negativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

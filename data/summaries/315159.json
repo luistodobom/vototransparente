@@ -1,0 +1,40 @@
+{
+ "short_title": "Mais transparência do RASI sobre violência doméstica",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que o Relatório Anual de Segurança Interna passe a apresentar, nos dados sobre crimes de violência contra as mulheres e violência doméstica, o número de acusados de forma autonomizada no âmbito da suspensão provisória do processo, a par do número de queixas. Recomenda ainda que o relatório inclua o número de situações em que houve suspensão da execução da pena de prisão ou convolação do crime num crime distinto. Por ser um projeto de resolução, é uma recomendação ao Governo, sem efeito vinculativo.",
+ "key_points": [
+  "O RASI deve indicar o número de acusados nas suspensões provisórias do processo, e não apenas o número de queixas.",
+  "O RASI deve incluir o número de casos de suspensão da execução da pena de prisão.",
+  "O RASI deve incluir o número de casos em que o crime foi convolado em crime distinto.",
+  "Aplica-se aos crimes de violência contra as mulheres e violência doméstica."
+ ],
+ "plain_language": "O relatório anual de segurança interna mostra quantos processos de violência doméstica foram suspensos, mas compara com o número de queixas. O PAN quer que também mostre quantos acusados tiveram suspensão e quantas penas de prisão foram suspensas, para se perceber melhor como a justiça trata estes crimes. É um pedido ao Governo, que não é obrigado a cumprir.",
+ "context": "O PAN refere que, no RASI de 2024, dos 37.592 inquéritos concluídos por violência doméstica apenas 13,9% resultaram em acusação e que as suspensões provisórias representam 5,4% (2033), por terem como referência o número de inquéritos. Entende que, referidas aos acusados, a proporção seria bastante superior.",
+ "analysis": "Pontos fortes: pede melhoria de dados que permitiria avaliar melhor a aplicação da lei, a custo reduzido. Fragilidades: o texto tira conclusões fortes, como a de que há uso abusivo da suspensão provisória, a partir de uma estimativa que não é demonstrada com os dados. Além disso, o RASI é um relatório de segurança interna, pelo que os dados judiciais podem exigir articulação com o Ministério da Justiça. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A recomendação diz respeito à forma de reporte de dados estatísticos e não prevê despesa ou receita relevante."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "investigadores e decisores públicos",
+  "Ministério Público e tribunais"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "RASI",
+  "violência doméstica",
+  "suspensão provisória do processo",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Rastreio oncológico alargado e subsídio de doença a 100% para doentes oncológicos",
+ "summary": "Este projeto de resolução do BE recomenda ao Governo duas medidas. Primeiro, desenvolver e executar um plano nacional de deteção precoce do cancro no SNS, com programas de rastreio para pulmão, próstata e gástrico (cumprindo a Recomendação do Conselho da UE de dezembro de 2022 e a Estratégia Nacional de Luta contra o Cancro), reforço dos rastreios de mama, colo do útero e colorretal nas regiões com menor cobertura, e calendário vinculativo com metas quantificadas e avaliação pública periódica. Segundo, garantir o pagamento do subsídio de doença a 100% da remuneração de referência a todos os trabalhadores com diagnóstico oncológico, alterando o Decreto-Lei n.º 28/2004.",
+ "key_points": [
+  "Criar rastreios nacionais para os cancros do pulmão, da próstata e gástrico.",
+  "Reforçar os rastreios de mama, colo do útero e colorretal onde a cobertura e adesão são menores.",
+  "Adotar um calendário vinculativo com metas quantificadas e avaliação pública periódica.",
+  "Pagar o subsídio de doença a 100% da remuneração de referência a trabalhadores com doença oncológica, alterando o DL 28/2004."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que alargue os rastreios de cancro (pulmão, próstata e estômago), melhore os que já existem e passe a pagar integralmente o subsídio de doença a quem tem cancro, em vez de uma percentagem menor do salário. Defende que perder rendimento leva alguns doentes a adiar ou abandonar tratamentos. É uma recomendação ao Governo, sem caráter obrigatório.",
+ "context": "O proponente refere 60.954 novos casos de cancro em 2022 segundo o Registo Oncológico Nacional e que o regime atual reduz entre 25% e 45% o rendimento de quem recebe o diagnóstico. Recorda que a Assembleia rejeitou, a 13 de março de 2026, um projeto de lei do BE sobre o subsídio a 100% e invoca o artigo 64.º da Constituição e o regime que já paga a 100% o subsídio por assistência a filho com cancro.",
+ "analysis": "A proposta junta prevenção e proteção social, com metas e calendário, e apoia-se em dados e em recomendações europeias. Fragilidades: não estima o custo da baixa a 100% (as associações citadas encomendaram estudos), nem os recursos para três novos rastreios, cuja eficácia varia (por exemplo, o rastreio da próstata é controverso). A iniciativa retoma uma medida já rejeitada em plenário e, sendo projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Novos rastreios e o subsídio de doença a 100% implicam despesa pública adicional; o texto não apresenta montantes."
+ },
+ "affected": [
+  "doentes oncológicos trabalhadores",
+  "utentes do SNS elegíveis para rastreio",
+  "Segurança Social",
+  "serviços oncológicos do SNS"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "rastreio oncológico",
+  "subsídio de doença",
+  "cancro",
+  "segurança social",
+  "deteção precoce"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

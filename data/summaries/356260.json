@@ -1,0 +1,44 @@
+{
+ "short_title": "Estratégia pública para Comunidades de Energia Renovável",
+ "summary": "Este Projeto de Resolução do BE recomenda ao Governo uma estratégia nacional para as Comunidades de Energia Renovável (CER), com metas de participação, cobertura territorial e contributo para reduzir a pobreza energética. Pede a integração das CER nas políticas de habitação pública, cooperativa e a custos controlados, com autoconsumo coletivo e partilha de energia, a articulação com o planeamento energético, climático e de coesão territorial, o reforço do papel de autarquias e comunidades intermunicipais (competências, financiamento e apoio técnico), instrumentos de monitorização com indicadores de participação, inclusão social e impacto na pobreza energética e um relatório anual à Assembleia da República. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estratégia nacional para as CER com metas de participação, cobertura territorial e redução da pobreza energética.",
+  "Integração das CER nos programas de habitação pública, cooperativa e a custos controlados.",
+  "Articulação entre política de energia, ação climática e coesão territorial.",
+  "Reforço de competências, financiamento e apoio técnico às autarquias e comunidades intermunicipais.",
+  "Monitorização com indicadores e relatório anual à Assembleia da República."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que crie um plano para que mais pessoas, incluindo inquilinos, famílias com menos rendimentos e moradores de habitação pública, possam produzir e partilhar energia renovável em comunidades locais. Pede também mais apoio às câmaras municipais e um relatório anual ao Parlamento. É um pedido ao Governo, sem força obrigatória.",
+ "context": "O BE argumenta que a transição energética exige justiça climática e que as CER, previstas no Decreto-Lei n.º 15/2022, enfrentam barreiras de custo, de decisões em condomínio e de exclusão de quem vive em habitação pública ou arrendada. Cita níveis elevados de pobreza energética, com cerca de 20% da população sem conseguir aquecer adequadamente a casa, e assimetrias territoriais.",
+ "analysis": "A proposta identifica barreiras concretas ao acesso às CER e pede metas e monitorização, o que facilita a avaliação. Fragilidades: as seis medidas são genéricas e sem valores, prazos ou fontes de financiamento; não esclarece como harmonizar as CER com a sustentabilidade tarifária da rede, preocupação referida em outras iniciativas; e depende da vontade do Governo por ser recomendação. A relação com os programas de habitação exige coordenação entre vários ministérios.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforço de financiamento e apoio técnico às autarquias e integração nos programas de habitação implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "famílias com baixos rendimentos",
+  "arrendatários e moradores em condomínio",
+  "residentes em habitação pública e cooperativa",
+  "autarquias",
+  "comunidades de energia renovável"
+ ],
+ "categories": [
+  "energia",
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "comunidades de energia renovável",
+  "pobreza energética",
+  "autoconsumo coletivo",
+  "habitação pública",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Travessia Setúbal-Tróia no programa de redução tarifária",
+ "summary": "O Projeto de Resolução n.º 405/XVII/1.ª, do BE, recomenda ao Governo que articule com entidades municipais e intermunicipais, nomeadamente a CIMAL, os Transportes Metropolitanos de Lisboa e a APSS, e tendo em conta as recomendações da AMT, a inclusão da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária (PART). Recomenda também a criação de um subsídio social à mobilidade para os utilizadores residentes ou trabalhadores na península de Troia. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Incluir a travessia Setúbal-Troia no Programa de Apoio à Redução Tarifária nos transportes públicos.",
+  "Articular com a CIMAL, os Transportes Metropolitanos de Lisboa e a APSS, atendendo às recomendações da AMT.",
+  "Criar um subsídio social à mobilidade para residentes e trabalhadores na península de Troia.",
+  "É uma recomendação ao Governo, sem força vinculativa."
+ ],
+ "plain_language": "O BE pede ao Governo que o ferry de Setúbal a Tróia entre no programa de passes baratos dos transportes públicos e que quem vive ou trabalha em Tróia tenha um apoio para pagar a viagem. Atualmente o passe mensal custa 99,30 euros. O Governo apenas é aconselhado.",
+ "context": "O BE refere que o PART fixou passes de 30 e 40 euros nas áreas metropolitanas, mas excluiu esta travessia, cujo passe normal custa 99,30 euros por mês, mais 148% do que há 15 anos. Cita a petição n.º 238/XV/2, com mais de 8 mil assinaturas, e o parecer da AMT de dezembro de 2024, que recomendou renegociar a concessão e incluir a travessia no Navegante.",
+ "analysis": "A proposta é concreta, tem apoio numa entidade reguladora e numa petição, e acrescenta o subsídio social para residentes e trabalhadores, um elemento diferenciador. Porém, não calcula os custos nem diz quem os assume, nem aborda a renegociação do contrato com a concessionária. As siglas do programa e do passe aparecem misturadas, pois o PART foi sucedido por outro programa. Sendo uma resolução, o Governo não é obrigado a atuar e não há prazo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A inclusão no programa de redução tarifária e o subsídio social exigiriam financiamento público. O texto não indica montantes."
+ },
+ "affected": [
+  "utentes da travessia Setúbal-Tróia",
+  "residentes na Comporta e Carrasqueira",
+  "trabalhadores na península de Tróia",
+  "Atlantic Ferries"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "consumidores"
+ ],
+ "tags": [
+  "Setúbal",
+  "Tróia",
+  "PART",
+  "redução tarifária",
+  "AMT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

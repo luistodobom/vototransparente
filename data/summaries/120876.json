@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço da rede social para a primeira infância",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo cinco medidas para a primeira infância. Primeiro, aumentar a cobertura da rede de creches para 60%, ou seja, mais 28.190 lugares, com incidência em Lisboa, Porto e Setúbal, recorrendo a fundos comunitários além do PRR, alterando o financiamento das respostas sociais (incluindo a creche familiar), garantindo meios às creches municipais e apoiando empresas que criem IPSS e creches junto de zonas empresariais, com prioridade aos filhos dos funcionários. Segundo, calendarizar e divulgar as regras de acesso dos setores privado, social e solidário às verbas do PRR. Terceiro, assegurar até 2025 a gratuitidade da creche até ao 5.º escalão de rendimento. Quarto, monitorizar o investimento e os lugares. Quinto, divulgar dados atualizados da Carta Social. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Aumentar a cobertura de creches para 60% (mais 28.190 lugares), sobretudo em Lisboa, Porto e Setúbal.",
+  "Usar fundos comunitários além do PRR e rever o financiamento das respostas sociais, incluindo a creche familiar.",
+  "Apoiar empresas que criem IPSS e creches junto de zonas empresariais, com prioridade aos filhos dos funcionários.",
+  "Assegurar, até 2025, creche gratuita até ao 5.º escalão de rendimento.",
+  "Monitorizar o investimento e divulgar dados atualizados da Carta Social."
+ ],
+ "plain_language": "O PSD pede ao Governo que crie mais 28 mil lugares em creches, para chegar a 60% de cobertura, com apoios a empresas que abram creches e creche gratuita para as famílias de menores rendimentos até 2025. Pede também que os dados sobre a rede sejam publicados. É uma recomendação.",
+ "context": "O PSD refere a queda da natalidade, 1,42 filhos por mulher em 2019 (INE) e uma cobertura média das respostas para a primeira infância de 48,4% no continente (Carta Social 2019), mais baixa em Lisboa, Setúbal e Porto. Considera o PRR pouco ambicioso e defende creches para conciliação familiar e desenvolvimento das crianças.",
+ "analysis": "A proposta tem metas e prazos quantificados e uma lógica de combinar financiamento europeu e apoio às empresas. Fragilidades: não estima o custo dos 28.190 lugares nem da gratuitidade até ao 5.º escalão, e depende da capacidade de construção e de recrutamento de profissionais; os incentivos a IPSS criadas por empresas podem levantar questões de acesso e equidade. A medida de 60% de cobertura não é justificada por referência a uma meta externa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais lugares em creches, a gratuitidade até ao 5.º escalão e o apoio às empresas implicam mais despesa pública e uso de fundos europeus. O texto não indica o custo total."
+ },
+ "affected": [
+  "famílias com crianças pequenas",
+  "creches e instituições de solidariedade social",
+  "empresas que criem creches",
+  "municípios"
+ ],
+ "categories": [
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creches",
+  "natalidade",
+  "carta social",
+  "prr",
+  "gratuitidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

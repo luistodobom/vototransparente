@@ -1,0 +1,42 @@
+{
+ "short_title": "Nacionalização dos CTT",
+ "summary": "O projeto de lei do BE define o procedimento de apropriação pública, por via de nacionalização, do controlo acionista dos CTT - Correios de Portugal, S.A., nos termos do Regime Jurídico de Apropriação Pública (Lei n.º 62-A/2008). Verificada a degradação do serviço público e apurada a inviabilidade de meio menos restritivo, o Governo procederia à nacionalização de todas as ações, que seriam transferidas para o Estado livres de ónus. Os CTT passariam a sociedade anónima de capitais exclusivamente públicos. Prevê uma auditoria independente às ações lesivas do serviço público e fixa a indemnização aos acionistas segundo o regime de apropriação pública, com apuramento de indemnização devida ao Estado.",
+ "key_points": [
+  "Nacionalização de todas as ações representativas do capital social dos CTT, transferidas para o Estado.",
+  "Os CTT passam a sociedade anónima de capitais exclusivamente públicos.",
+  "Auditoria independente para identificar e quantificar as ações lesivas do serviço público.",
+  "Indemnização aos acionistas apurada nos termos do Regime Jurídico de Apropriação Pública.",
+  "Apuramento de indemnização devida ao Estado com base na auditoria."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe que o Estado fique com todas as ações dos CTT, devolvendo a empresa ao controlo público. Seria feita uma auditoria para apurar os danos causados ao serviço público, e os acionistas teriam direito a uma indemnização calculada pelas regras de apropriação pública.",
+ "context": "O proponente refere o encerramento de 84 estações desde a privatização, 33 concelhos sem estações de correios em 2018 (segundo a ANACOM) e a expectativa de subida para 48. Defende que o critério da rentabilidade tem prejudicado populações do interior e a coesão territorial, e que o contrato de concessão termina em dezembro de 2020.",
+ "analysis": "A proposta define mecanismo legal concreto e usa um regime jurídico já existente, o que reforça a sua exequibilidade, além de prever auditoria. Fragilidades: a transferência das ações por efeito direto da lei e a indemnização por apurar geram incerteza sobre o custo final para o Estado e possíveis litígios. A redação condiciona a nacionalização a 'inviabilidade de meio menos restrito', mas é pouco clara sobre quem a apura e como. O texto não discute alternativas, como a renegociação da concessão ou reforço da regulação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A indemnização aos acionistas e a aquisição das ações implicam despesa pública, cujo montante não consta do texto e seria apurado nos termos do regime de apropriação pública."
+ },
+ "affected": [
+  "acionistas dos CTT",
+  "trabalhadores dos CTT",
+  "utentes dos serviços postais",
+  "Estado"
+ ],
+ "categories": [
+  "economia",
+  "comunicacao",
+  "territorio"
+ ],
+ "tags": [
+  "CTT",
+  "nacionalização",
+  "serviço postal",
+  "coesão territorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

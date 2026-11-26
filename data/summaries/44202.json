@@ -1,0 +1,38 @@
+{
+ "short_title": "Programa de construção de residências geriátricas",
+ "summary": "Projeto de resolução do deputado do Chega que recomenda ao Governo um programa de alargamento da construção de residências geriátricas, principalmente no interior do país e nas grandes áreas metropolitanas, com o objetivo de assegurar a todos os idosos o acesso a uma residência. A exposição de motivos refere o envelhecimento da população e a necessidade de dar prioridade aos idosos e de apoiar as famílias. A parte recomendatória contém uma única medida, sem prazos, metas nem financiamento. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Promover um programa de alargamento da construção de residências geriátricas.",
+  "Prioridade ao interior do país e às grandes áreas metropolitanas.",
+  "Apoio às famílias que cuidam dos pais idosos, referido na exposição de motivos."
+ ],
+ "plain_language": "O Chega pede ao Governo que construa mais residências para idosos, sobretudo no interior e nas grandes cidades, para que nenhum idoso fique abandonado. É um pedido ao Governo, sem obrigação legal de ser cumprido.",
+ "context": "O proponente cita que em 2015 as pessoas com 65 ou mais anos eram cerca de 20,5% da população e que o índice de envelhecimento passou de 27,5% em 1961 para 143,9% em 2015, e defende que o Estado deve dar prioridade aos idosos.",
+ "analysis": "Identifica uma necessidade social real, mas a medida é muito genérica: não indica número de vagas, prazos, entidades responsáveis, modelo de gestão (público, social ou privado) nem custos. Também não distingue residências geriátricas de outras respostas, como apoio domiciliário, que o próprio texto sugere poder poupar recursos públicos. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção e o funcionamento de residências implicam despesa pública ou apoios; o texto não indica montantes."
+ },
+ "affected": [
+  "idosos",
+  "famílias de idosos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "residências geriátricas",
+  "idosos",
+  "interior",
+  "envelhecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

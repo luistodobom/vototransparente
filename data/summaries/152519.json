@@ -1,0 +1,40 @@
+{
+ "short_title": "Isenção de custas para trabalhadores em ações laborais",
+ "summary": "Projeto de Lei do LIVRE que altera o Regulamento das Custas Processuais (Decreto-Lei n.º 34/2008), em concreto a alínea h) do n.º 1 do artigo 4.º, que isenta de custas os trabalhadores e familiares em matéria de direito do trabalho quando representados pelo Ministério Público ou pelos serviços jurídicos gratuitos do sindicato e com rendimento ilíquido até 200 UC. Segundo a exposição de motivos, a proposta passa a abranger os trabalhadores representados por advogado constituído e elimina o limite de rendimento anual. Nota: o texto da alínea h) proposto no articulado, tal como extraído, reproduz a redação atual, pelo que a descrição assenta na exposição de motivos. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Isenção de custas alargada a trabalhadores e familiares representados por advogado constituído.",
+  "Eliminação do limite de rendimento ilíquido anual de 200 UC.",
+  "Aplica-se a matérias de direito do trabalho.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, um trabalhador só fica isento de custas em ações laborais se for representado pelo Ministério Público ou pelo sindicato e tiver rendimentos abaixo de um limite. O projeto quer que todos os trabalhadores, mesmo com advogado e qualquer rendimento, fiquem isentos nestes processos.",
+ "context": "O LIVRE invoca o artigo 20.º da Constituição, a Recomendação n.º 2/B/2010 do Provedor de Justiça (sem resposta conclusiva) e o facto de o limite de 200 UC (20.400 €) não ser atualizado desde 2008. Defende que a posição mais frágil do trabalhador justifica a isenção independentemente do rendimento.",
+ "analysis": "Ponto forte: elimina uma distinção apontada pelo Provedor de Justiça e simplifica o acesso à justiça laboral. Fragilidades: a isenção sem limite de rendimento abrange também trabalhadores de rendimentos elevados, o que pode ser questionado em termos de equidade; reduz a receita de custas e não estima o seu impacto; o articulado, tal como extraído, não mostra a nova redação, e o risco de litigância não é avaliado, apesar de o texto afirmar que o n.º 6 do artigo 4.º responsabiliza o trabalhador vencido pelos encargos.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de custas a mais trabalhadores reduziria a receita de custas judiciais; o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores e seus familiares",
+  "advogados",
+  "tribunais do trabalho"
+ ],
+ "categories": [
+  "justica",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "custas processuais",
+  "direito do trabalho",
+  "isenção de custas",
+  "acesso à justiça"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

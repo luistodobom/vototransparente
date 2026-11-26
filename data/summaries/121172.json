@@ -1,0 +1,42 @@
+{
+ "short_title": "Presença de figura significativa na entrada em creches",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que solicite à DGS, com carácter de urgência, a revisão da Norma n.º 025/2020 (atualizada a 9 de setembro de 2021), sobre medidas de prevenção e controlo da COVID-19 em creches, creches familiares e amas. Pretende garantir o direito das crianças à presença de uma figura significativa nos momentos de transição para contextos educativos. O texto contesta a alínea c) do ponto 9, que exige que as crianças sejam entregues e recebidas à porta do estabelecimento pelo encarregado de educação ou pessoa por ele designada, evitando a circulação dentro da creche. Defende que, na fase de desconfinamento, devem ser encontradas formas alternativas, ouvindo profissionais de saúde infantil, saúde pública e psicologia. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Solicitar à DGS a revisão urgente da Norma n.º 025/2020, atualizada a 9 de setembro de 2021.",
+  "Garantir a presença de figura significativa da criança nos momentos de transição para contextos educativos.",
+  "Rever a exigência de entrega das crianças à porta da creche, prevista na alínea c) do ponto 9 da norma.",
+  "Ouvir, se necessário, profissionais de saúde infantil, saúde pública e psicologia."
+ ],
+ "plain_language": "Por causa da COVID-19, os pais não podem entrar na creche e entregam os filhos à porta. O PAN pede ao Governo que peça à DGS para rever esta regra, porque considera que a presença dos pais ajuda as crianças pequenas a adaptar-se. É uma recomendação.",
+ "context": "O PAN considera que, com o desconfinamento e Portugal na zona verde da matriz de risco, já não se justifica manter a regra de entrega à porta, que gera angústia nas famílias e sofrimento nas crianças, sobretudo na entrada pela primeira vez. Cita especialistas sobre a importância da vinculação e a presença dos pais na adaptação, e refere que as restantes medidas da norma bastam para controlar o risco.",
+ "analysis": "A proposta toca num ponto sensível, o bem-estar emocional das crianças, e pede uma revisão em vez de levantar de imediato a regra. Fragilidades: o texto contesta uma norma técnica da DGS sem apresentar avaliação do risco sanitário nas creches, e propõe um direito inalienável sem o definir juridicamente. Não discute alternativas concretas (por exemplo, períodos de adaptação em espaços exteriores) nem as condições de ventilação que o próprio texto refere como risco principal. Depende da DGS e do Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Recomenda a revisão de uma norma da DGS e o texto não prevê despesa ou receita."
+ },
+ "affected": [
+  "crianças em creches",
+  "pais e encarregados de educação",
+  "creches e educadores",
+  "DGS"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creches",
+  "covid-19",
+  "dgs",
+  "adaptação",
+  "vinculação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

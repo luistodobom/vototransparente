@@ -1,0 +1,42 @@
+{
+ "short_title": "Integrar a travessia Setúbal-Tróia no Passe Navegante",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo cinco medidas: incluir a travessia fluvial Setúbal-Tróia no sistema tarifário intermodal da Área Metropolitana de Lisboa, designadamente no Passe Navegante; negociar com a atual concessionária as condições de integração tarifária; apresentar à Assembleia, em 120 dias, um calendário de implementação com estimativa de custos, impacto contratual e medidas de mitigação financeira; promover um estudo atualizado de impacto económico e social; e garantir que a renovação da concessão, prevista para 2027, salvaguarda a mobilidade acessível e evita tarifas desproporcionadas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Integrar a travessia Setúbal-Tróia no Passe Navegante e no sistema tarifário da AML.",
+  "Negociar a integração tarifária com a atual concessionária.",
+  "Apresentar em 120 dias um calendário com estimativa de custos e impacto contratual.",
+  "Realizar estudo atualizado de impacto económico e social.",
+  "Salvaguardar a mobilidade acessível na renovação da concessão prevista para 2027."
+ ],
+ "plain_language": "Quem atravessa o Sado entre Setúbal e Tróia paga muito mais do que nas travessias do Tejo integradas no Passe Navegante. O CHEGA recomenda ao Governo que integre esta travessia no passe, negoceie com a empresa concessionária e apresente custos e calendário ao Parlamento. É apenas uma recomendação.",
+ "context": "O CHEGA apoia a Petição n.º 238/XV/2.ª, subscrita por 8.335 cidadãos, e compara o bilhete que custava 1,15 euros em 2008 com os atuais 9,30 euros. Cita o parecer n.º 39/2024 da AMT, favorável à integração, e nota que a concessão com a Atlantic Ferries expira em 2027.",
+ "analysis": "A proposta responde a uma petição e a um parecer técnico favorável, e pede custos e estudo antes de decidir, o que é prudente. Fragilidades: a travessia é uma concessão privada, pelo que integrar a tarifa implica compensação à concessionária ou renegociação contratual, com custo para o Estado ou para a AML não estimado; o Passe Navegante cobre a Área Metropolitana de Lisboa, e Tróia fica na Península de Setúbal, pelo que a articulação institucional fica por esclarecer. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração tarifária exigiria provavelmente compensação financeira à concessionária ou à AML. O texto pede estimativa de custos ao Governo mas não apresenta montantes."
+ },
+ "affected": [
+  "utentes da travessia Setúbal-Tróia",
+  "residentes da Península de Setúbal, Comporta e Grândola",
+  "concessionária Atlantic Ferries"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "consumidores"
+ ],
+ "tags": [
+  "Passe Navegante",
+  "Setúbal-Tróia",
+  "travessia fluvial",
+  "tarifas",
+  "concessão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

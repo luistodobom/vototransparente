@@ -1,0 +1,38 @@
+{
+ "short_title": "Reorganização da PSP com pessoal civil em funções administrativas",
+ "summary": "O projeto de resolução do CDS-PP recomenda ao Governo que reorganize a Polícia de Segurança Pública (PSP) para libertar polícias de funções administrativas e de apoio. Com base no Balanço Social da PSP de 2024, que indica 21.247 elementos, dos quais 20.687 em funções policiais e 560 em funções não policiais, e na comparação com forças policiais de outros países com maior peso de pessoal civil, propõe duas medidas: identificar as funções hoje desempenhadas por polícias que possam ser asseguradas por pessoal civil especializado e avaliar a reorganização funcional da PSP, com integração gradual e planeada de pessoal civil em funções eminentemente administrativas.",
+ "key_points": [
+  "Identificar funções atualmente exercidas por polícias que possam ser asseguradas por pessoal civil especializado.",
+  "Avaliar a reorganização funcional da PSP.",
+  "Integrar de forma gradual e planeada pessoal civil em funções eminentemente administrativas."
+ ],
+ "plain_language": "O CDS-PP quer que o Governo estude passar para trabalhadores civis tarefas de escritório e apoio que hoje são feitas por polícias. A ideia é que mais agentes fiquem nas ruas e menos em serviços administrativos. É apenas uma recomendação ao Governo, sem obrigação de aplicar.",
+ "context": "O proponente invoca o envelhecimento do efetivo da PSP, as dificuldades de recrutamento e a necessidade de usar melhor os recursos. Aponta que cerca de 97% do efetivo exerce funções policiais e que noutros países o pessoal civil tem maior peso, o que permitiria reforçar o patrulhamento e o policiamento de proximidade.",
+ "analysis": "A proposta é concreta e de baixo risco por se limitar a estudar e avaliar. No entanto, não quantifica quantos polícias estão realmente em funções administrativas nem os custos de contratar civis, e as comparações internacionais são apresentadas como estimativas sem fonte detalhada. A contratação de civis pode acarretar despesa adicional, e podem surgir preocupações laborais e sindicais. Não há prazos nem metas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Não são apresentados custos; a integração de pessoal civil pode implicar nova despesa com contratação, mas o texto não a estima."
+ },
+ "affected": [
+  "Agentes da PSP",
+  "Pessoal não policial da PSP",
+  "Cidadãos (policiamento)"
+ ],
+ "categories": [
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "psp",
+  "pessoal civil",
+  "forças de segurança",
+  "reorganização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais salário e subsídios para bombeiros das equipas de intervenção permanente",
+ "summary": "Projeto de Lei do CHEGA aplicável às equipas de intervenção permanente (EIP) compostas por bombeiros de associações humanitárias de bombeiros voluntários do continente. Eleva a retribuição-base do nível 6 para o nível 7 da tabela remuneratória única da Administração Pública (de 926,42 para 979,05 euros em 2025, segundo o texto). Cria um suplemento de turno de 25% da retribuição-base mensal sempre que o serviço seja prestado, total ou parcialmente, em período noturno. Estabelece diuturnidades por antiguidade nas EIP, de 16,25 euros aos 3 anos até 65 euros, e depois 32,50 euros por cada período do protocolo após 12 anos. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Retribuição-base dos elementos das EIP equivalente ao nível 7 da tabela remuneratória única.",
+  "Suplemento de turno de 25% da retribuição-base quando haja serviço noturno, total ou parcial.",
+  "Diuturnidades escalonadas de três em três anos, de 16,25 euros aos 3 anos de serviço até ao valor previsto aos 9 ou 12 anos.",
+  "Após 12 anos de serviço, diuturnidade de 32,50 euros por cada período de duração ou renovação do protocolo.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O CHEGA propõe aumentar o salário-base dos bombeiros das equipas de intervenção permanente, pagar-lhes mais 25% quando trabalham por turnos à noite e dar-lhes pequenos acréscimos por antiguidade, de três em três anos. A medida só valeria com o próximo Orçamento do Estado.",
+ "context": "O proponente explica que as EIP, previstas no Decreto-Lei n.º 247/2007 e reguladas pela Portaria n.º 322/2021, integram 3641 bombeiros em 745 equipas em funcionamento (outubro de 2024) e são financiadas em partes iguais por câmaras municipais e ANEPC. Argumenta que, com turnos obrigatórios, estes bombeiros devem receber suplemento noturno e que o esforço da época de fogos de 2025 justifica melhor remuneração.",
+ "analysis": "A proposta é concreta e quantificada nos valores unitários, corrigindo a ausência de suplemento de turno e de diuturnidades. Fragilidades: não estima o custo total, que recairia em municípios e ANEPC, e não define a fonte de financiamento nem como se articula com a Portaria; a redação sobre as diuturnidades tem imprecisões (por exemplo, o valor aos 12 anos) que poderiam gerar dúvidas de aplicação; e cria diferenciação face a outros bombeiros sem o enquadrar numa reforma da carreira.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Eleva a retribuição-base (de 926,42 para 979,05 euros em 2025, segundo o texto), cria suplemento de 25% e diuturnidades, aumentando a despesa de municípios e ANEPC; o texto não indica o custo total."
+ },
+ "affected": [
+  "bombeiros das equipas de intervenção permanente",
+  "associações humanitárias de bombeiros voluntários",
+  "câmaras municipais",
+  "ANEPC"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "bombeiros",
+  "equipas de intervenção permanente",
+  "suplemento de turno",
+  "diuturnidades",
+  "retribuição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio plurianual ao projeto Orquestra Geração",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que garanta a continuidade do projeto Orquestra Geração no ano letivo 2021/22, inicie ainda em 2020/21 os procedimentos para a contratualização plurianual do apoio, por triénio ou período superior, e inicie os procedimentos para disseminar o projeto por todo o território nacional no âmbito do Programa Nacional de Promoção do Sucesso Escolar. O projeto utiliza a música em orquestra como instrumento de inclusão social e de combate ao insucesso e abandono escolares, com responsabilidade pedagógica da Escola de Música do Conservatório Nacional. Atualmente o financiamento, em horas de docência, é atribuído anualmente.",
+ "key_points": [
+  "Garantir de imediato a continuidade da Orquestra Geração em 2021/22.",
+  "Iniciar a contratualização plurianual, por triénio ou mais, durante 2020/21.",
+  "Assegurar a estabilidade dos profissionais, da oferta educativa e do percurso dos alunos.",
+  "Alargar o projeto a todo o território no âmbito do Programa Nacional de Promoção do Sucesso Escolar."
+ ],
+ "plain_language": "A Orquestra Geração é um projeto em que crianças e jovens aprendem música em orquestra, sobretudo em bairros com dificuldades sociais. O Bloco de Esquerda pede ao Governo que garanta o financiamento por vários anos seguidos, e não ano a ano, e que alargue o projeto ao país. É uma recomendação não vinculativa.",
+ "context": "O proponente afirma que o projeto, iniciado em 2005 e com cerca de 2000 crianças e jovens dos 6 aos 20 anos, tem resultados reconhecidos em inclusão e sucesso escolar, mas continua sem garantia plurianual de financiamento. Isso sujeita-o todos os anos à possibilidade de extinção e deixa os professores em precariedade.",
+ "analysis": "A proposta responde a um problema concreto de instabilidade de financiamento e invoca reconhecimentos nacionais e europeus. Contudo, os resultados são descritos em termos gerais, sem dados de avaliação independente no texto, e não se estima o custo da contratualização plurianual nem da expansão nacional. A disseminação a todo o território é pouco concretizada. Por ser uma recomendação, o seu efeito depende de decisão do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Garantir financiamento plurianual e alargar o projeto implica despesa pública em horas de docência, que o texto não quantifica."
+ },
+ "affected": [
+  "crianças e jovens participantes",
+  "professores do projeto",
+  "escolas",
+  "Escola de Música do Conservatório Nacional",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "cultura"
+ ],
+ "tags": [
+  "orquestra geração",
+  "financiamento plurianual",
+  "sucesso escolar",
+  "música",
+  "inclusão social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

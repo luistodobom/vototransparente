@@ -1,0 +1,41 @@
+{
+ "short_title": "Transferir para a ERC receitas próprias retidas pelo Ministério das Finanças",
+ "summary": "O PSD recomenda ao Governo que tome as diligências necessárias para a transferência imediata, pelo Ministério das Finanças, de receitas próprias da ERC (Entidade Reguladora para a Comunicação Social), no montante atual de 3 milhões de euros. O texto explica que parte dessas receitas provém da percentagem dos resultados líquidos anuais da ANACOM que cabe à ERC, fixada há vários anos em 1 milhão de euros. Segundo o proponente, a Portaria n.º 77/2020, de 19 de março, determinou que a ANACOM transferisse o valor da ERC para o Tesouro, ao contrário do que sucede com a Agência Espacial Europeia e o Instituto do Cinema e do Audiovisual, que recebem diretamente. É uma recomendação sem caráter vinculativo.",
+ "key_points": [
+  "Recomenda a transferência imediata pelo Ministério das Finanças de 3 milhões de euros de receitas próprias da ERC.",
+  "Aponta que os valores da ERC ficam retidos no Tesouro, desde os resultados da ANACOM de 2016.",
+  "Invoca a independência financeira e administrativa da ERC como entidade reguladora."
+ ],
+ "plain_language": "A ERC, que fiscaliza a comunicação social, deveria receber parte dos lucros da ANACOM, mas o dinheiro está nos cofres do Ministério das Finanças. O PSD pede que sejam entregues já 3 milhões de euros, para a ERC poder trabalhar sem depender do Governo. É uma recomendação.",
+ "context": "O proponente defende que a ERC é uma entidade independente do Governo, com autonomia administrativa e financeira, e que a retenção dos montantes no Tesouro, sem justificação legal aparente, parece violar o princípio da independência e pode estrangular orçamentalmente a entidade, impedindo-a de cumprir as suas funções constitucionais.",
+ "analysis": "A proposta aborda um problema concreto de independência financeira de um regulador e apoia-se em factos verificáveis, como a portaria citada. Fragilidades: o texto não demonstra a base legal do direito da ERC aos montantes nem explica o cálculo dos 3 milhões; a afirmação de ilegalidade é apresentada com cautela («parece»); e não há análise das razões do Governo para canalizar os valores pelo Tesouro. A recomendação é genérica («diligências necessárias») e não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A transferência de 3 milhões de euros do Tesouro para a ERC corresponde a uma saída de receitas retidas pelo Ministério das Finanças, segundo o texto."
+ },
+ "affected": [
+  "ERC (Entidade Reguladora para a Comunicação Social)",
+  "Ministério das Finanças",
+  "ANACOM",
+  "operadores de comunicação social"
+ ],
+ "categories": [
+  "comunicacao",
+  "instituicoes",
+  "economia"
+ ],
+ "tags": [
+  "ERC",
+  "ANACOM",
+  "independência dos reguladores",
+  "receitas próprias",
+  "comunicação social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

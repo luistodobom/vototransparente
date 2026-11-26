@@ -1,0 +1,42 @@
+{
+ "short_title": "Faltas pagas para assistir familiares em paliativos",
+ "summary": "O projeto de lei do LIVRE altera o artigo 252.º do Código do Trabalho e os artigos 20.º e 23.º do Decreto-Lei n.º 89/2009 para garantir faltas justificadas, sem perda de retribuição, a trabalhadores que prestem assistência a familiares em cuidados paliativos. Ao período de ausência já previsto acrescem 15 dias por ano para assistência inadiável a pessoa com deficiência, doença crónica, doença oncológica ou em cuidados paliativos, quando seja cônjuge, unido de facto, filho, parente ou afim na linha reta ascendente ou no 2.º grau da linha colateral. Para assistência a parentes e afins não é exigível o mesmo agregado familiar. No regime da função pública, o subsídio para assistência a filho passa a abranger doença oncológica e cuidados paliativos, a 100%, com limite de três vezes o IAS. Entra em vigor com o orçamento do Estado seguinte.",
+ "key_points": [
+  "Acrescem 15 dias por ano de faltas para assistir pessoa com doença oncológica ou em cuidados paliativos, entre outras situações.",
+  "As faltas para assistência a familiares em cuidados paliativos não implicam perda de retribuição.",
+  "O Código do Trabalho passa a incluir filhos e doença oncológica na lista de situações com direito a assistência.",
+  "Subsídio de 100% para assistência a filho com doença oncológica ou em cuidados paliativos no regime convergente, limitado a três vezes o IAS por mês.",
+  "Entrada em vigor com o orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Quem precisa de faltar ao trabalho para cuidar de um familiar em cuidados paliativos poderá fazê-lo sem perder salário, durante mais 15 dias por ano. A proposta também uniformiza as regras entre trabalhadores do setor privado e da função pública.",
+ "context": "O LIVRE refere que cerca de 70% das pessoas que precisam de cuidados paliativos não têm acesso em tempo útil, e 90% no caso das crianças, segundo a Associação Portuguesa de Cuidados Paliativos. Argumenta que a ausência de remuneração nas faltas para assistência obriga os trabalhadores a escolher entre acompanhar o familiar e salvaguardar o rendimento.",
+ "analysis": "A medida protege cuidadores e uniformiza regimes, o que é um ponto forte. Há, porém, ambiguidades: o texto não deixa claro quem suporta a remuneração (empregador ou Segurança Social) no setor privado, nem estima o número de beneficiários ou o custo. A entrada em vigor condicionada ao orçamento do Estado reconhece o impacto orçamental, mas deixa o prazo indeterminado. O artigo alterado já continha regras de dias de assistência, pelo que a articulação carece de clareza.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Faltas remuneradas e um subsídio a 100% (até três vezes o IAS por mês) aumentam encargos da Segurança Social, do Estado empregador e/ou dos empregadores. O texto não quantifica o custo."
+ },
+ "affected": [
+  "trabalhadores cuidadores de familiares",
+  "doentes em cuidados paliativos e famílias",
+  "trabalhadores em funções públicas",
+  "empregadores"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "faltas justificadas",
+  "cuidador familiar",
+  "código do trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

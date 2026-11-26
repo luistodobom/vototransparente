@@ -1,0 +1,41 @@
+{
+ "short_title": "Calendário para criar as regiões administrativas",
+ "summary": "O projeto de resolução do PCP propõe que a Assembleia da República aprove um programa de trabalho e um calendário para instituir as regiões administrativas previstas na Constituição. Prevê audições na Comissão de Reforma do Estado e Poder Local até ao final de 2026; consulta às assembleias municipais do continente, entre o final de 2026 e 30 de junho de 2027, sobre dois mapas (as cinco áreas das CCDR ou as oito regiões do referendo de 1998); debate dos diplomas de lei-quadro e de criação até julho de 2027; proposta de referendo até final de 2027, para realização antes de julho de 2028; e leis de instituição das regiões em 2028, para eleições em 2029.",
+ "key_points": [
+  "Audições e debate na Assembleia da República até ao final de 2026.",
+  "Consulta às assembleias municipais sobre dois mapas alternativos entre o final de 2026 e junho de 2027.",
+  "Debate das iniciativas de lei-quadro e de criação das regiões até julho de 2027.",
+  "Proposta de referendo aprovada até final de 2027, a realizar antes de julho de 2028.",
+  "Leis de instituição de cada região até final de 2028, com eleições nas autárquicas de 2029."
+ ],
+ "plain_language": "O PCP propõe um calendário para finalmente criar as regiões administrativas do continente, previstas na Constituição desde 1976. Os municípios seriam ouvidos sobre o mapa, haveria referendo até meados de 2028 e, se ganhasse o sim, as regiões elegeriam os seus órgãos em 2029. É uma resolução da Assembleia, que depende de decisões futuras.",
+ "context": "O PCP sustenta que a regionalização está por cumprir e que reformas das estruturas desconcentradas do Estado, como as CCDR, não substituem regiões administrativas nem constituem etapa para elas. Defende que só a criação das regiões garante verdadeira descentralização e racionalização da administração.",
+ "analysis": "A proposta tem a vantagem de apresentar um calendário concreto e de passar por consulta municipal e referendo. Fragilidades: o calendário é ambicioso e depende de maiorias parlamentares para aprovar leis ainda não apresentadas, do aval do Tribunal Constitucional e do Presidente, e do resultado do referendo. Não são discutidos custos nem a distribuição de competências, e a rejeição do modelo das CCDR reflete uma posição política contestada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a criação de regiões e a realização de um referendo implicariam despesa, mas não é estimada."
+ },
+ "affected": [
+  "Municípios e assembleias municipais",
+  "Eleitores do continente",
+  "Comissões de Coordenação e Desenvolvimento Regional",
+  "Administração central"
+ ],
+ "categories": [
+  "territorio",
+  "instituicoes"
+ ],
+ "tags": [
+  "regionalização",
+  "regiões administrativas",
+  "referendo",
+  "ccdr"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

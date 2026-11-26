@@ -1,0 +1,40 @@
+{
+ "short_title": "Debate nacional sobre regionalização e coesão territorial",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo a promoção de um debate alargado e participado sobre a regionalização e o reforço da coesão territorial. O debate deveria envolver a Administração Pública, a academia e a sociedade civil, com vista a soluções consensuais para o futuro modelo de organização territorial do país, recorrendo a instrumentos inovadores como as assembleias de cidadãos. Recomenda também o desenvolvimento e a implementação de plataformas de governação colaborativa que incentivem a cooperação entre os níveis central, regional e local. Trata-se de uma recomendação sem força vinculativa, que não cria regiões administrativas nem altera competências.",
+ "key_points": [
+  "Promover um debate nacional alargado sobre a regionalização e a coesão territorial.",
+  "Envolver a Administração Pública, a academia e a sociedade civil.",
+  "Usar instrumentos inovadores, como as assembleias de cidadãos.",
+  "Criar plataformas de governação colaborativa entre os diferentes níveis de poder."
+ ],
+ "plain_language": "O PAN pede ao Governo que organize uma discussão pública sobre se Portugal deve ter regiões administrativas, ouvindo especialistas, serviços do Estado e cidadãos. Pede também que se criem espaços de cooperação entre o Governo central, as regiões e os municípios. Não decide nada sobre regionalização: apenas recomenda que o tema seja debatido.",
+ "context": "O PAN defende que Portugal continua muito centralizado e concentrado no litoral, com despesa pública infranacional abaixo da média da União Europeia. Cita o relatório de 2019 da Comissão Independente para a Descentralização, segundo o qual seriam precisos 8 anos de regionalização para atingir os indicadores europeus, e invoca a melhor execução de fundos europeus.",
+ "analysis": "A proposta é de baixo custo e consensual na forma, mas pouco concreta: não define calendário, formato, orçamento nem quem conduz o debate, o que dificulta o seu acompanhamento. Sendo uma resolução, não vincula o Governo. O texto refere benefícios da regionalização com base em dados gerais, sem apresentar um modelo concreto nem avaliar riscos, apesar de dizer que o debate deve ponderar vantagens e riscos. As assembleias de cidadãos são um mecanismo participativo, mas o seu valor dependeria do desenho e da vontade política de dar seguimento às conclusões.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A organização de um debate e de plataformas de governação teria custos administrativos não especificados."
+ },
+ "affected": [
+  "Administração Pública central e local",
+  "Autarquias",
+  "Cidadãos",
+  "Instituições académicas"
+ ],
+ "categories": [
+  "territorio",
+  "instituicoes"
+ ],
+ "tags": [
+  "regionalização",
+  "coesão territorial",
+  "descentralização",
+  "assembleias de cidadãos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

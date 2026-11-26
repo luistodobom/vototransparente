@@ -1,0 +1,42 @@
+{
+ "short_title": "Acelerar o autoconsumo e as comunidades de energia",
+ "summary": "O Projeto de Resolução n.º 645/XVII/1.ª, da Iniciativa Liberal, recomenda ao Governo que acelere o autoconsumo de energia (UPAC) e as Comunidades de Energia Renovável (CER). Propõe reduzir de 1 ano para 6 meses o prazo máximo de resposta da Direção-Geral de Energia e Geologia (DGEG) aos pedidos de registo de UPAC e CER, unificar todos os procedimentos numa plataforma digital única, acessível e transparente, flexibilizar os critérios geográficos das CER, sem os limitar a critérios de distância, e incentivar a integração de sistemas de armazenamento distribuído (baterias) nas UPAC e CER. Invoca dados da ERSE segundo os quais, em 2024, havia cerca de 237 mil autoconsumidores e 1,8 GW de potência instalada em UPAC em Portugal continental. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reduzir de 1 ano para 6 meses o prazo máximo de resposta da DGEG aos pedidos de registo de UPAC e CER.",
+  "Unificar todos os procedimentos numa plataforma digital única, acessível e transparente.",
+  "Flexibilizar os critérios geográficos das CER, não os limitando a critérios de distância.",
+  "Incentivar a integração de sistemas de armazenamento distribuído (baterias) nas UPAC e CER."
+ ],
+ "plain_language": "Cada vez mais famílias, empresas e autarquias produzem a sua própria eletricidade solar ou partilham-na em comunidades de energia. Mas os pedidos demoram até um ano a ser respondidos e os processos são burocráticos. Este projeto pede ao Governo que acelere as respostas para seis meses, crie um único portal digital, deixe as comunidades de energia terem membros mais afastados e promova o uso de baterias. É uma recomendação.",
+ "context": "A Iniciativa Liberal cita relatórios da ERSE de 2024 que mostram o triplicar das unidades de autoconsumo em três anos e quase quadruplicar da potência instalada. Considera que a procura existe mas o crescimento é travado por burocracia, prazos incertos, duplicidade de procedimentos e critérios geográficos restritivos, e invoca o apagão de 28 de abril de 2025 e as metas do PNEC 2030 para defender a produção descentralizada.",
+ "analysis": "Pontos fortes: as medidas são concretas e focadas em obstáculos administrativos identificados, com baixo custo direto aparente. Fragilidades: reduzir o prazo da DGEG sem reforço de meios pode não ser exequível; flexibilizar os critérios geográficos das CER exige ponderar a articulação com as regras da rede de distribuição, aspeto não discutido; e a promoção de baterias pode implicar apoios financeiros que o texto não detalha. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A plataforma única e o incentivo a baterias podem implicar despesa pública, mas não são indicados montantes nem instrumentos."
+ },
+ "affected": [
+  "autoconsumidores e promotores de UPAC",
+  "comunidades de energia renovável",
+  "DGEG",
+  "famílias e empresas consumidoras de eletricidade"
+ ],
+ "categories": [
+  "energia",
+  "ambiente",
+  "administracao"
+ ],
+ "tags": [
+  "autoconsumo",
+  "comunidades de energia",
+  "UPAC",
+  "DGEG",
+  "armazenamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Correções ao IVA reduzido na construção de habitação",
+ "summary": "O Projeto de Lei n.º 699/XVII/1.ª, da Iniciativa Liberal, propõe duas correções ao regime de IVA a 6% na construção e reabilitação de habitação própria e permanente e para arrendamento moderado, aprovado pelo Decreto-Lei n.º 97/2026. Primeiro, alarga a verba 2.42 da Lista I do Código do IVA à promoção imobiliária, e não apenas às empreitadas, quando incida sobre imóveis não isentos de IVA destinados a venda para habitação própria e permanente ou a arrendamento habitacional, com os mesmos limites de preço e renda. Segundo, estende o regime transitório às operações urbanísticas cujos procedimentos de licenciamento ou comunicação prévia estejam pendentes de avaliação ou decisão entre 25 de setembro de 2025 e 31 de dezembro de 2029, com exigibilidade do imposto a partir de 1 de janeiro de 2026. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga a taxa reduzida de IVA à promoção imobiliária de imóveis destinados a venda para habitação própria e permanente ou a arrendamento habitacional.",
+  "Mantém os limites de preço de venda e de renda mensal já previstos no Decreto-Lei n.º 97/2026.",
+  "Estende o regime transitório às operações urbanísticas com procedimentos pendentes entre 25 de setembro de 2025 e 31 de dezembro de 2029.",
+  "Exige menção expressa à taxa aplicável no contrato-promessa ou no título aquisitivo.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O Governo aprovou um IVA de 6%, em vez de 23%, para construir e reabilitar casas para habitação própria ou arrendamento acessível. Este projeto corrige duas falhas: o IVA reduzido passaria também a valer para os promotores imobiliários que vendem essas casas, e não só para os empreiteiros que as constroem, e abrangeria também as obras cujo licenciamento já estava em curso, para que ninguém seja penalizado pela demora das câmaras.",
+ "context": "A Iniciativa Liberal apoia a redução do IVA, de 23% para 6%, na construção de habitação, mas alerta para ambiguidades que geram insegurança jurídica. Recorda o caso das Áreas de Reabilitação Urbana, em que a Autoridade Tributária e uma jurisprudência uniformizada em março de 2025 exigiram uma Operação de Reabilitação Urbana aprovada, originando liquidações adicionais a 23% sobre obras concluídas. Quer evitar que o novo regime sofra das mesmas patologias.",
+ "analysis": "Pontos fortes: corrige uma assimetria entre empreiteiros e promotores e reduz o risco de litígio, protegendo quem já iniciou procedimentos. Fragilidades: alargar o benefício à promoção imobiliária e a processos pendentes aumenta a perda de receita, sem estimativa no texto; a baixa de IVA pode ser parcialmente absorvida em preços sem garantia de que se traduza em habitação mais acessível; e a extensão a processos pendentes pode beneficiar operações que dispensariam o incentivo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Alargar a taxa de IVA de 6% à promoção imobiliária e a processos pendentes reduz a receita de IVA; o texto não quantifica a perda."
+ },
+ "affected": [
+  "promotores imobiliários",
+  "construtores e empreiteiros",
+  "famílias compradoras de habitação própria e permanente",
+  "arrendatários e senhorios",
+  "câmaras municipais"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "IVA reduzido",
+  "construção de habitação",
+  "promoção imobiliária",
+  "arrendamento acessível",
+  "reabilitação urbana"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

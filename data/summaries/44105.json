@@ -1,0 +1,39 @@
+{
+ "short_title": "Proibir o uso não profissional de produtos com glifosato",
+ "summary": "O projeto de lei do BE altera o Decreto-Lei n.º 101/2009, de 11 de maio, que regula o uso não profissional de produtos fitofarmacêuticos em ambiente doméstico. Acrescenta ao artigo 3.º um n.º 3 que exclui da autorização para uso não profissional os fitofármacos que contêm glifosato. A lei entra em vigor 90 dias após a publicação. O proponente argumenta que qualquer cidadão, sem formação nem equipamento de proteção, pode aplicar glifosato, o que representa um risco acrescido para a saúde dos utilizadores e para o ecossistema, e recorda a classificação do herbicida como provavelmente cancerígeno em humanos.",
+ "key_points": [
+  "Acrescenta o n.º 3 ao artigo 3.º do Decreto-Lei n.º 101/2009, excluindo os produtos com glifosato da autorização para uso não profissional.",
+  "Visa a proibição da utilização de glifosato por particulares, em ambiente doméstico.",
+  "Entra em vigor 90 dias após a publicação."
+ ],
+ "plain_language": "O Bloco de Esquerda quer proibir que os particulares usem herbicidas com glifosato em casa, em jardins e hortas, porque qualquer pessoa os pode comprar e aplicar sem formação nem proteção. O uso profissional não seria visado por esta proposta.",
+ "context": "O proponente indica que o glifosato foi classificado pela Organização Mundial de Saúde como provavelmente cancerígeno em humanos, é o herbicida mais vendido no país e de venda livre, e que a sua aplicação por pessoas sem formação ou equipamento de proteção constitui um risco acrescido. Faz parte de um pacote de três projetos sobre glifosato.",
+ "analysis": "A medida é focada e fácil de executar, ao atuar sobre a autorização de uso doméstico, onde a ausência de formação é mais evidente. Contudo, o texto não prevê período de escoamento de stocks, fiscalização nem sanções, e não discute alternativas para os utilizadores domésticos. A fundamentação baseia-se numa classificação de risco que o proponente reconhece ser discutida, sem avaliar a evidência contrária. O impacto no setor retalhista e na agricultura familiar não é analisado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas; o impacto orçamental direto parece limitado, mas não é quantificado."
+ },
+ "affected": [
+  "consumidores",
+  "jardineiros e hortelões amadores",
+  "retalhistas de produtos fitofarmacêuticos"
+ ],
+ "categories": [
+  "saude",
+  "consumidores",
+  "ambiente"
+ ],
+ "tags": [
+  "glifosato",
+  "uso doméstico",
+  "herbicidas",
+  "fitofarmacêuticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

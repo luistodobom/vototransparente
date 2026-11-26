@@ -1,0 +1,45 @@
+{
+ "short_title": "Alterações ao regime de TVDE",
+ "summary": "O CHEGA propõe alterar a Lei n.º 45/2018 (regime do transporte em veículos descaracterizados, TVDE), mexendo nos artigos 2.º, 10.º, 12.º, 15.º e 17.º. Entre as medidas: o serviço inicia-se com a aceitação do pedido pelo motorista e o preço deve refletir o serviço desde então; empresas de táxi não podem operar também em plataformas TVDE; motoristas devem dominar a língua portuguesa e ter certificado de formação do IMT; limite de idade dos veículos (7 anos, 9 anos para os mais exigentes em normas EURO e 12 para elétricos e híbridos); publicidade nos veículos e CCTV; tarifas que cubram os custos com acréscimo de 25% em noite, fins de semana e feriados; taxa de intermediação até 15% do valor sem IVA; e obrigação de sede ou estabelecimento fixo em Portugal e de enviar os contratos à Autoridade da Mobilidade e dos Transportes.",
+ "key_points": [
+  "Preço reflete o serviço desde a aceitação do pedido, e empresas de táxi não podem operar também em TVDE.",
+  "Motoristas devem dominar a língua portuguesa e ter certificado de formação rodoviária do IMT.",
+  "Limites de idade dos veículos: 7 anos, ou 9 anos (EURO mais exigentes) e 12 anos (elétricos e híbridos).",
+  "Taxa de intermediação das plataformas limitada a 15% do valor da viagem sem IVA.",
+  "Tarifas cobrem custos, com acréscimo de 25% em trabalho noturno, fins de semana e feriados.",
+  "Plataformas com sede em Portugal ou estabelecimento fixo de atendimento e contratos enviados à autoridade de mobilidade."
+ ],
+ "plain_language": "A proposta muda as regras do TVDE: limita a comissão das plataformas a 15%, exige que os motoristas falem português e tenham formação, fixa idades máximas para os carros, obriga as plataformas a ter sede ou balcão em Portugal e proíbe empresas de táxi de operarem também como TVDE.",
+ "context": "O CHEGA refere queixas de motoristas e clientes, como cancelamentos, faturação indevida e falta de resposta a reclamações, seis anos após a Lei n.º 45/2018. Cita ainda a diretiva europeia de 2024 sobre condições de trabalho em plataformas, e defende que a lei acompanhe a evolução do setor e proteja consumidores e operadores.",
+ "analysis": "A proposta tenta equilibrar proteção de consumidores, condições dos motoristas e regulação das plataformas, com medidas concretas como o teto de comissão. Contudo, vários pontos são controversos: a exigência de domínio da língua portuguesa carece de critério de verificação; a proibição de acumulação dos táxis com TVDE restringe a liberdade empresarial; o teto de 15% pode ter efeito nos preços e na oferta. A fixação de tarifas pelo IMT trimestralmente e a coexistência com a livre fixação de preços são pouco claras.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica. Obrigações adicionais de licenciamento, fiscalização e a emissão de certificados pelo IMT podem implicar custos administrativos, sem estimativa."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "plataformas eletrónicas",
+  "operadores de TVDE",
+  "utilizadores",
+  "empresas de táxi"
+ ],
+ "categories": [
+  "transportes",
+  "trabalho",
+  "consumidores"
+ ],
+ "tags": [
+  "TVDE",
+  "plataformas digitais",
+  "Lei 45/2018",
+  "taxa de intermediação",
+  "transporte de passageiros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

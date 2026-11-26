@@ -1,0 +1,38 @@
+{
+ "short_title": "Regulamentação da profissão de psicomotricidade (Chega)",
+ "summary": "Projeto de resolução do Chega que recomenda ao Governo que proceda à regulamentação da profissão de psicomotricista, dada a sua relevância na área especializada da saúde. O texto refere que existem mais de 2500 psicomotricistas em Portugal, com licenciatura em quatro universidades, integrados no SNS em equipas multidisciplinares de pediatria, pedopsiquiatria e saúde mental. Invoca a petição subscrita por 10.271 cidadãos e queixas sobre falsos prestadores sem qualificações. A recomendação é de uma só medida e não vincula o Governo.",
+ "key_points": [
+  "Recomenda ao Governo a regulamentação da profissão de psicomotricista.",
+  "Invoca a petição subscrita por 10.271 cidadãos.",
+  "Aponta riscos para os utentes causados por falsos prestadores sem qualificações."
+ ],
+ "plain_language": "A profissão de psicomotricista não está regulada em Portugal, o que permite que pessoas sem formação se apresentem como tal. O Chega pede ao Governo que regule a profissão para proteger os utentes. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente sublinha que existem mais de 2500 profissionais, reconhecidos pelos ministérios do Trabalho e da Saúde, e que, apesar de mais de quinze anos de esforços da associação do setor, a profissão continua sem regulamentação, com prejuízo para a segurança dos utentes.",
+ "analysis": "Pontos fortes: aborda um problema de proteção dos utentes e de reconhecimento de profissionais qualificados. Fragilidades: é uma recomendação muito genérica, sem definir o modelo (ordem, título, competências), prazos ou articulação com outras profissões da saúde. As alegações sobre falsos prestadores baseiam-se nos relatos da associação, sem dados verificáveis no texto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não identifica custos; a regulamentação poderia ter efeitos na contratação pública, mas não são estimados."
+ },
+ "affected": [
+  "psicomotricistas",
+  "utentes dos serviços de psicomotricidade",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "psicomotricidade",
+  "regulamentação profissional",
+  "SNS",
+  "petição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

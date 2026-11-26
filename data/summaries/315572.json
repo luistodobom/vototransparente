@@ -1,0 +1,37 @@
+{
+ "short_title": "Unidades de Cuidados na Maternidade no SNS",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo que, em articulação com as organizações de médicos e enfermeiros e com associações de utentes e de direitos no parto, crie um plano para incluir Unidades de Cuidados na Maternidade em unidades hospitalares do SNS com especialidade de Ginecologia/Obstetrícia. Estas unidades, apontadas para partos sem complicações, não substituiriam as unidades obstétricas convencionais. O texto cita a Associação Portuguesa dos Enfermeiros Obstetras e a Ordem dos Enfermeiros, que propõem estruturas deste tipo. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Criação de um plano para incluir Unidades de Cuidados na Maternidade em hospitais do SNS com Ginecologia/Obstetrícia.",
+  "Articulação com organizações de médicos, enfermeiros, associações de utentes e de direitos no parto.",
+  "As unidades seriam um complemento, não um substituto, das unidades obstétricas convencionais."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe que os hospitais do SNS com obstetrícia tenham também unidades pensadas para partos sem complicações, com maior papel dos enfermeiros obstetras. Não substituiriam as maternidades atuais, mas dariam mais escolha às mulheres. O Governo teria de preparar um plano, em diálogo com profissionais e utentes.",
+ "context": "O proponente defende mais investimento no SNS e uma reorganização que abra novos serviços em vez de fechar maternidades. Cita a APEO e a Ordem dos Enfermeiros, que consideram estas unidades uma forma de promover o parto normal, reduzir cesarianas e rentabilizar os enfermeiros especialistas.",
+ "analysis": "A proposta aposta numa solução defendida por entidades profissionais e recomendada pela OMS segundo a Ordem, aumentando a escolha e aproveitando recursos humanos. É muito genérica: não fixa prazos, locais, critérios de segurança nem transferência para o bloco obstétrico em caso de complicações. Não avalia custos nem a escassez de profissionais, que o próprio texto reconhece, e um plano sem calendário pode não ter efeitos concretos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Poderia haver investimento em instalações e equipamento, e a reorganização poderia aproveitar recursos existentes."
+ },
+ "affected": [
+  "grávidas e mulheres em trabalho de parto",
+  "enfermeiros especialistas em saúde materna e obstétrica",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "maternidade",
+  "parto normal",
+  "enfermeiros obstetras",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

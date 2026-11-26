@@ -1,0 +1,39 @@
+{
+ "short_title": "Isenção de imposto especial para espirituosas de cana-de-açúcar da Madeira",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que solicite à Comissão Europeia uma derrogação ao abrigo da Diretiva 92/83/CEE para isentar do imposto especial de consumo as bebidas espirituosas produzidas a partir de cana-de-açúcar na Região Autónoma da Madeira. O texto integral não estava disponível, pelo que este resumo se baseia apenas no título. Sendo um projeto de resolução, é uma recomendação não vinculativa dirigida ao Governo.",
+ "key_points": [
+  "Recomenda ao Governo que peça à Comissão Europeia uma derrogação ao abrigo da Diretiva 92/83/CEE.",
+  "A derrogação visaria isentar do imposto especial de consumo as bebidas espirituosas de cana-de-açúcar produzidas na Madeira."
+ ],
+ "plain_language": "O PS pede ao Governo que solicite à União Europeia autorização para que as bebidas alcoólicas feitas de cana-de-açúcar na Madeira, como o rum agrícola, não paguem o imposto especial sobre o consumo. O Governo não é obrigado a fazê-lo.",
+ "context": "O texto integral não foi disponibilizado, pelo que os motivos do proponente não podem ser indicados com rigor.",
+ "analysis": "O texto integral não foi analisado. Pelo título, a medida poderia apoiar a produção regional, mas implicaria perda de receita fiscal e depende de decisão da Comissão Europeia, sem garantia de aprovação. Não é possível avaliar fundamentação, âmbito ou limites sem o texto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção do imposto especial de consumo reduziria a receita fiscal sobre estas bebidas. O montante não consta do texto disponível."
+ },
+ "affected": [
+  "produtores de bebidas espirituosas da Madeira",
+  "consumidores",
+  "Região Autónoma da Madeira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "agricultura",
+  "internacional"
+ ],
+ "tags": [
+  "imposto especial de consumo",
+  "Madeira",
+  "cana-de-açúcar",
+  "derrogação",
+  "bebidas espirituosas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "title"
+ }
+}

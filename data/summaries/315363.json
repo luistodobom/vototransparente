@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas de emergência social para o distrito do Porto",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo a definição de medidas de emergência social para o distrito do Porto face à exclusão e pobreza extrema. Propõe o recenseamento e mapeamento, nos 60 dias seguintes à aprovação, das situações de pobreza extrema e a definição de linhas de intervenção; a intervenção de organismos competentes para impedir o abuso dos contratos CEI e CEI+, com medidas para os converter em contratos sem termo; e o reforço de meios e respostas públicas para pessoas em situação de sem-abrigo. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recenseamento e mapeamento das situações de pobreza extrema no distrito em 60 dias, com linhas de intervenção.",
+  "Intervenção contra o abuso dos contratos CEI e CEI+, com conversão em contratos de trabalho sem termo.",
+  "Reforço de medidas e meios públicos para pessoas em situação de sem-abrigo, envolvendo as várias instituições."
+ ],
+ "plain_language": "O PCP pede ao Governo que faça um levantamento das famílias em pobreza extrema no distrito do Porto, impeça o uso abusivo de contratos de emprego-inserção para desempregados e reforce o apoio a quem vive na rua. É uma recomendação, que o Governo pode não seguir.",
+ "context": "O proponente aponta indicadores de pobreza e exclusão no distrito, que tem mais de 1,8 milhões de residentes: um quarto dos beneficiários do RSI do país, desemprego de longa duração, baixos salários, custos de habitação elevados e despejos. Refere 1680 pessoas sem-abrigo na Área Metropolitana do Porto no final de 2023.",
+ "analysis": "A proposta parte de dados específicos e concretos e liga-os a medidas objetivas, como um prazo de 60 dias para o recenseamento. Fragilidades: as medidas são pouco detalhadas, sem meios, orçamento ou responsáveis; a conversão de contratos CEI em contratos sem termo coloca questões de legalidade no acesso ao emprego público que o texto não resolve; o âmbito num único distrito pode não ser o ideal para problemas estruturais que o próprio texto diz serem nacionais. Parte da fundamentação é mais ampla do que as medidas propostas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de respostas para sem-abrigo e a conversão de contratos implicam despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "pessoas em situação de pobreza extrema",
+  "pessoas sem-abrigo",
+  "desempregados com contratos CEI e CEI+",
+  "serviços públicos e IPSS do distrito do Porto"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [
+  "pobreza",
+  "sem-abrigo",
+  "contratos CEI",
+  "Porto",
+  "exclusão social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

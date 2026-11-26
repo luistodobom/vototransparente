@@ -1,0 +1,40 @@
+{
+ "short_title": "Unidade de neonatologia de Coimbra junto aos Covões",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que assuma, com a máxima brevidade, todas as diligências necessárias para localizar a nova unidade de neonatologia e de saúde materno-infantil de Coimbra nos terrenos adjacentes ao Hospital dos Covões. O texto aceita a fusão das maternidades Bissaya Barreto e Daniel de Matos numa única unidade, justificada pela queda da natalidade, e argumenta que a localização nos Covões reequilibraria a oferta de cuidados em Coimbra e evitaria a saturação de trânsito junto ao Pólo de Celas do CHUC. Refere o apoio da Câmara Municipal de Coimbra e da Comunidade Intermunicipal da Região de Coimbra. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Localizar a nova unidade de neonatologia e saúde materno-infantil nos terrenos adjacentes ao Hospital dos Covões.",
+  "Assumir com a máxima brevidade as diligências necessárias.",
+  "Aceita a fusão das duas maternidades de Coimbra numa só unidade."
+ ],
+ "plain_language": "O Bloco de Esquerda pede que a nova maternidade de Coimbra, que juntará as duas existentes, seja construída junto ao Hospital dos Covões e não junto ao polo de Celas dos hospitais universitários. Argumenta que isso evita o trânsito e dá mais peso a um hospital que tem perdido serviços. É apenas uma recomendação ao Governo.",
+ "context": "O BE explica que, na última década, os nascimentos não ultrapassaram os 5.000 por ano, cerca de 13 por dia, justificando a fusão das maternidades. Defende que a unidade deve ficar num hospital diferenciado e que servirá mais de 500.000 habitantes da região e dos distritos vizinhos, e invoca a opinião favorável da Câmara de Coimbra e da CIM.",
+ "analysis": "A proposta apresenta argumentos de acessibilidade, equilíbrio territorial e posições autárquicas. Mas a decisão de localização de uma unidade hospitalar envolve critérios clínicos, de custo e de articulação com serviços diferenciados, nomeadamente a proximidade a outros serviços do CHUC, que o texto não analisa, e não compara custos nem prazos das alternativas. Por ser resolução, é só uma recomendação, e o texto contém juízos qualitativos como hospital superconcentrado e desumanizado sem apoio em dados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A construção da nova unidade implica investimento público, mas o texto não apresenta valores nem compara os custos das localizações."
+ },
+ "affected": [
+  "grávidas e recém-nascidos da região de Coimbra",
+  "profissionais das maternidades",
+  "população da região Centro",
+  "Centro Hospitalar e Universitário de Coimbra"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "neonatologia",
+  "maternidade",
+  "coimbra",
+  "hospital dos covões",
+  "saúde materno-infantil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

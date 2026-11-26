@@ -1,0 +1,43 @@
+{
+ "short_title": "Subsídio de doença a 100% para tuberculose, cancro e doenças crónicas",
+ "summary": "Projeto de Lei do PCP que altera o regime jurídico de proteção na doença (Decreto-Lei n.º 28/2004) para reforçar o subsídio de doença dos doentes com tuberculose, doença oncológica e outras doenças crónicas geradoras de incapacidade para o trabalho. O montante diário passa a corresponder a 100% da remuneração de referência, deixa de haver período de espera e o subsídio mantém-se enquanto durar a incapacidade, sem os limites temporais gerais. As doenças crónicas abrangidas serão definidas pelo Governo, designadamente a doença oncológica. A entrada em vigor ocorre com o Orçamento do Estado posterior à publicação da lei.",
+ "key_points": [
+  "O subsídio de doença passa a 100% da remuneração de referência na tuberculose e em doenças crónicas, designadamente oncológicas.",
+  "Elimina-se o período de espera nestas situações.",
+  "O subsídio é pago enquanto durar a incapacidade, sem os limites temporais gerais.",
+  "O Governo define quais as doenças crónicas abrangidas.",
+  "Entrada em vigor com o Orçamento do Estado seguinte à publicação."
+ ],
+ "plain_language": "Quem está de baixa por cancro, tuberculose ou outra doença crónica que impeça de trabalhar passaria a receber 100% do ordenado de referência, desde o primeiro dia e durante o tempo que a incapacidade durar. Hoje, só na tuberculose existe um regime mais favorável, entre 80% e 100%. Caberia ao Governo definir que outras doenças crónicas entram.",
+ "context": "O proponente defende que os doentes oncológicos e crónicos estão numa situação de grande vulnerabilidade física, psicológica e financeira, com baixas longas e custos acrescidos de tratamentos. Considera que o subsídio de doença foi sendo reduzido em alterações legislativas anteriores e que só a tuberculose tem hoje um regime mais favorável.",
+ "analysis": "A medida reforça a proteção de doentes numa situação particularmente frágil e uniformiza o critério entre tuberculose e outras doenças graves. Fragilidades: o âmbito depende de definição posterior do Governo, o que cria incerteza sobre quem fica abrangido; a duração ilimitada e a taxa de 100% aumentam a despesa da Segurança Social sem estimativa de custo no texto; e não é discutida a articulação com a pensão de invalidez nem eventuais efeitos no comportamento dos beneficiários.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Subsídios mais elevados, sem período de espera e sem limite de duração aumentam a despesa do subsistema previdencial. O texto não apresenta estimativa de custos."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "doentes crónicos",
+  "doentes com tuberculose",
+  "trabalhadores em baixa médica",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "doenças crónicas",
+  "tuberculose",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

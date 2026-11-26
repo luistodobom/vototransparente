@@ -1,0 +1,42 @@
+{
+ "short_title": "Criar a Reserva Voluntária das Forças Armadas",
+ "summary": "O projeto de lei do Chega cria a Reserva Voluntária das Forças Armadas, alterando a Lei do Serviço Militar (Lei n.º 174/99). A Reserva é constituída por cidadãos com formação militar que se disponibilizem a ser convocados em situações de necessidade operacional, emergência nacional ou catástrofe, podendo integrá-la quem concluiu serviço efetivo em voluntariado, contrato ou contrato especial e militares dos quadros permanentes na reserva fora da efetividade. A inscrição depende de requerimento e de decisão do ramo, tem duração inicial de cinco anos, renovável, e implica treino periódico. Os reservistas podem ser convocados para serviço efetivo, têm direito a compensação financeira e a proteção laboral, e os empregadores ficam obrigados a dispensá-los, sendo compensados pelo Estado. O Governo regulamenta em 180 dias.",
+ "key_points": [
+  "Nova situação do serviço militar: a reserva voluntária, aditada ao artigo 2.º da Lei do Serviço Militar.",
+  "Integram-na antigos militares em voluntariado, contrato ou contrato especial e militares dos quadros permanentes na reserva fora da efetividade.",
+  "Inscrição por requerimento e decisão do ramo, por cinco anos renováveis, com treino e atualização periódicos.",
+  "Convocação em necessidade operacional, estado de sítio, emergência ou calamidade, exercícios e funções que exijam competências específicas.",
+  "Compensação financeira aos reservistas e proteção laboral, com dispensa obrigatória pelo empregador, compensado pelo Estado.",
+  "Regulamentação pelo Governo no prazo de 180 dias."
+ ],
+ "plain_language": "A proposta cria uma reserva de antigos militares que, voluntariamente, ficam disponíveis para voltar a servir em situações de emergência, catástrofe ou necessidade das Forças Armadas. Fazem treinos regulares, recebem uma compensação e não podem ser prejudicados no emprego. O Governo teria 180 dias para regulamentar.",
+ "context": "O proponente invoca o agravamento do contexto de segurança europeu e o reforço das reservas nos países aliados. Refere que os efetivos das Forças Armadas desceram de 42.265 militares em 2000 para 23.106 em 2024, e defende uma reserva voluntária como forma eficiente e financeiramente sustentável de reforçar a capacidade.",
+ "analysis": "A medida é concreta e usa um modelo com paralelos em países aliados, aproveitando militares já formados. Fragilidades: os custos de treino, compensação aos reservistas e aos empregadores não são estimados e ficam para diploma posterior; a dependência de regulamentação por portaria e diplomas futuros deixa indefinidos aspetos essenciais; a obrigação de os empregadores dispensarem os trabalhadores pode ter impacto em pequenas empresas; não é claro o efeito da reserva voluntária na falta de efetivos, que o texto atribui sobretudo à atratividade da carreira.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Treino periódico, compensação financeira aos reservistas e compensação aos empregadores implicam despesa pública. O texto remete os valores para diploma próprio."
+ },
+ "affected": [
+  "antigos militares e militares na reserva",
+  "Forças Armadas",
+  "empregadores dos reservistas"
+ ],
+ "categories": [
+  "defesa",
+  "trabalho",
+  "seguranca"
+ ],
+ "tags": [
+  "reserva voluntária",
+  "serviço militar",
+  "forças armadas",
+  "reservistas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Paridade e voto antecipado em mobilidade na Madeira",
+ "summary": "Proposta de Lei da Assembleia Legislativa da Madeira que procede à segunda alteração da Lei Eleitoral para o parlamento regional (Lei Orgânica n.º 1/2006), resultante do trabalho de uma comissão eventual com todos os partidos. Introduz paridade nas listas (mínimo de 40% de cada sexo, arredondado à unidade mais próxima, e no máximo dois candidatos consecutivos do mesmo sexo), com rejeição de toda a lista se não for corrigida no prazo. Cria o voto antecipado em mobilidade para residentes inscritos no recenseamento da Região, com mesas em câmaras municipais (onze na Madeira, dezoito no continente, nove nos Açores), pedido por via postal ou eletrónica entre o 14.º e o 10.º dia antes da eleição e voto no 7.º dia antes. Prevê matrizes em braille, revoga normas anteriores (incluindo o voto antecipado antigo dos artigos 85.º e 87.º), republica a lei em anexo e entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Paridade nas listas: mínimo de 40% de cada sexo e no máximo dois candidatos consecutivos do mesmo sexo; a lista não corrigida no prazo é rejeitada na totalidade.",
+  "Voto antecipado em mobilidade para residentes inscritos no recenseamento, mediante pedido entre o 14.º e o 10.º dia antes da eleição e voto no 7.º dia antes, em mesa à escolha do eleitor.",
+  "Mesas em mobilidade: onze na Madeira, dezoito no continente (sedes de distrito) e nove nos Açores (uma por ilha), desdobráveis acima de cerca de 500 eleitores e dispensáveis se não houver inscritos.",
+  "Procedimento com dois sobrescritos (branco e azul), vinheta de segurança, comprovativo de voto e recolha do material pelas forças de segurança; quem não votou antecipadamente pode votar no dia da eleição.",
+  "Matrizes em braille dos boletins de voto para eleitores com deficiência visual.",
+  "Altera 14 artigos, aditando cinco, revoga os artigos 85.º e 87.º, republica a lei em anexo e entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A proposta muda as regras das eleições para o parlamento da Madeira. As listas de candidatos passam a ter de incluir pelo menos 40% de homens e 40% de mulheres, sob pena de serem rejeitadas. Quem estiver fora da ilha poderá votar uma semana antes das eleições em câmaras municipais da Madeira, do continente e dos Açores, depois de pedir esse voto com antecedência. Os eleitores cegos poderão pedir um boletim em braille.",
+ "context": "O proponente apresenta a revisão como um marco de modernização e reforço democrático, alcançado por consenso alargado na Comissão Eventual para a Consolidação e Aprofundamento da Autonomia e Reforma do Sistema Político. Defende que a paridade promove representação equilibrada e que o voto em mobilidade aumenta a acessibilidade e a participação.",
+ "analysis": "Medidas apoiadas por todos os partidos representados e semelhantes a modelos já usados em eleições nacionais, como a paridade de 40% e o voto antecipado em mobilidade, com regras operacionais detalhadas (prazos, sobrescritos, atas, desdobramento de mesas). A rejeição de toda a lista por incumprimento da paridade é uma sanção severa, embora haja prazo de correção. O voto em mobilidade depende da administração eleitoral do Ministério da Administração Interna, das câmaras e das forças de segurança, com custos logísticos não quantificados, e limita-se a residentes inscritos na Região. A proposta altera também normas não essenciais (braille, identificação), e o texto não inclui estimativa de custos ou impacto. Por ser lei orgânica, exige maioria qualificada na Assembleia da República.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A organização de mesas de voto antecipado em câmaras municipais, o envio de boletins e a recolha de material pelas forças de segurança implicam custos logísticos, que o texto não quantifica."
+ },
+ "affected": [
+  "eleitores da Madeira",
+  "candidatos e partidos políticos",
+  "câmaras municipais",
+  "Comissão Nacional de Eleições",
+  "eleitores com deficiência visual"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos"
+ ],
+ "tags": [
+  "lei eleitoral",
+  "Madeira",
+  "paridade",
+  "voto antecipado",
+  "voto em mobilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

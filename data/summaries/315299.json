@@ -1,0 +1,39 @@
+{
+ "short_title": "Regulação do uso de partituras musicais: mediação e apoio",
+ "summary": "Este projeto de resolução do Livre recomenda ao Governo duas medidas sobre o uso de partituras musicais, no contexto das tarifas da AD EDIT, entidade de gestão coletiva de direitos de partituras. Primeiro, que crie um mecanismo de mediação entre a AD EDIT, bandas filarmónicas, orquestras, escolas de música, associações culturais, editoras, compositores e o Estado, para negociar condições justas de licenciamento de cópias de partituras, com reduções significativas para eventos de acesso livre, fins sociais, ensino e formação musical. Segundo, que apoie financeiramente as entidades culturais de base comunitária no acesso legal a partituras, com programas de incentivo à compra de originais e formação sobre direitos de autor. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda um mecanismo de mediação entre a AD EDIT, entidades culturais, editoras, compositores e o Estado.",
+  "Propõe reduções nas licenças para eventos livres, fins sociais e ensino musical.",
+  "Recomenda apoio financeiro às entidades de base comunitária para aceder legalmente a partituras.",
+  "Propõe incentivos à aquisição de originais e formação sobre direitos de autor."
+ ],
+ "plain_language": "Bandas e escolas de música dizem que pagar para copiar partituras é muito caro. O Livre pede ao Governo que ponha todos os envolvidos a negociar tarifas mais justas e que ajude financeiramente estas associações a comprar partituras originais. Não muda a lei; apenas recomenda ao Governo que aja.",
+ "context": "O proponente refere que a AD EDIT, constituída em 2023, gere direitos de partituras e que a legislação europeia exclui as partituras da cópia privada, exigindo autorização. Considera que é preciso conciliar a proteção dos autores com o acesso à cultura e a viabilidade das entidades sem fins lucrativos.",
+ "analysis": "A via da mediação preserva os direitos dos autores e responde às preocupações das associações, evitando alterar a lei. É, porém, menos vinculativa e pode não produzir resultados se a AD EDIT não aderir. O apoio financeiro, sem montante ou fonte definidos, tem impacto orçamental incerto. A proposta contrasta com projetos de lei que criam exceções diretas ao direito de autor.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recomendação de apoio financeiro às entidades culturais implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "bandas filarmónicas",
+  "escolas de música",
+  "associações culturais",
+  "compositores e editores"
+ ],
+ "categories": [
+  "cultura"
+ ],
+ "tags": [
+  "partituras",
+  "ad edit",
+  "direito de autor",
+  "bandas filarmónicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

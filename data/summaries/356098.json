@@ -1,0 +1,43 @@
+{
+ "short_title": "Fundo de Resgate Agrícola a fundo perdido pós-Kristin",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo a criação, com carácter excecional e temporário, do Fundo de Resgate Agrícola Kristin, destinado a explorações agrícolas, pecuárias e florestais afetadas pela tempestade. O apoio principal seria a fundo perdido, com o crédito apenas acessório. Propõe uma ajuda simplificada a 100% para prejuízos até 15.000 euros por exploração, paga em 30 dias, compensação de perdas de rendimento com quebras superiores a 30%, um programa de emergência pecuária, critérios de elegibilidade baseados em prova de dano efetivo, reforço dos serviços (CCDR, DRAP, IFAP) com prazos de 15 dias para vistoria e decisão, diferimento sem juros de obrigações fiscais e contributivas por pelo menos 12 meses e relatórios mensais públicos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de um fundo excecional com apoio prioritariamente a fundo perdido, e crédito apenas complementar.",
+  "Ajuda simplificada a 100% para prejuízos até 15.000 euros por exploração, paga em 30 dias.",
+  "Compensação para quebras de produção comprovadas superiores a 30%.",
+  "Programa de emergência pecuária com geradores, água, rações e apoio veterinário móvel.",
+  "Diferimento sem juros de IVA, IRS ou IRC agrícola e contribuições por, pelo menos, 12 meses, e relatório mensal público."
+ ],
+ "plain_language": "O Chega pede ao Governo que ajude os agricultores e pecuaristas atingidos pela tempestade Kristin com dinheiro que não tem de ser devolvido, pagamentos rápidos e adiamento de impostos, em vez de empréstimos. O Governo não é obrigado a aceitar.",
+ "context": "O proponente descreve prejuízos agrícolas estimados em várias dezenas de milhões de euros, estufas e instalações pecuárias destruídas e animais sem alimento. Critica o pacote de recuperação anunciado, de cerca de 2,5 mil milhões de euros, por depender de instrumentos reembolsáveis e de verbas do PEPAC já quase comprometidas.",
+ "analysis": "A proposta é detalhada e define prazos, limiares e mecanismos de controlo, o que facilita o escrutínio. Fragilidades: não quantifica a dotação do fundo nem a origem do financiamento, e prazos de 15 e 30 dias podem ser difíceis de cumprir com os recursos atuais. A validação por amostragem e a ajuda declarativa aumentam o risco de abuso. Os dados de prejuízos provêm de notícias citadas e a medida é apenas uma recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Subvenções a fundo perdido e compensações aumentam a despesa, e o diferimento de obrigações fiscais e contributivas por 12 meses ou mais afeta a receita no curto prazo. O texto não indica montantes."
+ },
+ "affected": [
+  "agricultores",
+  "pecuaristas",
+  "produtores florestais",
+  "serviços do Ministério da Agricultura e CCDR"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [
+  "tempestade Kristin",
+  "fundo perdido",
+  "agricultura",
+  "pecuária",
+  "calamidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

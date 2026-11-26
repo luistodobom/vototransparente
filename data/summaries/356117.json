@@ -1,0 +1,40 @@
+{
+ "short_title": "Expropriações: competência das assembleias municipais",
+ "summary": "A proposta de lei do Governo pede à Assembleia da República autorização legislativa para alterar pela quinta vez o Código das Expropriações. O objetivo é que a declaração de utilidade pública da expropriação de imóveis e direitos inerentes, e da constituição de servidões administrativas, quando da iniciativa da administração local autárquica, passe a ser emitida por deliberação da assembleia municipal, sob proposta da entidade expropriante. Seria alterado o artigo 14.º do Código. A autorização tem a duração de 90 dias e o texto inclui o decreto-lei autorizado.",
+ "key_points": [
+  "Autoriza o Governo a alterar o Código das Expropriações (Lei n.º 168/99).",
+  "A declaração de utilidade pública passa a caber à assembleia municipal quando a expropriação é de iniciativa autárquica.",
+  "Aplica-se também à constituição de servidões administrativas.",
+  "Altera o artigo 14.º do Código, sob proposta da entidade expropriante.",
+  "A autorização legislativa tem duração de 90 dias."
+ ],
+ "plain_language": "Quando uma câmara municipal quiser expropriar um terreno ou imóvel, a decisão de declarar que isso é de utilidade pública passaria a ser tomada pela assembleia municipal da respetiva zona. Para isso, o Governo pede ao Parlamento licença para alterar a lei das expropriações, num prazo de 90 dias.",
+ "context": "O Governo invoca o objetivo de aprofundar a descentralização e a coesão territorial, entregando competências a quem melhor conhece cada território. Lembra que as assembleias municipais já decidem em planos de urbanização, de pormenor e em projetos do PRR, e defende maior proximidade, escrutínio e agilidade.",
+ "analysis": "Transferir a decisão para o órgão deliberativo municipal dá maior escrutínio democrático local e é coerente com competências que as assembleias já têm. Em contrapartida, pode criar risco de conflito de interesses, quando a maioria política municipal coincide com o executivo proponente, e a fundamentação apresentada é genérica, sem avaliação do impacto nos prazos nem nos direitos dos proprietários. Sendo uma autorização legislativa, o conteúdo final dependerá do decreto-lei do Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida altera a competência de decisão e não prevê, no texto, despesa ou receita diretas."
+ },
+ "affected": [
+  "municípios e assembleias municipais",
+  "proprietários de imóveis expropriados",
+  "entidades expropriantes"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "expropriações",
+  "assembleias municipais",
+  "descentralização",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

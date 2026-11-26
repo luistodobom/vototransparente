@@ -1,0 +1,39 @@
+{
+ "short_title": "Clima estável como Património Comum da Humanidade (PAN)",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo três ações: desenvolver as ações necessárias para que o Estado português reconheça, no âmbito do património imaterial natural, o clima estável como património comum da humanidade; promover diplomaticamente, junto das Nações Unidas, o reconhecimento do clima estável como bem jurídico e de um modelo de governação global desse bem, incluindo o valor económico das externalidades positivas e negativas; e fazer o mesmo para o conceito de espaço operacional seguro para a humanidade, com base nos limites planetários do Stockholm Resilience Centre. O texto define clima estável como valores inferiores a 350 partes por milhão de CO2 equivalente. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconhecimento nacional do clima estável como património comum da humanidade, no âmbito do património imaterial natural.",
+  "Ação diplomática na ONU para classificar o clima estável como bem jurídico e criar um modelo de governação global.",
+  "Ação diplomática para o reconhecimento do espaço operacional seguro para a humanidade, com base nos limites planetários.",
+  "Consideração do valor económico das externalidades positivas e negativas."
+ ],
+ "plain_language": "O PAN quer que Portugal reconheça o clima estável como um bem de toda a humanidade e que leve esse tema às Nações Unidas, com regras globais para o proteger. Pede o mesmo para um conjunto de limites ambientais do planeta, que considera essenciais. É uma recomendação ao Governo, sem força obrigatória.",
+ "context": "O PAN argumenta que a crise climática resulta de o verdadeiro custo ambiental e social das emissões não estar refletido nos preços, e defende dar valor económico a um clima estável. Cita os limites planetários do Stockholm Resilience Centre, de que quatro dos nove já foram ultrapassados desde 2009.",
+ "analysis": "A iniciativa vai mais longe do que as restantes propostas sobre o mesmo tema ao incluir o conceito de espaço operacional seguro e uma governação global com valorização económica das externalidades. Esse alargamento é ambicioso e pouco concretizado: o texto não explica como se mediria ou aplicaria esse valor, nem que mecanismo da ONU seria usado. A definição numérica de clima estável (350 ppm) é mais exigente do que os níveis atuais, pelo que o conceito é sobretudo programático. O texto tem erros de redação, sem impacto no sentido.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa recomenda ações de reconhecimento e diplomáticas e não cria despesa ou receita identificável no texto."
+ },
+ "affected": [
+  "Governo e diplomacia portuguesa",
+  "população em geral"
+ ],
+ "categories": [
+  "ambiente",
+  "internacional"
+ ],
+ "tags": [
+  "clima estável",
+  "limites planetários",
+  "onu",
+  "externalidades",
+  "governação global"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

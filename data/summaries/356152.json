@@ -1,0 +1,39 @@
+{
+ "short_title": "Modelos inovadores de cuidados domiciliários",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo três medidas: avaliar e implementar técnicas organizacionais e de gestão inovadoras nas unidades de cuidados domiciliários, privilegiando trabalho em rede, flexível e com estruturas horizontais; implementar um projeto piloto que integre redes de apoio de vizinhança nas equipas multidisciplinares de cuidados domiciliários, centrado na reabilitação e na autonomia do doente; e apresentar à Assembleia da República um relatório final sobre o piloto, com recomendações para eventual expansão nacional. Inspira-se em modelos de equipas pequenas e autogeridas de países como os Países Baixos.",
+ "key_points": [
+  "Avaliar e implementar modelos de gestão inovadores, em rede e flexíveis, nos cuidados domiciliários.",
+  "Lançar um projeto piloto que integre redes de vizinhança e voluntários nas equipas multidisciplinares.",
+  "Apresentar à Assembleia da República um relatório final com recomendações de eventual expansão."
+ ],
+ "plain_language": "O LIVRE propõe testar um novo modo de prestar cuidados em casa, com equipas pequenas que organizam o seu próprio trabalho e contam com a ajuda de vizinhos e voluntários. Depois do teste, o Governo diria ao Parlamento se valeria a pena alargar o modelo. É uma recomendação.",
+ "context": "O LIVRE considera que o modelo atual de cuidados continuados integrados, apesar da evolução desde 2006, tem limitações na personalização e na eficiência. Refere experiências nos Países Baixos com equipas de 8 a 12 profissionais autogeridas, que indica terem reduzido custos operacionais até 30%.",
+ "analysis": "A proposta é prudente ao pedir um piloto com avaliação em vez de uma mudança generalizada. Fragilidades: a poupança de até 30% vem de uma fonte jornalística sobre outro contexto e pode não ser transferível; não define locais, dimensão, financiamento, critérios de avaliação nem calendário; e a integração de voluntários levanta questões de responsabilidade e formação não abordadas. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O piloto implica algum custo de implementação, e o texto invoca possíveis poupanças futuras, mas não apresenta montantes nem estimativas para Portugal."
+ },
+ "affected": [
+  "utentes de cuidados domiciliários",
+  "profissionais de cuidados continuados",
+  "voluntários e redes de vizinhança",
+  "cuidadores informais"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "cuidados domiciliários",
+  "cuidados continuados",
+  "projeto piloto",
+  "redes de vizinhança"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

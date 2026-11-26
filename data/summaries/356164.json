@@ -1,0 +1,39 @@
+{
+ "short_title": "Promoção estruturada da dádiva voluntária e regular de sangue",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo três medidas para promover a dádiva voluntária e regular de sangue. A primeira é desenvolver, com os parceiros sociais, medidas que incentivem as entidades empregadoras a facilitar a dádiva, incluindo divulgação de informação, brigadas móveis e gestão de horários. A segunda é reforçar a articulação entre o Instituto Português do Sangue e da Transplantação, instituições de ensino superior, associações académicas e empregadores para criar programas regulares de colheita. A terceira é desenvolver uma estratégia nacional de renovação geracional de dadores, com campanhas dirigidas a jovens adultos e estudantes.",
+ "key_points": [
+  "Incentivar as entidades empregadoras a facilitar a dádiva de sangue, com informação, brigadas móveis e gestão de horários.",
+  "Reforçar a articulação entre o IPST, o ensino superior, as associações académicas e os empregadores.",
+  "Criar programas regulares de colheita de sangue.",
+  "Desenvolver uma estratégia nacional de renovação geracional de dadores, com campanhas para jovens."
+ ],
+ "plain_language": "O PS pede ao Governo que ajude a que mais pessoas, sobretudo jovens, doem sangue com regularidade. Isso passaria por facilitar a doação nos locais de trabalho, organizar colheitas nas escolas e universidades e fazer campanhas dirigidas aos mais novos. É apenas uma recomendação ao Governo.",
+ "context": "O PS destaca que a dádiva de sangue é essencial ao SNS e que, apesar do sentido cívico da população, continuam a verificar-se períodos de insuficiência das reservas. Aponta o envelhecimento da população e a necessidade de renovar os dadores com jovens para garantir a sustentabilidade do sistema.",
+ "analysis": "A proposta aponta um problema real de sustentabilidade, mas as medidas são muito gerais: não há metas, calendário, orçamento nem indicadores, e o texto não apresenta dados sobre o número de dadores, a idade média ou a dimensão das insuficiências. Ao pedir incentivos às entidades empregadoras, não esclarece se haveria obrigações ou benefícios para empresas. Por ser uma resolução, não vincula o Governo e a sua execução depende da vontade política e da capacidade do IPST.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; campanhas, brigadas móveis e programas de colheita implicariam alguma despesa, não especificada."
+ },
+ "affected": [
+  "Dadores de sangue",
+  "Jovens e estudantes",
+  "Entidades empregadoras",
+  "IPST e SNS"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "dadores",
+  "IPST",
+  "jovens"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

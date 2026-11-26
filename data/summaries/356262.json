@@ -1,0 +1,39 @@
+{
+ "short_title": "Tabela de rendas máximas para novos contratos",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo a criação de um mecanismo de controlo das rendas dos novos contratos de arrendamento. Concretamente, pede que, em articulação com o Instituto da Habitação e da Reabilitação Urbana e com a Associação Nacional de Municípios Portugueses, seja criada uma tabela com valores máximos de renda mensal. A tabela teria em conta fatores como a tipologia, a área, a qualidade e o estado da construção, a eficiência energética, a iluminação e ventilação naturais, as características da cozinha e das instalações sanitárias, a qualidade das partes comuns e a localização. O texto critica a redução fiscal sobre rendas e os apoios ao arrendamento por poderem ser absorvidos pelos senhorios.",
+ "key_points": [
+  "Criação de uma tabela de valores máximos de renda mensal para novos contratos de arrendamento.",
+  "Elaboração em articulação com o IHRU e a Associação Nacional de Municípios Portugueses.",
+  "Critérios objetivos: tipologia, área, estado da construção, eficiência energética, localização, entre outros.",
+  "Alternativa ao incentivo fiscal à renda dita moderada até 2300 euros."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o Governo crie uma tabela oficial com o valor máximo que se pode pedir de renda numa casa nova no mercado de arrendamento, calculado de acordo com características da casa e da zona. O objetivo é travar a subida das rendas. É apenas uma recomendação ao Governo.",
+ "context": "O proponente aponta uma crise de acesso à habitação e cita dados do INE segundo os quais, no primeiro trimestre de 2025, a renda mediana de novos contratos subiu 10,0% e o número de novos contratos desceu 10,4%. Argumenta que a descida de impostos para senhorios e os apoios às rendas podem ser absorvidos por aumentos de renda.",
+ "analysis": "A medida tem a vantagem de procurar um critério objetivo e transparente para as rendas, o que poderia reduzir a imprevisibilidade para os inquilinos. As fragilidades são a ausência de metodologia, de mecanismo de fiscalização e de sanções, e o risco, frequentemente invocado em debates sobre tetos de renda, de reduzir a oferta de casas para arrendar, algo que o texto não discute. Sendo um projeto de resolução, não obriga o Governo. A afirmação sobre o efeito da redução fiscal baseia-se num relatório citado mas não demonstrada no texto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação e gestão da tabela implica custos administrativos não quantificados; o texto não estima efeitos orçamentais."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "IHRU e municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores"
+ ],
+ "tags": [
+  "arrendamento",
+  "controlo de rendas",
+  "IHRU",
+  "renda máxima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

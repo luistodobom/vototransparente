@@ -1,0 +1,37 @@
+{
+ "short_title": "Suspender reuniões das comissões durante o Orçamento do Estado para 2021",
+ "summary": "O Presidente da Assembleia da República propõe um projeto de deliberação que suspende as reuniões das comissões parlamentares durante a apreciação na especialidade da Proposta de Lei do Orçamento do Estado para 2021, até à votação final global. Excecionam-se as reuniões necessárias à apreciação do Orçamento ou sobre assuntos inadiáveis ou urgentes, como a resposta à pandemia de COVID-19. As comissões podem ainda reunir sobre o Estatuto dos Deputados, escrutínio de iniciativas europeias, a dimensão parlamentar da Presidência Portuguesa do Conselho da União Europeia e outras matérias consensuais. A Comissão Eventual de acompanhamento das medidas de resposta à pandemia pode prosseguir os trabalhos.",
+ "key_points": [
+  "Suspende as reuniões das comissões durante a especialidade do Orçamento do Estado para 2021.",
+  "Exceciona reuniões sobre o Orçamento e sobre assuntos inadiáveis ou urgentes, como a COVID-19.",
+  "Permite reuniões sobre o Estatuto dos Deputados, escrutínio europeu e Presidência Portuguesa da UE.",
+  "Mantém em funcionamento a Comissão Eventual de acompanhamento da pandemia."
+ ],
+ "plain_language": "Enquanto o Orçamento do Estado para 2021 é discutido em pormenor, as comissões do Parlamento deixam de reunir para outros assuntos, para que os deputados possam acompanhar o Orçamento. Há exceções para temas urgentes, como a pandemia, e para alguns trabalhos específicos.",
+ "context": "O texto justifica a medida com os trabalhos de apreciação da Proposta de Lei do Orçamento do Estado para 2021, o interesse dos deputados em acompanhá-los, nos termos do artigo 206.º do Regimento, e o calendário fixado para o processo orçamental.",
+ "analysis": "A medida é prática e evita a sobreposição de reuniões durante um período de intensa atividade parlamentar. Em contrapartida, atrasa o trabalho legislativo e de fiscalização das comissões, e a exceção de assuntos inadiáveis ou urgentes deixa margem de apreciação sobre o que se qualifica como tal. Dependendo do consenso dos grupos parlamentares para outras matérias, pode haver divergências na aplicação. O texto não indica a duração exata da suspensão.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de organização interna dos trabalhos parlamentares, sem impacto financeiro indicado."
+ },
+ "affected": [
+  "deputados",
+  "comissões parlamentares"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "comissões parlamentares",
+  "orçamento do estado 2021",
+  "regimento",
+  "calendário parlamentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

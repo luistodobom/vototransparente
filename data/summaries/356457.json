@@ -1,0 +1,41 @@
+{
+ "short_title": "Concorrência: processos pendentes e prazos de prescrição mais longos",
+ "summary": "Projeto de Lei do CHEGA que estende a aplicação da Lei n.º 17/2022 (que alterou o regime jurídico da concorrência) aos processos pendentes à data da sua entrada em vigor e aumenta os prazos de prescrição previstos no artigo 74.º da Lei n.º 19/2012. Passa a haver prazos de quatro anos para as contraordenações das alíneas h) a k) do n.º 1 do artigo 68.º e de seis anos para as restantes. O prazo de prescrição das sanções passa a seis anos após a decisão se tornar definitiva, ou quatro anos nos casos previstos em certos números do artigo 69.º. A lei entraria em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Aplicar a Lei n.º 17/2022 aos processos de concorrência pendentes.",
+  "Fixar prazo de prescrição de quatro anos para as infrações das alíneas h) a k) do n.º 1 do artigo 68.º e de seis anos para as restantes.",
+  "Fixar em seis anos o prazo de prescrição das sanções (quatro anos nos casos dos n.os 6, 10 e 11 do artigo 69.º).",
+  "Entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O CHEGA quer que as regras mais recentes de combate a práticas anticoncorrenciais passem a valer também para processos que ainda estão em curso, e que as infrações e as coimas demorem mais tempo a prescrever. O objetivo é evitar que empresas escapem às multas por demora processual, como aconteceu no caso conhecido como cartel da banca.",
+ "context": "O proponente aponta o caso do cartel da banca, em que as coimas prescreveram, como exemplo de fragilidades do regime, e cita alertas da Autoridade da Concorrência. Argumenta que a não aplicação da Lei n.º 17/2022 a processos pendentes e o uso de expedientes dilatórios comprometem a eficácia sancionatória.",
+ "analysis": "A proposta responde a um problema real de prescrição, mas levanta questões jurídicas relevantes: aplicar prazos mais longos a processos pendentes pode colidir com princípios de proteção da confiança e de não retroatividade em matéria sancionatória, o que o texto não discute. A exposição refere também impedir que recursos levem à prescrição, mas o articulado só altera prazos e não prevê regras novas sobre suspensão. A redação por remissão a números por especificar dificulta a leitura do efeito concreto.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prazos mais longos poderiam aumentar a cobrança de coimas, mas o texto não apresenta estimativa."
+ },
+ "affected": [
+  "Empresas sob investigação por práticas anticoncorrenciais",
+  "Autoridade da Concorrência",
+  "Consumidores"
+ ],
+ "categories": [
+  "consumidores",
+  "justica",
+  "economia"
+ ],
+ "tags": [
+  "concorrência",
+  "prescrição",
+  "coimas",
+  "cartel da banca",
+  "Autoridade da Concorrência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

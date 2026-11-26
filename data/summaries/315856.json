@@ -1,0 +1,37 @@
+{
+ "short_title": "Avaliar comparticipação de dispositivos de avanço mandibular no SNS",
+ "summary": "O projeto de resolução do PS recomenda ao Governo que avalie a comparticipação, pelo Serviço Nacional de Saúde, de dispositivos de avanço mandibular (DAM) para doentes com síndrome de apneia obstrutiva do sono, quando referenciados por especialistas da área. Os DAM são apresentados como alternativa terapêutica à terapia de pressão positiva contínua (CPAP), indicados na apneia leve a moderada e para doentes que não respondem ou não toleram o CPAP. O texto refere que, em Portugal, estes dispositivos não são comparticipados e a escolha é inteiramente privada, e que dados de outros países europeus apontam poupanças em custo-benefício.",
+ "key_points": [
+  "Recomendar ao Governo a avaliação da comparticipação dos DAM pelo SNS.",
+  "Limitar a avaliação a doentes referenciados por especialistas da área.",
+  "Apresentar os DAM como alternativa ao CPAP para apneia leve a moderada ou quando o CPAP não é tolerado."
+ ],
+ "plain_language": "Quem sofre de apneia do sono usa muitas vezes uma máquina de ar com máscara, que nem todos toleram. Existem aparelhos orais alternativos, mas o SNS não paga por eles. O PS pede ao Governo que avalie se deve passar a comparticipá-los. É uma recomendação, não uma decisão.",
+ "context": "O proponente descreve a apneia obstrutiva do sono como frequente e subdiagnosticada, com cerca de um milhão de pessoas afetadas em Portugal segundo os dados referidos, e com impacto em acidentes de trabalho e de viação. Aponta a baixa adesão ao CPAP e a ausência de comparticipação dos DAM em Portugal.",
+ "analysis": "A proposta é prudente, pois pede apenas uma avaliação, e baseia-se numa alternativa terapêutica reconhecida. Fragilidades: o texto admite que não existem dados portugueses comparando CPAP e DAM, as poupanças citadas vêm de outros países sem detalhe, não define critérios clínicos, prazos nem custos, e é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A comparticipação poderia aumentar a despesa do SNS, mas o texto refere poupanças noutros países e não estima custos para Portugal."
+ },
+ "affected": [
+  "Doentes com apneia obstrutiva do sono",
+  "Serviço Nacional de Saúde",
+  "Médicos especialistas do sono"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "apneia do sono",
+  "dispositivos de avanço mandibular",
+  "comparticipação",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Avaliar classificação do arquivo do Jornal de Notícias",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que desenvolva as diligências necessárias para avaliar a possível classificação do arquivo do Jornal de Notícias, tendo em conta a sua extensão editorial, administrativa, redatorial, gráfica, fotográfica e documental. Não determina a classificação em si, apenas a sua avaliação. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que avalie a possível classificação do arquivo do Jornal de Notícias.",
+  "A avaliação deve considerar a dimensão editorial, administrativa, redatorial, gráfica, fotográfica e documental do arquivo.",
+  "Trata-se de avaliar a classificação, não de a decretar."
+ ],
+ "plain_language": "O PS pede ao Governo que estude se o arquivo histórico do Jornal de Notícias, fundado em 1888, deve ser classificado como património, tal como aconteceu recentemente com o arquivo do Diário de Notícias. A decisão final fica com o Governo.",
+ "context": "O proponente sublinha a antiguidade do jornal, a sua memória fotográfica e regional do Norte, o risco de dispersão do acervo apontado pelo Conselho de Redação e o precedente da classificação do arquivo do Diário de Notícias sete meses antes.",
+ "analysis": "A iniciativa tem custo reduzido e aproveita um precedente recente de classificação de arquivo de imprensa. Fragilidades: é apenas um pedido de avaliação, sem prazo nem consequências definidas, e o arquivo pertence a uma entidade privada, pelo que a classificação implica deveres e eventuais apoios que o texto não aborda. O texto assenta em argumentos históricos e não descreve o estado atual de conservação do acervo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A recomendação é apenas de avaliação, sem despesa direta prevista. Uma eventual classificação futura poderia ter custos, que o texto não refere."
+ },
+ "affected": [
+  "Jornal de Notícias e os seus proprietários",
+  "Investigadores e historiadores",
+  "Leitores e público em geral"
+ ],
+ "categories": [
+  "cultura",
+  "comunicacao"
+ ],
+ "tags": [
+  "jornal de notícias",
+  "arquivo",
+  "património",
+  "classificação",
+  "imprensa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

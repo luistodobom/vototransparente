@@ -1,0 +1,39 @@
+{
+ "short_title": "Referendo sobre a regionalização administrativa (JPP)",
+ "summary": "O projeto de resolução do JPP propõe que a Assembleia da República, ao abrigo do artigo 256.º da Constituição, proponha ao Presidente da República a realização de uma consulta direta aos cidadãos eleitores sobre a instituição em concreto das regiões administrativas. Seriam colocadas duas perguntas: se concorda com a instituição em concreto das regiões administrativas e se concorda com a instituição da região correspondente à sua área de recenseamento, esta apenas para eleitores do continente. O texto recorda o mapa de oito regiões da Lei n.º 19/98, rejeitado no referendo de 1998, e não define novo mapa nem data.",
+ "key_points": [
+  "Propor ao Presidente da República uma consulta direta sobre a regionalização.",
+  "Pergunta nacional: concorda com a instituição em concreto das regiões administrativas?",
+  "Pergunta regional: concorda com a instituição da região da sua área de recenseamento?",
+  "A segunda pergunta é colocada apenas aos eleitores do continente."
+ ],
+ "plain_language": "O JPP quer que os portugueses voltem a votar em referendo sobre a criação de regiões administrativas no continente. Os eleitores responderiam a uma pergunta nacional e a outra sobre a sua região. Depende de aprovação do Parlamento e de decisão do Presidente da República.",
+ "context": "O proponente considera que, quase três décadas após o referendo de 1998, o contexto mudou. Argumenta que a falta de um nível político intermédio com legitimidade democrática causa fragilidades de coordenação, evidenciadas pela recente tempestade, e que as CCDR não resultam de sufrágio direto.",
+ "analysis": "A proposta é curta e cumpre a forma prevista na Constituição para as duas perguntas. Fragilidades: não indica mapa nem competências das regiões, que são pré-requisitos jurídicos, pois o referendo exige uma lei de criação simultânea e a lei-quadro. Uma consulta sem esses elementos arrisca repetir os problemas de 1998. Não há data, nem estimativa de custos, e a decisão final cabe ao Presidente da República.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de um referendo nacional implica despesa pública com a organização, que o texto não quantifica."
+ },
+ "affected": [
+  "Eleitores portugueses",
+  "Municípios do continente",
+  "Assembleia da República e Presidente da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "territorio"
+ ],
+ "tags": [
+  "regionalização",
+  "referendo",
+  "regiões administrativas",
+  "artigo 256.º"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Preços máximos semanais de combustíveis e medidas anti-especulativas",
+ "summary": "O BE propõe um regime de preços máximos de venda ao público dos combustíveis, fixados por portaria do Governo todas as segundas-feiras, com base na evolução do Brent divulgada pela DGEG, e em vigor a partir das 0 horas da quarta-feira seguinte. Estabelece que o preço semanal não pode exceder 102% da média das duas semanas anteriores e compara a evolução com um cabaz de preços da zona euro, com divulgação semanal pela DGEG e homologação governamental quando o desvio ultrapasse 2%. Permite preços inferiores, obriga os operadores a comunicar semanalmente preços e anualmente vendas por concelho e posto, revoga a Portaria 1423-F/2003 e entra em vigor 15 dias após a publicação.",
+ "key_points": [
+  "Preços máximos fixados semanalmente por portaria, com base no Brent e com IVA incluído.",
+  "O preço semanal não pode exceder 102% da média das duas semanas anteriores.",
+  "Comparação com um cabaz de preços da zona euro e homologação governamental se o desvio exceder 2%.",
+  "Operadores comunicam semanalmente preços médios por concelho e posto à DGEG.",
+  "Revoga a Portaria 1423-F/2003, que liberalizou os preços."
+ ],
+ "plain_language": "O BE quer que o Governo volte a fixar todas as semanas o preço máximo dos combustíveis, impedindo subidas bruscas e obrigando as petrolíferas a comunicar os preços. As empresas poderiam cobrar menos, mas não mais do que o máximo definido.",
+ "context": "O BE aponta máximos históricos desde 2012 no preço da gasolina e do gasóleo, num contexto de crise pandémica e de perda de rendimentos. Argumenta que há falta de transparência e que os preços sobem de imediato quando o petróleo sobe, mas não descem na mesma proporção, e que alguns trabalhadores dependem do transporte individual.",
+ "analysis": "A medida visa travar subidas rápidas e dar mais transparência ao mercado. Fragilidades: o tabelamento semanal pode afetar margens e a oferta, sobretudo de pequenos postos, e desincentivar a concorrência; a fórmula (102% da média e comparação com cabaz) é complexa e pode ser difícil de fiscalizar; revogar a liberalização de 2003 pode colidir com regras europeias de mercado, matéria que o texto não aborda. O texto não estima custos administrativos nem impacto nos preços.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos orçamentais; preços mais baixos poderiam reduzir a receita de IVA, e a fiscalização implica encargos administrativos para a DGEG."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "postos de abastecimento",
+  "empresas petrolíferas",
+  "DGEG"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "preços máximos",
+  "dgeg",
+  "gasolina",
+  "gasóleo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Reconhecimento de contratos de arrendamento não escritos",
+ "summary": "O BE propõe a oitava alteração ao Novo Regime do Arrendamento Urbano para proteger inquilinos sem contrato escrito. Permite ao inquilino intimar o senhorio a regularizar a existência do contrato, nos termos do n.º 2 do artigo 1069.º do Código Civil, acrescentando o reconhecimento do contrato aos fins do procedimento do artigo 13.º-B e da injunção em matéria de arrendamento (artigo 15.º-T). O pedido de reconhecimento suspende os procedimentos de despejo. Os contratos assim reconhecidos têm a duração de cinco anos e são renováveis. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "O inquilino pode intimar o senhorio a reconhecer o contrato de arrendamento.",
+  "A injunção em matéria de arrendamento passa a servir para reconhecer contratos não escritos.",
+  "O pedido de reconhecimento suspende os procedimentos de despejo.",
+  "Os contratos reconhecidos duram cinco anos e são renováveis."
+ ],
+ "plain_language": "Quem vive numa casa arrendada sem contrato escrito, por falta imputável ao senhorio, poderia pedir que o contrato fosse oficialmente reconhecido, antes de um despejo. Enquanto o pedido corre, o despejo fica suspenso. O contrato reconhecido duraria cinco anos, renovável.",
+ "context": "O BE considera que a Lei 13/2019 apenas deu ao inquilino uma defesa, usada quase sempre já na véspera do despejo, e não um meio de regularizar a situação. Partiu de casos em que, durante a pandemia, pessoas eram pressionadas a sair de casa sem contrato escrito.",
+ "analysis": "A proposta dá ao inquilino um meio atempado de regularizar a sua situação e reforça a segurança jurídica. Fragilidades: a imposição de cinco anos renováveis restringe a liberdade contratual do senhorio e pode ser contestada; a suspensão automática do despejo pode ser usada abusivamente; o texto não esclarece como se prova a ausência de culpa do inquilino nem prevê meios adicionais para os tribunais ou balcões.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita pública significativas; utiliza mecanismos processuais já existentes."
+ },
+ "affected": [
+  "inquilinos sem contrato escrito",
+  "senhorios"
+ ],
+ "categories": [
+  "habitacao",
+  "justica"
+ ],
+ "tags": [
+  "arrendamento",
+  "contrato escrito",
+  "despejo",
+  "injunção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

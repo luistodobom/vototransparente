@@ -1,0 +1,40 @@
+{
+ "short_title": "Estabilização de emergência dos solos após incêndios",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas para o pós-incêndio: definir e disponibilizar financiamento excecional para ações de estabilização de emergência dos solos e restauro ecológico; abrir de imediato os avisos para os contratos-programa «Territórios Resilientes»; fomentar a cooperação transfronteiriça, como recomendou o Observatório Técnico Independente, com os recursos financeiros e humanos adequados; e assegurar a monitorização sistemática das áreas ardidas, por pelo menos dois anos, incluindo recolha de sedimentos, regeneração da vegetação e propriedades do solo. O texto critica a falta de prazos e de volume de financiamento no diploma em vigor.",
+ "key_points": [
+  "Disponibilizar financiamento excecional para estabilização de emergência dos solos e restauro ecológico.",
+  "Abrir de imediato os avisos dos contratos-programa «Territórios Resilientes».",
+  "Fomentar a cooperação transfronteiriça, com recursos adequados.",
+  "Monitorizar as áreas ardidas por pelo menos dois anos e avaliar a eficácia das intervenções."
+ ],
+ "plain_language": "Depois de um grande incêndio, o solo queimado fica frágil e pode ser levado pela chuva. O LIVRE pede ao Governo dinheiro extra e rapidez para proteger esses solos, a abertura imediata de apoios a municípios e outras entidades, mais cooperação com Espanha e o acompanhamento das áreas ardidas durante pelo menos dois anos. É uma recomendação sem carácter obrigatório.",
+ "context": "O proponente explica que os incêndios alteram as propriedades dos solos, aumentando a erosão e a perda de nutrientes, e que a resposta posterior é essencial. Critica o diploma em vigor por não indicar como, em que volume e em que prazos é disponibilizado o financiamento do Fundo Ambiental, nem prazo para celebrar os contratos-programa; lembra que, em 2022, estes só foram celebrados em fevereiro de 2023.",
+ "analysis": "A iniciativa identifica lacunas concretas, como a falta de prazos e de financiamento definido, e propõe monitorização com horizonte temporal mínimo. É, porém, omissa quanto ao valor do financiamento excecional, à origem do dinheiro e à entidade que coordenaria. A cooperação transfronteiriça é referida de forma genérica. A abertura imediata de avisos pode colidir com a capacidade administrativa e o ciclo orçamental. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento excecional, as medidas de restauro e a monitorização de dois anos implicam despesa pública, provavelmente através do Fundo Ambiental; o texto não indica montantes."
+ },
+ "affected": [
+  "proprietários e municípios em áreas ardidas",
+  "populações de zonas afetadas por incêndios",
+  "Fundo Ambiental e ICNF"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "seguranca"
+ ],
+ "tags": [
+  "incêndios",
+  "estabilização de solos",
+  "territórios resilientes",
+  "pós-incêndio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

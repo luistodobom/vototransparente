@@ -1,0 +1,41 @@
+{
+ "short_title": "Ajuda humanitária a Gaza e condenação da obstrução à saúde na Cisjordânia",
+ "summary": "O PAN recomenda ao Governo que condene os ataques às instalações médicas e aos profissionais de saúde na Cisjordânia, defendendo o Direito Internacional e o acesso do povo palestiniano aos cuidados de saúde, e que, em parceria com organizações não-governamentais e de direitos humanos, contribua com ajuda humanitária à Faixa de Gaza, tomando as diligências necessárias para que alimentos, produtos de saúde e outros bens de primeira necessidade cheguem à população. O texto refere um novo pacote de ajuda da União Europeia de 120 milhões de euros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Condenar os ataques a instalações médicas e profissionais de saúde na Cisjordânia.",
+  "Contribuir com ajuda humanitária à Faixa de Gaza em parceria com ONG e organizações de direitos humanos.",
+  "Diligenciar para que alimentos, produtos de saúde e bens essenciais cheguem à população."
+ ],
+ "plain_language": "O PAN pede ao Governo que condene os ataques a hospitais e profissionais de saúde na Cisjordânia e que envie ajuda humanitária, com apoio de organizações não governamentais, para a população de Gaza. O pedido não obriga o Governo.",
+ "context": "O PAN descreve uma grave situação humanitária em Gaza, citando mais de 46 mil mortos, 2 milhões de deslocados e 83% da ajuda alimentar necessária que não chega, e, com base nos Médicos Sem Fronteiras, o aumento da violência e a obstrução de cuidados de saúde na Cisjordânia. Refere o pacote de ajuda de 120 milhões de euros anunciado pela UE.",
+ "analysis": "A proposta tem objetivos humanitários concretos, e a parceria com organizações já presentes no terreno é um ponto de execução realista. Fragilidades: o texto usa linguagem fortemente valorativa e qualificações jurídicas como genocídio e apartheid sem fundamentar no articulado, não indica o montante da contribuição portuguesa nem os canais para entrega de ajuda e não aborda restrições de acesso ao terreno. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma contribuição portuguesa de ajuda humanitária implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "população da Faixa de Gaza",
+  "população da Cisjordânia",
+  "profissionais de saúde",
+  "organizações humanitárias"
+ ],
+ "categories": [
+  "internacional",
+  "direitos",
+  "saude"
+ ],
+ "tags": [
+  "ajuda humanitária",
+  "Gaza",
+  "Cisjordânia",
+  "cuidados de saúde",
+  "Direito Internacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

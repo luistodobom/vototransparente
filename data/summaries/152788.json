@@ -1,0 +1,37 @@
+{
+ "short_title": "Fim do prazo de validade das certidões online",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 215.º do Código de Registo Civil para estabelecer que as certidões online, tal como definidas por portaria do membro do Governo da Justiça, não têm validade. Atualmente, a Portaria n.º 181/2017 fixa em seis meses o período em que as certidões online de registo civil (nascimento, casamento, óbito, maternidade e perfilhação) ficam disponíveis. A iniciativa obriga ainda o Governo a alterar essa portaria para eliminar o prazo de validade. Prevê a entrada em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Acrescenta ao artigo 215.º do Código de Registo Civil que as certidões online não têm validade.",
+  "Obriga o membro do Governo da Justiça a alterar a Portaria n.º 181/2017 para eliminar o prazo de validade.",
+  "Entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+ ],
+ "plain_language": "Hoje, uma certidão online de registo civil, como a de nascimento ou de óbito, só vale seis meses, e quem precisar dela depois tem de pedir e pagar outra. A Iniciativa Liberal propõe acabar com esse prazo, para que os cidadãos não tenham de repetir o pedido nem pagar de novo.",
+ "context": "A Iniciativa Liberal considera injustificado o limite de seis meses para documentos cujo conteúdo não muda, como certidões de óbito ou de nascimento, por gerar burocracia e custos (refere 10 euros por certidão) sem utilidade.",
+ "analysis": "A medida é simples e simplifica a vida dos cidadãos, sendo coerente com a lógica de desburocratização. Fragilidades: certidões de registo civil podem conter averbamentos posteriores (por exemplo, casamento ou alterações), pelo que a ausência de validade pode levar a que entidades aceitem documentos desatualizados; o texto não aborda esse risco nem mecanismos de verificação. Não é estimado o impacto na receita de emolumentos do registo civil.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao evitar pedidos repetidos de certidões, poderá diminuir a receita de emolumentos do registo civil. O texto não quantifica o impacto."
+ },
+ "affected": [
+  "Cidadãos que requerem certidões de registo civil",
+  "Serviços de registo civil"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "certidão online",
+  "registo civil",
+  "burocracia",
+  "emolumentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Natureza pública dos crimes de violação e contra a liberdade sexual",
+ "summary": "O projeto de lei do PAN altera o Código Penal e o Código de Processo Penal para que a violação, a coação sexual, a fraude sexual, o abuso sexual de pessoa incapaz de resistência e a procriação artificial não consentida passem a ter natureza pública, ou seja, o Ministério Público pode promover o processo sem queixa da vítima. Mantém a dependência de queixa apenas para a importunação sexual. Nos processos iniciados pelo Ministério Público contra pessoas maiores, a vítima pode pedir o arquivamento a todo o tempo, e o Ministério Público só o pode recusar de forma fundamentada, se considerar que a continuação protege a vítima e que o pedido resultou de condicionamento. Revoga os n.ºs 4 e 5 do artigo 178.º do Código Penal e o n.º 9 do artigo 281.º do Código de Processo Penal, restringindo a suspensão provisória do processo.",
+ "key_points": [
+  "Atribui natureza pública aos crimes de violação, coação sexual, fraude sexual, abuso sexual de pessoa incapaz de resistência e procriação artificial não consentida.",
+  "Mantém a exigência de queixa para a importunação sexual (artigo 170.º), salvo contra menor ou em caso de suicídio ou morte da vítima.",
+  "A vítima maior pode requerer o arquivamento a todo o tempo; o Ministério Público só pode recusar com fundamentação e perante indícios de condicionamento.",
+  "Revoga os n.ºs 4 e 5 do artigo 178.º do Código Penal e o n.º 9 do artigo 281.º do Código de Processo Penal, limitando a suspensão provisória do processo.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje, em alguns crimes sexuais a investigação só avança se a vítima apresentar queixa. Esta proposta quer que o Ministério Público possa investigar mesmo sem queixa, para que os casos não fiquem por denunciar. Para respeitar a vontade das vítimas adultas, estas podem pedir que o caso seja arquivado, e só em situações justificadas o Ministério Público poderá recusar. Também fica mais restrita a suspensão do processo mediante condições.",
+ "context": "O proponente invoca a Convenção de Istambul (artigo 55.º, n.º 1) e as recomendações do GREVIO (2019 e 2025), que pedem que a investigação não dependa totalmente da queixa da vítima. Aponta cifras negras, a revitimização e dados dos Relatórios Anuais de Segurança Interna sobre o aumento de casos de violação.",
+ "analysis": "A proposta responde a recomendações internacionais e tenta equilibrar o interesse público com a autonomia da vítima através do pedido de arquivamento. Fragilidades: manter a possibilidade de arquivamento pode reproduzir parte da pressão sobre a vítima que a natureza pública pretende evitar, e o critério de recusa pelo Ministério Público é subjetivo. A restrição da suspensão provisória reduz respostas alternativas. O texto admite ainda que a natureza pública pode afetar o bem jurídico da liberdade sexual e não apresenta avaliação do impacto nos tribunais e no Ministério Público.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Mais processos iniciados pelo Ministério Público poderiam aumentar a carga dos serviços de justiça, sem estimativa apresentada."
+ },
+ "affected": [
+  "vítimas de crimes sexuais",
+  "Ministério Público",
+  "tribunais",
+  "arguidos"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "crimes sexuais",
+  "violação",
+  "natureza pública",
+  "convenção de istambul",
+  "código penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

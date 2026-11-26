@@ -1,0 +1,39 @@
+{
+ "short_title": "Condições do Complemento Solidário para Idosos (PEV)",
+ "summary": "Projeto de lei do PEV que altera os artigos 6.º, 7.º, 11.º e 19.º do Decreto-Lei n.º 232/2005 sobre o Complemento Solidário para Idosos (CSI). Passam a ser considerados apenas os rendimentos do requerente e do cônjuge, deixando de contar os dos filhos, estabelece-se a audiência prévia dos interessados na decisão de suspensão e o pagamento passa a ser feito por referência a 14 meses. O Governo regulamenta em 90 dias e a lei entra em vigor com o Orçamento do Estado de 2022. O texto fundamenta a proposta na pobreza dos idosos e na necessidade de respeitar a sua autonomia.",
+ "key_points": [
+  "Só contam os rendimentos do requerente e do cônjuge, não os dos filhos.",
+  "Audiência prévia dos interessados na decisão de suspensão do complemento.",
+  "Pagamento por referência a 14 meses.",
+  "Regulamentação em 90 dias e entrada em vigor com o Orçamento do Estado de 2022."
+ ],
+ "plain_language": "O PEV propõe que, para receber o Complemento Solidário, contem apenas os rendimentos do idoso e do cônjuge e não os dos filhos. Propõe também que o idoso seja ouvido antes de o apoio ser suspenso e que o complemento seja pago em 14 meses.",
+ "context": "O proponente sustenta que os idosos continuam a ser os mais afetados por pobreza severa e que a consideração do rendimento dos filhos, apesar da obrigação de alimentos do Código Civil, é injusta, atenta contra a autonomia do idoso e deixa milhares de pessoas de fora do apoio.",
+ "analysis": "A medida simplifica a prova e reforça as garantias do beneficiário, mas o texto não estima o número de novos beneficiários nem o custo, em especial do pagamento em 14 meses. A remoção do critério dos filhos pode ser vista como retirar a obrigação de alimentos do cálculo da necessidade, ponto que o proponente reconhece mas rejeita. A entrada em vigor apenas em 2022 adia o efeito.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do acesso e o pagamento em 14 meses aumentam a despesa da Segurança Social; o texto não apresenta valores."
+ },
+ "affected": [
+  "idosos com baixos rendimentos",
+  "cônjuges",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "complemento solidário para idosos",
+  "pobreza",
+  "rendimentos dos filhos",
+  "14 meses"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

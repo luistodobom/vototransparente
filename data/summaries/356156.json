@@ -1,0 +1,43 @@
+{
+ "short_title": "Rede de apoio a idosos e fim dos internamentos sociais",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo oito medidas: levantar de imediato as pessoas em internamento social; aumentar a capacidade de resposta de lares (no mínimo 3000 vagas em 2026) e de cuidados continuados do setor social e solidário; levantar a lista de espera por distrito e resposta social; criar respostas públicas, designadamente com património da Segurança Social ou do Estado e um plano de desenvolvimento da RNCCI; reforçar o financiamento dos acordos com o setor social para mais vagas, trabalhadores e valorização salarial; promover respostas de apoio domiciliário; reforçar a RNCCI pública; e reforçar a fiscalização da qualidade pela Segurança Social.",
+ "key_points": [
+  "Levantamento imediato das pessoas em internamento social e das listas de espera por distrito.",
+  "Aumento de vagas, no mínimo 3000 em lares em 2026, e dos cuidados continuados do setor social e solidário.",
+  "Utilização de património da Segurança Social ou do Estado para criar respostas públicas.",
+  "Reforço do financiamento dos acordos de cooperação, de pessoal e da valorização salarial dos trabalhadores.",
+  "Alargamento do apoio domiciliário a todos os dias da semana e reforço da fiscalização da qualidade."
+ ],
+ "plain_language": "Há idosos que ficam no hospital depois da alta por não haver vaga em lar ou cuidados continuados. O PCP pede ao Governo que conte quantos são, crie pelo menos 3000 vagas em lares em 2026, use edifícios públicos, reforce o apoio em casa e pague melhor aos trabalhadores. É uma recomendação.",
+ "context": "O PCP afirma que a esperança de vida subiu graças ao SNS, mas que o acesso à saúde se degradou por falta de investimento. Defende uma rede pública de equipamentos de apoio a idosos, com faseamento anual das vagas até ao fim da legislatura, e diz que propostas semelhantes foram sistematicamente rejeitadas.",
+ "analysis": "A proposta é ampla e concreta em alguns pontos, como as 3000 vagas, o levantamento de dados e a valorização do pessoal. Fragilidades: não estima o custo de criar vagas, de contratar sem termo e de rever salários, nem indica fonte de financiamento; o prazo de 2026 para as vagas é curto, dado o tempo de construção e contratação; e a preferência pela resposta pública pode ser contestada por quem defende maior uso do setor social e privado. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Criar vagas, reforçar o financiamento dos acordos, contratar pessoal sem termo e valorizar salários aumenta a despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "idosos em internamento social e em lista de espera",
+  "trabalhadores de lares e apoio domiciliário",
+  "instituições do setor social e solidário",
+  "Segurança Social e hospitais do SNS"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internamentos sociais",
+  "lares",
+  "idosos",
+  "apoio domiciliário",
+  "cuidados continuados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

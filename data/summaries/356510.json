@@ -1,0 +1,38 @@
+{
+ "short_title": "Plataformas informáticas para municípios atualizarem o alojamento local",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo que, através da Agência para a Reforma Tecnológica do Estado, disponibilize de imediato às câmaras municipais as plataformas informáticas adequadas à atualização dos registos de alojamento local ativos nos seus territórios. A iniciativa visa permitir a limpeza dos registos inativos e dar aos municípios dados fiáveis para elaborarem os regulamentos de alojamento local. Trata-se de uma recomendação sem força vinculativa, com um único ponto dirigido ao Governo.",
+ "key_points": [
+  "Disponibilizar de imediato aos municípios plataformas informáticas para atualizar os registos de alojamento local.",
+  "A disponibilização seria feita através da Agência para a Reforma Tecnológica do Estado.",
+  "Permitir distinguir alojamentos locais ativos e inativos em cada concelho."
+ ],
+ "plain_language": "O Chega pede ao Governo que dê às câmaras municipais as ferramentas informáticas de que precisam para saber quais os alojamentos locais que realmente estão a funcionar nos seus concelhos e limpar os registos que já não estão ativos. Assim, as regras municipais poderiam basear-se em números corretos. É apenas uma recomendação.",
+ "context": "O proponente refere que, desde o Decreto-Lei n.º 76/2024, os municípios recuperaram a competência de regular o alojamento local, mas os atrasos na disponibilização de plataformas dificultam a atualização dos cadastros. Dá como exemplo a limpeza de registos em Lisboa e invoca a necessidade de dados credíveis.",
+ "analysis": "A medida é simples e tecnicamente justificável, pois dados fiáveis são pré-requisito para uma regulação local adequada. O texto, porém, não identifica as causas dos atrasos, o custo, os requisitos técnicos nem um prazo, e a expressão imediata é vaga. Algumas afirmações, como a de que o debate político em Lisboa se baseou em dados fictícios, são juízos do proponente apoiados em notícias, e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O desenvolvimento e disponibilização das plataformas teria custos, mas o texto não os quantifica. A atualização dos registos poderia melhorar a base de receitas fiscais sobre o imobiliário, sem estimativa."
+ },
+ "affected": [
+  "câmaras municipais",
+  "proprietários de alojamento local",
+  "Agência para a Reforma Tecnológica do Estado"
+ ],
+ "categories": [
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "alojamento local",
+  "municípios",
+  "registos",
+  "plataforma informática"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

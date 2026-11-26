@@ -1,0 +1,42 @@
+{
+ "short_title": "Subsídio para vítimas de violência que abandonam o lar",
+ "summary": "Projeto de lei do PEV que cria um subsídio de inclusão para vítimas de violência que tenham de abandonar a residência por motivos de segurança e que se encontrem comprovadamente em situação de carência económica, sem prejuízo da gratuitidade do acolhimento em casas abrigo ou do apoio à habitação. É atribuído pela Segurança Social, por um ano, com pagamento mensal, de valor idêntico ao Indexante de Apoios Sociais, majorado quando a vítima tenha crianças a cargo. Cessa quando a pessoa passa a ter remuneração por trabalho ou deixa de estar em carência económica. Deve ser regulamentado por decreto-lei em 90 dias e entra em vigor com o exercício do Orçamento do Estado imediatamente posterior à publicação da regulamentação.",
+ "key_points": [
+  "Subsídio de inclusão para vítimas de violência que abandonam a residência por segurança e estão em carência económica.",
+  "Atribuído pela Segurança Social durante um ano, com pagamento mensal.",
+  "Valor igual ao Indexante de Apoios Sociais, majorado se houver crianças a cargo.",
+  "Cessa se a vítima passar a ter remuneração ou deixar de estar em carência económica.",
+  "Regulamentação por decreto-lei no prazo de 90 dias."
+ ],
+ "plain_language": "O PEV propõe que a Segurança Social pague, durante um ano, um apoio mensal a pessoas vítimas de violência que tiveram de sair de casa para se protegerem e que não têm recursos. O valor seria igual ao indexante de apoios sociais, com um acréscimo se houver filhos. O apoio acaba se a pessoa começar a trabalhar ou deixar de ser carenciada.",
+ "context": "O PEV considera que a violência doméstica continua a vitimizar muitas mulheres, citando dados da APAV e das forças de segurança, e que a dependência económica prolonga a sujeição a situações de violência. Defende que o Estado deve assumir um subsídio de inclusão e autonomia que dê meios para enfrentar os custos de abandonar o agressor.",
+ "analysis": "A medida ataca um obstáculo concreto, a dependência económica, que mantém muitas vítimas em situações de risco, e prevê condições de acesso e de cessação claras. Contudo, o valor e o prazo de um ano podem ser insuficientes para uma autonomia duradoura, a comprovação da carência e da necessidade de abandonar o lar pode ser difícil, e o texto não indica como se articula com outros apoios existentes, nem estima o número de beneficiários ou o custo. A entrada em vigor depende do Orçamento posterior à regulamentação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A Segurança Social passaria a pagar um subsídio mensal igual ao Indexante de Apoios Sociais, com majoração por crianças, durante um ano por beneficiário. O texto não estima o custo total."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "mulheres com filhos a cargo",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "direitos",
+  "trabalho"
+ ],
+ "tags": [
+  "violência doméstica",
+  "subsídio",
+  "segurança social",
+  "indexante de apoios sociais",
+  "carência económica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

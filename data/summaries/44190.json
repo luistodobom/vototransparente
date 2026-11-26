@@ -1,0 +1,40 @@
+{
+ "short_title": "Autonomia do SNS na contratação de recursos humanos",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que revogue o Despacho n.º 1/2019 do Secretário de Estado da Saúde, que impede o aumento do número de trabalhadores nas instituições do SNS, e que promova a autonomia das instituições do SNS, permitindo-lhes contratar os recursos humanos necessários, depois de demonstrada a necessidade efetiva, para assegurar cuidados de qualidade dentro dos Tempos Máximos de Resposta Garantidos e adequar recursos humanos e equipamentos às suas necessidades, em cumprimento da Lei n.º 87/2019. O texto cita dados do Relatório Social do Ministério da Saúde e do SNS de 2018 sobre trabalho suplementar e prestadores de serviços. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Revogação do Despacho n.º 1/2019 do Secretário de Estado da Saúde.",
+  "Autonomia das instituições do SNS para contratar após demonstração efetiva da necessidade.",
+  "Cumprimento da Lei n.º 87/2019, de 3 de setembro."
+ ],
+ "plain_language": "O PAN pede ao Governo que anule uma ordem que impede os serviços de saúde públicos de ter mais trabalhadores e que deixe cada hospital ou centro de saúde contratar os profissionais de que precisa, desde que prove a necessidade. É apenas uma recomendação.",
+ "context": "O PAN refere que em 2018 foram prestadas 13,1 milhões de horas de trabalho suplementar, mais 1,3 milhões do que no ano anterior, e gastos mais de 105 milhões de euros em prestadores de serviços, 65% dos quais para contratar médicos em urgência. Considera que o despacho contraria a Lei n.º 87/2019 e a Lei de Bases da Saúde.",
+ "analysis": "A iniciativa assenta em dados do próprio Ministério sobre a dependência de horas extra e de prestadores, e apoia-se em duas leis recentes que valorizam a autonomia de gestão. Fica, contudo, por demonstrar que mais contratações reduziriam os custos globais, e o texto não quantifica as necessidades de pessoal nem o impacto orçamental. A autonomia sem limites pode colidir com o controlo da despesa. Sendo resolução, não obriga o Governo, e o conteúdo é muito próximo de outra iniciativa do BE sobre o mesmo despacho.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais contratações aumentariam a despesa com pessoal no SNS, podendo ser parcialmente compensadas por menos trabalho suplementar e prestação de serviços, sem estimativa no texto."
+ },
+ "affected": [
+  "profissionais de saúde do SNS",
+  "utentes do SNS",
+  "conselhos de administração do SNS"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "sns",
+  "autonomia",
+  "contratação",
+  "despacho",
+  "trabalho suplementar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

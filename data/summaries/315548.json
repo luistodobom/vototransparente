@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa de reabilitação energética das escolas",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a criação de um Programa Nacional de Reabilitação e Eficiência Energética das Escolas. Pede um levantamento nacional do estado de conservação, conforto térmico e qualidade do ar das escolas públicas do ensino básico e secundário; um plano faseado de intervenções, começando pelos estabelecimentos em pior estado; prioridade a soluções passivas (isolamento, caixilharias, ventilação natural, proteção solar) antes de equipamentos ativos; metas de redução de consumos energéticos, nomeadamente com painéis solares; um relatório público anual; participação da comunidade educativa; e envolvimento de pequenas e médias empresas regionais nas obras. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento nacional do estado, conforto térmico e qualidade do ar das escolas do ensino básico e secundário.",
+  "Plano faseado de intervenções, a começar pelas escolas em pior estado.",
+  "Prioridade a soluções passivas antes de equipamentos de climatização.",
+  "Metas de redução do consumo energético, nomeadamente com painéis solares.",
+  "Relatório público anual sobre escolas abrangidas, investimento e resultados.",
+  "Participação da comunidade educativa e das PME regionais."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que veja em que estado estão as escolas públicas e crie um programa para as reparar, tornando-as mais confortáveis e gastando menos energia. Começaria pelas piores, com soluções simples como isolamento e janelas melhores, e publicaria todos os anos o que foi feito. É uma recomendação.",
+ "context": "O proponente aponta escolas com frio, infiltrações ou calor excessivo, cita casos concretos e relatórios da OCDE, e critica o programa Parque Escolar por se ter limitado ao secundário e ter tido derrapagens segundo o Tribunal de Contas. Defende ainda que o desperdício energético custa dinheiro ao Estado e aos municípios.",
+ "analysis": "A proposta é concreta no método (diagnóstico, intervenção faseada, monitorização) e aprende com as falhas apontadas ao programa anterior. Fragilidades: não indica orçamento, calendário nem fontes de financiamento, nem como se articula com os municípios, responsáveis por parte dos edifícios escolares; as metas de redução de consumos não são quantificadas. A exposição de motivos usa linguagem valorativa e inclui apreciações políticas que não suportam diretamente as medidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa nacional de reabilitação de escolas implica investimento público, parcialmente compensado por poupanças de energia; o texto não indica montantes."
+ },
+ "affected": [
+  "alunos",
+  "professores e pessoal escolar",
+  "municípios",
+  "pequenas e médias empresas da construção"
+ ],
+ "categories": [
+  "educacao",
+  "energia",
+  "territorio"
+ ],
+ "tags": [
+  "escolas",
+  "reabilitação",
+  "eficiência energética",
+  "conforto térmico",
+  "Parque Escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

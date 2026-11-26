@@ -1,0 +1,42 @@
+{
+ "short_title": "Horário e aposentação dos bombeiros sapadores municipais",
+ "summary": "Projeto de Lei do CHEGA que altera o Decreto-Lei n.º 106/2002 e o Decreto-Lei n.º 87/2019 para os bombeiros sapadores e municipais das autarquias locais. Define dois regimes de horário em quatro turnos (12 horas de dia, 24 de descanso, 12 de noite e 48 de descanso, ou, por instrumento coletivo, 24 horas de trabalho e 72 de descanso) e atribui um suplemento remuneratório de 40% sobre o vencimento base, abonado por 12 meses, que impede o pagamento de trabalho suplementar, salvo exceções. Repristina o artigo 28.º do Decreto-Lei n.º 106/2002, reconhecendo a profissão como de risco e desgaste rápido, com aposentação antecipada sem penalizações aos 30 anos de serviço e limites de idade entre 50 e 60 anos consoante a categoria. Exclui estes trabalhadores do Decreto-Lei n.º 87/2019. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Fixa o regime de horário em quatro turnos, com opção por 24 horas de trabalho e 72 de descanso por instrumento coletivo.",
+  "Atribui um suplemento de 40% sobre o vencimento base, pago 12 meses, que impede o pagamento de trabalho suplementar, salvo exceções.",
+  "Reconhece a profissão como de risco e desgaste rápido e restaura a aposentação antecipada sem penalizações aos 30 anos de serviço.",
+  "Limites de idade: 60 anos (chefes), 58 (subchefes principais), 54 (subchefes de 1.ª classe) e 50 (subchefes de 2.ª classe e bombeiros sapadores).",
+  "Exclui os bombeiros sapadores do regime do Decreto-Lei n.º 87/2019 e impõe regras para a mudança de turno."
+ ],
+ "plain_language": "O CHEGA propõe regras próprias para os bombeiros sapadores das câmaras municipais: horários por turnos, um suplemento de 40% no vencimento e a possibilidade de se reformarem mais cedo e sem cortes, desde que tenham 30 anos de serviço, por ser uma profissão de risco e de grande desgaste.",
+ "context": "O proponente afirma que os bombeiros sapadores trabalham em média 42 horas semanais efetivas, o que ao fim de 32 anos acumula mais horas do que um trabalhador da carreira geral em 40 anos, e que o número de bombeiros sapadores com mais de 55 anos aumentou 81% em cinco anos, pondo em causa a capacidade de resposta.",
+ "analysis": "A proposta atende a reivindicações do setor sobre horários, desgaste e envelhecimento dos quadros e cria um regime coerente de renovação. Contudo, o suplemento de 40% e a reforma antecipada sem penalização têm custos para os municípios e para o sistema de pensões que o texto não quantifica, e a exclusão do Decreto-Lei n.º 87/2019 cria um regime especial que pode ser invocado por outras carreiras. O texto também mistura o horário, que diz depender de instrumento coletivo, com direitos remuneratórios definidos por lei, o que pode limitar a negociação coletiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O suplemento de 40% e a aposentação antecipada sem penalizações aumentam a despesa das autarquias e do sistema de pensões. O texto não apresenta valores."
+ },
+ "affected": [
+  "bombeiros sapadores e municipais",
+  "municípios com corpos de bombeiros profissionais",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "bombeiros sapadores",
+  "profissão de risco",
+  "aposentação antecipada",
+  "suplemento remuneratório",
+  "horário de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

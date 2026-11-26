@@ -1,0 +1,40 @@
+{
+ "short_title": "Projeto-piloto de PPP na gestão clínica de Unidades Locais de Saúde",
+ "summary": "A Iniciativa Liberal recomenda ao Governo que inicie os procedimentos para lançar um concurso de gestão clínica em regime de parceria público-privada (PPP) de um conjunto pré-determinado de Unidades Locais de Saúde (ULS), como projeto-piloto para aferir o mérito do modelo. Propõe aplicar os mesmos montantes e critérios de financiamento das ULS públicas, com uma redução de 5 a 10%, a determinar por critérios técnicos, e aplicar o princípio Money Follows the Person, em que os doentes referenciados para outras ULS são financiados à ULS de destino. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Lançar concurso de gestão clínica em PPP para um conjunto pré-determinado de ULS como projeto-piloto.",
+  "Financiamento igual ao das ULS públicas, com redução de 5 a 10% definida por critérios técnicos.",
+  "Princípio Money Follows the Person: financiar a ULS de destino dos doentes referenciados, salvo exceções clínicas."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que se experimente entregar a gestão clínica de algumas unidades de saúde a entidades privadas através de contratos com o Estado, para ver se funcionam melhor. O Estado pagaria um pouco menos do que paga hoje a uma unidade pública. O pedido não obriga o Governo.",
+ "context": "O proponente cita o Tribunal de Contas (Relatório Síntese n.º 5/2021), segundo o qual as PPP hospitalares geraram poupanças estimadas em 203 milhões de euros e foram mais eficientes do que a média. Refere ainda estudos da UTAP e o inquérito SINAS@Hospitais, e critica a rigidez da gestão pública das ULS, que passaram de oito para 39.",
+ "analysis": "A proposta apoia-se em avaliações do Tribunal de Contas e de outras entidades, e o formato de projeto-piloto limita o risco. Fragilidades: a exposição selecionada apresenta sobretudo dados favoráveis e não discute riscos de contratos longos, capacidade de fiscalização, a escala das ULS (que integram hospitais e centros de saúde) ou a experiência de reversão de PPP. A redução de 5 a 10% do financiamento é assumida sem estudo apresentado, e a seleção das ULS não é definida. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "O texto propõe um financiamento 5 a 10% inferior ao das ULS públicas nas unidades do piloto, mas não apresenta montantes e os custos de contratação e fiscalização não são quantificados."
+ },
+ "affected": [
+  "utentes das ULS selecionadas",
+  "profissionais de saúde",
+  "Serviço Nacional de Saúde",
+  "entidades privadas gestoras"
+ ],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "PPP",
+  "unidades locais de saúde",
+  "gestão clínica",
+  "projeto-piloto",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

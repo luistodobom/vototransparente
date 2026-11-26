@@ -1,0 +1,39 @@
+{
+ "short_title": "IVA reduzido de 6% nos atos médico-veterinários",
+ "summary": "O PAN propõe aplicar a taxa reduzida de IVA de 6% à prestação de serviços médico-veterinários, aditando a verba 2.43 à lista I anexa ao Código do IVA. Segundo o texto, estes atos continuam a ser tributados à taxa máxima. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação. O proponente invoca o bem-estar dos animais de companhia, o conceito Uma Só Saúde, a inflação e a dificuldade das famílias em suportar custos de cuidados veterinários.",
+ "key_points": [
+  "Aplica a taxa de IVA de 6% aos serviços médico-veterinários.",
+  "Adita a verba 2.43 à lista I anexa ao Código do IVA.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "As consultas e tratamentos veterinários pagam hoje IVA à taxa máxima. A proposta reduz o IVA para 6%, para tornar os cuidados aos animais de companhia mais baratos para as famílias.",
+ "context": "O PAN refere que cerca de metade dos lares portugueses tem um animal de companhia, que os gastos com animais rondam 12% do orçamento familiar, segundo um estudo da GfK de 2015, e que muitas famílias não conseguem suportar cirurgias ou procedimentos mais caros. Cita o estatuto jurídico dos animais e a Convenção Europeia para a Proteção dos Animais de Companhia.",
+ "analysis": "A medida reduz custos veterinários e apoia o bem-estar animal, mas o benefício é geral e não dirigido às famílias mais vulneráveis. Não há garantia de que a descida do IVA seja integralmente refletida nos preços. As taxas reduzidas de IVA estão sujeitas a regras europeias, não analisadas no texto. O texto não estima a perda de receita nem o efeito sobre o acesso a cuidados.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida do IVA de taxa máxima para 6% nos serviços médico-veterinários reduz a receita fiscal; o texto não indica montantes."
+ },
+ "affected": [
+  "tutores de animais de companhia",
+  "clínicas e médicos veterinários",
+  "associações de proteção animal"
+ ],
+ "categories": [
+  "animais",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "IVA",
+  "médico-veterinários",
+  "animais de companhia",
+  "taxa reduzida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

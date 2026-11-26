@@ -1,0 +1,41 @@
+{
+ "short_title": "Reconhecimento e qualificação do pessoal de apoio educativo",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo quatro medidas: fazer uma avaliação rigorosa do número de assistentes operacionais necessários à escola pública; contratar, até ao final do ano, os assistentes operacionais necessários ao regular funcionamento dos estabelecimentos; rever os critérios de afetação do pessoal de apoio educativo aos agrupamentos e escolas não agrupadas, para melhor distribuição; e reforçar a formação do pessoal de apoio educativo, em horário laboral. O texto critica a fórmula de cálculo da Portaria n.º 272-A/2017 e aponta áreas críticas de formação, como primeiros socorros, higiene e segurança e relações interpessoais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação rigorosa do número de assistentes operacionais necessários.",
+  "Contratação, até ao final do ano, dos assistentes necessários ao funcionamento das escolas.",
+  "Revisão dos critérios de afetação do pessoal de apoio educativo.",
+  "Reforço da formação em horário laboral."
+ ],
+ "plain_language": "O PAN pede ao Governo que conte quantos auxiliares faltam nas escolas, contrate os necessários até ao fim do ano, mude as regras de distribuição de funcionários entre escolas e reforce a sua formação durante o horário de trabalho. É uma recomendação, que o Governo pode ou não cumprir.",
+ "context": "O PAN afirma que o ano escolar arrancou com perturbações por falta de assistentes operacionais, com escolas a protestar e até a encerrar, e que dois meses depois os problemas persistiam. Considera que a fórmula da Portaria n.º 272-A/2017 ignora elementos importantes e que tem havido desinvestimento na formação destes profissionais.",
+ "analysis": "A proposta é concreta ao ligar a falta de pessoal à fórmula de cálculo e valoriza a formação, sobretudo para quem acompanha alunos com necessidades educativas especiais. Em contrapartida, não quantifica as necessidades nem os custos, e a data de fim do ano para contratar é curta face aos procedimentos de recrutamento. A revisão de critérios é enunciada de forma genérica, sem indicar os novos critérios. Sendo resolução, o efeito depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais assistentes operacionais e o reforço da formação aumentariam a despesa com pessoal e formação na educação. O texto não apresenta valores."
+ },
+ "affected": [
+  "assistentes operacionais das escolas",
+  "alunos com necessidades educativas especiais",
+  "escolas e agrupamentos",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "pessoal não docente",
+  "assistentes operacionais",
+  "formação",
+  "portaria 272-a/2017",
+  "escola pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

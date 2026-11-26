@@ -1,0 +1,41 @@
+{
+ "short_title": "Condições especiais para trabalhadores na compra de ações da TAP",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que assegure condições especiais aos trabalhadores da TAP na aquisição de ações no processo de reprivatização, nos termos do n.º 2 do artigo 12.º da Lei-Quadro das Privatizações e em linha com a prática de anteriores processos, através da fixação de um preço mais favorável do que o preço de venda direta de referência. No processo em curso é reservado um lote de até 5% do capital para trabalhadores, mas sem desconto nem condição especial. O PS considera isso um recuo injustificado face à prática habitual, em que se aplicava em regra um desconto de 5%. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Assegurar condições especiais de aquisição de ações da TAP pelos trabalhadores.",
+  "Fixar para estes um preço mais favorável do que o preço da venda direta de referência.",
+  "Respeitar o artigo 12.º da Lei-Quadro das Privatizações e a prática de privatizações anteriores.",
+  "O lote para trabalhadores, de até 5% do capital, mantém-se sujeito a período de indisponibilidade."
+ ],
+ "plain_language": "O PS pede ao Governo que dê aos trabalhadores da TAP um desconto quando comprarem ações da empresa na privatização, como aconteceu noutros casos. Hoje está previsto reservar-lhes até 5% do capital, mas ao mesmo preço dos outros compradores. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente explica que a Lei-Quadro das Privatizações prevê aquisição preferencial de ações pelos trabalhadores e que, desde 2011, as condições especiais passaram de obrigação a faculdade, mas continuaram a ser aplicadas (por exemplo, descontos de 5% em PT, REN, CTT, EGF, EDP, BPN e na primeira reprivatização da TAP). Rejeita o argumento de que os contribuintes investiram 3,2 mil milhões de euros, por o impacto de um lote até 5% ser marginal.",
+ "analysis": "A proposta apoia-se na prática anterior e no texto da lei, com exemplos documentados, e o impacto orçamental seria limitado ao desconto sobre um lote reduzido. Fragilidades: não fixa o valor do desconto nem calcula o custo; reduz a receita da venda, o que contraria o argumento de proteção dos contribuintes feito por outros; e o texto não aborda eventuais regras de auxílios de Estado ou de tratamento equitativo dos investidores. O argumento do \"recuo\" depende da interpretação do que é prática consolidada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Um preço mais favorável para trabalhadores reduziria a receita da venda, embora o texto o considere marginal por se limitar a um lote de até 5% do capital; não indica montantes."
+ },
+ "affected": [
+  "trabalhadores da TAP",
+  "Estado como vendedor",
+  "contribuintes",
+  "outros investidores"
+ ],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "TAP",
+  "reprivatização",
+  "trabalhadores",
+  "Lei-Quadro das Privatizações",
+  "ações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Guias de emergência impressos e rádio pública de referência",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo sete medidas: elaborar e distribuir, no prazo de um ano, um guia de emergência impresso a todas as famílias residentes; redigi-lo em linguagem acessível, traduzido para as principais línguas das comunidades imigrantes e em formatos acessíveis; designar, com a RTP, um canal de rádio pública de cobertura nacional como referência em emergências; definir com a ANEPC e a RTP os protocolos de ativação; incluir no guia o canal e a frequência e a recomendação de um rádio portátil a pilhas; promover campanhas e exercícios comunitários; e incluir nos currículos escolares conteúdos de proteção civil.",
+ "key_points": [
+  "Guia de emergência impresso a todas as famílias residentes, no prazo de um ano.",
+  "Guia em linguagem acessível, traduzido e em formatos acessíveis a pessoas com deficiência.",
+  "Designar um canal de rádio pública nacional como referência em emergências e definir protocolos de ativação com a ANEPC e a RTP.",
+  "Indicar no guia o canal de rádio e recomendar um rádio portátil com pilhas.",
+  "Campanhas de sensibilização, exercícios comunitários e conteúdos de proteção civil nos currículos escolares."
+ ],
+ "plain_language": "O LIVRE propõe que todas as famílias recebam um guia em papel sobre como agir numa catástrofe e que uma estação de rádio pública fique designada para dar informação em emergências, mesmo sem eletricidade ou internet. É uma recomendação.",
+ "context": "O LIVRE aponta boas práticas dos países nórdicos, onde guias impressos são distribuídos há décadas, e a resiliência da rádio. Refere os eventos climáticos extremos recentes e o apagão de abril de 2025 e defende que melhor comunicação e preparação poderiam ter evitado perdas de vidas.",
+ "analysis": "É uma medida simples e com precedentes internacionais, que responde a falhas de comunicação em situações em que as redes digitais falham. Fragilidades: não estima o custo de imprimir e distribuir o guia a todas as famílias, nem de traduções; a afirmação de que perdas de vidas poderiam ter sido evitadas não é demonstrada; e a escolha de um canal de rádio implica interromper programação, o que exige articulação com a RTP. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A impressão e distribuição de guias a todas as famílias, as traduções e as campanhas implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "famílias residentes em Portugal",
+  "comunidades imigrantes",
+  "pessoas com deficiência",
+  "RTP e proteção civil"
+ ],
+ "categories": [
+  "seguranca",
+  "comunicacao"
+ ],
+ "tags": [
+  "guia de emergência",
+  "rádio pública",
+  "proteção civil",
+  "catástrofes",
+  "preparação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

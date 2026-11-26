@@ -1,0 +1,42 @@
+{
+ "short_title": "Regulamentar a Lei do Direito ao Esquecimento",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a regulamentação efetiva da Lei n.º 75/2021 (direito ao esquecimento no crédito e seguros). Pede a publicação do diploma regulamentar até ao fim do primeiro semestre de 2026; definições técnicas claras, nomeadamente de \"protocolo terapêutico\" e \"informações de saúde\"; uma grelha de referência, atualizada com base em evidência científica, com prazos diferenciados por patologia; mecanismos de fiscalização de práticas discriminatórias; a designação da entidade que coordena a mediação entre seguradoras, instituições de crédito e titulares; obrigações de informação aos consumidores; e revisão periódica com participação de associações. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Publicar a regulamentação da Lei n.º 75/2021 até ao fim do primeiro semestre de 2026.",
+  "Definir conceitos como \"protocolo terapêutico\" e \"informações de saúde\".",
+  "Publicar uma grelha de prazos diferenciados por patologia, atualizada com base em evidência científica.",
+  "Criar fiscalização de práticas discriminatórias e designar a entidade de mediação.",
+  "Definir obrigações de informação e rever periodicamente o regime com associações."
+ ],
+ "plain_language": "Existe uma lei que impede que bancos e seguradoras penalizem quem já ultrapassou doenças como o cancro, mas faltam as regras de execução. O LIVRE pede ao Governo que as publique até meados de 2026, defina prazos por doença, fiscalize abusos e indique quem resolve conflitos. É apenas uma recomendação.",
+ "context": "O LIVRE explica que a Lei n.º 75/2021 devia ter sido regulamentada em um ano, o que não aconteceu. Refere a queixa de associações à Provedoria de Justiça em setembro de 2024, a Norma da ASF n.º 12/2024-R e a consulta pública do Governo em agosto de 2025, com publicação esperada até ao fim de 2025.",
+ "analysis": "A resolução identifica uma falha de execução relevante e propõe um conjunto de elementos técnicos concretos, incluindo prazo. Fragilidades: sendo resolução, não vincula o Governo, que já tem consulta pública em curso; a grelha de prazos por patologia exige trabalho científico e o texto não define quem a elabora; e a designação da entidade de mediação e fiscalização depende de escolhas institucionais não detalhadas. Não há avaliação de custos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A regulamentação e fiscalização podem implicar custos administrativos para entidades públicas. O texto não indica montantes."
+ },
+ "affected": [
+  "sobreviventes de doenças graves",
+  "consumidores de crédito e seguros",
+  "seguradoras e bancos"
+ ],
+ "categories": [
+  "consumidores",
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "direito ao esquecimento",
+  "Lei 75/2021",
+  "seguros",
+  "crédito",
+  "regulamentação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

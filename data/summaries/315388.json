@@ -1,0 +1,42 @@
+{
+ "short_title": "Museu da Resistência Antifascista no edifício do Heroísmo, no Porto",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que apoie o projeto museológico \"Do Heroísmo à Firmeza\" na antiga sede da PIDE no Porto, envolvendo a URAP, e que calendarize a deslocalização do Museu Militar do Porto para instalar no edifício do Heroísmo o Museu da Resistência Antifascista. Recomenda ainda a criação de uma Rede Nacional de Museus da Resistência, em respeito pela autonomia do poder local, articulando o Museu do Aljube, o Museu Nacional da Resistência e da Liberdade, em Peniche, e o futuro museu do Porto. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apoio ao projeto museológico \"Do Heroísmo à Firmeza\", na antiga delegação da PIDE no Porto.",
+  "Envolvimento da URAP e dos testemunhos de quem lá esteve detido.",
+  "Calendarização da deslocalização do Museu Militar do Porto para instalar o Museu da Resistência Antifascista no edifício do Heroísmo.",
+  "Criação da Rede Nacional de Museus da Resistência, articulando os museus de Lisboa, Peniche e Porto."
+ ],
+ "plain_language": "O edifício do Heroísmo, no Porto, foi sede da polícia política do Estado Novo. O PCP quer que o Governo o transforme num museu sobre a resistência ao fascismo, mudando para outro local o Museu Militar que ali funciona, e que ligue este museu aos de Lisboa e de Peniche.",
+ "context": "O proponente recorda que o edifício serviu de centro de detenção e tortura da polícia política, onde terão passado cerca de 7.600 pessoas até 1974. Lembra a resolução da Assembleia de 2019 que recomendava um museu de memória no imóvel e uma resposta do Ministério da Defesa em 2018, que admitia a transferência do Museu Militar.",
+ "analysis": "A proposta dá seguimento a uma resolução anterior e tem valor de memória histórica, com articulação em rede. Fragilidades: depende da decisão do Exército e da Defesa sobre o Museu Militar e de novas instalações, e não indica prazos, orçamento nem modelo de gestão. Sendo uma recomendação, não vincula o Governo, que já terá a resolução de 2019 por cumprir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A transferência do Museu Militar, a instalação do novo museu e a rede de museus implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "Museu Militar do Porto",
+  "URAP e antigos resistentes",
+  "visitantes e população do Porto",
+  "Ministério da Defesa Nacional"
+ ],
+ "categories": [
+  "cultura",
+  "defesa",
+  "territorio"
+ ],
+ "tags": [
+  "Museu da Resistência",
+  "PIDE",
+  "Porto",
+  "memória histórica",
+  "Museu Militar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

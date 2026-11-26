@@ -1,0 +1,42 @@
+{
+ "short_title": "Direitos dos estudantes e ação social no ensino superior",
+ "summary": "O projeto de lei do PAN altera os artigos 20.º, 22.º, 25.º, 26.º, 97.º e 109.º do Regime Jurídico das Instituições de Ensino Superior (RJIES) e adita os artigos 20.º-A e 162.º-A. Reestrutura a ação social escolar, separando o apoio direto (bolsas de estágio curricular e de ensino clínico, apoio a equipamentos digitais e material escolar) do indireto (alimentação e alojamento), e inscreve entre as atribuições do Estado uma política nacional de alojamento estudantil. As instituições passam a reconhecer, por regulamento próprio, os direitos e deveres de todos os estudantes e um conjunto de estatutos especiais (trabalhador-estudante, estudante cuidador informal, estudante atleta, entre outros). Prevê participação das associações na escolha do Provedor do Estudante, pelo menos um estudante nos órgãos executivos das unidades orgânicas e critérios uniformes e transparentes para taxas e emolumentos. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Separa o apoio social direto do indireto e acrescenta bolsas de estágio curricular e de ensino clínico e apoio a equipamentos digitais.",
+  "O Estado passa a promover uma política nacional de alojamento para estudantes.",
+  "Cada instituição reconhece em regulamento os direitos e deveres dos estudantes e estatutos especiais, como trabalhador-estudante e cuidador informal.",
+  "Associações estudantis participam na seleção do Provedor do Estudante e há pelo menos um estudante nos órgãos executivos das unidades orgânicas.",
+  "Critérios claros e uniformes de taxas e emolumentos, com regulamentação publicada."
+ ],
+ "plain_language": "A proposta dá mais direitos e apoios aos estudantes do ensino superior: bolsas para estágios, ajuda para computadores e material, mais atenção ao alojamento, estatutos especiais para quem trabalha ou cuida de familiares e mais transparência nas propinas e taxas. Os estudantes ganham também mais voz na gestão das instituições.",
+ "context": "O PAN refere que os candidatos ao ensino superior caíram para menos de 50 mil na 1.ª fase, que apenas 43% dos jovens adultos de 25 a 34 anos têm diploma superior (48% na média da OCDE), que a bolsa da DGES cobre em média menos de 20% dos custos e que a falta de alojamento é o maior constrangimento. A iniciativa segue pedidos da Federação Académica do Porto.",
+ "analysis": "A proposta responde a problemas identificados com dados concretos e dá reconhecimento legal a situações específicas dos estudantes. Fragilidades: os novos apoios e a política de alojamento não vêm acompanhados de estimativas de custo ou fontes de financiamento; remete para um Estatuto do Estudante do Ensino Superior ainda por aprovar; as instituições mantêm autonomia para definir os direitos em regulamento, o que pode gerar diferenças entre elas. A ligação causal entre bolsas e quebra de candidatos é apresentada como hipótese.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Novos apoios sociais, bolsas e uma política de alojamento estudantil aumentam a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "estudantes do ensino superior",
+  "trabalhadores-estudantes e cuidadores informais",
+  "instituições de ensino superior",
+  "Direção-Geral do Ensino Superior"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "ensino superior",
+  "rjies",
+  "ação social escolar",
+  "alojamento estudantil",
+  "provedor do estudante"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

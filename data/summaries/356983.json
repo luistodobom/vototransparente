@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas extraordinárias contra o aumento do custo de vida",
+ "summary": "O Projeto de Resolução do Bloco de Esquerda recomenda ao Governo um pacote de medidas para mitigar o aumento do custo de vida, centrado em alimentação e combustíveis. Propõe IVA a taxa zero num cabaz de bens alimentares essenciais, com mecanismo de regulação de preços e acordo com produtores e distribuidores, fiscalizado pela ASAE. Recomenda reduzir temporariamente o IVA dos combustíveis rodoviários para a taxa intermédia e fixar margens máximas de comercialização nos combustíveis, com monitorização pela Autoridade da Concorrência e pela ERSE. Propõe ainda uma contribuição extraordinária sobre lucros extraordinários dos setores energético, petrolífero, financeiro e da distribuição alimentar, para financiar estas medidas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "IVA a taxa zero num cabaz de bens alimentares essenciais, com regulação de preços e acordo com produtores e distribuidores.",
+  "Fiscalização do cumprimento da medida alimentar pela Autoridade de Segurança Alimentar e Económica.",
+  "Redução temporária do IVA dos combustíveis rodoviários para a taxa intermédia.",
+  "Fixação de margens máximas de comercialização nos combustíveis e monitorização pública de preços e margens.",
+  "Contribuição extraordinária sobre lucros extraordinários de energia, petróleo, banca e distribuição alimentar, afeta ao financiamento das medidas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que reduza o que as pessoas pagam por comida e combustível: IVA a zero em alimentos essenciais e IVA mais baixo nos combustíveis, com limites às margens das empresas para o desconto chegar ao consumidor. Para pagar, propõe uma taxa sobre os lucros extraordinários de empresas de energia, banca e supermercados.",
+ "context": "O proponente descreve uma crise prolongada do custo de vida, com subida dos preços da habitação, da energia e dos alimentos, e cita dados do INE e da ERSE. Atribui a subida dos combustíveis à guerra com o Irão, aponta exemplos de Espanha e Polónia e refere lucros recordes de empresas energéticas.",
+ "analysis": "A proposta aponta medidas imediatas e já testadas noutros contextos, e liga a perda de receita fiscal a uma fonte de financiamento. Mas o texto não quantifica o custo da redução do IVA nem a receita esperada da contribuição extraordinária, e não define o que são lucros extraordinários nem o cabaz. A fixação de margens e de preços levanta riscos de eficácia, de escassez e de compatibilidade com o direito europeu do IVA. O repasse do desconto ao consumidor depende de fiscalização. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Reduzir o IVA em alimentos e combustíveis diminui a receita fiscal, enquanto a contribuição extraordinária sobre lucros a aumentaria. O texto não apresenta montantes."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "empresas do setor energético e petrolífero",
+  "banca",
+  "distribuição alimentar"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "energia"
+ ],
+ "tags": [
+  "custo de vida",
+  "iva",
+  "combustíveis",
+  "lucros extraordinários",
+  "cabaz alimentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

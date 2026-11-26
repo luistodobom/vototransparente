@@ -1,0 +1,42 @@
+{
+ "short_title": "Autorização legislativa sobre produtos cosméticos",
+ "summary": "O Governo pede à Assembleia da República autorização legislativa, válida por 180 dias, para legislar sobre medidas cautelares e regime sancionatório na execução do Regulamento (CE) n.º 1223/2009 sobre produtos cosméticos. O INFARMED poderia adotar medidas cautelares, como a suspensão da atividade ou o encerramento de estabelecimentos, e seria a entidade fiscalizadora e decisora em contraordenações. O decreto-lei autorizado, que acompanha a proposta e revoga o Decreto-Lei n.º 189/2008, cria o registo de operadores no INFARMED, regras de rotulagem, fiscalização e comunicação de efeitos indesejáveis, e coimas de 500 a 44 890 euros consoante a gravidade e o tipo de agente.",
+ "key_points": [
+  "Autorização legislativa ao Governo com duração de 180 dias, para medidas cautelares e regime sancionatório.",
+  "O INFARMED pode ordenar a recolha, retirada ou suspensão de produtos e impor a suspensão da atividade ou o encerramento de estabelecimentos, incluindo locais de fabrico ou armazenagem.",
+  "O decreto-lei autorizado sujeita a registo no INFARMED as atividades de fabrico, importação e distribuição, com prazo transitório de 180 dias após a entrada em funcionamento da plataforma eletrónica.",
+  "Coimas por contraordenações muito graves: 2 500 a 3 740 euros (pessoas singulares) e 20 000 a 44 890 euros (pessoas coletivas); graves: 500 a 2 500 e 5 000 a 20 000 euros; o produto reparte-se 60% Estado, 30% INFARMED e 10% entidade autuante.",
+  "Revoga o Decreto-Lei n.º 189/2008, que regulava até agora os produtos cosméticos."
+ ],
+ "plain_language": "O Governo quer que o Parlamento lhe dê licença para criar, por decreto-lei, regras sobre cosméticos como cremes ou champôs. O INFARMED poderia mandar suspender uma atividade ou fechar um local quando houver perigo para a saúde, e aplicar coimas a quem não cumpra as regras europeias. As empresas teriam de se registar e cumprir regras de armazenamento, rotulagem e comunicação de efeitos indesejáveis.",
+ "context": "O Governo refere que o Regulamento (CE) n.º 1223/2009 revogou a diretiva anterior e obriga os Estados-Membros a executar internamente várias matérias. Pretende por isso aprovar um novo regime nacional para operadores, língua e rotulagem, comunicação de efeitos indesejáveis e sanções, com medidas cautelares para proteger a saúde pública.",
+ "analysis": "Como lei de autorização, fixa apenas o sentido e a extensão, deixando o detalhe para o decreto-lei; a inclusão do projeto de decreto-lei autorizado facilita o escrutínio. Reforça a proteção do consumidor e clarifica a autoridade competente, mas os poderes de encerramento e de ordenar a recolha exigem proporcionalidade e garantias de defesa (as decisões têm de ser fundamentadas e são impugnáveis judicialmente). A lista extensa de contraordenações muito graves, incluindo faltas formais de registo, pode pesar sobre pequenos operadores. A repartição do produto das coimas com o próprio INFARMED e a entidade autuante é um ponto que merece atenção por poder criar incentivos à fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas de custos. A fiscalização e a plataforma de registo do INFARMED implicam custos administrativos, e as coimas geram receita (60% para o Estado, 30% para o INFARMED), sem montantes globais indicados."
+ },
+ "affected": [
+  "fabricantes e importadores de cosméticos",
+  "distribuidores e retalhistas de cosméticos",
+  "consumidores",
+  "INFARMED"
+ ],
+ "categories": [
+  "consumidores",
+  "saude"
+ ],
+ "tags": [
+  "cosméticos",
+  "infarmed",
+  "autorização legislativa",
+  "contraordenações",
+  "regulamento europeu"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Garantir o acesso à gestação de substituição (PAN)",
+ "summary": "O PAN propõe alterar a Lei da Procriação Medicamente Assistida (sétima alteração à Lei n.º 32/2006) para garantir o acesso à gestação de substituição, perante a declaração de inconstitucionalidade de parte do regime. Mantém o carácter excecional e gratuito e a autorização prévia do CNPMA, mas prevê que a gestante possa retirar livremente o consentimento até 20 dias depois do nascimento, com a declaração de nascimento a fazer-se nas conservatórias do registo civil. Proíbe o acesso entre pessoas com relação de subordinação económica, impede restrições à liberdade da gestante, permite o acompanhamento da gestante pelos beneficiários e altera as regras de confidencialidade, permitindo às pessoas nascidas aceder, aos 18 anos, à identificação civil da gestante e dos dadores. Revoga o n.º 12 do artigo 8.º e o n.º 4 do artigo 15.º.",
+ "key_points": [
+  "Mantém a gestação de substituição como exceção e a título gratuito, sujeita a autorização prévia do CNPMA.",
+  "Permite à gestante retirar o consentimento até 20 dias após o nascimento.",
+  "Proíbe o recurso quando há subordinação económica entre as partes e impede restrições à liberdade da gestante.",
+  "Permite o acompanhamento da gestante pelos beneficiários, por acordo de todos.",
+  "Permite às pessoas nascidas, aos 18 anos, obter a identificação civil da gestante e dos dadores, e revoga o n.º 12 do artigo 8.º e o n.º 4 do artigo 15.º."
+ ],
+ "plain_language": "O PAN propõe corrigir a lei da gestação de substituição para que, depois de parte dela ter sido declarada inconstitucional, as mulheres que não podem engravidar possam voltar a ter acesso a este processo. A gestante poderia mudar de ideias até 20 dias depois do parto, não poderia haver pagamentos nem pressão económica, e as pessoas nascidas desta forma poderiam, aos 18 anos, saber quem as gestou.",
+ "context": "O PAN explica que a lei de 2016 admitiu a gestação de substituição em situações excecionais, mas que um grupo de 30 deputados pediu a declaração de inconstitucionalidade de várias normas, incluindo as da gestação de substituição e da confidencialidade. Pretende, com esta alteração, garantir o acesso a este método, adequando-o ao acórdão do Tribunal Constitucional.",
+ "analysis": "A proposta aborda os pontos que o Tribunal Constitucional considerou problemáticos, reforçando a possibilidade de revogação do consentimento, e acrescenta proteção contra a subordinação económica. A revogação até 20 dias após o parto reforça a posição da gestante, mas aumenta a incerteza para os beneficiários. A identificação da gestante às pessoas nascidas aos 18 anos é uma alteração significativa à confidencialidade, com implicações para a privacidade dos envolvidos que o texto analisado não desenvolve. O tema é eticamente controverso e o texto não estima custos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Há custos administrativos para o CNPMA e para o acompanhamento clínico, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres sem útero ou com lesão do útero",
+  "gestantes de substituição",
+  "pessoas nascidas por PMA",
+  "CNPMA e centros de PMA"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "gestação de substituição",
+  "procriação medicamente assistida",
+  "tribunal constitucional",
+  "confidencialidade",
+  "consentimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

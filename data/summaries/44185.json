@@ -1,0 +1,42 @@
+{
+ "short_title": "Continuar a eliminar constrangimentos no processamento de pensões",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo que assegure: a definição de um plano a curto prazo para eliminar os constrangimentos ainda existentes no processamento das pensões e um desenvolvimento mais célere dos sistemas de informação e interconexão de dados; a continuidade e o reforço de medidas em curso, como soluções aplicacionais que reduzam intervenções manuais, a simplificação de processos e melhor informação aos beneficiários, por exemplo através do Simplex+ com verificações automáticas por cruzamento com outras entidades (CGA, Ministério da Justiça, Ministério das Finanças); e um mecanismo de acompanhamento permanente das medidas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Plano a curto prazo para eliminar os constrangimentos existentes no processamento de pensões.",
+  "Desenvolvimento mais célere dos sistemas de informação e interconexão de dados.",
+  "Soluções aplicacionais que reduzam intervenções manuais e melhorem a comunicação com o cidadão.",
+  "Simplificação de processos e verificações automáticas por cruzamento com outras entidades, no âmbito do Simplex+.",
+  "Mecanismo de acompanhamento permanente das medidas."
+ ],
+ "plain_language": "O PS pede ao Governo que continue e reforce o trabalho para acelerar a atribuição de pensões, com um plano de curto prazo, melhores sistemas informáticos que troquem dados entre serviços, processos mais simples e um acompanhamento permanente. É uma recomendação, sem força obrigatória.",
+ "context": "O PS afirma que as medidas tomadas desde 2015, incluindo as pensões provisórias e as alterações fiscais que limitam o IRS aos meses em que a pensão foi efetivamente paga, já desbloquearam muitos constrangimentos causados pela perda de recursos humanos no Instituto da Segurança Social, mas que subsistem pendências que justificam prosseguir a estratégia.",
+ "analysis": "A proposta aposta na digitalização e na interoperabilidade de sistemas, que podem reduzir erros e tempos de resposta de forma duradoura, e prevê acompanhamento. É, porém, muito genérica: não fixa prazos, metas de tempo de espera, número de processos pendentes, meios humanos nem custos, o que torna difícil verificar o seu cumprimento. O texto defende a ação do Governo apoiado pelo partido proponente, e a recomendação consiste sobretudo em continuidade. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não identifica custos nem poupanças. A modernização dos sistemas de informação pode ter encargos, mas não são quantificados."
+ },
+ "affected": [
+  "requerentes de pensões",
+  "pensionistas",
+  "Instituto da Segurança Social",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "simplex+",
+  "sistemas de informação",
+  "pendências"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

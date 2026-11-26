@@ -1,0 +1,40 @@
+{
+ "short_title": "Impedir a privatização dos cuidados de saúde primários e hospitalares do SNS",
+ "summary": "O Bloco de Esquerda propõe eliminar a possibilidade de privatização da gestão dos cuidados de saúde primários e hospitalares no SNS. Para isso altera os artigos 3.º, 7.º e 9.º do Anexo I do Decreto-Lei n.º 103/2023 (regime das unidades de saúde familiar), definindo as USF como unidades de gestão pública, mantendo apenas o modelo USF B e revogando vários números. Revoga também o Decreto-Lei n.º 23/2020, que estabelece as regras para contratos de parceria de gestão na área da saúde. Entra em vigor no primeiro dia do mês seguinte ao da publicação.",
+ "key_points": [
+  "Define as USF como unidades de gestão pública e mantém apenas o modelo USF B.",
+  "Revoga números dos artigos 3.º, 7.º e 9.º do Anexo I do Decreto-Lei n.º 103/2023.",
+  "Revoga o Decreto-Lei n.º 23/2020 sobre parcerias de gestão na saúde.",
+  "Entra em vigor no primeiro dia do mês seguinte ao da publicação."
+ ],
+ "plain_language": "A proposta impede que a gestão dos centros de saúde familiares e dos hospitais do SNS possa ser entregue a entidades privadas, revogando a lei que permite parcerias de gestão e retirando da lei das USF o que admite modelos não públicos.",
+ "context": "O BE defende a saúde como direito garantido pelo Estado e critica o aumento de transferências para hospitais privados e uma agenda de privatização do SNS. Considera que o modelo de parcerias e externalização desvia recursos públicos e enfraquece o serviço público.",
+ "analysis": "A proposta dá garantia legal ao caráter público da gestão, o que responde a quem teme privatizações. Em contrapartida, retira instrumentos de gestão e de parceria que o Estado hoje pode usar para reforçar capacidade, em particular onde o SNS tem falta de recursos, e remove modelos de USF cuja eliminação o texto não justifica caso a caso. A revogação dos diplomas pode afetar contratos em curso, matéria que o articulado não regula.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica. Pode reduzir pagamentos a entidades privadas, mas aumentar encargos de gestão direta do SNS; o efeito líquido não é estimado."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "unidades de saúde familiar",
+  "entidades privadas de saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "privatização",
+  "unidades de saúde familiar",
+  "parcerias de gestão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

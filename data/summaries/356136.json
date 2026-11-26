@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção de vítimas de violência doméstica e crime de feminicídio",
+ "summary": "O projeto de lei do PAN altera o Código de Processo Penal, a Lei n.º 112/2009, o Estatuto da Vítima e o Código Penal. Permite ler em julgamento o depoimento prestado em inquérito pela vítima de violência doméstica ou vítima especialmente vulnerável que se recuse a depor. Prevê a possibilidade de a Equipa de Análise Retrospetiva de Homicídio em Violência Doméstica ouvir familiares, amigos, a vítima sobrevivente ou o agente do crime, e que as declarações para memória futura possam ser valoradas mesmo que a vítima se recuse validamente a depor. Autonomiza no Código Penal o crime de feminicídio (novo artigo 132.º-A), punido com prisão de 15 a 25 anos quando uma mulher é morta por razões de género, com critérios de determinação da pena e sem atenuação especial por estados emocionais ou relacionais. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Novo crime de feminicídio, com pena de 15 a 25 anos de prisão para quem mate uma mulher por razões relacionadas com o género.",
+  "Critérios que indiciam razões de género, como contexto de violência doméstica ou sexual e comportamentos de controlo, perseguição ou ameaça.",
+  "Exceção à proibição de ler depoimentos do inquérito no caso de vítimas de violência doméstica ou especialmente vulneráveis que se recusem a depor.",
+  "Declarações para memória futura valoráveis mesmo que a vítima se recuse validamente a depor.",
+  "Equipa de Análise Retrospetiva de Homicídio pode ouvir familiares, amigos, vítima sobrevivente ou agente do crime."
+ ],
+ "plain_language": "O PAN propõe tornar o assassinato de uma mulher por razões de género um crime autónomo, o feminicídio, com pena de 15 a 25 anos. Propõe também que o que a vítima de violência doméstica disse na investigação possa ser usado em julgamento mesmo que depois não queira falar.",
+ "context": "O PAN cita o Relatório Anual de Segurança Interna de 2023, segundo o qual a violência doméstica representa 85,5% da criminalidade participada contra pessoas, e o de 2024, segundo o qual apenas 13,9% de 37.592 inquéritos concluídos resultaram em acusação. Considera necessária uma resposta penal mais adequada à gravidade dos crimes contra mulheres em contexto de violência de género.",
+ "analysis": "A autonomização do feminicídio dá visibilidade e uma moldura penal própria, em linha com debates internacionais. Contudo, o Código Penal já prevê homicídio qualificado e agravado, e a definição por razões de género depende de prova da motivação, de difícil produção. A distinção entre pena de 15 a 25 anos e o homicídio qualificado pode suscitar dúvidas de articulação. A valoração de declarações sem contraditório em julgamento exige cautelas quanto aos direitos de defesa. O texto não analisa o impacto prático.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita diretas, tratando-se sobretudo de alterações penais e processuais."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "mulheres vítimas de homicídio e respetivas famílias",
+  "arguidos",
+  "tribunais e Ministério Público"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "feminicídio",
+  "violência doméstica",
+  "código penal",
+  "memória futura",
+  "estatuto da vítima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

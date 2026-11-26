@@ -1,0 +1,40 @@
+{
+ "short_title": "Falta justificada paga no dia da dádiva de sangue",
+ "summary": "O projeto de lei do PAN altera o Estatuto do Dador de Sangue e o Código do Trabalho para garantir que o trabalhador que doa sangue possa ausentar-se no dia da dádiva sem perda de direitos ou regalias. No Estatuto, o direito passa a referir-se ao dia da dádiva, e não apenas ao tempo necessário para a colheita, abrangendo também a atividade de formação e a participação em programas ocupacionais. No Código do Trabalho, a ausência motivada por dádiva de sangue passa a constar expressamente da lista de faltas justificadas, nos termos do Estatuto. A lei entra em vigor no primeiro dia do mês seguinte ao da publicação.",
+ "key_points": [
+  "O dador tem direito a ausentar-se do trabalho, da formação ou de programas ocupacionais no dia da dádiva, sem perdas de direitos ou regalias.",
+  "A dádiva de sangue passa a ser fundamento expresso de falta justificada no artigo 249.º do Código do Trabalho.",
+  "Substitui-se a referência ao tempo necessário para a colheita pelo dia da dádiva.",
+  "Entrada em vigor no primeiro dia do mês seguinte ao da publicação."
+ ],
+ "plain_language": "Quem dá sangue passa a poder faltar ao trabalho no dia inteiro da dádiva sem perder remuneração nem outros direitos. Hoje a lei só prevê a ausência pelo tempo necessário para a colheita, o que, segundo o proponente, desincentiva muitas pessoas.",
+ "context": "O PAN sustenta que as reservas nacionais de sangue estão frequentemente perto de níveis mínimos e que constrangimentos laborais desincentivam a dádiva regular. Aponta ainda a conveniência de um período de repouso após a dádiva, em funções como condução ou trabalho em altura, e a falta de menção expressa no Código do Trabalho.",
+ "analysis": "A medida elimina ambiguidades e pode facilitar a adesão de dadores, mas o efeito sobre o número de dádivas não é demonstrado no texto. Transfere custos para os empregadores, em especial pequenas empresas, que suportam a remuneração do dia. A redação ainda deixa dúvidas, por exemplo sobre a necessidade de comprovativo e sobre o regime de ausências em dias consecutivos, que remete para o Estatuto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O custo da remuneração do dia recai sobretudo sobre os empregadores, e o texto não quantifica impactos. Pode haver efeitos na Administração Pública enquanto empregadora."
+ },
+ "affected": [
+  "dadores de sangue",
+  "trabalhadores",
+  "empregadores",
+  "Instituto Português do Sangue e da Transplantação"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "estatuto do dador",
+  "faltas justificadas",
+  "código do trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

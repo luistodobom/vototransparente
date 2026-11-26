@@ -1,0 +1,42 @@
+{
+ "short_title": "Rever a entrega obrigatória do ficheiro SAF-T da contabilidade",
+ "summary": "O PCP recomenda ao Governo que reconsidere os procedimentos de entrega do ficheiro SAF-T(PT) da contabilidade, previstos no Decreto-Lei n.º 48/2020, para que os dados de menor relevância ou desproporcionados sejam efetivamente excluídos antes da submissão, como exige a Lei n.º 119/2019, e não apenas encriptados. Pede que, no prazo de três meses, sejam solicitados pareceres à CNPD, Comissão de Normalização Contabilística, Ordem dos Contabilistas Certificados, Provedoria de Justiça, confederações empresariais e outras entidades, e que se elabore e publique um estudo comparativo com outros países da UE. Recomenda também clarificar os ganhos de eficiência para a Autoridade Tributária e suspender a obrigatoriedade enquanto durarem as consequências económicas da COVID-19 e até estarem os pareceres e estudos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconsiderar os procedimentos de submissão do SAF-T para que os dados excessivos sejam excluídos e não só encriptados.",
+  "Pedir, em três meses, pareceres à CNPD, ao OCC, à Provedoria de Justiça e a entidades empresariais, entre outras.",
+  "Elaborar e publicar, em três meses, um estudo comparativo com outros países da UE.",
+  "Clarificar os ganhos de eficiência para a Autoridade Tributária.",
+  "Suspender a obrigatoriedade enquanto durar a crise da COVID-19 e até haver pareceres e estudos."
+ ],
+ "plain_language": "As empresas teriam de entregar às Finanças um ficheiro com toda a sua contabilidade, ainda que parte dos dados vá cifrada. O PCP quer que o Governo reveja isto, ouça entidades como a proteção de dados e os contabilistas, estude o que outros países fazem e suspenda a obrigação durante a crise da COVID-19. É uma recomendação.",
+ "context": "O proponente defende que o acesso da Autoridade Tributária a todo o ficheiro vai além do necessário, incluindo dados sob sigilo e dados pessoais de terceiros, com riscos sobretudo para micro e pequenas empresas. Cita o parecer da CNPD, que considerou o acesso excessivo, e afirma que a solução da encriptação não corresponde à exclusão prevista na lei.",
+ "analysis": "O texto apoia-se num parecer da CNPD e numa leitura literal da lei, o que dá consistência ao argumento da exclusão versus encriptação. Contudo, a suspensão por tempo indeterminado pode atrasar a simplificação fiscal e o combate à fraude que a medida visa, e o texto não pondera esses benefícios. Os pareceres e estudos pedidos em três meses podem ser difíceis de cumprir. A afirmação de que nenhum outro país da UE a aplica é feita sem fontes. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A suspensão pode adiar ganhos de eficiência na cobrança e fiscalização, e os estudos têm custos administrativos; o texto não quantifica."
+ },
+ "affected": [
+  "micro, pequenas e médias empresas",
+  "contabilistas certificados",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "SAF-T",
+  "contabilidade",
+  "proteção de dados",
+  "Autoridade Tributária",
+  "PME"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

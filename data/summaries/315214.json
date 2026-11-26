@@ -1,0 +1,39 @@
+{
+ "short_title": "Regulamentação da profissão de psicomotricista",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo que regulamente a profissão de psicomotricista, em articulação com as organizações representativas destes trabalhadores. É uma recomendação não vinculativa. O texto afirma que a psicomotricidade é prática profissional há décadas, tem formação superior desde 2002 e consta da Classificação Portuguesa de Profissões 2010, mas continua por regulamentar, o que o proponente considera prejudicial a profissionais e utentes. Estima que existam cerca de 2500 psicomotricistas em Portugal, presentes nos setores público, privado e social.",
+ "key_points": [
+  "Recomenda a regulamentação da profissão de psicomotricista.",
+  "A regulamentação deve ser feita em articulação com as organizações representativas dos profissionais.",
+  "Invoca a formação superior desde 2002 e o enquadramento na Classificação Portuguesa de Profissões 2010.",
+  "Aponta o objetivo de evitar a usurpação de funções e garantir a qualidade dos cuidados."
+ ],
+ "plain_language": "Os psicomotricistas trabalham na saúde, na educação e no desporto, mas a sua profissão ainda não tem regras próprias fixadas por lei. O PCP pede ao Governo que as crie, ouvindo os profissionais, para proteger quem recebe os cuidados e quem os presta. É uma recomendação, que o Governo pode ou não seguir.",
+ "context": "O PCP afirma que a profissão é reconhecida por várias entidades, inclusive pelos ministérios da Saúde e do Trabalho, e que a falta de regulamentação favorece abusos e usurpação de funções, motivando queixas à Associação Portuguesa de Psicomotricidade. Estima cerca de 2500 profissionais.",
+ "analysis": "Responde a uma reivindicação de uma classe profissional e a objetivos de proteção dos utentes. Fragilidades: a recomendação é genérica, sem definir o modelo de regulamentação (ordem profissional, título, competências), os prazos ou os impactos, e não esclarece a sua relação com outras profissões da saúde. Sendo recomendação, a concretização depende do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A regulamentação poderia ter custos administrativos e eventuais impactos na contratação de profissionais, sem dados indicados."
+ },
+ "affected": [
+  "psicomotricistas",
+  "utentes de cuidados de psicomotricidade",
+  "instituições de ensino superior"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "psicomotricista",
+  "regulamentação profissional",
+  "saúde",
+  "classificação portuguesa de profissões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

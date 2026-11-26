@@ -1,0 +1,39 @@
+{
+ "short_title": "Publicar a portaria dos especialistas em física médica",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que publique a portaria para o reconhecimento dos especialistas em física médica, prevista no artigo 161.º do Decreto-Lei n.º 108/2018, de 3 de dezembro, que estabelece o regime jurídico da proteção radiológica. Esse artigo atribui à Administração Central do Sistema de Saúde (ACSS) o reconhecimento destes especialistas, nos termos a aprovar por portaria, que deve incluir o programa de formação e o montante das taxas, sendo o reconhecimento válido por cinco anos, renovável. Sem a portaria, o reconhecimento não pode ser feito. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Publicação da portaria prevista no artigo 161.º do Decreto-Lei n.º 108/2018.",
+  "A ACSS é a entidade competente para reconhecer os especialistas em física médica.",
+  "A portaria deve incluir o programa de formação e as taxas do processo de reconhecimento."
+ ],
+ "plain_language": "Uma lei de 2018 diz que os físicos médicos, que trabalham sobretudo com imagem médica e radioterapia, devem ser reconhecidos como especialistas, mas falta publicar a portaria que define como. O Bloco de Esquerda pede ao Governo que a publique. É uma recomendação.",
+ "context": "O BE explica que o Decreto-Lei n.º 108/2018 define o papel do especialista em física médica, responsável pela dosimetria e pela otimização da proteção contra radiações, mas o reconhecimento depende de uma portaria que ainda não foi publicada. Considera uma contradição com a importância atribuída a estes profissionais.",
+ "analysis": "A proposta é específica e verificável: pede o cumprimento de uma norma já existente, o que reduz controvérsia. Salienta uma lacuna regulamentar com impacto na prática, já que sem a portaria não há reconhecimento. Contudo, não fixa prazo, não detalha o conteúdo da portaria nem o impacto para os serviços de saúde, e a sua eficácia depende do Governo, por ser uma resolução. Não discute a causa do atraso.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa pede apenas a publicação de uma portaria já prevista; o texto não indica impacto orçamental, embora a portaria inclua taxas de reconhecimento."
+ },
+ "affected": [
+  "físicos médicos",
+  "Administração Central do Sistema de Saúde",
+  "serviços de radioterapia e imagem médica"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "física médica",
+  "proteção radiológica",
+  "portaria",
+  "acss",
+  "radioterapia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

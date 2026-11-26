@@ -1,0 +1,42 @@
+{
+ "short_title": "Concorrência, transparência e acessibilidade no mercado do GPL engarrafado",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo cinco medidas para o mercado do gás de petróleo liquefeito engarrafado. Avaliar, com a ERSE e a Autoridade da Concorrência, os desvios entre os preços ao consumidor e os valores eficientes estimados pela ERSE; adotar medidas caso o desfasamento seja persistente e injustificado, ponderando fixar temporariamente margens máximas; promover um roteiro nacional para a convergência técnica voluntária dos sistemas de ligação e acoplamento das garrafas; avaliar o regime que limita a armazenagem de garrafas pelos revendedores; e reforçar a transparência, usando o Dashboard dos Combustíveis da ERSE. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Avaliar os desvios entre preços de venda e preços eficientes estimados pela ERSE.",
+  "Ponderar a fixação temporária de margens máximas se houver desfasamento persistente e injustificado.",
+  "Roteiro para a convergência técnica voluntária dos sistemas de ligação e redutores das garrafas.",
+  "Avaliar o limite à capacidade de armazenagem de garrafas pelos revendedores.",
+  "Reforçar a informação aos consumidores através do Dashboard dos Combustíveis da ERSE."
+ ],
+ "plain_language": "O gás de botija é essencial para muitas famílias, sobretudo no interior. O PSD pede ao Governo que verifique se os preços estão acima do que seria justo, que possa limitar as margens se for necessário, que torne as garrafas das várias marcas compatíveis entre si e que melhore a informação disponível aos consumidores.",
+ "context": "O PSD descreve um mercado concentrado, com preços médios entre 4,2% e 7,2% acima dos preços eficientes estimados, segundo o relatório mensal da ERSE de dezembro de 2025. Aponta ainda barreiras técnicas, como a incompatibilidade entre redutores, um limite de cerca de 20 garrafas de armazenagem e a pobreza energética.",
+ "analysis": "Pontos fortes: combina diagnóstico com dados do regulador, usa instrumentos legais já existentes e dá prioridade à avaliação antes da intervenção. Fragilidades: as medidas são condicionais e voluntárias, sem prazos nem metas, o que limita o impacto. A fixação de margens máximas pode ter efeitos adversos sobre a oferta, e a convergência técnica pode implicar custos para operadores e consumidores que o texto não analisa.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A resolução recomenda avaliações e medidas regulatórias, sem prever despesa ou receita pública direta."
+ },
+ "affected": [
+  "famílias consumidoras de GPL engarrafado",
+  "operadores e revendedores de GPL",
+  "ERSE e Autoridade da Concorrência"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "GPL",
+  "gás de botija",
+  "concorrência",
+  "ERSE",
+  "pobreza energética"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Dignificação do ensino artístico especializado",
+ "summary": "O PAN propõe um conjunto de medidas para dignificar o ensino artístico especializado. O Governo, com os municípios e as escolas, faria um levantamento das necessidades e condições das infraestruturas, equipamentos e recursos pedagógicos, e com base nele desenvolveria um plano de investimento a médio e longo prazo, incluindo clubes de artes nas escolas. Seria criado um sistema de bolsas artísticas, atribuídas por necessidade socioeconómica e potencial artístico, que cobririam mensalidades, propinas, materiais e transporte. O Ministério da Educação asseguraria a contratação de docentes das componentes técnico-artísticas em todas as fases do ensino, incluindo o 1.º ciclo. Prevê-se um relatório anual de execução, regulamentação em 60 dias e entrada em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Levantamento nacional das necessidades e das infraestruturas do ensino artístico especializado.",
+  "Plano de investimento a médio e longo prazo, com clubes de artes nas escolas.",
+  "Sistema de bolsas artísticas com critérios socioeconómicos e de potencial artístico.",
+  "Contratação de docentes das componentes técnico-artísticas em todas as fases, incluindo o 1.º ciclo.",
+  "Relatório anual de execução e regulamentação em 60 dias."
+ ],
+ "plain_language": "A proposta quer melhorar as escolas de ensino artístico (música, dança, artes visuais). Primeiro, o Governo ver quais as carências em edifícios e equipamentos e planeia o investimento. Depois, cria bolsas para que nenhum aluno fique de fora por falta de dinheiro. Por fim, garante professores especializados em artes, desde o 1.º ciclo.",
+ "context": "O PAN considera que o Estado tem desvalorizado as artes na escola e aponta falta de infraestruturas, financiamento insuficiente, dependência de fundos comunitários e dificuldades financeiras das famílias. Refere o concurso extraordinário de vinculação de docentes aprovado em Conselho de Ministros em setembro de 2023 como passo importante mas insuficiente.",
+ "analysis": "A iniciativa aborda necessidades concretas (infraestruturas, apoio social, docentes) e prevê monitorização anual. Contudo, não define montantes, número de bolsas nem calendário preciso do plano, remetendo o financiamento para o Orçamento do Estado. O prazo previsto para o levantamento (2023) pode já estar desajustado face à tramitação. A contratação em todas as fases, incluindo o 1.º ciclo, é ampla e o seu impacto orçamental e a articulação com as regras de recrutamento não são analisados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Bolsas, investimento em infraestruturas e contratação de docentes implicam despesa pública adicional, sem montantes indicados no texto."
+ },
+ "affected": [
+  "estudantes do ensino artístico especializado",
+  "docentes de artes",
+  "escolas artísticas",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "cultura"
+ ],
+ "tags": [
+  "ensino artístico",
+  "bolsas",
+  "infraestruturas escolares",
+  "contratação de docentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

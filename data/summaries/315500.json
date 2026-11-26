@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibição de comercializar madeira ardida",
+ "summary": "Projeto de Lei do CHEGA que proíbe a comercialização, por qualquer meio e nos setores privado, público e cooperativo, de madeira ardida resultante de incêndios florestais, com exceção do uso científico, académico ou de investigação autorizado pelo ministro do Ambiente. A madeira ardida é considerada perdida a favor do Estado, mediante compensação aos proprietários com base nos valores de mercado de referência (SIMeF) ou avaliação do ICNF, a pagar em 90 dias. O ICNF, com os municípios, remove a madeira em prazo nunca superior a 120 dias após o incêndio, destinando-a prioritariamente a biomassa para energia. O incumprimento é contraordenação grave, com coima de 10.000 a 50.000 euros. Entra em vigor após a publicação do Orçamento do Estado seguinte.",
+ "key_points": [
+  "Proíbe comercializar madeira ardida de incêndios florestais, com exceção de uso científico autorizado.",
+  "A madeira ardida passa para o Estado, com compensação aos proprietários pelos valores de referência do SIMeF ou avaliação do ICNF.",
+  "A compensação deve ser paga no prazo máximo de 90 dias após o pedido válido.",
+  "O ICNF e os municípios removem a madeira em até 120 dias após o incêndio, destinando-a sobretudo a biomassa.",
+  "Contraordenação grave com coima de 10.000 a 50.000 euros."
+ ],
+ "plain_language": "O CHEGA propõe que ninguém possa vender madeira queimada em incêndios florestais. O Estado ficaria com ela, pagaria uma compensação aos proprietários e usaria a madeira para produzir energia. Quem a vender ilegalmente arriscaria multas entre 10 mil e 50 mil euros. A ideia é tirar o incentivo económico a quem provoca incêndios.",
+ "context": "O proponente refere que, em média, ardem cerca de 100 mil hectares por ano e que em 2025 já tinham ardido mais de 274 mil hectares até agosto. Aponta a negligência e o incendiarismo como principais causas e propõe retirar o benefício económico da venda da madeira queimada, compensando os proprietários lesados.",
+ "analysis": "A medida procura eliminar um possível incentivo ao fogo posto e prevê compensação e prazos claros. Fragilidades: o texto não demonstra que a venda de madeira ardida seja motivo relevante de ignições, a capacidade do ICNF e dos municípios para remover madeira em 120 dias em grandes incêndios é duvidosa, e o custo da compensação pode ser muito elevado. A transferência da madeira para o Estado pode levantar questões de propriedade e a destruição de valor económico (a madeira queimada pode ser aproveitada por indústrias) não é discutida.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado teria de compensar os proprietários e suportar a remoção da madeira ardida, sem indicação de montantes; poderia obter alguma receita da biomassa, não quantificada."
+ },
+ "affected": [
+  "proprietários florestais",
+  "indústria madeireira e de biomassa",
+  "ICNF e municípios"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "madeira ardida",
+  "incêndios florestais",
+  "biomassa",
+  "ICNF",
+  "compensação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

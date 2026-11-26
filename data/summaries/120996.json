@@ -1,0 +1,40 @@
+{
+ "short_title": "Prorrogar os apoios aos trabalhadores independentes até ao final de 2021",
+ "summary": "O BE recomenda ao Governo três medidas: prorrogar com urgência até ao final de 2021 os apoios extraordinários aos trabalhadores independentes e informais, designadamente o AERA (Apoio Extraordinário à redução da atividade económica de trabalhador independente); retomar automaticamente o pagamento a todos os beneficiários que estavam abrangidos em abril e receberam em maio; e corrigir as exclusões resultantes das Classificações de Atividade Económica e Códigos de Atividade da Portaria n.º 85/2021. O texto refere que o AERT do Orçamento do Estado para 2021 tem condição de recursos e que o AERA foi prolongado apenas até 31 de agosto e só para turismo, cultura, espetáculos e eventos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Prorrogar até ao final de 2021 os apoios aos trabalhadores independentes e informais, incluindo o AERA.",
+  "Retomar automaticamente o pagamento aos beneficiários abrangidos em abril.",
+  "Corrigir as exclusões causadas pelos códigos de atividade da Portaria n.º 85/2021.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O BE pede que o Governo mantenha até ao fim do ano o apoio a trabalhadores independentes que perderam rendimentos com a pandemia, reponha os pagamentos cortados e corrija as regras que deixam de fora quem está registado em atividades genéricas, sobretudo na cultura.",
+ "context": "O BE sustenta que o AERT de 2021 é mais restritivo por incluir condição de recursos, que o Governo reintroduziu o AERA de 2020 mas ligou-o ao estado de emergência, e que o apoio cessou para a maior parte dos setores. Descreve exclusões de trabalhadores por não se enquadrarem nos códigos de atividade previstos e critica o prolongamento limitado anunciado em 1 de julho.",
+ "analysis": "A proposta responde a falhas concretas do desenho dos apoios e propõe uma solução abrangente. Fragilidades: o custo é elevado e não é estimado; apoios sem condição de recursos podem abranger quem não tem perda real de rendimento; a prorrogação até ao final do ano ignora a recuperação económica de cada setor. O texto assume dados como os 190 mil requerentes sem indicar a fonte. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação dos apoios e a reposição de pagamentos aumentariam a despesa da Segurança Social; o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores independentes",
+  "trabalhadores informais",
+  "trabalhadores da cultura, turismo e eventos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "aera",
+  "trabalhadores independentes",
+  "apoios extraordinários",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

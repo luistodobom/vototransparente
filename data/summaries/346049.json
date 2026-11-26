@@ -1,0 +1,41 @@
+{
+ "short_title": "Tutela exclusiva do ICNF pelo Ministério do Ambiente",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que redefina o regime de tutela do Instituto da Conservação da Natureza e das Florestas (ICNF), pondo termo à dupla tutela dos Ministérios do Ambiente e Energia e da Agricultura e Mar e assegurando a tutela exclusiva do Ministério do Ambiente e Energia. Recomenda também que a tutela das florestas seja reafetada ao domínio da conservação da natureza, integrando a política florestal numa estratégia ambiental orientada para a proteção dos ecossistemas, da biodiversidade e dos serviços dos ecossistemas.",
+ "key_points": [
+  "Pôr termo à dupla tutela do ICNF e atribuir a tutela exclusiva ao Ministério do Ambiente e Energia.",
+  "Reafetar a tutela das florestas ao domínio da conservação da natureza.",
+  "Integrar a política florestal numa estratégia ambiental de proteção dos ecossistemas e da biodiversidade."
+ ],
+ "plain_language": "O ICNF, que cuida das áreas protegidas e das florestas, depende hoje de dois ministérios. O PAN pede que dependa só do Ministério do Ambiente, para que decisões de proteção ambiental não sofram pressão de interesses de outros setores. É uma recomendação ao Governo.",
+ "context": "O PAN refere declarações públicas do Ministro da Agricultura e Mar sobre técnicos e dirigentes do ICNF e alegada pressão política sobre o instituto. Considera que a dupla tutela cria ambiguidade, coloca dirigentes e técnicos perante orientações contraditórias e fragiliza a independência técnica na gestão florestal, uso do solo e conservação da biodiversidade.",
+ "analysis": "O argumento da independência técnica e do conflito de interesses entre promoção setorial e fiscalização ambiental é relevante. Porém, o texto assume que a tutela do Ministério da Agricultura é incompatível com a proteção ambiental e não discute os custos de transição, nem a articulação necessária entre política florestal, prevenção de incêndios e agricultura. A decisão sobre a orgânica do Governo é da competência do Governo, e a resolução não o vincula.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A alteração de tutela é orgânica e o texto não refere encargos ou receitas."
+ },
+ "affected": [
+  "ICNF e respetivos técnicos e dirigentes",
+  "Ministério do Ambiente e Energia",
+  "Ministério da Agricultura e Mar",
+  "proprietários e gestores florestais"
+ ],
+ "categories": [
+  "ambiente",
+  "administracao",
+  "agricultura"
+ ],
+ "tags": [
+  "icnf",
+  "dupla tutela",
+  "florestas",
+  "conservação da natureza",
+  "biodiversidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

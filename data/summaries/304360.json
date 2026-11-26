@@ -1,0 +1,44 @@
+{
+ "short_title": "Coimas na segurança ferroviária e proibição de álcool e drogas a maquinistas",
+ "summary": "Proposta de lei do Governo que altera o Decreto-Lei n.º 85/2020, que transpõe parcialmente a diretiva europeia de segurança ferroviária, e a Lei n.º 16/2011, sobre a certificação de maquinistas. Agrava as coimas: 100 000 a 500 000 euros nas contraordenações muito graves, 50 000 a 250 000 euros nas graves e 1 000 a 5 000 euros na leve, com tentativa e negligência puníveis. Proíbe os maquinistas de exercer funções sob influência de álcool (taxa igual ou superior a 0,2 g/l), estupefacientes ou substâncias psicotrópicas, prevê rastreio por saliva ou sangue, contraprova, impedimento de 48 horas após rastreio positivo e fiscalização pela GNR e PSP. Clarifica competências do IMT e da Agência Ferroviária da União Europeia, acrescenta uma tabela de taxas do IMT e entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Coimas do Decreto-Lei n.º 85/2020: 100 000 a 500 000 euros nas muito graves e 50 000 a 250 000 euros nas graves; tentativa e negligência são puníveis, com limites reduzidos a metade.",
+  "Proíbe maquinistas de exercer funções sob influência de álcool (igual ou superior a 0,2 g/l), estupefacientes ou substâncias psicotrópicas, com suspensão imediata.",
+  "Maquinistas envolvidos em acidente são sempre testados; o maquinista pode pedir contraprova, cujo resultado prevalece.",
+  "Rastreio positivo a drogas implica impedimento de 48 horas, sob pena de desobediência qualificada, salvo rastreio negativo posterior (nunca antes de 2 horas); GNR e PSP fiscalizam.",
+  "Recusar as provas ou exercer funções sob influência passam a ser contraordenações imputáveis ao maquinista; a lei da aviação civil aplica-se subsidiariamente.",
+  "Acrescenta o anexo IV com taxas do IMT, por exemplo 5 000 euros pela avaliação de um certificado de segurança único."
+ ],
+ "plain_language": "A proposta torna mais pesadas as multas a empresas e entidades que violem as regras de segurança nos caminhos de ferro e proíbe os maquinistas de conduzir comboios depois de beber álcool (limite de 0,2 g/l) ou consumir drogas. Os maquinistas podem ser testados pelas autoridades e quem der positivo a drogas fica impedido de trabalhar durante 48 horas, podendo pedir contraprova no caso do álcool.",
+ "context": "O Governo refere que uma auditoria da Agência Ferroviária da União Europeia ao IMT recomendou o agravamento das coimas do Decreto-Lei n.º 85/2020 para reforçar a segurança dos passageiros e cumprir a Diretiva (UE) 2016/798. Aproveita também para ajustar o regime com base na experiência e para regular o exercício de funções de maquinistas sob influência de substâncias.",
+ "analysis": "A proposta responde a uma recomendação europeia, preenche uma lacuna na fiscalização de maquinistas e aproveita o regime já vigente para a aviação civil, o que dá coerência. Fragilidades: o texto remete as coimas aplicáveis ao maquinista para o artigo 34.º já existente, sem as explicitar; o rastreio por saliva e o impedimento de 48 horas suscitam questões de proporcionalidade e proteção de dados, razão pela qual o Governo sugere ouvir INFARMED, CNPD e Ordem dos Médicos; e coimas muito elevadas podem pesar sobre pequenos operadores. O limite de 0,2 g/l é mais estrito do que o da condução rodoviária em geral.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "O agravamento das coimas e a nova tabela de taxas do IMT (por exemplo 5 000 euros por certificado de segurança único) tendem a aumentar receita; os testes implicam custos de fiscalização. O texto não apresenta montantes globais."
+ },
+ "affected": [
+  "maquinistas",
+  "empresas ferroviárias e gestor da infraestrutura",
+  "passageiros",
+  "IMT, GNR e PSP"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "segurança ferroviária",
+  "maquinistas",
+  "álcool e estupefacientes",
+  "contraordenações",
+  "IMT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

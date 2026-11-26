@@ -1,0 +1,37 @@
+{
+ "short_title": "Suspender o prazo da comissão de inquérito ao INEM (15 maio a 1 junho)",
+ "summary": "Projeto de resolução do Presidente da Assembleia da República que suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica (INEM) entre 15 de maio e 1 de junho de 2026. A suspensão foi pedida pela própria comissão, ao abrigo do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares (Lei n.º 5/93) e do n.º 2 do artigo 49.º do Regimento, por estar a aguardar a receção de documentação adicional que solicitou. A resolução é aprovada nos termos do n.º 5 do artigo 166.º da Constituição.",
+ "key_points": [
+  "Suspende o prazo de funcionamento da comissão de inquérito ao INEM entre 15 de maio e 1 de junho de 2026.",
+  "A suspensão foi solicitada pela própria comissão.",
+  "O fundamento é a espera por documentação adicional já pedida."
+ ],
+ "plain_language": "A comissão que investiga o INEM tem um prazo para trabalhar. Como está à espera de mais documentos, pediu que esse prazo fique parado entre 15 de maio e 1 de junho de 2026, e esta resolução formaliza o pedido.",
+ "context": "A comissão invoca a necessidade de aguardar a receção de documentação adicional previamente solicitada, o que justifica interromper a contagem do prazo para não perder tempo útil de trabalho.",
+ "analysis": "É um ato procedimental corrente, previsto no regime dos inquéritos parlamentares, de curta duração. O texto não identifica a documentação em falta nem quem a deve fornecer, e a suspensão adia o prazo para as conclusões do inquérito. Não tem efeitos diretos para cidadãos fora do âmbito parlamentar.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Ato procedimental sem impacto orçamental indicado no texto."
+ },
+ "affected": [
+  "Deputados da comissão de inquérito",
+  "INEM"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "inem",
+  "comissão de inquérito",
+  "prazo",
+  "assembleia da república"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

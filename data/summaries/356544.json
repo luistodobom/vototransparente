@@ -1,0 +1,40 @@
+{
+ "short_title": "Acompanhar a terapia fágica nos hospitais do SNS",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo o acompanhamento da aplicação da Deliberação n.º 112/CD/2024 do INFARMED, sobre a utilização hospitalar de bacteriófagos em preparações magistrais. Pede que se garantam condições para a sua aplicação, com orientações claras aos hospitais do SNS; que se recolham e divulguem dados agregados sobre a utilização da terapia fágica e se elabore um relatório periódico; e que se promova a articulação entre o INFARMED, a DGS e os hospitais para harmonizar critérios clínicos e padrões de qualidade e segurança.",
+ "key_points": [
+  "Emitir orientações claras aos hospitais do SNS sobre a utilização de preparações magistrais de bacteriófagos.",
+  "Recolher e divulgar publicamente dados agregados sobre a utilização da terapia fágica no SNS.",
+  "Elaborar um relatório periódico sobre a aplicação da Deliberação, à luz da evidência e das orientações europeias.",
+  "Articular INFARMED, DGS e hospitais para harmonizar critérios clínicos e padrões de qualidade e segurança."
+ ],
+ "plain_language": "A terapia fágica usa vírus que atacam bactérias para tratar infeções difíceis de curar com antibióticos. O INFARMED já permitiu o seu uso nos hospitais em casos individuais. O LIVRE pede ao Governo que garanta que os hospitais sabem como usar, que se publiquem dados sobre o seu uso e que as entidades da saúde trabalhem em conjunto. É uma recomendação.",
+ "context": "O LIVRE refere a resistência antimicrobiana como uma das principais ameaças à saúde pública. Recorda a Deliberação n.º 112/CD/2024 do INFARMED (15 de novembro de 2024), a guideline da Agência Europeia de Medicamentos em consulta pública até ao final de abril de 2026 e a Petição n.º 45/XVI/1.ª sobre a implementação do modelo belga.",
+ "analysis": "A proposta é de baixo risco e foca-se em aplicação, transparência e coordenação, em vez de criar novas obrigações. O seu efeito depende da vontade do Governo e do INFARMED. O texto não indica quantos doentes poderiam ser tratados, quantos hospitais já usam a terapia nem os custos, e assenta numa revisão sistemática para o perfil de segurança, que é referido de forma genérica. A petição citada pede o modelo belga, mais amplo do que o que a resolução recomenda.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A divulgação de dados e a articulação institucional implicam custos administrativos limitados e a preparação de bacteriófagos tem custos hospitalares não indicados."
+ },
+ "affected": [
+  "doentes com infeções bacterianas multirresistentes",
+  "hospitais do SNS e farmácias hospitalares",
+  "INFARMED e DGS"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "terapia fágica",
+  "bacteriófagos",
+  "infarmed",
+  "resistência antimicrobiana",
+  "farmácia hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

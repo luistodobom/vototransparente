@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio à renda e apoio jurídico a vítimas de violência doméstica",
+ "summary": "Projeto de Lei do BE que reforça o apoio às vítimas de violência doméstica através de alterações ao Decreto-Lei n.º 308/2007 (Porta 65), à Lei n.º 112/2009 e à Lei do acesso ao direito (Lei n.º 34/2004). Inclui as vítimas com estatuto no apoio à renda do Porta 65+, quer saiam de casa quer permaneçam nela sem o agressor, com prioridade na análise, dispensa de um requisito, apoio mensal entre 100 e 400 euros e um acréscimo para caução até duas rendas. Garante consulta jurídica gratuita, nomeação imediata de patrono desde o primeiro contacto, incluindo antes da denúncia, o mesmo patrono para vários processos e isenção de custas, retomando o texto de substituição discutido na legislatura anterior. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Inclui as vítimas de violência doméstica com estatuto no programa de apoio à renda Porta 65+, com prioridade na análise das candidaturas.",
+  "Fixa o apoio mensal entre 100 e 400 euros para estas vítimas e acrescenta apoio à caução até duas rendas.",
+  "Garante consulta jurídica gratuita e nomeação imediata de patrono desde o primeiro contacto, mesmo antes da denúncia.",
+  "Assegura, em regra, o mesmo advogado ou patrono em vários processos decorrentes do mesmo facto.",
+  "Isenta as vítimas de custas e de honorários do patrono nomeado."
+ ],
+ "plain_language": "O BE propõe que as vítimas de violência doméstica possam receber ajuda para pagar a renda, entre 100 e 400 euros por mês, quer tenham de sair de casa quer continuem lá sem o agressor. Propõe ainda que tenham advogado gratuito logo no primeiro contacto com as autoridades e que não paguem custas.",
+ "context": "O proponente refere 30.221 queixas de violência doméstica em 2024 e a dificuldade de acesso à habitação e a dependência económica como obstáculos a deixar relações violentas. Retoma um texto sobre apoio jurídico discutido na legislatura anterior, caducado com a dissolução da Assembleia.",
+ "analysis": "A iniciativa responde a dois obstáculos concretos (habitação e acesso a advogado) e reaproveita uma solução negociada de consenso. Fragilidades: o Porta 65+ foi concebido para jovens e a sua extensão pode exigir adaptação de critérios; o texto não estima o número de beneficiárias nem o custo; e a nomeação de patrono antes da denúncia depende da coordenação entre polícias e Ordem dos Advogados. O regime de reposição de custas, se cessar o estatuto, não consta desta versão.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria apoio à renda e a caução e isenta custas e honorários, o que aumenta a despesa pública. O texto não apresenta valores totais."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "senhorios e arrendatários beneficiários do Porta 65+",
+  "Ordem dos Advogados"
+ ],
+ "categories": [
+  "direitos",
+  "habitacao",
+  "justica"
+ ],
+ "tags": [
+  "violência doméstica",
+  "Porta 65",
+  "apoio jurídico",
+  "apoio à renda"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Informações sobre portugueses no Caso Epstein",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo três medidas sobre o Caso Epstein. Solicitar formalmente às autoridades dos Estados Unidos, em particular ao FBI e ao Departamento da Justiça, todas as informações disponíveis sobre cidadãos portugueses mencionados, investigados ou implicados no caso ou em processos conexos; garantir que essa informação é transmitida ao Ministério Público para avaliar eventuais ilícitos à luz da lei portuguesa; e promover a cooperação internacional através da Interpol, da Europol e de outros instrumentos de colaboração policial. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Solicitar formalmente ao FBI e ao Departamento da Justiça dos EUA informação sobre cidadãos portugueses mencionados ou implicados.",
+  "Transmitir essa informação ao Ministério Público para avaliar eventuais ilícitos.",
+  "Promover a cooperação através da Interpol, da Europol e de outros mecanismos policiais."
+ ],
+ "plain_language": "O Chega pede ao Governo que peça aos Estados Unidos toda a informação sobre portugueses que apareçam no caso Epstein, de abuso e tráfico de menores, e que a entregue ao Ministério Público para ver se há crimes a investigar. É apenas uma recomendação.",
+ "context": "O proponente refere a divulgação pelo Departamento da Justiça dos EUA de cerca de três milhões de documentos sobre o caso, que incluiriam referências a diversos cidadãos portugueses, e defende que, por razões de escrutínio democrático e investigação criminal, Portugal deve saber se alguém conheceu, colaborou ou participou nos crimes.",
+ "analysis": "A iniciativa parte de uma preocupação legítima de combate ao tráfico e abuso de menores e usa mecanismos de cooperação existentes. Contudo, a simples menção de uma pessoa em documentos não implica responsabilidade criminal, e o texto não resolve riscos de violação da presunção de inocência. A decisão de pedir informação e de a partilhar depende de normas de cooperação judiciária e do Ministério Público, que é autónomo, e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "As medidas são pedidos de informação e cooperação, sem despesa ou receita previstas no texto."
+ },
+ "affected": [
+  "cidadãos portugueses eventualmente referidos no caso",
+  "Ministério Público",
+  "Ministério dos Negócios Estrangeiros"
+ ],
+ "categories": [
+  "justica",
+  "internacional"
+ ],
+ "tags": [
+  "Caso Epstein",
+  "cooperação judiciária",
+  "FBI",
+  "Ministério Público",
+  "tráfico de menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

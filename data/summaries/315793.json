@@ -1,0 +1,42 @@
+{
+ "short_title": "Recomenda subir salário mínimo e salário médio",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, em sede de Comissão Permanente de Concertação Social, garanta um aumento anual do salário mínimo nacional que incorpore a inflação, a variação da produtividade do ano anterior e os restantes fatores de crescimento económico, com um suplemento anual de 25 euros, de modo a atingir 1 130 euros em 2029. Pede ainda a revisão dos referenciais para a valorização do salário médio, para assegurar um aumento de pelo menos 5% ao ano e chegar aos 2 000 euros em 2029. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Aumento anual do salário mínimo que incorpore inflação e produtividade, mais 25 euros por ano.",
+  "Meta de 1 130 euros de salário mínimo em 2029.",
+  "Revisão dos referenciais do salário médio, com aumento de pelo menos 5% ao ano.",
+  "Meta de 2 000 euros de salário médio em 2029.",
+  "A negociação deve ocorrer na Comissão Permanente de Concertação Social."
+ ],
+ "plain_language": "O PAN pede ao Governo que negoceie com os parceiros sociais uma subida anual do salário mínimo, ligada à inflação e à produtividade, para chegar a 1 130 euros em 2029, e uma subida do salário médio de pelo menos 5% ao ano para chegar a 2 000 euros. É uma recomendação, sem carácter obrigatório.",
+ "context": "O PAN refere que cerca de 20% dos trabalhadores ganhavam o salário mínimo em 2023, que Portugal tem uma das maiores desigualdades salariais da UE, que a parte dos salários no rendimento nacional caiu para 46% e que a inflação (cerca de 19,5%) superou a produtividade (10,8%) entre 2021 e 2025. Aponta ainda um salário médio de cerca de 1 400 euros, estagnado.",
+ "analysis": "A proposta é plurianual, usa uma fórmula de atualização e trata também o salário médio, o que a distingue de outras iniciativas sobre o salário mínimo. Fragilidades: a fórmula não define a ponderação entre inflação e produtividade, e a meta de salário médio de 2 000 euros e 5% ao ano é difícil de impor por via legislativa, dependendo de negociação coletiva e do setor privado. O texto não avalia o impacto nas empresas nem nas contas públicas. Sendo uma resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Salários mais altos podem aumentar contribuições e impostos, mas também a despesa pública com salários e prestações indexadas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores com salário mínimo e médio",
+  "empregadores",
+  "parceiros sociais",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "salário mínimo",
+  "salário médio",
+  "concertação social",
+  "produtividade",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

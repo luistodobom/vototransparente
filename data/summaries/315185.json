@@ -1,0 +1,41 @@
+{
+ "short_title": "Rede Pública de Lares",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo a criação de uma Rede Pública de Lares, tendo em conta as necessidades geográficas e sociais da população, garantindo o acompanhamento das pessoas idosas com uma opção acessível proporcionada pelo Estado. O texto tem uma única recomendação, sem metas, prazos ou financiamento definidos, e não é vinculativo. A exposição de motivos descreve a escassez de vagas e os preços elevados nas estruturas residenciais para idosos.",
+ "key_points": [
+  "Recomenda a criação de uma Rede Pública de Lares.",
+  "A rede deve atender às necessidades geográficas e sociais da população.",
+  "Pretende uma opção acessível, proporcionada pelo Estado, para o acompanhamento de pessoas idosas.",
+  "Não define metas, prazos nem financiamento.",
+  "É uma recomendação não vinculativa."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie lares públicos, porque hoje os lares são do setor social ou privado, com poucas vagas e preços altos. A proposta é apenas um pedido de princípio, sem dizer quantos lares nem como seriam pagos, e o Governo não é obrigado a cumpri-lo.",
+ "context": "O PAN invoca o artigo 63.º da Constituição e refere que cerca de 1 milhão de pensionistas recebiam até 500 euros por mês em 2024, que a oferta de residências cobre apenas 4% das necessidades (segundo a plataforma Via Sénior), que um quarto individual custa em média 1700 euros por mês, que faltam mais de 14 mil vagas e que proliferam lares clandestinos.",
+ "analysis": "Identifica um problema real, com dados sobre preços e falta de vagas, e propõe uma resposta pública em complemento do apoio domiciliário e dos centros de dia. É, porém, muito genérica: não indica número de lares, localização, gestão, financiamento nem articulação com o setor social, e os dados citados provêm de fontes variadas não detalhadas. Sendo uma resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Criar lares públicos implicaria investimento e despesa de funcionamento do Estado. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas idosas",
+  "famílias de idosos dependentes",
+  "Segurança Social",
+  "instituições sociais e privadas de lares"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "lares",
+  "rede pública",
+  "idosos",
+  "ERPI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

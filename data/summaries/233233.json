@@ -1,0 +1,40 @@
+{
+ "short_title": "Apoio extraordinário para creche ou ama sem vaga gratuita",
+ "summary": "O PAN propõe criar um apoio extraordinário, atribuído pelo Instituto da Segurança Social, para a frequência de creches ou amas, destinado às crianças nascidas a partir de 1 de setembro de 2021 que, entre setembro de 2023 e agosto de 2024, não tenham tido acesso a vaga abrangida pela gratuitidade no setor social e solidário ou em creches licenciadas da rede privada lucrativa. O apoio é uma comparticipação mensal que varia por escalão de IRS: 115 euros no 1.º escalão, 106, 101, 94, 93 e 86 euros no 6.º, sem exceder a mensalidade. Abrange famílias até ao 6.º escalão de IRS. Exige candidatura na Segurança Social Direta e comprovativo de pelo menos três indeferimentos de vaga. Não está sujeito a IRS nem a contribuições. Os encargos são suportados pelo Orçamento do Estado.",
+ "key_points": [
+  "Cria um apoio extraordinário do ISS para famílias sem vaga gratuita em creche ou ama, entre 1 de setembro de 2023 e 31 de agosto de 2024.",
+  "Valores mensais entre 115 euros (1.º escalão de IRS) e 86 euros (6.º escalão), sem exceder a mensalidade.",
+  "Dirige-se a famílias até ao 6.º escalão de IRS que não recebam apoio equivalente da entidade patronal ou autarquia.",
+  "Exige candidatura entre 1 e 15 de janeiro de 2024 e comprovativo de pelo menos três indeferimentos de vaga.",
+  "O apoio é isento de IRS e de contribuições, com encargos suportados pelo Orçamento do Estado."
+ ],
+ "plain_language": "Quem não conseguiu vaga numa creche gratuita e paga por uma creche ou ama fora do programa poderia receber uma ajuda mensal da Segurança Social, entre 86 e 115 euros, consoante o rendimento da família. Para pedir a ajuda, é preciso provar que se tentou três vezes uma vaga gratuita e foi recusado.",
+ "context": "O PAN diz que o programa de gratuitidade das creches (Lei n.º 2/2022) se revelou insuficiente: há apenas 85 mil vagas preenchidas para pelo menos 130 mil crianças abrangidas, o que significa que 4 em cada 10 crianças ficaram sem acesso. Mesmo com os alargamentos do Governo, muitas famílias suportam custos de creche.",
+ "analysis": "A proposta responde a uma falha identificada e protege famílias de rendimentos médios e baixos, com valores e escalões definidos. Fragilidades: a exigência de três indeferimentos e a candidatura num prazo curto são burocráticas; o apoio é parcial e não resolve a falta de vagas; o artigo 1.º e o artigo 2.º indicam prazos distintos (31 de janeiro e 31 de agosto de 2024); o custo global não é estimado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os encargos do apoio seriam suportados pelo Orçamento do Estado; o texto fixa valores mensais por escalão de IRS, mas não estima o custo total."
+ },
+ "affected": [
+  "famílias com crianças em creche ou ama",
+  "crianças nascidas desde setembro de 2021",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "creche",
+  "apoio extraordinário",
+  "gratuitidade das creches",
+  "IRS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

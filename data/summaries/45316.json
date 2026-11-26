@@ -1,0 +1,43 @@
+{
+ "short_title": "Plataforma de denúncia de irregularidades em lares de idosos",
+ "summary": "Projeto de lei do deputado único da Iniciativa Liberal que cria uma plataforma online gratuita para denúncia de práticas irregulares ou ilegais em estruturas residenciais para idosos. Qualquer cidadão poderá denunciar de forma anónima e confidencial através de um formulário. O Instituto da Segurança Social, enquanto entidade fiscalizadora, investiga as denúncias do seu âmbito e pode remetê-las ao Ministério Público, à ASAE, à Entidade Reguladora da Saúde e às próprias estruturas residenciais. O membro do Governo da Segurança Social regulamenta a lei em 180 dias, e esta entra em vigor no dia seguinte ao da aprovação da regulamentação.",
+ "key_points": [
+  "Cria uma plataforma online e gratuita de denúncia para estruturas residenciais para idosos.",
+  "Permite denúncias anónimas e confidenciais por qualquer cidadão.",
+  "O Instituto da Segurança Social investiga e pode reencaminhar para o Ministério Público, ASAE, ERS e os próprios lares.",
+  "Regulamentação pelo Governo no prazo de 180 dias.",
+  "Entra em vigor no dia seguinte ao da aprovação da regulamentação."
+ ],
+ "plain_language": "Qualquer pessoa, como familiares, utentes ou funcionários, poderia denunciar na internet, de forma anónima e gratuita, problemas ou ilegalidades num lar de idosos. A Segurança Social analisaria os casos e poderia enviá-los a outras entidades, como o Ministério Público.",
+ "context": "O proponente sublinha que quase 40% das mortes por COVID-19 foram de idosos em lares, cita casos como os de Matosinhos e Reguengos de Monsaraz e argumenta que as visitas de fiscalização são muitas vezes anunciadas, pelo que falta um canal simples e anónimo de denúncia.",
+ "analysis": "Cria um canal de baixo custo para detetar problemas e informar a fiscalização. Fragilidades: o anonimato pode facilitar denúncias infundadas e dificultar a investigação; o texto não prevê meios adicionais para a Segurança Social tratar as denúncias nem prazos de resposta; o carácter voluntário e não punitivo referido na exposição de motivos não consta do articulado, e a sobreposição com canais existentes não é analisada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão da plataforma e o tratamento das denúncias implicam despesa para a Segurança Social; o texto não apresenta montantes."
+ },
+ "affected": [
+  "idosos residentes em lares",
+  "familiares e funcionários de lares",
+  "estruturas residenciais para idosos",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "lares de idosos",
+  "denúncia anónima",
+  "fiscalização",
+  "Segurança Social",
+  "ERPI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

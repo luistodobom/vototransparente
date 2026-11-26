@@ -1,0 +1,43 @@
+{
+ "short_title": "Regime geral de apoio às vítimas de incêndios",
+ "summary": "O Projeto de Lei do PS altera a Lei n.º 108/2017, que estabeleceu apoios e indemnizações às vítimas dos incêndios de junho de 2017, transformando-a em regime geral aplicável a todos os concelhos afetados por incêndios florestais, ao eliminar o critério temporal. Redefine o impacto excecional dos incêndios (vida, integridade física, património ou rendimentos, atividades económicas principais, redes viárias e recursos naturais), prevê que vítimas não residentes nos concelhos afetados sejam acompanhadas nos cuidados de saúde primários da sua área de residência e manda as forças de segurança identificar medidas de proteção, como o reforço do patrulhamento. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Passa o regime da Lei n.º 108/2017 a regime geral, eliminando o critério temporal dos incêndios de 2017.",
+  "Aplica-se a todos os concelhos afetados por incêndios florestais com impacto excecional.",
+  "Define o impacto excecional por efeitos significativos nas pessoas, património, rendimentos, atividades económicas e infraestruturas.",
+  "Vítimas não residentes nos concelhos afetados têm acompanhamento nos cuidados de saúde primários da sua área de residência.",
+  "As forças de segurança identificam medidas de proteção das populações, como reforço do patrulhamento."
+ ],
+ "plain_language": "Hoje, os apoios às vítimas de incêndios variam consoante o ano e o diploma criado para cada caso. A proposta torna permanente e igual para todos o regime de 2017, que inclui indemnizações por danos materiais e não materiais, para que as vítimas de qualquer incêndio importante tenham o mesmo tratamento.",
+ "context": "O PS argumenta que os regimes excecionais de 2017, 2024 e 2025 têm medidas diferentes, e que a Lei n.º 108/2017 é mais ampla ao incluir danos patrimoniais e não patrimoniais, ao passo que o Decreto-Lei n.º 59-A/2024 só cobre danos patrimoniais. Invoca o princípio da igualdade e a tendência de mais incêndios com o aquecimento global.",
+ "analysis": "A uniformização reforça a igualdade e a previsibilidade, evitando legislar caso a caso. Os riscos: o regime de 2017 passa a aplicar-se sem limite temporal ou de dimensão, com custos imprevisíveis; a definição de impacto excecional deixa margem à interpretação; e não é claro como o regime se articula com os decretos-leis de 2024 e 2025 já em vigor. O texto não estima custos nem indica a fonte de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Generaliza apoios e indemnizações a vítimas de qualquer incêndio com impacto excecional, com custo variável e não quantificado no texto."
+ },
+ "affected": [
+  "vítimas de incêndios florestais",
+  "concelhos afetados",
+  "forças de segurança",
+  "serviços de saúde primários"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "ambiente"
+ ],
+ "tags": [
+  "incêndios florestais",
+  "indemnizações",
+  "Lei 108/2017",
+  "apoio às vítimas",
+  "igualdade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

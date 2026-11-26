@@ -1,0 +1,39 @@
+{
+ "short_title": "Subsídio de funeral até três vezes o IAS",
+ "summary": "A Iniciativa Liberal propõe alterar os artigos 16.º e 17.º do Decreto-Lei n.º 176/2003 para que o subsídio de funeral no subsistema de proteção familiar deixe de ser um montante fixo de 50% do IAS (268,57 euros, segundo o texto) e passe a corresponder às despesas efetuadas com o funeral, até ao limite de três vezes o valor do IAS (1.611,39 euros, segundo o texto). A medida visa sobretudo famílias que perdem nascituros, crianças ou jovens e não têm acesso ao reembolso do regime contributivo. Os montantes deixam de ser fixados em portaria quanto ao subsídio de funeral. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "O subsídio passa a cobrir as despesas efetivas do funeral até ao máximo de três vezes o IAS.",
+  "Deixa de ser montante fixo de 50% do IAS (268,57 euros).",
+  "O limite máximo corresponde a 1.611,39 euros, segundo o proponente.",
+  "O subsídio de funeral deixa de ser fixado por portaria.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, quando morre uma criança ou jovem sem acesso ao reembolso contributivo, a família recebe um valor fixo baixo. A proposta faz com que o Estado reembolse o que a família gastou com o funeral, até cerca de 1.600 euros.",
+ "context": "O proponente considera que a distinção entre o regime contributivo, que reembolsa até três IAS, e o não contributivo, de valor fixo, penaliza as famílias de crianças e jovens, que nunca puderam contribuir. O valor atual é, na sua opinião, insuficiente para o custo real de um funeral.",
+ "analysis": "Corrige uma assimetria identificada e dá resposta a uma situação de grande fragilidade. Fragilidades: o texto não estima o custo orçamental nem o número de casos; a redação altera o artigo 16.º para todo o subsistema de proteção familiar, não apenas para crianças e jovens, o que pode ter alcance maior do que a justificação sugere; mistura a ideia de montante fixo com reembolso de despesas; e os valores do IAS referidos diferem dos usados noutras iniciativas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta a despesa da Segurança Social, pois o subsídio passa de um valor fixo baixo para reembolso até 3 IAS. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "famílias que perdem crianças, jovens ou nascituros",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "IAS",
+  "proteção familiar",
+  "luto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

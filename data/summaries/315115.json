@@ -1,0 +1,42 @@
+{
+ "short_title": "Modernizar a gestão dos hospitais EPE do SNS",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo medidas para reforçar a autonomia, a responsabilização e a orientação para resultados na gestão das unidades do SNS com estatuto de entidade pública empresarial (EPE). Pede a revisão das regras de designação e avaliação dos conselhos de administração, com critérios de qualificação e contratos de gestão com indicadores mensuráveis; a simplificação dos processos administrativos e financeiros, incluindo no Código dos Contratos Públicos e na Lei dos Compromissos; projetos-piloto de maior autonomia; a expansão dos Centros de Responsabilidade Integrada; e modelos de financiamento orientados para resultados em saúde. A implementação deve ser faseada e avaliada.",
+ "key_points": [
+  "Designação e avaliação mais transparentes dos conselhos de administração, com contratos de gestão e indicadores de desempenho.",
+  "Simplificação dos regimes de contratação pública e de compromissos e pagamentos em atraso nas unidades do SNS.",
+  "Projetos-piloto de maior autonomia administrativa, financeira e de gestão.",
+  "Expansão e consolidação dos Centros de Responsabilidade Integrada.",
+  "Financiamento e gestão orientados para resultados em saúde, aplicados de forma faseada e com monitorização."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que dê mais liberdade de decisão aos hospitais públicos, com regras de contratação mais simples, melhores critérios para escolher administradores e metas de resultados medidas e avaliadas. Propõe testar as mudanças em projetos-piloto antes de as alargar. É apenas uma recomendação.",
+ "context": "O proponente considera que o modelo EPE avançou face ao antigo regime, mas que os gestores continuam condicionados por regras administrativas e financeiras gerais, que o financiamento se centra na atividade e não nos resultados em saúde e que a escolha de administradores deve ser mais transparente.",
+ "analysis": "A proposta é gradualista, assente em projetos-piloto e avaliação, o que reduz o risco de reformas precipitadas, e liga autonomia a responsabilização. As fragilidades: as medidas são genéricas, sem prazos, orçamento ou indicadores concretos; flexibilizar a contratação pública pode reduzir controlos de transparência, apesar da ressalva do texto; e não discute como medir resultados em saúde nem os riscos de incentivos perversos. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos nem poupanças; os efeitos dependem da forma como os projetos-piloto e o novo financiamento venham a ser desenhados."
+ },
+ "affected": [
+  "administrações hospitalares",
+  "utentes do SNS",
+  "profissionais de saúde",
+  "hospitais EPE"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "hospitais EPE",
+  "gestão hospitalar",
+  "autonomia",
+  "SNS",
+  "Centros de Responsabilidade Integrada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

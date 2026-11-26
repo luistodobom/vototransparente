@@ -1,0 +1,42 @@
+{
+ "short_title": "Eliminar o dia de reflexão e flexibilizar o dia de votação",
+ "summary": "Projeto de Lei da Iniciativa Liberal que elimina o Dia de Reflexão e a obrigatoriedade de as eleições se realizarem ao domingo. Altera a lei eleitoral do Presidente da República, a da Assembleia da República, o regime do referendo nacional e local, a lei eleitoral das autarquias e o regime da cobertura jornalística em período eleitoral. A campanha passa a terminar às 24 horas da véspera da eleição, mantendo-se a proibição de propaganda no próprio dia da votação, e as redes sociais podem ser usadas livremente exceto para disseminar conteúdos de campanha no dia da eleição. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Elimina o Dia de Reflexão em todos os atos eleitorais e referendos.",
+  "Retira a obrigatoriedade de as eleições legislativas se realizarem a um domingo.",
+  "A campanha começa no 14.º dia anterior (12.º nos referendos) e termina às 24 horas da véspera da votação.",
+  "Mantém sanções para propaganda no dia da eleição e limita a disseminação de campanha nas redes sociais nesse dia.",
+  "Altera seis diplomas eleitorais e de referendo."
+ ],
+ "plain_language": "Hoje, no dia anterior às eleições não pode haver campanha. A Iniciativa Liberal propõe acabar com esse dia de reflexão, deixando as ações de campanha até à véspera, e permitir que as eleições não tenham de ser sempre ao domingo. No dia da votação continuaria proibida a propaganda.",
+ "context": "A IL considera o Dia de Reflexão fundado em paternalismo e obsoleto face às redes sociais e ao voto em mobilidade, e sem evidência de que favoreça escolhas mais refletidas. Cita Jorge Miranda e exemplos de outros países, e defende maior flexibilidade para evitar coincidir com períodos de férias.",
+ "analysis": "A proposta aproxima o regime de outros países europeus e resolve a contradição entre o voto antecipado e a regra do silêncio. Em contrapartida, altera regras que garantem um intervalo sem pressão de campanha antes do voto, e tornaria necessário distinguir propaganda e conteúdo político nas redes. A flexibilidade do dia da eleição levanta a questão de se a lei fixa o dia, o que o texto apenas altera parcialmente. Mexer em leis eleitorais pode exigir maiorias reforçadas e a sua articulação com a Constituição não é discutida.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não identifica custos ou receitas associadas às alterações."
+ },
+ "affected": [
+  "eleitores",
+  "partidos e candidaturas",
+  "órgãos de comunicação social",
+  "administração eleitoral"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos"
+ ],
+ "tags": [
+  "dia de reflexão",
+  "lei eleitoral",
+  "campanha eleitoral",
+  "referendo",
+  "redes sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

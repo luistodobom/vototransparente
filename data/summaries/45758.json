@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço do apoio a vítimas de violência doméstica na pandemia",
+ "summary": "Projeto de resolução da deputada Joacine Katar Moreira que recomenda ao Governo o reforço da proteção social e dos mecanismos de apoio às vítimas de violência doméstica no contexto da pandemia de Covid-19. Propõe nove linhas de ação, entre as quais um programa de reeducação para condenados, planos de segurança para as vítimas, gabinetes especializados fora das esquadras, formação contínua de polícias e agentes judiciários, aplicação do estatuto de vítima a crianças que testemunhem violência, reformulação das fichas de avaliação de risco e reforço das verbas das associações. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Facilitar o acesso a apoios sociais e acelerar o seu pagamento, combatendo a feminização da pobreza.",
+  "Criar uma entidade e um programa de reeducação para condenados por violência doméstica.",
+  "Criar mecanismos de aplicação da Convenção de Istambul, com planos de segurança para as vítimas.",
+  "Incluir educação para a igualdade e não discriminação nos currículos escolares.",
+  "Criar gabinetes especializados de atendimento fora das esquadras e dar formação contínua a agentes.",
+  "Reformular as fichas de avaliação de risco e reforçar as verbas das associações de apoio."
+ ],
+ "plain_language": "Com os confinamentos, muitas vítimas de violência doméstica ficaram fechadas em casa com o agressor. Esta resolução pede ao Governo mais apoios sociais, programas para agressores, melhor proteção das vítimas, formação de polícias e mais dinheiro para as associações que ajudam. O Governo não é obrigado a aplicar.",
+ "context": "A proponente cita estudos da APAV e da Escola Nacional de Saúde Pública sobre o primeiro confinamento, com 683 denúncias de violência, 83% das vítimas mulheres, e sobre a pouca procura de ajuda por parte das vítimas, defendendo que a pandemia agravou o risco.",
+ "analysis": "Aborda o problema em várias frentes (prevenção, proteção, justiça, educação) e apoia-se em dados. Fragilidades: as medidas são genéricas, sem prazos, metas ou orçamento; várias (educação nos currículos, reformulação de fichas) ultrapassam o contexto pandémico; e o texto não indica o que já existe nos serviços atuais. Sendo recomendação, o seu efeito depende da adesão do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de verbas, os gabinetes, a formação e o programa de reeducação implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "crianças expostas a violência doméstica",
+  "condenados por violência doméstica",
+  "forças de segurança e agentes judiciários",
+  "associações de apoio à vítima"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "justica"
+ ],
+ "tags": [
+  "violência doméstica",
+  "Covid-19",
+  "Convenção de Istambul",
+  "proteção de vítimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

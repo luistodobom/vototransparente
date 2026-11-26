@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas de defesa da Região Demarcada do Douro e do vinho",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo cinco medidas para a Região Demarcada do Douro e o setor vitivinícola: apresentar o plano de promoção e valorização do vinho português, em particular do Douro; criar e divulgar uma nova linha de apoio financeiro aos viticultores, complementando a iniciativa já lançada pelo Governo; reforçar a fiscalização da rotulagem e da identificação da origem do vinho; promover campanhas de incentivo ao consumo de Vinho do Porto; e intensificar a fiscalização das importações de vinho a granel. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Apresentar o plano de promoção e valorização do vinho português, em especial do Douro.",
+  "Criar e divulgar nova linha de apoio financeiro aos viticultores, sobretudo do Douro.",
+  "Reforçar a fiscalização da rotulagem e da identificação da origem do vinho.",
+  "Promover campanhas de sensibilização e incentivo ao consumo de Vinho do Porto.",
+  "Intensificar a fiscalização das importações de vinho a granel."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que apoie os produtores de vinho do Douro, que atravessam dificuldades. Propõe mais apoio financeiro, promoção do vinho nacional e do Vinho do Porto e maior controlo sobre a origem do vinho e as importações a granel. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente refere que em 2023 a produção nacional (cerca de 750 milhões de litros) ficou abaixo das necessidades de consumo e exportação, suprida por importações, o que terá reduzido os rendimentos dos viticultores e levado alguns a abandonar a atividade. Salienta o papel dos viticultores na paisagem e identidade do Douro e menciona um plano específico do Ministério da Agricultura.",
+ "analysis": "A iniciativa responde a uma preocupação concreta e articula apoio financeiro, promoção e fiscalização. Fragilidades: não indica montantes, calendário ou fontes de financiamento da nova linha de apoio, nem como se distingue da já anunciada; a ligação causal entre importações e perda de rendimentos é afirmada com cautela (\"terá conduzido\") e não demonstrada; e a fiscalização das importações deve respeitar as regras europeias do mercado interno, matéria não analisada no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A nova linha de apoio e as campanhas de promoção implicariam despesa pública, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "produtores de vinho",
+  "consumidores",
+  "entidades de fiscalização"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "Douro",
+  "vitivinicultura",
+  "vinho do Porto",
+  "apoio aos viticultores",
+  "rotulagem"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

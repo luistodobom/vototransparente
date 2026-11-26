@@ -1,0 +1,42 @@
+{
+ "short_title": "Regulamenta o lobbying e cria registo de transparência",
+ "summary": "O projeto de lei do CDS-PP regulamenta a atividade de representação profissional de interesses (lobbying) e cria um Registo de Transparência da Representação de Interesses (RTRI) junto da Assembleia da República, único, público e em dados abertos. As entidades públicas abrangidas devem criar o seu registo ou usar o RTRI. Prevê direitos e deveres das entidades registadas, regras para audiências e consultas públicas, um mecanismo de pegada legislativa que identifique as interações na fase preparatória das leis, códigos de conduta e incompatibilidades, incluindo um período de três anos para titulares de cargos políticos e altos cargos públicos. Entra em vigor a 1 de janeiro de 2026.",
+ "key_points": [
+  "Cria o RTRI, registo único e público, em formato de dados abertos, gerido pela Assembleia da República.",
+  "Entidades públicas devem criar um registo próprio ou usar o RTRI.",
+  "Pegada legislativa: identificação das interações ocorridas na fase preparatória de atos legislativos.",
+  "Titulares de cargos políticos e altos cargos públicos não podem fazer lobbying junto do organismo que serviram durante três anos.",
+  "Representação de interesses de terceiros é incompatível com a advocacia e com funções em reguladores."
+ ],
+ "plain_language": "A proposta cria regras e um registo público para quem tenta influenciar decisões políticas em nome de interesses próprios ou de terceiros. Quem faz lobbying fica identificado, as leis passam a indicar quem foi consultado durante a sua preparação, e antigos governantes não podem fazer lobbying junto do seu antigo serviço durante três anos.",
+ "context": "O CDS-PP defende que a transparência é essencial ao Estado de Direito e lembra que apresentou a primeira iniciativa sobre o tema em 2016. O regime aprovado em 2019 foi devolvido pelo Presidente da República e a iniciativa seguinte caducou em 2022. O partido sublinha que Portugal continua sem regular a atividade e pretende um primeiro passo progressivo.",
+ "analysis": "Pontos fortes: dados abertos, pegada legislativa e quarentena de três anos reforçam a rastreabilidade das decisões. Fragilidades: o próprio proponente descreve o regime como um primeiro passo progressivo; as entidades públicas podem criar registos próprios, o que fragmenta a informação; o texto analisado não evidencia um regime sancionatório robusto nem fiscalização independente. A exclusão de advogados e parceiros sociais limita o alcance.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão do registo e dos mecanismos de pegada legislativa implicam custos administrativos. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "lobistas e entidades que representam interesses",
+  "titulares de cargos políticos e altos cargos públicos",
+  "entidades públicas",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "lobbying",
+  "pegada legislativa",
+  "registo de transparência",
+  "incompatibilidades",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

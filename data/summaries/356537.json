@@ -1,0 +1,39 @@
+{
+ "short_title": "Tratamento de infeções resistentes a antibióticos com fagos",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo três medidas contra as infeções resistentes aos antibióticos. Primeiro, implementar, através da Direção-Geral da Saúde e em articulação com a comunidade científica, as práticas mais adequadas, tendo em conta os resultados do modelo belga de terapia fágica personalizada. Segundo, apoiar a investigação científica sobre tratamentos destas infeções. Terceiro, apoiar a criação de um banco nacional de fagos terapêuticos. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Implementar, através da DGS e com a comunidade científica, as práticas mais adequadas, tendo em conta o modelo belga de terapia fágica.",
+  "Apoiar a investigação científica sobre tratamentos de infeções resistentes aos antibióticos.",
+  "Apoiar a criação de um banco nacional de fagos terapêuticos."
+ ],
+ "plain_language": "Algumas bactérias já não morrem com antibióticos. Os fagos são vírus que atacam bactérias e podem ser usados como tratamento adaptado a cada doente, como já se faz na Bélgica. O Bloco de Esquerda pede ao Governo que apoie este método em Portugal, financie a investigação e ajude a criar um banco nacional de fagos. É só uma recomendação.",
+ "context": "O proponente indica que Portugal está entre os países europeus com maior prevalência destas infeções, que o enquadramento europeu como medicamento biológico dificulta a terapia personalizada e que o modelo belga é mais eficaz e barato. Refere ainda a Petição n.º 45/XVI/1, com 7871 assinaturas, e a parceria da Universidade do Minho.",
+ "analysis": "A proposta assenta numa linha de investigação reconhecida e numa petição cidadã, e identifica passos práticos. Contudo, as medidas são genéricas, sem calendário, orçamento ou definição de quem gere o banco de fagos. Há ainda a questão regulatória, uma vez que o próprio texto reconhece que a EMA trata os fagos como medicamento, o que condiciona a via nacional. O sucesso do modelo belga é afirmado com base num estudo citado, sem discussão de riscos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio à investigação e a criação de um banco nacional de fagos implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "doentes com infeções resistentes a antibióticos",
+  "investigadores",
+  "hospitais e farmácias hospitalares",
+  "Direção-Geral da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "fagoterapia",
+  "resistência a antibióticos",
+  "bacteriófagos",
+  "banco de fagos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

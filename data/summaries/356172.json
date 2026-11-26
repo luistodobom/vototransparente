@@ -1,0 +1,43 @@
+{
+ "short_title": "Ampliar a declaração de calamidade a mais concelhos",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo que amplie o objeto da declaração de calamidade das Resoluções do Conselho de Ministros n.º 15-B/2026, 15-C/2026 e 24-A/2026. Propõe incluir vários municípios ainda não abrangidos, entre os quais Azambuja, Sobral de Monte Agraço, Arganil, Oliveira do Hospital, Tábua e os da Lezíria do Tejo, com efeitos retroativos. Recomenda ainda a avaliação célere do impacto nos concelhos em contingência, relatórios das CCDR e comunidades intermunicipais sobre os restantes concelhos, orientação à Estrutura de Missão para mapear e priorizar infraestruturas públicas afetadas, a ativação dos mecanismos de auxílio financeiro aos municípios previstos no Decreto-Lei n.º 225/2009 e o reforço extraordinário do Fundo de Emergência Municipal. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Inclusão de municípios adicionais na declaração de calamidade, com efeitos retroativos à Resolução n.º 15-B/2026.",
+  "Avaliação célere do impacto nos concelhos em contingência, para equivaler à calamidade, se enquadráveis.",
+  "Relatórios das CCDR e das comunidades intermunicipais sobre concelhos não abrangidos.",
+  "Mapeamento e priorização das infraestruturas públicas afetadas pela Estrutura de Missão.",
+  "Ativação de apoios aos municípios do Decreto-Lei n.º 225/2009 e reforço do Fundo de Emergência Municipal."
+ ],
+ "plain_language": "O PS pede ao Governo que alargue a lista de concelhos considerados em situação de calamidade por causa da sucessão de tempestades, para que mais autarquias e populações possam receber apoios, e que reforce o dinheiro disponível para os municípios.",
+ "context": "O PS refere um comboio de tempestades (Kristin, Leonardo e Marta) com mais de 19 mil ocorrências de proteção civil até 15 de fevereiro, 16 mortes e milhares de desalojados, com danos em habitações, infraestruturas, empresas e fornecimento de água, eletricidade e comunicações. Sustenta que os efeitos vão muito além da região Centro, inicialmente abrangida.",
+ "analysis": "A proposta procura corrigir lacunas territoriais e reforçar o apoio às autarquias, com medidas concretas e lista de municípios. Contudo, o alargamento da declaração de calamidade depende da avaliação técnica de danos e pode gerar contestação sobre os critérios de inclusão. Não indica montantes para o reforço do Fundo de Emergência Municipal. O efeito retroativo pode ser difícil de aplicar, e a recomendação não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento dos apoios e o reforço extraordinário do Fundo de Emergência Municipal aumentam a despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "populações dos concelhos afetados",
+  "municípios",
+  "empresas e agricultores locais",
+  "Estrutura de Missão e CCDR"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "calamidade",
+  "tempestades",
+  "Fundo de Emergência Municipal",
+  "municípios",
+  "Estrutura de Missão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

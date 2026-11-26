@@ -1,0 +1,43 @@
+{
+ "short_title": "Valorizar o Estatuto do Trabalhador-Estudante",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo seis medidas: elaborar e divulgar um estudo sobre o futuro do estatuto do trabalhador-estudante; ponderar um regime especial de isenção contributiva para jovens trabalhadores-estudantes com rendimentos até 14 remunerações mínimas mensais garantidas, sem comprometer a isenção de 12 meses no início do percurso profissional; garantir que medidas de apoio ao emprego não os prejudicam; avaliar a integração na ADSE de descendentes nessa situação; analisar o quadro fiscal do IRC para empresas que paguem propinas dos seus trabalhadores; e impedir a discriminação de trabalhadores independentes no acesso a bolsas de estudo. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estudo sobre o futuro do estatuto do trabalhador-estudante.",
+  "Ponderação de um regime especial de isenção contributiva para jovens trabalhadores-estudantes.",
+  "Garantir que medidas de apoio ao emprego do IEFP não os prejudicam.",
+  "Avaliar acesso à ADSE dos descendentes que sejam trabalhadores-estudantes, e o quadro de IRC para propinas pagas pelas empresas.",
+  "Evitar discriminação de independentes nas bolsas de estudo, incluindo mobilidade e Erasmus."
+ ],
+ "plain_language": "O PAN pede ao Governo que reveja as regras para quem estuda e trabalha ao mesmo tempo. Quer um estudo sobre o estatuto, menos obstáculos a apoios e bolsas, e incentivos para empresas que paguem propinas dos trabalhadores. É um pedido, não uma lei.",
+ "context": "O PAN afirma que, segundo o Eurostat de 2022, só 10% dos estudantes portugueses têm estatuto de trabalhador-estudante, contra 23% na média da União Europeia. Defende que o regime não foi revisto na Agenda do Trabalho Digno e que alguns aspetos incentivam o trabalho informal e deixam de fora trabalhadores independentes.",
+ "analysis": "A iniciativa identifica lacunas concretas em apoios sociais, ADSE, bolsas e IRC. Contudo, a maioria das medidas é formulada como estudo, ponderação ou avaliação, sem custos, prazos ou critérios, e algumas, como a isenção contributiva e o benefício fiscal para empresas, têm impacto orçamental que não é estimado. A ligação entre o baixo número de estatutos e as medidas propostas não é demonstrada.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A isenção contributiva, a integração na ADSE e eventuais incentivos em IRC reduziriam receita ou aumentariam despesa, mas o texto apenas pede estudos e não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores-estudantes",
+  "jovens que trabalham durante os estudos",
+  "empresas que financiam propinas",
+  "trabalhadores independentes estudantes"
+ ],
+ "categories": [
+  "trabalho",
+  "educacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "trabalhador-estudante",
+  "bolsas de estudo",
+  "adse",
+  "isenção contributiva",
+  "propinas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

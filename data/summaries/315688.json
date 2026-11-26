@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforçar a mobilidade por doença dos docentes e cuidadores",
+ "summary": "Projeto de Lei do JPP que altera o Decreto-Lei n.º 41/2022 (mobilidade por doença de docentes). Passa a basear a admissibilidade em avaliação clínica atualizada, sem lista taxativa de patologias, define deficiência profunda (incapacidade multiuso igual ou superior a 60% com necessidade permanente de terceira pessoa) e dá prioridade a docentes cuidadores de filhos com deficiência profunda. Permite colocações sem sujeição a vaga quando necessário aos cuidados, fixa a capacidade de acolhimento em pelo menos 10% do quadro, prevê novo pedido em caso de agravamento da saúde, dispensa de reavaliação anual em doença permanente e irreversível, procedimento desmaterializado e deferimento tácito em 20 dias úteis.",
+ "key_points": [
+  "Admissibilidade baseada em avaliação clínica atualizada, sem lista fechada de patologias.",
+  "Prioridade para docentes cuidadores de filhos com deficiência profunda (incapacidade igual ou superior a 60% e assistência permanente).",
+  "Colocação possível sem sujeição a vaga e capacidade de acolhimento não inferior a 10% do quadro de destino.",
+  "Novo pedido com efeitos imediatos em caso de agravamento superveniente; reavaliação dispensada em doença permanente e irreversível.",
+  "Decisão em 20 dias úteis, com deferimento tácito, e abertura de horário adicional se surgir excedente na escola de acolhimento."
+ ],
+ "plain_language": "Os professores doentes, ou que cuidam de filhos com doença grave ou deficiência, podem pedir para trabalhar mais perto de casa ou dos cuidados de saúde. A proposta torna esse regime mais flexível e protetor, dá prioridade a quem cuida de filhos com deficiência profunda e obriga a uma resposta em 20 dias úteis, sob pena de aprovação automática.",
+ "context": "O JPP defende que o regime de mobilidade por doença deve funcionar como proteção e não como concurso por lugares, corrigindo injustiças que persistiram após as alterações de 2025. Invoca princípios constitucionais de igualdade e proteção das pessoas com deficiência e a Diretiva (UE) 2019/1158. Cita pareceres recebidos.",
+ "analysis": "A proposta dá maior proteção a situações clínicas graves e simplifica o procedimento. Em contrapartida, colocar docentes sem vaga e fixar um mínimo de 10% de acolhimento pode criar excedentes e dificultar a gestão das escolas, o que o texto tenta compensar com horário adicional. O deferimento tácito pode ser arriscado se a verificação clínica for incompleta. Deixa-se ao despacho a definição de procedimentos, e o impacto não é quantificado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A colocação sem vaga e a abertura de horários adicionais por contratação a termo podem aumentar a despesa com pessoal docente. O texto não apresenta montantes."
+ },
+ "affected": [
+  "docentes com doença incapacitante",
+  "docentes cuidadores de filhos com deficiência",
+  "escolas e agrupamentos",
+  "Direção-Geral da Administração Escolar"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "mobilidade por doença",
+  "docentes",
+  "deficiência profunda",
+  "cuidadores",
+  "Decreto-Lei 41/2022"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

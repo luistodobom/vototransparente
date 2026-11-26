@@ -1,0 +1,41 @@
+{
+ "short_title": "Remunicipalizar a água do Alto Minho",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que apoie os municípios de Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira na remunicipalização da exploração e gestão dos serviços de águas prestados pela Águas do Alto Minho. Recomenda ainda planos de investimento para tarifas justas e acessíveis e para renovar e ampliar as redes de água e saneamento, e a erradicação da precariedade laboral na empresa, incentivando a contratação efetiva dos trabalhadores precários. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Apoiar os sete municípios na remunicipalização dos serviços de águas e saneamento.",
+  "Garantir tarifas justas e acessíveis aos munícipes.",
+  "Definir e executar planos de investimento na renovação e ampliação das redes de água e saneamento.",
+  "Erradicar a precariedade laboral e incentivar a contratação efetiva dos trabalhadores precários."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o Governo ajude sete concelhos do Alto Minho a retomar a gestão da água e do saneamento, hoje entregue a uma empresa intermunicipal, garantindo preços justos, mais investimento e emprego estável. É uma recomendação, o Governo não é obrigado a cumprir.",
+ "context": "O proponente indica que a Águas do Alto Minho foi criada em 2019, com 51% do capital da Águas de Portugal e 49% dos municípios, e aponta aumentos de tarifas, erros de faturação que afetaram 15 mil pessoas, filas nos postos de atendimento e recurso a trabalho precário por via de uma empresa de outsourcing.",
+ "analysis": "Responde a queixas concretas dos utentes e à preocupação com a precariedade. Fragilidades: o texto não analisa os contratos de parceria de 30 anos, eventuais custos e compensações da reversão, nem a capacidade técnica e financeira dos municípios para assumir os serviços. Não apresenta dados comparativos de tarifas antes e depois, e a decisão cabe aos municípios e à empresa, não ao Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio à reversão e os planos de investimento podem implicar despesa pública e custos de rescisão ou compensação, que o texto não quantifica."
+ },
+ "affected": [
+  "Utentes dos sete municípios",
+  "Trabalhadores da Águas do Alto Minho",
+  "Municípios e Águas de Portugal"
+ ],
+ "categories": [
+  "territorio",
+  "consumidores",
+  "trabalho"
+ ],
+ "tags": [
+  "águas do alto minho",
+  "remunicipalização",
+  "tarifas da água",
+  "saneamento",
+  "precariedade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

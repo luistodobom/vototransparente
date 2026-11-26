@@ -1,0 +1,41 @@
+{
+ "short_title": "Reduzir a contribuição para a SAD para 2,5% e incidir sobre 12 meses",
+ "summary": "O PCP propõe alterar o artigo 24.º do Decreto-Lei n.º 158/2005 para reduzir de 3,5% para 2,5% o desconto obrigatório dos beneficiários da Assistência na Doença ao pessoal da GNR e da PSP (SAD), incluindo o desconto sobre pensões de aposentação e reforma de valor igual ou superior a uma vez e meia a retribuição mínima mensal garantida e as contribuições dos beneficiários associados e sobrevivos. Acrescenta um n.º 10 segundo o qual o desconto incide apenas nos 12 meses da remuneração mensal, sem relevar os subsídios de férias e de Natal. Entra em vigor com o Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Reduz o desconto obrigatório para a SAD de 3,5% para 2,5%.",
+  "Aplica a taxa de 2,5% às pensões elegíveis e às contribuições dos beneficiários associados e sobrevivos.",
+  "Fixa a incidência em 12 meses, excluindo os subsídios de férias e de Natal.",
+  "Entra em vigor com o Orçamento do Estado posterior à publicação."
+ ],
+ "plain_language": "Os agentes da GNR e da PSP e reformados que usam a SAD pagam hoje 3,5% do vencimento, incluindo sobre os subsídios de férias e de Natal. O PCP propõe baixar a taxa para 2,5% e descontar só em 12 meses, o que reduziria o valor pago por ano.",
+ "context": "O PCP afirma que o aumento de 2 pontos percentuais entre 2011 e 2015 funcionou como corte salarial e não garantiu a sustentabilidade dos subsistemas, e cita o Tribunal de Contas, que considerou o aumento excessivo e gerador de excedentes. Defende que 14 meses de desconto obrigam a contribuir sem contraprestação por mais dois meses do que o ano.",
+ "analysis": "A medida alivia o encargo dos beneficiários e reflete uma observação do Tribunal de Contas sobre a ADSE aplicada por analogia à SAD. Fragilidades: o texto não quantifica a perda de receita da SAD nem a forma de compensação, e não demonstra que o subsistema tem excedentes. A redução cumulativa da taxa e dos meses pode afetar o equilíbrio financeiro do subsistema.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida da taxa e a redução dos meses de incidência diminuem a receita de contribuições da SAD. O texto não apresenta montantes."
+ },
+ "affected": [
+  "beneficiários da SAD",
+  "agentes da GNR e da PSP",
+  "reformados e pensionistas das forças de segurança"
+ ],
+ "categories": [
+  "saude",
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "SAD",
+  "GNR",
+  "PSP",
+  "contribuição",
+  "subsistemas de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

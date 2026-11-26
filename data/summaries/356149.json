@@ -1,0 +1,43 @@
+{
+ "short_title": "Dispensa de conciliação no divórcio por violência doméstica",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o artigo 1779.º do Código Civil e o artigo 931.º do Código de Processo Civil para alargar a possibilidade de dispensar a tentativa de conciliação nos processos de divórcio sem consentimento do outro cônjuge em casos de violência doméstica. Hoje a dispensa está prevista quando o cônjuge agressor foi condenado. A proposta passa a abranger os casos em que o cônjuge seja arguido ou tenha sido condenado por crime de violência doméstica contra o requerente, dando a este a faculdade de prescindir da tentativa de conciliação, incluindo quando é o agressor a apresentar o pedido de divórcio. O juiz deve advertir o cônjuge visado dessa faculdade na notificação. A lei entra em vigor 60 dias após a publicação.",
+ "key_points": [
+  "O cônjuge que seja vítima pode prescindir da tentativa de conciliação se o outro for arguido ou tiver sido condenado por violência doméstica.",
+  "A faculdade abrange a situação em que o agressor é quem pede o divórcio.",
+  "O juiz adverte a vítima, na notificação, da possibilidade de requerer a dispensa.",
+  "Altera o artigo 1779.º do Código Civil e o artigo 931.º do Código de Processo Civil.",
+  "Entra em vigor 60 dias após a publicação."
+ ],
+ "plain_language": "Num divórcio sem acordo, o juiz marca em regra uma tentativa de conciliação entre os cônjuges. A proposta permite que a vítima de violência doméstica dispense essa sessão mesmo quando o agressor ainda não foi condenado, bastando ser arguido, para evitar mais sofrimento.",
+ "context": "A Iniciativa Liberal recorda que a Lei n.º 3/2023 já permitiu dispensar a conciliação quando há condenação por violência doméstica. Segundo a APAV, o agressor pode apresentar ele próprio o pedido de divórcio, impedindo a vítima de prescindir e sujeitando-a a mais sofrimento psicológico. Cita dados de 2025 sobre medidas de coação e acolhimentos.",
+ "analysis": "A medida reforça a proteção das vítimas e evita um contacto forçado com o agressor, com uma alteração cirúrgica. Levanta, porém, uma questão de equilíbrio com a presunção de inocência, pois a dispensa é acionada quando o cônjuge é apenas arguido, embora seja uma faculdade da pretensa vítima e não uma sanção. A redação das alterações ao Código de Processo Civil contém trechos riscados e trocados (autor/réu) que podem dificultar a leitura, e não há dados sobre o número de casos abrangidos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê alterações de despesa ou receita, tratando-se de uma alteração processual."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "cônjuges arguidos de violência doméstica",
+  "tribunais de família",
+  "magistrados"
+ ],
+ "categories": [
+  "justica",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "violência doméstica",
+  "divórcio",
+  "tentativa de conciliação",
+  "código civil",
+  "vítimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

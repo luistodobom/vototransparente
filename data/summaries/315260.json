@@ -1,0 +1,42 @@
+{
+ "short_title": "Alterações aos estatutos das magistraturas e organização judiciária",
+ "summary": "A proposta de lei do Governo, com pedido de prioridade e urgência, altera o Estatuto dos Magistrados Judiciais, o Estatuto dos Tribunais Administrativos e Fiscais, a Lei da Organização do Sistema Judiciário e o Estatuto do Ministério Público. Adapta os requisitos de ingresso (licenciatura em Direito de cinco anos, ou outras habilitações com mestrado ou experiência forense de pelo menos cinco anos) à reforma do Centro de Estudos Judiciários, alarga o universo de concorrentes necessários ao Supremo Tribunal de Justiça (juízes desembargadores no terço superior da lista de antiguidade) e permite a escolha da secção pelos juízes conselheiros. Cria um capítulo sobre assessores de magistrados, exige justificação prévia da imprescindibilidade para provimento de certas vagas e permite a prestação de serviço judicial por magistrados jubilados, sem alterar a sua remuneração. Entra em vigor no dia seguinte ao da publicação, com alguns artigos a produzir efeitos com a lei sobre a distribuição eletrónica.",
+ "key_points": [
+  "Altera os requisitos académicos e de experiência para ingresso nas magistraturas, em articulação com a nova lei do Centro de Estudos Judiciários.",
+  "Alarga os concorrentes necessários ao acesso ao Supremo Tribunal de Justiça, para rejuvenescer o corpo de juízes conselheiros.",
+  "Os juízes conselheiros podem escolher a secção do Supremo Tribunal de Justiça onde exercem funções, face às vagas disponíveis.",
+  "Cria o capítulo dos assessores na Lei da Organização do Sistema Judiciário, com funções, direitos, deveres e incompatibilidades, a regulamentar em diploma próprio.",
+  "Exige justificação prévia do conselho superior respetivo para o provimento de determinadas vagas e permite serviço judicial por magistrados jubilados, sem alterar o regime remuneratório."
+ ],
+ "plain_language": "A proposta mexe nas regras de quem pode ser juiz ou procurador e na forma como se chega ao Supremo Tribunal, com o objetivo de atrair mais candidatos e rejuvenescer o tribunal. Prevê também que os magistrados passem a ter assessores a ajudá-los, para acelerar os processos, e que magistrados reformados possam voltar a trabalhar sem alterar a sua pensão.",
+ "context": "O Governo invoca a dificuldade de recrutar magistrados, a reforma do regime de ingresso e formação no Centro de Estudos Judiciários, o seu programa de reforço de assessores para a celeridade processual e a necessidade de agregar num único diploma alterações a vários estatutos, evitando alterações sucessivas.",
+ "analysis": "Responde a problemas reconhecidos, como o recrutamento e a sobrecarga dos tribunais, e o reforço de assessores pode ajudar a celeridade. Fragilidades: os gabinetes de assessores só serão criados em diploma posterior, pelo que o efeito concreto é incerto; a proposta junta matérias muito diversas num só diploma e pede urgência, o que pode limitar o escrutínio. A possibilidade de jubilados prestarem serviço e a escolha de secção pelos conselheiros levantam questões de gestão que o texto não detalha. O texto prevê audição de várias entidades.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação de assessores e a prestação de serviço por jubilados podem implicar custos, mas o texto remete a regulamentação para diploma próprio e não quantifica montantes."
+ },
+ "affected": [
+  "magistrados judiciais e do Ministério Público",
+  "candidatos às magistraturas",
+  "assessores de magistrados",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "magistrados",
+  "supremo tribunal de justiça",
+  "assessores",
+  "estatuto dos magistrados",
+  "centro de estudos judiciários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

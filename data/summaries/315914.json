@@ -1,0 +1,40 @@
+{
+ "short_title": "Integração do internato médico na carreira médica",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo duas medidas: promover um processo estruturado de diálogo com a Ordem dos Médicos e as instituições formadoras e, depois, negociar com as organizações sindicais, com vista ao reconhecimento do internato médico como etapa integrante da carreira médica, com maior previsibilidade, estabilidade e atratividade; e criar uma bolsa de financiamento anual para médicos internos de formação específica, para apoiar cursos, congressos e outras ações de formação. Salvaguarda a natureza formativa do internato e a sustentabilidade do SNS. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Dialogar com a Ordem dos Médicos e as instituições formadoras e negociar com os sindicatos.",
+  "Reconhecer o internato médico como etapa integrante da carreira médica.",
+  "Criar uma bolsa anual de financiamento para médicos internos de formação específica.",
+  "Respeitar a natureza formativa do internato e a sustentabilidade do SNS."
+ ],
+ "plain_language": "O PS pede ao Governo que negoceie com a Ordem dos Médicos e os sindicatos para que o internato conte como parte da carreira médica e que crie uma bolsa anual para os internos pagarem formação. O Governo não é obrigado a seguir.",
+ "context": "O PS refere o elevado número de vagas de internato por preencher em 2025, sobretudo em Medicina Geral e Familiar e Medicina Interna, e critica a ausência de um plano de fixação de profissionais. Defende que o tema seja tratado com responsabilidade, respeitando a natureza formativa do internato e o equilíbrio das carreiras da Administração Pública.",
+ "analysis": "A proposta é prudente ao privilegiar o diálogo e a avaliação antes de alterar a carreira, e inclui um apoio concreto à formação. Em contrapartida, não se compromete com a integração, apenas com um processo para a reconhecer, não define prazos nem valores da bolsa e depende do resultado da negociação. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A bolsa anual para médicos internos e a eventual integração na carreira implicariam despesa adicional; o texto não apresenta valores."
+ },
+ "affected": [
+  "médicos internos",
+  "utentes do SNS",
+  "Ordem dos Médicos",
+  "instituições formadoras"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internato médico",
+  "carreira médica",
+  "SNS",
+  "fixação de médicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

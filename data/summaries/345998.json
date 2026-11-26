@@ -1,0 +1,43 @@
+{
+ "short_title": "Factoring livre para fornecedores do Estado e reembolso de financiamento",
+ "summary": "Projeto de Lei da IL que altera o Código dos Contratos Públicos. No artigo 299.º-A, declara nulas as cláusulas em que o contraente público restrinja o recurso do cocontratante a financiamento por factoring ou cessão financeira, e as que, sem motivo justificado, fixem prazos superiores a 60 dias para o vencimento de obrigações pecuniárias. No artigo 326.º, dá ao cocontratante direito ao reembolso das despesas de financiamento por factoring em caso de atraso do contraente público, até ao limite de 20% do valor em dívida. As alterações aplicam-se apenas a procedimentos iniciados após a entrada em vigor, em 60 dias; a alteração ao artigo 326.º entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Declara nulas as cláusulas que limitem o recurso ao factoring pelos fornecedores do Estado.",
+  "Declara nulas cláusulas com prazos de pagamento superiores a 60 dias sem motivo justificado.",
+  "Garante reembolso das despesas de financiamento por factoring em caso de atraso, até 20% do valor em dívida.",
+  "Aplica-se apenas a procedimentos de contratação iniciados após a entrada em vigor.",
+  "A alteração ao artigo 326.º entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Os fornecedores do Estado poderiam sempre vender as faturas a uma empresa de factoring para receber mais cedo, e o Estado não o poderia proibir nos contratos. Se o Estado pagar tarde, teria de reembolsar o custo desse financiamento, até 20% da dívida.",
+ "context": "A proponente afirma que os atrasos de pagamento do Estado afetam a capacidade financeira dos fornecedores, sobretudo os de menor dimensão, e que se generalizam cláusulas que limitam o acesso ao factoring em contratos de áreas como defesa e saúde, condicionando o financiamento dos fornecedores sem custo para o contraente público.",
+ "analysis": "Ponto forte: protege a liquidez dos fornecedores, em especial PME, e cria um incentivo financeiro para o Estado pagar a tempo. Fragilidades: o limite de 20% do valor em dívida é elevado e não é fundamentado; o prazo de 60 dias é superior ao limite de 30 dias da diretiva europeia, o que pode legitimar atrasos; o reembolso aumenta a despesa pública, sem estimativa. A norma transitória reduz o alcance imediato, aplicando-se só a novos procedimentos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado teria de reembolsar despesas de financiamento por factoring em caso de atraso, até 20% do valor em dívida, sem montante global estimado no texto."
+ },
+ "affected": [
+  "fornecedores do Estado",
+  "micro, pequenas e médias empresas",
+  "entidades públicas contratantes",
+  "sociedades de factoring"
+ ],
+ "categories": [
+  "economia",
+  "administracao",
+  "consumidores"
+ ],
+ "tags": [
+  "factoring",
+  "contratação pública",
+  "prazos de pagamento",
+  "atrasos do Estado",
+  "código dos contratos públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

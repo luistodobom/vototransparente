@@ -1,0 +1,43 @@
+{
+ "short_title": "Avaliação de impacto em direitos humanos da política criminal",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que crie um Mecanismo Nacional de Avaliação de Impacto em Direitos Humanos da Política Criminal, permanente, independente e participativo, integrado no ciclo bienal de definição das prioridades da política criminal previsto na Lei Quadro da Política Criminal. O mecanismo deveria fazer a avaliação prévia e prospetiva do impacto potencial das medidas de cada ciclo sobre os direitos fundamentais, avaliar a execução de cada lei de política criminal e publicar um relatório de impacto no fim de cada biénio, antes da proposta de lei seguinte, para apreciação da Assembleia da República. Deveria colaborar com a Provedoria de Justiça, a Comissão Nacional de Direitos Humanos, os oficiais de direitos humanos da PSP e GNR, ordens profissionais e organizações da sociedade civil. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de um mecanismo nacional permanente, independente e participativo de avaliação do impacto da política criminal nos direitos humanos.",
+  "Integração no ciclo bienal de prioridades de política criminal.",
+  "Avaliação prévia e prospetiva das medidas e avaliação da execução de cada lei de política criminal.",
+  "Relatório de impacto no fim de cada biénio, submetido à Assembleia da República.",
+  "Colaboração com a Provedoria de Justiça, forças de segurança, ordens profissionais e sociedade civil."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que crie um organismo independente que avalie, de dois em dois anos, se as prioridades da política criminal, como a atuação das polícias, respeitam os direitos das pessoas e não discriminam grupos. O relatório seria entregue ao Parlamento. É uma recomendação que o Governo pode não cumprir.",
+ "context": "O proponente sustenta que Portugal não tem um mecanismo sistemático e independente de avaliação do impacto da política criminal nos direitos fundamentais, e que o Relatório Anual de Segurança Interna, feito pelo Governo, não o faz. Cita estudos e relatórios sobre discriminação na atuação policial e recomendações do Comité contra a Tortura da ONU.",
+ "analysis": "A proposta aponta uma lacuna institucional real e integra a avaliação no ciclo já existente, com relatório público ao Parlamento. Fragilidades: não define a natureza jurídica, composição, orçamento ou independência do mecanismo; dados como os de mortes por intervenção policial são citados de um estudo e não são desenvolvidos; pode sobrepor-se a entidades já existentes, como a IGAI e a Provedoria de Justiça; o texto não esclarece o efeito vinculativo das avaliações, e sendo resolução não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e o funcionamento de um mecanismo permanente implicam despesa com pessoal e relatórios. O texto não apresenta montantes."
+ },
+ "affected": [
+  "cidadãos e grupos sujeitos a discriminação",
+  "forças de segurança",
+  "Governo e Assembleia da República",
+  "organizações da sociedade civil"
+ ],
+ "categories": [
+  "direitos",
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "política criminal",
+  "direitos humanos",
+  "avaliação de impacto",
+  "discriminação",
+  "forças de segurança"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

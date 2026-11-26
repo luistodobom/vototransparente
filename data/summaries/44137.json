@@ -1,0 +1,42 @@
+{
+ "short_title": "Rede pública de centros de acolhimento de animais selvagens e exóticos",
+ "summary": "O projeto de lei do PCP cria a Rede de Centros de Acolhimento e Reabilitação de Animais Selvagens e Exóticos, equipamentos públicos sob tutela dos ministérios do Ambiente e da Agricultura, para receber animais apreendidos, vítimas de tráfico, em risco de saúde ou entregues voluntariamente ao abrigo da Lei n.º 20/2019. Os animais apreendidos não podem ficar à guarda do detentor. Até existirem centros nacionais, o Governo estabelece protocolos para encaminhar os animais para centros estrangeiros. Os centros são financiados pelo Orçamento do Estado e têm prioridades de construção por espécie. O Governo regulamenta a lei em 90 dias.",
+ "key_points": [
+  "Cria a Rede de Centros de Acolhimento e Reabilitação de Animais Selvagens e Exóticos, equipamentos públicos.",
+  "Os animais apreendidos não podem ficar, nem transitoriamente, à guarda do detentor legal.",
+  "Prevê protocolos para encaminhar animais para centros de outros países enquanto não existirem centros nacionais.",
+  "Financiamento pelo Orçamento do Estado, com prioridade de construção: primatas e grandes carnívoros, paquidermes e artiodáctilos, aves e outros.",
+  "As despesas de transporte são suportadas pelo ICNF.",
+  "O Governo regulamenta a lei em 90 dias."
+ ],
+ "plain_language": "O PCP propõe que o Estado crie centros públicos para receber e tratar animais selvagens e exóticos apreendidos ou entregues por particulares e circos. Até estarem construídos, os animais poderiam ser enviados para centros noutros países, e não ficariam em casa de quem os detinha.",
+ "context": "O proponente refere que animais selvagens são apreendidos em situações degradantes e que, por falta de locais adequados, ficam sob tutela dos próprios detentores como fiéis depositários, situação agravada pela Lei n.º 20/2019 e pelo programa de entrega voluntária. Considera necessária uma estrutura pública de acolhimento e reabilitação.",
+ "analysis": "A proposta responde a uma lacuna concreta e define responsabilidades, prioridades e uma solução transitória. Fragilidades: não estima o número de centros, a localização, a capacidade nem o custo de construção e funcionamento, apenas indica o Orçamento do Estado e a regulamentação posterior. A entrada em vigor depende do orçamento seguinte. O envio para o estrangeiro pode ser dispendioso e depende de protocolos ainda inexistentes. O texto não esclarece o destino a longo prazo dos animais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e o funcionamento dos centros são financiados pelo Orçamento do Estado e as despesas de transporte pelo ICNF; o texto não indica montantes."
+ },
+ "affected": [
+  "animais selvagens e exóticos",
+  "detentores de animais exóticos",
+  "ICNF e autoridades de fiscalização",
+  "circos"
+ ],
+ "categories": [
+  "animais",
+  "ambiente"
+ ],
+ "tags": [
+  "animais selvagens",
+  "centros de acolhimento",
+  "tráfico de animais",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

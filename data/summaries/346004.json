@@ -1,0 +1,40 @@
+{
+ "short_title": "Reduzir atrasos de pagamento do Estado e dívidas a bombeiros",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo três medidas. Primeiro, acelerar o objetivo de reduzir para 30 dias o prazo médio de pagamento das faturas a fornecedores do Estado. Segundo, reformular o modelo de financiamento do Estado às associações humanitárias de bombeiros previsto na Lei n.º 94/2015, de modo a garantir um ressarcimento justo e atempado dos serviços prestados em nome do Estado. Terceiro, estudar um regime jurídico especial que fixe um prazo máximo para o pagamento de serviços prestados pelas associações de bombeiros a entidades públicas e para a liquidação de dívidas vencidas. A iniciativa foca sobretudo os atrasos na área da saúde, como o transporte de doentes urgentes.",
+ "key_points": [
+  "Acelerar a meta de 30 dias para o prazo médio de pagamento a fornecedores do Estado.",
+  "Reformular o modelo de financiamento às associações humanitárias de bombeiros (Lei n.º 94/2015).",
+  "Estudar um regime especial com prazo máximo de pagamento às associações de bombeiros e para dívidas vencidas."
+ ],
+ "plain_language": "O Estado demora a pagar a quem lhe presta serviços, incluindo os bombeiros que transportam doentes para os hospitais. O PAN pede ao Governo que pague mais depressa, no máximo em 30 dias, e que reveja a forma como financia os bombeiros para que recebam o que lhes é devido a tempo. Trata-se de uma recomendação, não de uma lei.",
+ "context": "O PAN refere que, no final de novembro de 2025, os pagamentos em atraso das entidades públicas somavam 720,6 milhões de euros. Cita a Liga dos Bombeiros Portugueses, que apontava cerca de 30 milhões de euros em falta por parte do Ministério da Saúde e do INEM, e indica que as associações asseguram cerca de 90% do transporte de doentes urgentes.",
+ "analysis": "A iniciativa identifica um problema concreto e documentado com dados da Liga dos Bombeiros. Contudo, é uma recomendação não vinculativa, sem calendário, sem montantes de financiamento e sem indicar a origem de verbas. A terceira medida é apenas de estudo, o que reduz o seu alcance. Não quantifica o custo de reformular o modelo de financiamento nem esclarece como se compatibilizaria um prazo máximo de pagamento com a suborçamentação que o próprio texto aponta.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reformular o financiamento e pagar dívidas em atraso às associações de bombeiros implicaria mais despesa pública, embora o texto não quantifique o custo. A antecipação de pagamentos é sobretudo uma questão de calendário de tesouraria."
+ },
+ "affected": [
+  "associações humanitárias de bombeiros",
+  "fornecedores do Estado",
+  "micro, pequenas e médias empresas",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "economia",
+  "seguranca",
+  "saude"
+ ],
+ "tags": [
+  "prazo médio de pagamento",
+  "bombeiros",
+  "pagamentos em atraso",
+  "transporte de doentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

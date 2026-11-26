@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas excecionais de limpeza das florestas após a tempestade Kristin",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo quatro medidas para as áreas florestais afetadas pela tempestade Kristin. Criar um regime excecional e transitório em que os proprietários e exploradores limpem terrenos e removam material lenhoso mediante simples comunicação prévia; garantir às autarquias verbas e instrumentos para intervir onde os proprietários não tenham capacidade; criar um mecanismo de financiamento direto aos proprietários privados; e assegurar que as Áreas Integradas de Gestão da Paisagem sejam implementadas em prazo compatível com o PRR, com intervenções financiadas até 31 de agosto de 2026 e conclusão em cerca de três anos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Regime excecional e transitório de limpeza e remoção de material lenhoso mediante simples comunicação prévia.",
+  "Garantir verbas e instrumentos às autarquias para intervir onde os proprietários não consigam.",
+  "Criar um mecanismo de financiamento direto para proprietários privados.",
+  "Implementar as Áreas Integradas de Gestão da Paisagem em prazo compatível com o PRR.",
+  "Concluir a estruturação e operacionalização dos instrumentos em cerca de três anos."
+ ],
+ "plain_language": "Depois da tempestade Kristin, há muita madeira caída nas florestas do centro do país, o que aumenta o risco de incêndio. O Chega quer que os proprietários possam limpar rapidamente apenas avisando as autoridades, em vez de esperarem autorização, e que haja dinheiro do Estado para apoiar quem não tem meios. É apenas uma recomendação.",
+ "context": "O proponente refere danos significativos em vastas áreas florestais nos distritos de Santarém, Coimbra, Aveiro e Leiria e critica a orientação do Governo de sujeitar, após 1 de abril, a remoção de material lenhoso a autorização do ICNF, que diz não ter meios para responder. Aponta ainda a lentidão das Áreas Integradas de Gestão da Paisagem.",
+ "analysis": "A proposta responde a um risco concreto de incêndio e à urgência, e reconhece que a floresta é sobretudo privada. Contudo, substituir a autorização do ICNF por comunicação prévia pode reduzir o controlo ambiental e da qualidade das intervenções em áreas sensíveis ou protegidas. Os mecanismos de financiamento e as verbas para autarquias não são quantificados nem têm fonte indicada, e o prazo de 31 de agosto de 2026 do PRR é apertado para a estruturação das áreas de gestão da paisagem.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento direto aos proprietários e as verbas para as autarquias implicariam despesa pública adicional. O texto não indica montantes."
+ },
+ "affected": [
+  "proprietários e exploradores florestais",
+  "autarquias das zonas afetadas",
+  "ICNF",
+  "populações das áreas de risco de incêndio"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestade Kristin",
+  "floresta",
+  "material lenhoso",
+  "incêndios",
+  "PRR"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

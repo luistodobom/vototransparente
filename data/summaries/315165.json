@@ -1,0 +1,42 @@
+{
+ "short_title": "Registo de transparência do lobbying (PSD)",
+ "summary": "O projeto de lei do PSD aprova regras de transparência para entidades privadas, nacionais ou estrangeiras, que fazem representação legítima de interesses junto de entidades públicas, e cria um Registo de Transparência da Representação de Interesses (RTRI) junto da Assembleia da República. Define o que é representação de interesses e as exclusões, como o direito de petição e os procedimentos administrativos já regulados, estabelece a obrigatoriedade de registo, os direitos e deveres das entidades registadas, regras para audiências e consultas públicas, um mecanismo de pegada legislativa, sanções por violação de deveres, incompatibilidades (três anos para antigos titulares), um código de conduta e uma avaliação ao fim de cinco anos. O texto analisado está truncado.",
+ "key_points": [
+  "Cria o RTRI junto da Assembleia da República e impõe a obrigatoriedade de registo.",
+  "Abrange entidades privadas nacionais e estrangeiras que representam interesses.",
+  "Estabelece direitos e deveres das entidades registadas, audiências e consultas públicas e pegada legislativa.",
+  "Prevê sanções para a violação de deveres e incompatibilidades, com impedimento de três anos para antigos titulares.",
+  "Inclui código de conduta e avaliação do sistema ao fim de cinco anos."
+ ],
+ "plain_language": "O PSD propõe um registo público para quem faz lobbying, incluindo entidades estrangeiras, com regras sobre audiências, deveres de informação e sanções. Antigos titulares de cargos ficam impedidos de fazer lobbying junto do seu antigo serviço durante três anos, e o sistema é avaliado ao fim de cinco anos.",
+ "context": "O PSD defende que aumentar a transparência do processo decisório reforça a confiança nos agentes políticos e nota que existe a perceção de falta de transparência, que as próprias empresas dizem prejudicar os negócios. Entende que um quadro jurídico claro dá aos decisores informação mais completa e garante igualdade de oportunidades entre interesses.",
+ "analysis": "A proposta apoia-se num modelo próximo de iniciativas anteriores e inclui expressamente entidades estrangeiras, o que alarga a transparência. Fragilidades: o texto analisado está truncado, pelo que o regime de sanções concretas não foi verificado; a exposição fala de perceção geral de falta de transparência sem apresentar dados. Como noutras propostas semelhantes, advogados e parceiros sociais ficam fora do âmbito, o que pode deixar canais relevantes de influência sem registo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão do registo e da avaliação implicam custos administrativos. O texto analisado não indica montantes."
+ },
+ "affected": [
+  "lobistas e entidades que representam interesses, nacionais e estrangeiras",
+  "titulares de cargos políticos e altos cargos públicos",
+  "entidades públicas",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "lobbying",
+  "registo de transparência",
+  "pegada legislativa",
+  "entidades estrangeiras",
+  "incompatibilidades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

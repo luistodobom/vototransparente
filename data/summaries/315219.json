@@ -1,0 +1,42 @@
+{
+ "short_title": "Regras de corte de árvores e contraordenações florestais",
+ "summary": "O Projeto de Lei n.º 65/XVII/1.ª, do PS, reforça as regras de corte de árvores e harmoniza os regimes contraordenacionais florestais, alterando cinco decretos-lei (n.os 140/99, 127/2005, 96/2013, 31/2020 e 82/2021). Passa a exigir no manifesto de corte prova da propriedade ou da autorização do proprietário, e, em áreas classificadas ou sujeitas a regime florestal, substitui a comunicação prévia por autorização prévia do ICNF para o conjunto da operação, com prazo de 45 dias e deferimento tácito. Reclassifica as infrações como contraordenações ambientais leves, graves ou muito graves, puníveis pela Lei n.º 50/2006, e alarga a fiscalização aos municípios e às autoridades de polícia. Produz efeitos a 1 de janeiro de 2026.",
+ "key_points": [
+  "Exige prova da propriedade ou autorização do proprietário para o manifesto de corte.",
+  "Cria autorização prévia do ICNF, com prazo de 45 dias, para cortes em áreas classificadas ou sujeitas a regime florestal.",
+  "Harmoniza as contraordenações florestais com a Lei-Quadro das Contraordenações Ambientais.",
+  "Alarga a fiscalização aos municípios e às autoridades de polícia, com acesso a dados do SiCorte.",
+  "Produz efeitos a 1 de janeiro de 2026."
+ ],
+ "plain_language": "A proposta torna mais exigente cortar árvores. Quem declara um corte tem de provar que é dono do terreno ou que o dono autoriza, e em áreas protegidas é preciso licença prévia do ICNF. As multas passam a seguir a lei geral das contraordenações ambientais, e as câmaras e a polícia também podem fiscalizar.",
+ "context": "O PS parte da Petição n.º 242/XV/2.ª, com mais de 18 mil subscritores, motivada por um corte raso de mais de 130 hectares na Serra da Lousã, incluindo zonas protegidas. Defende compatibilizar floresta de produção e de conservação, reforçar a fiscalização e as sanções e evitar a erosão do solo, num contexto de incêndios e desordenamento do território.",
+ "analysis": "Pontos fortes: responde a uma petição e a um caso concreto, reforça a fiscalização e unifica um regime sancionatório disperso. Fragilidades: o próprio texto reconhece o risco de o ICNF não conseguir responder em 45 dias, o que levaria ao deferimento tácito, esvaziando a autorização. Implica mais carga administrativa para proprietários e para o ICNF, sem reforço de meios explicitado no articulado analisado, e pode afetar a competitividade da atividade florestal.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica montantes. Pode haver mais despesa de fiscalização do ICNF e dos municípios, e as coimas são determinadas pela Lei n.º 50/2006, sem estimativa de receita."
+ },
+ "affected": [
+  "proprietários florestais",
+  "operadores de abate e transformação de madeira",
+  "ICNF",
+  "municípios"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "corte de árvores",
+  "floresta",
+  "icnf",
+  "contraordenações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

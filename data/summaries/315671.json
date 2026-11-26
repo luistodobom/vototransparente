@@ -1,0 +1,45 @@
+{
+ "short_title": "Orçamento do Estado para 2026",
+ "summary": "Proposta de Lei do Governo que aprova o Orçamento do Estado para 2026, com entrada em vigor a 1 de janeiro de 2026. Aprova 14 mapas orçamentais, fixa regras de execução orçamental e de aquisição de serviços, e regula pessoal, empresas públicas, segurança social, ativos, passivos e garantias do Estado, finanças locais e regionais. Autoriza o aumento do endividamento líquido global direto até 20 000 milhões de euros e garantias do Estado até 4 500 milhões de euros (mais 2 600 milhões para exportação e 1 000 milhões para o Fundo de Contragarantia Mútuo). Na fiscalidade, altera os escalões do IRS (taxas de 12,5% a 48%), o mínimo de existência, o IRC sobre viaturas, o IVA, os impostos especiais de consumo (incluindo imposto sobre bolsas de nicotina), o IMT e o IUC, e prorroga contribuições setoriais.",
+ "key_points": [
+  "Autoriza o endividamento líquido global direto até 20 000 milhões de euros, garantias do Estado até 4 500 milhões de euros e aval ao IHRU até 1 468 milhões de euros (2026-2030) para habitação e reabilitação urbana.",
+  "IRS: tabela de escalões com taxas normais de 12,5% (até 8 342 euros) a 48% (acima de 86 634 euros), e mínimo de existência igual ao maior entre 12 880 euros e 1,5 x 14 x IAS.",
+  "Impostos indiretos: cria imposto sobre bolsas de nicotina (0,065 euros por grama), elimina gradualmente isenções de ISP na produção de eletricidade, atualiza o IMT (taxa única de 6% e 7,5% nos escalões mais altos) e altera o IRC (tributações autónomas) e o imposto sobre veículos para híbridos plug-in e viaturas a gás natural.",
+  "Finanças locais: 3 227,6 milhões de euros para o Fundo de Equilíbrio Financeiro, 296,4 milhões para o Fundo Social Municipal, 5% do IRS e 7,5% do IVA aos municípios.",
+  "Mantém contribuições sobre o setor bancário, a indústria farmacêutica, os dispositivos médicos e o setor energético, e não atualiza a contribuição para o audiovisual.",
+  "Outras medidas: atualização de 2% do suplemento de serviço e risco das forças de segurança e militares, subsídio ao gasóleo colorido de pequenos agricultores e pescadores, atualização de 4% das taxas ambientais, e apoio à deslocação de estudantes bolseiros."
+ ],
+ "plain_language": "É a lei que diz quanto o Estado pode gastar e cobrar em 2026 e como. Define quanto dinheiro o Governo pode pedir emprestado, quanto reparte com os municípios e as regiões autónomas, e muda alguns impostos: as taxas e escalões do IRS, o imposto sobre bolsas de nicotina, o imposto sobre a compra de casas e os impostos sobre combustíveis usados na produção de eletricidade. Também mantém algumas contribuições pagas por bancos, farmacêuticas e empresas de energia.",
+ "context": "O texto analisado é o articulado e os mapas, sem uma exposição de motivos que explique as opções do Governo. Apresenta-se como proposta de lei do Governo, nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, que anualmente fixa as receitas e despesas do Estado para o ano seguinte e as regras da sua execução.",
+ "analysis": "O articulado é típico de um orçamento: concentra regras de execução, autorizações de endividamento e de garantias e alterações fiscais num único diploma, o que dá previsibilidade, mas limita o escrutínio de medidas muito diversas. O valor reforçado da lei e as amplas autorizações de alterações orçamentais dão flexibilidade ao Governo. O texto articulado não apresenta o saldo orçamental, a receita e a despesa totais nem estimativas do impacto de cada medida fiscal, que constam dos mapas e do relatório; assim, o efeito das alterações no IRS e noutros impostos não pode ser aferido só pelo articulado. A prorrogação de normas do ano anterior e de vários benefícios fiscais mantém regimes sem revisão estrutural.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A proposta inclui medidas que reduzem receita (escalões do IRS, benefícios fiscais, isenções) e que a aumentam (imposto sobre bolsas de nicotina, eliminação gradual de isenções no ISP, contribuições setoriais mantidas), além de autorizar endividamento líquido até 20 000 milhões de euros. O articulado não indica o saldo orçamental nem o impacto líquido."
+ },
+ "affected": [
+  "contribuintes e famílias",
+  "trabalhadores da Administração Pública",
+  "municípios, freguesias e regiões autónomas",
+  "bancos, farmacêuticas e empresas do setor energético",
+  "pequenos agricultores e pescadores"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "orçamento do estado",
+  "2026",
+  "irs",
+  "finanças locais",
+  "endividamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

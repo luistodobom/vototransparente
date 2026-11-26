@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargar benefícios de saúde a idosos e comparticipar aparelhos auditivos",
+ "summary": "Projeto de Lei do PAN que altera o Decreto-Lei n.º 252/2007, que cria os benefícios adicionais de saúde para beneficiários do Complemento Solidário para Idosos. Prevê comparticipações de 75% na aquisição e reparação de óculos e lentes (até 100 euros por dois anos) e de aparelhos auditivos (até 300 euros por quatro anos), e de 50% em material ortopédico prescrito, até duas unidades por ano civil. Alarga o acesso a pessoas que, por despesas comprovadas com medicamentos e saúde, tenham rendimentos anuais iguais ou inferiores ao valor de referência do complemento (5858,63 euros). Entra em vigor a 1 de janeiro de 2024.",
+ "key_points": [
+  "Comparticipação de 75% em óculos e lentes, até 100 euros por cada dois anos.",
+  "Comparticipação de 75% em aparelhos auditivos, até 300 euros por cada quatro anos.",
+  "Comparticipação de 50% em material ortopédico prescrito, até duas unidades por ano civil.",
+  "Alarga os beneficiários a quem, após despesas com saúde comprovadas, fique com rendimentos até ao valor de referência do complemento solidário.",
+  "Entrada em vigor a 1 de janeiro de 2024."
+ ],
+ "plain_language": "Hoje, só quem recebe o Complemento Solidário para Idosos tem apoio extra em saúde. O PAN propõe estender esse apoio a idosos cujos gastos com medicamentos e saúde os deixem com rendimentos tão baixos como os desse complemento, e passar a comparticipar aparelhos auditivos, reparação de óculos e material ortopédico.",
+ "context": "O PAN refere o aumento dos custos de produção dos medicamentos, um gasto médio de 70,67 euros por utente em 2021 e estimativas de que cerca de 10% das pessoas não compram medicamentos por falta de recursos, com risco acrescido para a população idosa.",
+ "analysis": "A medida dirige-se a um grupo vulnerável e cobre despesas habitualmente não comparticipadas. Fragilidades: o texto não estima o número de beneficiários nem o custo, e a elegibilidade por despesas comprovadas exige regulamentação por portaria e um processo de verificação potencialmente complexo. O valor de referência utilizado é o do complemento solidário, pelo que o alargamento depende de mecanismos de prova de despesa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As novas comparticipações e o alargamento do universo de beneficiários aumentam a despesa pública. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "Idosos de baixos rendimentos",
+  "Beneficiários do Complemento Solidário para Idosos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "benefícios adicionais de saúde",
+  "complemento solidário para idosos",
+  "aparelhos auditivos",
+  "óculos",
+  "material ortopédico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "short_title": "Investigação clínica de dispositivos médicos e estudos de desempenho",
+ "summary": "Proposta de Lei do Governo que estabelece o quadro nacional de execução dos Regulamentos (UE) 2017/745 (dispositivos médicos) e 2017/746 (dispositivos médicos para diagnóstico in vitro) no que respeita à investigação clínica e aos estudos de desempenho. Designa as entidades competentes e as suas competências (INFARMED e a Comissão de Ética para a Investigação Clínica, CEIC), regula os pedidos, a validação, avaliação e decisão, e prevê medidas corretivas. Acrescenta requisitos de proteção dos participantes e consentimento esclarecido, regras para menores, responsabilidade e compensação por danos (com seguro obrigatório do promotor), fornecimento gratuito e uso compassivo, contrato, rastreabilidade dos dispositivos, notificação e avaliação de informações de segurança, língua da documentação e sistema eletrónico nacional. Prevê contraordenações com coimas de 500 a 50 000 euros (pessoas singulares) ou 5 000 a 750 000 euros (pessoas coletivas), sanção acessória de suspensão até dois anos, taxas do INFARMED (isentas em estudos não comerciais) e entrada em vigor 30 dias após publicação.",
+ "key_points": [
+  "Designa o INFARMED e a CEIC como entidades competentes para investigações clínicas e estudos de desempenho.",
+  "Define pedido, validação, avaliação, decisão e recurso, bem como medidas corretivas.",
+  "Reforça a proteção dos participantes, o consentimento esclarecido e as regras para menores.",
+  "Exige seguro e compensação por danos, e prevê fornecimento gratuito e uso compassivo.",
+  "Regula rastreabilidade dos dispositivos, notificação de informações de segurança e sistema eletrónico nacional.",
+  "Fixa coimas de 500 a 50 000 euros (singulares) e de 5 000 a 750 000 euros (coletivas), com sanção acessória até dois anos; 60% do produto para o Estado e 40% para o INFARMED.",
+  "Sujeita os pedidos a taxas do INFARMED, a fixar por portaria, com isenção para investigação não comercial ou em que o promotor seja o investigador."
+ ],
+ "plain_language": "A União Europeia mudou as regras para dispositivos médicos e testes de diagnóstico. Esta lei adapta essas regras a Portugal: diz que o INFARMED e uma comissão de ética avaliam os estudos, protege as pessoas que participam, exige seguros e prevê o que acontece se houver problemas de segurança.",
+ "context": "O Governo explica que os novos regulamentos europeus reforçam a investigação clínica e os estudos de desempenho, mas precisam de execução nacional: designar entidades, estabelecer requisitos adicionais de proteção dos participantes e consentimento, e definir o quadro sancionatório e requisitos para investigações sem fins de avaliação da conformidade.",
+ "analysis": "É uma proposta de execução técnica de normas europeias, o que traz segurança jurídica e uniformidade, e reforça a proteção de participantes. A eficácia depende da capacidade do INFARMED e da CEIC e da articulação entre ambos, incluindo o parecer vinculativo da CEIC. As coimas são elevadas para pessoas coletivas, o que pode ser proporcionado para promotores comerciais mas pesado para pequenos promotores; a isenção de taxas para estudos não comerciais mitiga esse risco, embora os montantes das taxas só venham a ser fixados por portaria. Os requisitos adicionais, como o seguro obrigatório, podem aumentar custos para promotores de pequena dimensão e para a investigação académica.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "As taxas (montantes fixados por portaria, receita própria do INFARMED) e as coimas (60% para o Estado e 40% para o INFARMED) geram receita; o texto não indica valores globais nem custos para o Estado."
+ },
+ "affected": [
+  "promotores de investigação clínica de dispositivos médicos",
+  "participantes em investigações clínicas",
+  "INFARMED",
+  "Comissão de Ética para a Investigação Clínica",
+  "fabricantes de dispositivos médicos"
+ ],
+ "categories": [
+  "saude",
+  "ciencia",
+  "consumidores"
+ ],
+ "tags": [
+  "dispositivos médicos",
+  "investigação clínica",
+  "estudos de desempenho",
+  "INFARMED",
+  "regulamento europeu"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

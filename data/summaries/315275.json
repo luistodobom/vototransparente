@@ -1,0 +1,41 @@
+{
+ "short_title": "Execução dos investimentos em habitação e Fundo de Emergência",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que garanta financeiramente a execução dos investimentos públicos em habitação e regulamente o Fundo de Emergência para a Habitação. Pede um relatório à Assembleia da República sobre a execução física dos investimentos do PRR (26 000 habitações no 1.º Direito e 3 500 no Parque Público de Habitação a Custos Acessíveis), a formalização de compromissos e financiamento para responder às mais de 143 000 necessidades identificadas pelos municípios e a pelo menos 12 500 habitações acessíveis para a classe média, a concretização da linha de cerca de 250 M€ prevista na Lei n.º 56/2023 e a regulamentação do fundo.",
+ "key_points": [
+  "Apresentar à Assembleia da República um relatório sobre a execução dos investimentos de habitação do PRR, por município, fase e data de conclusão.",
+  "Formalizar compromissos e financiamento adicional para as mais de 143 000 necessidades do programa 1.º Direito.",
+  "Executar pelo menos as mais de 12 500 habitações acessíveis identificadas junto do IHRU.",
+  "Concretizar a linha de financiamento de cerca de 250 M€ prevista na Lei n.º 56/2023 para arrendamento acessível.",
+  "Regulamentar o Fundo de Emergência para a Habitação."
+ ],
+ "plain_language": "O PS pede ao Governo que mostre ao Parlamento como estão as obras de habitação financiadas pelo PRR e que assegure o dinheiro necessário para as concluir e para ir além delas, ajudando famílias com menos rendimentos e a classe média. Pede também que ponha a funcionar o fundo de emergência para a habitação e uma linha de crédito de cerca de 250 milhões de euros. São recomendações, não vinculativas.",
+ "context": "O proponente considera a habitação um dos principais problemas socioeconómicos, com um parque público de apenas cerca de 2 % da oferta. Alega que os relatórios do PRR revelam constrangimentos, que a meta de habitações acessíveis foi reduzida de 6 800 para cerca de 3 500 e que o compromisso do Governo de 59 000 habitações até 2030 ignora compromissos já assumidos com municípios e famílias.",
+ "analysis": "A iniciativa tem o mérito de pedir transparência sobre a execução do PRR, com dados concretos. As fragilidades: mistura pedidos de informação com compromissos financeiros sem indicar montantes totais, calendário de despesa nem fontes de financiamento, exceto os cerca de 250 M€ da lei de 2023. A exposição de motivos contém juízos políticos sobre o Governo. Sendo recomendação, não obriga a gastar. O prazo do PRR (2026) limita a margem para executar o que é pedido.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Pede financiamento adicional para o programa 1.º Direito e habitação acessível, uma linha de cerca de 250 M€ e a regulamentação do Fundo de Emergência; o montante total do financiamento adicional não consta do texto."
+ },
+ "affected": [
+  "famílias com menores rendimentos",
+  "classe média",
+  "municípios",
+  "pessoas sem habitação digna"
+ ],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [
+  "PRR",
+  "1.º direito",
+  "habitação acessível",
+  "fundo de emergência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

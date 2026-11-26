@@ -1,0 +1,38 @@
+{
+ "short_title": "Redução progressiva das propinas no ensino superior",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que promova um ensino superior público tendencialmente gratuito, através da redução progressiva do valor das propinas no 1.º ciclo de estudos. A exposição de motivos recorda a evolução histórica das propinas, a descida de 1068 para 697 euros até 2020/2021 e a proposta, rejeitada no Orçamento do Estado para 2026, de as aumentar para 710 euros em 2026/2027. O PAN defende que a Assembleia dê um sinal contra o aumento e a favor de uma redução, com vista à eliminação total. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Promover um ensino superior público tendencialmente gratuito.",
+  "Reduzir progressivamente as propinas no 1.º ciclo de estudos do ensino superior.",
+  "Posicionar a Assembleia contra o aumento das propinas e a favor da sua redução."
+ ],
+ "plain_language": "O PAN pede ao Governo que reduza gradualmente as propinas das licenciaturas nas instituições públicas, com o objetivo de tornar o ensino superior público quase gratuito. O Governo não é obrigado a cumprir.",
+ "context": "O PAN recorda que as propinas desceram até 697 euros em 2020/2021 e que uma proposta do Governo para as subir para 710 euros em 2026/2027 foi rejeitada na discussão do Orçamento do Estado para 2026. Defende que inverter o caminho de redução elitiza o ensino superior e que os estudantes e associações académicas rejeitam o aumento.",
+ "analysis": "A proposta favorece o acesso ao ensino superior e responde a uma posição de associações de estudantes. Porém, a redução das propinas diminui o financiamento das instituições, a menos que seja compensada pelo Estado, e o texto não indica metas, calendário, custos nem como compensar as instituições. A formulação tendencialmente gratuito é vaga, e o argumento de que os custos de habitação e alimentação também pesam não é tratado nas medidas. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A redução das propinas exigiria compensação pública às instituições de ensino superior; o texto não apresenta montantes."
+ },
+ "affected": [
+  "estudantes do ensino superior",
+  "instituições de ensino superior públicas",
+  "famílias dos estudantes"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "acesso ao ensino superior",
+  "gratuitidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

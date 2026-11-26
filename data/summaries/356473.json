@@ -1,0 +1,42 @@
+{
+ "short_title": "Carreira especial de Medicina Dentária no SNS",
+ "summary": "Projeto de Lei do PAN que cria a carreira especial de médico dentista nas entidades públicas empresariais do Serviço Nacional de Saúde. A carreira é pluricategorial, com as categorias de assistente, assessor e sénior, e a entrada faz-se como assistente com grau de generalista. A admissão exige o título de médico dentista e inscrição na Ordem dos Médicos Dentistas, e as posições remuneratórias são fixadas por instrumento de regulamentação coletiva. Os médicos dentistas atualmente em funções, na carreira de técnico superior ou similar, transitam para a categoria de assistente, por despacho conjunto no prazo de 90 dias. A lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria a carreira de médico dentista nas entidades públicas empresariais do SNS, com as categorias de assistente, assessor e sénior.",
+  "Entrada na carreira como assistente generalista; progressão ligada ao título de especialista, preferencialmente em Saúde Pública Oral ou Medicina Dentária Hospitalar.",
+  "Recrutamento por procedimento concursal, com quadros anuais definidos com base no número de gabinetes de saúde oral existentes ou previstos.",
+  "Remunerações fixadas por instrumento de regulamentação coletiva de trabalho.",
+  "Transição dos médicos dentistas em funções para a categoria de assistente, em 90 dias, com contagem do tempo de serviço anterior.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje os dentistas do SNS não têm uma carreira própria: muitos têm contratos precários ou estão enquadrados como técnicos superiores. O PAN propõe criar uma carreira específica, com categorias, concursos e progressão, e passar para ela os dentistas que já lá trabalham. Os salários seriam negociados em convenção coletiva.",
+ "context": "O PAN refere que cerca de 25% da população diz não ter meios para consultas de medicina dentária e que o relatório \"Saúde Oral 2.0\" (2023) assinala a ausência de carreira no SNS, com vínculos precários. Recorda que uma recomendação aprovada na legislatura anterior (Projeto de Resolução 454/XVI) não teve seguimento do Governo.",
+ "analysis": "A criação de uma carreira pode reforçar a atração e retenção de profissionais e dar estabilidade às equipas dos gabinetes de saúde oral. Em contrapartida, o projeto remete as remunerações e o recrutamento para instrumento de regulamentação coletiva, sem estimar custos nem número de lugares, e a transição automática para assistente pode levantar questões de equidade face a quem tem diferentes qualificações. A aplicação limita-se às entidades públicas empresariais, deixando de fora outros regimes do SNS.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração em carreira, a progressão e o recrutamento implicam encargos com pessoal, que o texto não quantifica. A entrada em vigor fica ligada ao Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "médicos dentistas do SNS",
+  "utentes de cuidados de saúde oral",
+  "entidades públicas empresariais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "medicina dentária",
+  "carreira",
+  "sns",
+  "saúde oral",
+  "médicos dentistas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

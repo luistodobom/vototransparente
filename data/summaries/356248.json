@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas urgentes para proteger as Alagoas Brancas",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas urgentes para garantir a execução dos compromissos de proteção da zona húmida das Alagoas Brancas, em Lagoa. Pede a fiscalização e o cumprimento integral do protocolo entre o Fundo Ambiental e o Município; a classificação como área protegida de âmbito local através do ICNF; a reavaliação da classificação na Reserva Ecológica Nacional e a retificação do PDM; um plano de gestão e recuperação ecológica com cronograma, financiamento e monitorização; respeito pelo princípio da prevenção em projetos de urbanização na envolvente; reforço da proteção de refúgios climáticos de água doce no Algarve; e avaliação da elegibilidade para a Convenção de Ramsar.",
+ "key_points": [
+  "Fiscalização e cumprimento do protocolo entre o Fundo Ambiental e o Município de Lagoa, evitando a sua caducidade.",
+  "Classificação das Alagoas Brancas como área protegida de âmbito local, via ICNF.",
+  "Reavaliação da classificação na REN e retificação do PDM de Lagoa.",
+  "Plano de gestão e recuperação ecológica com cronograma, financiamento e monitorização.",
+  "Avaliação do risco hidrológico e climático nos projetos de urbanização da envolvente.",
+  "Avaliar a elegibilidade para a Convenção de Ramsar."
+ ],
+ "plain_language": "O PAN pede ao Governo que faça cumprir o acordo para proteger as Alagoas Brancas, uma zona húmida de Lagoa, e que lhe dê estatuto legal de área protegida. Também quer corrigir a classificação do terreno nos planos urbanísticos e que haja um plano de recuperação ecológica. É uma recomendação.",
+ "context": "O proponente descreve a zona húmida como ecossistema de água doce com mais de 300 espécies e função na recarga de aquíferos e na mitigação de cheias, pressionado por urbanização e por uma grande superfície comercial travada por providência cautelar. Refere o financiamento de 3,7 milhões de euros do Fundo Ambiental e que vários compromissos do protocolo não foram executados pelo Município.",
+ "analysis": "A proposta é abrangente e legalmente fundamentada, e atua sobre classificação, ordenamento e gestão, além do cumprimento do protocolo. Fragilidades: muitos pontos dependem de decisões do município e de várias entidades (ICNF, APA, CCDR), com sobreposição de competências; não há prazos nem montantes; e as alegações sobre o incumprimento municipal não surgem acompanhadas de prova no texto. A revisão do PDM pode implicar custos e conflitos de uso do solo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O plano de gestão e recuperação e a eventual classificação implicam despesa pública; o texto não estima montantes, referindo apenas o financiamento já atribuído de 3,7 milhões de euros."
+ },
+ "affected": [
+  "município de Lagoa",
+  "população local",
+  "associações ambientais",
+  "promotores imobiliários da envolvente"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "Alagoas Brancas",
+  "zona húmida",
+  "Reserva Ecológica Nacional",
+  "Ramsar",
+  "PDM de Lagoa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

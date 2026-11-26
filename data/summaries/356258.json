@@ -1,0 +1,45 @@
+{
+ "short_title": "Acesso inclusivo às Comunidades de Energia Renovável",
+ "summary": "O Projeto de Lei do BE altera o Decreto-Lei n.º 15/2022 para alargar o acesso às Comunidades de Energia Renovável (CER). Garante a todos os consumidores o direito de participar, independentemente da condição socioeconómica, da titularidade do imóvel ou da localização, e impede que o acesso seja limitado por ser arrendatário, viver em propriedade horizontal ou em habitação pública, cooperativa ou a custos controlados. As CER devem integrar participantes em pobreza energética, com adesão a custos reduzidos ou nulos, e as apoiadas por fundos públicos terão de ter uma percentagem mínima desses participantes, a definir por lei. O Estado deve assegurar financiamento sem investimento inicial para consumidores vulneráveis e apoio técnico, e o Governo tem 120 dias para regulamentar.",
+ "key_points": [
+  "Direito de participação nas CER para todos os consumidores, incluindo arrendatários e moradores em propriedade horizontal ou habitação pública, cooperativa ou a custos controlados.",
+  "As CER devem integrar participantes em pobreza energética, com adesão a custos reduzidos ou nulos.",
+  "CER apoiadas por fundos públicos têm uma percentagem mínima de participantes em pobreza energética, a definir por lei.",
+  "Apoios públicos condicionados a critérios de inclusão social e distribuição equitativa dos benefícios.",
+  "Financiamento público para participação sem investimento inicial e apoio técnico via autarquias, freguesias e agências de energia.",
+  "Governo regulamenta em 120 dias."
+ ],
+ "plain_language": "A proposta quer que qualquer pessoa, incluindo inquilinos e moradores em prédios ou em habitação pública, possa fazer parte de uma comunidade de energia renovável, mesmo sem dinheiro para investir. As comunidades apoiadas com dinheiro público teriam de incluir famílias em pobreza energética, e o Estado ajudaria a financiar a entrada e daria apoio técnico.",
+ "context": "O BE argumenta que as CER, previstas no Decreto-Lei n.º 15/2022, enfrentam barreiras financeiras e de titularidade dos imóveis que excluem famílias de baixos rendimentos, arrendatários e moradores em habitação pública. Cita níveis elevados de pobreza energética (cerca de 20% da população sem conseguir aquecer a casa) e o risco de as CER beneficiarem sobretudo quem tem mais capacidade económica.",
+ "analysis": "A iniciativa reforça a inclusão social nas CER e define obrigações concretas para as que recebem apoio público. Riscos: a percentagem mínima de participantes em pobreza energética fica por definir e pode desincentivar a criação de CER; a participação sem investimento inicial exige financiamento público não quantificado; e garantir acesso sem autorização de terceiros nos edifícios pode ter implicações técnicas e jurídicas que dependem de regulamentação. O texto não avalia o impacto na rede elétrica nem nas tarifas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê financiamento público para participação sem investimento inicial e apoio técnico, sem montantes no texto. Os efeitos financeiros não suportados pelo orçamento em vigor ficam para o seguinte."
+ },
+ "affected": [
+  "famílias em pobreza energética",
+  "arrendatários e moradores em propriedade horizontal",
+  "residentes em habitação pública e cooperativa",
+  "comunidades de energia renovável",
+  "autarquias e agências de energia"
+ ],
+ "categories": [
+  "energia",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "comunidades de energia renovável",
+  "pobreza energética",
+  "Decreto-Lei 15/2022",
+  "autoconsumo",
+  "inclusão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

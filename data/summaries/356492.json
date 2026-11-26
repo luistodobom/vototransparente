@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço da oferta de creches e liberdade de escolha",
+ "summary": "A Iniciativa Liberal recomenda ao Governo seis medidas sobre as creches: medidas urgentes para aumentar vagas, removendo constrangimentos burocráticos e revendo o licenciamento; conversão de salas de jardim de infância não utilizadas em salas de creche; plena utilização da capacidade instalada, integrando os setores público, privado e social e eliminando restrições no programa Creche Feliz; apoios utilizáveis em qualquer creche, sem restrições geográficas nem critérios de precedência injustificados; melhor articulação entre creche e pré-escolar, mantendo apoios se não houver vaga no pré-escolar; e monitorização regular da capacidade e das necessidades. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Medidas urgentes para aumentar vagas e rever o licenciamento.",
+  "Conversão de salas de jardim de infância em salas de creche.",
+  "Integração efetiva dos setores público, privado e social no programa Creche Feliz.",
+  "Apoios que seguem a criança, independentemente da natureza da creche.",
+  "Manutenção de apoios na transição para o pré-escolar sem vaga, e monitorização regular das vagas."
+ ],
+ "plain_language": "O partido pede ao Governo mais vagas em creche, simplificando regras e aproveitando salas vazias, e que o apoio do Estado possa ser usado em qualquer creche, pública, privada ou social, para as famílias escolherem. É só uma recomendação.",
+ "context": "O proponente considera que o programa Creche Feliz criou procura sem garantir resposta, deixando milhares de famílias sem vaga enquanto parte da capacidade instalada fica subaproveitada. Defende mais oferta, menos burocracia e liberdade de escolha das famílias.",
+ "analysis": "Aponta problemas reconhecíveis, como a falta de vagas e a burocracia, e propõe soluções de execução relativamente rápida. Fragilidades: não quantifica vagas em falta, custos nem a capacidade ociosa invocada; aliviar requisitos de licenciamento e converter salas pode afetar a qualidade e a segurança, sem salvaguardas descritas; apoios portáteis podem aumentar a despesa pública; e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Apoios utilizáveis em qualquer creche e a maior oferta poderão aumentar a despesa pública, sem estimativa."
+ },
+ "affected": [
+  "famílias com crianças pequenas",
+  "creches públicas, privadas e sociais",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creches",
+  "creche feliz",
+  "liberdade de escolha",
+  "licenciamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

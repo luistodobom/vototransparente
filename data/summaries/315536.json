@@ -1,0 +1,43 @@
+{
+ "short_title": "Transferências a crédito imediatas em euros",
+ "summary": "A proposta de lei do Governo assegura a execução do Regulamento (UE) 2024/886 sobre transferências a crédito imediatas em euros, alterando o Decreto-Lei n.º 221/2000 e o Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica (RJSPME). O conceito de instituição passa a incluir instituições de pagamento e de moeda eletrónica, e os fundos dos clientes podem ser depositados também numa conta separada num banco central, ficando isso sujeito à discricionariedade desse banco. Estabelecem-se condições para essas instituições pedirem participação em sistemas de pagamentos designados, com autoavaliação a apresentar ao Banco de Portugal, e esclarecem-se regras do RJSPME. Prevê coimas por infrações graves, de 3 000 a 1 500 000 euros ou de 1 000 a 500 000 euros, e por infrações especialmente graves, até 5 000 000 de euros.",
+ "key_points": [
+  "Instituições de pagamento e de moeda eletrónica passam a estar abrangidas pelo regime dos sistemas de pagamentos designados.",
+  "Os fundos dos clientes podem ser depositados numa conta separada num banco central, a critério deste.",
+  "As instituições que pedem participação em sistemas de pagamentos apresentam ao Banco de Portugal uma autoavaliação.",
+  "Prevê coimas de 3 000 a 1 500 000 euros (infrações graves, pessoas coletivas) e até 5 000 000 de euros (especialmente graves).",
+  "Revoga as alíneas pp) e rr) do artigo 151.º do RJSPME."
+ ],
+ "plain_language": "A UE criou regras para que as transferências em euros sejam feitas em segundos. Esta proposta adapta a lei portuguesa para que bancos e outras entidades de pagamento cumpram essas regras e para que o Banco de Portugal supervisione, com multas para quem infringir.",
+ "context": "O Governo explica que o regulamento europeu pretende criar um mercado integrado de transferências a crédito imediatas em euros e que a lei nacional precisa de ser ajustada para transpor as alterações às diretivas relacionadas, nomeadamente em matéria de proteção de fundos e acesso a sistemas de pagamento.",
+ "analysis": "A proposta é essencialmente técnica e cumpre obrigações europeias, alargando o acesso de instituições de pagamento a sistemas de pagamentos. Pontos de atenção: a salvaguarda de fundos em conta num banco central depende da discricionariedade deste, e os requisitos de autoavaliação aumentam encargos de conformidade para instituições mais pequenas. O texto não avalia o impacto para os consumidores nem os custos das novas obrigações.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa orçamental. Podem existir receitas de coimas e custos de supervisão, sem montantes indicados."
+ },
+ "affected": [
+  "bancos e instituições de pagamento",
+  "instituições de moeda eletrónica",
+  "utilizadores de serviços de pagamento",
+  "Banco de Portugal"
+ ],
+ "categories": [
+  "economia",
+  "consumidores",
+  "internacional"
+ ],
+ "tags": [
+  "transferências imediatas",
+  "serviços de pagamento",
+  "banco de portugal",
+  "regulamento ue 2024/886",
+  "moeda eletrónica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

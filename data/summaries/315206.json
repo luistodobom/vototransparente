@@ -1,0 +1,43 @@
+{
+ "short_title": "Programa de replantação em zonas protegidas cortadas",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo um Programa Nacional de Replantação e Regeneração Ecológica das áreas cortadas ou degradadas, com prioridade para a Rede Ecológica Nacional e a Rede Natura 2000. Recomenda metas e prazos públicos, preferência por espécies autóctones e monitorização técnica independente; financiamento estável com verbas do Orçamento do Estado e fundos comunitários, incluindo o Plano Estratégico da PAC; reforço substancial da fiscalização e sanções dissuasoras para cortes rasos ilegais; e participação de autarquias, comunidades rurais, proprietários e sociedade civil. Por ser um projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Programa nacional de replantação e regeneração ecológica, prioritário na Rede Ecológica Nacional e na Rede Natura 2000.",
+  "Metas e prazos públicos, espécies autóctones e monitorização técnica independente.",
+  "Financiamento estável com Orçamento do Estado e fundos comunitários, incluindo o Plano Estratégico da PAC.",
+  "Reforço da fiscalização e sanções proporcionais e dissuasoras para cortes rasos não autorizados.",
+  "Participação de autarquias, comunidades rurais, proprietários e organizações da sociedade civil."
+ ],
+ "plain_language": "O CHEGA recomenda ao Governo que replante e recupere as zonas protegidas onde foram feitos cortes de árvores, usando espécies da região, com metas públicas e dinheiro estável. Pede também mais fiscalização e multas mais pesadas para cortes ilegais, e que as comunidades locais participem. É apenas uma recomendação.",
+ "context": "O proponente afirma que muitas operações de corte raso em zonas protegidas ocorrem com pouca fiscalização, com contratos pouco transparentes, abertura de acessos sem licença e incumprimento da reposição do coberto vegetal, com sanções frequentemente brandas. Considera que isto ameaça solos, recursos hídricos, biodiversidade e o interior.",
+ "analysis": "A iniciativa aborda um problema real de proteção de áreas classificadas e combina recuperação, fiscalização e participação local. Porém, é genérica: não identifica as áreas cortadas, a sua dimensão ou o custo, nem as entidades responsáveis, e os relatos de práticas ilegais são apresentados sem dados. O recurso a fundos da PAC e do Orçamento do Estado não é quantificado. Sendo uma recomendação, depende da vontade do Governo e não cria obrigações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda financiamento estável do programa e reforço da fiscalização, com verbas do Orçamento do Estado e fundos europeus. O texto não indica montantes."
+ },
+ "affected": [
+  "proprietários florestais",
+  "comunidades rurais",
+  "autarquias de zonas protegidas",
+  "entidades de fiscalização ambiental"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "replantação",
+  "Rede Natura 2000",
+  "cortes rasos",
+  "espécies autóctones",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

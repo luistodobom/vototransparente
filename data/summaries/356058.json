@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção de crianças em ambientes digitais (idade mínima de 16 anos)",
+ "summary": "Projeto de lei do PSD que estabelece medidas de proteção de crianças, definidas como menores de 16 anos, em plataformas de redes sociais, jogos e apostas em linha, lojas de aplicações e serviços semelhantes. Fixa a idade mínima digital em 16 anos: entre os 13 e os 16 anos o acesso exige consentimento parental verificado, e abaixo dos 13 anos é proibido. Impõe verificação de idade compatível com a Chave Móvel Digital, painel de controlo parental, configurações seguras por defeito, proibição de design aditivo, como autoplay, scroll infinito e loot boxes, e mecanismos contra aliciamento e cyberbullying. A fiscalização cabe à ANACOM e à CNPD, com contraordenações. Altera o artigo 16.º da Lei n.º 58/2019. O texto analisado está truncado.",
+ "key_points": [
+  "Idade mínima digital de 16 anos; entre 13 e 16 anos exige consentimento parental verificado, abaixo de 13 anos o acesso é proibido.",
+  "Verificação de idade obrigatória, compatível com a Chave Móvel Digital, sem autoidentificação.",
+  "Contas de menores de 16 anos com configurações seguras por defeito e sem autoplay, scroll infinito, loot boxes ou notificações não essenciais.",
+  "Mecanismos de deteção de contactos suspeitos e denúncias tratadas em 24 horas.",
+  "Fiscalização pela ANACOM e pela CNPD, com ordens de desindexação ou suspensão de acesso e contraordenações."
+ ],
+ "plain_language": "A proposta quer impedir que crianças usem redes sociais e jogos em linha sem controlo. Abaixo de 13 anos o acesso seria proibido, e entre os 13 e os 16 só com autorização verificada dos pais. As plataformas teriam de confirmar a idade, retirar funções que viciam e proteger as crianças de contactos perigosos, sob pena de multas.",
+ "context": "O PSD invoca a evidência de efeitos adversos das redes sociais na saúde mental das crianças, citando relatórios da UNESCO e da OMS, que apontam uma subida do uso problemático das redes sociais de 7% em 2018 para 11% em 2022. Destaca a vulnerabilidade das raparigas adolescentes e a dificuldade dos pais em acompanhar estes riscos.",
+ "analysis": "Pontos fortes: tem regras concretas e aborda causas, como o design aditivo, a verificação de idade e as configurações por defeito. Fragilidades: a verificação de idade pela Chave Móvel Digital levanta questões de privacidade e de aplicação a plataformas estrangeiras, e há tensão com o direito da UE (regulamento dos serviços digitais). Medidas como a suspensão de acesso a serviços e a idade mínima de 16 anos podem ser contestadas quanto à proporcionalidade e liberdade de expressão. O texto disponível está truncado, pelo que sanções e regime final não foram analisados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A fiscalização pela ANACOM e pela CNPD e a integração da Chave Móvel Digital implicam custos, e as contraordenações podem gerar receita; o texto analisado não os quantifica."
+ },
+ "affected": [
+  "crianças e jovens menores de 16 anos",
+  "pais e encarregados de educação",
+  "plataformas digitais e jogos em linha",
+  "ANACOM e CNPD"
+ ],
+ "categories": [
+  "ciencia",
+  "familia",
+  "consumidores"
+ ],
+ "tags": [
+  "proteção de menores",
+  "redes sociais",
+  "verificação de idade",
+  "design aditivo",
+  "Chave Móvel Digital"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

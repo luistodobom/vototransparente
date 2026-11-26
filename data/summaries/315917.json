@@ -1,0 +1,41 @@
+{
+ "short_title": "Aplicação uniforme do direito ao esquecimento em seguros e crédito",
+ "summary": "Projeto de Resolução do CH que recomenda ao Governo que assegure a efetiva e uniforme aplicação da Lei n.º 75/2021, que consagra o direito ao esquecimento para pessoas com risco agravado de saúde ou deficiência. Pede que, em articulação com as associações setoriais das instituições de crédito e de seguros, promova a consolidação, monitorização e revisão do acordo nacional de acesso ao crédito e a contratos de seguros, garantindo o cumprimento efetivo desse direito. A lei proíbe os seguradores de recolher informação de saúde ou agravar prémios em função de situações superadas após prazos de dez anos, cinco anos (antes dos 21 anos) ou dois anos de protocolo terapêutico eficaz. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Assegurar a aplicação efetiva e uniforme da Lei n.º 75/2021, de 18 de novembro.",
+  "Promover, com as associações da banca e dos seguros, a consolidação e revisão do acordo nacional de acesso ao crédito e seguros.",
+  "Monitorizar o cumprimento do direito ao esquecimento."
+ ],
+ "plain_language": "Pessoas que tiveram cancro ou têm diabetes continuam, segundo o Chega, a ter dificuldade em obter seguros e crédito à habitação, apesar da lei do direito ao esquecimento. O partido pede ao Governo que garanta que a lei é cumprida da mesma forma por bancos e seguradoras.",
+ "context": "O proponente refere que a lei está em vigor desde 1 de janeiro de 2022, mas surgem casos de doentes diferenciados no crédito e nos seguros de vida obrigatórios. As seguradoras alegam falta de regulamentação do Governo, e a falta de acordo entre banca, seguradoras e associações de doentes perpetua interpretações desiguais.",
+ "analysis": "Ponto forte: aborda um problema concreto de aplicação de uma lei em vigor, com casos noticiados. Fragilidades: a recomendação é genérica e não fixa prazos nem regulamentação específica; remete para um acordo setorial sem dizer como garantir cumprimento; a exposição de motivos dedica grande parte a dados sobre listas de espera no SNS que não têm relação direta com a medida. É uma resolução não vinculativa.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A recomendação diz respeito a regras de seguros e crédito entre privados e não prevê despesa ou receita públicas."
+ },
+ "affected": [
+  "pessoas com historial oncológico ou outras patologias superadas",
+  "pessoas com deficiência",
+  "seguradoras e bancos",
+  "candidatos a crédito à habitação"
+ ],
+ "categories": [
+  "consumidores",
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "direito ao esquecimento",
+  "seguros",
+  "crédito à habitação",
+  "doentes oncológicos",
+  "lei 75/2021"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

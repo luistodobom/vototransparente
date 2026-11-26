@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa Nacional de Deseucaliptização",
+ "summary": "Projeto de Lei do PAN que cria, a partir de 2026, um Programa Nacional de Deseucaliptização com prémios ao arranque de eucaliptos e apoios à conversão e rearborização com espécies autóctones. O prémio é de 2000 euros por hectare nas zonas de intervenção prioritária (áreas protegidas, Rede Natura 2000 e freguesias de maior perigosidade de incêndio) e de 1000 euros nas restantes. Há ainda comparticipação de 50% ou 30% dos investimentos na conversão (máximo de 1000 euros por hectare), compensação pela perda de receita e apoio à rearborização. Os beneficiários comprometem-se a não plantar eucalipto durante 15 anos, sob pena de devolução dos apoios acrescidos de 30%. O financiamento vem do Orçamento do Estado e de fundos europeus.",
+ "key_points": [
+  "Prémio ao arranque de eucalipto: 2000 euros por hectare em zonas prioritárias e 1000 euros nas restantes.",
+  "Comparticipação de 50% (zonas prioritárias) ou 30% dos investimentos de conversão, até 1000 euros por hectare, e compensação pela perda de receita.",
+  "Apoio à rearborização com espécies autóctones: 40% ou 20% do investimento, até 1000 euros por hectare.",
+  "Carta de compromisso de 15 anos sem plantar eucalipto; incumprimento obriga a devolver os apoios mais 30%.",
+  "Controlos administrativos e vistorias no local; regulamentação por portaria em 30 dias.",
+  "Financiamento pelo Orçamento do Estado e possível financiamento europeu, incluindo excedentes do PRR."
+ ],
+ "plain_language": "O PAN propõe pagar aos proprietários que arranquem eucaliptos e plantem árvores nativas, como sobreiros ou carvalhos, com apoios maiores nas zonas protegidas ou mais expostas a incêndios. Quem receber o apoio não pode voltar a plantar eucalipto naquele terreno durante 15 anos, sob pena de devolver o dinheiro com um acréscimo.",
+ "context": "O proponente afirma que os eucaliptais ocupam cerca de 26% da floresta continental (844 mil hectares) e que a sua expansão agrava o risco de incêndio, a perda de biodiversidade e a degradação dos solos. Defende a reconversão para espécies autóctones e refere o objetivo de reconverter 100 mil hectares em áreas classificadas até 2030.",
+ "analysis": "A proposta tem objetivos claros, apoios definidos e mecanismos de controlo e de penalização. Fragilidades: não há estimativa do custo total, e a sua dependência de verbas do OE e do PRR é incerta; o prémio e as comparticipações podem não compensar o rendimento do eucalipto, limitando a adesão em terrenos privados. O prazo de 30 dias para regulamentar é curto, e o texto contém imprecisões, como a referência a «portaria» nas definições e dois artigos 8.º. A meta de 100 mil hectares não tem correspondência direta nas medidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria prémios e comparticipações por hectare financiados pelo Orçamento do Estado e fundos europeus. O texto não estima o custo total do programa."
+ },
+ "affected": [
+  "proprietários florestais",
+  "produtores de eucalipto e indústria da fileira",
+  "ICNF e entidades gestoras de áreas protegidas",
+  "comunidades em zonas de risco de incêndio"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "eucalipto",
+  "espécies autóctones",
+  "floresta",
+  "incêndios",
+  "reflorestação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

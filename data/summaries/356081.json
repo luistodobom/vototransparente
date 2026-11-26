@@ -1,0 +1,40 @@
+{
+ "short_title": "Fim progressivo das subvenções vitalícias de políticos",
+ "summary": "O Projeto de Lei n.º 402/XVII/1.ª, do CHEGA, determina a redução progressiva e a extinção da subvenção mensal vitalícia (SMV) paga a titulares de cargos políticos ao abrigo dos artigos 8.º e 9.º da Lei n.º 52-A/2005, que aboliu o regime mas manteve direitos adquiridos. O valor pago baixa para 60% do montante em pagamento no 1.º ano completo após a entrada em vigor, 40% no 2.º ano e 20% no 3.º ano, cessando no dia seguinte ao fim do 3.º ano. A partir da entrada em vigor deixam de ser admitidos novos pedidos de SMV ao abrigo do regime transitório. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "O valor da SMV desce para 60% no 1.º ano, 40% no 2.º ano e 20% no 3.º ano após a entrada em vigor.",
+  "A SMV cessa no primeiro dia posterior ao término do 3.º ano completo.",
+  "Deixam de ser admitidos novos pedidos de SMV ao abrigo do regime transitório do artigo 8.º da Lei n.º 52-A/2005.",
+  "Entra em vigor no dia seguinte ao da publicação em Diário da República."
+ ],
+ "plain_language": "Há antigos titulares de cargos políticos que recebem uma pensão vitalícia especial, herdada de um regime que a lei de 2005 já tinha abolido para quem entrou depois. Este projeto acaba com esse pagamento de forma gradual: passa a pagar 60% do valor no primeiro ano, 40% no segundo, 20% no terceiro e depois deixa de pagar. Ninguém poderia pedir esta subvenção de novo.",
+ "context": "O CHEGA defende que as subvenções vitalícias violam o princípio da igualdade e perpetuam a desproporção entre os rendimentos da classe política e os da generalidade dos portugueses. Recorda que a Lei n.º 52-A/2005 aboliu o regime mas salvaguardou direitos adquiridos, que a despesa voltou a níveis equivalentes aos anteriores e cita casos considerados aberrantes de acumulação. Reconhece que uma iniciativa anterior foi considerada inconstitucional por ser retroativa.",
+ "analysis": "Pontos fortes: responde a uma preocupação de equidade e a situações de acumulação apontadas, e a redução gradual em três anos procura atenuar o impacto. Fragilidades: o próprio texto recorda que o Tribunal Constitucional já invocou a proteção da confiança em decisões sobre subvenções vitalícias, pelo que a extinção de direitos adquiridos pode ser inconstitucional; não quantifica a poupança esperada; e a extinção abrange beneficiários que podem depender dessa subvenção, incluindo transmissões a familiares.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "A redução progressiva e a extinção das subvenções reduzem a despesa pública, mas o texto não quantifica a poupança esperada."
+ },
+ "affected": [
+  "antigos titulares de cargos políticos beneficiários da subvenção",
+  "familiares com direito a transmissão da subvenção",
+  "contribuintes"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "subvenção vitalícia",
+  "cargos políticos",
+  "direitos adquiridos",
+  "igualdade",
+  "Lei n.º 52-A/2005"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

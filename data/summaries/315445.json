@@ -1,0 +1,44 @@
+{
+ "short_title": "Execução do Regulamento dos Serviços Digitais em Portugal",
+ "summary": "Proposta de lei do Governo que assegura a execução nacional do Regulamento (UE) 2022/2065 (Regulamento dos Serviços Digitais). Designa a ANACOM como autoridade competente e Coordenador dos Serviços Digitais, responsável pela supervisão e ponto de contacto único com as instâncias europeias. Define o conteúdo das determinações judiciais e administrativas para atuar sobre conteúdos ilegais e prestar informações, os poderes de investigação e de execução (incluindo compromissos, planos de ação e pedido ao tribunal de restrição temporária de acesso), as reclamações dos utilizadores e um Conselho Consultivo. Fixa coimas máximas de 1% ou 6% do volume de negócios mundial, sanções pecuniárias compulsórias até 5% do volume de negócios médio diário, uma plataforma de comunicação e financiamento pelas receitas do leilão 5G (2 175 000 euros em 2025 e 3 080 000 euros em 2026). Revoga parte do Decreto-Lei n.º 7/2004 e o Decreto-Lei n.º 20-B/2024.",
+ "key_points": [
+  "A ANACOM é designada autoridade competente e Coordenador dos Serviços Digitais, com poderes de investigação (pedidos de informação, inspeções, explicações) e de execução (compromissos, ordens de cessação, medidas provisórias).",
+  "Fixa os elementos obrigatórios das determinações das autoridades para atuar sobre conteúdos ilegais e prestar informações sobre utilizadores, incluindo fundamentação e mecanismos de reparação.",
+  "Coimas até 1% (infrações menos graves) ou 6% (infrações mais graves) do volume de negócios anual mundial, ou do rendimento no caso de pessoas singulares; metade em caso de negligência ou tentativa; produto repartido 60% Estado e 40% Coordenador.",
+  "Sanções pecuniárias compulsórias até 5% do volume de negócios médio diário, por dia, até ao máximo de 30 dias.",
+  "Cria um Conselho Consultivo (comunidade científica, sociedade civil e empresas), um sistema de reclamações e uma plataforma eletrónica para as determinações.",
+  "Financiamento transitório pelas receitas do leilão 5G, com 2 175 000 euros em 2025 e 3 080 000 euros em 2026, e reavaliação do modelo até ao fim de 2029."
+ ],
+ "plain_language": "A União Europeia criou regras para plataformas e serviços em linha, por exemplo sobre conteúdos ilegais. Esta proposta diz quem em Portugal fiscaliza essas regras, a ANACOM, que poderes tem, como podem os utilizadores apresentar queixa e que multas podem ser aplicadas às empresas que não cumpram, que podem chegar a 6% do volume de negócios mundial.",
+ "context": "O Governo explica que o Regulamento dos Serviços Digitais harmoniza as regras para um ambiente em linha seguro e previsível e exige que cada Estado-Membro designe uma autoridade independente e com recursos suficientes. Para evitar fragmentação de atribuições, propõe concentrar as competências numa única autoridade, ressalvando as competências setoriais de outras entidades.",
+ "analysis": "A proposta cumpre a obrigação europeia de designar e dotar uma autoridade, e a concentração numa só entidade simplifica a interlocução; o regime de determinações e as garantias de reclamação e recurso são claros. Riscos: a acumulação de poderes de supervisão e sancionatórios numa só entidade exige garantias de independência e de contraditório; os poderes sobre conteúdos suscitam questões de liberdade de expressão, mitigadas pela exigência de decisão judicial para restringir o acesso; o financiamento depende de receitas pontuais do leilão 5G e só está definido até 2026, com valores posteriores por despacho; e a capacidade técnica para supervisionar grandes prestadores é incerta.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O Coordenador é financiado pelas receitas do leilão 5G: 2 175 000 euros em 2025 e 3 080 000 euros em 2026, com valores para 2027 a 2029 por despacho. As coimas e sanções revertem 60% para o Estado e 40% para o Coordenador."
+ },
+ "affected": [
+  "prestadores de serviços intermediários e plataformas em linha",
+  "utilizadores de serviços digitais",
+  "ANACOM",
+  "autoridades judiciárias e administrativas"
+ ],
+ "categories": [
+  "ciencia",
+  "comunicacao",
+  "consumidores"
+ ],
+ "tags": [
+  "Regulamento dos Serviços Digitais",
+  "ANACOM",
+  "plataformas em linha",
+  "conteúdos ilegais",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

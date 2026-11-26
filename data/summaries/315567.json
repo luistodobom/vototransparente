@@ -1,0 +1,38 @@
+{
+ "short_title": "Habitação pública para famílias com mobilidade reduzida",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que inclua, no mapeamento e na distribuição de habitação, a identificação dos imóveis do Estado já adaptados, ou que possam ser facilmente adaptados com rampas ou elevadores, e um acesso facilitado à habitação para famílias com membros com mobilidade reduzida. Aproveita o mapeamento do património urbano e rural do Estado e o programa de casas públicas do Governo. Por ser um projeto de resolução, a recomendação não é vinculativa.",
+ "key_points": [
+  "Identificar no mapeamento do património do Estado os imóveis já adaptados ou facilmente adaptáveis com rampas ou elevadores.",
+  "Facilitar o acesso à habitação, com rampas ou elevadores, às famílias com membros com mobilidade reduzida."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que, ao listar e distribuir as casas do Estado, veja quais já têm acessibilidade ou podem ter facilmente, e que dê às famílias com alguém com mobilidade reduzida um acesso mais fácil a essas casas. É uma recomendação, não uma obrigação.",
+ "context": "O proponente aponta que a crise da habitação afeta mais as famílias com membros com mobilidade reduzida e lembra o compromisso do Governo de concluir o mapeamento do património do Estado e executar 59 mil casas públicas, tendo entregue 10 mil casas até dezembro de 2024 e prevendo entregar outras 8 mil.",
+ "analysis": "A proposta é simples, de baixo custo aparente e aproveita um processo já em curso. Porém, é vaga: não define o que significa «acesso facilitado», prioridades, quotas ou prazos, nem articula com os critérios de atribuição de habitação já existentes. O custo das obras de adaptação não é estimado nem se identificam fontes de financiamento. Sendo uma recomendação, a sua concretização depende do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "As obras de adaptação com rampas ou elevadores podem implicar despesa, mas o texto não indica montantes nem mecanismo de financiamento."
+ },
+ "affected": [
+  "famílias com membros com mobilidade reduzida",
+  "pessoas com deficiência",
+  "entidades gestoras de habitação pública"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "mobilidade reduzida",
+  "habitação pública",
+  "acessibilidade",
+  "mapeamento do património"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

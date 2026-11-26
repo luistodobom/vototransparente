@@ -1,0 +1,41 @@
+{
+ "short_title": "Rede de Postos de Atendimento ao Emigrante nas maiores comunidades",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que institua uma Rede de Postos de Atendimento ao Emigrante, equiparáveis às Lojas do Cidadão, para tratar as exigências administrativas hoje realizadas presencialmente nos consulados. Os postos seriam instalados com critérios claros e distribuição geográfica equitativa, iniciando-se com um projeto-piloto na região metropolitana de Paris, e ficariam inicialmente subordinados às estruturas consulares como extensão destas. O proponente sugere critérios como pelo menos 30.000 residentes portugueses, dos quais 15.000 eleitores, e estima 40 a 50 postos e cerca de cem funcionários. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rede de Postos de Atendimento ao Emigrante com funções equiparáveis às Lojas do Cidadão.",
+  "Distribuição geográfica equitativa, com critérios claros de instalação.",
+  "Projeto-piloto na região metropolitana de Paris.",
+  "Subordinação inicial às estruturas consulares, como extensão destas."
+ ],
+ "plain_language": "Quem vive no estrangeiro muitas vezes tem de percorrer longas distâncias e esperar muito tempo para tratar de assuntos nos consulados. O CHEGA propõe postos de atendimento semelhantes às Lojas do Cidadão nas cidades com mais emigrantes, a começar por Paris.",
+ "context": "O proponente considera que a rede consular é insuficiente para comunidades numerosas e dispersas, com distâncias, burocracias, horários inacessíveis e dificuldades de agendamento. Defende que o Estado deve assegurar acesso fácil aos serviços públicos, o que facilitaria o recenseamento eleitoral e a participação cívica.",
+ "analysis": "A proposta responde a queixas conhecidas sobre o atendimento consular e é concreta quanto ao projeto-piloto. Fragilidades: os números de custo e de pessoal avançados (40 a 50 postos, cerca de cem funcionários) não são fundamentados, e o texto não esclarece como se garantiria a capacidade legal de os postos executarem atos consulares, nem as relações com o país de acolhimento. Sendo uma recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de postos e a contratação de pessoal implicam despesa. O proponente estima 40 a 50 postos e cerca de cem funcionários, mas não apresenta montantes."
+ },
+ "affected": [
+  "emigrantes portugueses",
+  "rede consular",
+  "Ministério dos Negócios Estrangeiros"
+ ],
+ "categories": [
+  "internacional",
+  "administracao",
+  "direitos"
+ ],
+ "tags": [
+  "emigrantes",
+  "consulados",
+  "atendimento",
+  "Paris",
+  "diáspora"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

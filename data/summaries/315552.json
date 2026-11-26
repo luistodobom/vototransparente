@@ -1,0 +1,37 @@
+{
+ "short_title": "Inteligência artificial na prevenção de incêndios florestais",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, no âmbito da execução do Plano «Floresta 2050, Futuro + Verde», reforce os meios e recursos necessários para a utilização de Inteligência Artificial na prevenção e deteção de incêndios florestais. O texto alega que o plano não menciona o uso de IA e que, segundo projetos-piloto na Galiza e na Sardenha, a deteção automática precoce com sensores e IA reduziu em média 60 a 75 % da área ardida. Estima ainda, para Portugal, um potencial de redução de área ardida até 78 % e poupança superior a 150 milhões de euros por ano.",
+ "key_points": [
+  "Reforçar, no âmbito do plano Floresta 2050, os meios e recursos para usar Inteligência Artificial na prevenção e deteção de incêndios."
+ ],
+ "plain_language": "O PAN pede ao Governo que use mais tecnologia de inteligência artificial para detetar e prevenir incêndios florestais mais cedo, dentro do plano nacional para a floresta. Defende que isso poderia reduzir muito a área ardida e poupar dinheiro. A proposta é uma recomendação, não obriga o Governo a agir.",
+ "context": "O proponente nota que o Plano «Floresta 2050» não refere o reforço de instrumentos de Inteligência Artificial, e que em Portugal não existe uma estratégia nacional para o seu uso. Cita projetos-piloto na Galiza e Sardenha, e o projeto «Floresta Limpa» da NOVA FCT, como exemplos do potencial desta tecnologia.",
+ "analysis": "A recomendação é simples e enquadrada num plano existente, mas muito genérica: não define meios, montantes, prazos nem tecnologias. Os números apresentados (redução de 60 a 75 % da área ardida em projetos-piloto, até 78 % e mais de 150 milhões de euros anuais em Portugal) não têm fonte detalhada no texto, e extrapolações de projetos-piloto para o território nacional são incertas. Falta também considerar custos de instalação e manutenção e a integração com os sistemas já existentes.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A medida implica investimento em meios tecnológicos que o texto não quantifica; o texto estima uma poupança superior a 150 milhões de euros por ano, sem demonstração detalhada."
+ },
+ "affected": [
+  "proprietários florestais",
+  "população em zonas de risco",
+  "entidades de combate a incêndios"
+ ],
+ "categories": [
+  "ambiente",
+  "ciencia",
+  "seguranca"
+ ],
+ "tags": [
+  "inteligência artificial",
+  "incêndios florestais",
+  "floresta 2050",
+  "deteção precoce"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

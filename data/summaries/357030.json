@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da autonomia e capacidade do Ministério Público",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo nove medidas para reforçar as condições de funcionamento do Ministério Público. Entre elas: um levantamento nacional das carências em meios humanos, instalações, equipamentos e sistemas informáticos; um diagnóstico do edificado; um plano plurianual de investimento nesse edificado; a afetação progressiva de instalações próprias, distintas dos tribunais; mais meios para o DCIAP e os DIAP; modernização tecnológica; avaliação dos modelos de organização e distribuição processual; avaliação dos meios necessários às prioridades da política criminal; e um relatório à Assembleia da República no prazo de 180 dias, com calendário e estimativa de custos.",
+ "key_points": [
+  "Fazer um levantamento nacional das condições de funcionamento do Ministério Público, com a PGR e o CSMP.",
+  "Diagnosticar o edificado e aprovar um plano plurianual de investimento.",
+  "Afetar progressivamente instalações próprias ao Ministério Público, distintas dos tribunais.",
+  "Reforçar o DCIAP e os DIAP e modernizar os sistemas informáticos.",
+  "Avaliar os modelos de organização processual e os meios necessários à política criminal.",
+  "Apresentar um relatório em 180 dias com calendário e estimativa financeira."
+ ],
+ "plain_language": "O JPP pede ao Governo que avalie o que falta ao Ministério Público (magistrados, funcionários, computadores e edifícios) e que invista para o investigar melhor casos complexos, como corrupção e crimes económicos. Propõe também que os procuradores tenham instalações próprias, separadas dos tribunais. O Governo teria de prestar contas ao Parlamento em 180 dias. É apenas uma recomendação.",
+ "context": "O proponente sustenta que a autonomia constitucional do Ministério Público exige meios concretos e aponta a falta de magistrados, oficiais de justiça e técnicos, com impacto nos inquéritos, na corrupção, no cibercrime e nos megaprocessos. Acrescenta que a autonomia exige planeamento patrimonial próprio e instalações adequadas.",
+ "analysis": "A proposta parte de uma preocupação consensual, a de que a autonomia depende de meios, e prevê diagnóstico antes de investir, com relatório e prazos. Fragilidades: não quantifica carências nem custos, e a separação de edifícios dos tribunais pode ser dispendiosa e não é demonstrada como necessária para a autonomia. A medida de rever a distribuição processual pode ser sensível face à autonomia interna do Ministério Público, embora o texto a ressalve. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Investimento em edifícios, tecnologia e meios do Ministério Público implica despesa pública; o texto pede uma estimativa financeira no relatório mas não a apresenta."
+ },
+ "affected": [
+  "Ministério Público e magistrados",
+  "oficiais de justiça e técnicos",
+  "cidadãos que recorrem à justiça penal",
+  "Governo e Ministério da Justiça"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "ministério público",
+  "autonomia",
+  "dciap",
+  "diap",
+  "investimento no edificado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Mitigar partículas ultrafinas da aviação",
+ "summary": "A deputada única do PAN recomenda ao Governo quatro medidas sobre as partículas ultrafinas emitidas pelo setor da aviação: implementar um sistema de monitorização regular nos aeroportos nacionais e zonas limítrofes, com divulgação periódica dos dados; estudar medidas específicas para proteger a saúde dos trabalhadores aeroportuários e das populações residentes nas imediações; incentivar a sustentabilidade do setor através da concretização da legislação RefuelEU Aviation e da promoção de combustíveis sustentáveis; e defender, na União Europeia, a aprovação de regras sobre níveis seguros de partículas ultrafinas no ar e a redução de aromáticos e enxofre no combustível de aviação convencional. A exposição de motivos cita estudos sobre a concentração destas partículas em redor do aeroporto de Lisboa. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Implementar monitorização regular das partículas ultrafinas nos aeroportos e arredores, com divulgação de dados.",
+  "Estudar medidas de proteção da saúde de trabalhadores aeroportuários e populações vizinhas.",
+  "Concretizar o regulamento RefuelEU Aviation e promover combustíveis sustentáveis de aviação.",
+  "Defender na UE regras sobre níveis seguros de partículas ultrafinas e menos aromáticos e enxofre no combustível."
+ ],
+ "plain_language": "O PAN pede ao Governo que meça regularmente e divulgue a poluição de partículas muito pequenas perto dos aeroportos, estude como proteger quem trabalha ou vive por perto e apoie combustíveis mais limpos e regras europeias mais exigentes. É uma recomendação sem força de lei.",
+ "context": "O proponente refere que estas partículas resultam da queima de combustível, entram nos pulmões e na circulação sanguínea e que a OMS alerta há mais de uma década. Cita medições da Associação Zero em 2023 em redor do aeroporto de Lisboa (60.000-136.000 partículas/cm3) e uma análise europeia de 2024 que associa estes níveis a casos de doença na população.",
+ "analysis": "A proposta baseia-se em estudos concretos e as medidas são exequíveis, sobretudo a monitorização, que dá informação antes de decisões mais custosas. Fragilidades: a segunda medida é apenas de estudo, não há metas, prazos ou orçamento, e não existem limites legais atuais de partículas ultrafinas, pelo que os dados teriam de ser comparados com referências externas. Os impactos de saúde citados são estimativas de terceiros. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A monitorização e eventuais medidas de proteção implicam despesa pública; o texto não indica valores."
+ },
+ "affected": [
+  "residentes perto de aeroportos",
+  "trabalhadores aeroportuários",
+  "companhias aéreas e operadores aeroportuários"
+ ],
+ "categories": [
+  "ambiente",
+  "saude",
+  "transportes"
+ ],
+ "tags": [
+  "partículas ultrafinas",
+  "aviação",
+  "qualidade do ar",
+  "aeroportos",
+  "RefuelEU"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

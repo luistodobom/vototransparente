@@ -1,0 +1,45 @@
+{
+ "short_title": "Política de habitação alinhada com o Plano Europeu de Habitação Acessível",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo que alinhe a política nacional de habitação com o Plano Europeu de Habitação Acessível apresentado pela Comissão Europeia em dezembro de 2025. Contém treze recomendações, entre as quais reforçar a oferta pública de habitação e o financiamento aos municípios, desenvolver instrumentos financeiros nacionais, apoiar um Cluster Industrial da Construção, recuperar o conceito de habitação acessível baseado na taxa de esforço das famílias, consolidar o IHRU, regular o alojamento de curta duração em zonas de pressão e não avançar com a reforma do arrendamento urbano antes das medidas da União Europeia.",
+ "key_points": [
+  "Reforçar a oferta pública de habitação e garantir investimento a todos os municípios.",
+  "Desenvolver instrumentos financeiros nacionais, incluindo com a CGD, o Banco de Fomento e o BEI.",
+  "Apoiar um Cluster Industrial da Construção e reforçar a formação de trabalhadores do setor.",
+  "Recuperar o conceito de habitação acessível, com a taxa de esforço como critério central.",
+  "Regular o alojamento de curta duração e prevenir comportamentos especulativos.",
+  "Não avançar com a reforma do arrendamento urbano antes das medidas da União Europeia."
+ ],
+ "plain_language": "O PS pede ao Governo que a política de habitação siga o plano da União Europeia: mais casas públicas e acessíveis, financiamento aos municípios, construção industrializada, regras para o alojamento local e prudência na reforma do arrendamento. É uma recomendação.",
+ "context": "O PS refere que a crise da habitação é um desafio europeu, com preços a subir desde 2013 e um aumento de quase 93% do alojamento de curta duração entre 2018 e 2024, segundo a Comissão Europeia. Defende uma política universalista, com reforço do parque público e articulação com privados e cooperativas.",
+ "analysis": "A resolução é abrangente e articula medidas de oferta, financiamento, governação e regulação com o plano europeu. Em contrapartida, é pouco específica quanto a metas, calendários e custos, e as treze recomendações podem dispersar prioridades. Ao pedir que se aguarde pela União Europeia antes de reformar o arrendamento, assume uma posição que pode divergir de calendários do Governo. Sendo recomendação, não vincula o Executivo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforço do investimento público em habitação, linhas de financiamento, residências de estudantes e do IHRU implica maior despesa. O texto não indica montantes."
+ },
+ "affected": [
+  "famílias e classe média sem acesso a habitação",
+  "municípios",
+  "estudantes do ensino superior",
+  "setor da construção",
+  "inquilinos e senhorios"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "habitação acessível",
+  "plano europeu",
+  "arrendamento",
+  "alojamento local",
+  "construção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

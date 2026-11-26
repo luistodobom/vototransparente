@@ -1,0 +1,42 @@
+{
+ "short_title": "Concurso público e avaliação independente para dirigentes do SNS",
+ "summary": "Projeto de Lei do CH que altera o Estatuto do SNS (Decreto-Lei n.º 52/2022) para que os membros dos órgãos de gestão dos hospitais, centros hospitalares, IPO e ULS e os diretores executivos dos ACES sejam recrutados por procedimento concursal público com júri independente, conduzido pela CReSAP, com avaliação curricular e de competências e lista final ordenada. Fixa a composição dos conselhos de administração: até quatro vogais executivos (com um vogal financeiro e orçamental) e, nas ULS, até cinco, incluindo até dois diretores clínicos e um vogal para articulação territorial e interinstitucional. Exige formação em Administração ou Gestão, preferencialmente em saúde, e experiência adequada. Permite delegar na Direção Executiva do SNS a abertura e tramitação dos concursos. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Recrutamento dos órgãos de gestão por concurso público com júri independente, conduzido pela CReSAP.",
+  "Lista final ordenada com avaliação curricular e de competências.",
+  "Conselhos de administração com um vogal financeiro e, nas ULS, um vogal de articulação territorial.",
+  "Exige formação em Administração ou Gestão, preferencialmente em saúde, e experiência adequada.",
+  "Possibilidade de delegar a tramitação dos concursos na Direção Executiva do SNS."
+ ],
+ "plain_language": "O Chega propõe que os administradores de hospitais e ULS e os diretores dos centros de saúde sejam escolhidos por concurso público, avaliado por um júri independente, em vez de nomeação política direta, para dar estabilidade e competência à gestão.",
+ "context": "O proponente aponta a instabilidade da governação das ULS e a permeabilidade a interferências político-governamentais nas nomeações e cessações de funções, incluindo nomeações de dirigentes com ligações partidárias, o que afeta o planeamento estratégico e a prestação de cuidados. Cita controvérsias com autarquias.",
+ "analysis": "Ponto forte: reduz a discricionariedade e assenta a escolha em avaliação independente e lista ordenada. Fragilidades: o texto mantém a designação formal pelo Governo, pelo que a influência política não desaparece; a delegação na Direção Executiva do SNS, de designação governamental, pode enfraquecer a independência; o júri independente não é definido em detalhe; não prevê regras de cessação de funções nem mecanismos de responsabilização por resultados.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera procedimentos de designação, sem previsão de despesa ou receita; os custos dos concursos não são quantificados."
+ },
+ "affected": [
+  "administradores das ULS e hospitais",
+  "diretores executivos dos ACES",
+  "utentes do SNS",
+  "CReSAP e Direção Executiva do SNS"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "concurso público",
+  "júri independente",
+  "CReSAP",
+  "ULS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

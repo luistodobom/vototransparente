@@ -1,0 +1,39 @@
+{
+ "short_title": "Requalificação da EN217 entre Lagoa e a ponte para Mogadouro",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo que requalifique a EN217, no troço entre Lagoa (Macedo de Cavaleiros) e a ponte que liga ao concelho de Mogadouro. Recomenda ainda que, neste investimento, se assegure a articulação entre a Infraestruturas de Portugal e as autarquias locais envolvidas, de modo a que a intervenção seja coerente com os interesses territoriais e com a segurança das populações. O texto descreve a via como importante eixo regional e aponta pavimento degradado, bermas inseguras e sinalização deficiente. É uma recomendação não vinculativa e não indica custo nem calendário.",
+ "key_points": [
+  "Requalificação da EN217 entre Lagoa (Macedo de Cavaleiros) e a ponte para Mogadouro.",
+  "Articulação entre a Infraestruturas de Portugal e as autarquias locais.",
+  "Intervenção global e não apenas obra pontual."
+ ],
+ "plain_language": "O PS pede ao Governo que repare e melhore uma estrada nacional no distrito de Bragança, que está degradada, e que o faça em conjunto com a Infraestruturas de Portugal e as câmaras locais. É um pedido que o Governo não é obrigado a cumprir.",
+ "context": "O proponente afirma que o troço serve residentes, atividade agrícola e industrial e ligações de emergência, mas tem pavimento deteriorado, bermas inseguras e sinalização deficiente. Refere que a construção da albufeira do Baixo Sabor alterou as travessias sem requalificação adequada da via, e que a autarquia e a população reclamam a obra.",
+ "analysis": "A proposta responde a uma necessidade local concreta, com fundamentação sobre segurança e coesão territorial. É, porém, genérica: não define extensão da obra, prazos, orçamento nem fonte de financiamento, nem prioridade face a outras intervenções da rede rodoviária. A natureza de recomendação não garante execução, e a degradação invocada não é acompanhada de dados de sinistralidade ou tráfego.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obra de requalificação implicaria despesa de investimento pública. O texto não indica montantes."
+ },
+ "affected": [
+  "residentes de Macedo de Cavaleiros e Mogadouro",
+  "condutores",
+  "empresas agrícolas e industriais locais",
+  "Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "en217",
+  "macedo de cavaleiros",
+  "mogadouro",
+  "requalificação rodoviária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

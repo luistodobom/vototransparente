@@ -1,0 +1,39 @@
+{
+ "short_title": "Recuperar escolas e aprendizagens após as tempestades",
+ "summary": "O LIVRE recomenda ao Governo três medidas após o comboio de tempestades do início de 2026: executar, até ao final do segundo trimestre, um inventário nacional dos estabelecimentos de educação e infraestruturas escolares danificados, com tipo e gravidade dos danos, operacionalidade, necessidades de reparação ou reconstrução e impacto nas atividades letivas; assegurar calendários flexíveis de recuperação de aprendizagens e medidas específicas para alunos sujeitos a exames nacionais, ponderando adaptações do calendário e compensações; e incentivar, com as autarquias, pelo menos dois simulacros de evacuação por ano letivo em todos os estabelecimentos, articulados com a proteção civil. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Inventário nacional dos estabelecimentos escolares danificados até ao final do segundo trimestre.",
+  "Calendários flexíveis de recuperação de aprendizagens.",
+  "Medidas específicas para alunos com exames nacionais.",
+  "Pelo menos dois simulacros de evacuação por ano letivo em todos os estabelecimentos, com as autarquias e a proteção civil."
+ ],
+ "plain_language": "O partido pede ao Governo que faça uma lista das escolas danificadas pelas tempestades, ajude os alunos a recuperar a matéria perdida, com atenção aos exames, e que as escolas façam simulacros de evacuação pelo menos duas vezes por ano.",
+ "context": "O proponente refere que 80 agrupamentos escolares foram afetados e que, segundo um estudo de um movimento cívico de professores, pelo menos 32.700 alunos foram prejudicados. Defende que a falta de levantamento sistemático dificulta a resposta e que a prevenção e a continuidade pedagógica são essenciais.",
+ "analysis": "As medidas são concretas, com prazo e de baixo custo no diagnóstico. Fragilidades: não quantifica o orçamento para reparação ou reconstrução, apenas pede o levantamento; as medidas para os exames são genéricas («ponderando»); a obrigatoriedade dos simulacros é apenas «incentivar» e depende das autarquias; e há divergência nos números de alunos afetados citados (32.700 no texto, 90 mil na nota de rodapé). Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O inventário, o apoio pedagógico e os simulacros implicam despesa, e a reparação das escolas implicaria mais. O texto não apresenta montantes."
+ },
+ "affected": [
+  "alunos e famílias",
+  "escolas e agrupamentos afetados",
+  "autarquias"
+ ],
+ "categories": [
+  "educacao",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestades",
+  "escolas",
+  "simulacros",
+  "recuperação de aprendizagens"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

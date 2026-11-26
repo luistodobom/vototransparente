@@ -1,0 +1,41 @@
+{
+ "short_title": "Combate à publicidade enganosa de criptoativos nas redes sociais",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo quatro medidas, em cumprimento do Regulamento (UE) 2023/1114 (MiCA) sobre mercados de criptoativos: constituir brigadas reforçadas e tecnicamente formadas para a investigação criminal da criminalidade financeira com criptoativos, reformular protocolos e permitir o uso eficaz de inteligência artificial; promover, com a CMVM, o Banco de Portugal e organizações de defesa do consumidor, uma campanha de sensibilização sobre os riscos dos criptoativos; fazer diligências junto da Comissão Europeia e da rede de cooperação de defesa do consumidor para que as plataformas de redes sociais adaptem os termos e condições e criem alertas de risco; e pedir às plataformas, a partir de 2026, um relatório anual sobre a eficácia das medidas de proteção.",
+ "key_points": [
+  "Criar brigadas reforçadas e tecnicamente formadas para investigar a criminalidade financeira com criptoativos, com uso de inteligência artificial.",
+  "Promover, com a CMVM, o Banco de Portugal e organizações de consumidores, uma campanha de sensibilização sobre os riscos.",
+  "Diligenciar junto da Comissão Europeia e da rede de cooperação de defesa do consumidor para que as redes sociais adaptem termos e criem alertas.",
+  "Pedir às plataformas, a partir de 2026, um relatório anual sobre a eficácia das medidas de proteção dos consumidores."
+ ],
+ "plain_language": "O PAN pede ao Governo que combata os anúncios enganosos de criptomoedas nas redes sociais: mais meios para investigar fraudes, campanhas para alertar os consumidores, pressão sobre as plataformas para que avisem dos riscos e relatórios anuais sobre o que fazem para proteger os utilizadores. A recomendação baseia-se nas regras europeias MiCA e não obriga o Governo.",
+ "context": "O proponente invoca o Regulamento (UE) 2023/1114, conhecido como MiCA, que estabelece requisitos para os mercados de criptoativos, incluindo regras sobre comunicações de marketing, e defende que o seu cumprimento exige reforço da investigação criminal, sensibilização dos consumidores e responsabilização das plataformas de redes sociais pela publicidade a criptoativos.",
+ "analysis": "A iniciativa tem enquadramento claro no direito europeu e combina investigação, sensibilização e pressão sobre as plataformas, com o relatório anual como mecanismo de acompanhamento. Fragilidades: não quantifica meios, brigadas nem custos, e depende da articulação entre vários organismos. Pedir relatórios a plataformas globais exige base legal ou cooperação europeia, que o Governo nacional pode não conseguir impor sozinho. O recurso a inteligência artificial na investigação criminal levanta questões de proteção de dados que o texto não aborda.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de brigadas reforçadas, a formação e a campanha de sensibilização implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "consumidores e investidores em criptoativos",
+  "autoridades de investigação criminal",
+  "plataformas de redes sociais",
+  "CMVM e Banco de Portugal"
+ ],
+ "categories": [
+  "consumidores",
+  "economia",
+  "justica"
+ ],
+ "tags": [
+  "criptoativos",
+  "MiCA",
+  "publicidade enganosa",
+  "redes sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

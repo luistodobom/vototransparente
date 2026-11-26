@@ -1,0 +1,43 @@
+{
+ "short_title": "Caixa Geral de Depósitos ao serviço da economia e do país",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo, enquanto acionista único, sete orientações para o futuro da Caixa Geral de Depósitos (CGD): fim do encerramento de balcões; valorização dos trabalhadores e fim de práticas como pressões para pré-reformas e rescisões e o recurso crescente a outsourcing; política de comissões que promova a redução geral das comissões bancárias; gestão criteriosa do património e transparência sobre vendas passadas; investimento em setores produtivos, inovação e financiamento a famílias e micro, pequenas e médias empresas; mais transparência sobre planos estratégicos, com os trabalhadores; e garantia do interesse público e de uma administração que o cumpra. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Pôr fim ao encerramento de balcões e garantir uma CGD de proximidade.",
+  "Valorizar os trabalhadores e travar pré-reformas pressionadas, rescisões e outsourcing.",
+  "Usar o peso da CGD para promover a redução geral das comissões bancárias.",
+  "Transparência sobre a venda de património e gestão criteriosa do mesmo.",
+  "Financiar famílias, micro, pequenas e médias empresas e setores produtivos.",
+  "Maior transparência sobre planos estratégicos, com envolvimento dos trabalhadores, e administração orientada para o interesse público."
+ ],
+ "plain_language": "O PCP pede ao Governo que a Caixa Geral de Depósitos, banco público, deixe de fechar balcões, trate melhor os seus trabalhadores, cobre menos comissões e apoie mais famílias e pequenas empresas. Pede também mais transparência sobre os planos e as vendas de património. É uma recomendação, sem obrigação legal.",
+ "context": "O proponente nota que terminou em 2020 o plano estratégico 2017-2020 negociado com a Comissão Europeia, cujo texto completo diz não ter sido conhecido pelos trabalhadores nem pelo Parlamento, e associa-o a redução de pessoal, fecho de balcões e perda de quota de mercado, defendendo uma banca pública ao serviço do desenvolvimento do país.",
+ "analysis": "Aponta preocupações legítimas sobre proximidade, transparência e papel de um banco público. Fragilidades: várias orientações têm tensões entre si, como manter balcões e baixar comissões num banco sujeito a requisitos de rentabilidade e de capital; os compromissos com a Comissão Europeia não são abordados quanto à sua compatibilidade; faltam metas, prazos e custos. O texto contém também juízos políticos sobre o plano e as instâncias europeias.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A manutenção de balcões e a redução de comissões podem reduzir a rentabilidade da CGD e as suas receitas para o Estado acionista; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores da CGD",
+  "clientes da CGD",
+  "micro, pequenas e médias empresas",
+  "Estado como acionista"
+ ],
+ "categories": [
+  "economia",
+  "trabalho",
+  "consumidores"
+ ],
+ "tags": [
+  "Caixa Geral de Depósitos",
+  "banca pública",
+  "balcões",
+  "comissões bancárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

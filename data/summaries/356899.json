@@ -1,0 +1,43 @@
+{
+ "short_title": "Observatório da Lagoa de Óbidos",
+ "summary": "Este projeto de resolução do PSD e do CDS-PP recomenda ao Governo a criação do Observatório da Lagoa de Óbidos, uma estrutura permanente de monitorização, coordenação institucional e informação pública sobre o estado ecológico, hidrodinâmico, sanitário, económico e turístico da lagoa. Propõe uma sede ou polo junto à lagoa, monitorização diária (qualidade da água, sedimentos, assoreamento, abertura da barra, bivalves, fitoplâncton), sensores e alerta precoce, boletins e relatórios trimestrais e anual, e uma plataforma digital pública. A gestão caberia principalmente aos municípios das Caldas da Rainha e de Óbidos, com as freguesias, a APA, o IPMA, o ICNF, a CCDR-LVT e a autoridade marítima. Prevê ainda investigação, educação ambiental e fontes de financiamento.",
+ "key_points": [
+  "Criar o Observatório da Lagoa de Óbidos, com polo operativo junto da lagoa.",
+  "Monitorizar diariamente a qualidade da água, sedimentos, assoreamento, abertura da barra, habitats e dados de bivalves e fitoplâncton.",
+  "Atribuir a gestão principal aos municípios das Caldas da Rainha e de Óbidos, com freguesias e entidades como APA, IPMA e autoridade marítima.",
+  "Publicar boletins, relatórios trimestrais e anual e uma plataforma digital pública com dados.",
+  "Promover investigação, ciência cidadã e educação ambiental.",
+  "Identificar financiamento no Orçamento do Estado, fundos europeus, Fundo Ambiental e contratos-programa."
+ ],
+ "plain_language": "Os partidos propõem que o Governo crie um centro permanente para acompanhar a saúde da Lagoa de Óbidos, vigiando todos os dias a qualidade da água, a areia acumulada e a barra que a liga ao mar. Seriam as câmaras de Caldas da Rainha e de Óbidos a gerir, com apoio de entidades nacionais, e a informação seria pública, para pescadores, mariscadores e residentes. É uma recomendação ao Governo, não uma obrigação.",
+ "context": "Os proponentes descrevem a lagoa como a maior lagoa costeira do país, com cerca de 1040 hectares, de grande valor ecológico e económico (pesca, apanha de bivalves, turismo e lazer). Defendem que a sua complexidade exige acompanhamento técnico permanente, partilha de informação entre entidades e transparência pública.",
+ "analysis": "A proposta responde a uma necessidade de coordenação entre muitas entidades e valoriza dados públicos e participação local. Fragilidades: acrescenta mais uma estrutura sem indicar o estatuto jurídico, o orçamento ou os meios humanos, a sua sobreposição com as competências da APA e do IPMA, nem como o modelo liderado pelas autarquias garante independência técnica. Os financiamentos são só listados como possíveis. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma estrutura física, sensores e monitorização diária implica despesa; o texto indica apenas possíveis fontes (Orçamento do Estado, fundos europeus, Fundo Ambiental) sem montantes."
+ },
+ "affected": [
+  "pescadores e mariscadores",
+  "municípios de Caldas da Rainha e Óbidos",
+  "residentes e operadores turísticos",
+  "entidades como APA e IPMA"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "agricultura"
+ ],
+ "tags": [
+  "lagoa de óbidos",
+  "observatório",
+  "monitorização ambiental",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

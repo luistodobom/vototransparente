@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço da proteção das vítimas de violência doméstica",
+ "summary": "Projeto de Lei do PCP que altera a Lei n.º 112/2009 (10.ª alteração), o Regulamento das Custas Processuais e outros regimes, para reforçar a proteção das vítimas de violência doméstica. Prevê assistência obrigatória de advogado desde a denúncia, nomeado por escala de prevenção, e isenção de custas, incluindo nos processos de família. Cria a perícia médica ao arguido, à vítima e aos menores, uma Plataforma de prevenção e monitorização do risco e o direito imediato da vítima a manter a casa de morada de família. Reforça direitos laborais (transferência, faltas justificadas, parecer da CITE em despedimentos), alarga o subsídio de reestruturação familiar e agiliza o abono de família e a transferência escolar dos filhos.",
+ "key_points": [
+  "Advogado obrigatório desde a denúncia, nomeado por escala de prevenção, e isenção de custas para a vítima, incluindo em processos de família.",
+  "Perícia médica ao arguido constituído e, para acompanhamento, à vítima e aos menores do agregado.",
+  "Plataforma de prevenção e monitorização do risco, a regulamentar em 90 dias.",
+  "Direito da vítima a manter-se na casa de morada de família, com afastamento do suspeito.",
+  "Proteção laboral: transferência a pedido, faltas justificadas, parecer prévio da CITE em despedimentos e contraordenação grave por violação.",
+  "Subsídio de reestruturação familiar alargado a 60 dias nos casos de suspensão do contrato, abono de família tramitado com urgência e transferência escolar dos filhos sem numerus clausus."
+ ],
+ "plain_language": "O PCP propõe reforçar os direitos de quem sofre violência doméstica: ter advogado e não pagar custas, poder ficar em casa enquanto o agressor é afastado, ter mais proteção no trabalho e apoios financeiros mais rápidos. Cria também uma plataforma para registar todas as ocorrências e avaliar o risco desde o primeiro sinal.",
+ "context": "O proponente retoma matérias aprovadas na generalidade em dezembro de 2024 e que ficaram por concluir com o fim da legislatura anterior. Defende uma resposta que combine proteção das vítimas, informação, prevenção da reincidência e melhores condições económicas e sociais, e considera que o agravamento de penas, por si só, não altera mentalidades.",
+ "analysis": "A proposta é abrangente e prática, ao atacar obstáculos concretos como o acesso a advogado, as custas, a habitação e o emprego. Fragilidades: implica custos para o Estado (apoio judiciário, subsídios, plataforma) sem estimativa; a obrigatoriedade de advogado e o afastamento imediato do suspeito, a pedido da vítima, levantam questões de garantias de defesa e de proporcionalidade; a plataforma de dados exige cuidados de proteção de dados pessoais. A articulação com outros regimes e entidades depende de regulamentação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê isenção de custas, apoio judiciário imediato, alargamento de subsídios e uma nova plataforma, sem apresentar valores."
+ },
+ "affected": [
+  "vítimas de violência doméstica e seus filhos",
+  "trabalhadores vítimas e entidades empregadoras",
+  "tribunais, Ministério Público e Ordem dos Advogados",
+  "Segurança Social"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "trabalho"
+ ],
+ "tags": [
+  "violência doméstica",
+  "apoio judiciário",
+  "casa de morada de família",
+  "Lei n.º 112/2009",
+  "proteção de vítimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

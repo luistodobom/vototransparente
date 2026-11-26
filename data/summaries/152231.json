@@ -1,0 +1,39 @@
+{
+ "short_title": "Taxa de justiça paga apenas por quem for condenado em custas",
+ "summary": "Projeto de Lei do BE que altera o artigo 15.º do Regulamento das Custas Processuais (Decreto-Lei n.º 34/2008). Esse artigo dispensa certas partes do pagamento prévio da taxa de justiça, por exemplo o Estado, o demandante e o arguido demandado no pedido de indemnização civil em processo penal (valor igual ou superior a 20 UC), partes em ações sobre o estado das pessoas e em processos de jurisdição de menores. Segundo o BE, a lei atual manda notificar todas as partes dispensadas para pagarem no final. A alteração determina que só as partes dispensadas do pagamento prévio que tenham sido condenadas em custas são notificadas, com a decisão que decide a causa principal, para pagar no prazo de 10 dias. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Só paga a taxa de justiça no final quem foi condenado em custas.",
+  "A notificação ocorre com a decisão da causa principal, mesmo que suscetível de recurso.",
+  "Prazo de pagamento de 10 dias.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, em alguns processos, as partes dispensadas de pagar a taxa de justiça no início têm de a pagar no final, mesmo que tenham sido absolvidas ou não tenham iniciado o processo. O projeto muda isto: só paga quem for condenado em custas, e tem 10 dias para o fazer.",
+ "context": "O BE defende o acesso universal à justiça e considera que custas elevadas criam a perceção de uma justiça para ricos e outra para pobres. Entende que é ilógico e injusto que um arguido absolvido, ou partes em processos de menores ou de divórcio, tenham de adiantar taxas de um processo que não iniciaram.",
+ "analysis": "Ponto forte: corrige uma situação que o proponente aponta como injusta e responsabiliza quem foi condenado. Fragilidades: a exposição de motivos descreve a lei atual de forma mais ampla do que a alteração proposta, e o texto não quantifica o impacto na receita de custas dos tribunais; a notificação com decisão ainda recorrível pode gerar questões de cobrança em caso de recurso; o âmbito de «partes dispensadas» depende de alíneas não reproduzidas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A medida restringe quem é notificado para pagar taxa de justiça no final, o que poderá reduzir a receita de custas judiciais; o texto não apresenta valores."
+ },
+ "affected": [
+  "arguidos absolvidos",
+  "partes em processos de menores e de estado das pessoas",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "custas processuais",
+  "taxa de justiça",
+  "acesso à justiça",
+  "tribunais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

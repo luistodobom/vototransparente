@@ -1,0 +1,41 @@
+{
+ "short_title": "Literacia oncológica, vacinação HPV e deteção precoce em jovens",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo quatro medidas. Primeiro, desenvolver e implementar ações de literacia em saúde oncológica dirigidas aos jovens, baseadas em evidência, articuladas entre a educação e a saúde e com avaliação de impacto. Segundo, reforçar a promoção da vacinação contra o HPV, incluindo programas de vacinação de recuperação (catch-up) para jovens adultos não vacinados. Terceiro, consolidar e aumentar a adesão aos programas nacionais de rastreio, com equidade no acesso e melhor comunicação. Quarto, avaliar, com base em evidência e estudos de custo-efetividade, projetos-piloto de rastreio baseados no risco individual e abordagens como a auto-colheita em contextos específicos.",
+ "key_points": [
+  "Desenvolver ações de literacia em saúde oncológica para jovens, com avaliação de impacto, articulando educação e saúde.",
+  "Reforçar a vacinação contra o HPV, incluindo catch-up para jovens adultos não vacinados.",
+  "Aumentar a adesão aos rastreios nacionais, com equidade e melhor comunicação.",
+  "Avaliar projetos-piloto de rastreio baseados no risco individual e a auto-colheita, com estudos de custo-efetividade."
+ ],
+ "plain_language": "O PAN pede ao Governo que ensine melhor os jovens sobre prevenção do cancro, reforce a vacina contra o vírus HPV (incluindo para jovens adultos que a não tomaram), aumente o número de pessoas que fazem os rastreios que já existem e estude, com rigor científico, novos modelos de rastreio, como a auto-colheita. Só alargaria rastreios depois de avaliar custos e riscos. É uma recomendação ao Governo.",
+ "context": "A proponente refere que a participação nos rastreios está abaixo das metas e que a incidência de alguns cancros, como mama e tiroide, tem aumentado em faixas etárias mais jovens. Defende que a literacia em saúde melhora a adesão e que qualquer alargamento de rastreios a idades mais jovens deve ser precedido de avaliação científica, para evitar sobrediagnóstico e sobretratamento.",
+ "analysis": "A proposta é prudente e baseada em evidência, evitando alargar rastreios sem avaliação, e combina prevenção primária (vacinação), educação e rastreio. Fragilidades: não indica metas de adesão, calendário, orçamento nem entidades responsáveis, e verbos como desenvolver e avaliar tornam difícil medir o cumprimento. Os dados citados são genéricos. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ações de literacia, programas de vacinação de recuperação e projetos-piloto implicam despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "jovens e jovens adultos",
+  "utentes elegíveis para rastreio",
+  "escolas e serviços de saúde",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "literacia em saúde",
+  "vacinação hpv",
+  "rastreio oncológico",
+  "auto-colheita",
+  "prevenção do cancro"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

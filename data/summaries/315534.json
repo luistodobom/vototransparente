@@ -1,0 +1,42 @@
+{
+ "short_title": "Crédito bonificado para familiares de pessoas com deficiência (Livre)",
+ "summary": "Projeto de Lei do LIVRE que altera a Lei n.º 64/2014 para alargar o crédito bonificado à habitação aos membros do agregado familiar que coabitam com a pessoa com deficiência. Retoma uma iniciativa caducada na legislatura anterior, com ajustamentos. Atualiza o valor máximo do empréstimo para o definido para as transações com garantia pessoal do Estado (Decreto-Lei n.º 44/2024) e aumenta o rácio financeiro de garantia máximo até 100%. Exige que a pessoa com deficiência tenha habitação permanente no imóvel, que a pessoa maior de idade com deficiência dê anuência ao empréstimo, e prevê que a impossibilidade de contratar seguro de vida não impeça o acesso ao crédito. Cria redução gradual da bonificação em cinco anos para quem fique com incapacidade inferior a 60%. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga o regime aos membros do agregado familiar que coabitam com a pessoa com deficiência.",
+  "Exige que a pessoa com deficiência tenha habitação permanente no imóvel e, sendo maior de 18 anos, dê anuência expressa, salvo défice mental ou cognitivo.",
+  "Atualiza o valor máximo do empréstimo para o aplicável à garantia pessoal do Estado e eleva o rácio de garantia até 100%.",
+  "A impossibilidade de contratar seguro de vida por recusa das seguradoras não impede o acesso ao crédito bonificado.",
+  "Redução da bonificação em 20% ao ano, até à eliminação no quinto ano, para quem passe a ter incapacidade inferior a 60% após cinco anos no regime."
+ ],
+ "plain_language": "O LIVRE propõe que familiares que vivem com uma pessoa com deficiência possam contratar o crédito à habitação com juros apoiados. A pessoa com deficiência tem de viver na casa e, se for adulta, concordar. Ninguém ficaria de fora por as seguradoras recusarem fazer-lhe um seguro de vida. Se a incapacidade baixar de 60%, o apoio diminui gradualmente ao longo de cinco anos.",
+ "context": "O proponente recupera uma iniciativa da legislatura anterior, aprovada na generalidade mas caducada com o fim antecipado da legislatura. Invoca a Constituição e a Lei de Bases da Pessoa com Deficiência e considera justo igualar o valor máximo do empréstimo ao das garantias do Estado e proteger pessoas que precisam de especial proteção.",
+ "analysis": "A proposta inclui salvaguardas que as outras iniciativas sobre o tema não têm de forma igual, como o consentimento da pessoa adulta com deficiência e a questão do seguro de vida. O aumento do rácio de garantia até 100% aumenta o risco de crédito, o que pode ter implicações para as instituições financeiras e para o Estado. A eliminação gradual em cinco anos é mais longa do que noutras propostas. O texto contém marcas de alteração que tornam ambíguo o valor exato de alguns limites (por exemplo, o rácio entre 90% e 100%). Não há estimativa de custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais beneficiários e limites de empréstimo e garantia mais elevados aumentam a despesa com bonificações e o risco assumido. O texto não apresenta valores."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "familiares que coabitam",
+  "instituições de crédito",
+  "seguradoras"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "crédito bonificado",
+  "deficiência",
+  "garantia pública",
+  "seguro de vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

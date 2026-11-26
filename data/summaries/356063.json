@@ -1,0 +1,40 @@
+{
+ "short_title": "Centro Nacional Alternativo de Socorro em Viseu",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo que assuma, com carácter prioritário e no quadro do planeamento estratégico nacional da proteção civil, a criação, desenvolvimento e instalação de um Centro Nacional Alternativo de Socorro no Aeródromo Municipal de Viseu. Pede a articulação institucional entre a Administração Central e as autoridades territoriais, nomeadamente a Comunidade Intermunicipal Viseu Dão Lafões e o Município de Viseu. O texto justifica a localização com a centralidade geográfica, a estabilidade do solo granítico, a presença do Quartel dos Sapadores de Viseu desde 2019, um aeródromo operacional e a menor exposição a riscos costeiros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação do Centro Nacional Alternativo de Socorro como estrutura de redundância do comando nacional de emergência.",
+  "Localização no Aeródromo Municipal de Viseu.",
+  "Carácter prioritário no quadro do planeamento estratégico nacional da proteção civil.",
+  "Articulação com a CIM Viseu Dão Lafões e o Município de Viseu."
+ ],
+ "plain_language": "O PSD pede ao Governo que construa em Viseu um centro de socorro de reserva, para o caso de o centro principal, na zona de Lisboa, ficar inoperacional numa crise grave. Seria um segundo centro nacional de comando para a proteção civil. É uma recomendação.",
+ "context": "O proponente considera necessária há décadas uma estrutura redundante de comando e coordenação para a proteção civil, face a incêndios e fenómenos extremos. Afirma que, apesar de protocolos e anúncios, o projeto nunca foi concretizado, e vê oportunidade na programação financeira até 2030.",
+ "analysis": "A redundância do comando de emergência é um objetivo defensável e a localização é justificada por critérios apresentados. Fragilidades: o texto não compara outras localizações, não apresenta estudo técnico nem custo, calendário ou entidade responsável, e atribui falhas passadas a motivos eleitorais sem fundamento detalhado. Como recomendação, não vincula o Governo e a decisão exigiria planeamento e financiamento próprios.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção e instalação de um centro nacional implica investimento público; o texto não indica montantes."
+ },
+ "affected": [
+  "Autoridade Nacional de Emergência e Proteção Civil",
+  "população do território nacional",
+  "município e região de Viseu"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "proteção civil",
+  "Viseu",
+  "centro de socorro",
+  "redundância",
+  "aeródromo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

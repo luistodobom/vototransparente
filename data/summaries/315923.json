@@ -1,0 +1,40 @@
+{
+ "short_title": "Zonamento inclusivo: quota de habitação pública em obras",
+ "summary": "O projeto de lei do LIVRE cria um regime nacional de zonamento inclusivo para operações urbanísticas com área bruta de construção igual ou superior a 1.500 m2 ou que originem 10 ou mais frações. Nessas operações é obrigatória a afetação de, no mínimo, 20% da área bruta de construção e das frações habitacionais ao parque público de habitação, por transmissão para o município, ou a programas municipais de habitação por pelo menos 50 anos, mantendo o promotor a propriedade. Os promotores podem beneficiar de isenções parciais de taxas urbanísticas (até 20% ou até 5%). As frações têm de ter a mesma qualidade das restantes. O incumprimento é contraordenação com coima de 5.000 a 250.000 euros. As autarquias têm dois anos para rever os planos.",
+ "key_points": [
+  "Afetação mínima de 20% da área e das frações a habitação pública ou a programas municipais.",
+  "Aplica-se a obras com 1.500 m2 ou mais de área bruta, ou 10 ou mais frações.",
+  "Promotor pode ter isenção parcial de taxas urbanísticas, até 20% ou 5%.",
+  "Coimas de 5.000 a 250.000 euros por incumprimento.",
+  "Municípios revêem instrumentos de gestão territorial em dois anos; entra em vigor 60 dias após publicação."
+ ],
+ "plain_language": "Quando um promotor construir um projeto grande, uma parte, pelo menos um quinto, das casas teria de ficar para habitação pública ou a rendas acessíveis, geridas pelo município. Em troca, o promotor poderia pagar menos taxas urbanísticas. Quem não cumprir arrisca multas até 250.000 euros.",
+ "context": "O LIVRE aponta a subida dos preços (17,7% no 3.º trimestre de 2025, segundo o INE) e das rendas, a gentrificação e a insuficiência de aumentar apenas a oferta sem regular os valores. Afirma que o zonamento inclusivo já é possível mas é residual em Portugal, pelo que propõe impulsionar o seu uso a nível nacional.",
+ "analysis": "A medida dá aos municípios um instrumento para aumentar o parque habitacional acessível sem despesa direta de aquisição de terrenos. Riscos: uma quota obrigatória pode reduzir a viabilidade de novos projetos e encarecer as restantes frações, efeito que o texto não estuda; as isenções de taxas reduzem receita municipal; a gestão de mais frações exige capacidade das autarquias. A remissão do artigo 7.º para alíneas do artigo 3.º parece desfasada da numeração do artigo 4.º.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Os municípios recebem frações para habitação pública mas perdem receita com as isenções parciais de taxas urbanísticas e assumem custos de gestão. O texto não apresenta montantes."
+ },
+ "affected": [
+  "promotores imobiliários",
+  "municípios",
+  "famílias candidatas a habitação acessível"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "zonamento inclusivo",
+  "habitação pública",
+  "urbanismo",
+  "RJUE"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da perda de bens e da recuperação de ativos do crime",
+ "summary": "Projeto de lei do Chega que altera o Código Penal, o Código de Processo Penal e as Leis n.º 5/2002 e n.º 45/2011 para reforçar a perda de instrumentos, produtos e vantagens do crime. Prevê perda de bens mesmo quando o procedimento criminal se extingue por morte, doença, amnistia ou prescrição, com prazos de 20 a 25 anos para o procedimento autónomo. Introduz a perda alargada com presunção de origem criminosa dos bens desproporcionados face aos rendimentos lícitos, reforça o arresto e a caução económica, cria o contraditório do terceiro titular e um incidente de perda. Dá ao Gabinete de Recuperação de Ativos poder de apreensão urgente e obriga o Governo a aprovar, até 31 de dezembro de 2026, uma Estratégia Nacional de Recuperação de Ativos.",
+ "key_points": [
+  "Perda de bens mesmo com extinção do procedimento criminal, com prazo de prescrição de 20 a 25 anos.",
+  "Perda alargada, com presunção de origem criminosa dos bens manifestamente desproporcionados.",
+  "Arresto e caução económica reforçados; o saldo dos bens perdidos pode reforçar meios das forças de segurança.",
+  "Direito de contraditório do terceiro titular dos bens e novo incidente de perda.",
+  "Apreensão ou arresto provisório urgente pelo MP ou pelo Gabinete de Recuperação de Ativos, validados em 72 horas.",
+  "Estratégia Nacional de Recuperação de Ativos a aprovar até 31 de dezembro de 2026."
+ ],
+ "plain_language": "A proposta torna mais fácil o Estado ficar com bens obtidos através do crime, mesmo que o arguido morra ou o crime prescreva, e presume ilegal o património que não corresponde aos rendimentos conhecidos. O dinheiro recuperado serviria, entre outros fins, para reforçar a polícia, e o Governo teria de criar uma estratégia nacional de recuperação de bens.",
+ "context": "O Chega invoca o aumento da criminalidade organizada, da corrupção e do tráfico, a morosidade processual, a incerteza em casos de prescrição ou morte do arguido e a ausência de uma estrutura robusta de administração dos bens apreendidos. Enquadra a iniciativa na Diretiva (UE) 2024/1260 e na ideia de que o crime não compensa.",
+ "analysis": "Pontos fortes: alinha-se com a diretiva europeia, tapa lacunas na perda de bens e prevê contraditório para terceiros e validação judicial das apreensões. Fragilidades: a presunção de origem criminosa e a perda sem condenação suscitam questões de constitucionalidade, nomeadamente sobre presunção de inocência e propriedade. Os prazos longos, a retroatividade e o destino do saldo a reforço de meios podem gerar litigância. O texto não estima custos nem meios para o Gabinete de Recuperação de Ativos.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A perda de bens pode gerar receitas para o Estado e para finalidades de interesse social, mas exige meios para identificar, administrar e vender os bens. O texto não quantifica nenhum dos efeitos."
+ },
+ "affected": [
+  "arguidos e condenados por crimes lucrativos",
+  "terceiros titulares de bens apreendidos",
+  "Ministério Público e tribunais",
+  "Gabinete de Recuperação de Ativos"
+ ],
+ "categories": [
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "perda de bens",
+  "recuperação de ativos",
+  "perda alargada",
+  "crime organizado",
+  "Gabinete de Recuperação de Ativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

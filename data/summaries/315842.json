@@ -1,0 +1,43 @@
+{
+ "short_title": "Defesa e preservação das salas históricas de cinema e teatro",
+ "summary": "O Projeto de Resolução n.º 407/XVII/1.ª, do LIVRE, recomenda ao Governo seis medidas para proteger as salas históricas de cinema e teatro. Pede um inventário nacional das salas classificadas ou em vias de classificação, com o Património Cultural, I.P. e as autarquias, e um levantamento da sua utilização atual. Recomenda a fiscalização junto das autarquias para evitar a usurpação do uso cultural e a avaliação do quadro legal que permite alterar a utilização destes equipamentos. Propõe ainda um programa de compra, reabilitação e reinserção cultural em cooperação com os municípios e mecanismos de usufruto cultural e contratos-programa com associações culturais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Inventário nacional das salas históricas classificadas ou em vias de classificação, com o Património Cultural, I.P. e as autarquias.",
+  "Levantamento da utilização atual dessas salas.",
+  "Fiscalização, com as autarquias, para evitar a usurpação do uso cultural.",
+  "Avaliação do quadro legal que admite a alteração de utilização dos equipamentos culturais.",
+  "Programa de compra, reabilitação e reinserção cultural das salas, com os municípios.",
+  "Contratos-programa com associações culturais para uma gestão de uso cultural público, educativo e comunitário."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que faça uma lista dos cinemas e teatros históricos do país, veja como estão a ser usados e impeça que percam a função cultural. Propõe também ajudar as câmaras a comprar e recuperar esses espaços e a entregar a sua gestão a associações culturais. É uma sugestão ao Governo, que não é obrigado a cumpri-la.",
+ "context": "O LIVRE aponta o caso do Cinema Império, em Lisboa, sobre o qual houve uma petição da Academia Portuguesa de Cinema, e outros casos como o Teatro Laura Alves. Considera que o regime de proteção do património é frequentemente insuficiente e que faltam clareza nos procedimentos de desafetação e fiscalização efetiva do uso cultural.",
+ "analysis": "A proposta identifica um problema real e propõe passos sequenciais, do diagnóstico à intervenção, com envolvimento dos municípios. Fragilidades: não indica prazos, verbas nem fontes de financiamento, e a compra de edifícios, muitos deles privados, poderia ser dispendiosa e levantar questões de propriedade. A responsabilidade de fiscalização é remetida para autarquias, que podem não ter meios. O texto parte de casos pontuais para um padrão nacional sem apresentar dados agregados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa de compra, reabilitação e reinserção cultural das salas implicaria despesa pública, central e municipal. O texto não indica montantes."
+ },
+ "affected": [
+  "municípios",
+  "associações culturais",
+  "proprietários de salas históricas",
+  "público em geral"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "salas de cinema",
+  "teatros",
+  "património cultural",
+  "Cinema Império",
+  "reabilitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

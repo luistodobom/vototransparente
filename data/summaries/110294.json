@@ -1,0 +1,40 @@
+{
+ "short_title": "Pôr a funcionar o serviço de injunção do arrendamento",
+ "summary": "O Bloco de Esquerda recomenda ao Governo que ponha em pleno funcionamento, num prazo máximo de 30 dias, o Serviço de Injunção em Matéria de Arrendamento (SIMA), previsto no Novo Regime do Arrendamento Urbano (artigo 15.º-U) junto da Direção-Geral da Administração da Justiça, de modo a garantir a correta tramitação das denúncias de assédio imobiliário. Recomenda ainda uma campanha de divulgação do serviço, com informação sobre os tipos de assédio imobiliário, a tramitação da denúncia e outras matérias de arrendamento, incluindo as medidas da Lei n.º 13/2019 para equilibrar a relação entre arrendatários e senhorios e proteger arrendatários em situação de especial fragilidade. É uma recomendação, sem caráter vinculativo.",
+ "key_points": [
+  "Pôr o SIMA em pleno funcionamento num prazo máximo de 30 dias.",
+  "Garantir a tramitação correta das denúncias de assédio imobiliário previstas no NRAU.",
+  "Lançar uma campanha de divulgação sobre os tipos de assédio, a tramitação da denúncia e os direitos em matéria de arrendamento."
+ ],
+ "plain_language": "A lei já prevê um serviço para os inquilinos denunciarem assédio por parte do senhorio, mas esse serviço ainda não existe na prática. O Bloco pede ao Governo que o ponha a funcionar em 30 dias e que faça uma campanha para as pessoas saberem que podem recorrer a ele. É uma recomendação.",
+ "context": "O proponente nota que, quase dois anos depois da lei, o SIMA ainda não foi criado, ao contrário do Balcão Nacional do Arrendamento. Refere receber denúncias de assédio, como corte de água, luz e telecomunicações, danos em escadas e correios e despejos ilegais, que terão aumentado na pandemia.",
+ "analysis": "A proposta pede apenas a execução de algo já previsto na lei, o que lhe dá solidez, e fixa um prazo concreto. Fragilidades: os 30 dias podem ser irrealistas para a criação de um serviço novo, o texto não detalha meios, pessoal ou orçamento, e a comparação com o Balcão Nacional do Arrendamento tem carácter político. A eficácia do serviço dependerá da articulação com outras entidades, como o IHRU, referida de forma genérica. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O funcionamento do serviço e a campanha de divulgação implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "Direção-Geral da Administração da Justiça"
+ ],
+ "categories": [
+  "habitacao",
+  "justica",
+  "consumidores"
+ ],
+ "tags": [
+  "assédio imobiliário",
+  "arrendamento",
+  "SIMA",
+  "inquilinos",
+  "injunção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

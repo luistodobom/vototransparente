@@ -1,0 +1,39 @@
+{
+ "short_title": "Certidão permanente sem prazo de validade",
+ "summary": "Projeto de Lei da Iniciativa Liberal que retira o caráter temporário à certidão permanente do registo comercial. Altera o artigo 75.º do Código de Registo Comercial para prever que estas certidões não têm validade e são atualizadas automaticamente após qualquer alteração, e revoga os números 13.4.1 a 13.4.4 do artigo 22.º do Regulamento Emolumentar dos Registos e Notariado, relativos aos preços por período de subscrição. Determina que o Governo altere a Portaria n.º 1416-A/2006 para eliminar o prazo de validade e entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "As certidões permanentes deixam de ter validade e são atualizadas automaticamente.",
+  "Revoga os números 13.4.1 a 13.4.4 do artigo 22.º do Regulamento Emolumentar dos Registos e Notariado.",
+  "O Governo deve alterar a Portaria n.º 1416-A/2006 para eliminar o prazo de validade.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "As empresas pagam por uma assinatura da certidão permanente do registo comercial, válida entre um e quatro anos, e têm de a renovar para não ficarem sem acesso quando é exigida. A Iniciativa Liberal propõe que deixe de ter prazo e custo de renovação, porque a informação é digital e está sempre atualizada.",
+ "context": "O proponente argumenta que, sendo a certidão eletrónica e permanentemente atualizada, a sua reemissão não tem custo para os serviços e a validade limitada obriga as entidades a renovações sucessivas, podendo impedir negócios, candidaturas a apoios ou concursos públicos.",
+ "analysis": "A medida reduz burocracia e custos recorrentes para as empresas, sendo coerente com a natureza digital do serviço. Fragilidades: elimina uma fonte de receita dos registos sem estimativa do impacto, e o texto não esclarece como se mantém o financiamento do serviço nem se o acesso inicial continuaria a ter custo. A revogação parcial do regulamento emolumentar pode exigir ajustes noutros preços.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao eliminar os preços associados às subscrições e renovações da certidão permanente, reduz-se a receita emolumentar dos registos. O texto não quantifica o valor."
+ },
+ "affected": [
+  "Empresas e entidades sujeitas a registo comercial",
+  "Instituto dos Registos e do Notariado"
+ ],
+ "categories": [
+  "economia",
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "certidão permanente",
+  "registo comercial",
+  "emolumentos",
+  "burocracia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Regulamentação do Estatuto do Apátrida",
+ "summary": "O Projeto de Lei n.º 348/XVII/1.ª, do BE, regula o procedimento de reconhecimento do estatuto de apátrida, em regulamentação do artigo 6.º da Lei n.º 41/2023, e altera a Lei da Nacionalidade e a Lei n.º 23/2007. A instrução e decisão cabem à AIMA, I.P., num procedimento orientado pelo princípio da colaboração, com partilha do ónus da prova. Os processos de reconhecimento, recusa, cessação ou revogação têm natureza urgente. Na Lei da Nacionalidade, o Governo concede a nacionalidade por naturalização, com dispensa de um dos requisitos gerais, a quem não seja nacional de nenhum Estado e resida legalmente há pelo menos quatro anos, sendo o procedimento gratuito. Aos apátridas reconhecidos é concedida autorização de residência permanente, com isenção de taxas na primeira emissão do título.",
+ "key_points": [
+  "A AIMA, I.P. é competente para instruir e decidir o reconhecimento do estatuto de apátrida.",
+  "O procedimento segue o princípio da colaboração, com inversão ou partilha do ónus da prova perante o esforço razoável do requerente.",
+  "Os processos de reconhecimento, recusa, cessação ou revogação têm natureza urgente.",
+  "Nacionalidade por naturalização, com dispensa de um requisito, para quem não tem nacionalidade e reside legalmente há pelo menos quatro anos, de forma gratuita.",
+  "Autorização de residência permanente para apátridas reconhecidos, com isenção de taxas na primeira emissão do título."
+ ],
+ "plain_language": "Pessoas apátridas não são consideradas cidadãs por nenhum país e têm dificuldade em aceder à saúde, educação e trabalho. Este projeto define como podem pedir o reconhecimento do estatuto à AIMA, num processo urgente em que o Estado ajuda a reunir provas. Quem for reconhecido recebe autorização de residência permanente, sem pagar taxas na primeira emissão, e quem viver legalmente em Portugal há quatro anos pode obter a nacionalidade gratuitamente.",
+ "context": "O BE refere que os Censos 2021 contabilizam 284 pessoas que se declaram apátridas, enquanto o ACNUR reconhecia 32 em 2024, o que revela invisibilidade estatística. Considera que, apesar da Lei n.º 41/2023 e das convenções da ONU de 1954 e 1961, a ausência de procedimento mantém incerteza jurídica, e que provar a falta de nacionalidade, um facto negativo, exige colaboração da Administração e partilha do ónus da prova.",
+ "analysis": "Pontos fortes: dá resposta a uma lacuna legislativa concreta, reconhece a dificuldade de provar um facto negativo e articula o reconhecimento com a residência e a nacionalidade. Fragilidades: a residência permanente automática e a naturalização gratuita ao fim de quatro anos são opções mais generosas do que as de outras propostas e podem suscitar debate sobre critérios de segurança e controlo; o texto não prevê meios adicionais para a AIMA; e a alteração à Lei da Nacionalidade depende de outras propostas em discussão.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de taxas na primeira emissão do título de residência permanente e a gratuitidade da naturalização reduzem a receita; o texto não quantifica montantes nem os custos de funcionamento do procedimento."
+ },
+ "affected": [
+  "pessoas apátridas",
+  "AIMA, I.P.",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "apátrida",
+  "naturalização",
+  "AIMA",
+  "autorização de residência permanente",
+  "nacionalidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

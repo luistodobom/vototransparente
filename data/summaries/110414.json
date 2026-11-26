@@ -1,0 +1,43 @@
+{
+ "short_title": "Melhorar os apoios às micro, pequenas e médias empresas na pandemia",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo alterações ao programa APOIAR e a outros apoios às micro, pequenas e médias empresas. Propõe abranger todos os CAE afetados com prejuízos de faturação acima de 20% face a 2019; alargar o apoio às rendas a todas as micro e pequenas empresas e a qualquer forma de arrendamento ou locação; flexibilizar critérios, como dívidas em regularização e capitais próprios; majorar os apoios em 25% e acrescentar 1000 euros por trabalhador permanente nas microempresas; criar em 15 dias uma medida extraordinária; reforçar o IAPMEI com resposta e pagamento em 15 dias, com aprovação tácita; e pagar retroativamente os apoios a empresas excluídas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Eliminar exclusões por CAE no APOIAR para empresas com perdas de faturação superiores a 20% face a 2019.",
+  "Alargar o apoio às rendas a todas as micro e pequenas empresas, qualquer que seja a forma do arrendamento.",
+  "Flexibilizar critérios, como dívidas em regularização e capitais próprios negativos.",
+  "Majorar os apoios em 25% e acrescentar 1000 euros por trabalhador permanente às microempresas.",
+  "Criar em 15 dias uma medida de apoio extraordinária para micro e pequenas empresas com prejuízos superiores a 20%.",
+  "Reforçar o IAPMEI, com resposta e pagamento em 15 dias e aprovação tácita, e pagar retroativamente."
+ ],
+ "plain_language": "O PCP pede ao Governo que os apoios às empresas atingidas pela pandemia cheguem a mais empresas e sejam mais generosos, com menos exigências e respostas e pagamentos mais rápidos. Se a administração não responder em 15 dias, o pedido seria considerado aprovado. É um pedido ao Governo, não uma lei.",
+ "context": "O proponente defende que as micro, pequenas e médias empresas são a base do tecido empresarial e que o novo regulamento do APOIAR (Portaria n.º 15-B/2021) mantém critérios restritivos, incluindo a limitação a certos CAE, o que deixa muitas empresas sem apoio, apesar de quase um ano de perdas de faturação.",
+ "analysis": "Responde a críticas frequentes ao acesso e à lentidão dos apoios. Fragilidades: as medidas aumentam muito a despesa pública sem estimativa de custo; a aprovação tácita por falta de resposta pode gerar riscos de fraude e pagamentos indevidos; a flexibilização de critérios como capitais próprios ou dívidas fiscais enfraquece salvaguardas; o prazo de 15 dias para criar uma medida extraordinária é muito exigente.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A majoração dos apoios, o alargamento de beneficiários, o pagamento retroativo e o reforço do IAPMEI aumentam a despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "micro, pequenas e médias empresas",
+  "empresários em nome individual",
+  "trabalhadores das empresas apoiadas",
+  "IAPMEI"
+ ],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "APOIAR",
+  "MPME",
+  "apoio às rendas",
+  "IAPMEI",
+  "COVID-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

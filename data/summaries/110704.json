@@ -1,0 +1,40 @@
+{
+ "short_title": "Alargar o apoio social aos trabalhadores da Cultura",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo que alargue os critérios de elegibilidade do apoio social extraordinário aos trabalhadores da Cultura. Propõe considerar quem tenha tido atividade aberta como independente em qualquer momento desde janeiro de 2019, aceitar meios de prova complementares para quem não tem um CAE/CIRS da cultura como principal, admitir trabalhadores com contratos de remuneração inferior ao salário mínimo nacional, abrir nova fase de candidatura, fixar um valor mínimo não inferior ao do Apoio Extraordinário ao Rendimento dos Trabalhadores, pagamento mensal enquanto durarem as restrições e acumulação com outros apoios. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Considerar quem teve atividade aberta como independente em qualquer momento desde janeiro de 2019.",
+  "Aceitar prova complementar, como declaração da entidade contratante, para quem não tenha CAE/CIRS cultural principal.",
+  "Admitir trabalhadores com contrato de remuneração inferior ao salário mínimo nacional.",
+  "Abrir nova fase de candidatura e pagar os meses em falta aos recém-elegíveis.",
+  "Valor mínimo não inferior ao apoio extraordinário ao rendimento, pagamento mensal e acumulável com outros apoios."
+ ],
+ "plain_language": "Muitos artistas e técnicos da cultura ficaram sem apoio durante a pandemia por não cumprirem regras de elegibilidade, como ter a atividade aberta em janeiro de 2020 ou ter um código de atividade cultural como principal. O PCP pede ao Governo que alargue essas regras, abra nova candidatura e pague o apoio mensalmente. É só uma recomendação.",
+ "context": "O proponente recorda que o seu projeto de lei n.º 669/XIV, de fevereiro de 2021, foi rejeitado e cita queixas de sindicatos e associações do setor sobre trabalhadores excluídos do apoio por critérios da Portaria n.º 37-A/2021, num contexto de mais de um ano de cancelamentos e encerramentos.",
+ "analysis": "Visa corrigir exclusões reais identificadas por sindicatos e associações. Fragilidades: critérios de prova mais flexíveis, como a declaração sob compromisso de honra, aumentam o risco de fraude e a carga de verificação; o alargamento e o pagamento retroativo implicam despesa não quantificada; não há estimativa do número de novos beneficiários. Como resolução, depende da adesão do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento de beneficiários, a nova fase de candidatura e o pagamento de meses em falta implicam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "trabalhadores independentes da cultura",
+  "artistas e técnicos de espetáculos",
+  "trabalhadores da arqueologia"
+ ],
+ "categories": [
+  "cultura",
+  "trabalho"
+ ],
+ "tags": [
+  "apoio social da cultura",
+  "trabalhadores independentes",
+  "COVID-19",
+  "elegibilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

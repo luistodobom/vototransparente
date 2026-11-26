@@ -1,0 +1,41 @@
+{
+ "short_title": "Cuidados às mulheres durante e após a gravidez",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo um conjunto de medidas de apoio às mulheres e às famílias durante a gravidez, o parto e o pós-parto. Propõe garantir, em colaboração com as autarquias, o acesso a cursos de preparação para o parto no SNS ou através de protocolos com o setor privado, aumentando vagas e oferta. Sugere ainda a criação de equipas especializadas em aleitamento materno para acompanhamento presencial nas maternidades durante o internamento e o reforço dos cuidados de saúde mental e apoio psicológico, sobretudo às mães no pós-parto, também em colaboração com as autarquias. Sendo uma resolução, é uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Garantir acesso a cursos de preparação para o parto no SNS ou via protocolos com o setor privado.",
+  "Aumentar o número de vagas e a oferta desses cursos, em colaboração com as autarquias.",
+  "Criar equipas especializadas em aleitamento materno nas maternidades durante o internamento.",
+  "Reforçar os cuidados de saúde mental e o apoio psicológico às famílias, sobretudo às mães no pós-parto."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que melhore o apoio a quem vai ter um filho: mais cursos de preparação para o parto, ajuda especializada para a amamentação nas maternidades e mais apoio psicológico às mães depois do parto. As câmaras municipais devem colaborar. É apenas uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente invoca o envelhecimento da população e a queda da natalidade, afirmando que a promoção da natalidade e a defesa da família devem ser prioridades. Defende que o acompanhamento na gravidez, parto e pós-parto tem de ter a melhor qualidade e que o apoio local pode adequar melhor a oferta à realidade de cada território.",
+ "analysis": "A iniciativa aborda necessidades reais de acompanhamento materno e envolve as autarquias, o que pode aproximar os serviços das famílias. Contudo, é uma recomendação genérica: não quantifica vagas, prazos, meios nem financiamento, nem define como se repartem competências entre SNS, privados e municípios. A referência a protocolos com o setor privado pode levantar questões sobre a capacidade do SNS. Sem estimativa de custos, o impacto efetivo é difícil de avaliar e depende inteiramente da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As medidas (mais cursos, equipas de aleitamento, apoio psicológico) implicariam despesa pública adicional, mas o texto não apresenta montantes nem estimativa de custos."
+ },
+ "affected": [
+  "grávidas e puérperas",
+  "famílias com recém-nascidos",
+  "utentes do SNS",
+  "autarquias locais"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "gravidez",
+  "pós-parto",
+  "natalidade",
+  "aleitamento materno",
+  "saúde mental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

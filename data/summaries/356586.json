@@ -1,0 +1,42 @@
+{
+ "short_title": "Finanças locais: coesão territorial e resposta a calamidades",
+ "summary": "O projeto de lei do CHEGA altera cinco artigos da Lei n.º 73/2013 (regime financeiro das autarquias locais e entidades intermunicipais). Nos concelhos em situação de calamidade, dispensa a aprovação pela assembleia municipal de regulamento para isenções de impostos e tributos próprios, em caso de danos comprovados e perda de rendimentos, com duração máxima até ao fim do ano civil. Concede uma majoração de 5% nas transferências financeiras aos territórios abrangidos pelo Programa Nacional para a Coesão Territorial. Exige que os montantes distribuídos a cada município sejam identificados de forma desagregada. Determina que os empréstimos de curto prazo sejam deliberados pela assembleia municipal na sessão de aprovação do orçamento, incluindo em calamidade, e que o pedido de empréstimo à DGAL inclua um plano de reequilíbrio financeiro com metas concretas.",
+ "key_points": [
+  "Dispensa regulamento da assembleia municipal para isenções de tributos em concelhos em calamidade, até ao fim do ano civil.",
+  "Majoração de 5% nas transferências financeiras para territórios do Programa Nacional para a Coesão Territorial.",
+  "Obriga à identificação desagregada dos montantes distribuídos a cada município.",
+  "Empréstimos de curto prazo passam a ser deliberados pela assembleia municipal na sessão do orçamento.",
+  "Pedidos de empréstimo à DGAL devem incluir plano de reequilíbrio financeiro com metas."
+ ],
+ "plain_language": "Depois das tempestades que afetaram o país, o CHEGA propõe mudar a lei das finanças das câmaras municipais. Em zonas de calamidade, as câmaras poderiam dar isenções de impostos locais mais depressa. Os municípios do interior abrangidos pelo programa de coesão territorial receberiam mais 5% de transferências. Os empréstimos seriam decididos pelas assembleias municipais, e as câmaras endividadas teriam de apresentar planos para equilibrar as contas.",
+ "context": "O proponente afirma que a lei de 2013 está desatualizada e que as tempestades recentes, com ventos acima de 200 km/h e cheias, causaram milhões de euros em prejuízos. Muitos municípios sem fundos disponíveis recorreram a empréstimos, citando-se o caso de Leiria, que pediu 25 milhões de euros. Defende o reforço do papel das assembleias municipais, planos de reequilíbrio e mais coesão territorial.",
+ "analysis": "O projeto procura aliviar municípios em calamidade e premiar territórios do interior, mas combina medidas que apontam em sentidos diferentes: dispensa a assembleia municipal para isenções, mas exige que delibere sobre empréstimos, o que pode atrasar a resposta em emergência. A majoração de 5% não é acompanhada de estimativa de custo nem de identificação da fonte de financiamento. O texto tem alguns erros formais, como o artigo 1.º, que fala em «criar proceder» e a expressão «recomendam ao Governo», incomum num projeto de lei. A exigência de plano de reequilíbrio reforça a disciplina orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A majoração de 5% nas transferências para os territórios do PNCT aumenta a despesa do Estado, e as isenções reduzem receita local. Não são indicados montantes."
+ },
+ "affected": [
+  "municípios em situação de calamidade",
+  "municípios do interior abrangidos pelo PNCT",
+  "assembleias municipais",
+  "contribuintes locais"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "finanças locais",
+  "calamidade",
+  "coesão territorial",
+  "Lei n.º 73/2013",
+  "empréstimos municipais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

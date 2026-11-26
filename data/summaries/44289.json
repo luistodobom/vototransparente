@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas de proteção do Estuário do Sado",
+ "summary": "O projeto de resolução do PCP recomenda ao Governo seis medidas para o Estuário do Sado: dotar a Reserva Natural dos meios humanos e materiais necessários; criar programas de estímulo à gestão sustentável dos recursos e proteção das atividades tradicionais; reforçar a monitorização das massas de água da bacia do Sado, a fiscalização de afluências de origem agropecuária e industrial e eliminar focos de poluição; desenvolver programas de sensibilização e educação ambiental, com atenção às pradarias marinhas; promover um programa para o estudo e conservação dos roazes-corvineiros; e garantir, no projeto de acessibilidades ao Porto de Setúbal, o cumprimento das medidas de mitigação e uma solução alternativa à restinga para a deposição dos dragados. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Dotar a Reserva Natural do Estuário do Sado dos meios humanos e materiais necessários.",
+  "Criar programas de gestão sustentável dos recursos naturais que protejam as atividades tradicionais.",
+  "Reforçar a monitorização das águas, a fiscalização de afluências e eliminar focos de poluição.",
+  "Promover programas de educação ambiental e um programa de conservação dos roazes-corvineiros.",
+  "No projeto do Porto de Setúbal, cumprir as medidas de mitigação e encontrar alternativa à restinga para a deposição de dragados, com participação das populações."
+ ],
+ "plain_language": "O PCP pede ao Governo que reforce a proteção do estuário do Sado: mais meios para a reserva natural, mais vigilância da poluição, apoio às atividades tradicionais como a pesca, estudo dos golfinhos residentes e cuidado com as obras de dragagem do porto. É só uma recomendação.",
+ "context": "O proponente destaca o valor natural e cultural do estuário, com classificações nacionais e internacionais, e afirma que o Instituto da Conservação da Natureza e das Florestas foi esvaziado de meios financeiros, técnicos e humanos. Defende o equilíbrio entre conservação e atividades tradicionais como agricultura, aquicultura e pesca.",
+ "analysis": "A iniciativa tem um conjunto equilibrado de medidas, que protege simultaneamente o ambiente e as atividades tradicionais, e aceita as dragagens com condições, em vez de pedir a sua suspensão. Fragilidades: as medidas são genéricas, sem prazos, montantes ou entidades responsáveis, e o reforço de meios depende de verbas não indicadas. O ponto sobre a restinga e os dragados é concreto, mas não explica qual seria a alternativa técnica. Sendo uma recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios da reserva, a monitorização e os programas propostos implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Reserva Natural do Estuário do Sado",
+  "pescadores e atividades tradicionais",
+  "população de Setúbal, Palmela e Alcácer do Sal",
+  "ICNF"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "estuário do Sado",
+  "reserva natural",
+  "dragagens",
+  "roazes-corvineiros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

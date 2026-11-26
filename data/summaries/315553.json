@@ -1,0 +1,38 @@
+{
+ "short_title": "Encurtar o prazo do Inventário Florestal Nacional",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, no âmbito da execução do Plano Floresta 2050, Futuro + Verde, pondere o encurtamento do prazo de atualização do Inventário Florestal Nacional e a possibilidade de atualizações parciais intermédias. Atualmente a periodicidade é de dez anos, e a mais recente atualização, publicada em 2019, tem como referência o ano de 2015. A iniciativa é apenas uma recomendação a ponderar, não vinculativa.",
+ "key_points": [
+  "Ponderar o encurtamento do prazo de atualização do Inventário Florestal Nacional.",
+  "Ponderar atualizações parciais intermédias.",
+  "Enquadramento na execução do Plano Floresta 2050, Futuro + Verde."
+ ],
+ "plain_language": "O Inventário Florestal Nacional, que mede o estado das florestas, só é atualizado de dez em dez anos. O PAN pede ao Governo que pense em fazê-lo com mais frequência, por exemplo com atualizações parciais pelo meio, para que o planeamento da floresta e da prevenção de incêndios use dados mais recentes.",
+ "context": "O proponente refere que o último inventário tem como referência 2015, e que desde então houve grandes incêndios que alteraram a floresta, com áreas ardidas indicadas para 2017, 2022, 2024 e 2025. Considera a periodicidade de dez anos desajustada face à tecnologia e a países como a Noruega, a Finlândia e a França.",
+ "analysis": "A proposta é moderada e fundamentada em exemplos internacionais, e responde a um problema real de dados desatualizados após incêndios. É, porém, muito branda: pede apenas que o Governo pondere, sem prazos, metas ou meios. Não estima custos nem capacidade técnica do organismo responsável, nem indica a periodicidade desejada. A comparação internacional não discute diferenças de dimensão e recursos entre países.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizações mais frequentes implicariam mais recolha de dados e custos acrescidos, não quantificados no texto."
+ },
+ "affected": [
+  "organismos responsáveis pela política florestal",
+  "proprietários florestais",
+  "decisores do planeamento do território"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura"
+ ],
+ "tags": [
+  "inventário florestal",
+  "floresta",
+  "incêndios",
+  "Floresta 2050"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio à autonomia, saúde e segurança das pessoas idosas",
+ "summary": "Projeto de Lei do PS que estabelece um regime de apoio à autonomia, saúde e segurança das pessoas idosas, com vista à sua manutenção nas comunidades onde vivem. Cria três programas: adaptação de domicílios para pessoas em maior vulnerabilidade económica e social (eliminação de pequenas barreiras arquitetónicas e melhoria do conforto térmico, podendo ser executada por municípios e financiada por fundos europeus); uma Linha Telefónica 65+, disponível 24 horas por dia, para informação e ativação de apoios sociais e de saúde, incluindo cuidadores informais; e um Programa Nacional de Teleassistência e Telemonitorização. O Governo regulamenta em 90 dias e os efeitos começam com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Criar programas de adaptação de domicílios para pessoas idosas em maior vulnerabilidade.",
+  "Criar uma Linha Telefónica 65+ permanente, com informação, apoio psicológico e apoio a cuidadores informais.",
+  "Criar um Programa Nacional de Teleassistência e Telemonitorização, com deteção de quedas e ligação a autoridades.",
+  "Permitir que os municípios executem as adaptações e aceder a fundos da União Europeia.",
+  "Regulamentação em 90 dias e produção de efeitos com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "O PS propõe três apoios para que as pessoas idosas possam continuar a viver em casa: obras pequenas para tornar a casa mais segura e confortável, um número de telefone 65+ aberto a qualquer hora para saber que apoios existem e pedi-los, e dispositivos de teleassistência que avisam as autoridades em caso de queda ou emergência. O Governo teria 90 dias para regulamentar.",
+ "context": "O proponente invoca o envelhecimento da população: segundo o INE, os maiores de 65 anos passaram de 20,9 % para 24,3 % entre 2015 e 2024, e o índice de envelhecimento subiu de 147,6 para 192,4. Defende soluções de acesso facilitado a apoios, locais seguros e adaptados, apoio aos cuidadores informais e afirma que os programas têm financiamento disponível no PRR e no PT2030.",
+ "analysis": "As medidas são concretas e orientadas para manter as pessoas em casa, com uso de fundos europeus já disponíveis. As fragilidades: o texto não quantifica o custo nem o número de beneficiários, a dependência do PRR (com prazo até 2026) pode ser problemática para um programa que se quer permanente, e a articulação entre saúde, segurança social, autarquias e forças de segurança na teleassistência é complexa. A condição de vulnerabilidade económica para as obras exige critérios definidos na regulamentação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria programas de adaptação de casas, uma linha telefónica 24 horas e teleassistência; o texto afirma que existe financiamento no PRR e no PT2030, sem indicar montantes."
+ },
+ "affected": [
+  "pessoas idosas",
+  "cuidadores informais",
+  "municípios"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "habitacao"
+ ],
+ "tags": [
+  "pessoas idosas",
+  "teleassistência",
+  "linha 65+",
+  "adaptação de domicílios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

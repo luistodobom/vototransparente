@@ -1,0 +1,43 @@
+{
+ "short_title": "Lei-Quadro das regiões administrativas (alteração)",
+ "summary": "Projeto de Lei do Bloco de Esquerda que altera e republica a Lei n.º 56/91 (Lei-Quadro das regiões administrativas). Altera os artigos 13.º, 22.º, 33.º, 36.º e 46.º, relativos ao processo de instituição das regiões (consulta às assembleias municipais e consulta direta aos eleitores de cada região), à eleição dos representantes das assembleias municipais por colégios eleitorais, à regulamentação de serviços e pessoal, a princípios orçamentais e à instalação da região. Acrescenta dois artigos que integram nas regiões os serviços das atuais CCDR e extinguem estas comissões, transferindo património, direitos, obrigações e pessoal. Revoga vários artigos e a lei entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Altera o processo de instituição das regiões, com consulta prévia às assembleias municipais e consulta direta aos eleitores de cada área regional.",
+  "Define a eleição de representantes das assembleias municipais por colégios eleitorais, com método de Hondt.",
+  "Integra nas regiões os serviços descentralizados das CCDR e extingue estas comissões com a instalação das regiões.",
+  "Transfere património, direitos, obrigações e pessoal das CCDR para os serviços regionais.",
+  "Revoga os artigos 10.º, 40.º a 43.º, 47.º e 48.º e o n.º 5 do artigo 13.º da lei de 1991, e republica-a em anexo."
+ ],
+ "plain_language": "A Constituição prevê regiões administrativas, mas elas nunca foram criadas. O Bloco de Esquerda propõe atualizar a lei que define como seriam criadas e organizadas. As regiões só avançariam se os eleitores de cada uma votassem a favor, e as atuais Comissões de Coordenação e Desenvolvimento Regional seriam extintas e os seus serviços passariam para as regiões.",
+ "context": "O BE defende que Portugal é um dos Estados mais centralizados da Europa e da OCDE e que falta um nível intermédio de decisão eleito. Argumenta que as CCDR e as comunidades intermunicipais não têm legitimidade direta nem autonomia para substituir as regiões, e cita a Comissão Independente para a Descentralização (2019).",
+ "analysis": "A proposta atualiza o quadro legal e prevê extinguir estruturas, para evitar duplicação de custos. Fragilidades: não cria as regiões nem define o mapa, apenas o regime, e a instituição concreta continua dependente de lei própria e de consulta direta, com historial de rejeição em 1998. O texto não quantifica poupanças nem custos de instalação, nem detalha atribuições e financiamento regionais em termos concretos. A articulação com municípios e a CIM fica por esclarecer, apesar da afirmação de que não há perda de poder municipal.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto afirma que a extinção de serviços desconcentrados evitaria duplicação de custos, mas não apresenta estimativas de custos de instalação ou de poupanças."
+ },
+ "affected": [
+  "Autarquias locais",
+  "CCDR e respetivos trabalhadores",
+  "Eleitores",
+  "Administração central"
+ ],
+ "categories": [
+  "territorio",
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "regionalização",
+  "regiões administrativas",
+  "CCDR",
+  "lei-quadro",
+  "descentralização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

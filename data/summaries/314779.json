@@ -1,0 +1,39 @@
+{
+ "short_title": "Aumentar a capacidade cirúrgica do SNS para reduzir listas de espera",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo quatro medidas: identificar os hospitais com insuficiência de resposta cirúrgica, que cronicamente excedem os tempos máximos de resposta garantidos e recorrem a vales-cirurgia; aumentar de forma estrutural a sua capacidade cirúrgica, através de mais pessoal, equipas, blocos operatórios e períodos de funcionamento; aumentar a capacidade de outros hospitais do SNS para receber e operar utentes em espera noutro hospital; e autorizar o aumento dos mapas de pessoal e criar uma linha de financiamento e investimento para hospitais públicos. A exposição de motivos indica que cerca de 25% dos vales emitidos em 2024 foram usados e que havia cerca de 268 mil inscritos para cirurgia em novembro de 2024. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Identificar hospitais cronicamente acima dos tempos máximos de resposta garantidos em cirurgia.",
+  "Aumentar de forma estrutural a capacidade cirúrgica destes hospitais, com pessoal, equipas e blocos operatórios.",
+  "Aumentar a capacidade de outros hospitais do SNS para operar utentes de outras unidades.",
+  "Autorizar mais pessoal e criar uma linha específica de financiamento e investimento."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que reforce os hospitais públicos, com mais profissionais e mais blocos operatórios, para operar os doentes dentro do SNS, em vez de depender dos vales-cirurgia para hospitais privados. É um pedido ao Governo, sem força de lei.",
+ "context": "O BE considera que o vale-cirurgia, criado como medida temporária em 2004, não é solução credível: só cerca de 25% dos vales e notas de transferência emitidos em 2024 foram utilizados e o número de inscritos para cirurgia subiu de cerca de 258 mil para cerca de 268 mil entre novembro de 2023 e novembro de 2024. Critica também a alteração da emissão dos vales aos 75% do tempo garantido.",
+ "analysis": "A proposta ataca a causa, a capacidade instalada, e apoia-se em dados oficiais. Fragilidades: não quantifica o investimento nem o prazo, e depende da disponibilidade de profissionais, que é limitada. A baixa utilização dos vales pode ter outras explicações além da preferência pelo SNS, como a falta de oferta no privado ou a preferência dos doentes. Não aborda a articulação com o setor privado e social. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento de pessoal, blocos operatórios e a nova linha de financiamento implicariam despesa pública acrescida, não quantificada; poderia reduzir despesa com vales-cirurgia."
+ },
+ "affected": [
+  "utentes em lista de espera cirúrgica",
+  "hospitais do SNS",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "listas de espera",
+  "cirurgia",
+  "vale-cirurgia",
+  "sns",
+  "capacidade cirúrgica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

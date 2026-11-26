@@ -1,0 +1,40 @@
+{
+ "short_title": "Financiamento mais célere de produtos de apoio",
+ "summary": "A Iniciativa Liberal propõe alterar o Decreto-Lei n.º 93/2009, que cria o Sistema de Atribuição de Produtos de Apoio (SAPA), para tornar mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária. O montante anual das verbas passa a ser fixado até 30 dias depois do Orçamento do Estado, por despacho conjunto dos membros do Governo das áreas das finanças, segurança social, saúde e educação. Prevê que o reembolso só seja usado excecionalmente (compra urgente prescrita ou reparação). Fixa em 30 dias o prazo para as entidades financiadoras decidirem sobre o financiamento, após receberem a ficha de prescrição, e em 30 dias o prazo para transferir o financiamento ou entregar o produto, após o deferimento.",
+ "key_points": [
+  "Verba anual para produtos de apoio fixada até 30 dias após o Orçamento do Estado, por despacho conjunto de quatro áreas governativas.",
+  "O reembolso só é usado em compras urgentes prescritas ou em reparações.",
+  "Prazo de 30 dias para a decisão de deferimento ou não deferimento do financiamento.",
+  "Prazo de 30 dias após o deferimento para transferir o financiamento ou entregar o produto."
+ ],
+ "plain_language": "Hoje, o dinheiro para equipamentos como cadeiras de rodas ou aparelhos de apoio chega tarde e muitas pessoas esperam. A proposta fixa prazos: a verba do ano tem de ser definida em 30 dias depois do Orçamento, o pedido tem de ser decidido em 30 dias e o produto ou o dinheiro tem de ser entregue em mais 30 dias.",
+ "context": "A IL diz que o financiamento depende de uma verba anual cuja fixação é tardia e nem o prazo legal é respeitado, o que faz com que muitas pessoas fiquem sem acesso a estes produtos. Considera que os produtos de apoio são essenciais para a inclusão e participação na sociedade.",
+ "analysis": "A medida é simples e dá previsibilidade, com prazos claros. Fragilidades: fixar prazos não garante verbas suficientes nem capacidade administrativa das entidades; o texto não prevê consequências em caso de incumprimento; e a limitação do reembolso pode prejudicar quem tem de comprar com urgência. Também não há estimativa de impacto orçamental nem do número de pessoas com pedidos pendentes.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa altera prazos e procedimentos do financiamento, sem fixar montantes; um efeito orçamental dependeria da verba anual decidida pelo Governo."
+ },
+ "affected": [
+  "pessoas com deficiência ou incapacidade",
+  "entidades financiadoras",
+  "fornecedores de produtos de apoio"
+ ],
+ "categories": [
+  "direitos",
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "produtos de apoio",
+  "deficiência",
+  "SAPA",
+  "prazos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

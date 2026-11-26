@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio extraordinário a entidades de proteção animal afetadas por tempestades",
+ "summary": "O Projeto de Lei n.º 454/XVII/1.ª, do PAN, cria um regime excecional e temporário de apoio financeiro às entidades de proteção animal afetadas pela tempestade \"Kristin\" e por outros fenómenos climáticos extremos reconhecidos como catástrofe. Beneficiários: associações zoófilas, cuidadores reconhecidos, centros de recolha oficial de animais e centros de fauna selvagem. O apoio é, a título principal, uma subvenção não reembolsável para reparar instalações, repor equipamentos, adquirir alimentação e medicamentos, prestar cuidados veterinários urgentes e recolher animais em risco. Exige, entre outros requisitos, seis meses de atividade antes do evento e despesas comprovadas. As candidaturas seguem procedimentos simplificados, com decisão em prazo máximo de 30 dias úteis e possibilidade de adiantamentos, a regulamentar por portaria.",
+ "key_points": [
+  "Cria um apoio extraordinário e temporário para entidades de proteção animal afetadas por catástrofes.",
+  "Prevê subvenção não reembolsável para reparações, equipamentos, alimentação, medicamentos e cuidados veterinários.",
+  "Exige atividade há pelo menos seis meses (salvo exceções) e prova dos danos sofridos.",
+  "Fixa um prazo máximo de 30 dias úteis para análise das candidaturas.",
+  "Remete procedimentos e tipologias adicionais de apoio para portaria do Governo."
+ ],
+ "plain_language": "Depois das tempestades que atingiram o país, vários abrigos e associações de animais ficaram com instalações destruídas. A proposta cria um apoio financeiro, que não tem de ser devolvido, para pagar reparações, comida, medicamentos e tratamentos veterinários. As entidades têm de provar os danos e funcionar há pelo menos seis meses. O processo deve ser rápido e simples.",
+ "context": "O PAN refere que as depressões Ingrid e Kristin causaram grandes danos, sobretudo nos distritos de Leiria e Coimbra, e afetaram associações zoófilas, santuários e centros de recolha. Afirma não existir um instrumento autónomo e permanente de resposta financeira para estas situações, tendo uma proposta anterior sido rejeitada.",
+ "analysis": "Pontos fortes: responde a danos concretos, define critérios de elegibilidade e procedimento célere, e prevê transparência e fiscalização. Fragilidades: o texto lido não fixa o montante global nem a dotação orçamental, remete aspetos essenciais para portarias, e o alcance a eventos \"de natureza similar\" é aberto. Há também o risco de o apoio não cobrir entidades pequenas com pouca capacidade administrativa, embora o texto preveja critérios diferenciados. A proposta pode ainda ter de ser compatível com o limite de aumentos de despesa no ano em curso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria subvenções não reembolsáveis pagas pelo Estado às entidades afetadas. O texto analisado não indica montantes ou dotação global."
+ },
+ "affected": [
+  "associações zoófilas",
+  "cuidadores reconhecidos",
+  "centros de recolha oficial de animais",
+  "centros de fauna selvagem"
+ ],
+ "categories": [
+  "animais",
+  "ambiente",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestade kristin",
+  "proteção animal",
+  "apoio financeiro",
+  "catástrofe"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

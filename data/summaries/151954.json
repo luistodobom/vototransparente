@@ -1,0 +1,40 @@
+{
+ "short_title": "Dados sobre esterilização forçada de mulheres com deficiência",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que envolva as entidades competentes (prestadores de saúde públicos e privados, forças de segurança, associações de apoio à vítima e às pessoas com deficiência, cooperativas de solidariedade social e misericórdias com casas de acolhimento) na recolha regular de dados estatísticos específicos e no estudo nacional sobre a violência contra raparigas e mulheres com deficiência, incluindo as práticas de esterilização forçada. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Envolver prestadores de saúde, forças de segurança e associações na recolha regular de dados estatísticos.",
+  "Incluir no estudo nacional a realidade da esterilização forçada de raparigas e mulheres com deficiência.",
+  "Concretiza uma dotação para um estudo nacional já aprovada no Orçamento do Estado para 2023."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que reúna as entidades de saúde, polícia e associações para recolher dados sobre a violência contra mulheres e raparigas com deficiência, incluindo esterilizações feitas sem o seu consentimento, para que o problema deixe de ser invisível. É uma recomendação, não uma obrigação.",
+ "context": "O proponente cita a Convenção de Istambul, o comentário do Comité da ONU para as pessoas com deficiência e a recomendação de julho de 2022 ao Estado português para criminalizar a esterilização forçada. Refere que não há dados oficiais, que estudos apontam para a sua ocorrência e que a lei permite exceções mediante autorização judicial.",
+ "analysis": "Responde a uma lacuna reconhecida de dados oficiais e cumpre uma deliberação orçamental aprovada por unanimidade. Fragilidades: é apenas recolha de dados e não altera a lei nem prevê criminalização ou reparação, que o próprio texto indica serem recomendadas por órgãos da ONU. Não define prazos, metodologia nem entidade coordenadora, e as evidências citadas assentam em estudos de amostra reduzida.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recolha de dados e o estudo nacional implicam despesa, em parte já prevista numa dotação do Orçamento do Estado para 2023. O texto não indica montantes."
+ },
+ "affected": [
+  "Raparigas e mulheres com deficiência",
+  "Prestadores de serviços de saúde",
+  "Associações de apoio à vítima e às pessoas com deficiência"
+ ],
+ "categories": [
+  "direitos",
+  "saude",
+  "justica"
+ ],
+ "tags": [
+  "esterilização forçada",
+  "deficiência",
+  "violência contra mulheres",
+  "convenção de istambul",
+  "dados estatísticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

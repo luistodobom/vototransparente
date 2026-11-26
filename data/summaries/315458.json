@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização legislativa: crimes e coimas para embarcações de alta velocidade",
+ "summary": "Proposta de Lei do Governo que pede autorização à Assembleia da República, por 180 dias, para aprovar por decreto-lei (anexo à proposta) o regime das embarcações de alta velocidade (EAV) e o respetivo regime sancionatório, substituindo o Decreto-Lei n.º 249/90. O decreto-lei define EAV por critérios de potência e velocidade, exclui embarcações do Estado, de socorro, de competição e as de menos de 4 metros (incluindo motas de água), e impõe qualificação pela DGRM, licença de estação, AIS classe A, inscrição «EAV», comunicação de viagens com 72 horas de antecedência, atracação noturna e limite de 10 milhas da costa. Prevê crimes (prisão de um a quatro anos, até dois anos, ou multa), coimas de 2.500 a 25.000 euros (pessoas singulares) e de 10.000 a 100.000 euros (coletivas), caução e perda de bens. Entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Define EAV por potência dos motores, velocidade máxima e tipo de casco, qualificadas pela DGRM, com exclusões (embarcações do Estado, socorro, competição, menos de 4 metros).",
+  "Obrigações: licença de estação, AIS classe A sempre ligado, inscrição «EAV» no casco, comunicação de viagens para fora das águas territoriais com 72 horas de antecedência, atracação entre as 21h e as 7h e navegação até 10 milhas da costa.",
+  "Proíbe tintas ou equipamentos antirradar, transporte de combustível acima da capacidade dos depósitos e depósitos autónomos.",
+  "Crimes: prisão de um a quatro anos para adquirir, possuir ou transacionar EAV sem bandeira ou marcações, ou transportar, importar ou exportar sem autorização; até dois anos para outras infrações e para comando sem habilitação (ou multa).",
+  "Coimas de 2.500 a 25.000 euros (singulares) e de 10.000 a 100.000 euros (coletivas), reincidência, caução de um terço da coima máxima e perda de instrumentos e vantagens.",
+  "Regime transitório de 180 dias para adaptar EAV existentes; revoga o Decreto-Lei n.º 249/90; entrada em vigor 90 dias após a publicação."
+ ],
+ "plain_language": "O Governo pede ao Parlamento licença para criar regras mais duras para as lanchas muito rápidas, muitas vezes usadas no tráfico de droga e de pessoas. Estas embarcações teriam de estar identificadas, ter localizador sempre ligado, avisar as autoridades das viagens e ficar atracadas de noite. Quem as tiver sem registo ou as conduzir sem habilitação pode ir preso ou pagar multas elevadas, e as embarcações podem ser apreendidas.",
+ "context": "O Governo considera que o regime atual de 1990 já não protege suficientemente os bens jurídicos ameaçados pelo uso de EAV para fins ilícitos, nomeadamente nas novas rotas do tráfico de estupefacientes. Pretende um regime com maior efeito preventivo e mais eficaz na segurança da sua utilização.",
+ "analysis": "A proposta reforça a fiscalização e a dissuasão, passando de um regime sobretudo contraordenacional para um regime com crimes específicos, controlos de navegação e perda de bens, e alinha-se com a resposta espanhola. Fragilidades: a definição técnica por potência pode abranger embarcações de uso legítimo, as obrigações (comunicação com 72 horas, recolha noturna, limite de 10 milhas) impõem custos a proprietários e ao setor marítimo-turístico, e a eficácia depende dos meios de fiscalização da Autoridade Marítima, da GNR e da AT, que o texto não quantifica. Sendo uma autorização legislativa, a Assembleia fixa o sentido e extensão, ficando o articulado final ao Governo; o texto não traz estimativa de custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "As novas coimas, a caução e a perda de bens poderiam gerar receita, mas o texto não estima montantes nem os custos de fiscalização, qualificação e comunicações."
+ },
+ "affected": [
+  "proprietários e comandantes de embarcações de alta velocidade",
+  "estaleiros e construtores navais",
+  "empresas marítimo-turísticas",
+  "Autoridade Marítima Nacional, GNR e Autoridade Tributária"
+ ],
+ "categories": [
+  "seguranca",
+  "justica",
+  "transportes"
+ ],
+ "tags": [
+  "embarcações de alta velocidade",
+  "tráfico de droga",
+  "regime sancionatório",
+  "autorização legislativa",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

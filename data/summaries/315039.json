@@ -1,0 +1,40 @@
+{
+ "short_title": "Limite às rendas em novos contratos de arrendamento",
+ "summary": "Projeto de Lei do PCP que limita o valor da renda inicial em novos contratos de arrendamento habitacional. Se o imóvel esteve arrendado nos cinco anos anteriores, a renda inicial não pode exceder a última renda aplicada o coeficiente 1,02; havendo vários contratos, usa-se a renda mais baixa nesse período. Em caso de obras profundas atestadas pela câmara, o coeficiente aplica-se à renda praticada logo após as obras. Sem arrendamento anterior, a renda máxima é a mediana da respetiva subsecção estatística do INE. O coeficiente só pode ser aplicado uma vez por ano civil. Revoga o artigo 34.º da Lei n.º 56/2023. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Renda inicial limitada à última renda do imóvel nos cinco anos anteriores, com coeficiente 1,02.",
+  "Em caso de vários contratos, usa-se a renda mais baixa do período.",
+  "Obras profundas atestadas pela câmara permitem partir da renda posterior às obras.",
+  "Sem arrendamento anterior, teto na renda mediana da subsecção estatística do INE.",
+  "Revogação do artigo 34.º da Lei n.º 56/2023."
+ ],
+ "plain_language": "O PCP propõe que, quando uma casa é arrendada de novo, a renda não possa subir mais de 2% face à anterior. Se a casa não esteve arrendada nos últimos cinco anos, a renda não pode passar da mediana da zona. O objetivo é travar a subida das rendas.",
+ "context": "O proponente refere que os custos de habitação pesam cerca de 40% do orçamento familiar e que, em 2024, mais de 30% das famílias arrendatárias gastavam mais de 40% do rendimento disponível com habitação. Aponta rendas ainda em subida, apesar de a oferta ter aumentado, e culpa políticas de liberalização do mercado.",
+ "analysis": "A proposta é concreta e de aplicação relativamente simples, protegendo os inquilinos de grandes saltos de renda em novos contratos. Fragilidades: pode desincentivar novos arrendamentos e levar proprietários a retirar casas do mercado, não discute mecanismos de fiscalização e a mediana por subsecção estatística pode ser de difícil verificação ou não refletir a qualidade do imóvel. Revogar o artigo 34.º da Lei n.º 56/2023 substitui o regime em vigor sem avaliação do seu efeito.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida regula preços entre privados e não prevê despesa nem receita públicas; efeitos indiretos, como na receita de IRS, não são estimados no texto."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "candidatos a arrendamento"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores"
+ ],
+ "tags": [
+  "rendas",
+  "novos contratos",
+  "limite de renda",
+  "arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

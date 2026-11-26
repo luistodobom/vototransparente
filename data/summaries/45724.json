@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforçar o apoio a idosos que vivem sozinhos ou isolados",
+ "summary": "Projeto de resolução de Os Verdes que recomenda ao Governo sete medidas de apoio a idosos que vivem sozinhos ou isolados: reforçar as equipas de apoio domiciliário de saúde; garantir contacto regular (bimensal) dos cuidados de saúde primários com utentes com mais de 65 anos; reforçar recursos de saúde mental nos cuidados primários; criar apoios às autarquias para garantir alimentação, medicamentos e energia; levantar situações de idosos dependentes cuidados por cuidadores também idosos; promover programas com autarquias para mobilizar familiares e amigos; e incentivar o comércio porta a porta. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar as equipas de apoio domiciliário de saúde para idosos vulneráveis.",
+  "Contacto regular, de dois em dois meses, entre cuidados de saúde primários e utentes com mais de 65 anos.",
+  "Reforçar recursos humanos de saúde mental nos cuidados primários.",
+  "Criar apoios às autarquias para garantir alimentação, medicamentos e energia a idosos isolados.",
+  "Levantar e planear resposta para idosos dependentes cuidados por cuidadores de idade avançada.",
+  "Promover programas de companhia com as autarquias e incentivar o comércio porta a porta."
+ ],
+ "plain_language": "Muitos idosos ficaram isolados durante a pandemia, sem apoio. Os Verdes pedem ao Governo que reforce os cuidados em casa, que os centros de saúde contactem regularmente os mais velhos, que as juntas e câmaras recebam meios para ajudar com comida, medicamentos e aquecimento e que se incentive o comércio porta a porta. É um pedido, sem força de lei.",
+ "context": "O proponente refere o envelhecimento da população (mais de 162 idosos por cada 100 jovens), os problemas dos lares na pandemia e o facto de as respostas se terem concentrado nos lares, deixando sem apoio muitos outros idosos. Cita a operação Censos Sénior da GNR, que identificou 42 439 idosos a viver sozinhos ou isolados.",
+ "analysis": "Responde a uma lacuna real, o apoio a idosos fora dos lares, e usa a sinalização já existente. Fragilidades: as medidas são amplas e sem metas, calendário ou orçamento; o contacto bimensal obriga a recursos significativos dos cuidados primários, já pressionados; o apoio às autarquias depende de mecanismos por definir; a promoção do comércio porta a porta não é concretizada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de equipas, recursos de saúde mental e apoios às autarquias implica despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "idosos que vivem sozinhos ou isolados",
+  "cuidadores de idosos",
+  "centros de saúde",
+  "autarquias e juntas de freguesia"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "idosos",
+  "isolamento",
+  "apoio domiciliário",
+  "autarquias",
+  "cuidados de saúde primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

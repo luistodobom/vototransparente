@@ -1,0 +1,42 @@
+{
+ "short_title": "Contribuição audiovisual cobrada pelas operadoras de comunicações",
+ "summary": "Projeto de Lei do CHEGA que altera a Lei n.º 30/2003 sobre o financiamento do serviço público de rádio e televisão. A contribuição audiovisual, hoje cobrada pelas empresas de eletricidade, passa a ser liquidada pelas empresas fornecedoras de pacotes de serviços de comunicações eletrónicas, discriminada na fatura e paga até ao dia 20 do mês seguinte, com informação à RTP. Essas empresas são compensadas por um valor fixo por fatura a definir por despacho conjunto. Mantém as isenções para consumidores com consumo anual abaixo de 400 kWh e alarga-as aos beneficiários de complemento solidário para idosos, rendimento social de inserção, subsídio social de desemprego, abono de família do 1.º escalão e pensão social de invalidez. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Contribuição audiovisual liquidada pelas empresas de comunicações eletrónicas, em vez das de eletricidade.",
+  "Valor discriminado na fatura e entregue até ao dia 20 do mês seguinte, com informação à RTP.",
+  "Compensação das operadoras por um valor fixo por fatura.",
+  "Isenção de beneficiários de prestações sociais indicadas, além do consumo anual inferior a 400 kWh.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Em vez de pagar a taxa da RTP na fatura da luz, passaria a pagá-la na fatura de internet, televisão ou telefone, e as pessoas que recebem certos apoios sociais deixam de a pagar. O objetivo é que só paguem quem realmente tem acesso a estes serviços.",
+ "context": "O CHEGA argumenta que cobrar a contribuição na eletricidade atinge locais sem uso do serviço (condomínios, fábricas, armazéns) e onera quem tem mais do que um contador. Refere 4,4 milhões de lares com televisão paga em 2021, uma receita de 189,9 milhões de euros e o valor atual de 2,85 € mais IVA.",
+ "analysis": "Ponto forte: procura alinhar a cobrança com quem usufrui do serviço e alarga as isenções a grupos vulneráveis. Fragilidades: quem não tem serviços de comunicações por pacote (cerca de 540 mil lares, segundo o texto) deixaria de pagar, o que pode reduzir a receita da RTP; a ligação entre ter televisão por cabo e usar o serviço público é uma aproximação; os custos de adaptação das operadoras e da compensação não são estimados; o texto não prevê financiamento alternativo para a RTP.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A mudança de cobrança e o alargamento de isenções poderão reduzir a receita da contribuição audiovisual (189,9 milhões de euros em 2021, segundo o texto); o texto não estima a perda."
+ },
+ "affected": [
+  "consumidores de eletricidade e de comunicações",
+  "beneficiários de prestações sociais",
+  "RTP",
+  "operadoras de comunicações eletrónicas"
+ ],
+ "categories": [
+  "comunicacao",
+  "consumidores",
+  "fiscalidade"
+ ],
+ "tags": [
+  "contribuição audiovisual",
+  "rtp",
+  "serviço público",
+  "taxa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

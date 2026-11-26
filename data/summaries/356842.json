@@ -1,0 +1,45 @@
+{
+ "short_title": "Prova eletrónica em processo penal: transposição da diretiva",
+ "summary": "Proposta de Lei do Governo que transpõe a Diretiva (UE) 2023/1544, sobre estabelecimentos designados e representantes legais para recolha de prova eletrónica em processos penais, e estabelece o regime sancionatório para infrações a essa diretiva e ao Regulamento (UE) 2023/1543 sobre ordens europeias de produção e de conservação. Designa a ANACOM como autoridade central e fiscalizadora, obriga prestadores de serviços a designar estabelecimento ou representante legal, prevê contraordenações com coimas e altera a Lei n.º 144/99 e a Lei do Cibercrime (Lei n.º 109/2009) para identificar autoridades nacionais de emissão e execução.",
+ "key_points": [
+  "Prestadores de serviços que ofereçam serviços em Portugal ou na UE têm de designar um estabelecimento ou representante legal para receber ordens de prova eletrónica.",
+  "ANACOM é a autoridade central para efeitos da diretiva e fiscaliza o cumprimento.",
+  "Contraordenações punidas com coimas, de €250 a €20 000 para pessoas singulares e até 2% do volume de negócios mundial para pessoas coletivas em certas infrações.",
+  "Do produto das coimas, 60% reverte para o Estado e 40% para a ANACOM.",
+  "A Procuradoria-Geral da República passa a ser autoridade central para efeitos do Regulamento (UE) 2023/1543.",
+  "Aditamento à Lei n.º 109/2009 (Cibercrime) de regras sobre as autoridades nacionais de emissão e de execução de ordens europeias de produção e de conservação de prova eletrónica.",
+  "Prazo para designar estabelecimento ou representante legal: até 18 de agosto de 2026 para quem já ofereça serviços na UE em 18 de fevereiro de 2026, ou seis meses após o início da oferta, nos restantes casos."
+ ],
+ "plain_language": "Para investigar crimes, as autoridades precisam muitas vezes de mensagens e dados guardados por empresas digitais noutros países. Esta lei aplica regras europeias que obrigam essas empresas a ter um representante na UE e a responder rapidamente a ordens judiciais. Quem não cumprir pode pagar multas, e a ANACOM fiscaliza.",
+ "context": "O Governo explica que a prova eletrónica é determinante na investigação criminal, estimando que, na UE, 85% das investigações recorrem a dados digitais, e que o acesso por auxílio judiciário mútuo é moroso. A diretiva e o regulamento europeus visam procedimentos mais céleres e eficazes, e a transposição é necessária para os aplicar em Portugal.",
+ "analysis": "A proposta cumpre obrigações europeias e dá clareza institucional, ao identificar as autoridades competentes e o regime sancionatório. Os pontos de atenção são a proporcionalidade das coimas, que chegam a 2% do volume de negócios mundial, e as garantias de proteção de dados e de direitos dos visados em ordens transfronteiras, que dependem em grande parte do Regulamento e da prática judiciária. A fiscalização exigirá meios da ANACOM, cujo reforço o texto lido não quantifica.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prevê coimas cujo produto é repartido em 60% para o Estado e 40% para a ANACOM. O texto não estima montantes nem os custos de fiscalização."
+ },
+ "affected": [
+  "prestadores de serviços digitais e de comunicações",
+  "autoridades judiciárias e órgãos de polícia criminal",
+  "ANACOM",
+  "Procuradoria-Geral da República"
+ ],
+ "categories": [
+  "justica",
+  "ciencia",
+  "internacional"
+ ],
+ "tags": [
+  "prova eletrónica",
+  "cibercrime",
+  "anacom",
+  "diretiva 2023/1544",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

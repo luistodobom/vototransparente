@@ -1,0 +1,42 @@
+{
+ "short_title": "Referenciação de utentes do SNS e fiscalização de contratos com privados",
+ "summary": "Projeto de Lei do PAN que altera as Bases 6 e 25 da Lei de Bases da Saúde (Lei n.º 95/2019). Na Base 6, obriga o Estado a referenciar os utentes para o setor privado ou social quando se esgotem os tempos máximos de resposta garantidos e o SNS se mostre incapaz de responder em tempo útil, de forma célere, com garantias de qualidade e proximidade. Na Base 25, condiciona contratos, convenções e acordos com privados à comprovada falta de capacidade do SNS, exige parâmetros de qualidade e informação atempada, impõe fiscalização e a designação de um gestor do contrato, remete para lei os mecanismos de sanção por seleção adversa e indução indevida da procura e manda contabilizar os encargos de acompanhamento. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Obriga à referenciação para os setores privado ou social quando os TMRG se esgotam e o SNS não responde.",
+  "Só permite contratos com privados quando o SNS não tiver comprovadamente capacidade em tempo útil.",
+  "Exige parâmetros de qualidade fiscalizados e o dever de prestar informação atempada.",
+  "Obriga o contraente público a designar um gestor do contrato.",
+  "Remete para lei sanções por seleção adversa e indução indevida da procura.",
+  "Os encargos de acompanhamento contam para a avaliação da eficiência."
+ ],
+ "plain_language": "O PAN propõe que, se o SNS não atender o doente no prazo máximo, o Estado o encaminhe para um prestador privado ou social. Mas também quer regras mais apertadas para esses contratos: qualidade medida, fiscalização e um responsável por acompanhar cada contrato.",
+ "context": "A proponente invoca o direito constitucional à proteção da saúde e o incumprimento recorrente dos tempos máximos de resposta garantidos para consultas, exames e cirurgias. Considera que a Lei de Bases da Saúde é insuficiente para garantir uma resposta clara e automática, e para regular e fiscalizar os contratos com privados e setor social.",
+ "analysis": "Ponto forte: combina o acesso atempado ao utente com salvaguardas de qualidade, fiscalização e responsabilização nos contratos. Fragilidades: aumenta a dependência de prestadores externos e não indica fonte de financiamento nem preços; a fiscalização e os gestores de contrato exigem meios; parte do regime é remetida para lei futura, e a Base 25 tem numeração incompleta no texto. Pode ser contraditória a obrigação de referenciar com a condição de comprovada incapacidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A referenciação para privados e a fiscalização dos contratos implicam encargos para o Estado, que o texto não quantifica."
+ },
+ "affected": [
+  "utentes do SNS em lista de espera",
+  "prestadores privados e do setor social",
+  "hospitais e entidades do SNS"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "TMRG",
+  "lei de bases da saúde",
+  "contratos com privados",
+  "fiscalização",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

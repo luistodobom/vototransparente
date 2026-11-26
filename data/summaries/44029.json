@@ -1,0 +1,42 @@
+{
+ "short_title": "Não discriminação no acesso à habitação de quem tem animais de companhia",
+ "summary": "O PAN propõe proibir a discriminação no acesso à habitação, em especial ao arrendamento, por quem detém animais de companhia. Os anúncios de arrendamento e os atos prévios ao contrato não podem conter restrições ou preferências baseadas na detenção de animais, e as cláusulas dos contratos e dos regulamentos de condomínio com restrições à presença de animais passam a ser nulas. Mantêm-se as normas sobre bem-estar animal e detenção, como o número máximo de animais por fração, animais perigosos e saúde pública. O senhorio pode inspecionar o locado com aviso escrito de 15 dias e exigir prova do cumprimento dessas regras. A lei entraria em vigor no primeiro dia do mês seguinte ao da publicação.",
+ "key_points": [
+  "Proíbe a discriminação no acesso à habitação por quem detém animais de companhia.",
+  "Impede que anúncios e atos pré-contratuais contenham restrições ou preferências relativas a animais.",
+  "Declara nulas as cláusulas de contratos de arrendamento e de regulamentos de condomínio que proíbam animais.",
+  "Mantém as regras sobre número máximo de animais, animais perigosos e saúde pública.",
+  "Permite ao senhorio inspecionar o locado com aviso escrito de 15 dias."
+ ],
+ "plain_language": "Hoje muitos senhorios recusam inquilinos que têm cães ou gatos, o que leva algumas famílias a abandonar os animais. O PAN propõe que isso deixe de ser permitido: não poderá haver anúncios nem cláusulas de contrato ou de condomínio a proibir animais de companhia, embora continuem a valer as regras de saúde pública e o limite de animais por casa.",
+ "context": "O PAN refere que mais de metade dos lares portugueses tem um animal de companhia e que a proibição de os levar para a nova casa leva ao abandono ou a dificuldades de alojamento. Invoca o estatuto jurídico dos animais no Código Civil, a Convenção Europeia para a Proteção dos Animais de Companhia e acórdãos da Relação do Porto.",
+ "analysis": "A iniciativa responde a um problema real e articula direitos dos inquilinos e bem-estar animal, mantendo salvaguardas de saúde pública. Fragilidades: restringe a liberdade contratual e o direito de propriedade dos senhorios, e a nulidade de cláusulas em regulamentos de condomínio pode afetar a vontade dos restantes condóminos. Não prevê sanções para quem discrimine nem mecanismos de fiscalização, e o texto não esclarece como conciliar a inspeção com a privacidade do arrendatário. O impacto sobre a oferta de arrendamento não é avaliado. O texto refere-se internamente como Projeto de Lei n.º 53/XIV.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Regula relações entre privados e não prevê despesa ou receita públicas no texto."
+ },
+ "affected": [
+  "inquilinos com animais de companhia",
+  "senhorios",
+  "condomínios",
+  "animais de companhia"
+ ],
+ "categories": [
+  "animais",
+  "habitacao",
+  "consumidores"
+ ],
+ "tags": [
+  "animais de companhia",
+  "arrendamento",
+  "discriminação",
+  "condomínio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

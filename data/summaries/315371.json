@@ -1,0 +1,42 @@
+{
+ "short_title": "Patrono nomeado por escala de prevenção para vítimas especialmente vulneráveis",
+ "summary": "Projeto de Lei do CHEGA que assegura a nomeação imediata de patrono, através de escalas de prevenção de advogados e advogados estagiários, para as vítimas especialmente vulneráveis, nomeadamente de violência doméstica. Altera os artigos 13.º e 21.º do Estatuto da Vítima e o artigo 41.º da Lei do Acesso ao Direito e aos Tribunais, prevendo que a nomeação é subsequente à atribuição do estatuto de vítima e que há lugar a pagamento de honorários. O Governo regulamenta em 30 dias e a lei entra em vigor com o Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "O Estado assegura a nomeação imediata de patrono às vítimas especialmente vulneráveis (Estatuto da Vítima, artigo 13.º).",
+  "A nomeação imediata de patrono passa a constar dos direitos da vítima (artigo 21.º).",
+  "Escalas de prevenção de advogados e advogados estagiários, com pagamento de honorários.",
+  "Regulamentação pelo Governo em 30 dias e entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Hoje, uma vítima de violência doméstica pode não ter advogado logo no início do processo. A proposta quer que lhe seja atribuído imediatamente um advogado, através de escalas de advogados de serviço, pagos pelo Estado.",
+ "context": "O CHEGA defende que o Estado deve garantir o acesso ao direito às vítimas, em especial as mais vulneráveis, e que a lei prevê a nomeação oficiosa em escala apenas para o arguido. Cita um parecer do Conselho Superior do Ministério Público sobre iniciativa afim, a favor de consagrar esse direito.",
+ "analysis": "A proposta fecha uma lacuna apontada por entidades judiciárias e reforça a posição da vítima no processo. Fragilidades: o texto remete para portaria a organização das escalas, não estima os custos de honorários e não define em concreto 'vítima especialmente vulnerável' para além do exemplo da violência doméstica. A entrada em vigor condicionada ao Orçamento do Estado atrasa a aplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento de honorários aos advogados nomeados em escalas de prevenção aumenta a despesa do Estado. O texto não apresenta montantes."
+ },
+ "affected": [
+  "vítimas de violência doméstica e outras vítimas especialmente vulneráveis",
+  "advogados e advogados estagiários",
+  "Ordem dos Advogados",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "patrono",
+  "estatuto da vítima",
+  "apoio judiciário",
+  "escalas de prevenção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço público da rede de cuidados continuados",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo o reforço da resposta pública na Rede Nacional de Cuidados Continuados Integrados (RNCCI), através do SNS, para reduzir os internamentos sociais. As medidas incluem: assegurar uma resposta integrada após a alta clínica; garantir que o planeamento da alta é multidisciplinar e envolve o utente e a família; aproveitar espaços existentes em hospitais ou edifícios do SNS para alargar a rede; programar o aproveitamento de espaços que ficarão disponíveis, como as instalações do atual Hospital de São José ou do novo Hospital Oriental de Lisboa; e programar a construção de raiz de edifícios do SNS pensados para cuidados continuados.",
+ "key_points": [
+  "Assegurar resposta integrada de cuidados após a alta clínica.",
+  "Garantir planeamento multidisciplinar da alta, com participação do utente e da família.",
+  "Aproveitar espaços subutilizados de hospitais e edifícios do SNS para alargar a RNCCI.",
+  "Programar o uso de instalações futuramente disponíveis, como o atual Hospital de São José.",
+  "Programar a construção de edifícios do SNS especificamente para cuidados continuados."
+ ],
+ "plain_language": "Muitos doentes ficam no hospital depois de terem alta por não haver camas em cuidados continuados. O Bloco de Esquerda propõe que o SNS crie mais camas públicas, aproveitando edifícios vazios ou construindo novos, e que a alta seja bem preparada. É uma recomendação.",
+ "context": "O BE recorda que a RNCCI foi criada em 2006 e argumenta que não pode depender quase exclusivamente de respostas sociais e privadas lucrativas. Defende maior papel do SNS para aumentar camas, reduzir tempos de espera, melhorar a articulação com os hospitais e reduzir internamentos sociais.",
+ "analysis": "A proposta é concreta quanto à origem das novas camas (edifícios do SNS) e ao planeamento da alta. Fragilidades: não quantifica camas, custos, prazos nem pessoal necessário; a aptidão dos espaços indicados para cuidados continuados não é demonstrada; e a ênfase exclusiva na oferta pública não discute o contributo dos setores social e privado, já relevante na rede. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Adaptar edifícios e construir novas unidades do SNS implica investimento e despesa corrente, sem montantes indicados no texto."
+ },
+ "affected": [
+  "doentes com alta clínica e dependentes",
+  "famílias e cuidadores",
+  "hospitais do SNS",
+  "profissionais da RNCCI"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "internamentos sociais",
+  "cuidados continuados",
+  "RNCCI",
+  "alta hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

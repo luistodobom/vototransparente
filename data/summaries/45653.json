@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da proteção do lobo-ibérico em Portugal",
+ "summary": "O PEV recomenda ao Governo sete medidas para reforçar a proteção do lobo-ibérico. Propõe concluir e publicar com brevidade o novo censo nacional do lobo, com estudos genéticos, e ampliar o Plano de Ação para a Conservação do Lobo-Ibérico (PACLobo) a todo o território continental. Pede que se determine a possibilidade de legislar para impedir, nos territórios do lobo e zonas de expansão, alterações substanciais do uso do solo que isolem populações, como grandes vias, barragens, minas a céu aberto e parques eólicos com grandes acessos. Recomenda zonas de refúgio das presas naturais nas áreas de maior conflito com criadores de gado, reforço do pessoal e equipamento do ICNF, um censo e programa de controlo dos cães assilvestrados com as autarquias, e cooperação com Espanha. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Concluir e publicar o novo censo nacional do lobo, com estudos genéticos.",
+  "Alargar o PACLobo a todo o território continental.",
+  "Avaliar legislar contra alterações do uso do solo que isolem populações de lobo.",
+  "Criar zonas de refúgio para presas naturais e reforçar o pessoal e equipamento do ICNF.",
+  "Fazer um censo de cães assilvestrados e um programa de controlo com as autarquias, e cooperar com Espanha."
+ ],
+ "plain_language": "O lobo-ibérico continua em perigo em Portugal. Os Verdes pedem ao Governo que conte os lobos de novo, alargue o plano de proteção a todo o país, evite obras que isolem as alcateias, proteja os animais de que o lobo se alimenta, reforce as equipas de vigilância, controle os cães abandonados que o ameaçam e coopere com Espanha. É uma recomendação.",
+ "context": "O proponente refere que, apesar da proteção legal e do PACLobo, a população, de cerca de três centenas de indivíduos, tem dificuldade em crescer e continua «Em Perigo». Aponta ameaças como abate, envenenamento, atropelamento, fragmentação do habitat, conflitos com criadores de gado, cães assilvestrados e aumento da caça furtiva.",
+ "analysis": "A proposta é abrangente e articula proteção da espécie, habitat, presas e cães assilvestrados, apoiando-se num plano já existente. Fragilidades: a ampliação do PACLobo a todo o território e a restrição de usos do solo (incluindo parques eólicos e barragens) podem entrar em tensão com outras políticas, como a energia e o desenvolvimento local, e o texto apenas pede que se «determine a possibilidade» de legislar. Não há custos nem prazos para a maioria das medidas. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de pessoal e equipamento do ICNF, o censo, as zonas de refúgio e o controlo de cães implicam despesa pública não quantificada no texto."
+ },
+ "affected": [
+  "lobo-ibérico",
+  "criadores de gado",
+  "ICNF e vigilantes da natureza",
+  "autarquias"
+ ],
+ "categories": [
+  "ambiente",
+  "animais",
+  "territorio"
+ ],
+ "tags": [
+  "lobo-ibérico",
+  "PACLobo",
+  "censo",
+  "cães assilvestrados",
+  "conservação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

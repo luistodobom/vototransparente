@@ -1,0 +1,42 @@
+{
+ "short_title": "Diferimento do pagamento de propinas após o curso",
+ "summary": "O projeto de lei do Chega adita à Lei de Bases do Financiamento do Ensino Superior um regime opcional de diferimento do pagamento de propinas nas licenciaturas e mestrados integrados do ensino superior público. A pedido do aluno, a obrigação de pagar fica suspensa durante o curso e só começa depois da conclusão, decorridos tantos anos de carreira contributiva quantos os da duração normal do curso, e apenas quando o diplomado ganhe mais do que a remuneração média mensal dos trabalhadores até aos 35 anos, segundo o INE. Não há juros nem penalizações e o regime não é um empréstimo. O Governo regulamenta em 90 dias.",
+ "key_points": [
+  "Regime opcional, a pedido do aluno, para licenciaturas e mestrados integrados públicos.",
+  "O pagamento fica suspenso durante o curso e inicia-se após a conclusão e anos de carreira contributiva equivalentes à duração do curso.",
+  "Só é exigível se o rendimento ilíquido exceder a remuneração média mensal dos trabalhadores até aos 35 anos (INE).",
+  "Sem juros, penalizações ou encargos; não constitui empréstimo nem crédito.",
+  "Pagamento faseado, definido por portaria; regulamentação em 90 dias; entra em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "O Chega propõe que os alunos possam não pagar propinas durante o curso e só pagar mais tarde, quando tiverem emprego estável e um salário acima de um certo valor, sem juros. Seria opcional.",
+ "context": "O Chega considera injusto simplesmente abolir as propinas, dado o subfinanciamento do ensino superior, e inspira-se no modelo inglês, sem empréstimos. Refere que o custo de vida, incluindo habitação e alimentação, afasta alunos de menores rendimentos e que as soluções bancárias têm juros e fiadores.",
+ "analysis": "O modelo reduz a barreira financeira imediata e condiciona o pagamento à capacidade de pagar, sem juros. Contudo, o Estado e as instituições suportariam o atraso e o risco de nunca receber, se o diplomado não atingir o limiar ou emigrar, o que o texto não avalia. O texto reconhece que não resolve os custos de vida. Os detalhes de cobrança e articulação fiscal ficam para regulamentação. Pode ser percebido como semelhante a um empréstimo, apesar de a lei o negar.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O diferimento adia receitas das instituições e do Estado, e a cobrança futura depende dos rendimentos dos diplomados; o texto não quantifica o impacto."
+ },
+ "affected": [
+  "estudantes do ensino superior público",
+  "instituições de ensino superior",
+  "diplomados",
+  "Estado"
+ ],
+ "categories": [
+  "educacao",
+  "familia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "propinas",
+  "diferimento",
+  "ensino superior",
+  "capacidade contributiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

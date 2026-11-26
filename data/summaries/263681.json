@@ -1,0 +1,42 @@
+{
+ "short_title": "Painéis solares obrigatórios em grandes parques de estacionamento exteriores",
+ "summary": "O Bloco de Esquerda propõe que os parques de estacionamento exteriores com mais de 1.500 metros quadrados sejam equipados, em pelo menos metade da sua área, com sombras que incorporem produção de energia, como painéis fotovoltaicos. A obrigação aplica-se a partir de 1 de julho de 2027 aos parques com 10.000 m² ou mais, e a partir de 1 de julho de 2029 aos parques entre 1.500 e 10.000 m². Prevê exceções técnicas, patrimoniais, ambientais e económicas, parques já sombreados por árvores e parques a remover por instrumentos de ordenamento do território. As câmaras municipais podem prorrogar prazos até 5 anos e o Governo regulamenta a lei em 90 dias. A proposta inspira-se numa lei francesa de março de 2023.",
+ "key_points": [
+  "Parques exteriores com mais de 1.500 m² devem ter sombras com produção de energia em pelo menos metade da área.",
+  "Prazos: 1 de julho de 2027 (10.000 m² ou mais) e 1 de julho de 2029 (entre 1.500 e 10.000 m²).",
+  "Parques adjacentes podem agrupar a obrigação por acordo mútuo comprovável.",
+  "Exceções para condicionantes técnicas, de segurança, patrimoniais ou ambientais, inviabilidade económica e parques sombreados por árvores.",
+  "Câmaras municipais podem prorrogar o prazo até 5 anos em caso de atraso não imputável ao gestor.",
+  "Em concessões, a obrigação aplica-se no fim ou renovação da concessão."
+ ],
+ "plain_language": "A proposta obriga os donos de grandes parques de estacionamento ao ar livre a cobri-los, pelo menos em metade da área, com estruturas de sombra que produzam eletricidade, por exemplo com painéis solares. Os parques maiores teriam de cumprir mais cedo e os mais pequenos mais tarde. Há exceções quando não é tecnicamente possível, quando não compensa economicamente ou quando o parque já tem muitas árvores.",
+ "context": "O proponente defende que a produção de energia renovável deve ter menos impactos ambientais, como a destruição de habitats, e que painéis sobre parques de estacionamento geram energia e sombra sem ocupar novos terrenos. Invoca a lei francesa de 10 de março de 2023 como modelo, adaptado à realidade portuguesa.",
+ "analysis": "A medida aproveita espaço já impermeabilizado e evita ocupar solo novo, o que é um ponto forte. No entanto, impõe custos de investimento aos gestores de parques, sem apoios previstos no texto. As exceções são amplas e algo subjetivas (por exemplo, condições economicamente aceitáveis), o que pode gerar litígios e aplicação desigual. Não define fiscalização nem sanções por incumprimento. A prorrogação de prazos pelas câmaras acrescenta carga administrativa. O texto não quantifica a produção esperada nem o custo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos nem receitas. Os encargos de instalação recaem sobre os gestores dos parques, mas a regulamentação e a eventual fiscalização podem implicar despesa pública não estimada."
+ },
+ "affected": [
+  "gestores de parques de estacionamento",
+  "municípios",
+  "empresas de energia solar",
+  "utilizadores de parques de estacionamento"
+ ],
+ "categories": [
+  "energia",
+  "ambiente"
+ ],
+ "tags": [
+  "painéis solares",
+  "parques de estacionamento",
+  "energias renováveis",
+  "fotovoltaico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

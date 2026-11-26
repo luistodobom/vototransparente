@@ -1,0 +1,40 @@
+{
+ "short_title": "Educação na primeira infância no sistema educativo",
+ "summary": "O LIVRE propõe integrar a educação na primeira infância (crianças até aos 3 anos) no sistema educativo, alterando a Lei de Bases do Sistema Educativo (Lei n.º 46/86) e a Lei-Quadro da Educação Pré-Escolar (Lei n.º 5/97). O sistema passa a incluir a educação na primeira infância e a incumbir o Estado de assegurar uma rede universal e gratuita desta etapa e da educação pré-escolar, com apoio do Estado às instituições da rede pública. A orientação pedagógica é assegurada por educadores de infância e a frequência permanece facultativa. A educação pré-escolar passa a ser a segunda etapa da educação básica. Ambas as leis são republicadas e a lei entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Cria a educação na primeira infância (até aos 3 anos) como parte do sistema educativo.",
+  "Incumbe o Estado de assegurar uma rede universal e gratuita de educação na primeira infância e pré-escolar.",
+  "Atividades pedagógicas asseguradas por educadores de infância.",
+  "A frequência continua a ser facultativa.",
+  "Republica a Lei de Bases do Sistema Educativo e a Lei-Quadro da Educação Pré-Escolar; entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "As creches deixariam de ser vistas apenas como apoio social e passariam a fazer parte do sistema de educação, tal como a escola. O Estado teria de garantir uma rede de creches gratuita para todas as crianças até aos 3 anos, mas os pais continuariam a poder escolher se querem usar.",
+ "context": "O proponente defende que os primeiros anos são decisivos para a aprendizagem, a socialização e a redução de desigualdades, e que a separação entre a primeira infância e o restante percurso educativo não se justifica. Cita a Comissão Europeia, a Estratégia Nacional de Combate à Pobreza 2021-2030 e um parecer do Conselho Nacional de Educação.",
+ "analysis": "Dá estatuto educativo à primeira infância e reforça a perspetiva da igualdade de oportunidades. Fragilidades: a gratuitidade universal tem custos elevados que o texto não estima; não prevê calendário de execução, meios, nem formação e contratação de educadores; a alteração é feita por normas programáticas, com efeitos dependentes de legislação posterior; e não clarifica a relação com as creches privadas e sociais já existentes nem com o regime atual de gratuitidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A rede universal e gratuita implica maior despesa pública em creches e pessoal docente. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "crianças até aos 3 anos e famílias",
+  "educadores de infância",
+  "instituições de creche"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "primeira infância",
+  "creches",
+  "educação pré-escolar",
+  "rede pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

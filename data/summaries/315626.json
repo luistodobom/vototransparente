@@ -1,0 +1,43 @@
+{
+ "short_title": "Bombeiros: profissão de risco, subsídio e reforma antecipada (BE)",
+ "summary": "Projeto de Lei do BE que atribui aos bombeiros o estatuto de profissão de risco e de desgaste rápido, alterando os Decretos-Leis n.º 106/2002 (bombeiros profissionais da administração local) e n.º 241/2007. Cria um suplemento remuneratório de risco, penosidade e insalubridade de 30% sobre a remuneração base, pago em 14 meses, cumulável com outros suplementos como o subsídio de turno e o trabalho suplementar. Reconhece o direito à reforma antecipada sem penalização, também para trabalhadores das associações humanitárias, e repristina o artigo 28.º do Decreto-Lei n.º 106/2002, com 30 anos de serviço e limites de idade de 60 anos (chefes principais e chefes), 56 (subchefes principais), 54 (subchefes de 1.ª classe) e 50 (subchefes de 2.ª classe e sapadores). Revoga normas do Decreto-Lei n.º 106/2002. O Governo regulamenta em 60 dias e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Atribui o estatuto de profissão de risco e desgaste rápido aos bombeiros profissionais, com extensão a trabalhadores das associações humanitárias.",
+  "Cria um suplemento de risco, penosidade e insalubridade de 30% sobre a remuneração base, pago em 14 meses.",
+  "Garante a cumulação com outros suplementos, como o subsídio de turno e o trabalho suplementar.",
+  "Reforma antecipada sem penalização, com 30 anos de serviço, aos 50 a 60 anos consoante a categoria.",
+  "Revoga o n.º 3 do artigo 28.º-A e os artigos 35.º e 38.º do Decreto-Lei n.º 106/2002; regulamentação em 60 dias."
+ ],
+ "plain_language": "O BE propõe reconhecer os bombeiros como profissão de risco e desgaste rápido. Teriam um suplemento de 30% no salário, que pode ser somado a outros subsídios, e poderiam reformar-se mais cedo sem cortes, depois de 30 anos de serviço, a idades que vão dos 50 aos 60 anos conforme a categoria.",
+ "context": "O proponente sublinha que a profissão de bombeiro impõe elevado desgaste físico e psicológico, com exposição a fumo e substâncias tóxicas, acidentes e catástrofes, associada a doenças respiratórias e cardiovasculares e a stress emocional. Defende o reconhecimento legal da profissão como de desgaste rápido.",
+ "analysis": "A proposta é concreta quanto a valores, idades e cumulação de suplementos, o que facilita a avaliação do seu custo. Fragilidades: o impacto orçamental para os municípios e para a Caixa Geral de Aposentações não é calculado; a cumulação de suplementos e a redução da idade de reforma podem afetar a sustentabilidade e a capacidade operacional (saída de efetivos experientes); e a extensão às associações humanitárias, entidades privadas, não esclarece quem paga. As remissões a normas revogadas pelo Decreto-Lei n.º 51/2025 exigem harmonização.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O suplemento de 30% em 14 meses, a cumulação de suplementos e a reforma antecipada aumentam a despesa com pessoal e pensões. O texto não indica valores."
+ },
+ "affected": [
+  "bombeiros profissionais",
+  "bombeiros das associações humanitárias",
+  "municípios",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "bombeiros",
+  "profissão de risco",
+  "subsídio de risco",
+  "reforma antecipada",
+  "cumulação de suplementos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

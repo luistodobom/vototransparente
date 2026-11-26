@@ -1,0 +1,40 @@
+{
+ "short_title": "Proteger os animais selvagens afetados pelos incêndios de 2025",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo três medidas para a fauna selvagem afetada pelos incêndios de 2025. Propõe programas de pontos de alimentação e abeberamento, em articulação com o ICNF e organizações não governamentais, nas áreas de habitat destruído até à regeneração dos ecossistemas; reforço financeiro dos centros de recuperação de animais selvagens e das associações de proteção animal para alimentação e cuidados veterinários; e uma estratégia de recuperação da biodiversidade nas zonas ardidas, com a academia e ONG. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Programas de pontos de alimentação e abeberamento para a fauna selvagem nas áreas ardidas.",
+  "Reforço financeiro dos centros de recuperação de animais selvagens e das associações de proteção animal.",
+  "Estratégia para a recuperação da biodiversidade nas zonas afetadas, com a academia e ONG."
+ ],
+ "plain_language": "Depois dos grandes incêndios de 2025, muitos animais selvagens perderam o abrigo e a comida. O PAN pede ao Governo que coloque comida e água nas zonas ardidas, ajude financeiramente os centros que tratam animais feridos e prepare um plano para recuperar a biodiversidade.",
+ "context": "O PAN cita o EFFIS, segundo o qual mais de 215 mil hectares arderam em 2025, e afirma ser impossível quantificar os animais selvagens vítimas. Refere a destruição de habitats, o impacto em espécies como o lobo-ibérico e o risco de aproximação de animais a campos e residências.",
+ "analysis": "A proposta é concreta e de custo moderado, e responde a um impacto frequentemente pouco considerado dos incêndios. Fragilidades: é uma recomendação sem montantes, prazos ou critérios para a colocação dos pontos de alimentação, e a alimentação artificial de fauna selvagem exige cuidados de gestão que o texto não detalha. A estratégia de biodiversidade é enunciada de forma genérica.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço financeiro de centros de recuperação e os programas de alimentação aumentariam a despesa. O texto não indica montantes para estas medidas."
+ },
+ "affected": [
+  "fauna selvagem",
+  "centros de recuperação de animais selvagens",
+  "associações de proteção animal",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "animais",
+  "ambiente"
+ ],
+ "tags": [
+  "incêndios",
+  "fauna selvagem",
+  "biodiversidade",
+  "centros de recuperação",
+  "2025"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

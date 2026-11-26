@@ -1,0 +1,39 @@
+{
+ "short_title": "Estudo de terapias alternativas aos antibióticos",
+ "summary": "A deputada única do PAN recomenda ao Governo que promova o estudo e a avaliação de terapias alternativas e complementares ao uso de antibióticos, designadamente a terapia fágica, analisando a sua eficácia, segurança e aplicabilidade no sistema de saúde português e avaliando experiências internacionais relevantes. Recomenda ainda que incentive a investigação científica nesta área, em articulação com instituições de ensino superior, centros de investigação e unidades de saúde. A exposição de motivos descreve a terapia fágica, baseada em bacteriófagos, como uma abordagem personalizada de controlo de infeções bacterianas, ainda sem ampla regulamentação europeia, e refere que Portugal tem uma das mais elevadas taxas de infeções resistentes a antibióticos da Europa. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Promover o estudo e a avaliação de terapias alternativas aos antibióticos, nomeadamente a terapia fágica.",
+  "Analisar eficácia, segurança e aplicabilidade no sistema de saúde português.",
+  "Avaliar experiências internacionais relevantes.",
+  "Incentivar a investigação científica com instituições de ensino superior, centros de investigação e unidades de saúde."
+ ],
+ "plain_language": "O PAN pede ao Governo que estude se tratamentos alternativos aos antibióticos, como a terapia com vírus que atacam bactérias (fagos), podem ajudar contra infeções que já não respondem aos antibióticos, e que apoie a investigação científica. É uma recomendação, sem obrigação legal.",
+ "context": "O proponente afirma que Portugal tem uma das mais elevadas prevalências de infeções resistentes a antibióticos na Europa, o que limita as terapêuticas convencionais e justifica avaliar abordagens inovadoras com evidência ainda em desenvolvimento mas promissora para infeções crónicas e multirresistentes.",
+ "analysis": "A proposta é prudente, ao pedir estudo e investigação e não a adoção imediata, e reconhece que a evidência ainda está em desenvolvimento. É, no entanto, muito genérica: não indica financiamento, prazos nem entidade responsável, e não refere o enquadramento regulatório já existente em Portugal para esta terapêutica. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Financiar estudos e investigação implica despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "doentes com infeções resistentes a antibióticos",
+  "investigadores",
+  "unidades de saúde do SNS"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "terapia fágica",
+  "resistência aos antibióticos",
+  "bacteriófagos",
+  "investigação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

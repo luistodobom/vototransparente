@@ -1,0 +1,41 @@
+{
+ "short_title": "Reversão da privatização dos CTT",
+ "summary": "O PEV propõe que a Assembleia da República recomende ao Governo que inicie o processo de reversão da privatização dos CTT - Correios de Portugal, para que a sua gestão regresse à esfera do Estado. O texto fundamenta o pedido na alegada degradação do serviço postal desde a privatização, concluída em 2014: encerramento de estações, aumento de reclamações, subida de tarifas, redução de postos de trabalho e distribuição de dividendos elevados. Defende que o problema está na propriedade da empresa e não no contrato de concessão. A iniciativa é uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que inicie o processo de reversão da privatização dos CTT.",
+  "Pretende que a gestão do serviço postal volte à esfera do Estado.",
+  "Invoca o encerramento de estações, o aumento das reclamações e das tarifas e a perda de postos de trabalho.",
+  "Considera que a solução passa pela propriedade da empresa e não apenas pelo contrato de concessão."
+ ],
+ "plain_language": "Os Verdes pedem ao Governo que comece a recuperar os CTT para o Estado, porque entendem que o serviço de correios piorou depois de a empresa ter sido vendida a privados. Apontam menos estações, mais reclamações e preços mais altos. É apenas uma recomendação e o Governo não é obrigado a segui-la.",
+ "context": "O proponente afirma que, desde a privatização, houve encerramento de estações e postos, aumento de reclamações (16 077 em 2018, segundo a DECO), subida de tarifas de mais de 50%, despedimentos e dividendos superiores aos lucros. Considera que o serviço postal universal e a coesão territorial estão em risco.",
+ "analysis": "O texto reúne dados concretos sobre qualidade do serviço, reclamações e dividendos, e identifica uma ação clara. Fragilidades: a argumentação é essencialmente de natureza política e não discute os custos da reversão, as indemnizações aos acionistas, a compatibilidade com o direito da União Europeia e dos mercados, nem o impacto do declínio estrutural do correio tradicional. Apresenta a privatização como única causa da degradação, sem considerar outros fatores. Sendo uma recomendação, não obriga o Governo e não define modo nem prazo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reversão implicaria o Estado readquirir a propriedade da empresa, com custo potencialmente elevado, mas o texto não indica montantes nem forma de aquisição."
+ },
+ "affected": [
+  "utentes dos serviços postais",
+  "trabalhadores dos CTT",
+  "acionistas dos CTT",
+  "Estado"
+ ],
+ "categories": [
+  "economia",
+  "comunicacao",
+  "territorio"
+ ],
+ "tags": [
+  "CTT",
+  "privatização",
+  "serviço postal universal",
+  "correios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

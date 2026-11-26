@@ -1,0 +1,39 @@
+{
+ "short_title": "Comparticipação de dispositivos de autodiagnóstico de anticoagulação",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo que avalie, em conjunto com o INFARMED, a possibilidade de comparticipação, no Serviço Nacional de Saúde, de dispositivos para autodiagnóstico de doentes submetidos a terapêutica anticoagulante oral. Estes dispositivos permitem a determinação quantitativa do PT/INR em sangue capilar, para uso profissional ou autodiagnóstico, e, segundo o texto, facilitam a rotina do doente, mas são inacessíveis à maioria pelo custo. A recomendação limita-se a pedir a avaliação da possibilidade de comparticipação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliar, com o INFARMED, a comparticipação no SNS de dispositivos de autodiagnóstico para doentes sob anticoagulantes orais.",
+  "Os dispositivos medem o PT/INR no sangue capilar total.",
+  "O objetivo é reduzir deslocações e absentismo associados à vigilância regular nas unidades de saúde."
+ ],
+ "plain_language": "Quem toma certos anticoagulantes tem de medir regularmente a coagulação do sangue, o que implica idas ao centro de saúde. O PS pede ao Governo que estude se o SNS pode pagar parte dos aparelhos que permitem fazer esta medição em casa.",
+ "context": "O proponente refere que as doenças cardiovasculares são a primeira causa de morte em Portugal e que a maioria dos doentes ainda usa anticoagulantes orais clássicos, que exigem vigilância regular nas USF. Afirma que os dispositivos de autodiagnóstico existem, mas o custo os torna inacessíveis à maioria.",
+ "analysis": "A medida é limitada e prudente: pede apenas uma avaliação, o que evita compromissos orçamentais, e tem um benefício potencial de conveniência para os doentes. Em contrapartida, não apresenta dados sobre o número de doentes abrangidos, o custo dos dispositivos, a eficácia comparada nem a necessidade de formação e acompanhamento clínico para o autodiagnóstico. O texto também não esclarece quais os critérios de elegibilidade e a eventual poupança em consultas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A comparticipação pelo SNS implicaria despesa, parcialmente compensável por menos deslocações a consultas. O texto não apresenta valores."
+ },
+ "affected": [
+  "doentes sob anticoagulantes orais",
+  "Serviço Nacional de Saúde",
+  "INFARMED",
+  "unidades de saúde familiar"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "anticoagulantes",
+  "autodiagnóstico",
+  "inr",
+  "comparticipação",
+  "infarmed"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

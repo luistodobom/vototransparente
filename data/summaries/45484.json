@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibir meios de captura de aves selvagens não cinegéticas",
+ "summary": "Projeto de lei do BE que acrescenta o artigo 13.º-A ao Decreto-Lei n.º 140/99, proibindo a produção, posse, utilização e comercialização de meios e formas utilizados exclusivamente para capturar ou abater aves selvagens de espécies não cinegéticas. Menciona em particular armadilhas de mola, armadilhas para aves de rapina, visgo e redes verticais, e proíbe também a apanha da formiga-de-asa, usada como isco. Mantém exceção para fins científicos autorizados. A violação passa a constituir contraordenação, por alteração ao artigo 22.º, e a lei entra em vigor 30 dias após a publicação. O texto cita estimativas da SPEA de 2014 de cerca de 40 mil aves abatidas e 10 mil capturadas por ano.",
+ "key_points": [
+  "Proíbe produção, posse, utilização e comercialização de meios usados exclusivamente na captura ou abate de aves selvagens não cinegéticas.",
+  "Inclui armadilhas de mola, armadilhas para aves de rapina, visgo e redes verticais.",
+  "Proíbe a apanha da formiga-de-asa usada como isco.",
+  "Exceção para fins científicos autorizados.",
+  "A violação passa a ser contraordenação; entra em vigor 30 dias após publicação."
+ ],
+ "plain_language": "O Bloco de Esquerda quer proibir os objetos usados apenas para apanhar ou matar aves selvagens que não podem ser caçadas, como armadilhas, visgo e redes invisíveis, e a apanha de formigas para isco. Quem os usar ou vender passa a ser punido por contraordenação.",
+ "context": "O proponente cita um estudo da SPEA de 2014 segundo o qual são abatidas cerca de 40 mil aves selvagens e capturadas 10 mil por ano em Portugal, apesar de ser ilegal. Afirma que a fiscalização é difícil e que os meios de captura são hoje legais de fabricar, possuir e vender.",
+ "analysis": "A proibição dos meios específicos ataca a lacuna de fiscalização, facilitando a ação sobre a posse e a venda, e baseia-se em números de uma entidade especializada. Fragilidades: os números são estimativas mínimas de 2014 e a eficácia depende de fiscalização, que o próprio texto reconhece insuficiente. A definição de meios usados exclusivamente para este fim pode ser difícil de provar em tribunal, e o texto não detalha as sanções, remetidas ao artigo 22.º.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos ou receitas; a aplicação de contraordenações poderia gerar receita, mas não é quantificada."
+ },
+ "affected": [
+  "caçadores e apanhadores ilegais de aves",
+  "comerciantes de aves em gaiola",
+  "autoridades de fiscalização",
+  "aves selvagens"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "aves selvagens",
+  "visgo",
+  "armadilhas",
+  "biodiversidade",
+  "contraordenação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Valorização da fileira da lã",
+ "summary": "O Projeto de Resolução do PCP recomenda ao Governo três medidas para a fileira da lã. Uma estratégia nacional de valorização de toda a fileira, da produção à transformação e comercialização. Medidas urgentes, pelo setor empresarial do Estado ou por cooperativas de produção, para manter em funcionamento um lavadouro de lã certificado ambientalmente, com capacidade para lavar a lã crua produzida em Portugal. E um processo ágil e simplificado de certificação da lã produzida e transformada em Portugal. O texto refere que o último lavadouro em território nacional encerrou, deixando os produtores dependentes do estrangeiro. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estratégia nacional de valorização da fileira da lã, da produção à comercialização.",
+  "Medidas urgentes para manter um lavadouro de lã ambientalmente certificado, via setor empresarial do Estado ou cooperativas.",
+  "Capacidade suficiente para lavar a lã crua produzida em Portugal.",
+  "Processo ágil e simplificado de certificação da lã nacional e dos tecidos."
+ ],
+ "plain_language": "O último lugar em Portugal onde se lavava lã fechou, e sem lavagem a lã não pode ser transformada. O PCP pede ao Governo uma estratégia para o setor, um lavadouro novo ou mantido em funcionamento e uma certificação simples da lã portuguesa.",
+ "context": "O proponente afirma que a empresa Têxtil Manuel Rodrigues Tavares encerrou o último lavadouro, o que obriga centenas de produtores a enviar a lã para o estrangeiro. Segundo a OVIBEIRA, citada no texto, o encerramento deveu-se a questões ambientais, nomeadamente à falta de manutenção da estação de tratamento de águas.",
+ "analysis": "A proposta identifica um estrangulamento concreto da cadeia, a lavagem, e propõe resposta imediata e de longo prazo. Fragilidades: indica o setor empresarial do Estado ou cooperativas como solução sem avaliar viabilidade económica, procura, dimensão ou custo, e não esclarece se o problema ambiental da estação de tratamento seria resolvido. A certificação é genérica e não define critérios. A intervenção pública direta numa atividade industrial pode ser discutível face à concorrência. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Manter um lavadouro por via do Estado ou de cooperativas e criar um sistema de certificação implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "produtores de lã",
+  "cooperativas agrícolas",
+  "indústria têxtil e do vestuário",
+  "trabalhadores do setor"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [
+  "lã",
+  "lavadouro",
+  "fileira da lã",
+  "certificação",
+  "produtores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

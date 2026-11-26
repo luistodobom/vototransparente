@@ -1,0 +1,39 @@
+{
+ "short_title": "Requalificação do Pavilhão 5 do Hospital Sousa Martins",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que avance com todos os procedimentos necessários para agilizar e concretizar a requalificação do Pavilhão 5 do Hospital Dr. Sousa Martins, na Guarda, e ali instale o Departamento da Saúde da Criança e da Mulher, reunindo pediatria, obstetrícia, urgências pediátricas e obstétricas, neonatologia e ginecologia. O texto reconstitui o processo: a candidatura de 2016 estimava 2,46 milhões de euros com IVA; o projeto de execução elevou o valor previsto para 6.734.858,65 euros, exigindo nova autorização; a candidatura foi indeferida em 2017; e em fevereiro de 2020 a ULS da Guarda anunciou estar a ultimar o caderno de encargos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avançar com os procedimentos para concretizar a requalificação do Pavilhão 5 do Hospital Sousa Martins, na Guarda.",
+  "Instalar no edifício o Departamento da Saúde da Criança e da Mulher.",
+  "Juntar pediatria, obstetrícia, urgências, neonatologia e ginecologia, eliminando a separação estrutural entre serviços."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que acelere as obras no antigo edifício das urgências do hospital da Guarda, para ali instalar os serviços de mães e crianças. O projeto está parado desde 2016 e o custo previsto subiu de cerca de 2,5 para cerca de 6,7 milhões de euros. É uma recomendação.",
+ "context": "O CDS-PP afirma que o projeto está num impasse desde 2016 e que a obra ficou fora do programa de investimentos em saúde anunciado em 2019. Defende que o atraso prejudica o acesso dos utentes e as condições de trabalho dos profissionais, apesar de os serviços materno-infantis serem de elevada qualidade e acreditados como Hospital Amigo dos Bebés.",
+ "analysis": "A proposta descreve com pormenor o historial e o aumento do custo estimado, e tem um pedido claro e consensual. É, porém, genérica quanto à ação pedida (agilizar os procedimentos), sem prazo, financiamento ou fonte de verbas, e não esclarece como se resolveria o problema de elegibilidade que levou ao indeferimento da candidatura. Parte da fundamentação é crítica da atuação do Governo, o que não é estritamente necessário à recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obra tem custo previsto de 6.734.858,65 euros segundo a resposta do Governo citada no texto; a recomendação implica despesa pública de investimento."
+ },
+ "affected": [
+  "utentes da ULS da Guarda",
+  "mulheres e crianças do distrito da Guarda",
+  "profissionais do Hospital Sousa Martins"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "hospital sousa martins",
+  "guarda",
+  "pavilhão 5",
+  "saúde materno-infantil",
+  "requalificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

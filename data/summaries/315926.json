@@ -1,0 +1,44 @@
+{
+ "short_title": "Criação do Código da Edificação",
+ "summary": "Este projeto de resolução da Iniciativa Liberal recomenda ao Governo que agregue a legislação dispersa sobre construção e gestão urbanística num novo Código da Edificação. Entre os elementos propostos estão a concentração dos requisitos de projeto e de segurança, a eliminação de requisitos locais por motivos estéticos, critérios objetivos para recusa de licenciamentos, prazos claros com compensação ou penalização por incumprimento, pré-licenciamento automático em áreas de elevada procura, o fim das compensações urbanísticas em loteamentos em zonas consolidadas e a digitalização dos processos. Prevê um grupo de trabalho e a revogação da legislação suplantada.",
+ "key_points": [
+  "Agregar a legislação dispersa sobre edificação num único Código da Edificação.",
+  "Eliminar requisitos municipais por motivos estéticos e reduzir licenciamentos e autorizações.",
+  "Definir prazos claros, com regime de compensação ou penalização por incumprimento.",
+  "Criar pré-licenciamento automático em áreas de elevada procura definidas no PDM.",
+  "Eliminar compensações urbanísticas em loteamentos em zonas urbanas consolidadas.",
+  "Constituir um grupo de trabalho e revogar a legislação suplantada ou em conflito."
+ ],
+ "plain_language": "A IL pede ao Governo que junte todas as regras de construção num só código, mais simples e igual em todo o país, com licenças mais rápidas e prazos claros. A recomendação não obriga o Governo.",
+ "context": "A IL aponta a crise de habitação e a queda da construção, de mais de 120 mil casas por ano no início do século para pouco mais de 20 mil. Atribui-a a um quadro legal complexo e fragmentado, incluindo o RJUE e o RGEU, e às regras diferentes entre municípios.",
+ "analysis": "Simplificar e uniformizar regras pode reduzir prazos e incerteza no licenciamento. Contudo, retirar poder regulamentar às câmaras municipais, eliminar compensações urbanísticas e limitar requisitos estéticos pode reduzir a capacidade das autarquias de financiar equipamentos e de proteger o ambiente urbano. O pré-licenciamento automático exige salvaguardas de segurança e qualidade não detalhadas no texto. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A eliminação de compensações urbanísticas reduziria receitas municipais, enquanto a digitalização e a simplificação teriam custos de implementação; o texto não quantifica nenhum dos efeitos."
+ },
+ "affected": [
+  "promotores e construtores",
+  "câmaras municipais",
+  "proprietários e candidatos a compra de habitação",
+  "ordens e associações profissionais do setor"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "licenciamento",
+  "código da edificação",
+  "urbanismo",
+  "RJUE",
+  "simplificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

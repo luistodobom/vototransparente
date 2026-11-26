@@ -1,0 +1,43 @@
+{
+ "short_title": "Progressão remuneratória dos docentes do ensino superior público",
+ "summary": "Projeto de lei do PCP que aprova um regime transitório para os docentes do ensino superior público com direito a alteração obrigatória de posicionamento remuneratório por força do artigo 18.º da Lei n.º 114/2017. Abrange docentes dos estatutos politécnico e universitário e os contratados. Aplica o n.º 7 do artigo 156.º da LTFP quando for mais favorável, determina que os pontos acumulados em excesso na alteração obrigatória relevam para futuras alterações, e obriga o Governo a transferir as verbas necessárias para as instituições. Prevê ainda que o Governo inicie, no prazo de 90 dias, um processo negocial com os sindicatos para eliminar desigualdades entre trabalhadores de diferentes instituições, e dentro da mesma, no regime de avaliação docente.",
+ "key_points": [
+  "Regime transitório para docentes com direito a alteração de posicionamento remuneratório após o descongelamento.",
+  "Aplicação do n.º 7 do artigo 156.º da LTFP quando for mais favorável.",
+  "Os pontos em excesso acumulados contam para futuras alterações de posicionamento.",
+  "Transferência pelo Governo das verbas necessárias para as instituições.",
+  "Processo negocial com os sindicatos em 90 dias sobre o regime de avaliação docente."
+ ],
+ "plain_language": "O PCP propõe que os docentes do ensino superior público que têm direito a subir de escalão após o descongelamento das carreiras vejam todos os pontos que acumularam contar, e que os pontos a mais não se percam. O Governo teria de dar às instituições o dinheiro necessário e de negociar com os sindicatos um regime de avaliação mais igual.",
+ "context": "O PCP afirma ter acompanhado as reivindicações dos professores do ensino superior sobre o artigo 18.º da Lei do Orçamento do Estado para 2018 e aponta tratamentos desiguais flagrantes: dá o exemplo de um professor adjunto com 16 pontos acumulados e mais de 10 pontos exigidos que não viu a progressão aplicada.",
+ "analysis": "A proposta resolve um problema concreto de perda de pontos e garante financiamento às instituições, além de abrir negociação com os sindicatos para uniformizar a avaliação. O ponto frágil é a ausência de estimativa de custos e de definição dos critérios exatos de contagem, e o impacto retroativo pode ser significativo para as instituições. A negociação com sindicatos pode interferir na autonomia das instituições, e o prazo de 90 dias não prevê o que acontece se não houver acordo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As progressões e a contagem de pontos em excesso aumentam a despesa com pessoal, com transferência de verbas do Governo para as instituições. O texto não apresenta valores."
+ },
+ "affected": [
+  "docentes do ensino superior público",
+  "docentes contratados",
+  "instituições de ensino superior",
+  "sindicatos de docentes"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "ensino superior",
+  "docentes",
+  "progressão",
+  "pontos de avaliação",
+  "descongelamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

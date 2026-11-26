@@ -1,0 +1,43 @@
+{
+ "short_title": "Agilizar e apoiar as comunidades de energia renovável",
+ "summary": "O Projeto de Resolução n.º 212/XVII/1.ª, do LIVRE, recomenda ao Governo cinco medidas para facilitar a constituição de Comunidades de Energia Renovável (CER). Pede que identifique edifícios públicos, da administração central e local, que possam receber painéis fotovoltaicos para CER ou autoconsumo do Estado; que assegure recursos para disponibilizar informação a cidadãos, sociedade civil, autarquias, juntas de freguesia e agências de energia; que reforce os grupos de ação local no apoio técnico e administrativo, incluindo famílias vulneráveis; que dote a Direção-Geral de Energia e Geologia de meios para acelerar o licenciamento e melhorar a plataforma online; e que isente as CER sem fins lucrativos das tarifas de acesso às redes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Identificar edifícios públicos, centrais e locais, aptos a instalar painéis fotovoltaicos para CER ou autoconsumo do Estado.",
+  "Garantir recursos para informar cidadãos, autarquias, juntas de freguesia e agências de energia sobre a criação de CER.",
+  "Fortalecer os grupos de ação local no aconselhamento técnico e administrativo, articulando com as freguesias e a ANAFRE e incluindo famílias vulneráveis.",
+  "Dotar a DGEG de meios humanos, financeiros e logísticos para acelerar o licenciamento e melhorar a plataforma online.",
+  "Isentar as CER comprovadamente sem fins lucrativos do pagamento de tarifas de acesso às redes."
+ ],
+ "plain_language": "As comunidades de energia renovável permitem que vizinhos, empresas e autarquias produzam e partilhem eletricidade solar. Este projeto pede ao Governo que torne mais fácil criar essas comunidades: usar telhados de edifícios públicos, dar informação e apoio técnico perto das pessoas, reforçar a entidade que licencia e dispensar de tarifas de rede as comunidades sem fins lucrativos. É uma recomendação ao Governo.",
+ "context": "O LIVRE defende que a emergência climática exige uma transição energética célere, justa e inclusiva e que a descentralização da produção reforça a resiliência da rede, como se viu no apagão de 28 de abril. Considera que os apoios financeiros existentes, geridos pelo Fundo Ambiental, podem ter beneficiado sobretudo empresas privadas e que a exclusão, em 2024, de edifícios da administração local dificultou a participação da sociedade civil.",
+ "analysis": "Pontos fortes: combina medidas de informação, apoio local e reforço administrativo com um foco explícito na inclusão de famílias vulneráveis e na natureza sem fins lucrativos das CER. Fragilidades: a isenção de tarifas de acesso às redes reduz receitas do sistema elétrico e pode implicar que os restantes consumidores suportem esses custos, aspeto não analisado; o texto não quantifica o reforço de meios da DGEG nem dos grupos de ação local; e o risco de os apoios favorecerem empresas é afirmado sem dados concretos. É apenas uma recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios da DGEG, o apoio local e a identificação de edifícios implicam despesa pública, e a isenção de tarifas de acesso às redes reduz receitas do sistema; o texto não quantifica montantes."
+ },
+ "affected": [
+  "cidadãos e famílias interessados em comunidades de energia",
+  "autarquias e juntas de freguesia",
+  "DGEG",
+  "famílias vulneráveis"
+ ],
+ "categories": [
+  "energia",
+  "ambiente",
+  "administracao"
+ ],
+ "tags": [
+  "comunidades de energia renovável",
+  "autoconsumo",
+  "energia solar",
+  "DGEG",
+  "tarifas de rede"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Gestão pública e entrada gratuita na Fundação de Serralves",
+ "summary": "O Projeto de Resolução do PCP recomenda ao Governo três medidas relativas à Fundação de Serralves, no Porto. Primeiro, que assegure a gestão pública da Fundação e a inclua no Programa Acesso 52. Segundo, que alargue a entrada gratuita a todos os fins de semana e feriados, em vez de apenas ao primeiro domingo de cada mês. Terceiro, que garanta a transferência das verbas correspondentes à redução de receita de bilheteira. Defende ainda que o Programa Acesso 52 abranja museus, palácios e monumentos com representantes do Estado na gestão ou financiamento público. Por ser uma resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Assegurar a gestão pública da Fundação de Serralves.",
+  "Incluir Serralves no Programa Acesso 52.",
+  "Entrada gratuita em todos os fins de semana e feriados.",
+  "Transferência das verbas que compensem a perda de receita de bilheteira.",
+  "Alargar o Acesso 52 a museus e monumentos com representantes do Estado na gestão ou financiamento público."
+ ],
+ "plain_language": "O PCP quer que o Estado passe a gerir a Fundação de Serralves, que já financia em grande parte, e que a entrada seja grátis todos os fins de semana e feriados. O Governo compensaria Serralves pelo dinheiro que deixasse de receber nos bilhetes. É um pedido ao Governo, que não o obriga a agir.",
+ "context": "O proponente invoca o direito constitucional à cultura e afirma que, segundo o relatório de contas de 2024, a transferência direta do Estado representava 38% dos rendimentos totais, tendo subido para 6,9 milhões de euros em 2025, e que o Estado financia 64% dos rendimentos não próprios. Considera insuficiente a gratuitidade apenas no primeiro domingo de cada mês.",
+ "analysis": "O argumento de que financiamento público maioritário justifica maior controlo público é coerente, e alargar a gratuitidade melhora o acesso. Mas a proposta não estima o custo da compensação de bilheteira, e converter uma fundação mista em gestão pública exige alterar os estatutos e envolve os fundadores privados e o mecenato, que pode reduzir-se. Não esclarece o que significa maioria da gestão nem como se articula com a autonomia cultural. O alargamento do Acesso 52 a outras entidades fica genérico.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado teria de compensar Serralves pela receita de bilheteira perdida e eventualmente assumir mais encargos de gestão. O texto não apresenta valores."
+ },
+ "affected": [
+  "visitantes de Serralves",
+  "trabalhadores da Fundação de Serralves",
+  "Fundação de Serralves",
+  "mecenas privados"
+ ],
+ "categories": [
+  "cultura",
+  "administracao"
+ ],
+ "tags": [
+  "serralves",
+  "acesso gratuito",
+  "acesso 52",
+  "gestão pública",
+  "museus"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

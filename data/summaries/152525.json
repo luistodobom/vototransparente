@@ -1,0 +1,43 @@
+{
+ "short_title": "Sistema nacional de seguro contra sismos e desastres naturais",
+ "summary": "Projeto de Lei do PAN que institui um sistema nacional de cobertura do risco de fenómenos sísmicos e de desastres naturais e cria o Fundo Sísmico e para Desastres Naturais, património autónomo gerido por uma entidade gestora e supervisionado pela ASF. O sistema integra o Fundo, as seguradoras que adiram voluntariamente e o Estado. A cobertura passa a ser obrigatória nos seguros de «incêndio e elementos da natureza» ou «multirriscos» de imóveis de habitação, e facultativa para quem não tem esses seguros. As seguradoras cedem os riscos ao Fundo mediante prémio, com retrocessão parcial, e há uma garantia do Estado e um fundo de solidariedade. Prevê franquia até 5% do capital, início do sistema em 1 de junho de 2024 (ou com adesão de seguradoras com mais de 50% do mercado) e cobertura obrigatória faseada de 20% a 100% em cinco anos.",
+ "key_points": [
+  "Cria o Fundo Sísmico e para Desastres Naturais e o sistema nacional de cobertura.",
+  "Cobertura obrigatória nos seguros de incêndio e elementos da natureza ou multirriscos de imóveis de habitação, e facultativa nos restantes.",
+  "Seguradoras cedem os riscos ao Fundo, com prémio e retrocessão parcial; franquia até 5% do capital seguro.",
+  "Garantia do Estado e fundo de solidariedade para infraestruturas e bens não abrangidos.",
+  "Aplicação gradual: 20%, 40%, 60%, 80% e 100% do capital seguro ao longo de cinco anos."
+ ],
+ "plain_language": "O projeto cria um sistema nacional de seguro contra sismos e desastres naturais para casas. Os seguros de habitação passariam a incluir esta proteção, os riscos seriam partilhados entre seguradoras, um fundo próprio e o Estado, para que os danos sejam pagos mais facilmente em caso de catástrofe.",
+ "context": "O PAN sublinha a exposição do país a sismos e desastres climáticos, o impacto económico estimado de um sismo como o de 1755 em até 20% do PIB e o facto de só pouco mais de 15% das habitações com crédito terem seguro sísmico. Recorda que um sistema deste tipo é defendido por entidades como o FMI, a Associação Nacional de Seguradoras e a DECO e está previsto na Estratégia Nacional para uma Proteção Civil Preventiva 2030.",
+ "analysis": "Ponto forte: responde a uma lacuna reconhecida, com partilha de riscos e faseamento. Fragilidades: a obrigatoriedade eleva o custo dos seguros de habitação, com impacto nas famílias; o texto depende da adesão voluntária das seguradoras; a garantia do Estado cria passivo contingente não quantificado; o âmbito exclui conteúdos e a habitação sem seguro; a calibragem dos prémios fica a cargo da entidade gestora, e os pormenores de financiamento do Fundo não estão estimados.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O sistema obriga a prémios pagos pelos segurados e prevê receita do Fundo e do Estado pela concessão de garantia, mas cria também uma garantia do Estado e possíveis encargos públicos; o texto analisado não indica montantes totais."
+ },
+ "affected": [
+  "proprietários e arrendatários de habitação",
+  "seguradoras",
+  "Estado",
+  "tomadores de seguros"
+ ],
+ "categories": [
+  "economia",
+  "seguranca",
+  "habitacao"
+ ],
+ "tags": [
+  "sismos",
+  "seguros",
+  "fundo sísmico",
+  "desastres naturais",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

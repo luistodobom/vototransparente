@@ -1,0 +1,40 @@
+{
+ "short_title": "Aplicar o teto das pensões a todas as componentes",
+ "summary": "O Projeto de Resolução n.º 1100/XVII/1.ª, do PAN, recomenda ao Governo que reveja o regime das pensões de velhice para que o limite máximo de 12 vezes o Indexante dos Apoios Sociais, hoje 6 445,56 euros segundo o texto, incida sobre o valor global das novas pensões, abrangendo todas as componentes. Segundo o proponente, o limite previsto no Decreto-Lei n.º 187/2007 aplica-se apenas a parte da pensão, o que permite na prática ultrapassá-lo. Pede ainda que se identifiquem e eliminem as exclusões e diferenciações entre componentes que permitem essa situação e que a revisão respeite os princípios da justiça social, da equidade contributiva, da solidariedade intergeracional e da sustentabilidade financeira. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever o regime de cálculo das pensões de velhice para que o teto de 12 vezes o IAS incida sobre o valor global das novas pensões.",
+  "Abranger todas as componentes que integram o montante da pensão.",
+  "Identificar e eliminar exclusões e diferenciações que permitem ultrapassar o limite atual.",
+  "Respeitar a justiça social, a equidade contributiva, a solidariedade intergeracional e a sustentabilidade financeira."
+ ],
+ "plain_language": "A lei já diz que uma pensão de velhice não pode passar de um certo valor, 12 vezes o indexante de apoios sociais. Mas, segundo o PAN, esse limite só conta para uma parte da pensão, e por isso algumas pensões ultrapassam-no. Este projeto pede ao Governo que o limite passe a contar para o valor total das novas pensões. Não cria um teto novo nem afeta as pensões já atribuídas. É uma recomendação.",
+ "context": "O proponente invoca a pressão do envelhecimento demográfico sobre a sustentabilidade financeira da Segurança Social, citando estimativas da Fundação Francisco Manuel dos Santos e do INE e recomendações do FMI. Defende que o limite já existente deve ser aplicado de forma uniforme, repondo coerência e equidade, e refere jurisprudência segundo a qual limites máximos às pensões não violam o direito à segurança social.",
+ "analysis": "Pontos fortes: não cria um novo teto, apenas pretende uniformizar um já existente, e tem apoio em jurisprudência citada. Fragilidades: o texto não quantifica quantas pensões seriam afetadas nem a poupança esperada, e não esclarece que componentes ficam hoje fora do limite. A aplicação só às novas pensões levanta questões de equidade entre pensionistas e pode suscitar a proteção das expectativas dos contribuintes que descontaram sobre rendimentos mais elevados. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "Limitar o valor global das novas pensões ao teto reduziria a despesa com as pensões mais elevadas, mas o texto não quantifica a poupança."
+ },
+ "affected": [
+  "futuros pensionistas com pensões elevadas",
+  "Segurança Social",
+  "contribuintes"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "teto das pensões",
+  "IAS",
+  "segurança social",
+  "sustentabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

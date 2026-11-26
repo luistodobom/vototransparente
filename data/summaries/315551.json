@@ -1,0 +1,39 @@
+{
+ "short_title": "Dedução em IRC de seguros de saúde para animais de companhia",
+ "summary": "Projeto de Lei do PAN que altera o artigo 43.º do Código do IRC para permitir que as empresas deduzam, como gasto, as despesas com contratos de seguros de saúde em benefício dos animais de companhia dos seus trabalhadores. A medida acrescenta uma alínea c) ao n.º 2 do artigo 43.º, que enumera realizações de utilidade social dedutíveis. Entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Acrescenta os seguros de saúde para animais de companhia dos trabalhadores às despesas dedutíveis em IRC.",
+  "Altera o artigo 43.º do Código do IRC.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O PAN propõe que as empresas que paguem seguros de saúde para os cães e gatos dos seus trabalhadores possam descontar essa despesa no imposto sobre lucros (IRC). O objetivo é incentivar empresas a oferecer este benefício aos trabalhadores.",
+ "context": "O proponente afirma que muitas famílias não conseguem suportar despesas veterinárias, agravadas por um IVA elevado e pela ausência de rede pública, e que algumas empresas já oferecem seguros de saúde para animais, benefício que trabalhadores valorizam em inquéritos.",
+ "analysis": "A medida é simples e dirigida a um benefício que já existe em algumas empresas, e pode facilitar o acesso a cuidados veterinários. Fragilidades: beneficia sobretudo trabalhadores de empresas que oferecem este tipo de benefício, normalmente maiores, e não resolve o acesso das restantes famílias; cria mais um benefício fiscal numa matéria discutível em termos de interesse público; não estima o número de empresas abrangidas nem a perda de receita. O texto não discute limites à dedução.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A dedução em IRC reduz a receita fiscal. O texto não estima valores."
+ },
+ "affected": [
+  "empresas",
+  "trabalhadores com animais de companhia",
+  "seguradoras",
+  "tutores de animais de companhia"
+ ],
+ "categories": [
+  "animais",
+  "fiscalidade"
+ ],
+ "tags": [
+  "animais de companhia",
+  "seguros de saúde",
+  "IRC",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

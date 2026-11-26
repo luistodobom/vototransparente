@@ -1,0 +1,40 @@
+{
+ "short_title": "Resolver os atrasos no pagamento de pensões e prestações sociais",
+ "summary": "O projeto de resolução do CDS-PP recomenda ao Governo que adote todas as medidas e procedimentos necessários para uma célere resolução do problema do atraso no processamento, atribuição e pagamento de diversas prestações sociais, designadamente pensões de velhice e de invalidez, de sobrevivência e de outras prestações por morte. O texto refere denúncias de atrasos superiores a um ano, 920 queixas à Provedoria de Justiça em 2018, quase o triplo de 2017, uma espera média de 9 a 10 meses e ofícios da Provedora de Justiça ao Ministério em junho e dezembro. É uma recomendação genérica, não vinculativa.",
+ "key_points": [
+  "Recomenda a adoção de todas as medidas necessárias para resolver os atrasos no processamento e pagamento de prestações sociais.",
+  "Abrange pensões de velhice, de invalidez, de sobrevivência e outras prestações por morte.",
+  "Apoia a recomendação feita pela Provedora de Justiça ao Governo."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que resolva depressa os atrasos na atribuição e no pagamento de pensões e outras prestações sociais, que deixam muitas pessoas meses sem rendimento. É apenas uma recomendação e não define medidas concretas.",
+ "context": "O proponente afirma que desde 2016 recebeu denúncias de atrasos superiores a um ano, por vezes dois, e que a Provedoria de Justiça recebeu 920 queixas em 2018, quase o triplo de 2017. Refere que a Provedora de Justiça alertou o Ministério do Trabalho, Solidariedade e Segurança Social, sem resposta, e que a espera média é de 9 a 10 meses.",
+ "analysis": "A iniciativa aborda um problema com impacto direto em pessoas sem rendimento e apoia-se em dados da Provedoria de Justiça. É, porém, muito genérica: não indica medidas concretas, prazos, metas, meios para o Centro Nacional de Pensões nem mecanismos de acompanhamento. Os dados citados vêm de notícias de imprensa e não são verificados no texto. Sendo uma recomendação, depende de o Governo a acolher, sem consequências em caso contrário.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não propõe medidas específicas nem montantes; reforçar a capacidade de processamento poderia implicar despesa, não quantificada."
+ },
+ "affected": [
+  "pensionistas e requerentes de pensões",
+  "familiares de falecidos",
+  "Centro Nacional de Pensões",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "pensões",
+  "atrasos",
+  "Segurança Social",
+  "Provedora de Justiça"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

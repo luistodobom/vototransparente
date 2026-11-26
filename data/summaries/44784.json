@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio ao rendimento de microempresários e empresários em nome individual",
+ "summary": "O PCP propõe, em projeto de lei, um regime excecional e temporário de apoio ao rendimento de microempresários e empresários em nome individual em situação de crise empresarial devido à COVID-19. O apoio mensal é proporcional à redução de rendimento face ao ano anterior, apurada a partir das declarações trimestrais da Segurança Social, com um mínimo igual ao Indexante de Apoios Sociais, de 438,81 euros em 2020. É atribuído pelo IAPMEI, mediante requerimento simples, e financiado pelo Orçamento do Estado, por um fundo específico, podendo recorrer a fundos europeus. Pedidos que não se enquadrem seguem para a Segurança Social para apoio social. Produz efeitos a 1 de abril, para perdas a partir de março de 2020.",
+ "key_points": [
+  "Cria um apoio mensal ao rendimento, proporcional à redução de rendimento, para microempresários e empresários em nome individual.",
+  "O valor mínimo é igual ao Indexante de Apoios Sociais, de 438,81 euros em 2020.",
+  "O IAPMEI concede o apoio, mediante requerimento simples.",
+  "Financiado pelo Orçamento do Estado por um fundo específico, com possível recurso a fundos europeus.",
+  "Produz efeitos a 1 de abril, abrangendo perdas desde março de 2020."
+ ],
+ "plain_language": "O PCP quer dar um apoio mensal a pequenos empresários e trabalhadores por conta própria que perderam rendimentos com a pandemia e não tiveram acesso a outros apoios. O valor dependeria da perda sofrida e nunca seria menos de 438,81 euros por mês. O pedido seria feito ao IAPMEI, de forma simples.",
+ "context": "O proponente alega que as medidas do Governo, como linhas de crédito, diferimento de obrigações fiscais e lay-off, beneficiam sobretudo grandes e médias empresas e excluem microempresários e empresários em nome individual, que ficaram sem rendimento ou sem acesso a subsídio de desemprego.",
+ "analysis": "A proposta dirige-se a um grupo identificado como pouco coberto pelos apoios existentes e define um piso, mecanismo de pedido e entidade responsável. Fragilidades: o montante total depende do número de beneficiários, que não é estimado, e a medição da perda de rendimento a partir das declarações trimestrais pode excluir pessoas com situações informais, que o texto menciona. A definição de crise empresarial remete para outros diplomas, e a capacidade do IAPMEI para gerir muitos pedidos não é avaliada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio mensal seria financiado pelo Orçamento do Estado e por fundos europeus, com custo total não estimado no texto."
+ },
+ "affected": [
+  "microempresários",
+  "empresários em nome individual",
+  "trabalhadores por conta própria",
+  "IAPMEI"
+ ],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "microempresas",
+  "empresários em nome individual",
+  "apoio ao rendimento",
+  "covid-19",
+  "IAPMEI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

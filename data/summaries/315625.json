@@ -1,0 +1,44 @@
+{
+ "short_title": "Resiliência digital do setor financeiro (DORA)",
+ "summary": "Proposta de lei do Governo que executa na ordem jurídica interna o Regulamento (UE) 2022/2554 (DORA), sobre resiliência operacional digital do setor financeiro, e transpõe a Diretiva (UE) 2022/2556. Designa o Banco de Portugal, a ASF e a CMVM como autoridades competentes, define a sua cooperação (partilha de notificações de incidentes e articulação com o Centro Nacional de Cibersegurança) e a notificação voluntária de ciberameaças. Aplica o regime a seguradoras, resseguradoras e gestoras de fundos de pensões e exclui as Caixas Económicas de 1986 que não sejam sociedades anónimas. Cria contraordenações, com coimas de 10.000 a 5.000.000 euros para pessoas coletivas em instituições de crédito e outras entidades principais, limite elevável ao triplo do benefício económico ou a 10% do volume de negócios, e publicação das condenações durante cinco anos. Altera oito regimes setoriais (banca, valores mobiliários, seguros, pagamentos, fundos de pensões, empresas de investimento e gestão de ativos).",
+ "key_points": [
+  "Designa o Banco de Portugal, a ASF e a CMVM como autoridades competentes, com o Banco de Portugal como ponto único para incidentes severos em certos casos, e impõe cooperação e partilha de informação entre elas e com o Centro Nacional de Cibersegurança.",
+  "Aplica o regime a seguradoras, resseguradoras e gestoras de fundos de pensões e exclui as Caixas Económicas de 1986, exceto as que sejam sociedades anónimas (como o Montepio).",
+  "Coimas de 10.000 a 5.000.000 euros (pessoas coletivas) e de 5.000 a 2.500.000 euros (pessoas singulares) para as entidades principais, com escalões inferiores para mediadores de seguros e financiamento colaborativo.",
+  "O limite máximo da coima pode subir para o triplo do benefício económico obtido ou, para pessoas coletivas, 10% do volume de negócios; negligência reduz o máximo a metade.",
+  "As condenações por infrações graves ou muito graves são divulgadas no sítio da autoridade durante cinco anos, sem indexação em motores de pesquisa.",
+  "Altera oito diplomas setoriais (RGICSF, Código dos Valores Mobiliários, regime dos seguros, pagamentos, fundos de pensões, empresas de investimento e gestão de ativos) e revoga normas do DL 357-C/2007."
+ ],
+ "plain_language": "A UE exige que bancos, seguradoras e outras entidades financeiras estejam preparados para ciberataques e falhas informáticas. Esta proposta diz quais as entidades portuguesas que vão fiscalizar o cumprimento, a quem se aplicam as regras e que multas existem para quem as violar.",
+ "context": "O Governo explica que o Regulamento DORA harmoniza as regras sobre riscos das tecnologias de informação e comunicação no setor financeiro, dada a natureza transfronteiriça das ciberameaças, e que a lei nacional é necessária para designar autoridades, definir sanções e transpor a diretiva que o acompanha. Foi ouvido o Centro Nacional de Cibersegurança.",
+ "analysis": "A proposta dá segurança jurídica, evita lacunas de supervisão ao designar autoridades e deveres de cooperação, alinha seguradoras e fundos de pensões com o setor bancário e prevê sanções proporcionadas à dimensão das entidades, com transparência das condenações. Pontos de atenção: a exclusão das Caixas Económicas antigas retira-as do regime; coimas de nível elevado podem ser sentidas por entidades pequenas; a repartição de competências por três autoridades, com regras para entidades supervisionadas por mais de uma, pode gerar sobreposições; e o texto não avalia os custos de conformidade nem dá estimativa orçamental. A extensa alteração de oito diplomas dificulta o escrutínio.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa orçamental. As coimas são receita das autoridades e do Estado segundo os regimes subsidiários aplicáveis, e há custos de supervisão e de conformidade para as entidades, sem montantes indicados."
+ },
+ "affected": [
+  "bancos e instituições financeiras",
+  "seguradoras e fundos de pensões",
+  "autoridades de supervisão financeira",
+  "Caixas Económicas"
+ ],
+ "categories": [
+  "economia",
+  "ciencia",
+  "internacional"
+ ],
+ "tags": [
+  "dora",
+  "ciberresiliência",
+  "setor financeiro",
+  "supervisão",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

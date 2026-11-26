@@ -1,0 +1,43 @@
+{
+ "short_title": "Educação inclusiva na escola pública",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo 14 medidas para a educação inclusiva: contratar o número adequado de docentes de educação especial, assistentes operacionais e técnicos especializados; criar o grupo de recrutamento de Intervenção Precoce; garantir formação específica a todos os trabalhadores e formação pedagógica a professores; aumentar as horas de apoios diretos e de intervenção terapêutica; rever os rácios de alunos por turma (máximo de dois alunos com necessidades educativas específicas) e de assistentes operacionais por escola; adquirir e produzir materiais pedagógicos adaptados; facilitar a transição para o ensino superior e aprovar um regime jurídico de educação inclusiva para o ensino superior; garantir acessibilidade comunicacional; e assegurar a dotação orçamental adequada, incluindo a eliminação de barreiras arquitetónicas. Não é vinculativo.",
+ "key_points": [
+  "Contratar docentes de educação especial, assistentes operacionais e técnicos especializados em número adequado.",
+  "Criar o grupo de recrutamento de Intervenção Precoce.",
+  "Rever os rácios de alunos por turma (máximo de dois alunos com NEE) e de assistentes operacionais por escola.",
+  "Garantir formação específica a trabalhadores e professores e mais horas de apoios diretos.",
+  "Aprovar um regime de educação inclusiva para o ensino superior e garantir dotação orçamental, incluindo eliminação de barreiras arquitetónicas."
+ ],
+ "plain_language": "O PCP pede ao Governo que dê às escolas públicas mais profissionais, formação, materiais e verbas para apoiar alunos com necessidades educativas específicas ou deficiência. Pede turmas mais pequenas, mais auxiliares, uma carreira de professores de intervenção precoce e regras de inclusão também no ensino superior. É uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O PCP invoca o direito constitucional à educação e instrumentos internacionais, como a Declaração de Salamanca e a Convenção sobre os Direitos das Pessoas com Deficiência. Cita um levantamento da FENPROF de janeiro de 2025: 80% dos agrupamentos sem recursos, 64% com docentes de educação especial insuficientes, 73% com assistentes operacionais insuficientes, 77% com técnicos insuficientes e 23% das turmas fora das normas. Atribui o problema ao desinvestimento na escola pública.",
+ "analysis": "Propõe um conjunto vasto e concreto de medidas assentes em dados de levantamento sindical e em recomendações do Conselho Nacional de Educação. Fragilidades: não quantifica o número de profissionais a contratar, os custos nem o calendário, e a oferta de docentes e técnicos pode ser limitada; a atribuição do problema ao desinvestimento passado é apresentada sem dados orçamentais. Sendo resolução, o seu efeito depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de profissionais, o reforço de horas de apoio, a eliminação de barreiras arquitetónicas e a aquisição de materiais implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com necessidades educativas específicas e deficiência",
+  "docentes de educação especial",
+  "assistentes operacionais e técnicos especializados",
+  "estudantes do ensino superior com deficiência",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "intervenção precoce",
+  "assistentes operacionais",
+  "rácios de turma",
+  "ensino superior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

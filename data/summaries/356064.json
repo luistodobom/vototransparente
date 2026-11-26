@@ -1,0 +1,39 @@
+{
+ "short_title": "Reforço da rede de cuidados paliativos pediátricos",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo o reforço efetivo da rede de cuidados paliativos pediátricos. A medida concreta proposta é aumentar o número de camas disponíveis e reforçar as equipas especializadas, através do Serviço Nacional de Saúde e de acordos com os setores privado e social. Por ser um projeto de resolução, trata-se de uma recomendação ao Governo, sem força vinculativa. O texto apresenta como justificação dados da Associação Portuguesa de Cuidados Paliativos e da Entidade Reguladora da Saúde sobre a insuficiência da resposta, em especial para crianças.",
+ "key_points": [
+  "Recomenda o aumento do número de camas em cuidados paliativos pediátricos.",
+  "Recomenda o reforço das equipas especializadas.",
+  "Prevê o recurso ao SNS e a acordos com os setores privado e social.",
+  "É uma recomendação não vinculativa dirigida ao Governo."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que crie mais camas e mais profissionais para cuidar de crianças gravemente doentes em fim de vida. Não obriga o Governo a fazê-lo, é apenas uma recomendação da Assembleia da República.",
+ "context": "O proponente refere que apenas 30% dos cerca de 100 mil doentes referenciados por ano recebem apoio especializado e que cerca de 8 mil menores necessitam de cuidados paliativos por ano, sendo que 90% morrem sem os receber. Cita ainda o programa do Governo, que prevê fortalecer a rede pediátrica e de adultos.",
+ "analysis": "A iniciativa aborda uma carência amplamente reconhecida e prevê o recurso a vários setores, o que pode ampliar a capacidade. Fragilidades: é genérica, sem metas, prazos, número de camas nem financiamento, e não é vinculativa, pelo que o efeito depende da vontade do Governo. Os números apresentados são citados de entidades externas e não são verificados no texto. Não se distingue o papel de cada setor na gestão da rede.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de camas e de equipas implicaria despesa pública adicional, mas o texto não indica montantes."
+ },
+ "affected": [
+  "crianças com doenças graves e as suas famílias",
+  "profissionais de saúde",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "pediatria",
+  "rede nacional",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

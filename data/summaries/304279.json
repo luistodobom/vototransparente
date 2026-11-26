@@ -1,0 +1,44 @@
+{
+ "short_title": "Regulação, certificação e fiscalização dos motoristas TVDE",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo oito medidas para o setor TVDE: implementar rapidamente a plataforma de partilha de dados anunciada pelo IMT com a Uber e a Bolt, para verificar cartas de condução, certificados, licenças e veículos; obrigar outros operadores a adotar o mesmo sistema; fazer os exames de certificação obrigatoriamente no IMT; dispensar o curso de renovação TVDE para quem tenha o de táxi; tornar obrigatória a identificação dos veículos de formação; reduzir as turmas de 30 para 20 formandos; permitir aos utilizadores filtrar motoristas pela língua falada, incluindo sempre o português; e instar os operadores a promover qualidade e segurança. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Implementar a plataforma de partilha de dados do IMT com as plataformas para verificar motoristas e veículos em tempo real.",
+  "Exames de certificação obrigatoriamente realizados no IMT.",
+  "Turmas de formação reduzidas de 30 para 20 formandos e veículos de formação identificados.",
+  "Dispensa do curso de renovação TVDE para detentores de renovação de táxi.",
+  "Filtro por língua falada pelo motorista nas plataformas, incluindo sempre o português."
+ ],
+ "plain_language": "O PSD pede ao Governo que reforce o controlo dos motoristas de TVDE (como Uber e Bolt): ligar as bases de dados para detetar documentos falsos, exigir que os exames sejam feitos no IMT, melhorar a formação e permitir que os passageiros escolham motoristas pela língua. É um pedido ao Governo, sem força de lei.",
+ "context": "O PSD refere que, seis anos depois da Lei n.º 45/2018 e da Portaria n.º 293/2018, existe desfasamento entre a regulação e a realidade, com motoristas ilegais, fraudes, perda de qualidade e dificuldades de fiscalização. Pretende maior rigor, sem excluir trabalhadores legítimos nem imigrantes em integração.",
+ "analysis": "A proposta combina medidas de controlo com cuidado em não barrar o acesso à atividade. Em contrapartida, centrar os exames no IMT pode criar estrangulamentos se o instituto não tiver capacidade, e o filtro por língua pode ser visto como discriminatório ou difícil de aplicar. O texto não estima custos nem prazos e algumas medidas dependem da cooperação das plataformas. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a plataforma de dados e os exames no IMT implicariam encargos para o Estado, não estimados."
+ },
+ "affected": [
+  "motoristas TVDE",
+  "passageiros",
+  "plataformas como Uber e Bolt",
+  "IMT",
+  "centros de formação"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "trabalho"
+ ],
+ "tags": [
+  "tvde",
+  "imt",
+  "certificação",
+  "fiscalização",
+  "formação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

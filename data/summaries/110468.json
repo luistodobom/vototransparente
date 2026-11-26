@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoios ao setor do vinho nacional",
+ "summary": "O PSD apresenta um projeto de resolução que recomenda ao Governo três medidas de apoio ao setor do vinho, afetado pela pandemia de COVID-19 e pelo encerramento do canal Horeca. Recomenda o ajustamento do mecanismo de lay-off para pequenas e médias empresas agrícolas de atividade diversificada ao longo do ano, a revisão para 2021 dos apoios ao armazenamento de vinho, alargando-os ao vinho engarrafado sem escoamento no mercado, e a criação de uma linha de crédito bonificado para empresas agroalimentares, como adegas cooperativas e seus fornecedores. Por ser projeto de resolução, é uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda ajustamentos ao lay-off para PME agrícolas com atividade diversificada.",
+  "Pede a revisão em 2021 dos apoios ao armazenamento de vinho, alargados ao vinho engarrafado sem escoamento.",
+  "Propõe uma linha de crédito bonificado para adegas cooperativas e empresas agroalimentares.",
+  "Enquadra as medidas na quebra de vendas causada pela pandemia."
+ ],
+ "plain_language": "Com os restaurantes e hotéis fechados por causa da pandemia, muitos produtores de vinho não conseguiram vender. O PSD pede ao Governo que adapte o lay-off a estas empresas, apoie o armazenamento de vinho que não se consegue vender e crie crédito com juros mais baixos para aliviar a tesouraria. É uma recomendação, não uma obrigação.",
+ "context": "O proponente indica que, segundo dados recolhidos, mais de metade das empresas registou em 2020 quebras significativas nas vendas, das quais 20 por cento acima de 50 por cento. As empresas mais pequenas, sem grande distribuição nem exportação, foram as mais afetadas, e o novo confinamento de 2021 voltou a fechar o canal Horeca.",
+ "analysis": "As medidas respondem a problemas concretos e identificados: acesso limitado ao lay-off, apoio ao armazenamento restrito e atrasos de pagamentos na fileira. Fragilidades: a recomendação não indica montantes, critérios de elegibilidade nem a fonte de financiamento, e o alargamento do apoio ao armazenamento de vinho engarrafado exigiria rever regras que dependem, em parte, de enquadramento europeu. Sendo resolução, não obriga o Governo. O diagnóstico baseia-se em dados genéricos sem fontes citadas no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A revisão de apoios e a linha de crédito bonificado implicariam despesa pública, mas o texto não indica montantes."
+ },
+ "affected": [
+  "produtores de vinho",
+  "adegas cooperativas",
+  "empresas agroalimentares",
+  "viticultores"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "vinho",
+  "covid-19",
+  "lay-off",
+  "armazenamento",
+  "crédito bonificado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

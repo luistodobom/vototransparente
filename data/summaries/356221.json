@@ -1,0 +1,44 @@
+{
+ "short_title": "Apoio à habitação em todos os territórios afetados",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo que garanta o direito à habitação dos agregados desalojados ou vulneráveis por causa do comboio de tempestades, estejam ou não em concelhos sob calamidade, com realojamento temporário e reconstrução ou reabilitação da habitação permanente. Propõe um Programa de Reconstrução de Habitação, com apoio para obras entre 10.000 e 50.000 euros e até 200.000 euros por fogo em perda total, depois de deduzidos seguros e outros apoios e tendo em conta o rendimento do agregado. Propõe ainda apoio à reconstrução de equipamentos sociais e de saúde de IPSS e autarquias, benefícios fiscais temporários em 2026 e 2027 para empresas de construção, formação de mão de obra, centros logísticos, acompanhamento social dos desalojados e reforço do ISS e das CCDR. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir realojamento temporário e reabilitação da habitação permanente, mesmo fora dos concelhos em calamidade.",
+  "Programa de Reconstrução de Habitação com apoio entre 10.000 e 50.000 euros, e até 200.000 euros por fogo em perda total.",
+  "Programa de apoio à reconstrução de equipamentos sociais e de saúde de IPSS e autarquias.",
+  "Benefícios fiscais temporários em 2026 e 2027 para construtoras com pelo menos 50% da faturação em obras nas zonas afetadas.",
+  "Reforço do acompanhamento social, formação de mão de obra e meios do ISS e das CCDR."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que ajude todas as famílias que perderam ou viram danificadas as suas casas nas tempestades, mesmo as que vivem fora dos concelhos oficialmente em calamidade, e que apoie também lares e centros de saúde destruídos.",
+ "context": "O proponente descreve as tempestades Kristin, Leonardo e Marta como um dos eventos mais longos e destrutivos em Portugal, com 18 vítimas mortais e mais de 11 mil ocorrências. Cita 12 625 candidaturas a apoios para habitação, no valor de 75 milhões de euros, e 30 529 pré-inscrições, e defende que o apoio não deve depender da delimitação administrativa.",
+ "analysis": "A proposta é abrangente e com parâmetros concretos, e tem o mérito de incluir territórios fora da declaração de calamidade e de ligar a reconstrução à resiliência climática. Em contrapartida, não estima o custo total, os benefícios fiscais para construtoras podem ser difíceis de delimitar, e o limite de 200.000 euros por fogo exige comprovativo de licença de utilização, o que pode excluir casas com situação urbanística irregular, embora se preveja acompanhamento técnico. Trata-se de uma recomendação.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Os programas de reconstrução aumentam a despesa pública, enquanto os benefícios fiscais para construtoras em 2026 e 2027 reduzem receita de IRC. O texto não indica montantes globais."
+ },
+ "affected": [
+  "agregados familiares desalojados",
+  "arrendatários e proprietários com casa danificada",
+  "IPSS e autarquias",
+  "empresas de construção civil",
+  "serviços do ISS e das CCDR"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "familia"
+ ],
+ "tags": [
+  "tempestades",
+  "reconstrução de habitação",
+  "calamidade",
+  "IPSS",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

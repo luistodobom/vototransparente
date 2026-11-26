@@ -1,0 +1,40 @@
+{
+ "short_title": "Promover a dádiva de sangue e reforçar o IPST",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo cinco medidas: desenvolver uma campanha nacional regular de sensibilização para a dádiva de sangue; definir metas para o aumento de dadores regulares, com foco nos jovens; promover a fidelização de dadores, modernizando os canais de comunicação e disponibilizando informação em línguas estrangeiras de maior expressão em Portugal; melhorar a acessibilidade, identificando zonas de menor taxa de dádiva e promovendo horários pós-laborais, ao fim de semana e em locais de trabalho, ensino e serviços públicos; e reforçar os recursos humanos e financeiros do Instituto Português do Sangue e da Transplantação.",
+ "key_points": [
+  "Lançar uma campanha nacional regular de sensibilização sobre a dádiva de sangue.",
+  "Definir metas para aumentar os dadores regulares, sobretudo jovens.",
+  "Modernizar a comunicação e fidelização de dadores, incluindo informação em várias línguas.",
+  "Melhorar a acessibilidade com horários alargados e colheitas em locais de trabalho, ensino e serviços públicos.",
+  "Reforçar recursos humanos e financeiros do IPST."
+ ],
+ "plain_language": "Há cada vez menos pessoas a dar sangue em Portugal. O LIVRE pede ao Governo campanhas de informação, mais facilidade para doar, por exemplo ao fim de semana e nos locais de trabalho, e mais meios para o instituto que gere o sangue. É uma recomendação.",
+ "context": "O LIVRE cita o relatório de 2024 do IPST: 200 965 dadores em 2024, menos 4 390 do que em 2023 e menos 9 939 do que em 2017, e 299 914 dádivas contra 306 033 em 2023. Refere o envelhecimento dos dadores e o alerta da Fepodabes sobre a necessidade de 1000 a 1100 unidades diárias.",
+ "analysis": "Parte de dados oficiais e propõe medidas práticas e de baixo custo, como horários alargados e comunicação multilingue. Fragilidades: a meta de aumento não é quantificada, o reforço do IPST não tem montante, e não é analisado se a quebra se deve a falta de adesão, limites de elegibilidade ou capacidade de colheita. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas, mais horários de colheita e reforço de pessoal e verbas do IPST implicam mais despesa, não quantificada no texto."
+ },
+ "affected": [
+  "dadores de sangue",
+  "doentes que necessitam de transfusões",
+  "Instituto Português do Sangue e da Transplantação",
+  "trabalhadores e estudantes"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "IPST",
+  "dadores",
+  "sensibilização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

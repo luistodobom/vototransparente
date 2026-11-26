@@ -1,0 +1,40 @@
+{
+ "short_title": "Valorização dos agentes únicos de transportes coletivos (recomendação)",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que inicie um processo de negociação com os sindicatos e com as entidades representativas das autarquias e dos transportes municipais e intermunicipais, para valorizar os agentes únicos de transportes coletivos e repor condições equiparáveis às da extinta carreira. Recomenda que considere um suplemento remuneratório específico dependente do exercício efetivo da função, que os custos da formação obrigatória e da renovação das certificações não recaiam sobre os trabalhadores, e que o processo negocial termine até ao final de 2026. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Iniciar negociação com sindicatos, autarquias e entidades de transportes municipais e intermunicipais.",
+  "Repor condições laborais e salariais equiparáveis às da extinta carreira de Agente Único de Transportes Coletivos.",
+  "Considerar um suplemento remuneratório específico, dependente do exercício efetivo da função.",
+  "Garantir que os custos de formação e certificações não recaem sobre os trabalhadores.",
+  "Concluir o processo negocial até ao final de 2026."
+ ],
+ "plain_language": "Os agentes únicos conduzem e tratam também de bilhetes e passageiros, mas ganham como assistentes operacionais, perto do salário mínimo. O LIVRE pede ao Governo que negoceie com sindicatos e autarquias melhores condições, estude um suplemento e passe para as entidades empregadoras o custo da formação obrigatória. É apenas uma recomendação.",
+ "context": "O LIVRE recorda que a Lei n.º 12-A/2008 extinguiu carreiras especiais, incluindo a de Agente Único de Transportes Coletivos, integrando os trabalhadores na carreira geral de assistente operacional. Estima cerca de 400 trabalhadores na administração local com remunerações próximas do salário mínimo, e aponta desmotivação e dificuldades de recrutamento.",
+ "analysis": "A proposta é flexível, porque passa pela negociação e não fixa valores, o que respeita a autonomia das partes mas deixa em aberto o custo e o resultado. Não define o montante do suplemento nem como se repartiria o encargo entre Estado e autarquias, o que pode gerar tensões de financiamento local. A estimativa de 400 trabalhadores refere apenas a administração local e provém de fonte não especificada no texto. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um eventual suplemento e a assunção dos custos de formação pelas entidades empregadoras aumentariam a despesa, sobretudo local; o texto não apresenta valores."
+ },
+ "affected": [
+  "Agentes únicos de transportes coletivos",
+  "Autarquias e empresas de transporte municipais",
+  "Sindicatos"
+ ],
+ "categories": [
+  "trabalho",
+  "transportes"
+ ],
+ "tags": [
+  "agente único",
+  "transportes coletivos",
+  "carreira",
+  "suplemento remuneratório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

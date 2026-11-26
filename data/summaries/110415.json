@@ -1,0 +1,40 @@
+{
+ "short_title": "Rede de apoio a microempresários para aceder às medidas COVID-19",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo a criação de uma rede de contacto e apoio a microempresários e empresários em nome individual em situação de crise, para facilitar o acesso às medidas de resposta à pandemia. A coordenação e o suporte técnico, administrativo e financeiro caberiam ao IAPMEI, que constituiria um grupo de trabalho dedicado. A rede teria linha de atendimento telefónico e sítio na Internet que sistematizem, divulguem e apoiem o acesso aos apoios existentes, e protocolos de cooperação com organizações locais e regionais representativas de micro, pequenas e médias empresas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar uma rede de contacto e apoio a microempresários e empresários em nome individual.",
+  "Atribuir ao IAPMEI a coordenação e o suporte, com um grupo de trabalho exclusivamente dedicado.",
+  "Disponibilizar linha telefónica e sítio na Internet que sistematizem e divulguem os apoios.",
+  "Celebrar protocolos com organizações locais e regionais representativas das micro, pequenas e médias empresas."
+ ],
+ "plain_language": "Muitos pequenos empresários não conseguem perceber ou aceder aos apoios criados na pandemia. O PCP pede ao Governo que crie uma rede com telefone e site, coordenada pelo IAPMEI, para os informar e orientar, em colaboração com associações locais de empresas. É um pedido ao Governo.",
+ "context": "O proponente refere que as micro, pequenas e médias empresas são mais de 99% do tecido económico, que enfrentam dificuldades de acesso às medidas por critérios restritivos, decisões da banca, falta de informação e pela incapacidade do IAPMEI em responder prontamente às solicitações.",
+ "analysis": "Responde a um problema real de informação e acompanhamento, com um instrumento de custo moderado. Fragilidades: a própria exposição de motivos reconhece a dificuldade atual do IAPMEI em responder, e o texto não prevê reforço específico de pessoal nem orçamento; a rede não resolve critérios de elegibilidade restritivos; faltam prazos e indicadores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do grupo de trabalho, da linha de atendimento e do sítio na Internet implica despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "microempresários",
+  "empresários em nome individual",
+  "IAPMEI",
+  "associações empresariais locais"
+ ],
+ "categories": [
+  "economia"
+ ],
+ "tags": [
+  "microempresas",
+  "IAPMEI",
+  "COVID-19",
+  "apoio às empresas",
+  "atendimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

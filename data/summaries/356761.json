@@ -1,0 +1,42 @@
+{
+ "short_title": "Acessibilidade de provas e exames para alunos com daltonismo",
+ "summary": "O Projeto de Resolução da Iniciativa Liberal recomenda ao Governo, com carácter de urgência, quatro medidas para garantir a acessibilidade das provas e exames nacionais a alunos com daltonismo. Rever o Guia de Adaptação das Provas e as normas do Júri Nacional de Exames, assegurando a aplicação completa do sistema ColorADD em todos os elementos da prova, eliminando ambiguidades e incluindo padrões, texturas, símbolos ou legendas descritivas. Criar um mecanismo célere para o aluno sinalizar dificuldades durante o exame e ativar adaptações como leitura de prova ou apoio técnico. Clarificar as responsabilidades do IAVE e do JNE, com peritos e testes com vários tipos de daltonismo. E formar docentes, vigilantes e diretores de turma. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever o Guia de Adaptação e as normas do JNE para aplicar o ColorADD em todos os elementos da prova e eliminar ambiguidades.",
+  "Incluir sistematicamente padrões, texturas, símbolos, formas ou legendas descritivas, sem depender só da cor.",
+  "Mecanismo célere em contexto de exame para sinalizar dificuldades e ativar adaptações, como leitura de prova ou apoio técnico.",
+  "Clarificar as responsabilidades do IAVE e do JNE, com peritos em daltonismo e testes com vários tipos da condição.",
+  "Formação específica para docentes, vigilantes e diretores de turma."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que os exames nacionais passem a ser mesmo acessíveis a alunos daltónicos: com símbolos de cor bem aplicados em toda a prova, formas alternativas de distinguir informação, uma forma de pedir ajuda durante o exame e formação para quem acompanha os alunos.",
+ "context": "O proponente parte da Petição n.º 101/XVII/1.ª, de um aluno que, no exame nacional de Geografia de 2025, não conseguiu responder a várias questões porque o ColorADD só foi aplicado às legendas. Cita a Sociedade Portuguesa de Oftalmologia, que estima 450 mil cidadãos com daltonismo, e aponta falhas de procedimentos e de coordenação entre entidades.",
+ "analysis": "A proposta é específica e identifica falhas concretas: aplicação parcial do ColorADD, validação limitada a um tipo de daltonismo e falta de mecanismo de resposta durante a prova. Combinar soluções, em vez de depender de uma única ferramenta, é um ponto forte. Fragilidades: o mecanismo em exame pode comprometer a igualdade de condições entre candidatos e a leitura de prova levanta questões de logística. Não define prazos nem custos, e assenta num caso descrito na petição.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Revisão de materiais, testes com peritos e ações de formação implicam alguma despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com daltonismo",
+  "docentes e vigilantes de exames",
+  "IAVE e Júri Nacional de Exames",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "daltonismo",
+  "exames nacionais",
+  "colorADD",
+  "educação inclusiva",
+  "acessibilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

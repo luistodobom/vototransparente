@@ -1,0 +1,41 @@
+{
+ "short_title": "Centro de Saúde do Feijó e reforço de profissionais",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo cinco medidas: avançar com a construção do Centro de Saúde no Feijó, concelho de Almada; atribuir médico e enfermeiro de família a todos os utentes do Laranjeiro e do Feijó; contratar médicos, enfermeiros, assistentes técnicos e operacionais para a UCSP de Santo António do Laranjeiro e para a USF do Feijó; alargar o horário das unidades ao período noturno e ao fim de semana; e reforçar as valências dos cuidados primários com equipamentos para meios complementares de diagnóstico e terapêutica. Cita 31.164 inscritos na UCSP, dos quais 20.630 sem médico de família, e 15.632 na USF. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avançar com a construção do Centro de Saúde no Feijó.",
+  "Atribuir médico e enfermeiro de família a todos os utentes do Laranjeiro e Feijó.",
+  "Contratar médicos, enfermeiros, assistentes técnicos e operacionais para as duas unidades.",
+  "Alargar o horário ao período noturno e fim de semana.",
+  "Dotar as unidades de equipamentos de diagnóstico e terapêutica."
+ ],
+ "plain_language": "O PCP pede ao Governo que construa o centro de saúde do Feijó (Almada), contrate profissionais para as unidades da zona, dê médico e enfermeiro de família a todos, alargue horários e melhore os equipamentos. Cerca de metade dos utentes de uma das unidades não tem médico de família. É uma recomendação.",
+ "context": "O PCP atribui as dificuldades ao desinvestimento no SNS. Refere que o centro de saúde de Santo António serve mais de 47 mil utentes em instalações insuficientes, com sobrelotação, longos tempos de espera e difícil contacto telefónico, e que a população do Feijó é envelhecida e mal servida de transportes. Aponta um terreno cedido pela câmara há cerca de uma década e uma petição com 4278 assinaturas.",
+ "analysis": "É a proposta mais abrangente das apresentadas sobre este centro de saúde, com dados de utentes por unidade e medidas além do edifício, como horários alargados e contratação. Fragilidades: não define prazos, custos nem como atrair profissionais para o SNS, e o alargamento a noites e fins de semana exigiria mais recursos humanos que o texto não quantifica. Sendo recomendação, depende do Governo. A data final do documento (2019) parece um lapso face a 2020.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Construção, contratações, alargamento de horários e equipamentos implicam mais despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utentes do Laranjeiro e Feijó (Almada)",
+  "profissionais dos cuidados de saúde primários",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "centro de saúde",
+  "feijó",
+  "médico de família",
+  "almada",
+  "cuidados primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

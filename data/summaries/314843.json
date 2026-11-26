@@ -1,0 +1,40 @@
+{
+ "short_title": "Estudo sobre a resistência do sistema jurídico a desvios autoritários",
+ "summary": "Projeto de resolução do LIVRE que recomenda ao Governo a realização de um estudo sobre a resistência do sistema jurídico português a um choque autoritário e à subversão democrática. O estudo deverá analisar os mecanismos, procedimentos e instituições nucleares do Estado de Direito democrático e identificar lacunas estruturais que permitam a atores autoritários, internos ou externos, controlar instituições essenciais. Deve ter em conta o enquadramento nacional, os padrões internacionais e europeus, a investigação de outras entidades e as práticas mais usadas para fragilizar democracias. O Governo deverá publicar o estudo e as recomendações para reforçar o enquadramento normativo e institucional. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que promova um estudo sobre a resistência do sistema jurídico a desvios autoritários.",
+  "O estudo deve identificar lacunas estruturais nas instituições e procedimentos do Estado de Direito.",
+  "Deve considerar padrões europeus e internacionais e o relatório da União Europeia sobre o Estado de Direito.",
+  "O estudo e as recomendações devem ser publicados."
+ ],
+ "plain_language": "O partido propõe que o Governo mande fazer um estudo para saber se as leis e instituições portuguesas aguentariam uma tentativa de alguém as usar para destruir a democracia por dentro. Se o estudo encontrar pontos fracos, seriam sugeridas melhorias, e o resultado teria de ser tornado público. É apenas uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O LIVRE refere ameaças ao Estado de Direito e à democracia em vários países, incluindo na UE, e práticas conhecidas de subversão, como a instrumentalização do poder judicial e a limitação da imprensa. Invoca um estudo semelhante realizado em França e considera o reforço da resistência institucional uma prioridade urgente.",
+ "analysis": "A proposta é de baixo custo e preventiva, e propõe uma base de conhecimento pública para eventuais reformas. Fragilidades: não define quem realiza o estudo, o prazo, o orçamento nem a metodologia, e a noção de choque autoritário é ampla e pode ser objeto de interpretações divergentes. Sendo uma recomendação, não obriga o Governo e não garante que as conclusões resultem em alterações legislativas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização e publicação de um estudo implica algum custo, que o texto não quantifica."
+ },
+ "affected": [
+  "Governo",
+  "órgãos de soberania",
+  "sociedade civil"
+ ],
+ "categories": [
+  "instituicoes",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "estado de direito",
+  "democracia",
+  "estudo",
+  "subversão democrática"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Isenção de Imposto do Selo em créditos à habitação própria",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 7.º do Código do Imposto do Selo para isentar do imposto os empréstimos, respetivos juros, comissões e demais encargos cobrados para aquisição, construção, reconstrução ou melhoramento de habitação própria. A medida entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Adiciona uma nova isenção no artigo 7.º do Código do Imposto do Selo.",
+  "Isenta empréstimos, juros, comissões e demais encargos de crédito para habitação própria (aquisição, construção, reconstrução ou melhoramento).",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem pede um crédito para comprar ou obras na sua casa paga Imposto do Selo sobre o empréstimo, os juros e as comissões. A Iniciativa Liberal propõe acabar com esse imposto nestes casos, para as prestações ficarem mais leves.",
+ "context": "A Iniciativa Liberal defende que os preços da habitação sobem por falta de oferta e carga fiscal excessiva, e considera o Imposto do Selo um dos mais antigos e anacrónicos do país, a desonerar sobre os créditos à habitação própria.",
+ "analysis": "Reduz o custo do crédito à habitação para as famílias e é simples de aplicar. Fragilidades: implica perda de receita sem estimativa, favorece quem já consegue aceder a crédito e pode ser em parte absorvido por preços mais altos de habitação, dado o efeito na procura. A medida atua sobre a procura, enquanto o texto defende que o problema está na oferta. A abrangência de encargos «demais» pode suscitar dúvidas de interpretação.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção reduz a receita do Imposto do Selo sobre crédito à habitação própria. O texto não estima o montante."
+ },
+ "affected": [
+  "Famílias com crédito à habitação própria",
+  "Compradores de casa",
+  "Bancos"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "imposto do selo",
+  "crédito à habitação",
+  "habitação própria",
+  "isenção fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Valorização da carreira médica no SNS",
+ "summary": "O projeto de lei do LIVRE altera os Decretos-Leis n.º 176/2009 e n.º 177/2009 em três eixos. Primeiro, cria a categoria de interno nas carreiras médicas, remetendo o conteúdo funcional para o regime do internato e o respetivo regulamento. Segundo, reconhece, para posição remuneratória e progressão, o tempo de serviço prestado em entidades privadas e sociais de saúde, contratualizadas ou não com o SNS, e em estabelecimentos no estrangeiro desde que as habilitações sejam adquiridas ou reconhecidas em Portugal, mediante parecer da Ordem dos Médicos. Terceiro, assegura a todos os médicos horas no horário semanal exclusivamente dedicadas ao internato, formação contínua e investigação, em termos a definir em regulamentação, e considera essa participação nas avaliações de progressão.",
+ "key_points": [
+  "Cria a categoria de interno nas carreiras médicas.",
+  "Reconhece tempo de serviço no setor privado, social e no estrangeiro para posicionamento e progressão.",
+  "O reconhecimento depende de parecer da Ordem dos Médicos.",
+  "Garante horas do horário semanal dedicadas a internato, formação contínua e investigação.",
+  "A participação nessas atividades conta nas avaliações de progressão."
+ ],
+ "plain_language": "O LIVRE propõe três mudanças para tornar a carreira médica no SNS mais atrativa: o internato passa a fazer parte da carreira, o tempo trabalhado em clínicas privadas, instituições sociais ou no estrangeiro passa a contar para a progressão, e os médicos teriam horas protegidas no horário para formação e investigação.",
+ "context": "O LIVRE cita um estudo de 2025 em que 28% dos médicos têm burnout elevado e 76% excedem o horário previsto, mais de 2.700 pedidos de certidões para exercer no estrangeiro entre 2022 e 2024 e 713 médicos aposentados a trabalhar no SNS no fim de 2024. Defende reforçar a atratividade da carreira no setor público.",
+ "analysis": "Responde a causas reconhecidas de saída de médicos e pode facilitar o regresso ao SNS de quem trabalhou fora. Fragilidades: o reconhecimento do tempo de serviço e a integração do internato terão custo salarial que o texto não quantifica; o número de horas protegidas fica por definir em regulamentação, deixando incerto o seu impacto na capacidade assistencial; e depender de parecer da Ordem dos Médicos pode criar atrasos. A formação protegida pode reduzir tempo de consulta numa altura de escassez de médicos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reconhecer tempo de serviço externo e do internato para efeitos remuneratórios aumenta a despesa com pessoal do SNS. O texto não apresenta montantes."
+ },
+ "affected": [
+  "médicos do SNS",
+  "médicos internos",
+  "médicos do setor privado e social",
+  "médicos que regressam do estrangeiro"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira médica",
+  "internato médico",
+  "tempo de serviço",
+  "formação contínua",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

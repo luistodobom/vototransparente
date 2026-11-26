@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoios sociais para jovens trabalhadores-estudantes independentes",
+ "summary": "O Projeto de Lei do PAN altera o artigo 7.º do Decreto-Lei n.º 70/2010 para que os rendimentos de trabalho independente de jovens trabalhadores-estudantes com idade até 27 anos não sejam considerados para a atribuição do abono de família, de bolsas de ensino superior e de pensões de sobrevivência, desde que o montante anual não exceda 14 vezes a retribuição mínima mensal garantida. Equipara assim os trabalhadores independentes aos dependentes, já abrangidos desde a Lei n.º 13/2023. A lei entraria em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Acrescenta um n.º 2 ao artigo 7.º do Decreto-Lei n.º 70/2010, excluindo certos rendimentos de trabalho independente do cálculo da condição de recursos.",
+  "Aplica-se a jovens trabalhadores-estudantes com idade igual ou inferior a 27 anos.",
+  "O limite é de 14 vezes a retribuição mínima mensal garantida por ano.",
+  "Abrange o abono de família, as bolsas de ensino superior e as pensões de sobrevivência.",
+  "Entra em vigor com o Orçamento do Estado seguinte à publicação."
+ ],
+ "plain_language": "Hoje, um jovem estudante que trabalha por conta de outrem pode ganhar até um certo valor sem perder bolsa ou abono. Quem trabalha como independente (por exemplo, a passar recibos verdes) não tem essa proteção. A proposta corrige isso, para jovens até 27 anos com rendimentos até 14 salários mínimos por ano.",
+ "context": "A deputada única do PAN explica que a Lei n.º 13/2023 protegeu apenas os trabalhadores-estudantes com trabalho dependente, deixando de fora, sem justificação, os independentes. Refere ainda que Portugal tem 10% de estudantes com estatuto de trabalhador-estudante, contra 23% na média da UE, e invoca a necessidade de eliminar barreiras a este estatuto.",
+ "analysis": "A proposta corrige uma assimetria identificada e é cirúrgica na alteração legal. Fragilidades: não estima quantos jovens seriam abrangidos nem o custo; a equiparação pode criar incentivos para declarar rendimentos como trabalho independente; e o limite de 27 anos e de 14 retribuições mínimas deriva do regime dos dependentes sem justificação própria. A alteração não esclarece como o regulamento das bolsas será ajustado, nem a articulação com a verificação da veracidade dos rendimentos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao não contar certos rendimentos, mais jovens podem manter abono, bolsas e pensões de sobrevivência, aumentando a despesa. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "jovens trabalhadores-estudantes independentes",
+  "estudantes do ensino superior",
+  "beneficiários de abono de família e pensão de sobrevivência"
+ ],
+ "categories": [
+  "trabalho",
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "trabalhador-estudante",
+  "abono de família",
+  "bolsas de estudo",
+  "pensão de sobrevivência",
+  "trabalho independente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

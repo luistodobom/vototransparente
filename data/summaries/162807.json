@@ -1,0 +1,38 @@
+{
+ "short_title": "Alargar a isenção de IMT na habitação própria",
+ "summary": "Projeto de Lei do CHEGA que altera o artigo 9.º do Código do IMT para isentar de IMT as aquisições de prédio urbano ou fração autónoma destinados exclusivamente a habitação própria e permanente cujo valor não exceda o valor máximo do 4.º escalão da alínea a) do n.º 1 do artigo 17.º. O texto refere que a isenção atual é de 97 064 euros. A lei entra em vigor após a aprovação do Orçamento do Estado subsequente e durante o prazo de dois anos.",
+ "key_points": [
+  "Isenção de IMT na compra de habitação própria e permanente até ao limite máximo do 4.º escalão da tabela do artigo 17.º.",
+  "Altera o artigo 9.º do Código do IMT.",
+  "Vigência limitada a dois anos após a entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem compra uma casa para viver não paga IMT até determinado valor, hoje 97 064 euros. O CHEGA propõe aumentar esse limite para o fim do 4.º escalão da tabela do imposto, para que mais pessoas, sobretudo jovens, fiquem isentas, durante dois anos.",
+ "context": "O proponente refere que os preços das casas subiram 80% entre 2010 e 2022, que os jovens ganham salários baixos e que o programa Mais Habitação do Governo não promove o alívio fiscal. Defende desoneração fiscal e o aumento da oferta como resposta.",
+ "analysis": "Alivia o custo de compra da primeira habitação. Fragilidades: o texto não indica o valor concreto do novo limite nem estima a perda de receita, que é municipal; a isenção atua sobre a procura e pode ser parcialmente absorvida pelos preços, sobretudo nos grandes centros. A vigência limitada a dois anos cria incerteza. O valor de isenção citado no texto contém um erro tipográfico evidente (97.0064).",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Alargar a isenção de IMT reduz a receita deste imposto municipal. O texto não quantifica o impacto."
+ },
+ "affected": [
+  "Compradores de habitação própria e permanente",
+  "Municípios",
+  "Jovens"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "imt",
+  "isenção",
+  "habitação própria",
+  "mais habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

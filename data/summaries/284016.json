@@ -1,0 +1,41 @@
+{
+ "short_title": "Referendo sobre limites e quotas de imigração",
+ "summary": "Projeto de Resolução do Chega que propõe ao Presidente da República a realização de um referendo nacional com duas perguntas: se concorda que a Assembleia da República defina anualmente um limite máximo para a concessão de autorizações de residência a estrangeiros, e se concorda com a criação de um sistema de quotas de imigração, revisto anualmente, orientado pelos interesses económicos do país e pelas necessidades do mercado de trabalho. Os eleitores recenseados em território nacional e no estrangeiro seriam chamados a votar. A exposição de motivos critica a política de imigração desde 2017 e a atuação da AIMA. Sendo uma resolução, não é vinculativa.",
+ "key_points": [
+  "Propõe um referendo ao abrigo do artigo 115.º da Constituição.",
+  "Primeira pergunta: limite máximo anual de autorizações de residência definido pela Assembleia da República.",
+  "Segunda pergunta: sistema de quotas de imigração, revisto anualmente, segundo as necessidades do mercado de trabalho.",
+  "Votariam eleitores recenseados em Portugal e residentes no estrangeiro regularmente recenseados."
+ ],
+ "plain_language": "O Chega quer que os portugueses votem num referendo sobre se deve haver um número máximo de autorizações de residência por ano e se deve existir um sistema de quotas de imigração ligado às necessidades da economia. É uma proposta dirigida ao Presidente da República, que decide se o referendo se realiza.",
+ "context": "O proponente sustenta que a imigração aumentou fortemente, que as alterações legislativas de 2017 e 2019 tornaram a autorização de residência por trabalho a regra, e que a AIMA não consegue resolver as pendências. Defende um contingente global de oportunidades de emprego e quer consultar o povo.",
+ "analysis": "A iniciativa leva um tema relevante a consulta popular, mas a exposição de motivos usa linguagem fortemente valorativa e apresenta uma leitura causal (alterações legais, aumento de imigrantes) sem demonstrar todos os nexos. Perguntas referendárias têm de cumprir requisitos de clareza e a sua admissibilidade depende da Assembleia e do Presidente da República. Não define o valor dos limites ou das quotas, nem como se articulariam com a livre circulação na UE ou o reagrupamento familiar.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de um referendo nacional implica custos de organização eleitoral, que o texto não quantifica."
+ },
+ "affected": [
+  "cidadãos estrangeiros que pedem residência",
+  "eleitores",
+  "AIMA",
+  "empregadores que contratam imigrantes"
+ ],
+ "categories": [
+  "imigracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "referendo",
+  "imigração",
+  "quotas",
+  "autorização de residência",
+  "aima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

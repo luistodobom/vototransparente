@@ -1,0 +1,40 @@
+{
+ "short_title": "Escola 2.º, 3.º ciclos e secundário em Fernão Ferro",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica de 2.º e 3.º ciclos e de ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal. O texto refere que a freguesia tinha mais de 17 000 habitantes em 2011, que as três escolas existentes são do 1.º ciclo e pré-escolar e têm 750 alunos, e que os alunos dos restantes ciclos têm de se deslocar para fora da freguesia. Apresenta a construção como uma reivindicação antiga da população, que facilitaria o quotidiano das famílias e integraria a escola na comunidade.",
+ "key_points": [
+  "Iniciar os processos para construir uma escola de 2.º e 3.º ciclos e secundário em Fernão Ferro.",
+  "A freguesia só tem escolas do 1.º ciclo e pré-escolar, com 750 alunos.",
+  "Os alunos dos ciclos seguintes deslocam-se para fora da freguesia.",
+  "A escola deve respeitar os padrões legais de qualidade, incluindo o número de turmas."
+ ],
+ "plain_language": "Em Fernão Ferro, no Seixal, só há escolas até ao 4.º ano e os alunos mais velhos têm de estudar noutras freguesias. O PAN pede ao Governo que comece o processo para construir uma escola para os restantes anos, mais perto de casa. É uma recomendação, não uma obrigação.",
+ "context": "O proponente refere o crescimento da população da freguesia, a falta de escolas para os 2.º e 3.º ciclos e secundário, os tempos de viagem das famílias e a reivindicação antiga dos habitantes por uma escola pública de qualidade e mais próxima.",
+ "analysis": "A proposta responde a uma necessidade local concreta e invoca dados de população e de alunos. Contudo, os números de população são de 2011 e o texto não apresenta projeções, localização, custo, calendário nem análise da capacidade das escolas vizinhas. Pede apenas que se iniciem processos, sem compromisso de construção. A decisão depende do Governo e da articulação com o município.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção de uma escola implica despesa de investimento público, que o texto não quantifica."
+ },
+ "affected": [
+  "alunos de Fernão Ferro",
+  "famílias",
+  "Município do Seixal",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "fernão ferro",
+  "seixal",
+  "escola secundária",
+  "construção escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

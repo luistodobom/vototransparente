@@ -1,0 +1,42 @@
+{
+ "short_title": "Farmácias e testes rápidos para aliviar o SNS",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo duas medidas para descongestionar o SNS. A primeira é criar, em articulação com a DGS, a Direção Executiva do SNS, as ordens profissionais e as organizações de farmacêuticos, um projeto-piloto em que as farmácias comunitárias atendem, segundo protocolos clínicos pré-determinados, situações ligeiras e não urgentes (como infeções urinárias, sinusites, dores de garganta ou otites médias), com prescrição ou encaminhamento para os cuidados primários. A segunda é incentivar laboratórios de testes rápidos «point of care» nas Unidades de Saúde Familiar, para análises simples de resposta imediata. Como resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Projeto-piloto para as farmácias comunitárias atenderem situações clínicas ligeiras e não urgentes, com prescrição ou encaminhamento.",
+  "Articulação prévia com a DGS, a Direção Executiva do SNS, as ordens profissionais e as organizações de farmacêuticos e farmácias.",
+  "Atuação segundo protocolos clínicos específicos e pré-determinados.",
+  "Incentivo a laboratórios de testes rápidos «point of care» nas Unidades de Saúde Familiar.",
+  "Testes como hemogramas, testes rápidos de infeção e de apoio à decisão sobre antibióticos."
+ ],
+ "plain_language": "O PAN pede ao Governo que teste um modelo em que as farmácias tratam problemas de saúde simples, como uma dor de garganta ou uma infeção urinária, sem o utente ir ao médico de família ou às urgências. Pede também que os centros de saúde tenham aparelhos para análises rápidas. É um pedido ao Governo, que não o obriga a cumprir.",
+ "context": "A proponente refere tempos de espera elevados na linha SNS 24, nos cuidados primários e nas urgências, bem como em consultas e cirurgias, acima dos tempos máximos legais. Estima que cerca de cinco milhões de consultas anuais envolvam quadros de baixa complexidade, cita experiências em França, Canadá e Reino Unido e diz que só 7,6% das USF têm tecnologia «point of care».",
+ "analysis": "A proposta tem a vantagem de ser um projeto-piloto, com avaliação possível, e de se apoiar em experiências internacionais. Fragilidades: a prescrição por farmacêuticos exige alterações a regras profissionais e de prescrição que o texto não aborda; há riscos de diagnóstico incorreto e de fragmentação do acompanhamento clínico; o ganho estimado de 38 milhões de consultas no Reino Unido não é diretamente transponível; e não são estimados custos nem financiamento. O título refere medidas complementares para cumprir os tempos máximos, mas o texto não liga diretamente as medidas a esses tempos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O pagamento do atendimento nas farmácias e o equipamento das USF implicam despesa, mas o texto não os quantifica; poderia haver poupança por menos consultas, também não estimada."
+ },
+ "affected": [
+  "utentes do SNS",
+  "farmácias comunitárias",
+  "farmacêuticos",
+  "Unidades de Saúde Familiar",
+  "médicos de família"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "SNS",
+  "farmácias comunitárias",
+  "testes rápidos",
+  "cuidados de saúde primários",
+  "tempos de espera"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

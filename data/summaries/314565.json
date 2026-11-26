@@ -1,0 +1,44 @@
+{
+ "short_title": "Videovigilância para fiscalização da pesca nos Açores",
+ "summary": "A Assembleia Legislativa dos Açores propõe alterar a Lei n.º 95/2021, que regula a videovigilância pelas forças e serviços de segurança e pela proteção civil, para incluir os serviços de controlo, inspeção e vigilância da pesca. Passaria a ser possível instalar câmaras fixas em áreas marinhas protegidas, áreas proibidas ou vedadas à pesca, áreas de restrição e zonas com limites de distância ou profundidade, para detetar atividade ilegal em tempo real ou por registo e usar as imagens como prova em processos de contraordenação. A instalação seria autorizada pelo membro do Governo responsável, com parecer da CNPD, é proibida a captação nas zonas balneares, e nas regiões autónomas as competências são exercidas pelos governos regionais.",
+ "key_points": [
+  "Inclui os serviços de controlo, inspeção e vigilância da pesca no âmbito da lei da videovigilância.",
+  "Acrescenta a proteção e conservação do meio marinho aos fins que justificam a videovigilância.",
+  "Permite câmaras fixas em áreas marinhas protegidas, zonas vedadas e áreas com restrições à pesca.",
+  "Admite as imagens como prova em processos penais ou de contraordenação.",
+  "Proíbe a captação nas zonas balneares e exige parecer da CNPD e autorização, também do proprietário em terrenos privados.",
+  "Nas regiões autónomas, as competências são exercidas pelos governos regionais."
+ ],
+ "plain_language": "Os Açores têm uma área marítima enorme e poucos meios para fiscalizar a pesca ilegal. A proposta permite instalar câmaras de vigilância em zonas marinhas protegidas ou onde a pesca é restringida, para detetar infrações e usar as imagens como prova, com regras de proteção de dados e proibição de filmar nas praias.",
+ "context": "A Assembleia dos Açores refere que a Inspeção Regional das Pescas não consegue fiscalizar com a frequência necessária uma subárea da zona económica exclusiva de 931 000 km2, com recursos humanos e materiais insuficientes, o que mantém a pesca ilegal, com prejuízo ambiental e para os pescadores. Considera a videovigilância uma solução rápida e eficiente.",
+ "analysis": "A proposta responde a uma dificuldade real de fiscalização numa vasta área marítima e inclui salvaguardas, como o parecer da CNPD, a proibição nas zonas balneares e a autorização de proprietários. Em contrapartida, o texto não apresenta estimativa de custo de instalação e manutenção de câmaras em meio marinho, nem a eficácia esperada, e levanta questões de proteção de dados e de proporcionalidade. A entrada em vigor com o Orçamento do Estado seguinte indica dependência de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A instalação e manutenção de sistemas de videovigilância implicam despesa pública, que o texto não quantifica. Poderá haver receitas de coimas, igualmente sem estimativa."
+ },
+ "affected": [
+  "pescadores",
+  "Inspeção Regional das Pescas dos Açores",
+  "forças e serviços de fiscalização",
+  "CNPD"
+ ],
+ "categories": [
+  "agricultura",
+  "seguranca",
+  "ambiente"
+ ],
+ "tags": [
+  "videovigilância",
+  "pesca ilegal",
+  "Açores",
+  "áreas marinhas protegidas",
+  "proteção de dados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

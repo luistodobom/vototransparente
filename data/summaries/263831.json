@@ -1,0 +1,38 @@
+{
+ "short_title": "Contagem do tempo de espera para cirurgia no SIGIC",
+ "summary": "Projeto de resolução da Iniciativa Liberal que recomenda ao Governo duas medidas: alterar o Regulamento do Sistema Integrado de Gestão de Inscritos para Cirurgia, para que a inscrição via SINACC se baseie na previsão do tempo de resposta médio do hospital de origem à data do ato clínico, quando já indicie que o tempo máximo de resposta garantido não será cumprido, e não apenas na sua ultrapassagem efetiva; e rever a Portaria n.º 154/2024/1 e as normas decorrentes do Plano de Emergência da Saúde, de modo a que a contagem do tempo obedeça a esse princípio. A exposição de motivos critica que a contagem reinicie quando o doente é referenciado para outro hospital. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Inscrição para cirurgia com base na previsão do tempo de resposta médio, e não só na ultrapassagem do tempo máximo garantido.",
+  "Alterar o Regulamento do SIGIC (e o futuro SINACC) em conformidade.",
+  "Rever a Portaria n.º 154/2024/1, que limita a produção cirúrgica a utentes cujo tempo máximo já foi ultrapassado."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que um doente que precisa de ser operado possa ser encaminhado para outro hospital mais cedo, assim que se perceba que o seu hospital não vai cumprir o prazo, em vez de esperar até o prazo falhar. Critica ainda que, ao mudar de hospital, o tempo de espera recomece do zero. É apenas uma recomendação ao Governo.",
+ "context": "A IL recorda que o SIGIC foi criado em 2004 para referenciar utentes quando falta capacidade cirúrgica pública, mas que a inscrição só ocorre ultrapassado o prazo e que a contagem recomeça no hospital de destino, prejudicando a saúde dos doentes. Refere que o Plano de Emergência da Saúde prevê extinguir o SIGIC e criar o SINACC.",
+ "analysis": "A proposta ataca um problema real, o atraso no acesso à cirurgia, e propõe um critério preventivo baseado em dados que os hospitais já reportam à ACSS. Fragilidades: depender de previsões pode gerar erros e aumentar o número de referenciações, com pressão sobre os hospitais de destino e custos, e o texto não esclarece como se manteria o tempo de espera acumulado do utente. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Antecipar referenciações para outras unidades poderia aumentar a despesa com produção adicional, mas também reduzir complicações; o texto não quantifica."
+ },
+ "affected": [
+  "utentes em lista de espera cirúrgica",
+  "hospitais do SNS",
+  "entidades convencionadas"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "sigic",
+  "listas de espera",
+  "cirurgia",
+  "tempos máximos de resposta garantidos",
+  "sinacc"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

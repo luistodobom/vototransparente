@@ -1,0 +1,42 @@
+{
+ "short_title": "Estatuto de Proteção do Denunciante (PAN)",
+ "summary": "O PAN propõe aprovar um Estatuto de Proteção do Denunciante, que transpõe e vai além da Diretiva (UE) 2019/1937. Adota um conceito amplo de denunciante, não limitado a quem tem relação laboral, e obriga órgãos de soberania, administração pública, empresas públicas, instituições de crédito e outras entidades a criar canais internos de denúncia no prazo de um ano. Prevê um canal externo gerido por autoridade competente, a divulgação pública em certas condições, confidencialidade, conservação das denúncias, relatórios anuais e a proibição de retaliações, com medidas de proteção em contexto judicial. Estabelece contra-ordenações: muito graves, com coimas de 2000 a 10 000 euros para pessoas singulares e de 10 000 a 50 000 euros para coletivas. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Define um conceito amplo de denunciante, incluindo quem não tem relação laboral tradicional.",
+  "Obriga entidades públicas e privadas a criar canais internos de denúncia no prazo de um ano.",
+  "Cria um canal externo de denúncia e admite a divulgação pública em certas condições.",
+  "Proíbe retaliações e prevê medidas de proteção, incluindo em contexto judicial.",
+  "Fixa coimas de 2000 a 10 000 euros (pessoas singulares) e de 10 000 a 50 000 euros (pessoas coletivas) para infrações muito graves."
+ ],
+ "plain_language": "O PAN propõe uma lei completa para proteger quem denuncia corrupção, fraude, crimes ambientais e outras ilegalidades. As entidades teriam de ter canais seguros e confidenciais para receber denúncias, e quem denuncia não poderia ser despedido, perseguido ou processado de forma abusiva. Quem não cumprisse as regras, como não ter canal de denúncia ou retaliar um denunciante, poderia ser multado.",
+ "context": "O PAN afirma que os denunciantes são essenciais no combate à corrupção, à fraude fiscal e aos crimes ambientais, mas sofrem retaliações. Critica a Lei n.º 19/2008, que só protege trabalhadores, e aproveita a transposição da diretiva europeia para criar um regime mais abrangente, usando a margem que a própria diretiva permite.",
+ "analysis": "O estatuto é abrangente e fundamentado em fontes nacionais e internacionais, e vai além do mínimo da diretiva ao cobrir mais pessoas e prever sanções, o que reforça a proteção. Em contrapartida, aumenta custos de cumprimento para entidades, incluindo pequenas autarquias e empresas, e o regime contra-ordenacional e as obrigações de canais criam carga administrativa. O texto analisado foi truncado, pelo que a análise se baseia numa leitura parcial do articulado. Alguns dados da exposição de motivos, como as estimativas de perdas por corrupção, assentam em estudos citados mas não verificados aqui.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Haveria despesa com canais, autoridade competente e apoio aos denunciantes, e eventual receita de coimas, mas o texto não apresenta valores globais."
+ },
+ "affected": [
+  "denunciantes",
+  "entidades públicas e empresas obrigadas a criar canais",
+  "autarquias locais",
+  "trabalhadores"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "denunciante",
+  "whistleblowing",
+  "diretiva 2019/1937",
+  "corrupção",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Grupo de trabalho sobre profissões de desgaste rápido",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo a criação de um grupo de trabalho para alterar o enquadramento legal das profissões de desgaste rápido, definir critérios para a atribuição desta qualificação e identificar um elenco exemplificativo das profissões que a podem ter. O texto refere que o regime atual, constante da Lei n.º 4/2007 e do Decreto-Lei n.º 187/2007, é extenso e disperso e tem como principal benefício a antecipação da idade da reforma. Defende uma avaliação transversal em vez de uma análise caso a caso, para evitar tratamentos desiguais entre as várias profissões que reivindicam esta qualificação.",
+ "key_points": [
+  "Criar um grupo de trabalho sobre o enquadramento legal das profissões de desgaste rápido.",
+  "Definir critérios para a atribuição da qualificação de desgaste rápido.",
+  "Identificar um elenco exemplificativo de profissões elegíveis.",
+  "Substituir a avaliação casuística por uma avaliação transversal."
+ ],
+ "plain_language": "Várias profissões pedem para ser consideradas de desgaste rápido, o que permite reformar-se mais cedo. O PAN pede ao Governo que crie um grupo de trabalho para definir regras claras e uma lista de exemplos, em vez de decidir caso a caso. É uma recomendação não vinculativa.",
+ "context": "O proponente aponta que as reivindicações de forças de segurança, carteiros, tripulantes de cabine, professores, médicos, enfermeiros e trabalhadores por turnos ou noturnos se multiplicam, e que a avaliação caso a caso gera desigualdades. Recorda que uma proposta semelhante no Orçamento do Estado para 2021 foi rejeitada.",
+ "analysis": "A proposta procura coerência e igualdade de tratamento num quadro legal disperso, o que é um ponto forte. Contudo, não indica composição, prazo ou mandato do grupo de trabalho, nem como serão ponderados o custo para a Segurança Social e a sustentabilidade do sistema se a lista de profissões crescer. Pode também atrasar decisões sobre casos concretos. É uma recomendação, sem obrigatoriedade para o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação do grupo de trabalho tem custo reduzido, mas o alargamento posterior da lista de profissões poderia aumentar a despesa com pensões; o texto não quantifica."
+ },
+ "affected": [
+  "profissões que reivindicam desgaste rápido",
+  "trabalhadores por turnos e noturnos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "reforma antecipada",
+  "grupo de trabalho",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

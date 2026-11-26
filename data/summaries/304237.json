@@ -1,0 +1,43 @@
+{
+ "short_title": "Estatuto da Pessoa Idosa",
+ "summary": "Proposta de Lei do Governo que aprova o Estatuto da Pessoa Idosa, aplicável a quem tenha idade igual ou superior à idade normal de acesso à pensão de velhice, bem como a instituições e estabelecimentos que apoiam pessoas idosas. Organiza-se em cinco capítulos: direitos fundamentais (dignidade, autonomia, proteção contra a violência e dever de denúncia, obrigação de alimentos); saúde e proteção social (acesso universal aos serviços de saúde, acompanhamento clínico, consentimento informado, benefícios no acesso a medicamentos, cuidados paliativos, apoio domiciliário e teleassistência); educação, cultura, voluntariado e turismo sénior; e habitação e mobilidade, incluindo não discriminação no arrendamento e transportes acessíveis. Em geral, enuncia direitos e orientações para políticas públicas, sem montantes ou prazos.",
+ "key_points": [
+  "Define pessoa idosa como quem tem idade igual ou superior à idade normal de acesso à pensão de velhice.",
+  "Reconhece dignidade, autonomia e proteção contra a violência, com dever de prevenir e denunciar.",
+  "Garante acesso universal à saúde, consentimento informado, cuidados paliativos e benefícios no acesso a medicamentos.",
+  "Prevê apoio domiciliário, teleassistência e proteção social.",
+  "Reconhece direitos à educação, atividades culturais com preços reduzidos, voluntariado e turismo sénior.",
+  "Garante habitação condigna, não discriminação no arrendamento e mobilidade acessível."
+ ],
+ "plain_language": "O Governo propõe uma lei que reúne os direitos das pessoas a partir da idade da reforma: serem tratadas com dignidade, decidirem sobre a sua vida, estarem protegidas da violência, terem acesso à saúde, a apoio em casa, a atividades culturais, a casa adequada e a transportes acessíveis. Muitas disposições são princípios que dependem de regulamentação.",
+ "context": "O Governo cumpre o compromisso do seu programa de adotar um estatuto da pessoa idosa. Justifica-o pela necessidade de responder ao envelhecimento da população, assegurar um envelhecimento ativo e digno, e combater a discriminação, promovendo a participação cívica e a solidariedade entre gerações.",
+ "analysis": "O estatuto tem valor de sistematização e simbólico, ao reunir direitos dispersos, e dá visibilidade a temas como a violência contra idosos e a não discriminação no arrendamento. Contudo, a maioria dos artigos é programática e remete para políticas futuras, sem prazos, metas ou orçamento, pelo que o efeito prático depende de regulamentação e de meios. O critério de idade ligado à idade normal da pensão de velhice pode variar ao longo do tempo. Não se identifica nova fonte de financiamento.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O estatuto enuncia direitos e orientações para políticas públicas sem quantificar custos nem prever dotações. O impacto dependerá da regulamentação e das medidas concretas adotadas."
+ },
+ "affected": [
+  "pessoas idosas",
+  "instituições particulares de solidariedade social",
+  "serviços de saúde e de ação social",
+  "senhorios e arrendatários"
+ ],
+ "categories": [
+  "familia",
+  "direitos",
+  "saude"
+ ],
+ "tags": [
+  "estatuto da pessoa idosa",
+  "envelhecimento",
+  "direitos dos idosos",
+  "apoio domiciliário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

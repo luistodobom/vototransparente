@@ -1,0 +1,39 @@
+{
+ "short_title": "Isenção temporária de IVA no cabaz alimentar essencial",
+ "summary": "O Bloco de Esquerda propõe aplicar, a título transitório e excecional, a taxa zero de IVA (isenção com direito à dedução) a uma lista de produtos do cabaz alimentar essencial saudável, que inclui pão, batata, massas, hortícolas, frutas, leguminosas secas, laticínios, carne, peixe, atum em conserva, ovos, azeite e óleos, bebidas vegetais e produtos dietéticos. O Governo deve estabelecer acordos trimestrais de preços com produtores e distribuidores. A isenção vigora por períodos renováveis de três meses, a renovar por despacho, e o Governo pode antecipar a aplicação conforme a disponibilidade orçamental. A lei entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "IVA a taxa zero, com direito à dedução, numa lista detalhada de bens alimentares essenciais.",
+  "Acordos trimestrais de preços entre o Governo, produtores e distribuidores.",
+  "Vigência por períodos renováveis de três meses, renovação por despacho do Governo.",
+  "Possibilidade de antecipar a aplicação conforme a disponibilidade orçamental."
+ ],
+ "plain_language": "Durante alguns meses, vários alimentos básicos, como pão, leite, ovos, peixe, carne, fruta e legumes, passariam a ter IVA zero. O Governo teria também de acordar preços com produtores e supermercados para que a poupança chegue ao consumidor.",
+ "context": "O proponente liga a medida à subida dos combustíveis após o conflito no Médio Oriente, que pressiona os preços dos bens essenciais, os juros do crédito à habitação e a agricultura. Lembra que o IVA zero esteve em vigor entre abril de 2023 e janeiro de 2024 em 46 categorias e que a descida foi repercutida aos consumidores.",
+ "analysis": "Tem precedente recente e articula-se com acordos de preços e monitorização, o que aumenta a probabilidade de a poupança chegar aos consumidores. Fragilidades: não estima o custo orçamental; o duplo critério de entrada em vigor (dia seguinte à publicação e Orçamento do Estado subsequente) é contraditório; a renovação por despacho dá ampla margem ao Governo; a medida abrange todos os consumidores, não só os mais vulneráveis; e os acordos de preços não têm força vinculativa definida.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Reduz a receita de IVA nos bens do cabaz. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "consumidores",
+  "produtores e distribuidores alimentares",
+  "Estado (receita de IVA)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "iva zero",
+  "cabaz alimentar",
+  "acordos de preços",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

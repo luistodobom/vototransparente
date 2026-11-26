@@ -1,0 +1,42 @@
+{
+ "short_title": "Complemento de pensão para polícias da PSP, PJ e guardas prisionais",
+ "summary": "Projeto de Lei do PCP que altera os artigos 1.º e 2.º do Decreto-Lei n.º 4/2017 sobre o cálculo das pensões de reforma do pessoal com funções policiais da PSP, de carreiras da PJ e do Corpo da Guarda Prisional. Reformula o âmbito do artigo 1.º, revoga uma alínea e redefine a referência ao pessoal da Polícia Judiciária. Atribui um complemento de pensão igual à diferença entre a pensão e 90% da última remuneração na pré-aposentação ou disponibilidade, atualizado em função do posto e índice remuneratório sempre que a tabela mude. Entra em vigor com a lei do Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Complemento de pensão equivalente à diferença entre a pensão e 90% da última remuneração na pré-aposentação ou disponibilidade.",
+  "Atualização do complemento quando mude a tabela remuneratória, conforme posto e índice à data da passagem à pré-aposentação.",
+  "Altera os artigos 1.º e 2.º do Decreto-Lei n.º 4/2017 (3.ª alteração).",
+  "Abrange PSP, carreiras da PJ e Corpo da Guarda Prisional.",
+  "Entra em vigor com a lei do Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Alguns polícias e guardas prisionais podem ver a pensão cair para cerca de metade do último vencimento. O PCP propõe um complemento que eleva a pensão para 90% desse vencimento e que acompanhe as atualizações salariais.",
+ "context": "O PCP afirma que as mudanças na fórmula de cálculo das pensões, no processo de convergência com o regime geral, têm reduzido as pensões das forças de segurança, com casos em que o corte chega a cerca de metade do rendimento na transição para a reforma. Defende a homogeneização por cima.",
+ "analysis": "A medida reduz a desigualdade entre polícias com datas de ingresso diferentes e garante previsibilidade. Fragilidades: o texto não estima o custo nem o impacto na sustentabilidade da Caixa Geral de Aposentações; o patamar de 90% é mais favorável do que o regime geral e pode gerar pedidos de equiparação de outras carreiras; e a descrição do âmbito do artigo 1.º, com alíneas revogadas e referências abreviadas, exige confronto com o texto em vigor para perceber o efeito exato.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O complemento até 90% da última remuneração aumenta a despesa com pensões; o texto não estima o custo. A entrada em vigor fica ligada ao Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "agentes e pessoal da PSP",
+  "pessoal da carreira de investigação criminal e de segurança da PJ",
+  "guardas prisionais",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "pensões",
+  "PSP",
+  "polícia judiciária",
+  "guarda prisional",
+  "complemento de pensão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

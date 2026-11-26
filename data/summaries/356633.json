@@ -1,0 +1,41 @@
+{
+ "short_title": "Proibir o Estado de recorrer à arbitragem",
+ "summary": "O Grupo Parlamentar do PCP propõe que os litígios emergentes de relações jurídicas administrativas e fiscais passem a ser da competência exclusiva dos tribunais, sendo vedado ao Estado e a outras pessoas coletivas de direito público recorrer a tribunais arbitrais nesses casos. Para isso revoga os artigos 180.º a 187.º do Código de Processo nos Tribunais Administrativos, preceitos do Código dos Contratos Públicos (incluindo a alínea d) do n.º 1 do artigo 27.º, o n.º 3 do artigo 332.º e o artigo 476.º com o anexo XII), o Regime Jurídico da Arbitragem em Matéria Tributária (Decreto-Lei n.º 10/2011) e normas da Lei da Arbitragem Voluntária. A lei entraria em vigor no dia seguinte ao da publicação, sem prejuízo da conclusão dos processos arbitrais em curso.",
+ "key_points": [
+  "Atribuir aos tribunais a competência exclusiva sobre litígios administrativos e fiscais.",
+  "Proibir o Estado e outras entidades públicas de recorrer a tribunais arbitrais nesses litígios.",
+  "Revogar o regime da arbitragem tributária (Decreto-Lei n.º 10/2011).",
+  "Revogar normas de arbitragem no Código de Processo nos Tribunais Administrativos e no Código dos Contratos Públicos.",
+  "Ressalvar a conclusão dos processos arbitrais em curso."
+ ],
+ "plain_language": "O PCP quer que o Estado deixe de poder resolver em tribunais arbitrais (privados) os conflitos sobre impostos e contratos públicos. Tudo passaria a ser decidido nos tribunais do Estado. Os processos arbitrais já a decorrer seriam concluídos normalmente.",
+ "context": "O proponente sustenta que a arbitragem em matéria fiscal viola a legalidade e a igualdade perante a lei, por permitir que grandes devedores negoceiem o que pagam, e que na contratação pública resulta em decisões desfavoráveis ao Estado, com prejuízo do interesse público. Refere pedidos de reequilíbrio financeiro de PPP superiores a mil milhões de euros em 2022 e critica o secretismo da arbitragem ad hoc.",
+ "analysis": "A iniciativa responde a preocupações de transparência e de igualdade, e é clara na revogação concreta de normas. Contudo, retira uma via alternativa que visa aliviar a morosidade dos tribunais administrativos e fiscais, e o texto não avalia o impacto nessa carga processual nem apresenta dados sobre os resultados da arbitragem tributária. A generalização das críticas à arbitragem pode ignorar diferenças entre regimes. Não quantifica efeitos orçamentais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O efeito depende de como os litígios seriam resolvidos nos tribunais face à arbitragem; o texto não apresenta montantes nem estimativas."
+ },
+ "affected": [
+  "contribuintes",
+  "Estado e entidades públicas",
+  "empresas contratantes do Estado",
+  "tribunais administrativos e fiscais"
+ ],
+ "categories": [
+  "justica",
+  "fiscalidade"
+ ],
+ "tags": [
+  "arbitragem",
+  "contratação pública",
+  "arbitragem tributária",
+  "tribunais administrativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

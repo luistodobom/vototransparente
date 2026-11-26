@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforma antecipada por deficiência a partir de 55 anos e 60% de incapacidade",
+ "summary": "O Projeto de Lei n.º 291/XVII/1.ª, do PCP, altera o artigo 2.º da Lei n.º 5/2022 para alargar o regime de antecipação da idade de pensão de velhice por deficiência. Passa a exigir, cumulativamente, idade igual ou superior a 55 anos, grau de incapacidade igual ou superior a 60% e pelo menos 15 anos de carreira contributiva constituída com essa situação de deficiência e grau de incapacidade. Atualmente, segundo o PCP, o regime exclui quem tem incapacidade inferior a 80%. Obriga também o Governo a publicar mensalmente dados desagregados sobre os beneficiários, incluindo o valor médio das pensões. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Elegibilidade: 55 anos ou mais, incapacidade igual ou superior a 60% e pelo menos 15 anos de carreira contributiva nessa condição.",
+  "Altera o artigo 2.º da Lei n.º 5/2022, de 7 de janeiro.",
+  "Publicação mensal de dados desagregados sobre beneficiários, incluindo o valor médio das pensões.",
+  "Entra em vigor com o Orçamento do Estado posterior à publicação."
+ ],
+ "plain_language": "Hoje, só pessoas com 80% ou mais de incapacidade podem reformar-se mais cedo por deficiência. O PCP quer que o acesso comece nos 60% de incapacidade e aos 55 anos de idade, desde que tenham pelo menos 15 anos de descontos com essa deficiência. O Governo teria de publicar mensalmente quantas pessoas recebem esta pensão.",
+ "context": "O PCP afirma que as pessoas com deficiência sofrem desemprego e precariedade e acabam com carreiras contributivas curtas e frágeis. Considera injusto que o regime atual exclua quem tem incapacidade inferior a 80%, e defende o limiar de 60%, que é a referência para outros apoios sociais, e que se publiquem dados sobre o acesso ao regime.",
+ "analysis": "A proposta torna o regime acessível a muito mais pessoas e reforça a transparência com dados mensais. Ao baixar idade para 55 anos e incapacidade para 60%, aumenta significativamente a população elegível sem que haja estimativa de custos para a Segurança Social, nem critérios para avaliar o desgaste. Mantém a exigência de 15 anos de carreira, o que pode excluir muitas pessoas com percursos contributivos curtos, que o próprio texto reconhece. O texto não explica como será financiado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o universo elegível para pensões antecipadas aumenta a despesa da Segurança Social. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "pessoas com deficiência com incapacidade igual ou superior a 60%",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "deficiência",
+  "pensão de velhice",
+  "reforma antecipada",
+  "incapacidade",
+  "Lei 5/2022"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

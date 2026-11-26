@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargamento da gratuitidade das creches",
+ "summary": "O projeto de lei do PCP pretende concretizar e alargar a gratuitidade das creches e soluções equiparadas, na sequência da decisão já inscrita no Orçamento do Estado para 2020. Determina que, a partir de 1 de abril de 2022, a Segurança Social transfere para as instituições públicas ou abrangidas pelo sistema de cooperação os montantes da comparticipação familiar dos utentes abrangidos, sendo o Governo responsável por transferir essas verbas para a Segurança Social. Obriga ainda o Governo a definir, até 1 de janeiro de 2022, um plano de alargamento com metas: gratuitidade para todas as crianças até 2023 e pelo menos 100 mil vagas no setor público até 2023, com prioridade às zonas mais carenciadas, identificação de imóveis do Estado utilizáveis e das fontes de financiamento. A lei entraria em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "A partir de 1 de abril de 2022, a Segurança Social paga às creches públicas ou da rede solidária a comparticipação familiar dos utentes abrangidos.",
+  "O Governo transfere para a Segurança Social os montantes despendidos.",
+  "Plano de alargamento a definir pelo Governo até 1 de janeiro de 2022.",
+  "Metas do plano: creche gratuita para todas as crianças até 2023 e pelo menos 100 mil vagas públicas.",
+  "Prioridade às zonas mais carenciadas e identificação de imóveis do Estado e de meios de financiamento (Orçamento do Estado ou fundos comunitários)."
+ ],
+ "plain_language": "A proposta quer que as famílias deixem de pagar a mensalidade da creche. O Estado, através da Segurança Social, passaria a pagar às creches públicas e solidárias o que hoje os pais pagam. Ao mesmo tempo, o Governo teria de apresentar um plano para que todas as crianças até aos 3 anos tenham creche gratuita até 2023 e para criar pelo menos 100 mil vagas no setor público.",
+ "context": "O PCP invoca o défice demográfico e a queda da natalidade, e defende que a gratuitidade da creche dá segurança às famílias que querem ter filhos. Afirma que a iniciativa concretiza uma decisão do Orçamento do Estado para 2020, tomada por sua proposta, e defende uma rede pública de creches com vaga garantida após a licença parental.",
+ "analysis": "A proposta dá calendário e metas concretas, o que facilita o escrutínio, e reduz de forma direta a despesa das famílias. Fragilidades: o texto não quantifica o custo para o Orçamento do Estado nem o investimento para 100 mil vagas públicas, e as datas (plano até 1 de janeiro de 2022, gratuitidade até 2023) são ambiciosas e ficam dependentes da capacidade de construção e de recursos humanos. A gratuitidade sem aumento de vagas pode não resolver a falta de lugares. A data de 1 de abril de 2022 apoia-se numa norma do Orçamento de 2020.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A Segurança Social passa a suportar as comparticipações familiares e o Estado financia a criação de vagas públicas. O texto não indica montantes."
+ },
+ "affected": [
+  "famílias com crianças até aos 3 anos",
+  "creches públicas e instituições de solidariedade social",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creches",
+  "gratuitidade",
+  "natalidade",
+  "segurança social",
+  "vagas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

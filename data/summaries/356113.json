@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoios à comunidade portuguesa na Venezuela e presos políticos",
+ "summary": "O PS recomenda ao Governo oito medidas para a comunidade portuguesa na Venezuela: simplificação temporária e excecional dos procedimentos dos apoios sociais (ASIC e ASEC); reforço extraordinário das verbas desses apoios; adaptação dos critérios de elegibilidade e de avaliação socioeconómica à realidade venezuelana; reforço dos apoios ao movimento associativo; reforço do apoio médico e do acesso a medicamentos essenciais; acompanhamento consular reforçado; esforços diplomáticos para retomar as ligações aéreas regulares, designadamente da TAP; e intensificação dos esforços para libertar os presos políticos portugueses e lusodescendentes detidos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Simplificação temporária dos procedimentos dos apoios sociais ASIC e ASEC.",
+  "Reforço extraordinário e temporário das verbas de apoio social.",
+  "Adaptação dos critérios de elegibilidade ao contexto venezuelano.",
+  "Reforço dos apoios às associações e do apoio médico e medicamentos essenciais.",
+  "Esforços diplomáticos pela retoma das ligações aéreas e pela libertação dos presos políticos portugueses e lusodescendentes."
+ ],
+ "plain_language": "O partido pede ao Governo que ajude mais os portugueses que vivem na Venezuela, com apoios sociais mais rápidos e maiores, acompanhamento dos consulados e voos para Portugal, e que trabalhe diplomaticamente para libertar os portugueses detidos por razões políticas. É uma recomendação, não uma obrigação.",
+ "context": "O proponente salienta que a comunidade portuguesa e lusodescendente na Venezuela é numerosa e historicamente enraizada, a segunda maior da América Latina depois do Brasil, e vive num contexto de pobreza extrema, inflação elevada, escassez de bens essenciais e degradação dos serviços públicos.",
+ "analysis": "Responde a necessidades humanitárias descritas e propõe medidas concretas e articuladas, incluindo ação consular e apoio associativo. Fragilidades: não quantifica o reforço de verbas nem o número de beneficiários; a libertação de presos depende de decisões de outro Estado e as ligações aéreas de operadores e acordos; o texto não discute riscos da simplificação de procedimentos para a fiscalização dos apoios; e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Propõe reforço extraordinário das verbas de apoio social e médico, o que aumentaria a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "portugueses e lusodescendentes na Venezuela",
+  "associações da comunidade portuguesa",
+  "presos políticos portugueses"
+ ],
+ "categories": [
+  "internacional",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "venezuela",
+  "comunidades portuguesas",
+  "asic",
+  "presos políticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

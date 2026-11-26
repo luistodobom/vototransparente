@@ -1,0 +1,41 @@
+{
+ "short_title": "Regulamentar o direito ao esquecimento em crédito e seguros",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que regulamente com urgência a Lei n.º 75/2021, que consagra o direito ao esquecimento para pessoas que superaram ou mitigaram situações de risco agravado de saúde ou deficiência no acesso a crédito e seguros. Pede obrigações claras de informação aos consumidores, a salvaguarda do direito para quem faz tratamentos que limitam duradouramente os efeitos da doença ou tratamentos coadjuvantes, como os diabéticos com doença controlada, e a possibilidade de renegociar créditos e seguros em vigor para abranger as condições da lei.",
+ "key_points": [
+  "Regulamentação urgente da Lei n.º 75/2021, que consagra o direito ao esquecimento.",
+  "Obrigações claras de informação e documentação acessível para consumidores.",
+  "Salvaguarda do direito para quem faz tratamentos eficazes ou coadjuvantes, como diabéticos com doença controlada.",
+  "Possibilidade de renegociar créditos e seguros em vigor nas condições previstas na lei."
+ ],
+ "plain_language": "Há uma lei que impede bancos e seguradoras de penalizar quem já superou uma doença grave, mas ainda não foi regulamentada. O PAN pede ao Governo que a regulamente depressa e que permita renegociar contratos já existentes. O Governo não é obrigado a cumprir.",
+ "context": "O PAN afirma que, quase quatro anos após a lei entrar em vigor, a falta do acordo nacional ou do decreto-lei de regulamentação leva várias instituições de crédito a recusar aplicá-la. Refere uma queixa à Provedoria de Justiça em setembro de 2024 por associações de consumidores e de doentes e um alerta da Associação Protectora dos Diabéticos.",
+ "analysis": "A iniciativa responde a uma lacuna de regulamentação apontada por associações e visa dar eficácia a um direito já legislado. É, contudo, uma recomendação, sem prazo concreto para o Governo, e depende de acordo com o setor financeiro. A inclusão de doentes em tratamentos coadjuvantes e a renegociação de contratos podem ter custos para seguradoras e bancos, que o texto não avalia.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A recomendação diz respeito à regulamentação de direitos no crédito e seguros privados; o texto não prevê despesa ou receita públicas."
+ },
+ "affected": [
+  "pessoas que superaram doenças graves",
+  "doentes com doenças controladas, como diabetes",
+  "bancos e seguradoras",
+  "consumidores"
+ ],
+ "categories": [
+  "consumidores",
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "direito ao esquecimento",
+  "seguros",
+  "crédito",
+  "risco agravado de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

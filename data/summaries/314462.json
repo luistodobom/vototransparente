@@ -1,0 +1,42 @@
+{
+ "short_title": "Inibidores de sinal e reforço da segurança nas prisões",
+ "summary": "O CHEGA recomenda ao Governo medidas para proteger as prisões contra fugas e melhorar a segurança interna: disponibilizar inibidores de sinal para impedir comunicações ilícitas dos reclusos com o exterior; instalar sensores de movimento nas cadeias estruturalmente mais vulneráveis; recrutar mais efetivos para vigilância e controlo das câmaras, sobretudo onde as torres de vigia foram substituídas; e reativar a vigilância através de torres devidamente equipadas. Recomenda ainda que a Ministra da Justiça transforme as recomendações da auditoria às prisões num plano de ação com prioridades e prazos, dado a conhecer à Assembleia da República. É um projeto de resolução.",
+ "key_points": [
+  "Disponibilizar inibidores de sinal nos estabelecimentos prisionais.",
+  "Instalar sensores de movimento nas cadeias mais vulneráveis a fugas.",
+  "Recrutar mais efetivos para vigilância e controlo das câmaras.",
+  "Reativar a vigilância por torres devidamente equipadas.",
+  "Elaborar um plano de ação a partir da auditoria, com prioridades e prazos, e dá-lo a conhecer ao Parlamento."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que impeça o uso de telemóveis nas prisões, instale sensores, contrate mais pessoal de vigilância, volte a usar torres de vigia e apresente um plano com prazos para corrigir as falhas apontadas na auditoria. É uma recomendação.",
+ "context": "O proponente refere a fuga de cinco reclusos de Vale de Judeus em 7 de setembro, em cuja preparação foram determinantes comunicações por telemóveis, e a auditoria à segurança dos 49 estabelecimentos prisionais, que revelou deficiências em equipamentos, organização e gestão de recursos. Indica abertura do Governo para inibidores de sinal.",
+ "analysis": "O pacote de medidas é coerente com o diagnóstico da fuga e com a auditoria e inclui um plano com prazos, o que dá escrutínio. Mas cada medida implica investimento e recrutamento sem estimativa de custos; os inibidores de sinal têm limitações técnicas e jurídicas que não são discutidas; a reativação das torres de vigia parece contrariar opções anteriores. O texto foca a segurança e deixa de fora as condições dos reclusos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A aquisição de equipamentos, o recrutamento de efetivos e a reativação de torres implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "guardas prisionais",
+  "reclusos",
+  "Direção-Geral de Reinserção e Serviços Prisionais",
+  "Ministério da Justiça"
+ ],
+ "categories": [
+  "seguranca",
+  "justica"
+ ],
+ "tags": [
+  "prisões",
+  "inibidores de sinal",
+  "fugas",
+  "segurança prisional",
+  "auditoria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

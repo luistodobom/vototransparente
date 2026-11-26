@@ -1,0 +1,40 @@
+{
+ "short_title": "Código Florestal Simplificado",
+ "summary": "Projeto de resolução da Iniciativa Liberal que recomenda ao Governo rever o enquadramento jurídico existente e agregar a legislação florestal num Código Florestal Simplificado. A exposição de motivos defende que a governação florestal é fragmentada, com excesso de entidades e sobreposição de competências, o que torna os procedimentos morosos e complexos. Propõe reduzir ao mínimo o tempo dos processos de licenciamento e de financiamento, dando previsibilidade e custos baixos, e trabalhar em conjunto com o público e os agentes económicos. É uma recomendação não vinculativa, com uma única medida.",
+ "key_points": [
+  "Recomenda ao Governo rever o enquadramento jurídico florestal.",
+  "Propõe agregar a legislação num Código Florestal Simplificado.",
+  "Pretende reduzir o tempo dos processos de licenciamento e financiamento.",
+  "É um projeto de resolução, sem efeito vinculativo."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que junte as muitas leis sobre floresta num único código mais simples. O objetivo é que licenciar e financiar atividades florestais seja mais rápido e previsível. É apenas um pedido ao Governo, que não é obrigado a fazê-lo.",
+ "context": "A IL afirma que a floresta é um ativo nacional, com a indústria de base florestal a representar cerca de 5% do PIB em 2021 (cerca de 12 mil milhões de euros), e que a fragmentação institucional e a sobreposição de competências atrasam procedimentos e dificultam a gestão, deixando a floresta exposta aos incêndios.",
+ "analysis": "A simplificação e consolidação legislativa pode reduzir burocracia e incerteza. Contudo, a recomendação é genérica: não identifica que diplomas seriam agregados, que entidades seriam extintas ou fundidas, nem fixa prazos. Uma consolidação não elimina por si a sobreposição de competências, que exige alterações orgânicas. O texto também não esclarece como seriam salvaguardadas as proteções ambientais ao reduzir prazos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A resolução é uma recomendação sem medida orçamental. Não há montantes de custo ou poupança."
+ },
+ "affected": [
+  "proprietários florestais",
+  "indústria de base florestal",
+  "serviços da administração florestal"
+ ],
+ "categories": [
+  "agricultura",
+  "administracao",
+  "ambiente"
+ ],
+ "tags": [
+  "código florestal",
+  "floresta",
+  "simplificação",
+  "licenciamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

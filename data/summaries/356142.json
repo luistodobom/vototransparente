@@ -1,0 +1,43 @@
+{
+ "short_title": "Eliminar os internamentos sociais de recém-nascidos",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo cinco medidas: aprovar a Estratégia Nacional para a Alta Segura na Primeira Infância, com o objetivo de eliminar progressivamente os internamentos sociais de recém-nascidos e coordenação interministerial; criar um Indicador Nacional de Internamentos Sociais com publicação anual; financiar protocolos do ISS para projetos de suporte habitacional a grávidas, mães e recém-nascidos em risco, incluindo housing first; estudar um projeto-piloto de unidades de saúde transitórias para esse público; e incentivar programas de acompanhamento domiciliário intensivo nos primeiros 24 meses de vida das crianças em risco.",
+ "key_points": [
+  "Aprovar uma Estratégia Nacional para a Alta Segura na Primeira Infância, com coordenação interministerial.",
+  "Criar um Indicador Nacional de Internamentos Sociais, publicado anualmente.",
+  "Financiar protocolos do ISS para respostas habitacionais a grávidas, mães e recém-nascidos, incluindo housing first.",
+  "Estudar um projeto-piloto de unidades de saúde transitórias para grávidas, mães e recém-nascidos em risco.",
+  "Incentivar acompanhamento domiciliário intensivo nos primeiros 24 meses de vida."
+ ],
+ "plain_language": "Alguns bebés ficam na maternidade depois de estarem bem de saúde porque as famílias não têm casa ou apoio. O PAN pede ao Governo uma estratégia para os evitar, com dados públicos, apoio à habitação para mães e bebés e acompanhamento em casa. É uma recomendação.",
+ "context": "O PAN afirma que cresce o número de recém-nascidos internados por razões sociais, ligado à crise habitacional. Cita a Maternidade Alfredo da Costa (de sete casos em 2022 para 28 em 2024), o Hospital de São Francisco Xavier (26 casos) e o Garcia de Orta (30 situações, nove com separação do bebé da mãe).",
+ "analysis": "A iniciativa trata de um problema grave com dados hospitalares e propõe medidas variadas, incluindo a produção de dados. Fragilidades: os números provêm de poucas unidades e o texto não mostra a dimensão nacional; não estima custos nem metas; o projeto-piloto fica apenas para estudo de viabilidade; e a eficácia depende da articulação entre Saúde, Segurança Social e municípios. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento de projetos de habitação de apoio, de unidades transitórias e de acompanhamento domiciliário implicaria despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "recém-nascidos em risco social",
+  "grávidas e mães em situação de sem-abrigo ou vulnerabilidade",
+  "maternidades e hospitais",
+  "Instituto da Segurança Social e municípios"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "habitacao"
+ ],
+ "tags": [
+  "internamentos sociais",
+  "recém-nascidos",
+  "housing first",
+  "maternidades",
+  "infância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

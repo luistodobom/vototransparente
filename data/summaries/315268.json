@@ -1,0 +1,39 @@
+{
+ "short_title": "Plataforma digital do Subsídio Social de Mobilidade na Madeira",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo da República que conclua, com a maior celeridade possível, a plataforma digital única de gestão do Subsídio Social de Mobilidade (SSM) para residentes na Região Autónoma da Madeira. O objetivo é que, no momento da compra do bilhete, o passageiro pague apenas o valor líquido da tarifa legalmente fixada, sem adiantar o valor total nem esperar por reembolso. Recomenda ainda que o Governo acompanhe e avalie o novo modelo, ouvindo periodicamente representantes da Região, operadores de transporte e utentes. A iniciativa assenta no Decreto-Lei n.º 37-A/2025, de 24 de março, que reformulou o regime do SSM e prevê o pagamento do valor líquido através de uma plataforma eletrónica ainda não operacional.",
+ "key_points": [
+  "Concluir com a maior celeridade a plataforma digital única de gestão do SSM para residentes na Madeira.",
+  "Garantir que o passageiro paga no ato da compra apenas o valor líquido da tarifa, sem adiantamento nem reembolso posterior.",
+  "Acompanhar e avaliar a aplicação prática do novo modelo.",
+  "Ouvir periodicamente a Região Autónoma da Madeira, os operadores de transporte e os utentes."
+ ],
+ "plain_language": "Hoje, muitos residentes na Madeira pagam o bilhete de avião por inteiro e só depois recebem o subsídio. A lei mais recente prevê que passem a pagar logo o valor já descontado, mas isso depende de uma plataforma informática que ainda não está a funcionar. Esta iniciativa pede ao Governo que a ponha a funcionar o mais depressa possível e que vá avaliando se o sistema funciona bem. É uma recomendação, não uma obrigação.",
+ "context": "O proponente recorda que o SSM foi criado em 2015 e que a alteração de 2019 nunca foi regulamentada. Refere um grupo de trabalho criado em 2024, cujo relatório reconheceu os problemas do reembolso: documentação extensa nos balcões dos CTT e adiantamento do valor total do bilhete. O Decreto-Lei n.º 37-A/2025 e a Portaria n.º 138/2025/1 responderam a isso, mas o pagamento do valor líquido depende da entrada em funcionamento da plataforma eletrónica.",
+ "analysis": "Trata-se de uma recomendação não vinculativa, de objetivo claro e alinhada com a legislação já aprovada, o que reduz o risco de conflito de princípios. É, porém, genérica: não fixa prazo, orçamento nem responsáveis, pelo que o seu efeito prático depende da vontade do Governo. O texto atribui responsabilidades a governos anteriores, o que tem carácter político e não técnico. A avaliação periódica proposta é positiva, mas sem indicadores concretos pode ficar sem consequências mensuráveis. Não são apresentados custos da plataforma.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A plataforma implica despesa de implementação e altera o momento em que o Estado suporta o subsídio (no ato da compra, e não por reembolso), mas os montantes não constam do texto."
+ },
+ "affected": [
+  "residentes na Madeira",
+  "estudantes madeirenses",
+  "passageiros em viagens Madeira-continente"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "madeira",
+  "transporte aéreo",
+  "plataforma digital"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

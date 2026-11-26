@@ -1,0 +1,42 @@
+{
+ "short_title": "Sensibilização da população para riscos de tempestades",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo quatro medidas: reforçar as políticas de sensibilização e informação sobre riscos de tempestades e fenómenos extremos, com campanhas regulares de autoproteção; elaborar e distribuir a todas as famílias residentes um guia de emergência impresso para vários cenários de catástrofe; avaliar a criação de um sistema nacional de sinalização de alerta meteorológico, uniforme e complementar aos avisos do IPMA, associando cada nível a comportamentos concretos; e integrar em todos os ciclos de ensino obrigatório uma componente de educação para o risco e autoproteção.",
+ "key_points": [
+  "Reforçar campanhas regulares de sensibilização sobre autoproteção antes, durante e depois de tempestades.",
+  "Elaborar e distribuir um guia de emergência impresso a todas as famílias residentes.",
+  "Avaliar um sistema nacional de sinalização de alerta meteorológico complementar aos avisos existentes.",
+  "Integrar educação para o risco e autoproteção em todos os ciclos do ensino obrigatório."
+ ],
+ "plain_language": "Depois das tempestades Ingrid e Kristin, o PAN pede ao Governo mais informação à população sobre como se proteger, um guia de emergência em papel para todas as casas, sinais de alerta fáceis de perceber e aulas sobre riscos nas escolas. É só uma recomendação.",
+ "context": "O PAN refere os danos das depressões Ingrid e Kristin e considera que o sistema de avisos do IPMA, baseado em cores, não se traduz em sinalização pública orientada para o comportamento. Cita exemplos internacionais, como Japão, Hong Kong e Macau.",
+ "analysis": "A proposta é de baixo risco e assenta em práticas internacionais, com foco na prevenção. Fragilidades: não demonstra que a falta de sinalização tenha causado danos, não quantifica custos (sobretudo do guia impresso a todas as famílias), não define entidade responsável nem calendário e a alteração curricular exigiria articulação com o sistema educativo. A medida do sistema de sinalização é apenas de avaliação. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas, distribuição de guias impressos e novos conteúdos escolares implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "população em geral",
+  "famílias residentes",
+  "alunos do ensino obrigatório",
+  "proteção civil e IPMA"
+ ],
+ "categories": [
+  "seguranca",
+  "educacao",
+  "ambiente"
+ ],
+ "tags": [
+  "tempestades",
+  "proteção civil",
+  "alertas meteorológicos",
+  "guia de emergência",
+  "educação para o risco"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

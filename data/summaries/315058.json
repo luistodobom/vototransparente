@@ -1,0 +1,43 @@
+{
+ "short_title": "Reativar o Programa Trabalhos & Competências Verdes",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que avalie os resultados do Programa Trabalhos & Competências Verdes / Green Skills & Jobs, apresentando-os à Assembleia da República, e que o reative. Em caso de reativação, o programa deveria ter especial incidência nas regiões com maior concentração de emprego em instalações muito emissoras de gases com efeito de estufa e abranger trabalhadores de entidades afetadas pela seca ou escassez hídrica e de setores com necessidade de reconversão, bem como jovens à procura do primeiro emprego. Recomenda ainda que se estude a criação de bolsas ou licenças para trabalhadores que queiram desenvolver competências verdes.",
+ "key_points": [
+  "Avaliar os resultados do programa, incluindo a adequação da formação e o impacto na carreira dos formandos, e apresentá-los ao Parlamento.",
+  "Reativar o Programa Trabalhos & Competências Verdes / Green Skills & Jobs.",
+  "Dar especial incidência às regiões com maior concentração de emprego em instalações muito emissoras.",
+  "Alargar os destinatários a trabalhadores de setores afetados pela escassez hídrica e a jovens à procura do primeiro emprego.",
+  "Estudar bolsas ou licenças para trabalhadores desenvolverem competências verdes."
+ ],
+ "plain_language": "Havia um programa do IEFP para formar trabalhadores para empregos ligados à transição climática, que terminou. O PAN pede ao Governo que veja se funcionou, o volte a ativar e o alargue a mais pessoas, incluindo jovens sem emprego. Pede também que se estudem bolsas ou licenças para quem queira aprender competências verdes. O Governo não é obrigado a cumprir.",
+ "context": "O PAN refere um estudo da Universidade do Minho segundo o qual os empregos verdes são 13,2% do emprego total e a transição exigirá requalificar 150 mil trabalhadores. Critica a não prorrogação do programa, que tinha financiamento do PRR, e refere que as metas da reforma TC-r45 (formar 12 500 pessoas e chegar a 25 000) não foram atingidas segundo o Portal Recuperar Portugal.",
+ "analysis": "A iniciativa tem o mérito de pedir primeiro uma avaliação, o que evita reativar um programa sem se saber se funcionou. Fica por esclarecer o custo, a fonte de financiamento depois do PRR e a dimensão das bolsas ou licenças, e as recomendações têm natureza não vinculativa. O texto contém também juízos críticos sobre a inação de governos anteriores que não são demonstrados com dados além dos citados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reativação do programa e o estudo de bolsas ou licenças implicariam despesa pública em formação, sem montantes indicados no texto."
+ },
+ "affected": [
+  "trabalhadores que necessitam de reconversão profissional",
+  "jovens à procura do primeiro emprego",
+  "trabalhadores de setores afetados pela escassez hídrica",
+  "IEFP"
+ ],
+ "categories": [
+  "trabalho",
+  "ambiente",
+  "educacao"
+ ],
+ "tags": [
+  "competências verdes",
+  "formação profissional",
+  "transição climática",
+  "iefp",
+  "emprego"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

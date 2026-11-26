@@ -1,0 +1,41 @@
+{
+ "short_title": "Comissão Nacional para Debates Eleitorais",
+ "summary": "Projeto de Lei do LIVRE que cria a Comissão Nacional para Debates Eleitorais (CNDE), a funcionar na dependência da Comissão Nacional de Eleições, com a missão de garantir a representatividade e equidade de participação das candidaturas em debates nas eleições presidenciais, legislativas, regionais, autárquicas e europeias e em referendos. Emite recomendações e diretivas, assegura divulgação diversificada e acessibilidade a pessoas com deficiência. Tem composição permanente com representantes da CNE e de áreas do Governo e dez membros da sociedade civil nomeados pela Assembleia da República, sem remuneração; é presidida pela CNE. O Governo regulamenta em 60 dias. Altera ainda a Lei n.º 72-A/2015, definindo critérios de representatividade, como representação parlamentar, 1% dos votos ou hipótese legítima de eleição.",
+ "key_points": [
+  "Cria a CNDE junto da Comissão Nacional de Eleições.",
+  "Missão de garantir representatividade e equidade das candidaturas em debates eleitorais.",
+  "Composição com representantes do Governo e da CNE e dez membros da sociedade civil nomeados pela AR, sem remuneração.",
+  "Novo critério de representatividade na Lei n.º 72-A/2015: representação parlamentar, 1% dos votos ou hipótese legítima de eleição.",
+  "Regulamentação pelo Governo no prazo de 60 dias."
+ ],
+ "plain_language": "O projeto cria uma comissão pública para garantir que os debates eleitorais na comunicação social são justos e incluem as candidaturas relevantes, em vez de resultarem apenas de negociações entre televisões e partidos.",
+ "context": "O LIVRE considera os debates essenciais à democracia e refere que hoje resultam de um processo negocial que pode lesar candidaturas que deveriam estar representadas. Aponta modelos no Canadá e nos EUA e a preocupação com a desinformação e manipulação digital de conteúdos de debates.",
+ "analysis": "Ponto forte: procura critérios transparentes e uniformes para a participação em debates. Fragilidades: a CNDE interferiria na liberdade editorial dos órgãos de comunicação social, que o texto não aborda em detalhe; o critério de «hipótese legítima de eleição» baseado em sondagens é subjetivo; o sistema depende de regulamentação posterior; não estima custos de funcionamento do secretariado executivo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma nova comissão com secretariado executivo implica algum custo de funcionamento, embora os membros não sejam remunerados; o texto não indica montantes."
+ },
+ "affected": [
+  "candidaturas e partidos",
+  "órgãos de comunicação social",
+  "eleitores",
+  "Comissão Nacional de Eleições"
+ ],
+ "categories": [
+  "instituicoes",
+  "comunicacao"
+ ],
+ "tags": [
+  "debates eleitorais",
+  "eleições",
+  "cobertura eleitoral",
+  "comunicação social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

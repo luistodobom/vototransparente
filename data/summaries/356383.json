@@ -1,0 +1,44 @@
+{
+ "short_title": "Transparência fiscal de criptoativos e imposto mínimo global",
+ "summary": "A proposta de lei do Governo transpõe as Diretivas (UE) 2023/2226 e 2025/872, relativas à cooperação administrativa no domínio da fiscalidade. Cria o regime de comunicação obrigatória de informações por prestadores de serviços de criptoativos reportantes, com troca automática de informações no quadro do CARF da OCDE, e altera o artigo 124.º-A do Código do IRS. Revê o regime de troca de informações sobre contas financeiras (CRS), as regras dos operadores de plataformas e o sigilo da Lei n.º 26/2020. Altera o Regime do Imposto Mínimo Global, com troca de informações sobre o imposto complementar, e reforça o regime sancionatório, com coimas, por exemplo, de 2 000 a 22 500 euros pela falta de comunicação. A lei produz efeitos a partir de 1 de janeiro de 2026, com algumas normas a partir de 2028 e 2030.",
+ "key_points": [
+  "Obriga os prestadores de serviços de criptoativos a comunicar à Autoridade Tributária informações sobre os utilizadores residentes, segundo o CARF.",
+  "Altera o artigo 124.º-A do Código do IRS em termos equivalentes à diretiva.",
+  "Revê o regime de troca automática de informações sobre contas financeiras (CRS) e as regras dos operadores de plataformas.",
+  "Altera o Regime do Imposto Mínimo Global, com troca de informações sobre o imposto complementar.",
+  "Reforça as sanções: coima de 2 000 a 22 500 euros pela falta de comunicação, de 1 000 a 22 500 euros pela entrega fora de prazo, e de 500 a 11 250 euros ou 1 000 a 22 500 euros por omissões, inexatidões ou incumprimento da diligência devida.",
+  "Produz efeitos a partir de 1 de janeiro de 2026, exceto certas normas do regime de cooperação administrativa, a partir de 1 de janeiro de 2028 e de 2030."
+ ],
+ "plain_language": "Portugal vai passar a receber e a partilhar com outros países informações sobre quem detém e movimenta criptomoedas, para reduzir a fuga aos impostos. As empresas que prestam serviços de criptoativos terão de comunicar dados dos clientes à Autoridade Tributária, e há coimas se não o fizerem. A proposta mexe também nas regras do imposto mínimo global para grandes grupos.",
+ "context": "O Governo explica que a proposta transpõe diretivas europeias e acompanha os compromissos da OCDE, respondendo aos riscos de evasão fiscal associados a novos meios de pagamento e investimento. Pretende reforçar a integridade do sistema tributário e a justiça fiscal, harmonizando regras sem custos de contexto desproporcionados.",
+ "analysis": "A proposta cumpre obrigações europeias de transposição e uniformiza regras, o que reduz a fragmentação e reforça a capacidade de controlo da Autoridade Tributária. Os riscos incluem custos de conformidade para os prestadores de serviços, em especial os mais pequenos, e a proteção de dados pessoais dos utilizadores, que o texto remete para as regras gerais. O diploma é longo e técnico, com remissões e alterações a vários regimes, o que dificulta o escrutínio público, e o texto não estima o efeito na receita.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A maior transparência e as coimas visam reduzir a evasão fiscal e podem aumentar a receita, mas o texto não apresenta estimativas de montantes."
+ },
+ "affected": [
+  "prestadores de serviços de criptoativos",
+  "utilizadores de criptoativos",
+  "grupos multinacionais abrangidos pelo imposto mínimo global",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "internacional",
+  "ciencia"
+ ],
+ "tags": [
+  "criptoativos",
+  "CARF",
+  "cooperação fiscal",
+  "imposto mínimo global",
+  "diretiva europeia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

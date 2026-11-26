@@ -1,0 +1,39 @@
+{
+ "short_title": "Manter os exames finais nacionais e usar espaços municipais",
+ "summary": "Projeto de resolução do deputado do Chega que recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário, que agilize com as autarquias a utilização de espaços municipais, como pavilhões, para albergar alunos e professores durante as provas e que garanta a distribuição de máscaras e desinfetante nos exames. Critica o Decreto-Lei n.º 14-G/2020, que cancelou os exames para alunos internos e fez depender a avaliação final apenas da avaliação interna. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Manter os exames finais nacionais para aprovação de disciplinas e conclusão do secundário.",
+  "Agilizar com as autarquias a utilização de pavilhões e outros espaços municipais para a realização das provas.",
+  "Garantir máscaras e desinfetante nos exames."
+ ],
+ "plain_language": "O Chega pede que os exames nacionais não sejam cancelados por causa da pandemia. Para garantir a segurança, propõe usar pavilhões municipais e fornecer máscaras e desinfetante.",
+ "context": "O proponente considera que o regime em vigor trata alunos de forma desigual, já que alguns seguem a avaliação normal e outros não, e defende manter a normalidade na avaliação, resolvendo a falta de espaço das escolas com recurso a espaços municipais.",
+ "analysis": "A proposta apresenta uma solução prática para o problema do espaço e defende uniformidade da avaliação. Fragilidades: não estima custos de logística, vigilância e transporte, nem os riscos sanitários das provas; ignora o impacto do ensino à distância e as desigualdades de aprendizagem, argumento a favor do cancelamento; a decisão sobre exames é de natureza educativa e depende de avaliação sanitária. Refere-se ao calendário de 2020, entretanto ultrapassado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A utilização de espaços municipais, o fornecimento de máscaras e desinfetante implicam despesa pública não quantificada no texto."
+ },
+ "affected": [
+  "alunos do ensino secundário",
+  "professores e vigilantes",
+  "autarquias",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "saude"
+ ],
+ "tags": [
+  "exames nacionais",
+  "COVID-19",
+  "ensino secundário",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Plano de ação para o setor vitivinícola do Douro",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo um plano de ação integrado para a Região Demarcada do Douro. Inclui um auxílio financiado pelo Orçamento do Estado de até 15 milhões de euros, com apoio de pelo menos 0,50 euros por kg de uva entregue para destilação, e regulamentação até 1 de agosto de 2025. Propõe medidas estruturais para ajustar o potencial produtivo, como redução voluntária de área com compensações, bolsa de direitos de produção e limitação da expansão da vinha apta a DOP Porto, além de reconversão de terras, reforço da fiscalização e rotulagem, promoção plurianual, apoio às adegas cooperativas e governação integrada com avaliação anual. É uma recomendação.",
+ "key_points": [
+  "Auxílio de até 15 milhões de euros do Orçamento do Estado, com pelo menos 0,50 euros por kg de uva entregue para destilação.",
+  "Regulamentação até 1 de agosto de 2025, com critérios de elegibilidade e calendário públicos.",
+  "Medidas estruturais para ajustar o potencial produtivo: redução voluntária de área, bolsa de direitos e limitação da expansão da vinha.",
+  "Reconversão de terras e reforço da fiscalização, rastreabilidade e rotulagem da DOP Porto e DOC Douro.",
+  "Plano plurianual de promoção, apoio às adegas cooperativas e coordenação institucional com monitorização anual."
+ ],
+ "plain_language": "O PSD pede ao Governo que ajude os viticultores do Douro, que têm vinho a mais por vender, com um apoio de até 15 milhões de euros para quem entregue uvas à destilação. Pede também medidas para, a longo prazo, reduzir a área de vinha, melhorar a promoção e a fiscalização e apoiar as adegas cooperativas.",
+ "context": "O proponente descreve um desequilíbrio grave entre produção e procura na Região Demarcada do Douro, com stocks de cerca de 4,4 milhões de litros (50 000 pipas) que ameaçam pequenos e médios viticultores, cooperativas e a economia local, e defende uma resposta imediata e estrutural.",
+ "analysis": "A proposta combina alívio imediato com medidas estruturais e prevê governação e avaliação anual, o que a torna mais completa do que um simples subsídio. Fragilidades: a destilação de excedentes é uma solução paliativa que não corrige a causa, e as medidas estruturais, como limitar a expansão da vinha, podem ter impactos sobre os proprietários que o texto não discute. O prazo de regulamentação de 1 de agosto de 2025 é muito curto face à data da iniciativa, e algumas medidas dependem de fundos europeus sem verba indicada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda um auxílio de até 15 milhões de euros do Orçamento do Estado, além de outras medidas sem custos indicados."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "adegas cooperativas",
+  "empresas vitivinícolas da região",
+  "IVDP e entidades de fiscalização"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "Douro",
+  "vinho",
+  "viticultura",
+  "destilação",
+  "vinho do Porto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

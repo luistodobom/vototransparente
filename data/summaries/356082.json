@@ -1,0 +1,39 @@
+{
+ "short_title": "Subsídio de doença a 100% para doentes oncológicos",
+ "summary": "Projeto de Lei do Bloco de Esquerda que altera o Decreto-Lei n.º 28/2004 para garantir o pagamento do subsídio de doença a 100% da remuneração de referência aos doentes oncológicos, à semelhança do que já acontece com a tuberculose. Altera o artigo 16.º, acrescentando que, em incapacidade decorrente de tuberculose ou doença oncológica, o montante diário corresponde a 100% da remuneração de referência. Altera o artigo 21.º para que não haja período de espera nestas situações. A lei entra em vigor com a aprovação do Orçamento do Estado subsequente. Atualmente, segundo o texto, o subsídio varia entre 55% e 75% da remuneração de referência.",
+ "key_points": [
+  "Subsídio de doença a 100% da remuneração de referência para doença oncológica.",
+  "Fim do período de espera para doentes oncológicos (e tuberculose).",
+  "Alteração dos artigos 16.º e 21.º do Decreto-Lei n.º 28/2004.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, quem está de baixa por doença recebe entre 55% e 75% do seu salário de referência. O Bloco de Esquerda propõe que, quem tem cancro, receba 100% e comece a receber logo desde o início da baixa, sem tempo de espera. A mudança só teria efeito depois do Orçamento do Estado seguinte.",
+ "context": "O proponente refere o impacto financeiro e pessoal da doença oncológica, uma perda média anual de rendimento de cerca de 6500 euros por doente e agregado, e os dois milhões de euros anuais que a Liga Portuguesa Contra o Cancro afeta a apoios sociais. Invoca ainda o precedente do subsídio por assistência a filho com cancro, já elevado a 100%.",
+ "analysis": "A medida dá proteção de rendimento a quem mais precisa e é coerente com o regime já existente para a tuberculose e para o subsídio de assistência a filhos com cancro. Fragilidades: não há estimativa do custo para a Segurança Social, nem se explica a exclusão de outras doenças graves ou crónicas, o que pode criar tratamento desigual; também não define como se certifica a situação oncológica nem a duração máxima do subsídio. A ligação ao Orçamento do Estado condiciona a data efetiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento do montante do subsídio e o fim do período de espera elevam a despesa da Segurança Social; o texto não apresenta estimativa do custo."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "trabalhadores em baixa médica",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "segurança social",
+  "baixa médica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

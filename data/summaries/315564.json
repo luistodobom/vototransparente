@@ -1,0 +1,39 @@
+{
+ "short_title": "Aumentar o subsídio de refeição para 11 euros",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que atualize o valor do subsídio de refeição da Administração Pública para um mínimo de 11 euros, com efeitos a 1 de janeiro de 2026. O subsídio, criado pelo Decreto-Lei n.º 57-B/84, que prevê revisão anual por portaria, está, segundo o texto, estagnado nos 6 euros desde a atualização de 2023, apesar da inflação nos últimos anos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Atualizar o subsídio de refeição para um valor mínimo de 11 euros.",
+  "Efeitos a 1 de janeiro de 2026.",
+  "Corrigir a falta de revisão anual prevista no Decreto-Lei n.º 57-B/84."
+ ],
+ "plain_language": "Os trabalhadores do Estado recebem um subsídio diário para as refeições, que está nos 6 euros desde 2023. O LIVRE quer que o Governo o aumente para pelo menos 11 euros a partir de 2026. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente refere que a lei prevê revisão anual do subsídio, que as atualizações têm sido espaçadas e que a inflação em 2022, 2023 e 2024 (7,83%, 4,31% e 2,42%) desfasou o seu valor do custo de vida. Acrescenta que os trabalhadores públicos sofrem também com carreiras por rever e progressões lentas.",
+ "analysis": "A proposta é simples e visa repor poder de compra de um grupo numeroso de trabalhadores. Fragilidades: o aumento de 6 para 11 euros é muito expressivo e o texto não justifica o valor escolhido nem estima o custo para o Orçamento do Estado, dos municípios e dos institutos públicos. Não discute efeitos sobre trabalhadores do setor privado nem sobre a negociação coletiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um aumento do subsídio de refeição de 6 para um mínimo de 11 euros por dia aumentaria a despesa com pessoal na Administração Pública. O texto não apresenta montantes globais."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "serviços e organismos públicos",
+  "autarquias"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "subsídio de refeição",
+  "função pública",
+  "salários",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Sensibilização dos emigrantes para as legislativas de 2024",
+ "summary": "Projeto de Resolução do PAN (XV Legislatura) que recomenda ao Governo, através da Divisão de Administração Eleitoral do Ministério da Administração Interna e em articulação com a Comissão Nacional de Eleições, o Ministério dos Negócios Estrangeiros e o Conselho das Comunidades Portuguesas, que nas campanhas de esclarecimento cívico para as eleições legislativas de 10 de março de 2024 inclua ações específicas de sensibilização junto das comunidades portuguesas no estrangeiro sobre as formas de voto, os prazos e os procedimentos, nos consulados, por via postal ou eletrónica. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Ações de sensibilização dirigidas às comunidades portuguesas no estrangeiro.",
+  "Esclarecer formas de voto possíveis, prazos e procedimentos, por via postal e/ou eletrónica.",
+  "Articulação com a Comissão Nacional de Eleições, o MNE e o Conselho das Comunidades Portuguesas.",
+  "Aplica-se às legislativas de 10 de março de 2024."
+ ],
+ "plain_language": "O PAN pede ao Governo que informe melhor os portugueses que vivem no estrangeiro sobre como podem votar nas eleições de março de 2024, para evitar os problemas das eleições de 2022 e aumentar a participação.",
+ "context": "O PAN recorda a abstenção de 48,58% nas legislativas de 2022 e a anulação da eleição no círculo da Europa, que obrigou a repeti-la. Defende ações que evitem novos incidentes, enquanto decorre o processo legislativo do seu Projeto de Lei n.º 518/XV/1.ª.",
+ "analysis": "A medida é de baixo custo e dirigida a um problema identificado, a participação e os erros no voto por correspondência. Sendo uma recomendação sem metas, calendário ou meios definidos, o efeito depende da execução do Governo. Não resolve as dificuldades estruturais de voto no estrangeiro, que o PAN trata noutra iniciativa. A data da eleição limita o tempo útil da recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As campanhas de sensibilização implicam alguma despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "portugueses residentes no estrangeiro",
+  "consulados",
+  "administração eleitoral"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "voto no estrangeiro",
+  "emigrantes",
+  "legislativas 2024",
+  "abstenção",
+  "campanha cívica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

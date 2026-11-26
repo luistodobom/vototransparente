@@ -1,0 +1,39 @@
+{
+ "short_title": "Valorização da profissão de bombeiro",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas para valorizar a profissão de bombeiro: antecipar a idade de acesso à pensão de velhice, sem penalizações, reconhecendo a profissão como de desgaste rápido; criar um regime de avaliação específico para os Bombeiros Sapadores, adaptando o SIADAP; rever a organização do tempo e horário de trabalho dos Bombeiros Sapadores, respeitando os tempos de descanso; e subir o nível de entrada na carreira dos Bombeiros Sapadores do nível 12 para o 14 da Tabela Remuneratória Única. A iniciativa recorda que uma proposta anterior do LIVRE (Projeto de Lei 165/XVII/1) foi rejeitada.",
+ "key_points": [
+  "Antecipar a idade de acesso à pensão de velhice sem penalizações, reconhecendo o desgaste rápido da profissão.",
+  "Criar um regime de avaliação específico para Bombeiros Sapadores, adaptando o SIADAP.",
+  "Rever a organização do tempo e horário de trabalho, com turnos mais adequados e respeito pelo descanso.",
+  "Subir o nível de entrada na carreira de Bombeiro Sapador do nível 12 para o 14 da Tabela Remuneratória Única."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que reconheça que ser bombeiro desgasta mais do que outras profissões e, por isso, permita reformas mais cedo sem cortes na pensão. Pede também regras de avaliação e de horários adaptadas aos bombeiros sapadores e um salário de entrada mais alto. É uma recomendação ao Governo, sem efeito obrigatório.",
+ "context": "O proponente invoca os riscos para a saúde dos bombeiros, nomeadamente a exposição a fumo de incêndios, o esforço físico, os turnos longos e o impacto psicológico, e refere reivindicações dos bombeiros sapadores quanto ao SIADAP, ao tempo de trabalho e à entrada na carreira. Recorda que o seu projeto de lei sobre o desgaste rápido foi rejeitado pela Assembleia da República.",
+ "analysis": "As medidas respondem a reivindicações identificáveis e têm objetivos precisos, sobretudo a subida do nível de entrada. Fragilidades: a antecipação da reforma sem penalização implica encargos para a Segurança Social que o texto não estima, e não define a idade nem os critérios. A iniciativa retoma matéria já rejeitada em projeto de lei, sob a forma de recomendação não vinculativa. Também não distingue custos para municípios, que tutelam os bombeiros sapadores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforma antecipada sem penalizações e subida do nível remuneratório de entrada implicariam maior despesa com pensões e pessoal; o texto não apresenta valores."
+ },
+ "affected": [
+  "bombeiros profissionais",
+  "bombeiros sapadores",
+  "municípios"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca"
+ ],
+ "tags": [
+  "bombeiros",
+  "desgaste rápido",
+  "reforma antecipada",
+  "bombeiros sapadores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

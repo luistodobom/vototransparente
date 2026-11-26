@@ -1,0 +1,40 @@
+{
+ "short_title": "Construção de um centro de saúde no Feijó",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo quatro medidas para os cuidados de saúde primários em Almada: construir, em tempo útil, o Centro de Saúde do Feijó; reorganizar o Centro de Saúde de Santo António do Laranjeiro para garantir resposta de qualidade; contratar médicos de medicina geral e familiar, enfermeiros e secretários clínicos para atribuir equipa de família a todos os utentes; e investir na capacidade de realizar exames complementares de diagnóstico nos dois centros. O texto invoca a petição n.º 641/XIII/4.ª, com 4278 subscritores, e refere cerca de 47 mil utentes inscritos no Laranjeiro e Feijó, dos quais cerca de metade sem médico de família. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Construir o Centro de Saúde do Feijó em tempo útil.",
+  "Reorganizar o Centro de Saúde de Santo António do Laranjeiro.",
+  "Contratar médicos de família, enfermeiros e secretários clínicos para dar equipa de família a todos os utentes.",
+  "Investir em exames complementares de diagnóstico nos dois centros."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que construa um centro de saúde no Feijó (Almada), onde muitos utentes ficam longe do atual e cerca de metade não tem médico de família. Pede também mais profissionais e mais exames nos dois centros. É uma recomendação.",
+ "context": "O BE aponta a falta de meios humanos e equipamentos no distrito de Setúbal. O centro de Santo António, no Laranjeiro, tem instalações insuficientes para cerca de 47 mil utentes, as salas de espera estão sobrelotadas, os tempos de espera são longos e a população do Feijó, envelhecida, tem fracas ligações de transporte. Apoia a petição com 4278 assinaturas.",
+ "analysis": "A proposta é local e específica, apoiada por uma petição e por dados de utentes sem médico. Fragilidades: não fixa prazo (apenas \"em tempo útil\"), custo, localização ou financiamento, nem a forma de recrutar profissionais, que é o principal constrangimento do SNS. Sem contratação, um novo edifício pode não resolver a falta de médicos de família. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção do centro, as contratações e o investimento em exames implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utentes do Laranjeiro e Feijó (Almada)",
+  "profissionais de saúde dos cuidados primários",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "centro de saúde",
+  "feijó",
+  "almada",
+  "médico de família",
+  "cuidados de saúde primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

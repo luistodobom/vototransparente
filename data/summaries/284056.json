@@ -1,0 +1,39 @@
+{
+ "short_title": "Citação eletrónica de entidades públicas nos tribunais administrativos",
+ "summary": "Projeto de Lei do PAN que altera o artigo 24.º do Código de Processo nos Tribunais Administrativos para generalizar a citação eletrónica das entidades públicas. O n.º 4 passa a dizer que a citação das entidades públicas é efetuada eletronicamente e, quando não houver lugar a despacho liminar, de forma automática, nos termos da portaria referida no n.º 1, em vez de se limitar às entidades identificadas por portaria. A lei entraria em vigor a 1 de setembro de 2025. A iniciativa invoca a uniformização de regras de citação e a celeridade processual.",
+ "key_points": [
+  "Altera o n.º 4 do artigo 24.º do Código de Processo nos Tribunais Administrativos.",
+  "A citação de todas as entidades públicas passa a ser eletrónica, e automática quando não haja despacho liminar.",
+  "Deixa de depender da identificação das entidades por portaria do membro do Governo da Justiça.",
+  "Entrada em vigor a 1 de setembro de 2025."
+ ],
+ "plain_language": "Quando alguém processa uma entidade pública nos tribunais administrativos, essa entidade tem de ser avisada formalmente. O PAN propõe que este aviso seja sempre feito por via eletrónica, o que pode tornar os processos mais rápidos.",
+ "context": "O PAN recorda que o Plano de Recuperação e Resiliência prevê a citação eletrónica das pessoas coletivas como regra, e que a Proposta de Lei n.º 13/XVI/1.ª visa cumpri-lo. Considera inconcebível que, cinco anos depois da Lei n.º 118/2019, a citação eletrónica das entidades públicas não esteja generalizada.",
+ "analysis": "A proposta é simples e visa reduzir tempos de tramitação e uniformizar regras. A fragilidade está na dependência da portaria referida no n.º 1, que não é alterada, e na ausência de avaliação da capacidade dos sistemas informáticos e das entidades para receber citações. O texto não prevê regras de transição nem garantias para falhas técnicas. O texto apresenta o projeto com a numeração XV, o que parece ser lapso.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não identifica custos ou receitas. A citação eletrónica pode reduzir custos de tramitação, mas não há estimativa."
+ },
+ "affected": [
+  "entidades públicas demandadas",
+  "tribunais administrativos",
+  "advogados e cidadãos com ações contra o Estado"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "citação eletrónica",
+  "tribunais administrativos",
+  "entidades públicas",
+  "celeridade processual"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Salvar a Casa do Alentejo",
+ "summary": "Projeto de resolução do PEV que recomenda ao Governo que promova as diligências necessárias para garantir uma solução de financiamento viável à Casa do Alentejo, de modo a manter os postos de trabalho e a atividade para além do fim de 2020, em articulação com a Câmara Municipal de Lisboa e os municípios do Alentejo. O texto descreve a associação, fundada em 1923 e sediada desde 1932 no Palácio Alverca, e afirma que, com a pandemia, as receitas caíram cerca de 84%. A associação recorreu a layoff e a um empréstimo de 400 mil euros com aval do Estado para manter 32 postos de trabalho, antes eram 44.",
+ "key_points": [
+  "Garantir uma solução de financiamento viável à Casa do Alentejo para além de 2020.",
+  "Manter os 32 postos de trabalho atuais e a atividade da associação.",
+  "Articular as diligências com a Câmara Municipal de Lisboa e os municípios do Alentejo."
+ ],
+ "plain_language": "O PEV pede ao Governo que ajude a encontrar financiamento para a Casa do Alentejo, em Lisboa, que perdeu a maior parte das receitas com a pandemia, para que não feche e mantenha os trabalhadores. É uma recomendação não vinculativa.",
+ "context": "O proponente refere que a pandemia reduziu as receitas da Casa do Alentejo em cerca de 84% devido à quebra do turismo e da restauração, enquanto grande parte das despesas se mantêm, incluindo a manutenção do Palácio Alverca. Receia o encerramento, o desemprego dos 32 trabalhadores e a perda para a cultura alentejana e para a oferta turística de Lisboa.",
+ "analysis": "A proposta destaca o valor patrimonial e cultural da associação e a ameaça a postos de trabalho. Contudo, a recomendação é vaga: não indica montante, instrumento ou calendário, e visa uma associação concreta, o que levanta questões de equidade face a outras coletividades afetadas pela pandemia. A articulação com vários municípios não é detalhada. Sendo recomendação, o seu efeito depende da decisão do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma solução de financiamento público implicaria despesa, mas o texto não indica montantes nem a fonte."
+ },
+ "affected": [
+  "Casa do Alentejo",
+  "32 trabalhadores",
+  "movimento associativo",
+  "Câmara Municipal de Lisboa",
+  "municípios do Alentejo"
+ ],
+ "categories": [
+  "cultura",
+  "trabalho"
+ ],
+ "tags": [
+  "casa do alentejo",
+  "associativismo",
+  "covid-19",
+  "financiamento",
+  "palácio alverca"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da Língua Gestual Portuguesa nas escolas",
+ "summary": "Projeto de resolução do Livre que recomenda ao Governo cinco medidas: garantir formação adequada em Língua Gestual Portuguesa (LGP) a todo o pessoal docente e não docente das escolas de referência para a educação bilingue; aumentar as horas letivas de LGP nessas escolas; assegurar a aprendizagem de LGP em todas as escolas; alargar a rede de escolas de referência para a educação bilingue, com adequada cobertura geográfica; e reconhecer a LGP como meio oficial de comunicação e expressão do Estado Português. Não é vinculativo.",
+ "key_points": [
+  "Formação em LGP para todo o pessoal docente e não docente das escolas de referência bilingue.",
+  "Mais horas letivas de LGP nessas escolas.",
+  "Aprendizagem de LGP assegurada em todas as escolas.",
+  "Alargamento da rede de escolas de referência para a educação bilingue.",
+  "Reconhecimento da LGP como meio oficial de comunicação e expressão do Estado."
+ ],
+ "plain_language": "O Livre pede ao Governo que reforce o ensino da língua gestual nas escolas: mais formação para quem trabalha com alunos surdos, mais aulas, mais escolas bilingues e ensino de língua gestual em todas as escolas. Pede também que o Estado reconheça formalmente esta língua como meio oficial de comunicação. É uma recomendação.",
+ "context": "O Livre cita a petição \"Por uma inclusão efetiva nas escolas\" e a Associação Portuguesa de Surdos, segundo a qual o desconhecimento da LGP exclui a comunidade surda. Refere que a oferta de escolas bilingues é insuficiente e desigual, que há profissionais com formação insuficiente e que o Orçamento do Estado reconhece a LGP como meio oficial sem que isso se tenha concretizado.",
+ "analysis": "As medidas são claras e respondem a reivindicações da comunidade surda. As fragilidades: não há metas, prazos ou custos; ensinar LGP em todas as escolas exigiria muitos formadores e currículo, o que não é analisado; e o reconhecimento oficial como meio de comunicação do Estado tem implicações práticas (intérpretes, serviços públicos) que não são detalhadas. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Formação, mais horas letivas, novas escolas de referência e ensino generalizado de LGP implicam despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "alunos e comunidade surda",
+  "docentes e pessoal não docente das escolas bilingues",
+  "escolas",
+  "intérpretes de língua gestual"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "língua gestual portuguesa",
+  "educação bilingue",
+  "surdos",
+  "escolas de referência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Salvaguardar a zona húmida das Alagoas Brancas",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo medidas para proteger as Alagoas Brancas, em Lagoa. Pede diligências, em articulação com o ICNF, a APA e a Câmara Municipal de Lagoa, para assegurar a proteção efetiva da zona húmida; um plano de gestão ambiental específico, com conservação, monitorização ecológica, controlo de espécies invasoras e recuperação de áreas degradadas; que o Governo incentive a Câmara a classificar a zona como área protegida de âmbito local, com base nos estudos já existentes; e que o financiamento do Fundo Ambiental se traduza em resultados concretos de proteção. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Diligências com ICNF, APA e Câmara de Lagoa para a proteção efetiva da zona húmida.",
+  "Plano de gestão ambiental com conservação, monitorização, controlo de espécies invasoras e recuperação de áreas degradadas.",
+  "Incentivo à classificação como área protegida de âmbito local, com base nos estudos já produzidos.",
+  "Garantia de que o financiamento do Fundo Ambiental produz resultados concretos de proteção."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que garanta que as Alagoas Brancas, uma pequena zona húmida de Lagoa já comprada com dinheiro público, ficam realmente protegidas, com um plano de gestão e estatuto de área protegida local. É apenas uma recomendação ao Governo.",
+ "context": "O proponente descreve as Alagoas Brancas como uma das últimas zonas húmidas do Algarve, com valor ecológico demonstrado por um estudo de 2019, e recorda que os terrenos foram adquiridos em 2024 pelo Município com 3,7 milhões de euros do Fundo Ambiental. Refere denúncias de um movimento cívico de estagnação e falta de plano de gestão eficaz.",
+ "analysis": "A proposta é concreta ao pedir plano de gestão, classificação e verificação do uso do financiamento, e baseia-se em estudos técnicos existentes. Fragilidades: a maior parte das ações depende do município, que o Governo só pode incentivar, e não são definidos prazos nem meios; as acusações de estagnação assentam em posições de um movimento cívico, citadas sem contraditório; e o texto faz referências políticas ao passado que não suportam diretamente as medidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O plano de gestão e a recuperação de áreas degradadas implicam despesa pública não quantificada, além dos 3,7 milhões de euros do Fundo Ambiental já atribuídos."
+ },
+ "affected": [
+  "município de Lagoa",
+  "população local",
+  "associações ambientais",
+  "fauna e flora da zona húmida"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "Alagoas Brancas",
+  "zona húmida",
+  "Fundo Ambiental",
+  "área protegida local",
+  "plano de gestão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

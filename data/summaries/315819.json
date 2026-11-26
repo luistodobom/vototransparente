@@ -1,0 +1,40 @@
+{
+ "short_title": "Recuperação de pendências das juntas médicas de incapacidade",
+ "summary": "O projeto de lei do PS propõe um processo extraordinário para recuperar as avaliações pendentes das juntas médicas de avaliação de incapacidade (JMAI), que funcionam junto das Unidades Locais de Saúde e são necessárias para obter o Atestado Médico de Incapacidade Multiúsos. Prevê um levantamento completo dos pedidos pendentes no prazo de 60 dias e, depois, a recuperação das pendências com recurso a horas extraordinárias, que não contam para os limites legais de trabalho suplementar nas ULS. Admite ainda outras medidas de recuperação e atribui ao Governo 90 dias para regulamentar a lei.",
+ "key_points": [
+  "Levantamento completo dos pedidos de JMAI pendentes no prazo de 60 dias.",
+  "Recuperação das pendências com recurso a horas extraordinárias nas ULS.",
+  "As horas extraordinárias deste processo não contam para os limites legais de trabalho suplementar.",
+  "Possibilidade de adotar outras medidas para recuperar pendências.",
+  "Regulamentação pelo Governo em 90 dias; entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "Há muitas pessoas com deficiência ou incapacidade à espera de uma avaliação médica para obter o atestado de incapacidade. A proposta manda contar quantos pedidos estão pendentes e permite que os médicos façam horas extra para os despachar mais depressa.",
+ "context": "Os proponentes referem listas de espera longas, sobretudo nas áreas metropolitanas de Lisboa e Porto, com dezenas de milhares de avaliações pendentes. Indicam que o anterior Governo preparou uma solução assente em horas extraordinárias dos médicos, mas o problema continua por resolver.",
+ "analysis": "A medida ataca um problema concreto e conhecido, com um prazo definido para o diagnóstico. No entanto, depende de horas extraordinárias, o que pode não ser suficiente se faltarem médicos disponíveis, e excluir essas horas dos limites legais pode suscitar questões de sobrecarga dos profissionais. O texto não define metas de redução, calendário de execução nem financiamento, remetendo muito para a regulamentação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento de horas extraordinárias aos médicos das juntas implica despesa adicional para as ULS. O texto não quantifica montantes."
+ },
+ "affected": [
+  "pessoas com deficiência ou incapacidade",
+  "médicos das juntas médicas",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "incapacidade",
+  "juntas médicas",
+  "listas de espera",
+  "horas extraordinárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

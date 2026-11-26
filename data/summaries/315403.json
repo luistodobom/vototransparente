@@ -1,0 +1,41 @@
+{
+ "short_title": "Alteração ao crédito bonificado para pessoas com deficiência (PS)",
+ "summary": "Projeto de Lei do PS que procede à primeira alteração da Lei n.º 64/2014, sobre o crédito bonificado à habitação para pessoas com deficiência. Alarga o regime a membros do agregado familiar, desde que a habitação se destine comprovadamente à residência própria e permanente da pessoa com deficiência, por exemplo pais de filhos com deficiência. Atualiza o montante máximo do empréstimo para 450 mil euros, alinhado com o limite da garantia pública para jovens (Decreto-Lei n.º 44/2024), atualizado anualmente pelo índice de preços no consumidor e limitado a 90% do valor da habitação ou das obras. Cria uma redução progressiva da bonificação ao longo de quatro anos para quem a recebeu pelo menos cinco anos e passa a ter incapacidade inferior a 60%. Exige documentos adicionais e entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga o crédito bonificado a membros do agregado familiar, se a casa for residência própria e permanente da pessoa com deficiência.",
+  "Fixa o montante máximo do empréstimo em 450 mil euros, atualizado anualmente, com teto de 90% do valor da habitação ou das obras.",
+  "Cria redução progressiva da bonificação (20%, 40%, 60% e 80% nos quatro anos seguintes) para quem passe a ter incapacidade inferior a 60% após cinco anos no regime.",
+  "Mantém a migração para o regime de créditos já contratados quando surge incapacidade igual ou superior a 60%.",
+  "Exige certidão de domicílio fiscal e certificado de composição do agregado familiar aos familiares requerentes."
+ ],
+ "plain_language": "O PS propõe que pais e outros familiares de uma pessoa com deficiência possam pedir o crédito à habitação com juros apoiados, se a casa for para essa pessoa viver. O empréstimo máximo passaria a 450 mil euros. Se a incapacidade for reavaliada e descer abaixo de 60%, o apoio não acaba de repente: reduz-se aos poucos, durante quatro anos.",
+ "context": "O proponente refere que, na prática, são muitas vezes os familiares quem compra a habitação adequada, o que a lei atual não contempla. Invoca também a necessidade de ajustar o limite do empréstimo aos preços do mercado imobiliário e de evitar mudanças abruptas na taxa de esforço das famílias após reavaliação da incapacidade.",
+ "analysis": "A iniciativa corrige uma exclusão relevante e introduz uma transição gradual que dá previsibilidade às famílias. O alinhamento do teto com o regime da garantia pública dá coerência, mas é um valor elevado face à realidade de muitos agregados e aumenta o custo das bonificações. O texto não apresenta estimativa orçamental nem número de potenciais beneficiários, e o alargamento a familiares exige verificação rigorosa da afetação da casa à pessoa com deficiência. A remissão para despacho conjunto deixa condições relevantes por definir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento dos beneficiários e do montante elegível aumenta a despesa com bonificações de juros. O texto não quantifica o custo."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "pais e familiares do agregado",
+  "instituições de crédito"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "crédito bonificado",
+  "deficiência",
+  "agregado familiar",
+  "habitação própria permanente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

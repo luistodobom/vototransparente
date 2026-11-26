@@ -1,0 +1,41 @@
+{
+ "short_title": "Incentivos ao descarte e reaproveitamento de pontas de tabaco",
+ "summary": "O PAN propõe uma resolução que recomenda ao Governo um conjunto de medidas para o correto descarte e reaproveitamento das pontas de produtos de tabaco. Pede um relatório à Assembleia sobre o impacto da Lei n.º 88/2019 (Lei das Beatas), uma campanha nacional de sensibilização com entrega de cinzeiros de bolso, um sistema de incentivos no âmbito do Fundo Ambiental para os estabelecimentos adquirirem cinzeiros, e apoio a investigação científica e tecnológica para tratamento e reciclagem dos resíduos. Recomenda ainda programas com autarquias para outros produtos de tabaco com filtros e uma estratégia nacional de reaproveitamento. A Assembleia auscultaria também os municípios sobre a aplicação da lei. Trata-se de recomendação, sem força vinculativa.",
+ "key_points": [
+  "Relatório sobre o impacto da Lei n.º 88/2019 na redução de resíduos de tabaco.",
+  "Campanha nacional de sensibilização com entrega de cinzeiros de bolso.",
+  "Sistema de incentivos do Fundo Ambiental para estabelecimentos adquirirem cinzeiros e equipamentos.",
+  "Apoio à investigação e tecnologia para tratamento e reciclagem dos resíduos.",
+  "Estratégia nacional de reaproveitamento e auscultação dos municípios pela Assembleia."
+ ],
+ "plain_language": "Este texto não obriga o Governo a nada: é um pedido de recomendação. Pede mais ações para que as beatas (pontas de cigarro) não acabem no chão ou no mar, como campanhas, cinzeiros de bolso, apoios aos estabelecimentos e investigação para as reciclar. Pede também uma avaliação de como a lei das beatas tem sido aplicada.",
+ "context": "A Lei n.º 88/2019 limitou o descarte de pontas de tabaco em espaço público e previu campanhas de sensibilização e apoios. O PAN entende que várias dessas obrigações não foram cumpridas e que é preciso reforçar incentivos e conhecer a aplicação do regime, em linha com a Diretiva (UE) 2019/904 sobre plásticos.",
+ "analysis": "A resolução reúne medidas coerentes com obrigações já previstas na lei, e o pedido de relatório favorece a transparência. Porém, é meramente recomendatória, não define prazos, orçamentos nem responsáveis, e depende da vontade do Governo. Alguns pontos duplicam deveres legais já existentes, o que sugere falta de execução mais do que falta de legislação. Os custos de incentivos e campanhas não são estimados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As campanhas, os incentivos via Fundo Ambiental e o apoio à investigação implicariam despesa, que o texto não quantifica."
+ },
+ "affected": [
+  "fumadores",
+  "estabelecimentos comerciais",
+  "municípios",
+  "Fundo Ambiental"
+ ],
+ "categories": [
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "beatas",
+  "resíduos de tabaco",
+  "lei das beatas",
+  "fundo ambiental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

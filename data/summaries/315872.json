@@ -1,0 +1,43 @@
+{
+ "short_title": "Pensão de velhice para pessoas com incapacidade igual ou superior a 60%",
+ "summary": "O Projeto de Lei n.º 330/XVII/1.ª, do BE, cria um regime jurídico de acesso à pensão de velhice para trabalhadores com incapacidade igual ou superior a 60%. Define uma idade pessoal de acesso à pensão, reduzindo a idade normal em um ano por cada dois anos de trabalho com incapacidade de 60% a 79%, um ano por cada ano com 80% a 89% e um ano por cada seis meses com 90% ou mais, com limite de 55 anos. A pensão tem um acréscimo de 1% à taxa global de formação por cada ano trabalhado nessa condição e não se lhe aplicam o fator de redução nem o de sustentabilidade. A prova é feita com atestado médico multiusos e o Governo regulamenta em 90 dias.",
+ "key_points": [
+  "Idade pessoal de acesso à pensão reduzida de um ano por cada dois anos (60% a 79%), um ano por cada ano (80% a 89%) ou um ano por cada seis meses (90% ou mais) de trabalho com incapacidade.",
+  "Limite mínimo de 55 anos de idade.",
+  "Acréscimo de 1% à taxa global de formação da pensão por cada ano de trabalho com incapacidade igual ou superior a 60%.",
+  "Não se aplicam o fator de redução nem o fator de sustentabilidade.",
+  "Prova por atestado médico de incapacidade multiusos ou, na sua falta, relatório médico do diagnóstico.",
+  "Regulamentação em 90 dias e aplicação do regime mais favorável a quem já tenha requerido a pensão."
+ ],
+ "plain_language": "Quem trabalhou com uma incapacidade de 60% ou mais poderia reformar-se mais cedo, até aos 55 anos, consoante os anos trabalhados e o grau de incapacidade, e a pensão seria calculada sem cortes e com um acréscimo por cada ano trabalhado nessa situação. A prova seria feita com o atestado médico multiusos.",
+ "context": "O BE invoca a Convenção da ONU sobre os Direitos das Pessoas com Deficiência e a esperança média de vida inferior de pessoas com deficiência intelectual, cerca de 10 anos abaixo. Considera que o regime da Lei n.º 5/2022, limitado a incapacidade igual ou superior a 80%, é insuficiente, e propõe uma lógica semelhante à das profissões de desgaste rápido.",
+ "analysis": "A proposta é abrangente e gradua a antecipação conforme o grau de incapacidade e os anos trabalhados, com majoração da pensão que evita pensões muito baixas. Em contrapartida, o custo para a Segurança Social não é estimado e o regime sobrepõe-se ao da Lei n.º 5/2022. O dado de esperança média de vida baseia-se num grupo específico, a deficiência intelectual, e é generalizado a todos com incapacidade igual ou superior a 60%. O acréscimo de 1% por ano é elevado em comparação com outros regimes, o que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reforma antecipada sem fator de redução ou de sustentabilidade, com bonificação da taxa de formação, aumentaria a despesa da Segurança Social. O texto não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores com incapacidade igual ou superior a 60%",
+  "pensionistas com deficiência",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "deficiência",
+  "pensão de velhice",
+  "idade pessoal de reforma",
+  "incapacidade",
+  "atestado multiusos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

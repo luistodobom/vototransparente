@@ -1,0 +1,41 @@
+{
+ "short_title": "Suspender prazos processuais e apoio jurídico após a Kristin",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas para as vítimas da depressão Kristin: suspender os prazos processuais nos tribunais das comarcas abrangidas pelo estado de calamidade, ou cujo edificado tenha sido afetado, até serem restabelecidas as condições de funcionamento; considerar automaticamente demonstrado o justo impedimento para a prática de atos processuais por quem resida em zona de calamidade (magistrados, Ministério Público, secretarias, advogados e intervenientes); criar, com a Ordem dos Advogados e os municípios afetados, uma rede de apoio jurídico às vítimas; e divulgá-la junto das populações.",
+ "key_points": [
+  "Suspender os prazos processuais nos tribunais das comarcas em estado de calamidade ou afetados pela tempestade.",
+  "Considerar automaticamente demonstrado o justo impedimento para quem resida na zona de calamidade.",
+  "Criar, com a Ordem dos Advogados e os municípios, uma rede de apoio jurídico às vítimas.",
+  "Divulgar a rede de apoio jurídico junto das populações afetadas."
+ ],
+ "plain_language": "Depois da tempestade Kristin, muitas pessoas e advogados não conseguem cumprir prazos em tribunal. O LIVRE pede que os prazos sejam suspensos nas zonas afetadas e que haja apoio jurídico gratuito, em parceria com a Ordem dos Advogados. É uma recomendação.",
+ "context": "O LIVRE descreve a depressão Kristin, entre 27 e 29 de janeiro de 2026, e o estado de calamidade decretado a 30 de janeiro e prorrogado até 8 de fevereiro, abrangendo pelo menos 60 municípios. Invoca os pedidos da Ordem dos Advogados para suspender os prazos e a sua disponibilidade para colaborar numa rede de apoio.",
+ "analysis": "A medida responde a um problema concreto de acesso à justiça em situação de força maior e tem apoio da Ordem dos Advogados. Fragilidades: suspender prazos por decisão do Governo pode envolver matéria da competência do Parlamento ou dos tribunais, e o texto não define a duração, o âmbito territorial exato nem o financiamento da rede de apoio jurídico. A suspensão generalizada pode atrasar processos urgentes ou prejudicar quem não foi afetado. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e divulgação de uma rede de apoio jurídico às vítimas implicaria alguma despesa, não quantificada no texto."
+ },
+ "affected": [
+  "vítimas da depressão Kristin",
+  "advogados e magistrados das zonas afetadas",
+  "tribunais das comarcas em calamidade",
+  "Ordem dos Advogados e municípios"
+ ],
+ "categories": [
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "depressão Kristin",
+  "prazos processuais",
+  "apoio jurídico",
+  "estado de calamidade",
+  "acesso à justiça"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

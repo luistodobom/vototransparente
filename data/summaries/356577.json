@@ -1,0 +1,41 @@
+{
+ "short_title": "Sistema único de bilhética integrada com base no 1bilhete.pt",
+ "summary": "O projeto de resolução do Chega recomenda ao Governo que garanta a implementação do projeto 1Bilhete.pt e a sua evolução para um Sistema Nacional Único de Bilhética Integrada plenamente operacional até 2027, cumprindo rigorosamente os prazos previstos. Propõe a obrigatoriedade de adesão de todos os operadores de transporte público, autoridades de transporte e entidades gestoras de bilhética, e um sistema universal em que, com um único registo, o utilizador aceda a todos os serviços usando aplicação móvel, cartão bancário ou Cartão de Cidadão. Pede ainda um plano nacional de implementação faseada com metas e monitorização pública e que sejam assegurados os meios financeiros, técnicos e operacionais, incluindo financiamento europeu, evitando encargos excessivos para os contribuintes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Evolução do 1Bilhete.pt para um Sistema Nacional Único de Bilhética Integrada, plenamente operacional até 2027.",
+  "Adesão obrigatória de todos os operadores, autoridades de transporte e entidades gestoras de bilhética.",
+  "Registo único e acesso por aplicação móvel, cartão bancário ou Cartão de Cidadão.",
+  "Plano nacional de implementação faseada, com metas e monitorização pública.",
+  "Meios financeiros e técnicos assegurados, incluindo fundos europeus, sem encargos excessivos para os contribuintes."
+ ],
+ "plain_language": "O Chega pede ao Governo que acelere um sistema de bilhete único para todos os transportes públicos do país, de modo que se possa usar a mesma aplicação, cartão bancário ou Cartão de Cidadão em qualquer operador. Os operadores seriam obrigados a aderir. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente aponta a fragmentação dos sistemas de bilhética e refere o projeto 1Bilhete.pt, lançado em fevereiro de 2023 pelo IMT, TML e TIP, em implementação faseada, com funcionalidades principais previstas até junho de 2026 e plena operacionalização entre 2026 e 2027. Considera que a adesão voluntária compromete a universalidade.",
+ "analysis": "A proposta reforça um projeto já em curso e define metas e transparência, apontando a adesão obrigatória como forma de garantir a universalidade. Fragilidades: não identifica quem suportaria os custos dos operadores obrigados a aderir nem como compatibilizar sistemas tecnológicos distintos; a obrigatoriedade pode exigir alteração legal e levantar resistências das autoridades locais; as referências a «evitar encargos excessivos» e a financiamento europeu não são quantificadas; sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A implementação e a adesão obrigatória implicam despesa com tecnologia e integração, parcialmente financiável por fundos europeus. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "operadores e autoridades de transporte",
+  "entidades gestoras de bilhética"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "ciencia"
+ ],
+ "tags": [
+  "bilhética integrada",
+  "1bilhete.pt",
+  "interoperabilidade",
+  "transporte público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

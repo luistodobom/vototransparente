@@ -1,0 +1,39 @@
+{
+ "short_title": "Apoio extraordinário às Associações de Bombeiros Voluntários",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo quatro medidas de apoio às Associações Humanitárias de Bombeiros Voluntários: regularizar em 30 dias as faturas em dívida, repor todas as viaturas perdidas nos incêndios, aumentar em 100 % o subsídio diário para todos os bombeiros e disponibilizar 50 milhões de euros para um apoio extraordinário às associações que integraram o DECIR, incluindo o pagamento extraordinário de quatro meses do Fundo Permanente. O texto refere que as associações acumulam défices, têm valores por receber da ANEPC, do INEM, das ARS e dos hospitais, e que o aumento de 25 % do subsídio diário decidido pelo Governo (75 euros) é insuficiente.",
+ "key_points": [
+  "Regularizar em 30 dias as faturas em dívida às associações.",
+  "Repor todas as viaturas perdidas nos incêndios.",
+  "Aumentar em 100 % o subsídio diário de todos os bombeiros.",
+  "Disponibilizar 50 milhões de euros em apoio extraordinário às associações que integraram o DECIR, incluindo quatro meses extra do Fundo Permanente."
+ ],
+ "plain_language": "O PCP pede ao Governo que pague de imediato o que deve aos bombeiros voluntários, substitua os veículos destruídos nos incêndios, duplique o subsídio diário e dê 50 milhões de euros de apoio extra às associações. Defende que estas passam por graves dificuldades financeiras. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "O proponente afirma que a maioria das associações acumula défices por insuficiente financiamento do Estado, que há verbas por receber da ANEPC, do INEM, das ARS e dos hospitais, que não têm acesso a combustível de emergência isento de IVA e que o parque de viaturas precisa de renovação. Considera manifestamente insuficiente o aumento de 25 % do subsídio diário para 75 euros.",
+ "analysis": "A iniciativa apresenta medidas quantificadas e diretamente relacionadas com os problemas identificados, o que facilita a avaliação. Fragilidades: o apoio de 50 milhões de euros e a duplicação do subsídio são fixados sem fundamentação de cálculo no texto, e o pagamento em 30 dias de todas as dívidas depende de entidades diversas (ANEPC, INEM, ARS, hospitais). Não esclarece o encargo total nem a fonte de financiamento. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê 50 milhões de euros em apoio extraordinário, mais a duplicação do subsídio diário, a reposição de viaturas e o pagamento de dívidas; apenas o primeiro valor consta do texto."
+ },
+ "affected": [
+  "associações humanitárias de bombeiros voluntários",
+  "bombeiros voluntários",
+  "população protegida pelos bombeiros"
+ ],
+ "categories": [
+  "seguranca",
+  "economia"
+ ],
+ "tags": [
+  "bombeiros voluntários",
+  "DECIR",
+  "subsídio diário",
+  "apoio extraordinário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

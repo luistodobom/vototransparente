@@ -1,0 +1,41 @@
+{
+ "short_title": "Composição das delegações parlamentares internacionais",
+ "summary": "Projeto de deliberação do Presidente da Assembleia da República que fixa a composição das delegações da Assembleia da República às organizações parlamentares internacionais na XIV Legislatura, de forma não nominativa, com o número de membros de cada uma e a sua distribuição pelos grupos parlamentares. Abrange a AP-CPLP, a AP-NATO, a APOSCE, a AP-UpM, a Assembleia Parlamentar do Conselho da Europa, a Assembleia Parlamentar do Mediterrâneo, o Fórum Parlamentar Ibero-Americano e a União Interparlamentar. Prevê que a presidência da delegação à AP-CPLP nas sessões plenárias seja assegurada pelo Presidente da Assembleia e que as designações dos grupos assegurem pelo menos um terço de representatividade de um dos géneros.",
+ "key_points": [
+  "Fixa a composição, não nominativa, de oito delegações a organizações parlamentares internacionais.",
+  "Distribui os lugares efetivos e suplentes por grupos parlamentares, com presidente e vice-presidente de cada delegação.",
+  "Os grupos parlamentares designam os deputados, pelo período da legislatura.",
+  "Nas sessões plenárias da AP-CPLP, a presidência é assegurada pelo Presidente da Assembleia da República.",
+  "As designações devem assegurar pelo menos um terço de representatividade de um dos géneros."
+ ],
+ "plain_language": "Este texto decide quantos deputados cada partido envia às organizações parlamentares internacionais de que Portugal faz parte, como a assembleia da NATO ou a do Conselho da Europa. Os lugares são distribuídos por partido e não por pessoas, e cada partido escolhe depois os seus deputados. Pelo menos um terço dos membros deve ser de cada género.",
+ "context": "A Resolução da Assembleia da República n.º 142/2015 prevê que a composição das delegações conste de deliberação do Plenário, cabendo aos grupos parlamentares designar os deputados. A fixação não nominativa, por analogia com as comissões parlamentares, evita alterações sucessivas à deliberação em caso de suspensões e renúncias de mandato.",
+ "analysis": "A solução não nominativa dá estabilidade e evita revisões frequentes, e a regra de um terço de representatividade de género é um ponto positivo. Contudo, a distribuição por método proporcional favorece os maiores grupos parlamentares e deixa vários partidos sem representação efetiva em muitas delegações, enquanto outros só aparecem como suplentes. O texto não detalha os critérios de cálculo nem as funções dos deputados em cada organização. Trata-se de um ato de organização interna.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A deliberação trata da composição das delegações e não prevê despesa ou receita; o texto não refere custos de participação."
+ },
+ "affected": [
+  "deputados da Assembleia da República",
+  "grupos parlamentares",
+  "delegações parlamentares internacionais"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "delegações parlamentares",
+  "nato",
+  "conselho da europa",
+  "cplp",
+  "representação de género"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

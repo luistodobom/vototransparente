@@ -1,0 +1,42 @@
+{
+ "short_title": "Citação e notificação eletrónicas de pessoas singulares e coletivas",
+ "summary": "Proposta de lei do Governo que pede autorização legislativa, com duração de 180 dias, para alterar o Código de Processo Civil, o Código da Insolvência, o Código de Processo do Trabalho e o Regulamento das Custas Processuais. A citação e a notificação passam a ser feitas por via eletrónica, numa área digital reservada associada ao correio eletrónico do destinatário: regra para pessoas coletivas, opção para pessoas singulares. Em caso de não consulta há aviso por correio eletrónico e depois por via postal; a pessoa coletiva que não consulte a citação em oito dias considera-se citada, com dilação do prazo de defesa. Prevê citação por agente de execução se falhar a via eletrónica nas pessoas singulares, uma taxa pela citação postal de pessoas coletivas sem endereço associado e o fim da telecópia e do telegrama. A proposta junta o projeto do decreto-lei autorizado, com início de vigência em 30 de outubro de 2024.",
+ "key_points": [
+  "Citação e notificação em área reservada, com aviso para o correio eletrónico associado; regra para pessoas coletivas e opcional para pessoas singulares.",
+  "Pessoa coletiva que não consulte a citação em oito dias considera-se citada, com dilação do prazo de defesa até um máximo de 30 dias; as notificações eletrónicas presumem-se feitas no terceiro dia.",
+  "Se a citação eletrónica de uma pessoa singular falhar, é feita por agente de execução; cria-se a convenção de citação eletrónica como alternativa ao domicílio convencionado.",
+  "Pessoas coletivas sem endereço eletrónico associado são citadas por uma única carta e pagam taxa de metade de 1 UC por citação postal, segundo o projeto de decreto-lei anexo.",
+  "Elimina telecópia e telegrama e exige o NIF ou NIPC das partes na petição inicial; o regime aplica-se aos processos pendentes nos tribunais judiciais e, nos administrativos e fiscais, a partir de 30 de junho de 2025."
+ ],
+ "plain_language": "O Governo quer que os avisos oficiais dos tribunais, como ser chamado a um processo, passem a chegar por via eletrónica, numa área reservada que se acede com um aviso por email. Para empresas seria a regra; para pessoas individuais seria opcional. Se ninguém abrir a mensagem, há aviso por carta e, no caso das empresas, a citação conta como feita ao fim de oito dias. Empresas sem email registado são citadas por carta e pagam uma taxa.",
+ "context": "O Governo invoca a transformação digital da justiça, o combate à morosidade e o objetivo do Plano de Recuperação e Resiliência (projeto C18.3) de prever, como regra, a citação eletrónica de pessoas coletivas, designadamente na insolvência. Atualmente só é possível por interoperabilidade entre sistemas, o que considera um entrave. Quer ainda eliminar referências a telecópia e telegrama, em desuso.",
+ "analysis": "A medida pode acelerar processos e reduzir custos postais, e responde a um compromisso do PRR; as salvaguardas (aviso postal, dilação, uma carta única) mitigam parte do risco. Fragilidades: a presunção de citação sem consulta efetiva pode afetar o direito de defesa das pequenas e médias empresas, que o próprio texto reconhece predominarem; há risco de exclusão digital e dependência do sistema informático e de portarias ainda por publicar; a taxa pode onerar quem não registe email. Sendo lei de autorização, o efeito concreto depende do decreto-lei.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Cria uma taxa de metade de 1 UC por citação ou notificação postal a pessoas coletivas, o que gera receita, e a digitalização poupa custos postais. O texto não indica montantes globais."
+ },
+ "affected": [
+  "pessoas coletivas e empresas",
+  "cidadãos partes em processos judiciais",
+  "tribunais e oficiais de justiça",
+  "advogados e agentes de execução"
+ ],
+ "categories": [
+  "justica",
+  "ciencia"
+ ],
+ "tags": [
+  "citação eletrónica",
+  "notificações",
+  "código de processo civil",
+  "insolvência",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

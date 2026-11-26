@@ -1,0 +1,39 @@
+{
+ "short_title": "Suspender transferências para o Fundo de Resolução até haver auditoria ao Novo Banco",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo que não mobilize mais recursos públicos para o Fundo de Resolução, no âmbito do financiamento do Novo Banco, enquanto não forem conhecidos e analisados, incluindo pelo Parlamento, os resultados da auditoria à gestão do banco. O texto faz o historico dos montantes canalizados para o Novo Banco desde a resolução do BES em 2014, refere o Mecanismo de Capital Contingente e a injeção de 1037 milhões de euros prevista para 2020, dos quais 850 milhões seriam empréstimo do Tesouro. Sublinha ainda que uma proposta anterior para votar autonomamente cada transferência foi rejeitada no Orçamento do Estado. Por ser um projeto de resolução, a medida é uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que não transfira mais verbas para o Fundo de Resolução destinadas ao Novo Banco.",
+  "A suspensão deve durar até serem conhecidos os resultados da auditoria à gestão do Novo Banco.",
+  "A auditoria deve ser analisada devidamente, incluindo pelo Parlamento.",
+  "Invoca dúvidas sobre a utilização do Mecanismo de Capital Contingente e sobre a gestão dos ativos garantidos."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que deixe de dar dinheiro público ao Fundo de Resolução para financiar o Novo Banco enquanto não se conhecer a auditoria às contas do banco. A ideia é que o Parlamento possa perceber como o dinheiro foi gasto antes de se autorizar mais pagamentos. Trata-se apenas de uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente afirma que o Estado já canalizou milhares de milhões de euros para o Fundo de Resolução e que as injeções no Novo Banco não eram definidas nem conhecidas aquando da votação do Orçamento. Invoca dúvidas sobre a gestão do mecanismo de capital contingente e a auditoria ainda em curso, defendendo transparência na gestão das contas públicas.",
+ "analysis": "A proposta responde a uma preocupação de escrutínio sobre montantes elevados e pouco previsíveis, e liga a decisão de pagar à disponibilidade de informação. Como recomendação, não vincula o Governo. Uma fragilidade possível é que os pagamentos decorrem de obrigações contratuais assumidas com a venda do banco, pelo que suspendê-los poderia ter consequências que o texto não analisa. O texto também não define prazo para a auditoria nem o que sucede se esta se atrasar. Parte da argumentação baseia-se em notícias de imprensa e em declarações públicas.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "Caso fosse seguida, adiaria transferências do Estado para o Fundo de Resolução destinadas ao Novo Banco. O texto refere uma injeção prevista de 1037 milhões de euros em 2020, dos quais 850 milhões de empréstimo do Tesouro."
+ },
+ "affected": [
+  "contribuintes",
+  "Fundo de Resolução",
+  "Novo Banco"
+ ],
+ "categories": [
+  "economia",
+  "instituicoes"
+ ],
+ "tags": [
+  "novo banco",
+  "fundo de resolução",
+  "auditoria",
+  "capital contingente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

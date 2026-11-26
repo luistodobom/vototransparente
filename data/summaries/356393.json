@@ -1,0 +1,43 @@
+{
+ "short_title": "Mitigação do aumento dos preços alimentares e apoio às famílias",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas perante o aumento dos preços dos bens alimentares associado ao agravamento da situação geopolítica no Médio Oriente. Recomenda o reforço do valor do apoio do Programa Cartões Sociais, medidas para aumentar o número de beneficiários (maior divulgação e simplificação da adesão), o alargamento a todos os agregados com rendimento igual ou inferior ao limiar da pobreza, o reforço extraordinário da garantia para a infância e a atualização da comparticipação das refeições das cantinas sociais. Pede ainda um plano de emergência para circuitos curtos, comércio de proximidade, logística mais eficiente e práticas agrícolas menos dependentes de combustíveis fósseis.",
+ "key_points": [
+  "Reforçar o valor do apoio do Programa Cartões Sociais.",
+  "Divulgar e simplificar o acesso e alargar o programa a todos os agregados com rendimento até ao limiar da pobreza.",
+  "Reforçar extraordinariamente a garantia para a infância.",
+  "Atualizar a comparticipação das refeições das cantinas sociais.",
+  "Aprovar um plano de emergência para circuitos curtos, comércio de proximidade e logística menos dependente do transporte rodoviário."
+ ],
+ "plain_language": "Com a subida dos preços dos alimentos, o PAN pede ao Governo que dê mais apoio às famílias com menos rendimentos, aumentando e alargando o cartão social e outros apoios, e que incentive formas de produzir e vender alimentos mais próximas e menos dependentes de combustíveis. É uma recomendação sem força obrigatória.",
+ "context": "O PAN invoca dados da DECO segundo os quais o cabaz alimentar custava 254,32 euros, com subida de 12,49 euros (5,16%) desde o início do ano. Refere que o Programa Cartões Sociais chegava a 39 mil pessoas em maio de 2025, apesar de 1,7 milhões de pessoas em situação de pobreza, e que o limiar de pobreza (7588 euros anuais) excede o rendimento de referência do programa (6272,64 euros).",
+ "analysis": "A medida é dirigida aos agregados mais vulneráveis, o que é mais focado do que medidas fiscais gerais, e identifica um problema de baixa cobertura do programa. Fragilidades: o texto não define montantes do reforço, calendário nem custo, e mistura apoio de curto prazo com mudanças estruturais do sistema alimentar que exigem tempo e têm impacto incerto nos preços. Os dados citados sobre o cabaz não esclarecem a causalidade com o Médio Oriente. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço e o alargamento do Programa Cartões Sociais, da garantia para a infância e das cantinas sociais implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "Famílias com menores rendimentos",
+  "Crianças em situação de pobreza",
+  "Beneficiários de cantinas sociais",
+  "Pequenos produtores e comércio de proximidade"
+ ],
+ "categories": [
+  "familia",
+  "consumidores",
+  "agricultura"
+ ],
+ "tags": [
+  "preços alimentares",
+  "cartões sociais",
+  "pobreza",
+  "garantia para a infância",
+  "circuitos curtos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

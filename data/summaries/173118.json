@@ -1,0 +1,41 @@
+{
+ "short_title": "Modernizar o Sistema Nacional de Monitorização dos Recursos Hídricos",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo a modernização do Sistema Nacional de Informação de Recursos Hídricos (SNIRH), de modo a assegurar maior cobertura das massas de água e melhor qualidade da informação transmitida. A exposição de motivos defende alargar o boletim das albufeiras (hoje 58 albufeiras em 12 bacias) a outras, como as de uso agrícola, integrar dados de ministérios diferentes, clarificar a informação sobre águas subterrâneas, mostrar dados de consumo por território e setor, criar uma ferramenta de geovisualização, séries históricas mais longas e ferramentas de previsão e cenários. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Modernização do portal SNIRH e reforço da rede de monitorização.",
+  "Maior cobertura das massas de água e melhor qualidade da informação.",
+  "Integração de albufeiras agrícolas e dados do Sistema de Informação de Regadio.",
+  "Informação mais clara sobre águas subterrâneas e consumos por território e setor.",
+  "Geovisualização, séries históricas e ferramentas de previsão."
+ ],
+ "plain_language": "O PSD pede ao Governo que atualize o portal público que mostra o estado da água em Portugal, para que cubra mais albufeiras e aquíferos, tenha dados mais claros, mapas e previsões, e junte informação que hoje está espalhada por vários ministérios.",
+ "context": "O PSD considera o SNIRH importante mas a precisar de modernização. Refere que os dados estão repartidos por ministérios, que a informação sobre águas subterrâneas é complexa e pouco clara, e que falta geovisualização e capacidade de previsão, de modo a haver uma visão integrada do uso da água.",
+ "analysis": "A proposta é útil para a transparência e a gestão da água, e identifica lacunas concretas. Contudo, é genérica: não define prazos, custos, entidades responsáveis nem indicadores, e a integração de dados entre ministérios depende de coordenação difícil. Sendo uma recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A modernização do sistema e o reforço da rede de monitorização implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "cidadãos e investigadores que consultam dados hídricos",
+  "agricultores e gestores de água",
+  "Agência Portuguesa do Ambiente"
+ ],
+ "categories": [
+  "ambiente",
+  "ciencia"
+ ],
+ "tags": [
+  "recursos hídricos",
+  "snirh",
+  "albufeiras",
+  "monitorização",
+  "águas subterrâneas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

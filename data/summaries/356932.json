@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço dos apoios à natalidade e primeira infância",
+ "summary": "O Projeto de Resolução do JPP recomenda ao Governo cinco medidas de apoio às famílias com dependentes. Reforçar o abono de família, atualizando valores e escalões. Reforçar o abono pré-natal, com atualização de montantes e melhores condições de acesso. Reforçar as majorações para famílias monoparentais, numerosas e agregados com crianças até aos 3 anos. Atribuir automaticamente o abono após o nascimento, quando a Segurança Social tiver os elementos necessários. Criar um complemento de primeira infância para os primeiros 36 meses de vida, para encargos com alimentação, saúde, higiene, creche, ama ou outros cuidados. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Atualizar os valores e escalões do abono de família.",
+  "Reforçar o abono de família pré-natal, com atualização de montantes e melhor acesso.",
+  "Reforçar as majorações para famílias monoparentais, numerosas e com crianças até aos 3 anos.",
+  "Atribuição automática do abono de família após o nascimento.",
+  "Criar um complemento de primeira infância para os primeiros 36 meses de vida."
+ ],
+ "plain_language": "O JPP pede ao Governo que aumente o abono de família e o abono pré-natal, dê mais apoio a famílias monoparentais e numerosas, atribua o abono automaticamente depois do nascimento e crie um apoio novo para os primeiros três anos da criança.",
+ "context": "O proponente refere a quebra da natalidade, o envelhecimento e o aumento do custo de vida e de encargos com creche e cuidados. Afirma que o abono de família está condicionado por escalões de rendimento e que os valores nem sempre acompanham o custo real, sendo os primeiros 36 meses uma fase particularmente exigente.",
+ "analysis": "A proposta combina reforço de apoios com simplificação administrativa, e a atribuição automática pode reduzir o não acesso a prestações. É, porém, genérica: não indica valores, escalões, custo nem fonte de financiamento, e a articulação do novo complemento com o Complemento Garantia para a Infância, o abono e as deduções fiscais não é esclarecida. O texto também não apresenta evidência de que estes apoios aumentem a natalidade. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de prestações e a criação de um novo complemento aumentam a despesa da Segurança Social. O texto não apresenta montantes."
+ },
+ "affected": [
+  "famílias com crianças até aos 3 anos",
+  "famílias monoparentais",
+  "famílias numerosas",
+  "grávidas"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "natalidade",
+  "abono de família",
+  "abono pré-natal",
+  "primeira infância",
+  "famílias monoparentais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Isenção e devolução de portagens após a depressão Kristin",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo quatro medidas relativas à tempestade Kristin, que atingiu sobretudo os distritos de Leiria e Coimbra no fim de janeiro de 2026. Pede que a isenção temporária de portagens em vigor inclua os lanços da A1 que servem os municípios em calamidade, declarada pela Resolução do Conselho de Ministros n.º 15-B/2026; que crie um mecanismo de devolução integral das portagens pagas entre 28 de janeiro e 4 de fevereiro de 2026 por quem foi obrigado a usar vias portajadas por cortes de estradas ou por emergência; que defina com as concessionárias procedimentos simples e céleres; e que avalie um regime de ativação automática de isenções em fenómenos extremos. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Incluir os lanços da A1 que servem os municípios afetados na isenção temporária de portagens.",
+  "Devolução integral das portagens pagas entre 28 de janeiro e 4 de fevereiro de 2026 em casos de corte de estradas ou emergência.",
+  "Procedimentos simples e céleres, em articulação com as concessionárias, sem encargos excessivos.",
+  "Avaliar regime de ativação automática de isenções em fenómenos climáticos extremos."
+ ],
+ "plain_language": "Depois da tempestade Kristin, muitas pessoas tiveram de usar autoestradas pagas por não haver estradas alternativas. O Governo isentou algumas autoestradas, mas não a A1. O PAN pede que a isenção abranja também a A1, que se devolvam as portagens pagas nesse período e que, no futuro, as isenções possam ser ativadas automaticamente em catástrofes.",
+ "context": "O PAN afirma que a isenção aprovada pelo Governo para a A8, A17, A14 e A19 é limitada na duração, não inclui a A1, que é fundamental para a circulação nas zonas afetadas, e não prevê devolução do que foi pago no período crítico. Considera injusto que populações afetadas suportem custos adicionais.",
+ "analysis": "Pontos fortes: responde a uma lacuna concreta e propõe um mecanismo de resposta futura para evitar soluções ad hoc. Fragilidades: a devolução exige comprovar que a deslocação resultou de corte de estradas ou emergência, o que é difícil de verificar sem burocracia. A isenção da A1 pode ter impacto nas receitas das concessionárias e do Estado e o texto não estima custos nem define quais os lanços abrangidos.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção da A1 e a devolução de portagens reduzem as receitas de portagens, a compensar pelo Estado ou concessionárias. O texto não quantifica o montante."
+ },
+ "affected": [
+  "residentes e utilizadores nos municípios afetados em Leiria e Coimbra",
+  "concessionárias rodoviárias",
+  "empresas e trabalhadores que usam a A1"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "portagens",
+  "A1",
+  "tempestade Kristin",
+  "isenção",
+  "calamidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

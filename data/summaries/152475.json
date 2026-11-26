@@ -1,0 +1,39 @@
+{
+ "short_title": "Avaliar a vulnerabilidade sísmica dos edifícios a descentralizar",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo duas medidas no âmbito da descentralização. Primeira: que, na transferência de edifícios e equipamentos do Estado para as autarquias e comunidades intermunicipais, avalie, através dos serviços competentes, a vulnerabilidade sísmica quer da localização, quer do edificado, decorrente das características estruturais e do estado de conservação. Segunda: que, no quadro dessa avaliação, reforce o Fundo de Financiamento da Descentralização com as verbas necessárias para que os rácios de financiamento da reabilitação e recuperação contemplem, sempre que necessário, a melhoria estrutural e o reforço da segurança sísmica. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliar a vulnerabilidade sísmica da localização e do edificado dos imóveis a transferir para as autarquias.",
+  "Reforçar o Fundo de Financiamento da Descentralização com as verbas necessárias.",
+  "Incluir nos rácios de financiamento a melhoria estrutural e o reforço da segurança sísmica."
+ ],
+ "plain_language": "O PSD pede ao Governo que, antes de passar escolas e outros edifícios para as câmaras municipais, verifique se resistem a sismos e reforce o dinheiro da descentralização para os tornar mais seguros. É uma recomendação, não uma obrigação.",
+ "context": "O PSD refere que a maioria dos edifícios do Estado não está preparada para resistir a sismos e que só na educação são transferidas 451 escolas para os municípios, a maioria com necessidades de intervenção urgente ou muito urgente. Defende que o Governo deve dar o exemplo.",
+ "analysis": "Ponto forte: liga a descentralização à segurança dos edifícios e à responsabilidade financeira do Estado. Fragilidades: é uma recomendação sem prazos, valores ou critérios técnicos; não indica o custo do reforço sísmico nem como se articula com os atuais rácios de financiamento; a afirmação de que a maioria dos edifícios não está preparada não vem acompanhada de fonte no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recomendação implica reforçar o Fundo de Financiamento da Descentralização para obras de reforço sísmico; o texto não indica montantes."
+ },
+ "affected": [
+  "municípios e comunidades intermunicipais",
+  "utilizadores de escolas e equipamentos públicos",
+  "Governo"
+ ],
+ "categories": [
+  "territorio",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "descentralização",
+  "sismos",
+  "escolas",
+  "fundo de financiamento da descentralização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

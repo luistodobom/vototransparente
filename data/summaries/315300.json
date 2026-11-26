@@ -1,0 +1,39 @@
+{
+ "short_title": "Representante da rádio no Conselho Nacional de Cultura",
+ "summary": "O projeto de lei do PAN altera o artigo 23.º do decreto-lei que regula o Conselho Nacional de Cultura e as suas secções, para incluir na secção dos direitos de autor e direitos conexos um representante indicado pelas associações representativas do setor da rádio. Aproveita para retirar a representação do Gabinete para os Meios de Comunicação Social, que deixou de existir, e para passar a representação do registo de meios de comunicação social para a entidade com competências nessa matéria, em vez do Ministério da Justiça. Revoga a alínea c) do n.º 1 do artigo 23.º. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Inclui um representante das associações do setor da rádio na secção de direitos de autor e direitos conexos.",
+  "Retira a representação do Gabinete para os Meios de Comunicação Social, que já não existe.",
+  "Troca a representação do Ministério da Justiça pela da entidade com competências no registo de meios de comunicação social.",
+  "Revoga a alínea c) do n.º 1 do artigo 23.º."
+ ],
+ "plain_language": "O Conselho Nacional de Cultura tem uma secção que trata de direitos de autor, mas as rádios não estão lá representadas. A proposta dá-lhes um lugar e atualiza a lista de entidades que a integram, retirando um organismo que já não existe e passando uma representação para a entidade que hoje faz o registo dos meios de comunicação social.",
+ "context": "O PAN afirma que a rádio é muito ouvida em Portugal e que o decreto-lei em vigor não prevê a sua representação, apesar de uma resolução da Assembleia da República de 2017, aprovada por unanimidade, ter recomendado a alteração. Refere também que o registo dos meios de comunicação social está atribuído à ERC.",
+ "analysis": "É uma alteração simples e consensual em princípio, que dá voz ao setor e atualiza a composição de um órgão. Fragilidades: não explica o peso do voto do novo representante na secção, e o texto refere o decreto-lei com duas numerações diferentes (132/2012 na exposição e 132/2013 no articulado), o que deverá ser corrigido. O impacto prático depende de como a secção funciona, o que o texto não detalha.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A proposta altera a composição de uma secção consultiva e não refere despesa ou receita."
+ },
+ "affected": [
+  "associações do setor da rádio",
+  "Conselho Nacional de Cultura",
+  "entidade responsável pelo registo de meios de comunicação social"
+ ],
+ "categories": [
+  "comunicacao",
+  "cultura"
+ ],
+ "tags": [
+  "rádio",
+  "conselho nacional de cultura",
+  "direitos de autor",
+  "representação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

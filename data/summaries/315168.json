@@ -1,0 +1,43 @@
+{
+ "short_title": "Lobbying: registo no MENAC e pegada legislativa (PAN)",
+ "summary": "O projeto de lei do PAN regulamenta a atividade de lobbying e cria um Registo de Transparência da Representação de Interesses e de Lobbies a funcionar junto do Mecanismo Nacional Anticorrupção, e um Mecanismo de Pegada Legislativa no quadro da Assembleia da República. Para isso altera o Decreto-Lei n.º 109-E/2021, que cria o Mecanismo Nacional Anticorrupção, e o Estatuto dos Deputados (Lei n.º 7/93). Define a atividade de representação de grupos de interesses, que pode visar políticas públicas, atos legislativos, regulamentares e administrativos e contratos públicos, e enuncia princípios como transparência, integridade e igualdade de oportunidades. O texto analisado está truncado.",
+ "key_points": [
+  "Cria um Registo de Transparência da Representação de Interesses e de Lobbies junto do Mecanismo Nacional Anticorrupção.",
+  "Cria um Mecanismo de Pegada Legislativa no quadro da Assembleia da República.",
+  "Altera o Decreto-Lei n.º 109-E/2021 e o Estatuto dos Deputados.",
+  "Define lobbying como influência, direta ou indireta, sobre políticas, leis, atos administrativos e contratos públicos.",
+  "Assenta em princípios de transparência, integridade, legalidade, igualdade de oportunidades e proteção de dados."
+ ],
+ "plain_language": "O PAN propõe regras para o lobbying: quem tenta influenciar decisões públicas tem de se registar num registo público, ligado ao organismo anticorrupção, e as leis passam a indicar quem foi ouvido na sua preparação. Também se alteram o estatuto dos deputados e a lei do organismo anticorrupção para dar suporte a este sistema.",
+ "context": "O PAN diz que a confiança dos portugueses na política é baixa, citando o Eurobarómetro de 2019, e que é necessária uma estratégia integrada contra a corrupção e o tráfico de influências. Defende que regular o lobbying, previsto no seu programa eleitoral, dá transparência e integridade à relação entre decisores e grupos de interesses.",
+ "analysis": "A entrega da gestão do registo ao Mecanismo Nacional Anticorrupção dá independência face ao Parlamento, mas implica atribuir-lhe uma função nova, sem que o texto analisado avalie meios ou competência para o fazer. Alterar o Estatuto dos Deputados reforça a coerência do sistema. O texto está truncado, pelo que sanções, incompatibilidades e custos não puderam ser verificados. A exposição usa dados de 2019 já algo desatualizados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do registo, da pegada legislativa e as novas funções do Mecanismo Nacional Anticorrupção implicam custos administrativos. O texto analisado não apresenta montantes."
+ },
+ "affected": [
+  "lobistas e grupos de interesses",
+  "titulares de cargos políticos e deputados",
+  "Mecanismo Nacional Anticorrupção",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao",
+  "justica"
+ ],
+ "tags": [
+  "lobbying",
+  "pegada legislativa",
+  "mecanismo nacional anticorrupção",
+  "registo de transparência",
+  "estatuto dos deputados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização para aplicar o regulamento europeu contra conteúdos terroristas em linha",
+ "summary": "Proposta de Lei do Governo, com pedido de prioridade e urgência, que o autoriza por 180 dias a adaptar a ordem jurídica ao Regulamento (UE) 2021/784, sobre o combate à difusão de conteúdos terroristas em linha. A Polícia Judiciária seria a entidade que emite as decisões de supressão ou bloqueio. Define o regime de recurso (juízo criminal competente, depois Tribunal da Relação, com efeito meramente devolutivo) e o regime contraordenacional pelo incumprimento, com coimas fixadas acima do regime geral e recurso para o tribunal da concorrência, regulação e supervisão. Altera a Lei n.º 99/2009 e a Lei da Organização do Sistema Judiciário. O decreto-lei autorizado prevê que o produto das coimas reverta 60% para o Estado e 40% para a ANACOM.",
+ "key_points": [
+  "Autorização legislativa com duração de 180 dias para adaptar a ordem jurídica ao Regulamento (UE) 2021/784.",
+  "A Polícia Judiciária emite as decisões de supressão ou bloqueio de conteúdos terroristas.",
+  "Recurso das decisões para o juízo criminal competente e depois para o Tribunal da Relação, com efeito meramente devolutivo.",
+  "Regime contraordenacional com coimas acima do limite geral e tribunal da concorrência, regulação e supervisão como competente.",
+  "Alterações à Lei n.º 99/2009 e à Lei n.º 62/2013; no decreto-lei autorizado, 60% das coimas para o Estado e 40% para a ANACOM."
+ ],
+ "plain_language": "Uma regra europeia obriga as plataformas a retirarem rapidamente conteúdos terroristas na internet. O Governo pede ao Parlamento licença para definir em Portugal quem manda retirar esses conteúdos (a Polícia Judiciária), como se pode recorrer e que multas se aplicam a quem não cumprir.",
+ "context": "O Governo invoca a necessidade de combater o uso abusivo de serviços de alojamento virtual por grupos terroristas para difundir mensagens, radicalizar e recrutar, equilibrando a segurança com a liberdade de expressão e a confiança dos utilizadores. A autorização é necessária por as matérias estarem na reserva relativa da Assembleia.",
+ "analysis": "A proposta dá execução a um regulamento europeu já aplicável, designa uma autoridade clara e assegura a possibilidade de recurso judicial. Em contrapartida, atribuir à Polícia Judiciária o poder de ordenar o bloqueio de conteúdos suscita questões de liberdade de expressão e de controlo prévio, e o efeito meramente devolutivo do recurso limita a proteção imediata. Os montantes das coimas não constam do texto da autorização, ficando para o decreto-lei, e o pedido de urgência reduz o tempo de escrutínio.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "O decreto-lei prevê que o produto das coimas reverta 60% para o Estado e 40% para a ANACOM; o texto não estima montantes, nem os custos de supervisão pela Polícia Judiciária."
+ },
+ "affected": [
+  "prestadores de serviços de alojamento virtual",
+  "utilizadores e fornecedores de conteúdos",
+  "Polícia Judiciária",
+  "ANACOM",
+  "tribunais"
+ ],
+ "categories": [
+  "seguranca",
+  "ciencia",
+  "justica"
+ ],
+ "tags": [
+  "conteúdos terroristas",
+  "Regulamento (UE) 2021/784",
+  "Polícia Judiciária",
+  "bloqueio de conteúdos",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

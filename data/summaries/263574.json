@@ -1,0 +1,40 @@
+{
+ "short_title": "IVA reduzido de 6% na comida para animais de companhia",
+ "summary": "O PAN propõe aplicar a taxa reduzida de IVA de 6% aos produtos alimentares, secos ou húmidos, destinados a animais de companhia, aditando a verba 2.42 à lista I anexa ao Código do IVA. Atualmente a taxa aplicável é de 23%. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação. O proponente invoca o aumento do custo da alimentação animal, o risco de abandono e o facto de, em Espanha, a taxa ser de 10%.",
+ "key_points": [
+  "Aplica a taxa de IVA de 6% aos alimentos, secos ou húmidos, para animais de companhia.",
+  "Adita a verba 2.42 à lista I anexa ao Código do IVA.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "As rações e comidas para cães, gatos e outros animais de companhia pagam hoje IVA de 23%. A proposta reduz-o para 6%, para aliviar o custo aos tutores e às associações de proteção animal.",
+ "context": "O PAN refere que, no final de 2022, a alimentação animal estava 21% mais cara do que no ano anterior, que há tutores que abandonam animais por falta de meios e que associações estão sobrelotadas. Lembra que a Lei n.º 81/2023 já isentou de IVA a alimentação de animais acolhidos por associações e que, em Espanha, o IVA é de 10%.",
+ "analysis": "A medida reduz custos a tutores e associações e responde ao argumento de concorrência de Espanha em zonas de fronteira. Contudo, a redução do IVA beneficia todos os consumidores, incluindo os que não têm dificuldades, e não é garantido que o desconto seja repassado aos preços; também pode ser ineficaz para evitar abandono, que tem causas múltiplas. O texto não quantifica a perda de receita nem o efeito esperado sobre o abandono.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida da taxa de IVA de 23% para 6% nos alimentos para animais de companhia reduz a receita fiscal; o texto não apresenta montantes."
+ },
+ "affected": [
+  "tutores de animais de companhia",
+  "associações de proteção animal",
+  "empresas de alimentação animal",
+  "comércio de produtos para animais"
+ ],
+ "categories": [
+  "animais",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "IVA",
+  "alimentação animal",
+  "animais de companhia",
+  "taxa reduzida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

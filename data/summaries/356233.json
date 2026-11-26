@@ -1,0 +1,41 @@
+{
+ "short_title": "Recuperar imóveis devolutos do Estado para habitação",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que recupere e utilize os imóveis devolutos do Estado como resposta à crise habitacional. Pede um levantamento completo dos imóveis do Estado devolutos, abandonados ou degradados, com o seu estado de conservação, localização e potencial de reconversão em habitação. Propõe ainda um programa nacional de recuperação desse património, orientado para a captação de investimento, o estímulo à iniciativa privada e a viabilização de linhas bancárias, com soluções acessíveis destinadas prioritariamente a cidadãos portugueses. Por fim, pede que os imóveis recuperados contribuam para aumentar a oferta de habitação e conter a sobrevalorização do mercado. É uma recomendação, sem efeitos vinculativos.",
+ "key_points": [
+  "Levantamento atualizado de todos os imóveis devolutos do Estado, com estado de conservação, localização e potencial habitacional.",
+  "Programa nacional de recuperação do património imobiliário devoluto do Estado.",
+  "Captação de investimento, estímulo à iniciativa privada e linhas bancárias para viabilizar o programa.",
+  "Soluções habitacionais acessíveis destinadas prioritariamente a cidadãos portugueses.",
+  "Utilização dos imóveis recuperados para aumentar a oferta e conter a sobrevalorização do mercado."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que descubra quantos edifícios do Estado estão vazios ou abandonados e que os recupere para serem usados como casas. A ideia é aumentar o número de habitações disponíveis, com ajuda de investimento privado e de crédito bancário, e dar prioridade a portugueses. Não é uma lei: o Governo pode ou não seguir a recomendação.",
+ "context": "O proponente descreve uma crise habitacional profunda, com preços e rendas muito acima dos rendimentos das famílias, e aponta que o Estado possui milhares de imóveis devolutos ou degradados. Considera que mantê-los parados é um desperdício de recursos públicos e defende a sua recuperação como prioridade estratégica.",
+ "analysis": "A proposta é de aplicação simples de explicar e o levantamento do património é um passo útil e pouco controverso. Contudo, é vaga: não fixa prazos, metas de fogos, orçamento nem entidade responsável, e não identifica quantos imóveis existem nem quantos são realmente reconvertíveis. A prioridade a cidadãos portugueses poderá levantar questões de igualdade e de compatibilidade com o direito da União, que o texto não aborda. Sendo uma recomendação, depende da vontade do Governo e não cria obrigações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recuperação de imóveis implica investimento público e eventual apoio ao financiamento, mas o texto não indica montantes nem fontes de financiamento."
+ },
+ "affected": [
+  "famílias à procura de habitação",
+  "jovens",
+  "proprietários privados e investidores",
+  "Estado enquanto proprietário de imóveis"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao"
+ ],
+ "tags": [
+  "imóveis devolutos",
+  "património do Estado",
+  "habitação",
+  "reabilitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

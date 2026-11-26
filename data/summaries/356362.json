@@ -1,0 +1,42 @@
+{
+ "short_title": "Combate à criminalidade e proteção de moradores no Porto",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo duas medidas para combater a criminalidade na cidade do Porto. Primeiro, reforçar com urgência os efetivos da PSP afetos ao Comando Metropolitano do Porto, reabrindo esquadras encerradas nas freguesias de maior densidade populacional e intensificando o policiamento de proximidade nas zonas mais afetadas. Segundo, acelerar, em articulação com a Câmara Municipal do Porto e a Comissão Nacional de Proteção de Dados, a conclusão e o pleno funcionamento da terceira fase do sistema de videovigilância, com extensão prioritária às freguesias com maior criminalidade, nomeadamente Ramalde. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar com urgência os efetivos da PSP no Comando Metropolitano do Porto.",
+  "Reabrir esquadras encerradas nas freguesias mais populosas.",
+  "Intensificar o policiamento de proximidade nas zonas mais afetadas.",
+  "Acelerar a terceira fase da videovigilância, em articulação com a Câmara do Porto e a CNPD.",
+  "Dar prioridade às freguesias com mais criminalidade, como Ramalde."
+ ],
+ "plain_language": "O Chega pede ao Governo que ponha mais polícias no Porto, reabra esquadras fechadas e acelere a instalação de mais câmaras de videovigilância, sobretudo em Ramalde, para proteger moradores e comerciantes de assaltos e furtos. É apenas uma recomendação.",
+ "context": "O proponente descreve um clima de insegurança no Porto, com assaltos repetidos a um café em Ramalde, aumento da criminalidade organizada indicado pela Procuradoria-Geral Regional e falta de efetivos da PSP, que perderia cerca de 100 agentes por ano. Refere que a terceira fase da videovigilância, com 50 câmaras em Ramalde, foi anunciada sem data.",
+ "analysis": "A proposta identifica medidas diretas e verificáveis, apoiadas em dados que cita, como a perda de efetivos e o atraso da videovigilância. Contudo, não define quantos agentes ou esquadras, nem prazos ou custos, e a videovigilância tem eficácia debatida e implica questões de privacidade, remetidas para a CNPD. O Governo afirma, segundo a fonte citada, que os crimes violentos baixaram 2,6% em 2025, o que o texto não discute em profundidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais efetivos, reabertura de esquadras e videovigilância implicariam despesa pública adicional. O texto não indica montantes."
+ },
+ "affected": [
+  "moradores e comerciantes do Porto",
+  "PSP",
+  "Câmara Municipal do Porto",
+  "freguesia de Ramalde"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "Porto",
+  "criminalidade",
+  "PSP",
+  "videovigilância",
+  "policiamento de proximidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

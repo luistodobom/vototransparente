@@ -1,0 +1,42 @@
+{
+ "short_title": "Redução temporária do IVA dos combustíveis para a taxa intermédia",
+ "summary": "Projeto de Lei do CHEGA que altera temporariamente o Código do IVA para tributar os combustíveis rodoviários, gasolina e gasóleo, à taxa intermédia de IVA (13%, segundo a exposição de motivos) em vez da taxa normal de 23%, por 12 meses, renovável. Abrange gasolina simples e aditivada, gasóleo simples e aditivado e outros combustíveis líquidos de uso rodoviário a definir por portaria. O Governo teria de avaliar o impacto no prazo de 6 meses após a entrada em vigor, que ocorre no primeiro dia do mês seguinte ao da publicação.",
+ "key_points": [
+  "Passa a gasolina e o gasóleo da taxa normal de IVA para a taxa intermédia, por 12 meses renováveis.",
+  "Abrange gasolina e gasóleo simples e aditivados e outros combustíveis líquidos rodoviários definidos por portaria.",
+  "O Governo avalia o impacto em 6 meses após a entrada em vigor.",
+  "Entrada em vigor no primeiro dia do mês seguinte à publicação."
+ ],
+ "plain_language": "O CHEGA propõe baixar o IVA da gasolina e do gasóleo de 23% para 13% durante um ano, que pode ser prolongado, para tentar travar a subida dos preços dos combustíveis ligada à guerra no Irão. Seria um alívio para famílias e empresas, mas o Estado cobraria menos imposto.",
+ "context": "O CHEGA aponta a subida dos preços dos combustíveis associada às tensões no Médio Oriente e à guerra no Irão, e afirma que mais de 50% do preço final são impostos. Cita medidas semelhantes em Espanha e Itália e argumenta que o Estado deve agir apesar das regras comunitárias sobre IVA.",
+ "analysis": "A medida produz efeito imediato e visível no preço de venda, e é de natureza temporária. Contudo, beneficia todos os consumidores de combustíveis, incluindo os de maior rendimento, e reduz o incentivo à poupança de energia, o que pode contrariar objetivos ambientais. O texto reconhece as regras europeias de IVA mas não esclarece como a medida lhes seria compatível, o que é um risco jurídico relevante. Não apresenta estimativa de perda de receita. A renovação possível por períodos sucessivos faz com que o carácter temporário seja pouco definido.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da taxa de IVA de 23% para a taxa intermédia sobre os combustíveis reduz a receita fiscal; o texto não quantifica o montante."
+ },
+ "affected": [
+  "Consumidores de combustíveis",
+  "Empresas de transporte",
+  "Famílias",
+  "Estado (receita de IVA)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "IVA",
+  "combustíveis",
+  "gasolina",
+  "gasóleo",
+  "custo de vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

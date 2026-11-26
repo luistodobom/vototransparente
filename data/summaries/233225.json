@@ -1,0 +1,41 @@
+{
+ "short_title": "Liberdade de escolha da creche na gratuitidade",
+ "summary": "A Iniciativa Liberal propõe alterar o artigo 2.º da Portaria n.º 305/2022, que alargou a gratuitidade das creches às crianças em creches licenciadas da rede privada lucrativa. A nova redação do artigo prevê que a portaria se aplique a todas as crianças nascidas a partir de 1 de setembro de 2021, inclusive, deixando de constar as restrições atuais: que a creche privada esteja no concelho de residência ou de trabalho dos pais e que a rede privada só seja ativada quando faltem vagas na rede social e solidária. A exposição de motivos defende liberdade de escolha das famílias, concorrência entre creches e maior estabilidade de vagas na rede privada. A lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Altera o artigo 2.º da Portaria n.º 305/2022, aplicando-a a todas as crianças nascidas a partir de 1 de setembro de 2021.",
+  "Elimina a restrição geográfica da creche ao concelho de residência ou de trabalho dos pais.",
+  "Elimina a condição de a rede privada só ser ativada quando faltem vagas na rede social e solidária.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, as famílias só têm creche gratuita numa creche privada em certas condições: se a creche estiver no seu concelho e se não houver vaga na rede social. A proposta retira essas condições, para que os pais possam escolher qualquer creche abrangida, privada ou não.",
+ "context": "A IL defende a liberdade de escolha das famílias e a universalização do acesso a creches. Considera que a Portaria n.º 305/2022 foi insuficiente: a restrição por concelho obriga a deslocações maiores e a ativação da rede privada só quando faltam vagas sociais reduz incentivos à criação de novas vagas.",
+ "analysis": "A proposta responde a queixas concretas sobre rigidez geográfica e dependência da rede social. Mas o texto proposto substitui todo o artigo 2.º por uma frase de âmbito pessoal, o que poderá alterar também outros elementos desse artigo sem o dizer expressamente. Alterar uma portaria por lei é incomum e a medida pode aumentar a procura de vagas gratuitas sem aumentar a oferta, com custos para o Estado que não são estimados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao alargar o acesso à gratuitidade em creches privadas, o Estado financiaria mais vagas; o texto não quantifica o custo."
+ },
+ "affected": [
+  "famílias com crianças pequenas",
+  "creches privadas",
+  "creches do setor social",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "educacao",
+  "economia"
+ ],
+ "tags": [
+  "creche",
+  "gratuitidade",
+  "liberdade de escolha",
+  "creche feliz"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

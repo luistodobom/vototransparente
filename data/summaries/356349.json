@@ -1,0 +1,39 @@
+{
+ "short_title": "Monitorização mensal dos preços dos bens alimentares",
+ "summary": "O PAN propõe que as empresas do setor alimentar, com estabelecimentos de comércio alimentar em Portugal, entreguem à Autoridade da Concorrência, no final de cada mês civil, um relatório com o preço médio de venda ao público dos produtos alimentares, de forma desagregada. Os produtos abrangidos serão identificados por portaria dos ministros da Economia e da Agricultura, no prazo de 10 dias após a entrada em vigor. Se forem detetadas condutas especulativas ou ilícitos concorrenciais, a Autoridade da Concorrência comunica ao Governo e à Assembleia da República e toma as diligências e sanções adequadas. O incumprimento é contraordenação económica leve.",
+ "key_points": [
+  "Relatório mensal das empresas do setor alimentar à Autoridade da Concorrência com o preço médio de venda ao público.",
+  "Lista de produtos definida por portaria conjunta dos ministros da Economia e da Agricultura em 10 dias.",
+  "Comunicação ao Governo e à Assembleia da República em caso de condutas especulativas ou ilícitos concorrenciais.",
+  "Incumprimento punido como contraordenação económica leve; a coima deve, sempre que possível, exceder o benefício económico obtido."
+ ],
+ "plain_language": "Os supermercados e outras empresas alimentares teriam de entregar todos os meses à Autoridade da Concorrência os preços médios que praticam. Se houver sinais de abuso ou especulação, a Autoridade avisa o Governo e o Parlamento e pode agir. Quem não cumprir paga uma coima.",
+ "context": "O PAN invoca a instabilidade no Médio Oriente e o risco para os preços da energia e dos bens essenciais, com possível inflação importada e comportamentos especulativos, como já se viu na pandemia e na guerra na Ucrânia. Defende mais transparência na formação de preços e reforço do papel dos reguladores.",
+ "analysis": "Aumenta a transparência e dá à Autoridade da Concorrência dados regulares sobre preços, com custo relativamente baixo. Fragilidades: o preço médio mensal agregado pode ser pouco informativo para detetar práticas abusivas; cria encargos administrativos para as empresas, em especial as mais pequenas; não prevê reforço de meios da Autoridade para tratar os dados; a definição de empresa abrangida é ampla e a lista de produtos fica por portaria; e o prazo de 10 dias é curto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos. Poderá haver despesa administrativa para a Autoridade da Concorrência e custos de conformidade para as empresas; as coimas seriam receita do Estado, não estimada."
+ },
+ "affected": [
+  "empresas do setor alimentar",
+  "consumidores",
+  "Autoridade da Concorrência"
+ ],
+ "categories": [
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "preços alimentares",
+  "autoridade da concorrência",
+  "transparência",
+  "especulação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

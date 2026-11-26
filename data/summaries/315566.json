@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço do subsídio de reestruturação familiar",
+ "summary": "Projeto de Lei do LIVRE que altera a Lei n.º 112/2009 (violência doméstica) para reforçar a licença e o subsídio de reestruturação familiar das vítimas que têm de abandonar a residência. Propõe aumentar de 10 para 30 dias seguidos o período máximo da licença e do respetivo subsídio, calcular o subsídio com base na remuneração bruta em vez da líquida, revogar a impossibilidade de cumulação com outras prestações sociais, e conceder o subsídio também a trabalhadores que suspendam o contrato por transferência para outro estabelecimento da empresa. Acrescenta uma isenção de IRS e de quotizações para a Segurança Social sobre este subsídio. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Aumenta de 10 para 30 dias seguidos o período máximo da licença e do subsídio de reestruturação familiar.",
+  "O cálculo do subsídio passa a basear-se na remuneração bruta e não na líquida.",
+  "Revoga a regra que impede a acumulação do subsídio com outras prestações sociais.",
+  "Alarga o subsídio a quem suspenda o contrato de trabalho por transferência para outro estabelecimento da empresa, pelo período da suspensão.",
+  "O subsídio fica isento de IRS e de quotizações para a Segurança Social."
+ ],
+ "plain_language": "Quando uma vítima de violência doméstica tem de sair de casa, pode ter uma licença e um subsídio durante, no máximo, 10 dias. O LIVRE propõe que passem a ser até 30 dias, com valor calculado sobre o salário bruto, que se possa receber também outras prestações sociais e que o subsídio não pague impostos nem contribuições.",
+ "context": "O proponente afirma que, desde 2020, apenas 568 vítimas recorreram ao subsídio, apesar de cerca de 30.000 participações anuais, o que indicia uma medida aquém do seu potencial. Considera 10 dias manifestamente insuficientes e critica o cálculo sobre o rendimento líquido e a proibição de cumular com outras prestações.",
+ "analysis": "A proposta ataca limitações concretas do regime, como o prazo curto, o cálculo e a não acumulação, que podem explicar a baixa adesão. O texto, porém, não demonstra que estes fatores são a causa principal da fraca utilização, que também pode resultar do desconhecimento ou da dificuldade de acesso ao estatuto de vítima. Não há estimativa do custo para a Segurança Social, e a isenção de contribuições pode reduzir receitas. A formulação sobre remuneração «bruta» no articulado aparece com marcas de alteração, o que pode gerar ambiguidade técnica.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um subsídio mais longo, calculado sobre o valor bruto, cumulável e isento de IRS e contribuições, aumenta a despesa da Segurança Social e reduz receita. O texto não apresenta valores."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "trabalhadores por conta de outrem e independentes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "subsídio de reestruturação familiar",
+  "segurança social",
+  "licença"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

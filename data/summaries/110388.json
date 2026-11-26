@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção e valorização do Barranquenho (PS)",
+ "summary": "O PS propõe que o Estado português reconheça e proteja o Barranquenho, a fala de Barrancos, como património cultural imaterial. A iniciativa reconhece o direito a cultivar e promover o Barranquenho, o direito à sua aprendizagem, nos termos a regulamentar e em articulação com a autarquia e o agrupamento de escolas, e o direito a apoio científico e educativo, incluindo investigação e formação de professores. Permite ainda que as instituições públicas sediadas no concelho de Barrancos emitam os seus documentos acompanhados de uma versão em Barranquenho. A lei deve ser regulamentada no prazo de 180 dias e entra em vigor no primeiro dia do segundo mês seguinte ao da publicação.",
+ "key_points": [
+  "Reconhece o direito a cultivar e promover o Barranquenho, enquanto património cultural imaterial.",
+  "Reconhece o direito à sua aprendizagem, em articulação com a autarquia e o agrupamento de escolas.",
+  "Permite que as instituições públicas de Barrancos emitam documentos com uma versão em Barranquenho.",
+  "Prevê apoio científico e educativo, incluindo a formação de professores de Barranquenho.",
+  "Exige regulamentação no prazo de 180 dias."
+ ],
+ "plain_language": "Em Barrancos fala-se uma variedade própria, o barranquenho, que mistura o português do Alentejo com o espanhol vizinho. O PS propõe que o Estado o reconheça e proteja, apoie o seu ensino e estudo e permita que as instituições públicas do concelho emitam documentos também nesta fala, de forma semelhante ao que existe para o mirandês.",
+ "context": "O PS recorda que o mirandês já tem proteção legal e defende que a realidade linguística do Barranquenho, estudada desde Leite de Vasconcelos e com produção científica crescente, merece também intervenção normativa. Aponta a origem medieval da fala, ligada ao contacto com populações castelhanas junto ao Castelo de Noudar.",
+ "analysis": "A proposta é moderada: reconhece direitos, mas remete o ensino, o apoio e a formação de professores para regulamentação posterior, sem custos nem recursos definidos. Evita classificar a fala como língua, dialeto ou língua mista, o que deixa a discussão científica em aberto. O caráter facultativo dos documentos em Barranquenho limita os efeitos jurídicos. Existe uma iniciativa semelhante do PCP, o que pode facilitar o consenso, mas não há avaliação do interesse da população em aprender a fala nem de como se integraria no currículo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio científico e educativo e a formação de professores implicam despesa a definir em regulamentação; o texto não a quantifica."
+ },
+ "affected": [
+  "população de Barrancos",
+  "escolas do concelho",
+  "município de Barrancos",
+  "investigadores e professores"
+ ],
+ "categories": [
+  "cultura",
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "barranquenho",
+  "barrancos",
+  "património imaterial",
+  "língua",
+  "mirandês"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

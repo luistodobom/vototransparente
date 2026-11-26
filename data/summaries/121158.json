@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibição das corridas de cães com fins competitivos",
+ "summary": "Projeto de lei da deputada não inscrita Cristina Rodrigues que proíbe as corridas de cães com fins competitivos. Define corridas de cães como eventos que envolvam a instigação à corrida de canídeos, com isco vivo ou morto ou sem isco, em pistas, instalações ou outros espaços, públicos ou privados. Quem promover, divulgar, vender ingressos, fornecer instalações, prestar auxílio material, treinar ou participar com cães nessas corridas é punido com prisão até 2 anos ou multa até 200 dias, e a tentativa é punível. Quem assistir comete contraordenação, com coima de 500 a 3740 euros, aplicada pelo presidente do ICNF. A lei entra em vigor no dia seguinte ao da publicação, e não proíbe os cães de correr livremente em local apropriado.",
+ "key_points": [
+  "Proíbe corridas de cães com fins competitivos, com ou sem isco, em espaços públicos ou privados.",
+  "Crime punido com prisão até 2 anos ou multa até 200 dias para quem promove, treina, participa ou presta auxílio; a tentativa é punível.",
+  "Contraordenação para quem assistir, com coima entre 500 e 3740 euros, aplicada pelo presidente do ICNF.",
+  "Não impede os cães de correrem livremente em local apropriado."
+ ],
+ "plain_language": "A proposta torna ilegais as corridas de cães organizadas para competição, como as de galgos, e pune organizadores, treinadores e participantes com prisão ou multa. Quem apenas assistir pode ser multado. Os cães continuam a poder correr livremente.",
+ "context": "A deputada invoca o reconhecimento legal dos animais como seres sensíveis, a criminalização dos maus-tratos e a Declaração de Cambridge sobre a consciência animal. Cita riscos apontados por organizações, como excesso de criação e abandono, métodos de treino violentos, isco vivo, ferimentos e mortalidade, e refere uma Iniciativa Legislativa de Cidadãos pela proibição.",
+ "analysis": "A proposta é clara quanto ao âmbito e às sanções e responde a ambiguidades da lei de proteção animal. Fragilidades: a fundamentação cita sobretudo organizações de defesa dos animais e não apresenta dados portugueses sobre a dimensão da atividade; a pena de prisão para quem presta qualquer serviço inerente pode ser desproporcionada; e a coima ao espetador, com valor mínimo e máximo e uma referência incompleta no artigo, levanta dúvidas de redação. Não considera o impacto económico nos criadores nem a transição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proibição pode gerar receita de coimas e custos de fiscalização pelo ICNF e de processos penais, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "organizadores e participantes de corridas de cães",
+  "treinadores e detentores de cães de corrida",
+  "espetadores",
+  "ICNF"
+ ],
+ "categories": [
+  "animais",
+  "justica",
+  "desporto"
+ ],
+ "tags": [
+  "corridas de cães",
+  "galgos",
+  "bem-estar animal",
+  "maus-tratos",
+  "proibição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

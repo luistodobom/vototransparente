@@ -1,0 +1,43 @@
+{
+ "short_title": "Prazos e regras justas nos apoios ao bem-estar animal",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que reveja a gestão dos apoios ao bem-estar animal previstos no artigo 147.º do Orçamento do Estado para 2025 (14,5 milhões de euros). Propõe prazo mínimo de 30 dias úteis para candidaturas, prazo de retificação não inferior a 5 dias úteis, calendarização anual dos avisos publicada até ao fim do primeiro trimestre, equidade entre associações e autarquias, apoios prospetivos e não apenas retroativos, atualização dos valores de referência como a esterilização, e transparência na plataforma SIAC, com gestão exclusivamente pública. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Prazo mínimo de 30 dias úteis para candidaturas e de 5 dias úteis para retificação.",
+  "Calendarização anual dos avisos, publicada até ao fim do primeiro trimestre.",
+  "Equidade na distribuição das verbas entre associações de proteção animal e autarquias.",
+  "Apoios prospetivos e não apenas reembolso de despesas já realizadas.",
+  "Atualização dos valores de referência, como a esterilização, para os custos reais.",
+  "Gestão exclusivamente pública da plataforma SIAC, sem conflitos de interesses."
+ ],
+ "plain_language": "O Orçamento do Estado reservou dinheiro para ajudar autarquias e associações a cuidar de animais abandonados. O PAN diz que os concursos abrem tarde e têm prazos curtíssimos, e que os valores são baixos. Pede ao Governo prazos maiores, calendário previsível, apoios mais justos e uma plataforma de candidaturas totalmente pública.",
+ "context": "O PAN afirma que os avisos foram abertos em outubro, com 13 dias para candidaturas e 48 horas para retificação, que os valores de esterilização variam entre 25 e 77 euros, e que parte significativa das verbas ficou por utilizar (44% em 2021, 47% em 2022 e 37% em 2023). Critica ainda a gestão da plataforma SIAC.",
+ "analysis": "Pontos fortes: as medidas de prazos e calendarização são concretas e reduzem barreiras administrativas, e os dados sobre execução orçamental sustentam a preocupação. Fragilidades: prazos longos podem atrasar a execução e a posição sobre o papel das entidades privadas na SIAC assenta em questões levantadas sem avaliação independente. A equidade entre associações e autarquias não é definida, e o texto não indica se haverá reforço de verbas. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A atualização de valores de referência e o apoio prospetivo podem exigir mais verbas, mas a recomendação não fixa montantes nem dotação adicional."
+ },
+ "affected": [
+  "associações de proteção animal",
+  "autarquias locais",
+  "animais de companhia",
+  "Direção-Geral de Alimentação e Veterinária"
+ ],
+ "categories": [
+  "animais",
+  "administracao"
+ ],
+ "tags": [
+  "bem-estar animal",
+  "apoios",
+  "esterilização",
+  "SIAC",
+  "associações zoófilas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Recursos hídricos e dessalinização",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo cinco medidas ligadas à escassez de água e à dessalinização: elaborar ou atualizar as Matrizes Hídricas Regionais; promover campanhas de sensibilização para o uso consciente da água; divulgar os estudos técnico-económicos e de impacte ambiental sobre potenciais centrais de dessalinização, bem como planeamento, licenciamento e fiscalização; lançar com urgência o concurso da empreitada da central de dessalinização na bacia do Barlavento (Algarve); e publicar o Plano Regional de Eficiência Hídrica do Alentejo, com vista a uma central no litoral alentejano. A numeração do texto salta do ponto 4 para o 6. Recomendação não vinculativa.",
+ "key_points": [
+  "Elaborar ou atualizar as Matrizes Hídricas Regionais.",
+  "Promover campanhas de sensibilização para o uso sustentável da água.",
+  "Divulgar estudos técnico-económicos e de impacte ambiental sobre potenciais centrais de dessalinização.",
+  "Lançar com urgência o concurso para a central de dessalinização no Barlavento.",
+  "Publicar o Plano Regional de Eficiência Hídrica do Alentejo."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que levante e divulgue a informação sobre a água disponível em cada região, faça campanhas de poupança, torne públicos os estudos sobre dessalinização e acelere a central do Algarve e o plano do Alentejo. É apenas uma recomendação.",
+ "context": "O proponente invoca a diminuição dos recursos hídricos per capita na UE, o risco de stress hídrico em Portugal, com Alentejo e Algarve acima do limiar de risco extremamente elevado, e os exemplos de dessalinização no mundo e no Porto Santo.",
+ "analysis": "Ponto forte: combina conhecimento dos recursos hídricos, transparência e medidas concretas de oferta. Fragilidades: é uma recomendação sem prazos ou custos; o texto defende a dessalinização como oportunidade, mas apresenta pouco sobre custos energéticos e impactos ambientais da salmoura, referidos apenas de forma geral; a numeração das medidas está incompleta, o que sugere falha de redação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A construção de centrais, as matrizes hídricas e as campanhas implicariam despesa pública não estimada."
+ },
+ "affected": [
+  "população de regiões com escassez de água",
+  "Algarve e Alentejo",
+  "Administrações das regiões hidrográficas"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "energia"
+ ],
+ "tags": [
+  "dessalinização",
+  "recursos hídricos",
+  "seca",
+  "algarve",
+  "alentejo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

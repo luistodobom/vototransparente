@@ -1,0 +1,39 @@
+{
+ "short_title": "Regulamentação do Fundo de Emergência para a Habitação",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que regulamente o Fundo de Emergência para a Habitação, previsto no artigo 219.º do Orçamento do Estado para 2024 (Lei n.º 82/2023, de 29 de dezembro). Esse fundo, ao qual seria consignada 25 % da receita da verba 1.1 da tabela geral anexa ao Código do Imposto do Selo, teria como funções apoiar pessoas privadas da sua habitação sem alternativa, apoiar o pagamento de rendas ou prestações de famílias em dificuldades, contribuir para respostas a pessoas sem-abrigo e financiar intervenções em património habitacional e espaço público. Segundo o texto, o fundo deveria ter sido regulamentado no primeiro semestre de 2024 e tal não aconteceu.",
+ "key_points": [
+  "Regulamentar o Fundo de Emergência para a Habitação criado pelo artigo 219.º da Lei n.º 82/2023.",
+  "O fundo recebe 25 % da receita da verba 1.1 da tabela geral do Imposto do Selo.",
+  "Funções previstas: alojamento temporário de emergência, apoio ao pagamento de renda ou prestação e apoio a pessoas sem-abrigo.",
+  "Pode ainda financiar intervenções em património habitacional e espaço público."
+ ],
+ "plain_language": "Há uma lei de 2024 que criou um fundo para ajudar pessoas que perdem a casa ou não conseguem pagar a renda, mas o Governo nunca fez o diploma que o põe a funcionar. Esta iniciativa limita-se a pedir ao Governo que o faça. Sendo uma recomendação, o Governo não é obrigado a cumprir.",
+ "context": "O proponente afirma que o fundo devia ter sido regulamentado no primeiro semestre de 2024 e que, passado um ano e meio, nenhum dos três Governos em funções o fez. Segundo o texto, isso faz perder para o combate à crise da habitação cerca de 100 milhões de euros anuais. A iniciativa pretende suprir essa omissão.",
+ "analysis": "A proposta é curta e inequívoca, e aposta em cumprir uma lei já aprovada em vez de criar nova despesa. A fragilidade é a ausência de prazo, de critérios de acesso e de modelo de gestão do fundo, que ficariam por definir na regulamentação governamental. O valor de cerca de 100 milhões de euros anuais é apresentado sem fonte ou cálculo no texto. Como recomendação, não obriga o Governo, pelo que o efeito depende de adesão política.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A regulamentação ativaria a consignação de 25 % da receita da verba 1.1 do Imposto do Selo ao fundo, que o texto estima em cerca de 100 milhões de euros anuais; é uma afetação de receita existente a despesas de apoio à habitação."
+ },
+ "affected": [
+  "famílias em dificuldades habitacionais",
+  "pessoas sem-abrigo",
+  "pessoas privadas da habitação"
+ ],
+ "categories": [
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "fundo de emergência",
+  "habitação",
+  "imposto do selo",
+  "sem-abrigo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

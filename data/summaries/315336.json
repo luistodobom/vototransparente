@@ -1,0 +1,40 @@
+{
+ "short_title": "Combate à vespa-do-galho-do-castanheiro e apoio aos produtores",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo que reforce o combate à vespa-do-galho-do-castanheiro (Dryocosmus kuriphilus), praga que afeta a produção de castanha, sobretudo no Norte e Centro. Recomenda ampliar e financiar de forma sustentada os programas de controlo biológico, nomeadamente a multiplicação e disseminação planeada do parasitoide Torymus sinensis; criar linhas específicas de apoio financeiro aos agricultores afetados, com critérios de elegibilidade claros, candidaturas simplificadas e prazos céleres; e integrar estas medidas numa gestão fitossanitária de longo prazo, articulada entre organismos públicos, associações de produtores e autarquias. É uma recomendação ao Governo, sem carácter vinculativo.",
+ "key_points": [
+  "Reforçar e financiar de forma sustentada o controlo biológico com o parasitoide Torymus sinensis.",
+  "Criar linhas de apoio financeiro específicas para os agricultores afetados.",
+  "Simplificar candidaturas e acelerar os prazos de resposta.",
+  "Integrar as medidas numa gestão fitossanitária de longo prazo, articulada com associações e autarquias."
+ ],
+ "plain_language": "Uma praga de insetos está a destruir castanheiros e a reduzir a produção de castanha, sobretudo em Trás-os-Montes e nas Beiras. O CHEGA pede ao Governo que invista mais no combate biológico à praga, com um inseto que a controla, e que crie apoios financeiros para os produtores, com processos mais rápidos. É apenas uma recomendação.",
+ "context": "O proponente descreve a praga como devastadora e refere críticas à morosidade dos apoios: uma candidatura ao PDR2020 em Bragança, de um milhão de euros, sem resposta, e produtores do Curral das Freiras, na Madeira, à espera há mais de um ano de um subsídio de 60 mil euros após perdas superiores a 80% em 2023.",
+ "analysis": "A proposta identifica um problema com impacto económico e cultural em regiões do interior e propõe uma abordagem integrada. Fragilidades: não indica montantes, calendário nem critérios de elegibilidade concretos, e mistura exemplos de responsabilidade regional (Madeira) com a resposta nacional. Os dois casos citados não são verificáveis no texto. Sendo recomendação, não obriga o Governo, e não avalia a eficácia das medidas de controlo biológico já em curso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento de programas de controlo biológico e de linhas de apoio aos produtores implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "produtores de castanha",
+  "comunidades rurais do Norte e Centro",
+  "associações de produtores"
+ ],
+ "categories": [
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "castanheiro",
+  "vespa-do-galho",
+  "praga",
+  "controlo biológico",
+  "castanha"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

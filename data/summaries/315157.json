@@ -1,0 +1,41 @@
+{
+ "short_title": "Recupera o visto prévio do Tribunal de Contas no PRR",
+ "summary": "O projeto de lei do Chega revoga os artigos 17.º-A e 25.º-A da Lei n.º 30/2021, de 21 de maio, para recuperar o visto prévio do Tribunal de Contas nos projetos financiados e cofinanciados pelo PRR. Estes artigos, introduzidos pela Lei n.º 43/2024, instituíram uma fiscalização prévia especial que, segundo o proponente, pôs fim ao visto prévio tradicional. A lei entraria em vigor no décimo dia útil após a publicação em Diário da República.",
+ "key_points": [
+  "Revoga os artigos 17.º-A e 25.º-A da Lei n.º 30/2021.",
+  "Recupera o visto prévio do Tribunal de Contas para projetos do PRR.",
+  "Acaba com o regime de fiscalização prévia especial introduzido em 2024.",
+  "Entra em vigor no décimo dia útil após a publicação."
+ ],
+ "plain_language": "Hoje, os contratos do PRR podem avançar antes de o Tribunal de Contas dar o seu aval, e o tribunal só pode intervir em casos raros e graves. O Chega quer voltar ao sistema em que o Tribunal de Contas verifica a legalidade antes de o contrato começar a produzir efeitos.",
+ "context": "O Chega considera que o fim do visto prévio levanta problemas de transparência e prevenção da corrupção, porque a legalidade passa a ser avaliada em simultâneo com a execução. Argumenta que os atrasos do PRR não resultam do visto, citando que o anterior presidente do Tribunal de Contas indicou uma média de apreciação de 11 dias, e refere que o novo regime se estende a todos os fundos europeus.",
+ "analysis": "A proposta reforça o controlo prévio de legalidade e assenta em declarações do Tribunal de Contas e de magistrados. Fragilidades: o texto assenta em artigos de opinião e declarações, não em avaliação sistemática; a reposição pode atrasar contratos num programa com prazos apertados e exigir mais capacidade ao Tribunal. A referência ao alargamento do regime a todos os fundos europeus não é tratada nas normas propostas, que só revogam dois artigos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Não há estimativa no texto. A reposição pode evitar despesa ilegal, mas aumenta a carga do Tribunal de Contas e pode atrasar a execução de fundos."
+ },
+ "affected": [
+  "entidades públicas executoras do PRR",
+  "Tribunal de Contas",
+  "empresas com contratos financiados pelo PRR"
+ ],
+ "categories": [
+  "administracao",
+  "economia",
+  "justica"
+ ],
+ "tags": [
+  "tribunal de contas",
+  "visto prévio",
+  "prr",
+  "fundos europeus",
+  "fiscalização prévia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

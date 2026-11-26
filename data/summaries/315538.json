@@ -1,0 +1,41 @@
+{
+ "short_title": "Passagens aéreas Madeira e Açores: pagar apenas o valor fixo",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a criação de um mecanismo de garantia financeira, com gestão pública transparente, que assegure o pagamento imediato do diferencial entre o preço real das passagens aéreas e o valor fixado no Subsídio Social de Mobilidade, eliminando os atuais processos de reembolso. Os residentes na Madeira e nos Açores pagariam diretamente apenas os valores finais do regime em vigor, sendo o remanescente liquidado automaticamente pelo mecanismo. O modelo seria permanente, com avaliação periódica de eficácia e sustentabilidade. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Mecanismo de garantia financeira com gestão pública transparente para pagar o diferencial entre o preço real e o valor do Subsídio Social de Mobilidade.",
+  "Fim dos reembolsos: residentes pagam à partida apenas o valor final previsto no regime em vigor.",
+  "Modelo permanente, sujeito a avaliação periódica de eficácia e sustentabilidade."
+ ],
+ "plain_language": "Hoje, quem vive na Madeira ou nos Açores paga a viagem de avião inteira e só depois recebe parte do dinheiro de volta. O CHEGA propõe que o Estado pague logo a diferença, para os residentes pagarem apenas o valor fixo do subsídio. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente afirma que o regime atual obriga os cidadãos das regiões autónomas a adiantar o valor integral das passagens e a esperar por um reembolso moroso e burocratizado, o que considera uma discriminação contrária aos princípios constitucionais da continuidade e da coesão territorial.",
+ "analysis": "A proposta atenua o adiantamento de dinheiro e a espera por reembolsos, o que beneficia famílias com menos rendimentos. Fragilidades: o texto não define como o mecanismo funcionaria com as companhias aéreas, não estima o custo para o Estado nem refere como evitar abusos ou aumento de tarifas. Sendo uma recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a adiantar o diferencial entre o preço real e o valor fixado, o que exige financiamento para o mecanismo. O texto não apresenta montantes."
+ },
+ "affected": [
+  "residentes da Madeira e dos Açores",
+  "estudantes, doentes e trabalhadores deslocados",
+  "companhias aéreas",
+  "Estado"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "Madeira",
+  "Açores",
+  "passagens aéreas",
+  "coesão territorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

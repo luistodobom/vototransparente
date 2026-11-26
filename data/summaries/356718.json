@@ -1,0 +1,42 @@
+{
+ "short_title": "Presunção de licitude no uso de armas de fogo pelas polícias",
+ "summary": "O projeto de lei estabelece que o uso de arma de fogo por um agente de força de segurança se presume lícito e conforme ao Decreto-Lei n.º 457/99 sempre que o agente tenha, na sua avaliação subjetiva, uma perceção razoável de ameaça iminente de morte ou lesão grave, para si ou para terceiros. A presunção pode ser afastada por prova em contrário. Quando o agente disponha de colete com bodycam, a presunção deixa de se aplicar; e, se precisar de usar arma de fogo, tem de ligar a câmara, sob pena de não beneficiar da presunção. O regime aplica-se a todas as forças de segurança cujos estatutos prevejam o porte de arma e não abrange outros meios de defesa ou contenção. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Presume-se lícito o uso de arma de fogo quando o agente tem perceção razoável de ameaça iminente de morte ou lesão grave.",
+  "A presunção é ilidível: cede perante prova em contrário.",
+  "Se o agente dispuser de colete com bodycam, a presunção não se aplica.",
+  "Quem usar arma de fogo e dispuser de bodycam tem de a ligar, sob pena de perder o benefício da presunção.",
+  "Não se aplica a outros meios de defesa ou de contenção.",
+  "Aplica-se a todas as forças de segurança com porte de arma atribuída pelo Estado."
+ ],
+ "plain_language": "Hoje, um polícia que dispara uma arma tem de demonstrar que o fez dentro das regras. A proposta passa a presumir que o disparo foi legítimo se o agente tiver razoavelmente sentido uma ameaça iminente de morte ou ferimentos graves, podendo essa presunção ser contrariada com provas. Se o agente tiver câmara no colete, a presunção deixa de valer e a câmara tem de estar ligada.",
+ "context": "O proponente (Chega) defende que os agentes não devem recear usar a arma de serviço em situações que o justifiquem por medo de serem acusados de uso excessivo. Refere o atraso na aquisição de bodycams previstas na Lei da Videovigilância e considera que estas permitem comprovar a licitude da atuação.",
+ "analysis": "A medida procura dar segurança jurídica aos agentes, ligando a presunção ao uso de câmaras que documentam a intervenção. Fragilidades: o critério assenta numa «avaliação subjetiva» do próprio agente, o que pode enfraquecer o escrutínio; há tensão com o princípio da proporcionalidade e com o dever de a acusação provar os factos; a redação é ambígua quando diz que a presunção não existe se o agente «dispuser» de bodycam, mesmo que a câmara não funcione; a relação com o regime penal da legítima defesa e do Decreto-Lei n.º 457/99 não é desenvolvida.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa nem receita; altera apenas o regime probatório do uso de armas de fogo."
+ },
+ "affected": [
+  "agentes das forças de segurança",
+  "cidadãos intervencionados pelas polícias",
+  "tribunais e Ministério Público"
+ ],
+ "categories": [
+  "seguranca",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "armas de fogo",
+  "bodycam",
+  "forças de segurança",
+  "presunção de licitude"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Combate à fraude com meios de pagamento que não em numerário",
+ "summary": "Proposta de lei do Governo que transpõe a Diretiva (UE) 2019/713 sobre fraude e contrafação de meios de pagamento que não em numerário, alterando 16 diplomas (Código Penal, Código de Processo Penal, Lei do Cibercrime, estatutos de ordens profissionais, entre outros). O núcleo está na Lei do Cibercrime, onde se criam os artigos 3.º-A a 3.º-G: contrafação de cartões e outros dispositivos de pagamento (prisão de 3 a 12 anos), uso (1 a 5 anos, agravado se o valor for consideravelmente elevado), aquisição e circulação, atos preparatórios, aquisição de dados obtidos por crime informático, agravação para funcionários e extensão à moeda virtual. Agrava o acesso ilegítimo, clarifica a apreensão de correio eletrónico, alarga o ponto de contacto permanente ao Ministério Público e entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Novos artigos 3.º-A a 3.º-G da Lei do Cibercrime: contrafação de cartões ou dispositivos de pagamento é punida com prisão de 3 a 12 anos; o uso de dispositivos contrafeitos com 1 a 5 anos (2 a 8 se o prejuízo ou benefício for consideravelmente elevado).",
+  "Pune a aquisição, detenção e circulação de dispositivos contrafeitos ou de dados obtidos por crime informático (1 a 5 anos) e os atos preparatórios da contrafação.",
+  "Agrava o acesso ilegítimo (artigo 6.º): até 2 anos ou multa se visar dados de pagamento, e até 3 anos se o agente os obtiver ou violar regras de segurança.",
+  "Reformula o artigo 17.º da Lei do Cibercrime: o Ministério Público apresenta ao juiz as mensagens de correio eletrónico apreendidas que considere relevantes, cabendo ao juiz decidir a sua junção ao processo.",
+  "Esclarece que as incriminações abrangem moeda virtual, e que o Ministério Público também assegura disponibilidade permanente para a cooperação internacional.",
+  "Ajustes de redação no Código Penal (artigos 11.º, 225.º, entre outros) e revogação de duas normas redundantes."
+ ],
+ "plain_language": "O Governo propõe alterar várias leis penais para punir melhor as fraudes com cartões e outros meios de pagamento eletrónicos, como a falsificação de cartões de débito ou a compra e venda de dados de pagamento obtidos por ataques informáticos. As penas podem ir de 1 a 12 anos de prisão, conforme o caso. A proposta aplica uma diretiva europeia e aproveita para clarificar as regras sobre a apreensão de emails em investigações criminais.",
+ "context": "O Governo afirma que a lei portuguesa está genericamente conforme à diretiva, mas identifica lacunas: falsificação de instrumentos que não são cartões de crédito, obtenção ilícita de instrumentos não corpóreos e uma pena de acesso ilegítimo inferior ao mínimo exigido (limite máximo de 2 anos). Aproveita ainda para concentrar as normas na Lei do Cibercrime e corrigir lapsos do Código Penal.",
+ "analysis": "A proposta cumpre uma obrigação europeia, fecha lacunas concretas de punibilidade e dá coerência sistemática ao concentrar a matéria na Lei do Cibercrime; a inclusão de moeda virtual é uma clarificação útil. Fragilidades: altera 16 diplomas e é muito técnica, o que dificulta o escrutínio; molduras como 3 a 12 anos para contrafação podem suscitar debate de proporcionalidade; a reforma do regime de apreensão de emails, que o próprio texto reconhece não resultar da diretiva, mistura matérias distintas e toca em garantias de privacidade; e a noção de obtenção ilícita assenta numa interpretação do Governo, pois a diretiva não a define.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A proposta altera normas penais e processuais; o texto não indica despesa nem receita."
+ },
+ "affected": [
+  "utilizadores de cartões e meios de pagamento eletrónicos",
+  "autores de fraude informática e de contrafação",
+  "Polícia Judiciária e Ministério Público",
+  "tribunais",
+  "instituições de pagamento"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "internacional"
+ ],
+ "tags": [
+  "fraude",
+  "meios de pagamento",
+  "cibercrime",
+  "diretiva europeia",
+  "código penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

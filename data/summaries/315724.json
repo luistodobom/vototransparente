@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargar a experiência da semana de quatro dias",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo três medidas. Primeiro, desenvolver, no âmbito do diálogo social tripartido, um programa de medidas que estimulem a expansão da semana de quatro dias nos setores privado e social, sem diminuição da retribuição, com incentivos à negociação coletiva, incentivos fiscais e apoios específicos. Segundo, criar um programa específico de semana de quatro dias no setor público e no Setor Empresarial do Estado, para entidades e trabalhadores que queiram aderir, respeitando as especificidades de cada setor. Terceiro, apresentar à Assembleia da República um relatório periódico sobre a abrangência e os impactos da medida. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Programa de medidas para expandir a semana de quatro dias nos setores privado e social, sem perda de retribuição.",
+  "Incentivos à negociação coletiva, incentivos fiscais e apoios específicos às entidades aderentes.",
+  "Programa específico para o setor público e para o Setor Empresarial do Estado, de adesão voluntária.",
+  "Relatório periódico à Assembleia da República sobre a expansão e o impacto da semana de quatro dias."
+ ],
+ "plain_language": "O PS pede ao Governo que incentive mais empresas e serviços públicos a adotar a semana de quatro dias, com menos horas e o mesmo salário, e que informe regularmente o Parlamento sobre os resultados. A adesão seria voluntária e o Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente invoca o projeto-piloto de 2023 no setor privado, cujo relatório indica que os trabalhadores valorizam o benefício em 28% do salário, e um estudo na Administração Pública. Cita dados do Eurostat segundo os quais 14,2% dos empregados em Portugal trabalham mais de 45 horas semanais, face a 10,8% na média europeia, e aponta benefícios para a conciliação, produtividade e ambiente.",
+ "analysis": "A iniciativa prevê adesão voluntária, diálogo social e avaliação periódica, o que é equilibrado. Fragilidades: assenta em resultados de empresas que aderiram voluntariamente, o que limita a generalização; propõe incentivos fiscais e apoios sem os quantificar nem identificar custos para o Estado; e não esclarece como seriam tratados setores com atendimento contínuo ou margens reduzidas. As afirmações sobre ganhos de produtividade e benefícios ambientais são apresentadas como evidentes, sem dados no texto.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Os incentivos fiscais e apoios reduziriam receita ou aumentariam despesa, e a redução do horário no setor público teria custos de organização; o texto não apresenta valores nem estimativa de ganhos."
+ },
+ "affected": [
+  "trabalhadores do setor privado e social",
+  "trabalhadores do setor público",
+  "empresas aderentes",
+  "parceiros sociais"
+ ],
+ "categories": [
+  "trabalho",
+  "fiscalidade"
+ ],
+ "tags": [
+  "semana de quatro dias",
+  "tempo de trabalho",
+  "diálogo social",
+  "incentivos fiscais",
+  "negociação coletiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

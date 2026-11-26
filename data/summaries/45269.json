@@ -1,0 +1,39 @@
+{
+ "short_title": "Combate a paraísos fiscais e avaliação da Zona Franca da Madeira",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo duas medidas. A primeira é tomar as diligências necessárias, no quadro da União Europeia e de outras organizações internacionais, para a adoção de mecanismos de combate eficaz ao branqueamento de capitais e à fraude, evasão e elisão fiscal assentes em paraísos fiscais. A segunda é realizar uma avaliação de custo-benefício abrangente do impacto económico, social e fiscal do Centro Internacional de Negócios da Zona Franca da Madeira e apresentar os resultados à Assembleia da República. O texto cita perdas de receita associadas a casos como o Panamá Papers e inspeções à Zona Franca da Madeira.",
+ "key_points": [
+  "Diligências na UE e noutras organizações para combater o branqueamento de capitais e a evasão fiscal em paraísos fiscais.",
+  "Avaliação de custo-benefício do impacto económico, social e fiscal da Zona Franca da Madeira.",
+  "Apresentação dos resultados da avaliação à Assembleia da República."
+ ],
+ "plain_language": "O PAN pede ao Governo que defenda, a nível europeu e internacional, regras mais eficazes contra o uso de paraísos fiscais para fugir aos impostos e que avalie se a Zona Franca da Madeira compensa para o país, divulgando os resultados ao Parlamento. É uma recomendação sem força obrigatória.",
+ "context": "O proponente defende que a recuperação pós-Covid-19 não deve assentar em austeridade e aponta perdas de receita com paraísos fiscais, citando os relatórios de combate à fraude de 2018 e 2019 e dados sobre os casos Malta Files, Swissleaks e Panamá Papers. Refere dúvidas da Comissão Europeia sobre a Zona Franca e mais de 470 inspeções entre 2015 e 2018 com correções de IRC de cerca de 200 milhões de euros.",
+ "analysis": "A proposta junta uma vertente externa, de ação europeia, e uma interna, de avaliação de um regime fiscal concreto. A avaliação pode trazer transparência, mas a primeira medida é genérica e depende de negociações multilaterais. Os números citados provêm de relatórios e não permitem estimar quanto se ganharia. Não define prazo nem entidade responsável pela avaliação, e pode ter consequências para as empresas da Madeira e para o emprego regional, que o texto não analisa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A recomendação não altera diretamente impostos. Pode levar a maior receita se limitar a evasão, ou a menos receita e emprego se resultar em alterações à Zona Franca; o texto não quantifica."
+ },
+ "affected": [
+  "Estado e contribuintes",
+  "empresas da Zona Franca da Madeira",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "internacional",
+  "economia"
+ ],
+ "tags": [
+  "paraísos fiscais",
+  "zona franca da madeira",
+  "branqueamento de capitais",
+  "evasão fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

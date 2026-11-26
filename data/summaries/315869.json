@@ -1,0 +1,41 @@
+{
+ "short_title": "Recomenda mais meios para educação inclusiva",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo o reforço de meios humanos e materiais para a inclusão de alunos com deficiência do pré-escolar ao secundário. Pede a abertura de concurso para reforçar docentes de educação especial e técnicos especializados com cobertura territorial equitativa, a afetação de assistentes operacionais com formação específica, ações de formação inicial e contínua e de sensibilização para pessoal docente e não docente e comunidade escolar, ações de sensibilização para assistentes pessoais e maior coordenação interministerial entre Educação, Igualdade, Trabalho, Solidariedade e Segurança Social e Saúde. Trata-se de uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Concurso para reforçar docentes de educação especial e técnicos especializados.",
+  "Assistentes operacionais com formação específica para acompanhar alunos com deficiência.",
+  "Formação inicial e contínua e sensibilização sobre inclusão e não discriminação.",
+  "Sensibilização de assistentes pessoais sobre integração em espaço escolar.",
+  "Reforço da coordenação entre os ministérios da Educação, Igualdade, Trabalho, Solidariedade e Segurança Social e Saúde."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que contrate mais professores de educação especial, psicólogos, terapeutas e auxiliares, e que dê formação a quem trabalha nas escolas, para que os alunos com deficiência possam participar plenamente. É uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente invoca o direito à educação, a Constituição e a Convenção da ONU sobre os Direitos das Pessoas com Deficiência, e aponta insuficiência de docentes e técnicos especializados, escassez de assistentes operacionais com formação e pouca formação contínua em práticas inclusivas, citando inquéritos de sindicatos e notícias.",
+ "analysis": "A iniciativa identifica lacunas apoiadas em fontes citadas e abrange várias dimensões do problema. Por ser uma resolução, não obriga o Governo e não fixa metas, prazos, número de contratações nem fontes de financiamento, o que dificulta avaliar a sua execução. A coordenação interministerial proposta é genérica. O impacto dependeria de decisões orçamentais que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de docentes, técnicos e assistentes e as ações de formação implicariam mais despesa pública, se o Governo as adotasse. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com deficiência",
+  "docentes de educação especial",
+  "assistentes operacionais e técnicos especializados",
+  "famílias e escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "educação especial",
+  "assistentes operacionais",
+  "deficiência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

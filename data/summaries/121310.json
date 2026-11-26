@@ -1,0 +1,41 @@
+{
+ "short_title": "Regime transitório de uso obrigatório de máscara em espaços públicos",
+ "summary": "O PS propõe um regime transitório que permite ao Governo determinar, através da Resolução do Conselho de Ministros que declare situação de alerta, contingência ou calamidade, a obrigatoriedade do uso de máscara em espaços e vias públicas, para pessoas a partir dos 10 anos, quando o distanciamento físico recomendado seja impraticável. A medida só pode ser adotada se for necessária, adequada e proporcional e é aferida com base na evolução da pandemia. Prevê dispensas (por atestado ou declaração médica, incompatibilidade com a atividade, e membros do mesmo agregado sem terceiros próximos), campanhas de sensibilização e fiscalização pelas forças de segurança e polícias municipais, com função prioritariamente pedagógica. O incumprimento é contraordenação, nos termos do Decreto-Lei n.º 28-B/2020. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Permite ao Governo impor o uso de máscara em espaços públicos, a partir dos 10 anos, quando o distanciamento seja impraticável.",
+  "A imposição só pode ser decretada no quadro de uma situação de alerta, contingência ou calamidade.",
+  "Prevê dispensas por razões médicas, incompatibilidade com a atividade e membros do mesmo agregado.",
+  "A fiscalização cabe às forças de segurança e polícias municipais, com função prioritariamente pedagógica.",
+  "O incumprimento constitui contraordenação nos termos do Decreto-Lei n.º 28-B/2020."
+ ],
+ "plain_language": "Com o aumento de casos de COVID-19, o PS propõe uma lei que permita ao Governo voltar a exigir máscara na rua e noutros espaços públicos quando não seja possível manter distância. Só poderia ser usada em situações declaradas de alerta, contingência ou calamidade, e há exceções, por exemplo por razões de saúde. A fiscalização começaria por informar e sensibilizar, e o incumprimento pode levar a coima.",
+ "context": "O PS invoca o aumento de casos de COVID-19 na Europa e em Portugal e considera que as máscaras são uma opção adicional relevante. Remete a decisão concreta para as situações de alerta, contingência ou calamidade, mantendo a credencial parlamentar para restringir direitos e assegurando a avaliação regular da necessidade.",
+ "analysis": "O regime tem a vantagem de dar base legal a uma medida restritiva e de a condicionar à necessidade, adequação e proporcionalidade, com critérios de avaliação e dispensas. A principal fragilidade é a delegação ao Governo de uma decisão com impacto em liberdades, ainda que enquadrada por resolução, e a ausência de prazo de vigência do regime, apesar de se chamar transitório. O texto não fixa o valor das coimas, que remete para outro diploma, nem define o conceito de impraticabilidade do distanciamento, o que pode gerar dúvidas na fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Prevê campanhas de sensibilização e fiscalização e eventual receita de coimas, mas o texto não os quantifica."
+ },
+ "affected": [
+  "população em geral",
+  "forças de segurança e polícias municipais",
+  "pessoas com dispensa médica"
+ ],
+ "categories": [
+  "saude",
+  "seguranca"
+ ],
+ "tags": [
+  "covid-19",
+  "máscara",
+  "espaços públicos",
+  "contraordenação",
+  "estado de alerta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

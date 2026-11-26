@@ -1,0 +1,43 @@
+{
+ "short_title": "Defesa do interesse público na reprivatização da TAP",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, no processo de reprivatização da TAP, assegure cinco condições: manutenção dos postos de trabalho; manutenção das rotas para os Açores, a Madeira e os países lusófonos a preços competitivos; prossecução das metas ambientais da empresa, designadamente na transição e adaptação energética da frota; garantias de que não recaem sobre o erário público encargos adicionais após a reprivatização; e submissão dos termos finais a parecer não vinculativo do Conselho de Finanças Públicas sobre os riscos para as contas públicas. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Manutenção dos postos de trabalho da TAP.",
+  "Manutenção das rotas para os Açores, a Madeira e os países lusófonos a preços competitivos.",
+  "Prossecução das metas ambientais, em especial a transição energética da frota.",
+  "Garantias de que não haverá encargos adicionais para o erário público após a reprivatização.",
+  "Parecer não vinculativo do Conselho de Finanças Públicas sobre os termos finais e os riscos da operação."
+ ],
+ "plain_language": "O PAN pede ao Governo que, ao vender a TAP, proteja os empregos, mantenha voos para as ilhas e os países de língua portuguesa, cumpra metas ambientais e garanta que o Estado não volta a pagar por problemas da empresa. Antes de fechar o negócio, o Conselho de Finanças Públicas daria um parecer. O Governo não é obrigado a aceitar.",
+ "context": "O proponente estima que a intervenção do Estado na TAP custou cerca de 5 mil milhões de euros (3,2 mil milhões de auxílio à recapitalização mais compensações da crise sanitária) e cita a UTAO e o Conselho de Finanças Públicas sobre os riscos orçamentais. Critica o início da privatização pelo Decreto-Lei n.º 92/2025 sem discussão pública abrangente.",
+ "analysis": "A iniciativa combina proteção social, territorial, ambiental e orçamental e prevê um parecer técnico independente, o que reforça a transparência. Fragilidades: as condições podem reduzir o interesse dos compradores e o preço, e algumas (preços competitivos nas rotas, ausência total de encargos futuros) são difíceis de garantir contratualmente e de fiscalizar; o texto não define mecanismos de cumprimento nem sanções. O montante de cerca de 5 mil milhões é apresentado como soma de várias parcelas, sem detalhe no texto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A reprivatização gera receita para o Estado, mas as condições propostas podem reduzir o valor da venda; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores da TAP",
+  "passageiros das regiões autónomas e países lusófonos",
+  "contribuintes",
+  "Estado como acionista"
+ ],
+ "categories": [
+  "transportes",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [
+  "TAP",
+  "reprivatização",
+  "Conselho de Finanças Públicas",
+  "rotas aéreas",
+  "postos de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

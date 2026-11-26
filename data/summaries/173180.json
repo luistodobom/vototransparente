@@ -1,0 +1,42 @@
+{
+ "short_title": "Auditoria externa à DGRDN e à idD Portugal Defence",
+ "summary": "Projeto de Resolução do Chega que recomenda ao Governo que proceda, com a maior urgência, a uma auditoria externa e independente à Direção-Geral de Recursos da Defesa Nacional (DGRDN) e à idD Portugal Defence. A exposição de motivos descreve as funções dos dois organismos e invoca casos recentes e suspeitas de corrupção, como a operação «Tempestade Perfeita» e as obras do Hospital Militar de Belém, a assessoria paga a um então secretário de Estado, uma nomeação na idD e a não publicação durante dois anos dos relatórios e contas da idD. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Auditoria externa e independente à DGRDN e à idD Portugal Defence.",
+  "Pedido de realização com a maior urgência.",
+  "Invoca casos e suspeitas de corrupção envolvendo os dois organismos.",
+  "Recomendação não vinculativa."
+ ],
+ "plain_language": "O Chega pede ao Governo que contrate uma auditoria independente a dois organismos da Defesa que gerem muito dinheiro público, depois de casos e suspeitas de corrupção noticiados. É um pedido, não obriga o Governo.",
+ "context": "O proponente afirma que a DGRDN e a idD Portugal Defence, que gerem milhares de milhões de euros, se viram envolvidas em casos e suspeitas de corrupção, com detenções e arguidos, e que a idD não publica relatórios e contas há dois anos. Considera necessário um apuramento rigoroso e independente.",
+ "analysis": "Uma auditoria externa pode reforçar a transparência e a confiança. A iniciativa, porém, refere casos que estão sujeitos a investigação judicial, em que a presunção de inocência se aplica, e não define o âmbito, o prazo, a entidade auditora nem o período a auditar. Sendo uma recomendação, depende do Governo, e o texto não esclarece como se articularia com a ação do Ministério Público e do Tribunal de Contas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de uma auditoria externa implica despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Direção-Geral de Recursos da Defesa Nacional",
+  "idD Portugal Defence",
+  "Ministério da Defesa Nacional",
+  "contribuintes"
+ ],
+ "categories": [
+  "defesa",
+  "administracao",
+  "justica"
+ ],
+ "tags": [
+  "auditoria",
+  "defesa nacional",
+  "idd portugal defence",
+  "corrupção",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

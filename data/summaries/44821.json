@@ -1,0 +1,39 @@
+{
+ "short_title": "Campanha sobre uso correto e reutilizável de máscaras, viseiras e luvas",
+ "summary": "O Grupo Parlamentar Os Verdes propõe que a Assembleia da República recomende ao Governo uma intensa campanha de informação e esclarecimento aos cidadãos sobre material de proteção individual, como máscaras, viseiras e luvas. A campanha deve incentivar, sempre que possível, o uso de material reutilizável em vez de descartável, formar os cidadãos para a utilização correta deste material e esclarecer as características que o seu fabrico deve cumprir. O texto parte da pandemia de COVID-19 e das dúvidas frequentes sobre tipos de tecido, filtros, lavagem e forma correta de colocar e retirar máscaras, bem como do impacto ambiental dos descartáveis. Sendo projeto de resolução, é uma recomendação não vinculativa ao Governo.",
+ "key_points": [
+  "Recomenda uma campanha de informação aos cidadãos sobre material de proteção individual.",
+  "Incentiva o uso de material reutilizável em vez de descartável de uso único.",
+  "Pretende formação sobre a utilização correta de máscaras, viseiras e luvas.",
+  "Pede esclarecimento sobre as características a que o fabrico deste material deve obedecer."
+ ],
+ "plain_language": "Os Verdes pedem ao Governo que explique claramente às pessoas como usar bem máscaras, viseiras e luvas e que incentive as que se podem lavar e reutilizar, em vez das de deitar fora. Querem também que se esclareça como devem ser fabricadas. É uma recomendação, sem obrigação legal para o Governo.",
+ "context": "O proponente refere que a pandemia levou muitas pessoas a usar ou fabricar máscaras, com muitas dúvidas sobre tecidos, filtros, lavagem e uso correto. Defende que o Estado deve ser proativo na informação e aponta o problema ambiental e o custo acrescido das máscaras descartáveis.",
+ "analysis": "A proposta é de baixo custo e responde a uma necessidade real de informação clara, ligando saúde pública e ambiente. Fragilidades: não indica orçamento, entidade responsável nem calendário, e deixa para as autoridades de saúde a definição técnica sobre quais os materiais reutilizáveis eficazes, matéria em que a orientação científica pode evoluir. Incentivar o reutilizável pode também colidir com recomendações sanitárias em contextos específicos. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A campanha de informação implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "cidadãos",
+  "utilizadores de máscaras",
+  "produtores de material de proteção"
+ ],
+ "categories": [
+  "saude",
+  "ambiente"
+ ],
+ "tags": [
+  "máscaras",
+  "covid-19",
+  "material reutilizável",
+  "campanha de informação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

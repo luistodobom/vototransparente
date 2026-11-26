@@ -1,0 +1,39 @@
+{
+ "short_title": "Passe nacional multimodal e campanha de mobilidade sustentável",
+ "summary": "O projeto de resolução do PAN recomenda ao Governo duas medidas. A primeira é que, em articulação com as autoridades de transportes de cada área metropolitana e comunidade intermunicipal, estude a viabilidade de criar um passe nacional multimodal, que inclua os transportes ferroviário, rodoviário e fluvial, em articulação com as redes regionais, intermunicipais e municipais e com os sistemas de bicicletas partilhadas. A segunda é que desenvolva e implemente uma campanha nacional de sensibilização para incentivar o uso do transporte público e modos de mobilidade mais sustentáveis, tendo em conta o agravamento dos preços dos combustíveis. Trata-se de uma recomendação não vinculativa, que pede um estudo de viabilidade e não a criação imediata do passe.",
+ "key_points": [
+  "Estudo de viabilidade de um passe nacional multimodal que inclua comboio, autocarro, transporte fluvial e bicicletas partilhadas.",
+  "Articulação com as autoridades de transportes das áreas metropolitanas e comunidades intermunicipais.",
+  "Campanha nacional de sensibilização para o uso do transporte público e da mobilidade sustentável."
+ ],
+ "plain_language": "O PAN pede ao Governo que estude a criação de um passe único que sirva em todo o país e em vários meios de transporte, incluindo comboios, autocarros, barcos e bicicletas partilhadas. Pede também uma campanha para convencer as pessoas a usar mais os transportes públicos. É uma recomendação, e a criação do passe ainda dependeria do resultado do estudo.",
+ "context": "O proponente invoca o aumento dos preços dos combustíveis causado pelas tensões no Médio Oriente e a dependência do transporte individual. Defende que a fragmentação entre sistemas de transporte dificulta soluções integradas, limita a mobilidade inter-regional e penaliza territórios fora das áreas metropolitanas.",
+ "analysis": "A proposta é de baixo compromisso, pedindo um estudo, e aponta uma fragmentação real entre sistemas de transporte. A campanha de sensibilização é simples de executar. Fragilidades: não define prazos, custos, modelo tarifário nem como repartir receitas entre operadores; a integração de sistemas tão diferentes é complexa; a eficácia de campanhas na mudança de comportamentos não é avaliada; há sobreposição com outras iniciativas sobre títulos intermodais e bilhética. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O estudo e a campanha implicam despesa, e um futuro passe nacional teria impacto na receita tarifária, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "operadores e autoridades de transportes",
+  "Governo"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "passe nacional",
+  "multimodal",
+  "transporte público",
+  "mobilidade sustentável"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

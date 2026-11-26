@@ -1,0 +1,39 @@
+{
+ "short_title": "Acessibilidade nos exames nacionais para alunos daltónicos (CH)",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo o reforço das medidas de acessibilidade nos exames nacionais para alunos com daltonismo. Pede a revisão das regras de acessibilidade visual para que gráficos, mapas e esquemas não dependam exclusivamente da distinção de cores, recorrendo a símbolos, padrões e contrastes; uma avaliação e revisão, com o EduQA, o Júri Nacional de Exames, as escolas e entidades técnicas, dos mecanismos de adaptação existentes, incluindo o sistema ColorADD; e procedimentos rápidos e eficazes de resposta a dificuldades sinalizadas pelos alunos durante as provas. Menciona a Petição n.º 101/XVII/1.ª sobre o tema.",
+ "key_points": [
+  "Rever as regras de acessibilidade visual para que elementos gráficos não dependam só da cor.",
+  "Avaliar e rever os mecanismos de adaptação existentes, incluindo o ColorADD.",
+  "Fazer essa avaliação em articulação com o EduQA, o Júri Nacional de Exames e as escolas.",
+  "Garantir respostas rápidas e eficazes a dificuldades sinalizadas durante as provas."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que os exames nacionais deixem de depender de cores para quem é daltónico, usando símbolos e padrões, e que haja resposta rápida quando um aluno assinala um problema durante a prova. É uma recomendação sem força de lei.",
+ "context": "O proponente alega falhas que colocam alunos daltónicos em desvantagem, cita a Petição n.º 101/XVII/1.ª e a estimativa de cerca de 500 mil pessoas com daltonismo em Portugal. Refere falta de uniformização de procedimentos e descoordenação entre entidades, e que os alunos precisam da nota para aceder ao ensino superior.",
+ "analysis": "A proposta responde a um problema real e é de custo provavelmente reduzido. É, porém, uma recomendação não vinculativa, sem prazos, e parte de casos conhecidos sem os quantificar. A estimativa de 500 mil pessoas é referida a partir de um investigador, sem fonte oficial. Sobrepõe-se em grande parte a outras iniciativas sobre o mesmo tema.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Não é indicado impacto financeiro; as medidas são sobretudo de revisão de procedimentos e de materiais de prova."
+ },
+ "affected": [
+  "Alunos com daltonismo",
+  "Candidatos ao ensino superior",
+  "Júri Nacional de Exames e escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "daltonismo",
+  "exames nacionais",
+  "colorADD",
+  "petição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

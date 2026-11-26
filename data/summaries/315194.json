@@ -1,0 +1,42 @@
+{
+ "short_title": "Proteção legal dos carvalhos",
+ "summary": "O projeto de lei do Livre altera o Decreto-Lei n.º 169/2001, que protege o sobreiro e a azinheira, para estender essas medidas aos carvalhos. Acrescenta uma definição de carvalho que abrange várias espécies do género Quercus (como o carvalho-alvarinho, o carvalho-negral e o carvalho-português) e passa a exigir autorização para o corte ou arranque de carvalhos, isolados ou em povoamento, tal como para sobreiros e azinheiras. Proíbe conversões de povoamentos de carvalho, mantém restrições de alteração do uso do solo durante 25 anos após conversões ou cortes ilegais e sujeita o corte a medidas compensatórias de manutenção da área. Altera 19 artigos do diploma em vigor.",
+ "key_points": [
+  "Define juridicamente \"carvalho\", incluindo várias espécies do género Quercus.",
+  "Exige autorização para o corte ou arranque de carvalhos, isolados ou em povoamento.",
+  "Proíbe conversões de povoamentos de carvalho, sobreiro ou azinheira.",
+  "Aplica aos carvalhos a proibição de alteração do uso do solo durante 25 anos após conversão ou corte ilegal.",
+  "Sujeita o corte de carvalhos em povoamento a medidas compensatórias de manutenção da área."
+ ],
+ "plain_language": "Hoje só o sobreiro e a azinheira têm uma lei que obriga a pedir autorização antes de os cortar ou arrancar. Esta proposta estende essas regras aos carvalhos de várias espécies, para que não possam ser cortados à vontade nem substituídos por outras culturas. Quem cortasse ilegalmente ficaria impedido de mudar o uso do terreno durante 25 anos.",
+ "context": "O Livre refere que os carvalhos representam apenas 3% da área de povoamento florestal, contra 34% de sobreiro e azinheira, e que a floresta autóctone perde terreno para o eucalipto e o pinheiro-bravo em monocultura. Invoca a importância ecológica dos carvalhos, um relatório de avaliação das medidas compensatórias e um apelo da associação Quercus de 2016 para uma proteção equivalente.",
+ "analysis": "A proposta usa um regime já testado e dá proteção a espécies hoje sem regime específico, com benefícios para a biodiversidade e o carbono. Fragilidades: a definição inclui arbustos como o carrasco, o que pode alargar muito o âmbito e a carga de licenciamento para proprietários e serviços florestais. O texto não avalia o impacto administrativo nem os custos para os proprietários, e o próprio preâmbulo refere que o regime atual está em avaliação. A fiscalização seria um desafio.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Podem existir despesas administrativas de licenciamento e fiscalização e custos para proprietários, mas não são estimados."
+ },
+ "affected": [
+  "proprietários florestais",
+  "serviços públicos de florestas",
+  "indústria agroflorestal",
+  "organizações ambientais"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura"
+ ],
+ "tags": [
+  "carvalhos",
+  "floresta autóctone",
+  "sobreiro e azinheira",
+  "biodiversidade",
+  "Quercus"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

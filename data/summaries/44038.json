@@ -1,0 +1,40 @@
+{
+ "short_title": "Contar a avaliação de ex-militares no SIADAP",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que contabilize a avaliação obtida pelos ex-militares, nos anos em que desempenharam funções nas Forças Armadas, após ingresso na Administração Pública, para efeitos do SIADAP. O texto afirma que os serviços não contam essa avaliação por a carreira militar ser uma carreira especial com sistema de avaliação diferente, mas que o Regulamento de Incentivos à Prestação de Serviço Militar em Regime de Contrato configura uma relação jurídica de emprego público e o Ministério da Defesa Nacional atesta que as funções integram o conteúdo funcional das carreiras. Propõe que o Ministro da Defesa Nacional e o Ministro das Finanças encontrem uma solução. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Contabilizar no SIADAP a avaliação obtida pelos ex-militares nos anos de serviço nas Forças Armadas.",
+  "Aplica-se após o ingresso do ex-militar na Administração Pública.",
+  "Pede uma solução em trabalho conjunto dos Ministros da Defesa Nacional e das Finanças."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que, quando um antigo militar entra na função pública, as avaliações que teve nas Forças Armadas contem para a sua progressão, tal como contariam avaliações de outros serviços. Hoje esses anos não são contabilizados. É uma recomendação ao Governo.",
+ "context": "O CDS-PP aponta a perda de efetivos nas Forças Armadas, cerca de 20% desde o início do milénio e perto de 25% na última década, e as dificuldades dos militares em regime de contrato em encontrar trabalho. Afirma que ex-militares viram a avaliação militar não contabilizada no SIADAP, o que considera uma discriminação que afeta a motivação para ingressar nas Forças Armadas.",
+ "analysis": "A proposta corrige uma assimetria que afeta ex-militares, com base na declaração do Ministério da Defesa de que as funções são equivalentes, e pode tornar o serviço militar mais atrativo. Porém, a equiparação entre sistemas de avaliação distintos não é trivial e o texto não explica como converter avaliações militares para o SIADAP, nem quantifica o número de abrangidos ou o impacto nas progressões. Sendo resolução, não vincula o Governo, e o nexo entre a medida e a retenção de efetivos não é demonstrado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Contar avaliações anteriores pode antecipar progressões e aumentar a despesa com pessoal na Administração Pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "ex-militares em regime de contrato",
+  "trabalhadores da Administração Pública oriundos das Forças Armadas",
+  "Forças Armadas"
+ ],
+ "categories": [
+  "defesa",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "siadap",
+  "ex-militares",
+  "forças armadas",
+  "avaliação de desempenho",
+  "regime de contrato"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Retenção na fonte progressiva para trabalhadores independentes",
+ "summary": "O PS recomenda ao Governo que reveja o sistema de retenção na fonte aplicável aos trabalhadores independentes, assegurando que o novo modelo respeita o princípio da progressividade consagrado na Constituição e garantindo justiça fiscal para os trabalhadores de menores rendimentos. Atualmente os rendimentos de Categoria B estão sujeitos, em regra, a uma taxa fixa de retenção, que o Orçamento do Estado para 2025 baixou de 25% para 23%, enquanto os trabalhadores por conta de outrem têm tabelas progressivas. O texto sugere que a revisão é possível com os sistemas da Autoridade Tributária, como a emissão eletrónica de recibos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever a retenção na fonte dos trabalhadores independentes para a tornar progressiva.",
+  "Proteger em particular os trabalhadores independentes de menores rendimentos.",
+  "Completar a revisão iniciada com as tabelas de retenção do trabalho dependente."
+ ],
+ "plain_language": "Quem trabalha por conta própria sofre uma retenção fixa de 23% sobre os recibos, quer ganhe pouco ou muito, enquanto os trabalhadores por conta de outrem têm uma retenção que aumenta com o salário. O PS pede ao Governo que mude o sistema para que quem ganha menos retenha menos. O pedido não obriga o Governo.",
+ "context": "O PS compara: um trabalhador independente com 15 000 euros anuais sofre retenção de 23%, enquanto um trabalhador por conta de outrem com o mesmo rendimento tem uma taxa efetiva de cerca de 8%, que só atinge 23% acima de 3 000 euros mensais. Considera que o modelo é contrário ao princípio da progressividade e penaliza os de menores rendimentos.",
+ "analysis": "A comparação é ilustrativa e a proposta reconhece que há viabilidade técnica. Fragilidades: a retenção na fonte é uma antecipação do imposto e o IRS final é apurado na declaração anual, pelo que o impacto é sobretudo de tesouraria, o que o texto não destaca. Não define o novo modelo, os escalões nem como lidar com a variação mensal dos rendimentos e despesas. Também não quantifica o efeito na receita. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Taxas de retenção mais baixas para rendimentos menores antecipariam menos receita ao longo do ano, com efeito sobretudo de tesouraria. O texto não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores independentes",
+  "contribuintes de IRS de categoria B",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "retenção na fonte",
+  "IRS",
+  "trabalhadores independentes",
+  "progressividade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

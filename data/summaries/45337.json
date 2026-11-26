@@ -1,0 +1,39 @@
+{
+ "short_title": "Referendo sobre a (des)penalização da morte a pedido",
+ "summary": "A Comissão de Assuntos Constitucionais propõe ao Plenário um projeto de resolução que apresenta ao Presidente da República a proposta de realização de um referendo sobre a morte a pedido, na sequência de uma iniciativa popular subscrita por 78114 cidadãos, admitida em 9 de setembro de 2020 após verificação das assinaturas. O texto resume a tramitação, incluindo o parecer da comissão de 30 de junho de 2020, que não encontrou impedimentos constitucionais ou legais. Os eleitores recenseados em território nacional e os residentes no estrangeiro regularmente recenseados seriam chamados a responder à pergunta: Concorda que matar outra pessoa a seu pedido ou ajudá-la a suicidar-se deve continuar a ser punível pela lei penal em quaisquer circunstâncias?",
+ "key_points": [
+  "Propõe ao Presidente da República a realização de um referendo nacional sobre a morte a pedido.",
+  "Resulta de uma iniciativa popular de cidadãos admitida a 9 de setembro de 2020.",
+  "Incluiria eleitores recenseados em Portugal e residentes no estrangeiro regularmente recenseados.",
+  "Pergunta se matar outra pessoa a seu pedido ou ajudá-la a suicidar-se deve continuar punível em quaisquer circunstâncias."
+ ],
+ "plain_language": "Esta proposta leva ao Presidente da República o pedido de um referendo sobre se a morte a pedido, por exemplo ajudar alguém a morrer, deve continuar a ser sempre punida pela lei penal. O pedido nasceu de uma petição de muitos cidadãos. Se o Presidente concordar, todos os eleitores seriam chamados a votar a pergunta.",
+ "context": "O texto refere que uma iniciativa popular subscrita por 78114 cidadãos pediu um referendo sobre a (des)penalização da morte a pedido. A comissão verificou os requisitos formais e emitiu parecer favorável à sua admissão, cabendo agora ao Plenário decidir se a proposta segue para o Presidente da República.",
+ "analysis": "A proposta cumpre o procedimento previsto na lei do referendo e dá seguimento a uma iniciativa popular, o que reforça a participação cidadã. A pergunta, porém, está formulada na negativa e com a expressão em quaisquer circunstâncias, o que pode tornar a resposta menos clara para os eleitores. O texto limita-se à tramitação e não discute os méritos da matéria. A decisão final depende do Plenário e do Presidente da República, que pode não convocar o referendo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de um referendo nacional implicaria despesa pública com a organização do ato eleitoral, que o texto não quantifica."
+ },
+ "affected": [
+  "eleitores",
+  "cidadãos subscritores da iniciativa",
+  "doentes em fim de vida"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos"
+ ],
+ "tags": [
+  "referendo",
+  "morte a pedido",
+  "eutanásia",
+  "iniciativa popular"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforma da APA e do ICNF",
+ "summary": "Projeto de resolução da Iniciativa Liberal que recomenda ao Governo dez medidas para reformar a gestão ambiental e florestal: iniciar a fusão da Agência Portuguesa do Ambiente (APA) e do Instituto da Conservação da Natureza e das Florestas (ICNF); transferir departamentos de ambos para a Agência para o Clima; rever as entidades intervenientes no planeamento e decisão ambiental, agrícola e florestal; criar um portal único de processos ambientais e florestais; criar mecanismos de avaliação e auditoria externa; adotar um modelo digital de pedidos com prazos vinculativos; usar inteligência artificial e big data na análise de riscos; introduzir métricas de desempenho; criar um mecanismo obrigatório de feedback; e aplicar penalizações a gestores públicos que, sem justificação, impeçam ou atrasem projetos sustentáveis. Não é vinculativo.",
+ "key_points": [
+  "Iniciar a fusão da APA e do ICNF e transferir funções redundantes para a Agência para o Clima.",
+  "Criar um portal único de processos ambientais e florestais, com submissão digital e prazos vinculativos.",
+  "Adotar avaliação e auditoria externa, métricas de desempenho e mecanismo de feedback obrigatório.",
+  "Usar inteligência artificial e big data na análise de riscos ambientais e florestais.",
+  "Penalizar gestores públicos que atrasem ou impeçam sem justificação projetos sustentáveis."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Governo junte a Agência do Ambiente e o Instituto das Florestas, ou passe parte das suas funções para a Agência para o Clima, e crie um portal único com prazos obrigatórios para responder a pedidos. O objetivo é reduzir atrasos e burocracia em licenciamentos ambientais. É uma recomendação que o Governo não é obrigado a cumprir.",
+ "context": "A IL critica a APA e o ICNF por burocracia, falta de transparência e imprevisibilidade, dando como exemplos pareceres negativos a um projeto de hibridização de uma central fotovoltaica com aerogeradores e a painéis solares flutuantes atribuídos em leilão. Defende uma entidade única de decisão para devolver credibilidade e agilizar projetos.",
+ "analysis": "A simplificação de procedimentos, os prazos vinculativos e o portal único são medidas com potencial de ganho de eficiência. Contudo, a exposição de motivos usa linguagem muito crítica, baseada em dois exemplos, sem dados sistemáticos sobre atrasos. A fusão pode ter custos de transição e risco de perda de especialização. Penalizar gestores por atrasar projetos pode pressionar pareceres técnicos e conflituar com a proteção ambiental, apesar da referência a auditoria externa; a ligação à Agência para o Clima carece de detalhe.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A fusão e a digitalização podem gerar poupanças e custos de transição, mas o texto não apresenta estimativas."
+ },
+ "affected": [
+  "Agência Portuguesa do Ambiente",
+  "ICNF",
+  "promotores de projetos de energia e floresta",
+  "agricultores e produtores florestais",
+  "cidadãos e empresas que requerem licenças"
+ ],
+ "categories": [
+  "administracao",
+  "ambiente",
+  "energia"
+ ],
+ "tags": [
+  "APA",
+  "ICNF",
+  "fusão de entidades",
+  "licenciamento ambiental",
+  "agência para o clima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

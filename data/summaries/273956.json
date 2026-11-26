@@ -1,0 +1,39 @@
+{
+ "short_title": "Delegação ao Conselho da Europa na XVI Legislatura",
+ "summary": "Projeto de Deliberação do Presidente da Assembleia da República que fixa a composição da delegação da Assembleia da República à Assembleia Parlamentar do Conselho da Europa na XVI Legislatura: sete membros efetivos e sete suplentes, distribuídos pelos grupos parlamentares PS, PSD e CH, com presidência atribuída ao PS e vice-presidência ao PSD. A composição é não nominativa, cabendo aos grupos parlamentares designar os deputados, e vale para toda a legislatura. Deve assegurar-se pelo menos um terço de representatividade de um dos géneros.",
+ "key_points": [
+  "Delegação de 7 efetivos e 7 suplentes.",
+  "Distribuição por grupo parlamentar (PS, PSD e CH), com presidência do PS e vice-presidência do PSD.",
+  "Composição não nominativa, válida para toda a legislatura.",
+  "Designações devem assegurar pelo menos um terço de um dos géneros."
+ ],
+ "plain_language": "Este texto estabelece quantos deputados de cada partido representam o Parlamento português na assembleia parlamentar do Conselho da Europa. Cada partido escolhe os nomes, respeitando uma representação mínima de um terço de cada género.",
+ "context": "A Resolução da Assembleia da República n.º 142/2015 determina que a composição das delegações é fixada por deliberação do Plenário, cabendo aos grupos parlamentares designar os deputados. A fixação não nominativa evita problemas por suspensões e renúncias de mandato.",
+ "analysis": "Dá estabilidade à delegação durante a legislatura e inclui regra de representação de género. A não nominalidade facilita a gestão, mas reduz a visibilidade sobre quem integra a delegação no momento da aprovação. O texto não explicita os critérios de proporcionalidade usados na distribuição dos lugares.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos. A participação implica despesas de deslocação, não quantificadas."
+ },
+ "affected": [
+  "deputados membros da delegação",
+  "grupos parlamentares",
+  "Assembleia Parlamentar do Conselho da Europa"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "conselho da europa",
+  "delegação parlamentar",
+  "paridade",
+  "legislatura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

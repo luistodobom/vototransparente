@@ -1,0 +1,37 @@
+{
+ "short_title": "Criação de um Comando Nacional de Bombeiros",
+ "summary": "O PCP recomenda ao Governo duas medidas. Primeiro, que realize as diligências de suporte a uma iniciativa legislativa que crie um Comando Nacional de Bombeiros, com hierarquia operacional própria, no contexto do Sistema de Proteção Civil. Segundo, que reveja já em 2023 as dotações orçamentais transferidas para as Associações Humanitárias de Bombeiros Voluntários, para que possam fazer face às responsabilidades logísticas no combate a incêndios. A exposição de motivos refere que os bombeiros são o único agente de proteção civil sem estrutura nacional de comando própria, que a Liga dos Bombeiros Portugueses manifestou a intenção de declarar escusa de responsabilidades no âmbito do DECIR 2022, e que a diretiva responsabiliza as entidades detentoras pelo apoio logístico sem verificar a sua disponibilidade financeira.",
+ "key_points": [
+  "Recomenda diligências para uma iniciativa legislativa que crie um Comando Nacional de Bombeiros com hierarquia operacional própria.",
+  "Recomenda rever em 2023 as dotações orçamentais às Associações Humanitárias de Bombeiros Voluntários."
+ ],
+ "plain_language": "O texto pede ao Governo que prepare uma lei para criar um comando nacional dos bombeiros, porque hoje estes dependem de uma cadeia de comando que não é a sua. Pede também mais dinheiro para as associações de bombeiros, que têm de apoiar a logística das operações. É uma recomendação.",
+ "context": "O PCP aponta que os corpos de bombeiros atuam subordinados a uma cadeia hierárquica que lhes é estranha, que os comandantes se sentem sem apoio (referindo o caso do comandante de Pedrogão Grande) e que as associações são chamadas a apoiar logisticamente as operações sem que as condições financeiras estejam acordadas.",
+ "analysis": "A proposta responde a uma reivindicação operacional conhecida e liga a questão de comando ao financiamento. Fragilidades: não define a estrutura do comando nem a sua relação com a ANEPC, nem custos; remete para o futuro uma iniciativa legislativa; e a revisão das dotações não tem montante. O texto também menciona um caso judicial pendente, que pode influenciar a perceção do problema sem estar resolvido. É uma recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A revisão das dotações às associações de bombeiros e a criação de um comando implicariam despesa, sem montantes no texto."
+ },
+ "affected": [
+  "corpos de bombeiros e comandantes",
+  "associações humanitárias de bombeiros",
+  "proteção civil"
+ ],
+ "categories": [
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "bombeiros",
+  "comando nacional",
+  "DECIR",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

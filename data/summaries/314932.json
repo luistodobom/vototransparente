@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas contra a pobreza energética",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo oito medidas de combate à pobreza energética: aumentar progressivamente as verbas dos programas; criar um programa específico para famílias em pobreza energética severa, com um fundo nacional de apoio direto e subsídios a fundo perdido para melhorias de eficiência; simplificar e reforçar os programas existentes, reformulando o Programa de Apoio a Edifícios Mais Sustentáveis, com adiantamentos em vez de reembolsos; implementar novos programas com prioridade a janelas eficientes e isolamento de paredes e telhados; criar um Programa Nacional de Literacia Energética; tornar os concursos menos burocráticos e previsíveis; apoiar a autoprodução de energia de famílias carenciadas e comunidades energéticas; e estabelecer protocolos com autarquias para requalificar habitação social. Não é vinculativo.",
+ "key_points": [
+  "Aumentar progressivamente as verbas dos programas de combate à pobreza energética.",
+  "Criar um fundo nacional de apoio direto, com subsídios a fundo perdido para eficiência energética de famílias carenciadas.",
+  "Reformular o Programa de Apoio a Edifícios Mais Sustentáveis, com adiantamentos em vez de reembolsos.",
+  "Dar prioridade a janelas eficientes e isolamento, e criar um Programa Nacional de Literacia Energética.",
+  "Apoiar a autoprodução de energia e a requalificação térmica de habitação social em articulação com as autarquias."
+ ],
+ "plain_language": "O PS pede ao Governo mais dinheiro e programas mais simples para ajudar famílias pobres a ter casas quentes e eficientes, por exemplo com janelas e isolamento pagos a fundo perdido, painéis solares e formação sobre poupança de energia. Pede também obras de melhoria na habitação social. É uma recomendação, não vinculativa.",
+ "context": "O PS refere que, segundo a Comissão Europeia, Portugal tinha em 2023 a maior percentagem de pobreza energética da UE (20,8%), que entre 2021 e 2023 o número de agregados afetados aumentou 27% e que as Regiões Autónomas dos Açores (34,3%) e do Norte (26,3%) são as mais afetadas. Destaca que os programas existentes têm acesso limitado para famílias carenciadas e que a Estratégia de Longo Prazo de Combate à Pobreza Energética 2023-2050 precisa de reforço.",
+ "analysis": "Apoia-se em dados europeus e propõe medidas concretas, como adiantamentos e subsídios a fundo perdido, que resolvem uma limitação real dos programas atuais, em que as famílias têm de financiar o investimento e esperar reembolso. Fragilidades: não estima custos nem define o volume de verbas, e várias medidas existentes foram da responsabilidade do anterior governo do proponente, sendo o texto pouco claro sobre porque não bastaram. A proposta é uma recomendação sem calendário.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumento de verbas, fundo de apoio direto, subsídios a fundo perdido e requalificação de habitação social implicam mais despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "famílias em pobreza energética",
+  "residentes em habitação social",
+  "autarquias",
+  "famílias de baixos rendimentos"
+ ],
+ "categories": [
+  "energia",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "pobreza energética",
+  "eficiência energética",
+  "habitação social",
+  "literacia energética",
+  "autoconsumo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

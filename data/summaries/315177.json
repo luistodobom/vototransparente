@@ -1,0 +1,44 @@
+{
+ "short_title": "Cadastro rural e emparcelamento da propriedade",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo seis medidas: tomar medidas urgentes para finalizar o cadastro da propriedade rural; reduzir o tempo máximo para a partilha de heranças de terrenos rurais; criar uma linha de crédito com juro bonificado para herdeiros que queiram comprar as partes dos restantes coproprietários; criar um procedimento digital para pedir informação sobre a titularidade de terrenos rurais; criar o enquadramento legal para o proprietário abdicar da propriedade rural a favor do Estado; e incentivar o emparcelamento, sem taxas nem emolumentos na venda de terrenos até 5 hectares. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Medidas urgentes para finalizar o cadastro da propriedade rural.",
+  "Reduzir o tempo máximo para a partilha de heranças de terrenos rurais.",
+  "Linha de crédito com juro bonificado para herdeiros que comprem as partes dos restantes coproprietários.",
+  "Procedimento digital para consultar a titularidade de terrenos rurais.",
+  "Enquadramento legal para abdicar voluntariamente da propriedade rural a favor do Estado.",
+  "Sem taxas administrativas nem emolumentos na venda de terrenos até 5 hectares."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Governo complete o registo dos terrenos rurais, facilite saber de quem é cada terreno, acelere as partilhas de heranças e torne mais barato juntar parcelas pequenas. Pede ainda que quem não quer um terreno o possa entregar ao Estado. O objetivo é melhor gestão da floresta e menos risco de incêndio.",
+ "context": "O proponente afirma que a fragmentação da propriedade rural potencia o risco de incêndio, que dois terços das propriedades florestais têm menos de três hectares e que até um quinto do território não tem dono conhecido. Defende incentivos em vez de obrigações sem contrapartida.",
+ "analysis": "As medidas atacam problemas estruturais reconhecidos, como o cadastro incompleto e a fragmentação, e privilegiam incentivos. Fragilidades: não define prazos nem custos, e o cadastro é um processo longo e complexo que a recomendação trata de forma genérica. A abdicação de terrenos a favor do Estado pode transferir encargos de gestão e de risco de incêndio para o Estado, sem salvaguardas. A isenção de taxas e o crédito bonificado implicam perda de receita e despesa não quantificadas, e encurtar partilhas de heranças pode ter efeitos jurídicos que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A linha de crédito bonificado e o cadastro implicam despesa, e a isenção de taxas e emolumentos reduz receita. O texto não quantifica valores."
+ },
+ "affected": [
+  "proprietários de terrenos rurais e florestais",
+  "herdeiros",
+  "Estado e serviços de registo e cadastro",
+  "autarquias"
+ ],
+ "categories": [
+  "agricultura",
+  "territorio",
+  "ambiente"
+ ],
+ "tags": [
+  "cadastro",
+  "emparcelamento",
+  "propriedade rural",
+  "heranças",
+  "floresta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

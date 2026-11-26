@@ -1,0 +1,42 @@
+{
+ "short_title": "Aguardente regional no Vinho do Porto e Moscatel do Douro",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo medidas para dar prioridade à aguardente de origem regional na fortificação do Vinho do Porto e do Moscatel do Douro. Propõe um quadro normativo que determine a incorporação prioritária de aguardente vínica de uvas da Região Demarcada do Douro, um programa de incentivo à destilação regional para absorver excedentes, mais rastreabilidade e controlo pelo IVDP, a integração da redução das importações de aguardente nas estratégias de descarbonização e a avaliação do modelo de fixação do benefício. Visa proteger sobretudo pequenos e médios viticultores. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estabelecer um quadro normativo para a incorporação prioritária de aguardente de uvas da Região Demarcada do Douro.",
+  "Criar um programa de incentivo à destilação regional que absorva excedentes e beneficie pequenos e médios viticultores.",
+  "Reforçar a rastreabilidade e o controlo pelo IVDP, com registo da origem da aguardente usada.",
+  "Integrar a redução das importações de aguardente nas estratégias de descarbonização e economia circular.",
+  "Avaliar a revisão do modelo de fixação do benefício."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que o álcool usado para fazer o Vinho do Porto e o Moscatel do Douro venha, de preferência, de uvas do próprio Douro, e não de importações. A ideia é dar escoamento às uvas em excesso e proteger o rendimento dos pequenos produtores. Sendo uma resolução, é só uma recomendação ao Governo.",
+ "context": "O proponente refere que o quantitativo do benefício desceu 36% em 2025 face ao biénio anterior, penalizando pequenos produtores, e que a maior parte da aguardente usada tem origem externa à região, com importações estimadas entre 200 e 300 milhões de litros anuais, sobretudo de Espanha. Considera que a medida reforçaria a ligação ao território e reduziria a pegada de carbono.",
+ "analysis": "Ponto forte: responde a um problema concreto de escoamento e de distribuição de valor na região, com medidas de rastreabilidade. Fragilidades: o texto não analisa custos da aguardente regional face à importada, nem a compatibilidade com as regras europeias da denominação de origem; o programa de incentivos não tem montantes nem fonte de financiamento. A prioridade à aguardente regional pode encarecer a produção para o comércio. Os dados citados vêm de terceiros e não são demonstrados no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa de incentivo à destilação regional implicaria despesa pública, mas o texto não indica montantes nem fonte de financiamento."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "produtores e comércio de Vinho do Porto",
+  "destiladores",
+  "Instituto dos Vinhos do Douro e do Porto"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "vinho do porto",
+  "douro",
+  "aguardente",
+  "viticultura",
+  "benefício"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

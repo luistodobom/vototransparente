@@ -1,0 +1,44 @@
+{
+ "short_title": "Reverter cortes nas pensões de militares e polícias",
+ "summary": "O projeto de lei do Bloco de Esquerda altera o cálculo das pensões de reforma de militares das Forças Armadas e da GNR, do pessoal policial da PSP, de carreiras especiais da Polícia Judiciária e do Corpo da Guarda Prisional, revertendo os cortes introduzidos pelos Decretos-Leis n.º 3/2017 e n.º 4/2017. Passa a atribuir-se aos abrangidos pelo regime convergente um complemento de pensão que corresponde, no mínimo, à diferença entre a pensão a que têm direito e 90% da última remuneração ilíquida na reserva (militares) ou na pré-aposentação ou disponibilidade (polícias). O complemento é atualizado automaticamente sempre que a tabela remuneratória do pessoal no ativo mude. Altera ainda o artigo 1.º do Decreto-Lei n.º 4/2017. Entra em vigor com o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Cria um complemento de pensão que garante, no mínimo, 90% da última remuneração ilíquida na reserva, para militares e militarizados.",
+  "Cria complemento equivalente para o pessoal policial e prisional, tomando como referência a pré-aposentação ou disponibilidade.",
+  "O complemento é atualizado automaticamente quando a tabela remuneratória do pessoal no ativo for alterada.",
+  "Reverte os efeitos dos Decretos-Leis n.º 3/2017 e n.º 4/2017 no cálculo das pensões.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quando militares e polícias passam da reserva ou pré-aposentação para a reforma, a pensão pode ser muito inferior ao que recebiam antes, em alguns casos cerca de metade. A proposta garante que a pensão, com um complemento, nunca fique abaixo de 90% do último vencimento antes da reforma. O complemento acompanharia as subidas das tabelas salariais dos profissionais no ativo.",
+ "context": "O proponente sustenta que a uniformização com o regime geral de segurança social ignora a especificidade da função, a permanente disponibilidade e o risco. Refere perdas até cerca de 35% e, no pior caso, de cerca de metade do rendimento na passagem à reforma, e cita uma petição com 11 875 assinaturas.",
+ "analysis": "A medida responde a uma queixa documentada de redução de rendimento na transição para a reforma e reforça a igualdade entre gerações de profissionais. Fragilidades: a garantia de 90% da última remuneração é um compromisso aberto e indexado, com custo elevado e crescente para o Estado, não quantificado no texto; cria um tratamento muito mais favorável do que o do regime geral e de outras carreiras da função pública; o texto usa remissões e reticências que obrigam a consultar os diplomas de 2017 para perceber o alcance exato; falta avaliação do impacto na sustentabilidade da Caixa Geral de Aposentações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O complemento de pensão até 90% da última remuneração e a sua atualização automática aumentam a despesa com pensões. O texto não apresenta montantes."
+ },
+ "affected": [
+  "militares das Forças Armadas e da GNR",
+  "polícias da PSP",
+  "pessoal da Polícia Judiciária abrangido",
+  "guardas prisionais",
+  "pensionistas do regime convergente"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "defesa"
+ ],
+ "tags": [
+  "pensões",
+  "reforma",
+  "regime convergente",
+  "militares",
+  "forças de segurança"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

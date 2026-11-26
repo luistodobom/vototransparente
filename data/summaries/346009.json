@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da educação inclusiva e artística",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas: iniciar um planeamento de investimento plurianual na construção, criação e requalificação da rede pública de ensino artístico especializado, com cobertura nacional; reforçar os meios da educação inclusiva na escola pública, incluindo docentes de educação especial, assistentes operacionais, técnicos especializados e recursos pedagógicos; promover formação especializada a todos os profissionais que trabalham com crianças da educação inclusiva, incluindo pessoal de cantinas, bibliotecas e serviços administrativos; e atualizar o valor por aluno dos contratos de patrocínio e de cooperação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Planear o investimento plurianual na rede pública de ensino artístico especializado, com cobertura em todo o território.",
+  "Reforçar profissionais e recursos materiais da educação inclusiva na escola pública.",
+  "Dar formação especializada a todos os profissionais que lidam diretamente com crianças da educação inclusiva.",
+  "Atualizar o valor por aluno dos contratos de patrocínio e de cooperação."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que construa mais escolas públicas de ensino artístico, reforce o apoio às crianças com necessidades especiais nas escolas públicas, forme melhor todos os funcionários que trabalham com elas e atualize o dinheiro pago às escolas privadas e cooperativas que hoje suprem essa oferta.",
+ "context": "O proponente defende que a prioridade do Estado deve ser o investimento público nas condições humanas e materiais das escolas e que os contratos de associação, cooperação e patrocínio devem ter caráter extraordinário. Aponta falta de atratividade da carreira docente, precariedade, edifícios degradados e insuficiência da oferta pública de educação artística e inclusiva.",
+ "analysis": "Ponto forte: combina o reforço da rede pública com uma solução transitória para não deixar alunos sem resposta, ao atualizar os valores por aluno. Fragilidades: as recomendações não têm prazos, montantes nem identificação de fontes de financiamento; há alguma tensão entre criticar os contratos com privados e propor aumentar o respetivo financiamento; o alcance da formação a todos os profissionais é amplo. É uma resolução não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As medidas implicam investimento em escolas, mais profissionais, formação e atualização dos contratos, mas o texto não indica montantes."
+ },
+ "affected": [
+  "alunos com necessidades educativas específicas",
+  "alunos do ensino artístico",
+  "docentes e pessoal não docente",
+  "escolas particulares e cooperativas com contratos com o Estado"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "ensino artístico",
+  "contratos de patrocínio",
+  "escola pública",
+  "necessidades educativas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

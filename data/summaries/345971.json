@@ -1,0 +1,44 @@
+{
+ "short_title": "Declarações das vítimas e crianças em processos de violência doméstica",
+ "summary": "A proposta de lei do Governo altera o Código de Processo Penal, a Lei n.º 112/2009 (violência doméstica) e o Estatuto da Vítima. Clarifica que a recusa de depoimento é um ato pessoal da criança, não abrangido pela representação do representante legal, e permite valorar em julgamento todas as declarações da vítima e de menores validamente recolhidas no inquérito ou instrução, mesmo que se recusem depois a depor. Torna obrigatória a tomada de declarações para memória futura quando requerida pelo Ministério Público ou pela vítima, e passa a realizar o depoimento em audiência apenas se for indispensável à descoberta da verdade e não puser em causa a saúde física ou psíquica. Regula a audição de crianças, com ambiente informal, técnico habilitado e gravação, e esclarece que a Equipa de Análise Retrospetiva de Homicídio em Violência Doméstica pode ouvir familiares, amigos, a vítima sobrevivente ou o agente do crime, em casos excecionais e fundamentados.",
+ "key_points": [
+  "As declarações da vítima e de menores validamente recolhidas no inquérito podem ser valoradas em julgamento mesmo que a vítima se recuse depois a depor.",
+  "Declarações para memória futura obrigatórias se requeridas pelo Ministério Público ou pela vítima.",
+  "Depoimento em audiência só se for indispensável à descoberta da verdade e não puser em causa a saúde da vítima.",
+  "Audição de crianças em ambiente informal e reservado, com técnico habilitado e registo áudio ou audiovisual.",
+  "Equipa de Análise Retrospetiva de Homicídio em Violência Doméstica pode, excecionalmente e com fundamentação, ouvir familiares, amigos, a vítima sobrevivente ou o agente."
+ ],
+ "plain_language": "Quando uma vítima de violência doméstica ou uma criança já contou o que aconteceu a um juiz durante a investigação, essa declaração poderá ser usada no julgamento mesmo que depois se recuse a falar, evitando ter de repetir o relato. A audição das crianças passa a ter regras para as proteger.",
+ "context": "O Governo cita o Conselho Superior da Magistratura, que assinalou divergências na jurisprudência quando as testemunhas se recusam a depor em julgamento e a consequente proibição de ler declarações anteriores. Considera que isso fragiliza acusações em crimes como violência doméstica, maus tratos e crimes sexuais contra menores, e agrava a revitimização.",
+ "analysis": "A medida pode reduzir a revitimização e a perda de prova por recusa tardia, e fixa regras de proteção para crianças. Contudo, valorar declarações sem contraditório em julgamento coloca tensões com os direitos de defesa e o princípio do contraditório, que a lei tenta mitigar pelas garantias das declarações para memória futura. O texto prevê audição prévia de órgãos como o CSM, o CSMP e a Ordem dos Advogados. A obrigatoriedade pode exigir meios técnicos e profissionais que o texto não quantifica.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Gravação audiovisual, técnicos habilitados e espaços adequados para a audição podem implicar custos para o sistema de justiça, que o texto não quantifica."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "crianças e jovens vítimas de crime",
+  "arguidos",
+  "magistrados e tribunais",
+  "Ministério Público"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "memória futura",
+  "código de processo penal",
+  "estatuto da vítima",
+  "audição de crianças"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

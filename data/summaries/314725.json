@@ -1,0 +1,40 @@
+{
+ "short_title": "Reduzir a contribuição para a ADM para 2,5% e incidir sobre 12 meses",
+ "summary": "O PCP propõe alterar o artigo 13.º do Decreto-Lei n.º 167/2005 para reduzir de 3,5% para 2,5% o desconto obrigatório dos beneficiários da Assistência na Doença aos Militares (ADM), incluindo o desconto sobre pensões de aposentação e reforma de valor igual ou superior a uma vez e meia a retribuição mínima mensal garantida e as contribuições dos beneficiários associados e viúvos. Acrescenta ainda um n.º 10 segundo o qual o desconto incide apenas sobre os 12 meses da remuneração mensal, sem relevar os subsídios de férias e de Natal. A lei entra em vigor com o Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Reduz o desconto obrigatório para a ADM de 3,5% para 2,5%.",
+  "Aplica a taxa de 2,5% às pensões elegíveis e às contribuições dos beneficiários associados e sobrevivos.",
+  "Fixa a incidência do desconto em 12 meses, excluindo os subsídios de férias e de Natal.",
+  "Entra em vigor com o Orçamento do Estado posterior à publicação."
+ ],
+ "plain_language": "Os militares e reformados que usam a ADM pagam hoje 3,5% e o desconto também incide sobre os subsídios de férias e de Natal, ou seja, em 14 meses. O PCP propõe baixar a taxa para 2,5% e fazer o desconto só em 12 meses, o que diminuiria o valor pago por ano.",
+ "context": "O PCP afirma que o aumento de 2 pontos percentuais feito entre 2011 e 2015 não visou a sustentabilidade dos subsistemas mas funcionou como um corte salarial, e cita o Tribunal de Contas, que considerou o aumento excessivo e gerador de excedentes acima das necessidades. Defende ainda que 14 meses de desconto implicam contribuir sem contraprestação durante mais dois meses do que o ano.",
+ "analysis": "A medida reduz o encargo dos beneficiários e acompanha uma observação do Tribunal de Contas sobre a ADSE, aqui aplicada à ADM. Fragilidades: o texto não quantifica a perda de receita da ADM nem como será compensada, o que pode afetar o equilíbrio do subsistema. O argumento do Tribunal de Contas sobre excedentes refere-se à ADSE e o texto não demonstra que se aplica igualmente à ADM. A alteração acumula redução de taxa e de meses, com efeito cumulativo sobre a receita.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida da taxa e a redução dos meses de incidência diminuem a receita de contribuições da ADM. O texto não apresenta montantes."
+ },
+ "affected": [
+  "beneficiários da ADM",
+  "militares no ativo, reserva e reformados",
+  "subsistema ADM"
+ ],
+ "categories": [
+  "saude",
+  "defesa",
+  "trabalho"
+ ],
+ "tags": [
+  "ADM",
+  "contribuição",
+  "subsídios de férias e de Natal",
+  "subsistemas de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

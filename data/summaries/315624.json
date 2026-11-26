@@ -1,0 +1,41 @@
+{
+ "short_title": "Simplificar a defesa da floresta contra incêndios",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que, no âmbito da Reforma do Estado, simplifique e reorganize a defesa da floresta contra os incêndios. A recomendação é genérica: não detalha entidades a extinguir ou fundir nem medidas concretas. Na exposição de motivos, o proponente invoca a complexidade do sistema nacional de proteção civil, com um organograma de 52 entidades públicas, cita a Liga dos Bombeiros Portugueses e o Observatório Técnico Independente e defende eliminar redundâncias e fundir entidades sobrepostas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda simplificar e reorganizar a defesa da floresta contra incêndios no âmbito da Reforma do Estado.",
+  "Aponta a complexidade de um sistema com 52 entidades públicas.",
+  "Cita a Liga dos Bombeiros Portugueses e o Observatório Técnico Independente.",
+  "Defende eliminar redundâncias e fundir entidades sobrepostas."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que torne mais simples o sistema de combate e prevenção de incêndios florestais, onde existem muitas entidades com funções que se sobrepõem. Não diz concretamente quais, e o Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente refere que os incêndios de 2017 revelaram a fragilidade do sistema, que existem demasiadas agências a executar as mesmas tarefas, segundo a Liga dos Bombeiros, e que o Observatório Técnico Independente aponta uma acumulação histórica de entidades. Associa o tema à Reforma do Estado como eixo prioritário do Governo.",
+ "analysis": "A iniciativa identifica um problema reconhecido por fontes independentes. Contudo, é muito genérica: não indica que entidades fundir, que funções concentrar, prazos, nem como evitar perda de capacidade operacional durante a reorganização. A referência às 52 entidades não é detalhada no texto. Reorganizações sucessivas podem também aumentar a complexidade antes de a reduzir. Sendo uma resolução, o efeito depende do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A fusão de entidades pode gerar poupanças ou custos de transição, mas o texto não apresenta estimativas nem medidas concretas."
+ },
+ "affected": [
+  "bombeiros e agentes de proteção civil",
+  "entidades públicas de defesa da floresta",
+  "proprietários florestais",
+  "população de zonas de risco"
+ ],
+ "categories": [
+  "seguranca",
+  "ambiente",
+  "administracao"
+ ],
+ "tags": [
+  "incêndios florestais",
+  "proteção civil",
+  "reforma do estado",
+  "defesa da floresta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

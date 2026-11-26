@@ -1,0 +1,39 @@
+{
+ "short_title": "Medidas para a sustentabilidade da ADSE",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo que adote e promova as diligências necessárias à regularização rápida das dívidas ao Instituto de Proteção e Assistência na Doença (ADSE, I.P.) reconhecidas no Relatório n.º 22/2019 do Tribunal de Contas. Recomenda ainda que o Governo apresente à Assembleia da República, no prazo de 90 dias, um plano de ação para resolver os problemas diagnosticados nos relatórios de auditoria do Tribunal de Contas n.º 12/2015, n.º 8/2016 e n.º 22/2019, tendo em conta as recomendações neles contidas. O texto apoia-se nas conclusões do Tribunal de Contas sobre a não implementação das suas recomendações e sobre o risco de défice da ADSE. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Regularização célere das dívidas à ADSE reconhecidas pelo Tribunal de Contas.",
+  "Plano de ação a entregar à Assembleia da República em 90 dias.",
+  "O plano deve responder aos problemas dos relatórios do Tribunal de Contas de 2015, 2016 e 2019."
+ ],
+ "plain_language": "O PSD pede ao Governo que pague depressa o que as entidades públicas devem à ADSE, o sistema de saúde dos funcionários públicos, e que apresente ao Parlamento, em três meses, um plano para resolver os problemas apontados pelo Tribunal de Contas. É uma recomendação que o Governo não é obrigado a cumprir.",
+ "context": "O PSD cita a auditoria de seguimento do Tribunal de Contas, divulgada em 29 de outubro de 2019, segundo a qual as recomendações de 2015 não foram implementadas. Refere que a ADSE poderá ficar deficitária em 2020, que os excedentes se esgotariam em 2026 e que as dívidas das Administrações Públicas ascendiam a 184 milhões de euros em 2018.",
+ "analysis": "A iniciativa apoia-se num relatório de uma entidade independente e propõe um mecanismo de controlo simples, o plano a 90 dias. Tem, porém, um carácter genérico: não indica medidas concretas, como o alargamento do universo de quotizados ou a revisão de quotas, limitando-se a remeter para os relatórios. Sendo uma resolução, não vincula o Governo e não prevê consequências em caso de incumprimento. A regularização das dívidas depende de orçamentos de várias entidades.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A regularização das dívidas ao ADSE implicaria pagamentos por parte de entidades públicas, que o texto refere somarem 184 milhões de euros em 2018, mas esses valores seriam receita para a ADSE."
+ },
+ "affected": [
+  "beneficiários da ADSE",
+  "trabalhadores da administração pública",
+  "ADSE, I.P.",
+  "Ministérios das Finanças e da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "adse",
+  "tribunal de contas",
+  "sustentabilidade financeira",
+  "dívidas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

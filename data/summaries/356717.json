@@ -1,0 +1,44 @@
+{
+ "short_title": "Margens dos fertilizantes, IVA dos alimentos e combustíveis (BE)",
+ "summary": "O projeto de resolução do BE recomenda ao Governo um pacote de medidas face à subida de preços associada à guerra no Médio Oriente. Inclui reduzir temporariamente o IVA da gasolina e do gasóleo de 23% para 13% e fixar um preço máximo diário de venda ao público com margem retalhista limitada; repor o IVA zero em produtos alimentares essenciais, com acordos de preços trimestrais; fixar por diploma uma margem líquida máxima na venda de fertilizantes, com recolha e publicação trimestral de dados de mercado e reforço da fiscalização pela ASAE e DGAV; criar uma linha de apoio não reembolsável a explorações agrícolas e pescas; reduzir o preço do gasóleo agrícola; um plano de autonomia em fertilização com reserva estratégica de 60 dias; e uma contribuição extraordinária sobre lucros excedentários de 2026 de grandes empresas.",
+ "key_points": [
+  "Reduzir o IVA dos combustíveis rodoviários de 23% para 13% durante três meses renováveis, com preço máximo de venda definido diariamente.",
+  "Repor o IVA zero num cabaz de alimentos essenciais, com acordos trimestrais de preços e monitorização.",
+  "Limitar por diploma a margem líquida na venda de fertilizantes e reforçar a fiscalização.",
+  "Criar uma linha de apoio direto não reembolsável a explorações agrícolas e pescas mais expostas e reduzir o preço do gasóleo agrícola.",
+  "Desenvolver um Plano Nacional para a Autonomia em Fertilização, com reserva estratégica de 60 dias.",
+  "Criar uma contribuição extraordinária sobre lucros excedentários de 2026 em energia, fertilizantes, grande distribuição alimentar e banca."
+ ],
+ "plain_language": "O BE propõe medidas para travar a subida dos preços dos combustíveis, dos adubos e dos alimentos: descer o IVA dos combustíveis, pôr a taxa zero em alimentos essenciais, limitar os lucros na venda de adubos, apoiar agricultores e pescadores e cobrar uma contribuição extra às empresas com lucros acima do normal. É uma recomendação ao Governo, sem obrigação legal.",
+ "context": "O proponente liga o aumento dos preços à guerra no Médio Oriente iniciada em fevereiro de 2026 e ao bloqueio do Estreito de Ormuz, citando subidas de energia e fertilizantes e do cabaz alimentar. Critica que a resposta do Governo se concentre em descontos no imposto dos combustíveis e aponta a concentração do mercado de fertilizantes em Portugal, onde sete empresas teriam 90% do mercado.",
+ "analysis": "A proposta é abrangente e detalhada, combina apoio a consumidores e produtores e financia-se em parte por uma contribuição sobre lucros. Fragilidades: reúne medidas muito diversas num só texto; os tetos de preços e margens podem gerar distorções ou falta de oferta; a descida do IVA beneficia também consumidores de rendimentos elevados e pode não chegar aos preços finais; o texto reconhece não imputar práticas anticoncorrenciais. A contribuição extraordinária suscita questões jurídicas e de impacto no investimento. Não há estimativa do impacto orçamental líquido. O texto analisado está truncado, mas as recomendações foram lidas no PDF.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Reduz receita de IVA e aumenta despesa com apoios, mas propõe uma contribuição extraordinária sobre lucros excedentários; o texto lido não apresenta o saldo."
+ },
+ "affected": [
+  "Consumidores de combustíveis e alimentos",
+  "Agricultores e pescadores",
+  "Distribuidores de fertilizantes e combustíveis",
+  "Grandes empresas dos setores energético, alimentar e financeiro"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "agricultura"
+ ],
+ "tags": [
+  "iva",
+  "combustíveis",
+  "fertilizantes",
+  "margens de lucro",
+  "cabaz alimentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

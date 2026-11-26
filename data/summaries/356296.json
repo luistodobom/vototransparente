@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoios a pessoas com Esclerose Lateral Amiotrófica",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo um conjunto de medidas para pessoas com Esclerose Lateral Amiotrófica (ELA). Propõe garantir acompanhamento por equipas multidisciplinares especializadas, simplificar e acelerar a atribuição de produtos de apoio através do SAPA (com prioridade a pessoas com ELA), rever a lista de produtos de apoio para incluir dispositivos de comunicação aumentativa e alternativa, e simplificar procedimentos administrativos no acesso a prestações sociais e adaptações no domicílio. Pede ainda o reforço do apoio domiciliário e dos cuidados continuados, de medidas de apoio aos cuidadores informais e a criação ou reforço de um registo nacional da doença.",
+ "key_points": [
+  "Garantir acompanhamento por equipas multidisciplinares especializadas.",
+  "Simplificar e acelerar a atribuição de produtos de apoio pelo SAPA, com prioridade para a ELA.",
+  "Rever a lista de produtos de apoio, incluindo comunicação aumentativa e alternativa, e a sua reparação e reutilização.",
+  "Reforçar o apoio domiciliário, os cuidados continuados e o apoio aos cuidadores informais.",
+  "Criar ou reforçar um registo nacional de ELA."
+ ],
+ "plain_language": "A ELA é uma doença grave que progride depressa e leva à perda de mobilidade e de fala. O PAN pede ao Governo que os doentes tenham mais rapidamente cadeiras de rodas, aparelhos para comunicar e outros equipamentos, que haja equipas de vários especialistas a acompanhá-los, mais ajuda em casa e apoio a quem cuida deles. Pede também um registo nacional para saber quantos doentes existem. É uma recomendação, não uma lei.",
+ "context": "A proponente descreve a ELA como doença neurodegenerativa sem cura e estima uma prevalência em Portugal de cerca de 10,32 casos por 100.000 habitantes, sem registo nacional sistemático. Cita associações que apontam dificuldades no acesso a produtos de apoio via SAPA e a necessidade de cuidados coordenados e de apoio aos cuidadores.",
+ "analysis": "As medidas respondem a necessidades concretas e urgentes de uma doença de rápida progressão, e a criação de um registo ajudaria o planeamento. Fragilidades: o texto não fixa prazos, metas nem dotações, e remete para o Governo o desenho dos mecanismos, o que dificulta a avaliação. A prioridade a um grupo de doentes no SAPA pode levantar questões de equidade face a outras patologias. Como projeto de resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de equipas, produtos de apoio, apoio domiciliário e apoio a cuidadores implicaria mais despesa pública; o texto não quantifica."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "cuidadores informais",
+  "famílias de doentes",
+  "profissionais de saúde e serviços sociais"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "ela",
+  "produtos de apoio",
+  "sapa",
+  "cuidadores informais",
+  "registo nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

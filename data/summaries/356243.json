@@ -1,0 +1,40 @@
+{
+ "short_title": "Subsídio de funeral até três IAS para menores e pessoas com deficiência",
+ "summary": "O PCP propõe alterar os artigos 16.º e 17.º do Decreto-Lei n.º 176/2003 para que o subsídio de funeral passe a corresponder ao reembolso das despesas efetuadas, com um mínimo igual ao IAS. O montante pode ser aumentado até três vezes o IAS em caso de morte de menor de 18 anos e, independentemente da idade, de pessoa com deficiência com incapacidade igual ou superior a 60% e impossibilitada de trabalhar, ou em situação de dependência ou impossibilitada de exercer atividade profissional. O financiamento é feito por transferências do Orçamento do Estado para a Segurança Social. A lei entra em vigor no dia seguinte ao da publicação, com efeitos com o Orçamento do Estado do ano seguinte.",
+ "key_points": [
+  "Subsídio passa a ser reembolso das despesas de funeral, com mínimo de um IAS.",
+  "Máximo de três IAS para menores de 18 anos.",
+  "Mesmo máximo para pessoas com incapacidade igual ou superior a 60% ou em situação de dependência.",
+  "Financiamento por transferências do Orçamento do Estado para a Segurança Social.",
+  "Efeitos com o Orçamento do Estado do ano seguinte à publicação."
+ ],
+ "plain_language": "Quando morre uma criança ou uma pessoa com deficiência grave, o Estado passaria a reembolsar o que a família gastou com o funeral, entre cerca de um e três IAS, em vez do pequeno valor fixo de hoje. O dinheiro viria do Orçamento do Estado.",
+ "context": "O proponente indica que um funeral custa em média entre 1.600 e 2.100 euros e que quem não tem carreira contributiva só recebe um valor fixo muito baixo. Considera inaceitável essa diferença e invoca uma petição pública sobre o reembolso de despesas de funeral.",
+ "analysis": "Aproxima o apoio ao custo real e define a fonte de financiamento. Fragilidades: o texto não estima o custo nem o número de beneficiários; o conceito «até» três IAS dá margem de aplicação mas não fixa o critério para valores intermédios; o alargamento a pessoas com deficiência exige verificação administrativa; e a distinção entre incapacidade e dependência é pouco clara.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio passa a reembolsar despesas até 3 IAS, aumentando a despesa da Segurança Social, financiada por transferências do Orçamento do Estado. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "famílias de menores e pessoas com deficiência falecidos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "IAS",
+  "deficiência",
+  "menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

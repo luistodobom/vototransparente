@@ -1,0 +1,42 @@
+{
+ "short_title": "IVA isento na reconstrução após a tempestade Kristin",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo um regime excecional e temporário de isenção de IVA na aquisição de materiais para a habitabilidade imediata (como lonas ou telas), de materiais de construção e de serviços para reabilitação, reparação ou reconstrução de habitações nos municípios abrangidos pela situação de calamidade da tempestade Kristin (Resolução do Conselho de Ministros n.º 15-B/2026). Pede ainda um mecanismo de devolução do IVA de geradores de energia comprados entre 28 de janeiro e o início de fevereiro de 2026, e procedimentos simples com a Autoridade Tributária. Surge sob a forma de resolução por causa da norma-travão. É uma recomendação.",
+ "key_points": [
+  "Isenção temporária de IVA para materiais de habitabilidade imediata em habitações nas zonas de calamidade.",
+  "Isenção para materiais de construção e serviços de reabilitação, reparação ou reconstrução.",
+  "Devolução do IVA dos geradores adquiridos entre 28 de janeiro e o início de fevereiro de 2026.",
+  "Procedimentos simples, com comprovativos de aquisição e de residência ou utilização nas zonas afetadas."
+ ],
+ "plain_language": "O PAN pede ao Governo que as pessoas afetadas pela tempestade Kristin não paguem IVA nos materiais e obras de reparação das casas e que recuperem o IVA pago em geradores. Seria uma medida temporária e simples de aplicar. É uma recomendação.",
+ "context": "O proponente descreve habitações parcial ou totalmente destruídas e apagões prolongados que levaram à compra de materiais e geradores, com as famílias a suportar o IVA integralmente. Considera isso um encargo desproporcionado e quer evitar que o Estado lucre com a catástrofe, usando um projeto de resolução para contornar a norma-travão.",
+ "analysis": "A medida alivia custos imediatos das famílias e é temporária e delimitada geograficamente. Fragilidades: o benefício beneficia também quem tem mais rendimentos e pode ser difícil de controlar (comprovação de destino, fraude); a isenção de IVA em serviços e bens exige enquadramento na legislação europeia do IVA, que o texto não discute; e não indica o custo estimado. Sendo uma resolução, a aplicação depende do Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção e a devolução de IVA reduzem a receita fiscal nas zonas atingidas; o texto não estima o montante."
+ },
+ "affected": [
+  "famílias com habitações danificadas",
+  "empresas de construção",
+  "população dos municípios em calamidade",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao",
+  "seguranca"
+ ],
+ "tags": [
+  "IVA",
+  "tempestade Kristin",
+  "situação de calamidade",
+  "reconstrução",
+  "geradores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

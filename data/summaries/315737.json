@@ -1,0 +1,39 @@
+{
+ "short_title": "Suspensão dos trabalhos das comissões durante o Orçamento",
+ "summary": "Projeto de Deliberação do Presidente da Assembleia da República que suspende as reuniões das comissões parlamentares durante a apreciação, na especialidade, da proposta de lei do Orçamento do Estado para 2026 e até à votação final global, exceto as reuniões necessárias à apreciação do Orçamento. As comissões podem reunir para assuntos inadiáveis ou urgentes, matérias do Estatuto dos Deputados, escrutínio de iniciativas europeias e outras que mereçam consenso dos grupos parlamentares. O Grupo de Trabalho Parlamento dos Jovens pode continuar e o Presidente pode autorizar outras reuniões que considere necessárias. A decisão assenta no artigo 211.º do Regimento e no calendário do processo orçamental.",
+ "key_points": [
+  "Suspender as reuniões das comissões durante a especialidade do Orçamento do Estado para 2026 e até à votação final global.",
+  "Excecionar as reuniões necessárias à apreciação do Orçamento.",
+  "Permitir reuniões para assuntos urgentes, Estatuto dos Deputados, escrutínio europeu e matérias consensuais.",
+  "Permitir que o Grupo de Trabalho Parlamento dos Jovens prossiga.",
+  "Permitir ao Presidente da Assembleia autorizar outras reuniões necessárias."
+ ],
+ "plain_language": "Enquanto o Parlamento analisa em pormenor o Orçamento do Estado para 2026, as comissões deixam, em regra, de reunir para outros assuntos, para que os deputados se possam concentrar no orçamento. Há exceções para casos urgentes, questões europeias, o Parlamento dos Jovens e outras matérias em que haja acordo entre os partidos, e o Presidente da Assembleia pode autorizar outras reuniões.",
+ "context": "A deliberação invoca os trabalhos de apreciação da proposta de lei do Orçamento do Estado para 2026, o interesse dos deputados em acompanhá-los, nos termos do artigo 211.º do Regimento da Assembleia da República, e o calendário fixado para o processo orçamental. Não apresenta outra fundamentação.",
+ "analysis": "A medida é de organização interna e permite concentrar a atividade parlamentar no Orçamento, com exceções que dão flexibilidade para casos urgentes. Como contrapartida, atrasa a atividade legislativa e de fiscalização das comissões durante cerca de um mês, e o conceito de matérias inadiáveis ou que mereçam consenso é amplo e depende de avaliação caso a caso. Tem efeitos em prazos, como o da comissão de inquérito ao INEM, que exigiram suspensão própria. O texto não prevê custos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto é de organização parlamentar e não indica efeitos orçamentais."
+ },
+ "affected": [
+  "deputados",
+  "comissões parlamentares",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "comissões parlamentares",
+  "orçamento do estado 2026",
+  "regimento",
+  "suspensão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

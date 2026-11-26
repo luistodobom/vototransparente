@@ -116,107 +116,107 @@
  "categories": {
   "saude": {
    "label": "Saúde",
-   "count": 1293
+   "count": 1643
   },
   "educacao": {
    "label": "Educação",
-   "count": 747
+   "count": 934
   },
   "habitacao": {
    "label": "Habitação",
-   "count": 602
+   "count": 710
   },
   "economia": {
    "label": "Economia e Finanças",
-   "count": 1670
+   "count": 1937
   },
   "fiscalidade": {
    "label": "Impostos",
-   "count": 51
+   "count": 198
   },
   "trabalho": {
    "label": "Trabalho e Segurança Social",
-   "count": 1260
+   "count": 1628
   },
   "justica": {
    "label": "Justiça",
-   "count": 1055
+   "count": 1231
   },
   "seguranca": {
    "label": "Segurança e Proteção Civil",
-   "count": 46
+   "count": 233
   },
   "defesa": {
    "label": "Defesa",
-   "count": 150
+   "count": 189
   },
   "ambiente": {
    "label": "Ambiente e Clima",
-   "count": 716
+   "count": 929
   },
   "energia": {
    "label": "Energia",
-   "count": 237
+   "count": 300
   },
   "agricultura": {
    "label": "Agricultura, Pescas e Mar",
-   "count": 19
+   "count": 126
   },
   "transportes": {
    "label": "Transportes e Infraestruturas",
-   "count": 360
+   "count": 494
   },
   "cultura": {
    "label": "Cultura e Património",
-   "count": 14
+   "count": 112
   },
   "desporto": {
    "label": "Desporto e Juventude",
-   "count": 10
+   "count": 27
   },
   "ciencia": {
    "label": "Ciência, Tecnologia e Digital",
-   "count": 240
+   "count": 311
   },
   "administracao": {
    "label": "Administração Pública e Estado",
-   "count": 84
+   "count": 338
   },
   "instituicoes": {
    "label": "Instituições, Constituição e Eleições",
-   "count": 42
+   "count": 249
   },
   "internacional": {
    "label": "Assuntos Europeus e Internacionais",
-   "count": 360
+   "count": 586
   },
   "direitos": {
    "label": "Direitos, Liberdades e Igualdade",
-   "count": 72
+   "count": 399
   },
   "imigracao": {
    "label": "Imigração",
-   "count": 18
+   "count": 57
   },
   "territorio": {
    "label": "Regiões, Autarquias e Território",
-   "count": 52
+   "count": 360
   },
   "animais": {
    "label": "Animais",
-   "count": 24
+   "count": 89
   },
   "comunicacao": {
    "label": "Comunicação Social",
-   "count": 18
+   "count": 55
   },
   "familia": {
    "label": "Família e Ação Social",
-   "count": 85
+   "count": 355
   },
   "consumidores": {
    "label": "Consumidores e Concorrência",
-   "count": 32
+   "count": 176
   }
  },
  "types": {
@@ -260,7 +260,7 @@
  "stats": {
   "initiatives": 6236,
   "votes": 9976,
-  "summarized": 4392,
+  "summarized": 6236,
   "byStatus": {
    "aprovado": 2785,
    "rejeitado": 3269,
@@ -274,7 +274,7 @@
   }
  },
  "sources": {
-  "generated": "2026-11-26T00:03Z",
+  "generated": "2026-11-26T00:37Z",
   "files": [
    {
     "label": "Iniciativas — XIV Legislatura (dados abertos)",
@@ -296,9 +296,9 @@
     "label": "Iniciativas da 1.ª sessão da XIV Legislatura (recolhidas das páginas oficiais de cada iniciativa)",
     "page": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx",
     "file": "IniciativasXIV_s1.json",
-    "retrieved": "2026-11-25T22:23Z",
-    "bytes": 5460126,
-    "sha256": "70f005697e85fe22c0b8d706825effd4f1e42cb15c3c551f6ec96453b5dec44f"
+    "retrieved": "2026-11-26T00:29Z",
+    "bytes": 5460781,
+    "sha256": "4b924be7f8a22b32d3fd38b96b93075d424c5c7a282d8db3fb90b311f5710056"
    },
    {
     "label": "Iniciativas — XV Legislatura (dados abertos)",
@@ -357,6 +357,6 @@
     "sha256": "75803c1854880292f4b3afbb97684babb77ce1e7cd402b76a6f66f3f43ab29f3"
    }
   ],
-  "summaries": 4392
+  "summaries": 6236
  }
 }

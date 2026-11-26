@@ -1,0 +1,41 @@
+{
+ "short_title": "Estratégia contra o assédio e a violência no trabalho",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo que implemente uma Estratégia Integrada de sensibilização, prevenção e apoio em situações de assédio ou violência em contexto laboral, com financiamento adequado. A estratégia deve promover instrumentos de apoio, informação e investigação sobre o tema, ajustados às diferentes realidades profissionais, valorizar o papel da Saúde Ocupacional e dar especial atenção à saúde mental dos trabalhadores. O texto refere campanhas nacionais, ações de formação e materiais informativos como instrumentos, e a necessidade de reforçar a monitorização, avaliação e transparência. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Estratégia Integrada de sensibilização, prevenção e apoio em casos de assédio e violência laboral.",
+  "Financiamento adequado da estratégia.",
+  "Instrumentos de apoio, informação e investigação adaptados a diferentes profissões.",
+  "Valorização da Saúde Ocupacional e atenção à saúde mental dos trabalhadores."
+ ],
+ "plain_language": "O PS pede ao Governo que crie um plano nacional para prevenir o assédio e a violência no trabalho, com campanhas, formação, apoio às vítimas e mais atenção à saúde mental. O plano teria dinheiro próprio e seria adaptado a cada tipo de profissão.",
+ "context": "O PS sustenta que o assédio e a violência no local de trabalho são violações de direitos humanos, que afetam a dignidade e a saúde dos trabalhadores, e que, apesar da obrigatoriedade legal de códigos de conduta e canais de denúncia, é preciso reforçar a sensibilização, a monitorização e a transparência.",
+ "analysis": "Pontos fortes: reconhece a importância da prevenção e da saúde mental e propõe uma abordagem integrada. Fragilidades: o texto é muito genérico, sem metas, prazos, indicadores, montante de financiamento ou entidade responsável, o que dificulta avaliar o seu alcance. A introdução menciona o SNS sem ligação clara ao tema, e a estratégia pode sobrepor-se à legislação laboral já existente.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A estratégia teria financiamento próprio, implicando despesa pública em campanhas, formação e apoio. O texto não indica montantes."
+ },
+ "affected": [
+  "trabalhadores",
+  "entidades empregadoras",
+  "serviços de saúde ocupacional",
+  "vítimas de assédio laboral"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "assédio laboral",
+  "violência no trabalho",
+  "saúde mental",
+  "saúde ocupacional",
+  "prevenção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

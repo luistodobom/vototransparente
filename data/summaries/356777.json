@@ -1,0 +1,41 @@
+{
+ "short_title": "Equidade e apoio a alunos com necessidades visuais em exames",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo quatro medidas para garantir equidade a alunos com necessidades visuais específicas, em particular daltonismo, nas provas de avaliação externa. Rever as normas de acessibilidade visual, adotando soluções gráficas complementares à cor. Criar um protocolo nacional de apoio à acessibilidade, com resposta rápida, responsabilidades claras e validação técnica das provas. Assegurar a presença de um Professor Leitor qualificado nos exames realizados por estes alunos, para apoiar a interpretação de elementos gráficos e textuais. E reforçar a formação de docentes, vigilantes e outros intervenientes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever as normas de acessibilidade visual das provas e exames, com soluções gráficas complementares à cor.",
+  "Protocolo nacional de apoio à acessibilidade em exames, com resposta rápida, responsabilidades claras e validação técnica.",
+  "Presença de Professor Leitor qualificado nos exames de alunos com necessidades visuais específicas.",
+  "Formação de docentes, vigilantes e outros intervenientes sobre acessibilidade visual e adaptação de instrumentos de avaliação."
+ ],
+ "plain_language": "O PS pede ao Governo que os exames nacionais sejam mais justos para alunos daltónicos ou com outras dificuldades de visão: gráficos que não dependam só da cor, regras claras para pedir ajuda no exame, um professor que leia e explique elementos gráficos e formação para quem vigia e prepara as provas.",
+ "context": "O proponente baseia-se na Petição n.º 101/XVII/1.ª, subscrita por 631 cidadãos, cujo primeiro peticionário relatou ter sido prejudicado no exame nacional de Geografia A por gráficos assentes só na cor. Aponta a ausência de protocolos claros e céleres e a insuficiente articulação entre entidades, apesar do ColorADD e de formatos adaptados.",
+ "analysis": "A proposta cobre conceção das provas, procedimentos e apoio humano em sala, e a presença de um Professor Leitor é uma medida concreta que as iniciativas semelhantes não incluem. Fragilidades: não define critérios de acesso a esse apoio nem os custos, e o professor leitor levanta questões de uniformidade e do que pode explicar sem influenciar respostas. Não fixa prazos. A referência a vários alunos prejudicados baseia-se na audição de um peticionário.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A presença de professores leitores, a validação técnica das provas e a formação implicam algum custo público. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com daltonismo e outras necessidades visuais",
+  "docentes e vigilantes de exames",
+  "Júri Nacional de Exames e IAVE",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "daltonismo",
+  "exames nacionais",
+  "professor leitor",
+  "educação inclusiva",
+  "petição 101"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

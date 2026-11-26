@@ -1,0 +1,43 @@
+{
+ "short_title": "Revisão do regime fiscal do mecenato",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera os artigos 3.º, 62.º e 63.º do Estatuto dos Benefícios Fiscais. Retira o limite temporal do benefício fiscal do mecenato, acrescentando-o às exceções do artigo 3.º. Para grupos de sociedades sob o Regime Especial de Tributação, o limite de volume de vendas ou serviços passa a considerar a soma de todas as sociedades do grupo. Fixa em 32,5% a dedução à coleta dos donativos de pessoas singulares, nos casos sem limitação e, nos restantes, até 15% da coleta, e clarifica que os donativos a igrejas e entidades religiosas sem fins lucrativos podem ser dedutíveis nos mesmos termos. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Fim do limite temporal do benefício fiscal do mecenato.",
+  "Dedução de 32,5% dos donativos de pessoas singulares, com limite de 15% da coleta nos restantes casos.",
+  "Soma do volume de vendas de todas as sociedades do grupo no Regime Especial de Tributação de Sociedades.",
+  "Clarificação da dedutibilidade de donativos a igrejas e entidades religiosas sem fins lucrativos.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A Iniciativa Liberal propõe tornar permanente o benefício fiscal para quem faz donativos a causas de interesse público e aumentar para 32,5% a parte do donativo que as pessoas podem deduzir ao imposto. Também esclarece que donativos a igrejas e instituições religiosas contam, e melhora o cálculo para grupos de empresas.",
+ "context": "O proponente defende que o mecenato é um instrumento essencial para o financiamento de atividades sociais, culturais, religiosas, científicas e ambientais, mas que tem sido prorrogado de forma avulsa, o que gera incerteza. Pretende dar previsibilidade, corrigir desigualdades de tratamento entre contribuintes e entidades e reforçar a dedução.",
+ "analysis": "A medida dá previsibilidade e simplifica o regime, o que pode incentivar donativos. Fragilidades: aumenta a perda de receita sem estimativa de custo nem avaliação do impacto nos donativos; tornar o benefício permanente retira a avaliação periódica da despesa fiscal; e os benefícios tendem a favorecer contribuintes com maiores rendimentos. O texto é pouco explícito quanto às taxas anteriores, o que dificulta medir o aumento.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O aumento da percentagem de dedução e o fim do limite temporal reduzem a receita fiscal; o texto não quantifica o efeito."
+ },
+ "affected": [
+  "doadores particulares",
+  "empresas e grupos de sociedades",
+  "entidades sem fins lucrativos",
+  "igrejas e instituições religiosas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "cultura",
+  "familia"
+ ],
+ "tags": [
+  "mecenato",
+  "donativos",
+  "Estatuto dos Benefícios Fiscais",
+  "IRS",
+  "IRC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

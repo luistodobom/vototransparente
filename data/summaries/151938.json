@@ -1,0 +1,41 @@
+{
+ "short_title": "Complemento excecional a pensionistas não residentes e de fundos privados",
+ "summary": "Projeto de Lei do CHEGA que altera o n.º 2 do artigo 4.º do Decreto-Lei n.º 57-C/2022 para alargar o complemento excecional de pensões, equivalente a um montante adicional pago em outubro de 2022, aos pensionistas cujas pensões provêm de fundos de pensões privados. No título propõe-se igualmente a inclusão de pensionistas não residentes em território nacional. A lei entra em vigor com a aprovação do Orçamento do Estado subsequente.",
+ "key_points": [
+  "Altera o artigo 4.º, n.º 2, do Decreto-Lei n.º 57-C/2022.",
+  "Inclui os pensionistas cujas pensões provêm de fundos de pensões privados no direito ao montante adicional de outubro de 2022.",
+  "Visa também os pensionistas não residentes em território nacional, segundo o título e a exposição de motivos.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O Governo pagou em outubro de 2022 um complemento extra a muitos pensionistas, mas deixou de fora quem vive no estrangeiro e quem recebe reforma de fundos privados, como muitos bancários. O CHEGA propõe incluí-los, por considerar que a exclusão é desigual.",
+ "context": "O proponente argumenta que a exclusão viola o princípio da igualdade (artigo 13.º da Constituição), que os pensionistas não residentes sofreram cortes como a Contribuição Extraordinária de Solidariedade entre 2011 e 2016 e que o diploma se descrevia como apoio universal e abrangente. Cita o caso de pensionistas bancários.",
+ "analysis": "Aborda uma desigualdade de tratamento invocada por vários grupos. Fragilidades: o articulado altera apenas a referência aos fundos privados e não explicita a inclusão dos não residentes, o que cria uma divergência entre o título e o texto. O complemento já foi pago em 2022, pelo que a medida teria efeito retroativo e custo, sem estimativa, e as pensões de fundos privados são responsabilidade de entidades privadas, não do Estado, o que o texto não esclarece.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o complemento a mais pensionistas aumenta a despesa pública. O texto não quantifica o montante nem o número de beneficiários."
+ },
+ "affected": [
+  "Pensionistas de fundos de pensões privados, como bancários reformados",
+  "Pensionistas não residentes em Portugal",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "complemento excecional",
+  "fundos de pensões",
+  "pensionistas não residentes",
+  "bancários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

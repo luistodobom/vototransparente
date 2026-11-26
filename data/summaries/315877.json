@@ -1,0 +1,42 @@
+{
+ "short_title": "Procedimento para determinar o estatuto de apátrida",
+ "summary": "O Projeto de Lei n.º 331/XVII/1.ª, do LIVRE, regula o procedimento para a determinação do estatuto de apátrida, em desenvolvimento da Lei n.º 41/2023, que consagrou a definição de apátrida mas cujo prazo de regulamentação, de 90 dias, foi ultrapassado. Prevê que o estatuto confira direito a uma autorização de residência temporária e a um título de viagem. Regula o procedimento simultâneo com o pedido de asilo, permitindo avaliação em paralelo quando não seja necessário contactar as autoridades do país de origem, e suspendendo a determinação da apatridia nos restantes casos. Estabelece a revogação ou recusa de renovação do estatuto quando haja deturpação ou omissão de factos, com impugnação judicial no prazo de 15 dias, efeito suspensivo, gratuitidade e caráter urgente. O texto disponível está truncado.",
+ "key_points": [
+  "O estatuto de apátrida confere direito a autorização de residência temporária e a título de viagem.",
+  "Quando o requerente pede também asilo, os dois pedidos podem ser avaliados em paralelo se não for preciso contactar o país de origem.",
+  "Se for necessário contactar o país de origem, a determinação da apatridia fica suspensa até haver decisão sobre a proteção internacional.",
+  "O estatuto pode ser revogado ou a renovação recusada se o titular tiver deturpado ou omitido factos decisivos, cabendo à AIMA fazer a prova.",
+  "A impugnação judicial e o recurso são gratuitos, urgentes e têm efeito suspensivo."
+ ],
+ "plain_language": "Pessoas sem nacionalidade de nenhum país vivem sem direitos básicos como estudar, trabalhar ou arrendar casa. Uma lei de 2023 reconheceu-as mas nunca definiu como se pede e como se obtém o estatuto de apátrida. Este projeto cria esse processo: quem o obtém recebe autorização de residência temporária e um documento de viagem. Também prevê o que acontece a quem pede asilo ao mesmo tempo e como se pode contestar uma decisão em tribunal.",
+ "context": "O LIVRE recorda que a Lei n.º 41/2023, aprovada por sua proposta, previa que a Assembleia aprovasse em 90 dias o estatuto do apátrida e o Governo, em 120 dias, o título de viagem, prazos há muito ultrapassados, em parte devido a dissoluções antecipadas da Assembleia. Sublinha que sem estatuto os apátridas ficam indocumentados e discriminados, e invoca a campanha #IBelong do ACNUR e o artigo 15.º da Constituição.",
+ "analysis": "Pontos fortes: dá seguimento a um dever legal por cumprir, articula o procedimento com o asilo e prevê garantias como gratuitidade e urgência dos recursos. Fragilidades: o texto não é claro, na parte disponível, sobre prazos máximos de decisão pela AIMA nem sobre os meios necessários; a suspensão do procedimento enquanto se aguarda a decisão sobre asilo pode prolongar a incerteza do requerente; e a análise está limitada por o texto estar truncado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto disponível não quantifica custos. A gratuitidade dos recursos judiciais e a atribuição de novas tarefas à administração podem implicar despesa."
+ },
+ "affected": [
+  "pessoas apátridas",
+  "requerentes de asilo apátridas",
+  "AIMA, I.P.",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "apátrida",
+  "apatridia",
+  "asilo",
+  "título de viagem",
+  "autorização de residência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

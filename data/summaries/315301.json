@@ -1,0 +1,38 @@
+{
+ "short_title": "Elimina a taxa do exame de ingresso na formação de magistrados",
+ "summary": "O projeto de lei do Livre altera a Lei n.º 2/2008, que regula o ingresso nas magistraturas e o Centro de Estudos Judiciários, para eliminar a taxa de inscrição no exame de ingresso no curso de formação de magistrados. Revoga o n.º 6 do artigo 11.º e ajusta a alínea e) do n.º 2 do artigo 10.º, retirando do aviso de abertura a referência ao pagamento da comparticipação. Entra em vigor no dia seguinte ao da publicação. O texto refere que a taxa foi de 210 euros em 2025.",
+ "key_points": [
+  "Revoga o n.º 6 do artigo 11.º da Lei n.º 2/2008, que prevê a comparticipação na inscrição.",
+  "Retira do aviso de abertura a referência ao modo de pagamento da comparticipação.",
+  "A taxa de inscrição referida no texto foi de 210 euros em 2025.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quem quer ser juiz ou procurador tem de pagar uma taxa de 210 euros para se candidatar ao exame de acesso à formação. O Livre propõe acabar com essa taxa, para que a situação económica não impeça ninguém de tentar entrar nas magistraturas.",
+ "context": "O Livre aponta a escassez de magistrados e a perda de atratividade da carreira, citando que em 2024 foram recrutados 46 novos juízes e que cerca de 100 saíram do sistema. Defende que o acesso a uma profissão deve depender do mérito e não da capacidade económica, e que eliminar a taxa reduz assimetrias e alarga a base de recrutamento.",
+ "analysis": "A medida é simples, de custo reduzido e promove a igualdade de acesso. Fragilidades: o impacto na atratividade da carreira e no número de candidatos é provavelmente limitado, dado que o texto reconhece que a questão é complexa e exige reforma mais ampla. Eliminar a taxa reduz a receita do Centro de Estudos Judiciários, que o texto não quantifica nem compensa. Não há estimativa de candidatos.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A taxa de inscrição, referida como 210 euros em 2025, deixaria de ser cobrada, reduzindo a receita do Centro de Estudos Judiciários. O texto não estima o total."
+ },
+ "affected": [
+  "candidatos ao ingresso nas magistraturas",
+  "Centro de Estudos Judiciários"
+ ],
+ "categories": [
+  "justica",
+  "educacao"
+ ],
+ "tags": [
+  "magistrados",
+  "centro de estudos judiciários",
+  "taxa de inscrição",
+  "acesso à magistratura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

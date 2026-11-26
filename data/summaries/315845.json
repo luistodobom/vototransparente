@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço dos direitos no trabalho noturno e por turnos",
+ "summary": "O Projeto de Lei n.º 320/XVII/1.ª, do LIVRE, altera o Código do Trabalho, a Lei Geral do Trabalho em Funções Públicas e os decretos-lei sobre pensões para reforçar a proteção de quem trabalha por turnos ou de noite. Define o trabalho por turnos, exige justificação técnica para o seu uso, limita a duração dos turnos em laboração contínua a seis horas e prevê exames de saúde mais frequentes. Aumenta o acréscimo pelo trabalho noturno de 25% para 30% e cria um acréscimo mínimo de 30% para turnos, cumulável. Atribui dias de férias suplementares e cria uma antecipação da pensão de velhice sem penalização, com bonificação no cálculo.",
+ "key_points": [
+  "O recurso a turnos exige justificação técnica registada pelo empregador; a violação é contraordenação grave.",
+  "Turnos em laboração contínua limitados a seis horas diárias, com pausas de pelo menos 30 minutos e descanso semanal reforçado.",
+  "Acréscimo de 30% para o trabalho noturno e acréscimo mínimo de 30% para o trabalho por turnos, cumuláveis entre si.",
+  "Um dia de férias suplementar por cada três anos em regime noturno ou por turnos.",
+  "Direito a horário diurno após 25 anos de turnos ou aos 55 anos, e exames de saúde de seis em seis meses.",
+  "Antecipação da pensão de velhice aos 60 anos para quem tenha mais de 25 anos de turnos, com bonificação de 0,1% por ano."
+ ],
+ "plain_language": "Quem trabalha por turnos ou de noite teria mais proteção. As empresas só poderiam usar turnos quando houvesse razão técnica e teriam de pagar mais pelo trabalho noturno e por turnos. Os trabalhadores teriam mais dias de férias, exames de saúde mais frequentes e a possibilidade de passar para horário de dia depois de muitos anos. Poderiam ainda reformar-se mais cedo, aos 60 anos, sem corte na pensão.",
+ "context": "O LIVRE refere que o trabalho por turnos e noturno afeta a saúde e a vida familiar de centenas de milhares de pessoas e que a lei atual é insuficiente. Invoca a petição sobre reforma antecipada e o anteprojeto governamental Trabalho XXI, propondo uma alternativa que reforce a excecionalidade destes regimes.",
+ "analysis": "O projeto é abrangente e articula saúde, remuneração, férias e pensões, o que lhe dá coerência. Contudo, acumula muitas medidas com custos para empregadores e para a Segurança Social sem estimativa de impacto. A compensação prevista, ajustar a base contributiva patronal, não é quantificada. Há também fragilidades de redação: o texto mantém marcas de alteração e a referência a uma antecipação de um ano por cada quatro anos convive com a regra dos 60 anos aos 25 anos de turnos, o que pode gerar dúvidas de aplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A antecipação da pensão sem penalização, a bonificação no cálculo e o acréscimo remuneratório na função pública aumentam a despesa. O texto prevê ajustar a base contributiva patronal para compensar, mas não indica montantes."
+ },
+ "affected": [
+  "trabalhadores por turnos",
+  "trabalhadores noturnos",
+  "entidades empregadoras",
+  "trabalhadores em funções públicas",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "trabalho por turnos",
+  "trabalho noturno",
+  "férias",
+  "reforma antecipada",
+  "Código do Trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

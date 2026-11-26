@@ -1,0 +1,39 @@
+{
+ "short_title": "Alargar a Linha de Crédito para a Descarbonização",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que reveja o Anexo I da Linha de Crédito para a Descarbonização e Economia Circular para a tornar acessível a mais empresas, e que altere as condições de acesso, eliminando a exigência de relatório técnico e termo de responsabilidade quando se trate da substituição direta de um equipamento por outro mais eficiente com investimento inicial inferior a 100 000 euros, acrescido de IVA. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Rever o Anexo I da Linha de Crédito para a Descarbonização e Economia Circular para alargar os beneficiários.",
+  "Dispensar o relatório técnico e o termo de responsabilidade na substituição direta de equipamento por outro mais eficiente.",
+  "A dispensa aplica-se a investimentos iniciais inferiores a 100 000 euros, acrescidos de IVA."
+ ],
+ "plain_language": "Existe uma linha de crédito de 100 milhões de euros para ajudar empresas a poluir menos. O CHEGA pede ao Governo que a abra a mais empresas e dispense documentação cara quando uma empresa apenas troca um equipamento por outro mais eficiente de valor reduzido.",
+ "context": "O proponente indica que a linha, lançada em junho de 2019 com 100 milhões de euros e operada por 10 bancos, está dirigida a PME industriais e ao turismo, e que as exigências de relatório técnico representam um custo adicional, por exemplo na troca de uma frota a gasóleo por veículos elétricos.",
+ "analysis": "Pode reduzir custos administrativos e alargar a adesão a projetos de descarbonização. Fragilidades: dispensar o relatório técnico pode diminuir a verificação dos ganhos ambientais efetivos, e o texto não identifica quais os setores a incluir nem o impacto no risco de crédito ou no custo para o Estado. O exemplo apresentado sobre o limite de 250 000 euros é ilustrativo e não está acompanhado de dados sobre a adesão atual.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A linha de crédito tem taxas de juro e comissões de garantia bonificadas; alargá-la pode aumentar o custo público, mas o texto não quantifica."
+ },
+ "affected": [
+  "PME e empresas elegíveis à linha de crédito",
+  "Setor do turismo",
+  "Bancos que operam a linha"
+ ],
+ "categories": [
+  "economia",
+  "ambiente",
+  "energia"
+ ],
+ "tags": [
+  "descarbonização",
+  "economia circular",
+  "linha de crédito",
+  "pme"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

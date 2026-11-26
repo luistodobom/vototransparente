@@ -1,0 +1,44 @@
+{
+ "short_title": "Lei da Vida Independente e assistência pessoal",
+ "summary": "O Projeto de Lei n.º 307/XVII/1.ª, do PS, aprova a Lei da Vida Independente, que institui em lei o Modelo de Apoio à Vida Independente (MAVI), hoje em projeto-piloto. Consiste num serviço de assistência pessoal a pessoas com deficiência ou incapacidade, prestado por assistentes pessoais através de Centros de Apoio à Vida Independente (CAVI), a partir de um plano individualizado definido com a própria pessoa. O serviço é gratuito, sem comparticipação familiar nem condição de recursos, e pode ser complementado com apoios a habitação, transportes e acessibilidades. A lei define atividades de apoio, direitos e deveres dos assistentes e a organização dos CAVI. Texto integral truncado na análise.",
+ "key_points": [
+  "Institui o Modelo de Apoio à Vida Independente, assente na assistência pessoal a pessoas com deficiência ou incapacidade.",
+  "O serviço é gratuito, sem comparticipação familiar nem avaliação de condição de recursos.",
+  "Cria os Centros de Apoio à Vida Independente (CAVI), que podem ser privados, públicos ou ONG de pessoas com deficiência com estatuto de IPSS.",
+  "Plano individualizado de assistência pessoal definido com a pessoa destinatária, com horas de apoio que, em casos excecionais, podem chegar às 24 horas diárias.",
+  "Prevê apoios complementares para habitação, transportes e acessibilidades, a definir em portaria.",
+  "Define atividades, direitos e deveres dos assistentes pessoais e a sua formação."
+ ],
+ "plain_language": "As pessoas com deficiência teriam direito, por lei, a um assistente pessoal que as ajuda no dia a dia, em casa, no trabalho, na escola ou nos tempos livres, sem pagarem por isso. Os serviços seriam geridos por centros de apoio, e cada pessoa decidiria, com o centro, como organizar as horas de apoio. Até agora, isto existia apenas como projeto-piloto.",
+ "context": "O PS recorda que o MAVI foi criado em 2017 como projeto-piloto, com mais de mil beneficiários, e que a Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025 previa um modelo definitivo. Invoca o artigo 19.º da Convenção da ONU e a necessidade de assegurar a continuidade da resposta, com financiamento nacional e europeu.",
+ "analysis": "O projeto consolida em lei um modelo já testado, com princípios como a autodeterminação e a gratuitidade, o que dá estabilidade e previsibilidade às pessoas e às entidades. Contudo, grande parte do regime, como limites de horas, apoios complementares e requisitos do plano, fica por portaria, e o custo total não é estimado nos excertos analisados. A gratuitidade universal sem condição de recursos implica um encargo potencialmente elevado. A análise baseia-se num texto truncado, pelo que o regime de financiamento e as disposições finais podem não estar contemplados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um serviço de assistência pessoal gratuito, universal e permanente, com financiamento nacional e europeu, aumenta a despesa pública. O texto analisado não apresenta montantes."
+ },
+ "affected": [
+  "pessoas com deficiência ou incapacidade",
+  "assistentes pessoais",
+  "Centros de Apoio à Vida Independente",
+  "organizações não governamentais de pessoas com deficiência"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "vida independente",
+  "assistência pessoal",
+  "MAVI",
+  "deficiência",
+  "CAVI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

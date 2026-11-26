@@ -1,0 +1,39 @@
+{
+ "short_title": "Integração dos técnicos do ISS contratados pelo PRR",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a integração excecional, nos mapas de pessoal do Instituto da Segurança Social, dos técnicos especializados contratados ao abrigo do PRR. Pede um levantamento no prazo de 30 dias de todos os técnicos contratados a termo ou por tempo indeterminado ao abrigo do PRR; a integração dos que exerceram funções durante pelo menos 12 meses consecutivos, mediante procedimento concursal simplificado reservado a estes profissionais, avaliando mérito, conhecimento adquirido e contribuição para os objetivos; e o seu posicionamento em categorias equivalentes, com salvaguarda da remuneração auferida. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Levantamento, em 30 dias, dos técnicos do ISS contratados ao abrigo do PRR.",
+  "Integração dos que tenham pelo menos 12 meses consecutivos de funções, por procedimento concursal simplificado reservado.",
+  "Avaliação baseada no mérito profissional, no conhecimento adquirido e na contribuição para os objetivos do PRR e do ISS.",
+  "Posicionamento em categorias equivalentes, salvaguardando a remuneração."
+ ],
+ "plain_language": "Alguns técnicos foram contratados para o Instituto da Segurança Social com dinheiro do PRR, que é temporário. O CHEGA pede ao Governo que contrate de forma permanente quem já trabalha lá há pelo menos um ano, através de um concurso simplificado reservado a esses trabalhadores, para não perder a experiência adquirida.",
+ "context": "O CHEGA argumenta que os contratos financiados pelo PRR são temporários e que, no seu fim, o Estado arrisca perder capital humano qualificado, com interrupções de serviço e custos de novos recrutamentos. Considera a integração uma medida de racionalidade administrativa e de valorização do mérito.",
+ "analysis": "A medida procura conservar competências e dar estabilidade a trabalhadores, mas levanta questões jurídicas e de equidade: o concurso reservado só a quem já trabalha no ISS pode colidir com o princípio constitucional do acesso à função pública em condições de igualdade e com a regra do concurso. O texto afirma que a integração se faria sem prejuízo para as contas públicas, mas não apresenta estimativa de número de técnicos ou de custos, e não explica como seriam financiados os postos após o PRR. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração permanente dos técnicos converte contratos financiados pelo PRR em encargos do orçamento do ISS. O texto afirma que não haveria prejuízo para as contas públicas, mas não apresenta números."
+ },
+ "affected": [
+  "Técnicos do ISS contratados ao abrigo do PRR",
+  "Instituto da Segurança Social",
+  "Candidatos a concursos na Administração Pública"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "PRR",
+  "Segurança Social",
+  "vinculação",
+  "técnicos especializados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

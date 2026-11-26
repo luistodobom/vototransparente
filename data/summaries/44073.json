@@ -1,0 +1,43 @@
+{
+ "short_title": "Revisão do regime da gestação de substituição (BE)",
+ "summary": "O BE propõe alterar a Lei da Procriação Medicamente Assistida (sétima alteração à Lei n.º 32/2006) para tornar a gestação de substituição acessível, conformando o regime com o acórdão do Tribunal Constitucional de 2018. Mantém o carácter excecional e gratuito, nos casos de ausência ou doença do útero que impeça a gravidez, e a autorização prévia do CNPMA, precedida de audição da Ordem dos Médicos. Prevê que a gestante seja preferencialmente uma mulher que já tenha sido mãe, exige parecer favorável da Ordem dos Psicólogos e permite que a gestante revogue o consentimento até ao registo da criança. Cria direitos e deveres da gestante e detalha o conteúdo do contrato. O Governo regulamenta em 30 dias; entra em vigor no primeiro dia do mês seguinte à publicação.",
+ "key_points": [
+  "Mantém a gestação de substituição como exceção e a título gratuito, com autorização prévia do CNPMA e audição da Ordem dos Médicos.",
+  "Permite à gestante revogar o consentimento até ao registo da criança.",
+  "Exige parecer prévio favorável da Ordem dos Psicólogos sobre a aptidão psicológica das partes.",
+  "Estabelece que a gestante seja, preferencialmente, uma mulher que já tenha sido mãe.",
+  "Cria direitos e deveres da gestante (artigos 13.º-A e 13.º-B) e fixa o conteúdo obrigatório do contrato."
+ ],
+ "plain_language": "A lei que permitia que uma mulher gestasse um bebé para outra pessoa foi, em parte, declarada inconstitucional, e na prática ficou sem uso. O BE propõe corrigir as normas apontadas pelo Tribunal Constitucional, sobretudo permitindo que a gestante mude de ideias até ao registo do bebé, para que as mulheres que não podem engravidar possam finalmente recorrer a este processo, sem pagamentos à gestante.",
+ "context": "O BE explica que a Lei n.º 25/2016 permitiu a gestação de substituição, mas parte do regime foi declarada inconstitucional em 2018, sobretudo quanto ao período de revogação do consentimento. Considera que a proposta de revisão apresentada não foi aprovada e que, por isso, a possibilidade continua inacessível a mulheres que dela necessitam.",
+ "analysis": "A proposta procura resolver o problema que o Tribunal Constitucional identificou e reforça os direitos da gestante, o que pode dar maior segurança jurídica. Em contrapartida, permitir que a gestante revogue até ao registo pode criar incerteza para os beneficiários, e o tema é eticamente muito debatido, com críticas de mercantilização e instrumentalização. O texto reforça requisitos (psicólogos, CNPMA) que podem alongar o processo, e não estima custos do acompanhamento. O texto internamente designa-se Projeto de Lei n.º 71/XIV.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Há custos administrativos do CNPMA e do acompanhamento clínico, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres sem útero ou com lesão do útero",
+  "gestantes de substituição",
+  "casais beneficiários",
+  "CNPMA e centros de PMA"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "gestação de substituição",
+  "procriação medicamente assistida",
+  "tribunal constitucional",
+  "cnpma",
+  "consentimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

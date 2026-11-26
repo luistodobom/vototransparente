@@ -1,0 +1,43 @@
+{
+ "short_title": "Alterar a entrega do SAF-T para um ficheiro resumo de saldos",
+ "summary": "O PCP propõe a primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto, sobre a submissão do ficheiro SAF-T(PT) da contabilidade. Em vez de entregar o ficheiro completo, ainda que encriptado, os programas de contabilidade passariam a extrair um ficheiro resumo com os dados necessários à IES/DA, sem quaisquer dados que não sejam saldos e sem campos de descrição e dados pessoais, listados em anexo. O ficheiro incluiria uma soma de verificação (checksum) que permitiria validar, em inspeção, a correspondência com o ficheiro original. A versão integral só poderia ser pedida pela AT, por webservice seguro, após notificação do início de um procedimento inspetivo. O texto revoga o artigo 4.º (obrigações da INCM) e o n.º 2 do artigo 6.º, prevê acesso dos sujeitos passivos aos ficheiros submetidos e encargos suportados pelo Estado.",
+ "key_points": [
+  "Substitui a entrega do SAF-T completo (encriptado) por um ficheiro resumo apenas com saldos, sem descrições nem dados pessoais.",
+  "Exige uma soma de verificação (checksum) para validar o ficheiro original em caso de inspeção.",
+  "Só permite o acesso da AT à versão integral após a notificação do início de um procedimento inspetivo.",
+  "Dá aos sujeitos passivos acesso aos ficheiros submetidos, no prazo de 10 dias após o pedido.",
+  "Revoga o artigo 4.º e o n.º 2 do artigo 6.º do decreto-lei e atribui ao Estado os encargos do serviço."
+ ],
+ "plain_language": "Hoje, as empresas teriam de enviar às Finanças toda a sua contabilidade num ficheiro, com parte dos dados cifrados. O PCP propõe que enviem apenas um resumo com os saldos necessários ao relatório anual, sem nomes nem descrições. O ficheiro completo só seria pedido se a empresa fosse alvo de uma inspeção.",
+ "context": "O proponente considera que a entrega do ficheiro completo dá à AT acesso desproporcionado a dados sujeitos a sigilo e dados pessoais, e que a encriptação não equivale à exclusão prevista na Lei n.º 119/2019. Cita o parecer da CNPD, que considerou o acesso excessivo, e afirma que a obrigação não existe noutros países da UE.",
+ "analysis": "A proposta concretiza uma alternativa técnica, o ficheiro resumo, que responde às críticas da CNPD e respeita a letra da lei de 2019. Cria também um mecanismo de verificação e acesso para os contribuintes. Fragilidades: exige alterações aos programas de contabilidade, com custos de adaptação não avaliados; a restrição a saldos pode limitar o pré-preenchimento ou deteção de anomalias; e o anexo técnico detalhado pode precisar de revisão. O texto não estima o custo dos encargos a suportar pelo Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O artigo 9.º atribui ao Estado os encargos do webservice e do serviço de geração e armazenamento do ficheiro resumo, sem montantes indicados; os efeitos na receita são incertos."
+ },
+ "affected": [
+  "empresas e sujeitos passivos",
+  "contabilistas certificados",
+  "produtores de software de contabilidade",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "direitos"
+ ],
+ "tags": [
+  "SAF-T",
+  "IES",
+  "proteção de dados",
+  "Autoridade Tributária",
+  "contabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

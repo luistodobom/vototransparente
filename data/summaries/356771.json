@@ -1,0 +1,40 @@
+{
+ "short_title": "Apoio e valorização do Montado",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo duas medidas para o montado, sistema agro-silvo-pastoril de sobreiros e azinheiras do Sul do país. A primeira é criar um regime específico de apoio direto ao montado, com critérios definidos com base em avaliação técnica e económica e na sustentabilidade financeira da medida. A segunda é promover a regeneração do montado, através da proteção da regeneração natural, do repovoamento com sobreiro e azinheira quando necessário, da gestão do pastoreio e da conservação do solo. O texto não indica montantes de apoio, calendário nem a entidade responsável pela gestão do regime.",
+ "key_points": [
+  "Criar um regime específico de apoio direto ao montado, com critérios técnicos e económicos.",
+  "Proteger a regeneração natural do montado.",
+  "Repovoar com sobreiro e azinheira quando necessário.",
+  "Gerir o pastoreio e conservar o solo para apoiar a regeneração."
+ ],
+ "plain_language": "O Chega pede ao Governo que crie um apoio financeiro específico para os proprietários de montado (a paisagem de sobreiros e azinheiras do Alentejo e Ribatejo) e que ajude a renovar as árvores, que estão a diminuir porque nascem poucas novas. A proposta é uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "O proponente descreve o montado como ecossistema de grande valor ambiental e económico e recorda que Portugal produz cerca de 50% da cortiça mundial, com mais de 730 mil hectares de montado de sobro. Afirma que está em declínio, sobretudo por falta de regeneração natural, e que dos cerca de 1,2 milhões de hectares resta aproximadamente um milhão.",
+ "analysis": "A proposta identifica um problema real, a falta de regeneração, e propõe medidas alinhadas com ele. O condicionamento do apoio à sustentabilidade financeira é prudente, mas deixa tudo por definir: não há valores, beneficiários nem prazos, e não se articula com as ajudas já existentes, nomeadamente da Política Agrícola Comum. O texto atribui pouca importância ao corte de árvores para fotovoltaicas ou olival, o que outros atores podem contestar. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um regime de apoio direto ao montado e ações de regeneração implicam despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "proprietários e produtores de montado",
+  "produtores de cortiça e pecuária extensiva",
+  "Alentejo e Ribatejo"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente"
+ ],
+ "tags": [
+  "montado",
+  "sobreiro",
+  "cortiça",
+  "regeneração",
+  "desertificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Regularização das carreiras da Função Pública após congelamentos",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo quatro medidas relativas à regularização das carreiras da Função Pública afetadas pelos períodos de congelamento: fazer o levantamento dos trabalhadores em funções públicas cujas carreiras ainda não foram regularizadas, com indicação do motivo; garantir a conclusão da avaliação de todos os trabalhadores cuja progressão dela depende; apresentar os cálculos do custo efetivo da regularização em falta, para quantificar o impacto orçamental; e apresentar as conclusões, e as medidas a adotar, do relatório da auditoria da Inspeção-Geral de Finanças ao acelerador de carreiras. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento dos trabalhadores cujas carreiras não estão regularizadas, com o respetivo motivo.",
+  "Conclusão da avaliação dos trabalhadores cuja progressão está pendente.",
+  "Cálculo do custo efetivo e do impacto orçamental da regularização.",
+  "Apresentação das conclusões da auditoria da IGF ao acelerador de carreiras."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que apure quantos funcionários públicos ainda não viram a sua carreira corrigida depois dos anos de congelamento, conclua as avaliações em atraso, diga quanto custaria resolver o problema e divulgue a auditoria sobre o acelerador de carreiras. É apenas uma recomendação.",
+ "context": "O CHEGA defende que, tal como a recuperação do tempo de serviço dos professores está faseada até 2027, é urgente recuperar também as restantes carreiras da Função Pública, com respeito pela antiguidade, atratividade e retenção de trabalhadores no emprego público.",
+ "analysis": "A proposta é prudente ao pedir primeiro informação, o levantamento, o custo e a auditoria, antes de fixar medidas de despesa, o que reforça a transparência. Fragilidades: não propõe medidas concretas de regularização nem critérios; a exposição de motivos é genérica e sem dados sobre o número de trabalhadores afetados; e não define prazo para cumprimento das recomendações. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A iniciativa pede o cálculo do custo da regularização, mas não o determina nem apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores em funções públicas",
+  "Administração Pública"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "Função Pública",
+  "congelamento das carreiras",
+  "acelerador de carreiras",
+  "IGF"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Preço e subsidiação do gás de botija (GPL)",
+ "summary": "Projeto de Lei do PS que cria um regime de definição do preço do GPL engarrafado e de subsidiação aos consumidores, e altera o Decreto-Lei n.º 31/2006. A ERSE passa a publicar um relatório trimestral sobre as condições de mercado e o diferencial de preço face a Espanha; em caso de distorções de concorrência, tem de recomendar ao Governo a fixação de margens máximas, que este fixa por portaria. Quando o preço de retalho for superior ao espanhol, o Governo pode subsidiar o diferencial, financiado pelo fundo ambiental ou pelo Orçamento do Estado, com decisão comunicada ao Parlamento em junho e dezembro. O Governo deve ainda permitir, em 60 dias, o armazenamento de até 60 garrafas nos pontos de venda sem licenciamento.",
+ "key_points": [
+  "A ERSE elabora e publica um relatório trimestral sobre o preço do GPL, incluindo o diferencial e a decomposição face a Espanha.",
+  "Em caso de distorções de concorrência, a ERSE recomenda obrigatoriamente margens máximas, fixadas pelo Governo por portaria.",
+  "O Governo pode subsidiar o diferencial para o preço espanhol, com financiamento pelo fundo ambiental ou Orçamento do Estado, pago diretamente aos operadores.",
+  "A decisão de subsidiação é comunicada ao Parlamento em junho e dezembro e vigora no semestre seguinte.",
+  "O artigo 8.º do Decreto-Lei n.º 31/2006 passa a permitir margens máximas independentemente de crise energética.",
+  "Em 60 dias, passa a poder armazenar-se nos postos de venda até 60 garrafas sem licenciamento, respeitando as normas de segurança."
+ ],
+ "plain_language": "O gás de botija está muito mais caro em Portugal do que em Espanha. O PS propõe que a entidade reguladora acompanhe o preço de três em três meses, que o Governo possa limitar as margens dos revendedores e subsidiar a diferença para o preço espanhol, e que os vendedores possam guardar mais botijas sem licença. O objetivo é baixar o preço para quem usa botija.",
+ "context": "O PS refere que 12,2% dos portugueses usam gás engarrafado e, citando a ERSE, que entre 2020 e 2025 a garrafa de butano de 13 kg subiu de 24,96 para 34,03 euros e a de propano de 25,44 para 32,47 euros. Aponta a pobreza energética de 20,8% em 2023, o preço cerca do dobro do de Espanha e o limite de licenciamento de cerca de 20 garrafas por operador, contra cerca de 60 noutros países.",
+ "analysis": "A proposta atua em três frentes, transparência, margens e subsídio, e apoia-se em dados da ERSE e na comparação com Espanha. Os riscos são o custo orçamental, que o texto não estima e depende do diferencial, a possibilidade de a fixação de margens desincentivar a oferta, sobretudo em zonas isoladas, e o desenho do subsídio pago aos operadores, que exige controlo. Alargar o armazenamento sem licenciamento pode ter implicações de segurança, que o texto ressalva com a referência às normas aplicáveis.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A subsidiação do diferencial de preço face a Espanha seria financiada pelo fundo ambiental ou pelo Orçamento do Estado, até ao valor do diferencial. O texto não indica montantes."
+ },
+ "affected": [
+  "consumidores domésticos de GPL engarrafado",
+  "revendedores e distribuidores de GPL",
+  "famílias em pobreza energética",
+  "ERSE"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "familia"
+ ],
+ "tags": [
+  "gpl",
+  "gás de botija",
+  "erse",
+  "pobreza energética",
+  "preço máximo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

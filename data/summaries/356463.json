@@ -1,0 +1,43 @@
+{
+ "short_title": "Desbloquear a renovação dos cartões de aplicador de fitofármacos",
+ "summary": "O PS propõe que a Assembleia da República recomende ao Governo sete medidas para resolver os atrasos na renovação das habilitações de aplicador de produtos fitofarmacêuticos. Entre elas, a prorrogação automática até 31 de dezembro de 2026 dos cartões que caducam em 2025 e 2026, desde que o titular comprove inscrição em formação ou prova de conhecimentos; o reforço das CCDR com prazos máximos; o alargamento da rede de entidades formadoras, com prioridade às associações de agricultores; financiamento para a formação; reporte eletrónico em tempo real dos certificados; maior fiscalização nos pontos de venda; e um plano nacional plurianual de formação e renovação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Prorrogar automaticamente até 31 de dezembro de 2026 os cartões que caducam em 2025 e 2026, mediante comprovativo de inscrição em formação ou prova.",
+  "Reforçar a capacidade das CCDR e fixar prazos máximos para as renovações.",
+  "Alargar a rede de entidades formadoras, priorizando associações de agricultores e cooperativas.",
+  "Criar financiamento para a formação e um sistema eletrónico de reporte dos certificados.",
+  "Intensificar a fiscalização nos pontos de venda e criar um plano nacional plurianual de formação e renovação."
+ ],
+ "plain_language": "Muitos agricultores precisam de renovar o cartão que os autoriza a usar pesticidas, mas há atrasos e pouca formação disponível. O PS pede ao Governo que prolongue os cartões até ao fim de 2026, aumente os locais de formação e reforce os serviços que emitem os cartões, para evitar novas falhas. É apenas uma recomendação.",
+ "context": "O proponente explica que a habilitação tem validade de dez anos e que em 2025 e 2026 se concentra um volume elevado de caducidades, agravado pela transferência de competências das direções regionais de agricultura para as CCDR. Critica a falta de planeamento do Governo e refere o Despacho n.º 40/G/2026 da DGAV como resposta de emergência.",
+ "analysis": "A proposta é abrangente e dá soluções imediatas, como a prorrogação, e estruturais, como o plano plurianual, ancoradas na diretiva europeia sobre uso sustentável de pesticidas. Os riscos incluem prorrogar a validade sem que os titulares tenham formação atualizada, com possível impacto na saúde e no ambiente, e o texto não quantifica custos, não define a data limite da inscrição e não esclarece como se conciliam as medidas com o despacho já publicado pela DGAV. A atribuição de responsabilidade política ao Governo é argumentativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço das CCDR, os programas de financiamento da formação e o sistema de reporte eletrónico implicariam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "aplicadores de produtos fitofarmacêuticos",
+  "agricultores e pequenas explorações",
+  "associações de agricultores",
+  "CCDR e DGAV"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "administracao"
+ ],
+ "tags": [
+  "fitofarmacêuticos",
+  "cartão de aplicador",
+  "formação",
+  "CCDR",
+  "DGAV"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

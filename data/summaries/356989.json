@@ -1,0 +1,43 @@
+{
+ "short_title": "Aumento de 50 euros nas pensões mínimas",
+ "summary": "O Projeto de Lei n.º 693/XVII/1.ª, do LIVRE, reforça de forma permanente os valores mínimos das pensões de invalidez e de velhice, com um aumento de 50 euros em todos os escalões, no regime geral da Segurança Social e na Caixa Geral de Aposentações. No regime geral, os mínimos passam a ser: 391,08 euros para carreiras inferiores a 15 anos, 407,80 euros de 15 a 20 anos, 444,82 euros de 21 a 30 anos e 543,52 euros com 31 ou mais anos. Na CGA, é criado o artigo 59.º-A do Estatuto da Aposentação, com mínimos de 368,76 a 576,60 euros consoante o tempo de serviço, de 5 a 12 anos até mais de 30 anos. Os mínimos são atualizados anualmente, o Governo adapta as portarias em 60 dias e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Aumento de 50 euros nos valores mínimos das pensões de invalidez e de velhice em todos os escalões de carreira contributiva.",
+  "No regime geral, o mínimo vai de 391,08 euros (carreira inferior a 15 anos) a 543,52 euros (31 ou mais anos).",
+  "Na Caixa Geral de Aposentações, o mínimo vai de 368,76 euros (5 a 12 anos de serviço) a 576,60 euros (mais de 30 anos).",
+  "Os valores mínimos são atualizados anualmente, sem poderem resultar em valor inferior ao mínimo garantido.",
+  "Entrada em vigor com o Orçamento do Estado posterior à aprovação, e adaptação das portarias pelo Governo em 60 dias."
+ ],
+ "plain_language": "Quem recebe uma pensão muito baixa tem uma pensão mínima garantida, que depende dos anos de descontos. Este projeto aumenta essa pensão mínima em 50 euros por mês para todos os escalões, tanto no regime geral da Segurança Social como na Caixa Geral de Aposentações, e passa a ser um aumento permanente. Só entraria em vigor com o próximo Orçamento do Estado.",
+ "context": "O LIVRE invoca o direito constitucional à segurança social e a proteção de idosos e pessoas com deficiência. Cita que o limiar de risco de pobreza em 2024 era cerca de 723 euros por mês, que metade dos pensionistas de velhice do regime geral recebia menos de 462 euros, que cerca de 40% (aproximadamente 804 mil pessoas) recebiam o valor mínimo, e que a pensão média das mulheres, 490 euros, é inferior à dos homens, 812 euros.",
+ "analysis": "Pontos fortes: dirige-se aos pensionistas mais pobres, onde a evidência citada é forte, e corrige uma desigualdade de género relevante. Fragilidades: mesmo com o aumento, vários mínimos permanecem abaixo do limiar de pobreza referido no próprio texto; o texto não quantifica o custo para o Orçamento da Segurança Social nem a fonte de financiamento; e o aumento uniforme de 50 euros em todos os escalões não distingue níveis de necessidade nem reforça a relação com a carreira contributiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento dos valores mínimos de pensão, que abrange cerca de 40% dos pensionistas de velhice do regime geral, aumenta a despesa com pensões; o texto não quantifica o custo total."
+ },
+ "affected": [
+  "pensionistas com pensões mínimas",
+  "pensionistas de invalidez",
+  "pensionistas da Caixa Geral de Aposentações",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "pensões mínimas",
+  "pensões de invalidez",
+  "pensões de velhice",
+  "pobreza",
+  "Caixa Geral de Aposentações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

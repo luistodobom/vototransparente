@@ -1,0 +1,41 @@
+{
+ "short_title": "Proibir a caça ao saca-rabos",
+ "summary": "Projeto de lei do PEV que proíbe a caça ao saca-rabos (Herpestes ichneumon), retira-o da lista de espécies cinegéticas do Anexo I do Decreto-Lei n.º 202/2004 e interdita a captura ou o abate em qualquer altura do ano e a perturbação dos locais de reprodução e repouso. Permite a correção de efetivos apenas com censos reconhecidos pelo organismo de conservação da natureza que comprovem excesso populacional, e executada pelos técnicos desse organismo. Altera os artigos 79.º, 89.º e 94.º do decreto-lei, prevê contraordenações, regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe a caça ao saca-rabos e retira a espécie da lista de espécies cinegéticas.",
+  "Interdita captura, abate e perturbação dos locais de reprodução e repouso.",
+  "A correção de efetivos só com censos reconhecidos e por técnicos do organismo de conservação da natureza.",
+  "Altera os artigos 79.º, 89.º e 94.º do Decreto-Lei n.º 202/2004.",
+  "Regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O PEV quer que o saca-rabos, um pequeno carnívoro comum em Portugal, deixe de poder ser caçado. Só o Estado o poderia abater, e apenas se estudos provassem excesso de animais com risco para os ecossistemas ou a saúde pública.",
+ "context": "O proponente indica que o saca-rabos tem estatuto pouco preocupante no Livro Vermelho dos Vertebrados de Portugal, mas considera que isso não justifica a sua inclusão na lista cinegética por não ter interesse gastronómico nem perigo comprovado. Defende que a caça se deve limitar a espécies com valor gastronómico e que o controlo de populações é do Estado.",
+ "analysis": "A iniciativa é coerente com o princípio de limitar a caça a espécies com valor gastronómico, mas esse critério é político e não é consensual. Há incoerências de redação: os artigos 79.º e 94.º, tal como reescritos, tratam da caça à raposa, não ao saca-rabos, e o artigo 3.º refere melros. A proposta não estima os custos do controlo estatal nem avalia o efeito sobre a gestão cinegética.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O controlo de efetivos passa a ser feito por técnicos do organismo de conservação, com meios que o texto não quantifica; pode haver menos receita da atividade cinegética."
+ },
+ "affected": [
+  "caçadores",
+  "zonas de caça",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "saca-rabos",
+  "caça",
+  "espécies cinegéticas",
+  "biodiversidade",
+  "decreto-lei 202/2004"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

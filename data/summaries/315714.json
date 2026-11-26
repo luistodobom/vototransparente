@@ -1,0 +1,42 @@
+{
+ "short_title": "Estágios do Mestrado em Ensino: contrato, remuneração e orientadores",
+ "summary": "Projeto de Lei do LIVRE que altera o Decreto-Lei n.º 79/2014 (sexta alteração) sobre a formação inicial de professores. Garante aos estudantes um contrato de estágio em exclusividade, com remuneração mensal durante 14 meses e direitos de segurança social, em vez da bolsa de formação. Permite aos orientadores cooperantes optar pela redução da componente letiva (quatro horas por estudante acompanhado) em alternativa ao suplemento. Define que a prática autónoma ocupe pelo menos 70% do mínimo de horas letivas, com duas turmas e, sempre que possível, níveis e ciclos diferentes. Repristina normas revogadas e entra em vigor no ano letivo seguinte ao do Orçamento do Estado subsequente.",
+ "key_points": [
+  "Contrato de estágio em exclusividade, com remuneração mensal durante 14 meses e direitos de segurança social.",
+  "Orientadores cooperantes podem optar por redução de quatro horas da componente letiva por estudante.",
+  "Prática autónoma com pelo menos 70% das horas letivas mínimas, em duas turmas, de preferência de ciclos diferentes.",
+  "Revoga a alínea a) do n.º 2 e os n.ºs 16 e 17 do artigo 23.º-A e repristina os n.ºs 8 a 14 do mesmo artigo.",
+  "Entrada em vigor no ano letivo subsequente ao do Orçamento do Estado seguinte à aprovação."
+ ],
+ "plain_language": "Os futuros professores fazem estágio nas escolas, hoje com bolsa. A proposta dá-lhes contrato e salário durante 14 meses, e permite que os professores que os orientam tenham menos aulas para terem tempo de os acompanhar. A ideia é tornar a profissão mais atrativa.",
+ "context": "O LIVRE refere que as escolas precisam de recrutar 39 mil professores até 2034 e que, numa década, se formaram apenas 17.200. Considera que a formação inicial deve ser mais atrativa, que os estudantes asseguram turmas sem remuneração adequada e que os professores experientes recusam ser orientadores sem redução de horário.",
+ "analysis": "A proposta ataca a falta de atratividade da formação e a recusa de orientadores, e reconhece o trabalho efetivo dos estagiários. Fragilidades: a redução de horas dos orientadores pode agravar a falta de horário docente nas escolas, e o custo da remuneração por 14 meses não é estimado no texto. A redação apresentada tem marcas de alteração de texto, que dificultam a leitura exata de algumas normas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A remuneração mensal durante 14 meses, a segurança social e a redução letiva dos orientadores aumentam a despesa. O texto não apresenta montantes."
+ },
+ "affected": [
+  "estudantes do Mestrado em Ensino",
+  "professores orientadores cooperantes",
+  "escolas",
+  "instituições de ensino superior"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "ciencia"
+ ],
+ "tags": [
+  "formação inicial de professores",
+  "estágio",
+  "orientadores cooperantes",
+  "mestrado em ensino"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

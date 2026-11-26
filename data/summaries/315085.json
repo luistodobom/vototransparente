@@ -1,0 +1,39 @@
+{
+ "short_title": "Programa alargado de rastreio precoce do cancro",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo que implemente, no Serviço Nacional de Saúde, um programa alargado de rastreamento precoce de doenças oncológicas, recorrendo sempre que necessário a acordos com os setores privado e social. O programa deve garantir, logo que possível, o alargamento dos rastreios a três tipos de cancro (pulmão, próstata e gástrico) e a melhoria do acesso aos três rastreios organizados já existentes (mama, colo do útero e colorretal). O texto não define calendário, populações-alvo, critérios clínicos nem financiamento.",
+ "key_points": [
+  "Criar um programa alargado de rastreamento precoce de doenças oncológicas no SNS.",
+  "Alargar os rastreios aos cancros do pulmão, da próstata e gástrico.",
+  "Melhorar o acesso aos rastreios existentes de mama, colo do útero e colorretal.",
+  "Permitir acordos com os setores privado e social quando necessário."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que o SNS passe a oferecer mais exames de deteção precoce de cancro. Hoje existem rastreios organizados para a mama, o colo do útero e o intestino; a proposta junta o pulmão, a próstata e o estômago e quer que seja mais fácil aceder aos que já existem. É uma recomendação ao Governo, sem força obrigatória.",
+ "context": "O proponente refere que o cancro é uma das principais causas de doença e morte em Portugal, com mais de 60.000 novos diagnósticos anuais entre 2018 e 2021 e cada vez mais casos em jovens. Argumenta que rastreios regulares e diagnóstico precoce aumentam a sobrevivência e que o SNS precisa de capacidade para os oferecer de forma equitativa.",
+ "analysis": "A proposta aponta um objetivo consensual, o diagnóstico precoce, mas é genérica: não indica critérios de elegibilidade, idades, metas nem custos, e rastreios populacionais de pulmão, próstata e gástrico exigem avaliação de evidência e de capacidade instalada, pois rastreios mal desenhados podem gerar sobrediagnóstico. A referência a acordos com privados poderá ser contestada por alguns. Sendo um projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar rastreios no SNS implica despesa adicional com exames, recursos humanos e eventuais convenções; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "utentes do SNS",
+  "doentes oncológicos e população em risco",
+  "profissionais de saúde",
+  "SNS e prestadores convencionados"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "rastreio oncológico",
+  "cancro",
+  "diagnóstico precoce",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Avaliar o Complemento Garantia para a Infância",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo que avalie a execução do Complemento Garantia para a Infância, criado pela Lei n.º 12/2022. Pede informação anual sobre beneficiários, montantes e distribuição territorial e por escalões de rendimento, e um relatório de avaliação à Assembleia da República até ao final de 2026 sobre o impacto na pobreza infantil e nos rendimentos das famílias com crianças. Recomenda avaliar eventuais aperfeiçoamentos do regime e estudar o impacto distributivo, social e orçamental de mecanismos reembolsáveis associados a deduções fiscais que possam ser limitados por insuficiência de coleta. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliar a execução do Complemento Garantia para a Infância previsto nos artigos 327.º e 328.º da Lei n.º 12/2022.",
+  "Divulgar anualmente beneficiários, montantes e distribuição territorial e por escalões de rendimento.",
+  "Entregar à Assembleia da República, até ao final de 2026, um relatório de avaliação do impacto na pobreza infantil.",
+  "Avaliar aperfeiçoamentos do regime.",
+  "Estudar o impacto distributivo, social e orçamental de deduções fiscais reembolsáveis."
+ ],
+ "plain_language": "O PS pede ao Governo que avalie se o complemento pago a crianças de famílias com poucos rendimentos está a funcionar, que publique dados todos os anos e entregue um relatório ao Parlamento até ao fim de 2026. Pede também que se estude permitir que quem paga pouco IRS receba o valor integral de certas deduções.",
+ "context": "O proponente refere que a taxa de risco de pobreza das crianças e jovens até aos 17 anos era de 17,6% em 2024, e de 35,1% nas famílias monoparentais. Recorda a criação do Complemento em 2022 para garantir 600 euros anuais por criança, somando o abono e a dedução em IRS.",
+ "analysis": "A iniciativa reforça a monitorização e a transparência de uma medida existente, e abre a discussão sobre deduções reembolsáveis para quem tem pouca coleta. É, contudo, um pedido de estudo e relatório, sem alterar valores nem critérios e sem calendário para as conclusões do estudo de mecanismos reembolsáveis. Não apresenta dados de execução do Complemento nem estima o custo de eventuais alterações, e a avaliação pode ter pouco efeito prático se o Governo não a adotar.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A resolução pede avaliação e estudos, sem criar despesa ou receita diretas. Eventuais mecanismos reembolsáveis teriam impacto orçamental que só seria conhecido depois do estudo."
+ },
+ "affected": [
+  "famílias com crianças",
+  "agregados monoparentais",
+  "beneficiários do abono de família",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "pobreza infantil",
+  "complemento garantia para a infância",
+  "dedução por dependente",
+  "irs",
+  "avaliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

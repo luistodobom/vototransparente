@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime laboral e de reforma específico para a indústria",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo que inicie, durante o presente ano e em articulação com as organizações representativas dos trabalhadores, os procedimentos para definir e regulamentar, para os trabalhadores da fabricação em setores industriais (material elétrico e eletrónico, automóvel, farmacêutica, metalúrgica, química, aeronáutica, celulose e papel, cerâmica, cimentos e vidro, tratamento de águas e resíduos): um regime laboral que mitigue condições penosas; um regime de reforma específico sem penalização e com bonificação mínima de 2,2% por cada dois anos de serviço efetivo; e um sistema de contribuição patronal acrescida para a Segurança Social. Integra-os num processo mais amplo de identificação de profissões penosas ou de risco, revisão do regime de acidentes de trabalho e doenças profissionais e acesso antecipado à reforma. Não é vinculativo.",
+ "key_points": [
+  "Recomenda um regime laboral que mitigue condições de trabalho penosas na indústria.",
+  "Recomenda um regime de reforma sem penalização e com bonificação mínima de 2,2% por cada dois anos de serviço efetivo.",
+  "Recomenda uma contribuição patronal acrescida para a Segurança Social.",
+  "Propõe um mecanismo de avaliação e identificação das profissões penosas ou de risco.",
+  "Propõe rever o regime de acidentes de trabalho e doenças profissionais, incluindo a recolocação de trabalhadores com doença profissional."
+ ],
+ "plain_language": "O PCP pede ao Governo que crie regras próprias de trabalho e de reforma para operários da indústria, que trabalham por turnos, com ritmos intensos e riscos de doença. Os trabalhadores poderiam reformar-se antes, sem corte na pensão, e as empresas pagariam mais para a Segurança Social. É uma recomendação, não uma obrigação.",
+ "context": "O PCP afirma que os trabalhadores da fabricação industrial estão expostos a níveis extremos de penosidade (ritmos intensos, stress, turnos e riscos de acidentes e doenças profissionais), com impacto na saúde, como doenças músculo-esqueléticas, oncológicas e psicológicas. Apresenta a iniciativa em resposta às reivindicações destes trabalhadores, no quadro de uma resposta mais ampla a profissões de risco ou penosidade.",
+ "analysis": "Dá resposta a reivindicações concretas, fixa um valor de bonificação e prevê contribuição patronal acrescida para compensar parte do custo. Fragilidades: o valor do bónus e o seu impacto financeiro na Segurança Social não são estimados; a definição de quais as atividades industriais abrangidas é ampla e pode gerar tratamento desigual face a outros setores; e o texto não esclarece como se articula com o grupo de trabalho do Governo sobre desgaste rápido. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A reforma antecipada com bonificação aumentaria despesa da Segurança Social, em parte compensada por contribuição patronal acrescida. O texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores da indústria transformadora",
+  "empregadores industriais",
+  "Segurança Social",
+  "sindicatos"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "indústria",
+  "reforma antecipada",
+  "penosidade",
+  "contribuição patronal",
+  "trabalho por turnos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

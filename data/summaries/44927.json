@@ -1,0 +1,39 @@
+{
+ "short_title": "Centro de saúde no Feijó, Almada",
+ "summary": "Projeto de resolução do PEV que recomenda ao Governo duas medidas: tomar as diligências devidas para garantir a construção do Centro de Saúde no Feijó, em Almada; e assegurar que o novo centro e o Centro de Saúde de Santo António, no Laranjeiro, são equipados com meios de diagnóstico básicos, de modo a reduzir a afluência ao Hospital Garcia de Orta. O texto descreve instalações sobrelotadas para cerca de 47 mil utentes, longos tempos de espera, falta de profissionais, cerca de metade dos inscritos sem médico de família e falta de transportes para os mais idosos. Refere que a Câmara Municipal de Almada disponibilizou terreno no Centro Cívico do Feijó. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Diligências para garantir a construção do Centro de Saúde no Feijó.",
+  "Equipar o novo centro e o de Santo António com meios de diagnóstico básicos.",
+  "Objetivo de reduzir a afluência ao Hospital Garcia de Orta."
+ ],
+ "plain_language": "Os Verdes pedem ao Governo que construa o centro de saúde do Feijó, em Almada, num terreno já cedido pela câmara, e que o equipe com exames básicos. Querem aliviar o centro de saúde atual, que está sobrelotado, e o hospital. É uma recomendação ao Governo.",
+ "context": "Os Verdes consideram as instalações do Laranjeiro desadequadas para cerca de 47 mil utentes, com sobrelotação, falta de profissionais e metade dos inscritos sem médico de família. Referem a reivindicação antiga de autarquias e população, a plataforma pela construção do centro e a necessidade de reforçar o SNS após a pandemia.",
+ "analysis": "A iniciativa é curta e focada, com argumentos de proximidade e de descongestionamento hospitalar, e apoio local visível (terreno cedido). É, no entanto, menos detalhada do que outras propostas sobre o mesmo tema: não refere contratação de profissionais, prazos, custos ou financiamento. A relação entre o novo centro e a redução da afluência ao hospital é afirmada mas não quantificada. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção e o equipamento do centro de saúde implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "utentes do Laranjeiro e Feijó (Almada)",
+  "SNS",
+  "Hospital Garcia de Orta"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "centro de saúde",
+  "feijó",
+  "almada",
+  "cuidados primários",
+  "hospital garcia de orta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

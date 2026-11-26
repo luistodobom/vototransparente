@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforçar a telesaúde no Serviço Nacional de Saúde",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo o reforço da telesaúde no SNS. Propõe equipar as unidades com tecnologia moderna para teleconsultas, reforçar e formar recursos humanos na área da telemedicina, garantir a interoperabilidade dos sistemas de informação do SNS no respeito pelas regras de privacidade e segurança, e criar a Ficha Única do Utente. O texto sublinha que a telemedicina não deve substituir consultas presenciais nem servir de desculpa para encerrar serviços. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Instalar equipamentos modernos nas unidades do SNS para teleconsultas de qualidade.",
+  "Reforçar recursos humanos e formar os atuais quadros em telemedicina.",
+  "Garantir a interoperabilidade dos sistemas de informação do SNS.",
+  "Criar a Ficha Única do Utente."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o SNS tenha meios para consultas por vídeo que funcionem bem: computadores com câmara e microfone, pessoal formado e sistemas informáticos que comuniquem entre si. Propõe também um registo clínico único para cada utente. É um pedido ao Governo, sem força de lei.",
+ "context": "O proponente nota que o Centro Nacional de TeleSaúde existe desde 2016 mas faltam meios humanos e técnicos; durante a pandemia muitas consultas foram feitas por telefone, o que não é telesaúde. Refere ainda desigualdades regionais no acesso e falhas de equipamento em unidades de saúde.",
+ "analysis": "Identifica problemas concretos (equipamentos, contactos sem resposta, sistemas não integrados) e ressalva o primado do atendimento presencial. Fragilidades: as medidas são genéricas, sem metas, prazos ou financiamento, e não explicita como seria desenhada a Ficha Única do Utente nem como se compatibiliza com a proteção de dados. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Equipamentos, formação, contratação e integração de sistemas implicam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "unidades de saúde do SNS"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "telesaúde",
+  "teleconsultas",
+  "SNS",
+  "interoperabilidade",
+  "ficha única do utente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

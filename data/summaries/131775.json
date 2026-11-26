@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime autónomo de arrendamento não habitacional (PCP)",
+ "summary": "O PCP propõe criar um regime próprio para o arrendamento de imóveis destinados a atividades económicas, associativas e culturais, separado do arrendamento habitacional no Novo Regime do Arrendamento Urbano. Entre as medidas, fixa um prazo supletivo de duração de cinco anos e renovações automáticas de pelo menos cinco anos. Mantém a possibilidade de o senhorio denunciar sem justificação, mas com pré-aviso mínimo de três anos e sem que o contrato dure menos de cinco anos. Prevê indemnização de clientela ao arrendatário em certos casos de cessação, regras para obras e um mecanismo de atualização de rendas após obras de beneficiação. O Código Civil continua a aplicar-se ao que não for regulado de forma especial.",
+ "key_points": [
+  "Separa o arrendamento não habitacional do habitacional num regime autónomo.",
+  "Fixa em cinco anos o prazo supletivo dos contratos e o período mínimo das renovações automáticas.",
+  "Permite a denúncia sem justificação pelo senhorio apenas com pré-aviso mínimo de três anos e contrato de, pelo menos, cinco anos.",
+  "Prevê indemnização de clientela e compensação de outros danos quando o senhorio cessa o contrato, por exemplo para instalar novo estabelecimento.",
+  "Regula obras a cargo de cada parte e a atualização da renda após obras de beneficiação."
+ ],
+ "plain_language": "O PCP quer que o arrendamento de lojas, oficinas, escritórios, associações e coletividades tenha regras próprias, diferentes das das casas de morada. Os contratos passariam a durar pelo menos cinco anos, o senhorio teria de avisar com três anos de antecedência se quisesse acabar com o contrato sem motivo, e o inquilino poderia receber uma indemnização pela clientela perdida.",
+ "context": "O proponente defende que o regime de 2012 trata da mesma forma arrendamentos habitacionais e não habitacionais, permitindo contratos curtos, denúncias sem justificação e atualizações de renda sem limites. Associa isto a despejos de micro e pequenas empresas e de associações, com perda de tecido económico e identidade local.",
+ "analysis": "A proposta dá maior estabilidade a pequenos negócios e coletividades, e a indemnização de clientela reconhece investimentos locais. Em contrapartida, prazos mínimos longos e pré-avisos de três anos limitam a liberdade contratual e podem tornar os proprietários menos dispostos a arrendar ou levar a rendas iniciais mais altas. O texto, tal como apresentado, não quantifica efeitos económicos nem define em pormenor como se calcula a indemnização. O diploma aplica-se a realidades muito diferentes, de pequenas lojas a grandes arrendatários, sem distinguir.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa regula relações entre privados e não prevê, no texto analisado, despesa ou receita públicas."
+ },
+ "affected": [
+  "micro, pequenas e médias empresas arrendatárias",
+  "associações culturais e coletividades",
+  "senhorios de imóveis não habitacionais"
+ ],
+ "categories": [
+  "economia",
+  "habitacao",
+  "cultura"
+ ],
+ "tags": [
+  "arrendamento não habitacional",
+  "nrau",
+  "pequenos negócios",
+  "coletividades",
+  "indemnização de clientela"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

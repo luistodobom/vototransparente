@@ -1,0 +1,43 @@
+{
+ "short_title": "Fim dos benefícios do SIFIDE a fundos de investimento",
+ "summary": "Projeto de Lei do BE que altera o Código Fiscal do Investimento (Decreto-Lei n.º 162/2014) para eliminar, no âmbito do SIFIDE (sistema de incentivos fiscais à I&D empresarial), os benefícios fiscais atribuídos a contribuições para fundos de investimento e de capital de risco e à aquisição de participações sociais. Revoga alíneas e números dos artigos 37.º e 38.º que permitiam abater ao IRC montantes aplicados nessas formas de investimento. Mantém os restantes benefícios do SIFIDE. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Elimina o benefício fiscal do SIFIDE para contribuições para fundos de investimento e de capital de risco.",
+  "Elimina o benefício para a aquisição de participações sociais.",
+  "Revoga disposições dos artigos 37.º e 38.º do Código Fiscal do Investimento.",
+  "Mantém os restantes benefícios do SIFIDE, como as despesas diretas em I&D.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O BE propõe que as empresas deixem de poder abater impostos por aplicarem dinheiro em fundos de investimento ou na compra de participações, ao abrigo do incentivo à investigação e desenvolvimento. O partido considera que essa possibilidade permite abusos.",
+ "context": "O proponente explica que o SIFIDE II alargou o benefício, além das despesas de I&D, a contribuições para fundos de investimento e capital de risco, com crédito fiscal em IRC entre 32,5% e 82,5%. Refere que a possibilidade de abusos e fraude foi apontada por um relatório que identificou crédito fiscal indevido e pediu maior controlo e fiscalização.",
+ "analysis": "Ponto forte: elimina uma via de benefício que o proponente associa a abusos e que não corresponde a despesa direta em I&D. Fragilidades: pode reduzir o financiamento a empresas inovadoras e ao capital de risco, que o benefício procurava estimular; o texto não apresenta dados sobre a dimensão do benefício atual nem alternativas de controlo; a eliminação em vez de uma melhor fiscalização é uma opção que pode ter efeitos que não são analisados.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A eliminação de benefícios fiscais em IRC aumentaria a receita ou reduziria a despesa fiscal, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "empresas que investem em fundos de capital de risco",
+  "sociedades gestoras de fundos",
+  "empresas de I&D",
+  "Estado"
+ ],
+ "categories": [
+  "fiscalidade",
+  "ciencia",
+  "economia"
+ ],
+ "tags": [
+  "SIFIDE",
+  "benefícios fiscais",
+  "capital de risco",
+  "IRC",
+  "código fiscal do investimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

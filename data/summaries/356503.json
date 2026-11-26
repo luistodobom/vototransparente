@@ -1,0 +1,43 @@
+{
+ "short_title": "Resposta à inflação e aos preços dos combustíveis",
+ "summary": "O projeto de resolução da Iniciativa Liberal recomenda ao Governo um conjunto de medidas face à subida da inflação e dos preços dos combustíveis. Propõe reduzir transversalmente o ISP, de modo a garantir a neutralidade fiscal em sede de IVA e um esforço fiscal adequado ao poder de compra; aplicar temporariamente o IVA reduzido às botijas de gás; reforçar a oferta de transportes públicos; rever as leis do teletrabalho; repor o IVA reduzido em equipamentos de energia solar, eólica e geotérmica; e acelerar licenciamentos de renováveis, permitir a prospeção de lítio e gás natural e constituir uma reserva de gás natural de origem portuguesa. Trata-se de uma recomendação ao Governo, não vinculativa.",
+ "key_points": [
+  "Reduzir transversalmente o ISP para assegurar a neutralidade fiscal em sede de IVA.",
+  "Aplicar temporariamente IVA reduzido às botijas de gás, com aval europeu ou por reembolso.",
+  "Reforçar a frequência e capacidade dos transportes públicos.",
+  "Rever as leis do teletrabalho e repor o IVA reduzido em equipamentos de energia renovável.",
+  "Acelerar licenciamentos de renováveis, permitir prospeção de lítio e gás natural e criar reserva de gás natural nacional."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que combata a subida dos preços dos combustíveis e da inflação baixando impostos sobre os combustíveis e o gás de botija, melhorando os transportes públicos, facilitando o teletrabalho e incentivando painéis solares e outras energias renováveis. Defende também explorar recursos como lítio e gás natural em Portugal. É uma recomendação sem força de lei.",
+ "context": "O proponente atribui a subida semanal dos combustíveis ao conflito entre os Estados Unidos, Israel e o Irão e às restrições no Estreito de Ormuz. Cita as estimativas do Banco de Portugal, que reduziram o crescimento do PIB de 2026 de 2,3% para 1,8% entre dezembro de 2025 e março de 2026, e defende que o poder de compra está em risco.",
+ "analysis": "A proposta combina alívio fiscal imediato com medidas estruturais de energia, o que é coerente com o objetivo de resiliência. Fragilidades: não quantifica o custo da redução do ISP nem do IVA, nem indica compensações. A redução do IVA do gás de botija depende do enquadramento europeu. Algumas medidas, como a prospeção de lítio e gás natural, têm efeitos ambientais e prazos longos, pouco relacionados com a resposta imediata à inflação. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução do ISP e do IVA em botijas de gás e equipamentos renováveis diminuiria a receita fiscal. O texto não apresenta montantes nem medidas de compensação."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "famílias que usam gás de botija",
+  "utilizadores de transportes públicos",
+  "empresas"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "ISP",
+  "combustíveis",
+  "inflação",
+  "IVA",
+  "teletrabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

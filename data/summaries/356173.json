@@ -1,0 +1,41 @@
+{
+ "short_title": "Reembolso de despesas de funeral por morte de menores e pessoas com deficiência",
+ "summary": "Projeto de Lei do JPP que altera o artigo 54.º do Decreto-Lei n.º 322/90 para garantir o reembolso de despesas de funeral quando o falecido é menor de 18 anos, independentemente de ter carreira contributiva, a quem prove ter suportado o encargo e seja progenitor, adotante, tutor legal ou guardião e esteja abrangido por regime obrigatório de proteção social. Aplica-se também, com adaptações, a pessoas com deficiência ou incapacidade com atestado multiusos de grau igual ou superior a 60% ou titulares de prestação por deficiência, incapacidade ou dependência. O reembolso é devido até ao valor comprovado por faturas, com limite de três vezes o Indexante dos Apoios Sociais. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Reembolso das despesas de funeral na morte de menor de 18 anos, mesmo sem carreira contributiva.",
+  "O requerente deve ser progenitor, adotante, tutor legal ou guardião, abrangido por regime obrigatório de proteção social.",
+  "Aplica-se a pessoas com incapacidade de pelo menos 60% ou titulares de prestação por deficiência, incapacidade ou dependência.",
+  "Reembolso até ao valor comprovado, com limite de três vezes o IAS.",
+  "Entra em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "Quando morre uma criança ou uma pessoa com deficiência que nunca descontou para a Segurança Social, a família hoje não tem direito ao reembolso do funeral. O JPP propõe que quem pagou o funeral possa receber o reembolso, até um máximo de três vezes o IAS, se estiver abrangido pela Segurança Social.",
+ "context": "O JPP considera que a lei deixa sem reembolso as famílias quando o falecido não tem carreira contributiva, como acontece com menores e algumas pessoas com deficiência. Argumenta que isso agrava a vulnerabilidade económica das famílias em luto e viola o sentido de justiça e de solidariedade da Segurança Social.",
+ "analysis": "A proposta corrige uma lacuna aparente e define critérios objetivos (idade, grau de incapacidade e qualidade do requerente). Fragilidades: o texto não estima o número de casos nem o custo, e o limite de três IAS é replicado do regime existente. A exigência de que o requerente esteja abrangido por regime obrigatório de proteção social pode excluir famílias em situação mais vulnerável. Existe sobreposição potencial com o subsídio de funeral do Decreto-Lei n.º 176/2003, que a proposta não articula. Alteração de um diploma de 1990 não aborda a coordenação com outros regimes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do reembolso aumenta a despesa da Segurança Social, até três vezes o IAS por caso. O texto não apresenta estimativa do número de beneficiários nem do custo."
+ },
+ "affected": [
+  "Famílias de menores falecidos",
+  "Famílias de pessoas com deficiência ou incapacidade falecidas",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "despesas de funeral",
+  "reembolso",
+  "menores",
+  "pessoas com deficiência",
+  "Segurança Social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Igualdade na contagem do tempo de serviço dos professores",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo que reveja, com urgência, os critérios de reposicionamento na carreira docente, assegurando a contabilização da totalidade do tempo de serviço em funções docentes de todos os profissionais, eliminando desigualdades resultantes das revisões da carreira e corrigindo ultrapassagens indevidas. É uma recomendação sem força vinculativa. Invoca a petição sobre a justiça na contagem do tempo de serviço, uma iniciativa legislativa de cidadãos em recolha de assinaturas e jurisprudência do Tribunal Constitucional sobre ultrapassagens remuneratórias.",
+ "key_points": [
+  "Recomenda a revisão urgente dos critérios de reposicionamento na carreira docente.",
+  "Pede a contabilização da totalidade do tempo de serviço docente.",
+  "Pretende eliminar desigualdades resultantes de revisões da carreira.",
+  "Visa corrigir ultrapassagens indevidas de docentes por colegas com menos tempo de serviço."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que corrija situações em que professores mais antigos ficam com salário inferior ao de colegas com menos anos de serviço, contando todo o tempo trabalhado. É um pedido que o Governo não é obrigado a cumprir.",
+ "context": "O LIVRE refere que a recuperação do tempo de serviço deixou injustiças, com docentes ultrapassados na carreira, e recorda uma petição e uma iniciativa legislativa de cidadãos. Cita o Acórdão 239/2013 do Tribunal Constitucional e lembra que um projeto de resolução aprovado na generalidade na legislatura anterior caducou.",
+ "analysis": "A iniciativa aponta um problema com base em jurisprudência constitucional e visa maior equidade na carreira. Contudo, a formulação é genérica: não define critérios, número de docentes afetados, calendário nem custos. Sendo uma recomendação, depende da vontade do Governo, e a correção de ultrapassagens pode ter custos salariais significativos e implicar questões de justiça entre grupos de docentes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reposicionamento de docentes em escalões superiores implicaria despesa salarial adicional. O texto não apresenta montantes."
+ },
+ "affected": [
+  "professores",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "professores",
+  "carreira docente",
+  "tempo de serviço",
+  "reposicionamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

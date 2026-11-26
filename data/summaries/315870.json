@@ -1,0 +1,42 @@
+{
+ "short_title": "IRS: mais apoio fiscal a pessoas com deficiência",
+ "summary": "O projeto de lei do LIVRE altera três artigos do Código do IRS para reduzir a carga fiscal de famílias com pessoas com deficiência. Alarga o conceito de dependente a pessoas com deficiência maiores de idade, com incapacidade permanente igual ou superior a 60% comprovada por atestado médico multiuso e rendimentos anuais não superiores à retribuição mínima mensal garantida. Permite optar pelo não englobamento dos rendimentos da categoria H (pensões) de dependentes com incapacidade igual ou superior a 60%. Aumenta de 2,5 para 3 vezes o valor do IAS a dedução à coleta por cada dependente ou ascendente com deficiência. A lei entraria em vigor com o Orçamento do Estado seguinte à sua publicação.",
+ "key_points": [
+  "Alarga o conceito de dependente a pessoas com deficiência maiores de idade, com incapacidade permanente igual ou superior a 60%.",
+  "Cria a opção de não englobar as pensões (categoria H) de dependentes com incapacidade igual ou superior a 60%.",
+  "Sobe de 2,5 para 3 vezes o IAS a dedução à coleta por dependente ou ascendente com deficiência.",
+  "Mantém em quatro vezes o IAS a dedução do próprio sujeito passivo com deficiência.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje, uma pessoa adulta com deficiência que viva com a família pode deixar de ser considerada dependente e os seus rendimentos somam-se aos da família, pagando-se mais imposto. A proposta permite que continue a contar como dependente, deixa que as suas pensões sejam tributadas à parte e aumenta o valor que as famílias podem descontar no IRS por cada pessoa com deficiência a cargo.",
+ "context": "O proponente considera que o Código do IRS não protege adequadamente famílias cuidadoras: a exclusão automática de dependentes a partir dos 25 anos ignora deficiências vitalícias, o englobamento obrigatório anula o regime mais favorável e o valor de 2,5 IAS está congelado desde 2016, enquanto os custos com terapias e apoios cresceram mais depressa.",
+ "analysis": "A medida responde a uma assimetria concreta e dirige-se a um grupo com encargos acrescidos. O critério objetivo (atestado multiuso, 60%, limite de rendimento) dá segurança jurídica. Em contrapartida, o texto não quantifica o custo para a receita fiscal nem o número de beneficiários, e a opção pelo não englobamento pode ser mais vantajosa para agregados com rendimentos mais altos. A articulação entre o limite de rendimento da dependência e a tributação autónoma merece clarificação, tal como a coerência com os restantes limites de dedução no IRS.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As deduções mais elevadas e a possibilidade de tributação autónoma de pensões reduzem a receita de IRS. O texto não apresenta estimativa de montantes."
+ },
+ "affected": [
+  "pessoas com deficiência maiores de idade",
+  "famílias cuidadoras",
+  "contribuintes de IRS com dependentes com deficiência"
+ ],
+ "categories": [
+  "fiscalidade",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "deficiência",
+  "dependentes",
+  "deduções",
+  "ias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

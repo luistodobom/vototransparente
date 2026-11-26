@@ -1,0 +1,40 @@
+{
+ "short_title": "Suspensão provisória do processo na violência doméstica",
+ "summary": "Projeto de Lei do CHEGA que altera o artigo 281.º do Código de Processo Penal quanto à suspensão provisória do processo em casos de violência doméstica. Propõe que, em processos por violência doméstica não agravado pelo resultado, o Ministério Público só determine a suspensão provisória mediante requerimento livre e esclarecido da vítima, representada por defensor oficioso ou mandatário, com a concordância do juiz de instrução e do arguido, e verificados os pressupostos das alíneas b) e c) do n.º 1. Acrescenta que a decisão de suspensão não é suscetível de impugnação. Visa evitar que vítimas sujeitas a pressão ou manipulação do agressor aceitem a suspensão sem informação jurídica. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "A suspensão provisória do processo por violência doméstica não agravada pelo resultado depende de requerimento livre e esclarecido da vítima.",
+  "A vítima tem de estar representada por defensor oficioso ou mandatário.",
+  "Continuam necessárias a concordância do juiz de instrução e do arguido e os pressupostos legais já previstos.",
+  "A decisão de suspensão não pode ser impugnada.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Em certos casos, o processo contra um agressor pode ser suspenso mediante condições. O CHEGA propõe que, na violência doméstica, isso só aconteça se a vítima o pedir de forma livre e informada, com o apoio de um advogado. O objetivo é que a vítima não aceite por pressão do agressor.",
+ "context": "O proponente argumenta que a suspensão provisória é aplicada com frequência na violência doméstica (cita 1822 suspensões procedentes e 1027 condenados a prisão efetiva num trimestre de 2024) e que as vítimas, em posição de subordinação, podem agir com vontade viciada. Defende a nomeação de advogado numa fase inicial do processo.",
+ "analysis": "A proposta reforça a autonomia informada da vítima, ao exigir apoio jurídico, e responde a um risco real de pressão do agressor. Mas a exposição de motivos não demonstra que a suspensão decorra de requerimento da vítima nem que o requisito proposto reduza a pressão; a comparação entre suspensões e prisões efetivas é um dado difícil de interpretar. O texto não refere os custos do apoio judiciário e a norma sobre não impugnação da decisão de suspensão pode limitar direitos de defesa e de recurso. Não regula a falta de requerimento nem prazos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obrigatoriedade de defensor oficioso ou mandatário para as vítimas pode aumentar a despesa com o apoio judiciário; o texto não a quantifica."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "arguidos",
+  "Ministério Público e tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "violência doméstica",
+  "suspensão provisória do processo",
+  "código de processo penal",
+  "defensor oficioso"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

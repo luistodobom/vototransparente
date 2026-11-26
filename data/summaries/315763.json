@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização para prorrogar o SIFIDE II até 2026",
+ "summary": "Proposta de Lei do Governo que pede à Assembleia autorização legislativa para alterar o Código Fiscal do Investimento. Prorroga o SIFIDE II (incentivo fiscal à investigação e desenvolvimento empresarial) até ao período de tributação de 2026, mas não prorroga a aplicação indireta através de fundos de investimento. Alarga de três para cinco anos os prazos de investimento dos fundos e das empresas investidas, elimina o reconhecimento prévio de idoneidade pela Agência Nacional de Inovação, permite aplicar até 20% das contribuições em inovação produtiva complementar de I&D e prevê que, nos grupos de sociedades, a taxa incremental e a majoração se apliquem ao acréscimo conjunto das despesas. O Governo criará um grupo de trabalho para rever o regime em 2026.",
+ "key_points": [
+  "Prorrogação do SIFIDE II até ao período de tributação de 2026.",
+  "Fim da possibilidade de aplicação indireta do SIFIDE II através de fundos de investimento.",
+  "Prazo de investimento dos fundos e das empresas investidas alargado de 3 para 5 anos; se um fundo não investir pelo menos 85% nas empresas investidas nesse prazo, o benefício correspondente é acrescido ao IRC dos adquirentes.",
+  "Até 20% das contribuições dos fundos podem ir para investimentos em inovação produtiva.",
+  "Eliminação do reconhecimento prévio de idoneidade de I&D pela Agência Nacional de Inovação para empresas investidas.",
+  "Em grupos de sociedades, taxa incremental e majoração aplicam-se ao acréscimo da soma das despesas."
+ ],
+ "plain_language": "O Governo pede autorização ao Parlamento para continuar, até 2026, o benefício fiscal que permite às empresas abater impostos por gastos em investigação e desenvolvimento, mas acabar com a via que passa por fundos de investimento. Dá mais tempo a esses fundos para aplicar o dinheiro acumulado, mais de mil milhões de euros.",
+ "context": "O Governo afirma que o SIFIDE indireto gerou um grande volume de investimento em fundos, com desfasamento face ao investimento real em I&D. Cita a U-Tax, que encontrou evidência de que uma parte significativa do investimento permanece retida nos fundos, e refere mais de mil milhões de euros ainda por aplicar.",
+ "analysis": "A medida procura corrigir uma ineficiência identificada por uma entidade técnica independente e dar previsibilidade às empresas, com revisão posterior por grupo de trabalho. Fragilidades: o alargamento dos prazos e a possibilidade de usar 20% em inovação produtiva podem prolongar a retenção de capital sem I&D efetiva, e a eliminação do reconhecimento prévio pode enfraquecer o controlo. Trata-se de uma autorização legislativa, pelo que os detalhes dependem do decreto-lei futuro, e o texto não quantifica a despesa fiscal.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A prorrogação do benefício fiscal ao IRC mantém uma despesa fiscal que reduz receita; o texto não apresenta o montante, referindo apenas mais de mil milhões de euros acumulados nos fundos por aplicar."
+ },
+ "affected": [
+  "empresas que investem em I&D",
+  "sociedades gestoras de fundos SIFIDE",
+  "Agência Nacional de Inovação",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "ciencia",
+  "economia"
+ ],
+ "tags": [
+  "SIFIDE II",
+  "investigação e desenvolvimento",
+  "Código Fiscal do Investimento",
+  "benefícios fiscais",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

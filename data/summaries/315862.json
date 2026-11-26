@@ -1,0 +1,43 @@
+{
+ "short_title": "Atestados multiuso mais rápidos e gratuitos",
+ "summary": "O Projeto de Lei n.º 323/XVII/1.ª, do PCP, altera o Decreto-Lei n.º 202/96 e o Decreto-Lei n.º 1/2022 para agilizar a emissão e a renovação dos atestados médicos de incapacidade multiuso e tornar o atestado gratuito. Dispensa a junta médica para doentes oncológicos recém-diagnosticados e para quem tenha incapacidade igual ou superior a 60%, passando o médico assistente a confirmar a incapacidade. Prevê a renovação automática quando o grau de incapacidade não varia, ou a deficiência é irreversível, e o atestado produz efeitos desde a data do requerimento. A junta médica de recurso passa a custar 5 euros. Os efeitos financeiros começam com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Dispensa de junta médica para doentes oncológicos recém-diagnosticados e para quem tenha incapacidade igual ou superior a 60%, com confirmação pelo médico assistente.",
+  "Renovação automática do atestado quando o grau de incapacidade não é suscetível de variação ou a deficiência é irreversível.",
+  "Atestado emitido em junta médica passa a ser gratuito; junta médica de recurso custa 5 euros.",
+  "O atestado produz efeitos desde a data de entrega do requerimento.",
+  "Efeitos financeiros com a publicação do Orçamento do Estado posterior à aprovação."
+ ],
+ "plain_language": "O atestado multiuso, que dá acesso a vários apoios a pessoas com deficiência, seria emitido mais depressa, sem junta médica em muitos casos, e passaria a ser gratuito. Se a incapacidade não muda, a renovação seria automática. O atestado valeria desde a data do pedido, e não só desde a emissão.",
+ "context": "O PCP aponta os longos tempos de espera para juntas médicas e o crescente número de queixas à Provedoria de Justiça. Refere que o atestado dá acesso a direitos como isenção de IUC, cartão de estacionamento e isenção de taxas moderadoras, e que os valores atuais são de 12,5 euros por atestado em junta médica, 25 euros em recurso e 5 euros por renovação.",
+ "analysis": "A medida ataca um problema concreto, a demora e o custo do atestado, e o alívio burocrático pode beneficiar muitas pessoas. Em contrapartida, dispensar a junta médica e delegar no médico assistente a confirmação da incapacidade pode reduzir o controlo e gerar variações de critério. O custo da gratuitidade não é estimado, e a renovação automática depende de se saber quando o grau é invariável. O texto tem numeração repetida do artigo 4.º e referências a números revogados sem especificar o conteúdo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A gratuitidade do atestado em junta médica e a taxa de apenas 5 euros no recurso reduzem as receitas das taxas. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas com deficiência ou incapacidade",
+  "doentes oncológicos",
+  "médicos assistentes",
+  "serviços de saúde que emitem os atestados"
+ ],
+ "categories": [
+  "direitos",
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "atestado multiuso",
+  "incapacidade",
+  "juntas médicas",
+  "gratuitidade",
+  "deficiência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

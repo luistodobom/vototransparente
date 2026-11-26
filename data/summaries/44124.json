@@ -1,0 +1,40 @@
+{
+ "short_title": "Restringir o trabalho temporário e o outsourcing",
+ "summary": "O projeto de lei do BE altera os artigos 175.º, 177.º, 178.º, 179.º, 181.º e 182.º do Código do Trabalho para limitar o recurso ao trabalho temporário. Reduz a duração máxima do contrato de utilização e do contrato de trabalho temporário a seis meses (atualmente dois anos, segundo o proponente), limita as renovações a três, e converte em contrato sem termo as situações em que o trabalhador continua ao serviço sem contrato que o fundamente. Proíbe a sucessão de trabalhadores no mesmo posto antes de decorrido tempo igual ao contrato. Alarga o direito de informação às estruturas representativas dos trabalhadores e aplica as regras do trabalho temporário, com adaptações, ao outsourcing.",
+ "key_points": [
+  "Reduz para seis meses a duração máxima do contrato de utilização e do contrato de trabalho temporário a termo certo.",
+  "Limita a três as renovações do contrato de utilização de trabalho temporário.",
+  "Converte em contrato sem termo o trabalho que continue sem contrato que o fundamente ou em violação das regras.",
+  "Proíbe a sucessão no mesmo posto de trabalhador temporário ou a termo antes de decorrer tempo igual ao do contrato.",
+  "Reconhece direitos de informação às estruturas representativas dos trabalhadores e aplica o regime ao outsourcing."
+ ],
+ "plain_language": "O Bloco de Esquerda quer apertar as regras do trabalho temporário e do outsourcing: contratos mais curtos (seis meses), menos renovações e passagem a contrato sem prazo quando a lei for violada. Os representantes dos trabalhadores teriam direito a receber cópia dos contratos.",
+ "context": "O proponente sustenta que o trabalho temporário retira direitos e salário aos trabalhadores, que as empresas de trabalho temporário retêm cerca de 40% do que a utilizadora paga e que os trabalhadores temporários ganham em média menos 250 euros do que a média nacional (dados do IEFP de 2011). Alega ainda recurso ao temporário para funções permanentes.",
+ "analysis": "A proposta reforça a proteção de quem trabalha em regime temporário e tenta combater o uso abusivo em funções permanentes, com regras claras e sanções. Em contrapartida, limitar a seis meses e a três renovações reduz a flexibilidade das empresas, podendo afetar atividades sazonais e picos de procura; o texto não avalia esse impacto. A extensão do regime ao outsourcing é feita por remissão genérica ('com as necessárias adaptações'), o que pode gerar dúvidas de aplicação. Parte dos dados citados é antiga (2011 e 2015).",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas de impacto orçamental; a alteração é de natureza regulatória."
+ },
+ "affected": [
+  "trabalhadores temporários",
+  "empresas de trabalho temporário",
+  "empresas utilizadoras",
+  "trabalhadores em outsourcing"
+ ],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [
+  "trabalho temporário",
+  "outsourcing",
+  "código do trabalho",
+  "precariedade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

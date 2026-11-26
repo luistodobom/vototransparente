@@ -1,0 +1,43 @@
+{
+ "short_title": "Proibir dividendos e bónus a bancos e empresas que receberam apoios públicos",
+ "summary": "O PAN propõe, em projeto de lei, impedir durante 2020 e 2021 o pagamento de remuneração acionista e de bónus por duas categorias de entidades. As instituições de crédito que receberam apoios públicos entre 2008 e 2020 não poderiam distribuir dividendos, recomprar ações nem pagar componentes variáveis ou bónus aos administradores relativos a 2019 e 2020, devendo usar os lucros para reforçar fundos próprios e liquidez, com supervisão do Banco de Portugal e coimas ao abrigo do regime geral. As empresas que receberam apoios públicos, diretos ou indiretos, devido à COVID-19, ficam sujeitas à mesma limitação relativamente a 2020, e o Governo regula em 10 dias o regime sancionatório e a entidade supervisora. Altera ainda o artigo 14.º do Decreto-Lei n.º 10-G/2020.",
+ "key_points": [
+  "Proíbe em 2020 e 2021 dividendos, recompra de ações e bónus em bancos que receberam apoios públicos entre 2008 e 2020.",
+  "Os lucros desses bancos devem reforçar fundos próprios e liquidez, com supervisão do Banco de Portugal.",
+  "Aplica a mesma limitação a empresas que receberam apoios públicos devido à COVID-19, relativamente a 2020.",
+  "O Governo regulamenta em 10 dias o regime sancionatório e a entidade fiscalizadora das empresas.",
+  "Altera o artigo 14.º do Decreto-Lei n.º 10-G/2020, sobre distribuição de lucros e bónus."
+ ],
+ "plain_language": "O PAN quer impedir que bancos que já foram ajudados pelo Estado e empresas que receberam apoios por causa da pandemia paguem dividendos ou bónus aos administradores nos próximos dois anos. O dinheiro dos lucros ficaria na empresa, reforçando as suas contas. O incumprimento seria punido com coimas.",
+ "context": "O proponente cita dados da crise, como previsões do FMI e inquéritos a empresas, e critica o facto de os bancos beneficiarem, segundo diz, de comissões e juros nas linhas garantidas pelo Estado e de capitalizarem juros nas moratórias. Defende que a banca deve compensar os apoios públicos que recebeu e que as empresas apoiadas não devem distribuir lucros.",
+ "analysis": "A medida procura evitar que dinheiro público apoie dividendos e bónus, e reforçaria a capital dos bancos. Fragilidades: ao abranger todas as instituições que receberam apoios desde 2008 pode afetar investidores e a capacidade de atrair capital, e a aplicação a todas as empresas apoiadas, com um conceito amplo de apoio indireto, exige definição e fiscalização, que o texto remete para regulamentação em 10 dias, um prazo curto. Também pode interferir com regras europeias de supervisão prudencial.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A lei não cria despesa nem receita diretas do Estado; limita distribuições privadas. Poderia afetar indiretamente receitas fiscais sobre dividendos, sem estimativa no texto."
+ },
+ "affected": [
+  "instituições de crédito",
+  "empresas beneficiárias de apoios públicos",
+  "acionistas",
+  "administradores",
+  "Banco de Portugal"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "dividendos",
+  "bónus",
+  "banca",
+  "apoios públicos",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

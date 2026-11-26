@@ -1,0 +1,40 @@
+{
+ "short_title": "Combate célere às ocupações ilegais de imóveis",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo que adote medidas legislativas urgentes para acelerar o despejo de ocupantes ilegais, incluindo mecanismos de expulsão imediata em caso de flagrante delito; que reforce os meios da Justiça e da Administração Interna para uma resposta célere e proporcional; e que promova campanhas de sensibilização para dissuadir práticas ilegais e restabelecer a confiança no Estado de Direito. No corpo do texto defende ainda a revisão do procedimento especial de despejo, o reforço de meios dos tribunais cíveis e criminais e a coordenação entre órgãos de polícia criminal e Ministério Público. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Medidas legislativas urgentes para acelerar o despejo de ocupantes ilegais, com expulsão imediata em flagrante delito.",
+  "Reforço dos meios da Justiça e da Administração Interna.",
+  "Campanhas de sensibilização contra as ocupações ilegais.",
+  "No texto, também: revisão do procedimento especial de despejo e coordenação entre polícia e Ministério Público."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que torne mais rápido retirar quem ocupa ilegalmente uma casa ou terreno, sobretudo quando a ocupação é apanhada no momento, e que dê mais meios aos tribunais e às polícias. Como é uma recomendação, o Governo não está obrigado a cumprir.",
+ "context": "O proponente invoca o direito de propriedade (artigo 62.º da Constituição) e os crimes de introdução em lugar vedado ao público e usurpação de coisa imóvel. Considera que a morosidade da justiça e a falta de resposta do Estado alimentam a perceção de impunidade e incentivam as ocupações.",
+ "analysis": "Valoriza o direito de propriedade e a rapidez da justiça, com propostas genéricas de reforço de meios. Fragilidades: é pouco específico quanto às alterações legais, não distingue ocupações por necessidade de ocupações com fins ilícitos, não aborda a proteção de pessoas vulneráveis e não quantifica o reforço de meios. Sendo recomendação, não obriga o Governo a legislar.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço dos meios humanos e materiais da Justiça e da Administração Interna e as campanhas implicam despesa. O texto não indica montantes."
+ },
+ "affected": [
+  "proprietários de imóveis",
+  "ocupantes ilegais",
+  "tribunais",
+  "forças de segurança"
+ ],
+ "categories": [
+  "justica",
+  "habitacao"
+ ],
+ "tags": [
+  "ocupação ilegal",
+  "despejo",
+  "flagrante delito",
+  "propriedade privada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

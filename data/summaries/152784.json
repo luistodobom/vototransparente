@@ -1,0 +1,40 @@
+{
+ "short_title": "Complemento de 50% a todos os pensionistas e atualização das pensões",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que pague o montante adicional de 50% do valor da pensão auferida em outubro de 2022 a todos os pensionistas excluídos do Decreto-Lei n.º 57-C/2022 (por exemplo, bancários reformados e pensionistas não residentes), e que atualize as pensões em 2023 e 2024 aplicando a fórmula da Lei n.º 53-B/2006, de modo a evitar perdas de rendimento. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Pagar o montante adicional de 50% da pensão de outubro de 2022 a todos os pensionistas excluídos do Decreto-Lei n.º 57-C/2022.",
+  "Atualizar as pensões de 2023 e 2024 segundo a fórmula da Lei n.º 53-B/2006.",
+  "Evitar a perda permanente de rendimento e de poder de compra dos pensionistas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que pague o complemento de outubro de 2022 a quem ficou de fora, como bancários reformados e pensionistas no estrangeiro, e que atualize as pensões nos próximos anos pela lei em vigor, em vez do regime transitório. É uma recomendação.",
+ "context": "O proponente critica o regime transitório de atualização de pensões de 2023 (Lei n.º 19/2022), invoca que as previsões do Orçamento do Estado para 2023 contrariam o argumento de risco para a sustentabilidade da Segurança Social, e refere a Petição n.º 87/XV/1.ª, com 8.857 assinaturas, sobre bancários excluídos. Aponta perda permanente de rendimento para quem ficou excluído.",
+ "analysis": "Aponta uma desigualdade real entre pensionistas e o efeito cumulativo de atualizações inferiores à fórmula legal. Fragilidades: não quantifica o custo do pagamento retroativo nem do regresso à fórmula de 2023 e 2024, com impacto a longo prazo na sustentabilidade da Segurança Social, tema contestado. Os pensionistas de fundos privados são pagos por entidades privadas, e o texto não esclarece a responsabilidade do Estado. A afirmação sobre aumentos de 10% em 2024 vem de notícias referidas, não de cálculos apresentados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento do complemento a mais pensionistas e a atualização pela fórmula legal em 2023 e 2024 aumentam a despesa com pensões. O texto não apresenta montantes."
+ },
+ "affected": [
+  "Pensionistas excluídos do complemento de outubro de 2022",
+  "Pensionistas em geral",
+  "Bancários reformados",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "pensões",
+  "atualização de pensões",
+  "complemento excecional",
+  "segurança social",
+  "lei 53-b/2006"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

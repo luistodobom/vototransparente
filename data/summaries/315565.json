@@ -1,0 +1,41 @@
+{
+ "short_title": "Mecanismo de reparação a vítimas de violência doméstica",
+ "summary": "Projeto de Lei do LIVRE que cria o Mecanismo Especial de Reparação a Vítimas de Violência Doméstica, um programa temporário, por 10 anos renovável, a funcionar junto da Comissão para a Cidadania e Igualdade de Género, com autonomia administrativa, financeira e patrimonial. Reconhece o direito das vítimas à reparação, que inclui compensação pecuniária, medidas de reabilitação (saúde, apoio jurídico e social), medidas simbólicas e garantias de não repetição. O mecanismo aprecia queixas individuais, reconhece situações de violência e define as formas de reparação, sem prejuízo da via judicial. Tem composição multidisciplinar, incluindo o Provedor de Justiça, e secretariado próprio. O Governo regulamenta por portaria em 180 dias.",
+ "key_points": [
+  "Cria um programa temporário de reparação, por 10 anos renovável, junto da Comissão para a Cidadania e Igualdade de Género.",
+  "Reconhece o direito à reparação, com compensação pecuniária, reabilitação, medidas simbólicas e garantias de não repetição.",
+  "Recebe queixas individuais, reconhece situações de violência doméstica e define formas de reparação, de forma complementar aos tribunais.",
+  "Composição com presidente eleito pela Assembleia da República, peritos, representantes da sociedade civil, Provedor de Justiça e presidente da CIG.",
+  "Relatório anual apresentado à Assembleia da República; regulamentação por portaria em 180 dias."
+ ],
+ "plain_language": "O LIVRE quer criar um organismo para reparar o dano sofrido pelas vítimas de violência doméstica, reconhecendo que o Estado falhou na prevenção. As vítimas poderiam apresentar queixa e receber uma compensação em dinheiro, apoio de saúde e jurídico e outras medidas, sem perder o direito de recorrer aos tribunais.",
+ "context": "O proponente considera a violência doméstica um problema sistémico e uma violação dos direitos humanos, com falhas institucionais na prevenção e proteção. Defende que o Estado deve assumir um papel de reparação, através de mecanismos especiais que complementem as vias judiciais.",
+ "analysis": "A iniciativa introduz uma lógica de responsabilidade do Estado e de reparação integral, para além da punição do agressor, com salvaguarda do acesso aos tribunais. Fragilidades: não define critérios nem montantes das compensações, que ficam para regulamentação; a coexistência com o regime de indemnizações às vítimas e a avaliação do reconhecimento da ocorrência por um órgão administrativo podem levantar questões jurídicas; e o custo, a dimensão do secretariado e a capacidade de resposta a um grande número de queixas não são estimados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do mecanismo, do secretariado e das compensações pecuniárias implica despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "Comissão para a Cidadania e Igualdade de Género",
+  "organizações da sociedade civil"
+ ],
+ "categories": [
+  "direitos",
+  "justica",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "reparação",
+  "compensação",
+  "direitos humanos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Torna permanente o apoio aos docentes deslocados",
+ "summary": "Projeto de Lei do BE que altera o Decreto-Lei n.º 57-A/2024 para tornar permanente o regime de compensação aos docentes deslocados. Retira o prazo de 31 de julho de 2027 e o caráter extraordinário do apoio à deslocação, que passa a ser atribuído aos educadores de infância e professores dos ensinos básico e secundário cujo domicílio fiscal esteja a 70 km ou mais do estabelecimento onde exercem funções e que não sejam proprietários de habitação no concelho. Mantém a majoração para agrupamentos em zonas consideradas carenciadas, revoga o n.º 2 do artigo 18.º e altera a sistemática do diploma. Entra em vigor com o Orçamento do Estado seguinte. Os montantes podem continuar a ser revistos por negociação sindical.",
+ "key_points": [
+  "Retirar o prazo (31 de julho de 2027) e o caráter extraordinário do apoio à deslocação de docentes.",
+  "Atribuir o apoio a docentes com domicílio fiscal a 70 km ou mais da escola e sem habitação própria no concelho.",
+  "Manter a majoração do apoio para agrupamentos em zonas pedagógicas carenciadas.",
+  "Revogar o n.º 2 do artigo 18.º do Decreto-Lei n.º 57-A/2024.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Os professores colocados longe de casa recebem um apoio para deslocações, mas essa ajuda termina em 2027. O Bloco de Esquerda propõe torná-la permanente, para que os professores deslocados não percam o apoio e as escolas continuem a atrair docentes. Os valores podem continuar a ser negociados com os sindicatos.",
+ "context": "O proponente indica que milhares de professores ficam colocados longe da residência por regras de colocação, e que a Lei n.º 38/2025, de iniciativa do BE, alargou o apoio a todos. Considera que o prazo de 2027 é desfasado da atual falta de professores e que o apoio não deve ser extraordinário, face ao aumento dos custos de habitação e combustíveis.",
+ "analysis": "A medida dá previsibilidade a professores e responde à falta de docentes, deixando em aberto a revisão de montantes. Fragilidades: torna permanente um custo sem estimar o seu valor nem a fonte de financiamento; o critério de 70 km e de não ter habitação própria pode excluir casos limite e gerar iniquidade; e o texto não avalia se o apoio atinge o objetivo de fixar professores em zonas carenciadas, nem alternativas como a colocação de professores mais perto de casa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A permanência do apoio para além de julho de 2027 implica despesa pública continuada com compensações a docentes, que o texto não quantifica."
+ },
+ "affected": [
+  "professores e educadores de infância deslocados",
+  "escolas e agrupamentos em zonas carenciadas",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "docentes deslocados",
+  "apoio à deslocação",
+  "professores",
+  "carência de professores",
+  "Decreto-Lei 57-A/2024"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Produção pelo Laboratório Nacional do Medicamento contra ruturas",
+ "summary": "O Bloco de Esquerda propõe autorizar o Laboratório Nacional do Medicamento a produzir e comercializar medicamentos em situação de falta reiterada ou de rutura, de modo a garantir o acesso em todo o território. Altera os artigos 55.º, 73.º, 75.º, 77.º e 101.º-B do Regime Jurídico dos Medicamentos de Uso Humano (Decreto-Lei n.º 176/2006): a produção deve respeitar as boas práticas de fabrico; os medicamentos produzidos podem ser vendidos a farmácias ou em pontos de dispensa do próprio laboratório; a exportação de medicamentos fica sujeita a autorização prévia do INFARMED e é proibida quando esteja em risco o abastecimento nacional; e a intermediação de medicamentos não pode incidir sobre os que estejam em risco de falta ou tenham tido falta nos 12 meses anteriores.",
+ "key_points": [
+  "Autoriza o Laboratório Nacional do Medicamento a produzir medicamentos em falta reiterada ou rutura, respeitando as boas práticas de fabrico.",
+  "Permite a comercialização através de venda a farmácias ou de pontos de dispensa do laboratório.",
+  "Exportação de medicamentos sujeita a autorização prévia do INFARMED, proibida se o abastecimento nacional estiver em risco.",
+  "Proíbe a intermediação de medicamentos em risco de falta ou com falta nos 12 meses anteriores."
+ ],
+ "plain_language": "A proposta permite que o laboratório público fabrique e venda os medicamentos que faltam no país. Também endurece as regras para que medicamentos em falta não sejam exportados nem revendidos por intermediários. O objetivo é que as farmácias e os doentes tenham acesso a estes medicamentos em todo o país.",
+ "context": "O proponente refere que em outubro as notificações de falta abrangiam 858 apresentações e que, segundo o Infarmed, em 2021 houve 1.785 ruturas de apresentações, 13% com impacto médio e 3% com impacto elevado. Aponta ainda alterações de preço e de comparticipação em casos com alternativas, e defende a produção pública.",
+ "analysis": "A proposta atua em dois lados: a oferta (produção pública) e o comércio (exportação e intermediação). Fragilidades: o texto não prevê financiamento nem capacidade industrial do laboratório; a venda direta a farmácias e a dispensa própria podem criar concorrência com privados e levantar questões regulatórias; limitar a exportação paralela pode ter implicações no direito europeu, que o texto não analisa; e a rutura tem causas globais que a produção nacional não elimina.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A produção e comercialização pelo laboratório público exigiria investimento e despesa, com alguma receita de venda; o texto não quantifica."
+ },
+ "affected": [
+  "doentes",
+  "Laboratório Nacional do Medicamento",
+  "farmácias",
+  "distribuidores e intermediários de medicamentos",
+  "INFARMED"
+ ],
+ "categories": [
+  "saude",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "rutura de medicamentos",
+  "Laboratório Nacional do Medicamento",
+  "exportação de medicamentos",
+  "intermediação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Alteração da lei da IVG e da objeção de consciência",
+ "summary": "Projeto de Lei do PS que procede à terceira alteração da Lei n.º 16/2007 e altera o artigo 142.º do Código Penal sobre a interrupção voluntária da gravidez (IVG). O prazo da IVG por opção da mulher passa de 10 para 12 semanas, e o prazo da IVG para evitar perigo grave para a saúde da mulher passa para 14 semanas. O atestado médico passa a certificar apenas que a gravidez não excede 12 semanas, e o número 3 do artigo 142.º (que trata da certificação) é revogado. Na Lei n.º 16/2007, o acompanhamento psicológico e social passa a ser disponibilizado, e a objeção de consciência é definida como individual e nunca institucional, não podendo afetar o acesso à IVG; os serviços públicos devem ter profissionais suficientes e, se impossível, recorrer a prestador externo. Entra em vigor no primeiro dia do mês seguinte à publicação.",
+ "key_points": [
+  "Alarga de 10 para 12 semanas o prazo da IVG por opção da mulher.",
+  "Alarga para 14 semanas o prazo da IVG indicada para evitar perigo grave para a saúde da mulher.",
+  "Simplifica a certificação: o atestado apenas comprova que a gravidez não excede 12 semanas.",
+  "Define a objeção de consciência como decisão individual, sem efeitos sobre o acesso à IVG, e exige que os serviços tenham profissionais suficientes.",
+  "Garante disponibilidade de apoio psicológico e de serviço social."
+ ],
+ "plain_language": "O PS propõe alargar o prazo em que a mulher pode fazer uma IVG por sua opção, de 10 para 12 semanas, simplificar o processo e reforçar que a objeção de consciência é um direito de cada profissional e não pode impedir o acesso das mulheres. Os serviços públicos teriam de ter profissionais suficientes para garantir a IVG.",
+ "context": "O PS refere auditorias da IGS e da ERS que concluem que os prazos de acesso à IVG são desrespeitados em pelo menos 20% dos pedidos, a existência de muitos médicos objetores e de hospitais que não realizam IVG, e critica o prazo de 10 semanas, que considera o mais restritivo da Europa. Defende ainda que a objeção seja exercida de forma individual, não institucional.",
+ "analysis": "A proposta ataca problemas documentados, atrasos e falta de profissionais, e alinha com algumas práticas europeias. Há, porém, pontos controversos: o alargamento de prazos e a eliminação do período de reflexão envolvem escolhas éticas e políticas sobre as quais há divisão. A exposição de motivos critica o consentimento aos 16 anos, mas o articulado mantém no n.º 5 a referência aos 16 anos, o que revela uma incoerência. A obrigação de garantir profissionais suficientes e o recurso a prestadores externos tem custos e depende da capacidade do SNS.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Garantir profissionais suficientes, apoio psicológico e social e, se necessário, prestadores externos pode aumentar a despesa do SNS. O texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "médicos e profissionais de saúde",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "objeção de consciência",
+  "Código Penal",
+  "Lei 16/2007"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

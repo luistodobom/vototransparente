@@ -1,0 +1,43 @@
+{
+ "short_title": "Revogação do congelamento de rendas antigas",
+ "summary": "Projeto de Lei da Iniciativa Liberal que revoga os mecanismos de congelamento e condicionamento administrativo de rendas, nomeadamente dos contratos anteriores a 1990. Revoga artigos do NRAU (Lei n.º 6/2006), da Lei n.º 56/2023 e o Decreto-Lei n.º 132/2023. Cria um regime transitório de 3 anos, em que os contratos se mantêm, com atualização anual adicional de 50 pontos base face ao coeficiente legal, até ao valor médio de arrendamento da zona e tipologia. Institui um apoio à renda para arrendatários que cumpram pelo menos dois de três critérios (rendimento, idade ou deficiência, taxa de esforço superior a 35%), a regulamentar por portaria em 60 dias.",
+ "key_points": [
+  "Revogação de normas do NRAU, da Lei n.º 56/2023 e do Decreto-Lei n.º 132/2023 que condicionam as rendas.",
+  "Regime transitório de 3 anos com atualização adicional de 50 pontos base até ao valor médio de mercado.",
+  "Apoio à renda para arrendatários com rendimento baixo, idosos ou com deficiência, ou com taxa de esforço superior a 35%.",
+  "Apoio limitado à diferença entre a renda anterior e a atualizada.",
+  "Exclusão do apoio a quem tenha habitação alternativa no distrito.",
+  "Regulamentação por portaria no prazo de 60 dias; entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A Iniciativa Liberal quer acabar com as rendas congeladas dos contratos antigos, anteriores a 1990, para que os senhorios possam atualizá-las. Haveria três anos de transição com aumentos limitados e um apoio do Estado para inquilinos idosos, com deficiência ou de baixos rendimentos, para que não fiquem sem casa.",
+ "context": "O proponente defende que o congelamento cria um mercado de arrendamento dual, desrespeita a propriedade e leva à degradação do edificado. Refere cerca de 150 mil arrendamentos (cerca de 15% do mercado) e cita um estudo do IHRU, com uma estimativa de 138 milhões de euros por ano de despesa para apoiar os arrendatários abrangidos.",
+ "analysis": "A proposta combina liberalização com um apoio dirigido, o que atenua o risco de despejo de inquilinos vulneráveis e responsabiliza o Estado pela proteção social. Fragilidades: o período de 3 anos e o limite de atualização podem ser insuficientes para inquilinos de rendimentos médios mas com poucos recursos; o apoio depende de regulamentação posterior e de capacidade administrativa; e os dados do estudo do IHRU são interpretados de forma que o texto não esclarece totalmente. O risco de despejos e pressão em Lisboa e Porto não é analisado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio à renda cria despesa pública; o texto cita, a partir de um estudo do IHRU, uma estimativa de cerca de 138 milhões de euros por ano para um universo de cerca de 21 mil arrendatários."
+ },
+ "affected": [
+  "inquilinos com contratos anteriores a 1990",
+  "senhorios",
+  "idosos e pessoas com deficiência",
+  "Estado"
+ ],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [
+  "rendas antigas",
+  "congelamento de rendas",
+  "NRAU",
+  "apoio à renda",
+  "arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

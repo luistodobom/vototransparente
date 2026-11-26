@@ -1,0 +1,40 @@
+{
+ "short_title": "Pensão de velhice antecipada para incapacidade igual ou superior a 60%",
+ "summary": "O Bloco de Esquerda propõe um regime específico de acesso à pensão de velhice para trabalhadores com incapacidade igual ou superior a 60%. A idade pessoal de acesso é obtida reduzindo a idade normal de acesso em um ano por cada dois anos de trabalho efetivo com 60% a 79% de incapacidade, um ano por cada ano com 80% a 89%, e um ano por cada seis meses com 90% ou mais, com limite dos 55 anos. O montante da pensão segue o regime geral, com acréscimo de 1% à taxa global de formação por cada ano de trabalho com incapacidade igual ou superior a 60%, sem fator de redução nem fator de sustentabilidade. A prova faz-se por atestado médico de incapacidade multiusos. Regulamentação em 90 dias; aplica-se o regime mais favorável a quem já tenha requerido.",
+ "key_points": [
+  "Reduz a idade de acesso à pensão conforme o grau de incapacidade e os anos de trabalho efetivo, com limite dos 55 anos.",
+  "Acréscimo de 1% à taxa global de formação da pensão por cada ano de trabalho com incapacidade igual ou superior a 60%.",
+  "Sem fator de redução nem fator de sustentabilidade no cálculo.",
+  "Prova por atestado médico de incapacidade multiusos, ou relatório médico do diagnóstico se for anterior.",
+  "Aplica-se o regime mais favorável a quem já tenha requerido a pensão."
+ ],
+ "plain_language": "Pessoas com deficiência grave que trabalharam poderiam reformar-se mais cedo: quanto maior a incapacidade, mais rápido reduzem a idade da reforma, até aos 55 anos. A pensão não seria cortada por reforma antecipada e teria um pequeno acréscimo por cada ano trabalhado. É preciso apresentar o atestado médico de incapacidade.",
+ "context": "O BE invoca a Convenção da ONU sobre os Direitos das Pessoas com Deficiência, ratificada por Portugal em 2009, que reconhece o acesso igual a benefícios de aposentação, e o princípio constitucional da igualdade. Defende uma redução da idade de reforma tendo em conta a penosidade do trabalho em situação de incapacidade.",
+ "analysis": "A proposta é concreta e de fácil leitura (regras por grau de incapacidade), e reconhece a maior penosidade do trabalho com incapacidade elevada. Fragilidades: o impacto na sustentabilidade da Segurança Social não é estimado; o regime afasta os fatores de redução e de sustentabilidade, com efeito sobre os custos; a progressividade pode criar efeitos de patamar, e o texto não aborda a articulação com outros regimes existentes de reforma antecipada para pessoas com deficiência.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A antecipação da reforma e o acréscimo de 1% ao valor da pensão aumentariam a despesa da Segurança Social, sem estimativa no texto."
+ },
+ "affected": [
+  "trabalhadores com incapacidade igual ou superior a 60%",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "pensão de velhice",
+  "incapacidade",
+  "reforma antecipada",
+  "pessoas com deficiência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

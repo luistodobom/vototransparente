@@ -1,0 +1,42 @@
+{
+ "short_title": "Juntas médicas de incapacidade: menos reavaliações",
+ "summary": "O projeto de lei do Chega altera os artigos 2.º e 4.º do Decreto-Lei n.º 202/96, que regula a avaliação de incapacidade de pessoas com deficiência. Determina que só se marca nova avaliação quando a variação futura do grau de incapacidade possa determinar a concessão de um novo benefício ou medida, ou alterar o grau dos já concedidos, cabendo à junta médica indicar a data da reavaliação. Altera ainda o n.º 12 do artigo 2.º, para que o regime excecional de contratação de médicos em prestação de serviços vigore até o prazo médio nacional de realização das juntas atingir o valor previsto no n.º 5 do artigo 3.º, e não até uma data. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Só há nova avaliação quando a variação previsível possa mudar um benefício ou medida.",
+  "A junta médica indica a data da reavaliação, com base na Tabela Nacional de Incapacidades ou na fundamentação clínica.",
+  "O regime excecional de contratação de médicos em prestação de serviços passa a depender de uma meta de prazo médio, e não de uma data.",
+  "Altera o Decreto-Lei n.º 202/96 (7.ª alteração).",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quem tem uma deficiência que pode mudar com o tempo é chamado várias vezes a juntas médicas, mesmo quando o resultado não vai mudar, e as listas de espera são longas. A proposta diz que só deve haver nova avaliação se a mudança esperada puder alterar um apoio, e mantém a contratação extra de médicos até os tempos de espera baixarem para um valor-alvo.",
+ "context": "O Chega refere listas de espera extensas para as juntas médicas, com dezenas de milhares de avaliações pendentes segundo as estimativas mais pessimistas, agravadas pela pandemia. Considera dispensáveis reavaliações de situações estáveis, como uma amputação, e defende que a contratação excecional de médicos deve depender de uma meta quantitativa e não de um prazo.",
+ "analysis": "A proposta pode reduzir deslocações e carga administrativa e libertar capacidade das juntas. Tem, porém, fragilidades: a decisão sobre o que é uma variação relevante fica a critério da junta e pode gerar disparidades. A ligação do regime excecional a uma meta, sem data-limite, pode prolongar a contratação em prestação de serviços sem limite temporal claro, e o texto não estima custos nem o efeito esperado nas listas de espera.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Menos reavaliações podem poupar custos administrativos, mas a manutenção do regime excecional de contratação sem data-limite pode aumentar despesa. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "pessoas com deficiência ou incapacidade",
+  "médicos das juntas médicas de avaliação",
+  "serviços de saúde e segurança social"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "administracao"
+ ],
+ "tags": [
+  "juntas médicas",
+  "incapacidade",
+  "amim",
+  "tabela nacional de incapacidades",
+  "listas de espera"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

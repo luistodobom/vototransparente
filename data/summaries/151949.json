@@ -1,0 +1,39 @@
+{
+ "short_title": "Plano extraordinário de apoio aos pequenos e médios produtores de vinho",
+ "summary": "O Chega apresenta um projeto de resolução que recomenda ao Governo três medidas para o setor do vinho: reunir com urgência com as entidades representativas do setor para conhecer as dificuldades e necessidades; agilizar a criação e aplicação de um plano de apoio extraordinário; e fomentar uma campanha nacional de promoção e apoio ao setor, para ajudar a sua viabilidade comercial. A justificação invoca o aumento dos custos de combustíveis e de materiais como caixas de cartão, garrafas, rótulos e cápsulas, no contexto da guerra na Europa, e cita a ANCEVE, segundo a qual os produtores só conseguiram ajustar os preços de venda em cerca de 10 por cento. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda reunir com urgência com as entidades representativas do setor vitivinícola.",
+  "Pede a agilização de um plano de apoio extraordinário aos pequenos e médios produtores.",
+  "Propõe uma campanha nacional de promoção e apoio ao setor.",
+  "Invoca o aumento dos custos de combustíveis e materiais de engarrafamento."
+ ],
+ "plain_language": "Os pequenos e médios produtores de vinho estão a pagar muito mais por combustíveis, garrafas, rótulos e caixas, mas só conseguiram aumentar os preços de venda em cerca de 10 por cento. O Chega pede ao Governo que fale com o setor, crie com rapidez um plano de apoio extraordinário e faça uma campanha de promoção. É uma recomendação, o Governo não é obrigado a segui-la.",
+ "context": "O Chega aponta a degradação económica agravada pela guerra na Europa e o aumento dos custos de transportes e de materiais. Cita alertas da ANCEVE sobre uma situação dramática no setor e a necessidade de um planeamento de apoio extraordinário, referindo que muitos produtores vendem diretamente a restaurantes e garrafeiras.",
+ "analysis": "A recomendação identifica um problema real de custos, apoiado em alertas de uma associação do setor. Contudo, é muito genérica: não define o tipo de apoio, o montante, os critérios de elegibilidade nem a fonte de financiamento, e as fontes citadas são notícias e uma associação de comerciantes e exportadores, sem dados oficiais. A campanha de promoção não é concretizada. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um plano de apoio extraordinário e uma campanha de promoção implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "pequenos e médios produtores de vinho",
+  "empresas vitivinícolas",
+  "comerciantes e exportadores de vinho"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "vinho",
+  "produtores",
+  "aumento de custos",
+  "apoio extraordinário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

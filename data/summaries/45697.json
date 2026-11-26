@@ -1,0 +1,41 @@
+{
+ "short_title": "Apreciação parlamentar: apoio de 100% às famílias com escolas fechadas",
+ "summary": "O Bloco de Esquerda requer a apreciação parlamentar do Decreto-Lei n.º 8-B/2021, de 22 de janeiro, que estabelece medidas de apoio à família durante a suspensão das atividades letivas e não letivas presenciais. O texto descreve o apoio excecional à família, que corresponde a 66% da remuneração de referência e não é acumulável com outros apoios, e propõe três objetivos: garantir apoio de 100% a quem fica em casa com dependentes; aumentar o período de referência no cálculo da prestação para trabalhadores do serviço doméstico e independentes, fixando a Retribuição Mensal Mínima Garantida como limite mínimo do apoio; e incluir os trabalhadores em teletrabalho com filhos até ao final do 1.º ciclo do ensino básico. O texto não contém articulado de alterações.",
+ "key_points": [
+  "Requer a apreciação parlamentar do Decreto-Lei n.º 8-B/2021, de 22 de janeiro.",
+  "Pretende um apoio de 100% a quem fica em casa com dependentes, em vez dos 66% atuais.",
+  "Pretende alargar o período de referência de cálculo para trabalhadores domésticos e independentes e fixar a RMMG como mínimo.",
+  "Pretende incluir os trabalhadores em teletrabalho com filhos até ao final do 1.º ciclo."
+ ],
+ "plain_language": "Quando as escolas fecham e um pai ou mãe fica em casa com os filhos, o apoio paga só 66% do salário. O Bloco quer que passe a pagar 100%, que os trabalhadores domésticos e independentes não saiam prejudicados no cálculo e que quem está em teletrabalho com filhos pequenos também tenha direito.",
+ "context": "O proponente afirma que o apoio de 66% implica um corte salarial inaceitável e que há famílias que abdicam de ficar em casa por não suportarem a perda de rendimentos, o que pode retirar eficácia à medida como incentivo ao confinamento. Aponta a imprevisibilidade da duração e do número das interrupções letivas.",
+ "analysis": "A proposta identifica um problema de eficácia: um apoio parcial pode levar à não adesão ao confinamento. Os três objetivos são claros, mas o texto não contém articulado de alteração, nem estima o custo de elevar o apoio para 100% e de incluir o teletrabalho. Não analisa a distinção entre teletrabalho (trabalho remunerado) e apoio à assistência, nem os riscos de abuso. O texto do decreto-lei não consta do documento, pelo que a descrição do regime não foi verificada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Elevar o apoio de 66% para 100% e abranger o teletrabalho aumentaria a despesa da Segurança Social, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "pais e mães trabalhadores",
+  "trabalhadores independentes",
+  "trabalhadores do serviço doméstico",
+  "trabalhadores em teletrabalho com filhos pequenos"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "apreciação parlamentar",
+  "apoio excecional à família",
+  "teletrabalho",
+  "escolas fechadas",
+  "COVID-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

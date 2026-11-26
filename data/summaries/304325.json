@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas para reduzir a sinistralidade de motociclistas e promover a segurança rodoviária",
+ "summary": "O PSD recomenda ao Governo um conjunto de medidas, sobretudo dirigidas à segurança dos motociclistas: eliminar materiais derrapantes nas juntas de dilatação e substituí-las gradualmente segundo um cronograma da Infraestruturas de Portugal; proibir lombas redutoras de velocidade em curvas e rever os critérios de colocação; sinalização vertical para motociclistas; criar e regulamentar zonas avançadas de espera junto a semáforos; aplicar a Lei n.º 33/2004 sobre proteções nas guardas de segurança, com levantamento dos pontos negros; limitar balizadores metálicos; reforçar a fiscalização das entidades responsáveis pelas estradas; e fazer campanhas de sensibilização, incluir o tema na formação escolar e reformular a formação de condutores de motociclos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Eliminar materiais derrapantes nas juntas de dilatação e substituí-las gradualmente.",
+  "Proibir lombas redutoras de velocidade em curvas e rever os critérios de colocação.",
+  "Sinalização vertical dirigida a motociclistas e zonas avançadas de espera em semáforos.",
+  "Aplicar a Lei n.º 33/2004 sobre proteções nas guardas de segurança, com levantamento de pontos negros.",
+  "Limitar a utilização de balizadores metálicos junto às vias.",
+  "Campanhas de sensibilização e reformulação da formação de condutores de motociclos."
+ ],
+ "plain_language": "O PSD pede ao Governo que torne as estradas mais seguras para quem anda de mota, corrigindo pavimentos, lombas, guardas de segurança e sinalização, e que reforce a formação e a sensibilização de condutores. É uma recomendação, não uma lei.",
+ "context": "O PSD refere que Portugal foi o segundo país da UE que mais reduziu as mortes na estrada entre 2010 e 2020 (47%) e que as mortes de motociclistas desceram mais de 80% entre 1995 e 2022, mas considera que muitos acidentes seriam evitáveis com medidas simples de infraestrutura, sinalização e formação.",
+ "analysis": "As medidas são concretas e atacam fatores de risco reconhecidos para motociclistas. Contudo, não têm prazos, custos nem hierarquização, exceto para as juntas de dilatação. A substituição de juntas e a colocação de proteções em guardas implicam investimento significativo. A iniciativa é uma recomendação, sem força vinculativa, e a campanha para promover o uso de motociclos pode ser debatida do ponto de vista de segurança e mobilidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As intervenções em infraestruturas, sinalização, fiscalização e campanhas implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "motociclistas",
+  "Infraestruturas de Portugal",
+  "autarquias",
+  "escolas de condução"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca"
+ ],
+ "tags": [
+  "sinistralidade rodoviária",
+  "motociclistas",
+  "segurança rodoviária",
+  "guardas de segurança"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

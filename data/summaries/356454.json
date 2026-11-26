@@ -1,0 +1,42 @@
+{
+ "short_title": "IVA a 0% temporário no cabaz alimentar",
+ "summary": "Projeto de Lei do CHEGA que aplica temporariamente a taxa de 0% de IVA, com direito à dedução, a um cabaz alimentar essencial. Inclui, entre outros, pão, batata, massas, arroz, legumes e hortícolas, fruta, leguminosas secas, leite, iogurtes e queijos, carnes de porco, frango, peru e vaca, peixe como bacalhau, sardinha e pescada, atum em conserva, ovos, azeite e outros óleos, manteiga, bebidas vegetais e produtos para doentes celíacos. O Governo teria de avaliar o impacto no prazo de 6 meses. O texto não fixa a duração do regime. Entra em vigor no primeiro dia do mês seguinte ao da publicação.",
+ "key_points": [
+  "Aplica a taxa de IVA de 0%, com direito à dedução, a um cabaz alimentar essencial.",
+  "Lista produtos como pão, legumes, fruta, leite, carne, peixe, ovos, azeite e bebidas vegetais.",
+  "Abrange também produtos dietéticos para nutrição entérica e produtos sem glúten para celíacos.",
+  "O Governo avalia o impacto da medida em 6 meses.",
+  "Entrada em vigor no primeiro dia do mês seguinte à publicação."
+ ],
+ "plain_language": "O CHEGA propõe que, durante um período temporário, os alimentos básicos como pão, leite, fruta, legumes, carne, peixe, ovos e azeite deixem de pagar IVA. Isso poderia baixar os preços nas lojas e ajudar as famílias com o aumento do custo de vida, mas reduziria a receita do Estado.",
+ "context": "O CHEGA enquadra a proposta na instabilidade geopolítica associada ao conflito com o Irão, com impacto nos mercados energéticos e nas cadeias de abastecimento. Recorda que o IVA zero a bens alimentares foi usado durante a pandemia, e que Espanha e Itália adotaram cortes temporários de impostos indiretos.",
+ "analysis": "A medida atua diretamente sobre o preço final e é simples de aplicar, mas não é focada nos agregados mais pobres, pois beneficia todos os consumidores. O texto fala de regime temporário mas não define a duração nem a data de fim. Anuncia mecanismos de monitorização da repercussão no consumidor, mas o articulado só prevê uma avaliação ao fim de seis meses, sem obrigação de verificar se o preço baixa. Não estima o custo orçamental. A compatibilidade com as regras europeias do IVA, que limitam taxas zero, não é abordada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação de IVA a 0% sobre o cabaz reduz a receita fiscal do Estado; o texto não apresenta estimativa do custo."
+ },
+ "affected": [
+  "Consumidores",
+  "Comércio alimentar e retalho",
+  "Produtores e distribuidores",
+  "Estado (receita de IVA)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "IVA zero",
+  "cabaz alimentar",
+  "custo de vida",
+  "inflação alimentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

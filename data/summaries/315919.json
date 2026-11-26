@@ -1,0 +1,38 @@
+{
+ "short_title": "Isenção de IMI para habitação própria até 350.000 euros",
+ "summary": "O projeto de lei do CHEGA altera o artigo 46.º do Estatuto dos Benefícios Fiscais, acrescentando um n.º 5 que fixa em seis anos o período de isenção de IMI para prédios urbanos destinados a habitação própria e permanente cujo valor patrimonial tributário não exceda 350.000 euros, prorrogável por mais dois anos mediante deliberação da assembleia municipal, comunicada à Autoridade Tributária até 31 de dezembro para vigorar no ano seguinte. A lei entra em vigor com o Orçamento do Estado subsequente à publicação. O texto não detalha as demais condições, remetendo para os restantes números do artigo, que não são reproduzidos.",
+ "key_points": [
+  "Isenção de IMI por seis anos para habitação própria e permanente até 350.000 euros de valor patrimonial tributário.",
+  "Prorrogação por mais dois anos por deliberação da assembleia municipal.",
+  "Deliberação comunicada à Autoridade Tributária até 31 de dezembro, para vigorar no ano seguinte.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O CHEGA propõe que quem tem casa própria e permanente de valor até 350.000 euros fique isento de IMI durante seis anos, com possibilidade de mais dois anos se o município decidir. Assim, as famílias pagariam menos imposto sobre a casa onde vivem.",
+ "context": "O proponente cita um estudo da Comissão Europeia que estima os preços em Portugal sobrevalorizados em cerca de 35%, a subida de 16,3% do índice de preços da habitação no 1.º trimestre de 2025 e avisos do Banco de Portugal. Defende que a isenção apoia a classe média e complementa a estratégia de oferta.",
+ "analysis": "A medida alivia diretamente a carga fiscal de muitos proprietários. Fragilidades: o IMI é receita municipal, pelo que a perda recai sobre as autarquias sem compensação prevista; o limite de 350.000 euros abrange a maioria das habitações próprias, beneficiando também famílias sem dificuldades; pode ter efeito pouco relevante no acesso à habitação, que o próprio texto reconhece não substituir o aumento da oferta. Não há estimativa de custo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de IMI reduz a receita fiscal, que é municipal. O texto não indica montantes nem compensação aos municípios."
+ },
+ "affected": [
+  "proprietários de habitação própria e permanente",
+  "municípios"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "IMI",
+  "isenção",
+  "habitação própria",
+  "Estatuto dos Benefícios Fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

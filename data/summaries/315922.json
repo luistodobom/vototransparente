@@ -1,0 +1,40 @@
+{
+ "short_title": "Limites máximos de renda em novos arrendamentos",
+ "summary": "O projeto de lei do LIVRE fixa limites ao preço da renda inicial dos novos contratos de arrendamento habitacional: o máximo é obtido majorando em 30% os limites gerais de renda por tipologia, escalão e localização da Portaria n.º 176/2019. A Autoridade Tributária deve identificar os contratos registados com rendas acima do limite e notificar os proprietários para ajustarem a renda no prazo de seis meses, dando conhecimento aos arrendatários. O mesmo procedimento aplica-se aos contratos já em vigor à data da lei. Entra em vigor no dia seguinte ao da publicação e deve ser revista no prazo máximo de cinco anos.",
+ "key_points": [
+  "Renda inicial máxima igual aos limites da Portaria n.º 176/2019 majorados em 30%.",
+  "Aplica-se aos novos contratos de arrendamento habitacional.",
+  "A Autoridade Tributária identifica contratos acima do limite e notifica os proprietários.",
+  "Prazo de seis meses para ajustar as rendas, incluindo nos contratos já em vigor.",
+  "Entra em vigor no dia seguinte à publicação e é revista em, no máximo, cinco anos."
+ ],
+ "plain_language": "O LIVRE propõe um teto para as rendas: nenhuma casa nova arrendada poderia custar mais de 30% acima dos valores de referência oficiais para aquela zona e tipo de casa. Quem já tem contratos acima desse valor teria de baixar a renda em seis meses depois de a Autoridade Tributária o avisar.",
+ "context": "O LIVRE refere a subida de 17,7% dos preços da habitação no 3.º trimestre de 2025, o aumento de 10% da renda mediana dos novos contratos e a atualização de rendas de 2,24% em 2026. Invoca o artigo 65.º da Constituição e uma recomendação do conselho consultivo da Comissão Europeia sobre limites a comportamentos especulativos.",
+ "analysis": "A medida visa travar rendas elevadas e dar previsibilidade aos arrendatários. Fragilidades: tetos de renda podem reduzir a oferta de arrendamento ou levar proprietários a retirar casas do mercado, risco que o texto não avalia; a aplicação retroativa aos contratos em vigor pode suscitar questões de confiança jurídica; e a fiscalização depende da Autoridade Tributária, sem reforço de meios previsto. A Portaria de 2019 usada como referência pode estar desatualizada face aos preços atuais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A lei não prevê despesa direta, mas rendas mais baixas podem alterar a receita de IRS sobre rendimentos prediais; a Autoridade Tributária teria custos de fiscalização. O texto não indica montantes."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores"
+ ],
+ "tags": [
+  "arrendamento",
+  "limite de rendas",
+  "Autoridade Tributária",
+  "Portaria 176/2019"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

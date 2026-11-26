@@ -1,0 +1,40 @@
+{
+ "short_title": "Programa de ação para a digitalização do ciclo da água",
+ "summary": "O PSD recomenda ao Governo que prepare um Programa de ação para a digitalização integral do ciclo da água, prevendo medidas, instrumentos e investimentos que permitam modernizar a gestão dos recursos hídricos numa lógica de transformação tecnológica. O texto propõe seguir a abordagem de Espanha, com um programa financiado por avisos dirigidos a entidades públicas e privadas, e mobilizar fundos comunitários (PRR, Portugal 2030), financiamento nacional (Fundo Ambiental, Orçamento do Estado) e capitais privados, incluindo do setor das tecnologias de informação e comunicação. Aponta problemas como perdas nas redes, captações e consumos não medidos e monitorização insuficiente dos aquíferos. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Recomenda preparar um Programa de ação para a digitalização integral do ciclo da água.",
+  "Propõe financiamento misto: PRR, Portugal 2030, Fundo Ambiental, Orçamento do Estado e capitais privados.",
+  "Inspira-se no programa espanhol, com financiamento através de avisos a entidades públicas e privadas.",
+  "Visa responder a perdas de água, consumos não medidos e monitorização insuficiente de aquíferos."
+ ],
+ "plain_language": "O PSD pede ao Governo que crie um plano para usar tecnologia na gestão da água, do rio ou do furo até à torneira, medindo melhor onde se perde ou gasta água. O dinheiro viria de fundos europeus, do Estado e de investidores privados. É um pedido ao Governo, que decide se o segue.",
+ "context": "O proponente aponta ineficiências na gestão da água, redução da disponibilidade hídrica devido a alterações climáticas e problemas como perdas nas redes de abastecimento, consumos não medidos, pouca monitorização dos aquíferos e tarifários que não cobrem custos. Considera que o financiamento atual do Portugal 2030 é insuficiente e disperso.",
+ "analysis": "A proposta identifica problemas reais e uma fonte de financiamento concreta, com um exemplo de outro país. Fragilidades: é genérica, sem montantes, prazos ou metas; remete tudo para um programa a preparar; e a capacidade das entidades gestoras de absorver os investimentos e o equilíbrio entre financiamento público e privado não são abordados. Sendo uma recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O programa envolveria investimento público (fundos comunitários e nacionais) e privado, sem montantes indicados no texto."
+ },
+ "affected": [
+  "entidades gestoras de água",
+  "utilizadores de água",
+  "setor das tecnologias"
+ ],
+ "categories": [
+  "ambiente",
+  "ciencia",
+  "administracao"
+ ],
+ "tags": [
+  "ciclo da água",
+  "digitalização",
+  "seca",
+  "fundos europeus"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

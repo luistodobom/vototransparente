@@ -1,0 +1,39 @@
+{
+ "short_title": "Atribuição automática do Subsídio Social de Mobilidade",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que, em conjunto com as Assembleias Legislativas e os Governos Regionais da Madeira e dos Açores, garanta a atribuição automática do Subsídio Social de Mobilidade. O objetivo é que os residentes nas regiões autónomas deixem de ter de adiantar o valor total das passagens aéreas entre as regiões e o continente, desenvolvendo um mecanismo enquadrado no regime do subsídio. Como projeto de resolução, é apenas uma recomendação ao Governo e não é vinculativo. O texto refere o regime criado em 2015, as alterações da Lei n.º 105/2019 e o Decreto-Lei n.º 37-A/2025, que criou uma plataforma eletrónica de reembolso.",
+ "key_points": [
+  "Recomenda a atribuição automática do Subsídio Social de Mobilidade.",
+  "Residentes da Madeira e dos Açores não deveriam adiantar o valor das passagens aéreas.",
+  "O mecanismo seria desenvolvido em conjunto com as assembleias legislativas e os governos regionais.",
+  "O mecanismo ficaria enquadrado no regime do Subsídio Social de Mobilidade."
+ ],
+ "plain_language": "Hoje, quem vive nos Açores ou na Madeira paga a viagem de avião ao continente por inteiro e só depois recebe parte do dinheiro de volta. O PAN pede ao Governo que crie um sistema em que o apoio seja aplicado logo na compra, para que as pessoas não precisem de adiantar o valor. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente considera que, apesar das alterações ao regime, o subsídio não responde às necessidades das populações insulares, que suportam custos elevados e dependem da rapidez do reembolso. Invoca ainda o artigo 81.º, alínea e), da Constituição, sobre o combate às desigualdades da insularidade.",
+ "analysis": "A proposta aborda um problema real de liquidez para famílias e estudantes e baseia-se num princípio constitucional. A sua fragilidade é a falta de pormenor: não define como seria operacionalizada a atribuição automática, quem a financiaria nem como se articulariam as companhias aéreas e o Estado. Sendo uma recomendação, o efeito depende da vontade do Governo e não há estimativa de custo. Fica também sem resposta o risco de fraude ou abuso num sistema sem reembolso posterior.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. O Estado teria de assegurar o pagamento do subsídio no momento da compra, o que poderá afetar o momento e o volume da despesa, sem dados no texto."
+ },
+ "affected": [
+  "residentes da Madeira",
+  "residentes dos Açores",
+  "estudantes deslocados"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "insularidade",
+  "açores",
+  "madeira"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

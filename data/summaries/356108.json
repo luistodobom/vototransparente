@@ -1,0 +1,38 @@
+{
+ "short_title": "Reforçar a rede de cuidados paliativos pediátricos",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo o reforço e alargamento da Rede de Cuidados Paliativos Pediátricos. Concretamente, pede o aumento do número de camas disponíveis, o reforço das equipas especializadas, nomeadamente em contexto domiciliário e comunitário, e a garantia de uma cobertura adequada e equitativa em todo o território nacional. Na exposição de motivos defende uma estratégia integrada com distribuição equilibrada das equipas, formação diferenciada dos profissionais e articulação entre níveis de cuidados. A iniciativa é uma recomendação ao Governo, sem calendário nem metas quantificadas.",
+ "key_points": [
+  "Aumentar o número de camas de cuidados paliativos pediátricos.",
+  "Reforçar as equipas especializadas, incluindo em contexto domiciliário e comunitário.",
+  "Garantir cobertura adequada e equitativa em todo o território nacional."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que haja mais camas e mais equipas para cuidar de crianças com doenças graves e incuráveis, incluindo em casa, e que esse apoio chegue a todo o país. É uma recomendação sem força de lei.",
+ "context": "O CHEGA cita dados da Entidade Reguladora da Saúde (48% dos doentes referenciados em 2023 morreram antes de obter vaga em unidades de paliativos) e da Associação Portuguesa de Cuidados Paliativos (mais de 70% dos doentes sem acesso em tempo útil, 90% no caso das crianças).",
+ "analysis": "A proposta é curta e identifica corretamente a carência com dados de entidades reconhecidas. É, porém, genérica: não fixa metas, número de camas ou equipas, prazos nem fontes de financiamento, e não distingue o que já existe ou foi recomendado anteriormente. Os dados citados sobre acesso em tempo útil não se referem especificamente à pediatria, exceto o valor de 90%. Sendo recomendação, não obriga o Governo a agir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais camas e equipas especializadas implicam despesa adicional no SNS, que o texto não quantifica."
+ },
+ "affected": [
+  "crianças com doença grave ou incurável",
+  "famílias e cuidadores",
+  "profissionais de saúde",
+  "utentes do SNS"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "pediatria",
+  "SNS",
+  "equipas domiciliárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

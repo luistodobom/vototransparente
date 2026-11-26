@@ -1,0 +1,39 @@
+{
+ "short_title": "Relatório sobre subsídio de doença a 100% em casos graves",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que, até ao final do 1.º semestre de 2020, elabore e apresente à Assembleia da República um relatório técnico que estude todos os impactos, em especial o económico-financeiro e o impacto na sustentabilidade da segurança social, de uma alteração do quadro legal do subsídio de doença que assegure o pagamento a 100% da remuneração de referência aos trabalhadores cuja doença acarrete circunstâncias económicas particularmente gravosas, designadamente por elevados custos com tratamentos e medicação. O texto nota que hoje o subsídio é de 100% apenas em casos como a tuberculose com mais de dois familiares a cargo. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Relatório técnico a apresentar à Assembleia da República até ao final do 1.º semestre de 2020.",
+  "Estudo do impacto económico-financeiro e na sustentabilidade da segurança social.",
+  "Avaliação de um subsídio de doença a 100% para trabalhadores com doenças de custos económicos particularmente gravosos."
+ ],
+ "plain_language": "O PAN não pede já a subida do subsídio de doença, mas sim que o Governo estude e apresente ao Parlamento, até meados de 2020, quanto custaria pagar 100% do salário de referência a quem está doente e tem despesas muito elevadas com tratamentos e medicamentos. Hoje essa percentagem só se aplica a casos muito limitados. É uma recomendação.",
+ "context": "O PAN explica que o subsídio de doença só é atribuído a 100% no caso de tuberculose com mais de dois familiares a cargo, ao passo que o subsídio por risco clínico na gravidez é de 100%. Refere o aumento do número de beneficiários entre 2014 e 2016 (média anual de 6,8%) e a necessidade de acautelar a sustentabilidade da segurança social.",
+ "analysis": "A abordagem é prudente: pede um estudo de impacto antes de legislar, equilibrando proteção social e sustentabilidade, com referência a dados oficiais. Em contrapartida, o conceito de circunstâncias económicas particularmente gravosas não está definido, a recomendação não garante uma alteração legislativa e adia a decisão. Não é apresentada uma estimativa preliminar de custo. Sendo resolução, não vincula o Governo e a fixação do prazo de 2020 depende da vontade do executivo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A resolução pede apenas um relatório sobre o impacto; uma eventual subida do subsídio a 100% aumentaria a despesa da segurança social, mas o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores doentes com despesas elevadas",
+  "beneficiários do subsídio de doença",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "segurança social",
+  "sustentabilidade",
+  "proteção social",
+  "relatório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Autonomizar a carreira especial dos inspetores da educação",
+ "summary": "Projeto de Lei do LIVRE que cria uma carreira especial própria para os inspetores da Inspeção-Geral da Educação e Ciência (IGEC), autonomizando-a do regime comum das inspeções. Define requisitos de ingresso (licenciatura, pelo menos cinco anos letivos de serviço letivo qualificado e experiência em cargos de coordenação), recrutamento por procedimento concursal especial regulado por portaria, curso de formação específica com duração mínima de seis meses ministrado por instituições de ensino superior, conteúdo funcional, dever de sigilo, proteção jurídica e incompatibilidades. A tabela remuneratória e a avaliação seriam regulamentadas em 120 dias. A lei entraria em vigor no ano seguinte à aprovação do Orçamento do Estado.",
+ "key_points": [
+  "Cria a carreira especial de inspeção da educação na IGEC, dependente do membro do Governo da educação e ensino superior.",
+  "Exige licenciatura, pelo menos cinco anos letivos de serviço e experiência em estruturas de coordenação educativa.",
+  "Curso de formação específica de pelo menos seis meses, ministrado por instituições de ensino superior.",
+  "Estabelece sigilo profissional, proteção jurídica e regras de incompatibilidades e impedimentos.",
+  "Categorias, avaliação e tabela remuneratória regulamentadas em 120 dias; entrada em vigor no ano subsequente ao Orçamento do Estado."
+ ],
+ "plain_language": "Os inspetores que fiscalizam as escolas passariam a ter uma carreira própria, com regras específicas de entrada, formação e progressão, em vez de estarem equiparados a outras inspeções. O objetivo é tornar a função mais atrativa para professores experientes.",
+ "context": "O LIVRE refere que a inspeção da educação é uma segunda carreira, para quem já foi docente, e que desde 2009 ficou equiparada às restantes inspeções-gerais. Diz que a progressão e a remuneração são desvantajosas face à carreira docente, o que prejudica a atração de novos profissionais.",
+ "analysis": "A proposta dá estatuto próprio a uma função específica e fixa exigências de experiência e formação, o que pode reforçar a competência e independência da inspeção. Fragilidades: remete a tabela remuneratória, as categorias e a avaliação para regulamentação posterior, pelo que o impacto real fica indefinido; os requisitos de acesso podem limitar o universo de candidatos; e o texto não quantifica custos nem justifica a comparação com outras inspeções.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma carreira com remunerações e progressões próprias, mais atrativas, tenderia a aumentar a despesa com pessoal. O texto não apresenta montantes."
+ },
+ "affected": [
+  "inspetores da educação",
+  "Inspeção-Geral da Educação e Ciência",
+  "docentes candidatos à inspeção"
+ ],
+ "categories": [
+  "educacao",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "inspeção da educação",
+  "IGEC",
+  "carreira especial",
+  "função pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Reabilitação urgente da Igreja de Nossa Senhora das Mercês, Lisboa",
+ "summary": "O projeto de resolução do Chega recomenda ao Governo cinco medidas para a Igreja de Nossa Senhora das Mercês (ou de Jesus), em Lisboa, classificada como imóvel de interesse público desde 1944 e integrada num Conjunto de Interesse Público desde 2010. Propõe um levantamento técnico exaustivo e urgente do estado de conservação, um plano integrado de recuperação e reabilitação elaborado e implementado no prazo máximo de seis meses, financiamento específico para as obras, articulação entre o Ministério da Cultura, o Ministério das Finanças, a Paróquia e a Igreja Católica, e medidas imediatas de mitigação de riscos para a proteção de elementos artísticos e a segurança de fiéis, visitantes e trabalhadores. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento técnico exaustivo e atualizado do estado de conservação da igreja, com urgência.",
+  "Plano integrado de recuperação e reabilitação, elaborado e implementado no prazo máximo de seis meses.",
+  "Financiamento específico, adequado e suficiente para as obras.",
+  "Articulação entre os ministérios da Cultura e das Finanças, a Paróquia e a Igreja Católica.",
+  "Medidas preventivas imediatas de mitigação de riscos para a segurança e para os elementos artísticos."
+ ],
+ "plain_language": "O Chega pede ao Governo que repare com urgência uma igreja histórica de Lisboa que sofreu infiltrações e outros danos, agravados pelas tempestades do inverno de 2026. Pede um estudo do estado do edifício, um plano de obras em seis meses, verba própria e medidas de segurança imediatas. É uma recomendação, e o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente descreve a degradação estrutural da igreja, com entrada de água na cobertura, queda de estuque, inundação da cripta e danos em espaços anexos, agravados pelas tempestades de 2026, segundo um relatório da Paróquia. Defende que a classificação patrimonial e a Concordata obrigam o Estado, como proprietário, a assegurar a conservação do imóvel.",
+ "analysis": "A iniciativa chama a atenção para um bem patrimonial classificado e propõe um calendário e medidas de segurança imediatas, o que a torna concreta. Fragilidades: não estima o custo da intervenção nem identifica a fonte de financiamento; o prazo de seis meses para elaborar e implementar um plano é ambicioso; a propriedade do imóvel e a repartição de responsabilidades entre o Estado e a Igreja são afirmadas, mas não discutidas em detalhe no texto; sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recomendação implica despesa pública com o levantamento, as obras e as medidas de mitigação. O texto não apresenta montantes."
+ },
+ "affected": [
+  "Paróquia de Nossa Senhora das Mercês",
+  "fiéis e visitantes",
+  "património cultural de Lisboa",
+  "Ministério da Cultura"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "igreja das mercês",
+  "património",
+  "reabilitação",
+  "lisboa",
+  "tempestades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

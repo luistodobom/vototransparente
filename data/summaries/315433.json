@@ -1,0 +1,43 @@
+{
+ "short_title": "Eleição dos presidentes dos conselhos de administração das ULS",
+ "summary": "Projeto de Lei do LIVRE que altera o Estatuto do SNS (Decreto-Lei n.º 52/2022) para que os presidentes dos conselhos de administração das ULS sejam designados por eleição. O processo inclui concurso aberto pela Direção Executiva do SNS, seleção de três finalistas pela CReSAP, sufrágio direto em que votam os trabalhadores da ULS com contrato, independentemente do regime, e nomeação pelo membro do Governo da saúde do candidato mais votado. O presidente designa até dois diretores clínicos e um enfermeiro-diretor. A dissolução do conselho passa a ser precedida de parecer não vinculativo do conselho consultivo. O Governo regulamenta o processo eleitoral em 90 dias. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Concurso aberto pela Direção Executiva do SNS e seleção de três finalistas pela CReSAP.",
+  "Eleição direta pelos trabalhadores da ULS com contrato de trabalho.",
+  "Nomeação, pelo membro do Governo da saúde, do candidato mais votado.",
+  "O presidente designa até dois diretores clínicos e um enfermeiro-diretor.",
+  "Dissolução do conselho de administração precedida de parecer não vinculativo do conselho consultivo.",
+  "Regulamento eleitoral a aprovar pelo Governo em 90 dias."
+ ],
+ "plain_language": "O LIVRE propõe que o presidente de cada ULS seja escolhido por voto dos trabalhadores entre três finalistas selecionados por concurso, para dar mais estabilidade à gestão. Depois o Governo nomeia o mais votado.",
+ "context": "O proponente recorda que o anterior Governo substituiu 13 conselhos de administração de ULS em menos de um ano, cerca de um terço das 39 ULS, e que isso gerou instabilidade e contestação de profissionais e autarcas, citando o caso da ULS Almada-Seixal. Defende uma gestão mais estável e legitimada pelos profissionais.",
+ "analysis": "Ponto forte: junta o mérito do concurso com a legitimidade do voto dos trabalhadores e reduz a discricionariedade na escolha. Fragilidades: a eleição por trabalhadores pode favorecer lógicas corporativas ou de popularidade interna, risco apontado por outras forças; o Governo ainda nomeia e pode dissolver o conselho; o regulamento eleitoral fica por definir. O texto não analisa os custos de organizar eleições nas ULS.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera regras de designação sem previsão de despesa ou receita; o custo de organizar eleições não é indicado."
+ },
+ "affected": [
+  "administradores das ULS",
+  "trabalhadores das ULS",
+  "utentes do SNS",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "ULS",
+  "eleição",
+  "conselhos de administração",
+  "estatuto do SNS",
+  "CReSAP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Plano nacional de investimento nos terminais rodoviários",
+ "summary": "O PCP propõe que a Assembleia da República recomende ao Governo três medidas para os terminais de transportes rodoviários: um plano de desenvolvimento da mobilidade nacional que promova o serviço público e defenda as empresas nacionais face a multinacionais como a Flixbus; um levantamento exaustivo dos terminais existentes, com atenção à intermodalidade (nomeadamente com a ferrovia) e às condições para os passageiros; e, com base nesse levantamento, um Plano Nacional de Investimento nos terminais rodoviários, elaborado em conjunto com municípios, áreas metropolitanas e comunidades intermunicipais. Sendo um projeto de resolução, trata-se de uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Adoção de um plano de desenvolvimento da mobilidade nacional que reforce o serviço público em territórios de baixa densidade.",
+  "Levantamento exaustivo dos terminais rodoviários, incidindo na intermodalidade e nas condições de utilização pelos passageiros.",
+  "Elaboração de um Plano Nacional de Investimento nos terminais, articulado com municípios, áreas metropolitanas e comunidades intermunicipais."
+ ],
+ "plain_language": "O partido pede ao Governo que perceba em que estado estão as estações de autocarros do país e faça um plano de investimento para as melhorar, ligando-as melhor aos comboios e garantindo serviço também no interior. É apenas uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente alega uma operação de favorecimento da Flixbus no acesso a terminais como o de Sete Rios, em Lisboa, e que a liberalização do setor reduziu a oferta e aumentou a despesa pública. Defende investimento público nos terminais para melhorar o transporte público e a coesão territorial, e não apenas para rentabilizar operadores privados.",
+ "analysis": "Aponta uma necessidade real: a diversidade de terminais, em propriedade e estado de conservação, justifica um levantamento prévio, e a proposta é de baixo custo imediato. Fragilidades: a exposição de motivos assenta em juízos fortemente valorativos sobre a Flixbus e a liberalização sem apresentar dados, não quantifica o investimento, não define prazos nem fontes de financiamento e a recomendação não vincula o Governo. Também não esclarece como compatibilizar o plano com as regras europeias de acesso aos terminais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. O plano de investimento recomendado implicaria despesa pública futura, cujo montante depende do levantamento previsto."
+ },
+ "affected": [
+  "passageiros de autocarros interurbanos",
+  "municípios e comunidades intermunicipais",
+  "operadores rodoviários"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "mobilidade",
+  "flixbus",
+  "investimento público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

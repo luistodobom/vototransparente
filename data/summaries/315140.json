@@ -1,0 +1,40 @@
+{
+ "short_title": "Justiça e equidade na carreira docente",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo três medidas: rever com efeitos imediatos os critérios de reposicionamento na carreira docente, reconhecendo todo o tempo de serviço dos professores que já pertenciam aos quadros antes de 1 de janeiro de 2011, como se fez com os que entraram depois; implementar, desde o ano letivo de 2025/2026, políticas públicas que valorizem a carreira e incentivem a permanência e motivação dos professores; e promover diálogo justo e transparente com os representantes dos professores e os sindicatos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever com efeitos imediatos os critérios de reposicionamento na carreira docente.",
+  "Reconhecer todo o tempo de serviço dos professores dos quadros antes de 1 de janeiro de 2011.",
+  "Implementar políticas de valorização da carreira docente desde 2025/2026.",
+  "Promover diálogo com os representantes dos professores e os sindicatos."
+ ],
+ "plain_language": "O Chega pede ao Governo que corrija as situações em que professores mais antigos foram ultrapassados na carreira por colegas que entraram depois, que valorize a profissão e que negoceie com os sindicatos. O Governo não é obrigado a cumprir.",
+ "context": "O Chega refere cerca de 56 000 professores ultrapassados por colegas que ingressaram mais tarde, em consequência de reformas e reestruturações da carreira desde 2007 e da Portaria 119/2018. Recorda que a mesma iniciativa foi aprovada na generalidade na legislatura anterior e caducou com a queda do Governo.",
+ "analysis": "A proposta aponta uma desigualdade amplamente discutida, com cronologia legislativa detalhada. Contudo, o número de professores afetados e a perda de até cinco anos de serviço são apresentados sem fonte clara, e o texto não define como seria feito o reposicionamento, nem os custos. A exigência de efeitos imediatos pode colidir com o processo negocial em curso. Sendo uma recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reposicionamento de professores em escalões superiores implicaria despesa salarial adicional; o texto não apresenta valores."
+ },
+ "affected": [
+  "professores dos quadros anteriores a 2011",
+  "docentes em geral",
+  "Ministério da Educação",
+  "sindicatos de professores"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira docente",
+  "ultrapassagens",
+  "reposicionamento",
+  "professores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

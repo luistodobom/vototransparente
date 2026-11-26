@@ -1,0 +1,42 @@
+{
+ "short_title": "Teto de renda e fiscalização pela AT em novos contratos",
+ "summary": "Projeto de Lei do LIVRE que altera a Lei n.º 56/2023 (Mais Habitação) para restringir as rendas em novos arrendamentos habitacionais. Acrescenta ao artigo 34.º que a renda não pode ultrapassar em mais de 30% os limites gerais por tipologia das tabelas 1 e 2 do anexo I da Portaria n.º 176/2019, tanto para imóveis arrendados nos cinco anos anteriores como para os restantes. Adita o artigo 34.º-A: a Autoridade Tributária identifica os contratos que excedam os limites, notifica os proprietários para ajustarem a renda no prazo de dois meses, dando conhecimento aos arrendatários, e o incumprimento é contraordenação tributária grave. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Renda inicial limitada a 30% acima dos valores tabelados na Portaria n.º 176/2019 por tipologia.",
+  "Limite aplicável a imóveis com e sem contrato nos cinco anos anteriores.",
+  "Autoridade Tributária identifica os contratos que ultrapassem os limites.",
+  "Proprietários notificados a ajustar a renda em dois meses, com conhecimento ao arrendatário.",
+  "Incumprimento é contraordenação tributária grave."
+ ],
+ "plain_language": "O LIVRE propõe que a renda de um novo contrato não possa ser mais de 30% acima de uns valores máximos já tabelados por tipo de casa. A Autoridade Tributária verificaria os contratos comunicados e mandaria o senhorio corrigir a renda em dois meses, sob pena de multa.",
+ "context": "O proponente cita aumentos de 10% da renda mediana de novos contratos no primeiro trimestre de 2025 e mais de 30% das famílias arrendatárias com despesas de habitação acima de 40% do rendimento. Considera que o limite de 2% do artigo 34.º da Lei n.º 56/2023 não tem sido eficaz e que falta verificação pelo Estado.",
+ "analysis": "A proposta acrescenta um instrumento de verificação ao regime existente, usando uma tabela já em vigor, o que simplifica a aplicação. Fragilidades: os valores da Portaria n.º 176/2019 podem estar desatualizados face ao mercado, o que pode reduzir fortemente a oferta ou empurrar contratos para a informalidade; a fiscalização depende de os contratos serem comunicados à AT; e o texto não avalia a capacidade administrativa nem o impacto na oferta de arrendamento.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A AT teria novos custos de fiscalização e poderia aplicar coimas, mas o texto não apresenta estimativas de custos ou de receita."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "rendas",
+  "Lei n.º 56/2023",
+  "Autoridade Tributária",
+  "Portaria n.º 176/2019",
+  "contraordenação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

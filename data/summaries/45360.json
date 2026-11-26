@@ -1,0 +1,42 @@
+{
+ "short_title": "Informação e rastreio da Covid-19 nas escolas",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que divulgue regularmente o número de escolas com casos positivos de Covid-19 ou isolamento profilático, o número de turmas abrangidas, o número de alunos, docentes e não docentes em isolamento profilático e quarentena e os casos de encerramento parcial ou total. Recomenda ainda que, com a Direção-Geral da Saúde, desenvolva um programa de rastreio por amostragem, com testes antigénio para sintomáticos e testes moleculares, durante todo o ano letivo e enquanto a pandemia perdurar. O texto critica a informação avulsa disponível e a falta de informação sobre os testes rápidos anunciados.",
+ "key_points": [
+  "Divulgar regularmente escolas com casos ou isolamento profilático.",
+  "Divulgar turmas abrangidas e alunos, docentes e não docentes em isolamento ou quarentena.",
+  "Divulgar encerramentos parciais ou totais.",
+  "Desenvolver com a DGS um rastreio por amostragem com testes antigénio e moleculares."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que publique com regularidade dados sobre a Covid-19 nas escolas, como escolas afetadas, turmas e pessoas em isolamento, e que crie um programa de testes por amostragem durante o ano letivo. É uma recomendação sem força obrigatória.",
+ "context": "O proponente indica que cerca de 1,2 milhões de alunos e 210 mil docentes e não docentes frequentam as escolas e que a informação oficial é avulsa. Cita a DGS sobre 12 escolas com surtos nas duas primeiras semanas de aulas e dados do Infarmed sobre a incidência na faixa dos 10 aos 20 anos, que passou de 88 para 734 casos por 100 000 habitantes entre outubro e novembro.",
+ "analysis": "A proposta promove transparência e uma estratégia de vigilância baseada em amostragem, argumentos sólidos para a gestão da pandemia. Contudo, não define periodicidade da divulgação, metodologia ou dimensão da amostra, nem estima custos ou meios laboratoriais. A divulgação de dados deve respeitar a proteção de dados pessoais, o que o texto não discute. Como recomendação, o Governo não está obrigado a cumprir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa de testes por amostragem durante todo o ano letivo implicaria despesa com testes e logística, que o texto não quantifica."
+ },
+ "affected": [
+  "alunos",
+  "docentes e não docentes",
+  "famílias",
+  "escolas",
+  "Direção-Geral da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "covid-19",
+  "escolas",
+  "rastreio",
+  "testes",
+  "transparência de dados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

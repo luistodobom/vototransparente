@@ -1,0 +1,38 @@
+{
+ "short_title": "Reforço da oferta pública de hemodiálise",
+ "summary": "O projeto de resolução do BE recomenda ao Governo que reforce, através do Serviço Nacional de Saúde, a oferta pública de serviços de proximidade na área da hemodiálise, de modo a garantir cobertura pública em todo o país, e que tome medidas para limitar a concentração de capital no setor e impedir a criação de monopólios. O texto sustenta que a maior parte da oferta é privada e que poucas multinacionais concentram cerca de 90% dos tratamentos convencionados em ambulatório. Refere custos de convenções de 289 milhões de euros em 2018. Trata-se de uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Recomenda o reforço da oferta pública de hemodiálise de proximidade, através do SNS, com cobertura em todo o país.",
+  "Recomenda medidas para limitar a concentração de capital na hemodiálise.",
+  "Recomenda medidas para impedir a criação de monopólios no setor."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que o SNS tenha mais clínicas e serviços públicos de hemodiálise, perto dos doentes, e que impeça que poucas empresas multinacionais controlem quase todo o mercado. É apenas uma recomendação.",
+ "context": "O proponente afirma que a oferta é maioritariamente privada e concentrada em poucas multinacionais, o que pode levar a preços mais altos e deixar o Estado dependente. Refere que os custos dos tratamentos convencionados ultrapassaram 270 milhões de euros e subiram para 289 milhões em 2018, e recorda um caso de infeção por hepatite C numa clínica em 2015.",
+ "analysis": "A preocupação com a dependência do Estado de poucos operadores privados e com os custos está fundamentada em dados do texto. Contudo, a recomendação é muito genérica: não indica quantas unidades públicas criar, o seu custo, nem como se limitaria a concentração de capital. O texto não compara custos e qualidade entre o setor público e privado, nem avalia a capacidade de recursos humanos do SNS. Como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Criar capacidade pública implicaria investimento, enquanto poderia reduzir despesa com convenções; o texto não apresenta estimativas do saldo."
+ },
+ "affected": [
+  "doentes renais crónicos",
+  "Serviço Nacional de Saúde",
+  "operadores privados de hemodiálise"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "hemodiálise",
+  "SNS",
+  "convenções",
+  "concentração de mercado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

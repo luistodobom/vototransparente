@@ -1,0 +1,40 @@
+{
+ "short_title": "Proibir chumbo nas munições de caça e campos de tiro",
+ "summary": "O PAN propõe que a Assembleia da República recomende ao Governo a interdição da utilização de chumbo nas munições da atividade cinegética e nos campos de tiro. O texto refere que a caça dispersa na natureza entre 150 e 200 toneladas de chumbo por ano, que as aves ingerem o metal e podem desenvolver saturnismo, e que o chumbo contamina águas e solos. Indica que existem restrições apenas em 23 zonas húmidas e que a Agência Europeia dos Produtos Químicos concluiu em 2016 que uma restrição de todos os usos seria a medida mais adequada na União Europeia, havendo já proibição total em países como a Holanda, a Dinamarca e a Noruega. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que interdite o chumbo nas munições usadas na caça.",
+  "A interdição abrange também os campos de tiro.",
+  "Atualmente a restrição aplica-se apenas a 23 zonas húmidas.",
+  "Invoca a conclusão da Agência Europeia dos Produtos Químicos de 2016 a favor de uma restrição total."
+ ],
+ "plain_language": "O PAN pede ao Governo que proíba as munições com chumbo na caça e nos campos de tiro, porque o chumbo fica no ambiente, contamina água e solos e envenena aves. Hoje a proibição só existe em algumas zonas húmidas. É uma recomendação, o Governo decide se a segue.",
+ "context": "O proponente argumenta que o chumbo é um metal extremamente tóxico, já retirado de gasolinas, tintas e tubagens, e que a caça continua a ser uma via de contaminação. Aponta ainda a posição da agência europeia de químicos e as proibições existentes noutros países europeus.",
+ "analysis": "A proposta assenta em argumentos ambientais e de saúde pública consistentes com a posição europeia citada, e tem um objetivo claro. Fragilidades: é genérica, sem prazo, regime transitório ou alternativas, como munições de aço ou outros materiais, nem avaliação do custo para caçadores e carreiras de tiro. Não quantifica a fiscalização necessária. Os dados de dispersão de chumbo são apresentados sem fonte detalhada. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Poderia haver custos de fiscalização e de adaptação para os praticantes, mas não são avaliados."
+ },
+ "affected": [
+  "caçadores",
+  "carreiras e campos de tiro",
+  "fauna selvagem",
+  "fabricantes e vendedores de munições"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "chumbo",
+  "munições",
+  "caça",
+  "campos de tiro"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

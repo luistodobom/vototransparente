@@ -1,0 +1,39 @@
+{
+ "short_title": "Mais creches públicas e apoio às famílias sem vaga",
+ "summary": "O CHEGA recomenda ao Governo três medidas sobre creches: fazer um levantamento das necessidades reais de resposta social em creches no setor social; lançar um programa de construção de novas creches nos setores público e social para colmatar carências; e promover um projeto de apoio às famílias para suportar o custo das mensalidades no setor privado quando não exista resposta pública. A exposição de motivos cita notícias sobre falta de vagas, sobretudo em Lisboa, Setúbal e Porto, o custo médio por utente em IPSS (273,87 euros) e preços privados entre 300 e 600 euros mensais, e refere o anúncio governamental de 7 mil novas vagas.",
+ "key_points": [
+  "Levantamento das necessidades reais de creches no setor social.",
+  "Programa de construção de novas creches nos setores público e social.",
+  "Apoio às famílias para pagar mensalidades no privado quando não há vaga pública.",
+  "É uma recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que perceba quantas creches faltam, construa novas e ajude as famílias a pagar creches privadas quando não encontram vaga numa pública ou social. Por ser um projeto de resolução, é uma recomendação e o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente aponta a falta de vagas em creches como grande preocupação das famílias com crianças até aos 3 anos e liga a medida ao apoio à natalidade. Cita dados de imprensa sobre concelhos sem vagas e os custos das mensalidades, e o anúncio de 7 mil novas vagas sem data de concurso.",
+ "analysis": "A iniciativa identifica um problema real e propõe respostas complementares (diagnóstico, construção, apoio financeiro). Fragilidades: não fixa metas, prazos, orçamento nem critérios de elegibilidade do apoio ao privado; o diagnóstico pedido pode não ser necessário perante dados já existentes; o apoio ao privado pode gerar dúvidas sobre prioridade face ao reforço da rede pública. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção de creches e o apoio às mensalidades implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "famílias com crianças até 3 anos",
+  "IPSS",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creches",
+  "natalidade",
+  "vagas",
+  "mensalidades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

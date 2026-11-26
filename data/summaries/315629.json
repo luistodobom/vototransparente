@@ -1,0 +1,45 @@
+{
+ "short_title": "Valorização dos bombeiros e reforço do investimento em proteção civil",
+ "summary": "Projeto de Resolução do PS com 20 recomendações ao Governo sobre proteção civil e bombeiros. Propõe reforçar a Força Especial de Proteção Civil, criar um plano de reequipamento, dotar o Estado de mais meios aéreos próprios, criar um Dispositivo Especial de Prevenção de Incêndios Rurais, aprofundar o programa Aldeia Segura / Pessoa Segura, valorizar profissionalmente os bombeiros das Equipas de Intervenção Permanente e rever o modelo de financiamento das associações humanitárias com contratos-programa tripartidos. Propõe também rever o estatuto dos bombeiros profissionais da administração local, reformar a Escola Nacional de Bombeiros, estender o regime de desgaste rápido e compensar o risco e a penosidade. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforço da Força Especial de Proteção Civil, de um plano de reequipamento e de mais meios aéreos próprios do Estado.",
+  "Criação de um Dispositivo Especial de Prevenção de Incêndios Rurais e reforço do programa Aldeia Segura / Pessoa Segura.",
+  "Valorização profissional dos bombeiros das Equipas de Intervenção Permanente e extensão a outros quadros das associações.",
+  "Revisão do modelo de financiamento das associações humanitárias, com contratos-programa tripartidos e projeto-piloto de agrupamento de corpos de bombeiros.",
+  "Revisão do estatuto dos bombeiros profissionais da administração local e reforma da Escola Nacional de Bombeiros.",
+  "Aplicação do regime de desgaste rápido a todos os bombeiros profissionais e compensação do risco e da penosidade."
+ ],
+ "plain_language": "O PS pede ao Governo mais meios e melhores condições para a proteção civil e para os bombeiros: mais equipamentos e aviões do Estado, mais prevenção no terreno, carreiras e salários melhores, financiamento mais estável para as associações e um regime de reforma que reconheça o desgaste da profissão. O Governo não é obrigado a cumprir.",
+ "context": "O PS destaca o papel insubstituível dos bombeiros, nascidos do voluntariado, e o seu contributo para o apoio social, a saúde e a coesão territorial. Defende que a prevenção é o melhor combate e que é preciso investir em meios humanos e aéreos e reconhecer profissionalmente os bombeiros.",
+ "analysis": "A proposta é abrangente e dá resposta a várias reivindicações do setor, com ênfase na prevenção e na valorização das carreiras. Fragilidades: sendo uma recomendação, não vincula o Governo, não indica prazos, prioridades nem custos de medidas dispendiosas como a aquisição de meios aéreos e as subidas remuneratórias. Algumas recomendações (agrupar corpos de bombeiros, nova categoria de oficial bombeiro) podem suscitar resistência no setor associativo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais meios aéreos, reequipamento, financiamento das associações e valorização salarial implicam maior despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "bombeiros profissionais e voluntários",
+  "associações humanitárias de bombeiros",
+  "municípios",
+  "Autoridade Nacional de Emergência e Proteção Civil",
+  "populações em zonas de risco de incêndio"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho",
+  "territorio"
+ ],
+ "tags": [
+  "bombeiros",
+  "proteção civil",
+  "meios aéreos",
+  "Equipas de Intervenção Permanente",
+  "desgaste rápido"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Repor limites ao alojamento local em zonas de pressão habitacional",
+ "summary": "O Bloco de Esquerda propõe repor várias regras de regulação do alojamento local (AL) revogadas pelo Decreto-Lei n.º 76/2024. Repristina a exigência de decisão do condomínio para registar AL em frações destinadas a habitação, o registo de cinco anos renovável com deliberação expressa da câmara municipal, e a intransmissibilidade do registo, que caduca em caso de transmissão ou arrendamento. Repristina também a suspensão de novos registos de AL em apartamentos fora do interior e a reapreciação dos registos em 2030. Obriga ainda os titulares a provar, em dois meses, que mantêm atividade, sob pena de cancelamento. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Exigir decisão do condomínio para registar AL em frações destinadas a habitação.",
+  "Registo de AL válido por cinco anos, renovável mediante deliberação expressa da câmara, com preferência a titulares de um só registo.",
+  "Registo pessoal e intransmissível, caducando com a transmissão da titularidade ou de capital social.",
+  "Repor a suspensão de novos registos em apartamentos, exceto no interior, e a reapreciação em 2030.",
+  "Cancelar os registos de quem, em dois meses, não provar que mantém a atividade."
+ ],
+ "plain_language": "O Bloco de Esquerda quer voltar a apertar as regras do alojamento local, como casas arrendadas a turistas, nas zonas onde falta habitação. Os registos passariam a precisar de renovação aprovada pela câmara, não poderiam ser vendidos com o imóvel e os condomínios teriam de concordar. Os registos de alojamentos que já não funcionam seriam cancelados.",
+ "context": "O proponente aponta a crise de acesso à habitação, com subidas de preços documentadas pelo INE, e a pressão do turismo nos centros urbanos. Cita o Plano Europeu para a Habitação Acessível, declarações do Comissário Europeu da Habitação e estudos que associam a contenção do AL a descidas de preços em Lisboa.",
+ "analysis": "A proposta atua diretamente sobre uma fonte de pressão no mercado habitacional, devolve poder às câmaras e baseia-se em dados e estudos citados. Em contrapartida, restringe a transmissibilidade e a renovação, o que afeta expectativas e investimentos feitos ao abrigo da lei atual, e pode levantar questões de confiança jurídica. O texto não estima o impacto na oferta de arrendamento de longa duração e a medida de cancelamento de registos tem prazo muito curto, de dois meses.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A regulação mais restritiva pode reduzir a receita fiscal associada ao AL, e a renovação por deliberação camarária implica carga administrativa. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "proprietários de alojamento local",
+  "inquilinos e candidatos a arrendamento",
+  "condomínios",
+  "câmaras municipais"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "alojamento local",
+  "habitação",
+  "registo",
+  "condomínio",
+  "câmaras municipais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

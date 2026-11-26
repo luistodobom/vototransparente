@@ -1,0 +1,39 @@
+{
+ "short_title": "Recomenda salário mínimo de 965 euros em 2026",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo o aumento do salário mínimo nacional em 2026 para 965 euros, um acréscimo de 95 euros, e o compromisso de chegar a 1 250 euros em 2029. A exposição de motivos refere que cerca de um quinto dos trabalhadores recebe o salário mínimo (20,8% em 2023), que os aumentos salariais não acompanharam a inflação nem a produtividade e que a crise da habitação pressiona os rendimentos. Menciona o acordo tripartido de 2025-2028, que prevê 920 euros em 2026 e 1 020 euros em 2028, e considera-o insuficiente. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda 965 euros de salário mínimo em 2026, mais 95 euros.",
+  "Propõe o compromisso de atingir 1 250 euros em 2029.",
+  "Considera insuficiente o acordo de concertação social, que prevê 920 euros em 2026.",
+  "Invoca inflação, habitação cara e risco de pobreza para justificar o aumento."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que suba o salário mínimo para 965 euros em 2026 e que se comprometa a chegar aos 1 250 euros em 2029, acima do que foi acordado com patrões e sindicatos para 2026 (920 euros). É apenas uma recomendação.",
+ "context": "O proponente afirma que cerca de 20,8% dos trabalhadores ganhavam o salário mínimo em 2023, que os salários não acompanharam inflação e produtividade e que Portugal fica longe dos padrões europeus e do salário mínimo espanhol. Defende uma economia de maior valor acrescentado, com salários mais altos, e que o aumento reforça as contribuições para a Segurança Social.",
+ "analysis": "A proposta apresenta uma trajetória plurianual, o que dá previsibilidade, e fundamenta-se em fontes citadas. Fragilidades: o aumento ultrapassa o acordo tripartido assinado pelo Governo e parceiros sociais, e o texto não avalia o impacto no emprego, nas empresas de menor dimensão ou nos custos públicos. A meta de 2029 é um compromisso político sem mecanismo de atualização definido. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Salários mais altos podem aumentar contribuições e impostos, mas também a despesa do Estado com salários e prestações indexadas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores com salário mínimo",
+  "empregadores",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "salário mínimo",
+  "retribuição mínima",
+  "concertação social",
+  "salários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

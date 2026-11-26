@@ -1,0 +1,40 @@
+{
+ "short_title": "Redução temporária dos limites mínimos do ISP",
+ "summary": "O Governo propõe alterar, de forma temporária e excecional, os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) previstos nos artigos 92.º, 94.º e 95.º do Código dos Impostos Especiais de Consumo, para a gasolina sem chumbo e o gasóleo. Os novos limites mínimos são fixados em 199,89 euros e 156,66 euros, respetivamente. O objetivo é dar margem para continuar a aplicar o desconto extraordinário do ISP, devolvendo a receita adicional de IVA quando o preço sobe mais de 10 cêntimos face à semana de 2 a 6 de março, respeitando os limites da legislação europeia. A lei entra em vigor no dia seguinte à publicação e vigora até 30 de junho de 2026.",
+ "key_points": [
+  "Fixa os limites mínimos das taxas de ISP em 199,89 euros para a gasolina sem chumbo e 156,66 euros para o gasóleo.",
+  "Medida temporária, em vigor até 30 de junho de 2026.",
+  "Dá margem para o desconto extraordinário do ISP já adotado pelo Governo.",
+  "Respeita os limites da legislação europeia."
+ ],
+ "plain_language": "O Governo reduz temporariamente o mínimo de imposto que pode aplicar aos combustíveis para poder continuar a baixar o ISP quando os preços sobem muito. A medida vale até 30 de junho de 2026.",
+ "context": "O Governo invoca o aumento extraordinário do preço dos combustíveis devido à crise no Médio Oriente e o seu impacto nas famílias e empresas. Já aplica um desconto extraordinário de ISP que devolve a receita adicional de IVA, e precisa de margem para o manter.",
+ "analysis": "Dá cobertura legal rápida a um mecanismo de alívio dos preços e tem prazo definido. Fragilidades: reduz receita fiscal sem apresentar estimativa de custo; o desconto beneficia todos os consumidores, incluindo grandes consumidores, e depende de a redução chegar ao preço final; não esclarece o impacto ambiental, por incentivar o consumo de combustíveis fósseis; e o valor dos limites não é acompanhado de justificação dos montantes.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Reduz a receita de ISP ao baixar os limites mínimos das taxas, permitindo descontos extraordinários até 30 de junho de 2026. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "empresas de transporte",
+  "Estado (receita de ISP)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "isp",
+  "combustíveis",
+  "imposto",
+  "médio oriente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

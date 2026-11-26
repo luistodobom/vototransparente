@@ -1,0 +1,40 @@
+{
+ "short_title": "Incentivo ao radioamadorismo",
+ "summary": "O Chega propõe alterar os artigos 4.º, 5.º, 6.º e 8.º do Decreto-Lei n.º 53/2009 para incentivar o radioamadorismo. Alarga o acesso a nacionais de Estados da UE e a nacionais de outros Estados com autorização de residência há pelo menos dois anos. Permite que menores de 16 anos façam o exame com autorização escrita de quem tem a guarda e operem estações sob supervisão de radioamadores adultos de categoria igual ou superior. Permite candidatar-se ao exame de categoria superior a amadores de categorias inferiores, sem permanência mínima. O certificado (CAN) passa a valer 10 anos, com renovação automática, salvo comunicação em contrário. O Decreto-Lei é republicado e a lei entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Acesso ao radioamadorismo para nacionais da UE e de outros Estados com residência há dois anos.",
+  "Menores de 16 anos podem fazer o exame com autorização e operar sob supervisão.",
+  "Candidatura ao exame de categoria superior sem permanência mínima, com os amadores das categorias inferiores.",
+  "Certificado válido por 10 anos, com renovação automática.",
+  "Republica o Decreto-Lei n.º 53/2009 e entra em vigor no dia seguinte."
+ ],
+ "plain_language": "A proposta facilita o acesso à atividade de radioamador, sobretudo a jovens: permite a menores de 16 anos usar estações com supervisão, acaba esperas obrigatórias para subir de categoria e torna o certificado válido por 10 anos, renovado automaticamente.",
+ "context": "O proponente considera o radioamadorismo uma atividade de importância cultural, técnica e educativa, que promove a inclusão, a educação em ciências e tecnologia e a comunicação em áreas remotas e emergências. Pretende modernizar as normas e eliminar barreiras à entrada e progressão.",
+ "analysis": "Reduz barreiras burocráticas e favorece a renovação geracional da atividade, com valor para a comunicação em emergência. Fragilidades: a justificação sobre impacto económico e territorial é genérica e sem dados; a supervisão de menores e os requisitos técnicos dependem de regras que o texto não detalha; a renovação automática por 10 anos reduz o controlo regulatório; e o texto não avalia o impacto na ANACOM nem eventuais perdas de taxas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não refere custos. A renovação automática e a alteração dos procedimentos podem ter efeitos nas taxas cobradas pela entidade reguladora, não quantificados."
+ },
+ "affected": [
+  "radioamadores",
+  "jovens interessados",
+  "ANACOM"
+ ],
+ "categories": [
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "radioamadorismo",
+  "anacom",
+  "certificado",
+  "jovens"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Aplicar a Lei da Concorrência de 2022 aos processos pendentes",
+ "summary": "Projeto de Lei do PCP que determina que a Lei n.º 17/2022, de 17 de agosto, que transpôs a Diretiva (UE) 2019/1 e alterou o regime jurídico da concorrência e os estatutos da Autoridade da Concorrência, se aplica aos processos pendentes à data da sua entrada em vigor. O objetivo declarado é que as alterações de 2022 em matéria de prescrição tenham efeito nos processos em curso, evitando que as coimas prescrevam como aconteceu no caso do \"Cartel da Banca\". A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "A Lei n.º 17/2022 passa a aplicar-se aos processos pendentes à data da entrada em vigor da nova lei.",
+  "Visa as regras de prescrição alteradas em 2022, para que os processos em curso beneficiem delas.",
+  "Responde a um pedido da Autoridade da Concorrência numa audição parlamentar.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Em 2022 mudaram as regras da concorrência, mas não ficou claro se valem para processos já a decorrer. O PCP propõe que valham, para que processos pendentes contra empresas não prescrevam e as multas não deixem de ser aplicadas, como sucedeu no caso do cartel da banca.",
+ "context": "O PCP afirma que a prescrição das coimas do \"Cartel da Banca\" (225 milhões de euros no total, entre 2002 e 2013) é inaceitável, que há outros processos em risco de prescrever e que a iniciativa corresponde a um pedido da Autoridade da Concorrência. O texto contém também críticas políticas ao sistema de supervisão e às autoridades independentes.",
+ "analysis": "A proposta é curta e específica, e dá resposta a uma lacuna que a própria Autoridade da Concorrência apontou. Levanta, contudo, questões de aplicação da lei no tempo: aplicar regras de prescrição a processos pendentes pode ser contestado por quem invoque confiança e segurança jurídica, sobretudo em matéria sancionatória. O texto não esclarece que processos concretos seriam abrangidos e a exposição de motivos mistura o argumento técnico com juízos políticos genéricos.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Ao evitar a prescrição de processos pendentes, poderiam ser cobradas coimas que de outro modo se perderiam. O texto não quantifica o valor dos processos em risco."
+ },
+ "affected": [
+  "empresas com processos de concorrência pendentes",
+  "Autoridade da Concorrência",
+  "consumidores"
+ ],
+ "categories": [
+  "consumidores",
+  "justica",
+  "economia"
+ ],
+ "tags": [
+  "lei da concorrência",
+  "prescrição",
+  "cartel da banca",
+  "autoridade da concorrência",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Resiliência e comunicação da proteção civil em eventos extremos",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo duas medidas. Primeira, reforçar a resiliência da população em situações de emergência através da disseminação de informação sobre kits de emergência e comportamentos a adotar em fenómenos meteorológicos extremos, e da promoção do teletrabalho quando possível. Segunda, otimizar a comunicação da proteção civil nestes eventos, com alertas antecipados, dirigidos e adaptados à população, tendo em conta o grau de iliteracia sobre a matéria e o envelhecimento da população.",
+ "key_points": [
+  "Disseminar informação sobre kits de emergência e comportamentos a adotar em fenómenos meteorológicos extremos.",
+  "Promover o teletrabalho quando possível em situações de risco.",
+  "Melhorar a comunicação da proteção civil com alertas antecipados, dirigidos e adaptados à população."
+ ],
+ "plain_language": "Depois da sequência de tempestades, o CHEGA pede ao Governo que informe melhor as pessoas sobre como se preparar, incentive o teletrabalho nos dias de risco e envie alertas mais cedo e mais claros, pensados para uma população envelhecida. É uma recomendação.",
+ "context": "O CHEGA descreve um \"comboio de tempestades\" com ventos acima de 200 km/h, 13.388 ocorrências e danos em habitações, empresas e estradas. Considera que a falta de preparação dificultou respostas coordenadas e cita o exemplo sueco de distribuição de panfletos e a recomendação de teletrabalho feita pela Liga dos Bombeiros.",
+ "analysis": "As medidas são razoáveis e de custo moderado, mas a formulação é genérica: não define canais, prazos, responsáveis ou indicadores. A promoção do teletrabalho levanta a questão de quem decide e de como se aplica a trabalhadores cujas funções são presenciais, não abordada no texto. Os alertas dirigidos exigem capacidade técnica não descrita. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas de informação e melhorias nos sistemas de alerta implicam algum custo, não quantificado no texto."
+ },
+ "affected": [
+  "população em geral",
+  "idosos",
+  "trabalhadores",
+  "proteção civil"
+ ],
+ "categories": [
+  "seguranca",
+  "comunicacao"
+ ],
+ "tags": [
+  "proteção civil",
+  "alertas",
+  "tempestades",
+  "teletrabalho",
+  "kits de emergência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

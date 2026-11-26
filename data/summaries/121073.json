@@ -1,0 +1,44 @@
+{
+ "short_title": "Nova lei antidopagem no desporto",
+ "summary": "Proposta de lei do Governo que aprova uma nova lei antidopagem no desporto, com 101 artigos em seis capítulos, para adotar o Código Mundial Antidopagem revisto, em vigor desde 1 de janeiro de 2021, e revogar a Lei n.º 38/2012. Regula as entidades antidopagem (incluindo a ADoP e a estrutura dirigente a ela afeta), o controlo de dopagem, a proteção de dados e o regime sancionatório. Este inclui crimes (tráfico de substâncias e métodos proibidos, com prisão de 1 a 5 anos; administração, de 6 meses a 3 anos; associação criminosa), contraordenações com coimas entre 5 e 98 unidades de conta e sanções disciplinares de suspensão do praticante. Prevê reconhecimento mútuo de decisões, adaptação dos regulamentos federativos em 120 dias e entrada em vigor 15 dias após a publicação.",
+ "key_points": [
+  "Revoga a Lei n.º 38/2012 e adota o Código Mundial Antidopagem revisto; federações e ligas têm 120 dias para adaptar os regulamentos.",
+  "Mantém e tipifica crimes: tráfico (1 a 5 anos de prisão), administração de substâncias ou métodos proibidos (6 meses a 3 anos, agravada para o dobro em certas circunstâncias) e associação criminosa (6 meses a 5 anos).",
+  "Contraordenações com coimas de 5 a 19 UC (leves), 20 a 34 UC (graves) e 35 a 98 UC (muito graves); o produto das coimas reverte 60% para o Estado e 40% para a ADoP.",
+  "Suspensões disciplinares graduadas, por exemplo de 2 a 25 anos para certas violações; novas figuras como a intimidação de testemunhas, a substância de uso recreativo e o acordo de resolução de processo.",
+  "Decisões de violação de norma antidopagem de organizações nacionais, tribunais de recurso ou do TAD/CAS vinculam automaticamente a ADoP e as federações (reconhecimento mútuo).",
+  "Define receitas próprias da ADoP, custas (máximo de 5 UC em contraordenação e 25 UC em procedimento disciplinar) e o mapa de cargos dirigentes da ADoP."
+ ],
+ "plain_language": "O Governo propõe uma nova lei contra o doping no desporto, para seguir as regras mundiais atualizadas. Define quem faz os controlos, o que é considerado doping e quais as punições: suspensões para os atletas, multas para clubes e outras entidades e prisão para quem trafica ou administra substâncias proibidas. Reforça os direitos de defesa dos praticantes e permite reduzir a suspensão a quem admita a infração e colabore.",
+ "context": "O Governo explica que o Código Mundial Antidopagem foi revisto e entrou em vigor em 1 de janeiro de 2021, e que Portugal, ao abrigo da Convenção da UNESCO contra a Dopagem no Desporto, deve adaptar a lei interna. Refere que a dopagem atinge a ética desportiva e é um problema de saúde pública, e que foram ouvidas a ADoP e o Conselho Nacional do Desporto.",
+ "analysis": "A proposta cumpre uma obrigação internacional, harmoniza o regime com as regras mundiais, reforça a proteção de denunciantes e as garantias de defesa dos atletas, e reúne num só diploma o regime penal, contraordenacional e disciplinar. Riscos: o diploma é extenso e técnico, o que dificulta o escrutínio; o tratamento mais leve do consumo recreativo e o acordo de resolução podem gerar litígio e dúvidas de igualdade; as coimas em unidades de conta e a multiplicidade de entidades decisoras (ADoP, conselho disciplinar, tribunais) podem tornar o processo complexo. Os crimes e as penas são pesados, e a articulação com o sistema do TAD/CAS pode suscitar conflitos de jurisdição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto prevê receitas próprias da ADoP (incluindo 40% do produto das coimas e custas) e despesas da sua atividade, mas não quantifica o impacto orçamental. As coimas são expressas em unidades de conta."
+ },
+ "affected": [
+  "praticantes desportivos",
+  "federações desportivas e clubes",
+  "Autoridade Antidopagem de Portugal",
+  "treinadores e pessoal de apoio"
+ ],
+ "categories": [
+  "desporto",
+  "justica",
+  "saude"
+ ],
+ "tags": [
+  "antidopagem",
+  "código mundial antidopagem",
+  "adop",
+  "suspensão",
+  "doping"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

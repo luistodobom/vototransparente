@@ -1,0 +1,42 @@
+{
+ "short_title": "Acabar com as apostas hípicas",
+ "summary": "Projeto de Lei do PAN que proíbe as apostas hípicas, alterando o Regime Jurídico dos Jogos e Apostas Online e a lei orgânica do Turismo de Portugal, I. P. Passa a constituir infração das entidades exploradoras disponibilizar apostas hípicas sob qualquer tipo ou modalidade, revogam-se as normas do regime dos jogos online que as preveem e revoga-se o Decreto-Lei n.º 68/2015, que regula as apostas hípicas mútuas de base territorial e os hipódromos. A lei entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Proíbe disponibilizar apostas hípicas sob qualquer tipo ou modalidade.",
+  "Revoga as normas do Regime Jurídico dos Jogos e Apostas Online relativas a apostas hípicas.",
+  "Revoga o Decreto-Lei n.º 68/2015, sobre apostas hípicas mútuas de base territorial e hipódromos.",
+  "Altera a missão do Turismo de Portugal, I. P. quanto ao controlo e regulação de jogos e apostas.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "As apostas em corridas de cavalos estão previstas na lei mas quase não existem em Portugal. O PAN quer proibi-las de vez, para evitar o sofrimento dos cavalos, e retirar da lei as regras que as permitem.",
+ "context": "O PAN afirma que, apesar de previstas na lei, as apostas hípicas praticamente não existem em Portugal e que a atividade causa lesões e mortes em equídeos, citando dados dos Estados Unidos. Sustenta que a situação deve ser mantida e consagrada na lei.",
+ "analysis": "A proposta clarifica na lei uma situação que o proponente diz já ser de inexistência prática, com benefício para o bem-estar animal. Fragilidades: o texto apoia-se em dados de outros países, sem avaliar a realidade portuguesa, e não analisa o impacto sobre hipódromos ou operadores eventualmente existentes. Não indica se haveria compensações.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A proibição eliminaria a receita potencial das apostas hípicas, que o texto diz ser praticamente inexistente. Não são indicados montantes."
+ },
+ "affected": [
+  "equídeos",
+  "operadores de apostas",
+  "hipódromos",
+  "Turismo de Portugal, I. P."
+ ],
+ "categories": [
+  "animais",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "apostas hípicas",
+  "bem-estar animal",
+  "jogos e apostas online",
+  "equídeos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

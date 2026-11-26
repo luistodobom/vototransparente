@@ -1,0 +1,45 @@
+{
+ "short_title": "Autorização para transpor a diretiva europeia de cibersegurança (NIS 2)",
+ "summary": "Proposta de lei do Governo que pede autorização, por 180 dias, para aprovar o novo regime jurídico da cibersegurança, transpondo a Diretiva (UE) 2022/2555 e executando o Regulamento (UE) 2019/881. O regime abrange entidades essenciais, importantes e públicas relevantes e parte substancial da Administração Pública, excluindo segurança nacional, segurança pública, defesa e serviços de informações. Cria instrumentos estratégicos e um quadro institucional liderado pelo Centro Nacional de Cibersegurança, com autoridades setoriais e especiais. Impõe gestão de risco, designação de um responsável de cibersegurança e notificação de incidentes, e prevê supervisão, inspeções e coimas (até 10 milhões de euros ou 2% do volume de negócios para entidades essenciais). Altera ainda a Lei de Segurança Interna, a Lei do Cibercrime e a Lei das Comunicações Eletrónicas. O decreto-lei autorizado entraria em vigor 120 dias após a publicação.",
+ "key_points": [
+  "Âmbito alargado a entidades essenciais, importantes e públicas relevantes (Grupos A e B), incluindo a Administração Pública, com exclusão da segurança nacional, defesa e informações.",
+  "Instrumentos estruturantes: Estratégia Nacional de Segurança do Ciberespaço, Plano Nacional de Resposta a Crises e Incidentes em grande escala e Quadro Nacional de Referência.",
+  "Quadro institucional: Conselho Superior de Segurança do Ciberespaço, CNCS como autoridade nacional, GNS e ANACOM como autoridades setoriais, e ASF, CMVM e Banco de Portugal como autoridades especiais.",
+  "Obrigações de gestão de risco, relatório anual, responsável de cibersegurança e notificação inicial de incidentes significativos até 24 horas; supervisão com inspeções, auditorias, ordens vinculativas e bloqueio de endereços IP.",
+  "Coimas até 10 milhões de euros ou 2% do volume de negócios (essenciais) e até 7 milhões ou 1,4% (importantes), com possibilidade de dispensa de coimas durante 12 meses.",
+  "Despenaliza o acesso e a interceção ilegítimos por investigadores que atuem de boa-fé para detetar e comunicar vulnerabilidades, sob condições cumulativas."
+ ],
+ "plain_language": "O Governo quer que o Parlamento o autorize a criar novas regras de cibersegurança para empresas e serviços públicos importantes, seguindo uma diretiva europeia. Define quem tem de cumprir, que organismos fiscalizam e como se responde a ataques informáticos graves. As entidades terão de gerir riscos e avisar rapidamente as autoridades de incidentes, sob pena de coimas. Investigadores que encontrem falhas de segurança de boa-fé e as comunicarem deixam de poder ser criminalizados.",
+ "context": "O Governo invoca o aumento da quantidade e da sofisticação das ciberameaças e a dependência das tecnologias de informação. Considera necessário generalizar a cibersegurança nas empresas e na Administração Pública, graduando as exigências pela dimensão e importância da entidade. Reconhece que o regime exigirá reforço significativo da capacidade do CNCS.",
+ "analysis": "A proposta cumpre uma obrigação de transposição europeia, estrutura um quadro institucional claro e adota proporcionalidade por categoria de entidade. A despenalização da investigação de vulnerabilidades de boa-fé é uma novidade com condições exigentes. Fragilidades: os custos de conformidade, sobretudo para entidades e serviços públicos de menor dimensão, não são quantificados; o próprio texto admite a necessidade de reforçar o CNCS sem dizer com que meios; muitas regras dependem de regulamentação futura; e, por ser lei de autorização, o escrutínio parlamentar do regime detalhado é limitado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos de implementação, supervisão ou conformidade, nem os recursos adicionais do CNCS. Prevê coimas que podem gerar receita, sem estimativa."
+ },
+ "affected": [
+  "entidades essenciais e importantes",
+  "serviços e organismos da Administração Pública",
+  "operadores de comunicações eletrónicas",
+  "Centro Nacional de Cibersegurança",
+  "investigadores de segurança informática"
+ ],
+ "categories": [
+  "ciencia",
+  "seguranca",
+  "internacional"
+ ],
+ "tags": [
+  "cibersegurança",
+  "NIS 2",
+  "transposição",
+  "Centro Nacional de Cibersegurança",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

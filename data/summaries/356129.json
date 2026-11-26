@@ -1,0 +1,42 @@
+{
+ "short_title": "Eliminar os internamentos sociais",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo quatro medidas para acabar com os internamentos sociais, isto é, doentes com alta clínica que permanecem em hospitais por falta de resposta social. Pede um Plano Nacional de Erradicação dos Internamentos Sociais com metas, calendário e avaliação pública; a transferência para o Instituto da Segurança Social da responsabilidade financeira e operacional pela colocação desses utentes, deixando de onerar as Unidades Locais de Saúde; uma Bolsa Nacional Única de Vagas Sociais e de Transição; e um sistema obrigatório de sinalização antecipada da alta social, com gestor de caso.",
+ "key_points": [
+  "Elaborar um Plano Nacional de Erradicação dos Internamentos Sociais, com metas e avaliação pública.",
+  "Transferir para a Segurança Social a responsabilidade financeira e operacional pela colocação dos utentes com alta clínica.",
+  "Criar uma Bolsa Nacional Única de Vagas Sociais e de Transição, com IPSS, misericórdias e privados licenciados.",
+  "Instituir sinalização obrigatória da alta social previsível, com gestor de caso."
+ ],
+ "plain_language": "Há pessoas, sobretudo idosas, que ficam meses no hospital apesar de já estarem curadas, porque não têm onde ficar. O CHEGA pede que seja a Segurança Social, e não os hospitais, a tratar de lhes arranjar vaga, com uma bolsa nacional de vagas e um plano com metas. É uma recomendação ao Governo.",
+ "context": "O CHEGA argumenta que os internamentos sociais violam a dignidade das pessoas e ocupam camas de doentes agudos, e que o modelo atual faz os hospitais pagar respostas que são competência da Segurança Social. Refere um custo estimado em 76 milhões de euros em 2023/2024 (notas indicam 68 milhões de euros noutra fonte).",
+ "analysis": "A iniciativa aponta um problema reconhecido e propõe uma clarificação de responsabilidades. Contudo, transferir custos para a Segurança Social não cria por si vagas: o texto não indica o número de vagas necessárias, a fonte de financiamento nem a capacidade da rede. Há também uma inconsistência nos valores do custo (76 e 68 milhões de euros). Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A transferência de encargos dos hospitais para a Segurança Social redistribui despesa entre organismos e poderá reduzir custos hospitalares, mas a criação de vagas implica despesa adicional não quantificada. O texto cita um custo estimado de 76 milhões de euros em 2023/2024."
+ },
+ "affected": [
+  "idosos e pessoas dependentes com alta clínica",
+  "hospitais e Unidades Locais de Saúde",
+  "Instituto da Segurança Social",
+  "IPSS e misericórdias"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "internamentos sociais",
+  "segurança social",
+  "alta clínica",
+  "respostas sociais",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

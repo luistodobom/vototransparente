@@ -1,0 +1,42 @@
+{
+ "short_title": "Programa Escolas Solares",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a criação do Programa «Escolas Solares», de âmbito nacional, para instalar painéis solares fotovoltaicos em escolas públicas, tornando-as produtoras líquidas de eletricidade. Recomenda financiamento adequado e mecanismos de apoio técnico, a promoção das escolas como centros de comunidade e promotoras de comunidades de energia local, e o acompanhamento técnico e a monitorização dos resultados para garantir uma implementação eficiente e sustentável em todo o território. O texto defende que o excedente em períodos de menor consumo escolar seja partilhado com famílias e serviços públicos da zona. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar o Programa «Escolas Solares» para instalar painéis fotovoltaicos em escolas públicas.",
+  "Tornar as escolas produtoras líquidas de eletricidade, com financiamento adequado e apoio técnico.",
+  "Promover as escolas como polos de comunidades de energia local, partilhando o excedente com famílias e serviços públicos vizinhos.",
+  "Assegurar acompanhamento técnico e monitorização dos resultados em todo o território."
+ ],
+ "plain_language": "O LIVRE recomenda ao Governo que ponha painéis solares nas escolas públicas do país, para que produzam mais energia do que gastam e partilhem a sobra com a comunidade. O programa teria dinheiro, apoio técnico e acompanhamento, e serviria também para ensinar os alunos sobre energia. É apenas uma recomendação.",
+ "context": "O proponente argumenta que a produção descentralizada de energia reforça a resiliência do sistema elétrico, como mostrou o apagão de 28 de abril, e reduz perdas de transporte. Aponta exemplos municipais de escolas com painéis solares e defende um programa nacional que supere apoios pontuais e dê escala e equidade territorial, com vantagens pedagógicas.",
+ "analysis": "A ideia aproveita edifícios públicos já existentes, evita conflitos de uso do solo associados a grandes centrais e tem componente pedagógica. Fragilidades: não indica o número de escolas, o custo, o financiamento nem os prazos; a existência de baterias e inversores para funcionamento isolado, que o texto invoca para resiliência, não é parte das recomendações; e a gestão de comunidades de energia pelas escolas exige competências e enquadramento legal que o texto não detalha. Os exemplos citados são casos municipais pontuais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A instalação de painéis e o apoio técnico implicam investimento público, parcialmente compensável por poupança de eletricidade das escolas. O texto não apresenta montantes."
+ },
+ "affected": [
+  "escolas públicas",
+  "alunos, docentes e funcionários",
+  "famílias e serviços públicos vizinhos",
+  "municípios"
+ ],
+ "categories": [
+  "energia",
+  "educacao",
+  "ambiente"
+ ],
+ "tags": [
+  "escolas solares",
+  "painéis fotovoltaicos",
+  "comunidades de energia",
+  "autoconsumo",
+  "resiliência energética"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

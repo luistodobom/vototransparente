@@ -1,0 +1,40 @@
+{
+ "short_title": "Prazo para remover propaganda eleitoral",
+ "summary": "O LIVRE propõe alterar a Lei n.º 97/88, de 17 de agosto, para fixar um prazo de remoção da propaganda eleitoral. A entidade responsável pela afixação deve retirá-la nos 45 dias úteis seguintes à data das eleições a que se refere. O incumprimento passa a constituir contra-ordenação punível com coima, mas esta é sempre precedida de notificação que identifique os locais em que a propaganda se encontra e conceda um prazo razoável para a remover. O projeto altera os artigos 7.º e 10.º da lei e entra em vigor no dia seguinte ao da sua publicação. O texto não indica o montante das coimas.",
+ "key_points": [
+  "Obriga a remover a propaganda política nos 45 dias úteis seguintes às eleições a que se refere.",
+  "Faz do incumprimento deste prazo uma contra-ordenação punível com coima.",
+  "Exige notificação prévia, com identificação dos locais, e um prazo razoável para remoção antes de se instaurar a contra-ordenação.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje a lei não diz quando os partidos e candidatos têm de tirar cartazes e outra propaganda depois das eleições. O LIVRE propõe um prazo de 45 dias úteis. Se não cumprirem, primeiro recebem um aviso com a indicação dos locais e um prazo para limparem; só depois pode haver multa.",
+ "context": "O proponente cita a Comissão Nacional de Eleições, que esclarece que a lei não prevê qualquer prazo para remover propaganda desatualizada, o que faz com que fique no espaço público depois da eleição. Defende que o prazo não prejudica a liberdade de expressão, por se aplicar a informação já datada.",
+ "analysis": "A medida é simples, preenche uma lacuna reconhecida pela CNE e inclui uma salvaguarda de notificação prévia que protege candidaturas com menos meios. Fragilidades: não define quem fiscaliza nem o valor das coimas, que dependem do regime já existente, e não esclarece como se identifica o responsável por propaganda sem autoria clara. O prazo de 45 dias úteis pode parecer longo ou curto consoante o ponto de vista e pode ser de difícil fiscalização por autarquias com poucos recursos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação de uma contra-ordenação pode gerar receita de coimas e custos de fiscalização, mas o texto não os quantifica."
+ },
+ "affected": [
+  "partidos políticos",
+  "candidaturas",
+  "autarquias locais",
+  "Comissão Nacional de Eleições"
+ ],
+ "categories": [
+  "instituicoes",
+  "ambiente"
+ ],
+ "tags": [
+  "propaganda eleitoral",
+  "contra-ordenação",
+  "lei 97/88",
+  "remoção de cartazes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

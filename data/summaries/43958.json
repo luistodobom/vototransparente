@@ -1,0 +1,43 @@
+{
+ "short_title": "Programa extraordinário de contratação de profissionais para o SNS",
+ "summary": "O projeto de resolução do PCP recomenda ao Governo que crie um programa extraordinário de contratação de profissionais de saúde para o Serviço Nacional de Saúde. Propõe que, em três meses, o Governo identifique as necessidades em todos os estabelecimentos do SNS e abra concursos, atualize os mapas de pessoal e conclua as contratações num horizonte de dois anos. Recomenda recorrer a listas de concursos anteriores, integrar os contratados para funções permanentes em carreira com vínculo público por tempo indeterminado, criar incentivos à fixação de profissionais nas regiões carenciadas e aplicar medidas temporárias de contratação de médicos no estrangeiro. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Identificar em três meses as necessidades de profissionais em todos os estabelecimentos do SNS e abrir concursos.",
+  "Atualizar os mapas de pessoal e concluir as contratações num horizonte de dois anos.",
+  "Recorrer às listas de ordenação de concursos já realizados e agilizar procedimentos.",
+  "Integrar os contratados para funções permanentes em carreira com vínculo público por tempo indeterminado.",
+  "Criar incentivos à fixação de profissionais em regiões carenciadas.",
+  "Contratar médicos no estrangeiro, em medidas temporárias, e atrair estudantes portugueses de medicina no estrangeiro."
+ ],
+ "plain_language": "O PCP pede ao Governo um plano de emergência para contratar médicos, enfermeiros e outros profissionais para o SNS, com prazos curtos, vínculo permanente e incentivos para trabalhar nas zonas com mais falta. É apenas uma recomendação.",
+ "context": "O proponente afirma que faltam médicos, enfermeiros, técnicos e auxiliares no SNS, com consequências nos tempos de espera para consultas, cirurgias e urgências, encerramento de serviços e sobrecarga dos profissionais. Considera que o reforço do pessoal deve ser prioridade para assegurar o direito constitucional à saúde.",
+ "analysis": "O programa é detalhado quanto a etapas e prazos (três meses e dois anos) e reconhece instrumentos como as listas de concursos anteriores, o que reforça a exequibilidade. Em contrapartida, não quantifica as necessidades, o custo nem a disponibilidade real de profissionais, e a contratação de médicos estrangeiros em condições 'equivalentes' tem desafios de reconhecimento e capacidade. A integração obrigatória em carreira pública pode limitar a flexibilidade na gestão. Sendo uma resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de profissionais e os incentivos implicam despesa com pessoal do SNS, que o texto não quantifica."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "Serviço Nacional de Saúde",
+  "regiões carenciadas de profissionais"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "contratação",
+  "profissionais de saúde",
+  "carreiras"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

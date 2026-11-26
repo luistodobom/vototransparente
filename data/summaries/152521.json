@@ -1,0 +1,42 @@
+{
+ "short_title": "Revisão das leis eleitorais: círculo nacional de compensação e outras medidas",
+ "summary": "Projeto de Lei do LIVRE que altera a Lei Eleitoral da Assembleia da República e o decreto que regula a eleição do Presidente da República. Cria um círculo nacional de compensação com 37 mandatos (222 nos círculos territoriais), distribuídos pelo método de Hondt com compensação, para aproveitar votos não convertidos em mandatos. Alarga as inelegibilidades (dirigentes da Secretaria-Geral do MAI, membros da CNE, da Entidade das Contas e Financiamentos Políticos e da Entidade da Transparência). Passa a campanha eleitoral de 14 para 21 dias, estende o voto postal ao estrangeiro nas presidenciais, alarga o voto antecipado em mobilidade a recenseados no estrangeiro temporariamente em Portugal, impõe equilíbrio da cobertura jornalística, fixa 45 dias úteis para remover propaganda e prevê missões internacionais de observação eleitoral com aval da CNE.",
+ "key_points": [
+  "Círculo nacional de compensação com 37 mandatos, por Hondt com compensação.",
+  "Novas inelegibilidades para a Assembleia da República.",
+  "Campanha eleitoral alargada de 14 para 21 dias.",
+  "Voto postal para residentes no estrangeiro nas presidenciais e voto antecipado em mobilidade alargado.",
+  "Prazo de 45 dias úteis para remover propaganda e missões internacionais de observação eleitoral."
+ ],
+ "plain_language": "O projeto muda as regras eleitorais para que menos votos sejam desperdiçados, com um círculo nacional extra de 37 deputados, e torna mais fácil votar a partir do estrangeiro e antecipadamente. Alarga a campanha, obriga a retirar cartazes e permite observadores internacionais nas eleições.",
+ "context": "O LIVRE cita 730.011 votos válidos não convertidos em mandatos em 2022 (13,47%), o efeito do método de Hondt e dos círculos pequenos, e a Petição n.º 30/XV/1 (8665 assinaturas). Invoca o modelo dos Açores, queixas dos eleitores da diáspora e a recomendação da OSCE sobre observação eleitoral.",
+ "analysis": "Ponto forte: aborda de forma integrada vários problemas apontados por entidades, e o modelo do círculo de compensação já existe nos Açores. Fragilidades: é um pacote muito amplo que mistura matérias distintas, dificultando a apreciação; o círculo nacional altera o equilíbrio entre círculos e o peso do interior, ponto sensível, sem simulações apresentadas; o voto postal e antecipado exige meios administrativos; alterações às leis eleitorais têm exigências de maioria reforçada e debate prévio que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O voto postal gratuito, a organização do voto em mobilidade e as missões de observação podem implicar despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "eleitores",
+  "eleitores residentes no estrangeiro",
+  "partidos políticos",
+  "Comissão Nacional de Eleições"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos"
+ ],
+ "tags": [
+  "leis eleitorais",
+  "círculo de compensação",
+  "voto postal",
+  "inelegibilidades",
+  "observação eleitoral"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

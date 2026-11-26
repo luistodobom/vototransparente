@@ -1,0 +1,41 @@
+{
+ "short_title": "Agregado familiar nas bolsas do ensino superior",
+ "summary": "O Projeto de Lei do PAN clarifica o conceito de agregado familiar para efeitos do Regulamento de Atribuição de Bolsas de Estudo (Despacho n.º 7253/2024). Passa a ser o conjunto de pessoas que mantêm efetiva comunhão de mesa, habitação e rendimento com o estudante, e a residência junto de familiares por falta de alojamento estudantil não integra automaticamente esses familiares no agregado. Impede que a residência temporária junto de familiares exclua o estudante da bolsa ou de outros apoios, e proíbe a devolução de bolsas já atribuídas com esse único fundamento. O Governo teria 30 dias para adaptar o regulamento, e a lei produz efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Agregado familiar passa a ser quem mantém efetiva comunhão de mesa, habitação e rendimento com o estudante.",
+  "Residir junto de familiares por falta de alojamento não os integra automaticamente no agregado.",
+  "A residência temporária junto de familiares não pode excluir da bolsa ou de outros apoios.",
+  "Nenhum estudante pode ser obrigado a devolver bolsas já atribuídas apenas por morar com familiares.",
+  "O Governo adapta o regulamento no prazo de 30 dias; efeitos com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Hoje, um estudante que vive em casa de avós ou tios pode ver os rendimentos desses familiares contarem para o cálculo da bolsa, e até ter de devolver dinheiro. A proposta diz que só contam as pessoas com quem o estudante realmente partilha mesa, casa e rendimento, e que morar temporariamente com familiares não pode ser motivo de exclusão.",
+ "context": "O PAN refere a queda de candidatos e colocados no ensino superior em 2025, o custo do alojamento e a lentidão do plano nacional de alojamento (2493 de 19 212 camas concluídas em agosto de 2025). Defende que a interpretação restritiva do conceito de agregado familiar exclui indevidamente estudantes que vivem com familiares por falta de alternativas.",
+ "analysis": "A proposta é concreta, de âmbito limitado e corrige uma situação de injustiça identificada. Fragilidades: o critério «efetiva comunhão de mesa, habitação e rendimento» pode ser difícil de verificar e abrir espaço a declarações abusivas; a proibição de devolução de valores já atribuídos pode ter efeitos retroativos que o texto não delimita; e não há estimativa do número de estudantes ou do custo. Não resolve o problema de fundo, que é a escassez de alojamento estudantil.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais estudantes podem ficar elegíveis para bolsas ou manter as já atribuídas, aumentando a despesa. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "estudantes do ensino superior que residem com familiares",
+  "bolseiros",
+  "serviços de ação social"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "agregado familiar",
+  "bolsas de estudo",
+  "ação social escolar",
+  "ensino superior",
+  "alojamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

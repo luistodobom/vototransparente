@@ -1,0 +1,40 @@
+{
+ "short_title": "Autorização ao Governo para rever o regime do mecenato",
+ "summary": "A proposta de lei pede à Assembleia da República autorização legislativa para o Governo rever o regime do mecenato e alterar o Estatuto dos Benefícios Fiscais. A autorização tem a duração de 180 dias. O sentido e extensão incluem: clarificar o conceito de donativo e as regalias em espécie admissíveis; rever os limites de dedução dos donativos e as majorações do mecenato cultural em IRC e IRS (categoria B), incluindo donativos em espécie e contratos plurianuais; definir categorias de entidades e iniciativas culturais elegíveis e criar os títulos de entidade cultural e de iniciativa cultural, atribuídos por despacho do membro do Governo da Cultura; exigir conta bancária específica e registo simplificado; fixar regras para os ativos e o destino de donativos não aplicados, que revertem para o Fundo de Fomento Cultural; e excluir certos donativos a entidades com fins lucrativos com relações especiais. Anexa o decreto-lei autorizado.",
+ "key_points": [
+  "Autoriza o Governo, por 180 dias, a alterar o Estatuto dos Benefícios Fiscais no mecenato.",
+  "Prevê rever os limites de dedutibilidade dos donativos e as majorações do mecenato cultural em IRC e IRS.",
+  "Cria os títulos de entidade cultural e de iniciativa cultural, atribuídos por despacho ministerial.",
+  "Obriga a conta bancária específica e registo simplificado para cada projeto ou iniciativa.",
+  "Destina ao Fundo de Fomento Cultural os donativos não aplicados e exclui certos donativos a entidades lucrativas com relações especiais."
+ ],
+ "plain_language": "O Governo pede ao Parlamento licença para mudar as regras que dão benefícios fiscais a quem doa dinheiro ou bens à cultura. A ideia é tornar o sistema mais simples e transparente, com uma lista pública de entidades e iniciativas culturais reconhecidas e uma plataforma digital. As empresas e pessoas que doem poderão deduzir mais em impostos, segundo o Governo. Esta lei só dá a autorização; as regras concretas serão depois definidas por decreto-lei do Governo.",
+ "context": "O Governo defende que o mecenato cultural é um instrumento de cooperação entre o setor público e o privado e que é preciso dar-lhe maior dinamismo. Pretende um regime mais abrangente, transparente e acessível, com critérios objetivos de elegibilidade, simplificação de procedimentos, uma lista pública de beneficiários e maior incentivo fiscal.",
+ "analysis": "A criação de critérios objetivos, de uma lista pública e de uma plataforma digital pode aumentar a transparência e a segurança jurídica. Por outro lado, a lei de autorização deixa em aberto valores essenciais, como os novos limites e majorações, que só se conhecerão no decreto-lei, o que limita o escrutínio parlamentar. A atribuição dos títulos por despacho ministerial concentra decisão no Governo. O aumento dos incentivos implica receita fiscal cedida, sem estimativa no texto, e as salvaguardas contra abusos (relações especiais, conta específica) dependem da regulamentação.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O texto prevê aumentar limites de dedutibilidade e majorações dos donativos, o que tende a reduzir a receita de IRC e IRS. Não são indicados montantes."
+ },
+ "affected": [
+  "entidades culturais",
+  "mecenas (empresas e particulares)",
+  "Ministério da Cultura"
+ ],
+ "categories": [
+  "cultura",
+  "fiscalidade"
+ ],
+ "tags": [
+  "mecenato cultural",
+  "benefícios fiscais",
+  "autorização legislativa",
+  "donativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

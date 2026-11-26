@@ -1,0 +1,39 @@
+{
+ "short_title": "Taxa autónoma de 5% sobre rendas habitacionais",
+ "summary": "Projeto de Lei do CHEGA que altera o artigo 72.º do Código do IRS para fixar em 5% a taxa autónoma de tributação dos rendimentos prediais de arrendamento habitacional, independentemente da duração do contrato. Passam a ser tributados a 5% os rendimentos referidos na alínea b) do n.º 5 do artigo 8.º. Revoga os n.os 3, 4, 5, 20, 21, 23 e 24 do artigo 72.º, que atualmente preveem taxas reduzidas dependentes da duração do contrato. A lei entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Taxa autónoma única de 5% de IRS sobre rendimentos de arrendamento habitacional.",
+  "Aplicação independente da duração do contrato.",
+  "Revogação de números do artigo 72.º do Código do IRS que previam taxas diferenciadas.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O CHEGA propõe que as rendas de casas arrendadas para habitação paguem uma taxa única de 5% de IRS, qualquer que seja a duração do contrato. Hoje a taxa varia conforme a duração. O objetivo é incentivar os proprietários a arrendar e a declarar os contratos.",
+ "context": "O proponente alega um desequilíbrio estrutural do mercado de arrendamento, com escassez de oferta, preços altos e informalidade. Considera que o regime fiscal atual, mesmo após a Lei n.º 56/2023, depende da duração contratual e quer simplificar com uma taxa única de 5%, para formalizar contratos e reforçar a confiança dos investidores.",
+ "analysis": "A simplificação e o incentivo à declaração de rendas são pontos positivos. As fragilidades são a ausência de estimativa da perda de receita, a falta de qualquer contrapartida para os inquilinos (a redução fiscal pode não se refletir nas rendas) e a eliminação de incentivos ligados a contratos mais longos, que dão estabilidade. A taxa única beneficia também proprietários de rendas elevadas. O articulado altera a lógica de várias taxas reduzidas sem avaliação do impacto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A fixação de uma taxa de 5% sobre as rendas habitacionais reduz a receita de IRS face às taxas atuais; o texto não quantifica o efeito."
+ },
+ "affected": [
+  "senhorios",
+  "inquilinos",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "IRS",
+  "rendimentos prediais",
+  "taxa autónoma",
+  "arrendamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

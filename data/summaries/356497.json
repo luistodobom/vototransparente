@@ -1,0 +1,40 @@
+{
+ "short_title": "Carreira de médico dentista no Serviço Nacional de Saúde",
+ "summary": "Projeto de Lei do LIVRE que cria a carreira especial de médico dentista nos estabelecimentos e serviços do SNS e noutros serviços da Administração Pública que prestem cuidados de saúde oral. A carreira é pluricategorial (assistente, assistente graduado e assistente graduado sénior), com graus de especialista e consultor, e é classificada com grau 3 de complexidade funcional. As remunerações seriam fixadas em instrumento de regulamentação coletiva de trabalho. Os médicos dentistas que já exerçam funções no SNS por contrato individual de trabalho ou prestação de serviços seriam integrados, sem redução da remuneração base. O Governo teria 180 dias para regulamentar e a lei entraria em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria a carreira especial de médico dentista no SNS, com categorias de assistente, assistente graduado e assistente graduado sénior.",
+  "Define os graus de especialista e consultor, este último obtido por concurso após cinco anos de exercício, avaliação curricular e prova.",
+  "Integra os médicos dentistas já em funções, na categoria correspondente ao tempo de serviço e sem redução da remuneração base, em 90 dias após a entrada em vigor.",
+  "Remunerações fixadas por regulamentação coletiva de trabalho.",
+  "Regulamentação pelo Governo em 180 dias, ouvida a Ordem dos Médicos Dentistas; entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje quase não há dentistas no SNS e os poucos que lá trabalham fazem-no, na maioria, a recibos verdes ou por empresas de trabalho temporário. O LIVRE propõe criar uma carreira própria para estes profissionais, com categorias e progressão, e integrar os que já lá estão. O objetivo é que o SNS consiga contratar e manter dentistas e dar mais consultas de saúde oral.",
+ "context": "O LIVRE invoca a dificuldade de acesso a cuidados de saúde oral e refere que cerca de 150 dos quase 13.000 médicos dentistas trabalham no SNS, 80% deles a recibos verdes através de empresas de trabalho temporário. Refere gabinetes dentários do SNS fechados por falta de contratação e a Resolução da AR n.º 52/2025, que já recomendara esta carreira.",
+ "analysis": "A proposta transforma uma recomendação já aprovada num quadro vinculativo e baseia-se em dados concretos sobre precariedade e subaproveitamento de gabinetes. Fragilidades: as remunerações ficam por definir em regulamentação coletiva, pelo que o custo real é incerto; os números de custo citados (263.000 euros anuais de uma carreira, face a 1.576.000 euros em trabalho temporário em 2019) provêm de um sindicato e são anteriores; e o texto não aborda a capacidade de contratação de mais dentistas nem a cobertura efetiva de utentes. O número 3 do artigo 18.º não existe na numeração do texto.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A carreira implica encargos com pessoal no SNS, mas poderá substituir contratos de trabalho temporário. O texto cita valores de um sindicato (263.000 euros anuais para a carreira e 1.576.000 euros em trabalho temporário em 2019), sem estimativa própria."
+ },
+ "affected": [
+  "Médicos dentistas do SNS",
+  "Utentes do SNS",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "médico dentista",
+  "carreira especial",
+  "saúde oral",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Responsável pela inteligência artificial em cada ULS",
+ "summary": "Este Projeto de Resolução do CHEGA recomenda ao Governo que promova a designação, em cada Unidade Local de Saúde, de um Responsável pela Integração e Governação da Inteligência Artificial, formalmente identificado na estrutura organizativa. Essa função deveria manter um inventário dos sistemas de IA (finalidade, fornecedor, integração e classificação de risco), fazer avaliação prévia clínica, técnica, jurídica e de cibersegurança, definir supervisão humana efetiva, articular-se com o encarregado de proteção de dados e a direção clínica, monitorizar desempenho e enviesamentos e promover formação interna. Recomenda ainda orientações técnicas nacionais uniformes, alinhadas com o quadro jurídico europeu. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Designar em cada ULS um Responsável pela Integração e Governação da IA.",
+  "Manter inventário de sistemas de IA, com finalidade, fornecedor, integração e classificação de risco.",
+  "Avaliação prévia clínica, técnica, jurídica e de cibersegurança antes de adotar sistemas de IA.",
+  "Supervisão humana efetiva, com possibilidade de intervir, suspender ou corrigir decisões automatizadas.",
+  "Articulação com o encarregado de proteção de dados e a segurança da informação; monitorização contínua e formação.",
+  "Orientações técnicas nacionais uniformes alinhadas com o quadro jurídico europeu."
+ ],
+ "plain_language": "O CHEGA quer que cada hospital ou grupo de centros de saúde (ULS) tenha uma pessoa responsável por controlar a forma como usa inteligência artificial: saber que sistemas existem, verificar se são seguros e legais e garantir que há sempre supervisão humana. É um pedido ao Governo, sem força obrigatória.",
+ "context": "O proponente cita relatório da OMS sobre IA nos sistemas de saúde e o quadro europeu (AI Act, espaço europeu de dados de saúde, RGPD e NIS2). Afirma que a adoção de IA nas ULS é fragmentada, sem inventário nem critérios uniformes, e que falta uma função responsável, o que fragiliza a conformidade legal e a confiança dos cidadãos.",
+ "analysis": "A proposta antecipa obrigações de governação previstas na legislação europeia e promove clareza de responsabilidade. Riscos: criar uma função em todas as ULS pode implicar custos e burocracia sem diagnóstico do número de sistemas existentes; o texto não indica se se trata de nova contratação ou de acumulação de funções; e pode sobrepor-se a competências já existentes (proteção de dados, segurança informática, direção clínica). A natureza recomendatória não garante implementação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A designação de um responsável em cada ULS, a formação e as avaliações prévias podem implicar custos adicionais, que o texto não quantifica."
+ },
+ "affected": [
+  "Unidades Locais de Saúde",
+  "profissionais de saúde",
+  "utentes do SNS",
+  "Governo e Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "ciencia",
+  "administracao"
+ ],
+ "tags": [
+  "inteligência artificial",
+  "ULS",
+  "AI Act",
+  "governação",
+  "proteção de dados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Reabrir a extensão de saúde da Mina de São Domingos, em Mértola",
+ "summary": "O PCP recomenda ao Governo que reabra de imediato a extensão de saúde do Centro de Saúde de Mértola na Mina de São Domingos (freguesia de Corte do Pinto), dotando-a dos recursos humanos necessários; que reforce a resposta nessa extensão, em particular no período balnear, com alargamento de horários e abertura ao fim de semana; e que atribua médico e enfermeiro de família a toda a população do concelho e reforce o número de trabalhadores do centro de saúde. O texto refere que as obras de reabilitação da extensão estão concluídas, mas que continua encerrada, e que a população, maioritariamente idosa, tem de se deslocar a Mértola em transporte público com oferta reduzida.",
+ "key_points": [
+  "Reabertura imediata da extensão de saúde da Mina de São Domingos, com recursos humanos.",
+  "Reforço da resposta no período balnear, com alargamento de horários e abertura ao fim de semana.",
+  "Médico e enfermeiro de família para toda a população do concelho de Mértola.",
+  "Reforço do número de trabalhadores do Centro de Saúde de Mértola.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O PCP pede ao Governo que reabra o posto de saúde da Mina de São Domingos, já renovado mas fechado, para que os moradores, muitos idosos, não tenham de ir a Mértola para consultas. Pede também mais horário no verão e médicos e enfermeiros de família para todos no concelho.",
+ "context": "O PCP indica que Mértola é um concelho extenso e pouco povoado, com a extensão de saúde como única da zona, encerrada apesar de as obras estarem concluídas. A população, a Comissão de Moradores incluída, exige a reabertura, que considera ainda mais necessária durante a pandemia e no verão, quando a afluência à praia fluvial aumenta.",
+ "analysis": "A proposta responde a um problema concreto de acessibilidade em zona rural envelhecida e baseia-se em factos locais descritos. Fragilidades: não identifica as razões do encerramento nem a disponibilidade de profissionais, e a carência de médicos e enfermeiros é geral no SNS; o texto não prevê financiamento nem prazos; atribuir médico de família a todos depende da capacidade de contratação. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reabrir a extensão e reforçar profissionais e horários implicaria despesa adicional do SNS, não quantificada no texto."
+ },
+ "affected": [
+  "população da Mina de São Domingos e do concelho de Mértola",
+  "utentes idosos",
+  "Centro de Saúde de Mértola"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "mértola",
+  "extensão de saúde",
+  "cuidados de saúde primários",
+  "médico de família"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

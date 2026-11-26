@@ -1,0 +1,41 @@
+{
+ "short_title": "Residência de estudantes da Escola de Hotelaria de Portalegre",
+ "summary": "O projeto de resolução do PS recomenda ao Governo a cedência do antigo Internato de Santo António, em Portalegre, ao Turismo de Portugal para criar a residência de estudantes da Escola de Hotelaria e Turismo de Portalegre. Propõe quatro medidas: diligenciar a transferência da gestão e posse do imóvel do Instituto da Segurança Social para o Turismo de Portugal; adaptar rapidamente o edifício a residência, aproveitando as obras recentes; garantir condições para o funcionamento pleno no início do ano letivo 2026/2027, servindo prioritariamente alunos da escola; e promover a articulação entre as entidades dos Ministérios do Trabalho, Solidariedade e Segurança Social e da Economia.",
+ "key_points": [
+  "Transferir a gestão e posse do Internato de Santo António do Instituto da Segurança Social para o Turismo de Portugal.",
+  "Adaptar rapidamente o imóvel a residência de estudantes.",
+  "Pôr a residência a funcionar no início do ano letivo 2026/2027, com prioridade aos alunos da escola.",
+  "Articular os serviços dos Ministérios do Trabalho e da Economia na cedência."
+ ],
+ "plain_language": "Em Portalegre há um edifício público fechado desde 2022 e perto da Escola de Hotelaria. O PS pede ao Governo que o ceda ao Turismo de Portugal para servir de residência a estudantes da escola, já no ano letivo 2026/2027. É uma recomendação.",
+ "context": "O proponente afirma que a falta de alojamento acessível limita o recrutamento de alunos de fora da região. Aponta o Internato de Santo António, sob alçada da Segurança Social, fechado desde 2022, requalificado pouco antes e bem localizado, e argumenta que a cedência evitaria construir de novo e a degradação por desuso.",
+ "analysis": "A proposta aproveita um imóvel público desocupado e responde a uma necessidade identificada. Fragilidades: o prazo de funcionamento para 2026/2027 é curto para adaptação e transferência; o texto não estima custos de adaptação e de gestão nem indica quem opera a residência; e não analisa usos alternativos do imóvel pela Segurança Social nem a procura efetiva de alojamento. Recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A adaptação e a gestão da residência implicam despesa, que o texto não quantifica; evita custos de construção nova."
+ },
+ "affected": [
+  "Alunos da Escola de Hotelaria e Turismo de Portalegre",
+  "Turismo de Portugal",
+  "Instituto da Segurança Social",
+  "Portalegre"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "portalegre",
+  "residência de estudantes",
+  "escola de hotelaria",
+  "turismo de portugal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

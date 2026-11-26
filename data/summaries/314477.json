@@ -1,0 +1,42 @@
+{
+ "short_title": "Acumulação da prestação social para a inclusão com a pensão social de velhice",
+ "summary": "Projeto de Lei do LIVRE que altera o Decreto-Lei n.º 126-A/2017 (prestação social para a inclusão, PSI) e o Decreto-Lei n.º 160/80 (pensão social de velhice). Primeiro, passa a permitir a acumulação da PSI com a pensão social de velhice, acrescentando-a à lista de prestações cumuláveis e retirando a incompatibilidade prevista no regime da pensão social. Segundo, altera as regras de início de pagamento: quando o requerente apresenta comprovativo do pedido de certificação da deficiência, a PSI é devida desde o mês do pedido (o deferimento fica dependente da apresentação do atestado médico de incapacidade multiuso original), e, se o grau de incapacidade igual ou superior a 60% resultar de junta médica de recurso, desde o mês do requerimento de recurso. Entra em vigor com o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Permite acumular a PSI com a pensão social de velhice.",
+  "Altera o artigo 13.º do Decreto-Lei n.º 160/80, retirando a incompatibilidade com a PSI.",
+  "A PSI passa a ser devida desde o mês em que é pedida a certificação da deficiência, ficando o deferimento dependente do atestado multiuso.",
+  "Se a incapacidade de 60% ou mais resultar de junta médica de recurso, a prestação é devida desde o mês do requerimento do recurso.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O LIVRE propõe que pessoas com deficiência idosas possam receber ao mesmo tempo a prestação social para a inclusão e a pensão social de velhice, o que hoje não é possível. Propõe também que a prestação seja paga desde o mês em que a pessoa pediu a certificação da deficiência, e não apenas depois de o atestado ser emitido, evitando perder dinheiro por atrasos do Estado.",
+ "context": "O proponente defende que não há contradição entre os objetivos das duas prestações e que as pessoas elegíveis para ambas são especialmente vulneráveis. Quanto ao início de pagamento, invoca recomendações da Provedora de Justiça de 2020, 2023 e 2024 para que atrasos na emissão do atestado médico de incapacidade multiuso não prejudiquem os cidadãos.",
+ "analysis": "A proposta responde a uma situação de injustiça apontada pela Provedora de Justiça, atrasos do Estado que prejudicam o requerente, e a acumulação de duas prestações destinadas a populações vulneráveis é coerente com os objetivos de ambas. Em contrapartida, aumenta a despesa da Segurança Social sem estimativa de custo no texto, e o pagamento retroativo ao mês do pedido, dependente de um atestado que pode não vir a confirmar o grau exigido, pode criar casos de devolução. A entrada em vigor com o Orçamento do Estado limita o efeito imediato.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A acumulação de prestações e o pagamento retroativo desde o mês do pedido aumentam a despesa da Segurança Social. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "idosos beneficiários da pensão social de velhice",
+  "requerentes da prestação social para a inclusão",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "prestação social para a inclusão",
+  "pensão social de velhice",
+  "deficiência",
+  "atestado multiuso"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

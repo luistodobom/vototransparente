@@ -1,0 +1,39 @@
+{
+ "short_title": "Vacinação prioritária para estudantes estagiários em saúde",
+ "summary": "A Iniciativa Liberal recomenda ao Governo que inclua nos grupos prioritários do plano de vacinação contra a COVID-19 os estudantes de todas as áreas que estejam a estagiar em entidades de saúde, quer para sua proteção, quer para proteção dos doentes a quem prestam cuidados. O projeto assenta na ideia de que as prioridades de vacinação devem seguir critérios de relevância para o combate direto à pandemia e de que vacinar quem está na primeira linha pode desacelerar a propagação do vírus. É uma recomendação ao Governo, sem caráter vinculativo, e não indica número de estudantes abrangidos nem calendário.",
+ "key_points": [
+  "Incluir os estudantes a estagiar em entidades de saúde nos grupos prioritários de vacinação.",
+  "Abranger estudantes de todas as áreas que estagiem nessas entidades.",
+  "Fundamentar a medida na proteção dos próprios estudantes e dos utentes."
+ ],
+ "plain_language": "Os estudantes que fazem estágio em hospitais e centros de saúde estão em contacto com doentes. A Iniciativa Liberal pede ao Governo que sejam vacinados cedo contra a COVID-19, para se protegerem e para não infetarem os doentes. É uma recomendação.",
+ "context": "O proponente descreve a situação pandémica de janeiro de 2021 como alarmante, com Portugal a registar máximos de casos e óbitos. Defende que o plano de vacinação deve proteger quem está na primeira linha do combate à pandemia, para impedir que fiquem infetados e infetem os utentes.",
+ "analysis": "A medida é simples e tem lógica de saúde pública, ao tratar quem tem contacto com doentes como profissionais de risco. Fragilidades: a expressão «estudantes de todas as áreas» é muito ampla e não distingue o tipo de estágio nem o nível de exposição; não há estimativa de doses necessárias num contexto de escassez; e não se explica como se articula com os critérios do plano de vacinação existente. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida altera a ordem de vacinação, não criando por si despesa identificável; o texto não indica custos."
+ },
+ "affected": [
+  "estudantes a estagiar em entidades de saúde",
+  "utentes do SNS",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "vacinação",
+  "COVID-19",
+  "estudantes",
+  "estágios",
+  "grupos prioritários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

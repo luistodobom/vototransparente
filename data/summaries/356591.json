@@ -1,0 +1,40 @@
+{
+ "short_title": "Transportes públicos gratuitos até aos 25 anos",
+ "summary": "O projeto de lei do Bloco de Esquerda cria o direito a transportes públicos gratuitos para jovens até aos 25 anos. Para o concretizar, o Governo atualiza os programas de redução dos preços dos passes dos transportes coletivos de passageiros, e o atual passe sub23+TP é substituído pelo passe sub25+TP. A lei entra em vigor com o Orçamento do Estado subsequente à sua publicação. A exposição de motivos defende também mais investimento em frotas, frequência, corredores para autocarros, ferrovia ligeira e soluções para territórios de baixa densidade, mas o articulado limita-se ao alargamento do passe gratuito.",
+ "key_points": [
+  "Cria o direito a transportes públicos gratuitos para jovens até aos 25 anos.",
+  "O passe sub23+TP é substituído pelo passe sub25+TP.",
+  "O Governo atualiza os programas de redução tarifária para o efeito.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje os jovens até aos 23 anos têm passe gratuito de transportes públicos, ao abrigo do programa sub23+TP. Esta proposta alarga-o até aos 25 anos. O passe só passaria a existir com o próximo Orçamento do Estado.",
+ "context": "O proponente aponta o crescimento do uso do transporte coletivo em 2025, mas observa que só cerca de um décimo da população o usa diariamente. Defende mais investimento nos transportes e a redução do preço para os utilizadores, incluindo o alargamento da gratuitidade aos 25 anos.",
+ "analysis": "A medida é simples, de fácil comunicação e alarga um benefício já existente a mais dois anos de idade, apoiando jovens adultos e a mobilidade sustentável. Fragilidades: não estima o número de beneficiários nem o custo; a gratuitidade é universal, sem critérios de rendimento; o texto não prevê o reforço da oferta, apesar de o referir na exposição de motivos, o que pode agravar a pressão sobre serviços já saturados; depende da inscrição no Orçamento do Estado e das autoridades de transporte.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do passe gratuito de 23 para 25 anos aumenta os encargos públicos com a compensação de operadores. O texto não apresenta montantes."
+ },
+ "affected": [
+  "jovens entre os 23 e os 25 anos",
+  "operadores e autoridades de transportes",
+  "Estado"
+ ],
+ "categories": [
+  "transportes",
+  "desporto",
+  "familia"
+ ],
+ "tags": [
+  "passe gratuito",
+  "jovens",
+  "sub25+tp",
+  "transportes públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

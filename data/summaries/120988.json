@@ -1,0 +1,41 @@
+{
+ "short_title": "Regime temporário de preços máximos dos combustíveis líquidos",
+ "summary": "O PCP propõe um regime excecional e temporário de preços máximos, antes de impostos, para os combustíveis líquidos, tendo em conta a evolução do preço do Brent divulgado pela DGEG. Os combustíveis destinados a atividades económicas, como a agricultura, as pescas e os transportes, são ajustados proporcionalmente. O Governo fixa o preço no prazo máximo de uma semana após a entrada em vigor da lei e atualiza-o semanalmente. A lei entra em vigor no dia seguinte ao da publicação e vigora até 31 de dezembro de 2022.",
+ "key_points": [
+  "Preços máximos antes de impostos, com referência ao preço do Brent divulgado pela DGEG.",
+  "Ajustamento proporcional dos combustíveis para agricultura, pescas e transportes.",
+  "Preço fixado pelo Governo no prazo de uma semana e atualizado semanalmente.",
+  "Vigência até 31 de dezembro de 2022."
+ ],
+ "plain_language": "O PCP quer que, durante a crise da pandemia, o Governo fixe um preço máximo para os combustíveis antes de impostos, ligado ao preço do petróleo Brent, e o atualize todas as semanas, até ao final de 2022. Os combustíveis usados por agricultores, pescadores e transportadores também teriam preços ajustados.",
+ "context": "O PCP defende que os aumentos recentes do preço dos combustíveis prejudicam a retoma económica e o rendimento das famílias, e atribui-os à liberalização, ao oportunismo especulativo e à falta de controlo público. Recorda uma proposta semelhante de março de 2020 que foi rejeitada e critica a formação de preços com base nos índices de Platts de Roterdão.",
+ "analysis": "A proposta atinge diretamente o preço dos combustíveis e inclui setores produtivos. Fragilidades: o tabelamento pode comprimir margens e afetar a oferta e a concorrência; a lei é vaga quanto à fórmula (apenas refere o Brent) e à fiscalização; a atualização semanal pelo Governo implica carga administrativa; o texto não estima efeitos nos preços finais nem na receita do Estado. A redução do preço final depende também dos impostos, que ficam fora do regime.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos; o tabelamento antes de impostos pode reduzir receita de IVA e ISP percentual, mas isso depende da evolução dos preços."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "empresas de transportes",
+  "agricultores e pescadores",
+  "empresas petrolíferas e postos"
+ ],
+ "categories": [
+  "energia",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "combustíveis",
+  "preços máximos",
+  "brent",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

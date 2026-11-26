@@ -1,0 +1,41 @@
+{
+ "short_title": "Isenção de IMI de oito anos para habitação própria",
+ "summary": "Projeto de Lei do Bloco de Esquerda que altera o artigo 46.º do Estatuto dos Benefícios Fiscais para fixar em oito anos o período de isenção de IMI aplicável a prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados a habitação própria e permanente, cujo valor patrimonial tributário não exceda 125 000 euros. A alteração aplica-se aos prédios adquiridos após a entrada em vigor e aos que já beneficiavam da isenção, deduzindo-se os anos decorridos. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Período de isenção de IMI de oito anos para habitação própria e permanente.",
+  "Aplica-se a prédios com valor patrimonial tributário até 125 000 euros.",
+  "Abrange prédios construídos, ampliados, melhorados ou adquiridos a título oneroso.",
+  "Norma transitória: aplica-se aos adquiridos após a entrada em vigor e aos que já beneficiavam da isenção, deduzindo os anos decorridos.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem compra ou constrói uma casa para viver não paga IMI durante alguns anos. O Bloco de Esquerda propõe alargar esse período para oito anos nas casas até 125 000 euros de valor patrimonial, para dar mais rendimento disponível às famílias.",
+ "context": "O proponente invoca a perda de poder de compra, o peso dos créditos à habitação, com cerca de 93% a taxa variável, e recorda que no período 2011-2015 o prazo de isenção foi reduzido de 4 e 8 anos para 3 anos. Defende reverter essa opção para proteger o direito à habitação.",
+ "analysis": "É uma medida de alívio fiscal clara e dirigida a casas de menor valor. Fragilidades: o IMI é receita municipal, pelo que a perda recai sobre as autarquias, e o texto não prevê compensação nem estima o impacto. A isenção beneficia compradores de habitação própria e não os inquilinos ou quem não consegue comprar. A aplicação a quem já beneficia da isenção aumenta a complexidade do regime transitório.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Alargar a isenção de IMI reduz a receita municipal deste imposto. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "Compradores de habitação própria e permanente",
+  "Municípios",
+  "Famílias com crédito à habitação"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "imi",
+  "isenção",
+  "habitação própria",
+  "estatuto dos benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

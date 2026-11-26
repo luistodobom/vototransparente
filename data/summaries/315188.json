@@ -1,0 +1,42 @@
+{
+ "short_title": "Carta dos direitos linguísticos da Comunidade Surda",
+ "summary": "O projeto de lei do PAN aprova a carta dos direitos linguísticos da Comunidade Surda, reconhecendo a Língua Gestual Portuguesa como língua de pleno direito, de caráter oficial, e meio legítimo de comunicação e acesso à informação. Define os falantes, fixa princípios (liberdade de escolha, não discriminação, acessibilidade universal e transversalidade), reconhece o direito à aprendizagem da língua gestual como língua veicular do ensino em todos os níveis, com ensino generalizado, e prevê o acesso em língua gestual nos serviços da Administração Pública, com bolsas de intérpretes e vídeo-interpretação. Impõe cooperação do Estado com as associações da comunidade surda e atribui a estas associações legitimidade processual para defender direitos protegidos pela lei. Entra em vigor 60 dias após a publicação.",
+ "key_points": [
+  "Reconhece a Língua Gestual Portuguesa como língua de pleno direito, de caráter oficial.",
+  "Direito à aprendizagem da língua gestual como língua veicular do ensino em todos os níveis de escolaridade.",
+  "Comunicação e acesso em língua gestual nos serviços da Administração Pública, com bolsas de intérpretes e vídeo-interpretação.",
+  "Cooperação do Estado com as associações representativas da comunidade surda.",
+  "Legitimidade processual das associações para a defesa dos direitos e interesses dos associados."
+ ],
+ "plain_language": "A proposta dá à Língua Gestual Portuguesa um estatuto legal de língua oficial e garante às pessoas surdas o direito de a usar na escola e nos serviços públicos, com intérpretes e vídeo-interpretação. As associações de surdos poderão defender estes direitos em tribunal e serão ouvidas pelo Estado.",
+ "context": "O PAN invoca o artigo 74.º da Constituição, que reconhece a língua gestual, a Convenção da ONU sobre os Direitos das Pessoas com Deficiência, recomendações internacionais e nacionais para legislação ordinária, e a petição \"Por uma inclusão efetiva nas escolas\". Compara com a Lei n.º 7/99, que reconheceu os direitos linguísticos da comunidade mirandesa.",
+ "analysis": "Dá estatuto legal e garantias práticas à língua gestual, com fundamento constitucional e internacional, e envolve as associações da comunidade. Fragilidades: várias normas remetem para regulamentação futura (\"nos termos legais a definir\"), sem prazos nem meios, e o ensino generalizado da língua gestual e a presença de intérpretes implicam recursos humanos e formação que não são quantificados. A atribuição de caráter oficial e a articulação com a legislação da educação inclusiva exigiriam esclarecimento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A disponibilização de intérpretes, vídeo-interpretação e formação em língua gestual implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "pessoas surdas e surdocegas",
+  "alunos e docentes em contexto educativo",
+  "serviços da Administração Pública",
+  "associações da comunidade surda"
+ ],
+ "categories": [
+  "direitos",
+  "educacao"
+ ],
+ "tags": [
+  "língua gestual portuguesa",
+  "comunidade surda",
+  "educação bilingue",
+  "acessibilidade",
+  "direitos linguísticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

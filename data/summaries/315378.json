@@ -1,0 +1,42 @@
+{
+ "short_title": "Despesas de transporte e trasladação de reclusos das regiões autónomas",
+ "summary": "Projeto de lei do PSD que determina que a Direção-Geral de Reinserção e Serviços Prisionais (DGRSP) suporta as despesas de transporte de regresso à ilha de residência, em caso de libertação, de reclusos que cumpram prisão preventiva, pena ou medida privativa da liberdade fora dessa ilha, e as despesas de trasladação do corpo para a ilha de residência em caso de falecimento. Aplica-se igualmente a menores internados em centros educativos fora da sua ilha. Altera o Código da Execução das Penas, o Regulamento Geral dos Estabelecimentos Prisionais, a Lei Tutelar Educativa e o Regulamento Geral e Disciplinar dos Centros Educativos.",
+ "key_points": [
+  "A DGRSP suporta o transporte de regresso à ilha de residência no momento da libertação do recluso.",
+  "A DGRSP suporta a trasladação do corpo para a ilha de residência em caso de morte do recluso.",
+  "Regras equivalentes para menores internados em centros educativos fora da sua ilha de residência.",
+  "Alteração de quatro diplomas, com novos artigos 36.º-A, 64.º-A, 158.º-C e 37.º-A."
+ ],
+ "plain_language": "Quando um recluso ou um menor das ilhas é colocado numa prisão ou centro educativo do continente, o Estado passa a pagar o regresso a casa, quando é libertado, e a viagem do corpo, se falecer. Assim, essa despesa deixa de recair sobre a família.",
+ "context": "O PSD refere o caso de um recluso açoriano que morreu em 2023 num estabelecimento do continente, para onde foi transferido por sobrelotação em Ponta Delgada, e cuja trasladação o Estado recusou inicialmente pagar por não haver obrigação legal. Pretende fixar na lei a responsabilidade do Estado para evitar retrocessos.",
+ "analysis": "Pontos fortes: clarifica uma lacuna legal, dá segurança jurídica às famílias e corrige uma desigualdade para quem é transferido por razões do Estado. Fragilidades: aplica-se a reclusos de qualquer ilha, incluindo a ilha de residência em geral, o que pode alargar o universo; o texto não estima o custo nem distingue casos em que a colocação fora da ilha foi pedida pelo recluso. A necessidade reflete a sobrelotação prisional, que a medida não resolve.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A DGRSP passa a suportar despesas de transporte e trasladação que podiam recair nas famílias. O texto não quantifica o custo."
+ },
+ "affected": [
+  "reclusos das regiões autónomas",
+  "famílias de reclusos",
+  "menores internados em centros educativos",
+  "DGRSP"
+ ],
+ "categories": [
+  "justica",
+  "territorio",
+  "direitos"
+ ],
+ "tags": [
+  "reclusos",
+  "trasladação",
+  "regiões autónomas",
+  "DGRSP",
+  "centros educativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

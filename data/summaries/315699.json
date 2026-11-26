@@ -1,0 +1,42 @@
+{
+ "short_title": "Reduz o horário para 35 horas e consagra 25 dias úteis de férias",
+ "summary": "Projeto de Lei do PAN que altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas. Reduz o limite máximo do período normal de trabalho no setor privado de 8 horas diárias e 40 semanais para 7 horas diárias e 35 semanais, igualando-o ao do setor público. Ajusta também normas sobre trabalho industrial, adaptabilidade e trabalho noturno (limite de sete horas) e fixa em 25 dias úteis a duração mínima das férias, tanto no setor privado como no público. A entrada em vigor ocorreria com o Orçamento do Estado subsequente à publicação da lei.",
+ "key_points": [
+  "Período normal de trabalho no setor privado reduzido para 7 horas por dia e 35 por semana.",
+  "Duração mínima das férias fixada em 25 dias úteis no Código do Trabalho.",
+  "Idem para trabalhadores em funções públicas, com 25 dias úteis de férias.",
+  "Ajustes nos limites do trabalho noturno e do trabalho industrial para sete horas e 35 horas semanais.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O PAN quer que quem trabalha no privado passe a ter o mesmo horário máximo de quem trabalha no Estado: 35 horas por semana, em vez de 40. Quer ainda que todos os trabalhadores tenham, no mínimo, 25 dias úteis de férias por ano. A medida começaria a valer com o próximo Orçamento do Estado.",
+ "context": "O proponente refere que os trabalhadores portugueses trabalham 1.868 horas por ano, mais 102 do que a média da OCDE (dados de um relatório de 2016), e que não há justificação para regimes diferentes entre o setor público e o privado. Defende ainda que menos horas e mais descanso beneficiam a vida familiar, a produtividade e o bem-estar.",
+ "analysis": "A medida uniformiza regimes e dá mais tempo de descanso, com apoio em argumentos de conciliação e produtividade. Contudo, os dados internacionais citados são antigos (2016) e o texto não estima o impacto nos custos das empresas, na competitividade ou no emprego, nem prevê transição ou apoios, nomeadamente para pequenas empresas e setores com turnos. A redução geral do horário pode ainda ser matéria de negociação coletiva, e o texto não esclarece o efeito sobre a retribuição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. Mais dias de férias e menos horas podem aumentar custos para o Estado enquanto empregador e para as empresas, sem montantes indicados."
+ },
+ "affected": [
+  "trabalhadores do setor privado",
+  "empresas",
+  "trabalhadores em funções públicas",
+  "trabalhadores noturnos"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "35 horas",
+  "período normal de trabalho",
+  "férias",
+  "Código do Trabalho",
+  "25 dias úteis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

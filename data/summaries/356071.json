@@ -1,0 +1,40 @@
+{
+ "short_title": "Criação da especialidade de Medicina Paliativa",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo que diligencie junto da Ordem dos Médicos para que seja criada a especialidade de Medicina Paliativa. Atualmente, a Medicina Paliativa está reconhecida na Ordem dos Médicos apenas como competência, e o número de médicos com essa competência é, segundo o proponente, manifestamente insuficiente. O texto invoca recomendações do Conselho da Europa e da Associação Europeia de Cuidados Paliativos sobre formação em três níveis, e salienta que a maioria dos médicos e enfermeiros não tem formação em cuidados paliativos. Por ser projeto de resolução, é uma recomendação não vinculativa, e a criação de especialidades compete à Ordem dos Médicos.",
+ "key_points": [
+  "Recomenda ao Governo que diligencie junto da Ordem dos Médicos a criação da especialidade de Medicina Paliativa.",
+  "Assenta na referência a recomendações europeias sobre formação básica, intermédia e avançada.",
+  "Aponta a falta de formação em cuidados paliativos entre médicos e enfermeiros.",
+  "É uma recomendação sem força vinculativa."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que se esforce junto da Ordem dos Médicos para que os cuidados paliativos passem a ser uma especialidade médica própria e não apenas uma competência. O objetivo é haver mais médicos formados nesta área.",
+ "context": "O proponente refere que apenas 30% dos doentes referenciados recebem cuidados paliativos especializados e que metade morre antes de haver vaga. Defende que é preciso formação desde o nível básico à especialização. Recorda a Resolução da Assembleia da República n.º 5/2017, sobre reforço da formação nesta área.",
+ "analysis": "A criação de uma especialidade pode dar maior estrutura à formação e à carreira, mas o Governo não decide sozinho: a Ordem dos Médicos é autónoma, pelo que a recomendação tem alcance limitado. O texto não explica porque é que o estatuto de competência é insuficiente, nem estima o número de médicos necessários, o calendário ou os custos. Aborda ainda de forma lateral a formação de enfermeiros.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação de uma especialidade e o aumento da formação podem implicar custos futuros, mas o texto não os quantifica."
+ },
+ "affected": [
+  "médicos",
+  "doentes em fim de vida",
+  "enfermeiros",
+  "Ordem dos Médicos"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "medicina paliativa",
+  "especialidade médica",
+  "Ordem dos Médicos",
+  "formação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

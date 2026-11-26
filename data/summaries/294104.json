@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço do financiamento do Estado às associações humanitárias de bombeiros",
+ "summary": "O PAN recomenda ao Governo que, em articulação com as associações representativas, reformule o modelo de financiamento do Estado às Associações Humanitárias de Bombeiros previsto na Lei n.º 94/2015, de modo a garantir um ressarcimento justo e atempado dos serviços prestados em nome do Estado. Recomenda ainda o estudo de um regime especial com prazo máximo de pagamento de serviços e de dívidas vencidas de entidades públicas, a revisão dos termos dos serviços de saúde prestados pelos bombeiros, para cobrir custos efetivos, equipamentos de proteção e higienização, e um levantamento nacional do equipamento, ponderando um programa plurianual de investimentos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reformular o modelo de financiamento da Lei n.º 94/2015 para um ressarcimento justo e atempado.",
+  "Estudar um regime especial com prazo máximo de pagamento das entidades públicas às associações.",
+  "Rever os termos dos serviços de saúde prestados pelos bombeiros para cobrir custos efetivos e equipamentos.",
+  "Fazer um levantamento nacional do equipamento dos corpos de bombeiros e ponderar um programa plurianual de investimento."
+ ],
+ "plain_language": "As associações de bombeiros dizem que o dinheiro que recebem do Estado não chega e que o SNS lhes deve muito. O PAN pede ao Governo que reveja o modelo de financiamento, fixe prazos para pagar as dívidas, reveja o que paga pelos serviços de saúde e identifique que equipamentos faltam. O pedido não obriga o Governo.",
+ "context": "O PAN cita a Liga dos Bombeiros Portugueses: entre 2016 e 2024 as associações foram prejudicadas em mais de 33 milhões de euros devido ao aumento de custos, e as dívidas do setor da saúde ultrapassam 28 milhões de euros. Cita ainda o INE, que aponta défices estruturais anuais superiores a 100 milhões de euros entre 2018 e 2022.",
+ "analysis": "A proposta assenta em dados concretos de subfinanciamento e dívidas e combina medidas de fundo com medidas de diagnóstico. Fragilidades: não fixa montantes, prazos máximos de pagamento nem critérios do novo modelo, e deixa o desenho ao Governo. O estudo e a ponderação não obrigam a mudanças. Os números provêm da Liga dos Bombeiros e do INE, sem confronto com outras fontes, e não indica fonte de financiamento. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um financiamento reforçado, o pagamento de dívidas e um programa de investimento em equipamento implicariam mais despesa pública. O texto não propõe montantes."
+ },
+ "affected": [
+  "associações humanitárias de bombeiros",
+  "bombeiros voluntários",
+  "SNS e unidades locais de saúde",
+  "populações servidas"
+ ],
+ "categories": [
+  "seguranca",
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "bombeiros",
+  "financiamento",
+  "dívidas do SNS",
+  "equipamento",
+  "associações humanitárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

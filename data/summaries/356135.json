@@ -1,0 +1,44 @@
+{
+ "short_title": "Direitos das crianças vítimas de violência doméstica e órfãs",
+ "summary": "O projeto de lei do PAN reforça a proteção das crianças vítimas de violência doméstica e maus-tratos e das crianças órfãs de homicídio em contexto de violência doméstica. Altera o Código de Processo Penal (artigos 134.º e 271.º), a Lei n.º 112/2009, o Estatuto da Vítima e o Decreto-Lei n.º 160/80. Clarifica que a recusa de depoimento é um ato pessoal da criança, torna obrigatórias as declarações para memória futura nestes crimes e permite valorar declarações anteriores ao julgamento. Regula a audição de crianças, com direito a informação, pessoa de confiança e perguntas adequadas à idade. Cria ainda uma pensão mensal de valor equivalente ao Indexante dos Apoios Sociais para os filhos de vítimas de homicídio em violência doméstica, sob a forma de pensão de sobrevivência ou de orfandade, com condições de acesso alinhadas.",
+ "key_points": [
+  "A recusa de depoimento passa a ser um ato pessoal da criança, não abrangido pela representação legal.",
+  "Declarações para memória futura tornam-se obrigatórias nos crimes de violência doméstica e maus-tratos contra menores.",
+  "Possibilidade de valorar declarações prestadas antes do julgamento, mesmo que a vítima se recuse a depor em audiência.",
+  "Regras para a audição de crianças: informação sobre a finalidade, pessoa de confiança, perguntas não sugestivas e duração adequada.",
+  "Pensão mensal equivalente ao IAS para filhos de vítimas de homicídio em contexto de violência doméstica.",
+  "Alinhamento das condições de acesso à pensão de orfandade com as da pensão de sobrevivência."
+ ],
+ "plain_language": "A proposta quer que as crianças que sofrem violência em casa, ou que ficam órfãs porque a mãe foi morta pelo companheiro, tenham mais proteção. Em tribunal, seriam ouvidas de forma mais cuidada e só quando indispensável, para não reviverem o trauma. As crianças órfãs passariam a receber todos os meses um apoio em dinheiro do Estado, de valor igual ao indexante dos apoios sociais.",
+ "context": "O proponente invoca os números de crianças acolhidas na rede de apoio a vítimas e de órfãos de feminicídio, e considera insuficientes o adiantamento de indemnização por seis meses e a proteção processual atual. Refere também divergências judiciais sobre a valoração de depoimentos anteriores ao julgamento e compromissos internacionais (Convenção sobre os Direitos da Criança, Convenção de Istambul).",
+ "analysis": "Pontos fortes: responde a lacunas identificadas (revitimização, apoio material duradouro) e inspira-se em soluções de outros países. Fragilidades: tornar obrigatória a memória futura e valorar declarações sem contraditório em julgamento pode suscitar questões de garantias de defesa e de constitucionalidade. A pensão tem custo orçamental não quantificado no texto, e as regras de redução por rendimento e causa da morte exigem aplicação cuidadosa. A recusa ser ato pessoal da criança pode gerar dificuldades práticas conforme a idade e maturidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma pensão mensal equivalente ao IAS para os filhos de vítimas de homicídio em violência doméstica implica nova despesa pública. O texto não apresenta estimativa do custo total."
+ },
+ "affected": [
+  "crianças vítimas de violência doméstica",
+  "crianças órfãs de vítimas de homicídio",
+  "tutores e famílias de acolhimento",
+  "magistrados e tribunais"
+ ],
+ "categories": [
+  "justica",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "violência doméstica",
+  "crianças",
+  "órfãos",
+  "memória futura",
+  "pensão de orfandade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

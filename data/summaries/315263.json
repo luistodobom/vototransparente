@@ -1,0 +1,41 @@
+{
+ "short_title": "Criação de Centros de Nascimento",
+ "summary": "Projeto de Lei do CHEGA que cria o enquadramento legal dos Centros de Nascimento, unidades de saúde baseadas no modelo de cuidados dos Enfermeiros Especialistas em Saúde Materna e Obstétrica, que privilegiam métodos não farmacológicos de alívio da dor. Os centros têm de definir critérios de admissão e processos de transferência para unidades hospitalares, ter liderança clínica e de gestão de enfermeiros especialistas, equipa multidisciplinar e ligação à rede local de cuidados. Localizam-se numa ala de um hospital com Ginecologia/Obstetrícia ou em edifício autónomo nas imediações. O Governo regulamenta em 180 dias, e a lei entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Define os Centros de Nascimento como unidades de saúde assentes no modelo de cuidados de enfermeiros obstetras.",
+  "Obriga a definir critérios de aptidão e processos de transferência para hospitais.",
+  "Exige liderança e gestão autónoma por enfermeiros especialistas, mesmo quando integrados em hospitais.",
+  "Localização numa ala de hospital com Ginecologia/Obstetrícia ou em edifício próprio nas imediações.",
+  "Regulamentação pelo Governo no prazo de 180 dias.",
+  "Entrada em vigor após a publicação do Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "O CHEGA propõe uma lei para criar centros onde as grávidas com gravidez sem complicações possam ter o parto num ambiente mais acolhedor, acompanhadas por enfermeiros obstetras e com menos medicação. Ficariam junto de hospitais, para onde a mulher seria transferida se houvesse problemas. O Governo teria 180 dias para regular o funcionamento.",
+ "context": "O proponente defende o direito das mulheres a escolher o local de parto e diz que este modelo, usado no Reino Unido, assegura um parto mais humanizado e, segundo estudos citados, custos médios menores e mais partos vaginais espontâneos. Refere que em Portugal ainda não foi implementado.",
+ "analysis": "A proposta dá base legal a um modelo com apoio de estudos e orientações internacionais, e prevê garantias como a transferência para hospital e a ligação à rede. A fundamentação assenta em dados do Reino Unido, sem avaliação do contexto português nem do custo e dos profissionais necessários. Remete aspetos centrais, como condições de abertura, para regulamentação, e o ritmo de implementação depende do Orçamento do Estado. Não explicita financiamento nem o impacto nas maternidades existentes.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Cita um estudo britânico de custo médio mais baixo por parto nestes centros, mas a criação das unidades implicaria investimento não estimado."
+ },
+ "affected": [
+  "grávidas",
+  "enfermeiros especialistas em saúde materna e obstétrica",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "centros de nascimento",
+  "parto",
+  "enfermeiros obstetras",
+  "saúde materna"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

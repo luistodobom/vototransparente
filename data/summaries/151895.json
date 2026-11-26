@@ -1,0 +1,41 @@
+{
+ "short_title": "Eliminar a Contribuição para o Audiovisual",
+ "summary": "A Iniciativa Liberal propõe eliminar a Contribuição para o Audiovisual (CAV), cobrada na fatura da eletricidade doméstica e entregue à RTP. O projeto estabelece que o financiamento do serviço público de radiodifusão e de televisão passa a ser assegurado pelas receitas comerciais dos respetivos serviços, nos termos da lei e dos contratos de concessão, e revoga a Lei n.º 30/2003, de 22 de agosto, que criou a contribuição. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação. Na exposição de motivos, o proponente refere que a CAV representa cerca de 2,85 euros por mês e 191 milhões de euros por ano.",
+ "key_points": [
+  "Elimina a Contribuição para o Audiovisual cobrada na fatura da eletricidade.",
+  "Determina que o serviço público de rádio e televisão seja financiado pelas suas receitas comerciais.",
+  "Revoga a Lei n.º 30/2003, de 22 de agosto.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje todos os consumidores de eletricidade em casa pagam uma contribuição mensal que financia a RTP. A Iniciativa Liberal quer acabar com ela, baixando a fatura, e que o serviço público de rádio e televisão passe a viver apenas das suas receitas comerciais, como a publicidade. O projeto não indica como seria compensada a RTP caso essas receitas não cheguem.",
+ "context": "O proponente invoca a crise dos preços da energia e considera insuficiente a redução do IVA da eletricidade feita pelo Governo. Argumenta que a contribuição distorce a concorrência no setor, obriga a pagar quem não usa os serviços da RTP e que os fundos públicos não devem financiar a radiodifusão, havendo hoje muitas alternativas.",
+ "analysis": "A medida reduz de forma direta e visível a fatura das famílias e retoma um argumento de neutralidade concorrencial. No entanto, o texto não explica como seriam garantidas as obrigações de serviço público apenas com receitas comerciais, nem se prevê alguma compensação orçamental à RTP, cujo financiamento atual ronda, segundo o proponente, 191 milhões de euros por ano. Existe o risco de redução da oferta de serviço público ou de recurso a outras fontes públicas. A comparação com França é referida, mas sem detalhes sobre o seu enquadramento. O projeto é muito sucinto na parte articulada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Elimina uma contribuição que, segundo o proponente, representa cerca de 191 milhões de euros por ano destinados à RTP. O texto não prevê financiamento alternativo."
+ },
+ "affected": [
+  "consumidores domésticos de eletricidade",
+  "RTP",
+  "trabalhadores do serviço público de rádio e televisão",
+  "operadores privados de rádio e televisão"
+ ],
+ "categories": [
+  "comunicacao",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "contribuição para o audiovisual",
+  "rtp",
+  "fatura da eletricidade",
+  "serviço público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

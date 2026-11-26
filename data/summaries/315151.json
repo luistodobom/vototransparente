@@ -1,0 +1,40 @@
+{
+ "short_title": "Tarifa fixa para viagens aéreas entre regiões autónomas e continente",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo, com urgência, a revisão integral do modelo de subsidiação da mobilidade aérea entre o continente e a Madeira e os Açores. Pede a substituição do atual regime reembolsável por um sistema eficaz e transparente de comparticipação direta, em que os cidadãos insulares pagam apenas o valor fixado para a viagem e o remanescente é compensado automaticamente pelo Estado às companhias aéreas, em cumprimento dos princípios da continuidade territorial e da coesão. É uma recomendação não vinculativa. O texto refere que os bilhetes são frequentemente superiores a trezentos euros por trajeto e que o Governo teria assumido compromissos de rever o modelo.",
+ "key_points": [
+  "Revisão integral, com urgência, do modelo de subsidiação da mobilidade aérea com as regiões autónomas.",
+  "Substituição do regime reembolsável por comparticipação direta.",
+  "Os cidadãos insulares pagam apenas o valor fixo e o Estado compensa o remanescente às companhias aéreas.",
+  "Invoca os princípios de continuidade territorial e coesão económica, social e geográfica."
+ ],
+ "plain_language": "Os residentes nos Açores e na Madeira pagam hoje a viagem de avião toda e só depois recebem parte do dinheiro. O Chega pede ao Governo que mude o sistema para que as pessoas paguem logo só um valor fixo e o Estado pague o resto diretamente às companhias. Como é uma recomendação, o Governo decide se a segue.",
+ "context": "O proponente sublinha que as ligações aéreas são a única forma viável de mobilidade, que os preços praticados, nomeadamente pela TAP por milha aérea, são elevados e que o modelo atual exige esforço financeiro desproporcionado. Afirma que o Governo assumiu compromissos de rever o regime, ainda por cumprir.",
+ "analysis": "Responde a um problema de liquidez frequentemente apontado e invoca princípios constitucionais claros. Fragilidades: não define o valor fixo, como seria financiado nem como se articularia com as companhias aéreas, e a afirmação sobre preços e compromissos do Governo não é acompanhada de fontes. Sendo recomendação, o efeito depende do Governo, e o custo para o Estado não é estimado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O Estado passaria a compensar diretamente as companhias aéreas pelo remanescente do preço. O texto não quantifica o custo."
+ },
+ "affected": [
+  "residentes dos Açores",
+  "residentes da Madeira",
+  "companhias aéreas",
+  "Estado"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "mobilidade aérea",
+  "subsídio social de mobilidade",
+  "tarifa fixa",
+  "continuidade territorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão restritiva da Lei da Nacionalidade",
+ "summary": "Proposta de Lei do Governo que altera, pela décima primeira vez, a Lei da Nacionalidade (Lei n.º 37/81). Passa a exigir residência legal dos progenitores à data do nascimento, prazos prévios de residência e declaração de vontade para a nacionalidade originária de filhos de estrangeiros. Na naturalização, os prazos de residência legal passam a quatro anos para apátridas, sete para cidadãos lusófonos e dez para os restantes, acrescem conhecimento da cultura portuguesa, dos direitos e deveres fundamentais e da organização política, e declaração solene de adesão aos princípios do Estado de Direito democrático, e a condenação a pena de prisão efetiva passa a impedir a naturalização. Elimina a via extraordinária para descendentes de judeus sefarditas, cria pena acessória de perda da nacionalidade para naturalizados condenados a prisão efetiva igual ou superior a cinco anos por crimes graves nos 10 anos seguintes, e aplica o novo regime a procedimentos pendentes iniciados após 19 de junho de 2025.",
+ "key_points": [
+  "Nacionalidade originária de filhos de estrangeiros nascidos em Portugal: exige declaração de vontade e que um dos progenitores resida legalmente no país há pelo menos três anos à data do nascimento.",
+  "Naturalização: residência legal de 4 anos para apátridas, 7 para lusófonos e 10 para os restantes; novos requisitos de conhecimento da cultura, dos direitos e deveres e da organização política, e declaração solene de adesão ao Estado de Direito democrático.",
+  "Condenação a pena efetiva de prisão, qualquer que seja a duração, passa a impedir a naturalização; menores nascidos em Portugal exigem 5 anos de residência legal de um progenitor e ensino obrigatório.",
+  "Cria pena acessória de perda da nacionalidade para naturalizados com outra nacionalidade condenados a prisão efetiva igual ou superior a cinco anos, por certos crimes cometidos nos 10 anos seguintes, aplicada por tribunal, com impedimento de novo pedido durante 10 anos.",
+  "Os períodos de residência legal podem somar-se desde que decorram numa janela de 6, 9 ou 12 anos (apátridas, lusófonos, outros), em vez dos 15 atuais, e deixa de contar o tempo de espera por autorização de residência.",
+  "Aplica o novo regime a procedimentos de naturalização pendentes iniciados após 19 de junho de 2025, e elimina a via extraordinária para descendentes de judeus sefarditas."
+ ],
+ "plain_language": "O Governo propõe tornar mais difícil obter a nacionalidade portuguesa. Os estrangeiros teriam de viver legalmente no país mais anos (sete ou dez, conforme a origem), mostrar que conhecem a língua, cultura e regras do país e não ter condenações a prisão efetiva. Quem se naturalizar e cometer crimes graves nos 10 anos seguintes pode perder a nacionalidade por decisão de um juiz.",
+ "context": "O Governo argumenta que as revisões de 2018 e 2020 facilitaram em excesso a atribuição e aquisição da nacionalidade, abdicando de exigir um vínculo efetivo e genuíno, e que se trata de reforçar a ligação à comunidade nacional. Justifica a aplicação a processos pendentes com a alegada submissão massiva de pedidos após a viabilização do Programa do Governo, invocando que não há expectativas jurídicas tuteladas.",
+ "analysis": "A proposta assenta numa fundamentação jurídica extensa, invocando a liberdade do legislador e jurisprudência constitucional, e responde à ideia de exigir uma ligação efetiva ao país. Contudo, o aumento dos prazos, a perda da nacionalidade e a aplicação a pedidos pendentes suscitam dúvidas de proporcionalidade, igualdade entre cidadãos e proteção da confiança, e a perda de nacionalidade só se aplica a quem tenha outra nacionalidade. O texto não quantifica os efeitos sobre o número de pedidos nem os custos administrativos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proposta menciona a limitação da gratuitidade dos procedimentos de naturalização, o que poderia aumentar receitas, mas não apresenta estimativas de receita ou custo."
+ },
+ "affected": [
+  "estrangeiros residentes que pretendam a nacionalidade portuguesa",
+  "filhos de estrangeiros nascidos em Portugal",
+  "descendentes de judeus sefarditas",
+  "naturalizados condenados por crimes graves",
+  "serviços de registo e tribunais"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "instituicoes"
+ ],
+ "tags": [
+  "nacionalidade",
+  "naturalização",
+  "lei orgânica",
+  "perda da nacionalidade",
+  "sefarditas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

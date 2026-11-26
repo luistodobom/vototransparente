@@ -1,0 +1,39 @@
+{
+ "short_title": "Levantamento das limitações do regime de maus tratos e abandono de animais",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que proceda à análise e levantamento das limitações do regime jurídico em vigor e da organização da resposta do sistema em matéria de maus tratos e abandono de animais, designadamente por comparação com outras práticas nacionais e ordenamentos jurídicos semelhantes; que inclua nessa análise a auscultação de associações de defesa dos animais, forças de segurança, entidades governamentais, municípios e instituições académicas e científicas; e que partilhe com a Assembleia da República os resultados e conclusões. O texto refere o Censo Nacional de Animais Errantes 2023 (mais de 830 mil animais errantes), quase dez mil crimes de abandono e maus tratos entre 2018 e 2022 com 17 detenções, e o acórdão do Tribunal Constitucional de 2024 que não declarou inconstitucional a criminalização. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Analisar e levantar as limitações do regime jurídico vigente sobre maus tratos e abandono de animais, incluindo comparação com outros países.",
+  "Auscultar associações, forças de segurança, municípios e entidades académicas e científicas.",
+  "Partilhar com a Assembleia da República os resultados da análise."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que estude onde falha a lei contra os maus tratos e o abandono de animais e a resposta dos serviços, ouvindo associações, polícias e câmaras, e que depois envie as conclusões ao Parlamento. Não propõe alterações concretas à lei nesta fase.",
+ "context": "O LIVRE refere que o crime de maus tratos a animais de companhia só existe desde 2014, que há mais de 830 mil animais errantes, que entre 2018 e 2022 houve quase dez mil crimes e 17 detidos, e que o Tribunal Constitucional chegou a anular condenações antes de, em 2024, não declarar a inconstitucionalidade da norma. Defende uma avaliação que não se limite aos animais de companhia.",
+ "analysis": "A proposta é de baixo risco e de baixo custo, e pode servir de base a futuras alterações legislativas. Em contrapartida, é um estudo sem prazo nem metodologia definidos e sem consequências obrigatórias, e não propõe medidas concretas, o que a torna de efeito limitado. Existem já dados e relatórios sobre o tema, e o texto não explica o que um novo levantamento acrescentaria. Como resolução, não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O estudo e a auscultação implicam custos administrativos reduzidos, não quantificados no texto."
+ },
+ "affected": [
+  "animais de companhia",
+  "associações de defesa dos animais",
+  "forças de segurança",
+  "municípios"
+ ],
+ "categories": [
+  "animais",
+  "justica"
+ ],
+ "tags": [
+  "maus tratos a animais",
+  "abandono",
+  "animais errantes",
+  "Código Penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

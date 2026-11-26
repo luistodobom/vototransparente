@@ -1,0 +1,42 @@
+{
+ "short_title": "Direitos das mulheres no acesso à IVG e à autodeterminação",
+ "summary": "Projeto de Lei do PCP que altera o artigo 142.º do Código Penal e os artigos 2.º, 4.º e 6.º da Lei n.º 16/2007 sobre a interrupção voluntária da gravidez (IVG). Alarga de 10 para 12 semanas o prazo da IVG por opção da mulher e para 14 semanas o da IVG para evitar perigo grave para a saúde, e simplifica a certificação, que se limita a comprovar que a gravidez não excede 12 semanas. Remete para portaria do Ministério da Saúde os procedimentos, atribuindo aos cuidados de saúde primários a informação, a ecografia de datação e a referenciação para a unidade do SNS escolhida. Sobre a objeção de consciência, o Ministério da Saúde e as unidades devem garantir que o acesso e os prazos não são prejudicados, a objeção produz efeitos em todos os estabelecimentos onde o profissional trabalha, e cria-se um registo nacional de objetores sob responsabilidade da DGS, com proteção de dados. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Prazo da IVG por opção da mulher passa de 10 para 12 semanas; IVG por perigo para a saúde, para 14 semanas.",
+  "Certificação limitada a comprovar que a gravidez não excede 12 semanas.",
+  "Cuidados de saúde primários asseguram informação, ecografia de datação e referenciação para a unidade escolhida.",
+  "Objeção de consciência produz efeitos em todos os estabelecimentos onde o profissional trabalha.",
+  "Registo nacional de objetores de consciência sob responsabilidade da DGS, com proteção de dados."
+ ],
+ "plain_language": "O PCP propõe alargar o prazo da IVG para 12 semanas e tornar o processo mais fácil, com os centros de saúde a orientarem a mulher até à unidade do SNS que escolher. Também quer um registo nacional dos profissionais que são objetores de consciência, para o SNS poder garantir que há quem faça a IVG.",
+ "context": "O PCP recorda a história da despenalização da IVG, cuja proposta de 12 semanas defende desde 1982, e afirma que, 17 anos após a Lei n.º 16/2007, o acesso no SNS continua limitado pela falta de médicos especialistas, desarticulação entre níveis de cuidados e uso abusivo da objeção de consciência. Atribui os problemas ao desinvestimento no SNS.",
+ "analysis": "A proposta combina medidas de direito (prazo) com medidas organizativas (referenciação, registo de objetores), o que responde a problemas apontados pela ERS. O registo nacional de objetores facilita o planeamento, mas pode levantar questões de privacidade, que o texto procura mitigar remetendo para a proteção de dados. O alargamento do prazo é uma questão ética sensível. A fragilidade principal é que boa parte do efeito depende de portaria futura e dos recursos do SNS, sem estimativa de custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço da referenciação, o registo nacional e a garantia de acesso podem aumentar a despesa do SNS. O texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "profissionais de saúde",
+  "unidades do SNS",
+  "cuidados de saúde primários"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "registo de objetores",
+  "12 semanas",
+  "Código Penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

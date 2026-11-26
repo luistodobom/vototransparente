@@ -1,0 +1,40 @@
+{
+ "short_title": "Sem contribuições adicionais do Estado para o Fundo de Resolução",
+ "summary": "Projeto de resolução da Iniciativa Liberal que recomenda ao Governo que não efetue quaisquer contribuições adicionais para o Fundo de Resolução, para além do contratualizado, nomeadamente sob a forma de empréstimos ou prestação de garantias, como admite o artigo 153.º-J do Decreto-Lei n.º 298/92. O texto defende que o Fundo seja capitalizado apenas por contribuições das instituições do sistema financeiro previstas na lei, para que os contribuintes não suportem prejuízos da banca. Recorda as resoluções do BES e do BANIF e o Acordo de Capital Contingente com a Lone Star, de 3890 milhões de euros.",
+ "key_points": [
+  "O Estado não deve fazer contribuições adicionais ao Fundo de Resolução, além do contratualizado.",
+  "Abrange empréstimos e garantias previstos no artigo 153.º-J do Decreto-Lei n.º 298/92.",
+  "O Fundo deve ser capitalizado apenas por contribuições do setor financeiro."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que não ponha mais dinheiro dos contribuintes no Fundo de Resolução, que financia a resolução de bancos em dificuldade. Defende que o dinheiro deve vir apenas dos bancos e de outras instituições financeiras. É uma recomendação sem força obrigatória.",
+ "context": "O proponente recorda que o Fundo foi usado nas resoluções do BES (2014) e do BANIF (2015), que o BES foi capitalizado em 4900 milhões de euros com um empréstimo do Estado de 3900 milhões, e que o Acordo de Capital Contingente com a Lone Star até 3890 milhões tinha cerca de 2900 milhões (74%) consumidos até ao fim do ano.",
+ "analysis": "A proposta defende um princípio claro de não utilização de dinheiro dos contribuintes para cobrir perdas privadas. Fragilidades: o Fundo tem compromissos contratuais futuros, e se as contribuições do setor não forem suficientes, a ausência de financiamento estatal pode pôr em causa a sua capacidade de cumprir obrigações ou de intervir em novas resoluções. O texto não discute este risco nem alternativas. A estimativa de 2900 milhões vem do proponente, sem fonte indicada.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "Evita novas despesas do Estado com empréstimos ou garantias ao Fundo de Resolução; o texto não quantifica a poupança."
+ },
+ "affected": [
+  "contribuintes",
+  "bancos e instituições financeiras",
+  "Fundo de Resolução",
+  "Estado"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "fundo de resolução",
+  "banca",
+  "lone star",
+  "novo banco",
+  "contribuintes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

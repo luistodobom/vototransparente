@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio para óculos, próteses dentárias, aparelhos auditivos e calçado ortopédico",
+ "summary": "O PCP propõe um regime de apoio financeiro, sob a forma de reembolso de 80% (deduzidos outros apoios), das despesas com óculos e lentes, próteses dentárias, aparelhos auditivos e calçado ortopédico. Os limites são: 350 euros por dois anos para óculos e lentes; 700 euros por três anos para a aquisição e reparação de próteses dentárias removíveis; 75 euros por ano para calçado ortopédico; e 700 euros para aparelhos auditivos. O apoio é concedido com cópia da receita médica e faturas detalhadas. São beneficiários os utentes com rendimentos mensais iguais ou inferiores a 2 IAS, mediante declaração de rendimentos. O Governo regulamenta até 30 de setembro de 2023 e a lei produz efeitos com o Orçamento seguinte, procurando o Governo aplicá-la ainda em 2023.",
+ "key_points": [
+  "Reembolso de 80% das despesas com óculos e lentes, próteses dentárias, aparelhos auditivos e calçado ortopédico.",
+  "Limites: 350 euros em dois anos (óculos), 700 euros em três anos (próteses removíveis), 75 euros por ano (calçado), 700 euros (aparelhos auditivos).",
+  "Beneficiários com rendimentos mensais até 2 IAS.",
+  "Regulamentação até 30 de setembro de 2023 e produção de efeitos com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Pessoas com poucos rendimentos poderiam receber de volta 80% do que gastam em óculos, dentes postiços, aparelhos para ouvir e sapatos ortopédicos, até um valor máximo. Para isso, teriam de apresentar a receita médica, as faturas e a declaração de rendimentos. O limite de rendimento é de 2 vezes o IAS por mês.",
+ "context": "O PCP aponta o aumento de preços de bens essenciais e a perda de poder de compra, e considera que a saúde da visão, oral e auditiva são áreas em que a resposta do SNS é insuficiente, deixando os utentes quase exclusivamente entregues ao setor privado, pelo que só quem tem mais recursos tem acesso aos cuidados.",
+ "analysis": "A proposta dá tetos claros e foca-se em quem tem menos rendimentos. Fragilidades: o modelo de reembolso exige que o utente adiante o valor, o que pode excluir os mais pobres; o limite de 2 IAS por mês deixa de fora famílias de rendimentos médios com despesas elevadas; e não há estimativa do custo nem de beneficiários. A cobertura dos aparelhos auditivos tem um teto sem prazo de renovação definido.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a reembolsar 80% de despesas com estes produtos até aos limites fixados; o texto não estima o custo global."
+ },
+ "affected": [
+  "utentes de baixos rendimentos",
+  "pessoas com problemas de visão, audição ou saúde oral",
+  "SNS e Segurança Social"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "óculos",
+  "próteses dentárias",
+  "aparelhos auditivos",
+  "calçado ortopédico",
+  "reembolso"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

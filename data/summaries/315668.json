@@ -1,0 +1,40 @@
+{
+ "short_title": "Rejuvenescimento da profissão docente",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo três medidas para renovar o corpo docente. Avaliar, junto da A3ES, um aumento significativo de vagas nos Mestrados em Ensino, sobretudo nas áreas e regiões com maior carência. Garantir a permanência dos professores contratados na carreira, agilizando a sua profissionalização em serviço. Isentar de qualquer tributação as horas extraordinárias realizadas pelos professores. O texto defende a renovação geracional, através de melhor atratividade da carreira e formação qualificada, em vez de prolongar a atividade de quem já está na profissão. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Avaliar com a A3ES um aumento significativo de vagas nos Mestrados em Ensino, nas áreas e regiões com mais carência.",
+  "Garantir a permanência dos professores contratados na carreira, agilizando a profissionalização em serviço.",
+  "Isentar de qualquer tributação as horas extraordinárias dos professores."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que ajude a trazer professores mais jovens para as escolas: mais vagas nos mestrados de ensino, mais facilidade para os professores contratados se profissionalizarem e isenção de impostos nas horas extra dos professores. É uma recomendação e o Governo decide se a segue.",
+ "context": "O proponente refere que quase 60% dos professores têm 50 ou mais anos (28% em 2013), que mais de 3000 se reformaram em 2023/2024 e que se esperam cerca de 4000 reformas por ano na próxima década. Aponta carências em Educação Especial, Inglês, Geografia, Matemática e Português, e rejeita soluções que passem por prolongar a atividade dos mais velhos.",
+ "analysis": "A iniciativa identifica um problema documentado (envelhecimento e carência de docentes) e propõe medidas que atuam na formação e na retenção. Fragilidades: aumentar vagas em mestrados não garante candidatos nem fixa professores em zonas carenciadas; a isenção fiscal de horas extra é uma medida de efeito limitado na atratividade inicial da carreira e cria uma exceção face a outras profissões; e o texto defende melhores salários iniciais sem os incluir na recomendação final. Reconhece custos, mas não os estima.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A isenção de tributação das horas extra reduziria receita fiscal e o aumento de vagas e profissionalização implicaria despesa; o texto reconhece custos mas não os quantifica."
+ },
+ "affected": [
+  "professores e candidatos à docência",
+  "escolas públicas",
+  "instituições de ensino superior",
+  "alunos"
+ ],
+ "categories": [
+  "educacao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "professores",
+  "carência docente",
+  "mestrados em ensino",
+  "horas extraordinárias",
+  "envelhecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

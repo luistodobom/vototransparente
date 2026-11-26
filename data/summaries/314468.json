@@ -1,0 +1,43 @@
+{
+ "short_title": "Carta dos direitos de reformados, pensionistas e idosos",
+ "summary": "Projeto de Lei do PCP que cria a Carta dos Direitos Fundamentais dos Reformados, dos Pensionistas e dos Idosos, aplicável aos de nacionalidade portuguesa e a todos os residentes em Portugal. Fixa deveres do Estado em várias áreas: reforma aos 65 anos e pensão digna, pensão social de velhice e valorização anual das pensões; saúde, com plano de saúde para idosos, gratuitidade dos cuidados nos cuidados de saúde primários, médico e enfermeiro de família, medicamentos gratuitos e apoio domiciliário; habitação digna e conforto térmico; cultura, desporto e acesso gratuito a transportes; participação; criação de redes públicas de equipamentos e serviços; apoio às universidades seniores e ao movimento associativo; e prevenção da violência. O Estado deve mobilizar recursos do Orçamento do Estado, e o diploma produz efeitos, nas matérias com mais despesa, com o Orçamento posterior.",
+ "key_points": [
+  "Garante o direito à reforma aos 65 anos, pensão social de velhice e valorização anual das pensões.",
+  "Prevê plano de saúde para idosos, médico e enfermeiro de família, medicamentos gratuitos e apoio domiciliário.",
+  "Assegura habitação digna e conforto térmico, bem como acesso à cultura, ao desporto e a transportes.",
+  "Prevê redes públicas de equipamentos e serviços de apoio e apoio às universidades seniores.",
+  "Reconhece o movimento associativo dos reformados, com representação no Conselho Económico e Social."
+ ],
+ "plain_language": "O PCP propõe uma lei que reúne num só texto os direitos das pessoas reformadas e idosas: pensões dignas e atualizadas, saúde e medicamentos gratuitos, casa adequada, acesso à cultura e a transportes, e apoio do Estado quando precisam de cuidados. Diz que o Estado deve pagar com o Orçamento, mas o texto não apresenta custos.",
+ "context": "O proponente afirma que Portugal não tem idosos a mais e que o aumento da esperança média de vida é uma conquista. Aponta que cerca de 70% dos idosos recebem menos de 600 euros, a pobreza e o isolamento, e defende que o Estado deve assegurar as funções sociais e serviços públicos consagrados na Constituição.",
+ "analysis": "A carta sistematiza direitos em várias áreas e reforça o papel do Estado, com critérios universais como a gratuitidade de medicamentos e de cuidados de saúde primários. Em contrapartida, muitas disposições são programáticas e genéricas, sem calendário, metas ou estimativa de custos, e a gratuitidade total dos medicamentos e transportes para todos os idosos teria impacto orçamental potencialmente elevado, sem identificação de fontes de financiamento. Remete a produção de efeitos de várias medidas para o Orçamento do Estado posterior, o que limita a aplicação imediata.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê gratuitidade de medicamentos e cuidados de saúde primários, valorização anual de pensões, redes públicas de equipamentos e outras medidas a financiar pelo Orçamento do Estado. O texto não quantifica custos."
+ },
+ "affected": [
+  "reformados e pensionistas",
+  "pessoas idosas",
+  "Serviço Nacional de Saúde",
+  "associações de reformados"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "idosos",
+  "pensões",
+  "carta de direitos",
+  "saúde",
+  "reformados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

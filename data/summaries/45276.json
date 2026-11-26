@@ -1,0 +1,42 @@
+{
+ "short_title": "Contratar mais professores, técnicos e não docentes para a escola pública",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo o reforço de pessoal nas escolas públicas no contexto da pandemia de COVID-19. Pede mais professores e educadores para reduzir o número de alunos por turma, desdobrar turmas, desfasar horários, acompanhar alunos à distância e proteger docentes de grupos de risco. Pede também a contratação e integração de todos os trabalhadores que respondam a necessidades permanentes, incluindo a conclusão do programa de regularização de vínculos precários (PREVPAP), o reforço de assistentes operacionais e técnicos, e de técnicos especializados para apoio social e psicológico aos estudantes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda o reforço de professores e educadores para reduzir alunos por turma e desdobrar turmas.",
+  "Pede proteção de docentes de grupos de risco e acompanhamento à distância.",
+  "Pede a conclusão do programa de regularização de vínculos precários na Administração Pública.",
+  "Pede o reforço de assistentes operacionais e técnicos para higienização e acompanhamento de alunos.",
+  "Pede mais técnicos especializados, nomeadamente apoio social e psicológico."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que contrate mais professores, auxiliares e técnicos, como psicólogos, para as escolas públicas funcionarem em segurança durante a pandemia, e que passe a efetivos quem já trabalha nas escolas em necessidades permanentes com contratos precários. É só uma recomendação.",
+ "context": "O proponente aponta a falta de professores em grupos de difícil recrutamento, a falta de funcionários não docentes, a portaria de rácios por rever e a precariedade laboral, problemas agravados pela pandemia, que exige turmas mais pequenas, higienização e recuperação de aprendizagens.",
+ "analysis": "A proposta identifica problemas reais, como a escassez de pessoal e a precariedade, e liga-os às exigências sanitárias. Fragilidades: não quantifica o número de profissionais a contratar nem o custo, não define prazos e não discute a existência de candidatos em grupos de recrutamento difícil, pelo que a contratação pode não resolver só por si a falta de professores. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais docentes, não docentes e técnicos aumentaria a despesa pública com pessoal, sem montante indicado no texto."
+ },
+ "affected": [
+  "professores",
+  "trabalhadores não docentes",
+  "alunos",
+  "técnicos especializados das escolas"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "escola pública",
+  "contratação",
+  "não docentes",
+  "covid-19",
+  "PREVPAP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Reintegrar o internato médico na carreira médica",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, em articulação com as organizações representativas dos médicos e dos médicos internos e com a Direção Executiva do SNS, proceda à reintegração do internato médico na carreira médica. O texto não detalha o modo, o calendário nem as consequências remuneratórias dessa reintegração. A exposição de motivos justifica a medida com a dificuldade do SNS em reter médicos, o peso crescente dos internos, que representam cerca de um terço da força de trabalho médica, e a pressão que sentem. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo a reintegração do internato médico na carreira médica.",
+  "Prevê articulação com organizações de médicos e internos e com a Direção Executiva do SNS.",
+  "Não define calendário, regras de progressão nem custos."
+ ],
+ "plain_language": "O PAN pede ao Governo que volte a incluir o internato, a fase de formação dos médicos recém-formados, na carreira médica, para valorizar estes profissionais e os manter no SNS. É apenas uma recomendação e não diz como nem quando.",
+ "context": "O PAN afirma que o SNS não consegue reter médicos devido à desvalorização das carreiras, à degradação do salário real, a sistemas que travam a progressão e ao número restrito de vagas nos graus superiores. Refere que os internos são cerca de um terço da força de trabalho médica e sujeitos a grande pressão.",
+ "analysis": "A proposta é consensual no seu objetivo e aparece em paralelo com projetos de lei de outros grupos que concretizam a medida em lei. Sendo apenas uma resolução, tem efeito político e não vincula o Governo. É muito genérica: não esclarece a categoria na carreira, o tratamento do tempo de internato, os efeitos remuneratórios ou o financiamento, nem apresenta dados que sustentem a eficácia da retenção.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A reintegração poderia ter efeitos remuneratórios, mas o texto não os define nem apresenta montantes."
+ },
+ "affected": [
+  "médicos internos",
+  "médicos do SNS",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internato médico",
+  "carreira médica",
+  "SNS",
+  "retenção de médicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

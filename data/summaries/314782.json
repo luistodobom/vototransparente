@@ -1,0 +1,43 @@
+{
+ "short_title": "Proibir importação e venda de bens de colonatos ilegais em territórios ocupados",
+ "summary": "O BE propõe uma lei que proíbe a importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios considerados ocupados pelo Direito Internacional. Define conceitos como colono ilegal, potência ocupante, recursos e bens de colonato, e prevê que o Governo publique e mantenha uma lista de territórios ocupados. Aplica-se a pessoas singulares com cidadania portuguesa ou residentes, a pessoas coletivas e a entidades sem personalidade jurídica que atuem em Portugal. Quem importar, vender, contratar serviços de colonatos ou extrair recursos de território ocupado é punido com pena de prisão até 5 anos, sendo a tentativa punível, com causas de exclusão previstas.",
+ "key_points": [
+  "Proíbe importar e vender bens de colonato, contratar os seus serviços e extrair recursos de território ocupado.",
+  "Pena de prisão até 5 anos, com a tentativa punível.",
+  "Território ocupado definido por decisões de tribunais internacionais ou por regulamento do Governo.",
+  "O Governo publica e atualiza a lista de territórios ocupados.",
+  "Exclui responsabilidade se existir consentimento da autoridade legítima do território ou se os bens não tiverem a origem visada."
+ ],
+ "plain_language": "A lei tornaria crime comprar, vender ou importar produtos feitos em colonatos considerados ilegais em territórios ocupados, como os que o BE refere na Palestina, e também explorar os recursos desses territórios. Quem o fizesse arriscaria até 5 anos de prisão. Seria o Governo a manter a lista dos territórios abrangidos.",
+ "context": "O BE justifica a iniciativa com a ocupação e a violência contra o povo palestiniano, o agravamento do conflito em Gaza desde outubro de 2023 e declarações sobre o futuro do território. Defende que a comunidade internacional deve responder com condenação e boicote económico, e propõe esta proibição como medida concreta.",
+ "analysis": "A proposta dá um critério jurídico para definir território ocupado, ligando-o a decisões de tribunais internacionais, e concretiza um mecanismo de proibição. Fragilidades: a exposição de motivos usa linguagem fortemente valorativa e o articulado não nomeia territórios. A pena de prisão até 5 anos é severa e a prova da origem de bens e serviços pode ser difícil na prática. Há questões de compatibilidade com a competência da União Europeia em matéria de comércio externo, que o texto não aborda, e o articulado tem referências remissivas pouco claras, por exemplo ao artigo 4.º.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não refere custos nem receitas. A fiscalização e a gestão da lista de territórios poderiam implicar encargos administrativos, não quantificados."
+ },
+ "affected": [
+  "importadores e comerciantes",
+  "empresas com ligações a colonatos",
+  "Governo",
+  "autoridades de fiscalização e tribunais"
+ ],
+ "categories": [
+  "internacional",
+  "justica",
+  "economia"
+ ],
+ "tags": [
+  "colonatos",
+  "territórios ocupados",
+  "Palestina",
+  "sanções penais",
+  "importação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

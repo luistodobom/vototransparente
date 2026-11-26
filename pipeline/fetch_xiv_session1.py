@@ -243,11 +243,11 @@ def parse(bid: int, frag: str) -> dict | None:
             blob = " ".join(_text(x) for x in soup.find_all(id=lambda x: x and x.startswith(prefix)))
             dm = DAR_RE.search(blob)
             if dm:
-                nr, y, mo, d, sl, leg, pgs = dm.groups()
+                dar_nr, y, mo, d, dar_sl, dar_leg, pgs = dm.groups()  # distinct names: don't clobber the bill's nr/leg
                 first = pgs.split("-")[0]
-                pubs = [{"pubTipo": "DAR I série", "pubNr": nr, "pubSL": sl, "pubdt": f"{y}-{mo}-{d}", "pag": [pgs],
-                         "URLDiario": f"https://debates.parlamento.pt/catalogo/r3/dar/01/{ROMAN.get(leg, 14):02d}/"
-                                      f"{int(sl):02d}/{int(nr):03d}/{y}-{mo}-{d}/{first}?pgs={pgs}&org=PLC"}]
+                pubs = [{"pubTipo": "DAR I série", "pubNr": dar_nr, "pubSL": dar_sl, "pubdt": f"{y}-{mo}-{d}", "pag": [pgs],
+                         "URLDiario": f"https://debates.parlamento.pt/catalogo/r3/dar/01/{ROMAN.get(dar_leg, 14):02d}/"
+                                      f"{int(dar_sl):02d}/{int(dar_nr):03d}/{y}-{mo}-{d}/{first}?pgs={pgs}&org=PLC"}]
         events.append({"DataFase": data, "Fase": _text(lbl), "Votacao": votes or None, "PublicacaoFase": pubs})
 
     return {

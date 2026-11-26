@@ -1,0 +1,42 @@
+{
+ "short_title": "Plano nacional contra a violência sexual baseada em imagens",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que adote um plano nacional de combate à violência sexual baseada em imagens, articulado com as políticas de juventude, de combate à violência contra as mulheres e ao tráfico de seres humanos. O plano incluiria respostas especializadas para as vítimas, como gabinetes de apoio e pontos de informação em escolas e universidades, formação de magistrados, forças de segurança, profissionais de saúde e outros, e divulgação regular de dados. Pede ainda que se cumpram disposições do Orçamento do Estado para 2025 sobre dados do crime de devassa e queixa eletrónica.",
+ "key_points": [
+  "Adotar um plano nacional de combate à violência sexual baseada em imagens.",
+  "Criar respostas especializadas para as vítimas, incluindo gabinetes e pontos de informação em escolas e universidades.",
+  "Formar magistrados, forças de segurança, profissionais de saúde, psicólogos escolares e assistentes sociais.",
+  "Divulgar dados regulares sobre a prevalência do fenómeno.",
+  "Divulgar dados do crime de devassa (artigo 193.º do Código Penal) e permitir queixa pelo portal Queixa Eletrónica."
+ ],
+ "plain_language": "O PAN pede ao Governo um plano nacional contra a partilha de imagens íntimas sem consentimento e outras formas de abuso por imagens, com apoio às vítimas, formação de profissionais e dados públicos. O Governo não é obrigado a seguir.",
+ "context": "O PAN cita estudos que apontam vítimas de partilha não consentida de imagens e refere a Lei 26/2023, que reforçou a proteção das vítimas. Considera que redes sociais continuam a ser usadas para este tipo de violência e que o Governo ainda não executou duas medidas do Orçamento do Estado para 2025 aprovadas por proposta do PAN.",
+ "analysis": "A iniciativa articula prevenção, apoio e dados e aponta incumprimentos concretos do Orçamento do Estado. Contudo, os estudos citados têm amostras e resultados muito diferentes entre si, o que dificulta aferir a dimensão do problema. O texto não define calendário, entidade responsável, metas nem orçamento do plano, e o combate ao papel das plataformas digitais fica fora das recomendações. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de gabinetes de apoio, formação e sistemas de dados implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "vítimas de violência sexual baseada em imagens",
+  "estudantes e jovens",
+  "magistrados e forças de segurança",
+  "profissionais de saúde e de educação"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "seguranca"
+ ],
+ "tags": [
+  "violência sexual",
+  "imagens íntimas",
+  "devassa",
+  "plano nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

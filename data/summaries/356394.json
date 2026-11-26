@@ -1,0 +1,42 @@
+{
+ "short_title": "Acreditação do laboratório da Polícia Científica em ADN e lofoscopia",
+ "summary": "O projeto de resolução do JPP recomenda ao Governo que promova, com urgência, a acreditação do Laboratório de Polícia Científica da Polícia Judiciária junto do Instituto Português de Acreditação (IPAC) nos domínios da genética forense (ADN) e da lofoscopia, segundo a norma EN ISO/IEC 17025. Pede ainda que assegure a conformidade do sistema forense nacional com a Decisão-Quadro 2009/905/JAI do Conselho e que garanta a capacidade de Portugal cumprir os deveres de cooperação judiciária europeia, com resultados periciais fiáveis e reconhecidos internacionalmente. Sendo uma resolução, é uma recomendação não vinculativa ao Governo.",
+ "key_points": [
+  "Acreditação urgente do Laboratório de Polícia Científica da PJ pelo IPAC em ADN e lofoscopia.",
+  "Aplicação da norma EN ISO/IEC 17025.",
+  "Conformidade do sistema forense nacional com a Decisão-Quadro 2009/905/JAI.",
+  "Garantia de que Portugal cumpre os deveres de cooperação judiciária europeia."
+ ],
+ "plain_language": "O laboratório da Polícia Judiciária que analisa ADN e impressões digitais não tem a acreditação formal exigida por normas europeias nessas áreas. O JPP pede ao Governo que a obtenha depressa, para que as provas feitas nesse laboratório sejam fiáveis e não possam ser postas em causa nos tribunais. É uma recomendação, que o Governo pode não cumprir.",
+ "context": "O proponente afirma que, segundo informação pública, o laboratório não está acreditado nestas duas áreas, o que pode fragilizar a confiança mútua com outros Estados-Membros e criar risco de contestação da validade de perícias em processos penais, incluindo casos graves e prisões preventivas.",
+ "analysis": "A iniciativa liga um requisito técnico reconhecido a segurança jurídica e à cooperação europeia, e tem um objetivo claro. Fragilidades: a base factual depende de informação pública citada e não é demonstrada no texto; o risco de invalidação de provas é apresentado como hipótese sobre a futura interpretação do Tribunal de Justiça da UE; o texto não dá prazos, custos ou etapas para a acreditação; e a decisão-quadro tem finalidade de cooperação transfronteiriça, o que o próprio texto reconhece. Como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A acreditação pode implicar despesa com auditorias, equipamentos e formação, mas o texto não indica montantes."
+ },
+ "affected": [
+  "Laboratório de Polícia Científica da PJ",
+  "tribunais e Ministério Público",
+  "arguidos e vítimas em processos penais",
+  "Governo"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "internacional"
+ ],
+ "tags": [
+  "acreditação",
+  "adn",
+  "lofoscopia",
+  "polícia judiciária",
+  "prova pericial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Monitorizar preços de bens essenciais após tempestades",
+ "summary": "Este projeto de resolução do Bloco de Esquerda recomenda ao Governo que determine que a ASAE integre a monitorização dos preços de bens essenciais nas ações de fiscalização que já decorrem sobre serviços e materiais de construção, nos territórios em situação de calamidade declarada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e respetivos alargamentos. O objetivo é evitar especulação de preços nas zonas afetadas pela tempestade Kristin e depressões subsequentes. É uma recomendação não vinculativa. O texto refere que o Governo decretou calamidade em 69 concelhos.",
+ "key_points": [
+  "Recomenda que a ASAE monitorize os preços de bens essenciais nos concelhos em situação de calamidade.",
+  "A monitorização integra as ações de fiscalização já em curso sobre serviços e materiais de construção.",
+  "Aplica-se aos territórios abrangidos pela Resolução do Conselho de Ministros n.º 15-B/2026 e alargamentos.",
+  "É uma recomendação sem força vinculativa."
+ ],
+ "plain_language": "Depois das tempestades, o Bloco de Esquerda quer que a ASAE vigie se os preços de bens básicos sobem de forma abusiva nas zonas afetadas. É um pedido ao Governo, que não o obriga.",
+ "context": "O proponente descreve que, desde o início de 2026, a tempestade Kristin e as depressões seguintes causaram mortes, destruição de casas e locais de trabalho e danos em infraestruturas, levando à declaração de calamidade em 69 concelhos. Considera necessário evitar especulação de preços sobre famílias já pressionadas.",
+ "analysis": "A medida é simples, de custo reduzido e aproveita ações de fiscalização já existentes. No entanto, o texto não define quais são os bens essenciais, os critérios para considerar um preço abusivo, nem prevê recursos adicionais para a ASAE, embora o preâmbulo fale em instruções e recursos. A monitorização por si só não trava aumentos, e o efeito depende de existirem instrumentos sancionatórios aplicáveis.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida integra ações de fiscalização já em curso e o texto não prevê despesa nova específica."
+ },
+ "affected": [
+  "residentes das zonas em calamidade",
+  "comerciantes",
+  "consumidores",
+  "ASAE"
+ ],
+ "categories": [
+  "consumidores",
+  "seguranca"
+ ],
+ "tags": [
+  "ASAE",
+  "preços",
+  "calamidade",
+  "tempestade Kristin",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

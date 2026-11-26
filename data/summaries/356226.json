@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão do regime das Comunidades de Energia Renovável",
+ "summary": "Este Projeto de Resolução do CHEGA recomenda ao Governo uma revisão estratégica do regime jurídico das Comunidades de Energia Renovável. Pede uma avaliação técnica e económica independente do impacto do regime na estabilidade do sistema elétrico, qualidade de serviço, estrutura tarifária e sustentabilidade das redes, um sistema permanente de monitorização e publicação anual de dados, a simplificação dos procedimentos de constituição e licenciamento com reforço de meios, apoio técnico a entidades de interesse público e territórios de baixa densidade, a garantia de neutralidade concorrencial, equidade entre consumidores e sustentabilidade tarifária, e a integração numa estratégia nacional de produção descentralizada, armazenamento e modernização das redes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação técnica e económica independente do regime jurídico das CER.",
+  "Monitorização permanente e publicação anual de dados sobre potência instalada, energia partilhada e localização.",
+  "Simplificação de procedimentos e redução de prazos, com reforço de meios das entidades competentes.",
+  "Apoio técnico a entidades de interesse público e territórios de baixa densidade.",
+  "Qualquer revisão tarifária deve respeitar neutralidade concorrencial, equidade e sustentabilidade do sistema elétrico.",
+  "Integração numa estratégia nacional de produção descentralizada, armazenamento e redes."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que avalie, com um estudo independente, como as comunidades locais de energia renovável afetam a rede elétrica e os preços para todos, que recolha e publique dados e que simplifique os processos de criação, sobretudo para bombeiros, IPSS e zonas do interior. Quer também que as regras tarifárias sejam justas para todos os consumidores.",
+ "context": "O proponente defende que a soberania energética e a estabilidade do sistema elétrico exigem prudência regulatória, e que a produção descentralizada não substitui a rede. Aponta constrangimentos administrativos para projetos pequenos, a ausência de dados consolidados sobre as CER e a necessidade de avaliar o impacto tarifário antes de alterar o regime.",
+ "analysis": "A proposta combina simplificação administrativa e apoio a entidades de interesse público com cautelas sobre a estabilidade e a tarifa, o que equilibra incentivo e risco. Fragilidades: pede avaliação e monitorização mas não define prazos, entidade responsável ou metas; a ênfase na neutralidade concorrencial pode ser lida como limitação a benefícios para as CER; e as críticas à ausência de dados não são acompanhadas por números. A natureza recomendatória limita o efeito.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto recomenda estudos, monitorização e reforço de meios, o que implica despesa menor, e uma possível revisão tarifária cujo efeito não é quantificado."
+ },
+ "affected": [
+  "comunidades de energia renovável",
+  "IPSS, bombeiros e cooperativas",
+  "consumidores de eletricidade",
+  "operadores das redes elétricas",
+  "territórios de baixa densidade"
+ ],
+ "categories": [
+  "energia",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "comunidades de energia renovável",
+  "Sistema Elétrico Nacional",
+  "sustentabilidade tarifária",
+  "simplificação administrativa",
+  "soberania energética"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

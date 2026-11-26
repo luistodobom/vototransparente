@@ -1,0 +1,41 @@
+{
+ "short_title": "Segurança dos portugueses na Venezuela",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo medidas para garantir a segurança da comunidade portuguesa e lusodescendente na Venezuela. Pede que Portugal diligencie junto da comunidade internacional, em especial dos Estados Unidos, para que as autoridades de Caracas libertem os presos políticos, incluindo portugueses e lusodescendentes, respeitem a vida e a propriedade e aceitem eleições livres. Pede também a preparação, com os EUA e a União Europeia, de um cenário de evacuação, o reforço temporário dos meios do Ministério dos Negócios Estrangeiros na Venezuela e o diálogo com as instituições da comunidade luso-venezuelana. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Diligenciar junto da comunidade internacional e dos EUA pela libertação dos presos políticos, incluindo portugueses.",
+  "Exigir respeito pela vida e propriedade dos lusodescendentes e eleições livres.",
+  "Preparar com os EUA e a UE um possível cenário de evacuação de luso-venezuelanos.",
+  "Ponderar o reforço temporário dos meios humanos do MNE na Venezuela.",
+  "Reforçar o diálogo e o apoio às instituições da comunidade luso-venezuelana."
+ ],
+ "plain_language": "O Chega pede ao Governo que proteja os portugueses e descendentes de portugueses que vivem na Venezuela, num momento de instabilidade política. Sugere pressão diplomática para libertar presos, um plano de evacuação se a situação piorar, mais pessoal nos serviços do Estado no país e mais contacto com as associações da comunidade. É uma recomendação, não obriga o Governo.",
+ "context": "O proponente descreve a instabilidade política na Venezuela após a detenção de Nicolás Maduro em janeiro de 2026 e tensões dentro do regime. Sublinha a dimensão da comunidade portuguesa, com cerca de 220 mil portugueses registados nos serviços consulares em novembro de 2025, e estima em até 1,2 milhões os venezuelanos de ascendência portuguesa.",
+ "analysis": "A iniciativa responde a uma preocupação legítima com uma grande comunidade e propõe medidas práticas, como o planeamento de contingência. Contudo, a exposição de motivos contém juízos políticos fortes sobre terceiros e baseia-se em notícias e fontes externas, e algumas recomendações, como a pressão sobre Caracas, dependem de terceiros fora do controlo do Governo. Os pedidos são formulados de forma genérica, sem meios ou prazos concretos, e a evacuação de números elevados de pessoas teria dificuldades logísticas não analisadas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios humanos e a preparação de planos de evacuação podem implicar despesa adicional do MNE, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "comunidade portuguesa e lusodescendente na Venezuela",
+  "Ministério dos Negócios Estrangeiros",
+  "serviços consulares"
+ ],
+ "categories": [
+  "internacional",
+  "direitos"
+ ],
+ "tags": [
+  "Venezuela",
+  "comunidade portuguesa",
+  "evacuação",
+  "diplomacia",
+  "presos políticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

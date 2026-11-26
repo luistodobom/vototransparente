@@ -1,0 +1,39 @@
+{
+ "short_title": "Papel das rádios em situações de catástrofe",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo duas medidas: avaliar e eventualmente rever o Regime de Incentivos à Comunicação Social, em particular os programas de apoio às rádios locais e regionais, incluindo para investimento em medidas de resiliência e continuidade de emissão, como sistemas de alimentação elétrica de emergência (geradores); e promover a articulação entre os organismos responsáveis pela comunicação social e pela proteção civil para definir orientações e boas práticas que reforcem o papel das rádios como instrumentos de informação em crises.",
+ "key_points": [
+  "Avaliar e eventualmente rever o Regime de Incentivos à Comunicação Social para apoiar a resiliência das rádios locais e regionais.",
+  "Apoiar o investimento em geradores e planos de continuidade de emissão.",
+  "Articular a comunicação social e a proteção civil na definição de boas práticas para crises."
+ ],
+ "plain_language": "Quando falha a luz e a internet, a rádio pode ser o único meio de chegar às pessoas. O PSD pede ao Governo que veja se os apoios às rádios locais podem ajudá-las a comprar geradores e que combine com a proteção civil como usar a rádio em emergências. É uma recomendação.",
+ "context": "O PSD afirma que a rádio é frequentemente o último meio operacional quando há falhas de energia, redes móveis e internet, como na tempestade recente e no apagão de abril do ano anterior. Acrescenta que geradores e manutenção são um encargo pesado para rádios locais e regionais.",
+ "analysis": "A proposta é prudente e usa um instrumento existente, o regime de incentivos, em vez de criar um novo. Fragilidades: pede apenas avaliação e eventual revisão, sem montantes, prazos ou critérios de apoio, e não identifica quantas rádios precisam de geradores. A articulação com a proteção civil fica genérica. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Rever o regime de incentivos para financiar geradores e continuidade de emissão pode aumentar o apoio público às rádios; o texto não quantifica."
+ },
+ "affected": [
+  "rádios locais e regionais",
+  "população em zonas afetadas por catástrofes",
+  "proteção civil"
+ ],
+ "categories": [
+  "comunicacao",
+  "seguranca"
+ ],
+ "tags": [
+  "rádios locais",
+  "comunicação social",
+  "proteção civil",
+  "geradores",
+  "incentivos à comunicação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

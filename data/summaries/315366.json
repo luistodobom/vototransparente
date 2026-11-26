@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas contra a alga invasora no Algarve",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo três medidas sobre a alga invasora Rugulopteryx okamurae, que afeta a costa algarvia: apoiar a Universidade do Algarve na investigação dos efeitos na biodiversidade marinha, nos meios de conter a expansão e em utilizações com valor comercial que reduzam os custos de remoção; assegurar meios para o restauro do ecossistema marinho, dos habitats e da biodiversidade, nos termos do regulamento europeu do restauro da natureza; e criar uma linha de apoio financeiro aos municípios para a remoção contínua das algas das praias e para redes e barreiras que as impeçam de chegar ao areal. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apoiar a investigação da Universidade do Algarve sobre a alga invasora.",
+  "Assegurar meios de restauro do ecossistema marinho, nos termos do regulamento europeu do restauro da natureza.",
+  "Criar uma linha de apoio financeiro aos municípios para remoção contínua de algas.",
+  "Financiar redes e barreiras para limitar a chegada das algas ao areal."
+ ],
+ "plain_language": "Uma alga invasora está a espalhar-se pela costa do Algarve, a afetar a vida marinha, a pesca e as praias. O PS pede ao Governo que financie a investigação, o restauro do ecossistema e a limpeza das praias pelos municípios. É apenas uma recomendação.",
+ "context": "O PS descreve a alga, originária do Japão e da Coreia, como causa de afastamento de polvos, moluscos e peixes, prejuízo para pescadores e desconforto de banhistas. Refere que os municípios removem dezenas de toneladas a custo de milhares de euros e que pediram apoio científico à Universidade do Algarve.",
+ "analysis": "A proposta atende a um problema com impacto ambiental e económico local, combinando ciência, restauro e apoio imediato. Fragilidades: não indica montantes, calendário nem entidades responsáveis; a limpeza contínua e as barreiras tratam sintomas e podem ter eficácia limitada, como o próprio texto admite ao referir que as algas regressam no dia seguinte; falta avaliação do impacto ambiental das barreiras. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoio à investigação, ao restauro e uma linha de financiamento aos municípios aumentariam a despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "municípios do Algarve",
+  "pescadores",
+  "operadores turísticos",
+  "Universidade do Algarve"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "agricultura"
+ ],
+ "tags": [
+  "alga invasora",
+  "Algarve",
+  "biodiversidade marinha",
+  "limpeza de praias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Financiamento permanente da redução tarifária nos transportes",
+ "summary": "Projeto de lei do PCP que estabelece o financiamento permanente do Programa de Apoio à Redução Tarifária (PART) nos transportes públicos. Cria a Contribuição de Serviço Público de Transportes Públicos (CSPTP), resultante da diminuição da Contribuição de Serviço Rodoviário (CSR) e consignada ao PART, com valores de 29 euros por mil litros de gasolina, 37 de gasóleo rodoviário e 41 de GPL auto. A CSR baixa para 58, 74 e 82 euros por mil litros, respetivamente, mantendo o total das taxas. A receita é do Fundo Ambiental e distribuída pelas autoridades de transporte segundo critérios a fixar por portaria; o acesso ao PART exige uma comparticipação mínima de 10% da verba transferida pelo Estado. Entra em vigor com o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Cria a Contribuição de Serviço Público de Transportes Públicos, consignada ao PART.",
+  "Valores: 29 euros por mil litros de gasolina, 37 de gasóleo rodoviário e 41 de GPL auto.",
+  "Reduz a Contribuição de Serviço Rodoviário para 58, 74 e 82 euros por mil litros, mantendo o total cobrado.",
+  "Receita própria do Fundo Ambiental, distribuída pelas autoridades de transporte por critérios a definir.",
+  "Comparticipação mínima das autoridades de transporte de 10% da verba que lhes for transferida pelo Estado."
+ ],
+ "plain_language": "Os apoios que reduziram o preço dos passes dependem hoje do Orçamento do Estado de cada ano. O PCP propõe criar uma taxa sobre os combustíveis, retirada da atual taxa rodoviária, cuja receita ficaria sempre destinada a pagar essas reduções, sem aumentar o preço dos combustíveis.",
+ "context": "O PCP defende que a redução tarifária teve resultados positivos mas que a solução de financiamento usada em 2019, 2020 e 2021 não garante o futuro. Propõe usar um terço da receita da Contribuição de Serviço Rodoviário, que em 2019 foi de 693 milhões de euros, e argumenta que a Infraestruturas de Portugal pode ser compensada pelo Orçamento, pela renegociação das PPP rodoviárias e por outra política de financiamento.",
+ "analysis": "A proposta dá estabilidade ao financiamento do PART e evita novos impostos ao redistribuir uma taxa existente, o que é um ponto forte. Fragilidades: reduz a receita da Infraestruturas de Portugal, que o PCP admite ser compensada pelo Orçamento ou pela renegociação das PPP, sem quantificar; a consignação de receitas reduz a flexibilidade orçamental; e os critérios de repartição ficam por portaria. A comparticipação mínima de 10% das autoridades de transporte pode pesar sobre municípios. O texto não apresenta estimativa do valor transferido.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A receita da CSR baixa e a da CSPTP sobe no mesmo valor, mantendo o total das taxas; o efeito líquido depende da compensação à Infraestruturas de Portugal. O texto indica 693 milhões de euros de CSR em 2019 e propõe afetar um terço ao PART."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "autoridades de transporte e municípios",
+  "Infraestruturas de Portugal",
+  "operadores de transporte"
+ ],
+ "categories": [
+  "transportes",
+  "fiscalidade",
+  "ambiente"
+ ],
+ "tags": [
+  "part",
+  "redução tarifária",
+  "contribuição de serviço rodoviário",
+  "transportes públicos",
+  "fundo ambiental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

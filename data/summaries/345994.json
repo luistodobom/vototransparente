@@ -1,0 +1,42 @@
+{
+ "short_title": "DGRSP paga transporte e trasladação fora da ilha de residência",
+ "summary": "Projeto de lei do BE que obriga a Direção-Geral de Reinserção e Serviços Prisionais (DGRSP) a pagar na totalidade as despesas de regresso à ilha de residência, no momento da libertação, e de trasladação do corpo, em caso de morte, de reclusos detidos fora da sua ilha. Estende o regime a crianças e jovens internados em centros educativos e a inimputáveis e imputáveis internados em estabelecimentos para inimputáveis. Altera o Regulamento Geral dos Estabelecimentos Prisionais (artigos 31.º, 63.º e 252.º), a Lei Tutelar Educativa (artigo 158.º) e o Regulamento Geral e Disciplinar dos Centros Educativos (novo artigo 37.º-A). Produz efeitos com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Despesas de regresso à ilha de residência de reclusos libertados suportadas totalmente pela DGRSP.",
+  "Despesas de trasladação do corpo para a ilha de residência suportadas pela DGRSP.",
+  "Extensão a menores em centros educativos e a internados em estabelecimentos para inimputáveis.",
+  "Efeitos com a entrada em vigor do Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quando alguém das ilhas está preso ou internado no continente, o Estado passa a pagar a viagem de regresso quando sai e o transporte do corpo para a ilha de origem se morrer. As famílias deixam de ter de suportar estas despesas.",
+ "context": "O BE aponta uma omissão no Regulamento Geral dos Estabelecimentos Prisionais, evidenciada em 2023 quando a DGRSP recusou pagar a trasladação de um recluso falecido, transferido para o Linhó por sobrelotação do estabelecimento de Ponta Delgada. A DGRSP acabou por recuar após indignação pública, e o BE quer um enquadramento legal certo.",
+ "analysis": "Pontos fortes: preenche um vazio legal, abrange também internados em estabelecimentos para inimputáveis e dá certeza às famílias. Fragilidades: estabelece o pagamento integral, sem distinguir casos, e não estima os custos nem prevê reforço orçamental da DGRSP. Existe iniciativa semelhante de outro grupo parlamentar, pelo que poderá haver articulação entre textos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A DGRSP passa a suportar integralmente despesas de transporte e trasladação, sem que o texto estime o montante."
+ },
+ "affected": [
+  "reclusos das regiões autónomas",
+  "famílias de reclusos",
+  "menores em centros educativos",
+  "DGRSP"
+ ],
+ "categories": [
+  "justica",
+  "territorio",
+  "direitos"
+ ],
+ "tags": [
+  "trasladação",
+  "reclusos",
+  "DGRSP",
+  "regiões autónomas",
+  "centros educativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

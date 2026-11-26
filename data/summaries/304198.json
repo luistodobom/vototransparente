@@ -1,0 +1,43 @@
+{
+ "short_title": "Faltas remuneradas para cuidados paliativos a familiares",
+ "summary": "Projeto de Lei do Livre que garante remuneração às faltas justificadas para prestar assistência a familiares em cuidados paliativos. Altera o artigo 252.º do Código do Trabalho para acrescentar 15 dias por ano ao período de ausência já previsto, em caso de assistência inadiável e imprescindível a pessoa com deficiência, doença crónica ou em cuidados paliativos, que seja cônjuge, unido de facto, parente ou afim na linha reta ascendente ou no 2.º grau da linha colateral, sem exigir o mesmo agregado familiar. Altera ainda o Decreto-Lei n.º 89/2009, criando um subsídio de até 3 meses para assistência a filho em cuidados paliativos, pago a 100% da remuneração de referência. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Mais 15 dias por ano de ausência no artigo 252.º do Código do Trabalho para assistência a familiar com deficiência, doença crónica ou em cuidados paliativos.",
+  "Não é exigível pertencer ao mesmo agregado familiar no caso de parente ou afim na linha reta ascendente ou 2.º grau colateral.",
+  "Novo subsídio para assistência a filho em cuidados paliativos, até 3 meses.",
+  "Subsídios de assistência a familiares pagos a 100% da remuneração de referência.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje quem falta ao trabalho para cuidar de um familiar doente tem direito a faltar, mas não recebe salário nesses dias. O Livre propõe que quem acompanha um familiar em cuidados paliativos continue a receber a remuneração, e que os pais de filhos nessa situação tenham um subsídio de até três meses.",
+ "context": "O proponente refere que as faltas para assistência a familiares não são remuneradas, o que cria pressão financeira sobre as famílias e obriga a escolher entre acompanhar o familiar e manter o rendimento. Invoca benefícios dos cuidados paliativos e da presença da família, e a prevenção do esgotamento dos cuidadores.",
+ "analysis": "A medida dá proteção social a cuidadores numa situação de grande fragilidade e é coerente com a lógica de outros subsídios familiares. Em contrapartida, implica encargos para a Segurança Social, não quantificados no texto, e o articulado mistura conceitos (faltas, subsídio, financiamento) com algumas remissões pouco claras, nomeadamente sobre quem suporta a remuneração. Estende também a proteção a doença crónica e deficiência, além dos cuidados paliativos, o que alarga o âmbito para lá do título.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atribuição de subsídios a 100% da remuneração de referência aumenta encargos da Segurança Social. O texto não apresenta montantes e a entrada em vigor fica ligada ao Orçamento do Estado."
+ },
+ "affected": [
+  "trabalhadores que cuidam de familiares",
+  "famílias de doentes em cuidados paliativos",
+  "Segurança Social",
+  "empregadores"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "faltas justificadas",
+  "código do trabalho",
+  "cuidadores",
+  "subsídio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

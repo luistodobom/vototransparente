@@ -1,0 +1,41 @@
+{
+ "short_title": "Passe de Mobilidade Nacional para todos os transportes coletivos",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que crie o Passe de Mobilidade Nacional, dando acesso ao transporte coletivo urbano, suburbano e regional, nos modos rodoviário, ferroviário, fluvial e de mobilidade suave, e defina os parâmetros, condições de acesso e interoperabilidade. Propõe ainda que o Governo ouça e envolva a Autoridade da Mobilidade e dos Transportes, o Instituto da Mobilidade e dos Transportes, as autoridades de transportes, as áreas metropolitanas e as comunidades intermunicipais, reforce a oferta de transportes para responder ao aumento esperado de procura, preveja um mecanismo de adaptação contínua do passe a novas formas de mobilidade e desenvolva um plano de comunicação para incentivar o uso do transporte público. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação do Passe de Mobilidade Nacional para transporte urbano, suburbano e regional, em vários modos, incluindo mobilidade suave.",
+  "Definição de parâmetros, condições de acesso e interoperabilidade.",
+  "Envolvimento da AMT, do IMT, das autoridades de transportes, das áreas metropolitanas e das comunidades intermunicipais.",
+  "Reforço da oferta de transportes para acomodar o aumento de procura.",
+  "Mecanismo de adaptação contínua e plano de comunicação e sensibilização."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que crie um único passe para andar em transportes públicos por todo o país, em autocarro, comboio, barco e meios de mobilidade suave. Pede também mais oferta de transportes e uma campanha para o divulgar. É uma recomendação e o Governo não é obrigado a segui-la.",
+ "context": "O proponente aponta o aumento do preço dos combustíveis, associado à guerra no Irão, e defende alternativas sustentáveis. Recorda propostas anteriores, como o Passe Ferroviário Nacional, e que uma proposta semelhante foi rejeitada no Orçamento do Estado para 2026, e liga o passe às metas de emissões do Plano Nacional Energia e Clima 2030.",
+ "analysis": "A proposta é ambiciosa e articula preço, interoperabilidade e oferta, reconhecendo que mais procura exige mais serviço. Fragilidades: não define o preço do passe, o modelo de financiamento nem a repartição de receitas entre operadores; a integração técnica e tarifária de todo o país é complexa; o mecanismo de adaptação e a campanha são genéricos; sobrepõe-se a outras iniciativas sobre passes e bilhética integrada; sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O passe e o reforço da oferta implicam despesa, e podem alterar a receita tarifária, mas o texto não indica montantes nem o preço do passe."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "operadores e autoridades de transportes",
+  "áreas metropolitanas e comunidades intermunicipais"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "passe nacional",
+  "mobilidade",
+  "transporte público",
+  "interoperabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

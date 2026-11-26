@@ -1,0 +1,43 @@
+{
+ "short_title": "Comissão Técnica Independente sobre os incêndios de agosto de 2025",
+ "summary": "Projeto de Lei do PS que cria uma Comissão Técnica Independente para avaliar os incêndios ocorridos em Portugal Continental em agosto de 2025. A Comissão teria doze especialistas designados pelo Presidente da Assembleia da República (quatro por si, quatro indicados pelas universidades e politécnicos, quatro indicados pelas associações de municípios e freguesias). Analisaria ignições, causas, comportamento dos maiores incêndios, resposta operacional, comando e controlo, meios aéreos, comunicação e execução das políticas de prevenção desde 2018. O mandato é de 60 dias, prorrogável por 30, terminando com um relatório com recomendações, publicado em Diário da Assembleia da República.",
+ "key_points": [
+  "Criação de uma comissão de doze peritos nacionais e internacionais, designados pelo Presidente da Assembleia da República.",
+  "Atribuições: analisar ignições, causas, propagação, resposta operacional, comando, comunicação e fatalidades.",
+  "Avaliação da execução das políticas públicas de prevenção e combate lançadas desde 2018.",
+  "Mandato de 60 dias, prorrogável por 30, com relatório e recomendações calendarizadas.",
+  "Acesso a toda a informação necessária, com dever de colaboração das entidades públicas e privadas, e apoio financeiro da Assembleia da República."
+ ],
+ "plain_language": "O PS propõe criar um grupo de peritos independentes para perceber o que aconteceu nos grandes incêndios de agosto de 2025: o que falhou na prevenção e no combate e o que pode ser melhorado. O grupo teria cerca de dois a três meses para entregar um relatório público com recomendações.",
+ "context": "O proponente indica que 2025 foi o pior ano de incêndios rurais desde 2018, incluindo o maior incêndio registado em Portugal continental, e que há dúvidas sobre prevenção, meios e coordenação. Propõe repetir o modelo de comissão técnica de 2017 e avaliar a execução de medidas como os Condomínios de Aldeia, as AIGP, as faixas de interrupção de combustível e o Vale Floresta.",
+ "analysis": "A comissão técnica independente é uma fórmula já usada e pode produzir uma avaliação factual e comparável com anos anteriores. O prazo curto e o âmbito muito vasto (incluindo 10 incêndios caso a caso) podem limitar a profundidade. A exposição de motivos e alguns critérios (por exemplo, apurar \"desinvestimento político\") têm um enquadramento crítico do Governo, o que pode pôr em causa a perceção de neutralidade. Há ainda sobreposição possível com outros mecanismos de inquérito parlamentar e de inspeção.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A Assembleia da República suportaria o apoio administrativo, logístico e financeiro e a remuneração dos membros (equiparados a dirigente superior de 1.º grau). O texto não indica montantes."
+ },
+ "affected": [
+  "Assembleia da República",
+  "populações e municípios afetados pelos incêndios",
+  "entidades de proteção civil e combate a incêndios",
+  "Governo"
+ ],
+ "categories": [
+  "seguranca",
+  "ambiente",
+  "instituicoes"
+ ],
+ "tags": [
+  "incêndios rurais",
+  "comissão técnica independente",
+  "proteção civil",
+  "2025",
+  "prevenção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Crime de ecocídio no Código Penal",
+ "summary": "O projeto de lei do PAN acrescenta ao Código Penal o artigo 280.º-A, que tipifica o crime de ecocídio. Pune com prisão até seis anos quem, por ação ou omissão, emita para a atmosfera ou descarregue em águas superficiais, subterrâneas ou marítimas substâncias que causem efeitos nocivos graves, de difícil reparação e duradouros sobre a saúde, a flora e a fauna. Excluem-se emissões dentro dos valores-limite e descargas autorizadas conforme a respetiva autorização. Os efeitos são duradouros se puderem persistir pelo menos sete anos. O limite máximo da pena duplica se o agente obtiver vantagem económica. Altera ainda os artigos 119.º, 274.º, 279.º e 279.º-A, remetendo para o ecocídio os danos extensos ou duradouros de incêndios florestais e de outros crimes ambientais.",
+ "key_points": [
+  "Cria o crime de ecocídio (artigo 280.º-A do Código Penal), com pena de prisão até seis anos.",
+  "Define como duradouros os efeitos que possam persistir pelo menos sete anos.",
+  "Exclui emissões dentro dos valores-limite e descargas conforme a autorização administrativa.",
+  "Duplica o limite máximo da pena quando há vantagem económica para o agente ou terceiro.",
+  "Faz aplicar o ecocídio a incêndios florestais e a crimes de poluição com danos extensos, de difícil reparação ou duradouros."
+ ],
+ "plain_language": "A proposta cria um novo crime para quem poluir o ar ou a água de forma tão grave que cause danos duradouros, difíceis de reparar, à saúde, às plantas e aos animais. A pena pode chegar a seis anos de prisão, ou ao dobro do máximo se houver lucro com a poluição. Quem polua dentro dos limites e licenças legais não seria punido.",
+ "context": "O PAN invoca a degradação dos ecossistemas, os limites planetários identificados pelo Stockholm Resilience Centre, as alterações climáticas e exemplos de danos ambientais em Portugal e no estrangeiro, como incêndios, poluição hídrica e abate de floresta em áreas protegidas. Defende que a destruição da natureza deve ter resposta penal específica.",
+ "analysis": "Reforça a proteção penal do ambiente e a dissuasão para poluição grave, com exclusões que dão segurança a quem cumpre licenças. Fragilidades: conceitos como \"efeitos nocivos graves\" e \"difícil reparação\" são abertos e podem criar incerteza na aplicação; o critério de sete anos é de prova difícil; a redação refere \"pena prevista no número anterior\" quando a lógica aponta para o n.º 1; as remissões dos artigos 274.º, 279.º e 279.º-A para o ecocídio sobrepõem-se a crimes já existentes. O texto não avalia custos de investigação e julgamento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa cria um tipo penal e não prevê diretamente despesa ou receita. Não há estimativas de custos de investigação ou de aplicação."
+ },
+ "affected": [
+  "empresas e operadores industriais",
+  "autoridades de investigação criminal",
+  "tribunais",
+  "comunidades expostas a poluição"
+ ],
+ "categories": [
+  "justica",
+  "ambiente"
+ ],
+ "tags": [
+  "ecocídio",
+  "código penal",
+  "crime ambiental",
+  "poluição",
+  "incêndios florestais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

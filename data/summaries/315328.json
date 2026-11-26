@@ -1,0 +1,39 @@
+{
+ "short_title": "Aliviar o custo antecipado do Subsídio Social de Mobilidade",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que estude e procure formas de eliminar o ónus financeiro sobre os beneficiários do Subsídio Social de Mobilidade (SSM), garantindo o cumprimento da legislação europeia e a prevenção da fraude. O texto reconhece que o Decreto-Lei n.º 37-A/2025 trouxe avanços, como o pagamento antes do voo por meios digitais, mas mantém a obrigação de o beneficiário adiantar o valor total do bilhete e receber depois o reembolso. Admite que soluções que transferissem o encargo para as companhias aéreas poderiam ser vistas como ajudas de Estado. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Estudar formas de eliminar o ónus financeiro do adiantamento do valor do bilhete pelos beneficiários do SSM.",
+  "Cumprir a legislação europeia, em particular as regras sobre auxílios de Estado.",
+  "Prevenir a fraude no sistema de atribuição do subsídio."
+ ],
+ "plain_language": "Quem usa o subsídio de mobilidade para viajar entre as regiões autónomas e o continente tem de pagar o bilhete inteiro e só depois recebe parte do dinheiro de volta. O CDS-PP pede ao Governo que procure uma forma de evitar este adiantamento, sem violar regras europeias nem abrir espaço a fraude. É uma recomendação.",
+ "context": "O proponente salienta que o SSM contribui para a coesão territorial e a continuidade territorial e que o Decreto-Lei n.º 37-A/2025 melhorou o modelo, mas mantém o peso financeiro sobre o beneficiário. Considera que este adiantamento pode ser um obstáculo ao acesso, dados os níveis de pobreza mais elevados em zonas periféricas, e refere que o Regulamento (UE) n.º 651/2014 impõe que o auxílio beneficie os consumidores finais residentes em regiões periféricas.",
+ "analysis": "A iniciativa identifica um obstáculo concreto de liquidez para os beneficiários e reconhece as limitações jurídicas, o que a torna realista. Contudo, a recomendação é muito genérica: não propõe uma solução, calendário ou custos, limita-se a pedir estudo. A referência ao risco de ajudas de Estado mostra que as soluções alternativas são difíceis de concretizar, e o equilíbrio com a prevenção da fraude não é desenvolvido.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A eventual eliminação do adiantamento teria efeitos de tesouraria e possíveis custos administrativos para o Estado, mas o texto não apresenta valores nem propõe um modelo concreto."
+ },
+ "affected": [
+  "beneficiários do Subsídio Social de Mobilidade",
+  "residentes nas regiões autónomas",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "continuidade territorial",
+  "regiões autónomas",
+  "auxílios de Estado",
+  "transporte aéreo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

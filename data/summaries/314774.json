@@ -1,0 +1,40 @@
+{
+ "short_title": "Campanha de sensibilização sobre direitos dos trabalhadores domésticos",
+ "summary": "O LIVRE recomenda ao Governo que desenvolva uma campanha de sensibilização multimeios, abrangente e de longo prazo, sobre os direitos e deveres das trabalhadoras e trabalhadores domésticos, dirigida também a empregadores e à sociedade. A campanha deve ser concebida com auscultação e participação de trabalhadores domésticos, ter recursos acessíveis em várias línguas e ser avaliada periodicamente quanto ao impacto. Recomenda ainda que o atendimento telefónico da Segurança Social tenha uma opção dedicada ao esclarecimento de dúvidas sobre trabalho doméstico. O texto sublinha a perspetiva de género e a situação dos trabalhadores imigrantes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Campanha multimeios e de longo prazo sobre direitos e deveres no trabalho doméstico.",
+  "Conceção com participação de trabalhadores domésticos e materiais em diferentes línguas.",
+  "Avaliação periódica do impacto da campanha.",
+  "Opção dedicada ao trabalho doméstico no atendimento telefónico da Segurança Social."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que faça uma grande campanha de informação para que trabalhadores domésticos e quem os emprega conheçam os seus direitos e deveres, e que a sociedade valorize este trabalho. Pede também uma linha de esclarecimento na Segurança Social. O pedido não obriga o Governo.",
+ "context": "O proponente afirma que valorizar o trabalho doméstico exige, além de alterações legislativas, mecanismos de fiscalização, queixa e informação, bem como uma mudança social de atitude. Salienta que o setor emprega sobretudo mulheres e que os imigrantes enfrentam riscos especiais, citando o Livro Branco Trabalho Doméstico Digno.",
+ "analysis": "A medida é de baixo custo relativo e responde à falta de informação sobre direitos, incluindo para imigrantes. O envolvimento dos trabalhadores e a avaliação de impacto são pontos positivos. Fragilidades: é uma iniciativa informativa que não altera direitos nem reforça a fiscalização, o orçamento da campanha não é indicado e não são definidos metas ou prazos. A sensibilização isolada pode ter alcance limitado num setor com muito trabalho não declarado. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma campanha de longo prazo e uma opção dedicada no atendimento da Segurança Social implicam custos públicos. O texto não indica montantes."
+ },
+ "affected": [
+  "trabalhadores domésticos",
+  "famílias empregadoras",
+  "trabalhadores imigrantes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "trabalho doméstico",
+  "campanha de sensibilização",
+  "Segurança Social",
+  "direitos laborais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

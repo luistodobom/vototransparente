@@ -1,0 +1,39 @@
+{
+ "short_title": "Medidas para atletas de alta competição",
+ "summary": "Projeto de Resolução do Chega que recomenda ao Governo quatro medidas relativas aos atletas de alta competição: assegurar a liberdade de pensamento dos atletas, combatendo comportamentos antidesportivos que coloquem em causa a verdade desportiva e os seus direitos, liberdades e garantias; criar mecanismos que evitem a politização ideológica do desporto; promover um sistema de integração de atletas que queiram retomar o percurso académico e profissional, no setor público e privado; e promover uma campanha sobre o pós-carreira, com formações entre atletas e foco no empreendedorismo e no bem-estar mental e emocional. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Assegurar a liberdade de pensamento dos atletas de alta competição.",
+  "Criar mecanismos para evitar a politização ideológica do desporto.",
+  "Sistema de integração académica e profissional dos atletas após a carreira.",
+  "Campanha sobre pós-carreira, com mentoria, empreendedorismo e bem-estar mental."
+ ],
+ "plain_language": "O Chega pede ao Governo que proteja a liberdade de opinião dos atletas de alta competição, evite que o desporto seja usado politicamente e ajude os atletas a estudar ou a trabalhar quando terminam a carreira. É uma recomendação, não uma lei.",
+ "context": "O proponente cita o caso de jogadores franceses que recusaram usar camisolas com as cores arco-íris e a posição da ministra francesa do Desporto, e defende que o desporto deve ficar imune a influências ideológicas. Alerta também para a dificuldade de transição dos atletas no final da carreira.",
+ "analysis": "A componente de apoio à reconversão profissional e ao bem-estar mental responde a um problema conhecido e é concreta. A parte sobre liberdade de pensamento e politização é pouco definida: não explica que mecanismos criar nem como distinguir o que é politização, nem se aplica a situações em Portugal, já que o exemplo é de França. O texto não quantifica custos nem identifica entidades responsáveis.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os programas de integração e formação pós-carreira implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "atletas de alta competição",
+  "federações desportivas",
+  "entidades públicas e privadas empregadoras"
+ ],
+ "categories": [
+  "desporto",
+  "direitos"
+ ],
+ "tags": [
+  "atletas de alta competição",
+  "pós-carreira",
+  "liberdade de expressão",
+  "desporto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

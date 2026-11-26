@@ -1,0 +1,43 @@
+{
+ "short_title": "Identificar conteúdos de IA em campanhas eleitorais",
+ "summary": "O Livre propõe que os conteúdos de áudio, imagem ou vídeo produzidos total ou parcialmente com recurso a inteligência artificial, usados em campanhas eleitorais ou referendárias, sejam identificados de modo inequívoco, por referência expressa no próprio conteúdo ou por outro sinal distintivo visível e claro. Para isso altera a lei eleitoral do Presidente da República, a lei eleitoral da Assembleia da República e a lei orgânica do regime do referendo, aditando a obrigação aos artigos sobre propaganda e campanha. A lei entra em vigor no dia seguinte ao da publicação. O texto não prevê sanções específicas.",
+ "key_points": [
+  "Obriga a identificar de modo inequívoco os conteúdos de áudio, imagem ou vídeo gerados total ou parcialmente por IA.",
+  "Aplica-se às campanhas para Presidente da República, Assembleia da República e referendos.",
+  "A identificação faz-se por referência expressa no conteúdo ou por sinal distintivo visível e claro.",
+  "Altera o Decreto-Lei n.º 319-A/76, a Lei n.º 14/79 e a Lei n.º 15-A/98.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quem usar imagens, vídeos ou áudios feitos com inteligência artificial numa campanha eleitoral ou de referendo terá de o dizer claramente, para que os eleitores saibam o que é real e o que foi criado ou alterado por IA. A medida pretende combater a desinformação.",
+ "context": "O proponente defende que a IA gera conteúdos cada vez mais realistas e que é necessário reforçar a transparência e a confiança no espaço eleitoral, prevenindo a desinformação e a manipulação, sem restringir a liberdade de expressão e o uso de novas tecnologias.",
+ "analysis": "A medida é simples e proporcional, pois não proíbe a IA, apenas exige transparência, e abrange vários tipos de votação. As fragilidades são a ausência de definição do que conta como produzido parcialmente por IA, a ausência de sanções ou fiscalização específicas e a dificuldade de aplicação a conteúdos de terceiros ou difundidos em plataformas estrangeiras. A eficácia contra desinformação intencional é limitada, pois quem quer enganar não tende a cumprir. Também não cobre eleições autárquicas e regionais.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida cria uma obrigação de identificação sem despesa ou receita diretas previstas no texto."
+ },
+ "affected": [
+  "partidos e candidaturas",
+  "eleitores",
+  "plataformas e meios de comunicação",
+  "Comissão Nacional de Eleições"
+ ],
+ "categories": [
+  "instituicoes",
+  "ciencia",
+  "comunicacao"
+ ],
+ "tags": [
+  "inteligência artificial",
+  "campanha eleitoral",
+  "desinformação",
+  "referendo",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

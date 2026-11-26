@@ -1,0 +1,44 @@
+{
+ "short_title": "Direitos de parentalidade dos profissionais de saúde",
+ "summary": "O Projeto de Lei n.º 36/XVII/1.ª, do PAN, cria um regime especial de direitos de parentalidade para médicos, enfermeiros e técnicos auxiliares de saúde com contrato por tempo indeterminado em estabelecimentos do SNS, a tempo inteiro. Prevê dispensa de trabalho suplementar e noturno para grávidas e pais de crianças pequenas, limite de sete horas diárias para grávidas, puérperas e lactantes, e licença parental inicial de 210 dias com subsídio de 100%. Inclui licenças exclusivas do pai, dispensas para consultas pré-natais, faltas para assistência a filhos, três dias de férias adicionais por filho, licença de cuidador e extensão de direitos aos avós.",
+ "key_points": [
+  "Dispensa de trabalho suplementar e noturno para grávidas e para quem tenha filhos com menos de seis anos, ou menos de doze em família monoparental.",
+  "Licença parental inicial de 210 dias consecutivos, com acréscimos para gravidez de risco, terceiro filho, partos múltiplos e prematuros, paga a 100%.",
+  "Licença exclusiva do pai de 30 dias úteis mais dez dias úteis em simultâneo com a mãe.",
+  "Faltas até 60 dias por ano para assistência a filho menor de 12 anos ou com doença crónica ou oncológica.",
+  "Três dias úteis de férias adicionais por cada filho e licença de cuidador de pelo menos dez dias úteis por ano.",
+  "Entrada em vigor com o Orçamento do Estado seguinte à publicação."
+ ],
+ "plain_language": "Médicos, enfermeiros e técnicos auxiliares de saúde do SNS teriam mais direitos ao ter filhos. Poderiam recusar horas extra e turnos noturnos, teriam uma licença de 210 dias paga a 100%, mais dias de férias por cada filho e mais facilidade para faltar quando um filho adoece. Os avós e quem cuida de familiares doentes também teriam direitos.",
+ "context": "O PAN defende que valorizar os profissionais de saúde, incluindo reforçar os direitos de parentalidade, é essencial para evitar a saída de especialistas do SNS. Considera que o trabalho noturno e as horas extraordinárias obrigatórias justificam um regime especial e uniforme, evitando desigualdades entre profissionais da mesma unidade.",
+ "analysis": "A proposta uniformiza direitos entre carreiras e responde ao desgaste dos profissionais, podendo ajudar na retenção no SNS. As fragilidades são o custo e a escassez de pessoal: dispensas generalizadas de horas extra e turnos noturnos podem agravar a falta de cobertura de serviços, sobretudo urgências. Há ainda sobreposição com o regime geral e partes do texto parecem copiadas de contexto de acordo coletivo, como a referência a este ACT. Não há estudo de impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Licenças mais longas pagas a 100%, mais dias de férias e dispensas implicam maior despesa e necessidade de substituição de pessoal no SNS. O texto não apresenta montantes e fixa a entrada em vigor com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "médicos do SNS",
+  "enfermeiros do SNS",
+  "técnicos auxiliares de saúde",
+  "pais e mães profissionais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "parentalidade",
+  "licença parental",
+  "SNS",
+  "profissionais de saúde",
+  "conciliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

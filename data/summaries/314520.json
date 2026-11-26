@@ -1,0 +1,43 @@
+{
+ "short_title": "Estudo nacional sobre trabalho infantil e medidas de combate",
+ "summary": "O PAN recomenda ao Governo que realize um estudo nacional rigoroso e atualizado sobre o trabalho infantil em Portugal, considerando os tipos de atividades económicas e não económicas, o número de menores afetados e a sua situação escolar, bem como formas emergentes como atividades artísticas e desportivas. Recomenda ainda que se aprofundem e atualizem as medidas de combate, com políticas para setores emergentes e acompanhamento escolar, que as entidades responsáveis tenham recursos humanos e materiais suficientes e que se implementem programas de apoio a famílias economicamente vulneráveis. É um projeto de resolução, sem força vinculativa.",
+ "key_points": [
+  "Estudo nacional atualizado que quantifique e caracterize o trabalho infantil.",
+  "Inclusão de formas emergentes, como atividades artísticas e desportivas.",
+  "Políticas específicas para proteger crianças em setores emergentes.",
+  "Medidas de acompanhamento escolar para quem concilia estudo com trabalho.",
+  "Mais recursos humanos e materiais para as entidades que combatem o trabalho infantil.",
+  "Programas de apoio a famílias vulneráveis para reduzir a dependência do trabalho infantil."
+ ],
+ "plain_language": "O PAN pede ao Governo que faça um estudo para saber quantas crianças trabalham em Portugal, em que atividades e com que consequências para a escola, e que reforce as medidas de combate e o apoio às famílias mais frágeis. Como é uma recomendação, o Governo não é obrigado a cumprir.",
+ "context": "O proponente refere que o último inquérito nacional oficial é de 2001 e que uma resolução de 2021, aprovada por iniciativa do PAN, recomendava um estudo nacional que, segundo o texto, não consta ter sido executado. Alerta para novas formas de trabalho infantil e para a ligação entre trabalho infantil e abandono escolar.",
+ "analysis": "A proposta responde a uma lacuna de dados atualizados, o que permitiria políticas mais bem orientadas. É, porém, uma recomendação já feita em 2021 sem execução conhecida, o que mostra o limite deste instrumento. O texto não fixa prazos, entidade responsável pelo estudo, financiamento nem indicadores. Os pontos sobre recursos e apoio às famílias são genéricos e podem implicar despesa não estimada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização do estudo, o reforço das entidades e os programas de apoio a famílias vulneráveis implicariam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "crianças e jovens",
+  "famílias economicamente vulneráveis",
+  "entidades de fiscalização do trabalho",
+  "escolas"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "trabalho infantil",
+  "abandono escolar",
+  "estudo nacional",
+  "famílias vulneráveis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

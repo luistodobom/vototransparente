@@ -1,0 +1,42 @@
+{
+ "short_title": "Proíbe a gestão privada de unidades do SNS",
+ "summary": "O Projeto de Lei do BE elimina a possibilidade de entregar a privados a gestão dos cuidados de saúde primários e dos cuidados hospitalares inseridos no SNS. Altera os artigos 3.º, 7.º e 9.º do Anexo I do Decreto-Lei n.º 103/2023, passando as USF a unidades de gestão pública e mantendo apenas o modelo B, com revogação do modelo C e de normas associadas. Revoga ainda o Decreto-Lei n.º 23/2020, que estabelece as regras para os contratos de parceria de gestão na área da saúde. A lei entra em vigor no primeiro dia do mês seguinte à publicação, com os encargos financeiros a produzir efeitos com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Torna as USF unidades de gestão pública, mantendo apenas o modelo B.",
+  "Revoga o modelo C de USF, com gestão por entidades privadas ou do setor social, e normas conexas.",
+  "Revoga o Decreto-Lei n.º 23/2020, sobre parcerias de gestão na saúde.",
+  "Altera os artigos 3.º, 7.º e 9.º do Anexo I do Decreto-Lei n.º 103/2023.",
+  "Entra em vigor no primeiro dia do mês seguinte, com encargos a partir do Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A proposta impede que as unidades de saúde do SNS, como centros de saúde e hospitais, sejam geridas por empresas ou entidades privadas. Fica só o modelo de USF totalmente público (modelo B), e acaba a lei que permite parcerias de gestão entre o Estado e privados na saúde.",
+ "context": "O BE defende que a saúde é um direito e não um mercado, e critica a expansão de USF modelo C, a transferência de doentes para hospitais privados e a atribuição de verba pública a uma Santa Casa para um Centro de Atendimento Clínico. Cita alertas da FNAM e da Fundação para a Saúde, e refere mais de 1,5 milhões de pessoas sem médico de família.",
+ "analysis": "A proposta é clara no objetivo e coerente com a defesa de um SNS de gestão exclusivamente pública, apoiada em dados e posições de organizações médicas. Pontos fracos: elimina uma ferramenta que o Governo e outros partidos consideram complementar para aumentar a capacidade, sem apresentar alternativa imediata para os utentes sem médico de família; o texto de motivos usa linguagem polémica e atribuições políticas não demonstradas; e não avalia o custo de reverter parcerias ou contratos em curso. A ligação a contratos já celebrados não é abordada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica o efeito. Pode alterar despesas com parcerias e convenções, mas não indica valores nem prevê o tratamento dos contratos em vigor."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais das USF",
+  "entidades privadas e do setor social com parcerias de gestão",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "privatização",
+  "USF modelo C",
+  "parcerias de gestão",
+  "cuidados de saúde primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Valorização e contratação de sapadores florestais",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas para os sapadores florestais: valorizar a carreira no setor público, renegociando condições remuneratórias, com aumentos salariais, reconhecimento da profissão como de desgaste rápido e subsídio de risco; autorizar o ICNF a abrir em 2026 procedimento concursal para contratação por tempo indeterminado, após avaliação de necessidades; garantir o pagamento integral das horas extraordinárias acima do limite legal de 60% mensal; e avaliar a aplicação das recomendações do Relatório de Avaliação do Programa de Sapadores Florestais para melhorar a formação e o programa. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Renegociar condições remuneratórias, com aumentos salariais, reconhecimento como profissão de desgaste rápido e subsídio de risco.",
+  "Autorizar o ICNF a abrir em 2026 concurso para contratação por tempo indeterminado, após avaliação das necessidades.",
+  "Garantir o pagamento integral das horas extraordinárias acima do limite legal de 60% mensal.",
+  "Avaliar a aplicação das recomendações do Relatório de Avaliação do Programa de Sapadores Florestais, nomeadamente quanto à formação."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que melhore as condições dos sapadores florestais, que trabalham na prevenção de incêndios: salários mais altos, subsídio de risco, mais contratações e pagamento de todas as horas extra feitas. Pede também que se avalie o programa e a formação. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente aponta a gravidade dos incêndios de 2025 e o papel dos sapadores florestais como agentes de proteção civil, com trabalho fisicamente exigente, e refere que especialistas, autarcas e associações apontam a insuficiência de efetivos. Cita o relatório de avaliação do programa 2011-2021 e um sindicato que alerta para horas extraordinárias acima do limite legal.",
+ "analysis": "A iniciativa liga uma necessidade operacional (mais pessoal na prevenção) à situação laboral dos profissionais e propõe medidas concretas, incluindo ano de abertura de concurso. Fragilidades: não quantifica o número de contratações, o aumento salarial ou o custo; algumas afirmações vêm de fontes como um sindicato e publicações, sem dados no texto; e a gestão das equipas por entidades privadas, municípios e outros organismos limita o alcance de medidas do ICNF. A condição de 'após avaliação das necessidades' deixa a decisão ao Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumentos salariais, subsídio de risco, novas contratações e pagamento integral de horas extraordinárias implicariam mais despesa pública, mas o texto não indica montantes."
+ },
+ "affected": [
+  "sapadores florestais",
+  "ICNF",
+  "entidades titulares de equipas de sapadores",
+  "populações em zonas rurais"
+ ],
+ "categories": [
+  "seguranca",
+  "ambiente",
+  "trabalho"
+ ],
+ "tags": [
+  "sapadores florestais",
+  "incêndios rurais",
+  "ICNF",
+  "carreira",
+  "horas extraordinárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

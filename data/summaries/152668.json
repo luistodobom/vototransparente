@@ -1,0 +1,41 @@
+{
+ "short_title": "Plano nacional contra o discurso de ódio online",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que crie um grupo de trabalho multidisciplinar e interministerial, com entidades da sociedade civil e da academia, para elaborar recomendações de ação contra os discursos de ódio, e que adote, com base nelas, um plano nacional de ação específico. Recomenda ainda que o Observatório Independente do Discurso de Ódio, Racismo e Xenofobia tenha um mandato que cubra as categorias do artigo 240.º do Código Penal, incluindo o discurso de ódio sexista. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Criar um grupo de trabalho multidisciplinar e interministerial com sociedade civil e academia.",
+  "Adotar um plano nacional de ação específico contra o discurso de ódio, com base nas suas recomendações.",
+  "Alargar o mandato do Observatório Independente do Discurso de Ódio às categorias do artigo 240.º do Código Penal, incluindo o discurso sexista."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que reúna especialistas e organizações para propor medidas contra o discurso de ódio na internet, crie um plano nacional e garanta que o observatório existente também acompanhe o ódio contra as mulheres. Trata-se de uma recomendação política.",
+ "context": "O proponente refere o Código de Conduta da UE de 2016 contra o discurso de ódio ilegal em linha, a baixa taxa de remoção de conteúdos em Portugal indicada pela Comissão Europeia em novembro de 2022, e a necessidade de prevenção, em particular junto de jovens, e de combater o sexismo como forma de violência contra as mulheres.",
+ "analysis": "Propõe uma abordagem estruturada e participada para um problema reconhecido a nível europeu. Fragilidades: o texto não define prazos, financiamento nem como se articula o plano com a lei penal existente e com as plataformas, que operam a nível europeu. Alargar o conceito de discurso de ódio exige equilíbrio com a liberdade de expressão, tema que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um grupo de trabalho e a execução de um plano implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Utilizadores de redes sociais",
+  "Vítimas de discriminação e de discurso de ódio",
+  "Organizações da sociedade civil",
+  "Plataformas digitais"
+ ],
+ "categories": [
+  "direitos",
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "discurso de ódio",
+  "redes sociais",
+  "plano nacional",
+  "observatório",
+  "sexismo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

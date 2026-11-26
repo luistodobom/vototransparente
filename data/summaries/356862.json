@@ -1,0 +1,38 @@
+{
+ "short_title": "Preservar a pesca no Banco de Gorringe",
+ "summary": "O projeto de resolução do PCP recomenda ao Governo três medidas para salvaguardar a atividade piscatória no Banco de Gorringe, onde foi anunciada uma reserva marítima: criar condições de apoio público para que as embarcações que ali operam possam modernizar-se e cumprir as novas exigências técnicas; garantir que se mantém o mesmo número de embarcações na zona; e assegurar que as novas zonas de pesca interdita não ponham em causa a atividade, sendo definidas com o acordo das três entidades que gerem a reserva e das organizações de pescadores. O PCP critica o plano de gestão por aumentar a fiscalização sem apoios económicos associados.",
+ "key_points": [
+  "Apoiar a modernização das embarcações que pescam no Banco de Gorringe.",
+  "Manter o mesmo número de embarcações a operar na zona.",
+  "Definir novas zonas interditas à pesca com o acordo das três entidades gestoras da reserva e das organizações de pescadores."
+ ],
+ "plain_language": "Está a ser criada uma reserva marítima no Banco de Gorringe, uma zona de pesca. O PCP quer que o Governo garanta que os pescadores que lá trabalham continuam a poder fazê-lo, com apoio para modernizar os barcos e sem zonas proibidas decididas sem o seu acordo. É apenas uma recomendação.",
+ "context": "O PCP refere que, em julho de 2025, o Governo se comprometeu a salvaguardar a capacidade produtiva da pesca e remeteu as medidas para um plano de gestão. Segundo o texto, o plano mantém as artes de palangre e salto e vara, admite limitar o número de embarcações, aumenta a fiscalização e admite zonas interditas daqui a cerca de três anos.",
+ "analysis": "A proposta defende a atividade piscatória, que é uma preocupação legítima, e pede participação dos pescadores. Fragilidades: pode entrar em tensão com objetivos de conservação da reserva, ao fixar um número mínimo de embarcações sem avaliação científica; não quantifica os apoios; e a exigência de acordo das entidades e dos pescadores pode dar poder de bloqueio. Recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Propõe apoios públicos à modernização da frota, sem indicar montantes."
+ },
+ "affected": [
+  "Pescadores e armadores do Banco de Gorringe",
+  "Entidades gestoras da reserva marítima",
+  "Frota de pesca nacional"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente"
+ ],
+ "tags": [
+  "banco de gorringe",
+  "pesca",
+  "reserva marítima",
+  "palangre"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

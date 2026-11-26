@@ -1,0 +1,44 @@
+{
+ "short_title": "Plano de emergência social e económico para o Algarve",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo a implementação de um Plano de Emergência Social e Económico para o Algarve em 2020/21, com 28 propostas. Entre elas: gabinetes de emergência social junto das câmaras municipais, alargamento das moratórias de rendas e empréstimos com impedimento de despejos, um fundo de emergência para famílias e micro, pequenas e médias empresas, suspensão, isenção ou redução de impostos e taxas municipais, computadores e acesso à internet para alunos, creches e lares públicos, habitação acessível, reforço da ACT, Hospital Central do Algarve, suspensão das portagens da Via do Infante, requalificação da EN125, eletrificação ferroviária, diversificação económica, apoio à pesca e agricultura, planos hídricos e apoios à Universidade do Algarve e à comunicação social regional. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Gabinetes de emergência social nas câmaras, moratórias de rendas e empréstimos e fundo de emergência para famílias e PME.",
+  "Suspensão, isenção ou redução de impostos e taxas municipais em 2020 e 2021.",
+  "Reforço da saúde, com o Hospital Central do Algarve, e criação de redes públicas de creches, lares e centros de dia.",
+  "Suspensão das portagens da Via do Infante, requalificação da EN125 e eletrificação da linha ferroviária regional.",
+  "Diversificação económica, apoio à pesca, agricultura e Universidade do Algarve, e um plano regional de eficiência hídrica."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo um plano especial para o Algarve, a região mais atingida pela crise da pandemia por depender do turismo. Inclui apoios sociais, ajudas a empresas, mais serviços públicos, melhores estradas e comboios, fim das portagens da Via do Infante e novas atividades económicas. É uma recomendação, sem força de lei.",
+ "context": "O proponente defende que o Algarve é a região mais vulnerável por depender quase só do turismo de sol e mar, com emprego sazonal e precário, assimetrias territoriais e seca. Cita que, em março, o desemprego na região subiu 125,5% face ao ano anterior, e que muitas micro e pequenas empresas em lay-off podem falir.",
+ "analysis": "A proposta parte de um diagnóstico regional detalhado e propõe muitas medidas concretas, de curto e médio prazo. Fragilidades: a extensão, 28 pontos de natureza muito diversa, dilui as prioridades, e o texto não quantifica o custo nem identifica o financiamento além de referências genéricas ao Orçamento do Estado e a fundos comunitários. Algumas medidas, como isenções de taxas municipais, dependem de autarquias, e outras, como a Via do Infante, têm contratos de concessão. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O plano aumentaria a despesa pública, com fundos, apoios e investimentos, e reduziria receitas com isenções e suspensão de portagens, sem montantes globais no texto."
+ },
+ "affected": [
+  "residentes do Algarve",
+  "micro, pequenas e médias empresas",
+  "trabalhadores do turismo",
+  "pescadores e agricultores",
+  "autarquias do Algarve"
+ ],
+ "categories": [
+  "economia",
+  "territorio",
+  "trabalho"
+ ],
+ "tags": [
+  "algarve",
+  "covid-19",
+  "turismo",
+  "via do infante",
+  "plano de emergência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

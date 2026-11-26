@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais vagas para idosos e cumprimento das metas do PRR",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que acelere a execução dos investimentos, nomeadamente do PRR, em respostas sociais para pessoas idosas, garantindo o cumprimento atempado das metas, e que reforce o número de respostas sociais, aumentando a abrangência territorial e melhorando os cuidados à população idosa e às famílias, conjugando a iniciativa dos setores público, social e privado. A fundamentação cita atrasos na execução: segundo o relatório da Comissão Nacional de Acompanhamento do PRR, só 223 dos 4135 lugares de ERPI previstos estavam concluídos. É uma recomendação.",
+ "key_points": [
+  "Acelerar a execução dos investimentos, incluindo os do PRR, em respostas sociais para idosos.",
+  "Garantir o cumprimento atempado das metas do PRR.",
+  "Reforçar o número de respostas sociais e a sua cobertura territorial.",
+  "Conjugar a iniciativa dos setores público, social e privado."
+ ],
+ "plain_language": "O PS pede ao Governo que ponha mais depressa em prática as obras de lares e outros apoios a idosos financiados pelo PRR e que aumente as vagas, envolvendo setor público, social e privado. Muitas obras estão atrasadas e o prazo do PRR está a acabar. É uma recomendação.",
+ "context": "O proponente cita o aumento do índice de envelhecimento, de 192,4 idosos por cada 100 jovens em 2024, e relatório da Comissão Nacional de Acompanhamento do PRR sobre o baixo número de lugares concluídos, com problemas de concursos, licenciamentos, financiamento e atrasos nos pagamentos aos promotores.",
+ "analysis": "A proposta identifica um problema real e documentado, o atraso na execução, e pede ação sobre prazos e cobertura territorial. É muito genérica: não indica medidas concretas para acelerar as obras, nem responsabilidades ou verbas, e o prazo do PRR torna improvável resolver apenas por recomendação. Não aborda a falta de pessoal nos equipamentos nem os custos para as famílias, e a menção ao setor privado não é acompanhada de regras de acesso e preço.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica valores novos. O reforço das respostas e a aceleração do PRR implicam despesa, mas já enquadrada em fundos existentes e de dimensão não apresentada."
+ },
+ "affected": [
+  "idosos",
+  "famílias dos idosos",
+  "IPSS e promotores de equipamentos sociais",
+  "empreiteiros"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "idosos",
+  "ERPI",
+  "PRR",
+  "respostas sociais",
+  "apoio domiciliário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

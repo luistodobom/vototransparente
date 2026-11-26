@@ -1,0 +1,41 @@
+{
+ "short_title": "Reduzir a contribuição para a ADSE para 2,5% e incidir sobre 12 meses",
+ "summary": "O PCP propõe alterar os artigos 46.º e 47.º do Decreto-Lei n.º 118/83 para reduzir de 3,5% para 2,5% o desconto dos beneficiários titulares da ADSE, tanto sobre a remuneração base como sobre as pensões de aposentação e reforma de valor superior a 635 euros. Acrescenta, em ambos os artigos, um n.º 3 segundo o qual o desconto incide nos 12 meses da remuneração mensal, sem relevar os subsídios de férias e de Natal. A lei entra em vigor com o Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Reduz o desconto sobre a remuneração base dos titulares da ADSE de 3,5% para 2,5%.",
+  "Reduz para 2,5% o desconto sobre pensões superiores a 635 euros.",
+  "Fixa a incidência do desconto em 12 meses, excluindo os subsídios de férias e de Natal.",
+  "Entra em vigor com o Orçamento do Estado posterior à publicação."
+ ],
+ "plain_language": "Os trabalhadores e reformados da Administração Pública que descontam para a ADSE pagam hoje 3,5%, também sobre os subsídios de férias e de Natal. O PCP propõe baixar a taxa para 2,5% e fazer o desconto só em 12 meses por ano.",
+ "context": "O PCP afirma que o aumento de 2 pontos percentuais entre 2011 e 2015 funcionou como corte salarial. Cita o Tribunal de Contas, que considerou o aumento excessivo e gerador de excedentes e que, na auditoria de seguimento à ADSE (Relatório n.º 22/2019), notou que a taxa incidir sobre 14 meses implica contribuir sem contraprestação por dois meses a mais do que o ano civil.",
+ "analysis": "A medida alivia os encargos dos beneficiários e apoia-se numa observação do próprio Tribunal de Contas sobre a ADSE. Fragilidades: o texto não quantifica a perda de receita da ADSE, que é financiada pelos seus beneficiários, nem avalia os efeitos sobre o equilíbrio do sistema e a oferta de serviços. A redução cumulativa da taxa e dos meses é uma alteração significativa sem simulação apresentada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da taxa e dos meses de incidência diminui a receita de contribuições da ADSE. O texto não apresenta montantes."
+ },
+ "affected": [
+  "beneficiários titulares da ADSE",
+  "trabalhadores da Administração Pública",
+  "aposentados e reformados",
+  "ADSE"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "ADSE",
+  "contribuição",
+  "subsídios de férias e de Natal",
+  "função pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

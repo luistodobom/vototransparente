@@ -1,0 +1,42 @@
+{
+ "short_title": "Conservação urgente da Anta Grande do Zambujeiro (Évora)",
+ "summary": "O Projeto de Resolução do CHEGA recomenda ao Governo cinco medidas para a Anta Grande do Zambujeiro, Monumento Nacional em Évora. Pede um levantamento técnico exaustivo e atualizado do estado de conservação e da estabilidade estrutural. Pede um plano integrado de conservação, estabilização e reabilitação, a elaborar e implementar no prazo máximo de seis meses, com consolidação estrutural, proteção contra agentes atmosféricos e mitigação do risco de colapso. Pede financiamento específico e suficiente, articulação entre o Património Cultural, I.P., entidades académicas, o Município de Évora e outras entidades, e uma estratégia de valorização e divulgação do património megalítico. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento técnico urgente do estado de conservação e da estabilidade dos esteios, da câmara e do corredor.",
+  "Plano integrado de intervenção, a elaborar e implementar no prazo máximo de seis meses.",
+  "Financiamento específico, adequado e suficiente para as intervenções.",
+  "Articulação entre o Património Cultural, I.P., entidades académicas, o Município de Évora e outras entidades.",
+  "Estratégia de valorização e divulgação inserida na promoção do património megalítico nacional."
+ ],
+ "plain_language": "A Anta Grande do Zambujeiro, um grande monumento com mais de cinco mil anos, está degradada e em risco. O CHEGA pede ao Governo que avalie com urgência o seu estado, faça um plano de reparação em seis meses, garanta dinheiro para as obras e promova o monumento. É uma recomendação, sem força obrigatória.",
+ "context": "O proponente descreve a anta como a maior da Península Ibérica, classificada como Monumento Nacional em 1971. Afirma que a escavação dos anos 1960 removeu a mamoa que a sustentava, deixando os esteios expostos, fraturados e em risco de colapso, e considera a estrutura metálica provisória inadequada.",
+ "analysis": "A proposta é clara quanto ao risco e define um prazo concreto de seis meses para o plano, o que dá um critério de avaliação. Em contrapartida, o prazo de elaboração e implementação conjunto parece ambicioso para um monumento de intervenção complexa e não é acompanhado de orçamento. Não aborda a propriedade do monumento nem a sua gestão, e as afirmações sobre risco de colapso baseiam-se em notícias e fontes secundárias, sem diagnóstico técnico recente apresentado no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As obras de conservação e a estratégia de valorização implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "Património Cultural, I.P.",
+  "Município de Évora",
+  "visitantes e comunidade local",
+  "investigadores em arqueologia"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "anta grande do zambujeiro",
+  "património megalítico",
+  "évora",
+  "conservação",
+  "monumento nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

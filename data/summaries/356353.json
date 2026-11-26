@@ -1,0 +1,39 @@
+{
+ "short_title": "Evacuação de animais de companhia de portugueses no estrangeiro",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo duas medidas. A primeira é estudar e adotar mecanismos que permitam, sempre que materialmente possível e sem comprometer a natureza prioritária da evacuação de pessoas, a extração de animais de companhia pertencentes a nacionais portugueses evacuados do estrangeiro em operações de emergência motivadas por conflitos armados, catástrofes naturais ou outras situações graves de segurança. A segunda é divulgar informação clara às comunidades portuguesas no estrangeiro sobre os procedimentos e requisitos para transportar animais em cenários de emergência, incentivando a adoção prévia das medidas necessárias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda mecanismos para evacuar animais de companhia de portugueses retirados do estrangeiro, quando materialmente possível.",
+  "A evacuação de pessoas mantém sempre a prioridade.",
+  "Pede divulgação de informação às comunidades portuguesas sobre transporte de animais em emergências.",
+  "Abrange conflitos armados, catástrofes naturais e outras situações graves de segurança."
+ ],
+ "plain_language": "Quando o Estado evacua portugueses de zonas de guerra ou catástrofe, os animais de companhia costumam ficar para trás, por falta de espaço e de regras. O CHEGA pede ao Governo que estude formas de os trazer, sem prejudicar a retirada das pessoas, e que informe os portugueses no estrangeiro sobre o que fazer. É apenas uma recomendação.",
+ "context": "O proponente refere o conflito no Médio Oriente que obrigou a evacuar mais de 700 portugueses do Golfo até 10 de março, pela Força Aérea, e as queixas de cidadãos forçados a abandonar animais. Aponta limitações de espaço e a falta de protocolos, e cita que cerca de 54% das famílias portuguesas têm um animal de companhia.",
+ "analysis": "Responde a uma situação real de sofrimento de famílias e valoriza o vínculo com os animais, com a salvaguarda de que as pessoas têm prioridade. Fragilidades: pode haver conflito com recursos limitados de aeronaves militares e com regras sanitárias e aduaneiras dos países de origem e destino, que o texto não discute; não define critérios, custos nem quem seria responsável. Sendo recomendação, depende do Governo e a expressão «sempre que materialmente possível» limita o alcance.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A afetação de meios logísticos à evacuação de animais pode implicar custos adicionais, mas o texto não os indica."
+ },
+ "affected": [
+  "cidadãos portugueses evacuados do estrangeiro",
+  "tutores de animais de companhia",
+  "Ministério dos Negócios Estrangeiros e Forças Armadas"
+ ],
+ "categories": [
+  "animais",
+  "internacional"
+ ],
+ "tags": [
+  "animais de companhia",
+  "evacuação",
+  "comunidades portuguesas",
+  "Médio Oriente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

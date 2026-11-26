@@ -1,0 +1,41 @@
+{
+ "short_title": "Mais vagas gratuitas em creche e fiscalização de creches e amas",
+ "summary": "O Projeto de Resolução n.º 680/XVII/1.ª, do LIVRE, recomenda ao Governo que reforce a oferta de serviços gratuitos para a primeira infância, revendo o programa \"Creche Feliz\" com uma avaliação das vagas, listas de espera e distribuição territorial, o aumento gradual de vagas onde haja insuficiência e a avaliação da integração das amas credenciadas independentes no programa. Recomenda também mais fiscalização das creches, creches familiares e amas, dotando o Instituto da Segurança Social de mais meios e de um plano anual de inspeções, e articulando-o com a Autoridade para as Condições do Trabalho, a Direção-Geral da Saúde e as autarquias. Por ser uma resolução, não é vinculativa.",
+ "key_points": [
+  "Avaliar o programa \"Creche Feliz\": vagas, listas de espera e distribuição territorial.",
+  "Aumentar gradualmente as vagas nas zonas com oferta insuficiente.",
+  "Avaliar a integração das amas credenciadas independentes no programa.",
+  "Dar mais meios humanos e técnicos ao Instituto da Segurança Social e criar um plano anual de inspeções.",
+  "Articular a fiscalização entre ISS, ACT, DGS e autarquias."
+ ],
+ "plain_language": "Esta proposta pede ao Governo que garanta mais lugares gratuitos em creches e que verifique melhor as condições de segurança e higiene de creches e amas. Também sugere que as amas independentes passem a poder fazer parte do programa de creches gratuitas. É apenas uma recomendação: o Governo decide se a segue.",
+ "context": "O LIVRE refere que os primeiros anos são decisivos e que a procura de creche é elevada, citando uma cobertura de 53% em 2021 e mais de 126 mil crianças abrangidas pelo \"Creche Feliz\" em julho de 2025. Alega que o Governo não esclareceu quantas crianças elegíveis estão em lista de espera e que as amas independentes ficam excluídas do programa.",
+ "analysis": "Pontos fortes: identifica lacunas concretas (listas de espera, exclusão das amas independentes) e propõe primeiro avaliar, o que é prudente. Fragilidades: não fixa metas, prazos nem fontes de financiamento, e como resolução não obriga o Governo. A integração das amas depende de avaliação de viabilidade, e o reforço da fiscalização implica custos não estimados. Os dados de cobertura citados são de 2021.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. Mais vagas gratuitas e mais inspeções implicariam maior despesa da Segurança Social, mas sem estimativa."
+ },
+ "affected": [
+  "famílias com crianças até aos 3 anos",
+  "amas credenciadas",
+  "creches e creches familiares",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "creche feliz",
+  "primeira infância",
+  "amas",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

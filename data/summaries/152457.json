@@ -1,0 +1,39 @@
+{
+ "short_title": "Proteção de denunciantes na Administração Pública local",
+ "summary": "Projeto de Lei do BE que altera a Lei n.º 93/2021, que estabeleceu o regime geral de proteção de denunciantes de infrações. A alteração incide no artigo 21.º (proibição de retaliação): é acrescentado um novo n.º 7 segundo o qual, no caso de trabalhadores da Administração Pública, regional ou local, e independentemente do vínculo laboral, o período em que se presumem retaliatórios certos atos após a denúncia passa a ser de quatro anos. Os números seguintes são renumerados. A lei entraria em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Novo n.º 7 do artigo 21.º da Lei n.º 93/2021 para trabalhadores da Administração Pública regional e local.",
+  "O período de proteção contra retaliação passa a ser de quatro anos, independentemente do vínculo laboral.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quem trabalha numa câmara municipal, junta ou serviço regional e denuncia uma irregularidade fica protegido de represálias durante mais tempo: quatro anos. O objetivo é dar mais segurança a quem denuncia onde a pressão é maior.",
+ "context": "O BE cita relatórios do Conselho de Prevenção da Corrupção segundo os quais a administração local é a área mais vulnerável à corrupção, com 53% das comunicações judiciais em 2021, 311 só de municípios. Argumenta que, pela proximidade, as pressões e retaliações aí são mais graves.",
+ "analysis": "Ponto forte: responde a um risco identificado em dados oficiais e a alteração é simples. Fragilidades: o texto não mostra o prazo atualmente em vigor, que consta apenas da lei existente; cria um tratamento diferenciado entre trabalhadores públicos regionais e locais e outros, incluindo da administração central e do setor privado, sem justificar a exclusão; e não aborda outros obstáculos à denúncia, como canais ou acompanhamento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não identifica impacto orçamental; trata-se de uma alteração a um prazo de proteção."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública regional e local",
+  "denunciantes de infrações",
+  "autarquias"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao",
+  "justica"
+ ],
+ "tags": [
+  "denunciantes",
+  "retaliação",
+  "corrupção",
+  "administração local"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

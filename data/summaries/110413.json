@@ -1,0 +1,40 @@
+{
+ "short_title": "Rever restrições a pequenos estabelecimentos e combater concorrência desleal",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo duas medidas: que o Ministério da Economia, em articulação com o da Saúde, avalie os setores de bens e serviços encerrados que respondem a necessidades sociais importantes e poderiam reabrir com estritas medidas sanitárias; e que o Governo promova, junto da Autoridade da Concorrência e da ASAE, uma intervenção agilizada e reforçada contra a concorrência desleal resultante da venda de bens e serviços proibidos a micro e pequenas empresas mas permitidos noutros espaços, nomeadamente na grande distribuição. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliar, com a Saúde, quais os setores de bens e serviços encerrados que poderiam reabrir com cuidados sanitários.",
+  "Intervenção agilizada e reforçada da Autoridade da Concorrência e da ASAE contra a concorrência desleal.",
+  "Visa a venda de bens proibidos às micro e pequenas empresas mas permitida na grande distribuição."
+ ],
+ "plain_language": "Durante o confinamento, livrarias e cabeleireiros estavam fechados enquanto os hipermercados vendiam livros e outros produtos. O PCP pede ao Governo que avalie que atividades podem reabrir em segurança e que as autoridades combatam esta concorrência desigual. É um pedido ao Governo.",
+ "context": "O proponente refere que os estados de emergência mantêm encerrados pequenos estabelecimentos como livrarias e cabeleireiros, que grandes superfícies abertas vendem esses produtos e que a pressão dos clientes incentiva a prestação clandestina de serviços pessoais. Critica ainda o atraso e os critérios dos apoios prometidos.",
+ "analysis": "Identifica uma assimetria real percebida entre pequeno comércio e grande distribuição. Fragilidades: pede apenas uma avaliação, sem fixar critérios sanitários ou calendário de reabertura; a decisão depende de avaliação de saúde pública; a recomendação de reforço da fiscalização não esclarece em que base legal as autoridades de concorrência atuariam, dado que a restrição decorre de normas do estado de emergência.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita diretas; trata de avaliação e fiscalização."
+ },
+ "affected": [
+  "micro e pequenas empresas do comércio e serviços",
+  "cabeleireiros e livrarias",
+  "grande distribuição",
+  "consumidores"
+ ],
+ "categories": [
+  "economia",
+  "consumidores",
+  "saude"
+ ],
+ "tags": [
+  "estado de emergência",
+  "comércio de rua",
+  "concorrência desleal",
+  "COVID-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço dos cuidados na gravidez e no parto",
+ "summary": "Projeto de resolução do PEV que recomenda ao Governo cinco medidas para reforçar os cuidados na gravidez e no parto: um plano faseado da Direção-Geral da Saúde, a entregar à Assembleia da República em 3 meses, para superar as graves deficiências de pessoal e meios técnicos em obstetrícia no SNS; a disponibilização do questionário de satisfação dos serviços de saúde materna e obstetrícia a todas as grávidas; campanhas de esclarecimento sobre o acompanhamento pré-natal, no parto e no pós-parto; formas de apoio nos centros de saúde e hospitais a mulheres que tenham tido uma experiência relacional negativa; e a aceitação e valorização dos planos de parto pelas instituições hospitalares. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Plano faseado da DGS, em 3 meses, para superar deficiências de pessoal e meios em obstetrícia.",
+  "Questionário de satisfação disponível a todas as grávidas.",
+  "Campanhas de esclarecimento sobre o acompanhamento pré-natal, no parto e no pós-parto.",
+  "Apoio a mulheres que tiveram uma experiência negativa nos serviços de obstetrícia, se o desejarem.",
+  "Valorização dos planos de parto pelas instituições hospitalares."
+ ],
+ "plain_language": "O PEV pede ao Governo um plano para dar mais médicos, enfermeiros e equipamentos às maternidades do SNS, mais informação às grávidas, um questionário de satisfação para todas e apoio a quem teve uma má experiência. Pede também que os hospitais aceitem os planos de parto das mulheres. É uma recomendação ao Governo.",
+ "context": "O PEV refere que o SNS conseguiu cobertura quase total do acompanhamento das grávidas e que Portugal tem uma das mais baixas taxas de mortalidade de crianças até aos cinco anos, três por mil nascimentos em 2018, segundo estimativas da OMS e da UNICEF. Considera que o subfinanciamento do SNS afeta a obstetrícia, e que falta melhorar a relação entre grávidas e profissionais.",
+ "analysis": "A iniciativa combina medidas de recursos humanos e equipamento com outras de informação e experiência das utentes, com um prazo definido de 3 meses para o plano, o que facilita a verificação. As medidas de melhoria da relação com as grávidas são pouco concretas, e o plano depende do reforço de meios que o texto não quantifica. Atribui à DGS responsabilidades que podem exceder as suas competências, como a contratação. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A superação das deficiências de pessoal e meios técnicos em obstetrícia e as campanhas implicam despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "grávidas e parturientes",
+  "profissionais de obstetrícia do SNS",
+  "recém-nascidos",
+  "Direção-Geral da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "obstetrícia",
+  "gravidez",
+  "parto",
+  "plano de parto",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

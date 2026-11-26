@@ -1,0 +1,43 @@
+{
+ "short_title": "Recomenda mais meios contra a evasão a sanções da UE",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas para melhor cumprir a Diretiva (UE) 2024/1226, sobre infrações e sanções por violação das medidas restritivas da União Europeia. Propõe disponibilizar recursos para criar unidades especializadas nas forças e serviços de segurança e no Ministério Público para investigar a violação ou evasão dessas medidas, reforçar os deveres de compliance e reporte de entidades financeiras e não financeiras com orientações, indicadores de risco e boas práticas setoriais, garantir ações de formação técnica a entidades privadas, polícias e magistrados, e criar mecanismos permanentes de coordenação interinstitucional. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de unidades especializadas nas forças de segurança e no Ministério Público para investigar a evasão a sanções.",
+  "Reforço dos deveres de compliance e reporte de entidades financeiras e não financeiras, com orientações e indicadores de risco.",
+  "Formação técnica especializada para o setor privado, forças de segurança e magistrados.",
+  "Mecanismos permanentes de coordenação entre as várias entidades envolvidas.",
+  "Referência a modelos internacionais como o OFSI britânico e o OFAC norte-americano."
+ ],
+ "plain_language": "A União Europeia aplica sanções a certos países e pessoas, e a diretiva obriga os Estados a punir quem as contorne. O PAN recomenda ao Governo que dê meios às polícias e ao Ministério Público, exija mais controlo a bancos e empresas, forme os profissionais e faça as várias entidades trabalhar em conjunto. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O PAN considera que transpor a Diretiva (UE) 2024/1226 não basta: a eficácia do regime depende da capacidade administrativa e operacional do Estado, da supervisão e da articulação entre entidades. Aponta o caráter complexo e transfronteiriço destas infrações e cita exemplos internacionais e organismos multilaterais que defendem uma abordagem integrada.",
+ "analysis": "A iniciativa é coerente com a necessidade de capacidade de investigação especializada e de coordenação entre entidades. Fragilidades: as medidas são genéricas, sem calendário, dimensão das unidades, financiamento ou indicação da entidade responsável pela coordenação, e o texto não diz em que ponto está a transposição da diretiva. Reforçar deveres de compliance pode aumentar encargos para empresas, sem avaliação desse impacto. Sendo uma resolução, a sua execução depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Unidades especializadas, formação e coordenação implicariam despesa pública se adotadas. O texto não indica montantes."
+ },
+ "affected": [
+  "forças e serviços de segurança",
+  "Ministério Público e magistrados",
+  "bancos, seguradoras e outras entidades obrigadas",
+  "empresas expostas ao comércio internacional"
+ ],
+ "categories": [
+  "internacional",
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "sanções",
+  "medidas restritivas",
+  "diretiva 2024/1226",
+  "compliance",
+  "evasão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

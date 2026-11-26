@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas contra as descargas da indústria suinícola",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas para combater as descargas ilegais de efluentes da suinicultura, com foco na região de Leiria: dotar as entidades competentes de meios para fiscalizar o cumprimento da legislação por todas as suiniculturas, incluindo condições de trabalho; garantir sanções dissuasoras, com aplicação efetiva de medidas cautelares e sanções acessórias como o encerramento; fixar no licenciamento um número máximo de cabeças por exploração, em função da capacidade de tratamento dos efluentes; e considerar, nos critérios de subsidiação, medidas de redução de impactes ambientais e de valorização de efluentes. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Meios para as entidades competentes fiscalizarem todas as suiniculturas da região de Leiria, incluindo condições de trabalho.",
+  "Sanções dissuasoras, com medidas cautelares e sanções acessórias, como o encerramento, efetivamente aplicadas.",
+  "Licenciamento com número máximo de cabeças por exploração, em função da capacidade efetiva de tratamento dos efluentes.",
+  "Critérios de subsidiação que considerem eficiência no uso da água e da energia, economia circular e valorização de efluentes."
+ ],
+ "plain_language": "O LIVRE pede ao Governo mais meios para fiscalizar as suiniculturas de Leiria, punições que realmente dissuadam descargas ilegais, limites ao número de animais conforme a capacidade de tratar os resíduos e apoios que premeiem práticas mais ambientais. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O proponente refere descargas ilegais recorrentes de efluentes nos rios e solos da região, 41 denúncias à GNR de Leiria em 2021 (30 com autos de contraordenação e uma com processo crime) e os riscos para a saúde, o ambiente e o bem-estar das populações, agravados pela seca de 2022.",
+ "analysis": "A proposta é concreta e liga fiscalização, licenciamento e subsídios. Fragilidades: não indica custo da fiscalização reforçada, quem determina os limites de cabeças nem como se articulam com explorações já licenciadas, e pode ter impacto económico e no emprego do setor, que o texto não avalia. O limite máximo de animais e as sanções de encerramento podem gerar contestação dos produtores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforçar meios de fiscalização implica despesa pública, e a alteração dos critérios de subsidiação pode redistribuir apoios. O texto não apresenta valores."
+ },
+ "affected": [
+  "Suinicultores da região de Leiria",
+  "Populações junto aos rios afetados",
+  "Entidades fiscalizadoras (GNR, agências ambientais)"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "suinicultura",
+  "efluentes",
+  "leiria",
+  "fiscalização",
+  "licenciamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Ensino presencial para alunos com medidas seletivas",
+ "summary": "A Iniciativa Liberal recomenda ao Governo que, enquanto vigorarem medidas que afetem a normalidade das atividades letivas, diligencie para que os alunos com necessidades de educação especiais para quem foram mobilizadas medidas seletivas beneficiem dessas medidas presencialmente, sempre que possível. A necessidade deve ser avaliada caso a caso pelos docentes de educação especial, em conjunto com os educadores de infância, docentes titulares ou diretores de turma. O texto parte do artigo 3.º do Decreto n.º 3-D/2021, que exceciona do ensino à distância apenas os alunos com medidas adicionais, deixando sem apoio presencial os que têm medidas seletivas. É uma recomendação sem caráter vinculativo.",
+ "key_points": [
+  "Permitir que alunos com medidas seletivas tenham apoio presencial durante a suspensão das atividades letivas.",
+  "Fazer a avaliação caso a caso pelos docentes de educação especial, com educadores, titulares ou diretores de turma.",
+  "Aplicar a medida apenas sempre que possível, enquanto vigorarem restrições às atividades educativas."
+ ],
+ "plain_language": "Durante o confinamento, só os alunos com apoios mais fortes podiam continuar a ter aulas presenciais. A Iniciativa Liberal pede que também os alunos com apoios intermédios (medidas seletivas) possam ter apoio presencial quando isso for preciso, decidido caso a caso pelos professores. É uma recomendação.",
+ "context": "O proponente considera que o ensino à distância tem limites e levou a regressão de aprendizagens, e que, para crianças com necessidades educativas especiais, estão em causa também competências sociais, motoras e cognitivas. Entende que o decreto não salvaguarda os alunos com medidas seletivas, privados do funcionamento regular da escola e do apoio especializado.",
+ "analysis": "A proposta corrige uma lacuna apontada no decreto e confia a decisão a quem conhece cada aluno, o que evita uma regra uniforme. Fragilidades: o critério «sempre que possível» é vago, não define quem garante a segurança sanitária nem os meios necessários, e não estima quantos alunos seriam abrangidos. A avaliação caso a caso pode gerar desigualdades entre escolas e sobrecarga dos docentes de educação especial. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O apoio presencial pode exigir recursos humanos e organizacionais adicionais, mas o texto não os quantifica."
+ },
+ "affected": [
+  "alunos com necessidades de educação especiais",
+  "docentes de educação especial",
+  "famílias",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "medidas seletivas",
+  "necessidades educativas especiais",
+  "estado de emergência",
+  "ensino presencial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

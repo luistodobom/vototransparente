@@ -1,0 +1,40 @@
+{
+ "short_title": "Serviço de Urgência Básica no Centro de Saúde de Coruche",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo a criação de um Serviço de Urgência Básica (SUB) nas instalações do Centro de Saúde de Coruche, a funcionar em regime permanente, incluindo o período noturno. Pede que o SUB seja dotado dos recursos humanos, técnicos e organizativos necessários e das condições arquitetónicas para acolher a base de uma viatura de suporte imediato de vida, em protocolo com o INEM.",
+ "key_points": [
+  "Criar um Serviço de Urgência Básica no Centro de Saúde de Coruche.",
+  "Assegurar o funcionamento em regime permanente, incluindo a noite.",
+  "Dotar o serviço dos recursos humanos, técnicos e organizativos necessários.",
+  "Prever condições arquitetónicas para a base de uma viatura de suporte imediato de vida, em protocolo com o INEM."
+ ],
+ "plain_language": "O centro de saúde de Coruche fecha à noite e quem precisa de urgência tem de ir a Santarém, a dezenas de quilómetros. O PCP pede ao Governo que crie lá uma urgência básica, aberta sempre, com meios e um espaço para uma ambulância do INEM. É uma recomendação.",
+ "context": "O PCP afirma que o concelho enfrenta há vários anos dificuldades no acesso a cuidados urgentes, que a população é envelhecida e ruralizada com poucos transportes, e que uma urgência local também aliviaria a pressão sobre as urgências do Hospital de Santarém, afetadas pela falta de médicos.",
+ "analysis": "A proposta responde a um problema de acesso identificado, mas o texto não apresenta dados como o número de episódios, tempos de deslocação ou procura estimada, nem o custo ou os profissionais necessários, num contexto em que o próprio texto refere falta de médicos em Santarém. Não esclarece como a nova urgência se articula com a rede de urgência existente. Sendo uma resolução, é apenas uma recomendação ao Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O funcionamento permanente do serviço, com profissionais, equipamento e adaptação do edifício, implica despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "população do concelho de Coruche e áreas vizinhas",
+  "utentes do Centro de Saúde de Coruche",
+  "INEM e Hospital de Santarém"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "coruche",
+  "urgência básica",
+  "centro de saúde",
+  "inem",
+  "acesso à saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

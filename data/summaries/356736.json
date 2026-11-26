@@ -1,0 +1,40 @@
+{
+ "short_title": "Complemento de custo de vida para forças de segurança deslocadas",
+ "summary": "Este projeto de resolução recomenda ao Governo que crie um complemento salarial de apoio ao custo de vida para membros das forças de segurança colocados em cidades identificadas em crise habitacional. As cidades abrangidas seriam definidas por indicadores objetivos e publicamente verificáveis, como a evolução das rendas, a taxa de esforço média com habitação, a relação entre rendas e remunerações, a escassez de oferta acessível e a pressão urbanística ou turística. O montante teria em conta a intensidade da pressão habitacional em cada cidade, com possíveis escalões, e seria atribuído a quem efetivamente exerce funções nessas cidades, independentemente da categoria ou carreira. O processo deveria envolver associações socioprofissionais e sindicatos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de um complemento salarial de apoio ao custo de vida para forças de segurança em cidades em crise habitacional.",
+  "Cidades identificadas por indicadores objetivos e verificáveis, como rendas, taxa de esforço e escassez de oferta.",
+  "Montante com escalões em função da pressão habitacional de cada cidade.",
+  "Atribuído a quem exerce funções nas cidades abrangidas, independentemente da categoria ou carreira.",
+  "Envolvimento das associações socioprofissionais e organizações sindicais na criação do complemento."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que dê um complemento no salário aos polícias e outros elementos das forças de segurança que trabalham em cidades onde a casa é muito cara, como Lisboa, Porto ou Faro. O valor seria maior onde o custo da habitação for mais pesado. É uma recomendação ao Governo, que não é obrigado a aplicá-la.",
+ "context": "O proponente aponta o aumento continuado dos custos da habitação, com taxas de esforço superiores a 50% em algumas cidades, e o seu impacto no recrutamento e fixação de efetivos das forças de segurança. Cita ainda mecanismos territoriais existentes no Reino Unido, como o London allowance.",
+ "analysis": "A proposta liga um problema concreto de fixação de profissionais a um critério territorial transparente e propõe diálogo com os sindicatos. Fragilidades: não define cidades, valores nem custo; os indicadores enunciados podem gerar fronteiras arbitrárias entre territórios; como complemento salarial, pode criar diferenças dentro da Administração Pública e pedidos semelhantes de outros trabalhadores; o próprio texto admite que respostas estruturais em habitação seriam alternativas. Sendo resolução, a sua execução depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do complemento, se concretizada, implicaria despesa adicional com remunerações das forças de segurança. O texto não indica montantes."
+ },
+ "affected": [
+  "membros das forças de segurança colocados em cidades com crise habitacional",
+  "Governo"
+ ],
+ "categories": [
+  "seguranca",
+  "habitacao",
+  "trabalho"
+ ],
+ "tags": [
+  "custo de vida",
+  "forças de segurança",
+  "habitação",
+  "complemento salarial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

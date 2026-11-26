@@ -1,0 +1,41 @@
+{
+ "short_title": "Princípio da avaliação mais favorável nas juntas médicas",
+ "summary": "Projeto de lei do BE que adita o artigo 4.º-A ao Decreto-Lei n.º 202/96, de 23 de outubro, para consagrar o princípio da avaliação mais favorável nos processos de revisão ou reavaliação de incapacidades. Nos casos de incapacidade temporária, o princípio vale tanto quando a alteração do grau resulta de mudança dos critérios da Tabela Nacional de Incapacidades como quando resulta da alteração do estado clínico. Se a reavaliação implicar perda de grau anteriormente atribuído, mantém-se a avaliação imediatamente anterior, desde que não resulte prejuízo para o avaliado. O diploma entra em vigor no dia seguinte ao da publicação. O BE visa reverter a reinterpretação feita pelo Ofício Circulado n.º 20215 da Autoridade Tributária, de 3 de dezembro de 2019.",
+ "key_points": [
+  "Aditamento do artigo 4.º-A ao Decreto-Lei n.º 202/96 com o princípio da avaliação mais favorável.",
+  "Aplica-se a incapacidades temporárias, quer por alteração de critérios técnicos, quer por alteração do estado clínico.",
+  "Mantém-se a avaliação imediatamente anterior se a reavaliação reduzir o grau, desde que não haja prejuízo para o avaliado.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quando um doente melhora e o grau de incapacidade é reduzido, pode perder apoios e benefícios fiscais. O BE quer que, nesses casos, se mantenha o grau anterior, mais favorável, até à próxima reavaliação. Pretende reverter a interpretação da Autoridade Tributária que, desde 2019, retirou esses benefícios a várias pessoas.",
+ "context": "O BE explica que o Ofício Circulado da Autoridade Tributária de dezembro de 2019 passou a limitar o princípio da avaliação mais favorável às alterações da tabela, e não às novas avaliações e reavaliações. Diz que várias centenas de doentes oncológicos e outros perderam benefícios, que o Governo se recusa a anular o despacho e que o benefício não é perpétuo mas mantido enquanto a avaliação anterior o reconhecer.",
+ "analysis": "A proposta tem como ponto forte a clareza: põe na lei o que o BE diz ter sido a prática, evitando reinterpretações por ofício circulado. Fragilidades: o texto articula-se com o regime vigente sem esclarecer o limite temporal da manutenção do grau (até à próxima reavaliação), e a expressão desde que não resulte prejuízo é ambígua. Não estima o custo fiscal nem quantifica as pessoas afetadas além de várias centenas, e pode ser vista como prolongando benefícios a quem melhorou clinicamente.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Manter benefícios fiscais e apoios a quem seria reavaliado com menor incapacidade implica menos receita ou mais despesa. O texto não apresenta montantes."
+ },
+ "affected": [
+  "doentes oncológicos e pessoas com doenças incapacitantes",
+  "titulares de atestado médico de incapacidade multiusos",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "direitos",
+  "saude",
+  "fiscalidade"
+ ],
+ "tags": [
+  "incapacidade",
+  "junta médica",
+  "atestado multiusos",
+  "avaliação mais favorável",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

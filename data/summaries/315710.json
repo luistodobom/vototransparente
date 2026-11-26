@@ -1,0 +1,39 @@
+{
+ "short_title": "Recuperar carreiras afetadas pelo congelamento na Administração Pública",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo a criação de um mecanismo de recuperação nas carreiras da Administração Pública cuja alteração de posicionamento remuneratório decorra de pontos obtidos no SIADAP ou sistemas similares, relativamente aos períodos de congelamento de 2005 a 2007 e de 2011 a 2017. O proponente considera que as quotas de avaliação do SIADAP funcionam como contenção salarial e que mecanismos existentes, como o acelerador de carreiras e a devolução do tempo de serviço aos professores, não reparam totalmente os danos. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Criar um mecanismo de recuperação nas carreiras para os períodos de congelamento de 2005-2007 e 2011-2017.",
+  "Aplicar-se a carreiras em que a progressão remuneratória depende de pontos do SIADAP ou sistemas semelhantes.",
+  "Considerar a atualização do acelerador de carreiras face à devolução do tempo de serviço dos professores."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que crie uma forma de compensar os funcionários públicos pelo tempo em que as carreiras estiveram congeladas, em 2005 a 2007 e em 2011 a 2017, que atrasou as suas subidas salariais. É uma recomendação e o Governo decide se a segue.",
+ "context": "O proponente afirma que o SIADAP, por ter quotas, funciona como mecanismo de contenção salarial e que os congelamentos de carreiras causaram prejuízos que nunca serão totalmente reparados, desde logo porque os trabalhadores entretanto aposentados não são abrangidos pelos mecanismos existentes. Considera que o acelerador de carreiras deve ser atualizado, face à devolução do tempo de serviço aos professores.",
+ "analysis": "A proposta identifica um problema real de equidade entre trabalhadores com carreiras afetadas e dá um critério temporal claro. Fragilidades: é muito genérica, não define a forma da recuperação (pontos, escalões ou pagamento), os grupos abrangidos, os custos, nem a articulação com mecanismos existentes; não resolve a situação dos aposentados, que o próprio texto refere como não abrangidos; e a recuperação de períodos longos poderia ter forte impacto orçamental, não avaliado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recuperação das carreiras implicaria maior despesa com pessoal, mas o texto não apresenta estimativa nem montantes."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "professores",
+  "carreiras avaliadas pelo SIADAP"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "SIADAP",
+  "congelamento de carreiras",
+  "progressão",
+  "função pública",
+  "acelerador de carreiras"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

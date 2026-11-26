@@ -1,0 +1,43 @@
+{
+ "short_title": "Provedor da Criança e das Gerações Futuras",
+ "summary": "O projeto de lei do PAN cria o Provedor da Criança e das Gerações Futuras, nomeado e tutelado pelo Provedor de Justiça por quatro anos, alterando o Estatuto do Provedor de Justiça. O novo provedor teria como função a defesa e promoção dos direitos das crianças e jovens, com competências para receber denúncias, dirigir recomendações a entidades públicas e privadas, assinalar deficiências legislativas, monitorizar serviços, promover campanhas de sensibilização e intervir na tutela de interesses coletivos, nomeadamente ambientais, quando esteja em causa a solidariedade intergeracional. O Governo regulamentaria em 90 dias e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria o Provedor da Criança e das Gerações Futuras, nomeado pelo Provedor de Justiça por quatro anos.",
+  "Recebe denúncias de violação de direitos de crianças e jovens e dirige recomendações a entidades públicas e privadas.",
+  "Monitoriza serviços e promove campanhas de sensibilização e educação.",
+  "Intervém na tutela de interesses coletivos, incluindo ambientais, em nome da solidariedade intergeracional.",
+  "Tem estrutura própria definida em regulamento interno; regulamentação pelo Governo em 90 dias.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O PAN propõe criar uma figura que defenda os direitos das crianças e dos jovens, ligada à Provedoria de Justiça, que possa receber queixas, fazer recomendações e também zelar pelos interesses das gerações futuras, incluindo o ambiente.",
+ "context": "O PAN refere que os direitos das crianças continuam por assegurar e que a criação de uma entidade desta natureza foi recomendada pelo Comité dos Direitos da Criança, em 2019, e pela Comissão Independente para o Estudo dos Abusos Sexuais de Crianças na Igreja Católica. Aponta que países como Espanha, Finlândia e Suécia têm figuras semelhantes.",
+ "analysis": "A proposta responde a recomendações internacionais e preenche uma lacuna de coordenação, aproveitando a estrutura da Provedoria de Justiça. Em contrapartida, a nomeação e tutela pelo Provedor de Justiça pode limitar a independência do novo órgão, e o alargamento às gerações futuras e a interesses ambientais é um mandato muito amplo e pouco definido. O texto não esclarece recursos humanos nem orçamento, nem a articulação com entidades existentes como as CPCJ.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um novo órgão com estrutura própria implica despesa pública, que o texto não quantifica; entra em vigor com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "crianças e jovens",
+  "Provedoria de Justiça",
+  "entidades públicas e privadas que lidam com crianças",
+  "gerações futuras"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "instituicoes"
+ ],
+ "tags": [
+  "provedor da criança",
+  "direitos das crianças",
+  "gerações futuras",
+  "Provedor de Justiça"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

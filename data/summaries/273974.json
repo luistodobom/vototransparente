@@ -1,0 +1,39 @@
+{
+ "short_title": "Alargar critérios do apoio judiciário",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo a revisão do regime de acesso ao direito e aos tribunais (Lei n.º 34/2004), alargando os critérios para obtenção do benefício de apoio judiciário, de modo a dar cumprimento ao direito constitucional de acesso ao direito e à tutela jurisdicional efetiva. A exposição de motivos critica o custo da justiça, as custas elevadas e critérios de insuficiência económica considerados demasiado restritos, por exemplo no cálculo do rendimento do agregado familiar, na titularidade de participações em sociedades ou de habitação, e prestações altas no pagamento faseado. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a revisão do regime de acesso ao direito e aos tribunais.",
+  "Pede o alargamento dos critérios de acesso ao apoio judiciário.",
+  "Invoca o artigo 20.º da Constituição sobre o acesso ao direito e à tutela jurisdicional efetiva.",
+  "Não define novos limites de rendimento nem medidas concretas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que mude as regras do apoio judiciário para que mais pessoas, que hoje ficam de fora, possam recorrer aos tribunais sem que a falta de dinheiro seja um obstáculo. É uma recomendação, não obriga o Governo.",
+ "context": "O proponente considera que a justiça é cara, que as custas são desproporcionadamente altas e que os critérios de insuficiência económica são tão restritos que a maioria dos cidadãos fica excluída, mesmo quando o requerente não tem rendimentos próprios ou apenas possui bens sem rendimento.",
+ "analysis": "A iniciativa aponta problemas reais de acesso à justiça e tem base constitucional. É, porém, genérica: não indica critérios, escalões ou custos, o que dificulta avaliar o seu alcance. Alargar o apoio implica maior despesa pública e exige equilíbrio com o risco de utilização excessiva. As afirmações sobre a exclusão da maioria dos cidadãos não são acompanhadas de dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o apoio judiciário aumenta a despesa pública em compensação de patronos e custas dispensadas. O texto não apresenta valores."
+ },
+ "affected": [
+  "cidadãos com poucos recursos económicos",
+  "advogados do sistema de acesso ao direito",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "apoio judiciário",
+  "acesso à justiça",
+  "custas judiciais",
+  "tutela jurisdicional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

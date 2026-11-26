@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio específico aos artesãos financiado pelo programa de artes e ofícios",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo a criação de uma medida de apoio excecional, a fundo perdido, às Unidades Produtivas Artesanais (UPA) com sede em Portugal e atividade no Repertório de Atividades Artesanais. O apoio anual seria de cinco IAS por UPA, aplicado a todas as registadas, financiado primeiro pelas dotações não usadas do programa de apoio à participação e promoção em eventos nas artes e ofícios, e, no restante, por fundos europeus de apoio à atividade económica. Seria cumulável com outros apoios. O texto aponta cerca de 2500 unidades, 95% com um único trabalhador.",
+ "key_points": [
+  "Apoio excecional a fundo perdido às unidades produtivas artesanais.",
+  "Valor anual de cinco IAS por unidade, aplicado a todas as registadas.",
+  "Financiamento por dotações não usadas do programa de promoção das artes e ofícios.",
+  "Restante financiamento por fundos europeus de apoio à atividade económica.",
+  "Apoio cumulável com outros, se cumpridos os requisitos legais."
+ ],
+ "plain_language": "Os artesãos perderam rendimentos com a pandemia, em parte porque as feiras foram canceladas. O Bloco de Esquerda pede que o dinheiro do programa de apoio às feiras que não foi gasto seja usado num apoio direto de cinco IAS por ano a todas as unidades artesanais registadas. É uma recomendação.",
+ "context": "O proponente afirma que as feiras canceladas deixaram por utilizar parte das verbas do programa e que só algumas unidades beneficiaram. Cita uma petição com 1502 assinaturas, cerca de 2500 unidades produtivas, 95% das quais com um trabalhador, e a criação do programa Saber-Fazer pelo Conselho de Ministros em setembro de 2020.",
+ "analysis": "A proposta reutiliza verbas orçamentadas e não executadas, o que é um ponto a favor de custo e de equidade, e tem um critério simples de atribuição. Contudo, não é claro se as dotações não usadas cobrem o custo total, e o recurso a fundos europeus não está concretizado. O apoio uniforme não considera a perda real de rendimentos de cada unidade. Sendo recomendação, depende do Governo e do enquadramento legal do IEFP.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria um apoio a fundo perdido de cinco IAS por unidade, financiado por dotações não usadas e por fundos europeus; o texto não indica o custo total."
+ },
+ "affected": [
+  "artesãos",
+  "unidades produtivas artesanais",
+  "IEFP"
+ ],
+ "categories": [
+  "cultura",
+  "economia"
+ ],
+ "tags": [
+  "artesãos",
+  "artes e ofícios",
+  "covid-19",
+  "apoio a fundo perdido",
+  "iefp"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

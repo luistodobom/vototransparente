@@ -1,0 +1,41 @@
+{
+ "short_title": "Compensação a professores que não beneficiam do descongelamento",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, em negociação com os sindicatos de educadores de infância e professores do ensino público pré-escolar, básico e secundário e demais partes interessadas, proponha a criação de um regime de compensação para os docentes que, por estarem aposentados ou no topo da carreira, não beneficiam do descongelamento. O objetivo é valorizar os anos de trabalho em posição remuneratória inferior à devida e mitigar as repercussões na pensão de aposentação. O texto refere cerca de 13 mil professores no topo da carreira e cerca de 15 mil aposentados nessa situação. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Criar um regime de compensação para docentes aposentados ou no topo da carreira que não beneficiam do descongelamento.",
+  "Negociar com os sindicatos dos educadores e professores e outras partes interessadas.",
+  "Valorizar os anos trabalhados em posição remuneratória inferior à devida.",
+  "Mitigar o efeito do congelamento nas pensões de aposentação."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie uma compensação para professores que perderam anos de progressão na carreira e que, por já estarem reformados ou no último escalão, não vão recuperar esse tempo. A compensação seria negociada com os sindicatos. É uma recomendação ao Governo.",
+ "context": "O proponente recorda que a progressão dos docentes esteve suspensa em dois períodos (2005-2007 e 2011-2017), com perda de 9 anos, 4 meses e 2 dias, e que o Decreto-Lei n.º 36/2019 e o Decreto-Lei n.º 48-B/2024 recuperaram parte do tempo, com conclusão até julho de 2027. Aponta mais de 13 mil professores no 10.º escalão e cerca de 15 mil aposentados que ficam sem beneficio, com impacto nas pensões.",
+ "analysis": "A iniciativa identifica grupos concretos com perdas reais e aponta o caminho da negociação sindical. Fragilidades: não define a forma nem o valor da compensação, o universo exato, nem o custo; a compensação a aposentados pode ter efeito de precedente para outras carreiras da função pública com congelamentos semelhantes; e o texto não esclarece como se articula com os decretos já em vigor e acordos assinados com parte dos sindicatos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A compensação a cerca de 28 mil professores (13 mil no topo e 15 mil aposentados) implicaria despesa pública adicional, mas o texto não estima montantes."
+ },
+ "affected": [
+  "professores no topo da carreira",
+  "professores aposentados",
+  "educadores de infância",
+  "sindicatos de professores"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "professores",
+  "descongelamento de carreiras",
+  "tempo de serviço",
+  "pensões",
+  "carreira docente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

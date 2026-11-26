@@ -1,0 +1,41 @@
+{
+ "short_title": "Limites entre freguesias de Lousada e Penafiel (Bustelo)",
+ "summary": "Projeto de Lei, subscrito por deputados de vários partidos, que fixa a delimitação administrativa entre as freguesias de Lodares e União das Freguesias de Cristelos, Boim e Ordem (concelho de Lousada) e a freguesia de Bustelo (concelho de Penafiel). Os limites passam a ser os que constam dos anexos à lei, resultantes de um Procedimento de Delimitação Administrativa acordado entre as autarquias. A lei entra em vigor no dia seguinte ao da publicação e permitirá integrar os novos limites na Carta Administrativa Oficial de Portugal (CAOP).",
+ "key_points": [
+  "Define a delimitação administrativa entre Lodares, União das Freguesias de Cristelos, Boim e Ordem (Lousada) e Bustelo (Penafiel).",
+  "Os limites são os constantes dos anexos, com memória descritiva, cartografia e coordenadas dos vértices.",
+  "Resulta de um Procedimento de Delimitação Administrativa com acordo das assembleias de freguesia, aprovado por unanimidade.",
+  "A Direção-Geral do Território considerou o processo bem instruído; os novos limites só entram na CAOP após fixação por diploma.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "A linha que separa algumas freguesias de Lousada e de Penafiel no mapa oficial não corresponde ao que existe no terreno. Com acordo das freguesias e das câmaras, esta lei fixa os limites corretos para que passem a constar da cartografia oficial. Não cria nem extingue freguesias.",
+ "context": "O texto explica que a divisão administrativa é fixada por lei e que a CAOP está em desconformidade com os limites reais das freguesias, o que dificulta o planeamento territorial, a construção, a regulação urbanística e operações estatísticas. Os municípios promoveram o procedimento para alinhar os limites com elementos físicos facilmente identificáveis.",
+ "analysis": "Trata-se de uma retificação técnica, com consenso local e parecer favorável da DGT quanto à instrução, o que reduz o risco de conflito e dá segurança jurídica à gestão do território. O texto principal remete os limites para anexos, pelo que o seu alcance concreto, em área e população afetadas, não pode ser avaliado a partir do articulado. Não há impacto orçamental identificado.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de uma correção de limites administrativos sem encargos ou receitas referidos no texto."
+ },
+ "affected": [
+  "freguesias de Lodares, Cristelos, Boim e Ordem e Bustelo",
+  "municípios de Lousada e Penafiel",
+  "residentes junto aos limites das freguesias"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "limites territoriais",
+  "freguesias",
+  "lousada",
+  "penafiel",
+  "caop"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

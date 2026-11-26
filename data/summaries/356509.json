@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforçar o diagnóstico precoce do cancro",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo três medidas. Primeiro, reforçar a execução dos rastreios oncológicos de base populacional, com metas quantificáveis de aumento da cobertura, melhoria das taxas de adesão e eliminação progressiva das assimetrias territoriais. Segundo, garantir nos cuidados de saúde primários a identificação sistemática dos utentes elegíveis, a convocação ativa personalizada e o registo obrigatório e acompanhamento da não adesão, da perda de seguimento ou da ausência de médico de família. Terceiro, reforçar o papel do médico de família e da equipa de saúde familiar na prevenção, com foco no tabaco, álcool e obesidade e prioridade à população jovem.",
+ "key_points": [
+  "Reforçar os rastreios populacionais com metas quantificáveis de cobertura e adesão.",
+  "Eliminar progressivamente as assimetrias territoriais no acesso a rastreio, diagnóstico e tratamento.",
+  "Identificar utentes elegíveis, convocá-los ativamente e registar a não adesão e a perda de seguimento.",
+  "Dar atenção aos utentes sem médico de família atribuído.",
+  "Reforçar a prevenção primária (tabaco, álcool, obesidade) e a literacia em saúde, com prioridade aos jovens."
+ ],
+ "plain_language": "O Chega pede ao Governo que consiga que mais pessoas façam os rastreios de cancro que já existem, convocando-as ativamente pelos centros de saúde e acompanhando quem falta. Pede também mais prevenção, sobretudo entre os jovens, com foco no tabaco, no álcool e na obesidade. Em vez de criar novos rastreios, a proposta quer fazer melhor o que já existe. É uma recomendação ao Governo.",
+ "context": "O proponente defende que alargar rastreios deve respeitar a evidência e a capacidade do SNS, e que primeiro é preciso melhorar os existentes. Cita dados de 2022: no cancro da mama 98% foram convidados e 50% fizeram o exame; no colo do útero 64% e 60%; no colorretal 33% e 14%. Refere ainda 1.563.710 utentes sem médico de família.",
+ "analysis": "A proposta identifica bem um problema concreto, a distância entre convite e adesão, e propõe metas quantificáveis, o que é positivo. Contudo, não define as metas, o prazo nem o financiamento, e a convocação ativa depende de médicos de família que faltam, como o próprio texto reconhece, sem propor como colmatar essa carência. O foco nos jovens é pouco articulado com medidas concretas. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforçar convocatórias, seguimento e prevenção nos cuidados primários exige recursos adicionais; o texto não apresenta valores, embora argumente que a deteção precoce pode conter custos evitáveis."
+ },
+ "affected": [
+  "utentes elegíveis para rastreio",
+  "médicos de família e equipas de saúde familiar",
+  "utentes sem médico de família",
+  "jovens"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "rastreio oncológico",
+  "cuidados de saúde primários",
+  "prevenção",
+  "médico de família"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

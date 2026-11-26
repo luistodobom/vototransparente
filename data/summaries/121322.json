@@ -1,0 +1,38 @@
+{
+ "short_title": "Comissão Eventual de Verificação de Poderes dos Deputados",
+ "summary": "Este projeto de resolução, subscrito por PS, PSD, Chega, IL, PCP e BE, constitui no início da XV Legislatura, a 29 de março de 2022, uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos. A comissão tem 17 membros, designados pelos partidos: nove do PS, quatro do PSD e um de cada um do Chega, IL, PCP e BE, nominalmente identificados. Elege a sua Mesa e designa um relator. Cabe-lhe elaborar um relatório, a submeter ao Plenário, com a declaração de verificação dos poderes dos deputados e as substituições devidas por suspensão de mandato ou a pedido dos próprios, pelos candidatos seguintes nas listas. Funciona até se constituir a comissão competente.",
+ "key_points": [
+  "Cria uma comissão eventual com 17 membros, repartidos por seis partidos.",
+  "A comissão elege a sua Mesa e designa um relator.",
+  "Elabora um relatório com a verificação de poderes dos deputados eleitos.",
+  "Propõe substituições de deputados pelos candidatos não eleitos seguintes na lista.",
+  "O relatório conclui com um parecer formal votado em Plenário."
+ ],
+ "plain_language": "No arranque de cada legislatura, é preciso confirmar que os deputados eleitos reúnem as condições para tomar posse. Este texto cria uma comissão temporária, com representantes de todos os partidos, que verifica isso, propõe substituições quando algum deputado não pode exercer funções e apresenta um parecer ao Plenário.",
+ "context": "O texto não inclui exposição de motivos. Trata-se de um procedimento habitual no início da legislatura, para verificar os poderes dos deputados eleitos, com base na ata de apuramento geral da Comissão Nacional de Eleições.",
+ "analysis": "É um ato procedimental e institucional, sem conteúdo político controverso. A composição reflete a representação parlamentar, o que assegura a participação de todos os partidos. A única limitação é a falta de justificação escrita, o que é normal neste tipo de iniciativa. A comissão é temporária e termina quando se constituir a comissão permanente competente.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "É um ato de organização interna do Parlamento, sem despesa ou receita previstas no texto."
+ },
+ "affected": [
+  "deputados eleitos à XV Legislatura",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "verificação de poderes",
+  "comissão eventual",
+  "início de legislatura",
+  "deputados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas urgentes para os viticultores do Douro",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo oito medidas em defesa do setor da vinha e da produção de uva para vinho no Douro: garantir que o IVDP se pronuncie por um aumento do Benefício em 2025 não inferior ao de 2024; fixar preços indicativos mínimos para que as uvas não sejam compradas abaixo dos custos de produção; controlar e limitar as importações de vinho a granel; assegurar que o Benefício seja feito prioritariamente com aguardente da destilação de vinhos da região; dar meios ao IVDP para fiscalizar a entrada de mostos e vinhos de fora da região; criar apoios extraordinários, como destilação de emergência ou retirada de mercado; apoiar o funcionamento da Casa do Douro, recorrendo aos saldos das taxas do IVDP enviadas ao Ministério das Finanças desde 2020; e atuar na UE para reverter a reforma da OCM do Vinho de 2007 e repor os direitos de plantação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Benefício de 2025 não inferior ao de 2024.",
+  "Preços indicativos mínimos que cubram os custos de produção.",
+  "Controlo das importações de vinho a granel e fiscalização da entrada de mostos e vinhos de fora da região.",
+  "Apoios extraordinários, incluindo destilação de emergência ou retirada de mercado e armazenamento.",
+  "Apoio à Casa do Douro e, a nível da UE, reposição dos direitos de plantação."
+ ],
+ "plain_language": "O PCP pede ao Governo medidas para ajudar os pequenos viticultores do Douro, que vendem as uvas a preços baixos e estão a ter dificuldade em escoar a produção. Propõe preços mínimos, travar a entrada de vinho a granel, apoios de emergência, apoio à Casa do Douro e mudanças nas regras europeias. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O PCP afirma que a situação dos pequenos viticultores se agrava devido à liberalização do setor na UE (reforma da OCM de 2007) e a políticas de sucessivos governos, com preços das uvas inalterados há 25 anos, corte do Benefício e a intenção anunciada pelas Casas Exportadoras de deixarem de comprar uvas a centenas de viticultores. Refere uma manifestação em Peso da Régua a 2 de julho.",
+ "analysis": "Propõe um conjunto de medidas concretas, algumas com instrumentos já existentes (Benefício, IVDP, destilação). Fragilidades: a fixação de preços mínimos e a limitação de importações podem conflituar com regras do mercado interno da UE, o que o texto reconhece apenas ao pedir intervenção a nível europeu, e o apoio extraordinário e à Casa do Douro implicam despesa não quantificada. O diagnóstico atribui responsabilidades políticas de forma valorativa sem apresentar dados de preços ou de produção.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoios extraordinários, destilação de emergência e apoio à Casa do Douro implicariam despesa, parcialmente a partir de saldos das taxas do IVDP. O texto não quantifica montantes."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "Casa do Douro",
+  "Instituto dos Vinhos do Douro e do Porto",
+  "casas exportadoras"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "douro",
+  "viticultores",
+  "benefício",
+  "casa do douro",
+  "vinho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

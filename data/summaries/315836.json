@@ -1,0 +1,44 @@
+{
+ "short_title": "Direitos no trabalho por turnos e noturno (PAN)",
+ "summary": "O Projeto de Lei n.º 317/XVII/1.ª, do PAN, altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas para reforçar os direitos de quem trabalha por turnos e de noite. Exige justificação fundamentada para o uso de turnos, com prova a cargo do empregador, limita cada turno a seis horas, impõe pausas de pelo menos 30 minutos e descansos mais longos na mudança de turno. Fixa exames de saúde de seis em seis meses, define trabalho noturno como o prestado entre as 20 e as 7 horas e aumenta o acréscimo noturno de 25% para 30%. Cria acréscimo de 30% para turnos, um dia de férias por cada três anos e antecipação da reforma em dois meses por cada ano.",
+ "key_points": [
+  "Turnos só em casos justificados e fundamentados, com prova a cargo da entidade patronal.",
+  "Cada turno até seis horas, pausa mínima de 30 minutos, 24 horas de descanso na mudança de turno e dois fins de semana livres em seis semanas.",
+  "Exames de saúde de seis em seis meses para trabalhadores por turnos.",
+  "Trabalho noturno das 20 às 7 horas, pago com acréscimo de 30% em vez de 25%; turnos pagos com acréscimo de 30%.",
+  "Um dia de férias suplementar por cada três anos de trabalho noturno ou por turnos.",
+  "Antecipação da idade de reforma em dois meses por cada ano em turnos e noturno, sem penalização, a regulamentar pelo Governo."
+ ],
+ "plain_language": "Quem trabalha por turnos ou à noite teria turnos mais curtos, pausas obrigatórias, mais descanso e exames de saúde de seis em seis meses. Receberia mais 30% pelo trabalho noturno e por turnos, ganharia um dia extra de férias a cada três anos e poderia reformar-se um pouco mais cedo. Grávidas, lactantes e menores teriam proteção reforçada.",
+ "context": "O PAN afirma que a Agenda do Trabalho Digno (Lei n.º 13/2023) não tratou o trabalho por turnos e noturno e que a lei atual não reconhece o impacto na saúde e na vida familiar de cerca de 800 mil pessoas. Pretende clarificar conceitos, aumentar os descansos e os acréscimos remuneratórios.",
+ "analysis": "O projeto é detalhado e cobre saúde, descanso, remuneração e reforma, com remissão para regimes mais favoráveis de convenção coletiva. Pode, porém, elevar de forma relevante os custos laborais e criar rigidez na organização de serviços essenciais, sobretudo com turnos limitados a seis horas e exames semestrais. A antecipação da reforma depende de regulamentação posterior e não tem financiamento previsto. O texto menciona uma norma de revogação de números cuja redação noutros artigos mantém reticências, o que dificulta a leitura.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O acréscimo de 30% para turnos na função pública e a antecipação da reforma sem penalização aumentariam a despesa pública, e os custos laborais privados também subiriam. O texto não apresenta montantes. A lei entra em vigor com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "trabalhadores por turnos",
+  "trabalhadores noturnos",
+  "entidades empregadoras",
+  "trabalhadores em funções públicas",
+  "grávidas e menores"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "trabalho por turnos",
+  "trabalho noturno",
+  "acréscimo remuneratório",
+  "férias",
+  "reforma antecipada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

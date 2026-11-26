@@ -1,0 +1,43 @@
+{
+ "short_title": "Políticas para idosos e proteção a quem cuida",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo sete medidas: reforçar os equipamentos públicos de resposta a pessoas idosas, aumentando as vagas em estruturas residenciais; criar equipas locais de intervenção nas casas das pessoas mais velhas para adaptações; reforçar substancialmente o apoio domiciliário, em trabalhadores, tipo de apoio, horários (incluindo fins de semana) e provisão pública pela Segurança Social; apoiar mais os cuidadores informais, eliminando barreiras no Estatuto, acabando com a exclusão de pensionistas e da condição de recursos, reconhecendo a carreira contributiva e garantindo vagas de descanso; investir em co-housing e respostas comunitárias; promover a participação dos idosos na gestão das respostas; e regularizar a precariedade das profissionais de cuidados. Não é vinculativo.",
+ "key_points": [
+  "Reforçar os equipamentos públicos e aumentar as vagas em estruturas residenciais para idosos.",
+  "Criar equipas locais para adaptar as casas dos idosos e reforçar o apoio domiciliário, com provisão pública pela Segurança Social.",
+  "Melhorar o Estatuto do Cuidador Informal: fim da condição de recursos e da exclusão de pensionistas, reconhecimento contributivo e descanso do cuidador.",
+  "Investir em co-housing e em respostas comunitárias de habitação autónoma.",
+  "Regularizar a precariedade laboral das profissionais de cuidados."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo mais lares públicos, mais apoio em casa, melhores condições para quem cuida de familiares idosos e contratos e proteção social para quem trabalha nos cuidados. Quer também apoiar formas de habitação coletiva para idosos e dar-lhes voz na gestão dos serviços. É uma recomendação sem carácter obrigatório.",
+ "context": "O Bloco refere que 23,4% da população tem 65 ou mais anos (Censos 2021), que menos de 13% dos idosos têm acesso a cuidados formais, que 80% dos cuidados são informais e que o Estatuto do Cuidador Informal tem alcance limitado. Cita as petições \"Direitos Para os Cuidadores Informais\" (cerca de 9 mil assinaturas) e \"Por uma Rede Pública de Lares\" (cerca de 8480 assinaturas).",
+ "analysis": "Aborda em conjunto a oferta de cuidados formais, o apoio aos cuidadores e as condições laborais das profissionais, seguindo reivindicações de petições. Fragilidades: o conjunto de medidas é vasto e não é quantificado nem calendarizado, e o texto não estima o custo, designadamente da provisão pública de apoio domiciliário e do fim da condição de recursos; não prioriza entre medidas; e a articulação com o setor social existente é pouco detalhada. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais vagas, apoio domiciliário público, subsídio ao cuidador alargado e programas de adaptação e co-housing implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas idosas",
+  "cuidadores informais",
+  "profissionais de cuidados",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "idosos",
+  "cuidador informal",
+  "apoio domiciliário",
+  "lares",
+  "co-housing"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Flexibilizar as parcerias público-privadas na saúde",
+ "summary": "O CHEGA propõe flexibilizar o regime das parcerias público-privadas (PPP) na saúde, alterando as bases 6 e 25 da Lei de Bases da Saúde e o Decreto-Lei n.º 23/2020. A responsabilidade do Estado passa a efetivar-se primeiramente pelo SNS e serviços públicos, com acordos com entidades privadas e sociais em caso de necessidade fundamentada; podem ser celebrados contratos com privados quando o SNS não tiver, comprovadamente, capacidade em tempo útil, definida pelos tempos máximos de resposta garantidos. A necessidade fundamentada é demonstrada em estudo da ACSS e da ARS, aprovado pelo membro do Governo da saúde após consulta pública, dispensável em caso de urgência. A entidade gestora deve ser sociedade comercial de objeto exclusivo e cumprir princípios de gestão pública, incluindo acesso de utentes fora da área de influência.",
+ "key_points": [
+  "Altera as bases 6 e 25 da Lei de Bases da Saúde para permitir contratos com privados e setor social quando o SNS não tenha capacidade em tempo útil.",
+  "Capacidade em tempo útil medida pelos tempos máximos de resposta garantidos, definidos por portaria.",
+  "Necessidade fundamentada demonstrada em estudo da ACSS e da ARS, após consulta pública, dispensável em manifesta urgência.",
+  "Entidade gestora tem de ser sociedade comercial de objeto exclusivo.",
+  "Entidade gestora deve garantir acesso a utentes de fora da sua área de influência, sujeito a disponibilidade."
+ ],
+ "plain_language": "A proposta facilita que o Estado entregue a gestão de hospitais ou serviços de saúde a entidades privadas, quando o SNS não consegue dar resposta a tempo. Exige um estudo prévio e consulta pública, salvo urgência, e obriga as entidades privadas a seguir princípios do serviço público.",
+ "context": "O CHEGA apoia-se em estudos e num relatório do Tribunal de Contas sobre os hospitais em PPP de Cascais, Braga, Loures e Vila Franca de Xira, que, segundo o texto, indicam poupanças para o Estado de cerca de 203 milhões de euros e bom desempenho. Defende que a gestão privada pode trazer eficiência ao SNS.",
+ "analysis": "A proposta faz depender as PPP de critérios objetivos, como estudo prévio, consulta pública e tempos de resposta, o que traz alguma transparência. Contudo, ao alterar a Lei de Bases, alarga a abertura a contratos com privados, o que é matéria politicamente controversa. A dispensa de estudo por despacho em urgência pode enfraquecer o controlo. O texto cita avaliações positivas mas não discute riscos de contratos de longa duração, custos para o Estado ou a capacidade de fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto invoca poupanças passadas nas PPP, mas não quantifica o impacto das alterações propostas, que dependerá dos contratos celebrados."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "entidades privadas e do setor social",
+  "Administração Central do Sistema de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "parcerias público-privadas",
+  "SNS",
+  "lei de bases da saúde",
+  "gestão hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

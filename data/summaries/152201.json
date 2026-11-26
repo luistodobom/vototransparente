@@ -1,0 +1,43 @@
+{
+ "short_title": "Comparticipação de medicamentos, óculos, aparelhos auditivos e próteses",
+ "summary": "O Bloco de Esquerda propõe um regime especial de comparticipação de medicamentos em função do rendimento e um regime de comparticipação de óculos e lentes, aparelhos auditivos e próteses dentárias. Acrescenta o artigo 22.º-A ao Decreto-Lei n.º 97/2015: para residentes com rendimento anual por pessoa do agregado até 14 vezes a retribuição mínima mensal garantida, a comparticipação é de 100% para medicamentos com preço igual ou inferior ao quinto mais baixo do grupo homogéneo, e nos restantes casos sobe 5 pontos no escalão A e 15 nos restantes. Para os dispositivos, o Estado negocia preços máximos com produtores e distribuidores e comparticipa até 90% do preço fixado, com prescrição médica a beneficiários do SNS, podendo chegar a 100% para quem tenha rendimento abaixo do limite. Regulamentação em 90 dias.",
+ "key_points": [
+  "Cria o artigo 22.º-A no Decreto-Lei n.º 97/2015, com comparticipação reforçada de medicamentos para rendimentos até 14 vezes a RMMG.",
+  "Comparticipação a 100% de medicamentos com preço até ao quinto mais baixo do grupo homogéneo.",
+  "Comparticipação de óculos e lentes, aparelhos auditivos e próteses dentárias até 90% do preço máximo negociado, e 100% para rendimentos baixos.",
+  "O Estado negoceia preços máximos com produção e distribuição.",
+  "Regulamentação em 90 dias e efeitos com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "A proposta faria o Estado pagar mais dos medicamentos para quem tem rendimentos mais baixos, e criaria apoio para comprar óculos, aparelhos auditivos e próteses dentárias, que hoje são pagos quase totalmente pelo utente. O Estado fixaria preços máximos para estes produtos. A comparticipação seria total para quem ganha pouco.",
+ "context": "O proponente cita que as famílias portuguesas nunca gastaram tanto com saúde como em 2021, com pagamentos diretos de 6,8 mil milhões de euros, 30% da despesa total em saúde (contra cerca de 20% na média da OCDE) e 10,6% de famílias com despesas catastróficas, segundo o relatório Health at a Glance 2021.",
+ "analysis": "A medida responde a um problema documentado de despesas diretas e baixa cobertura em saúde oral, visão e audição, com critério de rendimento. Fragilidades: a negociação de preços máximos pode enfrentar resistência e causar escassez; o custo para o Estado não é estimado; e o rendimento 'por pessoa do agregado' exige verificação administrativa. A articulação com os regimes já existentes de comparticipação e o seu impacto na adesão e procura não são analisados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a comparticipar mais medicamentos e a cobrir parte de óculos, aparelhos auditivos e próteses dentárias; o texto não quantifica o custo."
+ },
+ "affected": [
+  "utentes do SNS",
+  "famílias de baixos rendimentos",
+  "farmácias",
+  "fabricantes de dispositivos"
+ ],
+ "categories": [
+  "saude",
+  "consumidores",
+  "familia"
+ ],
+ "tags": [
+  "comparticipação",
+  "medicamentos",
+  "óculos",
+  "próteses dentárias",
+  "aparelhos auditivos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

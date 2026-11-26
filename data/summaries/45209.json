@@ -1,0 +1,39 @@
+{
+ "short_title": "Limitar a perda de subsídio de desemprego por recusa de formação inadequada",
+ "summary": "O PAN propõe alterar os artigos 11.º, 41.º e 49.º do Decreto-Lei n.º 220/2006, que regula a proteção no desemprego, para que o dever de aceitar formação profissional se aplique apenas a formação adequada ao perfil, habilitações escolares, formação profissional e projetos profissionais do desempregado. Do mesmo modo, só a recusa de formação adequada poderia ser causa de anulação da inscrição no centro de emprego e de perda da prestação de desemprego. Atualmente, qualquer recusa de formação pode levar à anulação da inscrição, com impossibilidade de reinscrição durante 90 dias. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Altera os artigos 11.º, 41.º e 49.º do Decreto-Lei n.º 220/2006.",
+  "O dever de aceitar formação passa a limitar-se a formação adequada ao perfil e projetos do desempregado.",
+  "Só a recusa de formação adequada pode levar à anulação da inscrição e à perda da prestação.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje, quem recusa uma formação oferecida pelo centro de emprego pode perder a inscrição e o subsídio de desemprego, mesmo que a formação não tenha nada a ver com a sua área. O PAN quer que só se possa penalizar quem recusar formação adequada ao seu perfil e habilitações.",
+ "context": "O proponente afirma que a lei atual não distingue a recusa injustificada da recusa de formação desadequada, dando como exemplo recém-licenciados em direito, economia ou marketing a quem foram oferecidos cursos de geriatria, tendo perdido a inscrição. Considera estas situações desproporcionadas e injustas.",
+ "analysis": "A proposta corrige um aspeto concreto, introduzindo proporcionalidade no regime de sanções, e protege o direito à proteção no desemprego. Fragilidades: o conceito de formação adequada é amplo e pode gerar litígios sobre quem decide a adequação, e o texto não define critérios nem procedimento de recurso. Pode também reduzir o poder dos centros de emprego de ativação dos desempregados. Os exemplos citados são casos relatados ao grupo parlamentar, sem dados gerais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao reduzir os casos de perda do subsídio, poderia aumentar a despesa com prestações de desemprego, sem estimativa no texto."
+ },
+ "affected": [
+  "desempregados",
+  "beneficiários de subsídio de desemprego",
+  "jovens à procura do primeiro emprego",
+  "centros de emprego"
+ ],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [
+  "subsídio de desemprego",
+  "formação profissional",
+  "centros de emprego",
+  "proteção social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

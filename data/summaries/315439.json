@@ -1,0 +1,41 @@
+{
+ "short_title": "Valorização da carreira de vigilante da natureza",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo quatro medidas para valorizar a carreira de vigilante da natureza: iniciar com as estruturas representativas um processo negocial de valorização da carreira e do estatuto profissional; alterar, na sequência desse processo, a Portaria n.º 211/2006 sobre o uniforme e o regulamento formativo de ingresso; adotar, com o ICNF, a APA e as CCDR, uma política anual de concursos com vagas adequadas às necessidades; e reforçar, após levantamento prévio, os meios, nomeadamente telemóveis de serviço, vestuário, veículos e embarcações.",
+ "key_points": [
+  "Iniciar um processo negocial com as estruturas representativas para valorizar a carreira e o estatuto profissional.",
+  "Alterar a Portaria n.º 211/2006 (uniforme) e o regulamento formativo inicial para ingresso na carreira.",
+  "Adotar uma política anual de abertura de concursos com número adequado de vagas, em articulação com ICNF, APA e CCDR.",
+  "Reforçar os meios após levantamento prévio: telemóveis de serviço, vestuário, veículos e embarcações."
+ ],
+ "plain_language": "Os vigilantes da natureza fiscalizam áreas protegidas, caça, pesca e resíduos, mas queixam-se de salários baixos e falta de equipamento. O PAN pede ao Governo que negoceie com eles a valorização da carreira, abra concursos todos os anos e dê melhores meios, como viaturas, barcos e fardas. É uma recomendação não vinculativa.",
+ "context": "O PAN refere que o corpo de vigilantes foi criado em 1975 e que a revisão da carreira, necessária desde a Lei n.º 12-A/2008, nunca foi concretizada em 17 anos, apesar de prometida no Programa de Governo. Alega que o número de vigilantes é insuficiente, muito abaixo do existente em Espanha ou Itália, e que faltam veículos e embarcações.",
+ "analysis": "A iniciativa responde a queixas concretas do setor e propõe começar por uma negociação e por um levantamento de necessidades, o que é metodologicamente prudente. As afirmações sobre insuficiência de vagas e comparações com Espanha e Itália não são acompanhadas de números no texto, e não há estimativa de custo, calendário ou número de vagas. Sendo uma resolução, a execução depende do Governo e da negociação coletiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Valorização da carreira, novas contratações e reforço de equipamentos, veículos e embarcações implicam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "vigilantes da natureza",
+  "ICNF e APA",
+  "áreas protegidas e Rede Natura 2000"
+ ],
+ "categories": [
+  "ambiente",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "vigilantes da natureza",
+  "carreira",
+  "icnf",
+  "fiscalização ambiental",
+  "portaria 211/2006"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Mais transportes públicos e plano urgente de mobilidade ativa",
+ "summary": "A deputada não inscrita Joacine Katar Moreira propõe que a Assembleia da República recomende ao Governo sete medidas: que as empresas de transportes públicos respeitem as indicações da Direção-Geral da Saúde, reforçando a oferta, a frequência e as carruagens até ao fim do estado de calamidade, eventualmente com autocarros de turismo disponíveis; que alargue o Passe Social Único a todo o país; que reforce a intermodalidade com acesso gratuito de bicicletas aos transportes públicos; que implemente com as autarquias um Plano Urgente de Estímulo à Mobilidade Ativa, com bicicletas gratuitas, ciclovias temporárias, ruas fechadas, parqueamento e limites de velocidade de 20 a 30 km/h; que crie incentivos financeiros ou fiscais às deslocações pendulares em bicicleta; e que antecipe a Estratégia Nacional para a Mobilidade Ativa Ciclável 2020-2030. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar a oferta e a frequência dos transportes públicos para respeitar a lotação recomendada pela Direção-Geral da Saúde.",
+  "Alargar o Passe Social Único a todo o país.",
+  "Acesso gratuito de bicicletas aos transportes públicos fluviais, ferroviários e rodoviários.",
+  "Plano Urgente de Estímulo à Mobilidade Ativa com bicicletas gratuitas, ciclovias temporárias e ruas fechadas ao automóvel.",
+  "Incentivos financeiros ou fiscais às deslocações em bicicleta e antecipação da estratégia ciclável 2020-2030."
+ ],
+ "plain_language": "A deputada pede ao Governo mais comboios, autocarros e barcos para evitar lotações durante a pandemia, um passe social único em todo o país e medidas para andar de bicicleta e a pé, como ciclovias temporárias, bicicletas gratuitas e apoios a quem vá trabalhar de bicicleta. É apenas uma recomendação.",
+ "context": "A proponente afirma que o programa de redução tarifária não foi acompanhado pelo investimento necessário na oferta de transportes públicos e que, com o desconfinamento, a lotação pode favorecer o contágio. Aponta recomendações da Direção-Geral da Saúde, da Organização Mundial de Saúde e exemplos de cidades europeias para a mobilidade ativa.",
+ "analysis": "A proposta liga saúde pública, equidade e descarbonização, com medidas concretas, e apoia-se em recomendações oficiais. Fragilidades: abrange muitas medidas sem custo, calendário ou financiamento definidos. Algumas, como o Passe Social Único nacional ou bicicletas gratuitas, têm custo elevado e dependem das autarquias e operadores, e usar autocarros de turismo exige adaptação e contratação. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço da oferta, o Passe Social Único nacional, as bicicletas gratuitas e os incentivos financeiros ou fiscais aumentariam despesa e reduziriam receita, sem montantes no texto."
+ },
+ "affected": [
+  "utentes de transportes públicos",
+  "ciclistas e peões",
+  "empresas de transportes",
+  "autarquias"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "saude"
+ ],
+ "tags": [
+  "transportes públicos",
+  "mobilidade ativa",
+  "passe social único",
+  "bicicleta",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

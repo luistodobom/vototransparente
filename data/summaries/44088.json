@@ -1,0 +1,40 @@
+{
+ "short_title": "Proibir a venda de herbicidas com glifosato a não profissionais",
+ "summary": "O projeto de lei do PAN visa a não comercialização de herbicidas com glifosato para usos não profissionais. Para isso, altera o artigo 3.º do Decreto-Lei n.º 101/2009, de 11 de maio, acrescentando um número que determina que não é autorizada a venda de quaisquer produtos fitofarmacêuticos que contenham glifosato. A lei entraria em vigor 30 dias após a publicação. A exposição de motivos recorda a classificação do glifosato como carcinogénio provável pela Agência Internacional para a Investigação sobre o Cancro, a renovação da licença na União Europeia em 2017 e a sua venda livre em hipermercados e lojas para uso doméstico.",
+ "key_points": [
+  "Altera o artigo 3.º do Decreto-Lei n.º 101/2009, de 11 de maio.",
+  "Passa a não ser autorizada a venda de produtos fitofarmacêuticos que contenham glifosato.",
+  "Entra em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "O PAN quer acabar com a venda de herbicidas com glifosato, como o Roundup, ao público em geral, por exemplo em hipermercados e lojas de jardinagem, por receio dos seus efeitos na saúde. Os agricultores e outros profissionais não seriam abrangidos pelo objetivo declarado da lei.",
+ "context": "O proponente cita a classificação do glifosato como carcinogénio provável para o ser humano, a sua deteção em alimentos, água e amostras humanas, estudos em voluntários portugueses e a venda livre para uso doméstico. Lembra que uma resolução de 2016 recomendou verificação da presença de glifosato, sem ação do Governo.",
+ "analysis": "A medida é objetiva e dirigida ao uso doméstico, onde não há formação específica. Contudo, há uma inconsistência: o título e o objeto falam de usos não profissionais, mas a redação proposta ('não é autorizada a venda de quaisquer produtos fitofarmacêuticos que contenham glifosato') parece proibir a venda em geral, incluindo a profissionais. O texto também não prevê período de transição, alternativas, fiscalização nem sanções, e a regulação de substâncias ativas é em grande parte matéria da União Europeia, o que o texto não discute.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas; a proibição afetaria vendedores e consumidores, mas o efeito orçamental direto não é quantificado."
+ },
+ "affected": [
+  "consumidores",
+  "retalhistas de produtos fitofarmacêuticos",
+  "jardineiros amadores",
+  "agricultores"
+ ],
+ "categories": [
+  "saude",
+  "consumidores",
+  "ambiente"
+ ],
+ "tags": [
+  "glifosato",
+  "herbicidas",
+  "uso doméstico",
+  "fitofarmacêuticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

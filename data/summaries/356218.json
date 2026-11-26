@@ -1,0 +1,40 @@
+{
+ "short_title": "Segurança Social paga faltas por calamidade",
+ "summary": "Este projeto de resolução da Iniciativa Liberal recomenda ao Governo que alargue o apoio financeiro às empresas com trabalhadores em faltas justificadas diretamente causadas pela situação de calamidade e que não estejam incluídas nos apoios do Decreto-Lei n.º 31-C/2026, de 5 de fevereiro. A finalidade é proteger socialmente os trabalhadores afetados e, em simultâneo, assegurar a sustentabilidade financeira das empresas, transferindo o encargo das faltas das empresas para a Segurança Social. É uma recomendação não vinculativa, de redação sucinta, sem definição de montantes, critérios de elegibilidade ou prazos.",
+ "key_points": [
+  "Recomenda alargar o apoio financeiro às empresas com trabalhadores em faltas justificadas por motivo de calamidade.",
+  "Dirige-se a empresas não abrangidas pelo Decreto-Lei n.º 31-C/2026, por exemplo as não sediadas nos concelhos identificados.",
+  "Propõe que o encargo passe das empresas para a Segurança Social.",
+  "É uma recomendação sem força vinculativa."
+ ],
+ "plain_language": "Quando um trabalhador falta por causa de uma calamidade, hoje quem paga é a empresa. A Iniciativa Liberal pede ao Governo que a Segurança Social cubra esse custo também para as empresas que ainda ficaram de fora dos apoios.",
+ "context": "A Iniciativa Liberal considera que o trabalhador não deve perder rendimento por faltar devido à calamidade e que não é aceitável que as empresas suportem essa proteção social, sobretudo as que não têm direito a apoios indemnizatórios, por exemplo por não estarem sediadas nos concelhos identificados.",
+ "analysis": "A proposta protege simultaneamente trabalhadores e empresas e corrige uma possível lacuna de cobertura. Contudo, é vaga: não define que faltas são abrangidas, como se comprova o motivo, durante quanto tempo nem quem fiscaliza. Transfere custos para a Segurança Social sem estimativa, e há risco de comportamentos oportunistas se a prova do nexo com a calamidade não for exigente. Por ser uma resolução, a decisão cabe ao Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Transferir o encargo das faltas das empresas para a Segurança Social aumenta a despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores em faltas por calamidade",
+  "empresas fora dos apoios existentes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia",
+  "seguranca"
+ ],
+ "tags": [
+  "calamidade",
+  "faltas justificadas",
+  "segurança social",
+  "apoio às empresas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

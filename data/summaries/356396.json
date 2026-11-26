@@ -1,0 +1,40 @@
+{
+ "short_title": "Critérios técnicos para recuperar elementos patrimoniais e intervenção no Forte da Graça",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo cinco medidas sobre salvaguarda do património edificado. Pede orientações técnicas nacionais, através do Ministério da Cultura, para a salvaguarda, reintegração e recuperação de elementos arquitetónicos e artísticos integrados, em conformidade com princípios internacionais de conservação; a avaliação prioritária da supressão das Armas de Portugal no Forte de Nossa Senhora da Graça, em Elvas, e a sua eventual reposição se for cientificamente admissível; um mecanismo nacional de sinalização de casos análogos; e a publicação de relatórios técnicos sucintos sobre as intervenções realizadas.",
+ "key_points": [
+  "Elaborar orientações técnicas nacionais para a reintegração de elementos arquitetónicos e artísticos em imóveis patrimoniais.",
+  "Avaliar com prioridade a supressão das Armas de Portugal no Forte de Nossa Senhora da Graça, em Elvas.",
+  "Repor os elementos desaparecidos apenas com evidência histórica suficiente, metodologia adequada e parecer técnico favorável.",
+  "Criar um mecanismo nacional de sinalização de casos análogos.",
+  "Publicar relatórios técnicos sucintos sobre as intervenções."
+ ],
+ "plain_language": "O CHEGA quer que o Governo defina regras técnicas para repor peças históricas desaparecidas em edifícios de valor patrimonial, e que avalie com prioridade o caso das Armas de Portugal no Forte da Graça, em Elvas. A reposição só avançaria se houver prova histórica e parecer técnico favorável. É uma recomendação.",
+ "context": "O CHEGA indica que as Armas de Portugal do Forte de Nossa Senhora da Graça, Monumento Nacional e parte do conjunto de Elvas inscrito na lista do Património Mundial da UNESCO, estão incompletas por supressão de componentes. Refere casos semelhantes nos Paços do Concelho de Almada e na Igreja de Nossa Senhora da Piedade, e invoca a Carta de Veneza e o Documento de Nara.",
+ "analysis": "A proposta coloca a decisão em critérios técnicos e científicos internacionais, o que a protege de reconstruções conjeturais, e exige transparência. Fragilidades: o texto não esclarece como e quando as Armas foram suprimidas nem quem decidiu, e a evidência histórica necessária para a reposição não é demonstrada no texto. Apresenta casos de Almada e da Cova da Piedade apenas como exemplos referidos no debate público. A recomendação é prudente e tem pouco rigor sobre custos, prazos e entidades responsáveis, e sobrepõe-se às competências das autarquias. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A elaboração de orientações, o mecanismo de sinalização e eventuais obras de reposição implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Forte de Nossa Senhora da Graça e município de Elvas",
+  "Entidades responsáveis pelo património cultural",
+  "Autarquias com imóveis classificados"
+ ],
+ "categories": [
+  "cultura"
+ ],
+ "tags": [
+  "património cultural",
+  "Forte da Graça",
+  "Elvas",
+  "restauro",
+  "Armas de Portugal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

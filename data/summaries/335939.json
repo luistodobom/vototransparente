@@ -1,0 +1,41 @@
+{
+ "short_title": "Informação eleitoral para emigrantes nas eleições presidenciais",
+ "summary": "Projeto de Resolução do CH que recomenda ao Governo o reforço urgente da informação eleitoral dirigida aos portugueses residentes no estrangeiro nas eleições presidenciais. Propõe quatro medidas: impor a toda a rede consular a publicação, de forma visível na página inicial, de informação clara sobre a data, horários, local de voto, documentos necessários e possibilidade ou impossibilidade de voto por correspondência; uniformizar essa informação através de orientações vinculativas do Ministério dos Negócios Estrangeiros; promover uma campanha institucional nos canais oficiais e redes sociais; e reforçar a articulação entre o MNE e a Comissão Nacional de Eleições. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Obrigar os consulados a publicar, de forma destacada na página inicial, informação sobre as eleições presidenciais.",
+  "Uniformizar a informação através de orientações vinculativas do Ministério dos Negócios Estrangeiros.",
+  "Promover uma campanha de informação dirigida aos emigrantes, incluindo redes sociais e plataformas digitais.",
+  "Reforçar a articulação entre o MNE e a Comissão Nacional de Eleições para responder a dúvidas e reclamações."
+ ],
+ "plain_language": "O Chega pede ao Governo que os consulados portugueses divulguem de forma clara e visível como e onde os emigrantes podem votar nas eleições presidenciais, e que haja uma campanha de esclarecimento. É uma recomendação ao Governo, sem força obrigatória.",
+ "context": "O proponente afirma que há mais de um milhão e meio de eleitores inscritos no estrangeiro e que existem queixas de falta ou dificuldade de acesso a informação nos sítios dos consulados, com informação dispersa ou ausente. Considera que isso pode excluir eleitores e torna os atos eleitorais menos representativos.",
+ "analysis": "Ponto forte: medidas simples e de baixo custo, que melhoram a transparência e o acesso à informação. Fragilidades: a exposição de motivos fala numa possível reflexão sobre modalidades de voto, mas as recomendações não alteram as regras de votação; as queixas referidas não são quantificadas no texto; não há prazos nem avaliação de resultados. Como resolução, depende da vontade do Governo, e o calendário eleitoral pode tornar as medidas tardias.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma campanha de informação e a atualização dos sítios consulares implicam custos, que o texto não quantifica."
+ },
+ "affected": [
+  "eleitores portugueses residentes no estrangeiro",
+  "rede consular",
+  "Ministério dos Negócios Estrangeiros",
+  "Comissão Nacional de Eleições"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "voto no estrangeiro",
+  "eleições presidenciais",
+  "consulados",
+  "emigrantes",
+  "informação eleitoral"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

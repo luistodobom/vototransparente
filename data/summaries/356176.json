@@ -1,0 +1,40 @@
+{
+ "short_title": "Georreferenciação de explorações agrárias para gestão de catástrofes",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo quatro medidas. Primeiro, agilizar os procedimentos de georreferenciação das explorações agrícolas, pecuárias e florestais, para apoiar decisões e intervenções em situações de risco, incluindo o salvamento de animais. Segundo, disponibilizar apoio técnico e/ou financeiro aos proprietários, sobretudo em áreas rurais, para a georreferenciação, regularização dos prédios e caracterização das explorações, culturas e animais. Terceiro, estabelecer mecanismos de monitorização e divulgação periódica dos dados georreferenciados, com atualização contínua. Quarto, garantir a articulação entre os sistemas de georreferenciação e a ANPC, com interoperabilidade de dados em tempo real. O texto cita o BUPi, que tem mais de 3 milhões de propriedades georreferenciadas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Agilizar a georreferenciação das explorações agrícolas, pecuárias e florestais.",
+  "Dar apoio técnico e/ou financeiro aos proprietários rurais para a georreferenciação e regularização dos prédios.",
+  "Monitorizar e divulgar periodicamente os dados georreferenciados, com atualização contínua.",
+  "Garantir a interoperabilidade em tempo real com a ANPC para apoiar o socorro de animais e pessoas."
+ ],
+ "plain_language": "Para ajudar em incêndios, cheias e outras catástrofes, é útil saber exatamente onde ficam as explorações agrícolas e onde estão os animais. O CHEGA pede ao Governo que acelere o registo geográfico destas explorações, ajude os proprietários a fazê-lo e partilhe a informação em tempo real com a Proteção Civil. É apenas uma recomendação.",
+ "context": "O proponente cita o aumento dos desastres naturais, perdas económicas em Portugal superiores a 15 mil milhões de euros em 14 anos, mortes de animais em incêndios e cheias, e a utilidade dos dados geoespaciais. Refere o BUPi, com mais de 3 milhões de propriedades georreferenciadas (34% das matrizes), e a falta de cadastro eficaz em muitas áreas.",
+ "analysis": "A georreferenciação pode melhorar a prevenção e o socorro, e o texto articula-a com sistemas existentes, como o BUPi e o SIREAP. Fragilidades: não define metas, prazos nem orçamento; a partilha de dados em tempo real com a ANPC levanta questões de proteção de dados pessoais e de propriedade que não são discutidas; e não esclarece como se evitaria duplicar o trabalho do BUPi. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio técnico e financeiro aos proprietários e a interoperabilidade dos sistemas implicariam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "proprietários e produtores agrícolas, pecuários e florestais",
+  "Autoridade Nacional de Emergência e Proteção Civil",
+  "populações rurais"
+ ],
+ "categories": [
+  "agricultura",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "georreferenciação",
+  "BUPi",
+  "gestão de catástrofes",
+  "explorações agrícolas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

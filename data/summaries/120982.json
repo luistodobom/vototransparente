@@ -1,0 +1,40 @@
+{
+ "short_title": "Medidas para despoluir e proteger o rio Paiva",
+ "summary": "O CDS-PP recomenda ao Governo que tome medidas urgentes para a despoluição efetiva do rio Paiva e afluentes, um Sítio de Importância Comunitária da Rede Natura 2000. As medidas incluem intensificar a fiscalização e vigilância de descargas poluentes; recolher regularmente amostras e divulgar publicamente os resultados; fazer campanhas de informação junto de populações, empresas e instituições; identificar os agentes poluidores e verificar ou rever as respetivas licenças; e pôr em prática um plano de limpeza do rio e afluentes. Sendo um projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Intensificar a fiscalização e vigilância de descargas poluentes.",
+  "Recolher amostras regularmente e divulgar publicamente os resultados.",
+  "Campanhas de informação para prevenir e dissuadir práticas ilícitas.",
+  "Identificar poluidores e verificar ou rever as condições de licenciamento.",
+  "Operacionalizar um plano de ação para a limpeza do rio e afluentes."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que combata a poluição do rio Paiva: mais fiscalização, análises à água com resultados públicos, identificação de quem polui, revisão das licenças e um plano de limpeza. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente refere que o Paiva foi considerado em 2016 um dos rios mais bem conservados da Europa, mas que desde então aumentaram as descargas poluentes, havendo uma petição pelo fim das mesmas. Critica a passividade e a falta de fiscalização do Governo e defende a revisão das licenças de descarga.",
+ "analysis": "A proposta é abrangente e concreta nas ações, e a divulgação pública dos dados reforça a transparência. Fragilidades: não define prazos, responsáveis nem financiamento; fala em despoluição \"total\", objetivo difícil de medir; as acusações de passividade do Governo e de \"alegadas\" descargas não são acompanhadas de dados concretos no texto. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais fiscalização, análises e um plano de limpeza implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "populações da bacia do rio Paiva",
+  "empresas com licenças de descarga",
+  "autarquias da região"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "rio paiva",
+  "descargas poluentes",
+  "rede natura 2000",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

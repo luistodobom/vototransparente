@@ -1,0 +1,40 @@
+{
+ "short_title": "Delegações parlamentares internacionais na XVI Legislatura",
+ "summary": "Projeto de Deliberação do Presidente da Assembleia da República que fixa a composição, não nominativa, das delegações da Assembleia às organizações parlamentares internacionais na XVI Legislatura, com o número de membros efetivos e suplentes e a sua distribuição por grupos parlamentares (PS, PSD e CH). Abrange a AP-CPLP, a AP-NATO, a APOSCE, a AP-UpM, a Assembleia Parlamentar do Mediterrâneo, o Fórum Parlamentar Ibero-Americano e a União Interparlamentar. A delegação ao Conselho da Europa já fora fixada por outra deliberação. Os grupos parlamentares designam os deputados, e deve ser assegurado pelo menos um terço de representação de cada género.",
+ "key_points": [
+  "Fixa a composição de sete delegações, com efetivos e suplentes distribuídos por PS, PSD e CH.",
+  "A composição é por grupo parlamentar e não nominativa, valendo para toda a legislatura.",
+  "Nas sessões plenárias da AP-CPLP, a presidência é assegurada pelo Presidente da Assembleia da República.",
+  "As designações devem assegurar pelo menos um terço de representatividade de um dos géneros."
+ ],
+ "plain_language": "Este texto define quantos deputados de cada partido representam o Parlamento português em organizações internacionais, como a NATO ou a União Interparlamentar. Cada partido escolhe depois quem envia, e tem de respeitar uma representação mínima de um terço de cada género.",
+ "context": "A Resolução da Assembleia da República n.º 142/2015 determina que a composição das delegações consta de deliberação do Plenário, com designação pelos grupos parlamentares. Fixar composições não nominativas, como na legislatura anterior, evita problemas com suspensões e renúncias de mandato.",
+ "analysis": "A solução dá estabilidade e simplifica o funcionamento das delegações, e a regra de um terço de representação de um género é um ponto positivo. A distribuição apenas por três grupos parlamentares é a que consta do texto, sem justificar os critérios de proporcionalidade usados. A composição não nominativa reduz transparência sobre quem representa o Parlamento até à designação pelos grupos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos. A participação em organizações internacionais implica despesas de deslocação, não quantificadas."
+ },
+ "affected": [
+  "deputados membros das delegações",
+  "grupos parlamentares",
+  "organizações parlamentares internacionais"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "delegações parlamentares",
+  "organizações internacionais",
+  "nato",
+  "cplp",
+  "paridade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

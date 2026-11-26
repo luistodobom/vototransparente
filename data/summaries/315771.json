@@ -1,0 +1,41 @@
+{
+ "short_title": "Procedimento de reconhecimento do estatuto de apátrida",
+ "summary": "O Projeto de Lei n.º 294/XVII/1.ª, do PSD, regula o procedimento para o reconhecimento do estatuto de apátrida, em cumprimento do artigo 6.º da Lei n.º 41/2023, de 10 de agosto, e altera a Lei n.º 23/2007 e a Lei n.º 27/2008. Define apátrida como quem não seja considerado nacional por nenhum Estado, nos termos da Convenção de 1954. Atribui à AIMA, I.P. a competência para apreciar e decidir, a pedido do interessado ou oficiosamente, e prevê intérprete, registo imediato do requerimento, informação sobre direitos e obrigações, possibilidade de acesso ao ACNUR, instrução do processo, garantias processuais especiais e decisão. A decisão pode ser impugnada nos tribunais administrativos no prazo de 15 dias, com efeito suspensivo. O estatuto cessa com a aquisição de nacionalidade ou de estatuto análogo noutro Estado.",
+ "key_points": [
+  "A AIMA, I.P. é a entidade competente para apreciar e decidir o reconhecimento do estatuto de apátrida.",
+  "O procedimento pode iniciar-se a pedido do interessado ou oficiosamente.",
+  "O requerente tem direito a intérprete, a informação numa língua que compreenda e a acesso ao ACNUR.",
+  "A decisão é impugnável perante os tribunais administrativos no prazo de 15 dias, com efeito suspensivo, e o interessado tem direito a proteção jurídica.",
+  "O estatuto cessa pela aquisição da nacionalidade portuguesa ou de outra, ou pela concessão de estatuto análogo por outro Estado."
+ ],
+ "plain_language": "Há pessoas que nenhum país reconhece como cidadãs, chamadas apátridas. Uma lei de 2023 criou o estatuto de apátrida, mas faltava definir como se pede e como se decide. Este projeto estabelece esse procedimento: o pedido é feito à AIMA, que tem de dar intérprete e informação ao requerente, e a decisão pode ser contestada em tribunal. Reconhecido o estatuto, a pessoa pode obter autorização de residência e, mais tarde, ficar apta a pedir a nacionalidade.",
+ "context": "O PSD recorda que Portugal ratificou em 2012 as convenções de 1954 e 1961 sobre apatridia e que a Lei n.º 41/2023 consagrou o estatuto, remetendo para a Assembleia a regulação do procedimento. Afirma que o regime é essencial para que apátridas residentes possam aceder a uma autorização temporária de residência e, após período de residência legal (proposto em quatro anos nas alterações à Lei da Nacionalidade), à nacionalidade.",
+ "analysis": "Pontos fortes: cumpre uma obrigação legal pendente desde 2023 e dá segurança jurídica a uma população vulnerável, com garantias como intérprete e recurso com efeito suspensivo. Fragilidades: atribui a decisão à AIMA, entidade cuja capacidade de resposta tem sido objeto de críticas, e o texto não fixa prazos máximos de decisão nem meios adicionais. O prazo de 15 dias para impugnar é curto. A ligação ao acesso à nacionalidade depende de alterações a outra lei, não incluídas aqui.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos, mas o procedimento atribui novas tarefas à AIMA, como intérpretes e instrução de processos, cujo custo não é estimado."
+ },
+ "affected": [
+  "pessoas apátridas residentes em Portugal",
+  "AIMA, I.P.",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "apátrida",
+  "AIMA",
+  "nacionalidade",
+  "estatuto de apátrida",
+  "ACNUR"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

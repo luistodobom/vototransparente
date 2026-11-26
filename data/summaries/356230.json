@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço do subsídio de funeral para menores e maiores acompanhados",
+ "summary": "Projeto de Lei do PS que procede à décima oitava alteração do Decreto-Lei n.º 176/2003, reforçando o subsídio de funeral. Passa a corresponder às despesas de funeral assumidas pelo requerente, com limite de três vezes o Indexante dos Apoios Sociais em caso de morte de menor, valor que se aplica também a titulares do estatuto de maior acompanhado com incapacidade comprovada por atestado multiusos desde o início da maioridade, em termos a regulamentar em 60 dias. Nos restantes casos o limite é fixado em portaria, não podendo ser inferior a um IAS, o que duplica o valor atual de meio IAS. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Subsídio de funeral até três vezes o IAS em caso de morte de menor.",
+  "Aplicação do mesmo limite a maiores acompanhados com incapacidade comprovada desde o início da maioridade.",
+  "Nos restantes casos, o limite fixado em portaria não pode ser inferior a um IAS, o que duplica o valor atual.",
+  "Regulamentação do regime dos maiores acompanhados em 60 dias; entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quando morre uma criança ou uma pessoa com incapacidade que nunca pôde descontar, a família recebe hoje cerca de meio IAS (menos de 270 euros) para o funeral. O PS propõe que esse apoio cubra as despesas até três vezes o IAS nestes casos, e que nos restantes casos o valor mínimo suba para um IAS.",
+ "context": "O PS considera que o apoio atual é muito baixo (meio IAS, menos de 270 euros), por contraste com o subsídio por morte ou o reembolso de funeral que correspondem a 3 IAS, mais de 1.600 euros. Entende que é injusto para quem perde um filho que nunca pôde descontar, e retoma uma questão já levantada na alteração ao Orçamento do Estado para 2026.",
+ "analysis": "A proposta corrige uma desigualdade de tratamento claramente identificada e propõe valores precisos. Ao fixar o limite em decreto-lei para menores e maiores acompanhados, dá previsibilidade, embora tire flexibilidade de atualização por portaria. Fragilidades: não estima o custo, e remete os critérios para os maiores acompanhados para regulamentação. A duplicação do valor nos restantes casos é fixada apenas como mínimo, deixando o montante final em aberto. O texto data de fevereiro de 2025 mas refere o Orçamento do Estado de 2026, e o título do projeto indica XVI em vez de XVII.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento do limite do subsídio de funeral, financiado pelo Orçamento do Estado, aumenta a despesa da proteção nos encargos familiares. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "Famílias de menores falecidos",
+  "Famílias de maiores acompanhados com incapacidade",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "menores",
+  "maior acompanhado",
+  "IAS",
+  "Segurança Social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

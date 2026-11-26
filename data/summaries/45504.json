@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime laboral e de aposentação específico para enfermeiros",
+ "summary": "Projeto de resolução do PCP que reconhece a penosidade e o risco da profissão de enfermagem e recomenda ao Governo que, em processo negocial com as organizações representativas dos trabalhadores, defina e regulamente um regime laboral específico, com compensação por penosidade e risco (remuneração, horário, dias suplementares de férias), a valorização do trabalho por turnos e noturno com condições para dispensa de trabalho noturno, e um regime de aposentação específico para os enfermeiros. Pede ainda a avaliação do impacto da eliminação dos regimes específicos de aposentação, com apresentação das conclusões à Assembleia, e o início das negociações no prazo máximo de 60 dias.",
+ "key_points": [
+  "Regime laboral específico com compensação por penosidade e risco.",
+  "Valorização do trabalho por turnos e noturno e condições para dispensa de trabalho noturno.",
+  "Regime de aposentação específico para enfermeiros.",
+  "Avaliação do impacto da eliminação dos regimes específicos de aposentação, com resultados enviados à Assembleia.",
+  "Início do processo negocial em 60 dias."
+ ],
+ "plain_language": "O PCP pede ao Governo que reconheça que a enfermagem é uma profissão de risco e desgaste e que negoceie com os sindicatos regras próprias de trabalho e de reforma para os enfermeiros, incluindo compensações e menos trabalho noturno. É uma recomendação, sem efeitos automáticos.",
+ "context": "O proponente argumenta que os enfermeiros enfrentam exposição a riscos biológicos e químicos, esforço físico e emocional e trabalho por turnos, agravados pela pandemia e pela carência de profissionais. Refere ainda projetos de lei anteriores do PCP sobre a carreira de enfermagem e sobre trabalho por turnos e noturno.",
+ "analysis": "A proposta aponta problemas reais de desgaste e de carência de pessoal e prevê negociação com os sindicatos. Contudo, não fixa valores nem condições concretas, deixando-as à negociação, e não estima o custo das compensações nem o impacto da reforma antecipada num SNS com falta de enfermeiros. Um regime específico pode ainda levantar questões de equidade face a outras profissões. Por ser recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Compensações remuneratórias, dias de férias adicionais e regimes de aposentação específicos implicariam mais despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "enfermeiros",
+  "utentes do SNS",
+  "Ministério da Saúde",
+  "sindicatos de enfermagem"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "enfermeiros",
+  "penosidade",
+  "aposentação",
+  "trabalho por turnos",
+  "carreira"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

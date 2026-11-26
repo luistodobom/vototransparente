@@ -1,0 +1,38 @@
+{
+ "short_title": "Programa nacional de rastreio do cancro do pulmão",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo duas medidas. A primeira é implementar um programa nacional de rastreio do cancro do pulmão, com tomografia computorizada de baixa dose, dirigido a grupos de risco definidos com base em critérios clínicos e epidemiológicos. A segunda é assegurar a consolidação, monitorização e divulgação pública dos resultados dos projetos-piloto de rastreio do cancro do pulmão concluídos ou em curso em Portugal, garantindo transparência e avaliação do seu impacto. O texto não fixa calendário, critérios de elegibilidade concretos nem orçamento.",
+ "key_points": [
+  "Implementar um programa nacional de rastreio do cancro do pulmão por tomografia computorizada de baixa dose.",
+  "Dirigir o rastreio a grupos de risco definidos com critérios clínicos e epidemiológicos.",
+  "Consolidar, monitorizar e divulgar publicamente os resultados dos projetos-piloto existentes."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie um rastreio nacional ao cancro do pulmão, feito com um exame de imagem, para pessoas com maior risco, e que divulgue os resultados dos projetos-piloto que já decorrem. A ideia é descobrir os tumores mais cedo, quando o tratamento é mais eficaz. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "A proponente afirma que o cancro do pulmão é a principal causa de mortalidade oncológica e que estudos como o National Lung Screening Trial e o NELSON indicam uma redução da mortalidade de pelo menos 20% com rastreio por TC de baixa dose. Refere que em Portugal foram anunciados projetos-piloto no Porto e em Cascais em 2025, mas há falta de informação sobre execução e resultados.",
+ "analysis": "A proposta assenta em evidência internacional e propõe transparência sobre os projetos-piloto, o que é positivo. Fragilidades: não define os grupos de risco, a periodicidade nem a capacidade necessária (equipamentos e radiologistas), e o rastreio por TC pode gerar falsos positivos e sobrediagnóstico, que o texto não discute. Pede um programa nacional sem esperar pelos resultados dos pilotos, o que pode ser contraditório com o pedido de os avaliar. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa nacional de rastreio com TC implica despesa em exames e recursos; o texto não a quantifica, embora argumente que o diagnóstico precoce reduz custos de doença avançada."
+ },
+ "affected": [
+  "fumadores e grupos de risco",
+  "utentes do SNS",
+  "doentes oncológicos",
+  "serviços de radiologia e oncologia"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "rastreio do pulmão",
+  "cancro do pulmão",
+  "tomografia computorizada",
+  "projetos-piloto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da proteção da habitação de inquilinos idosos",
+ "summary": "O BE propõe alterar os artigos 35.º e 36.º do NRAU e o artigo 14.º da Lei 13/2019. Nos contratos que transitem para o NRAU, o critério de residência no locado passa a 15 anos (comprovado por atestado da junta de freguesia) e o critério de idade (65 anos ou mais) ou deficiência (grau igual ou superior a 60%) passa a ser aferido à data de receção da comunicação do senhorio, e não à da transição. Nesses casos, o senhorio só pode opor-se à renovação com o fundamento da alínea b) do artigo 1101.º do Código Civil, com atualização ordinária da renda. Revoga ainda o n.º 6 do artigo 35.º e altera o regime de transição para agregados com rendimento inferior a cinco RMNA.",
+ "key_points": [
+  "Exige 15 anos de residência no locado para a proteção de inquilinos idosos ou com deficiência.",
+  "Passa a avaliar a idade (65 anos ou mais) ou a deficiência (60% ou mais) à data da comunicação do senhorio.",
+  "Limita a oposição à renovação ou denúncia ao fundamento da alínea b) do artigo 1101.º do Código Civil.",
+  "Mantém a atualização ordinária da renda nestes contratos.",
+  "Altera o artigo 14.º da Lei 13/2019 para os contratos de duração limitada do artigo 26.º do NRAU.",
+  "Revoga o n.º 6 do artigo 35.º do NRAU."
+ ],
+ "plain_language": "O BE quer que inquilinos com 65 ou mais anos, ou com deficiência igual ou superior a 60%, que vivam na mesma casa há mais de 15 anos, fiquem protegidos de despejo. A idade passaria a contar no momento em que o senhorio comunica o fim ou alteração do contrato, e não na data em que o contrato passou para o regime atual.",
+ "context": "O BE critica a liberalização do arrendamento de 2012 (\"Lei dos Despejos\"), que diz ter desprotegido sobretudo idosos, e cita o Acórdão n.º 393/2020 do Tribunal Constitucional, que considerou haver restrição desproporcionada do direito à habitação. Refere que o período transitório para contratos anteriores a 1990 desprotege cerca de 150 mil agregados (estimativa da Associação de Inquilinos de Lisboa).",
+ "analysis": "A iniciativa corrige um desfasamento concreto: a idade avaliada à data da transição pode excluir quem a atinge depois. A proteção reforçada responde a vulnerabilidades reais. Fragilidades: restringe a possibilidade de os senhorios recuperarem imóveis, com impacto na oferta e no rendimento de proprietários, nomeadamente idosos; o texto não avalia esses efeitos nem prevê compensações; o requisito de 15 anos é uma escolha arbitrária que cria diferenças de tratamento. A remissão técnica a várias normas dificulta a leitura.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita pública; trata-se de alterações a regras entre senhorios e inquilinos."
+ },
+ "affected": [
+  "inquilinos idosos",
+  "arrendatários com deficiência",
+  "senhorios"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "arrendamento",
+  "idosos",
+  "nrau",
+  "despejos",
+  "lei 13/2019"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

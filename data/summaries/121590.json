@@ -1,0 +1,43 @@
+{
+ "short_title": "Novo Estatuto do Serviço Nacional de Saúde (BE)",
+ "summary": "O Bloco de Esquerda propõe aprovar um novo Estatuto do Serviço Nacional de Saúde (SNS), em anexo, que concretiza a Lei de Bases da Saúde de 2019. O Estatuto define a natureza, os objetivos e a organização do SNS em níveis local, regional e nacional, prevê sistemas locais de saúde, a gestão integralmente pública das unidades e carreiras próprias para os profissionais, com incentivo à exclusividade. A iniciativa revoga vários diplomas em vigor, entre os quais o Decreto-Lei n.º 23/2020, que enquadra as parcerias de gestão, e o Decreto-Lei n.º 23/2019, sobre a transferência de competências para os municípios. Altera ainda o regime das unidades de saúde familiar, eliminando o modelo C. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Aprova o Estatuto do SNS e revoga o Decreto-Lei n.º 11/93, o Decreto-Lei n.º 111/2012, o Decreto-Lei n.º 18/2017 e os Decretos-Leis n.º 23/2019 e n.º 23/2020.",
+  "Cria sistemas locais de saúde e organiza o SNS em níveis local, regional e nacional.",
+  "Determina a gestão integralmente pública das unidades do SNS, privilegiando parcerias público-públicas.",
+  "Altera o Decreto-Lei n.º 298/2007 para que as unidades de saúde familiar tenham apenas os modelos A e B.",
+  "Prevê carreiras estruturadas e o incentivo à exclusividade dos profissionais, com contratos individuais de trabalho como exceção."
+ ],
+ "plain_language": "O Bloco de Esquerda quer substituir as regras atuais sobre como funciona o SNS por um novo Estatuto. Defende que os hospitais e centros de saúde sejam geridos apenas pelo Estado, que os profissionais tenham carreiras estáveis e trabalhem de preferência só no público, e que deixem de existir as regras que permitem parcerias com privados ou unidades de saúde familiar privadas. É uma proposta de lei que ainda tem de ser debatida e votada no Parlamento.",
+ "context": "O proponente considera que a Lei de Bases da Saúde de 2019 não foi acompanhada de legislação coerente: mantêm-se diplomas que permitem parcerias privadas e dividem o SNS. Critica a proposta de Estatuto apresentada pelo Governo em 2021 e defende um modelo de gestão pública, com autonomia das unidades, sistemas locais de saúde e exclusividade dos profissionais.",
+ "analysis": "A proposta é abrangente e procura alinhar a legislação com a Lei de Bases, o que dá coerência ao quadro legal. Contudo, a revogação simultânea de vários diplomas e a exclusão da gestão privada têm efeitos organizativos amplos, e o texto não apresenta estimativa de custos nem calendário de transição, apesar de prever carreiras, exclusividade e novas estruturas. O incentivo à exclusividade e a autonomia das unidades podem ajudar a fixar profissionais, mas o texto fornecido não quantifica o impacto orçamental. A exposição de motivos é marcadamente crítica da contratualização externa, sem apresentar dados que a fundamentem.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto prevê carreiras, incentivos à exclusividade e novas estruturas, o que tende a implicar mais despesa pública, mas não apresenta estimativas de custos."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde do SNS",
+  "unidades de saúde familiar",
+  "municípios",
+  "entidades privadas de saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "sns",
+  "estatuto do sns",
+  "lei de bases da saúde",
+  "gestão pública",
+  "exclusividade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

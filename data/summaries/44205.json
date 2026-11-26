@@ -1,0 +1,43 @@
+{
+ "short_title": "Nona alteração à Lei da Nacionalidade",
+ "summary": "Projeto de lei do Livre que altera a Lei da Nacionalidade (Lei n.º 37/81) para alargar o acesso à nacionalidade portuguesa. Passam a ser portugueses de origem os nascidos no território português filhos de estrangeiros que não estejam ao serviço do respetivo Estado, os nascidos entre 1981 e 2006 filhos de estrangeiros que declarem querer ser portugueses, e os nascidos no estrangeiro com um ascendente português do 2.º grau em linha direta que declarem querer sê-lo. Simplifica a aquisição por casamento e união de facto, reduz para dois anos a exigência de residência na naturalização e dispensa requisitos para antigos nacionais, descendentes de portugueses, sefarditas e ascendentes de portugueses. Revoga várias normas, incluindo o artigo 13.º, manda alterar o regulamento em 30 dias e entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Nacionalidade originária para nascidos em Portugal filhos de estrangeiros que não estejam ao serviço do respetivo Estado.",
+  "Casamento e união de facto com português permitem adquirir a nacionalidade por declaração.",
+  "Residência exigida na naturalização reduzida para dois anos.",
+  "Dispensa de requisitos para antigos nacionais, descendentes de portugueses, sefarditas e ascendentes de portugueses.",
+  "Revogação de várias normas e alteração do regulamento em 30 dias."
+ ],
+ "plain_language": "O Livre propõe facilitar a obtenção da nacionalidade portuguesa: quem nasce em Portugal de pais estrangeiros passaria a ser português à nascença, sem exigências de residência dos pais, e outros grupos, como cônjuges, descendentes de portugueses e sefarditas, teriam condições mais simples. O prazo de residência para naturalização passaria a ser de dois anos.",
+ "context": "O Livre afirma que existem pessoas nascidas em Portugal sem nacionalidade portuguesa, num limbo legal, e que a lei exige requisitos impossíveis. Invoca o artigo 4.º da Constituição e o artigo 15.º da Declaração Universal dos Direitos Humanos, e considera que a lei privilegia o jus sanguinis em vez do jus soli, esvaziando a última alteração.",
+ "analysis": "A proposta resolve situações de apatridia de facto e aproxima a lei do critério do local de nascimento, o que reforça a integração. Em contrapartida, o alargamento é muito amplo, com várias dispensas de requisitos de ligação à comunidade, e tem implicações em matéria de controlo de fronteiras e serviços de registo, que o texto não discute. A formulação é complexa, com várias remissões, e o prazo de 30 dias para adaptar o regulamento é curto. Como lei orgânica, exige maioria qualificada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. Um aumento de pedidos e registos poderia gerar encargos para os serviços, mas não são quantificados."
+ },
+ "affected": [
+  "filhos de estrangeiros nascidos em Portugal",
+  "cônjuges e unidos de facto de portugueses",
+  "descendentes de portugueses e de sefarditas",
+  "serviços de registo e de nacionalidade"
+ ],
+ "categories": [
+  "direitos",
+  "imigracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "nacionalidade",
+  "jus soli",
+  "naturalização",
+  "lei da nacionalidade",
+  "sefarditas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

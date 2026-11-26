@@ -1,0 +1,41 @@
+{
+ "short_title": "Criação urgente do Fundo para Catástrofes Naturais",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que promova a criação do Fundo para Catástrofes Naturais, apto a dar resposta imediata às vítimas de catástrofes naturais. A proposta surge na sequência da depressão Kristin e da declaração de situação de calamidade em janeiro de 2026. O texto não define o desenho do fundo, o seu financiamento, as regras de acesso ou os montantes, limitando-se a recomendar a sua criação, que o proponente enquadra na Estratégia Nacional para uma Proteção Civil Preventiva 2030. É uma recomendação, sem efeitos vinculativos.",
+ "key_points": [
+  "Recomenda a criação do Fundo para Catástrofes Naturais.",
+  "O fundo deve dar resposta imediata às vítimas de catástrofes naturais.",
+  "Enquadra a medida na Estratégia Nacional para uma Proteção Civil Preventiva 2030."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que crie um fundo público para compensar mais depressa as pessoas e empresas afetadas por catástrofes naturais, como tempestades ou sismos, em especial quando não têm seguro ou este não cobre os danos. Não diz como seria financiado nem quem teria direito. É uma recomendação que o Governo não é obrigado a seguir.",
+ "context": "O CHEGA refere que muitos cidadãos afetados não têm seguro ou não o conseguem acionar, e considera insuficientes os apoios do Governo após a depressão Kristin (537 euros por indivíduo, 1.075 euros por agregado e até 10 mil euros para obras). Invoca o modelo espanhol do Consórcio de Compensação de Seguros e declarações de responsáveis do setor segurador e supervisor.",
+ "analysis": "A proposta responde a uma lacuna reconhecida, o subseguro, com apoio de entidades do setor, e apresenta o precedente espanhol. A principal fragilidade é a ausência de conteúdo: não define o modelo (público, misto ou obrigatório), fontes de financiamento, coberturas, sustentabilidade ou articulação com seguros privados. Cita uma estimativa de 8 mil milhões de euros para um fundo sísmico apenas em nota de rodapé. Existe o risco de criar responsabilidade pública contingente sem prever contribuições. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação do fundo implicaria despesa pública ou outra forma de financiamento, não quantificada. Uma nota do texto cita que um fundo para fenómenos sísmicos necessitaria de 8 mil milhões de euros, segundo o presidente da APROSE."
+ },
+ "affected": [
+  "Vítimas de catástrofes naturais",
+  "Famílias e empresas sem seguro adequado",
+  "Seguradoras",
+  "Estado"
+ ],
+ "categories": [
+  "seguranca",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "catástrofes naturais",
+  "fundo",
+  "tempestade Kristin",
+  "seguros",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Mais transparência nos tempos de espera da Linha SNS 24",
+ "summary": "O PAN recomenda ao Governo que tome diligências junto dos Serviços Partilhados do Ministério da Saúde para que seja divulgada informação sobre os tempos máximo e mínimo de espera para atendimento na Linha SNS 24 e para que o Portal da Transparência do SNS desagregue os dados relativos à Linha SNS Grávida, à Linha de Atendimento Psicológico, à Triagem digital SNS 24 e ao projeto-piloto da Teleconsulta Linha SNS 24. Recomenda ainda que o Governo pondere definir tempos máximos de resposta garantidos para o atendimento na linha. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Divulgar os tempos máximo e mínimo de espera para atendimento na Linha SNS 24.",
+  "Desagregar no Portal da Transparência os dados da Linha SNS Grávida, da Linha de Atendimento Psicológico, da triagem digital e da teleconsulta.",
+  "Ponderar a definição de tempos máximos de resposta garantidos para a Linha SNS 24."
+ ],
+ "plain_language": "O PAN quer que se saiba melhor quanto tempo as pessoas esperam ao telefone na Linha SNS 24, incluindo os tempos mais longos e mais curtos, e que os dados de cada serviço da linha sejam publicados separadamente. Pede também que o Governo pondere fixar um tempo máximo de resposta. O pedido não obriga o Governo.",
+ "context": "O proponente afirma que o Portal da Transparência do SNS só divulga chamadas recebidas e atendidas, taxa de atendimento e tempo médio de espera, o que considera insuficiente para escrutinar a linha, e que não há tempos máximos de resposta garantidos, ao contrário de outros domínios dos cuidados de saúde no SNS.",
+ "analysis": "A proposta é de baixo custo e reforça o escrutínio com dados mais granulares, e a desagregação por serviço permite identificar problemas específicos. Fragilidades: a definição de tempos máximos é apenas para ponderação, sem compromisso, e o texto não indica quais seriam esses limites nem as consequências do incumprimento. Tempos extremos podem ser pouco representativos sem outras medidas de distribuição. Não aborda a capacidade de resposta da linha. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A proposta incide sobre a divulgação de dados e a ponderação de metas, sem custos ou receitas indicados no texto."
+ },
+ "affected": [
+  "utentes do SNS",
+  "Linha SNS 24",
+  "Serviços Partilhados do Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS 24",
+  "tempos de espera",
+  "portal da transparência",
+  "linha de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

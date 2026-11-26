@@ -1,0 +1,41 @@
+{
+ "short_title": "Proibir a caça ao melro",
+ "summary": "Projeto de lei do PEV que proíbe a caça ao melro (Turdus merula), retira-o da lista de espécies cinegéticas do Anexo I do Decreto-Lei n.º 202/2004 e interdita a captura ou o abate em qualquer altura do ano, bem como a destruição dos ninhos e a perturbação dos locais de repouso. A correção de efetivos só é permitida com censos consistentes reconhecidos pelo organismo de conservação da natureza que comprovem excesso populacional, e é feita por técnicos desse organismo. Altera o artigo 104.º (caça aos tordos e ao estorninho-malhado), prevê contraordenações, regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe a caça ao melro e retira a espécie da lista de espécies cinegéticas.",
+  "Interdita captura, abate, destruição de ninhos e perturbação dos locais de repouso.",
+  "A correção de efetivos só com censos reconhecidos e por técnicos do organismo de conservação da natureza.",
+  "Altera o artigo 104.º do Decreto-Lei n.º 202/2004.",
+  "Regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O PEV quer que o melro, uma ave muito comum, deixe de poder ser caçado em Portugal. Só poderia ser controlado pelo Estado, se estudos mostrassem excesso de melros com risco para os ecossistemas ou a saúde pública. Quem os caçar comete contraordenação.",
+ "context": "O proponente descreve o melro como ave abundante, sedentária e urbana, com estatuto pouco preocupante no Livro Vermelho dos Vertebrados de Portugal, mas entende que isso não justifica a sua inclusão na lista cinegética, por ter interesse gastronómico nulo ou muito reduzido e nenhum perigo comprovado. Defende que o controlo de populações deve ser responsabilidade do Estado.",
+ "analysis": "A proposta é simples e focada numa espécie, mas assenta num critério político, o valor gastronómico, e não em ameaça à espécie, que o próprio texto reconhece ser abundante. Não são apresentados dados sobre o número de melros caçados nem sobre impacto económico para a atividade cinegética. A remissão para controlo estatal de populações não é acompanhada de estimativa de custos ou meios.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proibição pode reduzir receitas da atividade cinegética e o eventual controlo estatal implicaria despesa; o texto não quantifica."
+ },
+ "affected": [
+  "caçadores",
+  "zonas de caça",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "melro",
+  "caça",
+  "espécies cinegéticas",
+  "biodiversidade",
+  "decreto-lei 202/2004"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

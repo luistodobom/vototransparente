@@ -1,0 +1,43 @@
+{
+ "short_title": "Veículos até 20 anos no transporte de crianças",
+ "summary": "O projeto de lei do PSD altera o artigo 5.º da Lei n.º 13/2006, que aprova o regime jurídico do transporte coletivo de crianças e jovens, para permitir que o serviço seja feito por veículos com antiguidade até 20 anos, em vez dos atuais 16. A licença passa a ser válida por dois anos, renovável, para veículos com menos de 16 anos, e por um ano, renovável, para veículos com 16 anos ou mais, o que implica inspeção específica anual do IMT para os mais antigos. A licença é suspensa automaticamente se o veículo tiver mais de 20 anos desde a primeira matrícula. A lei entra em vigor no dia seguinte ao da publicação e produz efeitos a 1 de janeiro de 2026.",
+ "key_points": [
+  "Antiguidade máxima dos veículos para o transporte de crianças passa de 16 para 20 anos.",
+  "Licença de dois anos para veículos com menos de 16 anos e de um ano para os de 16 anos ou mais.",
+  "Inspeção específica do IMT passa a ser anual para veículos com mais de 16 anos.",
+  "Licença suspensa automaticamente se o veículo tiver mais de 20 anos desde a primeira matrícula.",
+  "Produz efeitos a 1 de janeiro de 2026."
+ ],
+ "plain_language": "Os autocarros e carrinhas que levam crianças à escola podem ser mais velhos, até 20 anos em vez de 16, mas os mais antigos passam a ser inspecionados todos os anos. Isso dá mais tempo a escolas e instituições para renovar frotas.",
+ "context": "O PSD recorda que regimes excecionais anteriores, nos anos letivos de 2021-2022 a 2023-2024, já permitiam veículos até 18 anos. Justifica a alteração com a necessidade de assegurar a segurança e a qualidade e, ao mesmo tempo, dar previsibilidade e um período mais longo de renovação das frotas, protegendo a viabilidade dos prestadores, nomeadamente IPSS.",
+ "analysis": "A proposta dá previsibilidade a operadores e IPSS e compensa o alargamento com inspeções anuais, o que é um ponto forte. A fragilidade é admitir veículos mais velhos num transporte de crianças, sem dados de acidentes ou de sinistralidade por idade do veículo que sustentem a segurança. A eficácia depende da capacidade de inspeção do IMT, que o texto não avalia. A produção de efeitos retroativa a 1 de janeiro de 2026 também pode suscitar dúvidas sobre situações já ocorridas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O aumento de inspeções anuais pode implicar mais despesa e receita de taxas para o IMT. O texto não apresenta valores."
+ },
+ "affected": [
+  "crianças e jovens transportados",
+  "operadores de transporte escolar e IPSS",
+  "famílias",
+  "Instituto da Mobilidade e dos Transportes"
+ ],
+ "categories": [
+  "transportes",
+  "educacao",
+  "seguranca"
+ ],
+ "tags": [
+  "transporte escolar",
+  "antiguidade de veículos",
+  "IMT",
+  "inspeção",
+  "IPSS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

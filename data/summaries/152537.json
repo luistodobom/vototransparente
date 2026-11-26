@@ -1,0 +1,39 @@
+{
+ "short_title": "Estudo e programa de conservação do gato-bravo",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo a realização de um estudo nacional sobre a presença do gato-bravo em Portugal, o seu estado de conservação e a sua distribuição geográfica, em parceria com a comunidade científica, universidades e organizações não governamentais de ambiente e proteção animal. Recomenda ainda que se promova um programa de conservação da espécie, articulado com os mesmos parceiros e baseado nas conclusões do estudo. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Estudo nacional sobre a presença, o estado de conservação e a distribuição do gato-bravo.",
+  "Realização em parceria com a comunidade científica, universidades e ONG.",
+  "Programa de conservação da espécie com base nas conclusões do estudo."
+ ],
+ "plain_language": "O gato-bravo é uma das espécies mais ameaçadas de Portugal e não se sabe quantos existem. O PAN pede ao Governo que mande estudar a espécie e, depois, crie um programa para a proteger. É uma recomendação, não uma obrigação.",
+ "context": "O PAN refere que o gato-bravo está classificado como Vulnerável no Livro Vermelho dos Vertebrados de Portugal (2005), que não há dados sobre o número de exemplares, que o último registo foi feito em 2021 no Parque Natural de Montesinho, e que as ameaças incluem a destruição do habitat e a hibridação com o gato doméstico.",
+ "analysis": "Responde a uma lacuna de conhecimento reconhecida por organizações e pela comunidade científica, e prevê uma sequência lógica entre estudo e plano. Fragilidades: não define prazos, entidade responsável nem financiamento, e o texto contém uma inconsistência na referência a registos (alude a mais de 30 anos sem observações e a um registo em 2021). Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O estudo nacional e o programa de conservação implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Gato-bravo",
+  "Entidades de conservação da natureza e investigação",
+  "Zonas do interior onde a espécie possa existir"
+ ],
+ "categories": [
+  "animais",
+  "ambiente",
+  "ciencia"
+ ],
+ "tags": [
+  "gato-bravo",
+  "conservação",
+  "biodiversidade",
+  "espécie ameaçada"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

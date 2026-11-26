@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas para garantir professores a todos os alunos",
+ "summary": "Projeto de Resolução do PCP com doze recomendações ao Governo para combater a falta de professores e valorizar a carreira docente. Inclui retomar a negociação coletiva sobre a carreira, eliminar as vagas de acesso ao 5.º e 7.º escalões, atribuir um complemento mensal de alojamento até 700 euros a docentes colocados a 50 km ou mais da residência, aumentar vagas nos cursos de formação de professores, rever a avaliação de desempenho sem quotas, eliminar limitações à vinculação (norma-travão), reduzir tarefas burocráticas, recuperar o tempo de serviço congelado e aprovar um modelo de gestão democrática das escolas.",
+ "key_points": [
+  "Retomar a negociação coletiva sobre a revisão da carreira docente e eliminar as vagas de acesso ao 5.º e 7.º escalões.",
+  "Atribuir complemento mensal de alojamento até 700 euros a docentes colocados a 50 km ou mais da residência.",
+  "Aumentar as vagas nos cursos de formação de professores e garantir profissionalização gratuita.",
+  "Rever a avaliação de desempenho, eliminar quotas e permitir a vinculação de docentes com 3 ou mais anos de serviço.",
+  "Recuperar todo o tempo de serviço congelado, com reflexo nas pensões, e aprovar gestão democrática das escolas."
+ ],
+ "plain_language": "O PCP propõe ao Governo um conjunto de medidas para que as escolas tenham professores suficientes: melhores salários e progressão na carreira, apoio à renda de quem trabalha longe de casa, menos burocracia, mais vagas para formar professores e mais contratos estáveis. Também pede que o tempo de serviço congelado seja recuperado. São recomendações ao Governo, que as pode ou não seguir.",
+ "context": "O proponente afirma que a carência de professores atingiu um novo máximo e que o Governo, em funções há mais de um ano, não tomou medidas. Segundo o texto, a forma mais fiável de contar alunos sem professor é através dos horários colocados em contratação de escola. Defende a valorização da Escola Pública, com mais trabalhadores, menos alunos por turma e respeito pelos direitos e pela carreira.",
+ "analysis": "A iniciativa é abrangente e responde a problemas reconhecidos, como a precariedade, a burocracia e a dificuldade de colocação longe da residência. Porém, a lista extensa não é hierarquizada nem acompanhada de custos, calendário ou análise de impacto orçamental, e algumas medidas, como a recuperação integral do tempo congelado, teriam encargo relevante. A eliminação de quotas e vagas colide com opções orçamentais e de negociação do Governo. O texto contém críticas políticas ao Governo. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As medidas (complemento de alojamento até 700 euros, recuperação do tempo de serviço, eliminação de vagas e quotas) aumentariam a despesa com pessoal docente; o texto não quantifica o custo."
+ },
+ "affected": [
+  "professores e educadores",
+  "alunos",
+  "docentes contratados",
+  "candidatos à docência"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "professores",
+  "carreira docente",
+  "falta de professores",
+  "vinculação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

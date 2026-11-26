@@ -1,0 +1,42 @@
+{
+ "short_title": "Fundo de Garantia para o Subsídio Social de Mobilidade",
+ "summary": "Projeto de Resolução do JPP que recomenda ao Governo, no quadro do Orçamento do Estado para 2026, a criação de um Fundo de Garantia dotado de 190 milhões de euros, preferencialmente gerido pela Caixa Geral de Depósitos ou outra entidade bancária pública, para pagar de imediato o diferencial entre o preço efetivo das passagens aéreas e o montante do Subsídio Social de Mobilidade. Os residentes na Madeira e nos Açores passariam a pagar apenas o valor final previsto: 79 euros para residentes e 59 euros para estudantes na Madeira, e 119 e 89 euros nos Açores. O remanescente seria liquidado automaticamente pelo fundo, eliminando os reembolsos. Recomenda ainda uma avaliação anual do fundo. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar um Fundo de Garantia de 190 milhões de euros, preferencialmente gerido por banco público.",
+  "Os residentes pagam apenas 79 euros (59 para estudantes) na Madeira e 119 euros (89 para estudantes) nos Açores.",
+  "O diferencial é pago automaticamente pelo fundo, eliminando os processos de reembolso.",
+  "Mecanismo permanente, com avaliação anual e possível alargamento a outras situações de mobilidade especial."
+ ],
+ "plain_language": "Hoje, quem vive na Madeira ou nos Açores paga a viagem de avião por inteiro e só depois recebe o reembolso do Estado. O JPP recomenda que o passageiro pague logo apenas o valor final (por exemplo, 79 euros na Madeira) e que um fundo público pague a diferença à companhia. É uma recomendação ao Governo.",
+ "context": "O proponente considera que obrigar os residentes a adiantar o valor total das passagens e aguardar reembolso é uma barreira económica e social, com atrasos e burocracia, que viola princípios de coesão territorial e igualdade. Invoca o dever de solidariedade do Estado para com as regiões autónomas previsto na Constituição.",
+ "analysis": "A proposta ataca uma dificuldade real, a necessidade de adiantar dinheiro, e define valores finais claros. Contudo, não explica como seriam geridos os pagamentos às companhias nem os riscos de abuso ou de aumento de preços, e a dotação de 190 milhões de euros não é fundamentada no texto. Pode haver sobreposição com o modelo já em vigor, que o texto não detalha. A afirmação de que é «financeiramente sustentável» não é acompanhada de cálculo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Propõe um fundo com dotação de 190 milhões de euros no Orçamento do Estado para 2026; o texto não demonstra a poupança com a eliminação dos reembolsos."
+ },
+ "affected": [
+  "residentes e estudantes da Madeira e dos Açores",
+  "companhias aéreas",
+  "Caixa Geral de Depósitos",
+  "Estado"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "Madeira",
+  "Açores",
+  "passagens aéreas",
+  "fundo de garantia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

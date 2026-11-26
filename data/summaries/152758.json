@@ -1,0 +1,40 @@
+{
+ "short_title": "Estudo da integração da CPAS na Segurança Social",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo uma auditoria independente à Caixa de Previdência dos Advogados e Solicitadores (CPAS), para apurar o seu património, encargos e condições de pagamento de pensões. Concluída a auditoria, o Governo criaria uma Comissão para refletir sobre a eventual integração dos beneficiários no regime geral da Segurança Social, incluindo requisitos, fases de transição, período em que o regime da CPAS seria opcional para quem tem duplo enquadramento obrigatório e estimativa de encargos. Como alternativa, a Comissão ponderaria um novo regime sem presunção de rendimentos, com maior proteção social e plano de resolução de dívidas. A Comissão teria doze meses para apresentar conclusões.",
+ "key_points": [
+  "Auditoria independente ao património, encargos e capacidade de pagamento de pensões da CPAS.",
+  "Criação de uma Comissão para ponderar a integração dos beneficiários no regime geral da Segurança Social.",
+  "Análise de requisitos, fases de transição e estimativa dos encargos financeiros.",
+  "Ponderação de um regime alternativo sem presunção de rendimentos e com maior proteção social.",
+  "Prazo de doze meses para o estudo da Comissão."
+ ],
+ "plain_language": "O Parlamento é convidado a recomendar ao Governo que examine as contas da Caixa que protege advogados e solicitadores e estude se estes devem passar para a Segurança Social comum. Hoje pagam um mínimo mensal mesmo sem rendimentos e têm menos proteção na doença ou na maternidade. A recomendação não obriga o Governo.",
+ "context": "Os autores consideram que o regime da CPAS, com descontos mínimos obrigatórios (267,94 € por mês) desligados do rendimento real e sem proteção na doença, maternidade ou carência económica, está desajustado, sobretudo para advogados jovens e precários. Retomam uma iniciativa da XIV Legislatura que caducou.",
+ "analysis": "Ponto forte: propõe primeiro apurar dados fiáveis (auditoria) e só depois decidir, com diálogo com as entidades representativas. Fragilidades: é uma recomendação sem efeito vinculativo e adia a decisão por pelo menos a duração da auditoria mais doze meses de estudo. Não quantifica o custo da integração nem o impacto na sustentabilidade da Segurança Social, e a alternativa de novo regime ficou apenas esboçada. Os beneficiários com direitos adquiridos exigiriam transição cuidada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Prevê a estimativa dos encargos financeiros de cada fase de transição como parte do estudo, e há despesa associada à auditoria e à Comissão."
+ },
+ "affected": [
+  "advogados e solicitadores",
+  "beneficiários da CPAS",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "justica"
+ ],
+ "tags": [
+  "cpas",
+  "segurança social",
+  "advogados",
+  "previdência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

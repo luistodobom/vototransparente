@@ -1,0 +1,42 @@
+{
+ "short_title": "Acréscimo remuneratório para turnos rotativos",
+ "summary": "O Projeto de Lei n.º 314/XVII/1.ª, do CHEGA, altera o Código do Trabalho para reconhecer a penosidade do trabalho em turnos rotativos. Cria um acréscimo remuneratório de 15% para dois turnos e de 20% para três turnos, face ao trabalho equivalente prestado de dia, podendo ser substituído por instrumento de regulamentação coletiva se não for menos favorável. Determina que o descanso semanal coincida com o domingo pelo menos uma vez em cada quatro semanas e que haja exames médicos anuais a partir do quinto ano de turnos. Obriga o Governo a publicar a lista de empresas com laboração contínua autorizada e a regulamentar um regime especial de reforma.",
+ "key_points": [
+  "Acréscimo de 15% (dois turnos) ou 20% (três turnos) sobre o trabalho equivalente prestado de dia.",
+  "Descanso semanal ao domingo pelo menos uma vez em cada período de quatro semanas.",
+  "Exames médicos periódicos anuais a partir do quinto ano de trabalho por turnos.",
+  "O Governo publica a lista de entidades com laboração contínua autorizada e o número de trabalhadores abrangidos.",
+  "O Governo regulamenta um regime especial de reforma ou outra proteção social segundo o critério da penosidade.",
+  "Entrada em vigor no dia seguinte à publicação, com efeitos a 1 de janeiro de 2026."
+ ],
+ "plain_language": "Quem trabalha por turnos rotativos passaria a receber mais: 15% a mais com dois turnos e 20% com três. Teria também direito a folgar ao domingo pelo menos uma vez de quatro em quatro semanas e a exames médicos todos os anos depois do quinto ano. O Governo teria de divulgar que empresas funcionam sem parar e estudar uma reforma especial para estes trabalhadores.",
+ "context": "O CHEGA aponta o aumento dos horários atípicos, citando dados do INE de 2022 e 2023, e os riscos para a saúde reconhecidos por organismos internacionais. Defende compensar de imediato a penosidade e, em paralelo, estudar um regime especial de reforma.",
+ "analysis": "A medida tem a vantagem de ser concreta e de aplicar-se já, sem esperar por um regime de reforma. Em contrapartida, o impacto nos custos das empresas não é estimado e os acréscimos são relativamente modestos face a propostas alternativas. O artigo sobre o acréscimo deixa dúvidas de articulação com o trabalho noturno, e a remissão do regime de reforma para regulamentação governamental não fixa prazos nem critérios. O texto também refere artigos que não aparecem numerados de forma consecutiva.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O acréscimo remuneratório recai sobretudo sobre os empregadores, incluindo potencialmente o Estado como empregador, mas o texto não quantifica custos nem receitas contributivas."
+ },
+ "affected": [
+  "trabalhadores por turnos rotativos",
+  "entidades empregadoras",
+  "empresas de laboração contínua"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "turnos rotativos",
+  "penosidade",
+  "acréscimo remuneratório",
+  "laboração contínua",
+  "Código do Trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

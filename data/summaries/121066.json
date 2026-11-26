@@ -1,0 +1,41 @@
+{
+ "short_title": "Ampliação e requalificação do Hospital Garcia de Orta",
+ "summary": "O PCP apresenta um projeto de resolução que recomenda ao Governo cinco medidas para o Hospital Garcia de Orta, em Almada: desenvolver os procedimentos para a sua ampliação, nomeadamente com a construção de um novo edifício dedicado ao ambulatório; ter em conta, na conceção, o novo hospital do Seixal; realizar a ampliação por fases, primeiro o novo edifício e o alargamento das urgências, depois a requalificação das instalações atuais; mobilizar fundos comunitários, sem prejuízo de verbas do Orçamento do Estado; e criar condições para fixar trabalhadores da saúde, com carreiras dignificadas, regime de dedicação exclusiva e modernização de equipamentos. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Recomenda a ampliação do Hospital Garcia de Orta, com um novo edifício para o ambulatório.",
+  "Pede que o projeto considere a construção do novo hospital do Seixal.",
+  "Propõe execução por fases: novo edifício e urgências primeiro, requalificação das instalações atuais depois.",
+  "Sugere financiamento por fundos comunitários, sem prejuízo do Orçamento do Estado.",
+  "Pede condições para fixar trabalhadores, incluindo carreiras e dedicação exclusiva."
+ ],
+ "plain_language": "O Hospital Garcia de Orta foi pensado para metade da população que hoje serve e tem falta de espaço, com contentores a funcionar nas urgências e consultas. O PCP pede ao Governo que construa um novo edifício para as consultas e hospital de dia, amplie as urgências e crie melhores condições para manter os profissionais no hospital. É uma recomendação, não uma obrigação.",
+ "context": "O PCP refere que o hospital foi projetado para cerca de 150 mil habitantes, mas serve Almada, Seixal e Sesimbra, com cerca de 300 mil quando abriu, e que tem áreas contentorizadas para a COVID-19 e para consultas. Aponta que o hospital do Seixal tarda em concretizar-se e que a saída de profissionais para o setor privado agrava a situação.",
+ "analysis": "O diagnóstico é concreto e apoiado em informação do conselho de administração do hospital, e a proposta é faseada e articulada com o hospital do Seixal. Fragilidades: não apresenta custo estimado, prazos nem calendário, e a articulação com o novo hospital do Seixal, ainda não concretizado, cria incerteza sobre o dimensionamento. A fixação de profissionais por carreiras e dedicação exclusiva é uma questão nacional que não se resolve só neste hospital. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção do novo edifício e a ampliação das urgências implicam investimento, a financiar por fundos comunitários e Orçamento do Estado; o texto não indica valores."
+ },
+ "affected": [
+  "utentes de Almada, Seixal e Sesimbra",
+  "profissionais do Hospital Garcia de Orta",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "hospital garcia de orta",
+  "almada",
+  "ampliação hospitalar",
+  "hospital do seixal",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

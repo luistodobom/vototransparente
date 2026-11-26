@@ -1,0 +1,43 @@
+{
+ "short_title": "Lobbying: regras e registo de transparência (Chega)",
+ "summary": "O projeto de lei do Chega regulamenta a representação legítima de interesses (lobbying) junto de entidades públicas e cria um Registo de Transparência da Representação de Interesses (RTRI) junto da Assembleia da República. Define a atividade e as exclusões, os direitos e deveres das entidades registadas, o registo das relações contratuais, as audiências e consultas públicas e a identificação das interações. Prevê sanções para a violação de deveres, como suspensão do registo e limitação de acesso, incompatibilidades e um impedimento de três anos para titulares de cargos políticos e altos cargos públicos, códigos de conduta e uma avaliação passados cinco anos. As entidades públicas podem ter registo próprio ou usam o RTRI. Entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Cria o RTRI na Assembleia da República e obriga entidades públicas a terem registo próprio ou a usá-lo.",
+  "Impõe deveres às entidades registadas, incluindo o registo das relações contratuais.",
+  "Sanções por violação de deveres: suspensão total ou parcial do registo e limitação de acesso, com decisões publicadas.",
+  "Impedimento de três anos para antigos titulares de cargos políticos e altos cargos públicos.",
+  "Relatório de avaliação do impacto cinco anos depois da entrada em vigor."
+ ],
+ "plain_language": "A proposta cria um registo público onde quem faz lobbying tem de se inscrever e declarar quem representa e que contratos tem. Quem não cumprir pode ser suspenso do registo. Antigos governantes e altos cargos ficam impedidos de fazer lobbying junto do seu antigo serviço durante três anos.",
+ "context": "O Chega invoca a Convenção das Nações Unidas contra a Corrupção e dados do Barómetro Global de Corrupção de 2021, segundo os quais quase 90% dos portugueses acreditam que há corrupção no Governo. Defende que regular o lobbying torna a participação nas decisões públicas mais transparente e confiável e dá igualdade de oportunidades aos interesses representados.",
+ "analysis": "Pontos fortes: registo público, sanções concretas, publicitação de consultas e avaliação futura. Fragilidades: as sanções limitam-se à suspensão do registo, sem coimas, o que pode ser pouco dissuasor; a opção por registos próprios das entidades pode fragmentar a informação; o texto invoca perceções de corrupção sem demonstrar a ligação direta ao lobbying. A aplicação às regiões autónomas depende de decreto legislativo regional.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão do RTRI, dos canais de queixa e da avaliação implicam custos administrativos. O texto não apresenta montantes."
+ },
+ "affected": [
+  "lobistas e entidades que representam interesses",
+  "titulares de cargos políticos e altos cargos públicos",
+  "entidades públicas",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao",
+  "justica"
+ ],
+ "tags": [
+  "lobbying",
+  "registo de transparência",
+  "corrupção",
+  "incompatibilidades",
+  "representação de interesses"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

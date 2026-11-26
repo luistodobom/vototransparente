@@ -1,0 +1,39 @@
+{
+ "short_title": "Recomenda salário mínimo de 1 050 euros em 2026",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que aumente a retribuição mínima mensal garantida para 1 050 euros, com efeitos a 1 de janeiro de 2026. A exposição de motivos afirma que a atualização de 820 para 870 euros em 2025 foi insuficiente, compara Portugal com outros países da Zona Euro e defende que o aumento deve ser acompanhado do incentivo à negociação coletiva, com revogação do regime de caducidade e reposição do princípio do tratamento mais favorável, e de uma valorização geral dos salários de 15% e de pelo menos 150 euros. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Recomenda um salário mínimo nacional de 1 050 euros a partir de 1 de janeiro de 2026.",
+  "Argumenta que o aumento de 820 para 870 euros em 2025 foi insuficiente.",
+  "Associa a medida à revogação da caducidade da contratação coletiva e ao tratamento mais favorável.",
+  "Defende uma valorização geral dos salários de 15% e de pelo menos 150 euros."
+ ],
+ "plain_language": "O PCP pede ao Governo que suba o salário mínimo para 1 050 euros em janeiro de 2026, em vez do valor atual de 870 euros. Defende que isso melhora o poder de compra, reduz a pobreza e aumenta as contribuições para a Segurança Social. O Governo não é obrigado a seguir a recomendação.",
+ "context": "O PCP afirma que o salário mínimo evoluiu pouco desde 1974 e que, acompanhando inflação e produtividade, devia ter superado 1 200 euros em 2024. Cita a posição de Portugal em 11.º lugar na Zona Euro em paridade de poder de compra, quase dois milhões de pessoas em risco de pobreza e a necessidade de estimular o consumo e conter a emigração jovem.",
+ "analysis": "A proposta tem objetivo claro e liga o salário mínimo à negociação coletiva e ao nível geral de salários. O aumento proposto (de 870 para 1 050 euros) é muito superior ao previsto no acordo de concertação social e o texto não avalia o impacto nas pequenas e médias empresas, no emprego ou na inflação, nem os custos para o Estado enquanto empregador. Argumenta com benefícios para a Segurança Social sem os quantificar. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O aumento do salário mínimo pode elevar as contribuições para a Segurança Social e o IRS, mas também a despesa salarial do Estado e prestações indexadas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores com salário mínimo",
+  "empregadores, em especial pequenas empresas",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "salário mínimo",
+  "retribuição mínima",
+  "negociação coletiva",
+  "salários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

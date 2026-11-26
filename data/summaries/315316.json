@@ -1,0 +1,38 @@
+{
+ "short_title": "Identificar e mobilizar fogos devolutos para habitação",
+ "summary": "Este projeto de resolução do Bloco de Esquerda recomenda ao Governo que identifique os prédios ou frações autónomas devolutas, bem como prédios em ruínas e terrenos para construção, e que crie um regime especial de mobilização de fogos devolutos há mais de 5 anos, os quais seriam inscritos numa bolsa de arrendamento gerida pela respetiva Câmara Municipal. É uma recomendação não vinculativa. O texto refere dados sobre a crise habitacional, como o aumento de 82% da mediana dos novos arrendamentos entre 2017 e 2024, e os 723.215 fogos devolutos registados nos Censos de 2021.",
+ "key_points": [
+  "Identificar prédios ou frações devolutos, prédios em ruínas e terrenos para construção.",
+  "Criar um regime especial de mobilização de fogos devolutos há mais de 5 anos.",
+  "Inscrever esses fogos numa bolsa de arrendamento gerida pela Câmara Municipal."
+ ],
+ "plain_language": "O Bloco pede ao Governo que faça o levantamento das casas e terrenos vazios e que crie regras para pôr no mercado de arrendamento, através das câmaras municipais, as casas que estão vazias há mais de cinco anos. É uma recomendação ao Governo.",
+ "context": "O BE aponta que Portugal tem a pior relação entre rendimentos e preços da habitação na OCDE, que o parque público é de cerca de 3% dos alojamentos (abaixo da média da OCDE e da UE) e que os Censos de 2021 registaram 723.215 fogos devolutos, sobretudo em Lisboa e Porto.",
+ "analysis": "Atua sobre um recurso existente, as casas vazias, com apoio em dados oficiais. Fragilidades: não define como se mobilizariam os imóveis (por exemplo, arrendamento forçado, incentivos ou sanções), não esclarece direitos dos proprietários nem a articulação com a Lei de Bases da Habitação, e deixa em aberto o financiamento e a capacidade das câmaras. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a identificação dos imóveis e a bolsa de arrendamento municipal implicariam despesa administrativa e eventuais receitas, sem dados."
+ },
+ "affected": [
+  "proprietários de imóveis devolutos",
+  "candidatos a arrendamento",
+  "municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "imóveis devolutos",
+  "bolsa de arrendamento",
+  "habitação",
+  "fogos devolutos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Subsídio de doença a 100% em doenças crónicas e cancro",
+ "summary": "Projeto de Lei do PCP que altera os artigos 9.º, 10.º, 16.º, 21.º e 23.º do Decreto-Lei n.º 28/2004 para reforçar o subsídio de doença. Reduz o prazo de garantia para três meses civis com registo de remunerações, fixa a percentagem de cálculo em 85% e determina que, na tuberculose ou doença crónica (incluindo a oncológica), medicamente certificada, o subsídio é de 100% da remuneração de referência. Prevê pagamento desde o primeiro dia, sem período de espera nestas doenças, e sem limites temporais enquanto durar a incapacidade. Entra em vigor com o Orçamento do Estado do ano seguinte ao da publicação.",
+ "key_points": [
+  "Prazo de garantia reduzido para três meses civis com registo de remunerações.",
+  "Percentagem de cálculo do subsídio de 85% no período de incapacidade temporária.",
+  "Subsídio de 100% na tuberculose e doenças crónicas, incluindo a oncológica.",
+  "Pagamento desde o primeiro dia e sem período de espera nestas doenças.",
+  "Sem limites temporais de concessão enquanto se mantiver a incapacidade."
+ ],
+ "plain_language": "O PCP propõe melhorar a baixa por doença: menos tempo de descontos para ter direito, pagamento desde o primeiro dia e subsídio de 100% do salário de referência para quem tem tuberculose ou doenças crónicas, como o cancro, sem limite de duração enquanto durar a incapacidade.",
+ "context": "O proponente argumenta que as doenças crónicas e oncológicas causam longos períodos de incapacidade, custos e vulnerabilidade, e que o subsídio de doença foi sendo reduzido ao longo dos anos. Refere que só na tuberculose se admite hoje um subsídio até 100% e defende o mesmo direito para outras doenças.",
+ "analysis": "Mais abrangente do que propostas só para o cancro, estende a proteção a todas as doenças crónicas, o que reduz desigualdades entre doenças. Em contrapartida, o conceito de doença crónica é amplo e o texto remete para certificação médica sem a definir, com impacto financeiro potencialmente elevado e não estimado. A redução do prazo de garantia e a eliminação de limites temporais podem levantar questões de sustentabilidade e de controlo de abusos, que não são analisadas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio de 100%, o pagamento desde o primeiro dia e a ausência de limite temporal aumentam a despesa da Segurança Social; o texto não apresenta estimativa."
+ },
+ "affected": [
+  "doentes crónicos e oncológicos",
+  "trabalhadores em baixa médica",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doenças crónicas",
+  "tuberculose",
+  "prazo de garantia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

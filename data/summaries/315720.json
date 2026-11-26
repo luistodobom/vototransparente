@@ -1,0 +1,39 @@
+{
+ "short_title": "Correção de injustiças na carreira docente",
+ "summary": "Este projeto de resolução do PSD e do CDS-PP recomenda ao Governo, no âmbito da negociação da revisão do Estatuto da Carreira Docente, duas medidas: rever os critérios de reposicionamento de modo a reconhecer todo o tempo de serviço dos professores que já estavam nos quadros antes de 1 de janeiro de 2011, como foi feito para quem ingressou depois; e corrigir as ultrapassagens na progressão, com um sistema equitativo que respeite a experiência e o mérito independentemente da data de ingresso. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever os critérios de reposicionamento para os docentes dos quadros antes de 1 de janeiro de 2011.",
+  "Reconhecer todo o seu tempo de serviço, como se aplicou a quem ingressou depois dessa data.",
+  "Corrigir as ultrapassagens na progressão na carreira.",
+  "Fazê-lo no âmbito da negociação da revisão do Estatuto da Carreira Docente."
+ ],
+ "plain_language": "Os partidos da maioria pedem ao Governo que corrija casos em que professores mais antigos foram ultrapassados na carreira por colegas que entraram depois. A recomendação não obriga o Governo.",
+ "context": "Os proponentes citam o ministro da Educação, que descreveu o Estatuto da Carreira Docente como uma manta de retalhos, e apontam os decretos de 2007 e 2009 e a Portaria 119/2018 como causas de desigualdades e ultrapassagens, em especial para quem ingressou antes de 2011.",
+ "analysis": "A iniciativa reconhece um problema de equidade conhecido e integra-o no processo negocial em curso. Contudo, é genérica: não define como se calcula o reposicionamento, o calendário nem o número de docentes abrangidos, e não quantifica custos. Atribui as injustiças a governos anteriores, mas não esclarece se a correção será total ou faseada, o que limita a sua utilidade prática.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reconhecimento de mais tempo de serviço implicaria despesa salarial adicional; o texto não apresenta valores."
+ },
+ "affected": [
+  "professores dos quadros anteriores a 2011",
+  "docentes em geral",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira docente",
+  "reposicionamento",
+  "ultrapassagens",
+  "estatuto da carreira docente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

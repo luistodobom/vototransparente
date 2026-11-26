@@ -1,0 +1,43 @@
+{
+ "short_title": "Financiamento dos hospitais do SNS com base nos resultados",
+ "summary": "O CDS-PP propõe que o financiamento dos hospitais integrados no SNS passe a basear-se nos resultados alcançados por cada unidade. Cada Conselho de Administração envia trimestralmente ao ministro da Saúde um Relatório de Desempenho e Qualidade; uma equipa de avaliação nomeada pelo ministro elabora um Quadro Anual de Desempenho e Qualidade, publicado no portal do SNS. O orçamento anual de cada hospital é determinado por esses resultados: os melhores têm majoração e os piores sofrem penalizações, podendo justificá-las por escrito em 15 dias e receber apoio técnico. As métricas são definidas por um grupo de trabalho com as ordens profissionais e outras entidades, em 30 dias. A lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Financiamento dos hospitais do SNS passa a depender dos resultados de desempenho e qualidade.",
+  "Relatórios trimestrais dos Conselhos de Administração e Quadro Anual de Desempenho e Qualidade publicado no portal do SNS.",
+  "Hospitais com melhores índices têm majoração orçamental; os piores são penalizados, salvo justificação aceite pelo ministro.",
+  "Grupo de trabalho com ordens profissionais, DGS e ACSS define as métricas em 30 dias.",
+  "Lista obrigatória de indicadores, como tempos de resposta, infeções hospitalares, reinternamentos e mortalidade.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O CDS-PP quer que o dinheiro que cada hospital público recebe dependa da qualidade dos seus resultados, medidos por indicadores como tempos de espera, infeções e reinternamentos. Hospitais com melhores resultados receberiam mais; os piores teriam penalizações, podendo explicar as causas e receber apoio.",
+ "context": "O CDS-PP considera que o SNS tem um défice recorrente e que, além de maior orçamento, é preciso mudar a forma como é aplicado, remunerando os ganhos em saúde e não o número de atos. Defende que a pandemia agravou as fragilidades do SNS e liga a proposta à meritocracia e à concorrência entre serviços, no contexto da livre circulação de utentes. Refere um projeto anterior chumbado.",
+ "analysis": "A ideia de associar financiamento a resultados responde a uma discussão legítima sobre eficiência e dá visibilidade a indicadores. Riscos: penalizar hospitais com piores resultados pode agravar a sua situação financeira e prejudicar utentes de zonas mais carenciadas; os indicadores não são ajustados à complexidade dos doentes; o orçamento passa a depender de decisão ministerial; e pode incentivar seleção de casos. O texto não estima custos nem define pesos entre indicadores.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A lei redistribui orçamentos entre hospitais conforme os resultados e não indica montantes; o efeito global na despesa do SNS não é estimado."
+ },
+ "affected": [
+  "hospitais do SNS",
+  "utentes do SNS",
+  "profissionais de saúde",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "sns",
+  "financiamento hospitalar",
+  "desempenho",
+  "qualidade",
+  "hospitais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

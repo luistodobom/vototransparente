@@ -1,0 +1,43 @@
+{
+ "short_title": "Qualidade da governação orçamental e Conta Geral do Estado",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo três orientações no âmbito da apreciação da Conta Geral do Estado. Primeira, reforçar a qualidade da governação orçamental, com previsões prudentes e realistas, controlo rigoroso da despesa pública e execução mais eficaz do investimento público. Segunda, garantir uma apresentação clara e transparente da informação orçamental, em especial a tributária, distinguindo reduções de imposto, retenções na fonte e reembolsos de IRS. Terceira, valorizar a Conta Geral do Estado como instrumento de prestação de contas, integrando os compromissos legais na ação climática e incorporando mais as recomendações do Tribunal de Contas e do Conselho Económico e Social.",
+ "key_points": [
+  "Reforçar previsões orçamentais prudentes, controlo da despesa e execução do investimento público.",
+  "Apresentar a informação tributária distinguindo reduções de imposto, retenções na fonte e reembolsos de IRS.",
+  "Valorizar a Conta Geral do Estado como instrumento de prestação de contas.",
+  "Integrar os compromissos da Lei de Bases do Clima na Conta Geral do Estado.",
+  "Incorporar mais as recomendações do Tribunal de Contas e do Conselho Económico e Social."
+ ],
+ "plain_language": "O PS pede ao Governo que faça orçamentos mais realistas, explique melhor o que muda nos impostos, em especial no IRS, e tire mais consequências das recomendações do Tribunal de Contas. É apenas uma recomendação.",
+ "context": "O PS defende que a Conta Geral do Estado deve ser um momento de responsabilização política e não só de verificação contabilística. Refere revisões estatísticas do INE que exigem reforçar o acompanhamento da despesa, e sustenta que as reduções de IRS aprovadas se traduziram numa descida real da carga fiscal.",
+ "analysis": "A iniciativa trata de boas práticas de transparência e prestação de contas e tem pouco risco orçamental. É, porém, genérica: não define indicadores, prazos ou mecanismos de verificação. O texto inclui afirmações de caráter político, como a avaliação dos efeitos das reduções de IRS aprovadas por um partido, que não são acompanhadas de dados. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "São orientações de gestão e transparência sem medidas de despesa ou receita identificadas no texto."
+ },
+ "affected": [
+  "Governo",
+  "Assembleia da República",
+  "contribuintes",
+  "Tribunal de Contas"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "Conta Geral do Estado",
+  "governação orçamental",
+  "IRS",
+  "transparência",
+  "Tribunal de Contas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

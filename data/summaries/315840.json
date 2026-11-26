@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforma antecipada para trabalhadores por turnos e noturnos",
+ "summary": "O Projeto de Lei n.º 319/XVII/1.ª, do BE, cria o direito à antecipação da idade legal de reforma, sem penalização, para quem trabalha por turnos ou em regime noturno. A antecipação é calculada à razão de seis meses por cada ano de trabalho nesses regimes, até ao limite dos 55 anos de idade. O tempo de trabalho suplementar conta na mesma proporção. O regime aplica-se aos trabalhadores abrangidos pelo Código do Trabalho e, com adaptações, aos da Lei Geral do Trabalho em Funções Públicas. Os encargos seriam suportados por um acréscimo de contribuição das entidades empregadoras que recorram a estes regimes. A regulamentação ficaria para legislação especial.",
+ "key_points": [
+  "Antecipação da idade de reforma em seis meses por cada ano em trabalho por turnos ou noturno, sem penalização.",
+  "A antecipação tem como limite os 55 anos de idade.",
+  "O tempo de trabalho suplementar também conta para a antecipação, na mesma proporção.",
+  "Aplica-se ao setor privado e, com adaptações, à função pública.",
+  "Os custos são financiados por um acréscimo de contribuição das entidades empregadoras que usem turnos e trabalho noturno."
+ ],
+ "plain_language": "Quem trabalha por turnos ou de noite poderia reformar-se mais cedo, sem perder valor na pensão. Por cada ano nesse tipo de horário, a idade de reforma desceria seis meses, mas nunca abaixo dos 55 anos. As empresas que usam estes horários pagariam mais contribuições para financiar o custo. Os detalhes ficariam para uma lei posterior.",
+ "context": "O BE sustenta que o trabalho por turnos e noturno prejudica a saúde e abrange mais de um milhão de pessoas. Invoca a petição n.º 121/XVI/1 pela reforma antecipada e critica o relatório do grupo de trabalho do Governo sobre profissões de desgaste rápido, que não indica profissões nem aponta regimes especiais de pensões.",
+ "analysis": "A proposta dá resposta a uma reivindicação concreta de trabalhadores e prevê uma fonte de financiamento, o que a distingue de propostas sem cobertura. No entanto, o texto deixa por definir a taxa de acréscimo contributivo, a forma de contagem do trabalho noturno e a regulamentação, remetida para legislação especial. Não há estimativa do impacto na sustentabilidade da Segurança Social, e o acréscimo de contribuições patronais pode afetar custos laborais. O relatório do Governo citado aponta a prevenção e a reabilitação como alternativas, o que não é tratado em detalhe.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A reforma antecipada sem penalização aumentaria a despesa com pensões, compensada em parte por um acréscimo de contribuição das entidades empregadoras. O texto não quantifica montantes; as normas com aumento de despesa só entrariam em vigor com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "trabalhadores por turnos",
+  "trabalhadores noturnos",
+  "entidades empregadoras",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "trabalho por turnos",
+  "trabalho noturno",
+  "reforma antecipada",
+  "desgaste rápido",
+  "pensões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

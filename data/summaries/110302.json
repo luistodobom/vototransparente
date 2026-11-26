@@ -1,0 +1,40 @@
+{
+ "short_title": "Limitar as turmas a 20 alunos",
+ "summary": "Projeto de lei de Os Verdes que fixa em 20 o número máximo de alunos por turma, em todos os níveis, na educação pré-escolar e nos ensinos básico e secundário, em estabelecimentos públicos e de ensino particular e cooperativo com contrato de associação. Os órgãos de direção das escolas asseguram o cumprimento, a Direção-Geral dos Estabelecimentos Escolares homologa a constituição das turmas e o Governo, com as autarquias, deve tomar as medidas necessárias, incluindo o reforço de meios humanos e materiais. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Número máximo de 20 alunos por turma na educação pré-escolar, básico e secundário.",
+  "Aplica-se ao ensino público e ao particular e cooperativo com contrato de associação.",
+  "Os órgãos de gestão das escolas asseguram o cumprimento e a DGEstE homologa as turmas.",
+  "O Governo, com as autarquias, assegura as condições, incluindo meios humanos e materiais.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Nenhuma turma, desde o pré-escolar ao secundário, poderia ter mais de 20 alunos. O objetivo é melhorar as aprendizagens e permitir o distanciamento físico na pandemia. Seriam necessários mais professores e adaptação das escolas.",
+ "context": "O proponente defende há muito turmas mais pequenas e sustenta que a pandemia impõe distanciamento físico que muitas turmas não permitem. Afirma que a medida exige contratar mais professores e adaptar escolas, mas considera-o um investimento e não uma despesa.",
+ "analysis": "Medida simples e clara, com benefícios plausíveis para a aprendizagem e para o distanciamento. Fragilidades: o limite único de 20 alunos não distingue ciclos nem contextos, e a lei não prevê regime transitório nem exceções para escolas pequenas ou com falta de espaço; o impacto em professores, salas e transportes escolares não é quantificado; a entrada em vigor no dia seguinte parece irrealista face ao ano letivo em curso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A redução do número de alunos por turma exige mais professores e instalações, que o texto admite mas não quantifica."
+ },
+ "affected": [
+  "alunos",
+  "professores",
+  "escolas e agrupamentos",
+  "autarquias"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "número de alunos por turma",
+  "escola pública",
+  "contratação de professores",
+  "COVID-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

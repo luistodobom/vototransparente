@@ -1,0 +1,43 @@
+{
+ "short_title": "Prioridades de política criminal definidas por MP e polícias",
+ "summary": "O Projeto de Lei do PCP altera a Lei-Quadro da Política Criminal (Lei n.º 17/2006). Revoga os artigos 7.º a 10.º, que preveem a iniciativa, a audição prévia, a aprovação e as alterações de uma lei de prioridades de política criminal pela Assembleia da República. Em vez disso, o Ministério Público e os órgãos de polícia criminal definem, nos termos dos seus estatutos e leis orgânicas, as prioridades e orientações por dois anos, no respeito pelo princípio da legalidade, e distribuem meios humanos e materiais em função delas. O Governo emite instruções às entidades sob a sua tutela e o Procurador-Geral da República às do Ministério Público. Findo cada biénio, é apresentado à Assembleia um relatório de execução até 15 de março.",
+ "key_points": [
+  "Revoga os artigos 7.º a 10.º da Lei n.º 17/2006, que regulam a lei de prioridades de política criminal.",
+  "O Ministério Público e os órgãos de polícia criminal definem as prioridades e orientações por períodos de dois anos.",
+  "Os meios humanos e materiais devem ser distribuídos segundo essas prioridades.",
+  "O Governo emite diretivas às entidades sob a sua tutela e o Procurador-Geral da República ao Ministério Público.",
+  "Relatório de execução à Assembleia da República até 15 de março do ano seguinte a cada biénio."
+ ],
+ "plain_language": "Hoje, a Assembleia da República aprova de dois em dois anos uma lei que diz que crimes devem ser perseguidos com prioridade. O PCP propõe acabar com isso: seriam o Ministério Público e as polícias a decidir as prioridades, e o Parlamento apenas receberia um relatório no fim, para avaliar.",
+ "context": "O PCP argumenta que entre 2011 e 2015 não houve lei de prioridades e a atividade das autoridades continuou. Sustenta que as leis de prioridades enfrentam um dilema: ou são efetivas e violam a legalidade e a autonomia do Ministério Público, ou são tão vagas que não têm conteúdo útil. Propõe um modelo que respeite a autonomia e preserve a avaliação parlamentar.",
+ "analysis": "A proposta respeita a autonomia do Ministério Público e reduz o risco de interferência política nas investigações, mantendo prestação de contas por relatório. A fragilidade é que retira ao Parlamento, eleito, a possibilidade de fixar orientações de política criminal, e a avaliação a posteriori não tem consequências definidas. Pode também gerar prioridades diferentes entre polícias e Ministério Público, sem mecanismo de coordenação claro. O texto não esclarece o que acontece quando o relatório revela incumprimento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera a forma de definir prioridades de política criminal. O texto não prevê despesa nem receita."
+ },
+ "affected": [
+  "Ministério Público",
+  "órgãos de polícia criminal",
+  "Assembleia da República",
+  "Governo"
+ ],
+ "categories": [
+  "justica",
+  "instituicoes",
+  "seguranca"
+ ],
+ "tags": [
+  "política criminal",
+  "Ministério Público",
+  "Lei-Quadro",
+  "prioridades",
+  "polícia criminal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

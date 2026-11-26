@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualizar a listagem de amianto e criar plano estratégico",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo três medidas: atualizar a listagem de materiais que contêm amianto nos edifícios, instalações e equipamentos onde se prestam serviços públicos, incluindo análises laboratoriais e avaliações da qualidade do ar interior no diagnóstico; aumentar o financiamento para a remoção de amianto em edifícios públicos; e elaborar um Plano Estratégico para o Amianto, com metas de remoção nos edifícios em risco e monitorização dos restantes. O texto refere que a Resolução da AR n.º 248/2017 já recomendara a atualização da listagem, que não foi feita, e destaca o maior risco em escolas, hospitais e centros de saúde. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Atualizar a listagem de materiais com amianto em edifícios públicos.",
+  "Incluir análises laboratoriais e avaliações da qualidade do ar interior no diagnóstico.",
+  "Aumentar o financiamento para a remoção de amianto em edifícios públicos.",
+  "Elaborar um Plano Estratégico para o Amianto, com metas de remoção e monitorização."
+ ],
+ "plain_language": "O PAN pede ao Governo que refaça a lista dos edifícios públicos com amianto, medindo também o ar interior e analisando os materiais, que dê mais dinheiro para o retirar e que crie um plano nacional com metas. Escolas, hospitais e centros de saúde são apontados como os locais mais preocupantes. É uma recomendação.",
+ "context": "O PAN recorda que o amianto, muito usado na construção entre 1945 e 1990, é perigoso sobretudo pela inalação das fibras. Afirma que a Resolução da AR n.º 248/2017 recomendou a atualização da listagem, mas que ela não foi feita, que há um número significativo de edifícios por avaliar e que as autarquias não foram envolvidas no processo.",
+ "analysis": "A proposta retoma uma recomendação já aprovada e não cumprida, e acrescenta ao diagnóstico análises do ar e dos materiais, o que o torna mais fiável. Prevê um plano com metas, instrumento útil de planeamento. Porém, não quantifica o aumento de financiamento pedido, não define prazos nem prioridades de intervenção, e a sua eficácia é limitada por ser uma resolução. A análise laboratorial a todos os edifícios poderia ser demorada e dispendiosa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Pede-se mais financiamento para a remoção do amianto e mais análises no diagnóstico, o que implica despesa. O texto não apresenta valores."
+ },
+ "affected": [
+  "utilizadores de edifícios públicos",
+  "alunos e profissionais de escolas e hospitais",
+  "autarquias locais",
+  "Governo e Administração Pública"
+ ],
+ "categories": [
+  "ambiente",
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "amianto",
+  "listagem",
+  "plano estratégico",
+  "edifícios públicos",
+  "qualidade do ar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "IUC não incide sobre veículos imobilizados com matrícula cancelada",
+ "summary": "Projeto de lei da Iniciativa Liberal que altera o Código do Imposto Único de Circulação e o Código da Estrada. Passa a prever que o IUC não é devido durante o período de cancelamento temporário da matrícula. Alarga o cancelamento temporário de matrícula aos veículos imobilizados e não utilizados na via pública, por um máximo de cinco anos, ficando os proprietários obrigados a entregar a documentação nos serviços competentes e a indicar a morada onde o veículo é guardado. A lei entra em vigor com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Novo n.º 4 do artigo 4.º do Código do IUC: imposto não é devido durante o cancelamento temporário da matrícula.",
+  "Novo n.º 6 do artigo 119.º-A do Código da Estrada: cancelamento temporário por até cinco anos para veículos imobilizados.",
+  "Obrigação de entregar a documentação e indicar a morada onde o veículo é guardado.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem tem um carro parado, sem o usar na estrada, hoje continua a pagar o imposto de circulação. A proposta permitiria cancelar temporariamente a matrícula, por até cinco anos, e deixar de pagar o imposto enquanto o veículo estiver parado.",
+ "context": "A Iniciativa Liberal defende que o IUC devia refletir a utilização efetiva da via pública, pois hoje incide sobre a propriedade e a permanência em Portugal por mais de 183 dias. Como passo nessa direção, propõe excluir do imposto os veículos imobilizados, por exemplo em reparação ou por apego emocional.",
+ "analysis": "Pontos fortes: aproxima o imposto da lógica de utilização efetiva e alivia quem tem veículos parados. Fragilidades: pode reduzir a receita do IUC e exigir fiscalização para evitar que veículos canceladas voltem a circular, com custos administrativos. A obrigação de indicar o local de guarda é uma salvaguarda, mas o texto não prevê sanções nem procedimentos de verificação, nem estima o impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao isentar de IUC os veículos com matrícula temporariamente cancelada, a receita do imposto tende a diminuir. O texto não quantifica o montante."
+ },
+ "affected": [
+  "proprietários de veículos imobilizados",
+  "Autoridade Tributária e Aduaneira",
+  "Instituto da Mobilidade e dos Transportes"
+ ],
+ "categories": [
+  "fiscalidade",
+  "transportes"
+ ],
+ "tags": [
+  "IUC",
+  "matrícula",
+  "cancelamento temporário",
+  "veículos imobilizados",
+  "imposto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

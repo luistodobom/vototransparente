@@ -1,0 +1,43 @@
+{
+ "short_title": "Levantamento nacional e programa plurianual para o património cultural",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo sete medidas para a proteção do património cultural. Pede um levantamento nacional, sistemático e atualizado do património classificado e inventariado, com estado de conservação, fatores de risco, necessidades e urgência. Pede um programa plurianual de conservação, salvaguarda e reabilitação com prioridades segundo critérios técnicos, um calendário de intervenção com reavaliação periódica e instrumentos financeiros nacionais e europeus. Pede relatórios regulares de execução à Assembleia da República, reforço da capacidade preventiva e de resposta e dotação de meios humanos, técnicos e financeiros ao Património Cultural, I.P., à Museus e Monumentos de Portugal, E.P.E., à ESTAMO e a outras entidades. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento nacional do património classificado e inventariado, com estado de conservação, riscos e urgência.",
+  "Programa plurianual de conservação com prioridades segundo vulnerabilidade, risco de perda, valor cultural e impacto territorial.",
+  "Calendário com metas, fases e reavaliação periódica, e instrumentos de financiamento nacionais e europeus.",
+  "Relatórios regulares de execução enviados à Assembleia da República.",
+  "Reforço da capacidade preventiva e de resposta, incluindo obras de conservação obrigatória.",
+  "Mais meios humanos, técnicos e financeiros para o Património Cultural, I.P., a Museus e Monumentos de Portugal e a ESTAMO."
+ ],
+ "plain_language": "Em vez de tratar caso a caso cada monumento em risco, o PS pede ao Governo que faça um inventário do estado do património cultural, defina prioridades e um calendário de obras com dinheiro previsto, preste contas ao Parlamento e dê mais meios às entidades que tratam do património.",
+ "context": "O proponente invoca a Lei de Bases do Património Cultural (Lei n.º 107/2001), que exige levantamento sistemático e planeamento. Afirma que os pedidos de intervenção urgente chegam ao Parlamento de forma casuística e que a tempestade Kristin e outras de 2026 causaram danos em mais de 120 museus e monumentos e em 185 edifícios religiosos.",
+ "analysis": "A iniciativa responde a um problema de método: planear e priorizar em vez de reagir, e dá escrutínio parlamentar. É coerente com a lei de bases. Fragilidades: é muito abrangente, sem metas quantificadas, prazos nem orçamento, e um levantamento exaustivo é uma tarefa longa e dispendiosa. A prioridade entre bens depende de critérios que o texto não ordena nem pondera. Sendo resolução, a execução fica na discricionariedade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O levantamento, o programa de conservação e o reforço de meios de várias entidades implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "Património Cultural, I.P.",
+  "Museus e Monumentos de Portugal, E.P.E.",
+  "ESTAMO",
+  "autarquias e proprietários de bens classificados"
+ ],
+ "categories": [
+  "cultura",
+  "administracao"
+ ],
+ "tags": [
+  "património cultural",
+  "levantamento nacional",
+  "programa plurianual",
+  "conservação",
+  "tempestade kristin"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

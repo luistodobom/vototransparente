@@ -1,0 +1,39 @@
+{
+ "short_title": "Língua portuguesa para motoristas TVDE",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que, tanto na revisão da Lei n.º 45/2018 (regime dos TVDE) como noutras iniciativas de formação dos motoristas, promova as capacidades para o uso da língua portuguesa por parte dos motoristas de TVDE. A exposição de motivos refere que o setor enfrenta desafios, que a revisão obrigatória da lei prevista para três anos após a entrada em vigor não foi feita, que a AMT considera recomendável a comunicação verbal em tempo real com o motorista e invoca uma notícia segundo a qual mais de 20% dos condutores não falam português. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda promover as capacidades de uso da língua portuguesa entre motoristas TVDE.",
+  "Aplica-se à revisão da Lei n.º 45/2018 e a outras iniciativas de formação.",
+  "Invoca a necessidade de comunicação verbal com o motorista, apontada pela AMT."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que, ao rever as regras dos motoristas de aplicações como a Uber ou a Bolt, tenha medidas para que estes consigam comunicar em português com os passageiros. É um pedido ao Governo, não uma obrigação legal.",
+ "context": "O proponente considera inadmissível que os consumidores tenham de dominar uma língua estrangeira num serviço regulado pelo Estado, afirma que a revisão da Lei dos TVDE está atrasada desde 2021 e que o atual Governo já se comprometeu com essa revisão e publicou uma portaria sobre formação em segurança rodoviária.",
+ "analysis": "A medida responde a uma preocupação de acessibilidade do serviço, apoiada por uma opinião da AMT. É, porém, vaga: não define se haveria exigência de certificação linguística, formação obrigatória ou apoio, nem prazos. A fonte do dado de 20% é uma notícia, sem metodologia indicada. Uma exigência de língua pode ter efeitos sobre trabalhadores imigrantes do setor, que o texto não analisa. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos; eventuais ações de formação linguística teriam custos não quantificados."
+ },
+ "affected": [
+  "motoristas TVDE",
+  "passageiros",
+  "plataformas de transporte"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "imigracao"
+ ],
+ "tags": [
+  "tvde",
+  "língua portuguesa",
+  "formação",
+  "lei n.º 45/2018"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

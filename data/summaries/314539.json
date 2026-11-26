@@ -1,0 +1,38 @@
+{
+ "short_title": "Reforço dos cuidados de saúde primários",
+ "summary": "Projeto de resolução do LIVRE que recomenda ao Governo quatro medidas: ampliar a cobertura geográfica dos centros de saúde e das Unidades Locais de Saúde e modernizá-los, sobretudo em zonas carenciadas e de baixa densidade; contratar profissionais para reforçar a rede de cuidados primários e as equipas multidisciplinares, garantindo médicos de família suficientes e avaliando incentivos financeiros e logísticos para zonas de menor densidade; priorizar a medicina de prevenção com campanhas de literacia em saúde; e avaliar regularmente o impacto das medidas na redução da pressão sobre os hospitais centrais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Ampliar e modernizar a rede de centros de saúde e Unidades Locais de Saúde, sobretudo em zonas carenciadas.",
+  "Contratar profissionais e garantir médicos de família suficientes, avaliando incentivos para zonas de baixa densidade.",
+  "Priorizar a prevenção com campanhas de literacia em saúde nos cuidados primários.",
+  "Avaliar com estudos regulares o impacto na pressão sobre os hospitais."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que dê mais meios aos centros de saúde, com mais profissionais e instalações modernas, principalmente nas zonas mais isoladas, e que invista na prevenção, para que menos pessoas tenham de ir às urgências. Pede ainda que se meça se estas medidas resultam. É apenas uma recomendação.",
+ "context": "O proponente descreve uma crise estrutural do SNS, com sobrecarga dos grandes hospitais e subfinanciamento dos cuidados primários, e cita compromissos internacionais e estudos que associam sistemas orientados para os cuidados primários a melhores resultados e maior equidade. Refere cerca de 6 milhões de atendimentos por ano nas urgências.",
+ "analysis": "A proposta assenta em evidência internacional e inclui avaliação de resultados, o que é um ponto forte. É, no entanto, genérica: não define metas, calendário nem financiamento, e a contratação depende da disponibilidade de profissionais. Parte da fundamentação aponta para a reorientação de recursos dos hospitais, mas as medidas não esclarecem como se compatibilizaria isso com as necessidades hospitalares. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ampliar a rede e contratar profissionais implica despesa pública acrescida, que o texto não quantifica."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "residentes em zonas de baixa densidade"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados de saúde primários",
+  "sns",
+  "prevenção",
+  "médicos de família"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

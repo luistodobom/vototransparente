@@ -1,0 +1,40 @@
+{
+ "short_title": "Corrige a norma transitória do IRS Jovem",
+ "summary": "O Projeto de Lei da Iniciativa Liberal altera o artigo 116.º da Lei do Orçamento do Estado para 2025, a norma transitória de aplicação do IRS Jovem. Propõe que, para o enquadramento na tabela de anos do artigo 12.º-B do Código do IRS, se conte apenas o número de anos de rendimentos de categorias A ou B decorridos após a entrada em vigor daquela lei, sem considerar os anos em que o contribuinte já tenha beneficiado do regime nem os anos em que foi dependente. As alterações aplicam-se aos rendimentos de 2026 e seguintes e entram em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Altera o n.º 2 do artigo 116.º da Lei n.º 45-A/2024 (Orçamento do Estado para 2025).",
+  "O enquadramento no regime passa a contar só os anos de rendimentos após a entrada em vigor da lei.",
+  "Não contam os anos em que o contribuinte já beneficiou do regime nem aqueles em que foi dependente.",
+  "Aplica-se ao IRS dos rendimentos de 2026 e seguintes.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O IRS Jovem dá isenções parciais a quem começa a trabalhar, durante alguns anos. A Iniciativa Liberal diz que a regra de transição deixou de fora jovens que começaram a trabalhar cedo e propõe que cada pessoa conte os seus anos de benefício a partir da entrada em vigor da lei, para que quem nunca usufruiu do regime possa fazê-lo.",
+ "context": "O proponente discorda do regime por ser discriminatório entre idades, mas considera que, existindo, não deve criar novas desigualdades. Dá exemplos de trabalhadores de 32 anos em situações diferentes, nomeadamente quem trabalhou durante a licenciatura ou quem fez carreira no estrangeiro.",
+ "analysis": "A proposta corrige casos concretos de tratamento desigual na transição, o que reforça a equidade entre beneficiários. Porém, o texto não quantifica quantas pessoas passariam a beneficiar nem a perda de receita de IRS, e o impacto depende do desenho exato do artigo 12.º-B, não reproduzido no documento. Alargar o benefício pode criar outras fronteiras entre quem beneficia e quem não, e a redação é remissiva, o que dificulta a leitura. A contradição entre discordar do regime e alargá-lo é assumida pelo proponente.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Mais contribuintes poderiam beneficiar de isenção parcial de IRS, reduzindo a receita. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "jovens trabalhadores",
+  "contribuintes de IRS",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "irs jovem",
+  "norma transitória",
+  "orçamento do estado 2025",
+  "equidade fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

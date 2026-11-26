@@ -1,0 +1,43 @@
+{
+ "short_title": "Nova Lei de Bases: Sistema Universal de Acesso à Saúde",
+ "summary": "A Iniciativa Liberal propõe revogar a Lei de Bases da Saúde de 2019 (Lei n.º 95/2019) e aprovar uma nova lei de bases que cria o Sistema Universal de Acesso à Saúde (SUA-Saúde). O sistema separaria as funções de regulador, financiador e prestador, hoje concentradas no Estado. Os cuidados seriam assegurados por Subsistemas de Saúde (públicos, privados, sociais ou cooperativos) que competem entre si, não podem recusar adesões e contratam redes de prestadores. O SNS mantém-se como prestador público. Os subsistemas seriam financiados pelo Orçamento do Estado com um valor per capita ajustado ao risco, e o subsistema público poderia assentar na ADSE. O texto prevê uma entidade reguladora independente com novos poderes. O Governo teria um ano para adaptar a legislação, e a lei entraria em vigor 60 dias após publicação.",
+ "key_points": [
+  "Revoga a Lei n.º 95/2019 e aprova uma nova Lei de Bases do Sistema Universal de Acesso à Saúde (SUA-Saúde).",
+  "Cria Subsistemas de Saúde concorrenciais, de natureza pública, privada, social ou cooperativa, que não podem rejeitar adesões e a que todos devem aderir, com liberdade de escolha.",
+  "Financiamento dos subsistemas pelo Orçamento do Estado, com valor per capita ajustado pelo risco; o SNS mantém-se como prestador público.",
+  "Prevê regulação independente e autoridades de acreditação, de normas clínicas e de fiscalização do sistema.",
+  "Dá ao Governo um ano para adaptar a legislação, sem afetar o acesso dos cidadãos nem os direitos dos trabalhadores do SNS na transição."
+ ],
+ "plain_language": "Esta proposta muda a forma como o sistema de saúde está organizado. Em vez de o Estado ser quem financia, regula e presta os cuidados, cada pessoa escolheria um subsistema (público, privado ou social) que pagaria os cuidados, financiado pelo Estado. Os subsistemas competiriam pelos utentes e teriam de aceitar toda a gente. O SNS continuaria a existir como prestador público, mas deixaria de ser a peça central do sistema.",
+ "context": "O proponente considera que o SNS está em colapso e que o modelo atual concentra funções no Estado, sem incentivos à qualidade nem à eficiência, e com preconceitos contra os setores privado e social. Defende que a liberdade de escolha entre prestadores e a concorrência entre subsistemas reduziriam listas de espera e melhorariam resultados, inspirando-se em modelos europeus.",
+ "analysis": "O texto tem o mérito de assumir uma alternativa estrutural clara, com garantias declaradas de não exclusão e de regulação independente. Porém, a exposição de motivos afirma melhorias (menos listas de espera, melhores salários) sem apresentar estimativas nem estudos. A viabilidade depende de mecanismos que só seriam definidos em legislação posterior, como o ajustamento pelo risco, a acreditação e o papel da ADSE como subsistema público. Há riscos de seleção de utentes, de custos de regulação e de transição, e de menor coesão do SNS, que o texto procura mitigar mas não quantifica.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Os subsistemas seriam financiados pelo Orçamento do Estado com valor per capita ajustado pelo risco, e o efeito na despesa dependeria da regulamentação posterior."
+ },
+ "affected": [
+  "utentes do sistema de saúde",
+  "profissionais de saúde",
+  "SNS",
+  "prestadores privados e sociais",
+  "ADSE"
+ ],
+ "categories": [
+  "saude",
+  "instituicoes"
+ ],
+ "tags": [
+  "lei de bases da saúde",
+  "SUA-Saúde",
+  "subsistemas de saúde",
+  "liberdade de escolha",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

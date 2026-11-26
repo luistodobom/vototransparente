@@ -1,0 +1,39 @@
+{
+ "short_title": "Reforçar geradores em infraestruturas essenciais",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que reforce os geradores em infraestruturas essenciais, como lares, centros de saúde, hospitais, empresas de distribuição de água e quartéis de bombeiros. A exposição de motivos descreve o impacto da tempestade Kristin e do apagão, com falta de eletricidade, comunicações e água, constrangimentos em hospitais como o de Leiria e a necessidade recorrente de geradores. Refere que a E-Redes instalou cerca de 80 geradores e tinha 200 disponíveis. A parte dispositiva é uma única recomendação, sem quantidades, prazos ou financiamento.",
+ "key_points": [
+  "Reforçar os geradores em lares, centros de saúde, hospitais, empresas de distribuição de água e quartéis de bombeiros.",
+  "Aumentar a resiliência destas infraestruturas em emergências."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que garanta geradores de eletricidade em locais essenciais, como hospitais, lares e quartéis de bombeiros, para continuarem a funcionar quando falta a luz numa tempestade ou apagão. É uma recomendação.",
+ "context": "O CHEGA refere o apagão e a sequência de tempestades, com a tempestade Kristin a deixar zonas sem eletricidade, comunicações e água, e hospitais com consultas e cirurgias adiadas. Cita ainda o presidente da Liga dos Bombeiros, segundo o qual o país não está suficientemente resiliente.",
+ "analysis": "O problema é concreto e os exemplos citados, hospitais e água, justificam a prioridade. A resolução é, no entanto, muito genérica: não define a lista de infraestruturas, a quantidade ou potência de geradores, o financiamento, os responsáveis pela manutenção nem os prazos. O texto não discute o custo de instalar, abastecer e testar geradores, nem alternativas como redes mais resilientes. É recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A compra, instalação e manutenção de geradores em várias infraestruturas implica despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "hospitais e centros de saúde",
+  "lares de idosos",
+  "empresas de distribuição de água",
+  "corpos de bombeiros"
+ ],
+ "categories": [
+  "seguranca",
+  "energia"
+ ],
+ "tags": [
+  "geradores",
+  "infraestruturas essenciais",
+  "apagão",
+  "tempestade Kristin",
+  "resiliência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

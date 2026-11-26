@@ -1,0 +1,39 @@
+{
+ "short_title": "Requalificação dos Pavilhões 5 e Dona Amélia do Hospital da Guarda",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que proceda, de imediato, à requalificação do Pavilhão 5 do Hospital Sousa Martins, na Guarda, e intervencione ainda o Pavilhão Dona Amélia, para garantir conforto aos utentes e melhores condições de prestação de cuidados. O Pavilhão 5, com cerca de 20 anos, acolheria o centro materno-infantil; o Pavilhão Dona Amélia tem cerca de 110 anos. O texto lembra que em 2018 o Governo respondeu que a obra do Pavilhão 5 era prioritária, com projeto orçamentado em quase 7 milhões de euros em apreciação pela ACSS, e que passaram dois anos sem avanços. Refere uma petição com quase 20.000 assinaturas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Requalificar de imediato o Pavilhão 5 do Hospital Sousa Martins.",
+  "Intervencionar o Pavilhão Dona Amélia para melhorar conforto e condições de cuidados.",
+  "Preparar a instalação do centro materno-infantil no Pavilhão 5."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que faça já as obras no Pavilhão 5 do hospital da Guarda, para os serviços de mães e crianças, e também que recupere o velho Pavilhão Dona Amélia, com cerca de 110 anos. É uma recomendação.",
+ "context": "O BE aponta o défice de profissionais e as más instalações do Hospital Sousa Martins, que serve cerca de 168 mil habitantes do distrito. Defende que as melhores instalações ajudam a fixar profissionais e a garantir conforto aos utentes, e apoia a petição com quase 20.000 assinaturas pela requalificação do Pavilhão 5.",
+ "analysis": "Alarga o pedido ao Pavilhão Dona Amélia, o que é relevante pela idade do edifício, e liga as infraestruturas à fixação de profissionais. Fragilidades: não define prazos, custos nem financiamento para nenhuma das duas obras, e a intervenção no pavilhão antigo não é descrita (reabilitação, requalificação ou outra). A parte sobre contratação e carreiras é enquadramento e não consta da recomendação final.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As obras em dois pavilhões implicam despesa de investimento. O texto refere apenas que o projeto do Pavilhão 5 foi orçamentado em quase 7 milhões de euros."
+ },
+ "affected": [
+  "utentes da ULS da Guarda",
+  "profissionais do Hospital Sousa Martins",
+  "mulheres e crianças do distrito da Guarda"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "hospital da guarda",
+  "pavilhão 5",
+  "pavilhão dona amélia",
+  "requalificação",
+  "centro materno-infantil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

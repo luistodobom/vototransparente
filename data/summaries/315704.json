@@ -1,0 +1,40 @@
+{
+ "short_title": "Direitos, proteção e participação das pessoas idosas",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo seis medidas para as pessoas idosas: consultar e fazer participar as associações na definição de políticas públicas; aumentar o financiamento da hospitalização domiciliária para cobrir todo o território; criar uma Rede Pública de Apoio às pessoas idosas (estruturas residenciais, apoio domiciliário e centros de proximidade); criar um Serviço Nacional de Cuidados com alternativas aos lares, incluindo projetos de co-housing e respostas comunitárias; reforçar os direitos dos cuidadores informais, nos termos da iniciativa legislativa de cidadãos da ANCI; e equiparar o Indexante de Apoios Sociais ao limiar da pobreza.",
+ "key_points": [
+  "Consultar e fazer participar as associações na definição de políticas para o envelhecimento.",
+  "Reforçar o financiamento da hospitalização domiciliária em todo o território.",
+  "Criar uma Rede Pública de Apoio às pessoas idosas e um Serviço Nacional de Cuidados.",
+  "Reforçar os direitos dos cuidadores informais, nos termos da iniciativa de cidadãos da ANCI.",
+  "Equiparar o valor do Indexante de Apoios Sociais ao limiar da pobreza."
+ ],
+ "plain_language": "Portugal tem cada vez mais pessoas idosas. O BE pede ao Governo que as oiça na definição das políticas, que alargue o tratamento em casa em vez do hospital, que crie uma rede pública de lares e apoio domiciliário, que apoie os cuidadores informais e que suba o valor de referência dos apoios sociais para o nível do limiar da pobreza. É uma recomendação.",
+ "context": "O proponente recorda que em 2021 cerca de 23,6 % da população tinha mais de 65 anos, o que torna urgente combater o isolamento e a solidão e garantir direitos e autonomia. Defende que o aumento da esperança de vida é uma conquista que deve ser acompanhada de cuidados, condições de realização e participação das pessoas mais velhas na definição das políticas públicas.",
+ "analysis": "A iniciativa é abrangente e articula saúde, segurança social e habitação, com propostas estruturais como um Serviço Nacional de Cuidados. Em contrapartida, não apresenta custos, prazos nem fonte de financiamento, e algumas medidas, como a equiparação do Indexante de Apoios Sociais ao limiar da pobreza, teriam impacto orçamental alargado, pois esse indexante serve de referência a várias prestações. A articulação entre ministérios e autarquias fica por definir. É apenas recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma rede pública de apoio, o Serviço Nacional de Cuidados, o reforço da hospitalização domiciliária e a subida do Indexante de Apoios Sociais aumentariam a despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "pessoas idosas",
+  "cuidadores informais",
+  "associações de idosos"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "pessoas idosas",
+  "cuidadores informais",
+  "serviço nacional de cuidados",
+  "indexante de apoios sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

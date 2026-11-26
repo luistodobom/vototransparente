@@ -1,0 +1,42 @@
+{
+ "short_title": "Reconversão de delfinários em centros de conservação e santuários",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo sete medidas: promover programas de reconversão dos delfinários e oceanários nacionais em centros de conservação, recuperação e observação das espécies, sem componente lúdica; implementar, com especialistas e ONG, a transição digital dos espaços para sensibilização e educação ambiental e a criação de santuários naturais para animais resgatados; garantir apoio financeiro e técnico; promover a sensibilização pública; incentivar a investigação sobre o bem-estar dos animais; estabelecer prazos e metas; e monitorizar e reportar anualmente à Assembleia da República. A exposição de motivos cita um relatório da World Animal Protection. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconverter delfinários e oceanários em centros de conservação, recuperação e observação, sem componente lúdica.",
+  "Criar santuários naturais para animais marinhos resgatados e espaços virtuais de educação ambiental.",
+  "Garantir apoio financeiro e técnico aos programas de reconversão.",
+  "Fixar prazos e metas e apresentar relatórios anuais à Assembleia da República.",
+  "Incentivar a investigação sobre o bem-estar de animais marinhos em cativeiro."
+ ],
+ "plain_language": "O PAN pede ao Governo que os espaços onde golfinhos são mantidos em cativeiro para espetáculos passem a ser centros de proteção e recuperação de animais, sem shows, e que se criem santuários naturais para os animais. Defende que o lugar de um animal selvagem é em liberdade. É apenas uma recomendação.",
+ "context": "O PAN refere preocupação social crescente com o bem-estar dos golfinhos em delfinários e cita um relatório da World Animal Protection, segundo o qual existem 355 instalações com cetáceos em 58 países e 34 delfinários com 308 golfinhos em 14 países europeus. Defende que o cativeiro não cumpre um propósito educativo.",
+ "analysis": "A proposta é detalhada nas medidas e prevê monitorização, apoiando-se num relatório de uma ONG. Fragilidades: não quantifica os custos nem o apoio financeiro, não discute o impacto sobre os trabalhadores e as empresas dos delfinários, nem a viabilidade de santuários naturais em Portugal e o destino dos animais já em cativeiro. Os dados provêm de uma única fonte de advocacia. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio financeiro e técnico à reconversão e aos santuários implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "operadores de delfinários e oceanários",
+  "animais marinhos em cativeiro",
+  "trabalhadores dos espaços",
+  "organizações de proteção animal"
+ ],
+ "categories": [
+  "animais",
+  "ambiente"
+ ],
+ "tags": [
+  "delfinários",
+  "golfinhos",
+  "cativeiro",
+  "santuários",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

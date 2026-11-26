@@ -1,0 +1,43 @@
+{
+ "short_title": "Simplificar o licenciamento de lares e creches privados",
+ "summary": "O projeto de lei da Iniciativa Liberal altera os artigos 12.º, 16.º e 27.º do Decreto-Lei n.º 64/2007, que regula a instalação, funcionamento e fiscalização dos estabelecimentos de apoio social geridos por entidades privadas, como lares, creches e centros de dia. Os instrumentos regulamentares passam a limitar-se a condições estritamente necessárias à segurança, salubridade, higiene e conforto, sem condicionar a organização administrativa e de gestão, incluindo a externalização de serviços. Dispensa documentos na comunicação prévia quando o ISS os possa obter por interconexão de dados, reduz documentos a afixar e revoga os artigos 8.º, 8.º-A, 9.º, 10.º, 29.º e 44.º e outras normas. Entra em vigor 60 dias após a publicação, salvo a revogação do artigo 29.º, que entra com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Limita os requisitos regulamentares às condições necessárias para segurança, higiene e conforto, sem restringir a organização administrativa.",
+  "Permite a externalização de serviços administrativos e de gestão.",
+  "Dispensa documentos na comunicação prévia quando o Instituto da Segurança Social os possa obter por interconexão de dados.",
+  "Reduz os documentos de afixação obrigatória e acrescenta outros a disponibilizar a pedido.",
+  "Revoga os artigos 8.º, 8.º-A, 9.º, 10.º, 29.º e 44.º do Decreto-Lei n.º 64/2007 e outras normas."
+ ],
+ "plain_language": "A Iniciativa Liberal quer tornar mais fácil e rápido abrir lares, creches e centros de dia privados, retirando exigências que considera desnecessárias, como o tamanho mínimo de gabinetes, e evitando pedir papéis que o Estado já tem. O objetivo é haver mais vagas para idosos e crianças, sem baixar as regras de segurança e higiene.",
+ "context": "A IL afirma que a legislação atual impõe exigências onerosas e irrelevantes para a qualidade, que atrasam a abertura de respostas sociais. Cita o envelhecimento, a falta de cerca de 20 mil vagas em lares (alerta da CNIS), a ocupação máxima das residências, preços médios de quartos individuais acima de 1.700 euros e a falta de quase 20 000 lugares de creche e pré-escolar.",
+ "analysis": "Pode acelerar a abertura de respostas sociais e reduzir burocracia, com a interoperabilidade de dados como medida de bom senso administrativo. Os riscos: a revogação de vários artigos (cujo conteúdo não é descrito no texto) pode reduzir a fiscalização prévia num setor de utentes vulneráveis, com notícias de lares ilegais referidas por outras iniciativas; e não há avaliação do impacto na qualidade nem na capacidade de inspeção. Os benefícios em número de vagas são apenas afirmados, não estimados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A simplificação pode reduzir custos administrativos, mas o texto não quantifica efeitos orçamentais. A revogação do artigo 29.º entra com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "operadores privados de lares e creches",
+  "utentes de lares e creches",
+  "famílias com idosos ou crianças",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "licenciamento",
+  "lares",
+  "creches",
+  "simplificação administrativa",
+  "apoio social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

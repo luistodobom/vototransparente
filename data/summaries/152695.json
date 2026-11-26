@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço do Laboratório Nacional do Medicamento",
+ "summary": "O PCP propõe que a Assembleia da República considere prioritário o reforço da capacidade produtiva e das competências do Laboratório Nacional do Medicamento, recomendando ao Governo três medidas: que o INFARMED elabore uma lista de medicamentos cuja produção nacional é prioritário aumentar, tendo em conta a evolução da disponibilidade, o stock estratégico e as necessidades dos utentes; que reforce os meios humanos, técnicos e as instalações do laboratório para produzir os medicamentos mais usados e aqueles com ruturas; e que inclua na sua missão a produção à escala industrial de genéricos considerados prioritários pelo SNS através do INFARMED. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "INFARMED elabora uma lista de medicamentos para os quais é prioritário aumentar a produção nacional.",
+  "Reforço de meios humanos, técnicos e instalações do Laboratório Nacional do Medicamento.",
+  "Inclusão, na sua missão, da produção industrial de genéricos prioritários para o SNS."
+ ],
+ "plain_language": "O texto pede ao Governo que reforce o laboratório público que produz medicamentos para que fabrique mais, sobretudo medicamentos que costumam faltar e genéricos. O objetivo é depender menos de fornecedores externos e responder às necessidades dos doentes, sem foco no lucro. É uma recomendação.",
+ "context": "O PCP aponta a falta de medicamentos, com 1 785 ruturas de apresentações em 2021 (863 medicamentos), das quais 46 de impacto elevado. Refere que o laboratório produz cerca de 70 formulações e que reforçá-lo reduziria a dependência externa, em especial de genéricos, e contribuiria para a segurança em saúde.",
+ "analysis": "A proposta liga um problema bem documentado (ruturas) a um instrumento público já existente, com passos concretos e a participação do INFARMED. Fragilidades: não define orçamento, calendário nem metas de produção; a produção industrial de genéricos exige investimento e escala, com riscos de custo e de competir com fabricantes privados; e a produção nacional não elimina a dependência de matérias-primas. É uma recomendação sem obrigatoriedade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios, equipamentos e instalações do laboratório público implicaria investimento e despesa, sem valores no texto."
+ },
+ "affected": [
+  "doentes do SNS",
+  "Laboratório Nacional do Medicamento",
+  "INFARMED",
+  "indústria farmacêutica"
+ ],
+ "categories": [
+  "saude",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [
+  "Laboratório Nacional do Medicamento",
+  "falta de medicamentos",
+  "genéricos",
+  "produção nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

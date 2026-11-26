@@ -1,0 +1,41 @@
+{
+ "short_title": "Identificar e resolver a situação dos lares ilegais ou irregulares",
+ "summary": "O PSD propõe que a Assembleia da República recomende ao Governo um conjunto de medidas sobre lares de idosos em situação irregular ou ilegal. Pede um levantamento e identificação desses lares no prazo de 120 dias, a definição de uma estratégia e de respostas de retaguarda, a criação de uma equipa técnica multidisciplinar em cada distrito para acompanhar, adaptar e eventualmente legalizar as unidades, e o estudo de um período excecional para os proprietários adequarem as instalações às exigências da Segurança Social. Recomenda ainda analisar a flexibilização das normas para ampliar a capacidade dos lares, garantindo a qualidade, e criar instrumentos financeiros de apoio à reconversão e legalização. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento e identificação dos lares ilegais ou irregulares no prazo de 120 dias.",
+  "Definição de estratégia e de respostas de retaguarda para os utentes.",
+  "Equipa técnica multidisciplinar em cada distrito para acompanhar e possivelmente legalizar as unidades.",
+  "Estudo de um período excecional para adequação das instalações às exigências regulamentares.",
+  "Análise de flexibilização de normas para ampliar a capacidade e criação de instrumentos financeiros de apoio."
+ ],
+ "plain_language": "O PSD pede ao Governo que descubra quantos lares de idosos funcionam sem licença ou fora das regras, e que ajude os que puderem a regularizar-se, sem deixar os idosos sem resposta. Sugere equipas em cada distrito, um prazo especial para adaptar as instalações e apoios financeiros. É apenas uma recomendação.",
+ "context": "O proponente refere o envelhecimento demográfico, a elevada ocupação das estruturas residenciais e as denúncias de uma associação sobre 35 mil idosos em 3500 lares ilegais, sem acompanhamento do Estado, incluindo falta de testes à COVID-19. Defende que o encerramento imediato não teria resposta de acolhimento.",
+ "analysis": "A proposta aborda um problema de proteção de pessoas vulneráveis e privilegia a regularização em vez do encerramento imediato, o que evita desalojar idosos. Fragilidades: os números citados provêm de uma associação e não de dados oficiais, o próprio texto admite falta de informação, e a flexibilização de normas e o período excecional podem enfraquecer padrões de segurança se não forem bem definidos. Não quantifica custos nem identifica fontes de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de equipas distritais e de instrumentos financeiros de apoio à legalização implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "idosos em lares ilegais",
+  "proprietários e gestores de lares",
+  "Segurança Social",
+  "famílias dos utentes"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "lares de idosos",
+  "lares ilegais",
+  "ERPI",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

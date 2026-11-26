@@ -1,0 +1,41 @@
+{
+ "short_title": "Acompanhamento da grávida no parto durante a Covid-19",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo a revisão, em conjunto com a Direção-Geral da Saúde (DGS), das orientações sobre gravidez e parto durante a pandemia de Covid-19. O objetivo é garantir o direito legal da mulher grávida a ser acompanhada por pessoa da sua escolha na assistência à gravidez e em todas as fases do parto. Recomenda também que o Governo intervenha junto das instituições do SNS para que adotem as medidas e criem as condições necessárias ao cumprimento desse direito. O texto sustenta que a Orientação n.º 018/2020 da DGS, mesmo após a alteração de junho de 2020, permite restrições excecionais ao acompanhante, tratando como exceção o que a lei prevê como regra.",
+ "key_points": [
+  "Rever, com a DGS, as orientações e normas sobre gravidez e parto durante a pandemia.",
+  "Harmonizar os direitos da mulher grávida com as exigências de saúde pública.",
+  "Intervir junto das instituições do SNS para assegurar as condições de acompanhamento.",
+  "Garantir o acompanhamento na assistência à gravidez e em todas as fases do parto."
+ ],
+ "plain_language": "A lei já permite que a grávida seja acompanhada por quem escolher durante a gravidez e o parto. Com a pandemia, alguns hospitais restringiram esse acompanhamento. O Bloco de Esquerda pede ao Governo que reveja as regras da DGS e que obrigue os hospitais do SNS a criarem condições para que o direito seja respeitado. É uma recomendação, sem força de lei.",
+ "context": "O proponente refere que, desde março de 2020, tomou conhecimento de práticas como restrições ao acompanhante, separação de mãe e bebé e recurso excessivo a indução do parto ou cesariana. Considera que as alterações às orientações da DGS foram insuficientes e deixam margem a interpretações por cada instituição.",
+ "analysis": "A iniciativa assenta num direito já previsto na lei e em recomendações da OMS, o que reforça a sua base. Contudo, é uma recomendação não vinculativa e pouco específica: não define que condições concretas os hospitais devem assegurar nem como conciliar o acompanhamento com o risco de infeção, nomeadamente em grávidas com Covid-19. A afirmação de práticas generalizadas assenta em denúncias referidas no texto, sem dados quantificados. A tensão entre direito individual e saúde pública fica por resolver em detalhe.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos nem receitas. A recomendação pode exigir adaptações de espaços hospitalares, mas não são apresentadas estimativas."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "acompanhantes das parturientes",
+  "maternidades do SNS",
+  "Direção-Geral da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "parto",
+  "covid-19",
+  "acompanhante",
+  "dgs",
+  "snss"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

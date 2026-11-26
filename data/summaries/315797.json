@@ -1,0 +1,45 @@
+{
+ "short_title": "Incentivos fiscais à oferta de habitação (autorização ao Governo)",
+ "summary": "A proposta de lei do Governo pede autorização legislativa, por 180 dias, para aprovar incentivos fiscais à construção, reabilitação, venda e arrendamento de habitação, alterando o Código do IVA, o Código do IRS, o Estatuto dos Benefícios Fiscais e o Código do IMT, e anexa os decretos-leis autorizados. Prevê a exclusão de mais-valias em caso de reinvestimento em imóveis para arrendar, taxa autónoma de IRS de 10% sobre rendas habitacionais auferidas até 2029, dedução de rendas pagas pelos arrendatários de 900 euros em 2026 e 1.000 euros a partir de 2027, taxa reduzida de IVA em empreitadas de construção e reabilitação (até 2032, com limites de preço e renda) e IMT de 7,5% na aquisição por não residentes. Cria os contratos de investimento para arrendamento (até 25 anos), a restituição parcial de IVA para habitação própria e permanente e o regime simplificado de arrendamento acessível (rendas até 80% da mediana do INE, contratos mínimos de três anos).",
+ "key_points": [
+  "Taxa autónoma de IRS de 10% sobre rendas de habitação até 2029 (50% dos rendimentos considerados em IRC) e isenção de mais-valias com reinvestimento em imóveis para arrendar.",
+  "Dedução de IRS às rendas pagas pelos arrendatários elevada para 900 euros em 2026 e 1.000 euros a partir de 2027.",
+  "Taxa reduzida de IVA em empreitadas de construção e reabilitação de habitação para venda ou arrendamento dentro de limites de preço e renda (verba que cessa em 31 de dezembro de 2032), e restituição parcial de IVA a quem constrói habitação própria permanente.",
+  "Contratos de investimento para arrendamento, com benefícios fiscais até 25 anos, incluindo isenção de IMI até 8 anos e redução até 50% da taxa de IMI no período restante.",
+  "Regime simplificado de arrendamento acessível, com rendas até 80% da mediana do INE por concelho, contrato mínimo de três anos e isenção de IRS e IRC sobre as rendas.",
+  "Redução de IMT e imposto do selo para habitações de custos controlados e IMT de 7,5% na aquisição por não residentes; monitorização com relatórios até 2028 e 2030."
+ ],
+ "plain_language": "O Governo quer baixar impostos a quem constrói, reabilita, arrenda ou vende casas a preços moderados, e a quem arrenda ou compra a primeira habitação, para aumentar a oferta de casas. Para isso pede autorização ao Parlamento para criar os benefícios por decreto-lei.",
+ "context": "O Governo apresenta a habitação como prioridade, face aos elevados custos de construção, reabilitação e aquisição e à falta de oferta de arrendamento a preços acessíveis. Pretende mobilizar os setores público, cooperativo e privado através de um regime de incentivos transversal, simples e robusto, no âmbito da estratégia Construir Portugal.",
+ "analysis": "Os incentivos podem estimular a oferta e a reabilitação, com limites de renda e de preço e condições de afetação ao arrendamento (por exemplo, pelo menos 36 meses de arrendamento nos primeiros cinco anos para o IVA reduzido) que dão alguma garantia de destino. Fragilidades: as isenções reduzem a receita fiscal sem estimativa no texto, o efeito sobre preços e oferta é incerto e pode beneficiar sobretudo investidores e proprietários, e os limites de preço e de renda são remetidos para decreto-lei e portaria. A garantia de reequilíbrio económico-financeiro ao investidor nos contratos de investimento pode condicionar futuras políticas. Por ser uma autorização legislativa, a Assembleia fixa só o sentido e extensão. Há previsão de monitorização com relatórios intercalar (2028) e final (2030).",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As reduções de IVA, IRS, IRC, IMT, IMI e imposto do selo, a restituição parcial de IVA e as isenções reduzem a receita fiscal, parcialmente compensadas pelo IMT de 7,5% a não residentes. O texto não quantifica o impacto."
+ },
+ "affected": [
+  "senhorios e investidores imobiliários",
+  "arrendatários",
+  "compradores de primeira habitação",
+  "construtores",
+  "municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "incentivos fiscais",
+  "arrendamento acessível",
+  "IVA",
+  "IRS",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

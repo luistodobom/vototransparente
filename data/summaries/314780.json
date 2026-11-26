@@ -1,0 +1,41 @@
+{
+ "short_title": "Direitos dos utentes perante prestadores privados de saúde",
+ "summary": "O BE recomenda ao Governo que legisle para: responsabilizar os prestadores de saúde pela continuação e conclusão de tratamentos iniciados sob cobertura de seguro, mesmo quando o plafond se esgote; regular a publicidade dos prestadores privados, impedindo a publicidade enganosa; regular os cartões e planos de saúde, protegendo os utilizadores de publicidade enganosa, de indução desnecessária de consumo, de tratamentos insuficientes e da interrupção de planos de tratamento; e obrigar os hospitais privados a divulgar publicamente os mesmos indicadores quantitativos e qualitativos a que o SNS se obriga, incluindo os usados pela ACSS no benchmarking. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Prestadores responsáveis por concluir os tratamentos iniciados sob cobertura de seguro, mesmo com o plafond esgotado.",
+  "Regular a publicidade dos prestadores privados e proibir a publicidade enganosa.",
+  "Regular os cartões e planos de saúde, que operam num vazio legal.",
+  "Obrigar os hospitais privados a divulgar os mesmos indicadores que o SNS."
+ ],
+ "plain_language": "O BE quer que os hospitais e clínicas privadas não possam interromper um tratamento só porque o seguro do doente acabou, que não possam anunciar urgências que não têm, que os cartões de saúde sejam regulados e que os hospitais privados publiquem indicadores de qualidade como os do SNS. O pedido não obriga o Governo.",
+ "context": "O BE refere notícias de recusa de assistência em hospitais privados, de interrupção de tratamentos oncológicos por esgotamento do plafond e de publicidade enganosa. Cita a ERS, que detetou 467 infrações relacionadas com publicidade enganosa, e uma notícia segundo a qual 15% das novas admissões no IPO de Lisboa provinham do setor privado.",
+ "analysis": "A proposta responde a problemas documentados pelo regulador e protege utentes em situações graves. Fragilidades: obrigar prestadores a concluir tratamentos sem cobertura levanta questões sobre quem suporta o custo, que o texto não resolve, e pode levar a uma recusa prévia de doentes de risco. A comparação de indicadores entre o setor privado e o SNS exige metodologia comparável. Os casos de 2021 e a estatística de admissões no IPO são citados de imprensa. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta montantes. A regulação teria custos de fiscalização, e a continuidade de tratamentos recairia sobre prestadores ou seguradoras, o que pode reduzir transferências de doentes para o SNS."
+ },
+ "affected": [
+  "utentes de hospitais e clínicas privadas",
+  "prestadores privados de saúde",
+  "seguradoras e operadoras de cartões de saúde",
+  "Entidade Reguladora da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "hospitais privados",
+  "seguros de saúde",
+  "publicidade enganosa",
+  "cartões de saúde",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

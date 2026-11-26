@@ -1,0 +1,44 @@
+{
+ "short_title": "Apoio às rendas de habitação e comércio na pandemia (6.ª alteração)",
+ "summary": "Projeto de lei do Bloco de Esquerda que altera pela sexta vez a Lei n.º 4-C/2020, sobre mora nas rendas na pandemia. Propõe diferir as rendas de 2021 e pagá-las em 36 prestações a partir de 2022, com redução de 20% da dívida e de 20% nas rendas retomadas; limitar as rendas dos contratos novos ou renovados ao valor máximo do Porta 65 Jovem até 2025; renovar até 2025 os contratos de arrendatários que paguem a dívida; e proibir despejos por falta de pagamento nestes termos. Cria ainda apoio a fundo perdido a lojistas com quebra de faturação (30% da renda até 1200 euros, ou 50% até 2000 euros por mês).",
+ "key_points": [
+  "Diferimento das rendas e pagamento da dívida em 36 prestações, de 2022 a 2024, com redução de 20%.",
+  "Redução de 20% nas rendas retomadas face ao valor anterior à pandemia.",
+  "Limite das rendas de contratos novos ou renovados ao valor máximo do Porta 65 Jovem até 1 de janeiro de 2025.",
+  "Renovação automática até 2025 dos contratos cujos inquilinos cumpram o pagamento da dívida.",
+  "Apoio a fundo perdido a arrendatários comerciais com quebra de faturação superior a 25%.",
+  "Alarga o acesso à lei a beneficiários de vários apoios sociais, incluindo o Rendimento Social de Inserção."
+ ],
+ "plain_language": "O projeto pretende evitar despejos durante a crise da Covid-19. Inquilinos de casas e lojas poderiam adiar rendas e pagá-las depois em 36 prestações, com desconto de 20%. As rendas ficariam mais baixas e limitadas durante alguns anos, e os contratos seriam prolongados. Os lojistas com quebras de faturação receberiam ajuda do Estado.",
+ "context": "O proponente invoca o agravamento da crise social, o desemprego (424 359 inscritos nos centros de emprego em janeiro de 2021), a subida das rendas e dos preços da habitação e o aumento da taxa de esforço, para defender regras mais fortes que as já aprovadas.",
+ "analysis": "Responde a uma situação de emergência com proteção forte de inquilinos e apoio direto a comerciantes. Riscos: a redução de 20% da dívida e das rendas e o teto às rendas transferem custos para senhorios, com possíveis efeitos na oferta de arrendamento e questões de proporcionalidade e de propriedade privada; o limite fixado pelo Porta 65 pode ser desfasado de muitos mercados; o apoio a lojistas tem custo para o Estado não quantificado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio a fundo perdido a arrendatários comerciais e o alargamento dos apoios à renda implicam despesa pública; o texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "inquilinos habitacionais",
+  "senhorios",
+  "arrendatários comerciais",
+  "beneficiários de apoios sociais"
+ ],
+ "categories": [
+  "habitacao",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "arrendamento",
+  "rendas",
+  "Covid-19",
+  "despejos",
+  "Lei 4-C/2020"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

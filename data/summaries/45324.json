@@ -1,0 +1,41 @@
+{
+ "short_title": "Grupo de trabalho para projeto-piloto de Rendimento Básico Incondicional",
+ "summary": "A deputada não inscrita Cristina Rodrigues apresenta um projeto de resolução que recomenda ao Governo que diligencie pela constituição de um grupo de trabalho para avaliar a possibilidade de implementar em Portugal um projeto-piloto de Rendimento Básico Incondicional (RBI), isto é, um pagamento regular a todos os cidadãos, individual, sem prova de meios nem obrigação de trabalhar. A exposição de motivos descreve o conceito, apresenta experiências internacionais e sugere características para um piloto, como participação voluntária, duração de cerca de dois anos, monitorização contínua e questionários regulares. A medida concreta é apenas a criação do grupo de trabalho. Por ser projeto de resolução, é uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Recomenda a constituição de um grupo de trabalho para avaliar um projeto-piloto de RBI.",
+  "Define o RBI como prestação individual, universal e incondicional, acumulável com outros rendimentos.",
+  "Sugere para o piloto adesão voluntária, duração de cerca de dois anos e monitorização regular.",
+  "Apresenta o RBI como resposta à pobreza, às desigualdades e à automatização do trabalho.",
+  "Distingue o RBI de um rendimento básico de emergência, de caráter temporário."
+ ],
+ "plain_language": "A deputada propõe que o Governo crie um grupo de trabalho para estudar uma experiência-piloto em que algumas pessoas receberiam um rendimento mensal igual, sem condições, para se perceber os efeitos na pobreza e na vida das pessoas. Não propõe aplicar já a medida a todo o país, apenas estudar e testar. É uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "A proponente invoca a crescente automatização do trabalho, o agravamento das desigualdades, as dificuldades de sustentabilidade da Segurança Social e os efeitos da pandemia. Defende que o RBI reduziria a burocracia das prestações sociais e cita experiências-piloto realizadas noutros países, sustentando que as pessoas não deixam de trabalhar.",
+ "analysis": "O pedido é prudente: em vez de impor o RBI, propõe estudar um piloto, o que permite recolher dados antes de decidir. A exposição de motivos é extensa e documentada, mas o texto não define o valor, o número de participantes, o financiamento nem a forma de seleção, e algumas afirmações, como a eliminação de custos administrativos, não são quantificadas. Também não aborda em detalhe o custo de um RBI à escala nacional nem como articularia com as prestações existentes. Como resolução, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação de um grupo de trabalho tem custo limitado, mas um eventual piloto teria custos não quantificados no texto."
+ },
+ "affected": [
+  "população em risco de pobreza",
+  "beneficiários de prestações sociais",
+  "Governo e Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "rendimento básico incondicional",
+  "projeto-piloto",
+  "pobreza",
+  "automatização",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

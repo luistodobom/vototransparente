@@ -1,0 +1,42 @@
+{
+ "short_title": "Comissão eventual sobre interferência política na banca",
+ "summary": "Projeto de Resolução do CHEGA para constituir uma Comissão Parlamentar Eventual destinada a apurar e prevenir interferência política abusiva no sistema bancário português. A Assembleia resolveria também rever a legislação sobre regulação financeira e a respetiva autonomia, promover audições com especialistas do setor e com atuais e antigos Governadores e Vice-governadores do Banco de Portugal, promover junto do Ministério Público as investigações que se mostrem necessárias e propor a reforma da legislação na matéria. A iniciativa parte das declarações do antigo governador do Banco de Portugal sobre um alegado telefonema do primeiro-ministro em 2016 e de uma proposta anterior de inquérito, rejeitada em 16 de dezembro.",
+ "key_points": [
+  "Constituir uma Comissão Parlamentar Eventual sobre interferência política abusiva no sistema bancário.",
+  "Rever a legislação sobre regulação financeira e a sua autonomia.",
+  "Realizar audições com especialistas e atuais e antigos governadores e vice-governadores do Banco de Portugal.",
+  "Promover junto do Ministério Público as investigações necessárias.",
+  "Propor a reforma da legislação na matéria."
+ ],
+ "plain_language": "O CHEGA propõe que o Parlamento crie uma comissão para investigar e prevenir pressões políticas sobre os bancos e o Banco de Portugal, ouvindo especialistas e responsáveis do banco central, e que depois proponha mudanças às leis.",
+ "context": "O proponente invoca a polémica em torno das declarações do ex-governador do Banco de Portugal, que acusou o primeiro-ministro de ter tentado interferir, e o dever de fiscalização do Parlamento. Recorda que uma proposta de inquérito sobre o tema foi rejeitada em dezembro com votos contra de PS, PCP, BE e LIVRE e abstenção de PSD e PAN.",
+ "analysis": "Ponto forte: associa o apuramento de factos à prevenção legislativa e às audições do regulador. Fragilidades: assenta numa alegação contestada sem prova própria no texto, o que pode dar à comissão um caráter político; sobreposição com processos judiciais em curso e limites constitucionais à ação parlamentar; a resolução mistura funções de apuramento e legislativas; não define prazo, composição ou meios; é uma deliberação do Parlamento, e as «investigações» ao Ministério Público são só promovidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A constituição de uma comissão parlamentar implica custos de funcionamento da Assembleia; o texto não os quantifica."
+ },
+ "affected": [
+  "Assembleia da República",
+  "Banco de Portugal",
+  "setor bancário",
+  "titulares de cargos políticos"
+ ],
+ "categories": [
+  "instituicoes",
+  "economia",
+  "justica"
+ ],
+ "tags": [
+  "banco de portugal",
+  "comissão eventual",
+  "interferência política",
+  "sistema bancário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

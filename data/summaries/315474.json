@@ -1,0 +1,40 @@
+{
+ "short_title": "Recuperação do Castelo de Santo Estêvão, em Chaves",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a recuperação, reabilitação e valorização urgentes do Castelo de Santo Estêvão, em Chaves, Monumento Nacional desde 1939 e propriedade do Estado, apresentado como em risco de colapso. Recomenda um levantamento técnico urgente do estado de conservação, um plano de intervenção e reabilitação integral a elaborar e implementar no prazo máximo de seis meses, a abertura progressiva ao público com circuito de visitas, a inclusão em roteiros turísticos do Alto Tâmega em articulação com o município e a junta de freguesia e um plano duradouro de gestão e manutenção preventiva.",
+ "key_points": [
+  "Fazer com urgência o levantamento técnico dos danos estruturais e riscos de colapso.",
+  "Elaborar e implementar em seis meses um plano de reabilitação integral.",
+  "Abrir progressivamente o monumento ao público, com circuito de visitas.",
+  "Incluir o castelo em roteiros turísticos do Alto Tâmega, com o município e a junta de freguesia.",
+  "Estabelecer um plano de gestão e manutenção preventiva."
+ ],
+ "plain_language": "O Castelo de Santo Estêvão, em Chaves, é um monumento do Estado que, segundo o texto, está em risco de ruir. O CHEGA pede ao Governo que avalie os danos, faça as obras num prazo de seis meses, abra o castelo a visitas, o divulgue no turismo da região e garanta manutenção regular. É uma recomendação não vinculativa.",
+ "context": "O proponente descreve o castelo como exemplo de arquitetura medieval e gótica, classificado como Monumento Nacional e património do Estado, e cita notícia de risco de colapso. Defende que a degradação é uma falha de tutela e uma perda de oportunidades para uma região marcada por desertificação humana e fragilidade económica, pedindo intervenção do Ministério da Cultura.",
+ "analysis": "A proposta é detalhada e propõe etapas lógicas, do diagnóstico à manutenção. A fragilidade principal é o prazo de seis meses para elaborar e implementar um plano de reabilitação integral, que pode ser pouco realista para um monumento em risco de colapso, sem estimativa de custo ou financiamento. A fundamentação do risco assenta em notícia de imprensa. Os benefícios turísticos e económicos apontados não são quantificados. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reabilitação integral do castelo e a respetiva manutenção implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "população de Chaves e Alto Tâmega",
+  "visitantes",
+  "Ministério da Cultura"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "castelo de santo estêvão",
+  "chaves",
+  "património",
+  "reabilitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

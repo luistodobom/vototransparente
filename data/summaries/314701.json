@@ -1,0 +1,39 @@
+{
+ "short_title": "Limites entre freguesias de Castelo de Paiva",
+ "summary": "Projeto de lei do PSD que define a delimitação administrativa territorial entre as freguesias de Fornos, Real, São Martinho de Sardoura, Santa Maria de Sardoura, União de Freguesias de Raiva, Pedorido e Paraíso, e União de Freguesias de Sobrado e Bairros, no município de Castelo de Paiva. Estabelece que os limites são os constantes do Anexo 3, com memória descritiva, cartografia e coordenadas dos vértices. O município promoveu nove procedimentos de delimitação administrativa para alinhar os limites com elementos físicos identificáveis, depois de verificada a desconformidade da Carta Administrativa Oficial de Portugal (CAOP). A integração dos novos limites na CAOP só ocorre após fixação por diploma legal. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Define a delimitação territorial entre seis freguesias ou uniões de freguesias de Castelo de Paiva.",
+  "Os limites constam do Anexo 3, com memória descritiva, cartografia e coordenadas.",
+  "Resulta de nove procedimentos de delimitação administrativa validados pelos órgãos autárquicos.",
+  "Permite à Direção-Geral do Território atualizar a CAOP."
+ ],
+ "plain_language": "Os limites oficiais entre várias freguesias de Castelo de Paiva não correspondem ao terreno. Esta lei fixa as fronteiras corretas, já acordadas pelas freguesias e pelo município, para que o mapa oficial fique certo. Isto ajuda no planeamento do território e nas licenças de construção.",
+ "context": "O município de Castelo de Paiva verificou que a CAOP está em desconformidade com os limites reais das freguesias, o que dificulta o ordenamento do território, o planeamento, a regulação urbanística e as operações estatísticas. Foram feitos procedimentos de delimitação, acordados pelos órgãos autárquicos envolvidos.",
+ "analysis": "A proposta resolve um problema técnico com base em acordos entre as autarquias envolvidas e parecer da DGT, o que reduz conflitos. Fragilidades: o conteúdo essencial está nos anexos cartográficos, de difícil escrutínio pelo público, e o texto analisado não detalha as alterações concretas nem a área ou população afetadas. Mudanças de limites podem ter efeitos em matéria de impostos locais e de serviços, que não são discutidos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de retificação cartográfica de limites sem previsão de despesa ou receita no texto."
+ },
+ "affected": [
+  "freguesias de Castelo de Paiva",
+  "município de Castelo de Paiva",
+  "residentes nas zonas de fronteira"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "limites administrativos",
+  "freguesias",
+  "castelo de paiva",
+  "caop"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço do rastreio e proteção dos doentes oncológicos",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo sete medidas na área oncológica. Pede o reforço da cobertura e da equidade territorial dos rastreios existentes (mama, colo do útero e colorretal), a avaliação do alargamento progressivo dos rastreios a outros cancros quando a evidência o justifique, e medidas para o diagnóstico precoce e a redução dos tempos de espera. Inclui ainda a avaliação e reforço da proteção social em incapacidade temporária para o trabalho, o apoio a deslocações e encargos do tratamento, a simplificação do Atestado Médico de Incapacidade Multiuso e o reforço do apoio psicológico e psicossocial a doentes e famílias.",
+ "key_points": [
+  "Reforçar a cobertura, acessibilidade e equidade territorial dos rastreios de mama, colo do útero e colorretal.",
+  "Avaliar o alargamento dos rastreios a outros cancros, se a evidência científica o justificar.",
+  "Reduzir tempos de espera na referenciação, exames, primeira consulta e início do tratamento.",
+  "Avaliar e reforçar a proteção social em incapacidade temporária por doença oncológica.",
+  "Apoiar deslocações e simplificar o Atestado Médico de Incapacidade Multiuso.",
+  "Reforçar o apoio psicológico e psicossocial a doentes e famílias."
+ ],
+ "plain_language": "O JPP pede ao Governo que melhore o acesso aos rastreios de cancro, reduza as esperas por consultas e tratamentos, e proteja melhor quem fica sem rendimento por estar doente. Pede também menos burocracia para obter o atestado de incapacidade, ajuda com as deslocações aos tratamentos e mais apoio psicológico. É uma recomendação, não obriga o Governo a agir.",
+ "context": "O proponente invoca o peso das doenças oncológicas e os custos pessoais e familiares do tratamento, incluindo perda de rendimento. Cita a ERS: no final do 1.º semestre de 2025, 4.933 utentes aguardavam primeira consulta por suspeita ou confirmação de cancro, 71,1% dos quais acima dos tempos máximos garantidos.",
+ "analysis": "A proposta é abrangente e articula prevenção, tratamento e proteção social, apoiando-se em dados da ERS. Em contrapartida, é muito genérica: usa verbos como reforçar e avaliar sem metas, prazos ou financiamento, e várias medidas dependem de decisões legislativas não detalhadas. O alargamento de rastreios é sensatamente condicionado à evidência. Como projeto de resolução, é uma recomendação sem efeito vinculativo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de rastreios, apoios sociais, deslocações e apoio psicológico implica mais despesa pública; o texto não a quantifica."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "famílias de doentes",
+  "utentes do SNS",
+  "trabalhadores em baixa por doença"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "rastreio oncológico",
+  "cancro",
+  "proteção social",
+  "tempos de espera",
+  "atestado multiuso"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

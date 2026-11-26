@@ -1,0 +1,38 @@
+{
+ "short_title": "Regulamentação da profissão de psicomotricista (PAN)",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que, em colaboração com a Associação Portuguesa de Psicomotricidade e demais partes interessadas, proceda à regulamentação da profissão de psicomotricista. O texto assinala que a profissão existe há mais de 20 anos, conta com cerca de 2500 profissionais no SNS, setor social e privado, e é lecionada em três universidades, mas continua sem enquadramento legal. A recomendação não define o modelo de regulação, como ordem profissional, título ou competências, e não vincula o Governo.",
+ "key_points": [
+  "Recomenda a regulamentação da profissão de psicomotricista.",
+  "A regulamentação deve ser feita em colaboração com a Associação Portuguesa de Psicomotricidade e outras partes interessadas.",
+  "Invoca cerca de 2500 profissionais e a Petição n.º 7/XVI/1.ª, com mais de 10 mil assinaturas."
+ ],
+ "plain_language": "Os psicomotricistas trabalham em hospitais, escolas e instituições, mas a profissão não está regulada por lei, pelo que os utentes não conseguem confirmar facilmente as qualificações. O PAN pede ao Governo que regule a profissão, ouvindo a associação do setor. É só uma recomendação.",
+ "context": "O PAN argumenta que a falta de regulamentação impede os utentes de comprovar as qualificações, deixa hospitais e Unidades Locais de Saúde sem enquadramento claro para contratar e afeta apoios sociais dependentes destes profissionais. Refere ainda a petição com mais de 10 mil assinaturas.",
+ "analysis": "Pontos fortes: responde a um problema identificado (qualificação, contratação, proteção do utente) com apoio de uma petição relevante. Fragilidades: o texto não propõe o modelo de regulação nem prazos, não analisa o impacto na contratação do SNS e depende de informações da própria associação do setor. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A regulamentação pode ter efeitos na contratação e carreiras no SNS, mas o texto não os quantifica."
+ },
+ "affected": [
+  "psicomotricistas",
+  "utentes dos serviços de psicomotricidade",
+  "hospitais e Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "psicomotricidade",
+  "regulamentação profissional",
+  "saúde",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

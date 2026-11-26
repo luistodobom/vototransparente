@@ -1,0 +1,41 @@
+{
+ "short_title": "Eliminação das portagens na A28, A41, A42 e A29",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo a abolição imediata da cobrança de portagens em toda a extensão das autoestradas A28, A41, A42 e A29, antigas SCUT do Norte Litoral, Grande Porto e Costa da Prata. O texto sustenta que a introdução de portagens em 2010 prejudicou a economia regional, o emprego e as condições de vida das populações, sem existirem vias alternativas, e que as condições definidas pelo então Governo não se verificavam. Afirma ainda que os contratos de concessão garantem ganhos às concessionárias mesmo com tráfego reduzido. Por ser um projeto de resolução, é uma recomendação ao Governo e não tem força vinculativa.",
+ "key_points": [
+  "Recomenda a abolição das portagens em toda a extensão da A28.",
+  "Recomenda a abolição das portagens em toda a extensão da A41.",
+  "Recomenda a abolição das portagens em toda a extensão da A42.",
+  "Recomenda a abolição das portagens em toda a extensão da A29."
+ ],
+ "plain_language": "O PCP pede ao Governo que acabe com as portagens em quatro autoestradas do litoral Norte (A28, A41, A42 e A29). Argumenta que prejudicam empresas e moradores que não têm alternativa. Trata-se de uma recomendação: o Governo não é obrigado a cumprir.",
+ "context": "O PCP considera que a introdução de portagens nas ex-SCUT em 2010 violou as condições cumulativas definidas pelo próprio Governo, agravou a insolvência de empresas e o desemprego nos concelhos servidos e beneficiou apenas as concessionárias. Reapresenta a sua posição de oposição às portagens.",
+ "analysis": "A proposta é clara e de âmbito limitado, e aponta efeitos económicos regionais plausíveis. Contudo, o texto não apresenta dados concretos sobre perdas de receita, não quantifica o custo da eliminação nem explica como se compensariam as concessionárias, cujos contratos o próprio texto refere como garantindo remuneração. Também não aborda efeitos no tráfego, na manutenção das vias ou na equidade face a outras autoestradas portajadas. Sendo uma recomendação, o efeito prático depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A abolição das portagens eliminaria receita cobrada nestas vias, podendo obrigar o Estado a compensar as concessionárias. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores das autoestradas A28, A41, A42 e A29",
+  "empresas da região Norte Litoral",
+  "concessionárias"
+ ],
+ "categories": [
+  "transportes",
+  "economia"
+ ],
+ "tags": [
+  "portagens",
+  "ex-scut",
+  "a28",
+  "a41",
+  "a42",
+  "a29"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

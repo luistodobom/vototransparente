@@ -1,0 +1,41 @@
+{
+ "short_title": "Compromisso pela reprivatização da TAP",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo que, através do membro responsável pelas Finanças (com possibilidade de delegação), empenhe todos os esforços na venda da totalidade da participação social do Estado na TAP SGPS e nas empresas do Grupo TAP. A iniciativa defende a privatização total, sem condicionar o processo à manutenção de rotas estratégicas ou do hub de Lisboa, e critica posições do Governo que admitem manter a situação atual se não houver venda total. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda a alienação da totalidade da participação do Estado na TAP SGPS e nas empresas do seu Grupo.",
+  "Atribui o processo ao membro do Governo responsável pelas Finanças, com faculdade de delegação.",
+  "Defende que a privatização deve ser total, sem sacrificar dinheiro dos contribuintes por rotas consideradas estratégicas.",
+  "Procura afastar encargos futuros para os contribuintes, como novas injeções de capital."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que venda toda a parte que o Estado tem na TAP, em vez de manter uma posição parcial. Argumenta que isso evita que os contribuintes tenham de voltar a pagar para salvar a empresa. A decisão final continua a ser do Governo.",
+ "context": "O proponente afirma que a TAP nunca devia ter sido renacionalizada e que o Estado deve sair de setores com mercado concorrencial. Refere que, mesmo com lucros nos últimos três anos, seriam precisos cerca de 30 anos a esses níveis para recuperar os 3,2 mil milhões de euros injetados, e critica a falta de clareza do Governo quanto aos limites da privatização.",
+ "analysis": "A proposta é clara no objetivo e baseia-se num argumento fiscal concreto (recuperação dos montantes injetados). Fragilidades: ignora ou rejeita explicitamente considerações de interesse estratégico, como a conectividade e o hub de Lisboa, sem avaliar os riscos de uma venda total (por exemplo, o destino das rotas ou o preço obtido); não define calendário, modelo de venda nem salvaguardas. A estimativa de 30 anos é um cálculo simples sem análise de sensibilidade. Como resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A venda da participação do Estado geraria receita de alienação e reduziria encargos futuros, mas o texto não indica o valor esperado."
+ },
+ "affected": [
+  "contribuintes",
+  "trabalhadores da TAP",
+  "passageiros e rotas aéreas",
+  "Estado como acionista"
+ ],
+ "categories": [
+  "economia",
+  "transportes"
+ ],
+ "tags": [
+  "TAP",
+  "privatização",
+  "setor empresarial do Estado",
+  "aviação",
+  "alienação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

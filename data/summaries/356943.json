@@ -1,0 +1,38 @@
+{
+ "short_title": "Suspender o prazo da comissão de inquérito ao INEM",
+ "summary": "Projeto de resolução do Presidente da Assembleia da República que suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica (INEM) entre 19 de junho e 7 de setembro de 2026. A suspensão foi pedida pela própria comissão, ao abrigo do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares (Lei n.º 5/93) e do n.º 2 do artigo 49.º do Regimento, por necessidade de aguardar a receção de documentação previamente solicitada e de convocar depoentes para audição. A resolução é aprovada nos termos do n.º 5 do artigo 166.º da Constituição.",
+ "key_points": [
+  "Suspende o prazo de funcionamento da comissão de inquérito ao INEM de 19 de junho a 7 de setembro de 2026.",
+  "A suspensão foi solicitada pela própria comissão.",
+  "Fundamenta-se na espera por documentação e na necessidade de convocar depoentes."
+ ],
+ "plain_language": "A comissão parlamentar que investiga o INEM tem um prazo para concluir os trabalhos. Como está à espera de documentos e ainda tem de chamar pessoas a depor, pediu que esse prazo fique parado durante o verão, de 19 de junho a 7 de setembro de 2026. Esta resolução formaliza o pedido.",
+ "context": "A comissão invoca a necessidade de aguardar a receção de documentação já solicitada e de proceder à convocação de depoentes para audição, o que justifica interromper a contagem do prazo.",
+ "analysis": "É um ato procedimental corrente, previsto no regime dos inquéritos parlamentares, que protege o tempo útil dos trabalhos. O texto não detalha que documentos faltam, que depoentes estão em causa nem as razões do atraso, e a suspensão adia o prazo para as conclusões do inquérito. Não tem efeitos sobre cidadãos fora do âmbito parlamentar.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de um ato procedimental, sem impacto orçamental indicado no texto."
+ },
+ "affected": [
+  "Deputados da comissão de inquérito",
+  "INEM",
+  "Depoentes convocados"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "inem",
+  "comissão de inquérito",
+  "prazo",
+  "assembleia da república"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

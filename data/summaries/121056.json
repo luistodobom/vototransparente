@@ -1,0 +1,42 @@
+{
+ "short_title": "Princípio da avaliação mais favorável no atestado multiusos",
+ "summary": "Projeto de lei do PCP que adita o artigo 4.º-A ao Decreto-Lei n.º 202/96, como norma interpretativa com efeitos desde a entrada em vigor desse decreto-lei, sobre a revisão ou reavaliação do grau de incapacidade no atestado médico de incapacidade multiusos. Determina que se aplica o princípio da avaliação mais favorável ao avaliado e que, se a reavaliação atribuir grau inferior e daí resultar perda de direitos ou benefícios já reconhecidos, se mantém o grau anterior, desde que respeite à mesma patologia. O direito ou benefício reporta-se ao período de validade do atestado, afastando-se a constituição de um benefício ex novo em cada reavaliação menos favorável. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Aditamento do artigo 4.º-A ao Decreto-Lei n.º 202/96, como disposição interpretativa.",
+  "Aplica-se o princípio da avaliação mais favorável ao avaliado na revisão ou reavaliação da incapacidade.",
+  "Mantém-se o grau anterior se a reavaliação o reduzir, com perda de direitos, e se respeitar à mesma patologia.",
+  "Os direitos reportam-se à validade do atestado, sem constituição ex novo a cada reavaliação.",
+  "Efeitos desde a entrada em vigor do Decreto-Lei n.º 202/96."
+ ],
+ "plain_language": "Se uma pessoa com deficiência ou doença grave for reavaliada e o grau de incapacidade baixar, perderia benefícios, incluindo fiscais. O PCP propõe que, para a mesma doença, se mantenha o grau mais favorável, ou seja, o anterior. Quer, assim, anular a interpretação mais restritiva que a Autoridade Tributária passou a seguir em 2019.",
+ "context": "O PCP afirma que o Ofício Circulado n.º 20215, de 3 de dezembro de 2019, da Autoridade Tributária, decorrente de despacho do Secretário de Estado dos Assuntos Fiscais, introduziu uma interpretação que na prática elimina o princípio da avaliação mais favorável previsto na lei, contra o disposto nos n.ºs 7 e 8 do Decreto-Lei n.º 291/2009 e com forte insensibilidade para as pessoas afetadas.",
+ "analysis": "A proposta clarifica por lei uma regra que o proponente diz já existir, trazendo segurança a quem depende de benefícios, e a natureza interpretativa com efeitos retroativos pretende corrigir situações passadas. Riscos: a retroatividade pode levantar questões jurídicas e custos fiscais não estimados; manter indefinidamente o grau anterior pode beneficiar quem entretanto recuperou, o que o texto não discute, e a ligação a períodos de validade do atestado pode gerar litígios. Não há avaliação de impacto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A manutenção de benefícios, incluindo fiscais, a quem seria reavaliado com menor grau de incapacidade reduz receita ou aumenta despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas com deficiência ou doenças incapacitantes",
+  "titulares de atestado médico de incapacidade multiusos",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "direitos",
+  "fiscalidade",
+  "saude"
+ ],
+ "tags": [
+  "atestado multiusos",
+  "incapacidade",
+  "avaliação mais favorável",
+  "norma interpretativa",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

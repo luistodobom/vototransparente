@@ -1,0 +1,41 @@
+{
+ "short_title": "Exceção para reprodução de partituras no ensino e bandas",
+ "summary": "O projeto de lei do Chega altera o artigo 75.º do Código do Direito de Autor e dos Direitos Conexos (17.ª alteração) para criar uma exceção ao direito de reprodução de partituras musicais. Passa a ser permitida a reprodução total ou parcial, para estudo individual, ensino, ensaio e execução pública em contexto de formação musical, por bandas filarmónicas, escolas de música, conservatórios e outras instituições culturais sem fins lucrativos, desde que sem fins comerciais diretos ou indiretos e que a entidade detenha a partitura original adquirida legalmente. Abrange ainda a reprodução por pessoa singular para uso privado e sem fins comerciais. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cria exceção ao direito de autor para a reprodução de partituras com fins de estudo, ensino, ensaio e execução.",
+  "Beneficiam bandas filarmónicas, escolas de música, conservatórios e instituições culturais sem fins lucrativos.",
+  "Exige que a entidade possua a partitura original adquirida legalmente e que não haja fins comerciais diretos ou indiretos.",
+  "Abrange também a reprodução por pessoa singular para uso privado sem fins comerciais.",
+  "Entra em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "Hoje, copiar partituras exige pagar licenças a uma entidade de gestão de direitos. A proposta permite que escolas de música, conservatórios e bandas filarmónicas possam fazer cópias para estudar, ensaiar e tocar, desde que tenham comprado a partitura original e não tenham fins lucrativos. O objetivo é reduzir custos a estas organizações.",
+ "context": "O proponente considera que o regime atual cria entraves ao ensino musical e à atividade de bandas filarmónicas, e que as tarifas de licenciamento da AD EDIT impõem encargos significativos. Invoca a Diretiva 2001/29/CE, que admite exceções para ensino e investigação, e o teste dos três passos.",
+ "analysis": "A medida procura aliviar encargos de entidades culturais sem fins lucrativos e limita a exceção com condições (posse do original, ausência de fins comerciais). Fragilidades: o texto da alínea é extenso e pouco claro quanto aos limites (reprodução total ou parcial, uso privado por pessoa singular), o que pode gerar incerteza jurídica. A compatibilidade com a diretiva, nomeadamente a compensação equitativa e o teste dos três passos, é afirmada, mas o impacto nas receitas de editores e compositores não é avaliado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. Reduziria encargos de licenciamento para escolas e associações e poderia diminuir receitas dos titulares de direitos, sem montantes indicados."
+ },
+ "affected": [
+  "bandas filarmónicas",
+  "escolas de música e conservatórios",
+  "editores e compositores",
+  "alunos e professores de música"
+ ],
+ "categories": [
+  "cultura",
+  "educacao"
+ ],
+ "tags": [
+  "direito de autor",
+  "partituras",
+  "bandas filarmónicas",
+  "ensino da música"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "PMA comparticipada pelo SNS até aos 49 anos",
+ "summary": "Projeto de Lei do Chega que altera o regime da procriação medicamente assistida (Lei n.º 90/2021, que alterou a Lei n.º 32/2006) para assegurar que as técnicas de PMA são comparticipadas pelo SNS até aos 49 anos. No artigo 6.º, passa a prever-se que as técnicas só podem ser utilizadas por quem tenha entre 18 e 49 anos, desde que não exista sentença de acompanhamento que o vede. No artigo 16.º-A, fixa-se em dez anos o prazo máximo de criopreservação de espermatozoides, ovócitos, tecido testicular e ovárico recolhidos e não utilizados. Entra em vigor no dia seguinte ao da publicação. A exposição de motivos defende ainda que a mulher seja informada sobre a taxa de sucesso no seu caso.",
+ "key_points": [
+  "Fixa em 49 anos o limite de idade para utilizar técnicas de PMA (entre os 18 e os 49 anos).",
+  "Pretende que o SNS comparticipe a PMA até essa idade, aproximando o setor público do privado.",
+  "Prevê um prazo máximo de dez anos para a criopreservação de gâmetas e tecidos não utilizados.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje, no SNS, os tratamentos de fertilidade só são feitos até cerca dos 40 ou 42 anos, enquanto nos privados vão até perto dos 50. O Chega propõe alargar o acesso no SNS até aos 49 anos, para que mais mulheres e casais possam fazer estes tratamentos sem depender de dinheiro próprio.",
+ "context": "O proponente aponta o aumento da infertilidade e do recurso à PMA, as longas listas de espera no SNS agravadas pela pandemia e os preços elevados do setor privado. Critica a diferença de idade-limite entre setor público e privado e o adiamento da maternidade.",
+ "analysis": "A medida reduz uma desigualdade entre público e privado e responde a uma procura crescente. Contudo, a taxa de sucesso diminui com a idade, como a própria exposição reconhece, o que levanta questões de custo-efetividade. O alargamento aumenta a procura sobre um SNS com listas de espera longas e escassez de gâmetas doados, sem prever reforço de meios. O articulado altera o limite legal de idade, não apenas a comparticipação, e introduz a alteração do prazo de criopreservação sem a justificar na exposição de motivos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da idade de acesso aumenta os tratamentos comparticipados pelo SNS. O texto não apresenta estimativa de custos."
+ },
+ "affected": [
+  "mulheres e casais com infertilidade",
+  "utentes do SNS",
+  "centros públicos de PMA"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "procriação medicamente assistida",
+  "infertilidade",
+  "sns",
+  "limite de idade",
+  "criopreservação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "IVA reduzido na construção e reabilitação de habitação",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o Código do IVA para sujeitar à taxa reduzida (Lista I) as empreitadas de construção de imóveis ou partes autónomas destinados a habitação, através de uma nova verba 2.42. Altera ainda a verba 2.27 para abranger beneficiação, remodelação, renovação, restauro, reparação, conservação ou reconstrução de imóveis habitacionais, excluindo piscinas, saunas, campos de ténis, golfe ou minigolfe. A taxa reduzida não abrange os materiais incorporados, salvo se o valor não exceder 40% do valor global da prestação de serviços. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Nova verba 2.42 da Lista I: empreitadas de construção de imóveis afetos à habitação passam à taxa reduzida.",
+  "Alteração da verba 2.27: abrange também a reconstrução e a conservação de imóveis habitacionais.",
+  "Exclui empreitadas sobre piscinas, saunas, campos de ténis, golfe ou minigolfe e instalações similares.",
+  "Materiais só beneficiam da taxa reduzida se o valor não exceder 40% do valor global do serviço.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A Iniciativa Liberal propõe que construir ou reabilitar casas pague menos IVA, para baixar o custo das obras e estimular mais construção e concorrência entre construtores, o que poderia ajudar a travar o aumento dos preços da habitação.",
+ "context": "A IL atribui a subida dos preços da habitação a falta de oferta, burocracia, baixa concorrência no setor da construção e carga fiscal excessiva. Refere ainda que a estagnação dos salários e o aumento das taxas de juro agravam o esforço das famílias.",
+ "analysis": "Reduz o custo direto da construção e pode estimular a oferta. Fragilidades: não é garantido que a redução do IVA se traduza em preços de venda ou rendas mais baixos, pode ser absorvida pelas margens dos construtores, e o texto não estima a perda de receita nem a resposta efetiva da oferta, limitada por fatores como licenciamento e mão de obra. A medida aplica-se a toda a habitação, sem critérios de acessibilidade, e a regra dos 40% para materiais é complexa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação da taxa reduzida de IVA a empreitadas de construção e a mais obras de habitação reduz a receita do IVA. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "Construtores e empresas de reabilitação",
+  "Compradores de habitação",
+  "Proprietários que realizam obras"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "iva",
+  "construção",
+  "reabilitação",
+  "habitação",
+  "taxa reduzida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

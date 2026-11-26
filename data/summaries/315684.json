@@ -1,0 +1,43 @@
+{
+ "short_title": "Plano de investimento em educação inclusiva e ensino artístico",
+ "summary": "Projeto de Lei do PCP que cria um plano estratégico de investimento na educação inclusiva e no ensino artístico e atualiza o modelo de financiamento dos contratos de patrocínio e cooperação. Prevê o reforço dos profissionais da educação inclusiva (técnicos e assistentes operacionais especializados), formação específica a todos os trabalhadores da educação afetos à educação inclusiva, aquisição de recursos materiais e pedagógicos e formação pedagógica para professores. Determina que o Governo alargue, a partir de 2025, a rede pública de ensino artístico especializado a todo o território e atualize o valor por aluno dos contratos, com pagamento integral dos vencimentos docentes, bonificação de sete horas por semana por turma, pessoal não docente, despesas de funcionamento e recursos pedagógicos. Produz efeitos com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Plano de reforço de profissionais, formação e recursos materiais da educação inclusiva.",
+  "Formação específica a todos os trabalhadores da educação afetos à educação inclusiva.",
+  "Alargamento da rede pública de ensino artístico especializado a todo o território.",
+  "Atualização do valor por aluno dos contratos de patrocínio e cooperação.",
+  "Critérios do financiamento: vencimentos docentes, sete horas por turma, pessoal não docente, funcionamento e recursos.",
+  "Efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O PCP propõe que o Estado invista mais na educação de crianças com necessidades especiais e no ensino artístico público e que, enquanto isso não acontece, pague melhor às escolas privadas e cooperativas com quem tem contrato nessas áreas.",
+ "context": "O proponente invoca o artigo 75.º da Constituição, que obriga o Estado a criar uma rede pública que cubra as necessidades de toda a população. Afirma que a ausência de alargamento da rede pública obriga a recorrer ao setor privado e cooperativo na educação artística e inclusiva, que deve ser apenas supletivo, e defende equidade no financiamento.",
+ "analysis": "Ponto forte: combina o reforço da rede pública com uma atualização do financiamento que sustenta a continuidade de escolas já existentes. Fragilidades: a lei refere o alargamento da rede \"a partir de 2025\", prazo já ultrapassado; não apresenta montantes, calendário nem fonte de financiamento; dá ao Governo a tarefa de criar condições, incluindo fundos comunitários, mas sem obrigação de resultado; a coexistência de apoio público e expansão da rede pública pode gerar duplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de pessoal, formação, rede pública e contratos aumenta a despesa pública; o texto não quantifica montantes e admite recurso a financiamento comunitário."
+ },
+ "affected": [
+  "alunos com necessidades educativas específicas",
+  "alunos do ensino artístico",
+  "docentes e pessoal não docente",
+  "escolas particulares e cooperativas com contratos"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "ensino artístico",
+  "contratos de patrocínio",
+  "contratos de cooperação",
+  "escola pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

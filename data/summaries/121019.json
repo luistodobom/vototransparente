@@ -1,0 +1,40 @@
+{
+ "short_title": "Assentimento à deslocação do Presidente da República ao Brasil",
+ "summary": "O Presidente da Assembleia da República apresenta um projeto de resolução para dar assentimento à deslocação do Presidente da República ao Brasil, entre 29 de julho e 3 de agosto, para estar presente na cerimónia de (re)inauguração do Museu da Língua Portuguesa, em São Paulo. O pedido foi feito pelo Presidente da República ao abrigo do n.º 1 do artigo 129.º e da alínea b) do artigo 163.º da Constituição. A resolução é adotada nos termos da alínea b) do artigo 163.º e do n.º 5 do artigo 166.º da Constituição.",
+ "key_points": [
+  "Dá assentimento à viagem do Presidente da República ao Brasil.",
+  "A deslocação decorre entre 29 de julho e 3 de agosto.",
+  "O objetivo é assistir à (re)inauguração do Museu da Língua Portuguesa, em São Paulo.",
+  "Cumpre o requisito constitucional de assentimento parlamentar."
+ ],
+ "plain_language": "O Presidente da República precisa da autorização do Parlamento para sair do país. Este texto pede essa autorização para uma viagem ao Brasil, de 29 de julho a 3 de agosto, para assistir à reabertura do Museu da Língua Portuguesa, em São Paulo.",
+ "context": "A Constituição exige o assentimento da Assembleia da República para as ausências do Presidente do território nacional. O Presidente requereu esse assentimento para a viagem ao Brasil.",
+ "analysis": "Trata-se de um procedimento institucional habitual, previsto na Constituição, e sem elementos controversos no texto. O texto é muito curto e não refere custos nem comitiva. A relevância é protocolar e cultural, ligada à língua portuguesa.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos; a deslocação implica encargos habituais de representação, que não são quantificados."
+ },
+ "affected": [
+  "Presidente da República",
+  "Assembleia da República",
+  "relações Portugal-Brasil"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional",
+  "cultura"
+ ],
+ "tags": [
+  "presidente da república",
+  "brasil",
+  "assentimento",
+  "museu da língua portuguesa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

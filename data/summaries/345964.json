@@ -1,0 +1,42 @@
+{
+ "short_title": "Prioridade a aguardentes vínicas do Douro na beneficiação",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo três grupos de medidas para o setor do vinho do Porto. Concretizar a proposta da CIM Douro, avaliando com os viticultores a sua exequibilidade e impactos, definindo um período transitório de cinco anos com uso crescente de 20% por ano de aguardente vínica de origem regional e avaliando o modelo após dois anos de implementação. Garantir o uso exclusivo de aguardentes vínicas na produção de vinho generoso, revogando o Decreto-Lei n.º 77/2013, e permitir que as aguardentes não vínicas já armazenadas sejam usadas na próxima vindima. Criar condições técnicas e financiamento a custos adequados para a destilação. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Período transitório de cinco anos, com aumento de 20% ao ano do uso de aguardente vínica da região.",
+  "Avaliação do modelo após dois anos de implementação.",
+  "Uso exclusivo de aguardentes vínicas no vinho generoso, com revogação do Decreto-Lei n.º 77/2013.",
+  "Aguardentes não vínicas já armazenadas podem ser usadas na próxima vindima.",
+  "Financiamento e condições técnicas para a destilação pelos viticultores."
+ ],
+ "plain_language": "Os pequenos viticultores do Douro têm dificuldade em vender as uvas e acumulam stocks. O PCP propõe que o vinho do Porto passe a ser reforçado, de forma gradual, com aguardente feita na própria região, o que criaria procura para os vinhos locais, e que se financie a destilação.",
+ "context": "O PCP refere preços baixos pagos pelas uvas, dificuldades de escoamento e acumulação de stocks, e a entrada de mostos e aguardentes de fora da região para a beneficiação. Cita estudos da CIM Douro (2012) e da Comissão de Vindima da Casa do Douro (2025), e uma promessa de estudo sobre aguardente vínica que não foi concretizada.",
+ "analysis": "Pontos fortes: propõe um calendário gradual, avaliação intermédia e apoio ao financiamento da destilação, e baseia-se em estudos da região. Fragilidades: o texto não quantifica o efeito nos custos de produção do vinho do Porto, embora afirme que não seriam substanciais, e não analisa a sua compatibilidade com regras da UE. A revogação do decreto-lei e a obrigatoriedade crescente podem afetar produtores e comerciantes que recorrem a aguardentes de fora da região. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento da destilação e dos equipamentos para os viticultores implica despesa pública, sem montantes indicados no texto."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "comércio e produtores de vinho do Porto",
+  "destiladores de aguardente",
+  "IVDP"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "Douro",
+  "vinho do Porto",
+  "aguardente vínica",
+  "viticultores",
+  "IVDP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualização da legislação sobre doenças profissionais",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que, com as organizações de trabalhadores e empregadores, avalie melhorias à legislação sobre doenças profissionais. Propõe ponderar a revisão da lista de doenças profissionais (Decreto Regulamentar n.º 6/2001, alterado em 2007) para a alinhar com o conhecimento científico e a OIT, incluindo agentes biológicos emergentes e doenças de foro psíquico; simplificar a certificação e a atribuição de prestações; reforçar a proteção perante novos riscos; implementar medidas de prevenção; reforçar a monitorização para turnos, trabalho noturno e laboração contínua; e fazer um estudo sobre o impacto de fatores de risco ocupacional, como jornadas longas. É uma recomendação.",
+ "key_points": [
+  "Rever a lista de doenças profissionais, incluindo agentes biológicos emergentes e doenças psíquicas ligadas ao trabalho.",
+  "Simplificar a certificação das doenças profissionais e a atribuição de prestações.",
+  "Reforçar a proteção face a novos riscos, como novas tecnologias, novos métodos de trabalho e alterações climáticas.",
+  "Medidas de prevenção: formação, avaliação regular de riscos e melhor articulação entre saúde e segurança no trabalho e segurança social.",
+  "Reforçar a monitorização para trabalho por turnos, noturno e laboração contínua.",
+  "Estudo sobre o impacto de fatores de risco ocupacional, incluindo longas jornadas."
+ ],
+ "plain_language": "O PAN pede ao Governo que atualize as regras sobre doenças causadas pelo trabalho. A lista oficial tem muitos anos e não inclui, por exemplo, doenças psíquicas ou as provocadas por novos vírus, como se viu com a COVID-19. Pede também menos burocracia para os trabalhadores serem reconhecidos e mais prevenção. É só uma recomendação.",
+ "context": "O proponente afirma que a lista de doenças profissionais não é alterada há muitos anos e que a legislação não responde a novos perigos tecnológicos, climáticos e de saúde pública. Refere que a lista deixou desprotegidos os profissionais de saúde durante a COVID-19, segundo a OMS e a OIT.",
+ "analysis": "A proposta aborda uma lacuna reconhecida, como a atualização da lista e a inclusão de doenças psíquicas, e tem a vantagem de prever diálogo com parceiros sociais. É formulada em termos de «avaliar» e «ponderar», sem prazos ou metas, o que limita o efeito. Não estima custos para a Segurança Social nem para os empregadores, e a inclusão de doenças psíquicas levanta questões de nexo de causalidade que o texto não discute. Há uma inconsistência: refere 18 anos sem alteração, mas a lista foi alterada em 2007.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar a lista de doenças e simplificar prestações poderia aumentar encargos com prestações e reparação. O texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores",
+  "profissionais de saúde",
+  "empregadores",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "doenças profissionais",
+  "saúde no trabalho",
+  "saúde mental",
+  "prevenção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

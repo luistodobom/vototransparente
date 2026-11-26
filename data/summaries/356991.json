@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualização e indexação do Cartão Social Eletrónico Mais Pessoas",
+ "summary": "O Projeto de Resolução do LIVRE recomenda ao Governo que atualize, com efeitos em 2026, os montantes do Cartão Social Eletrónico Mais Pessoas, um apoio alimentar em cartão para pessoas em carência económica. Propõe ainda uma regra de atualização anual automática, indexada à variação do índice de preços no consumidor dos produtos alimentares e bebidas não alcoólicas. Recomenda avaliar majorações para agregados com crianças, famílias monoparentais, idosos, pessoas com deficiência ou em especial vulnerabilidade. Pede também que se garanta a utilização efetiva do cartão, com cobertura territorial adequada de estabelecimentos aderentes, informação acessível, bens elegíveis adequados e correção de constrangimentos operacionais. Por ser uma resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Atualizar em 2026 os montantes do Cartão Social Eletrónico, que arrancou em janeiro de 2025 com 50,95 euros para o titular e 35,67 euros por elemento adicional.",
+  "Criar uma regra de atualização anual automática indexada ao IPC de produtos alimentares e bebidas não alcoólicas.",
+  "Avaliar majorações para agregados com crianças, famílias monoparentais, idosos, pessoas com deficiência ou especialmente vulneráveis.",
+  "Assegurar cobertura territorial da rede de estabelecimentos aderentes e informação simples aos beneficiários.",
+  "Corrigir constrangimentos operacionais em articulação com organizações parceiras e o setor social."
+ ],
+ "plain_language": "O cartão Mais Pessoas dá a famílias carenciadas um valor mensal para comprar comida. Esse valor não mudou desde 2025, embora os alimentos tenham ficado mais caros. O LIVRE pede ao Governo que o valor suba e passe a acompanhar automaticamente os preços da alimentação, que se pense em apoios extra para famílias com mais necessidades e que o cartão seja fácil de usar em todo o país.",
+ "context": "O proponente afirma que a inflação penaliza mais os agregados de menores rendimentos e que o valor do cartão, fixo desde o arranque em janeiro de 2025, perde poder de compra. Cita dados do Banco de Portugal sobre aumentos de preços de energia e alimentos e refere que a regulamentação do PESSOAS 2030 permite definir o valor por via administrativa.",
+ "analysis": "A proposta é simples e responde a um problema concreto: um apoio de valor nominal fixo perde valor real. A indexação anual dá previsibilidade. Contudo, não indica o novo montante, o custo orçamental nem a fonte de financiamento, e a avaliação de majorações fica em aberto. A indexação ao IPC alimentar pode ser volátil e depende do enquadramento do PESSOAS 2030, financiado por fundos europeus, o que pode limitar a margem para aumentos. Sendo recomendação, não obriga o Governo a agir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atualização dos montantes e as eventuais majorações aumentariam a despesa com o apoio alimentar. O texto não quantifica o custo."
+ },
+ "affected": [
+  "beneficiários do Cartão Social Eletrónico",
+  "famílias em carência económica",
+  "famílias monoparentais",
+  "estabelecimentos aderentes"
+ ],
+ "categories": [
+  "familia",
+  "economia"
+ ],
+ "tags": [
+  "cartão mais pessoas",
+  "apoio alimentar",
+  "pessoas 2030",
+  "indexação",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

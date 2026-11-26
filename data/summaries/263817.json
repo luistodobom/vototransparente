@@ -1,0 +1,42 @@
+{
+ "short_title": "Crime de ecocídio no Código Penal",
+ "summary": "O PAN propõe criar no Código Penal o crime de ecocídio (artigo 280.º-A), punindo com pena de prisão até seis anos quem, por ação ou omissão, emita para a atmosfera ou descarregue para águas superficiais, subterrâneas ou marítimas substâncias que causem efeitos nocivos graves, de difícil reparação e duradouros sobre a saúde, a flora e a fauna. São excluídas as emissões dentro dos limites fixados pela autoridade administrativa e as descargas autorizadas. Consideram-se duradouros os efeitos que possam persistir pelo menos sete anos. O limite máximo da pena é elevado ao dobro em caso de dolo, negligência grosseira ou vantagem económica. Alteram-se ainda os crimes de incêndio florestal e de poluição para remeter para o ecocídio quando os danos forem irreparáveis ou duradouros.",
+ "key_points": [
+  "Cria o crime de ecocídio, com pena de prisão até seis anos.",
+  "Efeitos duradouros definidos como os que possam persistir pelo menos sete anos.",
+  "Exclui emissões dentro dos valores-limite e descargas conforme a autorização administrativa.",
+  "Pena máxima duplicada se houver dolo, negligência grosseira ou vantagem económica.",
+  "Os crimes de incêndio florestal e de poluição remetem para o ecocídio quando os danos são irreparáveis ou duradouros.",
+  "Prazo de prescrição conta desde o conhecimento do facto nos crimes dos artigos 279.º a 280.º-A."
+ ],
+ "plain_language": "A proposta cria um novo crime no Código Penal para quem polua o ar ou as águas de forma tão grave que cause danos duradouros e difíceis de reparar à saúde, às plantas e aos animais. A pena pode chegar a seis anos de prisão, e ser maior se houve intenção, negligência grosseira ou lucro. Quem cumpre os limites e as autorizações legais não é abrangido.",
+ "context": "O PAN invoca a degradação dos ecossistemas, os limites planetários e as alterações climáticas, citando a criminalidade ambiental como uma das maiores atividades criminosas e a recente diretiva europeia sobre crimes ambientais. Defende a criação deste crime em Portugal, a par da sua consagração no Estatuto de Roma.",
+ "analysis": "A proposta reforça a proteção penal do ambiente e dá resposta a danos graves e duradouros. Contudo, a redação suscita dúvidas: a expressão de difícil reparação e a fixação de sete anos para efeitos duradouros podem ser difíceis de provar. A exclusão de emissões autorizadas pode deixar impunes danos graves legalmente licenciados. O texto limita-se a emissões e descargas de substâncias, sem abranger outras formas de destruição de ecossistemas, como a desflorestação. A frase sobre o limite máximo refere-se a um número anterior de forma ambígua, e a pena de até seis anos duplicada chega a doze anos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. Pode implicar custos adicionais de investigação e julgamento, e receitas potenciais não quantificadas."
+ },
+ "affected": [
+  "empresas poluidoras",
+  "tribunais e Ministério Público",
+  "comunidades locais",
+  "ecossistemas e saúde pública"
+ ],
+ "categories": [
+  "ambiente",
+  "justica"
+ ],
+ "tags": [
+  "ecocídio",
+  "código penal",
+  "crimes ambientais",
+  "poluição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

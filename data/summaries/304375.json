@@ -1,0 +1,38 @@
+{
+ "short_title": "Inibidores de sinal de telemóvel nas prisões",
+ "summary": "O PSD recomenda ao Governo que inicie o processo para colocar inibidores de sinal nos estabelecimentos prisionais, de modo a limitar as comunicações não autorizadas dos reclusos com o exterior e contribuir para a segurança no espaço prisional. É um projeto de resolução, de recomendação não vinculativa, sem definir prazos, locais ou orçamento.",
+ "key_points": [
+  "Recomenda ao Governo que inicie o processo de colocação de inibidores de sinal nas prisões.",
+  "Objetivo: limitar comunicações não autorizadas dos reclusos com o exterior.",
+  "Contribui para a segurança no espaço prisional."
+ ],
+ "plain_language": "O PSD pede ao Governo que comece a instalar equipamentos que bloqueiem o sinal de telemóvel dentro das prisões, para impedir que os reclusos usem telemóveis, que são proibidos. É apenas uma recomendação.",
+ "context": "O PSD refere a fuga do Estabelecimento Prisional de Vale de Judeus, em que foram usados telemóveis, e cita o Relatório Anual de Segurança Interna de 2023, segundo o qual foram apreendidos 1.792 telemóveis no sistema prisional (mais 248 do que em 2022). Indica abertura da Ministra da Justiça e do Diretor-Geral dos Serviços Prisionais.",
+ "analysis": "A medida ataca um problema documentado e tem apoio declarado de responsáveis do sector e de guardas prisionais. Mas a iniciativa é muito genérica: não fixa prazos, âmbito, tecnologia nem financiamento, e não aborda questões práticas, como interferência em comunicações fora das prisões, nem outras vias de entrada de telemóveis, como arremessos do exterior. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A aquisição e instalação de inibidores de sinal implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "reclusos",
+  "guardas prisionais",
+  "Direção-Geral de Reinserção e Serviços Prisionais"
+ ],
+ "categories": [
+  "seguranca",
+  "justica"
+ ],
+ "tags": [
+  "prisões",
+  "inibidores de sinal",
+  "telemóveis",
+  "segurança prisional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

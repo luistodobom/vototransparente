@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização para transpor a diretiva das ações coletivas de consumidores",
+ "summary": "A proposta de lei do Governo pede autorização legislativa, com duração de 180 dias, para transpor a Diretiva (UE) 2020/1828 sobre ações coletivas para proteção dos interesses dos consumidores. O projeto de decreto-lei anexo designa a Direção-Geral do Consumidor como autoridade competente e ponto de contacto, define as entidades qualificadas para ações nacionais e transfronteiriças, regula o financiamento por terceiros, a consulta prévia ao profissional (duas semanas antes de pedir uma medida inibitória), a representação dos consumidores, a prova, a prescrição, as sanções pecuniárias compulsórias (até 4 987,98 euros por infração) e o destino das indemnizações, e revoga a Lei n.º 25/2004. Prevê entrada em vigor a 25 de junho de 2023.",
+ "key_points": [
+  "Autoriza o Governo, por 180 dias, a transpor a Diretiva (UE) 2020/1828 por decreto-lei, cujo projeto acompanha a proposta.",
+  "Designa a Direção-Geral do Consumidor como autoridade competente, responsável por listas públicas de entidades qualificadas e por reportar à Comissão Europeia.",
+  "O financiador não pode decidir sobre intentar, desistir ou transigir na ação, a sua remuneração tem de ser justa e proporcional, e são inadmissíveis ações financiadas por concorrente do demandado.",
+  "Medidas inibitórias exigem consulta prévia por carta registada, com duas semanas para o profissional cessar a infração; consumidores não residentes em Portugal só são representados se o manifestarem.",
+  "Indemnizações não reclamadas pagam primeiro as despesas do demandante e o remanescente reverte 60% para o Fundo para a Promoção dos Direitos dos Consumidores e 40% para o Instituto de Gestão Financeira e Equipamentos da Justiça; os consumidores abrangidos não pagam custas."
+ ],
+ "plain_language": "O Parlamento é chamado a autorizar o Governo a criar, por decreto-lei, regras para que associações e outras entidades qualificadas possam processar empresas em nome de muitos consumidores, em Portugal ou noutros países da UE, para travar práticas ilegais e obter indemnizações. Quem financia a ação não a pode controlar, os consumidores não pagam custas e as indemnizações que ninguém reclame têm destino definido na lei.",
+ "context": "O Governo invoca a obrigação de transpor a Diretiva (UE) 2020/1828, parte do Novo Acordo para os Consumidores, que exige pelo menos um mecanismo eficaz de ação coletiva, para medidas inibitórias e de reparação, em todos os Estados-Membros, incluindo em casos transfronteiriços, em áreas como serviços financeiros, energia, saúde, telecomunicações e proteção de dados.",
+ "analysis": "A proposta cumpre uma obrigação europeia e inclui salvaguardas relevantes sobre financiamento por terceiros (independência do demandante, proporcionalidade da remuneração, exclusão de financiadores concorrentes dos demandados). Sendo lei de autorização, delega no Governo, mas o projeto de decreto-lei permite escrutínio do conteúdo. Pontos de atenção: o equilíbrio entre acesso à justiça e litigância abusiva, a capacidade dos tribunais, a articulação com a ação popular (Lei n.º 83/95) e a data de entrada em vigor indicada (25 de junho de 2023), que depende do calendário legislativo. A sanção compulsória tem teto fixo reduzido para grandes empresas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A isenção de custas para consumidores e a nova atividade nos tribunais podem aumentar despesa; as sanções compulsórias revertem em partes iguais para o requerente e o Estado."
+ },
+ "affected": [
+  "consumidores",
+  "associações de defesa do consumidor",
+  "empresas",
+  "tribunais",
+  "Direção-Geral do Consumidor"
+ ],
+ "categories": [
+  "consumidores",
+  "justica",
+  "internacional"
+ ],
+ "tags": [
+  "ações coletivas",
+  "diretiva europeia",
+  "autorização legislativa",
+  "defesa do consumidor",
+  "financiamento por terceiros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

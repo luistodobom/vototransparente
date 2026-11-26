@@ -1,0 +1,41 @@
+{
+ "short_title": "Subsídio de mobilidade: fim do adiantamento do valor das viagens",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo que, com urgência, aplique ao Decreto-Lei n.º 37-A/2025 e à Portaria n.º 138/2025/1 o regime do artigo 4.º da Lei n.º 105/2019, de modo que os residentes na Madeira deixem de adiantar o valor integral das passagens aéreas entre a Região e o continente. O subsídio social de mobilidade seria atribuído de forma direta, automática e célere. Recomenda ainda medidas administrativas, técnicas e operacionais para implementar o novo modelo de pagamento com simplicidade e segurança, e campanhas de informação aos cidadãos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Aplicar o regime do artigo 4.º da Lei n.º 105/2019 ao novo modelo do Decreto-Lei n.º 37-A/2025.",
+  "Os residentes da Madeira deixam de adiantar o valor integral das passagens.",
+  "Atribuição direta, automática e célere do subsídio.",
+  "Medidas administrativas, técnicas e operacionais necessárias à implementação.",
+  "Campanhas de informação sobre procedimentos e direitos."
+ ],
+ "plain_language": "Os residentes na Madeira e no Porto Santo pagam hoje a viagem de avião inteira e só depois recebem parte do dinheiro de volta. O JPP pede ao Governo que o desconto seja feito logo na compra, como uma lei de 2019 já previa mas nunca foi aplicada. É apenas uma recomendação.",
+ "context": "O proponente lembra que a Lei n.º 105/2019 previa que o residente não suportasse o valor total da viagem, mas nunca foi regulamentada, e que o Decreto-Lei n.º 37-A/2025 manteve a obrigação de adiantar o valor, penalizando famílias de menores rendimentos, estudantes e reformados.",
+ "analysis": "A proposta tem um objetivo claro e invoca uma vontade anterior do Parlamento, o que lhe dá fundamento. Em contrapartida, não explica como o Estado financiaria e operacionalizaria o pagamento direto, nem a relação com as companhias aéreas, e não quantifica custos. Sendo uma recomendação, o efeito depende do Governo. É restrita à Madeira, embora o regime abranja também os Açores.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A mudança no modo de pagamento do subsídio poderia alterar o momento e o volume da despesa pública, sem dados no texto."
+ },
+ "affected": [
+  "residentes da Madeira e do Porto Santo",
+  "estudantes deslocados",
+  "reformados",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "madeira",
+  "insularidade",
+  "viagens aéreas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Reconhecimento das profissões de desgaste rápido",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo: o reconhecimento das profissões de desgaste rápido, associado a medidas de proteção social e laboral mais favoráveis, como a redução da idade legal de reforma sem penalizações, o suporte de despesas com doenças profissionais, a recolocação de trabalhadores com doenças profissionais independentemente da incapacidade, a revisão da Tabela Nacional de Incapacidades e a regulamentação das doenças do foro psíquico; a entrega à comissão parlamentar competente do relatório final do Grupo de Trabalho para o estudo das Profissões de Desgaste Rápido, com o elenco das profissões; e a realização de uma sessão pública de apresentação e discussão desse relatório. Não é vinculativo.",
+ "key_points": [
+  "Recomenda reconhecer as profissões de desgaste rápido, com reforma antecipada sem penalizações.",
+  "Recomenda suporte de despesas de doenças profissionais, recolocação de trabalhadores e revisão da Tabela Nacional de Incapacidades.",
+  "Recomenda regulamentar as doenças do foro psíquico, nos termos da Resolução da AR n.º 245/2018.",
+  "Pede a entrega do relatório final do Grupo de Trabalho, com o elenco das profissões, à comissão parlamentar.",
+  "Pede uma sessão pública de apresentação e discussão desse relatório."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o Governo reconheça que certas profissões desgastam mais a saúde, como as de turnos e trabalho noturno, e que quem as exerce possa reformar-se mais cedo sem cortes na pensão. Pede também que seja divulgado o relatório do grupo de trabalho que estuda o tema. É uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O Bloco refere o aumento do trabalho por turnos e noturno (mais de 1 milhão de pessoas), reivindicações de profissões como vidreiros, bombeiros e motoristas de pesados e a petição n.º 91, com mais de 13.000 assinaturas. Critica que o grupo de trabalho criado em 2023 não tenha divulgado ao Parlamento as suas conclusões, apesar de um relatório preliminar em janeiro de 2025.",
+ "analysis": "Pede transparência sobre um estudo em curso e medidas de proteção ligadas à penosidade, com apoio de petição e do grupo de trabalho. Fragilidades: o conceito de desgaste rápido é de difícil definição, como o próprio relatório preliminar reconhece; a redução da idade de reforma sem penalização tem impacto financeiro na Segurança Social que não é estimado; e as várias medidas são enunciadas sem prazos nem critérios de elegibilidade. Sendo resolução, é não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reforma antecipada sem penalizações e o suporte de despesas de doenças profissionais aumentariam a despesa da Segurança Social. O texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores por turnos e noturnos",
+  "trabalhadores de profissões desgastantes",
+  "trabalhadores com doenças profissionais",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "reforma antecipada",
+  "doenças profissionais",
+  "trabalho por turnos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

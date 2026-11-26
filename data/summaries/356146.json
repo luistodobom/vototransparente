@@ -1,0 +1,41 @@
+{
+ "short_title": "Proteção das crianças da creche Academia Sonhar e Crescer",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas urgentes para as 37 crianças inscritas na creche Academia Sonhar e Crescer, em Carnide, Lisboa, alvo de denúncias públicas de maus-tratos, negligência e violência. Propõe a recolocação urgente das crianças em creches seguras, o apoio psicológico especializado a crianças e famílias, o estudo de um mecanismo que mantenha a licença para assistência à família dos progenitores enquanto não houver solução de acolhimento, sem prejuízo de direitos laborais, remuneratórios, contributivos ou de proteção social, e a tramitação urgente dos processos administrativos sobre as denúncias. A creche estava integrada no programa Creche Feliz. É uma recomendação.",
+ "key_points": [
+  "Recolocação urgente das crianças noutras creches seguras e adequadas.",
+  "Apoio psicológico especializado para as crianças e as suas famílias.",
+  "Estudo de um mecanismo para manter a licença de assistência à família enquanto não houver solução de acolhimento.",
+  "Tramitação urgente dos processos administrativos sobre as denúncias."
+ ],
+ "plain_language": "O PAN pede ao Governo que ajude já as 37 crianças de uma creche de Lisboa onde foram denunciados maus-tratos: encontrar-lhes nova creche, dar apoio psicológico às crianças e aos pais, proteger os direitos dos pais que ficaram em casa e acelerar os processos de investigação. É uma recomendação.",
+ "context": "O proponente indica que, segundo a comunicação social, há denúncias de agressões, coerção na alimentação e encobrimento de ferimentos, que a creche beneficiava do programa Creche Feliz e que, quase duas semanas depois da primeira denúncia, as famílias não tinham tido contacto do Governo, do ISS ou da CPCJ, nem resposta para as 37 crianças.",
+ "analysis": "A iniciativa foca-se em medidas imediatas e de proteção das crianças, com atenção a direitos dos pais. Fragilidades: os factos descritos são alegados e a verificação cabe às autoridades, o que o texto reconhece; a recolocação depende de vagas disponíveis e da vontade das famílias; o mecanismo da licença é apenas para estudar, sem garantias concretas. O texto não indica prazos, e não resolve as falhas estruturais de fiscalização, abordadas noutra iniciativa do mesmo partido.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoio psicológico, vagas alternativas e manutenção de licenças implicam despesa pública, de valor não indicado no texto."
+ },
+ "affected": [
+  "37 crianças inscritas na creche",
+  "famílias das crianças",
+  "Instituto da Segurança Social",
+  "Comissão de Proteção de Crianças e Jovens"
+ ],
+ "categories": [
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "creche",
+  "maus-tratos",
+  "Carnide",
+  "apoio psicológico",
+  "licença de assistência à família"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

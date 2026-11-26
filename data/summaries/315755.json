@@ -1,0 +1,45 @@
+{
+ "short_title": "Grandes Opções 2025-2029",
+ "summary": "Proposta de Lei do Governo que aprova a Lei das Grandes Opções para 2025-2029, instrumento de planeamento e programação orçamental plurianual. O anexo I define dez eixos prioritários, organizados em temas e objetivos estratégicos: rendimentos, reforma do Estado, crescimento económico, imigração, serviços essenciais, segurança e justiça, habitação, infraestruturas, água e defesa. Entre as medidas indicadas estão uma redução do IRS em 2 000 milhões de euros na legislatura, a descida gradual do IRC até 17% (15% para PME), 59 mil casas públicas, a construção do novo aeroporto, a primeira fase da privatização da TAP e 2% do PIB em defesa já em 2025. O anexo II fixa os limites de despesa por missão orgânica até 2029; as prioridades são compatibilizadas no Orçamento do Estado para 2026.",
+ "key_points": [
+  "Aprova a Lei das Grandes Opções 2025-2029, com opções de política no anexo I e programação orçamental plurianual da administração central e da segurança social no anexo II.",
+  "Rendimentos e impostos: salário mínimo de 1 100 euros, salário médio de 2 000 euros, nenhum pensionista abaixo de 870 euros, redução do IRS em 2 000 milhões de euros na legislatura (500 milhões já em 2025) e IRC a descer gradualmente até 17%, ou 15% para PME.",
+  "Habitação e infraestruturas: execução de 59 mil casas públicas, mobilização de imóveis do Estado, conclusão da negociação e construção do Aeroporto Luís de Camões e primeira fase da privatização da TAP.",
+  "Imigração e nacionalidade: revisão da lei da nacionalidade (mais tempo de residência), da lei de estrangeiros e da lei de asilo, limitando os fluxos, nomeadamente o reagrupamento familiar, e restringindo o visto de procura de trabalho a candidatos muito qualificados.",
+  "Defesa: investimento de 2% do PIB já em 2025, antecipando compromissos com a NATO; a despesa da missão Defesa passa de 3 132,8 para 3 836,9 milhões de euros em 2026.",
+  "Anexo II: a despesa total da administração central e segurança social (427 251,1 milhões de euros em 2025) sobe para 442 097,7 em 2026 e 478 926,2 milhões em 2029, com os fundos europeus a descer de 11 676,1 para 3 332,2 milhões."
+ ],
+ "plain_language": "É o documento em que o Governo define as grandes linhas da sua política até 2029 e o quadro de despesa previsto para esse período. Entre outras coisas, promete baixar o IRS e o IRC, subir o salário mínimo, construir casas e um novo aeroporto, apertar as regras de imigração e da nacionalidade e gastar 2% do PIB em defesa. É uma lei de orientação: cada medida concreta ainda precisa de leis e de orçamentos anuais.",
+ "context": "O Governo apresenta as Grandes Opções como a concretização do Programa do XXV Governo Constitucional, num contexto de incerteza económica global, tensões comerciais e instabilidade geopolítica. O financiamento repartir-se-á entre o Orçamento do Estado e fundos europeus (PRR, PT 2030, entre outros). A proposta teve parecer do Conselho Económico e Social.",
+ "analysis": "É um documento de planeamento abrangente que dá previsibilidade às prioridades do Governo e permite escrutínio parlamentar, e o anexo II traz limites de despesa por ministério até 2029. Fragilidades: o próprio texto admite que não inclui o alinhamento com as recomendações específicas por país nem com a Estratégia Portugal 2030, que diz estar desatualizada; muitas medidas são enunciadas de forma genérica, sem calendário nem custo; e o quadro plurianual mostra quedas acentuadas em algumas missões (por exemplo, Economia e Coesão Territorial, Ambiente e Energia, Cultura, Agricultura e Mar), em parte ligadas ao fim de fundos europeus, sem explicação detalhada. Os efeitos reais dependem dos orçamentos anuais.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Combina medidas que reduzem receita (IRS menos 2 000 milhões de euros na legislatura, descida do IRC) com aumentos de despesa em saúde, segurança social e defesa. O anexo II prevê despesa da administração central e segurança social de 442 097,7 milhões de euros em 2026 e 478 926,2 milhões em 2029, e receitas fiscais de 298 688,1 e 323 626,8 milhões."
+ },
+ "affected": [
+  "cidadãos e famílias",
+  "empresas",
+  "trabalhadores e pensionistas",
+  "Administração Pública",
+  "imigrantes"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "grandes opções",
+  "planeamento",
+  "programação orçamental",
+  "Orçamento do Estado 2026",
+  "IRS e IRC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

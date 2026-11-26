@@ -1,0 +1,41 @@
+{
+ "short_title": "Eliminar subsídios aos combustíveis fósseis até 2030",
+ "summary": "Projeto de Resolução do PAN em que a Assembleia da República reafirma o compromisso de eliminar progressiva e socialmente de forma justa, até 2030, os subsídios fixados em legislação nacional, diretos ou através de benefícios fiscais, relativos a combustíveis fósseis ou à sua utilização, conforme a alínea c) do artigo 28.º da Lei de Bases do Clima. Recomenda ainda ao Governo que aprove um plano de ação para o concretizar, articulado com o Plano Nacional Energia e Clima 2030, e que canalize as verbas desses subsídios para passes sociais gratuitos, melhoria e alargamento dos transportes públicos e mobilidade suave.",
+ "key_points": [
+  "A Assembleia da República reafirma o compromisso de eliminar até 2030 os subsídios aos combustíveis fósseis previstos na Lei de Bases do Clima.",
+  "Recomenda ao Governo um plano de ação, articulado com o Plano Nacional Energia e Clima 2030.",
+  "A eliminação deve ser progressiva e socialmente justa, em transição para uma economia climaticamente neutra.",
+  "Recomenda canalizar as verbas para passes sociais gratuitos, transportes públicos e mobilidade suave."
+ ],
+ "plain_language": "O PAN quer que o Parlamento volte a assumir que os apoios públicos aos combustíveis fósseis acabam até 2030, como a lei do clima já prevê. Pede ao Governo um plano para o fazer sem prejudicar quem tem menos recursos e que o dinheiro poupado vá para transportes públicos e passes gratuitos. É uma recomendação, não vincula o Governo.",
+ "context": "O PAN invoca os apelos da OCDE e das Nações Unidas contra os subsídios nocivos, o Pacto Ecológico Europeu, a Lei de Bases do Clima (Lei n.º 98/2021), o Plano Nacional Energia e Clima 2030 e as conclusões das COP28 e COP29. Associa a iniciativa ao Dia Mundial do Ambiente e ao início da legislatura.",
+ "analysis": "A proposta reforça um compromisso que já existe em lei, o que lhe dá coerência, mas o seu efeito prático é limitado por ser uma recomendação sem prazos intermédios nem lista dos subsídios abrangidos, nem estimativa do seu valor. A formulação \"socialmente justa\" fica por concretizar, nomeadamente quanto a setores e famílias mais expostas ao aumento de custos. Associar a verba a passes gratuitos é uma opção política que pode pressupor receita equivalente.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A eliminação de subsídios e benefícios fiscais aumentaria a receita ou reduziria a despesa, e a aplicação das verbas em transportes públicos aumentaria a despesa nessa área. O texto não indica montantes."
+ },
+ "affected": [
+  "consumidores e empresas que beneficiam de apoios a combustíveis fósseis",
+  "utentes de transportes públicos",
+  "Governo"
+ ],
+ "categories": [
+  "ambiente",
+  "energia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "combustíveis fósseis",
+  "subsídios",
+  "lei de bases do clima",
+  "transição justa",
+  "passes sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Estratégia nacional para o consumo de proteína vegetal",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo seis medidas: elaborar, no âmbito do Plano Nacional de Energia e Clima, uma Estratégia nacional para promover o consumo de proteína vegetal, em especial de leguminosas, com metas de redução do consumo de carne; criar um grupo de trabalho interministerial com saúde, ambiente, agricultura e educação e participação da sociedade civil; incentivar o cultivo de leguminosas com apoio técnico e financeiro aos agricultores; promover campanhas de educação alimentar nas escolas e instituições públicas; garantir formação especializada para cozinheiros; e promover parcerias entre universidades, institutos de investigação e setor privado para alternativas de proteínas vegetais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estratégia nacional para promover proteína vegetal, com metas de redução do consumo de carne.",
+  "Grupo de trabalho interministerial com participação da sociedade civil.",
+  "Apoio técnico e financeiro aos agricultores que cultivem leguminosas.",
+  "Campanhas de educação alimentar e formação de cozinheiros para refeições à base de vegetais.",
+  "Parcerias entre universidades, institutos de investigação e setor privado."
+ ],
+ "plain_language": "O PAN propõe que o Governo crie um plano nacional para que as pessoas comam mais leguminosas e outras proteínas vegetais e menos carne, com apoios aos agricultores, formação e campanhas nas escolas. Defende que isso ajuda o clima, a saúde e a economia. É um pedido ao Governo, sem força de lei.",
+ "context": "O PAN sustenta que a pecuária é uma das principais fontes de emissões de gases com efeito de estufa e que relatórios europeus apontam a necessidade de transição para dietas mais vegetais, no quadro do Pacto Ecológico Europeu e da estratégia Do Prado ao Prato. Defende ainda benefícios para a saúde pública e a redução de importações.",
+ "analysis": "A proposta liga ambiente, saúde e agricultura e prevê medidas de apoio à produção nacional de leguminosas. Fragilidades: pede metas de redução do consumo de carne sem as especificar, o que pode suscitar oposição do setor pecuário e dos consumidores, e não analisa os impactos económicos nem o custo dos apoios e da formação. Várias estimativas citadas são globais e não específicas de Portugal. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os apoios aos agricultores, as campanhas e a formação implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "agricultores",
+  "consumidores",
+  "escolas e instituições públicas",
+  "setor da pecuária",
+  "profissionais de cozinha"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "saude"
+ ],
+ "tags": [
+  "proteína vegetal",
+  "leguminosas",
+  "alimentação sustentável",
+  "plano nacional de energia e clima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

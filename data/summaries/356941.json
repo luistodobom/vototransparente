@@ -1,0 +1,41 @@
+{
+ "short_title": "Reabertura integral da Linha do Corgo",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo a reabertura integral da Linha do Corgo entre Peso da Régua e Chaves, como projeto prioritário da política ferroviária nacional e integrada na execução do Plano Ferroviário Nacional. Pede a inclusão das verbas necessárias nos instrumentos de programação financeira e de investimento público (estudo, projeto, construção e material circulante), a elaboração de estudos técnicos, ambientais e económico-financeiros, incluindo a ligação à rede espanhola, e a articulação com autarquias e cidadãos.",
+ "key_points": [
+  "Reabertura integral da linha entre Peso da Régua e Chaves como projeto prioritário.",
+  "Inclusão das verbas nos instrumentos de programação financeira e de investimento público, incluindo material circulante.",
+  "Estudos técnicos, ambientais e económico-financeiros pela Infraestruturas de Portugal, incluindo ligação à rede ferroviária espanhola.",
+  "Articulação com autarquias, entidades regionais e organizações de cidadãos, garantindo a participação das populações."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o Governo volte a abrir a Linha do Corgo, que ligava a Régua a Chaves, e que reserve dinheiro para isso. Também sugere estudar uma ligação a Espanha e ouvir as populações e as câmaras. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "Os proponentes descrevem o encerramento da linha (Vila Real–Chaves em 1990; Régua–Vila Real em 2009) como uma perda de infraestrutura pública no interior, referem a petição pela reabertura e o anúncio de 2022 de inclusão no Plano Ferroviário Nacional, e invocam mobilidade sustentável, descarbonização, coesão territorial e turismo no Douro.",
+ "analysis": "A proposta é mais ambiciosa do que outras sobre o mesmo tema ao pedir a reabertura integral como prioridade e a extensão a Verín, em Espanha. Falta, porém, qualquer estimativa de custo, calendário ou procura prevista, e não responde ao argumento do Plano Nacional Ferroviário de 2025 sobre os tempos de viagem. Sendo uma resolução, não obriga o Governo. A referência à participação local é um ponto positivo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda a inclusão de verbas para estudo, projeto, construção e material circulante, sem indicar montantes."
+ },
+ "affected": [
+  "populações de Trás-os-Montes e Alto Douro",
+  "utentes da ferrovia",
+  "autarquias dos concelhos da linha",
+  "Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "linha do corgo",
+  "ferrovia",
+  "reabertura",
+  "verín",
+  "interior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

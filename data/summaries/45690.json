@@ -1,0 +1,45 @@
+{
+ "short_title": "Transparência na Presidência portuguesa da UE",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo seis medidas de transparência durante a Presidência portuguesa do Conselho da União Europeia (1 de janeiro a 30 de junho de 2021). Propõe registos públicos das reuniões com representantes de lobbies, tanto dos funcionários e assessores da Representação Permanente como dos membros do Governo, a rejeição de todas as formas de patrocínio, com resolução dos contratos já celebrados, a publicitação das atas dos trílogos e das reuniões do órgão preparatório do Conselho, a divulgação prévia das posições nacionais e a redução ao mínimo dos contactos com os lobbies petrolífero e da agropecuária intensiva.",
+ "key_points": [
+  "Registo público das reuniões de funcionários e assessores da Representação Permanente com lobbies.",
+  "Registo público das reuniões de membros do Governo com lobbies durante a Presidência.",
+  "Rejeitar patrocínios e resolver os contratos com Delta, Compal/Sumol e The Navigator Company.",
+  "Publicar atas dos trílogos e do órgão preparatório do Conselho.",
+  "Divulgar as posições do Governo antes das reuniões do Conselho.",
+  "Reduzir ao mínimo interações com os lobbies petrolífero e da agropecuária intensiva."
+ ],
+ "plain_language": "O PAN pede ao Governo que, enquanto Portugal presidir ao Conselho da União Europeia, torne públicas as reuniões com lobbies, recuse patrocínios de empresas, divulgue documentos e posições das negociações e limite os contactos com as indústrias do petróleo e da pecuária intensiva. É uma recomendação não vinculativa.",
+ "context": "O proponente argumenta que a Presidência decorre sob forte pressão de lobbies empresariais e num contexto de baixa confiança dos cidadãos na UE, que em 2019 era de 54%. Critica os contratos de patrocínio celebrados por ajuste direto, sobretudo o da The Navigator Company, por razões ambientais e de proximidade entre regulador e regulado.",
+ "analysis": "A proposta reforça a transparência e invoca precedentes das presidências finlandesa e alemã. Contudo, algumas medidas dependem de outras instituições ou Estados (atas dos trílogos), e a resolução dos contratos de patrocínio pode ter consequências jurídicas e financeiras não analisadas. A redução de contactos com setores específicos é uma escolha política discutível e pode afetar o diálogo com partes interessadas. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica valores. A rejeição de patrocínios e a resolução de contratos pode retirar receitas ou gerar encargos, sem estimativa."
+ },
+ "affected": [
+  "Governo",
+  "Representação Permanente de Portugal junto da UE",
+  "empresas patrocinadoras",
+  "lobbies",
+  "cidadãos"
+ ],
+ "categories": [
+  "internacional",
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "presidência da ue",
+  "lobbies",
+  "patrocínios",
+  "transparência",
+  "trílogos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

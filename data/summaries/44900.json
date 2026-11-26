@@ -1,0 +1,40 @@
+{
+ "short_title": "Inquérito às compras de equipamentos de proteção individual na pandemia",
+ "summary": "O CHEGA propõe a constituição de uma comissão parlamentar de inquérito para averiguar todos os procedimentos e contratos de aquisição, por ajuste direto, de equipamentos de proteção individual no combate à COVID-19. O texto refere contratos por ajuste direto de mais de 76 milhões de euros com sete fornecedores, publicados tardiamente no Portal dos Contratos Públicos, e de quase 80 milhões de euros no total, sem contratos assinados. Cita a compra de três milhões de máscaras a uma empresa, sem certificação, já investigada pela Procuradoria-Geral da República, atrasos na testagem de profissionais de saúde e declarações da Direção-Geral da Saúde. Defende que a Assembleia deve conhecer as razões e os intervenientes.",
+ "key_points": [
+  "Propõe constituir uma comissão parlamentar de inquérito às aquisições de equipamentos de proteção individual por ajuste direto.",
+  "Refere contratos de mais de 76 milhões de euros com sete fornecedores, publicados com atraso.",
+  "Cita a compra de três milhões de máscaras sem certificação, em investigação pela Procuradoria-Geral da República.",
+  "Pretende apurar razões, intervenientes e procedimentos do Ministério da Saúde e da Direção-Geral da Saúde."
+ ],
+ "plain_language": "O CHEGA quer que o Parlamento crie uma comissão para investigar como o Estado comprou máscaras, álcool-gel e outros equipamentos de proteção durante a pandemia, sem concurso, e porque alguns contratos tardaram a ser publicados. Quer saber quem foram os fornecedores e porque foram escolhidos.",
+ "context": "O proponente afirma que houve demora na resposta à pandemia, falta de equipamentos para os profissionais de saúde, contratos de quase 80 milhões de euros por ajuste direto, sem publicação atempada, máscaras sem certificação e mudanças de orientações da Direção-Geral da Saúde, e defende o dever de fiscalização do Parlamento.",
+ "analysis": "O inquérito é um instrumento legítimo de fiscalização, e a transparência dos ajustes diretos é uma questão relevante. Fragilidades: o texto mistura matérias distintas, como compras, testagem e comunicação da Direção-Geral da Saúde, e contém juízos valorativos sobre responsáveis que não se limitam a factos verificáveis. O ajuste direto foi justificado pelo Governo por urgência imperiosa, e o texto não examina se a lei o permitia. O objeto proposto é mais restrito do que a fundamentação, o que pode dificultar a delimitação do inquérito.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O inquérito não altera diretamente receitas ou despesas; o texto refere contratos de cerca de 80 milhões de euros que seriam objeto de investigação."
+ },
+ "affected": [
+  "Ministério da Saúde",
+  "Direção-Geral da Saúde",
+  "fornecedores de equipamentos",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "instituicoes"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "equipamentos de proteção individual",
+  "ajuste direto",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

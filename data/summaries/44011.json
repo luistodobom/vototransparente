@@ -1,0 +1,43 @@
+{
+ "short_title": "Simplificar o acesso ao Estatuto da Agricultura Familiar e criar apoios",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo onze medidas para facilitar o acesso ao Título de Reconhecimento do Estatuto da Agricultura Familiar (Decreto-Lei n.º 64/2018) e dar conteúdo concreto aos direitos dos titulares. Entre elas: alterar até 31 de dezembro de 2021 os critérios de rendimento e de apoios da PAC, alargar o título ao cônjuge, criar balcões dedicados de apoio, contratar técnicos de extensão rural, criar um regime de contratação pública de proximidade, garantir acesso gratuito a mercados locais, criar uma linha a fundo perdido para pequenos investimentos a partir de 2022 e um seguro coletivo de produção. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Alterar os requisitos de acesso ao Estatuto, incluindo o limite de 5000 euros de apoios da PAC e o escalão de rendimento.",
+  "Alargar a atribuição do título ao cônjuge que exerça a atividade agrícola.",
+  "Criar balcões dedicados e contratar técnicos para a extensão rural e apoio técnico.",
+  "Criar um regime de contratação pública de proximidade para produtos agroalimentares.",
+  "Linha de financiamento a fundo perdido para pequenos investimentos, a partir de 1 de janeiro de 2022.",
+  "Criar um seguro coletivo de produção e garantir acesso gratuito aos mercados locais."
+ ],
+ "plain_language": "O Estatuto da Agricultura Familiar existe, mas poucos pequenos agricultores o conseguem obter e quem o tem quase não recebe vantagens concretas. O PCP pede ao Governo que alargue as condições de acesso, ajude os agricultores com o processo, compre produtos locais para serviços públicos e crie apoios financeiros e um seguro. É um pedido ao Governo, não uma lei.",
+ "context": "O proponente refere cerca de 300 000 explorações familiares e critica que o Estatuto não tenha medidas específicas nem financiamento, que a proposta do PCP de financiamento no Orçamento do Estado de 2019 tenha sido rejeitada e que o procedimento da Portaria n.º 73/2019 seja inadequado para agricultores idosos e do interior.",
+ "analysis": "Responde a falhas reais apontadas: um estatuto sem benefícios definidos e um acesso burocrático. Fragilidades: as medidas implicam despesa significativa sem estimativa de custo ou fonte de financiamento; a flexibilização dos critérios pode alargar muito o número de beneficiários; o regime de contratação pública de proximidade tem de ser compatibilizado com as regras europeias de concorrência. Como resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Linha de apoio a fundo perdido, seguro coletivo, contratação de técnicos e balcões implicam despesa pública; o texto não quantifica valores."
+ },
+ "affected": [
+  "agricultores familiares",
+  "pequenos e médios agricultores",
+  "serviços do Ministério da Agricultura",
+  "autarquias"
+ ],
+ "categories": [
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "agricultura familiar",
+  "estatuto",
+  "PAC",
+  "extensão rural",
+  "contratação pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

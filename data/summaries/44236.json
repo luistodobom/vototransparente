@@ -1,0 +1,41 @@
+{
+ "short_title": "Moratória para a caça da rola-comum",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que institua um regime de moratória para a caça da rola-comum, até que se garanta que a população está estabilizada e deixou de ter estatuto de ameaça. O texto refere que a espécie é Vulnerável na Lista Vermelha da UICN, que a Comissão Europeia recomenda uma moratória temporária enquanto não houver modelo de gestão cinegética, e que a Portaria n.º 249/2019 apenas restringiu a caça à manhã, até às 13 horas, na época 2019-2020. Cita regressão de 80% desde 1994 e cerca de 30% das rolas caçadas abatidas durante a nidificação.",
+ "key_points": [
+  "Instituir uma moratória para a caça da rola-comum.",
+  "Mantê-la até a população estar estabilizada e sem estatuto de ameaça.",
+  "Fundamenta-se no Plano de Ação da Comissão Europeia e no estatuto Vulnerável da UICN.",
+  "A restrição de 2019-2020 limitou a caça à manhã, até às 13 horas."
+ ],
+ "plain_language": "A rola-comum está em declínio e a caça contribui para isso. O PAN pede ao Governo que suspenda a sua caça por algumas épocas, até a população recuperar, seguindo a recomendação da Comissão Europeia. É uma recomendação sem força obrigatória.",
+ "context": "O proponente cita a Coligação C6, associações ambientais, que aponta uma diminuição de 80% desde 1994, e um estudo segundo o qual o período de caça coincide com a reprodução, com cerca de 30% das rolas caçadas a nidificar. Considera insuficiente a restrição horária adotada na época 2019-2020.",
+ "analysis": "A proposta apoia-se em recomendações europeias e dados de organizações ambientais, e responde a um declínio documentado. Fragilidades: não define a duração da moratória nem indicadores para a levantar, e os números citados provêm de organizações e de uma tese, sem avaliação oficial no texto. O impacto sobre caçadores e zonas de caça não é analisado, e a eficácia dependeria também de medidas noutros países, como o texto reconhece.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A moratória pode reduzir receitas ligadas à caça a esta espécie, mas o texto não refere nem quantifica efeitos orçamentais."
+ },
+ "affected": [
+  "caçadores",
+  "associações de caça",
+  "rola-comum",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "rola-comum",
+  "caça",
+  "moratória",
+  "biodiversidade",
+  "uicn"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

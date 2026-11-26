@@ -1,0 +1,43 @@
+{
+ "short_title": "Subsídio de doença a 100% na doença oncológica",
+ "summary": "O Projeto de Lei do PAN altera o regime jurídico de proteção social na doença (Decreto-Lei n.º 28/2004) para que o subsídio de doença nas situações de incapacidade para o trabalho por doença oncológica, e também por tuberculose, seja pago a 100% da remuneração de referência. Elimina o período de espera nas incapacidades temporárias por doença oncológica e na assistência a filhos menores com doença oncológica, e retira o limite temporal de concessão do subsídio nos casos de tuberculose ou doença oncológica, que se mantém enquanto a situação se verificar. A lei entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Subsídio de doença a 100% da remuneração de referência em incapacidade por doença oncológica ou tuberculose.",
+  "Sem período de espera na incapacidade temporária por doença oncológica.",
+  "Sem período de espera na assistência a filhos menores com doença oncológica.",
+  "Concessão do subsídio sem limite temporal enquanto se mantiver a situação que o justifica.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem tem cancro e fica sem poder trabalhar passa a receber o subsídio de doença por inteiro (100% do valor de referência) e a receber desde o primeiro dia, sem esperar. O mesmo se aplica a pais que têm de cuidar de um filho menor com cancro. O subsídio continuaria enquanto a doença o justificar.",
+ "context": "O PAN refere que mais de 60 mil pessoas são diagnosticadas com cancro por ano em Portugal e que o subsídio de doença cobre apenas uma percentagem da remuneração, reduzindo o rendimento quando as despesas são maiores. Cita alertas da Liga Portuguesa Contra o Cancro sobre a insuficiência da proteção social e defende uma resposta mais justa e solidária.",
+ "analysis": "A proposta reforça a proteção em situação de grande vulnerabilidade, com alteração cirúrgica e tratamento já existente para a tuberculose. Fragilidades: o custo para a Segurança Social não é estimado; a elegibilidade depende do reconhecimento clínico da doença oncológica, sem critérios sobre estádio ou duração; a ausência de limite temporal pode levantar questões de equidade face a outras doenças graves; e o texto refere a assistência a filhos menores sem alterar a taxa nesse caso, apenas o período de espera.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta o montante do subsídio e elimina períodos de espera para doentes oncológicos, o que aumenta a despesa da Segurança Social. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "trabalhadores com incapacidade temporária",
+  "pais de menores com doença oncológica",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "segurança social",
+  "incapacidade temporária",
+  "tuberculose"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Profissão médica reconhecida como de desgaste rápido",
+ "summary": "O Projeto de Lei n.º 316/XVII/1.ª, do CHEGA, reconhece a profissão médica como de desgaste rápido, alterando o artigo 27.º do Código do IRS para incluir os médicos na lista de profissões de desgaste rápido, ao lado de praticantes desportivos, mineiros e pescadores. Na prática, a medida dá acesso às deduções fiscais específicas previstas nesse artigo para essas profissões. Os proponentes afirmam que não altera o regime de aposentação nem tem impacto orçamental significativo, tratando-se de um reconhecimento legal e simbólico. A lei entraria em vigor com o Orçamento do Estado subsequente à aprovação.",
+ "key_points": [
+  "Reconhece formalmente a profissão médica como de desgaste rápido.",
+  "Altera o artigo 27.º do Código do IRS para incluir os médicos entre as profissões de desgaste rápido.",
+  "Dá acesso às deduções fiscais previstas para essas profissões.",
+  "Não altera, no imediato, o regime de aposentação, segundo os proponentes.",
+  "Entra em vigor com o Orçamento do Estado seguinte à aprovação."
+ ],
+ "plain_language": "Os médicos passariam a constar da lista de profissões de desgaste rápido no IRS, junto com mineiros, pescadores e praticantes desportivos. Isso permitiria-lhes aplicar as deduções fiscais previstas para essas profissões. A idade de reforma não muda de imediato, mas o reconhecimento poderia servir de base a mudanças futuras.",
+ "context": "O CHEGA descreve a profissão médica como de grande exigência, com turnos longos, trabalho noturno, risco de contágio, violência e burnout. Cita um estudo de 2023 do Conselho Nacional do Médico Interno, segundo o qual 55,3% dos médicos internos estão em risco de burnout.",
+ "analysis": "A proposta reconhece uma penosidade bem documentada, e a alteração legal é simples e circunscrita. Contudo, o texto alega que não há impacto orçamental significativo sem apresentar cálculos, apesar de implicar benefícios fiscais para uma profissão com rendimentos geralmente elevados. A fundamentação é sobretudo de saúde e condições de trabalho, mas a medida concreta é fiscal, o que gera desfasamento. Também não esclarece que deduções se aplicam nem se há efeitos futuros em matéria de pensões. A numeração dos artigos salta do 2.º para o 5.º.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao incluir os médicos no regime de deduções do IRS para profissões de desgaste rápido, a receita fiscal tenderia a diminuir. O texto não apresenta montantes e considera o impacto não significativo."
+ },
+ "affected": [
+  "médicos",
+  "contribuintes de IRS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "IRS",
+  "médicos",
+  "deduções",
+  "burnout"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

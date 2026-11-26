@@ -1,0 +1,41 @@
+{
+ "short_title": "Estatuto Jurídico do Apátrida",
+ "summary": "O Projeto de Lei n.º 352/XVII/1.ª, do PS, aprova o Estatuto Jurídico do Apátrida, dando cumprimento ao artigo 6.º da Lei n.º 41/2023 e à Convenção de 1954. Regula o procedimento de determinação da apatridia, a cargo da AIMA, I.P., e prevê que esta reconheça determinações de apatridia feitas por outros Estados parte na Convenção, podendo uma portaria identificar os Estados cujas decisões são reconhecidas automaticamente. Disciplina a revogação ou recusa de renovação do estatuto por deturpação ou omissão de factos, com impugnação judicial em 15 dias e efeito suspensivo, e a cessação do estatuto pela aquisição de nacionalidade ou de estatuto análogo noutro Estado. Consagra ainda os princípios da equiparação aos cidadãos portugueses, salvo direitos políticos e funções públicas reservadas, e da não discriminação. O texto disponível está truncado.",
+ "key_points": [
+  "Procedimento de determinação da apatridia a cargo da AIMA, I.P.",
+  "Possibilidade de reconhecimento de determinações de apatridia feitas por outro Estado parte na Convenção de 1954, com reconhecimento automático em casos fixados por portaria.",
+  "Revogação ou recusa de renovação do estatuto por deturpação ou omissão de factos, com impugnação em 15 dias e efeito suspensivo.",
+  "Cessação do estatuto pela aquisição da nacionalidade portuguesa ou de outra, ou pela concessão de estatuto análogo por outro Estado.",
+  "Princípio da equiparação aos cidadãos portugueses, com exceção dos direitos políticos, e princípio da não discriminação."
+ ],
+ "plain_language": "Este projeto cria um estatuto completo para as pessoas apátridas, que nenhum país reconhece como cidadãs. A AIMA decide quem é apátrida e pode aceitar decisões de outros países que seguiram a mesma convenção internacional. Quem tem o estatuto passa a ter os mesmos direitos e deveres dos portugueses, exceto os direitos políticos. O estatuto pode ser retirado se a pessoa mentir no pedido, e acaba se a pessoa obtiver uma nacionalidade.",
+ "context": "O PS recorda que Portugal só aderiu às convenções sobre apatridia em 2012 e que a Lei n.º 41/2023 introduziu o conceito de apátrida e o título de viagem, mas deixou por regular o procedimento, que devia ser aprovado em 90 dias. Defende que a Convenção de 1954 exige procedimentos de determinação que permitam aos migrantes apátridas aceder a residência legal segura e aos direitos que a Convenção prevê.",
+ "analysis": "Pontos fortes: sistematiza num único estatuto o procedimento, os direitos e a cessação, e prevê o reconhecimento de decisões de outros Estados, o que pode simplificar processos. Fragilidades: a parte analisada não define prazos máximos de decisão nem reforço de meios da AIMA; o reconhecimento automático de decisões estrangeiras depende de portaria futura; e a análise é limitada por o texto estar truncado, não permitindo avaliar todas as garantias dos requerentes.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto disponível não quantifica custos. O procedimento atribui funções à AIMA e pode implicar despesa administrativa, sem estimativa."
+ },
+ "affected": [
+  "pessoas apátridas",
+  "AIMA, I.P.",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "apátrida",
+  "estatuto jurídico",
+  "Convenção de 1954",
+  "AIMA",
+  "não discriminação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

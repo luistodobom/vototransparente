@@ -1,0 +1,42 @@
+{
+ "short_title": "Isenção de IMI para casas muito danificadas pelas tempestades",
+ "summary": "O projeto de lei do Bloco de Esquerda cria uma isenção extraordinária de IMI para habitações próprias permanentes que tenham sofrido danos severos decorrentes das tempestades de 2026, nos concelhos abrangidos pela declaração de calamidade (Resolução do Conselho de Ministros n.º 15-B/2026 e prorrogações). As câmaras municipais, a pedido dos contribuintes, comunicam à Autoridade Tributária os prédios a isentar, e esta verifica a correspondência com a morada fiscal e emite notas de liquidação com valor zero em 2026. A isenção é cumulável com outras já existentes. A quebra de receita é compensada aos municípios por uma dotação extraordinária no Fundo de Equilíbrio Financeiro em 2026. Entra em vigor no dia seguinte à publicação, com efeitos a 28 de janeiro de 2026.",
+ "key_points": [
+  "Isenção de IMI apenas para habitação própria permanente com danos severos causados pelas tempestades.",
+  "As câmaras municipais, a pedido dos contribuintes, comunicam os prédios à Autoridade Tributária, que emite notas de liquidação a zero.",
+  "A isenção é cumulável com outras isenções de IMI existentes.",
+  "Compensação da perda de receita aos municípios por dotação extraordinária no Fundo de Equilíbrio Financeiro de 2026.",
+  "Efeitos a 28 de janeiro de 2026."
+ ],
+ "plain_language": "Quem vive na sua própria casa e a viu muito danificada pelas tempestades deixaria de pagar IMI em 2026. O proprietário pede à câmara, a câmara avisa as Finanças e o Estado compensa o município pela receita perdida.",
+ "context": "O BE descreve que as tempestades destruíram e degradaram habitações, deixaram famílias sem condições de habitabilidade e obrigaram muitas a recorrer a habitação temporária. Propõe aliviar a carga fiscal de quem sofreu danos graves na casa onde vive.",
+ "analysis": "A medida é focada em quem sofreu danos efetivos na habitação própria permanente, o que é mais direcionado do que uma isenção geral. A fragilidade principal é operacional: o texto não define o que são danos severos, nem quem os certifica, o que pode causar disparidades ou litígios entre municípios e contribuintes. Fica fora quem tem habitação arrendada ou secundária. O impacto orçamental não é estimado.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção reduz a receita de IMI dos municípios, compensada por uma dotação extraordinária no Fundo de Equilíbrio Financeiro, com custo para o Estado. O texto não quantifica o valor."
+ },
+ "affected": [
+  "proprietários de habitação própria permanente danificada",
+  "municípios",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao",
+  "territorio"
+ ],
+ "tags": [
+  "IMI",
+  "isenção fiscal",
+  "tempestades",
+  "habitação própria permanente",
+  "FEF"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

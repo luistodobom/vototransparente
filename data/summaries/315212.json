@@ -1,0 +1,43 @@
+{
+ "short_title": "Defesa da costa litoral do concelho de Grândola",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo quatro medidas para a faixa litoral de Grândola: adotar, em articulação com a Câmara Municipal, medidas para controlar e limitar o crescimento desmesurado de empreendimentos turísticos; reforçar a fiscalização e a monitorização ambiental dos projetos turísticos, em particular nas Áreas de Desenvolvimento Turístico; intensificar a fiscalização da ocupação ilegal do solo e das construções irregulares, com sanções rigorosas e demolição de estruturas ilegais; e pôr fim ao regime jurídico de projetos com potencial interesse nacional, revertendo a classificação dos empreendimentos turísticos aprovados ao abrigo dele. Não é vinculativo.",
+ "key_points": [
+  "Controlar e limitar o crescimento de empreendimentos turísticos na faixa litoral de Grândola, em articulação com o município.",
+  "Reforçar a fiscalização e a monitorização ambiental dos projetos turísticos, sobretudo nas Áreas de Desenvolvimento Turístico.",
+  "Intensificar a fiscalização de ocupações ilegais e construções irregulares, com sanções e demolições.",
+  "Pôr fim ao regime de projetos com potencial interesse nacional e reverter a classificação dos empreendimentos aprovados.",
+  "É uma recomendação não vinculativa."
+ ],
+ "plain_language": "O PCP pede ao Governo que trave a expansão de empreendimentos turísticos no litoral de Grândola, fiscalize melhor as obras e a ocupação ilegal do solo e acabe com o regime que dá estatuto de potencial interesse nacional a projetos turísticos. É uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O PCP descreve forte pressão turística e imobiliária no litoral de Grândola, com efeitos na habitação (menos casas disponíveis e preços mais altos). Refere que o município suspendeu parcialmente o PDM em 2022 e aprovou em dezembro de 2024 uma alteração para reduzir áreas de construção e camas turísticas no litoral, e critica o Governo por não travar a especulação e por projetos de potencial interesse nacional criados pelo Governo PS.",
+ "analysis": "Alinha a proposta com a ação do município e responde a preocupações ambientais e de habitação, com medidas concretas como a revisão do regime de projetos de interesse nacional. Fragilidades: a reversão da classificação de empreendimentos já aprovados levanta questões de segurança jurídica e de eventual indemnização, não tratadas; a reversão generalizada afeta todo o país e não só Grândola; o texto não apresenta dados quantitativos sobre os impactos citados e a competência de licenciamento é em parte municipal.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O reforço de fiscalização implica custos e a reversão de projetos aprovados pode gerar indemnizações, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "residentes do litoral de Grândola",
+  "promotores de empreendimentos turísticos",
+  "Câmara Municipal de Grândola",
+  "entidades de fiscalização ambiental"
+ ],
+ "categories": [
+  "territorio",
+  "ambiente",
+  "habitacao"
+ ],
+ "tags": [
+  "Grândola",
+  "turismo",
+  "ordenamento do território",
+  "projetos de interesse nacional",
+  "litoral alentejano"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

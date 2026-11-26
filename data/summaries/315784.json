@@ -1,0 +1,39 @@
+{
+ "short_title": "Recomenda salário mínimo de 1 020 euros em 2026",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que aumente o salário mínimo nacional para 1 020 euros, com efeitos a 1 de janeiro de 2026. A exposição de motivos refere que cerca de 20% dos trabalhadores recebiam o salário mínimo no final de 2023, que a parte dos salários no rendimento nacional desceu para cerca de 46% em 2023, que a inflação acumulada entre 2021 e 2025 foi de cerca de 19,5% e a produtividade de 10,8%, e que as rendas e prestações da habitação subiram muito acima da média. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda 1 020 euros de salário mínimo nacional a partir de 1 de janeiro de 2026.",
+  "Aponta que cerca de 20% dos trabalhadores recebiam o salário mínimo no final de 2023.",
+  "Refere inflação acumulada de cerca de 19,5% e produtividade de 10,8% entre 2021 e 2025.",
+  "Sustenta que o índice de inflação subestima o custo da habitação."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que o salário mínimo suba para 1 020 euros em janeiro de 2026. Argumenta que o valor atual não chega para viver, sobretudo por causa das rendas e das prestações da casa. Como é uma recomendação, o Governo decide se a segue.",
+ "context": "O proponente considera que os aumentos recentes ficaram aquém do necessário, que o salário mínimo se tornou uma espécie de salário nacional em vários setores por causa da estagnação da contratação coletiva, e que a desigualdade salarial e a baixa parte dos salários no rendimento nacional exigem um aumento que reduza desigualdades e promova justiça social.",
+ "analysis": "A fundamentação reúne vários indicadores concretos e o pedido é claro e quantificado. Fragilidades: o texto não estima o custo para as empresas nem o efeito no emprego, e o salto proposto é grande em relação ao acordo de concertação social. A comparação com um indicador alternativo de custo de vida, de cerca de 25%, não tem fonte indicada no texto. Sendo uma recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Um salário mínimo mais alto pode aumentar contribuições e impostos, mas também a despesa do Estado com salários e prestações indexadas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores com salário mínimo",
+  "empregadores",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "salário mínimo",
+  "retribuição mínima",
+  "desigualdade salarial",
+  "custo de vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Remoção e erradicação do amianto em edifícios e equipamentos",
+ "summary": "Projeto de lei do PCP que altera a Lei n.º 2/2011 (amianto em edifícios públicos) e a Lei n.º 63/2018 (amianto em empresas). Exige que a relação de edifícios públicos com amianto seja atualizada até 31 de março de cada ano e publicada, e que o plano calendarizado de monitorização e ações corretivas seja atualizado anualmente, publicado no portal do Governo e contenha as intervenções previstas, a sua calendarização e os montantes e origem do financiamento. Prevê um relatório anual à Assembleia da República sobre remoções e destino dos resíduos. Obriga o Governo a elaborar planos para identificar edifícios devolutos em mau estado com amianto, públicos e privados, notificando os proprietários privados para executarem, no prazo máximo de três anos, as medidas de correção de curto prazo.",
+ "key_points": [
+  "Atualização anual, até 31 de março, da relação de edifícios públicos com amianto.",
+  "Plano calendarizado público, com intervenções, calendário e financiamento.",
+  "Relatório anual à Assembleia da República sobre a remoção e o destino final dos resíduos.",
+  "Plano de identificação de edifícios devolutos em mau estado com amianto, apresentado no prazo de um ano.",
+  "Proprietários privados notificados para executar medidas de correção de curto prazo no prazo máximo de três anos."
+ ],
+ "plain_language": "O PCP propõe que o Estado atualize todos os anos a lista de edifícios com amianto, publique um plano com datas e financiamento para o remover e informe o Parlamento. Propõe também que se identifiquem os edifícios abandonados e degradados com amianto e que os proprietários privados sejam obrigados a corrigir os problemas urgentes em três anos.",
+ "context": "O PCP recorda que o amianto foi muito usado na construção entre as décadas de 40 e 90 do século XX e que desde os anos 60 se reconhece a sua relação com doenças respiratórias, primeiro nos trabalhadores e depois na população em geral. Defende a necessidade de planos, informação pública e resultados na remoção do amianto em edifícios públicos e outros.",
+ "analysis": "A proposta reforça a transparência e a responsabilização, ao exigir planos com calendário e financiamento, relatórios anuais e a atenção aos edifícios devolutos, uma lacuna comum. Cria, porém, novas obrigações administrativas e impõe aos proprietários privados medidas num prazo de três anos sem prever apoios, o que pode levantar questões de custo e de execução. Não define quais os critérios de mau estado de conservação nem fixa prazos para a remoção em si.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os planos, relatórios e a identificação de edifícios implicam custos administrativos, e as ações corretivas podem exigir financiamento público. O texto não apresenta valores."
+ },
+ "affected": [
+  "utilizadores de edifícios públicos",
+  "proprietários de edifícios devolutos",
+  "Governo e Administração Pública",
+  "trabalhadores de remoção de amianto"
+ ],
+ "categories": [
+  "ambiente",
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "amianto",
+  "edifícios devolutos",
+  "plano calendarizado",
+  "lei 2/2011",
+  "lei 63/2018"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

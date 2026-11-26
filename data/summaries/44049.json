@@ -1,0 +1,43 @@
+{
+ "short_title": "Majorar o subsídio de doença de doentes graves e oncológicos",
+ "summary": "Projeto de lei do BE que altera o artigo 17.º do Decreto-Lei n.º 28/2004 (sexta alteração) para majorar o subsídio de doença de doentes graves, crónicos ou oncológicos. Para beneficiários que, mediante relatório médico, sejam considerados doentes graves, crónicos ou oncológicos, ou com incapacidade igual ou superior a 60%, as percentagens do subsídio fixadas no artigo 16.º são acrescidas de 10%. Garante um valor mínimo igual à Retribuição Mínima Mensal Garantida, estabelece que, para remunerações de referência acima de 500 euros, o subsídio não pode ser inferior ao resultante da majoração aplicada a 500 euros, prevê atualização anual pelo Indexante dos Apoios Sociais e aplica o regime proporcionalmente a trabalhadores a tempo parcial. Entra em vigor com a aprovação do Orçamento do Estado.",
+ "key_points": [
+  "Acréscimo de 10 pontos percentuais às percentagens do subsídio de doença para doentes graves, crónicos ou oncológicos, ou com incapacidade igual ou superior a 60%.",
+  "Valor mínimo do subsídio igual à Retribuição Mínima Mensal Garantida.",
+  "Salvaguarda para remunerações de referência superiores a 500 euros.",
+  "Atualização anual pelo Indexante dos Apoios Sociais.",
+  "Aplicação proporcional a trabalhadores a tempo parcial."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe que quem está de baixa por doença grave, crónica ou oncológica, ou tem pelo menos 60% de incapacidade, receba mais 10% no subsídio de doença e nunca menos do que o salário mínimo. O objetivo é compensar as grandes despesas e a perda de rendimento nestas situações.",
+ "context": "O BE argumenta que estes doentes têm elevados gastos em medicamentos e tratamentos e que um doente oncológico e o seu agregado perdem em média cerca de 6.500 euros por ano de rendimentos após o diagnóstico, segundo estudos que cita. Refere que o subsídio atual é de 55% a 75% da remuneração de referência, conforme a duração da baixa.",
+ "analysis": "A medida dirige-se a um grupo muito vulnerável e fixa critérios objetivos (relatório médico ou incapacidade de 60%). Em contrapartida, tem impacto na sustentabilidade da segurança social, que o texto não quantifica, e o piso igual à RMMG pode exceder o rendimento anterior de alguns beneficiários, criando incentivos desiguais. Também não define como se articula a majoração com a legislação existente em casos particulares, e a entrada em vigor depende do Orçamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A majoração de 10 pontos percentuais e o valor mínimo igual à RMMG aumentam a despesa da Segurança Social com o subsídio de doença. O texto não apresenta valores."
+ },
+ "affected": [
+  "doentes graves, crónicos ou oncológicos",
+  "beneficiários com incapacidade igual ou superior a 60%",
+  "trabalhadores a tempo parcial",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "doença crónica",
+  "segurança social",
+  "rmmg"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

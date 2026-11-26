@@ -1,0 +1,43 @@
+{
+ "short_title": "Condições para suspensão provisória em violência doméstica",
+ "summary": "O projeto de lei do PCP altera o Código de Processo Penal, a Lei n.º 112/2009 e o Estatuto da Vítima para restringir a suspensão provisória do processo nos crimes de violência doméstica. Esta só seria admissível se se verificarem cumulativamente: ausência de antecedentes do arguido por factos da mesma natureza, ausência de indicadores de risco elevado ou extremo em avaliação especializada, vontade livre, esclarecida e expressa da vítima, com acompanhamento técnico e advogado, e aceitação pelo arguido de um plano individualizado de intervenção. O despacho deve fundamentar expressamente estes requisitos e prever acompanhamento do cumprimento das injunções. Em caso de incumprimento grave ou reiterado, o Ministério Público promove o prosseguimento do processo. Prevê ainda nomeação imediata de advogado à vítima em certos casos, proteção contra a revitimização em diligências conjuntas e declarações para memória futura. Entra em vigor 30 dias após a publicação, com aplicação aos processos pendentes.",
+ "key_points": [
+  "Suspensão provisória do processo só com ausência de antecedentes, ausência de risco elevado ou extremo, vontade livre da vítima e plano de intervenção aceite pelo arguido.",
+  "O despacho deve fundamentar a inexistência de risco e prever o acompanhamento das injunções.",
+  "Incumprimento grave ou reiterado leva ao prosseguimento do processo e permite agravar medidas de coação.",
+  "Nomeação imediata de advogado à vítima quando se possa constituir assistente ou haja risco elevado ou extremo.",
+  "Medidas contra a revitimização e declarações para memória futura valoráveis mesmo que a vítima se recuse a depor."
+ ],
+ "plain_language": "O PCP quer que a suspensão do processo contra um agressor só seja possível quando haja garantias claras de que a vítima não corre perigo, a própria vítima concorda depois de bem informada, e o agressor aceite acompanhamento. Se não cumprir, o processo segue.",
+ "context": "O PCP defende reforçar os critérios da suspensão provisória do processo, para que só seja admitida quando estejam asseguradas, de forma inequívoca, a inexistência de perigo de escalada ou de repetição das agressões, a proteção da vítima e o acompanhamento do arguido. Associa a medida à necessidade de reforço de meios no combate à violência doméstica e a direitos económicos e sociais das mulheres.",
+ "analysis": "A densificação de critérios pode reduzir o risco de suspensões prematuras e dar centralidade à vontade informada da vítima, o que é positivo. Fragilidades: os requisitos cumulativos podem tornar a suspensão praticamente inaplicável, limitando a flexibilidade do Ministério Público, e a avaliação de risco especializada exige meios nem sempre disponíveis. A aplicação aos processos pendentes e a nomeação obrigatória de advogado implicam encargos e podem sobrecarregar o sistema. O texto não estima os custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A nomeação obrigatória de advogado, as avaliações de risco e o acompanhamento de injunções aumentam a despesa do sistema de justiça. O texto não apresenta valores."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "arguidos em processos de violência doméstica",
+  "Ministério Público e tribunais",
+  "advogados e técnicos de apoio à vítima"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "suspensão provisória do processo",
+  "avaliação de risco",
+  "estatuto da vítima",
+  "memória futura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

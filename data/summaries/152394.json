@@ -1,0 +1,42 @@
+{
+ "short_title": "Gratuitidade de medicamentos e comparticipação de dispositivos e nutrição",
+ "summary": "O PCP propõe alterar o Decreto-Lei n.º 97/2015 para assegurar medicamentos gratuitos a doentes crónicos, utentes com mais de 65 anos e utentes com insuficiência económica: comparticipação de 100% para medicamentos com preço igual ou inferior ao quinto mais baixo do grupo homogéneo. Insuficiência económica significa rendimento anual por pessoa do agregado até 14 vezes a retribuição mínima mensal garantida (ou do indexante dos apoios sociais, se superior). Para rendimentos até 21 vezes, a comparticipação é de 95%. Alarga para 100% a comparticipação do sistema híbrido ou de administração automática de insulina com monitorização contínua de glicose, para utentes elegíveis. O Governo aprova um regime especial para suplementos de nutrição entérica e parentérica no ambulatório e domicílio. Efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Comparticipação de 100% para medicamentos de doentes crónicos, maiores de 65 anos e utentes com insuficiência económica, até ao quinto preço mais baixo do grupo homogéneo.",
+  "Comparticipação de 95% para rendimentos até 21 vezes a RMMG ou o IAS.",
+  "Comparticipação de 100% de sistemas híbridos de administração automática de insulina, para utentes elegíveis na plataforma da DGS.",
+  "Regime especial para suplementos de nutrição entérica e parentérica, dispensados em farmácia hospitalar.",
+  "Efeitos com o Orçamento do Estado, com o Governo a procurar produzi-los em 2023."
+ ],
+ "plain_language": "Doentes crónicos, pessoas com mais de 65 anos e pessoas com rendimentos baixos deixariam de pagar medicamentos, desde que escolham os mais baratos do seu grupo. Pessoas com rendimentos um pouco mais altos teriam 95% pago. Também seria pago o equipamento mais avançado para controlar a diabetes e a alimentação especial por sonda ou via venosa.",
+ "context": "O PCP aponta o aumento especulativo dos preços de bens essenciais e a perda de poder de compra. Considera fundamental assegurar o direito à saúde e o acesso a medicamentos, dispositivos e suplementos, referindo os doentes crónicos, os maiores de 65 anos e quem enfrenta o dilema entre seguir o tratamento e pagar outras despesas.",
+ "analysis": "A proposta tem alcance social amplo e incentiva a escolha de medicamentos mais baratos. Fragilidades: a gratuitidade para todos os maiores de 65 e doentes crónicos sem critério de rendimento tem custo elevado, não estimado no texto; a definição de doente crónico para este efeito fica por esclarecer; e a limitação ao quinto preço mais baixo pode reduzir a escolha. O efeito em 2023 depende da disponibilidade orçamental, o que enfraquece o calendário.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A gratuitidade e o alargamento de comparticipações aumentam a despesa pública em saúde; o texto não apresenta montantes e admite recurso a financiamento comunitário."
+ },
+ "affected": [
+  "doentes crónicos",
+  "pessoas com mais de 65 anos",
+  "utentes de baixos rendimentos",
+  "pessoas com diabetes",
+  "doentes com nutrição entérica ou parentérica"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "comparticipação de medicamentos",
+  "doentes crónicos",
+  "diabetes",
+  "nutrição entérica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Kits de emergência familiares e animais de companhia",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo seis medidas: reforçar as políticas de sensibilização para a preparação material das famílias, promovendo kits de emergência domésticos; definir e divulgar orientações simples sobre a composição dos kits, adaptadas a diferentes cenários; avaliar e implementar, com as autarquias, a proteção civil e o setor social, mecanismos de apoio à disponibilização de kits às famílias mais vulneráveis; desenvolver campanhas para incluir os animais de companhia nos planos familiares, com kits próprios; promover informação sobre o desacorrentamento de animais em risco iminente; e articular tudo com a ANEPC, autarquias e entidades de bem-estar animal.",
+ "key_points": [
+  "Reforçar a sensibilização para a constituição de kits de emergência domésticos.",
+  "Divulgar orientações claras sobre a composição dos kits, adaptadas aos cenários de risco.",
+  "Apoiar a disponibilização de kits às famílias socioeconomicamente mais vulneráveis.",
+  "Incluir os animais de companhia nos planos familiares de emergência, com kits próprios.",
+  "Informar sobre o desacorrentamento de animais em situações de risco iminente."
+ ],
+ "plain_language": "O PAN quer que as famílias, incluindo as que têm animais, saibam como preparar um kit de emergência e que as mais carenciadas recebam ajuda para o ter. Defende também que os animais não fiquem presos em cheias ou incêndios. É uma recomendação.",
+ "context": "O PAN refere os danos das depressões Ingrid e Kristin e a morte de um número não calculado de animais. Considera necessária uma abordagem integrada de preparação das famílias, que combine kits de emergência, apoio às famílias vulneráveis e a inclusão dos animais de companhia, reforçando a cultura de prevenção.",
+ "analysis": "A iniciativa é abrangente e de baixo risco, ao integrar os animais de companhia na preparação familiar. Fragilidades: os mecanismos de apoio à distribuição de kits só são para avaliar, sem critérios de vulnerabilidade, calendário ou custo; a medida sobre desacorrentamento é só de sensibilização, sem regras; e há sobreposição com outras iniciativas sobre kits e guias de emergência. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas de sensibilização e apoio à disponibilização de kits a famílias vulneráveis implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "famílias residentes em Portugal",
+  "famílias em situação de vulnerabilidade",
+  "detentores de animais de companhia",
+  "autarquias e proteção civil"
+ ],
+ "categories": [
+  "seguranca",
+  "animais"
+ ],
+ "tags": [
+  "kits de emergência",
+  "animais de companhia",
+  "proteção civil",
+  "preparação das famílias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

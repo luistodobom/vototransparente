@@ -1,0 +1,40 @@
+{
+ "short_title": "Financiamento do município do Corvo pelo Fundo das Freguesias",
+ "summary": "A Assembleia Legislativa dos Açores propõe aditar o artigo 48.º-A ao regime financeiro das autarquias locais (Lei n.º 73/2013), para que o município da ilha do Corvo, que exerce as competências genéricas das freguesias no seu território, tenha direito a uma dotação anual do Fundo de Financiamento das Freguesias, sem prejuízo dos direitos que tem como município. A dotação é apurada nos mesmos termos e critérios que seriam aplicáveis à freguesia correspondente, é inscrita como receita própria do município e afeta às funções que caberiam à freguesia. A Direção-Geral das Autarquias Locais efetua os cálculos e as transferências, nos mesmos prazos e condições das freguesias do restante território. A lei entra em vigor no dia seguinte ao da publicação e produz efeitos com o Orçamento do Estado para 2026.",
+ "key_points": [
+  "Adita o artigo 48.º-A à Lei n.º 73/2013 (regime financeiro das autarquias locais).",
+  "O município do Corvo passa a ter direito a uma dotação anual do Fundo de Financiamento das Freguesias.",
+  "A dotação é calculada como se fosse a freguesia correspondente e é receita própria do município.",
+  "A Direção-Geral das Autarquias Locais faz os cálculos e as transferências.",
+  "Produz efeitos com o Orçamento do Estado para 2026."
+ ],
+ "plain_language": "O Corvo é o único município do país que também faz o trabalho de uma freguesia, mas não recebe o dinheiro que as freguesias recebem do Estado. Esta proposta corrige isso: passaria a receber esse fundo como se fosse uma freguesia, a partir do Orçamento do Estado de 2026.",
+ "context": "A Assembleia dos Açores afirma que o município do Corvo exerce as competências de freguesia, mas não recebe transferências do Fundo de Financiamento das Freguesias, situação que considera desigual e contrária ao princípio de que as competências devem ser acompanhadas de recursos. Refere que um decreto legislativo regional de 2024 já o considera beneficiário do fundo regional de desenvolvimento das freguesias.",
+ "analysis": "A proposta corrige uma assimetria bem identificada, com solução simples e dotação calculada pelos critérios existentes, e tem pouco impacto para o Estado dada a dimensão do Corvo. O texto não estima o valor da dotação nem justifica se os critérios de cálculo se adequam a uma ilha de reduzida dimensão. Não discute a eventual acumulação de verbas ou precedentes para outros casos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a transferir uma dotação anual do Fundo de Financiamento das Freguesias para o Corvo; o texto não indica o valor."
+ },
+ "affected": [
+  "município do Corvo",
+  "população da ilha do Corvo",
+  "Direção-Geral das Autarquias Locais"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "Corvo",
+  "Açores",
+  "finanças locais",
+  "Fundo de Financiamento das Freguesias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

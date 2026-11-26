@@ -1,0 +1,38 @@
+{
+ "short_title": "Acesso às cadernetas prediais do património do Estado",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 93.º do Código do Imposto Municipal sobre Imóveis para permitir que os interessados solicitem, em qualquer serviço periférico local, o acesso às cadernetas prediais dos imóveis da Administração Pública. Atualmente, o acesso à caderneta predial está restrito a proprietários, notários, conservadores, oficiais dos registos, advogados e entidades com competência para autenticar atos sujeitos a registo. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Qualquer interessado pode pedir em qualquer serviço periférico local as cadernetas prediais de imóveis da Administração Pública.",
+  "Altera o artigo 93.º do Código do IMI.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje só os donos e alguns profissionais podem consultar a caderneta predial de um imóvel. A Iniciativa Liberal propõe que qualquer pessoa interessada possa pedir, nas Finanças, a caderneta dos imóveis do Estado, para saber mais sobre o património público.",
+ "context": "A Iniciativa Liberal argumenta que a restrição é injustificada, pois qualquer interessado já pode pedir a certidão permanente de registo predial, que tem mais informação, e que parte do património do Estado não está inscrita na Conservatória do Registo Predial.",
+ "analysis": "Aumenta a transparência sobre o património público, de baixo custo. Fragilidades: a caderneta contém dados de avaliação fiscal e de identificação que podem levantar questões de proteção de dados, e o texto não esclarece se imóveis em nome de entidades públicas incluem dados de terceiros. Não define o conceito de imóveis da Administração Pública nem possíveis exceções, por exemplo de segurança.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Alarga o acesso a informação já existente, sem previsão de custos ou receitas no texto."
+ },
+ "affected": [
+  "Cidadãos interessados em informação sobre o património do Estado",
+  "Serviços de finanças",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "administracao",
+  "fiscalidade"
+ ],
+ "tags": [
+  "caderneta predial",
+  "património do estado",
+  "transparência",
+  "imi"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

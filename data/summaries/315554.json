@@ -1,0 +1,41 @@
+{
+ "short_title": "Projeto-piloto de Unidades de Cuidados na Maternidade",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo o desenvolvimento, em cooperação com uma maternidade do SNS, de um projeto-piloto para criar uma Unidade de Cuidados na Maternidade, hospitalar ou extra-hospitalar. A unidade prestaria cuidados a mulheres saudáveis, com gravidez, parto e pós-parto sem complicações, por profissionais especializados na fisiologia normal, nomeadamente Enfermeiros Especialistas em Saúde Materna e Obstétrica, segundo o modelo de cuidados orientados por estes enfermeiros, em articulação com obstetras, pediatras e outros profissionais. Recomenda também formação especializada dos profissionais envolvidos. A unidade não substituiria as Unidades Obstétricas. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Desenvolver um projeto-piloto de Unidade de Cuidados na Maternidade em cooperação com uma maternidade do SNS.",
+  "Cuidados a mulheres saudáveis com gravidez, parto e pós-parto sem complicações, prestados por enfermeiros especialistas em saúde materna e obstétrica.",
+  "Articulação estreita com obstetras, pediatras e outros profissionais de saúde.",
+  "Promover formação especializada dos profissionais da unidade, segundo as diretrizes europeias.",
+  "A unidade não substitui as unidades obstétricas nem altera o livre acesso aos cuidados."
+ ],
+ "plain_language": "O PAN pede ao Governo que teste, numa maternidade do SNS, uma unidade em que grávidas saudáveis são acompanhadas sobretudo por enfermeiros especialistas em saúde materna, com menos intervenções médicas quando não são necessárias. Os médicos continuam disponíveis se houver complicações. É uma recomendação ao Governo.",
+ "context": "O proponente refere que o SNS segue sobretudo um modelo biomédico, enquanto noutros países (Reino Unido, Países Baixos, Espanha) se usa o modelo liderado por enfermeiros obstetras, associado, segundo estudos citados, a menos intervenções, menos cesarianas, maior satisfação e menores custos. Lembra que propostas semelhantes foram apresentadas nos Orçamentos do Estado para 2022 e 2023.",
+ "analysis": "A proposta limita-se a um piloto, o que permite testar o modelo antes de o generalizar, e assenta em literatura internacional. Fragilidades: as conclusões citadas vêm de contextos de saúde diferentes e não há avaliação específica para Portugal; o texto não define critérios de seleção das utentes, protocolos de transferência em caso de complicação, localização, duração, orçamento ou indicadores de avaliação. Também não aborda a disponibilidade de enfermeiros especialistas no SNS.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O piloto e a formação especializada implicam despesa pública, que o texto não quantifica; menciona apenas que estudos apontam para menores custos em unidades deste tipo."
+ },
+ "affected": [
+  "grávidas e puérperas de baixo risco",
+  "enfermeiros especialistas em saúde materna e obstétrica",
+  "maternidades do SNS"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "maternidade",
+  "enfermeiros obstetras",
+  "parto",
+  "projeto-piloto",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

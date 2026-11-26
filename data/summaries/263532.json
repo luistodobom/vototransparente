@@ -1,0 +1,39 @@
+{
+ "short_title": "Isentar as PME do inventário permanente de stocks",
+ "summary": "A Iniciativa Liberal propõe isentar as pequenas e médias empresas da obrigação de inventariação permanente de stocks, alterando o artigo 12.º do Decreto-Lei n.º 158/2009 (Sistema de Normalização Contabilística). O novo n.º 2 estabelece que a obrigação não se aplica às entidades previstas nos n.ºs 1, 2 e 3 do artigo 9.º. Atualmente a obrigação não abrange as microempresas e passaria a não abranger também as PME. A lei entra em vigor no dia subsequente ao da publicação.",
+ "key_points": [
+  "Isenta as PME da obrigação de inventário permanente de stocks.",
+  "Altera o artigo 12.º do Decreto-Lei n.º 158/2009, que aprova o Sistema de Normalização Contabilística.",
+  "Aplica-se às entidades previstas nos n.ºs 1, 2 e 3 do artigo 9.º.",
+  "Entra em vigor no dia subsequente ao da publicação."
+ ],
+ "plain_language": "Hoje as pequenas e médias empresas têm de registar permanentemente as entradas e saídas de stock. A proposta dispensa-as dessa obrigação, para reduzir trabalho e custos, deixando-lhes a contagem periódica.",
+ "context": "A IL explica que, até 2016, só as grandes empresas estavam obrigadas ao inventário permanente, que implica registar todas as movimentações de stock. Considera que, nas PME, o benefício é muito inferior aos custos de registo e que os desvios de stock são relativamente fáceis de detetar.",
+ "analysis": "A medida reduz custos administrativos às PME e é tecnicamente simples. Em contrapartida, o inventário permanente é um instrumento de controlo e de gestão, e a sua dispensa pode reduzir a capacidade de deteção de desvios e de fiscalização fiscal, ponto que o texto desvaloriza com a ideia de que os desvios nas PME são fáceis de detetar sem apresentar dados. O texto não estima a poupança para as empresas nem o impacto na fiscalização.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida altera obrigações contabilísticas; o texto não indica efeito direto na receita ou na despesa públicas, embora possa afetar a capacidade de fiscalização."
+ },
+ "affected": [
+  "pequenas e médias empresas",
+  "contabilistas",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "inventário permanente",
+  "PME",
+  "stocks",
+  "normalização contabilística"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

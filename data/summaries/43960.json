@@ -1,0 +1,42 @@
+{
+ "short_title": "Contratar auxiliares e assistentes administrativos para as escolas públicas",
+ "summary": "O projeto de resolução do PCP recomenda ao Governo que contrate, até ao fim de 2019, todos os auxiliares de ação educativa e assistentes administrativos necessários ao regular funcionamento dos estabelecimentos públicos de educação, e que, até ao final do ano letivo 2019/2020, integre os que faltam na carreira com vínculo público efetivo, pondo fim aos vínculos precários. Define critérios, como número suficiente durante todo o horário, pessoal com formação para alunos com necessidades educativas especiais, adequação à tipologia dos edifícios e funcionamento de pavilhões, bibliotecas e reprografias, e um mecanismo para cada escola ajustar o pessoal às suas especificidades. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Contratar até ao fim de 2019 todos os auxiliares de ação educativa e assistentes administrativos necessários.",
+  "Integrar, até ao final do ano letivo 2019/2020, os profissionais em falta na carreira com vínculo público efetivo.",
+  "Garantir pessoal suficiente durante todo o horário de funcionamento das escolas.",
+  "Garantir auxiliares com formação para alunos com necessidades educativas especiais.",
+  "Criar um mecanismo para cada escola adequar o pessoal não docente às suas especificidades."
+ ],
+ "plain_language": "O PCP pede ao Governo que contrate rapidamente os trabalhadores que faltam nas escolas, como auxiliares e administrativos, com contratos efetivos, e que defina critérios para saber quantos cada escola precisa. É apenas uma recomendação.",
+ "context": "O proponente defende o reforço do pessoal não docente na escola pública, critica a redução de milhares de trabalhadores sob o anterior Governo PSD/CDS e o rácio de assistentes operacionais definido em portaria, e refere encerramentos de escolas no ano letivo anterior por falta destes trabalhadores.",
+ "analysis": "A proposta identifica critérios objetivos e rejeita o recurso a vínculos precários, o que pode estabilizar o pessoal. Fragilidades: o prazo até ao fim de 2019 era muito curto face à data de apresentação (outubro de 2019) e a exequibilidade administrativa é duvidosa; o texto não quantifica quantos profissionais faltam nem o custo. O mecanismo para ultrapassar a dotação máxima de referência pode entrar em conflito com regras orçamentais. Como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação e a integração em carreira de pessoal não docente aumentam a despesa com pessoal; o texto não indica montantes."
+ },
+ "affected": [
+  "auxiliares de ação educativa",
+  "assistentes administrativos das escolas",
+  "alunos e famílias",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "pessoal não docente",
+  "escola pública",
+  "auxiliares de ação educativa",
+  "vínculo precário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

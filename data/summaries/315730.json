@@ -1,0 +1,43 @@
+{
+ "short_title": "Apreciação parlamentar do regime da mobilidade elétrica",
+ "summary": "Pedido do PS de apreciação parlamentar do Decreto-Lei n.º 93/2025, de 14 de agosto, que estabelece o novo regime jurídico da mobilidade elétrica. O PS critica três alterações substanciais do decreto-lei: a obrigatoriedade do carregamento ad hoc nos pontos de carregamento, sem necessidade de contrato; a eliminação da figura do comercializador de eletricidade para a mobilidade elétrica; e a eliminação da gestão centralizada da rede, até agora operada pela MOBI.E. Defende que a interoperabilidade obrigatória entre operadores e comercializadores deve manter-se e que o novo regime pode fragmentar o mercado, aumentar custos e reduzir a concorrência. Requer a apreciação nos termos da Constituição e do Regimento.",
+ "key_points": [
+  "Requer a apreciação parlamentar do Decreto-Lei n.º 93/2025, de 14 de agosto.",
+  "Contesta o carregamento ad hoc obrigatório, a eliminação do comercializador (CEME) e o fim da gestão centralizada pela MOBI.E.",
+  "Defende a interoperabilidade obrigatória entre operadores de pontos de carregamento e comercializadores.",
+  "Alega que o regime exige demasiada regulamentação ainda inexistente e que o resultado da consulta pública não foi divulgado.",
+  "Sustenta que o novo regime pode aumentar custos e reduzir a concorrência."
+ ],
+ "plain_language": "O Governo mudou as regras do carregamento de carros elétricos. O PS quer que o Parlamento reveja essa decisão porque receia que as mudanças tornem o carregamento mais fragmentado e caro, sem o contrato único que hoje dá acesso a toda a rede.",
+ "context": "O PS recorda que a mobilidade elétrica em Portugal assenta, desde 2010, num modelo com gestão centralizada e interoperabilidade. Afirma que o Governo defende o novo modelo como mais flexível, transparente e competitivo, mas considera que isso não corresponde à verdade e que a consulta pública foi desconsiderada.",
+ "analysis": "O texto identifica riscos concretos de fragmentação e de perda de interoperabilidade, mas as consequências apontadas (aumento de custos e menor concorrência) são apresentadas como prováveis, sem dados ou estudos. A apreciação parlamentar apenas abre a possibilidade de alterar ou revogar o decreto-lei; o texto não propõe soluções alternativas concretas e admite que o regime anterior carecia de atualização e simplificação. A tese de conflito com o Regulamento AFIR é afirmada sem demonstração.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O pedido não contém medidas de despesa ou receita, apenas receios de aumento de custos para os utilizadores, que não são quantificados."
+ },
+ "affected": [
+  "utilizadores de veículos elétricos",
+  "operadores de pontos de carregamento",
+  "comercializadores de eletricidade para a mobilidade elétrica",
+  "MOBI.E"
+ ],
+ "categories": [
+  "transportes",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "mobilidade elétrica",
+  "carregamento",
+  "MOBI.E",
+  "interoperabilidade",
+  "apreciação parlamentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

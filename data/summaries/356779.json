@@ -1,0 +1,43 @@
+{
+ "short_title": "Património público para habitação: identificação e mobilização",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo que reforce e operacionalize um programa nacional integrado de identificação, caracterização, transparência e mobilização do património imobiliário público devoluto, abandonado ou subutilizado, para fins habitacionais. Propõe concluir e harmonizar o levantamento em toda a administração, empresas públicas, fundos, Forças Armadas, Segurança Social e outros; criar uma plataforma digital georreferenciada; avaliar a aptidão habitacional de um imóvel antes de o alienar ou lhe dar outro destino; priorizar habitação a custos controlados, arrendamento acessível e alojamento para jovens, famílias e profissionais essenciais; articular com as autarquias; e apresentar anualmente um relatório à Assembleia da República.",
+ "key_points": [
+  "Concluir e harmonizar o levantamento do património imobiliário público devoluto ou subutilizado.",
+  "Criar uma plataforma digital pública e georreferenciada com a informação dos imóveis.",
+  "Avaliar a aptidão habitacional dos imóveis antes de os alienar ou lhes dar outro destino.",
+  "Priorizar habitação a custos controlados, arrendamento acessível e alojamento para jovens, famílias e profissionais essenciais.",
+  "Articular com autarquias e apresentar relatório anual à Assembleia da República."
+ ],
+ "plain_language": "O JPP pede ao Governo que faça uma lista completa e pública dos edifícios e terrenos do Estado que estão vazios ou mal aproveitados e que, antes de os vender ou dar outro uso, veja se podem servir para habitação. Esses imóveis seriam usados para casas a preços controlados ou rendas acessíveis, incluindo para jovens e profissionais como médicos, professores e polícias. O Governo teria de prestar contas todos os anos ao Parlamento. É apenas uma recomendação.",
+ "context": "O proponente afirma que o acesso à habitação é um dos principais desafios do país, com pressão sobre preços e arrendamento, escassez de oferta e insuficiência do parque público. Defende que o Estado deve ser exemplar na gestão do património que detém, sem que isto seja uma solução única para o problema.",
+ "analysis": "A proposta é coerente e promove transparência e prestação de contas, mas é amplamente genérica: pede que se reforce ou conclua inventários que já existem sem diagnosticar porque não avançaram, não fixa prazos nem metas de fogos, e não estima o investimento de reabilitação. Imóveis militares, hospitalares ou ferroviários podem ter constrangimentos de uso. A dependência da viabilidade de cada imóvel pode limitar o impacto real. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reabilitação e disponibilização de imóveis públicos para habitação implica investimento público, embora possa evitar a venda de ativos; o texto não apresenta montantes."
+ },
+ "affected": [
+  "jovens e famílias à procura de casa",
+  "profissionais deslocados (saúde, ensino, segurança)",
+  "autarquias",
+  "entidades públicas proprietárias de imóveis"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao",
+  "territorio"
+ ],
+ "tags": [
+  "património público",
+  "habitação acessível",
+  "arrendamento acessível",
+  "reabilitação",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

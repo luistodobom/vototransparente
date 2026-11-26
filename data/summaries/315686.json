@@ -1,0 +1,42 @@
+{
+ "short_title": "Avaliação e defesa da TAP; travar a privatização",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que entregue imediatamente à Assembleia da República os relatórios de avaliação da TAP realizados em 2023 e 2024, realize e entregue um relatório de avaliação do conjunto dos impactos económicos da TAP na economia portuguesa e no Orçamento do Estado, e detenha o processo de privatização da TAP. A exposição de motivos afirma que as avaliações foram negadas ao Parlamento, defende que o valor da TAP para o país excede os seus lucros e cita números como 3,2 mil milhões de euros injetados pelo Estado, mais de 270 milhões de euros de lucros em três anos e cerca de 4% do PIB. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Entrega imediata à Assembleia da República dos relatórios de avaliação da TAP de 2023 e 2024.",
+  "Relatório sobre o impacto económico da TAP na economia e no Orçamento do Estado.",
+  "Suspensão do processo de privatização da TAP.",
+  "Argumenta que o valor da TAP deve incluir contribuições para a Segurança Social, IRS e salários."
+ ],
+ "plain_language": "O PCP pede ao Governo que mostre ao Parlamento as avaliações feitas à TAP, que calcule quanto a empresa contribui para a economia e para o Estado e que pare a privatização. É apenas uma recomendação, e o Governo decide se a segue.",
+ "context": "O PCP afirma que o Governo esconde as avaliações encomendadas à TAP e que a privatização pode chegar a 100% do capital. Defende que a TAP deve ser avaliada pelo que cria para o país e não apenas pelos lucros, e que privatizações anteriores terminaram com a necessidade de resgate. Aponta ainda risco de acesso de concorrentes a informação comercial da empresa.",
+ "analysis": "O pedido de transparência sobre as avaliações é uma exigência objetiva e verificável, e um estudo sobre o impacto económico poderia informar a decisão. Fragilidades: a proposta de travar a privatização assenta em juízos políticos e em dados apresentados sem fonte no texto, como as contribuições comparadas com a Ryanair e a ponderação das responsabilidades de decisões passadas; o texto não discute alternativas ao capital público nem o custo de manter a empresa na esfera pública. Linguagem valorativa sobre outros partidos faz parte da exposição.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Travar a privatização evita receita da venda mas mantém a exposição do Estado à empresa. O texto não apresenta estimativas orçamentais."
+ },
+ "affected": [
+  "trabalhadores da TAP",
+  "Estado enquanto acionista",
+  "Assembleia da República",
+  "passageiros e economia do turismo"
+ ],
+ "categories": [
+  "economia",
+  "transportes",
+  "administracao"
+ ],
+ "tags": [
+  "tap",
+  "privatização",
+  "avaliação",
+  "transporte aéreo",
+  "setor empresarial do estado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Autorização para alterar o Código dos Impostos Especiais de Consumo",
+ "summary": "Proposta de Lei do Governo que o autoriza, por 180 dias, a alterar o Código dos Impostos Especiais de Consumo. Visa concluir a transposição das Diretivas (UE) 2020/262 e 2020/1151 (regime geral dos IEC e estrutura dos impostos sobre o álcool), alterando vários artigos, incluindo o conceito de «vinho tranquilo». Simplifica o regime dos abastecimentos de embarcações e aeronaves que saem do território nacional. Exclui da isenção de imposto sobre os produtos petrolíferos os biocombustíveis avançados produzidos a partir de efluentes de óleo de palma e cachos de frutos de palma vazios. O texto inclui o projeto de decreto-lei autorizado.",
+ "key_points": [
+  "Autorização legislativa ao Governo com duração de 180 dias.",
+  "Conclui a transposição das Diretivas (UE) 2020/262 e 2020/1151 no Código dos IEC.",
+  "Altera o conceito de «vinho tranquilo» para o alinhar com a Diretiva 92/83/CEE.",
+  "Simplifica o regime de abastecimento de embarcações e aeronaves que saem do território nacional.",
+  "Retira a isenção do ISP aos biocombustíveis avançados feitos de efluentes e resíduos de palma."
+ ],
+ "plain_language": "O Governo pede ao Parlamento licença para mudar, por decreto-lei, as regras dos impostos sobre álcool, tabaco e combustíveis, para cumprir regras europeias ainda por aplicar. Também quer acabar com a isenção de imposto para combustíveis verdes feitos com resíduos de óleo de palma importados e facilitar o abastecimento de barcos e aviões que saem do país.",
+ "context": "O Governo explica que algumas disposições das diretivas europeias continuam por transpor. Quanto aos biocombustíveis avançados, afirma que as metas de incorporação têm sido superadas e que as matérias-primas de palma vêm de países terceiros, com emissões e desflorestação associadas. A simplificação integra a Agenda para a Simplificação Fiscal.",
+ "analysis": "A proposta cumpre obrigações europeias e fundamenta com argumentos ambientais e de coerência a retirada de um benefício fiscal, além de simplificar procedimentos. A autorização legislativa deixa ao Governo o desenho final das normas, com menor escrutínio parlamentar, embora inclua o projeto de decreto. A medida sobre biocombustíveis pode afetar produtores e importadores sem estimativa do impacto, e o efeito da simplificação nos controlos de abastecimento não é avaliado.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Retirar a isenção a certos biocombustíveis avançados implica tributação que antes não existia. O texto não quantifica o efeito, nem o das restantes alterações."
+ },
+ "affected": [
+  "produtores e importadores de biocombustíveis",
+  "operadores de embarcações e aeronaves",
+  "produtores e comerciantes de vinho e bebidas alcoólicas",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "internacional"
+ ],
+ "tags": [
+  "impostos especiais de consumo",
+  "biocombustíveis",
+  "autorização legislativa",
+  "diretivas europeias",
+  "vinho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

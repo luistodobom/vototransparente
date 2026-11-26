@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio extraordinário a pequenas editoras e livrarias independentes",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo duas medidas de resposta à crise pandémica no setor do livro: um programa de 1 milhão de euros de apoio às pequenas editoras, em que o Governo comparticiparia em 90% os custos de produção (tradução, revisão, paginação, design de capa, ilustração e impressão), até um máximo de três livros por editora com candidaturas entregues em 2020; e o financiamento em 90% das rendas imobiliárias das livrarias independentes até ao final de 2020, com efeitos retroativos à declaração do estado de emergência. Considera insuficiente o programa governamental de 400 mil euros para compra de livros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda um programa de 1 milhão de euros para apoiar as pequenas editoras.",
+  "O Governo comparticiparia 90% dos custos de produção, até três livros por editora com candidaturas em 2020.",
+  "Recomenda financiar 90% das rendas das livrarias independentes até ao final de 2020.",
+  "O apoio às rendas teria efeitos retroativos à declaração do estado de emergência."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que pague quase todos os custos de produção de até três livros por pequena editora e a maior parte das rendas das livrarias independentes durante 2020, para as ajudar a sobreviver à crise da pandemia. É apenas uma recomendação.",
+ "context": "O proponente receia que a crise reduza o rendimento das famílias e afete pequenas editoras e livrarias independentes, que não acedem ao mercado educativo e não competem com o grande retalho. Considera insuficiente o programa de 400 mil euros para compra de livros, por ser reduzido, não apoiar a produção nem as rendas.",
+ "analysis": "A proposta identifica fragilidades do setor e propõe apoios concretos e quantificados à produção e às rendas. Fragilidades: o montante total do apoio às rendas não é estimado, não define critérios para distinguir livrarias independentes nem para selecionar as editoras, e comparticipar 90% dos custos pode dar menos incentivo à eficiência. O limite de três livros por editora e o orçamento de 1 milhão podem não cobrir toda a procura. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto prevê um programa de 1 milhão de euros para editoras e o financiamento de 90% das rendas das livrarias independentes, cujo custo total não é estimado."
+ },
+ "affected": [
+  "pequenas editoras",
+  "livrarias independentes",
+  "autores, tradutores e ilustradores",
+  "leitores"
+ ],
+ "categories": [
+  "cultura",
+  "economia"
+ ],
+ "tags": [
+  "livro",
+  "editoras",
+  "livrarias independentes",
+  "covid-19",
+  "rendas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

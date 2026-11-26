@@ -1,0 +1,42 @@
+{
+ "short_title": "Isenção de IRS nas compensações a vítimas de abusos sexuais",
+ "summary": "O Projeto de Lei n.º 645/XVII/1.ª, do CHEGA, estabelece a não incidência de IRS sobre as compensações financeiras de natureza reparatória atribuídas a vítimas de abusos sexuais. Abrange as compensações do mecanismo da Igreja Católica, segundo o regulamento de 25 de julho de 2024 da Conferência Episcopal Portuguesa e da Conferência dos Institutos Religiosos de Portugal, e também as de outros mecanismos de reparação extrajudicial que cumpram três requisitos: reparar danos de crimes contra a liberdade e autodeterminação sexual, estar previstos em regulamento instituído em razão da especial gravidade das situações e prever a atribuição por entidade expressamente designada. Essas compensações ficam equiparadas a indemnizações fixadas por decisão judicial ou arbitral. A lei produz efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Exclui de IRS as compensações financeiras reparatórias atribuídas a vítimas de abusos sexuais.",
+  "Abrange expressamente o mecanismo de compensação da Igreja Católica, nos termos do regulamento de 25 de julho de 2024.",
+  "Alarga o regime a outros mecanismos extrajudiciais que cumpram três requisitos cumulativos.",
+  "Equipara essas compensações, para efeitos fiscais, a indemnizações fixadas por decisão judicial ou arbitral ou por acordo homologado.",
+  "Produz efeitos com a entrada em vigor do Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Algumas vítimas de abusos sexuais recebem compensações em dinheiro, por exemplo da Igreja Católica, porque o direito de pedir indemnização em tribunal já prescreveu. Hoje, esse dinheiro pode ser tratado como rendimento e pagar IRS. Este projeto determina que não paga imposto, como acontece com as indemnizações decididas por tribunal. Aplica-se às compensações da Igreja e a outros sistemas semelhantes de reparação, se cumprirem certas condições.",
+ "context": "O CHEGA sublinha a gravidade do abuso sexual e a necessidade de reparação, citando o relatório «Dar Voz ao Silêncio» e as compensações aprovadas pela Conferência Episcopal. Argumenta que, nos termos do Código do IRS, indemnizações por danos não patrimoniais são tributáveis, exceto as fixadas por tribunal, arbitragem ou acordo homologado; como a prescrição inviabilizou muitas decisões judiciais, estas vítimas arriscam um tratamento fiscal menos favorável.",
+ "analysis": "Pontos fortes: corrige uma assimetria entre compensações extrajudiciais e indemnizações judiciais, preservando o carácter reparatório, e a alínea sobre outros mecanismos evita limitar a medida à Igreja. Fragilidades: os critérios genéricos para outros mecanismos, como «especial gravidade», podem gerar incerteza de aplicação; o texto não prevê reembolso de imposto já pago nem regras de transição, ao contrário de uma iniciativa semelhante; e não quantifica a perda de receita, que parece limitada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de IRS reduz a receita fiscal sobre estas compensações; o texto não estima o montante."
+ },
+ "affected": [
+  "vítimas de abusos sexuais",
+  "Autoridade Tributária",
+  "instituições que atribuem compensações"
+ ],
+ "categories": [
+  "fiscalidade",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "IRS",
+  "abusos sexuais",
+  "compensações",
+  "Igreja Católica",
+  "isenção fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

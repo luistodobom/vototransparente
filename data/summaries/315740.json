@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da ação social no ensino superior",
+ "summary": "O Projeto de Lei do PCP propõe um conjunto de medidas de apoio aos estudantes do ensino superior no âmbito da ação social escolar. Repõe o conceito de agregado familiar como as pessoas em comunhão de mesa, habitação e rendimento, alarga a elegibilidade para bolsa a estudantes com rendimento per capita até 31,5 vezes o IAS e fixa a bolsa de referência em 16 vezes o IAS mais a propina paga. Altera a Lei n.º 8/2025 sobre o complemento de alojamento, com limite de 29,2% do IAS para quem está em residência, e cria um apoio à deslocação de 40 euros mensais, até 400 euros por ano. O Governo teria 30 dias para alterar o regulamento de bolsas.",
+ "key_points": [
+  "Define agregado familiar como as pessoas que vivem em comunhão de mesa, habitação e rendimento.",
+  "Eleva o limite de elegibilidade para bolsa para 31,5 vezes o IAS de rendimento per capita.",
+  "Fixa a bolsa de referência em 16 vezes o IAS, acrescida da propina efetivamente paga.",
+  "Altera o complemento de alojamento: valor base da residência até 29,2% do IAS, ou valor efetivamente pago, comprovado, para quem não obteve residência.",
+  "Cria apoio mensal à deslocação de 40 euros, máximo anual de 400 euros.",
+  "Governo altera o regulamento em 30 dias; efeitos financeiros com o Orçamento do Estado para 2026."
+ ],
+ "plain_language": "A proposta quer que mais estudantes tenham bolsa e que as bolsas sejam maiores. Garante que viver com avós ou tios não exclui o estudante, aumenta o apoio ao alojamento e cria um pequeno apoio mensal para quem estuda longe de casa. O Governo teria de ajustar as regras em 30 dias.",
+ "context": "O PCP refere a queda de candidatos ao ensino superior (menos 16,4% na 1.ª fase face a 2024), o aumento previsto das propinas e os custos de alojamento e deslocação. Cita um relatório da Universidade Nova de Lisboa segundo o qual as bolsas cobrem cerca de 20% das despesas, e defende a frequência efetiva para todos, independentemente da situação económica.",
+ "analysis": "A proposta ataca barreiras económicas concretas, com valores definidos, e responde a problemas identificados em estudos oficiais. Os pontos fracos: não estima o custo nem o número de novos bolseiros; fixar valores em lei dificulta ajustamentos; a referência a efeitos financeiros com o Orçamento do Estado para 2026 pode estar desatualizada face à data de apreciação; e faz depender o regime de despachos, o que obriga a rever vários diplomas. O alívio de alojamento não resolve a falta de oferta de camas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alarga a elegibilidade e aumenta valores de bolsas, complemento de alojamento e deslocação, o que aumenta a despesa pública. O texto não quantifica o custo."
+ },
+ "affected": [
+  "estudantes do ensino superior",
+  "estudantes deslocados",
+  "famílias de baixos rendimentos",
+  "serviços de ação social das instituições"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "ação social escolar",
+  "bolsas de estudo",
+  "alojamento estudantil",
+  "ensino superior",
+  "propinas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

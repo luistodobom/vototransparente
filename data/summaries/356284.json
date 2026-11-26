@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoios a estudantes bolseiros deslocados",
+ "summary": "O Projeto de Lei do JPP alarga os apoios da ação social escolar a estudantes deslocados do ensino superior. Define o agregado familiar como o estudante e quem vive em economia comum, torna elegível para bolsa o estudante com rendimento per capita até 33,5 vezes o IAS, fixa a bolsa de referência em 16 vezes o IAS mais a propina paga, e altera a Lei n.º 8/2025 (complemento de alojamento), dando aos bolseiros deslocados beneficiários direito a transporte público coletivo gratuito, ou, não sendo possível, a um apoio à deslocação de 120 euros. O Governo teria 30 dias para rever o regulamento; os efeitos financeiros dependem do Orçamento do Estado seguinte.",
+ "key_points": [
+  "Agregado familiar passa a incluir o estudante e todas as pessoas que vivam consigo em economia comum.",
+  "Elegibilidade para bolsa com rendimento per capita até 33,5 vezes o IAS.",
+  "Bolsa de referência de 16 vezes o IAS mais a propina efetivamente paga.",
+  "Bolseiros deslocados com complemento de alojamento têm transportes públicos gratuitos, ou apoio de 120 euros quando impossível.",
+  "Governo altera o regulamento em 30 dias; efeitos financeiros com o próximo Orçamento do Estado."
+ ],
+ "plain_language": "A proposta quer que mais estudantes deslocados tenham bolsa e que as bolsas sejam maiores. Quem vive com avós ou tios deixa de ser prejudicado, e os bolseiros que recebem apoio ao alojamento passam a ter transportes públicos pagos pelo Estado, ou um apoio de 120 euros quando isso não for possível.",
+ "context": "O JPP defende que o acesso ao ensino superior deve depender do mérito e não da condição económica, e aponta os custos de propinas, alojamento e transportes. Sublinha o peso adicional para estudantes das Regiões Autónomas e considera que as regras do agregado familiar e os montantes atuais são injustos e insuficientes.",
+ "analysis": "A proposta reforça valores concretos e corrige o conceito de agregado familiar, com uma abordagem coerente com a de outras iniciativas sobre o tema. Fragilidades: o limite de 33,5 vezes o IAS é mais generoso do que outras propostas sem estudo de impacto; a gratuitidade de transportes depende da existência de rede pública e o apoio de 120 euros não indica periodicidade; não há estimativa de custo nem do número de beneficiários; e a remissão para despachos exige alteração regulamentar articulada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alarga elegibilidade, aumenta o valor da bolsa e financia transportes ou um apoio de 120 euros, aumentando a despesa pública. O texto não apresenta montantes globais."
+ },
+ "affected": [
+  "estudantes bolseiros deslocados do ensino superior",
+  "famílias dos estudantes",
+  "serviços de ação social",
+  "estudantes das Regiões Autónomas"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "bolsas de estudo",
+  "ação social escolar",
+  "estudantes deslocados",
+  "alojamento",
+  "transportes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

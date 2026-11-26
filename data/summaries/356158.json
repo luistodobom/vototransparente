@@ -1,0 +1,42 @@
+{
+ "short_title": "Pré-mediação entre a AIMA e os cidadãos",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo quatro medidas: promover um sistema de pré-mediação, em articulação com a Ordem dos Advogados, como mecanismo de tentativa de conciliação entre a AIMA e os cidadãos, antes do recurso à via judicial ou, nos casos pendentes, como alternativa à continuação do processo; garantir que o recurso aos tribunais administrativos permanece plenamente salvaguardado; tomar as diligências para contratar os recursos humanos e técnicos necessários ao funcionamento da AIMA; e criar mecanismos de monitorização periódica da pendência processual, da litigância repetitiva e do tempo médio de decisão.",
+ "key_points": [
+  "Promover um sistema de pré-mediação entre a AIMA e os cidadãos, em articulação com a Ordem dos Advogados.",
+  "Manter plenamente salvaguardado o acesso aos tribunais administrativos.",
+  "Contratar os recursos humanos e técnicos necessários ao funcionamento da AIMA.",
+  "Monitorizar periodicamente a pendência processual, a litigância repetitiva e o tempo médio de decisão."
+ ],
+ "plain_language": "Há muitíssimos processos judiciais contra a AIMA, a agência que trata das migrações e do asilo. O CHEGA propõe criar uma fase de conciliação antes de ir a tribunal, voluntária e sem retirar o direito de recorrer, e dar mais pessoal à AIMA. É uma recomendação.",
+ "context": "O CHEGA indica que, em outubro de 2025, havia mais de 133 000 processos pendentes contra a AIMA no Tribunal Administrativo de Círculo de Lisboa, com média de entrada de 500 por dia. Atribui o volume à política migratória anterior e à centralização de competências e defende uma etapa prévia independente, como existe noutros domínios.",
+ "analysis": "O mecanismo pode aliviar os tribunais sem eliminar o recurso judicial, e o texto dá exemplos comparados. Fragilidades: não define quem faria a mediação, com que poderes vinculativos, custos ou prazos, e o texto fala em poderes decisórios efetivos, o que pode colidir com a natureza voluntária anunciada. A atribuição do problema a uma política passada é valorativa. A eficácia depende também de a AIMA ser dotada de meios. É recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforçar pessoal da AIMA e montar um sistema de pré-mediação implica despesa, não quantificada; poderá haver poupança com menos processos judiciais, que o texto não estima."
+ },
+ "affected": [
+  "imigrantes e requerentes de asilo",
+  "AIMA",
+  "tribunais administrativos",
+  "Ordem dos Advogados"
+ ],
+ "categories": [
+  "imigracao",
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "AIMA",
+  "pré-mediação",
+  "tribunais administrativos",
+  "imigração",
+  "pendências"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

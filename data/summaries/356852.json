@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço da resposta à paramiloidose",
+ "summary": "O PSD recomenda ao Governo que reforce a resposta integrada à paramiloidose, doença rara, hereditária e progressiva. Propõe eliminar desigualdades no acesso ao diagnóstico genético pré-implantação, assegurando equidade entre homens e mulheres no financiamento pelo SNS; promover, numa unidade de saúde da região de Lisboa e Vale do Tejo, a fertilização in vitro com diagnóstico genético pré-implantação para casais em que um dos membros seja paramiloidótico; criar mecanismos para incentivar, de forma voluntária e informada, testes genéticos a familiares de doentes; reforçar os centros de referência e de investigação de Lisboa e do Porto; e lançar campanhas de sensibilização e literacia em saúde envolvendo os cuidados primários. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Eliminar desigualdades entre homens e mulheres no financiamento do diagnóstico genético pré-implantação no SNS.",
+  "Criar capacidade de fertilização in vitro com diagnóstico pré-implantação numa unidade de Lisboa e Vale do Tejo.",
+  "Incentivar testes genéticos voluntários a familiares de doentes.",
+  "Reforçar recursos dos centros de referência e investigação de Lisboa e do Porto.",
+  "Promover campanhas de sensibilização para reduzir o tempo até ao diagnóstico."
+ ],
+ "plain_language": "O PSD pede ao Governo mais apoio às pessoas com paramiloidose, uma doença rara e hereditária. Quer que o SNS pague de forma igual os tratamentos para evitar transmitir a doença aos filhos, quer que esses tratamentos existam também na zona de Lisboa, que as famílias possam fazer testes genéticos se quiserem e que se diagnostique mais cedo. É só uma recomendação.",
+ "context": "O proponente refere que Portugal tem grande prevalência (cerca de 2.200 pessoas afetadas) e que os tratamentos retardam mas não curam a doença. Aponta que os casais em que o portador é o homem suportam os custos da medicação da mulher, ao contrário dos casos em que a portadora é a mulher, e que o diagnóstico demora em média muito tempo.",
+ "analysis": "A proposta aponta uma desigualdade concreta de tratamento entre géneros e a falta de capacidade fora do Norte, o que é um ponto forte. É, porém, pouco específica quanto a custos, prazos e unidade de saúde, e a referência a erradicação total da doença é um objetivo ambicioso não sustentado por metas. Como resolução, depende da execução do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do financiamento do SNS a técnicas de procriação com diagnóstico genético e o reforço dos centros de referência implicam despesa adicional; o texto não indica valores."
+ },
+ "affected": [
+  "doentes com paramiloidose e famílias",
+  "casais em que o homem é portador",
+  "centros de referência do SNS",
+  "cuidados de saúde primários"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "paramiloidose",
+  "doenças raras",
+  "diagnóstico genético pré-implantação",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

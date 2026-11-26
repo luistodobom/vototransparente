@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforça a punição da ocupação ilegal de imóveis",
+ "summary": "Projeto de Lei do PSD que altera o Código Penal e o Código de Processo Penal para reforçar a tutela penal contra a ocupação ilegal de imóveis. No artigo 215.º do Código Penal, passa a punir quem invadir ou ocupar imóvel alheio com intenção de exercer direito de propriedade, posse, uso ou servidão não tutelados, com prisão até 2 anos ou multa até 240 dias, sem exigir violência ou ameaça grave. A pena sobe para até 3 anos se houver violência ou ameaça grave ou se o imóvel for habitação própria e permanente, e para 1 a 4 anos se o agente atuar profissionalmente ou com intenção lucrativa. A tentativa é punível. No Código de Processo Penal, o juiz deve impor a restituição imediata do imóvel ao proprietário quando houver fortes indícios.",
+ "key_points": [
+  "Criminaliza a invasão ou ocupação de imóvel alheio sem exigir violência ou ameaça grave, com prisão até 2 anos ou multa até 240 dias.",
+  "Pena até 3 anos se houver violência ou ameaça grave ou se for habitação própria e permanente.",
+  "Pena de 1 a 4 anos para quem agir profissionalmente ou com intenção lucrativa.",
+  "Tentativa punível.",
+  "Obrigação de restituição imediata do imóvel ao proprietário quando haja fortes indícios, como medida de coação."
+ ],
+ "plain_language": "Hoje, ocupar a casa de outra pessoa só é crime de usurpação se houver violência ou ameaça grave. O PSD propõe que passe a ser crime ocupar um imóvel alheio mesmo sem violência, com penas mais pesadas para habitações permanentes e para quem o faça como negócio. O juiz poderia ordenar a devolução imediata da casa ao proprietário.",
+ "context": "O proponente refere um fenómeno de ocupação ilegal de habitações, com expressão em Espanha e casos reportados em Portugal, como em Almada e Benavente. Argumenta que a lei atual exige violência ou ameaça grave, o que permite que ocupações de casas desabitadas, de emigrantes ou segundas habitações dificilmente sejam punidas, e que é preciso reforçar a tutela do direito de propriedade.",
+ "analysis": "A proposta preenche uma lacuna apontada e agiliza a recuperação do imóvel, incluindo a possibilidade de julgamento em processo sumário. Riscos e fragilidades: a expressão ampla 'direito não tutelado por lei' pode abranger situações de carência habitacional, arrendamentos em litígio ou conflitos entre herdeiros; as penas podem levantar questões de proporcionalidade; a restituição imediata como medida pode afetar quem não tem alternativa de habitação, sem articulação com respostas sociais. O texto não fornece dados sobre a dimensão do problema em Portugal.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. Poderia aumentar a carga sobre tribunais e o sistema prisional, mas também reduzir custos de litígios civis para proprietários."
+ },
+ "affected": [
+  "proprietários de imóveis",
+  "ocupantes ilegais de habitações",
+  "tribunais e forças de segurança"
+ ],
+ "categories": [
+  "justica",
+  "habitacao",
+  "seguranca"
+ ],
+ "tags": [
+  "ocupação ilegal",
+  "usurpação de coisa imóvel",
+  "Código Penal",
+  "direito de propriedade",
+  "okupas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

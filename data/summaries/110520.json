@@ -1,0 +1,41 @@
+{
+ "short_title": "Eliminar os exames nacionais e regime transitório para 2020/2021",
+ "summary": "Projeto de lei do PCP que altera o Decreto-Lei n.º 10-B/2021 para valorizar a avaliação contínua. Para 2020/2021, mantém o cancelamento dos exames finais nacionais para alunos internos, elimina as provas finais do 9.º ano e fixa que só se fazem exames nas disciplinas escolhidas como prova de ingresso (ou para melhoria de nota). Define regras para o cálculo da nota de candidatura de autopropostos e limita o peso de provas de acesso a 10%. Obriga o Governo a criar em 60 dias um grupo de trabalho para eliminar os exames nacionais, com regime de acesso baseado predominantemente na avaliação contínua, a publicar por decreto-lei em 6 meses.",
+ "key_points": [
+  "Mantém o cancelamento dos exames finais nacionais para alunos internos em 2020/2021.",
+  "Elimina as provas finais do ensino básico (9.º ano).",
+  "Exames apenas nas disciplinas eleitas como prova de ingresso ou para melhoria de nota.",
+  "Define o cálculo da nota de candidatura de alunos autopropostos.",
+  "Cria em 60 dias um grupo de trabalho para a eliminação dos exames nacionais e novo regime de acesso ao ensino superior.",
+  "Regime de acesso, com predominância da avaliação contínua, a publicar por decreto-lei em 6 meses."
+ ],
+ "plain_language": "O PCP propõe que, neste ano letivo, os alunos só façam exames nacionais se precisarem deles para entrar no ensino superior, que desapareçam as provas do 9.º ano e que se estude acabar de vez com os exames nacionais. A nota passaria a depender sobretudo das avaliações ao longo do ano.",
+ "context": "O proponente refere que o encerramento das escolas e o ensino não presencial agravaram desigualdades, problemas de socialização e de saúde mental, e que muitos alunos continuam sem computador ou internet, pelo que defende dar maior peso à avaliação contínua e eliminar os exames.",
+ "analysis": "Responde às desigualdades do ensino à distância e reduz a pressão dos exames num ano excecional. Fragilidades: a eliminação dos exames levanta dúvidas sobre comparabilidade das notas internas entre escolas e sobre justiça no acesso ao ensino superior, que o texto remete para um grupo de trabalho; a articulação com as alterações ao decreto-lei em vigor e os prazos curtos pode gerar incerteza; o texto, parcialmente lido, tem partes de redação reticentes.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita diretas; o grupo de trabalho tem custos não indicados."
+ },
+ "affected": [
+  "alunos do ensino secundário",
+  "alunos autopropostos",
+  "candidatos ao ensino superior",
+  "escolas e professores"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "exames nacionais",
+  "avaliação contínua",
+  "acesso ao ensino superior",
+  "COVID-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

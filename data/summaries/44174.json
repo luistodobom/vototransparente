@@ -1,0 +1,39 @@
+{
+ "short_title": "Aplicar o PART em todo o território, incluindo entre CIM",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que, no âmbito do Programa de Apoio à Redução Tarifária (PART), as populações que usam transporte público em movimentos pendulares fiquem abrangidas pela redução tarifária em todo o percurso, mesmo que atravesse mais do que uma Comunidade Intermunicipal ou Área Metropolitana e independentemente de o meio de transporte ser gerido pela CIM de origem. Recomenda ainda mecanismos obrigatórios de articulação entre CIM e Áreas Metropolitanas, de modo a garantir o financiamento da redução tarifária nessas situações. O texto reafirma pontos já aprovados no Parlamento em fevereiro de 2019. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Redução tarifária em todo o percurso pendular, mesmo atravessando várias CIM ou Áreas Metropolitanas.",
+  "Aplicação independente de o meio de transporte ser gerido pela CIM de origem.",
+  "Mecanismos obrigatórios de articulação entre CIM e Áreas Metropolitanas para garantir o financiamento."
+ ],
+ "plain_language": "O Bloco de Esquerda pede que quem viaja todos os dias entre concelhos de zonas diferentes, por exemplo entre uma comunidade intermunicipal e uma área metropolitana, também tenha o desconto nos passes de transporte público em toda a viagem. Para isso, as entidades responsáveis teriam de se articular e de assegurar o financiamento. É uma recomendação ao Governo.",
+ "context": "O BE explica que o PART, criado pelo Orçamento do Estado para 2019 com 104 milhões de euros do Fundo Ambiental, não abrange o transporte inter-regional entre CIM ou entre CIM e áreas metropolitanas. Um terço das deslocações pendulares nas áreas metropolitanas de Lisboa e do Porto têm origem ou destino fora delas, e utentes ainda não conseguiram adquirir passes com a redução.",
+ "analysis": "A proposta corrige uma lacuna concreta do PART, que cria discriminação em função de fronteiras administrativas, e reitera uma resolução já aprovada em 2019, o que evidencia a ausência de execução. A fragilidade é a falta de quantificação do custo adicional, de definição de quem financia e de calendário. Obrigar à articulação entre entidades sem alterar o modelo de financiamento pode revelar-se difícil na prática. Sendo resolução, o seu cumprimento depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar a redução tarifária a percursos entre CIM e áreas metropolitanas aumentaria o financiamento necessário ao PART. O texto não apresenta valores adicionais."
+ },
+ "affected": [
+  "utilizadores de transportes públicos em movimentos pendulares",
+  "Comunidades Intermunicipais",
+  "Áreas Metropolitanas de Lisboa e do Porto"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "part",
+  "passes",
+  "redução tarifária",
+  "comunidades intermunicipais",
+  "mobilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Apoio aos agricultores afetados pelas tempestades de janeiro de 2026",
+ "summary": "O JPP recomenda ao Governo medidas urgentes para repor a capacidade produtiva dos agricultores afetados pelas tempestades do final de janeiro de 2026: um levantamento urgente e coordenado dos prejuízos, com critérios uniformes e calendário curto; o acionamento urgente dos mecanismos de reposição do potencial produtivo, com procedimentos simplificados e pagamentos céleres, abrangendo estufas, coberturas, rega, muros, equipamentos e caminhos agrícolas; uma medida excecional e temporária para compensar perdas de rendimento quando a exploração fique impedida de produzir ou comercializar; e o reforço do seguro agrícola, com garantia pública à semelhança do modelo espanhol. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento urgente e coordenado dos prejuízos, com critérios uniformes.",
+  "Reposição do potencial produtivo com procedimentos simplificados e pagamentos céleres.",
+  "Intervenções urgentes em caminhos agrícolas e linhas de drenagem e rega.",
+  "Compensação excecional e temporária de perdas de rendimento.",
+  "Reforço do seguro agrícola com garantia pública, à semelhança de Espanha."
+ ],
+ "plain_language": "O deputado pede ao Governo que avalie depressa os estragos que as tempestades causaram nas explorações agrícolas, pague rapidamente a reparação de estufas, rega e caminhos, compense as perdas de rendimento e reforce o seguro agrícola. É uma recomendação ao Governo.",
+ "context": "O proponente descreve prejuízos relevantes nas explorações: destruição de estufas, danos nos sistemas de rega, derrocadas em caminhos agrícolas e perdas de produção. Defende que a reposição de infraestruturas não resolve sozinha a quebra de rendimento e que é preciso uma resposta rápida, transparente e com critérios claros.",
+ "analysis": "Responde a danos concretos, combina reposição de infraestruturas, compensação de rendimento e prevenção por via do seguro. Fragilidades: não quantifica os prejuízos nem o custo; a garantia pública do seguro agrícola exige financiamento que não é estimado; os critérios da compensação de rendimento ficam por definir; a redação do último ponto inclui uma interrogação sobre calendário que não corresponde a uma recomendação clara; e a data da assinatura refere 2025, em aparente lapso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Propõe reposição de infraestruturas, compensação de perdas e garantia pública do seguro agrícola, que aumentam a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "agricultores afetados pelas tempestades",
+  "explorações agrícolas",
+  "seguradoras agrícolas"
+ ],
+ "categories": [
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "tempestades",
+  "agricultores",
+  "seguro agrícola",
+  "compensação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

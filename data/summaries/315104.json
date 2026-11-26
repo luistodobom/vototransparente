@@ -1,0 +1,42 @@
+{
+ "short_title": "Defesa da propriedade privada e do domicílio contra ocupações",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o Código Penal, o Código de Processo Penal e o Código de Processo Civil para reforçar a proteção de proprietários e possuidores perante ocupações sem título válido. Agrava as penas da violação de domicílio e da usurpação de coisa imóvel, cria uma nova forma de usurpação sem exigência de violência ou ameaça grave (até 3 anos de prisão ou multa até 360 dias), com agravamento até 6 anos ou 4 anos quando houver intenção de obter vantagem. Permite às polícias identificar suspeitos em lugar privado e pedir o título de ocupação, admite medidas de coação em 48 horas, e cria no Código de Processo Civil um processo especial urgente de tutela da posse e da propriedade, com audiência em 48 horas. Entra em vigor 60 dias após a publicação.",
+ "key_points": [
+  "Agrava as penas dos crimes de violação de domicílio (artigo 190.º) e usurpação de coisa imóvel (artigo 215.º) do Código Penal.",
+  "Cria nova forma de usurpação por quem ocupe imóvel alheio sem título válido, sem exigir violência ou ameaça grave, com agravamento se houver intenção de vantagem.",
+  "Prevê penas acessórias de proibição de contacto e afastamento da residência, com controlo por meios técnicos.",
+  "Autoriza os órgãos de polícia criminal a identificar suspeitos em lugar privado e a pedir o título de ocupação, e permite ao juiz impor medidas de coação em 48 horas.",
+  "Cria um processo especial urgente no Código de Processo Civil, com audiência em 48 horas, decisão provisória possível e recursos urgentes."
+ ],
+ "plain_language": "A proposta pretende facilitar e acelerar a defesa de quem vê a sua casa ou terreno ocupado por alguém sem título. Aumenta as penas de prisão, deixa de exigir violência para punir certas ocupações, dá mais poderes à polícia para identificar os ocupantes e cria um processo judicial rápido para recuperar o imóvel. Os tribunais teriam de marcar audiência em 48 horas.",
+ "context": "A Iniciativa Liberal afirma que a propriedade privada e a inviolabilidade do domicílio estão ameaçadas por ocupações. Considera que o crime de usurpação exige violência ou ameaça grave, o que dificulta condenações, e que as vias cível e penal atuais são lentas e custosas para os proprietários.",
+ "analysis": "Visa reduzir a morosidade e proteger direitos constitucionais, e o processo especial urgente tem lógica de celeridade. Riscos: criminalizar ocupação sem violência e permitir identificação em lugar privado levantam questões de proporcionalidade e de proteção de pessoas em situação de vulnerabilidade habitacional, não abordadas no texto. O prazo de 48 horas pode ser difícil de cumprir pelos tribunais, e a ligação à legislação sobre inquilinos e à habitação não é tratada. Não há estudo de impacto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Penas mais pesadas e processos urgentes podem aumentar a carga sobre tribunais, polícias e prisões, sem estimativa apresentada."
+ },
+ "affected": [
+  "proprietários e possuidores de imóveis",
+  "ocupantes sem título",
+  "tribunais",
+  "polícias"
+ ],
+ "categories": [
+  "justica",
+  "habitacao"
+ ],
+ "tags": [
+  "ocupação ilegal",
+  "usurpação de coisa imóvel",
+  "violação de domicílio",
+  "propriedade privada",
+  "processo especial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoios COVID-19 a todos os trabalhadores da Cultura",
+ "summary": "A deputada não inscrita Cristina Rodrigues recomenda ao Governo que garanta a atribuição dos apoios sociais previstos no contexto da COVID-19 a todos os trabalhadores da Cultura, independentemente de terem ou não Código CAE ou IRS principal no setor, fazendo as diligências para que cheguem aos profissionais excluídos. Recomenda também que, ouvindo as organizações representativas dos profissionais, o Governo identifique todas as profissões do setor e crie códigos de atividade económica (CAE) específicos para elas. O texto sugere, como exemplo, considerar elegíveis os profissionais com o código CIRS 1519, exigindo uma declaração de boa-fé de empresas ou associações que ateste a atividade. É uma recomendação, sem caráter vinculativo.",
+ "key_points": [
+  "Garantir os apoios COVID-19 a todos os trabalhadores da Cultura, independentemente do código CAE ou IRS principal.",
+  "Identificar os profissionais atualmente excluídos e assegurar que os apoios lhes chegam.",
+  "Identificar, com as organizações representativas, todas as profissões da Cultura.",
+  "Criar códigos CAE específicos para essas profissões."
+ ],
+ "plain_language": "Alguns profissionais da Cultura ficam de fora dos apoios da pandemia por terem um código de atividade que não é o da Cultura. A deputada pede ao Governo que os apoios cheguem a todos e que sejam criados códigos de atividade próprios para as profissões culturais. É uma recomendação.",
+ "context": "A proponente refere que o setor registou perdas superiores a 70% em relação a 2019 e que o apoio anunciado de 438,81 euros, num único pagamento, exclui quem não tem CAE ou IRS no setor, como quem usa o código CIRS 1519. Defende que os códigos existentes são poucos e mal discriminados, e que sem eles se desconhece quantos profissionais existem.",
+ "analysis": "A proposta identifica um problema concreto de elegibilidade e uma solução de fundo, a criação de códigos CAE específicos, que melhoraria o conhecimento do setor. Fragilidades: não define os critérios nem a prova exigida para quem não tem CAE, o que pode dar margem a abusos ou a decisões discricionárias; não estima o universo de beneficiários nem o custo; e a criação de códigos CAE depende de um processo estatístico tecnicamente exigente. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar os apoios a mais profissionais aumenta a despesa pública, mas o texto não indica o número de beneficiários nem os montantes totais."
+ },
+ "affected": [
+  "trabalhadores da Cultura",
+  "artistas e técnicos do espetáculo",
+  "associações culturais e recreativas"
+ ],
+ "categories": [
+  "cultura",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "cultura",
+  "apoios sociais",
+  "COVID-19",
+  "código CAE",
+  "trabalhadores independentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

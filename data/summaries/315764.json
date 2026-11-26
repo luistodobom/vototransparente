@@ -1,0 +1,44 @@
+{
+ "short_title": "Sanções penais por violação de medidas restritivas da UE",
+ "summary": "Proposta de lei do Governo que transpõe a Diretiva (UE) 2024/1226, alterando a Lei n.º 97/2017, o Código Penal e a Lei n.º 5/2002. Densifica as condutas que violam medidas restritivas (congelamento de fundos, proibições de entrada, embargos, trocas comerciais, serviços financeiros) e de evasão, puníveis com prisão de 1 a 5 anos. Cria uma pena de 5 a 8 anos, independentemente do valor, quando estejam em causa produtos da Lista Militar Comum ou bens de dupla utilização, e prisão de 6 meses a 2 anos e 6 meses para negligência. Pessoas coletivas ficam sujeitas a multa até 1% ou 5% do volume de negócios mundial, com tetos de 8 e 40 milhões de euros quando não for possível apurá-lo. Prevê agravação de um terço, atenuação por colaboração, proteção de denunciantes, isenção do dever de comunicação de advogados e solicitadores e cláusula de ajuda humanitária. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Violação de medidas restritivas e evasão: prisão de 1 a 5 anos; produtos militares ou de dupla utilização: 5 a 8 anos, independentemente do valor; negligência: 6 meses a 2 anos e 6 meses.",
+  "Pessoas coletivas: multa até 1% (infrações de evasão por omissão de comunicação ou informação) ou até 5% (restantes) do volume de negócios mundial; sem esse apuramento, até 8 ou 40 milhões de euros; metade em caso de negligência.",
+  "Agravação de um terço se o agente for funcionário ou atuar no contexto de associação criminosa; atenuação especial se colaborar ativamente na descoberta da verdade.",
+  "Proteção de denunciantes, isenção do dever de comunicação de advogados e solicitadores e exclusão de ilicitude na ajuda humanitária.",
+  "A violação de medidas restritivas passa a ser infração subjacente ao branqueamento (Código Penal) e a integrar a lei da criminalidade organizada e económico-financeira (Lei n.º 5/2002)."
+ ],
+ "plain_language": "Quem violar ou contornar sanções da União Europeia, como congelamento de bens ou embargos de armas, pode ir para a prisão. A proposta clarifica e endurece essas penas, incluindo de 5 a 8 anos para armas e bens de uso duplo, e liga as multas às empresas ao seu volume de negócios mundial. Ficam protegidos os denunciantes e a ajuda humanitária, e os advogados não têm de comunicar violações conhecidas no âmbito da defesa dos clientes.",
+ "context": "O Governo explica que a diretiva impõe sanções efetivas, proporcionais e dissuasivas para violações e evasão das medidas restritivas, essenciais à política externa e de segurança comum. A Lei n.º 97/2017 já regula o regime, mas precisa de ser conformada com a diretiva, nos limites das penas e nas sanções às pessoas coletivas. Refere que o Tribunal Constitucional apreciou a indexação ao volume de negócios no Acórdão n.º 661/2024 sem identificar inconstitucionalidade.",
+ "analysis": "A proposta cumpre uma obrigação europeia e clarifica tipos penais, com salvaguardas relevantes (denunciantes, sigilo profissional, ajuda humanitária, atenuação por colaboração). As multas indexadas ao volume de negócios mundial são dissuasivas e o Governo invoca jurisprudência constitucional favorável, mas podem ser desproporcionadas em casos menores. A pena fixa de 5 a 8 anos independente do valor dos bens e a prisão por negligência podem suscitar questões de proporcionalidade. O texto não avalia a capacidade de investigação e fiscalização nem o impacto para empresas exportadoras.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Não há estimativa orçamental no texto. As multas a pessoas coletivas podem gerar receita, e a investigação e o julgamento implicam custos, sem montantes indicados."
+ },
+ "affected": [
+  "empresas e pessoas coletivas",
+  "exportadores de bens de dupla utilização",
+  "instituições financeiras",
+  "advogados e solicitadores",
+  "autoridades de investigação e tribunais"
+ ],
+ "categories": [
+  "justica",
+  "internacional",
+  "seguranca"
+ ],
+ "tags": [
+  "medidas restritivas",
+  "sanções da ue",
+  "lei 97/2017",
+  "direito penal",
+  "dupla utilização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

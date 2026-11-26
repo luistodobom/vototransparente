@@ -1,0 +1,42 @@
+{
+ "short_title": "Transparência mensal nas despesas das tempestades",
+ "summary": "Este Projeto de Resolução do PS recomenda ao Governo que divulgue mensalmente, na Síntese de Execução Orçamental da Entidade Orçamental, a execução das medidas de apoio adotadas na sequência das cheias e tempestades recentes. A informação deve distinguir despesa efetiva (apoios a fundo perdido, indemnizações e outras transferências) de medidas de natureza financeira (linhas de crédito, empréstimos e garantias) e indicar as que afetam diretamente o saldo orçamental. Recomenda ainda que a qualificação de despesas como excecionais para as regras orçamentais europeias seja acompanhada de fundamentação técnica clara e reporte regular. Como resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Divulgação mensal da execução das medidas de apoio às tempestades na Síntese de Execução Orçamental.",
+  "Distinção entre despesa efetiva (fundo perdido, indemnizações, transferências) e medidas financeiras (crédito, empréstimos, garantias).",
+  "Identificação das medidas com efeito direto no saldo orçamental.",
+  "Fundamentação técnica e reporte regular para a classificação de despesa como excecional nas regras orçamentais europeias."
+ ],
+ "plain_language": "O PS pede ao Governo que publique todos os meses quanto está a ser gasto nos apoios às tempestades e que explique claramente o que é despesa a sério e o que são empréstimos ou garantias. Também quer que o Governo justifique por que razão estas despesas não contam para as regras orçamentais da UE. É apenas uma recomendação.",
+ "context": "O PS refere que o Governo anunciou ter obtido da Comissão Europeia abertura para considerar estas despesas como excecionais, fora da trajetória da despesa líquida primária. Defende que esta flexibilidade exige transparência, e recorda o modelo de reporte mensal usado na pandemia de COVID-19.",
+ "analysis": "A proposta é de baixo custo e reforça o escrutínio, com precedente na pandemia. Limitações: é uma recomendação sem prazo nem sanção; o papel da Entidade Orçamental e o formato exato ficam por definir; e a divulgação não garante, só por si, a qualidade da execução dos apoios. O texto também não refere os montantes das medidas nem a decisão da Comissão Europeia, que apenas é mencionada como anunciada pelo Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Recomenda apenas reporte de informação, sem criar despesa ou receita diretas, salvo custos administrativos menores não quantificados."
+ },
+ "affected": [
+  "Governo",
+  "Entidade Orçamental",
+  "Assembleia da República e cidadãos que acompanham as contas públicas",
+  "populações e empresas afetadas pelas tempestades"
+ ],
+ "categories": [
+  "economia",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "execução orçamental",
+  "tempestades",
+  "transparência",
+  "despesa excecional",
+  "regras orçamentais europeias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

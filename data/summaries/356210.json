@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio e proteção social nos concelhos afetados",
+ "summary": "O projeto de lei do Bloco de Esquerda estabelece medidas extraordinárias de apoio ao rendimento das famílias e de proteção no desemprego nos concelhos em calamidade pelas tempestades de 2026. Cria um apoio mensal, até ao limite de 2,5 vezes o IAS por elemento do agregado, para famílias com perda de rendimentos ou em carência, com pagamento numa única prestação se o requerente o pedir. A candidatura é feita por formulário, com decisão em 5 dias úteis e deferimento tácito. Prorroga automaticamente por 6 meses o subsídio de desemprego, o subsídio social de desemprego e o subsídio de cessação de atividade cujo período termine entre 1 de janeiro e 31 de março de 2026, e suspende reavaliações. O Governo regulamenta em 30 dias e transfere verbas para a Segurança Social.",
+ "key_points": [
+  "Apoio extraordinário mensal às famílias, até 2,5 vezes o IAS por elemento do agregado, com possibilidade de pagamento único.",
+  "Processo por formulário, com apoio nos serviços da Segurança Social e Espaços do Cidadão, e decisão em 5 dias úteis sob pena de deferimento tácito.",
+  "Prorrogação automática por 6 meses de subsídios de desemprego que terminem entre 1 de janeiro e 31 de março de 2026.",
+  "Suspensão das reavaliações das condições de manutenção das prestações.",
+  "Regulamentação em 30 dias e efeitos a 1 de janeiro de 2026."
+ ],
+ "plain_language": "As famílias que perderam rendimentos nas zonas atingidas pelas tempestades poderiam receber um apoio mensal da Segurança Social, com pedido simples e resposta rápida. Quem estiver a receber subsídio de desemprego que esteja a acabar teria mais seis meses de prestação.",
+ "context": "O BE descreve perda de vidas, habitações destruídas, empresas sem funcionar e dezenas de milhares de casas sem eletricidade semanas após a tempestade. Defende uma resposta célere e coordenada que proteja o rendimento das famílias, sobretudo as que já estavam em situação de vulnerabilidade económica e social.",
+ "analysis": "A medida dá resposta rápida e simplificada a perdas de rendimento, com decisão em 5 dias úteis. No entanto, o deferimento tácito pode provocar pagamentos sem verificação suficiente, e o limite de 2,5 IAS por pessoa implica custos potencialmente elevados, não estimados. Os critérios de carência e de perda de rendimento são pouco definidos, e a prorrogação de subsídios abrange também beneficiários que podem não ter sido afetados pelas tempestades.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio mensal e a prorrogação de subsídios de desemprego aumentam a despesa da Segurança Social, com transferência de verbas do Orçamento do Estado. O texto não indica montantes globais."
+ },
+ "affected": [
+  "famílias nos concelhos em calamidade",
+  "desempregados com subsídio a terminar",
+  "trabalhadores independentes economicamente dependentes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestades",
+  "apoio ao rendimento",
+  "subsídio de desemprego",
+  "calamidade",
+  "IAS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

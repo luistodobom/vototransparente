@@ -1,0 +1,39 @@
+{
+ "short_title": "Corrigir ultrapassagens na carreira docente",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que reveja os critérios de reposicionamento na carreira docente, de forma a corrigir as ultrapassagens na progressão e a contabilizar todo o tempo de serviço dos professores, independentemente da data de ingresso, respeitando a experiência e o mérito. Segundo o texto, a Portaria n.º 119/2018 reposicionou os docentes que ingressaram entre 2011 e 2017, mas não os que ingressaram antes de 2011, que estão a ser ultrapassados por colegas com menos tempo de serviço. É uma recomendação ao Governo, sem efeitos vinculativos, e não define medidas, prazos ou custos concretos.",
+ "key_points": [
+  "Rever os critérios de reposicionamento na carreira docente.",
+  "Corrigir ultrapassagens de docentes mais antigos por colegas com menos tempo de serviço.",
+  "Contabilizar todo o tempo de serviço, independentemente da data de ingresso.",
+  "Respeitar a experiência e o mérito dos docentes."
+ ],
+ "plain_language": "O PS pede ao Governo que corrija situações em que professores mais antigos ganham menos ou estão em escalões mais baixos do que colegas com menos anos de serviço. Pede também que todo o tempo de serviço conte para a carreira. É apenas uma recomendação.",
+ "context": "O PS explica que a Portaria n.º 119/2018 reposicionou os docentes que ingressaram entre 2011 e 2017, mas não os anteriores a 2011, e que professores com 20 ou 30 anos de serviço foram ultrapassados desde 2018. Refere ainda medidas do Decreto-Lei n.º 74/2023 que aceleraram progressões de cerca de 60 mil docentes.",
+ "analysis": "O ponto central, a existência de ultrapassagens entre docentes, é concreto e relevante para a equidade da carreira. Fragilidades: a resolução não propõe critérios, calendário nem estimativa de custo, e não é vinculativa. O texto dedica boa parte à defesa do histórico do PS, enquanto reconhece que as medidas anteriores não resolveram a situação. Corrigir ultrapassagens e contar todo o tempo de serviço teria impacto orçamental potencialmente significativo, que não é avaliado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reposicionar docentes e contar todo o tempo de serviço aumentaria a despesa com pessoal docente. O texto não apresenta montantes."
+ },
+ "affected": [
+  "professores dos ensinos básico e secundário",
+  "educadores de infância",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira docente",
+  "reposicionamento",
+  "ultrapassagens",
+  "tempo de serviço"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

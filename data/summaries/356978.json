@@ -1,0 +1,43 @@
+{
+ "short_title": "Programa Regressar 2.0 para emigrantes",
+ "summary": "O Projeto de Resolução n.º 1099/XVII/1.ª, do PAN, recomenda ao Governo que aprove para 2027 o Programa Regressar 2.0, uma vez que o atual termina a 31 de dezembro de 2026. Propõe renovar o apoio fiscal em vigor; estudar um regime compatível com o IRS Jovem, com um Programa Regressar Jovem para quem tenha até 35 anos; incentivos às empresas que contratem beneficiários; avaliar a reativação da Linha de Crédito Regressar, com valor aumentado e alargada a empresários portugueses e lusodescendentes; incentivos, com autarquias e outras entidades, à fixação de regressados em zonas de baixa densidade; maior divulgação junto da diáspora; e avaliação e divulgação anual dos resultados, com dados sobre beneficiários, benefício fiscal, cursos de Português Língua de Acolhimento e satisfação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Renovar a medida de apoio fiscal do Programa Regressar para 2027.",
+  "Estudar a compatibilidade com o IRS Jovem, através de um Programa Regressar Jovem para quem tenha até 35 anos.",
+  "Incluir incentivos às empresas que contratem trabalhadores beneficiários e avaliar a reativação da Linha de Crédito Regressar.",
+  "Criar, com as autarquias e outras entidades, incentivos à fixação de emigrantes regressados em áreas de baixa densidade.",
+  "Reforçar a divulgação junto da diáspora e publicar anualmente os resultados do programa, incluindo número de beneficiários e valor do benefício fiscal."
+ ],
+ "plain_language": "O Programa Regressar dá benefícios fiscais a emigrantes que voltam a viver em Portugal e acaba no fim de 2026. Este projeto pede ao Governo que o renove e melhore em 2027: que seja compatível com o IRS Jovem, que dê incentivos às empresas que contratem quem regressa, que ajude a fixar pessoas no interior e que se divulgue melhor e se publiquem resultados todos os anos. É uma recomendação ao Governo.",
+ "context": "O PAN recorda que Portugal é o país europeu com mais emigrantes em proporção, que cerca de 70 mil pessoas saem por ano e que estimativas apontam para cerca de um terço dos jovens nascidos em Portugal a viver fora. Refere que o Programa Regressar apoiou mais de 37 mil emigrantes desde 2020 e que, com o benefício fiscal de 50% dos rendimentos até 250 mil euros durante cinco anos, vigora até ao fim de 2026.",
+ "analysis": "Pontos fortes: dá continuidade a um programa com adesão elevada e propõe transparência através de relatórios anuais. Fragilidades: o benefício fiscal pode favorecer sobretudo rendimentos elevados, e o texto não avalia se o programa de facto causa o regresso ou apenas beneficia quem já regressaria; não quantifica o custo de novas medidas, embora cite um benefício fiscal de 48 milhões de euros em 2023; e a articulação com o IRS Jovem e com o possível Programa Voltar do Governo não está definida. É apenas uma recomendação.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A renovação e eventual alargamento do benefício fiscal reduzem a receita de IRS, e a linha de crédito e os incentivos às empresas implicam despesa; o texto cita apenas um benefício fiscal de 48 milhões de euros em 2023 e não estima os custos das novas medidas."
+ },
+ "affected": [
+  "emigrantes portugueses que regressam",
+  "jovens até 35 anos",
+  "empresas contratantes",
+  "autarquias de baixa densidade"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "Programa Regressar",
+  "emigração",
+  "IRS Jovem",
+  "diáspora",
+  "baixa densidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

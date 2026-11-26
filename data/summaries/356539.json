@@ -1,0 +1,41 @@
+{
+ "short_title": "Equidade territorial nos rastreios oncológicos",
+ "summary": "O Grupo Parlamentar do LIVRE recomenda ao Governo que garanta o acesso universal aos programas de rastreio oncológico de base populacional (mama, colorretal e colo do útero), assegurando a sua implementação em todas as Unidades Locais de Saúde, com prioridade para territórios de baixa densidade. Propõe reforçar meios técnicos e recursos humanos nas regiões com menor cobertura, nomeadamente através de unidades móveis de rastreio e de transporte de utentes em articulação com as autarquias, e reforçar as ações de informação e sensibilização, com os cuidados de saúde primários e as autarquias. O texto invoca dados de 2024 sobre cobertura e adesão: cobertura da mama superior a 90%, colo do útero 61% e colorretal 32,5%, e assimetrias entre regiões. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir o acesso universal aos rastreios de base populacional em todas as Unidades Locais de Saúde.",
+  "Dar prioridade aos territórios de baixa densidade populacional.",
+  "Reforçar meios técnicos e recursos humanos nas regiões com menor cobertura.",
+  "Usar unidades móveis de rastreio e transporte de utentes, em articulação com as autarquias.",
+  "Reforçar a informação e sensibilização sobre rastreios com cuidados primários e autarquias."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que ninguém fique sem rastreios de cancro por viver longe das grandes cidades. Propõe levar os rastreios a todas as unidades de saúde, enviar equipas móveis às zonas com menos cobertura, ajudar as pessoas a deslocarem-se e informar melhor a população. É uma recomendação, sem força de lei.",
+ "context": "O proponente sublinha que a deteção precoce é custo-efetiva e que a cobertura é desigual: o rastreio colorretal tinha 32,5% de cobertura em 2024, longe da meta de 90% para 2030, e residentes do Norte e Alentejo teriam cerca de 30% menos probabilidade de fazer rastreios do que na Área Metropolitana de Lisboa. Defende que o local de residência não deve condicionar o diagnóstico precoce.",
+ "analysis": "A proposta identifica bem um problema documentado (assimetrias territoriais) e propõe soluções práticas, como unidades móveis e transporte. Fragilidades: não define metas, prazos, financiamento nem como seriam repartidos os custos com as autarquias, cuja capacidade é desigual. Também não aborda diretamente a baixa adesão (cerca de 50% em vários rastreios) além da sensibilização. Por ser resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Unidades móveis, mais profissionais e transporte de utentes implicam despesa pública adicional, sem montantes indicados no texto."
+ },
+ "affected": [
+  "utentes de zonas de baixa densidade",
+  "utentes do SNS",
+  "autarquias",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "rastreios oncológicos",
+  "equidade territorial",
+  "unidades móveis",
+  "baixa densidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Fiscalização do trabalho doméstico",
+ "summary": "Projeto de resolução do LIVRE que recomenda ao Governo duas medidas: proceder à recolha periódica e sistemática de dados sobre o trabalho doméstico, que permitam caracterizar o setor, avaliar o cumprimento das normas legais e das contribuições e o acesso a apoios sociais; e reforçar a capacidade da Autoridade para as Condições do Trabalho de fiscalizar o cumprimento das normas aplicáveis ao setor. A exposição de motivos refere as alterações da Agenda do Trabalho Digno (Lei n.º 13/2023), o aumento de 367% nas inscrições em abril de 2023, 251.810 trabalhadores inscritos em agosto de 2024 e dados de 2022 sobre cerca de 63 mil contribuintes, 98,2% mulheres. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recolha periódica e sistemática de dados sobre o trabalho doméstico.",
+  "Avaliar o cumprimento das normas legais, das contribuições e o acesso a apoios sociais.",
+  "Reforçar a capacidade de fiscalização da Autoridade para as Condições do Trabalho."
+ ],
+ "plain_language": "O LIVRE quer que o Governo recolha informação regular sobre quem trabalha em casas de outras pessoas (limpeza, cuidados) e reforce a fiscalização para garantir que os seus direitos e descontos são cumpridos. É um pedido ao Governo, sem força de lei.",
+ "context": "Depois da Agenda do Trabalho Digno, que aproximou os direitos do serviço doméstico dos do Código do Trabalho e criminalizou a não declaração à Segurança Social, houve um aumento de inscrições. O proponente refere que subsistem dificuldades de acesso à proteção social, disparidades de género e desigualdades para trabalhadores migrantes, e que falta informação sistematizada sobre o setor.",
+ "analysis": "A proposta responde a uma lacuna de informação reconhecida e propõe medidas de baixo risco. Fragilidades: não define a entidade responsável pela recolha de dados, o calendário, nem os meios de reforço da fiscalização, e fiscalizar o trabalho em domicílios envolve questões de privacidade e de acesso a casas particulares, que o texto não discute. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço da fiscalização e a recolha sistemática de dados implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "trabalhadores de serviço doméstico",
+  "famílias empregadoras",
+  "Autoridade para as Condições do Trabalho"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "trabalho doméstico",
+  "fiscalização",
+  "segurança social",
+  "agenda do trabalho digno"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

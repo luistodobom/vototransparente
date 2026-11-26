@@ -1,0 +1,40 @@
+{
+ "short_title": "Auditoria ao acesso à IVG no SNS",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo uma auditoria a todas as instituições do SNS para aferir a existência de consulta prévia e de procedimentos de interrupção voluntária da gravidez (IVG), os motivos da sua inexistência, as medidas imediatas a adotar e o cumprimento dos prazos legais, do encaminhamento e do apoio às mulheres. A auditoria deve investigar más práticas e identificar responsáveis, e produzir um relatório a entregar à Assembleia da República até ao final do segundo trimestre de 2023. Recomenda também que o SNS24 passe a dar resposta estruturada, com encaminhamento e marcação da consulta prévia, dentro dos prazos legais. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Auditoria a todas as instituições do SNS sobre a disponibilidade de consulta prévia e IVG e o cumprimento dos prazos legais.",
+  "Investigar más práticas, como não encaminhamento, incumprimento de prazos e desrespeito pela privacidade e dignidade, identificando responsáveis.",
+  "Relatório entregue à Assembleia da República até ao final do segundo trimestre de 2023.",
+  "O SNS24 passa a marcar a consulta prévia e a encaminhar as mulheres para as respostas disponíveis."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que verifique, em todo o SNS, se as mulheres conseguem fazer a interrupção voluntária da gravidez nos prazos previstos na lei, e que a linha SNS24 ajude a marcar consultas e a encaminhar quem precisa. É uma recomendação política, não vinculativa.",
+ "context": "O proponente refere reportagens de recusas e de encaminhamentos para outras instituições ou para o privado, consultas prévias marcadas para 12 a 19 dias quando a lei fixa um máximo de cinco, e um inquérito feito pelo próprio grupo parlamentar em 2018 que, segundo o texto, mostrou incumprimentos da lei.",
+ "analysis": "Responde a relatos de dificuldades de acesso a um direito legalmente previsto e propõe mecanismos de monitorização e de apoio concretos. Fragilidades: assenta em casos relatados na imprensa, sem dados nacionais sistematizados; a identificação de responsáveis e a auditoria presencial exigem meios e prazos curtos; e a criação de uma resposta pelo SNS24 pode requerer formação e ajustes organizativos que o texto não detalha. Matéria sensível, em que existe objeção de consciência legalmente prevista, não referida no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A auditoria e o reforço do SNS24 implicam despesa pública. O texto não indica valores."
+ },
+ "affected": [
+  "Mulheres que recorrem à IVG",
+  "Profissionais e instituições do SNS",
+  "SNS24"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "sns",
+  "auditoria",
+  "sns24",
+  "direitos das mulheres"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

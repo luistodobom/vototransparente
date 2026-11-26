@@ -1,0 +1,40 @@
+{
+ "short_title": "Prevenir e combater o abandono escolar precoce",
+ "summary": "Projeto de resolução do deputado único da Iniciativa Liberal que recomenda ao Governo a implementação urgente das recomendações da auditoria do Tribunal de Contas ao abandono escolar precoce, incluindo uma estratégia global com monitorização e avaliação, definição clara dos conceitos de abandono e de risco de abandono, reporte uniforme ao Ministério, mapeamento nacional, regional e local (com as Regiões Autónomas), controlo eficaz dos deveres de matrícula e frequência e interoperabilidade dos sistemas de informação. Recomenda também fomentar a orientação escolar e profissional descentralizada, dotando as instituições de recursos ou flexibilidade para celebrar acordos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Definir uma estratégia global de combate ao abandono escolar com estrutura de monitorização e avaliação.",
+  "Definir os conceitos de abandono e de risco de abandono e os respetivos indicadores.",
+  "Reporte uniforme ao Ministério e mapeamento do abandono a nível nacional, regional e local.",
+  "Controlo eficaz dos deveres de matrícula e frequência e interoperabilidade dos sistemas de informação.",
+  "Fomentar a orientação escolar e profissional descentralizada e autónoma."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que cumpra as recomendações do Tribunal de Contas sobre o abandono escolar: definir bem o problema, recolher dados fiáveis, controlar a matrícula e dar às escolas meios e autonomia para orientar os alunos e evitar que saiam cedo do sistema. É um pedido, sem força de lei.",
+ "context": "O proponente argumenta que o abandono escolar precoce tem custos elevados para os jovens, a sociedade e a economia, que a pandemia o agravou nas populações mais vulneráveis, e invoca a meta europeia de reduzir o abandono para menos de 10% e uma auditoria do Tribunal de Contas.",
+ "analysis": "Assenta numa auditoria independente e em medidas de gestão e informação úteis para orientar políticas. Fragilidades: as recomendações são sobretudo de monitorização e de sistemas de informação, com pouca incidência direta nas causas do abandono; não há metas, prazos nem orçamento; a autonomia e os recursos das escolas para orientação não são concretizados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de sistemas de informação, de monitorização e de reforço da orientação escolar implica despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "alunos em risco de abandono",
+  "escolas e agrupamentos",
+  "Ministério da Educação",
+  "famílias vulneráveis"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "abandono escolar",
+  "Tribunal de Contas",
+  "orientação escolar",
+  "monitorização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

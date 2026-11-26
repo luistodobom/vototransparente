@@ -1,0 +1,41 @@
+{
+ "short_title": "Fim da taxa de registo da prestação de contas (IES)",
+ "summary": "Projeto de Lei da Iniciativa Liberal que elimina a taxa devida pelo registo da prestação de contas, associada ao cumprimento anual da Informação Empresarial Simplificada (IES), atualmente fixada em 80 euros pela Portaria n.º 1416-A/2006. Altera os artigos 42.º e 55.º do Código de Registo Comercial, determina que o membro do Governo da Justiça altere a portaria para eliminar a taxa, revoga o artigo 7.º do Decreto-Lei n.º 8/2007 e entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Elimina a taxa de registo da prestação de contas associada à IES.",
+  "Altera os artigos 42.º e 55.º do Código de Registo Comercial; informação dos modelos oficiais pode servir fins estatísticos e científicos.",
+  "Obriga o Governo a alterar a Portaria n.º 1416-A/2006 para eliminar a taxa.",
+  "Revoga o artigo 7.º do Decreto-Lei n.º 8/2007.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "As empresas são obrigadas a entregar todos os anos a IES e pagam 80 euros para cumprir essa obrigação. A Iniciativa Liberal propõe acabar com esse pagamento, para reduzir custos e burocracia das empresas.",
+ "context": "A Iniciativa Liberal defende a simplificação fiscal e considera que a taxa de 80 euros é uma barreira desnecessária ao cumprimento de uma obrigação legal, que onera anualmente as empresas e prejudica a atratividade do país.",
+ "analysis": "Reduz custos às empresas e alinha-se com a simplificação administrativa. Fragilidades: a taxa constitui receita própria do Instituto dos Registos e do Notariado, e o texto não estima a perda de receita nem prevê compensação, o que pode afetar o financiamento do serviço. A justificação cita um número elevado de tributos de forma genérica, sem ligação direta a esta taxa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A taxa de 80 euros constitui receita própria do IRN; a sua eliminação reduz essa receita. O texto não apresenta estimativa do montante total."
+ },
+ "affected": [
+  "Empresas sujeitas à entrega da IES",
+  "Instituto dos Registos e do Notariado"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "ies",
+  "registo comercial",
+  "prestação de contas",
+  "taxas",
+  "simplificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

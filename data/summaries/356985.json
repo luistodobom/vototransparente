@@ -1,0 +1,42 @@
+{
+ "short_title": "Acelerar o uso de imóveis públicos devolutos",
+ "summary": "O Projeto de Lei n.º 690/XVII/1.ª, da Iniciativa Liberal, altera o Decreto-Lei n.º 106/2018 para acelerar a libertação de imóveis públicos sem utilização. Os organismos públicos passam a ter de comunicar, no prazo máximo de 15 dias corridos após a alteração de circunstâncias, os imóveis sem uso, podendo comunicar também imóveis sem utilização prevista. Aos municípios é dado um prazo de seis meses, a contar da primeira comunicação feita a partir de 1 de janeiro de 2027, para manifestarem interesse na transferência. Findo o prazo, ou se o município declarar não pretender o imóvel, a Estamo informa o Governo, e, com autorização do membro do Governo responsável pelas finanças, procede à venda em hasta pública nos termos do Decreto-Lei n.º 280/2007. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Os organismos públicos devem comunicar imóveis sem utilização no prazo máximo de 15 dias corridos após a alteração de circunstâncias.",
+  "Os municípios têm seis meses, desde a primeira comunicação feita a partir de 1 de janeiro de 2027, para manifestar interesse na transferência.",
+  "Findo o prazo ou se o município não tiver interesse, a Estamo informa o Governo sobre os imóveis sem aproveitamento previsto.",
+  "Com autorização do membro do Governo responsável pelas finanças, a Estamo vende os imóveis em hasta pública."
+ ],
+ "plain_language": "O Estado tem muitos edifícios vazios ou degradados. Este projeto obriga os organismos públicos a avisar rapidamente quando um imóvel deixa de ser usado, dá seis meses às câmaras municipais para dizerem se o querem e, se não o quiserem ou não responderem, o imóvel pode ser vendido em hasta pública pela Estamo. A ideia é pôr mais casas e edifícios a uso, em vez de os deixar a degradar-se.",
+ "context": "A Iniciativa Liberal refere que a Estamo identificou cerca de 56.500 imóveis do Estado, num universo de aproximadamente 60 mil por cadastrar, e que o Decreto-Lei n.º 106/2018, que transferiu competências para os municípios na gestão de imóveis sem utilização, não trouxe passados quase sete anos uma valorização ágil para quem procura habitação. Defende que, se um imóvel não tem uso nem previsão de uso, deve ser disponibilizado no mercado.",
+ "analysis": "Pontos fortes: cria prazos claros e uma consequência definida para imóveis sem uso, com possibilidade de encaixe financeiro para o Estado. Fragilidades: a venda em hasta pública pode afastar usos de interesse público, como habitação acessível, que o texto não garante; a redação do novo n.º 6 do artigo 15.º parece incompleta; seis meses podem ser curtos para municípios pequenos avaliarem o interesse; e o texto não quantifica o número de imóveis afetados nem as receitas.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A venda em hasta pública de imóveis públicos sem utilização pode gerar receita para o Estado, mas o texto não quantifica montantes."
+ },
+ "affected": [
+  "organismos públicos detentores de imóveis",
+  "municípios",
+  "Estamo",
+  "compradores e promotores imobiliários"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao",
+  "territorio"
+ ],
+ "tags": [
+  "imóveis públicos",
+  "Estamo",
+  "património do Estado",
+  "hasta pública",
+  "municípios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

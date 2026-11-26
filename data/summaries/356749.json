@@ -1,0 +1,40 @@
+{
+ "short_title": "Isenção de IRS nas compensações a vítimas de abusos sexuais",
+ "summary": "Proposta de Lei do Governo que exclui de tributação em IRS as compensações financeiras às vítimas de abusos sexuais ocorridos no contexto da Igreja Católica em Portugal, atribuídas nos termos do regulamento da Conferência Episcopal Portuguesa e da Conferência dos Institutos Religiosos de Portugal publicado em 25 de julho de 2024. A exclusão aplica-se também a compensações por abusos sexuais a menores e adultos vulneráveis atribuídas ao abrigo de outros regulamentos, acordos, convénios ou protocolos, reconhecidos por despacho conjunto dos membros do Governo responsáveis pelas Finanças e pela Justiça. A lei entra em vigor no dia seguinte ao da publicação e produz efeitos desde 1 de janeiro de 2026.",
+ "key_points": [
+  "Exclui de IRS as compensações às vítimas de abusos sexuais no contexto da Igreja Católica, nos termos do regulamento de 25 de julho de 2024.",
+  "Estende a exclusão a compensações por abusos sexuais a menores e adultos vulneráveis ao abrigo de outros regulamentos, acordos ou protocolos reconhecidos por despacho conjunto das Finanças e da Justiça.",
+  "Produz efeitos desde 1 de janeiro de 2026."
+ ],
+ "plain_language": "As vítimas de abusos sexuais na Igreja que recebem uma compensação financeira não terão de pagar IRS sobre esse dinheiro. A regra pode valer também para compensações semelhantes de outras entidades, se o Governo as reconhecer. Aplica-se a partir de 1 de janeiro de 2026.",
+ "context": "O Governo explica que a Conferência Episcopal Portuguesa e a Conferência dos Institutos Religiosos aprovaram em abril de 2024 compensações a vítimas, em casos em que os direitos indemnizatórios já prescreveram. Como o Código do IRS já exclui indemnizações por danos não patrimoniais fixadas por tribunais, o Governo entende que o mesmo princípio deve valer para estas compensações, fixadas segundo a jurisprudência.",
+ "analysis": "A medida é coerente com o tratamento fiscal das indemnizações judiciais por danos não patrimoniais e evita tributar uma reparação sem acréscimo patrimonial. A extensão a outros contextos depende de despacho conjunto, o que dá flexibilidade ao Governo, mas deixa por definir critérios de reconhecimento. O texto não indica o número de beneficiários nem o valor de receita fiscal prescindida, embora seja previsivelmente limitado.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A exclusão de tributação reduz a receita de IRS sobre as compensações abrangidas; o texto não quantifica o montante."
+ },
+ "affected": [
+  "vítimas de abusos sexuais no contexto da Igreja Católica",
+  "vítimas de abusos sexuais em contextos similares",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "irs",
+  "abusos sexuais",
+  "igreja católica",
+  "compensações financeiras",
+  "vítimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

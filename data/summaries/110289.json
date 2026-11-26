@@ -1,0 +1,39 @@
+{
+ "short_title": "Apoio domiciliário com cuidados básicos de saúde",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo o reforço do serviço de apoio domiciliário, passando a incluir cuidados e serviços básicos de saúde, nomeadamente médicos e de enfermagem, a regulamentar por portaria do Governo no prazo de 30 dias. O texto sublinha a importância do apoio não institucionalizado numa sociedade envelhecida e em plena pandemia de COVID-19, com os centros de dia suspensos, e refere cerca de 1,4 milhões de cuidadores informais, segundo a Associação de Cuidadores Informais. Recorda que o PSD propôs medida semelhante no Orçamento do Estado para 2021, que foi rejeitada. Sendo projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar o serviço de apoio domiciliário.",
+  "Incluir cuidados e serviços básicos de saúde, médicos e de enfermagem.",
+  "Regulamentação por portaria do Governo no prazo de 30 dias."
+ ],
+ "plain_language": "O PSD pede ao Governo que os serviços de apoio ao domicílio a pessoas idosas ou dependentes passem a incluir também cuidados básicos de saúde, como enfermagem e consultas. A regra deveria ficar definida em 30 dias. É uma recomendação, sem obrigação para o Governo.",
+ "context": "O proponente invoca o envelhecimento e o declínio demográfico, a pandemia, que levou à suspensão dos centros de dia, e a necessidade de retardar a institucionalização de pessoas idosas. Lembra que uma proposta idêntica do PSD ao Orçamento do Estado para 2021 foi rejeitada.",
+ "analysis": "A proposta responde a uma necessidade real e define um prazo concreto de regulamentação. É, no entanto, muito genérica: não define que cuidados, quem os presta (SNS ou instituições sociais), como se articula com os cuidados continuados e domiciliários já existentes, nem como se financia. O prazo de 30 dias é curto para uma mudança com implicações para a Segurança Social e para o SNS. Sendo recomendação, o efeito depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o apoio domiciliário a cuidados de saúde implica mais despesa pública, mas o texto não indica montantes nem a fonte de financiamento."
+ },
+ "affected": [
+  "pessoas idosas e dependentes em casa",
+  "cuidadores informais",
+  "instituições de apoio domiciliário",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "apoio domiciliário",
+  "cuidados de saúde",
+  "idosos",
+  "cuidadores informais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Regime transitório de equiparação de bombeiros sapadores",
+ "summary": "Projeto de Resolução do JPP que recomenda ao Governo um regime excecional e transitório, por aditamento ao Decreto-Lei n.º 86/2019, que permita aos assistentes operacionais e assistentes técnicos que exerçam funções correspondentes à carreira de bombeiro municipal e sapador (certificadas pela ANEPC) serem integrados nessa carreira por procedimento concursal. Propõe um prazo máximo de 24 meses para esses procedimentos, findo o qual cessa a possibilidade de equiparação, e a dispensa excecional de requisitos de ingresso, como a idade. O texto refere trabalhadores de seis municípios nesta situação. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Aditar um artigo ao Decreto-Lei n.º 86/2019 que permita integrar na carreira de bombeiro os assistentes operacionais e técnicos que exerçam essas funções, certificadas pela ANEPC.",
+  "Fixar em 24 meses o prazo máximo dos procedimentos concursais, findo o qual cessa a possibilidade de equiparação.",
+  "Dispensar excecionalmente requisitos de ingresso, como a idade.",
+  "Permitir aos municípios abrir vagas no quadro do corpo de bombeiros e regularizar a situação."
+ ],
+ "plain_language": "Alguns municípios contrataram, nos anos da pandemia, bombeiros como assistentes operacionais ou técnicos, e hoje não conseguem entrar na carreira de bombeiro. O JPP pede ao Governo uma regra temporária que permita a esses trabalhadores integrar a carreira, durante dois anos, mesmo se já passaram a idade limite. É uma recomendação.",
+ "context": "O proponente explica que o Decreto-Lei n.º 86/2019 equiparou as carreiras de bombeiros municipais às de sapadores com prazo limitado e sem mecanismos posteriores, e que a pandemia atrasou os concursos. Segundo o texto, trabalhadores de seis municípios (Alcanena, Sardoal, Cartaxo, Coruche, Alpiarça e Machico) ficaram fora da carreira, e o Decreto-Lei n.º 51/2025 não resolveu a situação.",
+ "analysis": "A proposta procura corrigir uma situação concreta de desigualdade entre trabalhadores com funções idênticas, com prazo limitado e certificação da ANEPC, o que dá algum rigor. Fragilidades: dispensar o requisito de idade e integrar sem as mesmas provas de ingresso pode levantar questões de igualdade face a outros candidatos e de aptidão física; o texto não quantifica trabalhadores nem custos para os municípios; e invoca princípios gerais (Carta Social Europeia, diretiva sobre tempo de trabalho) sem demonstrar a sua aplicação direta ao caso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração em carreira com remuneração própria aumentaria despesa dos municípios envolvidos; o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores contratados como assistentes operacionais ou técnicos a exercer funções de bombeiro",
+  "municípios de Alcanena, Sardoal, Cartaxo, Coruche, Alpiarça e Machico",
+  "corpos de bombeiros municipais"
+ ],
+ "categories": [
+  "administracao",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "bombeiros sapadores",
+  "carreira",
+  "regime transitório",
+  "autarquias",
+  "ANEPC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Orgânica do Registo de Transparência da Representação de Interesses",
+ "summary": "Projeto de Lei subscrito por deputados de vários partidos que estabelece a orgânica do Registo de Transparência da Representação de Interesses (RTRI), previsto na Lei n.º 5-A/2026. Cria o Conselho de Gestão do RTRI, órgão autónomo junto da Assembleia da República, composto por três personalidades de reconhecido mérito eleitas pelo Parlamento no início de cada legislatura pelo método de Hondt, com estatuto de independência e inamovibilidade e regime de incompatibilidades. Fixa o início de funcionamento pleno do RTRI a 1 de janeiro de 2027 e redefine prazos de aplicação da Lei n.º 5-A/2026: municípios e entidades intermunicipais a partir de 1 de junho de 2027, freguesias a partir de 1 de janeiro de 2028 e quadro sancionatório a 1 de junho de 2027.",
+ "key_points": [
+  "Cria o Conselho de Gestão do RTRI, com três membros eleitos pela Assembleia da República no início de cada legislatura, pelo método de Hondt.",
+  "Os membros são independentes e inamovíveis, com incompatibilidades, nomeadamente com cargos políticos e a atividade de representação de interesses.",
+  "Não podem integrar o Conselho quem tenha sido sancionado nos cinco anos anteriores ou tenha exercido representação de interesses nos três anos anteriores.",
+  "O RTRI entra plenamente em funcionamento a 1 de janeiro de 2027; as entidades que fazem representação de interesses registam-se até 60 dias depois.",
+  "A Lei n.º 5-A/2026 aplica-se aos municípios e entidades intermunicipais a partir de 1 de junho de 2027 e às freguesias a partir de 1 de janeiro de 2028; o quadro sancionatório entra em vigor a 1 de junho de 2027.",
+  "O apoio administrativo, financeiro e informático é assegurado pela Assembleia da República."
+ ],
+ "plain_language": "Uma lei de janeiro de 2026 criou um registo público de quem faz lóbi junto das entidades públicas, mas faltava definir quem o gere. Esta proposta cria um conselho independente de três pessoas, eleitas pela Assembleia da República, para gerir o registo, e adia alguns prazos de aplicação, sobretudo para câmaras municipais e juntas de freguesia.",
+ "context": "A iniciativa dá cumprimento ao artigo 14.º da Lei n.º 5-A/2026, de 28 de janeiro, que determinou que a gestão do RTRI seria assegurada por um órgão a definir pela Assembleia em diploma próprio. Também alarga o prazo de transição para os entes públicos autárquicos e a aplicação do quadro sancionatório, para assegurar o início pleno de funções do registo.",
+ "analysis": "A proposta dá resposta a uma lacuna de execução e prevê garantias de independência, como inamovibilidade, incompatibilidades e cláusulas de impedimento de quem fez lóbi. Há, porém, pontos de atenção: a eleição pelo Parlamento pelo método de Hondt pode refletir a distribuição partidária no órgão que deve ser independente; o apoio administrativo e financeiro depende da própria Assembleia; e o adiamento do quadro sancionatório e da aplicação às autarquias atrasa a efetividade do regime. O texto não indica custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio administrativo, financeiro e informático ao RTRI é assegurado pela Assembleia da República e os membros do Conselho exercem funções com abonos. O texto não quantifica o custo."
+ },
+ "affected": [
+  "entidades que fazem representação de interesses",
+  "entidades públicas, incluindo municípios e freguesias",
+  "Assembleia da República",
+  "membros do Conselho de Gestão do RTRI"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "lóbi",
+  "registo de transparência",
+  "representação de interesses",
+  "conselho de gestão",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Contratação coletiva e combate ao dumping social na segurança privada",
+ "summary": "O projeto de resolução do BE recomenda ao Governo seis medidas para o setor da segurança privada nos contratos públicos. Regulamentar em seis meses o documento de estrutura de custos do trabalho previsto no Código dos Contratos Públicos, excluindo propostas com número de trabalhadores e horas incompatíveis com os postos; aumentar em pelo menos 15% os valores base dos concursos públicos do Estado no próximo ano, valorizando as melhores práticas salariais; incluir nos avisos uma cláusula de respeito pela transmissão de estabelecimento; fixar preços mínimos por posto de trabalho nos cadernos de encargos; exigir como condição de admissão contratação coletiva em vigor com aumentos acima da inflação; e regulamentar formação especializada da ACT para o setor. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Regulamentar em seis meses a estrutura de custos do trabalho nos concursos públicos.",
+  "Aumentar em pelo menos 15% o valor base dos concursos públicos de segurança, vigilância e portaria.",
+  "Obrigar a cláusula de respeito pela transmissão de estabelecimento e manutenção dos direitos dos trabalhadores.",
+  "Fixar preços mínimos por posto de trabalho com base no contrato coletivo aplicável.",
+  "Exigir contratação coletiva em vigor, com aumentos acima da inflação, como condição de admissão aos concursos."
+ ],
+ "plain_language": "Os vigilantes e porteiros que trabalham em serviços públicos são contratados por empresas privadas que ganham concursos muitas vezes por oferecerem o preço mais baixo, à custa de salários e direitos. O BE propõe que o Estado, ao contratar estes serviços, aumente em 15% o valor dos concursos, exija contratos coletivos com aumentos acima da inflação, fixe preços mínimos por posto e proteja os trabalhadores quando muda a empresa. É uma recomendação.",
+ "context": "O proponente descreve um setor marcado por salários baixos, precariedade, incumprimento de descansos e desrespeito das regras da transmissão de estabelecimento quando muda a empresa contratada. Argumenta que a falta de regulamentação da estrutura de custos permite propostas irrealistas e que o Estado, como contratante, tem instrumentos para impor o cumprimento da lei.",
+ "analysis": "As medidas atacam causas identificadas, como propostas artificialmente baixas e perda de direitos na mudança de empresa, e usam a contratação pública como instrumento. Contudo, exigir contratação coletiva como condição de admissão e fixar preços mínimos pode limitar a concorrência e levantar questões de compatibilidade com o direito da contratação pública. O aumento de 15% não é fundamentado e implica custo para o Estado, sem estimativa. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento mínimo de 15% nos valores base dos concursos públicos e a fixação de preços mínimos aumentariam a despesa do Estado com a contratação de segurança. Não são indicados montantes totais."
+ },
+ "affected": [
+  "vigilantes e porteiros de empresas de segurança privada",
+  "empresas de segurança privada",
+  "serviços públicos contratantes",
+  "Autoridade para as Condições de Trabalho"
+ ],
+ "categories": [
+  "trabalho",
+  "economia",
+  "seguranca"
+ ],
+ "tags": [
+  "segurança privada",
+  "contratação pública",
+  "dumping social",
+  "contratação coletiva",
+  "transmissão de estabelecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

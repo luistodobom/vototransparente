@@ -1,0 +1,41 @@
+{
+ "short_title": "Prazos de pagamento do Estado e regime para os bombeiros",
+ "summary": "O PAN propõe a quinta alteração à Lei n.º 8/2012 (compromissos e pagamentos em atraso das entidades públicas). Redefine «pagamentos em atraso» como as contas a pagar que excedam os prazos de 30 ou 60 dias previstos no Decreto-Lei n.º 62/2013, e cria um regime especial para as Associações Humanitárias de Bombeiros: os pagamentos por serviços de proteção e socorro, emergência pré-hospitalar e transporte de doentes devem ser feitos em 30 dias, com juros de mora em caso de atraso. As dívidas já vencidas exigem um plano de regularização em 60 dias, com calendário vinculativo, e o incumprimento implica responsabilização financeira dos dirigentes. As entidades têm 30 dias para identificar as dívidas. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Redefine pagamentos em atraso por referência aos prazos de 30 ou 60 dias do Decreto-Lei n.º 62/2013.",
+  "Pagamento às associações de bombeiros no prazo máximo de 30 dias, com juros de mora.",
+  "Plano de regularização das dívidas vencidas em 60 dias, com calendário vinculativo.",
+  "Responsabilização financeira dos dirigentes em caso de incumprimento do plano.",
+  "Identificação das dívidas pelas entidades públicas em 30 dias."
+ ],
+ "plain_language": "O Estado e outras entidades públicas teriam de pagar mais depressa as suas faturas. Em especial, os bombeiros voluntários passariam a receber em 30 dias pelos serviços prestados, e as dívidas antigas teriam de ser pagas segundo um calendário. Quem não cumprir pode ser responsabilizado.",
+ "context": "O proponente considera que os atrasos de pagamento das entidades públicas prejudicam a liquidez das empresas, sobretudo as micro, pequenas e médias, e as associações que prestam funções essenciais, como os bombeiros, comprometendo salários e fornecedores. Defende previsibilidade financeira e responsabilização.",
+ "analysis": "Dá segurança de pagamento a entidades essenciais e cria consequências claras para o incumprimento. Fragilidades: o texto não apresenta dados sobre a dívida em atraso nem o impacto orçamental; a obrigação de pagar dívidas passadas num calendário pode pressionar as finanças de entidades como hospitais e autarquias; a responsabilização dos dirigentes remete para a lei em vigor sem a concretizar; e o regime especial cria tratamento distinto para um grupo sem explicar a diferença face a outros credores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obrigação de pagar mais depressa e regularizar dívidas vencidas antecipa despesa das entidades públicas e pode aumentar juros de mora. O texto não quantifica montantes."
+ },
+ "affected": [
+  "associações humanitárias de bombeiros",
+  "fornecedores das entidades públicas",
+  "entidades públicas devedoras"
+ ],
+ "categories": [
+  "seguranca",
+  "administracao",
+  "economia"
+ ],
+ "tags": [
+  "pagamentos em atraso",
+  "bombeiros",
+  "lei 8/2012",
+  "juros de mora"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

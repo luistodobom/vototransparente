@@ -1,0 +1,41 @@
+{
+ "short_title": "Avaliação da estrutura do Palácio da Justiça da Praia da Vitória",
+ "summary": "O Projeto de Resolução do CHEGA recomenda ao Governo que promova, com urgência, uma avaliação técnica independente à estrutura do Palácio da Justiça da Praia da Vitória, na ilha Terceira, através de peritagem ao estado de conservação, à segurança estrutural e às condições de utilização. Recomenda divulgar os resultados, apresentar um plano de requalificação profunda ou, se justificado, de substituição do edifício, e adotar as medidas necessárias para garantir condições dignas, de segurança e de acessibilidade até à intervenção definitiva. O texto refere inundações na cave, humidade, fissuras e mau isolamento. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação técnica independente e urgente, por peritagem, ao estado de conservação e à segurança estrutural do edifício.",
+  "Divulgação dos resultados e dos riscos identificados.",
+  "Plano de requalificação profunda ou eventual substituição do edifício, se a avaliação confirmar riscos estruturais.",
+  "Medidas provisórias para garantir condições dignas, segurança e acessibilidade até à intervenção definitiva."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que mande peritos independentes verificar se o edifício do tribunal da Praia da Vitória, na Terceira, é seguro, que publique as conclusões e prepare obras ou até a substituição do edifício, se for necessário. Entretanto, o tribunal deveria ter condições mínimas de segurança e acessibilidade.",
+ "context": "O proponente descreve inundações frequentes na cave com água acima de um metro, humidade, fissuras, mau isolamento e falta de acessibilidade. Cita o relatório de gestão da comarca dos Açores de 2025, que aponta a necessidade de obras e intervenções por realizar por falta de cabimento orçamental da Direção-Geral da Administração da Justiça.",
+ "analysis": "A proposta é proporcionada: pede primeiro um diagnóstico independente antes de decidir entre reabilitação ou substituição, e exige transparência. Fragilidades: não fixa prazos nem orçamento, e os problemas descritos assentam em relatos e num relatório de gestão, não em perícia técnica, que a própria proposta procura obter. A concretização depende de verbas da Justiça. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A peritagem, as medidas provisórias e as obras ou substituição do edifício implicariam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "magistrados e funcionários judiciais",
+  "advogados",
+  "utentes do tribunal da Praia da Vitória",
+  "Direção-Geral da Administração da Justiça"
+ ],
+ "categories": [
+  "justica",
+  "territorio"
+ ],
+ "tags": [
+  "palácio da justiça",
+  "praia da vitória",
+  "açores",
+  "peritagem",
+  "tribunais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

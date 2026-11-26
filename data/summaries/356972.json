@@ -1,0 +1,41 @@
+{
+ "short_title": "Medida \"Uva para Destilação 2026\" no Douro",
+ "summary": "Projeto de Resolução do JPP que recomenda ao Governo a criação, antes da vindima de 2026, de uma medida excecional \"Uva para Destilação 2026\" para valorizar os excedentes vitivinícolas da Região Demarcada do Douro, transformando-os em aguardente vínica. A medida seria em regime de apoio reembolsável, com reembolso através da venda da aguardente. Recomenda ainda que se considere a experiência da medida de 2025, que se pondere reutilizar verbas não executadas nessa medida e que as condições sejam conhecidas a tempo da vindima.",
+ "key_points": [
+  "Criar antes da vindima de 2026 a medida excecional \"Uva para Destilação 2026\".",
+  "Estruturá-la como apoio reembolsável, com reembolso pela comercialização da aguardente.",
+  "Considerar a experiência da medida de 2025 e os referenciais de medidas anteriores de destilação.",
+  "Ponderar o aproveitamento de verbas não executadas em 2025, se juridicamente admissível.",
+  "Garantir que as condições de acesso, execução e reembolso são conhecidas antes da vindima."
+ ],
+ "plain_language": "O JPP pede ao Governo que, antes da vindima de 2026, crie um apoio para que o vinho em excesso no Douro seja transformado em aguardente. O dinheiro adiantado aos produtores seria devolvido com a venda dessa aguardente. É uma recomendação, não uma obrigação para o Governo.",
+ "context": "O proponente prevê uma colheita normal (230 a 240 mil pipas) e, por isso, novos excedentes que pressionam os preços. A solução estrutural do Projeto de Lei 236/XVII, em apreciação, não produzirá efeitos antes da vindima de 2026. A medida de 2025 teve problemas de execução reconhecidos pela RCM 84/2026.",
+ "analysis": "A proposta responde a um problema concreto e de calendário, e o modelo reembolsável procura limitar o encargo público definitivo. Mantém, porém, incertezas: o reembolso depende do preço de venda da aguardente, a execução fraca da medida de 2025 levanta dúvidas sobre a capacidade administrativa e o texto ressalva que a avaliação jurídica e orçamental cabe ao Governo. Os valores indicados (cerca de 50 000 pipas, até 33,75 milhões de euros) são meramente indicativos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto indica, a título meramente indicativo, um montante máximo da ordem de 33,75 milhões de euros para cerca de 50 000 pipas, mas refere que seria recuperado através da venda da aguardente, pelo que o encargo definitivo seria menor."
+ },
+ "affected": [
+  "viticultores da Região Demarcada do Douro",
+  "adegas e operadores vitivinícolas",
+  "Ministério da Agricultura"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "douro",
+  "destilação",
+  "aguardente vínica",
+  "vindima 2026",
+  "viticultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Redução das taxas de IRC para 17% e 15% nas PME",
+ "summary": "Projeto de Lei do CHEGA que altera o artigo 87.º do Código do IRC. Reduz a taxa geral para 18% nos períodos que se iniciem em 2026 e 17% a partir de 2027, aplicando também 17% às entidades que não exerçam atividade comercial, industrial ou agrícola. Para as pequenas e médias empresas e empresas de pequena-média capitalização (Small Mid Cap) que exerçam atividade agrícola, comercial ou industrial, fixa uma taxa de 15% sobre os primeiros 50 000 euros de matéria coletável a partir de 2026. Entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Taxa geral de IRC de 18% em 2026 e 17% a partir de 2027.",
+  "Taxa de 15% sobre os primeiros 50 000 euros de matéria coletável de PME e Small Mid Cap, a partir de 2026.",
+  "Taxa de 17% para entidades que não exerçam, a título principal, atividade comercial, industrial ou agrícola.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O CHEGA propõe baixar o imposto sobre os lucros das empresas (IRC) para 18% em 2026 e 17% a partir de 2027. As pequenas e médias empresas pagariam 15% sobre os primeiros 50 000 euros de lucro tributável. O objetivo é tornar o país mais atrativo ao investimento.",
+ "context": "O proponente cita um relatório da Tax Foundation que coloca Portugal em 35.º lugar entre 38 países da OCDE no índice de competitividade fiscal de 2024, com a segunda taxa estatutária máxima de IRC e derramas adicionais. Defende que a descida estimula investimento, emprego e inovação e que pode ser parcialmente compensada pelo crescimento da base tributável.",
+ "analysis": "A proposta tem um calendário claro e inclui um benefício específico para PME, que são a maioria do tecido empresarial. Fragilidades: não estima a perda de receita nem indica compensações, assumindo que o crescimento económico a compensará parcialmente sem evidência; as descidas beneficiam também grandes empresas; não aborda as derramas, que pesam na taxa máxima citada. O texto tem alguma imprecisão na articulação das taxas e dos requisitos Small Mid Cap com o regime vigente.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução das taxas de IRC diminui a receita fiscal. O texto não quantifica a perda e apenas sugere que o crescimento poderá compensá-la em parte."
+ },
+ "affected": [
+  "empresas",
+  "PME e empresas de pequena-média capitalização",
+  "Estado, na receita do IRC"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IRC",
+  "PME",
+  "Small Mid Cap",
+  "competitividade fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

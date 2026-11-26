@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime permanente de resposta das autarquias a calamidades",
+ "summary": "O projeto de lei do LIVRE faz a décima sétima alteração à Lei n.º 73/2013 e aditá-lhe os artigos 53.º-A a 53.º-H, criando um regime permanente de flexibilização financeira para autarquias em situação de calamidade. As câmaras podem contrair empréstimos de curto prazo sem prévia autorização da assembleia municipal, sujeitos a ratificação posterior, e dar apoios a pessoas vulneráveis sem regulamento prévio. Podem realizar despesa a favor de outros municípios e freguesias afetados sem autorização do Governo, conceder isenções de taxas e tarifas, e ficam dispensadas de limites na previsão de receita para efeitos de fundos disponíveis nas despesas ligadas à calamidade. As despesas e perdas de receita não contam para o equilíbrio orçamental, as alterações orçamentais podem ser aprovadas pelo presidente da câmara, e as medidas são reportadas ao Governo. Critérios e montantes seguem por portaria.",
+ "key_points": [
+  "Empréstimos de curto prazo sem autorização prévia da assembleia municipal, com ratificação na reunião seguinte.",
+  "Despesa a favor de outros municípios e freguesias afetados, sem autorização do Governo.",
+  "Isenções de taxas, preços e tarifas por decisão da câmara, comunicadas à assembleia.",
+  "Despesas e perdas de receita ligadas à calamidade não relevam para o equilíbrio orçamental.",
+  "Autarquias reportam ao Governo as medidas adotadas."
+ ],
+ "plain_language": "Quando há uma calamidade, como uma tempestade, as câmaras municipais precisam de agir depressa mas esbarram em regras financeiras. O LIVRE propõe uma lei permanente que lhes dê mais liberdade nessas situações: pedir empréstimos de curto prazo, ajudar outros municípios, dar isenções e apoiar pessoas vulneráveis sem esperar por autorizações demoradas. As decisões têm depois de ser comunicadas e aprovadas pelas assembleias municipais.",
+ "context": "O proponente refere a tempestade que no início de 2026 devastou zonas dos distritos de Leiria, Coimbra e Santarém e considera que depender de regimes excecionais aprovados após cada evento gera incerteza e atraso. Defende um quadro permanente que dê previsibilidade, preservando a disciplina financeira e o controlo público.",
+ "analysis": "Um regime permanente evita legislação ad hoc e dá rapidez de resposta, com mecanismos de ratificação e reporte que mantêm algum controlo. Riscos: as exceções às regras de fundos disponíveis e de equilíbrio orçamental podem fragilizar a disciplina financeira e aumentar o endividamento; a delegação de montantes e critérios para portaria reduz o escrutínio parlamentar; e a definição de situação de calamidade determina o âmbito, sem salvaguardas contra uso excessivo. O texto não estima custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Permite às autarquias mais despesa, empréstimos e isenções em calamidade, com perda de receita local, e exclui estes efeitos do equilíbrio orçamental. Não há montantes no texto."
+ },
+ "affected": [
+  "municípios e freguesias em calamidade",
+  "entidades intermunicipais",
+  "populações afetadas e pessoas vulneráveis",
+  "assembleias municipais"
+ ],
+ "categories": [
+  "territorio",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "calamidade",
+  "finanças locais",
+  "autarquias",
+  "empréstimos de curto prazo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

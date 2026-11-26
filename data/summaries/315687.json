@@ -1,0 +1,42 @@
+{
+ "short_title": "Solução de equilíbrio na reprivatização da TAP",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que, no processo de privatização da TAP, estabeleça mecanismos legais para salvaguardar os interesses estratégicos nacionais no transporte aéreo. Propõe garantir representação governamental, parlamentar, institucional e sindical na Comissão Especial; impor ao adquirente obrigações de manter o hub em Lisboa, operações significativas no Porto e em Faro, rotas de serviço público, postos de trabalho e respeito pela contratação coletiva, com direito de reversão em caso de incumprimento; prever a responsabilidade solidária do adquirente por passivos e garantias da TAP; e reservar ao Estado direito de veto em matérias estratégicas. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Representação governamental, parlamentar, institucional e sindical na Comissão Especial do processo.",
+  "Obrigações contratuais ao adquirente: hub em Lisboa, operações no Porto e em Faro, rotas de serviço público, postos de trabalho e contratação coletiva.",
+  "Direito de reversão em caso de incumprimento.",
+  "Responsabilidade solidária do adquirente perante o Estado por passivos e garantias da TAP.",
+  "Direito de veto do Estado em matérias estratégicas, como mudança de sede, venda de ativos críticos, fim de rotas estratégicas e despedimentos."
+ ],
+ "plain_language": "O CHEGA aceita que a TAP seja privatizada, mas pede ao Governo que a venda venha com garantias: manter Lisboa como centro da operação, manter voos para o Porto e Faro, proteger empregos e dar ao Estado poder de travar decisões importantes. É só uma recomendação.",
+ "context": "O proponente descreve a TAP como empresa de bandeira essencial à conectividade, economia e turismo, que enfrentou problemas de solvência agravados pela pandemia, com o Estado a reforçar a sua posição e a conceder um empréstimo de 1,2 mil milhões de euros e um auxílio de reestruturação de 3,2 mil milhões de euros. Defende salvaguardas proporcionais por razões de soberania, segurança e interesse público.",
+ "analysis": "A proposta procura conciliar privatização e interesse estratégico, com mecanismos concretos e identificáveis. Fragilidades: as exigências (veto, reversão, responsabilidade solidária por passivos) podem reduzir o interesse dos investidores e o preço obtido; o texto reconhece que as salvaguardas devem ser proporcionais ao direito da União Europeia, mas não analisa a sua compatibilidade; e o veto do Estado em temas de gestão pode ser difícil de conciliar com uma privatização efetiva. Não há avaliação de custos nem de efeitos no valor da operação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Uma privatização geraria receita, mas as salvaguardas propostas podem reduzir o valor de venda; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores da TAP",
+  "passageiros e regiões servidas",
+  "Estado como acionista",
+  "potenciais adquirentes"
+ ],
+ "categories": [
+  "transportes",
+  "economia"
+ ],
+ "tags": [
+  "TAP",
+  "privatização",
+  "hub de Lisboa",
+  "salvaguardas",
+  "transporte aéreo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

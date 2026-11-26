@@ -1,0 +1,42 @@
+{
+ "short_title": "Radioamadorismo: sem idade mínima e exames descentralizados",
+ "summary": "O Projeto de Lei n.º 426/XVII/1.ª, do PAN, altera o Decreto-Lei n.º 53/2009 sobre radioamadores. Elimina o limite mínimo de idade para obter o Certificado de Amador Nacional, permitindo o acesso a menores com autorização escrita de quem exerça as responsabilidades parentais ou a tutela. Obriga a ANACOM, sempre que possível e consoante a procura, a descentralizar os locais de exame, podendo celebrar protocolos com autarquias, escolas e outras entidades. Os titulares menores de 16 anos só podem emitir supervisionados por um amador com 16 anos ou mais e privilégios iguais ou superiores aos seus, que é o responsável pelo funcionamento da estação.",
+ "key_points": [
+  "Elimina o limite mínimo de idade para o Certificado de Amador Nacional.",
+  "Exige autorização escrita de quem exerça o poder paternal ou a tutela no caso de menores.",
+  "A ANACOM deve promover exames em vários locais, com protocolos com autarquias e escolas.",
+  "Menores de 16 anos só emitem sob supervisão de um amador com 16 anos ou mais.",
+  "O supervisor é responsável pelo funcionamento da estação."
+ ],
+ "plain_language": "Atualmente existe uma idade mínima para fazer o exame de radioamador. A proposta retira essa idade, desde que os pais ou tutores autorizem, e pede que os exames se realizem em mais locais do país. Os menores de 16 anos poderão emitir apenas com a supervisão de um radioamador mais velho e experiente.",
+ "context": "O PAN considera o radioamadorismo uma atividade de valor científico, técnico e pedagógico, que estimula o interesse por ciências, tecnologia, engenharia e matemática. Defende remover obstáculos ao acesso de crianças e jovens e promover a igualdade de oportunidades, através de exames mais próximos dos candidatos.",
+ "analysis": "Pontos fortes: alarga o acesso e prevê salvaguardas, como autorização parental e supervisão. Fragilidades: sem idade mínima, não se avalia a capacidade de crianças muito novas para o exame teórico nem as responsabilidades técnicas e legais da emissão. A descentralização é condicionada a \"sempre que possível\", o que limita o efeito, e implica mais trabalho e custos para a ANACOM que o texto não estima.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A descentralização dos exames pode implicar encargos para a ANACOM e para entidades parceiras, sem valores indicados."
+ },
+ "affected": [
+  "crianças e jovens interessados em radioamadorismo",
+  "radioamadores",
+  "ANACOM",
+  "autarquias e escolas"
+ ],
+ "categories": [
+  "ciencia",
+  "comunicacao",
+  "educacao"
+ ],
+ "tags": [
+  "radioamadorismo",
+  "anacom",
+  "certificado de amador",
+  "menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

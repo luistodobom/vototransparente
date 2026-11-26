@@ -1,0 +1,44 @@
+{
+ "short_title": "Conservação da biodiversidade da Serra da Lousã",
+ "summary": "Projeto de resolução do Livre que recomenda ao Governo quatro medidas para a Serra da Lousã, integrada na Rede Natura 2000: implementar o mais depressa possível o Plano de Gestão da Zona Especial de Conservação; assegurar a regulação e fiscalização das atividades humanas nas áreas classificadas, dotando o ICNF e a GNR de recursos humanos, técnicos e financeiros e formação contínua; capacitar o ICNF para um programa de gestão de combustível nas faixas primárias e de modelação da paisagem na Lousã, incluindo a reintrodução da cabra-montês, do cavalo garrano, do veado e de outros herbívoros silvestres; e avaliar tecnicamente a eliminação dos cortes rasos em áreas classificadas, exceto por razões fitossanitárias comprovadas. Não é vinculativo.",
+ "key_points": [
+  "Recomenda a execução rápida do Plano de Gestão da ZEC Serra da Lousã.",
+  "Recomenda reforçar recursos e formação do ICNF e da GNR para a fiscalização das áreas classificadas.",
+  "Recomenda um programa de gestão de combustível com reintrodução de herbívoros como cabra-montês, cavalo garrano e veado.",
+  "Recomenda avaliar a proibição definitiva de cortes rasos em áreas classificadas, salvo razões fitossanitárias.",
+  "É uma recomendação não vinculativa."
+ ],
+ "plain_language": "O Livre pede ao Governo que proteja melhor a Serra da Lousã: pôr em prática o plano de gestão da área protegida, reforçar a fiscalização contra cortes ilegais de árvores, usar animais herbívoros para reduzir o mato e o risco de incêndio, e estudar a proibição de cortes rasos em zonas protegidas. É uma recomendação sem carácter obrigatório.",
+ "context": "O Livre refere a riqueza ecológica da ZEC Serra da Lousã, as ameaças de espécies exóticas, incêndios e desflorestação, e cortes rasos denunciados em 2021 e 2023, que originaram queixas e a petição \"Pela Preservação das Florestas e dos Ecossistemas em Portugal\". Nota que o plano de gestão, com consulta pública encerrada em dezembro de 2024, está quase todo por executar e que a Comissão Europeia recordou a condenação de Portugal por não adotar medidas de conservação.",
+ "analysis": "A proposta junta fiscalização, planeamento e prevenção de incêndios e baseia-se em instrumentos já existentes, como o plano de gestão. Fragilidades: não define prazos nem montantes; a reintrodução de herbívoros é apresentada com apoio em estudos mas sem avaliação dos riscos para a atividade agrícola, a segurança rodoviária ou os proprietários locais; e a recomendação sobre cortes rasos é apenas de avaliação técnica. A eficácia depende dos meios do ICNF e da GNR.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Pede reforço de recursos humanos, técnicos e financeiros ao ICNF e à GNR e um programa de gestão de combustível e reintrodução de espécies. O texto não indica montantes."
+ },
+ "affected": [
+  "Instituto da Conservação da Natureza e das Florestas",
+  "GNR",
+  "proprietários e baldios da Serra da Lousã",
+  "residentes da região",
+  "empresas madeireiras"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "agricultura"
+ ],
+ "tags": [
+  "Serra da Lousã",
+  "Rede Natura 2000",
+  "cortes rasos",
+  "rewilding",
+  "incêndios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Isenção de imposto à eletricidade renovável e travão aos preços da eletricidade",
+ "summary": "O PCP propõe três blocos de medidas. Primeiro, desonerar a eletricidade de origem renovável do Imposto sobre Produtos Petrolíferos e Energéticos (IPPE): o Governo regulamenta, até 30 de junho de 2022, a certificação da origem da eletricidade e, entretanto, a parcela renovável é estimada com base nos diagramas da REN e isenta, devendo a isenção ser repercutida nas tarifas. Segundo, alterar o Decreto-Lei 75/2012 para permitir novos contratos em tarifa regulada com o comercializador de último recurso e revogar os agravamentos da tarifa transitória. Terceiro, até 31 de dezembro de 2021, o Governo, com a ERSE, identifica ganhos do regime eólico, do mercado marginalista e das hídricas, e reporta ao Parlamento.",
+ "key_points": [
+  "Isenta de IPPE a parcela de eletricidade de origem renovável e obriga a repercutir a isenção nas tarifas.",
+  "Define estimativa da parcela renovável com base nos dados da REN enquanto não houver certificação.",
+  "Permite novos contratos de eletricidade em tarifa regulada em baixa tensão normal (BTN).",
+  "Revoga os fatores de agravamento da tarifa transitória.",
+  "Obriga o Governo e a ERSE a identificar ganhos em eólicas, mercado marginalista e hídricas e a reportar à Assembleia."
+ ],
+ "plain_language": "O PCP quer baixar a fatura da luz: retirar o imposto petrolífero sobre a eletricidade de origem renovável, permitir de novo que os consumidores contratem a tarifa regulada e obrigar o Governo a apurar e comunicar ao Parlamento os ganhos de alguns produtores que fazem subir o preço da eletricidade.",
+ "context": "O PCP argumenta que o IPPE, um imposto ambiental, incide também sobre a eletricidade renovável, contrariando o seu princípio, e que a tarifa regulada tem agravamentos artificiais para empurrar consumidores para o mercado liberalizado. Recorda que propostas semelhantes foram rejeitadas no Orçamento do Estado para 2021 e invoca os aumentos recentes de preço.",
+ "analysis": "As medidas podem reduzir faturas e dar mais opções aos consumidores. Fragilidades: a estimativa trimestral ou mensal da parcela renovável é uma aproximação e pode ser contestada; a isenção de IPPE reduz receita do Estado sem quantificação; permitir novos contratos em tarifa regulada vai contra a trajetória de liberalização do mercado; o artigo 4.º remete para estudos futuros, não fixando medidas concretas de redução do preço grossista. Há também inconsistência na referência a prazos de 2021 e 2022.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de IPPE sobre a parcela de eletricidade renovável diminuiria a receita do imposto; o texto não quantifica o valor."
+ },
+ "affected": [
+  "consumidores domésticos de eletricidade",
+  "micro, pequenas e médias empresas",
+  "produtores de eletricidade",
+  "comercializadores",
+  "ERSE e REN"
+ ],
+ "categories": [
+  "energia",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "eletricidade",
+  "ippe",
+  "tarifa regulada",
+  "energias renováveis",
+  "preço da energia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

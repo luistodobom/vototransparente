@@ -1,0 +1,41 @@
+{
+ "short_title": "Programa Nacional de Apoio às Cooperativas de Habitação",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo a criação, em 2026, de um Programa Nacional de Apoio às Cooperativas de Habitação, dando continuidade aos projetos-piloto de habitação cooperativa. Seriam elegíveis cooperativas legalmente constituídas com projetos de construção nova, reabilitação ou reconversão para habitação cooperativa permanente, com critérios de sustentabilidade e eficiência energética. Através do IHRU, o Estado poderia ceder gratuitamente o direito de superfície sobre terrenos públicos por pelo menos 75 anos, conceder financiamento bonificado até 80% do custo, atribuir garantias públicas a empréstimos e prestar apoio técnico. Os edifícios ficariam em propriedade coletiva, sem alienação, e preveem-se protocolos com autarquias. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Criação em 2026 de um programa nacional de apoio às cooperativas de habitação.",
+  "Cedência gratuita do direito de superfície de terrenos públicos por pelo menos 75 anos.",
+  "Financiamento bonificado até 80% do custo total das operações elegíveis.",
+  "Garantias públicas a empréstimos bancários e apoio técnico do IHRU.",
+  "Proibição de alienar os edifícios e protocolos com autarquias para terrenos e taxas."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie um programa para ajudar cooperativas a construir ou recuperar casas. O Estado cederia terrenos públicos, daria crédito mais barato e garantias. As casas ficariam sempre da cooperativa e não poderiam ser vendidas, para evitar especulação. É apenas uma recomendação ao Governo.",
+ "context": "O proponente invoca o direito constitucional à habitação e uma crise habitacional estrutural. Afirma que foram previstos projetos-piloto de habitação cooperativa cuja execução não é conhecida e que falta um programa nacional estruturado que permita alargar o modelo.",
+ "analysis": "A proposta é concreta nos instrumentos (terrenos, crédito, garantias) e ancora-se num modelo sem fins lucrativos. Contudo, sendo uma resolução, não obriga o Governo. Não indica orçamento, número de fogos nem calendário, e o texto fala em \"milhares de fogos\" sem fundamentação. A cedência gratuita de terrenos e as garantias públicas implicam custos e riscos orçamentais não estimados. A proibição total de alienação pode limitar a flexibilidade das cooperativas e dos cooperantes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Financiamento bonificado, garantias públicas e cedência gratuita de terrenos implicam custos ou receitas cessantes para o Estado. O texto não indica montantes."
+ },
+ "affected": [
+  "cooperativas de habitação",
+  "famílias sem acesso a habitação",
+  "autarquias",
+  "IHRU"
+ ],
+ "categories": [
+  "habitacao",
+  "economia"
+ ],
+ "tags": [
+  "cooperativas de habitação",
+  "direito de superfície",
+  "IHRU",
+  "habitação acessível"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

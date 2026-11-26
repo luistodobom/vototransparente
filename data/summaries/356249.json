@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão do regime dos TVDE (Uber, Bolt)",
+ "summary": "O Projeto de Lei do CHEGA altera a Lei n.º 45/2018, que regula o transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica (TVDE). Exige certificado de domínio da língua portuguesa e formação rodoviária feita nos centros do IMT, fixa a validade do certificado de motorista em cinco anos, revê a idade máxima dos veículos (sete anos, nove para os mais exigentes em emissões, 12 para elétricos e híbridos) e permite publicidade nos veículos. Impõe verificação permanente dos títulos junto do IMT, bloqueio imediato de quem não cumpra, limita a taxa de intermediação a 15%, prevê um acréscimo de 25% em períodos noturnos, fins de semana e feriados e reconhece às Regiões Autónomas o direito de adaptar a lei.",
+ "key_points": [
+  "Exige certificado de domínio funcional da língua portuguesa e curso de formação rodoviária com exame nos centros do IMT; certificado válido por cinco anos.",
+  "Plataformas têm de verificar de forma prévia e permanente a validade das licenças, certificados, carta de condução e registo do veículo junto da base de dados do IMT, bloqueando o acesso em caso de irregularidade.",
+  "Idade máxima do veículo: sete anos, até nove anos para os mais exigentes em emissões e até 12 para elétricos e híbridos; publicidade permitida e videovigilância nos veículos.",
+  "Taxa de intermediação das plataformas limitada a 15% do valor da viagem sem IVA; tarifas com acréscimo de 25% à noite, fins de semana e feriados.",
+  "Operadores devem ter sede ou atendimento presencial em Portugal e enviar à Autoridade da Mobilidade e dos Transportes os contratos com os motoristas.",
+  "Reconhece às Regiões Autónomas o direito de adaptar a lei por decreto legislativo regional."
+ ],
+ "plain_language": "A proposta endurece as regras de quem conduz para plataformas como a Uber ou a Bolt. Os motoristas teriam de provar que falam português e passar por formação com exame, e as plataformas teriam de confirmar sempre que documentos e carros estão em regra. Haveria um limite de 15% para a comissão da plataforma, preços com acréscimo noturno e aos fins de semana, e as regiões autónomas poderiam adaptar as regras.",
+ "context": "O proponente aponta o crescimento rápido do setor desde 2018 e queixas recorrentes: cancelamentos injustificados, faturação indevida, dificuldade de reclamação, partilha fraudulenta de licenças, excesso de horas de condução e falhas na formação. Invoca a segurança dos passageiros, a diretiva europeia sobre trabalho em plataformas, o impacto ambiental da frota e as especificidades das Regiões Autónomas.",
+ "analysis": "A proposta tenta resolver problemas reais de fiscalização, fraude e transparência, com verificação automática de títulos e regras mais claras para os preços. Fragilidades: o limite de 15% e o acréscimo de 25% são intervenções de preços que podem afetar a oferta ou ser repercutidas nos utilizadores; a exigência de exame de português e a vigilância por circuito fechado levantam questões de proporcionalidade e de proteção de dados; a redação com numerosas remissões «[...]» dificulta avaliar o efeito completo. O texto não estima custos para o IMT nem para as plataformas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica impactos. Há novas funções para o IMT (exames, base de dados) e possíveis efeitos nos preços e na receita fiscal do setor, mas sem estimativas."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "plataformas eletrónicas e operadores",
+  "passageiros",
+  "IMT e autoridades fiscalizadoras",
+  "Regiões Autónomas"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "trabalho"
+ ],
+ "tags": [
+  "TVDE",
+  "Lei 45/2018",
+  "plataformas digitais",
+  "motoristas",
+  "IMT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

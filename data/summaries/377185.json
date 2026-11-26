@@ -1,0 +1,42 @@
+{
+ "short_title": "Transparência e escrutínio na arbitragem administrativa",
+ "summary": "Este projeto de lei do Chega altera o Decreto-Lei n.º 111/2012, o Decreto-Lei n.º 18/2008, o Decreto-Lei n.º 56/2025 e a Lei n.º 15/2002 (CPTA). Prevê a participação permanente de um representante do Tribunal de Contas e do Ministério Público no acompanhamento dos processos arbitrais das parcerias público-privadas e, no Decreto-Lei n.º 56/2025, ao lado da ETF, sem os tornar partes. Limita a arbitragem em tribunais fora de centros institucionalizados a quatro situações, exigindo à entidade contratante uma avaliação de impacto de custos, sob pena de responsabilidade financeira. Aplica aos árbitros requisitos e impedimentos da arbitragem tributária e torna obrigatória a publicação das decisões arbitrais numa base de dados do Ministério da Justiça. Entra em vigor a 1 de outubro de 2026.",
+ "key_points": [
+  "Assegurar a participação permanente de um representante do Tribunal de Contas e do Ministério Público no acompanhamento de processos arbitrais, sem qualidade de parte.",
+  "Limitar a arbitragem fora de centros institucionalizados a casos de elevada complexidade, inexistência de centro, urgência incompatível, maior morosidade ou maior custo.",
+  "Exigir avaliação de impacto de custos (árbitros, advogados, taxas) e prever responsabilidade financeira em caso de incumprimento.",
+  "Aplicar aos árbitros os requisitos de designação e impedimentos da arbitragem tributária.",
+  "Publicar obrigatoriamente as decisões arbitrais numa base de dados do Ministério da Justiça."
+ ],
+ "plain_language": "Quando o Estado resolve litígios por arbitragem, ou seja, fora dos tribunais comuns, estão em causa dinheiros públicos. O Chega propõe que o Tribunal de Contas e o Ministério Público acompanhem estes processos, que a arbitragem fora de centros oficiais só possa ser usada em casos justificados e com cálculo prévio dos custos, que os árbitros cumpram regras de imparcialidade e que as decisões sejam publicadas.",
+ "context": "O proponente defende que a arbitragem administrativa é vantajosa face à morosidade dos tribunais, mas que, quando está em causa o Estado, está em jogo dinheiro público, pelo que devem existir exigências reforçadas de legalidade, imparcialidade, transparência, publicidade e responsabilidade. Propõe uma solução intermédia entre a proibição e um modelo baseado na autonomia privada.",
+ "analysis": "As medidas reforçam o escrutínio e a publicidade, que são pontos fracos frequentemente apontados à arbitragem com entidades públicas, e usam modelos já existentes na arbitragem tributária. Fragilidades: a presença permanente do Tribunal de Contas e do Ministério Público em todos os processos pode ser pesada e sobrecarregar essas entidades; as exceções à arbitragem fora de centros dependem de apreciações subjetivas; e a articulação com o regime que o Governo pretende criar para centros de arbitragem não é abordada. O texto tem também falhas de redação, como artigos repetidos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A maior exigência de acompanhamento e avaliação pode gerar custos administrativos e também poupanças na arbitragem com entidades públicas; o texto não os quantifica."
+ },
+ "affected": [
+  "entidades públicas contratantes",
+  "árbitros e centros de arbitragem",
+  "Tribunal de Contas e Ministério Público",
+  "parceiros privados em contratos com o Estado"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "arbitragem administrativa",
+  "transparência",
+  "tribunal de contas",
+  "parcerias público-privadas",
+  "publicidade das decisões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

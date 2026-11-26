@@ -1,0 +1,42 @@
+{
+ "short_title": "Produtos de apoio: financiamento mais rápido",
+ "summary": "O projeto de lei da Iniciativa Liberal altera os artigos 11.º e 11.º-A do Decreto-Lei n.º 93/2009, que regula o Sistema de Atribuição de Produtos de Apoio (SAPA) a pessoas com deficiência e incapacidade temporária. Em vez de a verba anual ser fixada até 31 de março, passa a ser fixada 30 dias depois da entrada em vigor do Orçamento do Estado. O reembolso passa a ser uma forma excecional de financiamento, limitada a compras urgentes justificadas e a reparações. Fixa-se em 30 dias úteis o prazo para as entidades financiadoras decidirem e, passado esse prazo, o pedido considera-se tacitamente deferido. Entra em vigor a 1 de janeiro de 2026.",
+ "key_points": [
+  "A verba anual dos produtos de apoio é fixada 30 dias após a entrada em vigor do Orçamento do Estado, e não até 31 de março.",
+  "O reembolso passa a ser exceção, para aquisições urgentes justificadas e reparações.",
+  "As entidades financiadoras têm 30 dias úteis para decidir cada pedido.",
+  "Se não decidirem a tempo, o pedido considera-se tacitamente deferido.",
+  "A lei entra em vigor a 1 de janeiro de 2026."
+ ],
+ "plain_language": "Os produtos de apoio, como cadeiras de rodas ou outros equipamentos, são financiados com uma verba que costuma ser fixada tarde, no fim do ano. Muitas pessoas acabam por pagar do seu bolso e esperar reembolso. A proposta obriga a definir a verba mais cedo, torna o reembolso uma exceção e dá um prazo para a decisão: se não houver resposta, o pedido é aceite.",
+ "context": "A Iniciativa Liberal afirma que o despacho conjunto que fixa as verbas é publicado normalmente em novembro, com efeitos retroativos a 1 de janeiro, contra o prazo legal de 31 de março. Segundo o texto, isso atrasa as respostas, faz do reembolso a regra e deixa pessoas sem produtos de apoio, apesar de sobrarem verbas.",
+ "analysis": "A proposta ataca um problema de calendário bem identificado e o deferimento tácito dá previsibilidade a quem requer. Fragilidades: ligar a verba ao Orçamento do Estado não garante que seja fixada a tempo, já que o prazo atual também não é cumprido. O deferimento tácito pode gerar compromissos de despesa sem cabimento e dificultar a análise clínica dos pedidos. O texto não avalia o custo adicional nem a capacidade das entidades financiadoras para cumprirem 30 dias úteis.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O deferimento tácito e a prioridade ao financiamento prévio podem aumentar a despesa pública com produtos de apoio. O texto não quantifica montantes."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "pessoas com incapacidade temporária",
+  "entidades financiadoras do SAPA"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "produtos de apoio",
+  "sapa",
+  "deficiência",
+  "deferimento tácito",
+  "financiamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

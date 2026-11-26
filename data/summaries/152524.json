@@ -1,0 +1,39 @@
+{
+ "short_title": "Consultas de psicologia e nutrição nos centros de saúde",
+ "summary": "Projeto de Lei do PAN que altera o Estatuto do Serviço Nacional de Saúde (Decreto-Lei n.º 52/2022) para garantir que os agrupamentos de centros de saúde (ACES), no âmbito das atividades de promoção da saúde e prevenção da doença, asseguram o acesso a consultas de psicologia e de nutrição. É aditado um n.º 4 ao artigo 34.º. Os encargos iniciais da implementação são suportados por dotação orçamental autónoma atribuída pelo Ministério da Saúde. A lei entraria em vigor em 1 de janeiro de 2024.",
+ "key_points": [
+  "Os ACES passam a assegurar o acesso a consultas de psicologia e de nutrição.",
+  "Novo n.º 4 do artigo 34.º do Estatuto do SNS.",
+  "Encargos iniciais cobertos por dotação orçamental autónoma do Ministério da Saúde.",
+  "Entrada em vigor em 1 de janeiro de 2024."
+ ],
+ "plain_language": "O projeto obriga os centros de saúde a oferecer consultas de psicologia e de nutrição aos utentes, com dinheiro próprio do Ministério da Saúde para arrancar. A ideia é prevenir doenças em vez de apenas as tratar.",
+ "context": "O PAN defende que a maioria dos recursos do SNS é gasta em doenças não transmissíveis evitáveis, invoca estimativas de que um terço das mortes precoces ligadas à alimentação, obesidade ou diabetes seria evitável e que o stress piorou durante a pandemia, e propõe priorizar a prevenção em proximidade.",
+ "analysis": "Ponto forte: aposta na prevenção e no acesso em proximidade a áreas com procura elevada. Fragilidades: não indica quantos profissionais seriam necessários, nem o custo, nem os critérios de acesso e listas de espera; o SNS enfrenta falta de profissionais, e a obrigação legal sem recursos pode ser difícil de cumprir; a dotação refere-se apenas aos encargos «iniciais».",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto prevê uma dotação orçamental autónoma do Ministério da Saúde para os encargos iniciais; não indica montantes, e a manutenção de consultas implica despesa corrente."
+ },
+ "affected": [
+  "utentes do SNS",
+  "psicólogos e nutricionistas",
+  "agrupamentos de centros de saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "psicologia",
+  "nutrição",
+  "cuidados de saúde primários",
+  "prevenção",
+  "aces"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

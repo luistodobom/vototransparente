@@ -1,0 +1,39 @@
+{
+ "short_title": "IMT a 0% na primeira casa de jovens, por decisão municipal",
+ "summary": "Projeto de Lei do PAN que altera o artigo 17.º do Código do IMT para permitir que os municípios, por deliberação da assembleia municipal, fixem em 0% a taxa de IMT aplicável à aquisição de prédio urbano ou fração destinada exclusivamente a habitação própria e permanente, com valor sobre que incide o imposto até 110 000 euros, quando o sujeito passivo tenha entre 18 e 35 anos. Entra em vigor a 1 de janeiro de 2024.",
+ "key_points": [
+  "Municípios podem fixar a taxa de IMT em 0% por deliberação da assembleia municipal.",
+  "Aplica-se a habitação própria e permanente com valor tributável até 110 000 euros.",
+  "Destina-se a compradores com idades entre 18 e 35 anos.",
+  "Entra em vigor a 1 de janeiro de 2024."
+ ],
+ "plain_language": "O PAN propõe que as câmaras possam deixar jovens até aos 35 anos comprar a primeira casa para viver, até 110 000 euros, sem pagar IMT. A decisão fica a cargo de cada município.",
+ "context": "O PAN refere que os jovens portugueses saem de casa dos pais, em média, aos 29 anos, que em 2017 apenas 24% dos menores de 30 anos eram donos de casa e que a maioria dos créditos à habitação de 2021 foi para clientes com mais de 35 anos. Defende incentivos à compra de habitação própria por jovens.",
+ "analysis": "Reduz um custo de entrada na compra de casa e respeita a autonomia dos municípios. Fragilidades: ao ser facultativa, cria diferenças territoriais; o limite de 110 000 euros pode excluir a maior parte do mercado nas áreas urbanas; e a isenção não resolve a dificuldade de acesso ao crédito nem a escassez de oferta. Reduz receita municipal sem compensação e pode ser capitalizada nos preços.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da taxa de IMT para 0% nos municípios que a adotarem reduz a receita destes. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "Jovens entre os 18 e os 35 anos compradores de primeira habitação",
+  "Municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "territorio"
+ ],
+ "tags": [
+  "imt",
+  "jovens",
+  "habitação própria",
+  "municípios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "short_title": "Fim da exigência de documentos de outros serviços públicos",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo que desonere os cidadãos de obter e apresentar documentos emitidos por serviços públicos junto de outros serviços públicos, incumbindo os serviços de os requererem e disponibilizarem entre si, em tempo útil, para obter um documento, iniciar um procedimento ou cumprir obrigações legais. É uma recomendação ao Governo, sem força vinculativa, e não indica prazo, custos nem sistema técnico concreto.",
+ "key_points": [
+  "Os cidadãos deixam de ter de obter documentos emitidos por um serviço público para os entregar a outro.",
+  "Os serviços públicos devem pedir e fornecer entre si a documentação necessária, em tempo útil.",
+  "Aplica-se à obtenção de documentos, ao início de procedimentos e ao cumprimento de obrigações legais."
+ ],
+ "plain_language": "Muitas vezes é preciso levar a um serviço público um documento que foi emitido por outro serviço público. A Iniciativa Liberal pede ao Governo que sejam os próprios serviços a trocar essa informação entre si, poupando tempo e dinheiro aos cidadãos.",
+ "context": "A Iniciativa Liberal dá exemplos como a comunicação de um óbito às Finanças para efeitos de Imposto do Selo e o pedido de subsídio de funeral à Segurança Social, em que se exigem certidões e documentos de identificação emitidos por entidades públicas, o que considera gerar morosidade e burocracia.",
+ "analysis": "Reduz a carga burocrática e é consensual nos princípios. Fragilidades: não define prazos, responsáveis, regras de interoperabilidade nem proteção de dados pessoais, e o princípio de que o cidadão não deve entregar documentos já na posse do Estado já consta de outras orientações de simplificação administrativa, pelo que a questão é de execução. Sendo recomendação, o seu efeito depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A interoperabilidade exige investimento em sistemas, e pode reduzir custos administrativos e receita de emolumentos de certidões. O texto não quantifica."
+ },
+ "affected": [
+  "Cidadãos que contactam serviços públicos",
+  "Serviços da Administração Pública"
+ ],
+ "categories": [
+  "administracao"
+ ],
+ "tags": [
+  "burocracia",
+  "interoperabilidade",
+  "simplificação administrativa",
+  "serviços públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Proteção dos consumidores, combate ao jogo ilegal e transparência no jogo",
+ "summary": "Projeto de Resolução do PS com sete recomendações ao Governo sobre o jogo. Pede a continuação da revisão do Regime Jurídico dos Jogos e Apostas Online, a unificação e interoperabilidade dos mecanismos de autoexclusão e soluções tecnológicas de bloqueio voluntário, a revisão das regras de publicidade e patrocínios com proteção de menores, o reforço do combate ao jogo ilegal (bloqueio célere de domínios e limites a processadores de pagamento), meios para as estruturas de inspeção, que as receitas do jogo afetas ao turismo favoreçam o interior e a criação de um Portal da Transparência do Mercado do Jogo. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Continuar a revisão do Regime Jurídico dos Jogos e Apostas Online.",
+  "Unificar e simplificar a autoexclusão, com interoperabilidade entre plataformas e bloqueio voluntário.",
+  "Rever o quadro da publicidade e dos patrocínios, com especial proteção dos menores.",
+  "Reforçar o combate ao jogo ilegal, com bloqueio de domínios e limites a processadores de pagamento.",
+  "Dotar as estruturas inspetivas de meios e competências.",
+  "Criar um Portal da Transparência do Mercado do Jogo e favorecer o interior nas receitas afetas ao turismo."
+ ],
+ "plain_language": "O PS pede ao Governo mais proteção contra o vício do jogo online: autoexclusão simples e válida em todos os sites, publicidade mais limitada, combate aos sites ilegais e um portal público com os valores do jogo e para onde vai o dinheiro.",
+ "context": "O PS reconhece o contributo do jogo para o financiamento do desporto, do turismo e da ação social, mas considera que o crescimento do jogo online, sobretudo entre os jovens, é um problema de saúde pública com efeitos na saúde mental, na família e na vida profissional, e que exige ação global.",
+ "analysis": "A proposta abrange prevenção, regulação, fiscalização e transparência de forma equilibrada e alinha-se com iniciativas em curso. Fragilidades: é genérica, sem prazos nem custos, e algumas medidas (bloqueio de domínios, limites a processadores de pagamento) têm dificuldades técnicas e jurídicas que o texto não detalha. A orientação das receitas para o interior não é concretizada.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Mais inspeção e transparência implicam despesa, enquanto as restrições ao jogo podem reduzir receitas; o texto não apresenta montantes."
+ },
+ "affected": [
+  "jogadores e famílias",
+  "operadores de jogo licenciados",
+  "Serviço de Regulação e Inspeção de Jogo",
+  "territórios do interior"
+ ],
+ "categories": [
+  "consumidores",
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "jogo online",
+  "autoexclusão",
+  "jogo ilegal",
+  "publicidade",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

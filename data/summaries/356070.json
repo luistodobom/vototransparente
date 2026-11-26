@@ -1,0 +1,42 @@
+{
+ "short_title": "Inventário dos edifícios públicos para painéis solares",
+ "summary": "O Projeto de Resolução n.º 545/XVII/1.ª, do LIVRE, recomenda ao Governo que instrua a Estamo, em articulação com as autarquias, para realizar um inventário nacional detalhado do património público com potencial solar, identificando, caracterizando e classificando os edifícios do Estado aptos a receber painéis fotovoltaicos, com estimativa do potencial de geração. Com base nesse inventário, pede um plano faseado de investimento até 2030 para instalar painéis em edifícios públicos, começando pelos de maior impacto energético e integrando-os preferencialmente em comunidades de energia renovável. O texto critica um programa de apoio do Governo por se limitar ao autoconsumo individual, sem autoconsumo coletivo nem injeção de excedentes na rede. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Instruir a Estamo, com as autarquias, para elaborar um inventário nacional do património público com potencial solar.",
+  "Classificar os edifícios do Estado aptos a receber painéis e estimar o potencial de geração fotovoltaica.",
+  "Definir um plano faseado de investimento até 2030 para painéis solares em edifícios públicos.",
+  "Começar pelos edifícios de maior impacto energético e integrá-los preferencialmente em comunidades de energia renovável."
+ ],
+ "plain_language": "O Estado tem muitos edifícios cujos telhados poderiam produzir eletricidade solar. Este projeto pede ao Governo que faça uma lista desses edifícios, calcule quanta energia poderiam gerar e prepare, até 2030, um plano para instalar painéis neles, de preferência ligados a comunidades de energia onde cidadãos e autarquias partilham a eletricidade. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O LIVRE defende a produção descentralizada de energia solar como forma de tornar o sistema mais resiliente, referindo as metas do PNEC 2030 de 20,8 GW solares, dos quais 5,7 GW descentralizados, e o apagão de 28 de abril de 2025. Aponta conflitos em torno da localização e escala de grandes projetos fotovoltaicos e propõe aproveitar coberturas já existentes, citando o número de prédios do Estado inscritos na Autoridade Tributária.",
+ "analysis": "Pontos fortes: aproveita infraestruturas já existentes, evita ocupação de solo e dá ao Estado um papel exemplar. Fragilidades: o texto não estima o investimento necessário nem a fonte de financiamento; o inventário pode ser moroso e não garante a execução do plano; e o desenho das comunidades de energia com edifícios públicos levanta questões de gestão e regulação que não são desenvolvidas. É uma recomendação sem força vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O inventário e o plano de investimento em painéis solares implicam despesa pública inicial, ainda que possam gerar poupança de eletricidade a prazo; o texto não quantifica montantes."
+ },
+ "affected": [
+  "Estamo e serviços do Estado",
+  "autarquias locais",
+  "comunidades de energia renovável",
+  "utilizadores de edifícios públicos"
+ ],
+ "categories": [
+  "energia",
+  "ambiente",
+  "administracao"
+ ],
+ "tags": [
+  "energia solar",
+  "fotovoltaico",
+  "edifícios públicos",
+  "Estamo",
+  "comunidades de energia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

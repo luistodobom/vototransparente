@@ -1,0 +1,43 @@
+{
+ "short_title": "Por uma educação inclusiva",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo oito medidas para a educação inclusiva: garantir o cumprimento da redução do número de alunos por turma com alunos com necessidades educativas específicas; reforçar os profissionais dos Centros de Apoio à Aprendizagem e assegurar que todos os alunos têm plano curricular; contratar professores com formação para as escolas de referência no domínio da visão e para as de educação bilingue (formação em LGP); contratar os técnicos especializados necessários; reforçar o financiamento dos Centros de Recursos para a Inclusão; valorizar e formar os assistentes operacionais; e criar condições para a máxima autonomia dos estudantes com deficiência, removendo barreiras arquitetónicas. Não é vinculativo.",
+ "key_points": [
+  "Cumprir a redução do número de alunos por turma com alunos com necessidades educativas específicas.",
+  "Reforçar profissionais e garantir plano curricular nos Centros de Apoio à Aprendizagem.",
+  "Contratar professores formados para escolas de referência de visão e de educação bilingue, e técnicos especializados.",
+  "Reforçar o financiamento dos Centros de Recursos para a Inclusão e a formação em tecnologias de apoio.",
+  "Valorizar e formar os assistentes operacionais e remover barreiras arquitetónicas nas escolas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que dê às escolas os meios para cumprir a lei da educação inclusiva: turmas mais pequenas quando há alunos com necessidades especiais, mais professores de educação especial e técnicos, mais auxiliares com formação, equipamentos de apoio e escolas sem barreiras físicas. É uma recomendação, o Governo não é obrigado a segui-la.",
+ "context": "O Bloco afirma que a lei de 2018 não tem tido recursos para ser cumprida. Cita um estudo da FENPROF em que 23% de cerca de 7978 turmas não respeitavam as normas, a falta de 276 técnicos numa amostra de 132 agrupamentos, 73% das escolas sem assistentes operacionais suficientes, e que apenas 1,8% destes receberam formação adequada. Refere ainda que cerca de 70% dos professores de educação especial têm mais de 50 anos.",
+ "analysis": "Baseia-se em dados concretos de um estudo sindical e traduz-se em medidas específicas e verificáveis. Fragilidades: não indica custos nem calendário, nem como recrutar docentes e técnicos num contexto de escassez; os dados citados provêm de uma organização sindical, sem confronto com dados do Ministério. A recomendação n.º 4 contém uma formulação aparentemente errada (pede para assegurar que as horas de LGP \"é insuficiente\"), o que obscurece a intenção. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Contratar professores, técnicos e auxiliares, reforçar financiamento e adaptar edifícios implica despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com necessidades educativas específicas",
+  "professores de educação especial",
+  "técnicos especializados e assistentes operacionais",
+  "famílias",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "educação especial",
+  "assistentes operacionais",
+  "turmas reduzidas",
+  "técnicos especializados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

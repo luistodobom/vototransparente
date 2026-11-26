@@ -1,0 +1,41 @@
+{
+ "short_title": "Reduzir para 10 os círculos eleitorais e criar círculo de compensação",
+ "summary": "O PAN propõe alterar a Lei Eleitoral para a Assembleia da República, reduzindo o número de círculos eleitorais para dez. Seis seriam no continente (as áreas metropolitanas de Lisboa e do Porto e as áreas das regiões Alentejo, Algarve, Centro e Norte), a que se somam os das regiões autónomas e um círculo da emigração, com sede em Lisboa. Cria-se também um círculo nacional de compensação, onde os votos se convertem em mandatos pelo método de Hondt, descontando os mandatos já obtidos nos restantes círculos. O círculo da emigração e o de compensação elegeriam quatro deputados cada, e os círculos do território nacional repartiriam 222 deputados. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Reduz o número de círculos eleitorais para dez.",
+  "Cria um círculo da emigração único, abrangendo todos os países estrangeiros, com quatro deputados.",
+  "Cria um círculo nacional de compensação, também com quatro deputados, com compensação pelos mandatos já obtidos.",
+  "Fixa em 222 o total de deputados pelos círculos do território nacional, distribuídos pelo método de Hondt.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Neste momento, muitos votos acabam sem eleger ninguém porque há círculos pequenos. O PAN propõe juntar os círculos em apenas dez e criar um círculo nacional onde se aproveitam os votos que sobram, para que a composição do Parlamento reflita melhor os resultados de cada partido. Os emigrantes passariam a ter um círculo próprio, com quatro deputados.",
+ "context": "O PAN invoca que, nas legislativas de 30 de janeiro de 2022, cerca de um em cada sete votos (mais de 671 mil) não se converteu em mandatos, e que isso afasta os cidadãos da participação. Defende que a Constituição sugere evitar círculos demasiado pequenos e propõe um modelo semelhante ao dos Açores.",
+ "analysis": "A proposta pode aumentar a proporcionalidade e dar maior peso a votos hoje desperdiçados, e apoia-se em dados concretos das eleições de 2022. Em contrapartida, reduzir círculos enfraquece a ligação direta entre eleitores e deputados em territórios menos povoados, o que o proponente tenta atenuar sem detalhar o mecanismo. O texto não explicita a redistribuição de lugares por círculo nem os efeitos sobre cada partido. Trata-se de lei orgânica, cuja alteração exige maioria qualificada, e o próprio proponente reconhece a necessidade de reformas mais profundas por revisão constitucional.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa altera regras de conversão de votos em mandatos e não prevê, no texto, impacto orçamental."
+ },
+ "affected": [
+  "eleitores",
+  "partidos políticos",
+  "comunidades portuguesas no estrangeiro",
+  "deputados à Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "lei eleitoral",
+  "círculos eleitorais",
+  "círculo de compensação",
+  "método de hondt",
+  "emigração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

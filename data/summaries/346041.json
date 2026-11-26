@@ -1,0 +1,38 @@
+{
+ "short_title": "Fidelizar dadores de sangue jovens",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo três medidas para fidelizar dadores jovens: isentar do pagamento dos títulos mensais de transporte público coletivo das áreas metropolitanas e comunidades intermunicipais, e do Passe Ferroviário Verde, os dadores de sangue regulares até aos 30 anos inclusive; atribuir a esses dadores o acesso à subscrição anual de um jornal ou revista de informação geral ou económica em formato digital; e promover, através do IPST, um sistema de notificações digitais, inspirado no modelo sueco, que informe o dador, por SMS ou plataforma, quando a sua dádiva é mobilizada para uso clínico.",
+ "key_points": [
+  "Isenção dos títulos mensais de transporte público e do Passe Ferroviário Verde para dadores regulares até aos 30 anos.",
+  "Subscrição anual gratuita de um jornal ou revista digital para esses dadores.",
+  "Sistema de notificação digital pelo IPST quando a dádiva é utilizada clinicamente."
+ ],
+ "plain_language": "O BE propõe oferecer a jovens dadores regulares passe de transportes gratuito e uma subscrição de jornal digital, e avisá-los por SMS quando o seu sangue for usado, para que continuem a doar.",
+ "context": "O BE cita que em 2025 houve 142 245 dadores, menos nove mil do que em 2023, e que os novos dadores desceram de 22 295 em 2022 para 20 202 em 2025, com recuo entre os 18 e os 24 anos. Aponta incentivos noutros países, como dias de folga em Itália e descontos em transportes na Polónia e na Roménia.",
+ "analysis": "A medida visa o problema de renovação geracional e usa exemplos europeus. Fragilidades: não há evidência no texto de que estes incentivos aumentem a adesão; o passe gratuito implica um custo que não é estimado nem tem fonte de financiamento definida; e atribuir benefícios materiais pode colidir com o princípio de dádiva benévola e não remunerada, que o próprio texto reconhece como pilar. A subscrição de jornais cria também questões de escolha e neutralidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A isenção de passes e as subscrições de jornais implicam despesa pública (ou perda de receita dos transportes), sem montante indicado no texto."
+ },
+ "affected": [
+  "dadores de sangue regulares até aos 30 anos",
+  "operadores de transporte público",
+  "Instituto Português do Sangue e da Transplantação"
+ ],
+ "categories": [
+  "saude",
+  "transportes"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "jovens dadores",
+  "passe de transportes",
+  "IPST"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

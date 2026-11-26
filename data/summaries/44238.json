@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibir artefactos para captura de aves silvestres",
+ "summary": "Projeto de lei do PAN que proíbe o fabrico, posse, utilização e venda de artefactos que sirvam unicamente para capturar aves silvestres não sujeitas a exploração cinegética, como armadilhas de mola, visgo, armadilhas para aves de rapina e redes verticais, salvo autorização para fins científicos ou académicos. Proíbe também a apanha da formiga-de-asa usada como isco. Atribui a fiscalização ao ICNF, câmaras municipais, PM, GNR, PSP e outras autoridades, qualifica a infração como contraordenação ambiental leve, distribui o produto das coimas (25% autoridade autuante, 25% instrutória, 50% Estado) e entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Proíbe fabrico, posse, utilização e venda de artefactos usados só para capturar aves silvestres não cinegéticas.",
+  "Exceção para fins científicos ou académicos.",
+  "Proíbe a apanha da formiga-de-asa como isco.",
+  "Contraordenação ambiental leve, com repartição das coimas entre autoridades e Estado.",
+  "Entra em vigor 90 dias após a publicação."
+ ],
+ "plain_language": "O PAN quer proibir fabricar, ter, usar e vender armadilhas, visgo e redes feitas só para apanhar aves selvagens que não podem ser caçadas. Quem não cumprir pagará uma coima. A fiscalização cabe a várias autoridades, incluindo a polícia e as câmaras.",
+ "context": "O proponente cita um estudo da SPEA segundo o qual cerca de 40 000 aves são mortas para gastronomia e 10 000 capturadas para cativeiro, apesar de ilegal, e que os meios de captura são vendidos livremente em lojas e na internet. Alega ainda que a fiscalização é insuficiente e que Portugal é apenas observador de uma task force internacional sobre o tema.",
+ "analysis": "A proibição dos instrumentos facilita a fiscalização e age sobre a cadeia de venda, com base em dados de uma entidade especializada. Contudo, a qualificação como contraordenação ambiental leve pode ter efeito dissuasor limitado, e redes de captura também são usadas na anilhagem científica, exigindo a exceção prevista. O texto reconhece que não há estimativas oficiais do impacto e não indica reforço de meios de fiscalização.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A aplicação de coimas gera receita repartida entre autoridades e Estado, mas o texto não estima valores; a fiscalização pode implicar custos não quantificados."
+ },
+ "affected": [
+  "apanhadores e vendedores de armadilhas",
+  "comerciantes",
+  "entidades fiscalizadoras",
+  "aves silvestres"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "aves silvestres",
+  "visgo",
+  "armadilhas",
+  "contraordenação",
+  "spea"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Reposição de freguesias agregadas em 2013",
+ "summary": "Projeto de lei subscrito por PSD, PS, BE, PCP, LIVRE e PAN que concretiza o procedimento especial, simplificado e transitório previsto na Lei n.º 39/2021, repondo freguesias que a Lei n.º 11-A/2013 tinha agregado. Extingue as freguesias e uniões de freguesias identificadas na coluna B do Anexo I e repõe as da coluna C, com a circunscrição territorial anterior à agregação. Cria uma Comissão de Extinção por freguesia a extinguir, eleita e empossada em 30 dias, que prepara os mapas de pessoal, bens, direitos e obrigações, com mapas finais aprovados até 15 de junho de 2025 e ratificados até 30 de junho. Prevê Comissões Instaladoras para cada freguesia reposta, empossadas até 1 de julho de 2025. O texto analisado está truncado e inclui extensos anexos com a lista das freguesias.",
+ "key_points": [
+  "Extingue as uniões de freguesias listadas no Anexo I e repõe as freguesias agregadas em 2013.",
+  "As freguesias repostas têm a circunscrição territorial anterior à agregação.",
+  "Cada freguesia a extinguir tem uma Comissão de Extinção, que atualiza os mapas de pessoal, bens, direitos e obrigações.",
+  "Os mapas finais são aprovados até 15 de junho de 2025 e ratificados pela assembleia de freguesia até 30 de junho.",
+  "As freguesias repostas assumem património, direitos e deveres, e recebem os trabalhadores identificados, que mantêm os direitos adquiridos."
+ ],
+ "plain_language": "Esta lei desfaz a junção de várias freguesias feita em 2013. As freguesias que tinham sido agrupadas voltam a existir separadamente, com os limites que tinham antes. Há comissões que repartem o dinheiro, os bens e os trabalhadores entre as freguesias e outras que preparam a instalação dos novos órgãos, tudo com prazos até meados de 2025, antes das eleições autárquicas desse ano.",
+ "context": "O regime de 2021 permitiu corrigir, a título transitório, a reorganização de 2013 quando houvesse erro manifesto e prejuízo para as populações. Como passou tempo entre as deliberações autárquicas e a entrada em vigor desta lei, torna-se necessária uma figura nova, a Comissão de Extinção, para atualizar os mapas e garantir a desagregação ordenada até às eleições autárquicas de 2025.",
+ "analysis": "A iniciativa reúne seis grupos parlamentares e dá resposta a pedidos das populações, com regras claras de partilha de bens e pessoal e prazos definidos. Os riscos são o curto prazo para dividir património e trabalhadores, possíveis litígios nos critérios de partilha, a multiplicação de órgãos autárquicos e a eventual perda de escala administrativa. O texto analisado não estima os custos nem quantifica o número de freguesias repostas, que consta nos anexos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reposição de freguesias implica mais órgãos autárquicos e estruturas administrativas, e as freguesias repostas assumem os encargos dos trabalhadores transferidos; o texto não quantifica o valor."
+ },
+ "affected": [
+  "freguesias e uniões de freguesias abrangidas",
+  "população das freguesias repostas",
+  "trabalhadores das juntas de freguesia",
+  "autarcas"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "freguesias",
+  "reorganização administrativa",
+  "autarquias",
+  "lei n.º 39/2021",
+  "desagregação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

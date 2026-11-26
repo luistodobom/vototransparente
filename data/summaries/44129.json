@@ -1,0 +1,40 @@
+{
+ "short_title": "Cartão de cidadão para pessoas em situação de sem-abrigo",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que atribua um cartão de identificação a todas as pessoas sem casa ou teto, inscrevendo esse dado no chip identificativo, e que distinga os conceitos de residência e de morada. Propõe que a morada seja comprovada pelo testemunho do técnico ou assistente social da área onde a pessoa pernoita, e que se desenvolva um sistema informático nacional comum aos vários intervenientes na área dos sem-abrigo, para facilitar o acompanhamento de cada caso. O texto parte de uma resposta do Provedor de Justiça que entende dever ser negado o cartão a quem não tenha casa, e invoca o artigo 12.º da Lei de Bases da Habitação, sobre o direito à morada. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Atribuir cartão de identificação às pessoas sem casa ou teto, registando essa condição no chip.",
+  "Distinguir juridicamente residência e morada.",
+  "Comprovar a morada através do testemunho de técnico ou assistente social.",
+  "Criar um sistema informático nacional comum para acompanhar as pessoas em situação de sem-abrigo."
+ ],
+ "plain_language": "O PAN quer que quem vive na rua possa ter cartão de cidadão, que hoje exige uma morada. Propõe que um assistente social possa confirmar onde a pessoa dorme e que exista um sistema informático único para acompanhar cada caso entre serviços e localidades. É uma recomendação ao Governo, sem obrigatoriedade.",
+ "context": "O PAN refere que as pessoas sem abrigo não conseguem obter o cartão de cidadão por falta de residência, o que limita o acesso a direitos, apesar das estratégias nacionais de integração. Cita uma resposta do Provedor de Justiça que recusa o apartado como residência, o artigo 12.º da Lei de Bases da Habitação e 4.003 pessoas inscritas na Segurança Social em 2016.",
+ "analysis": "A proposta enfrenta um obstáculo burocrático real e liga-o à Lei de Bases da Habitação, ainda por regulamentar. A distinção entre residência e morada é uma solução jurídica plausível. Contudo, faltam detalhes sobre o procedimento, a validade do testemunho, a proteção de dados e a articulação com o cartão provisório já previsto na lei. O sistema informático nacional levanta questões de privacidade e custo, não abordadas. Sendo resolução, depende da iniciativa do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A emissão de cartões e a criação de um sistema informático nacional implicariam custos, que o texto não quantifica."
+ },
+ "affected": [
+  "pessoas em situação de sem-abrigo",
+  "técnicos e assistentes sociais",
+  "serviços de identificação civil"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "habitacao"
+ ],
+ "tags": [
+  "sem-abrigo",
+  "cartão de cidadão",
+  "morada",
+  "exclusão social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

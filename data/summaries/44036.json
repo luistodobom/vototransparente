@@ -1,0 +1,39 @@
+{
+ "short_title": "Medidas para minimizar o impacto da doença inflamatória do intestino (CDS-PP)",
+ "summary": "O CDS-PP propõe que a Assembleia da República recomende ao Governo três medidas para pessoas com doença inflamatória do intestino (doença de Crohn e colite ulcerosa): proporcionar um cartão de acesso prioritário a casas de banho públicas e em espaços privados de acesso público; isentá-las do pagamento de taxas moderadoras; e sensibilizar a comunidade médica para o encaminhamento destes doentes para junta médica, que afira o grau de incapacidade resultante da doença. O texto refere que, com uma incapacidade igual ou superior a 60%, o doente acede aos benefícios previstos na legislação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda um cartão de acesso prioritário a casas de banho públicas e em espaços privados de acesso público.",
+  "Recomenda a isenção de taxas moderadoras para portadores de doença inflamatória do intestino.",
+  "Recomenda sensibilizar os médicos para o encaminhamento para junta médica.",
+  "A incapacidade igual ou superior a 60% dá acesso aos benefícios da legislação em vigor."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que as pessoas com Crohn ou colite ulcerosa tenham um cartão para usar casas de banho com prioridade, deixem de pagar taxas moderadoras e sejam encaminhadas pelos médicos para avaliação do grau de incapacidade, que pode dar acesso a benefícios. É uma recomendação, sem obrigação legal.",
+ "context": "O proponente descreve a doença como crónica, incapacitante, com tendência a agravar-se e que afeta, estima, entre 15.000 e 20.000 portugueses, sobretudo em idade ativa. Justifica o cartão pelo risco de incontinência em público, as taxas moderadoras pelos acompanhamentos em várias especialidades e a junta médica pelo acesso a benefícios.",
+ "analysis": "As medidas são concretas e de aplicação relativamente simples, e dão resposta a dificuldades quotidianas dos doentes. Fragilidades: o texto não explica como funcionaria o cartão nem quem o emitiria, nem como se garantiria a sua aceitação em espaços privados, e não quantifica a perda de receita com a isenção de taxas moderadoras. A sensibilização médica é de eficácia difícil de avaliar. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de taxas moderadoras reduziria a receita do SNS com essas taxas, sem montante indicado no texto."
+ },
+ "affected": [
+  "pessoas com doença de Crohn e colite ulcerosa",
+  "médicos de família",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "doença inflamatória do intestino",
+  "cartão de acesso wc",
+  "taxas moderadoras",
+  "incapacidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

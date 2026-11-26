@@ -1,0 +1,39 @@
+{
+ "short_title": "Reconhecer o Estado da Palestina (BE)",
+ "summary": "O BE propõe que a Assembleia da República recomende ao Governo que reconheça o Estado da Palestina com as fronteiras anteriores à Guerra dos Seis Dias de 1967. A exposição de motivos refere a Resolução 181 da ONU (1947), resoluções do Conselho de Segurança, o facto de 138 dos 193 Estados-membros da ONU reconhecerem a Palestina e a presidência portuguesa do Conselho da União Europeia. Considera que o reconhecimento deve ser soberano, sem depender de terceiros, e que deve incluir a resolução de questões como a libertação de prisioneiros, o tratamento de refugiados, o desmantelamento de colonatos e o levantamento dos bloqueios. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda o reconhecimento do Estado da Palestina nas fronteiras anteriores a 1967.",
+  "Defende que o reconhecimento seja soberano, sem depender de coordenação com terceiros.",
+  "Associa o reconhecimento à resolução de questões como prisioneiros, refugiados, colonatos e bloqueios.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O BE pede que Portugal reconheça oficialmente a Palestina como Estado, dentro das fronteiras anteriores a 1967, e defende que o faça sem esperar por outros países. A decisão final é do Governo.",
+ "context": "O BE invoca o direito internacional, as resoluções da ONU e o artigo 7.º da Constituição, e refere que 138 Estados-membros da ONU já reconhecem a Palestina. Critica a resolução de 2012 que recomendou o reconhecimento em coordenação com a União Europeia, por não o ter concretizado, e aponta a presidência portuguesa do Conselho da UE como oportunidade.",
+ "analysis": "A proposta é curta e clara na recomendação, apoiada por resoluções internacionais. Fragilidades: o texto usa linguagem fortemente qualificativa sobre Israel (incluindo a referência a apartheid), que não é objeto de análise jurídica; não aborda as implicações diplomáticas nem a segurança de Israel; mistura o reconhecimento com condições (prisioneiros, colonatos, refugiados) que não fazem parte da recomendação final, o que gera alguma ambiguidade. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O reconhecimento de um Estado é um ato de política externa sem impacto orçamental indicado no texto."
+ },
+ "affected": [
+  "Governo",
+  "povo palestiniano",
+  "relações diplomáticas com Israel e União Europeia"
+ ],
+ "categories": [
+  "internacional",
+  "direitos"
+ ],
+ "tags": [
+  "palestina",
+  "reconhecimento de estados",
+  "política externa",
+  "onu"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

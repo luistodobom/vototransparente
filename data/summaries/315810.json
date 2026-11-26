@@ -1,0 +1,43 @@
+{
+ "short_title": "Compensação aos utentes por falhas dos serviços públicos",
+ "summary": "O projeto de lei da Iniciativa Liberal cria mecanismos de compensação aos cidadãos quando os serviços públicos falham ou se atrasam, alterando cinco diplomas. Nos transportes ferroviários, os titulares de passe que sofram atrasos ou supressões sucessivas passam a ter direito a indemnização proporcional, atribuída automaticamente quando fornecerem os dados. Nos registos e notariado, são devolvidos os emolumentos se o prazo de conclusão for excedido; no Código do Procedimento Administrativo, a falta de decisão no prazo legal implica a devolução das taxas; nas taxas das autarquias, o atraso implica reembolso, com prazo supletivo de 60 dias. No SNS, o vale cirurgia pode ser atribuído com base no tempo médio de resposta do hospital de origem. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Indemnização proporcional a titulares de passes que sofram atrasos ou anulações sucessivas na ferrovia, atribuída de forma automática.",
+  "Devolução dos emolumentos dos registos e notariado quando os atos excedem o prazo.",
+  "Devolução das taxas administrativas quando não há decisão no prazo legal e reembolso de taxas autárquicas por atrasos.",
+  "Prazo supletivo de 60 dias para serviços autárquicos sem prazo legal.",
+  "Acesso mais rápido a prestadores alternativos no SNS com base no tempo médio de resposta do hospital."
+ ],
+ "plain_language": "Se o Estado, uma autarquia ou o SNS não cumprirem os prazos, o cidadão não paga ou é compensado: devolve-se a taxa de um registo ou licença atrasados, quem tem passe de comboio recebe compensação por falhas repetidas e quem espera por uma cirurgia pode recorrer mais cedo a um prestador alternativo.",
+ "context": "A Iniciativa Liberal argumenta que, quando um serviço público falha, o utente mais frágil é o prejudicado e o Estado não sofre consequências. Considera o mínimo exigível não cobrar por um serviço atrasado ou não garantido, e compensar os cidadãos, sobretudo em saúde, habitação, transportes e procedimentos administrativos.",
+ "analysis": "A proposta dá incentivos concretos ao cumprimento de prazos e protege utentes sem alternativa. Fragilidades: a devolução de taxas pode reduzir a receita de serviços já sobrecarregados, sem eliminar a causa dos atrasos; o prazo supletivo de 60 dias nas autarquias é genérico; o alargamento do vale cirurgia pode aumentar os custos do SNS com prestadores externos. O texto não estima custos nem o número de casos abrangidos, e a exceção para passes com alternativas viáveis pode ser difícil de aplicar.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A devolução de taxas e emolumentos reduz receita e as compensações e prestadores alternativos aumentam despesa, enquanto o cumprimento de prazos poderia evitar custos. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "utentes de transportes ferroviários",
+  "cidadãos e empresas que recorrem a registos e licenciamentos",
+  "utentes do SNS em lista de espera",
+  "autarquias e operadores públicos"
+ ],
+ "categories": [
+  "administracao",
+  "consumidores",
+  "saude"
+ ],
+ "tags": [
+  "compensação",
+  "atrasos",
+  "taxas",
+  "vale cirurgia",
+  "passes ferroviários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

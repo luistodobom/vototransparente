@@ -1,0 +1,44 @@
+{
+ "short_title": "Nova metodologia para a estabilização de emergência pós-fogo",
+ "summary": "Projeto de Lei do LIVRE que altera o artigo 45.º do Decreto-Lei n.º 82/2021 (Sistema de Gestão Integrada de Fogos Rurais). Reduz o prazo da avaliação da necessidade de medidas de recuperação (de 30 para 20 dias, e 15 dias quando há estabilização de emergência) e obriga o ICNF a informar municípios e organizações de proprietários e baldios em 15 dias. Define áreas prioritárias (áreas classificadas, REN, habitats protegidos e declives superiores a 20%), lista técnicas de estabilização, como mulching e barreiras de escorrência, e obriga a concluir as ações em 30 dias após a sua identificação. Alarga os contratos-programa a mais entidades. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Prazo de avaliação pós-incêndio reduzido, com 15 dias quando é necessária estabilização de emergência.",
+  "Prioridade para áreas classificadas, Reserva Ecológica Nacional, habitats protegidos e zonas com declive superior a 20%.",
+  "Prioridade a áreas ardidas com maior severidade no solo e na vegetação.",
+  "Lista de técnicas de estabilização: mulching, hidro-mulching, barreiras à escorrência, intervenções em linhas de água e sementeira.",
+  "ICNF informa municípios, proprietários e baldios em 15 dias.",
+  "Ações de estabilização e reabilitação concluídas em 30 dias após a identificação e a divulgação das áreas."
+ ],
+ "plain_language": "O LIVRE propõe regras mais rápidas e mais claras para proteger o solo logo depois de um incêndio, antes das chuvas, para evitar erosão e contaminação da água. Define que zonas tratar primeiro, que técnicas usar e prazos curtos para avaliar, avisar quem é afetado e executar as obras.",
+ "context": "O proponente defende que a rapidez é essencial para travar a erosão antes do inverno e proteger a qualidade da água, citando casos como o risco de contaminação da água em Aveiro em 2024 e estudos sobre efeitos de longa duração. Refere que o Relatório do Sistema de Gestão Integrada de Fogos Rurais e um estudo do Observatório Técnico Independente apontam falhas na estabilização.",
+ "analysis": "A proposta traduz recomendações técnicas em prazos e critérios objetivos, o que dá previsibilidade e prioriza zonas de maior risco. Fragilidades: os prazos curtos (30 dias para concluir as ações) podem ser difíceis de cumprir sem reforço de meios e de verba, que o texto não prevê nem quantifica. A lista fixa de técnicas pode ser rígida face a diferentes terrenos, e o texto contém marcas de edição que tornam menos claro o prazo final de avaliação. Não define financiamento nem responsabilidades de execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A execução rápida e obrigatória de ações de estabilização implicaria mais despesa pública, que o texto não quantifica nem financia."
+ },
+ "affected": [
+  "proprietários e produtores florestais",
+  "ICNF e municípios",
+  "baldios e entidades de gestão florestal",
+  "populações abastecidas por água de bacias ardidas"
+ ],
+ "categories": [
+  "ambiente",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "incêndios",
+  "estabilização de emergência",
+  "pós-fogo",
+  "erosão",
+  "ICNF"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

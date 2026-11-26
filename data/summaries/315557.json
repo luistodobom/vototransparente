@@ -1,0 +1,41 @@
+{
+ "short_title": "Crédito bonificado à habitação para pessoas com deficiência",
+ "summary": "Projeto de Lei do PAN que altera pela primeira vez a Lei n.º 64/2014, que regula o crédito bonificado à habitação para pessoas com deficiência. Alarga os beneficiários a membros do agregado familiar e ao cuidador informal principal, desde que o imóvel seja habitação própria e permanente da pessoa com deficiência; eleva o montante máximo do empréstimo de 228 mil para 450 mil euros, atualizado anualmente pelo índice de preços no consumidor e limitado a 90% do valor da habitação ou das obras; e prevê a migração para este regime de créditos já contratados quando se adquire incapacidade igual ou superior a 60%. Cria ainda um dever de informação das instituições de crédito e uma avaliação trienal pelo Banco de Portugal e pelo Mecanismo Nacional de Monitorização. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga o regime a membros do agregado familiar e ao cuidador informal principal, se a casa for habitação própria e permanente da pessoa com deficiência.",
+  "Aumenta o montante máximo do empréstimo de 228 mil para 450 mil euros, com atualização anual pela inflação e teto de 90% do valor da habitação.",
+  "Impõe a migração do crédito à habitação existente para este regime quando o mutuário ou familiar adquire grau de incapacidade igual ou superior a 60%.",
+  "Cria o dever de as instituições de crédito informarem os consumidores sobre o regime.",
+  "O Banco de Portugal e o Mecanismo Nacional de Monitorização avaliam o impacto de três em três anos, com relatório publicado."
+ ],
+ "plain_language": "Existe um crédito à habitação com condições mais favoráveis para pessoas com deficiência. O PAN propõe que também familiares e cuidadores possam pedir este crédito, quando a casa for para a pessoa com deficiência viver, e que o valor máximo do empréstimo suba para 450 mil euros. Os bancos teriam de explicar este regime e a sua aplicação seria avaliada de três em três anos.",
+ "context": "O proponente considera que, passados mais de dez anos desde a lei de 2014, persistem obstáculos: a exclusão de agregados familiares que compram casa adequada à pessoa com deficiência e um montante máximo de empréstimo desajustado do mercado. Invoca também a Lei de Bases da Habitação e a Convenção sobre os Direitos das Pessoas com Deficiência.",
+ "analysis": "A proposta corrige limitações concretas do regime e acrescenta monitorização e informação ao consumidor, o que reforça a sua eficácia. Fragilidades: o texto não estima o custo das bonificações com o triplo, aproximadamente, do teto de empréstimo, que aumenta a despesa do Estado; a elegibilidade de familiares exige controlo para evitar abusos; e a migração obrigatória de contratos existentes pode ter efeitos operacionais para os bancos. Parte do articulado é apresentada com remissões, o que torna difícil avaliar a alteração completa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais beneficiários e um teto de empréstimo mais elevado aumentam a despesa com as bonificações de juros. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "agregados familiares e cuidadores informais",
+  "instituições de crédito"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "crédito bonificado",
+  "pessoas com deficiência",
+  "cuidador informal",
+  "habitação própria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforçar direitos e combater a precariedade no serviço doméstico",
+ "summary": "O PS recomenda ao Governo um conjunto de medidas para os trabalhadores do serviço doméstico: apresentar em quatro meses um relatório final sobre o regime de segurança social e proteção laboral, com recomendações sobre proteção no desemprego e carreira contributiva; reforçar a inspeção da ACT e definir uma metodologia específica de fiscalização que concilie a reserva da vida privada dos domicílios com os direitos laborais; promover campanhas de sensibilização; produzir informação regular sobre o setor; avaliar o trabalho doméstico via plataformas, os benefícios fiscais para famílias empregadoras e a extensão de portarias de condições de trabalho. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Relatório final em quatro meses sobre segurança social e proteção laboral do trabalho doméstico, incluindo desemprego e carreira contributiva.",
+  "Reforço da atividade inspetiva da ACT e metodologia de fiscalização adequada aos domicílios.",
+  "Campanhas de sensibilização e informação regular sobre o setor, com indicadores de incumprimento.",
+  "Avaliação do trabalho doméstico por plataformas e dos benefícios fiscais para famílias empregadoras.",
+  "Ponderação de portarias de condições de trabalho no quadro do diálogo social."
+ ],
+ "plain_language": "O PS pede ao Governo que estude como dar mais proteção aos trabalhadores domésticos, por exemplo no desemprego, que reforce as inspeções sem violar a privacidade das casas e que informe melhor patrões e trabalhadores. Pede ainda que se pondere dar benefícios fiscais às famílias e criar regras coletivas de trabalho para o setor. O pedido não obriga o Governo.",
+ "context": "O PS refere dados do Livro Branco Trabalho Doméstico Digno: entre 1990 e 2022 o número de trabalhadores domésticos com declarações à Segurança Social desceu 69%, de 205 mil para 63 mil, enquanto as entidades empregadoras subiram 42%. Em abril de 2024 havia mais de 226 mil registados, aumento atribuído à Agenda do Trabalho Digno.",
+ "analysis": "A proposta é abrangente e reconhece a dificuldade específica de fiscalizar locais de trabalho que são domicílios, procurando conciliar privacidade e direitos. Tem prazo definido para o relatório e prevê escrutínio parlamentar. Fragilidades: muitas medidas são de estudo ou avaliação, sem compromisso de alteração legal, e não são indicados custos. A referência a benefícios fiscais e a eventual alargamento da proteção podem ter impacto orçamental. Remete as alterações de proteção social para uma iniciativa autónoma futura.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento da proteção social, o reforço da inspeção e eventuais benefícios fiscais para famílias empregadoras poderiam aumentar a despesa ou reduzir a receita. O texto não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores do serviço doméstico",
+  "famílias empregadoras",
+  "Autoridade para as Condições de Trabalho",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "serviço doméstico",
+  "ACT",
+  "proteção no desemprego",
+  "fiscalização",
+  "portaria de condições de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

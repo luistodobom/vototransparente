@@ -1,0 +1,44 @@
+{
+ "short_title": "Triagem, regresso na fronteira e autorização única de trabalho",
+ "summary": "O Governo propõe a vigésima alteração à Lei n.º 23/2007 (regime de entrada, permanência, saída e afastamento de estrangeiros) para assegurar a execução dos Regulamentos (UE) 2024/1349 e 2024/1356 sobre regresso na fronteira e triagem, e transpor a Diretiva (UE) 2024/1233 sobre o procedimento de pedido único de autorização de residência e trabalho. Cria o procedimento de triagem (identificação, dados biométricos, avaliação médica, controlo de vulnerabilidade e de segurança) em centros de triagem, e o procedimento de regresso na fronteira, com permanência no local designado até 12 semanas, prorrogáveis por 6 em situação de crise, sendo da competência da PSP. Altera ainda regras de residência, como o decisor de pedidos de residência em 90 dias (prorrogáveis por 30), a mudança de empregador por mera comunicação à AIMA, e prevê mecanismo de supervisão independente dos direitos fundamentais.",
+ "key_points": [
+  "Cria o procedimento de triagem de nacionais de países terceiros, com centros de triagem e avaliação de identidade, saúde, vulnerabilidade e segurança.",
+  "Cria o procedimento de regresso na fronteira, com permanência até 12 semanas, prorrogável por 6 em situação de crise.",
+  "Atribui à PSP a decisão e execução do regresso na fronteira.",
+  "Fixa prazo de decisão de 90 dias para pedidos de autorização de residência, prorrogável por 30 dias.",
+  "Permite a mudança de empregador ou de atividade por comunicação à AIMA, sem novo título.",
+  "Prevê mecanismo de supervisão independente da triagem e do respeito pelos direitos fundamentais."
+ ],
+ "plain_language": "O Governo quer adaptar a lei de estrangeiros às novas regras europeias de migração: quem chega à fronteira de forma irregular passa por uma triagem (identidade, saúde, segurança), e quem vê o pedido de asilo recusado na fronteira fica num local designado até 12 semanas à espera do regresso. Também muda regras para a autorização de residência e trabalho, como mudar de empregador mais facilmente.",
+ "context": "O Governo afirma que a UE aprovou um novo quadro para os fluxos migratórios nas fronteiras externas, com triagem, apreciação célere dos pedidos de asilo e regresso, o que exige adaptar a lei nacional, incluindo infraestruturas, e transpor a diretiva do pedido único de autorização de trabalho e residência.",
+ "analysis": "A proposta cumpre obrigações europeias e prevê garantias, como informação em língua compreensível, supervisão independente e proteção equivalente à diretiva do regresso. Fragilidades: a permanência em locais de fronteira por até 12 semanas e a detenção levantam questões de direitos fundamentais e de capacidade das infraestruturas, que o texto remete para despacho governamental sem detalhar custos. O texto analisado é longo, com muitas normas por rever, e a articulação com a lei do asilo e os prazos exigentes pode gerar dificuldades práticas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de centros de triagem, a adaptação de infraestruturas e o reforço da supervisão implicam despesa pública; o texto não indica montantes. O produto das taxas da AIMA constitui receita da própria AIMA."
+ },
+ "affected": [
+  "nacionais de países terceiros e requerentes de asilo",
+  "trabalhadores imigrantes",
+  "PSP e AIMA",
+  "empregadores"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "seguranca"
+ ],
+ "tags": [
+  "triagem",
+  "regresso na fronteira",
+  "lei de estrangeiros",
+  "AIMA",
+  "autorização única"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

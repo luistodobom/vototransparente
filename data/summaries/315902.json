@@ -1,0 +1,43 @@
+{
+ "short_title": "Rever o licenciamento de comércio e combater as lojas de fachada",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que, após articulação com a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias, reveja o regime de acesso e exercício de atividades de comércio, serviços e restauração (Decreto-Lei n.º 10/2015). Propõe que a comunicação prévia para restauração e bebidas passe a exigir parecer prévio obrigatório da Junta de Freguesia sobre a adequação da localização, que sejam criados mecanismos de controlo prévio municipal em zonas de elevado interesse histórico, patrimonial ou cultural e para lojas de recordações turísticas, e que se amplie a capacidade dos municípios para combater as lojas de fachada.",
+ "key_points": [
+  "Exigir parecer prévio obrigatório da Junta de Freguesia na comunicação prévia de restauração e bebidas.",
+  "Criar controlo prévio municipal em centros históricos e zonas de interesse patrimonial.",
+  "Aplicar esse controlo também às lojas de recordações turísticas.",
+  "Ampliar os poderes dos municípios no combate às lojas de fachada.",
+  "Articulação prévia com a ANMP e a Associação Nacional de Freguesias."
+ ],
+ "plain_language": "O PAN quer que seja mais difícil abrir certos estabelecimentos sem avaliação prévia, dando mais poder às juntas de freguesia e às câmaras para travar lojas que servem de fachada a abusos laborais ou a redes ilegais. É uma recomendação ao Governo.",
+ "context": "O PAN considera que o modelo de licenciamento zero, assente em simples comunicação prévia, deixou de se adequar às cidades, sobretudo centros históricos e zonas turísticas. Afirma que a falta de controlo prévio favorece a precarização, a exploração de migrantes e, em casos graves, redes de tráfico de seres humanos sob a aparência de atividades legais.",
+ "analysis": "A proposta visa responder a um problema de ordenamento urbano e de combate a abusos, devolvendo poder de decisão local. Em contrapartida, reintroduz controlo prévio que pode aumentar burocracia e prazos para pequenos negócios, e o parecer da junta de freguesia pode gerar discricionariedade. O texto não apresenta dados sobre a dimensão das lojas de fachada nem define critérios do controlo prévio. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Mais controlo prévio e fiscalização implicariam custos para os municípios e freguesias, mas o texto não os quantifica."
+ },
+ "affected": [
+  "donos de estabelecimentos de restauração e comércio",
+  "juntas de freguesia",
+  "municípios",
+  "moradores de centros históricos",
+  "trabalhadores migrantes"
+ ],
+ "categories": [
+  "economia",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "licenciamento zero",
+  "lojas de fachada",
+  "restauração",
+  "centros históricos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

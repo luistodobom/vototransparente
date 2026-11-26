@@ -1,0 +1,41 @@
+{
+ "short_title": "Adaptar apoios e prazos de crédito para a recuperação económica",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo quatro medidas de apoio às empresas durante a pandemia: alterar o cálculo da quebra de atividade no programa APOIAR, excluindo da faturação os custos de transporte a cargo de entidades externas faturados pela própria empresa; alargar o APOIAR a micro e pequenas empresas criadas em 2020; alargar os prazos de carência das linhas de crédito pelo menos até dezembro de 2021; e alargar até 5 anos adicionais os planos de pagamento dos créditos com garantia do Estado, a pedido do mutuário. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Excluir custos de transporte faturados do cálculo da quebra de atividade no programa APOIAR.",
+  "Alargar o APOIAR a micro e pequenas empresas criadas em 2020.",
+  "Alargar os prazos de carência das linhas de crédito pelo menos até dezembro de 2021.",
+  "Alargar até 5 anos adicionais os planos de pagamento de créditos com garantia do Estado, a pedido do mutuário."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que ajuste um programa de apoio às empresas (o APOIAR) para que mais empresas lhe consigam aceder, incluindo as criadas em 2020, e que dê mais tempo às empresas para começar a pagar e para pagar créditos obtidos com garantia do Estado. É só um pedido ao Governo.",
+ "context": "O proponente indica que 96% das empresas são microempresas, que muitas não conseguem aceder aos apoios e que as moratórias e linhas de crédito aumentam o endividamento de micro e pequenas empresas sem perspetiva de retoma, defendendo que o Governo adapte os apoios e os prazos de pagamento.",
+ "analysis": "Propõe correções específicas a problemas concretos de acesso e alívio de tesouraria. Fragilidades: o alargamento dos prazos de crédito com garantia do Estado aumenta a exposição pública e o risco para os bancos; os custos do APOIAR alargado não são estimados; a exclusão dos custos de transporte pode exigir verificações adicionais e abrir fronteiras difíceis de definir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do APOIAR implica mais despesa pública e o prolongamento de crédito com garantia do Estado aumenta a exposição do Estado; o texto não apresenta valores."
+ },
+ "affected": [
+  "micro e pequenas empresas",
+  "empresas criadas em 2020",
+  "empresas com créditos garantidos pelo Estado",
+  "trabalhadores dessas empresas"
+ ],
+ "categories": [
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "APOIAR",
+  "COVID-19",
+  "linhas de crédito",
+  "microempresas",
+  "moratórias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

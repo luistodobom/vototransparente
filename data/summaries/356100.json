@@ -1,0 +1,41 @@
+{
+ "short_title": "Extensão do IC5 a Miranda do Douro e ligação a Palaçoulo",
+ "summary": "O Projeto de Resolução do PS recomenda ao Governo que concretize a extensão do IC5 até à sede do concelho de Miranda do Douro, dando cumprimento ao previsto no Plano Nacional de Investimentos 2030, e a ligação rodoviária entre Palaçoulo e o IC5, incluindo um nó de acesso. Recomenda ainda articulação com a autarquia e outras entidades locais e regionais. O texto descreve a extensão como estratégica para a competitividade do nordeste transmontano e a ligação de Palaçoulo como necessária para empresas exportadoras e para o turismo associado ao Mosteiro da Ordem Trapista. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Concretizar a extensão do IC5 até à sede do concelho de Miranda do Douro, conforme o Plano Nacional de Investimentos 2030.",
+  "Construir a ligação entre Palaçoulo e o IC5, com um nó de acesso.",
+  "Articular as intervenções com a autarquia local e outras entidades locais e regionais."
+ ],
+ "plain_language": "O PS pede ao Governo que prolongue o IC5 até à vila de Miranda do Douro e que ligue a aldeia de Palaçoulo a essa estrada, para melhorar o transporte de mercadorias das empresas locais e o acesso de visitantes. É um pedido que o Governo não é obrigado a seguir.",
+ "context": "O proponente refere que a extensão está prevista no Plano Nacional de Investimentos 2030 mas ainda não foi executada. Afirma que Palaçoulo é um polo industrial e exportador com custos logísticos acrescidos por não ter ligação direta e que acolhe o único mosteiro trapista de Portugal.",
+ "analysis": "As obras estão enquadradas num plano nacional e justificadas por razões de coesão e economia local, com destaque para o impacto logístico nas empresas. O texto não apresenta estudos de tráfego, custos, calendário nem prioridades face a outros investimentos, e depende de financiamento não identificado. A referência à integração transfronteiriça não é acompanhada de detalhes. A natureza de recomendação não assegura a execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A extensão da via e o nó de acesso implicam investimento público. O texto não indica montantes."
+ },
+ "affected": [
+  "residentes de Miranda do Douro e Palaçoulo",
+  "empresas exportadoras locais",
+  "visitantes do Mosteiro Trapista",
+  "Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "ic5",
+  "miranda do douro",
+  "palaçoulo",
+  "pni 2030",
+  "acessibilidades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

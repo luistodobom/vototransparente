@@ -1,0 +1,40 @@
+{
+ "short_title": "Revisão da carreira da Inspeção-Geral da Educação e Ciência",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo que reconheça que a carreira da Inspeção-Geral da Educação e Ciência (IGEC) é uma carreira especial e uma segunda carreira, por referência à carreira docente, e que proceda com urgência a uma revisão estruturada e abrangente, adaptando às especificidades da carreira as condições de ingresso, a progressão e o sistema de avaliação de desempenho. O objetivo é garantir que nenhum docente é prejudicado, em remuneração ou progressão, ao aceitar a nomeação como inspetor. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconhecer a carreira da IGEC como carreira especial e segunda carreira, por referência à docente.",
+  "Rever com urgência as condições de ingresso na carreira de inspetor.",
+  "Rever a progressão na carreira.",
+  "Adaptar o sistema de avaliação de desempenho às especificidades da carreira de inspeção."
+ ],
+ "plain_language": "O PS pede ao Governo que reveja a carreira dos inspetores da educação, hoje pouco atrativa, para que um professor que se torne inspetor não perca remuneração nem tenha uma progressão mais lenta. O Governo não é obrigado a seguir.",
+ "context": "O PS explica que, desde 2009, a carreira de inspetor da educação se afastou da docente em remuneração e progressão. Um docente que ingresse como inspetor pode ter vencimento inferior ao anterior e progressão lenta; as quotas do SIADAP excluem a priori parte dos inspetores das melhores notações, e as ajudas de custo são consideradas desajustadas. O número de inspetores terá caído de cerca de 380 em 2000 para 140-150.",
+ "analysis": "A iniciativa assenta num problema identificado, a perda de inspetores, com dados históricos e comparações com a carreira docente. É, contudo, genérica quanto à solução, não fixa índices, calendário nem custos, e a referência às ajudas de custo é apenas mencionada na exposição, sem constar da recomendação. O argumento da segunda carreira é discutível e pode abrir pedidos semelhantes de outras carreiras de inspeção. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Melhorar o ingresso e a progressão dos inspetores implicaria maior despesa com pessoal. O texto não apresenta montantes."
+ },
+ "affected": [
+  "inspetores da Inspeção-Geral da Educação e Ciência",
+  "docentes candidatos à carreira de inspeção",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "IGEC",
+  "inspetores da educação",
+  "carreira especial",
+  "progressão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

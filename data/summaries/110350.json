@@ -1,0 +1,40 @@
+{
+ "short_title": "Número máximo de alunos por turma e por docente",
+ "summary": "Projeto de lei do Bloco de Esquerda que fixa limites ao número de alunos por turma na rede pública e no ensino particular e cooperativo com contrato de associação: pré-escolar com 19 crianças por docente; 1.º e 2.º ciclos do básico com um máximo de 20 alunos, e 18 nas turmas do 1.º ciclo com mais de dois anos de escolaridade; 3.º ciclo e secundário com um máximo de 22. O Governo regulamenta, mediante negociação sindical, no prazo de 60 dias, incluindo o número de alunos e turmas por docente e os critérios de desdobramento. A lei produz efeitos a partir do ano letivo de 2021/2022.",
+ "key_points": [
+  "Pré-escolar: 19 crianças por docente.",
+  "1.º e 2.º ciclos: máximo de 20 alunos por turma.",
+  "Turmas do 1.º ciclo com mais de dois anos de escolaridade: máximo de 18 alunos.",
+  "3.º ciclo e secundário: máximo de 22 alunos.",
+  "Regulamentação pelo Governo em 60 dias, com negociação sindical, e efeitos a partir de 2021/2022."
+ ],
+ "plain_language": "As turmas passariam a ter limites mais baixos de alunos: 20 no 1.º e 2.º ciclos, 22 no 3.º ciclo e secundário e 18 nas turmas com mais de um ano de escolaridade. O objetivo é dar mais atenção aos alunos e reduzir desigualdades agravadas pelo ensino à distância. A regra começaria a valer no ano letivo 2021/2022.",
+ "context": "O proponente aponta que a pandemia e o ensino à distância agravaram desigualdades técnicas e socioeconómicas e que os efeitos da perda de aprendizagens exigem mais apoio individualizado, o que justifica turmas mais pequenas e reforço de recursos humanos e materiais.",
+ "analysis": "Dá resposta ao problema das turmas grandes com limites diferenciados por ciclo e prazo de adaptação até 2021/2022. Fragilidades: exige mais professores, salas e eventualmente transportes, sem estimativa de custo; o artigo 6.º remete para uma regulamentação do artigo 6.º, o que parece uma referência circular; a rigidez dos limites pode ser difícil em escolas pequenas ou com falta de espaço.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Turmas mais pequenas exigem mais docentes e instalações, que implicam despesa pública não quantificada no texto."
+ },
+ "affected": [
+  "alunos",
+  "professores",
+  "escolas e agrupamentos",
+  "famílias"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "turmas",
+  "número de alunos",
+  "escola pública",
+  "ensino à distância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

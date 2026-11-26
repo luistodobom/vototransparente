@@ -1,0 +1,37 @@
+{
+ "short_title": "Redefinir os critérios de priorização em oncologia",
+ "summary": "Projeto de resolução do Chega que recomenda ao Governo: redefinir os Tempos Máximos de Resposta Garantidos em oncologia, incorporando critérios como a agressividade biológica dos tumores e as modalidades terapêuticas necessárias, como a radioterapia ou o tratamento farmacológico; estabelecer critérios uniformes de priorização a nível nacional, para garantir equidade no acesso; e assegurar a monitorização rigorosa dos resultados através de indicadores de qualidade e segurança. A exposição de motivos refere que, segundo o Perfil do Cancro em Portugal, os novos casos aumentarão 12% até 2030 e 20% até 2040, e que a Portaria n.º 153/2017 se centra na localização anatómica dos tumores. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Redefinir os tempos máximos de resposta garantidos em oncologia, incluindo agressividade biológica dos tumores e tipo de tratamento.",
+  "Estabelecer critérios uniformes de priorização a nível nacional.",
+  "Monitorizar resultados com indicadores específicos de qualidade e segurança."
+ ],
+ "plain_language": "O Chega quer que os prazos para tratar doentes com cancro no SNS passem a ter em conta o quão agressivo é o tumor e o tipo de tratamento necessário, e não só o local do corpo onde está. Pede também regras iguais em todo o país e acompanhamento dos resultados. É um pedido ao Governo, sem força de lei.",
+ "context": "O Chega aponta o aumento previsto dos casos de cancro, a insuficiência da Portaria n.º 153/2017 em matéria de radioterapia e tratamentos farmacológicos, a dependência da localização anatómica como critério e as desigualdades regionais, citando a Estratégia Nacional de Luta Contra o Cancro 2021-2030 e o diretor do Programa Nacional para as Doenças Oncológicas.",
+ "analysis": "A proposta assenta em fontes oficiais e em apelos de responsáveis do setor, e prevê monitorização. Contudo, a definição de critérios clínicos de priorização exige peritos clínicos, e o texto não propõe prazos concretos nem indica o seu impacto na capacidade do SNS, nem como se evitaria atrasar outros doentes. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a alteração dos prazos pode exigir mais capacidade de radioterapia e tratamentos, com impacto orçamental não estimado."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "SNS",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "oncologia",
+  "cancro",
+  "tempos máximos de resposta",
+  "priorização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

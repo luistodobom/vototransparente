@@ -1,0 +1,40 @@
+{
+ "short_title": "Cuidados intermédios no Hospital de Chaves",
+ "summary": "O PSD apresenta um projeto de resolução que recomenda ao Governo que avalie a criação de uma Unidade de Cuidados Intermédios na Unidade de Chaves do Centro Hospitalar de Trás-os-Montes e Alto Douro, que não dispõe de camas de nível II nem de nível III. Pede ainda que garanta cuidados adequados aos doentes críticos que ali deem entrada sem critérios de admissão em cuidados intensivos e que se cumpra a recomendação da Rede Nacional de Especialidade Hospitalar e Referenciação de haver um serviço de medicina intensiva nos hospitais com urgência polivalente ou médico-cirúrgica. Trata-se de uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda que o Governo avalie a criação de uma Unidade de Cuidados Intermédios em Chaves.",
+  "Pede cuidados adequados para doentes críticos sem critérios de admissão em cuidados intensivos.",
+  "Invoca o cumprimento da Rede Nacional de Especialidade Hospitalar e Referenciação.",
+  "Refere que a unidade abrange 94 mil habitantes e não tem camas de medicina intensiva."
+ ],
+ "plain_language": "O hospital de Chaves não tem camas para doentes graves que precisam de vigilância contínua, mas ainda não estão em estado de cuidados intensivos. O PSD pede ao Governo que estude criar uma unidade desse tipo, para que esses doentes não tenham de ser levados para Vila Real, a mais de 70 quilómetros. É uma recomendação, não uma obrigação.",
+ "context": "O proponente refere que Portugal tinha 6,4 camas de cuidados intensivos por 100 mil habitantes em 2017, abaixo da média europeia de 11,5. O Centro Hospitalar de Trás-os-Montes e Alto Douro serve cerca de meio milhão de habitantes, mas as camas estão em Vila Real, e a Unidade de Chaves não tem camas de nível II.",
+ "analysis": "A proposta tem um fundamento territorial claro, a distância a Vila Real e a ausência de camas intermédias em Chaves, e invoca documentos de planeamento da rede hospitalar. Contudo, o pedido é apenas que se avalie a criação, sem número de camas, prazos nem custos, e não aborda a falta de profissionais, que é um obstáculo habitual a novas unidades. Sendo resolução, não vincula o Governo. A comparação com a média europeia mistura dados de anos diferentes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma unidade de cuidados intermédios implicaria despesa em equipamento e profissionais, mas o texto não a quantifica."
+ },
+ "affected": [
+  "utentes da região do Alto Tâmega",
+  "doentes críticos",
+  "Centro Hospitalar de Trás-os-Montes e Alto Douro",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "cuidados intermédios",
+  "hospital de chaves",
+  "trás-os-montes",
+  "medicina intensiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

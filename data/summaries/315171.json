@@ -1,0 +1,42 @@
+{
+ "short_title": "Comissão de Inquérito ao INEM",
+ "summary": "A Iniciativa Liberal requer, ao abrigo da Lei n.º 5/93, a constituição imediata e obrigatória de uma Comissão Parlamentar de Inquérito à gestão e à tutela política do INEM, com duração máxima de 90 dias. A comissão apuraria as responsabilidades políticas, técnicas, contratuais, legais e financeiras na situação do instituto: o exercício das tutelas desde a greve às horas extraordinárias dos técnicos de emergência pré-hospitalar (30 de outubro a 7 de novembro de 2024) até ao concurso internacional de helicópteros de emergência e respetivos ajustes diretos; as decisões de gestão antes e durante a greve; os serviços mínimos; e a gestão financeira (transferência de saldos de gerência, investimentos, pagamentos indevidos, acumulações de funções e concursos). Avaliaria ainda a relação das tutelas com o INEM nos XXII a XXV Governos Constitucionais.",
+ "key_points": [
+  "Constituição de uma comissão de inquérito à gestão e tutela política do INEM, com prazo máximo de 90 dias.",
+  "Apurar responsabilidades na greve às horas extraordinárias dos TEPH entre 30 de outubro e 7 de novembro de 2024 e nos serviços mínimos.",
+  "Avaliar o concurso público internacional de helicópteros de emergência médica e os ajustes diretos.",
+  "Analisar a gestão financeira: saldos de gerência transferidos, investimentos, pagamentos indevidos e acumulações de funções.",
+  "Avaliar a relação das tutelas políticas dos XXII a XXV Governos com o INEM."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Parlamento crie uma comissão para investigar como o INEM foi gerido e como o Ministério da Saúde o acompanhou. O pedido surge depois das falhas no atendimento e das mortes durante a greve de técnicos, e dos problemas com os helicópteros de emergência. A comissão teria até 90 dias para apurar responsabilidades.",
+ "context": "O texto invoca a greve de 2024, o relatório da IGAS sobre os atrasos no atendimento do CODU e as 12 mortes ocorridas, o contrato de helicópteros adjudicado por cerca de 77,4 milhões de euros e pendente no Tribunal de Contas, e transferências de pelo menos 125 milhões de euros de saldo de gerência entre 2020 e 2023. Considera esgotados os restantes instrumentos parlamentares.",
+ "analysis": "O pedido assenta em factos de interesse público e em fontes institucionais, como o relatório da IGAS, e tem objeto delimitado. Fragilidades: o objeto é muito amplo para 90 dias, abrangendo quatro governos, e mistura temas distintos (greve, helicópteros, finanças). O texto apresenta alguns dados com base em notícias e depoimentos, e parte de conclusões, como a responsabilização da tutela, antes de qualquer apuramento. Outras investigações (IGAS, Tribunal de Contas) em curso podem sobrepor-se ao inquérito.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O inquérito parlamentar não cria despesa ou receita diretas além do seu funcionamento; o texto não apresenta valores para os trabalhos da comissão."
+ },
+ "affected": [
+  "INEM",
+  "utentes do serviço de emergência médica",
+  "técnicos de emergência pré-hospitalar",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "instituicoes"
+ ],
+ "tags": [
+  "inem",
+  "inquérito parlamentar",
+  "emergência médica",
+  "greve",
+  "helicópteros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

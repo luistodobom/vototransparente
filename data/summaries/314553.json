@@ -1,0 +1,38 @@
+{
+ "short_title": "Retomar e ampliar as parcerias público-privadas na saúde",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que retome e amplie as Parcerias Público-Privadas na saúde em Portugal. A exposição de motivos critica o fim das parcerias dos hospitais de Braga (2019), Loures (2021) e Vila Franca de Xira (2022), cita o Tribunal de Contas quanto a poupanças estimadas de 203 milhões de euros entre 2014 e 2019 nos hospitais em parceria, refere problemas atuais na urgência de obstetrícia do Hospital de Braga e invoca o facto de mais de quatro milhões de portugueses terem seguro de saúde. A recomendação é única e não vinculativa.",
+ "key_points": [
+  "Recomenda retomar e ampliar as parcerias público-privadas na saúde.",
+  "Invoca o fim das parcerias em Braga, Loures e Vila Franca de Xira.",
+  "Cita estimativa do Tribunal de Contas de 203 milhões de euros de poupança entre 2014 e 2019."
+ ],
+ "plain_language": "O CDS-PP quer que o Estado volte a entregar a gestão de hospitais públicos a entidades privadas, através de parcerias, como já aconteceu em Braga, Loures e Vila Franca de Xira. Defende que o SNS, sozinho, não consegue responder a todos. É um pedido ao Governo, não uma lei.",
+ "context": "O proponente atribui a um preconceito ideológico o fim de parcerias com bons resultados, aponta poupanças estimadas pelo Tribunal de Contas e defende que, quando o SNS não tem capacidade, o Estado deve assegurar cuidados nos setores privado e social. Cita o aumento dos seguros de saúde.",
+ "analysis": "A proposta apoia-se em dados do Tribunal de Contas e em casos concretos. Contudo, é muito genérica: não indica quais as unidades, o modelo contratual, os mecanismos de controlo nem o custo. A citação sobre poupanças refere apenas um período e não discute outras avaliações possíveis das parcerias. A satisfação dos utentes e o número de seguros de saúde são indicadores indiretos. Por ser recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto invoca poupanças passadas, mas não estima os custos nem as poupanças de novas parcerias."
+ },
+ "affected": [
+  "utentes do SNS",
+  "hospitais públicos",
+  "operadores privados de saúde"
+ ],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "parcerias público-privadas",
+  "hospitais",
+  "sns",
+  "gestão hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

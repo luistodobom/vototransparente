@@ -1,0 +1,44 @@
+{
+ "short_title": "Regime dos estudantes com necessidades educativas específicas no ensino superior",
+ "summary": "O Projeto de Lei do PS cria um regime jurídico para estudantes com necessidades educativas específicas no ensino superior público e privado, exceto instituições policiais e militares. Estabelece direitos para estudantes com incapacidade igual ou superior a 60%: contingente prioritário de acesso (na 1.ª e 2.ª fases, e também em cursos técnicos superiores profissionais, mestrados e doutoramentos), condições especiais nos apoios sociais, prioridade no alojamento, acessibilidade física, digital e de informação, assistência pessoal, gratuitidade de passes e bilhetes de transporte público e condições especiais de frequência e avaliação. Prevê bolsas de estudo específicas, bonificação de 5% nas bolsas de doutoramento da FCT, um mecanismo financeiro para comparticipar serviços especializados e um regime sancionatório. Altera ainda o Decreto-Lei n.º 163/2006 sobre acessibilidade. O texto analisado está truncado.",
+ "key_points": [
+  "Estatuto de estudante com necessidades educativas específicas, para quem tem incapacidade igual ou superior a 60%, e acesso condicionado a avaliação nos restantes casos.",
+  "Contingente prioritário de acesso ao ensino superior, incluindo cursos técnicos superiores profissionais, mestrados e doutoramentos.",
+  "Direitos de acessibilidade física, digital e de informação, assistência pessoal, passes e bilhetes gratuitos nos transportes públicos e prioridade no alojamento estudantil.",
+  "Bolsas de estudo específicas e bonificação de 5% nas bolsas de doutoramento financiadas pela FCT.",
+  "Mecanismo financeiro para comparticipar despesas das instituições com serviços especializados de apoio.",
+  "Regime de fiscalização e contraordenações pela Inspeção-Geral da Educação e Ciência."
+ ],
+ "plain_language": "O PS propõe uma lei que garante a estudantes com deficiência ou dificuldades específicas mais direitos no ensino superior: vagas reservadas à entrada, acessibilidade nas escolas, apoio pessoal, bolsas específicas, passes gratuitos e alojamento com prioridade. As instituições receberiam apoio financeiro para pagar serviços de apoio.",
+ "context": "O proponente invoca o artigo 74.º da Constituição e a Convenção da ONU sobre os Direitos das Pessoas com Deficiência. Cita dados da DGEEC, segundo os quais 71% dos estabelecimentos têm regulamentação específica e 63% têm serviços de apoio, mas persistem diferenças entre instituições, sobretudo para estudantes com incapacidade igual ou superior a 60%.",
+ "analysis": "A proposta uniformiza direitos hoje dispersos por regulamentos das instituições e cria um mecanismo de financiamento, o que reforça a igualdade. Pode, contudo, implicar custos relevantes para o Estado e as instituições, e o texto analisado não quantifica o orçamento do mecanismo financeiro. Há risco de tensão com a autonomia das instituições, e a distinção entre estudantes com incapacidade acima ou abaixo de 60% cria níveis de proteção diferentes. A extensão de gratuitidade de transportes e a fiscalização implicam coordenação com outros ministérios.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Bolsas específicas, o mecanismo de comparticipação, passes gratuitos e apoios à acessibilidade aumentam a despesa pública. O texto analisado não apresenta montantes."
+ },
+ "affected": [
+  "estudantes com deficiência e necessidades educativas específicas",
+  "instituições de ensino superior",
+  "serviços de ação social do ensino superior",
+  "FCT e bolseiros de doutoramento"
+ ],
+ "categories": [
+  "educacao",
+  "direitos",
+  "ciencia"
+ ],
+ "tags": [
+  "ensino superior",
+  "necessidades educativas específicas",
+  "contingente prioritário",
+  "acessibilidade",
+  "bolsas de estudo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

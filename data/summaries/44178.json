@@ -1,0 +1,44 @@
+{
+ "short_title": "Promoção efetiva dos transportes coletivos em todo o país",
+ "summary": "Projeto de resolução do PEV com doze recomendações ao Governo para promover os transportes coletivos. Propõe implementar reduções tarifárias em todo o território, com base num máximo de 30 euros para passes municipais e de 40 euros para passes regionais, identificar e resolver as dificuldades do PART com autarquias e Comunidades Intermunicipais, e garantir que o PART não gere iniquidades entre regiões. Recomenda manter os descontos nos passes de criança, 4_18, Sub23 e +65, levantar bloqueios à contratação de trabalhadores do setor, aumentar o investimento público no Programa Nacional de Investimentos 2030, contratualizar o transporte rodoviário de passageiros e financiar a contratualização com a CP. Recomenda também abolir as portagens nas ex-SCUT, garantir acessibilidade plena e fazer campanhas de sensibilização. É não vinculativa.",
+ "key_points": [
+  "Reduções tarifárias em todo o território, com limites de 30 euros (passes municipais) e 40 euros (passes regionais).",
+  "Resolver os constrangimentos do PART e evitar iniquidades entre regiões.",
+  "Manter descontos nos passes de criança, 4_18, Sub23 e +65.",
+  "Levantar bloqueios à contratação de trabalhadores nos transportes.",
+  "Financiar a contratualização com a CP e o transporte rodoviário para reduzir tarifas e aumentar a oferta.",
+  "Abolir as portagens nas ex-SCUT e garantir acessibilidade plena nos transportes coletivos."
+ ],
+ "plain_language": "O PEV pede ao Governo um conjunto de medidas para que mais pessoas usem transportes públicos em todo o país: passes mais baratos, com tetos de preço definidos, mais oferta de comboios e autocarros, mais trabalhadores no setor, acabar com portagens nas antigas autoestradas sem custos para o utilizador e melhor acesso para pessoas com mobilidade reduzida. São recomendações, que o Governo não tem de cumprir.",
+ "context": "O PEV afirma que o Passe Social Intermodal deixou de acompanhar a evolução da mobilidade por desinvestimento ao longo dos anos. Recorda medidas que fez aprovar em Orçamentos do Estado, como o desconto de 25% nos passes 4_18 e Sub23 e a dedução em IRS do IVA do passe, e defende maior oferta, qualidade e preços socialmente justos.",
+ "analysis": "A iniciativa é abrangente e articula preço, oferta, trabalhadores, infraestruturas e acessibilidade, com limites concretos para os passes. Pela sua amplitude, mistura medidas com custos muito distintos e sem quantificação nem fontes de financiamento, e algumas, como a abolição das portagens das ex-SCUT, são potencialmente dispendiosas e podem entrar em tensão com o objetivo ambiental de reduzir o uso do automóvel. Sendo resolução, não vincula o Governo, e várias recomendações são genéricas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reduções tarifárias, financiamento da CP e do transporte rodoviário, mais investimento e abolição de portagens aumentariam a despesa e reduziriam receitas. O texto não apresenta valores."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "trabalhadores do setor dos transportes",
+  "pessoas com mobilidade condicionada",
+  "autarquias e Comunidades Intermunicipais"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "transportes coletivos",
+  "passes",
+  "part",
+  "ex-scut",
+  "redução tarifária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

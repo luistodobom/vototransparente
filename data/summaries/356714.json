@@ -1,0 +1,42 @@
+{
+ "short_title": "Contratos de trabalho em vez de bolsas para investigadores",
+ "summary": "O projeto de lei do BE cria o Regime Jurídico do Investigador em Formação ou Iniciação Científica, substituindo as bolsas de investigação por contratos de trabalho. Os trabalhos de investigação para obtenção de graus e de iniciação passam a ser exercidos com contrato de trabalho, nas categorias de investigador doutorando e de assistente de investigação das carreiras científicas. A lei define direitos (apoio técnico, seguro de acidentes pessoais, cuidados de saúde, contagem de tempo de serviço), deveres do orientador científico, cláusulas obrigatórias e um painel consultivo. Revoga o Estatuto do Bolseiro (Lei n.º 40/2004), mantém-no para contratos existentes até ao fim e manda o Governo regulamentar a transição em 90 dias. Produz efeitos com o orçamento subsequente.",
+ "key_points": [
+  "Substitui bolsas por contratos de trabalho para investigadores em formação e iniciação científica.",
+  "Enquadra-os nas categorias de investigador doutorando e assistente de investigação.",
+  "Define direitos, deveres do orientador e cláusulas obrigatórias dos contratos.",
+  "Cria um painel consultivo de três elementos, um deles de organizações representativas dos investigadores.",
+  "Revoga o Estatuto do Bolseiro e obriga o Governo a regulamentar em 90 dias a transição dos contratos existentes."
+ ],
+ "plain_language": "Muitos investigadores jovens trabalham com bolsa, que não dá os direitos de um contrato de trabalho. O BE propõe que passem a ter contrato, com direito a 14 salários e descontos para a Segurança Social, e que as bolsas atuais sejam convertidas em contratos. Haveria mais encargos para as instituições e para o Estado.",
+ "context": "O proponente considera as bolsas uma forma de trabalho precário e recorda que o Orçamento do Estado para 2026 (artigo 27.º) mandou o Governo elaborar um modelo de contrato para estes investigadores durante 2026, o que, segundo o BE, ainda não foi cumprido. Por isso avança com esta solução legislativa.",
+ "analysis": "A iniciativa reforça direitos laborais e acaba com uma forma de vínculo considerada precária. Fragilidades: o custo para o Estado, universidades e FCT não é estimado, e a conversão geral de bolsas em contratos pode reduzir o número de vagas financiadas se as dotações não crescerem. Os contratos de duração limitada podem manter precariedade em termos práticos. A articulação com as carreiras e a transição dependem de regulamentação posterior.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Contratos de trabalho com 14 salários e contribuições para a Segurança Social custam mais do que bolsas; o texto não estima o valor."
+ },
+ "affected": [
+  "Bolseiros de investigação",
+  "Universidades e laboratórios",
+  "Fundação para a Ciência e a Tecnologia",
+  "Orientadores científicos"
+ ],
+ "categories": [
+  "ciencia",
+  "trabalho"
+ ],
+ "tags": [
+  "bolseiros",
+  "investigadores",
+  "contratos de trabalho",
+  "precariedade",
+  "estatuto do bolseiro"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Círculo de compensação nacional nas eleições legislativas",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera a Lei Eleitoral da Assembleia da República para criar um círculo nacional de compensação com 40 deputados. Os restantes 186 deputados continuam a ser eleitos pelos círculos territoriais, distribuídos pelo método de Hondt segundo o número de eleitores, com um mínimo de dois por círculo. No círculo de compensação, os mandatos são atribuídos pelo método de Hondt com base nos votos totais de cada lista, descontando os mandatos já obtidos nos outros círculos. Os candidatos têm de ser simultaneamente candidatos noutro círculo. O número total de 230 deputados mantém-se. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Cria um círculo nacional de compensação com 40 deputados.",
+  "Os círculos territoriais passam a eleger 186 deputados, com mínimo de dois por círculo.",
+  "Mandatos de compensação atribuídos por Hondt, descontando os mandatos já obtidos.",
+  "Candidatos de compensação têm de concorrer também noutro círculo.",
+  "Mantém os 230 deputados no total."
+ ],
+ "plain_language": "Hoje muitos votos em partidos mais pequenos, sobretudo em distritos pouco populosos, não elegem ninguém. A IL propõe reservar 40 lugares para um círculo nacional que corrige essas diferenças, de modo que o número de deputados de cada partido fique mais próximo da sua votação total no país.",
+ "context": "A IL afirma que o sistema não se adaptou às alterações demográficas e partidárias desde 1974, o que cria um fosso entre interior e litoral, incentiva o voto tático e deixa sem representação votos úteis. Cita cerca de 730 mil votos (13%) que nas legislativas de 2022 não elegeram deputado, e simulações que apontam para 40 lugares.",
+ "analysis": "A proposta melhora a proporcionalidade global e reduz o voto desperdiçado, com precedente nos Açores. Contudo, retira 40 lugares aos círculos territoriais, reduzindo a ligação regional que o sistema atual procura, e exige uma lista adicional e regras de articulação entre candidaturas. O texto remete a escolha dos 40 lugares para simulações e não discute a compatibilidade com a Constituição, que prevê um sistema de representação proporcional, nem eventual impacto sobre a representação dos círculos menores.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não identifica custos ou receitas. O número total de deputados mantém-se."
+ },
+ "affected": [
+  "eleitores",
+  "partidos políticos",
+  "círculos eleitorais do interior",
+  "deputados"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "lei eleitoral",
+  "círculo de compensação",
+  "proporcionalidade",
+  "hondt",
+  "legislativas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Inscrição facultativa na assistência na doença aos militares (ADM)",
+ "summary": "A Iniciativa Liberal propõe tornar facultativa a inscrição na Assistência na Doença aos Militares (ADM), alterando o artigo 2.º do Decreto-Lei n.º 167/2005. A opção abrangeria as pessoas referidas no n.º 1 do artigo 4.º, nas alíneas c) e d) do artigo 3.º e no n.º 2 do artigo 4.º, que poderiam escolher o regime de proteção social que lhes seja mais favorável. Atualmente a contribuição é obrigatória e de 3,5% da remuneração base. O proponente refere que os militares dispõem de assistência através do Hospital das Forças Armadas e do SNS. A lei entraria em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "A inscrição na ADM passa a ser facultativa para os beneficiários abrangidos pelas disposições indicadas.",
+  "Os beneficiários poderão optar pelo regime de proteção social que lhes for mais favorável.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje os militares são obrigados a descontar 3,5% do vencimento para o subsistema de saúde ADM. A Iniciativa Liberal propõe que passem a poder escolher se querem ou não aderir, podendo optar por outro regime de proteção na doença.",
+ "context": "A Iniciativa Liberal afirma que a ADM é o único subsistema de saúde público obrigatório para profissionais da Administração Pública, o que considera uma tributação desproporcional e desigual, pois a contribuição de 3,5% é paga independentemente da utilização. Sustenta que os militares têm recursos próprios, como o Hospital das Forças Armadas, e acesso ao SNS.",
+ "analysis": "A proposta dá liberdade de escolha e responde a uma queixa de contribuição obrigatória. Fragilidades: se os beneficiários saírem, a ADM pode perder receita e a sua sustentabilidade pode ficar em causa, algo que o texto não analisa. Não define o que acontece aos familiares, aos que já estão inscritos ou a quem sair e queira voltar, nem quantifica o impacto. A afirmação de que a ADM é o único subsistema obrigatório é do proponente e o texto não a documenta.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A saída de beneficiários reduziria as contribuições para a ADM, podendo exigir financiamento alternativo. O texto não apresenta montantes."
+ },
+ "affected": [
+  "militares das Forças Armadas",
+  "beneficiários da ADM",
+  "Hospital das Forças Armadas"
+ ],
+ "categories": [
+  "saude",
+  "defesa",
+  "trabalho"
+ ],
+ "tags": [
+  "ADM",
+  "militares",
+  "subsistema de saúde",
+  "contribuição obrigatória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

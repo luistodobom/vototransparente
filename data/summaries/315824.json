@@ -1,0 +1,42 @@
+{
+ "short_title": "Reavaliar a classificação do Cinema Império e reforçar a sua proteção",
+ "summary": "Projeto de resolução do Chega que recomenda ao Governo nove medidas sobre o Cinema Império, em Lisboa, classificado como Imóvel de Interesse Público em 1996. Entre elas: reavaliar oficiosamente a classificação para proteger outros elementos do edifício; promover um estudo técnico do estado de conservação com o Património Cultural, I.P. e a Câmara Municipal de Lisboa; exigir reversibilidade em todas as intervenções; preservar elementos arquitetónicos e decorativos originais; criar uma equipa multidisciplinar permanente e estender o método a todos os imóveis classificados; e realizar uma vistoria imediata e vistorias conjuntas quadrimestrais para verificar a reposição dos elementos originais e o uso cultural. É uma recomendação, sem efeito vinculativo.",
+ "key_points": [
+  "Reavaliar oficiosamente a classificação do Cinema Império como Imóvel de Interesse Público.",
+  "Estudo técnico sobre o estado de conservação do edifício.",
+  "Intervenções sujeitas a critérios de reversibilidade e preservação dos elementos originais.",
+  "Equipa multidisciplinar permanente no Património Cultural, I.P., extensível a todos os imóveis classificados.",
+  "Vistoria imediata e vistorias conjuntas quadrimestrais para verificar a reposição dos elementos originais e o uso cultural."
+ ],
+ "plain_language": "O Cinema Império é um edifício histórico protegido que tem sido alvo de polémica sobre o seu uso e o estado de conservação. O Chega pede ao Governo que reveja a proteção legal, estude o estado do edifício, faça vistorias regulares e garanta que o espaço continua a ser um cinema e que os elementos originais são repostos.",
+ "context": "O Chega refere o declínio do edifício, a falta de manutenção, obras sem enquadramento legal, a utilização como espaço religioso, a petição Salvemos o Cinema Império e a decisão da Câmara de Lisboa de condicionar o projeto de alteração à reposição de elementos originais, como as esferas armilares e a inscrição Império.",
+ "analysis": "Pontos fortes: propõe medidas de verificação regulares e uma abordagem estrutural, com equipa permanente para imóveis classificados. Fragilidades: nove medidas abrangentes podem sobrepor-se a competências municipais e a procedimentos já em curso; o texto não estima custos, prazos nem meios para as vistorias quadrimestrais. A reclassificação não é fundamentada quanto a que elementos adicionais careceriam de proteção, e a extensão a todos os imóveis classificados é ambiciosa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma equipa permanente, o estudo técnico e as vistorias regulares implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Património Cultural, I.P.",
+  "Câmara Municipal de Lisboa",
+  "proprietário e utilizadores do imóvel",
+  "setor cultural e cidadãos de Lisboa"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "Cinema Império",
+  "património cultural",
+  "imóvel classificado",
+  "vistorias",
+  "Lisboa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

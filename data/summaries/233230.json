@@ -1,0 +1,38 @@
+{
+ "short_title": "Referenciação para privados ou social se esgotarem os tempos de resposta",
+ "summary": "O CHEGA propõe alterar a Base 6 da Lei de Bases da Saúde (Lei n.º 95/2019) para estabelecer que, sempre que se esgotem os tempos máximos de resposta garantidos (TMRG) na rede do SNS, o Estado tem a obrigação de referenciar os utentes para atendimento nos setores privado ou social. Essa referenciação deve ser célere e eficaz, garantindo cuidados de qualidade, em tempo útil e próximo da área de residência do utente. Os restantes números da Base 6 são renumerados. A lei entra em vigor no dia seguinte ao da sua publicação. A exposição de motivos refere o aumento das listas de espera e a ultrapassagem dos TMRG como falha no cumprimento de um direito fundamental.",
+ "key_points": [
+  "Altera a Base 6 da Lei de Bases da Saúde, aditando um novo n.º 2.",
+  "Quando os tempos máximos de resposta garantidos se esgotam, o Estado fica obrigado a referenciar o utente para os setores privado ou social.",
+  "A referenciação deve ser célere e eficaz, com cuidados de qualidade, em tempo útil e perto da área de residência.",
+  "Entra em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "Se o SNS não cumprir o tempo máximo de espera garantido para uma consulta, exame ou cirurgia, o Estado teria de enviar o utente para um hospital ou clínica privada ou social, que trataria o doente. A ideia é que ninguém fique à espera para além do prazo legal.",
+ "context": "O proponente afirma que as listas de espera para consultas, exames e cirurgias crescem e que os TMRG são ultrapassados com frequência. Considera essa situação uma falha no cumprimento de um direito fundamental e defende mecanismos que garantam atendimento em tempo útil, mesmo quando o SNS não consegue responder.",
+ "analysis": "A medida dá um direito concreto ao utente e responsabiliza o Estado pelo cumprimento dos prazos. Fragilidades: o texto não define quem paga nem como são tabelados os preços, não prevê capacidade nem limites para o recurso ao setor privado ou social, e pode desviar recursos do SNS ou pressionar o orçamento. O mecanismo já existe em parte (vales cirurgia e outras referenciações), e o texto não explica a articulação com o regime atual.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a suportar o custo de cuidados prestados nos setores privado e social, sem estimativa no texto; poderia haver menor despesa no SNS em contrapartida."
+ },
+ "affected": [
+  "utentes do SNS em lista de espera",
+  "hospitais e clínicas privadas e sociais",
+  "SNS"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "tempos máximos de resposta garantidos",
+  "listas de espera",
+  "setor privado",
+  "lei de bases da saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

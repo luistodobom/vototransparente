@@ -1,0 +1,42 @@
+{
+ "short_title": "Programa Rede de Creches Públicas",
+ "summary": "Projeto de lei do BE que cria o Programa Rede de Creches Públicas, para promover o acesso à creche e o direito das crianças à educação e ao desenvolvimento integral. Em 2022, o Governo alarga a gratuitidade a todas as crianças em creche pública ou da rede de cooperação cujo agregado pertença ao 3.º escalão de comparticipação familiar. No primeiro semestre de 2022, inicia o levantamento das necessidades de vagas, instalações e recursos humanos; a partir do segundo semestre, requalifica creches e constrói novas, para garantir gradualmente o acesso universal e gratuito dos 0 aos 3 anos. Uma equipa de monitorização é tutelada conjuntamente pelos ministérios da Educação e do Trabalho e Segurança Social. Inicia-se ainda a inclusão das creches no sistema educativo e o tempo de serviço dos educadores conta para o Estatuto da Carreira Docente. Regulamentação em dois meses.",
+ "key_points": [
+  "Gratuitidade da creche em 2022 para agregados do 3.º escalão, em creches públicas ou da rede de cooperação.",
+  "Levantamento das necessidades de vagas e recursos no primeiro semestre de 2022.",
+  "Requalificação e construção de creches para acesso universal e gratuito dos 0 aos 3 anos, gradualmente.",
+  "Equipa de monitorização sob tutela conjunta dos ministérios da Educação e do Trabalho e Segurança Social.",
+  "Início da inclusão das creches no sistema educativo; tempo de serviço dos educadores conta para a carreira docente."
+ ],
+ "plain_language": "O BE propõe que o Estado crie uma rede pública de creches e que, a partir de 2022, comece a pagar a creche às famílias do 3.º escalão de rendimento, com a meta de ela ser gratuita e universal até aos 3 anos. As creches passariam a fazer parte do sistema educativo e os educadores contariam o tempo de serviço para a carreira docente.",
+ "context": "O BE argumenta que a educação dos 0 aos 3 anos é decisiva para a igualdade de oportunidades, citando pareceres do Conselho Nacional de Educação. Refere que as respostas para a primeira infância têm diminuído desde 2014, que a cobertura de creches é de 48,4% (PRR) e que a oferta está sobretudo nos setores privado e social, o que encarece o acesso.",
+ "analysis": "A proposta é abrangente e articula gratuitidade, planeamento da rede e integração no sistema educativo. Fragilidades: o calendário de universalização é vago (gradual, sem datas finais), não indica custos nem fontes de financiamento e, ao integrar as creches no sistema educativo, levanta questões sobre transferência de competências e o papel das IPSS que hoje gerem grande parte da rede. A gratuitidade em 2022 limitada ao 3.º escalão é um passo parcial, e os prazos de regulamentação são curtos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A gratuitidade, o levantamento e a construção de creches e a integração no sistema educativo implicam mais despesa pública. O texto não apresenta montantes. A lei produz efeitos a partir do Orçamento do Estado subsequente."
+ },
+ "affected": [
+  "famílias com crianças dos 0 aos 3 anos",
+  "educadores de infância",
+  "creches públicas e da rede solidária",
+  "Ministérios da Educação e do Trabalho e Segurança Social"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "creches públicas",
+  "gratuitidade",
+  "rede de creches",
+  "sistema educativo",
+  "educadores de infância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

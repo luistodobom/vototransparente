@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço da ação social escolar no ensino superior",
+ "summary": "O Projeto de Lei do BE reforça a ação social escolar no ensino superior. Cria, a partir do ano letivo de 2026/2027, um subsídio para aquisição de material de uso obrigatório nos cursos técnicos superiores profissionais, licenciaturas e mestrados das instituições públicas. Altera a Lei n.º 8/2025, sobre o complemento de alojamento dos estudantes deslocados, para conceder um mês adicional de complemento a bolseiros e não bolseiros deslocados que realizem atos académicos que mantenham a situação de deslocação (como provas, estágios e dissertações), e eleva o apoio à deslocação para 50 euros por mês, até 500 euros por ano. O Governo regulamenta até ao início de 2026/2027.",
+ "key_points": [
+  "Subsídio para material de uso obrigatório nas instituições públicas, a partir de 2026/2027.",
+  "Um mês adicional de complemento de alojamento para quem realize provas, estágios ou dissertação que impliquem manter a deslocação.",
+  "Apoio mensal à deslocação de 50 euros, com máximo anual de 500 euros.",
+  "Regulamentação pelo Governo até ao início do ano letivo de 2026/2027.",
+  "Efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A proposta ajuda estudantes do ensino superior público com os custos de material obrigatório, como códigos de direito ou materiais de arquitetura. Também dá mais um mês de apoio ao alojamento a quem precisa de continuar deslocado para fazer exames, estágios ou a tese, e aumenta o apoio para transportes.",
+ "context": "O BE aponta o aumento do custo de vida, a queda de quartos disponíveis e a subida de preços do alojamento estudantil, e considera insuficientes as respostas estruturais. Refere que a Lei n.º 8/2025 criou o complemento de alojamento mas exige ajustes, e que o custo do material obrigatório em certos cursos é um obstáculo.",
+ "analysis": "A proposta é de âmbito limitado e dirige-se a custos específicos pouco cobertos, como material obrigatório e prolongamento do alojamento. Fragilidades: o subsídio de material não tem valor, critérios nem teto no texto, ficando integralmente para regulamentação; a definição de «material de uso obrigatório» pode gerar desigualdade entre cursos; a extensão do complemento depende de comprovativos das instituições. Não há estimativa de custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria um novo subsídio, prolonga o complemento de alojamento por um mês e aumenta o apoio à deslocação. O texto não quantifica os montantes globais."
+ },
+ "affected": [
+  "estudantes do ensino superior público",
+  "estudantes deslocados",
+  "bolseiros",
+  "instituições de ensino superior"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "ação social escolar",
+  "complemento de alojamento",
+  "material obrigatório",
+  "ensino superior",
+  "Lei 8/2025"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Fiscalização do uso da habitação pública",
+ "summary": "Projeto de Lei do CHEGA que altera a Lei de Bases da Habitação (Lei n.º 83/2019). Acrescenta ao artigo 3.º que o Estado promove o uso prudente da habitação pública e assegura a sua utilização por beneficiários cuja necessidade esteja comprovada. No artigo 27.º, atribui às entidades detentoras de parque público a fiscalização do uso, da conservação dos imóveis e do cumprimento dos requisitos de acesso, e o combate ao uso fraudulento. Adita o artigo 5.º-A, segundo o qual a habitação pública sem uso efetivo, injustificado e continuado durante o prazo definido na lei é considerada devoluta, podendo os beneficiários ficar sujeitos a sanções, nomeadamente a perda do direito à habitação.",
+ "key_points": [
+  "O Estado promove o uso prudente da habitação pública e a sua utilização por quem comprove necessidade.",
+  "As entidades detentoras de parque público fiscalizam o uso, a conservação e o cumprimento dos requisitos de acesso, combatendo a fraude.",
+  "Habitação pública sem uso efetivo, injustificado e continuado, é considerada devoluta.",
+  "Os beneficiários podem sofrer sanções, incluindo a perda do direito à habitação.",
+  "Entra em vigor após a publicação."
+ ],
+ "plain_language": "O CHEGA propõe que o Estado fiscalize se as casas públicas estão a ser realmente usadas por quem precisa. As casas que estejam vazias sem justificação durante muito tempo passam a ser consideradas devolutas, e quem as tem pode perder o direito à habitação.",
+ "context": "O proponente invoca a dificuldade crescente de acesso à habitação (subida das rendas e dos juros), a escassez de habitação pública e que cerca de 12% das casas não são usadas, parte delas do Estado. Defende que onde há escassez é preciso priorizar necessidades e verificar quem beneficia.",
+ "analysis": "Responde ao objetivo de afetar a escassa habitação pública a quem dela precisa. Fragilidades: o prazo para considerar a habitação devoluta e as sanções ficam remetidos para a lei, sem definição, e o texto não distingue ausências justificadas (saúde, trabalho, emergências). Não aborda custos de fiscalização nem dados concretos de fraude no parque público, e a perda do direito à habitação exige garantias procedimentais para evitar situações de desproteção.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A fiscalização implica custos administrativos e a libertação de habitações poderia aumentar a oferta pública; o texto não quantifica."
+ },
+ "affected": [
+  "Beneficiários de habitação pública",
+  "Famílias em lista de espera",
+  "Entidades gestoras de parque habitacional público"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao"
+ ],
+ "tags": [
+  "habitação pública",
+  "lei de bases da habitação",
+  "fiscalização",
+  "habitação devoluta"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

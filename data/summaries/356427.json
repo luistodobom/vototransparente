@@ -1,0 +1,42 @@
+{
+ "short_title": "Acesso equitativo aos terminais rodoviários de passageiros (PSD)",
+ "summary": "O projeto de resolução do PSD recomenda ao Governo nove medidas sobre terminais rodoviários de passageiros: assegurar o acesso livre, transparente, equitativo e não discriminatório; rever o regime legal quanto à demonstração da falta de capacidade, fundamentação das recusas e publicitação da capacidade; uniformizar requisitos técnicos e funcionais; melhorar o registo nacional de terminais; estudar uma solução legislativa contra conflitos de interesse na integração vertical entre gestores de terminais e operadores; rever as concessões; reforçar o regime de coimas do Decreto-Lei n.º 140/2019; reforçar a articulação entre AMT, IMT e Autoridade da Concorrência; e avaliar necessidades de investimento em novos terminais.",
+ "key_points": [
+  "Assegurar acesso livre, transparente e não discriminatório aos terminais por todos os operadores habilitados.",
+  "Rever o regime para exigir fundamentação detalhada das recusas e publicitar a capacidade disponível.",
+  "Prevenir conflitos de interesse entre gestores de terminais e operadores de transporte.",
+  "Rever concessões e agravar as coimas por recusa de acesso ou incumprimento de prazos.",
+  "Uniformizar requisitos técnicos, melhorar o registo nacional de terminais e avaliar investimento em novos terminais."
+ ],
+ "plain_language": "Os terminais de autocarros nem sempre deixam todas as empresas usá-los em condições iguais, sobretudo quando quem gere o terminal também é concorrente. O PSD pede ao Governo que reforce as regras, aumente as coimas, evite conflitos de interesse e avalie novos terminais. É uma recomendação.",
+ "context": "O proponente recorda que a liberalização do transporte expresso (Decreto-Lei n.º 140/2019) abriu o mercado, mas multiplicaram-se queixas de recusa de acesso e de falta de regulamentos. Cita conclusões da Autoridade da Mobilidade e dos Transportes e recomendações da Autoridade da Concorrência, e audições feitas na comissão parlamentar competente a operadores e reguladores.",
+ "analysis": "A iniciativa é abrangente e apoiada nas conclusões de reguladores e em audições, e propõe respostas legislativas concretas. Fragilidades: várias medidas são de estudo ou revisão sem prazo; não estima custos de novas infraestruturas nem o impacto das concessões revistas; e rever concessões e separar funções pode gerar litígios com operadores existentes. Recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Avaliar investimento em novos terminais e reforçar a articulação entre entidades podem implicar despesa, mas o texto não a estima."
+ },
+ "affected": [
+  "Operadores de transporte expresso de passageiros",
+  "Gestores de terminais rodoviários",
+  "Passageiros",
+  "AMT, IMT e Autoridade da Concorrência"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "concorrência",
+  "autocarros expresso",
+  "conflito de interesses",
+  "amt"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

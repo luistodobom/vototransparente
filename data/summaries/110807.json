@@ -1,0 +1,41 @@
+{
+ "short_title": "Regulação da apanha de bivalves no estuário do Tejo",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo quatro medidas para a apanha de bivalves, sobretudo amêijoa-japonesa, no estuário do Tejo: criar uma unidade de depósito, transformação e valorização de bivalves (centro de depuração) nos concelhos do estuário; adotar gestão e regulamentação específica da pesca, com monitorização de longo prazo da população de bivalves, envolvimento dos interessados e revisão das técnicas; adequar o número de licenças à disponibilidade das espécies; e reforçar a fiscalização da comercialização. O texto refere que a maioria dos apanhadores não está licenciada, usa ganchorra e vende sem depuração, apesar de o Tejo ser zona C. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar um centro de depuração e transformação de bivalves nos concelhos do estuário do Tejo.",
+  "Regulamentação específica da pesca de bivalves, com monitorização de longo prazo e revisão das técnicas.",
+  "Adequar o número de licenças à disponibilidade das espécies.",
+  "Fiscalizar a comercialização para um comércio mais justo."
+ ],
+ "plain_language": "No Tejo, muita gente apanha amêijoa sem licença e vende-a sem passar por um centro de depuração, o que é um risco para a saúde pública. O PSD pede ao Governo que construa esse centro, defina regras e licenças para a apanha e reforce a fiscalização. É uma recomendação.",
+ "context": "O PSD descreve o crescimento desregulado do número de apanhadores com a abundância da amêijoa-japonesa, a falta de licenciamento, o uso de ganchorra e a venda sem depuração, com locais de origem falsificados. Realça a importância socioeconómica da atividade nos concelhos do estuário e recorda que a unidade de depuração foi prometida desde 2017.",
+ "analysis": "A proposta identifica um problema de saúde pública e de ordenamento e propõe medidas articuladas, reconhecendo a dimensão social da atividade. Fragilidades: não define localização, custo, calendário ou entidade responsável pelo centro, nem critérios para limitar licenças, o que poderá afetar apanhadores hoje sem licença. A fiscalização exige meios que o texto não prevê. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção do centro de depuração e o reforço da fiscalização implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "apanhadores de bivalves do Tejo",
+  "consumidores",
+  "concelhos do estuário do Tejo"
+ ],
+ "categories": [
+  "agricultura",
+  "saude",
+  "ambiente"
+ ],
+ "tags": [
+  "bivalves",
+  "amêijoa-japonesa",
+  "estuário do tejo",
+  "depuração",
+  "pescas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

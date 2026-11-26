@@ -1,0 +1,42 @@
+{
+ "short_title": "Amnistia e perdão de penas pelos 50 anos do 25 de Abril",
+ "summary": "O projeto de lei do Bloco de Esquerda estabelece um perdão de penas e uma amnistia de infrações a pretexto dos 50 anos do 25 de Abril, para infrações praticadas até 31 de dezembro de 2024. Perdoa um ano de prisão a todas as penas de prisão até oito anos e as penas de multa até 120 dias, incluindo prisão subsidiária e penas de substituição revogadas. Amnistia contraordenações com coima máxima até 1.000 euros e infrações penais com pena aplicável não superior a um ano de prisão ou 120 dias de multa. Exclui crimes graves como homicídio, violência doméstica, crimes sexuais, corrupção e terrorismo, e quem beneficiou das leis de 2023 e 2020. O perdão fica sujeito a condição resolutiva de não cometer infração dolosa em três anos.",
+ "key_points": [
+  "Perdoa um ano de prisão a penas até oito anos e penas de multa até 120 dias.",
+  "Amnistia contraordenações com coima máxima até 1.000 euros e infrações penais até um ano de prisão ou 120 dias de multa.",
+  "Abrange infrações cometidas até 31 de dezembro de 2024.",
+  "Exclui crimes graves, como homicídio, violência doméstica, crimes sexuais, corrupção e terrorismo, e quem já beneficiou das leis de 2020 e 2023.",
+  "Condiciona o perdão a não praticar infração dolosa em três anos e à reparação do lesado."
+ ],
+ "plain_language": "A proposta perdoaria um ano de prisão a quem tenha penas até oito anos e apagaria infrações menores, como pequenas contraordenações e crimes de baixa gravidade, para assinalar os 50 anos do 25 de Abril. Os crimes mais graves ficam de fora. Quem voltar a cometer um crime doloso em três anos teria de cumprir também a parte perdoada.",
+ "context": "O Bloco justifica a iniciativa como ato reintegrador que assinala os 50 anos da democracia e promove coesão social e reinserção. Recorda leis de amnistia anteriores, como as dos 20.º e 25.º aniversários do 25 de Abril e da Jornada Mundial da Juventude em 2023, e sublinha que o perdão não anula a responsabilidade dos infratores.",
+ "analysis": "Segue precedentes legislativos e exclui crimes graves, com salvaguardas para as vítimas (reparação e preservação da responsabilidade civil). Fragilidades: a efeméride dos 50 anos já passou (abril de 2024), o que enfraquece a motivação invocada; o perdão geral de um ano a penas até oito anos pode abranger muitos condenados e ser criticado como enfraquecimento da dissuasão; o texto não estima quantas pessoas seriam abrangidas nem o impacto prisional ou processual. A amnistia depende de uma lista de exceções extensa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O perdão pode reduzir a população prisional e custos processuais, mas também receitas de coimas amnistiadas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "condenados a penas até oito anos",
+  "pessoas com contraordenações ou infrações penais menores",
+  "vítimas e lesados",
+  "tribunais e serviços prisionais"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "amnistia",
+  "perdão de penas",
+  "25 de abril",
+  "reinserção",
+  "código penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

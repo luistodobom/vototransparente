@@ -1,0 +1,43 @@
+{
+ "short_title": "Património classificado: resposta às tempestades e programa preventivo",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo reforçar a resposta aos danos causados no património cultural classificado pelas tempestades de 2026 e criar um programa preventivo nacional. Propõe um programa de vistorias preventivas sistemáticas a monumentos nacionais e imóveis de interesse público, com prioridade a zonas expostas; uma matriz nacional de risco estrutural publicada em doze meses; transparência nos critérios e montantes do apoio excecional de 12 milhões de euros do Fundo de Salvaguarda do Património Cultural, com reforço se necessário; um protocolo nacional de alerta e resposta rápida com critérios de resiliência climática; e monitorização do ProMuseus extraordinário de um milhão de euros.",
+ "key_points": [
+  "Programa de vistorias preventivas sistemáticas a todo o edificado classificado, com prioridade a imóveis mais expostos.",
+  "Matriz nacional de risco estrutural publicada em doze meses e base de um plano plurianual.",
+  "Publicar critérios, calendário e montantes do apoio de 12 milhões de euros e reforçá-lo se insuficiente.",
+  "Criar um protocolo nacional de alerta e resposta rápida e integrar resiliência a fenómenos extremos nas intervenções.",
+  "Monitorizar o ProMuseus extraordinário de um milhão de euros e reforçá-lo se necessário."
+ ],
+ "plain_language": "Depois das tempestades de início de 2026, que danificaram muitos monumentos e museus, o CHEGA pede ao Governo que, além de reparar os danos, inspecione regularmente os edifícios históricos para detetar problemas antes de chegarem as próximas tempestades. Pede também transparência na atribuição dos apoios. É uma recomendação não vinculativa.",
+ "context": "O proponente refere que mais de 120 museus e monumentos sofreram danos com as depressões do início de 2026, incluindo bens da UNESCO, e que o Governo estimou cerca de 20 milhões de euros para recuperação. Defende que a falta de manutenção preventiva agravou os danos e que a lei impõe deveres preventivos ao Estado.",
+ "analysis": "A abordagem preventiva é pertinente e assenta em dados concretos sobre os danos. Fragilidades: vistoriar mais de 4.600 imóveis exige meios técnicos e financeiros que não são estimados; o texto usa linguagem crítica de gestão pública sem avaliar o que já foi feito; e, sendo recomendação, não vincula o Governo. Os reforços de verbas pedidos são condicionais e sem montantes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Propõe vistorias, uma matriz de risco e eventual reforço dos apoios de 12 milhões e de um milhão de euros já existentes, sem estimar custos adicionais."
+ },
+ "affected": [
+  "Proprietários e gestores de património classificado",
+  "Museus da Rede Portuguesa de Museus",
+  "Património Cultural, I.P.",
+  "Autarquias e entidades religiosas"
+ ],
+ "categories": [
+  "cultura",
+  "seguranca",
+  "ambiente"
+ ],
+ "tags": [
+  "património classificado",
+  "tempestades",
+  "vistorias preventivas",
+  "promuseus",
+  "risco estrutural"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

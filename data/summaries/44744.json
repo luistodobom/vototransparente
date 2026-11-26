@@ -1,0 +1,38 @@
+{
+ "short_title": "Carreira de técnico auxiliar de saúde",
+ "summary": "Projeto de resolução do CHEGA que recomenda ao Governo que, já em 2020, promova e acione os mecanismos necessários para criar e regulamentar a carreira profissional de Técnico Auxiliar de Saúde, com as diligências e negociações com as estruturas representativas dos trabalhadores. O texto refere que existem no Serviço Nacional de Saúde cerca de 25 000 profissionais que prestam funções de auxílio nos cuidados médicos, mas que, por estarem numa categoria profissional geral, as suas funções como cuidadores não estão especificadas. Considera que a falta de categoria própria não valoriza o serviço desses profissionais.",
+ "key_points": [
+  "Criar e regulamentar a carreira de Técnico Auxiliar de Saúde.",
+  "Iniciar os mecanismos já em 2020.",
+  "Negociar com as estruturas representativas dos trabalhadores."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que crie uma carreira própria para os cerca de 25 000 auxiliares que ajudam nos cuidados de saúde no SNS, hoje numa categoria geral. A medida seria negociada com os sindicatos. É apenas uma recomendação.",
+ "context": "O proponente argumenta que o setor da saúde exige multidisciplinaridade e que a valorização de todos os profissionais melhora os serviços. Considera que, por estarem numa categoria geral, as funções dos cerca de 25 000 auxiliares como cuidadores não são especificadas nem valorizadas.",
+ "analysis": "A proposta aponta uma reivindicação concreta e identifica o universo de trabalhadores. No entanto, não define funções, requisitos de formação, estrutura remuneratória nem impacto orçamental da nova carreira. O número de 25 000 profissionais é apresentado como dado conhecido, sem fonte. É uma recomendação e a criação da carreira exige decreto-lei do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma carreira própria tende a aumentar a despesa com pessoal do SNS; o texto não apresenta valores."
+ },
+ "affected": [
+  "auxiliares de ação médica do SNS",
+  "Serviço Nacional de Saúde",
+  "sindicatos"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "técnico auxiliar de saúde",
+  "carreira",
+  "snss",
+  "auxiliares"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

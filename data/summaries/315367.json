@@ -1,0 +1,39 @@
+{
+ "short_title": "Preservação do património classificado em Lagos",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo medidas para a preservação do património classificado em Lagos. Pede que abra um aviso de financiamento para a Câmara Municipal executar o projeto já concluído de preservação das Muralhas de Lagos, promova um protocolo entre a Estamo, o município e a Fábrica da Igreja de São Sebastião para executar as soluções do estudo de patologias da igreja, priorize a recuperação urgente do pontão do Cais da Solaria, que ruiu, e estabeleça com a autarquia uma intervenção de recuperação e valorização do Forte da Meia-Praia.",
+ "key_points": [
+  "Abrir um aviso de financiamento para o projeto de preservação das Muralhas de Lagos.",
+  "Promover um protocolo entre a Estamo, o município e a Fábrica da Igreja de São Sebastião, com cofinanciamento, para intervir na igreja.",
+  "Priorizar a recuperação urgente do pontão do Cais da Solaria.",
+  "Estabelecer com a Câmara uma intervenção no Forte da Meia-Praia."
+ ],
+ "plain_language": "O PS pede ao Governo que ajude a pagar obras em quatro locais históricos de Lagos: as muralhas, a Igreja de São Sebastião, o pontão do Cais da Solaria e o Forte da Meia-Praia. A ideia é abrir financiamento para a Câmara avançar com projetos já preparados e evitar mais degradação. É uma recomendação sem força obrigatória.",
+ "context": "O proponente chama a atenção para a necessidade de reforçar verbas para o património classificado do Algarve e para a falta de investimento do Estado face ao esforço financeiro do Município de Lagos na cultura e no património. Refere que já alertou em fevereiro para a situação de risco do património classificado na cidade.",
+ "analysis": "A iniciativa é concreta e identifica quatro intervenções com destinatários definidos, aproveitando projetos e estudos já realizados, o que facilita a execução. Não apresenta custos, calendário nem prioridades entre as quatro obras, e depende de decisões do Governo sobre avisos e protocolos. Foca-se num único concelho, o que pode levantar questões de equidade face a outro património em risco. Sobrepõe-se em parte a outra iniciativa sobre a Igreja de São Sebastião.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os avisos de financiamento, o cofinanciamento da intervenção na igreja e as obras no pontão e no forte implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "município de Lagos",
+  "população local",
+  "visitantes"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "património classificado",
+  "lagos",
+  "muralhas",
+  "cais da solaria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

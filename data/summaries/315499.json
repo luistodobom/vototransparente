@@ -1,0 +1,43 @@
+{
+ "short_title": "Reflorestação das áreas ardidas com espécies autóctones",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a criação de um Programa Nacional de Reflorestação com Espécies Autóctones, com cobertura nacional e financiamento integral por verbas do Orçamento do Estado e fundos comunitários. Propõe tornar obrigatória a criação e fiscalização de perímetros de segurança florestal em torno das aldeias em zonas de risco, plantados com espécies como o carvalho e o castanheiro; recuperar todas as áreas ardidas sob coordenação da AGIF e das autarquias; criar apoios não reembolsáveis para pequenos e médios proprietários; articular o programa com o Sistema de Gestão Integrada de Fogos Rurais; e promover campanhas de sensibilização. É uma recomendação.",
+ "key_points": [
+  "Programa Nacional de Reflorestação com Espécies Autóctones, financiado pelo OE e fundos comunitários.",
+  "Perímetros de segurança florestal obrigatórios em torno de aldeias e aglomerados em zonas de risco.",
+  "Recuperação de todas as áreas ardidas, coordenada pela AGIF e em articulação com as autarquias.",
+  "Apoios não reembolsáveis a pequenos e médios proprietários, incluindo apoio técnico, manutenção inicial e certificação.",
+  "Articulação com o Sistema de Gestão Integrada de Fogos Rurais e campanhas de sensibilização."
+ ],
+ "plain_language": "O CHEGA pede ao Governo um programa nacional para replantar as áreas ardidas com árvores nativas, como carvalhos e castanheiros, e criar faixas protegidas à volta das aldeias. Os proprietários privados teriam apoios financeiros e técnicos. É uma recomendação ao Governo.",
+ "context": "O proponente descreve uma época de incêndios muito grave, com mais de 200 mil hectares ardidos, aldeias evacuadas e vítimas, e culpa a monocultura florestal inflamável, a falta de perímetros de proteção e o abandono rural. Cita estudos que apontam menor propensão ao fogo em castanhais e carvalhais.",
+ "analysis": "A proposta liga a reflorestação à proteção das aldeias e a apoios aos proprietários, e cita estudos em apoio. Fragilidades: promete financiamento integral sem estimar custos, e a obrigatoriedade de perímetros pode envolver terrenos privados sem indicar compensações ou responsabilidades. Os estudos citados são indiretos e não demonstram que as espécies autóctones bastem para travar grandes incêndios. A numeração da parte resolutiva salta do ponto 3 para o 5, o que sugere um ponto em falta no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê financiamento integral por verbas do Orçamento do Estado e fundos comunitários e apoios não reembolsáveis, sem apresentar valores."
+ },
+ "affected": [
+  "proprietários florestais",
+  "populações de aldeias em zonas de risco",
+  "autarquias",
+  "AGIF e ICNF"
+ ],
+ "categories": [
+  "ambiente",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "reflorestação",
+  "espécies autóctones",
+  "incêndios",
+  "perímetros de segurança",
+  "carvalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

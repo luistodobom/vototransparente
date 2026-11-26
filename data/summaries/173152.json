@@ -1,0 +1,40 @@
+{
+ "short_title": "Rendimentos de estudantes independentes sem penalizar prestações sociais",
+ "summary": "A Iniciativa Liberal propõe alterar o artigo 7.º do Decreto-Lei n.º 70/2010, que define a condição de recursos para prestações sociais. A alteração pretende estender aos trabalhadores independentes a regra que já existe para os dependentes: os rendimentos empresariais e profissionais auferidos por jovens trabalhadores-estudantes até 27 anos, de montante anual não superior a 14 vezes a retribuição mínima mensal garantida (RMMG), não contam para a atribuição do abono de família, de bolsas de ensino superior e de pensões de sobrevivência. O texto também fixa que, para prestações que exijam avaliação de rendimentos mensais, se consideram os rendimentos da declaração trimestral anterior ou, na sua falta, os rendimentos fiscais do ano anterior mensualizados. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Estende aos trabalhadores independentes a exclusão de rendimentos até 14 vezes a RMMG por ano para jovens trabalhadores-estudantes até 27 anos.",
+  "A exclusão aplica-se ao abono de família, às bolsas de ensino superior e às pensões de sobrevivência.",
+  "Define como se consideram os rendimentos mensais: declaração trimestral anterior ou, na falta, rendimentos fiscais do ano anterior mensualizados.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A lei já deixou de contar os salários de jovens estudantes-trabalhadores (até 27 anos) para efeitos de alguns apoios sociais, mas só para quem trabalha por conta de outrem. Esta proposta alarga a regra a quem trabalha por conta própria, para que não haja diferença de tratamento entre uns e outros.",
+ "context": "A IL recorda que a Lei n.º 13/2023 (Agenda do Trabalho Digno) alterou o regime apenas para rendimentos de trabalho dependente. Os rendimentos dos independentes continuam a contar para o agregado familiar, mesmo abaixo do mesmo limite, o que cria desigualdade e desincentiva a experiência profissional.",
+ "analysis": "A proposta é focada e corrige uma assimetria de tratamento claramente identificada. Fragilidades: pode exigir mecanismos de controlo de rendimentos de independentes, onde a verificação é mais difícil e há mais risco de manipulação; o texto do n.º 2 é redundante e redigido de forma pouco clara; não há estimativa do número de beneficiários nem do custo das prestações adicionais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais jovens poderiam manter prestações como abono de família, bolsas e pensões de sobrevivência, o que aumenta a despesa, sem montantes no texto."
+ },
+ "affected": [
+  "jovens trabalhadores-estudantes independentes",
+  "famílias de estudantes",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "trabalhador independente",
+  "estudante-trabalhador",
+  "abono de família",
+  "condição de recursos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

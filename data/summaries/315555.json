@@ -1,0 +1,38 @@
+{
+ "short_title": "Aumento do subsídio de refeição na Administração Pública",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que aumente o valor do subsídio de refeição dos trabalhadores da Administração Pública, com efeitos a 1 de janeiro de 2026. O texto não fixa o novo valor. Fundamenta-se no facto de o subsídio, atualmente de 6 euros, se ter mantido inalterado em 2024 e 2025, apesar de uma inflação de 2,4% em 2024 e de uma previsão de 2,3% para 2025, e de ficar abaixo do valor máximo não tributável em IRS usado como referência no setor privado, de 10,2 euros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda o aumento do subsídio de refeição dos trabalhadores da Administração Pública.",
+  "Os efeitos seriam a 1 de janeiro de 2026.",
+  "O valor atual é de 6 euros e esteve inalterado em 2024 e 2025.",
+  "Não indica o montante do aumento."
+ ],
+ "plain_language": "O PAN pede ao Governo que aumente o subsídio de refeição dos funcionários públicos a partir de janeiro de 2026. Hoje é de 6 euros e não subiu em 2024 nem em 2025, apesar da inflação. A resolução não diz quanto deve aumentar e não obriga o Governo.",
+ "context": "O proponente recorda que o subsídio esteve congelado sete anos e voltou a subir desde o Orçamento do Estado para 2017, mas que se manteve em 6 euros em 2024 e 2025, perdendo poder de compra (4,7% de aumento de preços por refletir). Argumenta que a diferença para o setor privado reduz a atratividade da função pública para jovens qualificados.",
+ "analysis": "A proposta responde a uma perda de poder de compra documentada no texto e a uma questão de atratividade do emprego público. É, contudo, pouco concreta: não fixa valor, calendário ou custo, e a comparação com o limite de isenção do IRS do privado mistura realidades diferentes, já que muitas empresas pagam menos. O custo para o Estado como empregador é apenas implícito, e a decisão depende do Governo, sem mecanismo de atualização automática.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um aumento do subsídio de refeição aumenta a despesa com pessoal da Administração Pública. O texto não indica o valor do aumento nem o seu custo."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "Estado enquanto empregador"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "subsídio de refeição",
+  "função pública",
+  "inflação",
+  "remunerações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

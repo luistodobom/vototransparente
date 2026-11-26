@@ -1,0 +1,45 @@
+{
+ "short_title": "Autorização para criar a Prestação Social Única",
+ "summary": "Proposta de lei do Governo, com pedido de prioridade e urgência, que o autoriza por 90 dias a criar a prestação social única (PSU), prestação não contributiva do subsistema de solidariedade. A PSU substituiria o rendimento social de inserção, os subsídios sociais de parentalidade, a pensão social de velhice, a pensão social de invalidez, o complemento extraordinário de solidariedade, as pensões de viuvez e de orfandade e o subsídio social de desemprego. A autorização fixa condições: um ano de residência legal para nacionais de países terceiros, limite de rendimentos ligado ao indexante dos apoios sociais (IAS), inscrição no centro de emprego e disponibilidade para trabalhar ou atividades de solidariedade, montante diferencial com majoração por parentalidade e componente de incentivo ao trabalho, atualização pelo IAS, isenção de IRS e um canal de denúncias de fraude. O decreto-lei autorizado, que acompanha a proposta, entra em vigor em 1 de janeiro de 2027 e garante aos atuais titulares o valor que recebem.",
+ "key_points": [
+  "Substitui oito prestações do subsistema de solidariedade por uma só, de montante diferencial: base (valor de referência fixado por portaria como percentagem do IAS, multiplicado pelo número de adultos equivalentes), mais majoração por parentalidade e componente de incentivo ao trabalho, menos os rendimentos do agregado.",
+  "Condições gerais: residir em Portugal, rendimentos abaixo do valor da PSU, património mobiliário até 30 vezes o IAS, um ano de residência legal para nacionais de países terceiros e um ano desde a cessação voluntária de contrato de trabalho.",
+  "Adultos em idade ativa têm de se inscrever no centro de emprego, aceitar emprego conveniente ou participar em atividades de solidariedade, com dispensa em casos como incapacidade, deficiência igual ou superior a 80% ou cuidador informal principal.",
+  "Recusa injustificada de trabalho ou atividades implica a não atribuição da PSU durante 24 meses ao titular e 12 meses a membros do agregado; falsas declarações implicam inibição de 24 meses.",
+  "Prestação atribuída por 12 meses renovável, atualizada anualmente pelo IAS, isenta de IRS mas englobada, e com canal de denúncias de fraude e abuso.",
+  "Regime transitório: conversão oficiosa dos titulares do rendimento social de inserção e das pensões sociais com garantia do valor atual, e continuidade dos subsídios de parentalidade e desemprego até ao fim do período de concessão."
+ ],
+ "plain_language": "O Governo quer juntar numa só prestação várias ajudas sociais para pessoas com poucos recursos, como o rendimento social de inserção, as pensões sociais e o subsídio social de desemprego. Quem pode trabalhar terá de se inscrever no centro de emprego e aceitar emprego conveniente ou fazer atividades de solidariedade, e quem trabalha não perde de repente todo o apoio. Os atuais beneficiários não ficarão com menos do que recebem hoje. O novo regime começaria em 2027.",
+ "context": "O Governo defende que o subsistema de solidariedade é fragmentado, com regras diferentes e prestações sobrepostas, e que o programa do Governo prioriza simplificar, valorizar o trabalho e evitar armadilhas de pobreza. Afirma que a PSU reforça o acompanhamento e a fiscalização contra fraude e abuso e que o regime transitório preserva o nível de proteção dos atuais beneficiários.",
+ "analysis": "A simplificação pode tornar o sistema mais claro e a componente de incentivo ao trabalho procura evitar a perda abrupta de apoios ao aceitar emprego. Contudo, a autorização legislativa vem com o decreto já redigido e com pedido de urgência, o que limita o debate detalhado, e junta prestações com finalidades muito distintas (pensões, desemprego, parentalidade). As condições de trabalho e as sanções de 12 a 24 meses podem penalizar famílias inteiras e pessoas com menor capacidade. O valor de referência, o teto e o coeficiente do incentivo ao trabalho ficam para portaria, e o texto não apresenta estimativas de custo nem do número de beneficiários.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta valores globais. O montante depende de uma percentagem do IAS a fixar por portaria e de um teto também por portaria, e o efeito conjunto de simplificação, condições de acesso e fiscalização na despesa não é quantificado."
+ },
+ "affected": [
+  "beneficiários do rendimento social de inserção",
+  "pensionistas de pensão social de velhice, invalidez, viuvez e orfandade",
+  "desempregados com subsídio social",
+  "nacionais de países terceiros residentes",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "prestação social única",
+  "rendimento social de inserção",
+  "subsistema de solidariedade",
+  "autorização legislativa",
+  "incentivo ao trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

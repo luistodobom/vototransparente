@@ -1,0 +1,43 @@
+{
+ "short_title": "Acesso a dados para confirmar requisitos do programa Apoiar Rendas",
+ "summary": "Esta proposta de lei do Governo habilita a Agência para o Desenvolvimento e Coesão, I. P., a aceder e tratar dados na posse da Autoridade Tributária e Aduaneira (AT) para verificar os requisitos da medida «Apoiar Rendas», do Programa Apoiar, que apoia o pagamento de rendas não habitacionais por empresas de setores afetados pela pandemia. A AT faculta, a pedido, informação sobre a existência de contrato de arrendamento vigente comunicado e sobre elementos do comprovativo de pagamento da renda, incluindo dados de terceiros como o senhorio. A Agência pode consultar no e-Fatura as faturas apresentadas pelo candidato, e a AT pode usar essa informação para verificar o cumprimento da comunicação de faturas. A transmissão segue o RGPD e a Lei n.º 58/2019. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Habilita a Agência para o Desenvolvimento e Coesão a aceder a dados da AT para validar o acesso ao Apoiar Rendas.",
+  "A AT fornece informação sobre contratos de arrendamento e comprovativos de pagamento de renda, incluindo dados do senhorio.",
+  "A Agência pode consultar no e-Fatura as faturas apresentadas pelo candidato.",
+  "A AT pode verificar, com essa informação, o cumprimento da obrigação de comunicar faturas.",
+  "A transmissão de dados cumpre o RGPD e a Lei n.º 58/2019."
+ ],
+ "plain_language": "Para saber se uma empresa tem direito ao apoio para pagar a renda, a entidade que gere o programa precisa de confirmar junto das Finanças se existe contrato de arrendamento e se a renda foi paga. Esta lei dá-lhe autorização para consultar esses dados, incluindo informação do senhorio, respeitando as regras de proteção de dados.",
+ "context": "O Governo explica que a medida Apoiar Rendas foi criada pela Portaria n.º 15-B/2021 e que a validação dos requisitos exige verificar a quebra de faturação no e-Fatura, contratos de arrendamento, situação tributária e informação cadastral. Como os dados do e-Fatura só podem ser usados para certas finalidades e incluem dados de terceiros, é necessária uma norma de habilitação.",
+ "analysis": "A norma dá base legal clara a um acesso a dados fiscais que de outro modo seria restrito pelo dever de confidencialidade, e remete expressamente para o RGPD, o que reduz o risco jurídico. Contudo, abrange dados de terceiros (senhorios) que não são candidatos ao apoio, e o texto não limita o prazo de conservação, nem prevê garantias específicas para esses titulares. A consulta ao e-Fatura é usada também para verificar o cumprimento de obrigações fiscais, o que alarga a finalidade. O texto não avalia o impacto sobre a celeridade da atribuição do apoio.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A norma é de habilitação de acesso a dados e não cria por si despesa ou receita; o texto não refere montantes do apoio."
+ },
+ "affected": [
+  "empresas candidatas ao Apoiar Rendas",
+  "senhorios",
+  "Autoridade Tributária e Aduaneira",
+  "Agência para o Desenvolvimento e Coesão"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "direitos"
+ ],
+ "tags": [
+  "Apoiar Rendas",
+  "e-Fatura",
+  "proteção de dados",
+  "Autoridade Tributária",
+  "arrendamento não habitacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

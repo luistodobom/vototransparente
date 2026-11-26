@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas de apoio a incêndios rurais: IVA, auxílios e contratação",
+ "summary": "Proposta de Lei do Governo, com pedido de prioridade e urgência, que altera o Decreto-Lei n.º 98-A/2025, de 24 de agosto, sobre medidas de apoio e mitigação do impacto de incêndios rurais. Aditam-se três artigos. O artigo 15.º-A isenta de IVA, durante seis meses após o início do período fixado na resolução do Conselho de Ministros, as transmissões a título gratuito de produtos próprios para alimentação de animais de trabalho agrícola, abate ou reprodução, a agricultores nas zonas abrangidas, sem prejuízo do direito à dedução. O artigo 29.º-A dispensa, por três meses, da autorização prevista na Lei n.º 73/2013 os auxílios financeiros e contratos ou protocolos entre autarquias e CCDR. O artigo 37.º-A qualifica como urgência imperiosa os atos e contratos do regime excecional de contratação pública, isentando-os de visto prévio do Tribunal de Contas. Produz efeitos a 1 de julho de 2025.",
+ "key_points": [
+  "Isenta de IVA, durante seis meses, as doações de alimentação animal a agricultores das zonas afetadas, mantendo o direito à dedução.",
+  "Dispensa, por três meses, a autorização para auxílios financeiros e protocolos entre autarquias e CCDR relativos aos apoios deste regime.",
+  "Qualifica como urgência imperiosa os contratos do regime excecional de contratação pública, isentando-os de visto prévio do Tribunal de Contas.",
+  "Produz efeitos a 1 de julho de 2025 e entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O Governo propõe completar o decreto de apoio às zonas afetadas por incêndios rurais. As doações de ração para animais a agricultores afetados ficam isentas de IVA durante seis meses. As câmaras e as CCDR podem celebrar protocolos para distribuir os apoios sem a autorização habitualmente exigida, e os contratos feitos de forma urgente não precisam de visto prévio do Tribunal de Contas.",
+ "context": "O Governo invoca o Decreto-Lei n.º 98-A/2025, que criou um quadro de apoios com várias áreas (pessoas, habitação, atividades económicas, agricultura, ambiente e infraestruturas), e diz que há medidas que, pela sua natureza, têm de ser aprovadas pela Assembleia da República. Pede prioridade e urgência para responder mais depressa às carências causadas pelos incêndios.",
+ "analysis": "As medidas facilitam e aceleram a resposta ao apoio às vítimas, reduzindo burocracia, em linha com o regime de exceção. Em contrapartida, a isenção do visto prévio do Tribunal de Contas reduz um mecanismo de controlo de legalidade e de despesa pública, o que pode aumentar o risco de irregularidades em contratos de maior valor, e é feita por qualificação legal genérica em vez de caso a caso. A dispensa de autorização para auxílios entre autarquias e CCDR retira outro controlo. O texto não quantifica o impacto fiscal da isenção de IVA.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de IVA nas transmissões gratuitas de alimentação animal reduz receita fiscal durante seis meses. O texto não quantifica o montante nem a despesa dos apoios."
+ },
+ "affected": [
+  "agricultores e pecuaristas das zonas atingidas por incêndios",
+  "autarquias e CCDR",
+  "entidades adjudicantes",
+  "Tribunal de Contas"
+ ],
+ "categories": [
+  "seguranca",
+  "agricultura",
+  "fiscalidade"
+ ],
+ "tags": [
+  "incêndios rurais",
+  "IVA",
+  "contratação pública",
+  "Tribunal de Contas",
+  "apoio a agricultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

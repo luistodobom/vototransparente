@@ -1,0 +1,44 @@
+{
+ "short_title": "Revisão do regime jurídico das instituições de ensino superior (Governo)",
+ "summary": "A proposta de lei do Governo revê a Lei n.º 62/2007 (RJIES) e altera também a Lei de Bases do Sistema Educativo, a lei do financiamento do ensino superior e o regime de avaliação. O fio condutor é o reforço da autonomia orçamental, financeira, patrimonial e de gestão das instituições públicas, incluindo a obrigação de compensar medidas legislativas que reduzam receita ou aumentem despesa das instituições. Flexibiliza o sistema binário, mantendo a distinção entre ensino universitário e politécnico, e passa a prever universidades politécnicas, cuja designação resulta de processos de acreditação e avaliação. Propõe um novo sistema de eleição do reitor, aberto à comunidade, incluindo docentes, investigadores, pessoal técnico, estudantes e antigos alunos, com ponderação definida pelas instituições. O mandato do reitor é de quatro anos, renovável uma só vez; o conselho geral tem entre 15 e 35 membros; os votos de cada corpo eleitoral ponderam entre 10% e 50%. As instituições têm um ano para aprovar novos estatutos, e a lei entra em vigor no primeiro dia do mês seguinte ao da publicação, com republicação integral do RJIES em anexo.",
+ "key_points": [
+  "Reforço da autonomia orçamental, financeira, patrimonial e de gestão das instituições públicas, com compensação de medidas legislativas que afetem o seu orçamento.",
+  "Flexibilização do sistema binário, com universidades e universidades politécnicas, e designação sujeita a acreditação institucional e avaliação externa.",
+  "Novo sistema de eleição direta do reitor (docentes, estudantes, pessoal técnico e antigos estudantes), com votos de cada corpo ponderados entre 10% e 50% e mandato de quatro anos, renovável uma vez.",
+  "Alterações à Lei de Bases do Sistema Educativo, à lei do financiamento do ensino superior e ao regime de avaliação.",
+  "Bolsas de estudo de mérito atribuíveis pelas instituições a estudantes com aproveitamento escolar excecional.",
+  "Define transição: novos estatutos em um ano, aprovados por uma assembleia estatutária; reitores em segundo mandato não podem recandidatar-se; regularização do património imobiliário do Estado afeto às instituições, com listagem em 90 dias."
+ ],
+ "plain_language": "O Governo propõe mudar a lei que organiza as universidades e os politécnicos. As instituições públicas passariam a ter mais liberdade para gerir o dinheiro, o património e a oferta de cursos, e a distinção entre universidades e politécnicos ficaria mais flexível. O reitor seria eleito por uma comunidade mais ampla, que inclui estudantes e antigos alunos.",
+ "context": "O Governo explica que a avaliação do RJIES, prevista para cinco anos após a entrada em vigor, só se fez 16 anos depois, por uma comissão independente. Considera necessário reforçar a autonomia das instituições, dissociando-as dos ciclos políticos, e retoma a intenção de revisão da proposta de lei da legislatura anterior.",
+ "analysis": "A proposta (com republicação integral da lei) resulta de uma avaliação independente e de uma consulta alargada a entidades do setor, e dá às instituições mais flexibilidade de gestão e estratégia. Fragilidades: o regime prevê a dedução na transferência do Orçamento do Estado de 100% do défice registado pelas instituições incumpridoras, o que pode contrariar a autonomia que se pretende reforçar; a maior autonomia financeira depende de financiamento estável, não detalhado; a flexibilização do sistema binário pode esbater a identidade dos politécnicos, como alguns setores receiam; delegar nas instituições o peso dos corpos eleitorais pode gerar modelos muito diferentes, com menos uniformidade de participação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proposta reforça a autonomia financeira, prevê compensação de medidas que reduzam receita ou aumentem despesa das instituições e a dedução de 100% do défice às instituições incumpridoras; o texto não apresenta montantes globais, pelo que o impacto líquido é incerto."
+ },
+ "affected": [
+  "universidades e institutos politécnicos públicos",
+  "docentes e investigadores",
+  "estudantes",
+  "pessoal técnico, especialista e de gestão"
+ ],
+ "categories": [
+  "educacao",
+  "ciencia",
+  "administracao"
+ ],
+ "tags": [
+  "rjies",
+  "ensino superior",
+  "autonomia",
+  "eleição do reitor",
+  "universidades politécnicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

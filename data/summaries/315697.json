@@ -1,0 +1,40 @@
+{
+ "short_title": "Novo acelerador de progressão na função pública",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo, em articulação com as organizações representativas dos trabalhadores, a criação de um novo acelerador do desenvolvimento das carreiras dos trabalhadores com vínculo de emprego público, que reduza de oito para seis o número de pontos de avaliação necessários para a alteração de posicionamento remuneratório. Pede ainda que a aplicação seja faseada e acompanhada de mecanismos de monitorização orçamental, para garantir a sustentabilidade e previsibilidade da despesa. A exposição recorda o regime do Decreto-Lei n.º 75/2023, que beneficiou cerca de 60 mil trabalhadores em 2024, com impacto estimado de 30 milhões de euros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Novo acelerador de progressão: de oito para seis pontos para mudar de posição remuneratória.",
+  "Aplicação faseada, em articulação com os representantes dos trabalhadores.",
+  "Mecanismos de monitorização orçamental para garantir sustentabilidade da despesa.",
+  "Referência ao regime do Decreto-Lei n.º 75/2023 e ao regime dos docentes (Decreto-Lei n.º 48-B/2024)."
+ ],
+ "plain_language": "Os funcionários públicos precisam de acumular oito pontos de avaliação para subir de escalão. O PAN pede ao Governo que reduza para seis, de forma gradual e controlada, para compensar os anos de congelamento das carreiras e tratar os trabalhadores de forma mais igual, como já aconteceu com os professores.",
+ "context": "O PAN refere que os congelamentos das carreiras criaram desequilíbrios e que o regime de 2023 teve alcance limitado, mas ajudou cerca de 60 mil trabalhadores em 2024, com custo estimado de 30 milhões de euros. Aponta ainda diferença de tratamento face aos docentes, que têm recuperação integral do tempo de serviço até 2027, o que considera contrário ao princípio da igualdade.",
+ "analysis": "A proposta é concreta, respeita o princípio da igualdade invocado e prevê faseamento e monitorização. Fragilidades: o texto não estima o custo total da redução de oito para seis pontos para todo o universo da função pública, nem define o calendário do faseamento; a comparação com a recuperação do tempo de serviço dos docentes assenta em regimes de natureza diferente. Sendo uma recomendação, a sua concretização depende do Governo e da negociação com sindicatos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reduzir os pontos necessários para progredir aumenta a despesa com pessoal. O texto cita um custo estimado de 30 milhões de euros para o regime de 2023, mas não estima o custo da nova medida."
+ },
+ "affected": [
+  "trabalhadores da Administração Pública",
+  "sindicatos da função pública",
+  "Governo enquanto empregador público"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "função pública",
+  "progressão",
+  "siadap",
+  "carreiras",
+  "pontos de avaliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

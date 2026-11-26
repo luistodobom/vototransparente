@@ -1,0 +1,43 @@
+{
+ "short_title": "Designação por mérito dos administradores do SNS",
+ "summary": "Projeto de Lei da IL que altera o Estatuto do SNS (Decreto-Lei n.º 52/2022) e o Estatuto do Gestor Público (Decreto-Lei n.º 71/2007) para criar novas regras de designação dos órgãos de administração das unidades do SNS. Exige formação em Administração ou Gestão, preferencialmente na área da saúde, e pelo menos três anos de experiência em saúde para presidente e vogais executivos, com diretor clínico médico e enfermeiro-diretor enfermeiro. Prevê procedimento concursal pela CReSAP, com três candidatos propostos, e vogais propostos pelo presidente, pelas Finanças e pelos municípios. Cada membro assina em 90 dias um contrato de gestão e carta de missão com indicadores, com prémios por cumprimento e cessação do mandato por incumprimento. Entra em vigor 180 dias após a publicação.",
+ "key_points": [
+  "Exige formação em Administração ou Gestão e pelo menos três anos de experiência em saúde aos administradores.",
+  "Prevê concurso pela CReSAP, que propõe três candidatos ao membro do Governo.",
+  "Cria vogais propostos pelo presidente, pelas Finanças e pelos municípios abrangidos.",
+  "Obriga a contrato de gestão e carta de missão em 90 dias, com indicadores de desempenho assistencial.",
+  "Prevê prémios pelo cumprimento e cessação da designação em caso de incumprimento.",
+  "Regulamentação em 90 dias, incluindo uma Comissão Independente de Designação."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que quem dirige hospitais e ULS seja escolhido por mérito, com formação e experiência em gestão da saúde. Cada administrador teria metas escritas, públicas e mensuráveis, com prémios se as cumprir e perda do cargo se não as cumprir.",
+ "context": "A proponente defende uma gestão hospitalar por mérito, transparência e resultados, nunca por cartão partidário, com concursos que permitam escolher os melhores e garantindo ao presidente voz na escolha da sua equipa. Propõe recuperar o modelo de contratos de gestão com objetivos mensuráveis e avaliação pública, regular e vinculativa.",
+ "analysis": "Ponto forte: associa requisitos de competência a metas mensuráveis e responsabilização com consequências. Fragilidades: o texto de articulado mistura procedimento concursal com propostas do Governo e das autarquias, o que mantém influência política; indicadores de desempenho assistencial mal escolhidos podem incentivar distorções; os prémios implicam custos; a cessação automática do mandato pode causar instabilidade. A regulamentação essencial fica remetida para 90 dias depois.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê prémios de desempenho e a criação de uma comissão independente, cujos custos não são quantificados no texto."
+ },
+ "affected": [
+  "administradores das ULS e hospitais do SNS",
+  "municípios",
+  "profissionais de saúde",
+  "utentes do SNS"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "administração hospitalar",
+  "contratos de gestão",
+  "CReSAP",
+  "mérito"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

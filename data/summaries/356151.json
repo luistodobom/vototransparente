@@ -1,0 +1,43 @@
+{
+ "short_title": "Radioamadorismo nas escolas e em fenómenos extremos",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo um conjunto de medidas para promover o radioamadorismo. Propõe um Programa Nacional de Clubes de Radioamadorismo em escolas do ensino básico e secundário, no quadro da educação STEAM, com linhas de financiamento, apoio técnico e simplificação administrativa. Recomenda um guia e procedimentos simplificados, com a ANACOM e o Ministério da Educação, para instalar antenas e estações nas escolas, formação e recursos educativos abertos para docentes em parceria com o ensino superior e associações, apoio às associações de radioamadores e integração do radioamadorismo nas estratégias municipais de combate a fenómenos naturais extremos, com a ANMP. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Programa Nacional de Clubes de Radioamadorismo em escolas do ensino básico e secundário.",
+  "Financiamento, apoio técnico e simplificação administrativa para criar e manter os clubes.",
+  "Guia e procedimentos simplificados, com a ANACOM, para instalar antenas e estações nas escolas.",
+  "Formação e recursos educativos para docentes e apoio às associações de radioamadores.",
+  "Integração do radioamadorismo nas estratégias municipais de resposta a fenómenos naturais extremos."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que incentive o radioamadorismo nas escolas e o inclua nos planos das câmaras para emergências, porque os radioamadores conseguem comunicar quando falham a eletricidade e as redes normais.",
+ "context": "O LIVRE refere que o apagão de 28 de abril de 2025 aumentou o interesse pelo radioamadorismo e que, segundo uma associação, as comunicações entre amadores não foram interrompidas nesse apagão. Destaca o papel desta rede em contexto de catástrofe e nos Açores, e a sua relevância para a educação STEAM.",
+ "analysis": "A proposta aproveita uma capacidade de comunicação resiliente em emergências e liga-a à educação científica. Fragilidades: é genérica quanto a financiamento e metas, não estima o número de escolas ou de radioamadores, e a instalação de antenas em escolas levanta questões de segurança e de gestão. A ligação entre clubes escolares e a resposta de proteção civil não é detalhada. Por ser resolução, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Linhas de financiamento, equipamentos, formação e apoio a associações implicam despesa. O texto não indica montantes."
+ },
+ "affected": [
+  "escolas e alunos",
+  "radioamadores e respetivas associações",
+  "municípios e proteção civil",
+  "docentes"
+ ],
+ "categories": [
+  "educacao",
+  "seguranca",
+  "ciencia"
+ ],
+ "tags": [
+  "radioamadorismo",
+  "STEAM",
+  "proteção civil",
+  "escolas",
+  "ANACOM"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

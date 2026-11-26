@@ -1,0 +1,39 @@
+{
+ "short_title": "Registo de equídeos como animais de companhia",
+ "summary": "Projeto de lei do PAN que altera o Decreto-Lei n.º 123/2013, de 28 de agosto, que estabelece o sistema de identificação de equídeos, para reconhecer a possibilidade de estes serem registados como animais de companhia. O artigo 4.º passa a prever que devem ser identificados, nos termos do Regulamento (CE) n.º 504/2008 e do decreto-lei, os equídeos com ou sem fins comerciais, incluindo para companhia. O anexo III, relativo aos dados mínimos da base de dados, passa a incluir o campo aptidão para companhia. A lei entra em vigor no dia seguinte ao da publicação. O PAN justifica a alteração com a necessidade de o registo refletir a realidade material, evitando que ONG e cidadãos que acolhem equídeos tenham de declarar inverdades para os registar.",
+ "key_points": [
+  "O artigo 4.º do Decreto-Lei n.º 123/2013 passa a abranger equídeos com ou sem fins comerciais, incluindo para companhia.",
+  "O anexo III passa a incluir o campo aptidão para companhia nos dados mínimos da base de dados.",
+  "A lei entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje é difícil registar um cavalo ou burro como animal de companhia. O PAN propõe que a lei permita esse registo, acrescentando um campo na base de dados. Assim, quem resgata ou acolhe estes animais não teria de declarar dados que não correspondem à realidade.",
+ "context": "O PAN afirma que o sistema atual não prevê a aptidão para companhia, e que ONG, associações de proteção animal e cidadãos que acolhem equídeos não conseguem registá-los em conformidade com a realidade, vendo-se condicionados a declarar inverdades. Defende que o registo deve espelhar a verdade material.",
+ "analysis": "A alteração é pontual e responde a uma lacuna concreta, com baixo custo aparente. Fragilidades: o texto não define o que significa aptidão para companhia nem as consequências jurídicas da classificação (por exemplo, quanto à entrada na cadeia alimentar, a medicamentos veterinários ou a obrigações sanitárias), matérias reguladas também a nível europeu. As reticências na redação do artigo 4.º e do anexo III dificultam a verificação do efeito total. Não são previstas medidas de implementação nem custos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A alteração é de natureza regulamentar do registo; o texto não indica despesa ou receita associadas."
+ },
+ "affected": [
+  "detentores de equídeos",
+  "associações de proteção animal",
+  "entidades gestoras do registo de equídeos"
+ ],
+ "categories": [
+  "animais",
+  "agricultura"
+ ],
+ "tags": [
+  "equídeos",
+  "identificação",
+  "animais de companhia",
+  "registo",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

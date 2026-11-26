@@ -1,0 +1,41 @@
+{
+ "short_title": "Saúde mental dos médicos internos no SNS",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo quatro medidas: reconhecer o burnout dos médicos internos como problema prioritário de saúde ocupacional no SNS, com monitorização regular da saúde mental ao longo do internato; assegurar acesso facilitado a apoio psicológico através da saúde ocupacional; adotar medidas de organização do internato que reduzam a sobrecarga e integrem a formação e a investigação no horário de trabalho; e envolver o Conselho Nacional do Médico Interno e organizações representativas dos internos na conceção, implementação e monitorização destas medidas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconhecer o burnout dos médicos internos como problema prioritário de saúde ocupacional.",
+  "Monitorizar regularmente a saúde mental ao longo do internato.",
+  "Garantir acesso facilitado a apoio psicológico via saúde ocupacional do SNS.",
+  "Integrar atividades formativas e de investigação no horário de trabalho.",
+  "Envolver o Conselho Nacional do Médico Interno e organizações representativas dos internos."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que combata o esgotamento dos médicos internos, com acompanhamento da saúde mental, apoio psicológico e menos sobrecarga, incluindo a formação dentro do horário de trabalho. O Governo não é obrigado a seguir.",
+ "context": "O LIVRE cita um estudo nacional da Ordem dos Médicos segundo o qual 55,3% dos médicos internos estavam em risco de burnout e cerca de um em cada quatro tinha sintomas graves. Refere que os internos fazem 40 horas semanais, com pelo menos 12 em urgência, e acumulam atividades formativas fora do horário, num contexto de salários base entre 2078,11 e 2349,15 euros brutos.",
+ "analysis": "A iniciativa assenta em dados de um estudo nacional e propõe medidas concretas de apoio e organização com participação dos visados. Contudo, integrar a formação no horário reduz o tempo assistencial, o que pode agravar a falta de médicos num SNS sob pressão, e o texto não avalia esse efeito, nem custos ou prazos. Não aborda a remuneração, referida como fator de sobrecarga. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoio psicológico, monitorização e reorganização do internato implicariam despesa adicional no SNS, não quantificada no texto."
+ },
+ "affected": [
+  "médicos internos",
+  "utentes do SNS",
+  "serviços de saúde ocupacional",
+  "Ordem dos Médicos"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "burnout",
+  "médicos internos",
+  "saúde mental",
+  "saúde ocupacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

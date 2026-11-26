@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da Rede Nacional de Cuidados Paliativos",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo cinco medidas: reforçar e consolidar a Rede Nacional de Cuidados Paliativos, com resposta integrada, universal e equitativa em todas as fases da vida, da idade pediátrica à geriátrica; atualizar e implementar o Plano Estratégico para o Desenvolvimento dos Cuidados Paliativos em Portugal Continental; nomear com urgência a Coordenação ou Comissão Nacional de Cuidados Paliativos; promover a formação dos profissionais, incluindo formação avançada em medicina e enfermagem paliativas; e assegurar monitorização, avaliação e transparência, com indicadores de acesso, qualidade e resultados e divulgação pública regular.",
+ "key_points": [
+  "Reforçar a Rede Nacional de Cuidados Paliativos, articulada com o SNS e a Rede de Cuidados Continuados, em todas as idades.",
+  "Atualizar e implementar o Plano Estratégico para o Desenvolvimento dos Cuidados Paliativos.",
+  "Nomear urgentemente a Coordenação ou Comissão Nacional de Cuidados Paliativos.",
+  "Reforçar a formação pré e pós-graduada e a diferenciação profissional.",
+  "Definir indicadores de acesso, qualidade e resultados, com divulgação pública regular."
+ ],
+ "plain_language": "O PS pede ao Governo que reforce os cuidados para pessoas com doença grave em todas as idades, nomeie quem coordena a área, forme mais profissionais e publique dados para se saber onde faltam respostas. É uma recomendação.",
+ "context": "O PS refere que cerca de 70% de quem precisa de cuidados paliativos não tem acesso atempado, sendo a situação mais grave na pediatria, e que a Coordenação Nacional de Cuidados Paliativos está numa situação incompatível com a sua importância. Invoca a Lei de Bases de 2012 e o Plano Estratégico 2023-2024.",
+ "analysis": "A proposta é abrangente e acentua a governação e a monitorização, com a nomeação da coordenação e indicadores públicos. Fragilidades: não define metas de cobertura, prazos nem financiamento, e a referência ao plano de 2023-2024 sugere que a atualização já é devida. Algumas medidas coincidem com recomendações de outros partidos e de resoluções anteriores. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço da rede, da formação e da monitorização implica mais despesa no SNS, que o texto não quantifica."
+ },
+ "affected": [
+  "doentes com necessidades paliativas, de todas as idades",
+  "famílias e cuidadores",
+  "profissionais de saúde",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "plano estratégico",
+  "coordenação nacional",
+  "formação",
+  "monitorização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Medidas de apoio após o comboio de tempestades",
+ "summary": "O PS recomenda ao Governo um vasto pacote de 14 medidas após o comboio de tempestades de janeiro e fevereiro de 2026. Inclui estado de calamidade até 30 de junho de 2026, programa de apoio à recuperação das empresas com apoio não reembolsável sobre as linhas de crédito, complemento ao lay-off simplificado (33% da remuneração, até 600 euros por mês), programa de recuperação de infraestruturas municipais com comparticipação de 85%, isenção temporária de portagens, apoio às famílias (programa HABITAR), notificação à Comissão Europeia de um auxílio de Estado para agricultores, \"Simplex Rural\", \"Via Verde Hidráulica\", compensação de lucros cessantes, apoio ao setor do pescado, programa de recuperação integrada e um Fundo Permanente de Resposta a Catástrofes Naturais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estado de calamidade até 30 de junho de 2026, alargado a outros concelhos.",
+  "Apoio não reembolsável às empresas com créditos das linhas das intempéries e complemento de 33% (até 600 euros por mês) ao lay-off simplificado.",
+  "Comparticipação pública de 85% na recuperação de infraestruturas municipais, reforço do Fundo de Emergência Municipal e isenção de portagens até setembro de 2026.",
+  "Apoio às famílias, incluindo o programa HABITAR com limite de taxa de esforço de 10% do rendimento anual nos encargos extraordinários.",
+  "Auxílio de Estado com subvenções até 100% dos custos elegíveis para agricultores, Simplex Rural (até 50.000 euros), Via Verde Hidráulica e compensação de lucros cessantes.",
+  "Apoio ao setor do pescado, programa de recuperação integrada e Fundo Permanente de Resposta a Catástrofes Naturais."
+ ],
+ "plain_language": "O PS pede ao Governo um grande pacote de ajuda para as zonas atingidas pelas tempestades: dinheiro a fundo perdido para empresas e agricultores, apoio a trabalhadores em lay-off, ajuda às famílias com casas danificadas, reconstrução de infraestruturas locais e um fundo permanente para futuras catástrofes. É uma recomendação, o Governo decide se a segue.",
+ "context": "O proponente refere danos significativos na atividade económica, no emprego, nas infraestruturas municipais e nas habitações, e defende uma resposta pública robusta e proporcional. Considera que as linhas de crédito já criadas não bastam, pelo risco de agravar o endividamento, e propõe apoios não reembolsáveis e simplificação de procedimentos.",
+ "analysis": "O pacote é abrangente e inclui critérios, limites e condições (manutenção de emprego e atividade) que reduzem o risco de uso indevido, e recorre a fundos europeus e a regras de auxílios de Estado. Fragilidades: não apresenta uma estimativa global de custo nem fontes de financiamento; muitas medidas implicam despesa elevada e a isenção de dispensas de controlo (como substituir o visto prévio do Tribunal de Contas) levanta riscos de fiscalização; a quantidade de medidas dificulta a priorização; e as regras de elegibilidade são complexas de operacionalizar. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pacote implica despesa pública elevada: apoios não reembolsáveis, comparticipações de 85% em infraestruturas, compensações e fundos novos. A isenção de portagens e de IVA e IRS na madeira reduz receitas. O texto não apresenta estimativa total."
+ },
+ "affected": [
+  "empresas e trabalhadores afetados",
+  "agricultores e pescadores",
+  "famílias com casas danificadas",
+  "municípios"
+ ],
+ "categories": [
+  "ambiente",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [
+  "tempestades",
+  "calamidade",
+  "apoios às empresas",
+  "lay-off",
+  "agricultura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

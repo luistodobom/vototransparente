@@ -1,0 +1,38 @@
+{
+ "short_title": "Complemento de pensões a todos os reformados, seja qual for o pagador",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que altere o Decreto-Lei n.º 57-C/2022 de modo a incluir todos os pensionistas, independentemente da entidade pagadora das pensões, no complemento excecional de pensões pago em 2022. Atualmente o complemento exclui os pensionistas residentes fora do território nacional e aqueles cuja pensão é paga por fundos de pensões, por exemplo do setor bancário, bem como pensões superiores a 12 vezes o IAS. O texto fundamenta a inclusão, em particular, dos pensionistas com pensão igual ou inferior a 12 vezes o IAS paga por fundos de pensões. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Alterar o Decreto-Lei n.º 57-C/2022 para incluir todos os pensionistas, independentemente da entidade pagadora.",
+  "Inclui, em especial, pensionistas cuja pensão é paga por fundos de pensões, como reformados da banca.",
+  "A fundamentação refere a exclusão de residentes fora do território nacional."
+ ],
+ "plain_language": "O Governo pagou em outubro de 2022 um complemento extra a pensionistas da Segurança Social e da CGA, mas deixou de fora quem recebe a pensão por fundos privados ou vive no estrangeiro. O PCP pede que o complemento abranja todos os reformados. É uma recomendação, não vinculativa.",
+ "context": "O proponente invoca a perda de poder de compra provocada pela inflação e o facto de as medidas serem parcelares. Considera injusta a exclusão de pensionistas de fundos de pensões, em especial da banca, e de residentes no estrangeiro, pois também sentem a perda de poder de compra.",
+ "analysis": "Responde a uma desigualdade de cobertura e aproxima-se de iniciativas semelhantes de outros grupos. Fragilidades: o texto não quantifica quantos pensionistas seriam abrangidos nem o custo, e as pensões de fundos privados são pagas por entidades privadas, pelo que não é claro se o encargo recairia sobre o Orçamento do Estado. O complemento já foi pago em 2022, o que levanta a questão da retroatividade. A recomendação é ampla e pouco detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o complemento a mais pensionistas aumenta a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "Pensionistas de fundos de pensões, como reformados da banca",
+  "Pensionistas residentes no estrangeiro",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "pensões",
+  "complemento excecional",
+  "fundos de pensões",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

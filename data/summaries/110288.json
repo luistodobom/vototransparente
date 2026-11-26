@@ -1,0 +1,43 @@
+{
+ "short_title": "Incentivar fraldas reutilizáveis e reciclagem de fraldas descartáveis",
+ "summary": "Projeto de resolução de Os Verdes que recomenda ao Governo cinco medidas para reduzir resíduos de artigos de higiene da primeira infância: estudar a viabilidade de unidades de reciclagem de fraldas descartáveis e de artigos equiparados; promover ações de sensibilização em hospitais pediátricos, maternidades, IPSS e creches sobre fraldas reutilizáveis e toalhitas laváveis; dotar essas instituições de condições de deposição e armazenamento; desenvolver projetos de oferta de kits de fraldas reutilizáveis em maternidades; e criar incentivos fiscais, nomeadamente dedução em IRS, na compra de fraldas reutilizáveis, embalagens e toalhitas laváveis. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estudo de viabilidade de unidades de reciclagem de fraldas descartáveis e artigos semelhantes.",
+  "Sensibilização em maternidades, hospitais pediátricos, IPSS e creches.",
+  "Condições de armazenamento de fraldas reutilizáveis nessas instituições.",
+  "Projetos de oferta de kits de fraldas reutilizáveis em maternidades.",
+  "Incentivos fiscais, incluindo dedução em IRS, à compra de fraldas reutilizáveis."
+ ],
+ "plain_language": "As fraldas descartáveis geram muito lixo. Os Verdes pedem ao Governo que estude a reciclagem destas fraldas, informe pais e instituições sobre as reutilizáveis, ofereça kits em maternidades e dê benefícios no IRS a quem as comprar. É uma recomendação, sem força de lei.",
+ "context": "O proponente refere que cada criança usa 5000 a 6000 fraldas antes dos 3 anos e que cerca de 40 000 toneladas anuais poderiam ser desviadas de aterros e da incineração. Recorda que o estudo da APA de 2009 não via mais-valia na reciclagem, mas defende que existem hoje tecnologias que justificam nova avaliação.",
+ "analysis": "Aborda um fluxo de resíduos relevante com medidas de baixo custo, como a sensibilização, e outras mais dispendiosas, como os incentivos fiscais. Fragilidades: a reutilização exige lavagens com consumo de água e energia, cujo balanço ambiental o texto apenas aflora; os benefícios fiscais têm custo para o erário sem estimativa; um dos valores citados, de 5 a 6% dos resíduos urbanos, é atribuído a fraldas reutilizáveis, aparentemente por lapso, quando o contexto sugere fraldas descartáveis.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A dedução em IRS na compra de fraldas reutilizáveis reduz a receita fiscal, e os estudos, ações de sensibilização e kits implicam despesa; o texto não indica montantes."
+ },
+ "affected": [
+  "pais e famílias com crianças pequenas",
+  "maternidades e hospitais",
+  "creches e IPSS",
+  "setor da gestão de resíduos"
+ ],
+ "categories": [
+  "ambiente",
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "fraldas",
+  "resíduos",
+  "reciclagem",
+  "incentivos fiscais",
+  "IRS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

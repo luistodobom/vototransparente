@@ -1,0 +1,41 @@
+{
+ "short_title": "Motociclos nas vias reservadas e estacionamento obrigatório para motos",
+ "summary": "O PSD propõe alterar os artigos 70.º e 77.º do Código da Estrada. Os parques e zonas de estacionamento em vias urbanas passariam a ter de reservar, pelo menos, 5% da área, com o mínimo de um lugar, ao estacionamento exclusivo de motociclos e triciclos motorizados. Passaria também a ser permitida, por regra legal, a circulação de motociclos e triciclos motorizados nas vias de trânsito reservadas (por exemplo, corredores BUS), eliminando-se a atual exigência de deliberação camarária com parecer da ANSR e do IMT. As entidades responsáveis, incluindo autarquias, teriam até 31 de dezembro de 2025 para cumprir a reserva de estacionamento. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Reserva mínima de 5% da área de estacionamento urbano, com pelo menos um lugar, a motociclos e triciclos motorizados.",
+  "Circulação de motociclos e triciclos motorizados permitida nas vias reservadas.",
+  "Elimina a necessidade de deliberação municipal e pareceres para essa circulação.",
+  "Prazo até 31 de dezembro de 2025 para cumprir a reserva de lugares.",
+  "Entrada em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "A proposta obriga os parques de estacionamento urbanos a reservar uma parte dos lugares para motas e permite às motas usar as faixas reservadas a transportes públicos, sem que cada câmara tenha de decidir caso a caso.",
+ "context": "O PSD refere o aumento de mais de 400% do parque de motociclos entre 1995 e 2022 e os desafios daí decorrentes para a segurança, as deslocações e o estacionamento nos centros urbanos. Defende que agilizar o acesso às vias reservadas e facilitar o estacionamento melhora a mobilidade, reduz tempos de viagem, emissões de CO2 e tráfego automóvel.",
+ "analysis": "A medida dá resposta ao crescimento das motas e uniformiza regras entre municípios. No entanto, retira às câmaras o poder de decidir sobre as suas faixas e o parecer técnico da segurança rodoviária, podendo gerar conflitos com autocarros, bicicletas e peões. A reserva de 5% pode reduzir lugares para automóveis e exigir obras de sinalização em curto prazo, com custo para as autarquias. O texto não apresenta estudos sobre a segurança da circulação de motas em corredores BUS.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reserva de lugares e a respetiva sinalização podem gerar custos às autarquias e entidades gestoras de parques, não quantificados no texto."
+ },
+ "affected": [
+  "motociclistas",
+  "autarquias",
+  "gestores de parques de estacionamento",
+  "utilizadores de transportes públicos"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "código da estrada",
+  "motociclos",
+  "corredores BUS",
+  "estacionamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

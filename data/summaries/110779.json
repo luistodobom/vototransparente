@@ -1,0 +1,42 @@
+{
+ "short_title": "Nomear médicos-veterinários municipais em falta",
+ "summary": "A deputada não inscrita Cristina Rodrigues recomenda ao Governo que assegure a comparticipação da Direção-Geral da Alimentação e Veterinária (DGAV) nos concursos públicos para a contratação de médicos-veterinários municipais, nos termos do Decreto-Lei n.º 116/98. O texto recorda que cada município deve ter um médico-veterinário municipal, como autoridade sanitária veterinária concelhia, e que, segundo a legislação, deveria haver cerca de 308, mas existem cerca de 170. Refere que não é nomeado nenhum há cerca de uma década e que a transferência das competências de bem-estar dos animais de companhia da DGAV para o ICNF torna a contratação mais urgente. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda que a DGAV comparticipe os concursos públicos para contratar médicos-veterinários municipais.",
+  "Invoca o Decreto-Lei n.º 116/98, que prevê um médico-veterinário municipal por concelho.",
+  "Aponta uma falta de cerca de 138 profissionais: 170 existentes face a cerca de 308 previstos.",
+  "Liga a medida à transferência das competências de bem-estar animal para o ICNF.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "Cada concelho devia ter um veterinário municipal para a saúde pública e o bem-estar animal, mas faltam muitos e há cerca de dez anos que não é nomeado nenhum. A deputada pede ao Governo que a DGAV ajude a pagar os concursos para contratar os que faltam.",
+ "context": "A proponente sublinha o papel dos médicos-veterinários municipais na saúde pública e no bem-estar animal e a sua falta em muitos municípios. Refere que a passagem das competências de bem-estar dos animais de companhia para o ICNF, que tem carências de pessoal e pouca experiência na matéria, torna a situação mais urgente.",
+ "analysis": "A proposta é específica e dirige-se a um problema de recursos humanos documentado na lei vigente. Fragilidades: a comparticipação é pedida sem montante nem critério; as nomeações dependem também dos municípios, que são os empregadores, e o texto não explica por que razão não foram feitas durante uma década; o número de 308 e 170 é citado sem fonte. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A comparticipação da DGAV nos concursos e a contratação de profissionais implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "municípios",
+  "médicos-veterinários",
+  "DGAV e ICNF",
+  "população e animais de companhia"
+ ],
+ "categories": [
+  "animais",
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "médicos-veterinários municipais",
+  "bem-estar animal",
+  "dgav",
+  "autoridade sanitária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

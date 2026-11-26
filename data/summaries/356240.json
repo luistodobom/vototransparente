@@ -1,0 +1,44 @@
+{
+ "short_title": "Mais segurança para mulheres no TVDE",
+ "summary": "Projeto de Lei do PAN que altera a Lei n.º 45/2018 (TVDE) para reforçar a segurança e prevenir a violência contra mulheres. Torna obrigatórios nas plataformas um botão de pânico com ligação às autoridades e partilha de localização, partilha da viagem em tempo real com contactos de confiança e deteção automática de anomalias no percurso. Os motoristas passam a enviar anualmente o registo criminal ao IMT e o crime de devassa da vida privada passa a causa de indignidade. Permite categorias facultativas de correspondência preferencial entre passageiras e motoristas mulheres, exige formação em prevenção de violência e assédio, uma linha de apoio 24 horas, comunicação ao Ministério Público e ao IMT em 48 horas e relatório anual.",
+ "key_points": [
+  "Botão de pânico, partilha de viagem em tempo real e deteção automática de anomalias obrigatórios.",
+  "Registo criminal do motorista enviado anualmente ao IMT; devassa da vida privada como causa de indignidade.",
+  "Categorias facultativas de correspondência preferencial entre passageiras e motoristas mulheres, sem restringir o acesso geral.",
+  "Formação obrigatória em prevenção de conflitos, violência e assédio.",
+  "Linha telefónica de apoio 24 horas e comunicação de indícios de crime ao Ministério Público e ao IMT em 48 horas.",
+  "Relatório anual das plataformas ao IMT com número de denúncias, tipologia, medidas e tempo de resposta."
+ ],
+ "plain_language": "O PAN propõe obrigar as plataformas como a Uber e a Bolt a terem mecanismos de segurança, como um botão de pânico e partilha da viagem com familiares, e a apoiar vítimas de assédio. Os motoristas teriam de apresentar o registo criminal todos os anos e ter formação. As plataformas poderiam ainda oferecer a opção de motoristas mulheres.",
+ "context": "O proponente refere que, embora estatisticamente raras, situações de violência sexual e assédio em viagens têm impacto real na perceção de segurança das utilizadoras, e que alguns operadores já aplicam estes mecanismos. Cita também um estudo sobre violência sexual baseada em imagens para justificar o alargamento das causas de indignidade.",
+ "analysis": "As medidas são concretas e respondem a riscos reais, e tornar obrigatório o que já alguns operadores fazem uniformiza a proteção. Fragilidades: as obrigações tecnológicas e os relatórios aumentam custos para plataformas e motoristas, a correspondência preferencial por sexo pode levantar questões de não discriminação, apesar da ressalva do texto, e a articulação com o RGPD no tratamento de dados de localização não é desenvolvida. O texto cita dados de estudos sem os integrar numa avaliação de impacto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A medida cria custos para plataformas e para o IMT (receção de registos criminais e relatórios), mas o texto não apresenta estimativas."
+ },
+ "affected": [
+  "passageiras e passageiros de TVDE",
+  "motoristas de TVDE",
+  "plataformas eletrónicas",
+  "IMT"
+ ],
+ "categories": [
+  "transportes",
+  "direitos",
+  "seguranca"
+ ],
+ "tags": [
+  "TVDE",
+  "violência contra mulheres",
+  "botão de pânico",
+  "assédio",
+  "IMT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

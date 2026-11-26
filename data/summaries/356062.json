@@ -1,0 +1,39 @@
+{
+ "short_title": "Dádiva de sangue: horários, rede de recolha e literacia",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo três medidas para reforçar a dádiva de sangue e a segurança do SNS: assegurar horários fixos e alargados nos centros de recolha, incluindo períodos pós-laborais e fins de semana; reforçar a rede territorial de recolha, através de centros fixos e unidades móveis, com especial incidência nas regiões de menor cobertura; e promover a literacia em saúde e a educação para a dádiva benévola de sangue, nomeadamente em meio escolar, com monitorização do impacto na adesão e renovação de dadores.",
+ "key_points": [
+  "Horários fixos e alargados nos centros de recolha, incluindo pós-laborais e fins de semana.",
+  "Reforçar a rede de recolha com centros fixos e unidades móveis nas regiões de menor cobertura.",
+  "Promover literacia em saúde e educação para a dádiva, nomeadamente nas escolas, com monitorização."
+ ],
+ "plain_language": "O CHEGA pede que doar sangue seja mais fácil: mais horários, mais pontos de recolha nas zonas do país com menos oferta e informação nas escolas para criar novos dadores. É uma recomendação ao Governo.",
+ "context": "O CHEGA cita o relatório de 2024 sobre atividade transfusional, que mostra menos dadores e dádivas, com cerca de 200 mil dadores em 2024. Refere adiamentos de atos clínicos por falta de componentes sanguíneos, cobertura insuficiente em regiões como Bragança, Beira Alta, Beira Baixa, Alentejo e Algarve e falta de literacia entre os jovens.",
+ "analysis": "As medidas são práticas e dirigidas às causas apontadas (horários, cobertura territorial, informação). A proposta não define metas, custos, calendário nem entidade responsável, para além de mencionar a Direção Executiva do SNS na exposição de motivos, e não distingue entre falta de adesão e limitações de capacidade de colheita. A ligação entre a escassez de sangue e adiamentos clínicos é afirmada com remissão a notícias. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar horários, reforçar centros e unidades móveis e promover campanhas escolares implica mais despesa no SNS, não quantificada no texto."
+ },
+ "affected": [
+  "dadores de sangue",
+  "doentes que dependem de transfusões",
+  "serviços de recolha de sangue",
+  "alunos e escolas"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "centros de recolha",
+  "literacia em saúde",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Análise mensal de glifosato na água de consumo",
+ "summary": "O projeto de lei do PAN obriga a que as águas destinadas a consumo humano provenientes de captações de água superficial sejam analisadas mensalmente, pelas entidades responsáveis pelos sistemas de abastecimento, para verificar a presença de glifosato. Os dados das análises devem ser enviados à Direção-Geral de Alimentação e Veterinária, que elabora um relatório anual com os resultados. A lei entra em vigor no dia seguinte ao da publicação. Atualmente, a lista de pesticidas a pesquisar recomenda apenas a análise anual do glifosato nestas águas, situação que o proponente quer alterar.",
+ "key_points": [
+  "Análise mensal de glifosato nas águas de consumo provenientes de captações superficiais.",
+  "As análises são da responsabilidade das entidades gestoras dos sistemas de abastecimento.",
+  "Os dados são enviados à Direção-Geral de Alimentação e Veterinária.",
+  "A DGAV elabora um relatório anual com os resultados."
+ ],
+ "plain_language": "O PAN quer que a água da torneira captada em rios e albufeiras seja testada todos os meses para ver se tem glifosato, um herbicida. Hoje a pesquisa é apenas recomendada uma vez por ano. Os resultados seriam enviados a uma entidade do Estado que publicaria um relatório anual.",
+ "context": "O proponente cita a classificação do glifosato pela Agência Internacional para a Investigação sobre o Cancro como carcinogénio provável, o aumento do seu uso e estudos que detetaram contaminação em voluntários portugueses. Recorda que uma resolução de 2016 pedia um programa de verificação, sem consequências práticas.",
+ "analysis": "A proposta é simples e concreta, e aumenta a monitorização de uma substância preocupante. Não define, porém, valores-limite de ação nem consequências em caso de resultados acima do limite, e a ligação entre os valores de contaminação em voluntários citados e a água é indireta. A análise mensal pode implicar custos adicionais para as entidades gestoras, sem que o texto os avalie nem indique como serão financiados. O texto também não explica a escolha de captações superficiais apenas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A análise mensal implica custos adicionais para as entidades gestoras dos sistemas de abastecimento e para a DGAV, que o texto não quantifica."
+ },
+ "affected": [
+  "consumidores de água",
+  "entidades gestoras de abastecimento de água",
+  "Direção-Geral de Alimentação e Veterinária"
+ ],
+ "categories": [
+  "saude",
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "glifosato",
+  "água potável",
+  "pesticidas",
+  "monitorização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

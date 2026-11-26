@@ -1,0 +1,38 @@
+{
+ "short_title": "Regulamento da Comissão Permanente da Assembleia",
+ "summary": "Este projeto de resolução, apresentado pelo Presidente da Assembleia da República, aprova o Regulamento da Comissão Permanente, que funciona fora dos períodos normais de funcionamento do Parlamento. O regulamento em anexo define a composição (Presidente, Vice-Presidentes e deputados indicados por todos os partidos), a Mesa, as competências do Presidente e dos Secretários, as regras de convocação das reuniões, que exigem 24 horas de antecedência, a ordem de trabalhos e o uso da palavra segundo as grelhas fixadas pela Conferência de Líderes. Estabelece ainda que as reuniões são públicas, que são publicadas no Diário da Assembleia da República e que os casos omissos seguem o Regimento. Entra em vigor após aprovação pela própria Comissão Permanente.",
+ "key_points": [
+  "Define a composição da Comissão Permanente, presidida pelo Presidente da Assembleia da República.",
+  "Fixa a Mesa e as competências do Presidente e dos Secretários.",
+  "Estabelece a convocação das reuniões por escrito com antecedência mínima de 24 horas.",
+  "Determina que as reuniões são públicas e publicadas no Diário da Assembleia da República.",
+  "Aplica o Regimento da Assembleia aos casos omissos."
+ ],
+ "plain_language": "A Comissão Permanente é o grupo de deputados que assegura o trabalho do Parlamento quando este não está em funcionamento normal. Este texto aprova as regras internas do seu funcionamento: quem a integra, como se marcam as reuniões, como se fala, e que as reuniões são públicas e ficam registadas. Trata-se de uma norma interna do Parlamento, sem efeitos diretos para os cidadãos.",
+ "context": "O texto não inclui exposição de motivos. Limita-se a indicar que a Comissão Permanente resolve, nos termos do n.º 5 do artigo 166.º da Constituição, aprovar o seu regulamento, que se anexa.",
+ "analysis": "Trata-se de um regulamento interno, de natureza técnica, que garante transparência ao tornar públicas as reuniões e publicar o seu relato integral. As regras remetem para o Regimento e para decisões da Conferência de Líderes em vários pontos, como a ordem das reuniões e as grelhas de tempo, o que dá flexibilidade mas pouca previsibilidade. A iniciativa não apresenta justificação nem comparação com o regulamento anterior, pelo que não é possível avaliar o que muda em relação a ele.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de regras internas de funcionamento, sem despesa ou receita prevista no texto."
+ },
+ "affected": [
+  "deputados da Comissão Permanente",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "comissão permanente",
+  "regimento",
+  "assembleia da república",
+  "regulamento interno"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

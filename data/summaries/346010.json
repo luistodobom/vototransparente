@@ -1,0 +1,42 @@
+{
+ "short_title": "Conta-corrente entre o Estado e as empresas",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a implementação urgente de uma conta-corrente entre o Estado e as empresas. Propõe: estender o Portal das Finanças para que as empresas possam requerer a compensação entre obrigações tributárias e créditos fiscais, nos termos da Lei n.º 3/2022; criar na Autoridade Tributária secções dedicadas aos pedidos de compensação, garantindo decisão em 10 dias úteis; implementar a consulta em tempo real do saldo compensável; fixar um cronograma vinculativo, com desenvolvimento e testes até 31 de junho de 2026 e extensão a todas as empresas até 31 de dezembro de 2026; e publicar um relatório anual até 31 de março. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Permitir no Portal das Finanças pedidos de compensação entre obrigações tributárias e créditos.",
+  "Criar secções dedicadas na Autoridade Tributária, com decisão em 10 dias úteis.",
+  "Disponibilizar consulta em tempo real do saldo compensável.",
+  "Cronograma: desenvolvimento e testes até 31 de junho de 2026 e extensão a todas as empresas até 31 de dezembro de 2026.",
+  "Publicar até 31 de março de cada ano um relatório com número de empresas, volume processado e prazos médios."
+ ],
+ "plain_language": "O LIVRE quer que as empresas possam abater ao que devem de impostos o que o Estado lhes deve, através do Portal das Finanças e com resposta rápida. Propõe datas para isso e um relatório anual. É uma recomendação ao Governo, sem obrigatoriedade.",
+ "context": "O proponente nota que o Estado exige às empresas o cumprimento rigoroso das obrigações fiscais, mas paga com atrasos, contra o limite de 30 dias da diretiva europeia sobre atrasos de pagamento. Isto pressiona a liquidez, sobretudo das micro, pequenas e médias empresas. Refere que a medida consta do programa Acelerar a Economia e foi adiada.",
+ "analysis": "Ponto forte: propõe prazos, indicadores e relatório público, o que permite acompanhar a execução, e responde a um problema de liquidez das PME. Fragilidades: o cronograma refere \"31 de junho\", data que não existe, o que revela falta de rigor; limita-se à compensação fiscal e não aborda o prazo geral de pagamento do Estado; e não estima a capacidade da Autoridade Tributária nem os custos do desenvolvimento informático.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A compensação pode antecipar receita fiscal em termos de tesouraria do Estado e reduzir custos financeiros das empresas, mas implica custos informáticos e administrativos. O texto não apresenta montantes."
+ },
+ "affected": [
+  "micro, pequenas e médias empresas",
+  "empresas fornecedoras do Estado",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "administracao"
+ ],
+ "tags": [
+  "conta-corrente",
+  "compensação de dívidas",
+  "Portal das Finanças",
+  "PME",
+  "pagamentos do Estado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

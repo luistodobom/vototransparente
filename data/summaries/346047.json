@@ -1,0 +1,40 @@
+{
+ "short_title": "Avaliação dos prejuízos da Depressão Kristin",
+ "summary": "O Projeto de Resolução n.º 522/XVII/1.ª, do PSD, recomenda ao Governo o acompanhamento no terreno e a avaliação dos prejuízos causados pela Depressão Kristin, que atingiu o país na madrugada de 28 de janeiro, sobretudo a região centro, com precipitação intensa e vento forte. Recomenda que o Governo promova o levantamento dos prejuízos em infraestruturas públicas, habitações, equipamentos sociais, atividades económicas e explorações agrícolas; assegure a articulação entre a Administração Central, os Municípios e a Proteção Civil; e avalie a adequação dos instrumentos de apoio e de compensação existentes. Não é vinculativa para o Governo.",
+ "key_points": [
+  "Promover o levantamento dos prejuízos causados pela depressão.",
+  "Garantir a articulação entre Administração Central, Municípios e Proteção Civil.",
+  "Avaliar a adequação dos instrumentos de apoio e compensação existentes e ponderar a sua mobilização."
+ ],
+ "plain_language": "Uma forte tempestade, a Depressão Kristin, causou danos em casas, estradas, empresas e explorações agrícolas, sobretudo no centro do país. O PSD recomenda ao Governo que conte os prejuízos, trabalhe em conjunto com as câmaras e a Proteção Civil e verifique se os apoios que já existem chegam. É um pedido, não uma obrigação.",
+ "context": "O PSD descreve os danos causados pela Depressão Kristin em infraestruturas, habitações, rede viária e explorações agrícolas e reconhece a rapidez da presença do Governo no terreno. Defende uma resposta articulada com as autarquias e a Proteção Civil, que assegure a reposição da normalidade e o apoio às populações e entidades afetadas.",
+ "analysis": "Pontos fortes: o levantamento dos danos é necessário para dimensionar apoios, e a coordenação entre níveis de administração é relevante. Fragilidades: a recomendação é genérica, sem prazos, valores ou critérios de apoio, e limita-se a pedir ao Governo o que este já faz. A referência elogiosa à ação do Governo, vinda de um partido de suporte à maioria, reduz o valor de controlo político. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica montantes; os apoios dependeriam dos instrumentos existentes que o Governo decidir mobilizar."
+ },
+ "affected": [
+  "populações das zonas afetadas",
+  "Municípios",
+  "empresas e explorações agrícolas",
+  "Proteção Civil"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "depressão kristin",
+  "prejuízos",
+  "proteção civil",
+  "apoios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

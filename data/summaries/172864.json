@@ -1,0 +1,42 @@
+{
+ "short_title": "Quota de 25% de habitação a renda condicionada em novas construções",
+ "summary": "O Bloco de Esquerda propõe que 25% do produto de obras de construção, reconstrução, ampliação e alteração, ou de operações de loteamento, seja afetado a habitação para arrendar em regime de renda condicionada. A obrigação aplica-se a obras com 4 ou mais fogos ou frações, que devem ser identificadas no pedido de licença ou comunicação prévia. Nos loteamentos com habitação, 25% das frações são destinadas a habitação a custos controlados. A renda condicionada é calculada pelo duodécimo de 6,7% do Valor Patrimonial Tributário do imóvel. O cumprimento é verificado na informação prévia e na autorização de utilização. Pedidos já requeridos não são abrangidos. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Impõe que 25% do edificado novo ou intervencionado seja arrendado em regime de renda condicionada.",
+  "Aplica-se a obras com 4 ou mais fogos ou frações; nos loteamentos, 25% das frações a custos controlados.",
+  "Renda condicionada: duodécimo de 6,7% do Valor Patrimonial Tributário.",
+  "Verificação nos pedidos de informação prévia e na autorização de utilização.",
+  "Não se aplica a pedidos de licença ou comunicação prévia já apresentados."
+ ],
+ "plain_language": "Quem construir ou reconstruir prédios com quatro ou mais casas passaria a ter de reservar um quarto para arrendar a renda limitada, calculada a partir do valor fiscal da casa. Em loteamentos, um quarto das frações seria a custos controlados. Pretende-se aumentar a oferta de casas com rendas mais baixas.",
+ "context": "O proponente salienta que o preço da habitação subiu 80% entre 2010 e 2022, e as rendas 42%, com um aumento de 13,5% no preço mediano num ano. Atribui a subida à entrada de capital financeiro e fundos imobiliários, e considera que as políticas de habitação deixaram aos trabalhadores apenas escolhas negativas.",
+ "analysis": "A quota é uma medida direta para aumentar a oferta de habitação acessível sem despesa pública imediata. Fragilidades: os promotores podem reduzir a construção ou repercutir o custo nos restantes fogos; o texto mistura 'renda condicionada' e 'custos controlados' com alguma ambiguidade; a obrigação de arrendar por quanto tempo e a fiscalização não são definidas; e a renda ligada ao valor patrimonial tributário pode não refletir os custos. Não há estudo de impacto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não prevê despesa pública direta nem a quantifica; o efeito dependeria da reação dos promotores e do mercado."
+ },
+ "affected": [
+  "promotores imobiliários",
+  "inquilinos",
+  "municípios",
+  "famílias à procura de casa"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "renda condicionada",
+  "quota de habitação",
+  "construção nova",
+  "loteamentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

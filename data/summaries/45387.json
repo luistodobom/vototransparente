@@ -1,0 +1,40 @@
+{
+ "short_title": "Penas mais pesadas para corrupção ativa e passiva",
+ "summary": "O CHEGA propõe alterar os artigos 373.º e 374.º do Código Penal. Na corrupção passiva por ato contrário aos deveres do cargo, a pena passa a ser de cinco a dezasseis anos de prisão; se o ato não for contrário aos deveres, de dois a oito anos. Se a condenação exceder cinco anos, o agente fica impedido de exercer cargos públicos durante dez anos. Na corrupção ativa, a pena é de dois a dez anos de prisão (ato contrário aos deveres) ou até cinco anos de prisão ou multa até 360 dias (ato conforme), sendo a tentativa punível. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Corrupção passiva por ato ilícito: prisão de cinco a dezasseis anos.",
+  "Corrupção passiva por ato lícito: prisão de dois a oito anos.",
+  "Condenação a mais de cinco anos implica interdição de cargos públicos por dez anos.",
+  "Corrupção ativa: prisão de dois a dez anos ou, em caso de ato lícito, até cinco anos ou multa até 360 dias.",
+  "A tentativa de corrupção ativa é punível."
+ ],
+ "plain_language": "O CHEGA quer penas de prisão mais longas para quem aceita ou oferece subornos a funcionários públicos, e proibir de exercer cargos públicos durante dez anos quem for condenado a mais de cinco anos de prisão por corrupção passiva.",
+ "context": "O CHEGA fala de um clima de impunidade em matéria de corrupção e considera que as penas portuguesas são brandas, mesmo no quadro da UE, o que pode ser um incentivo ao crime. Reconhece que o aumento das penas não resolve por si só o problema, mas defende que pode ter efeito dissuasor.",
+ "analysis": "Agravar penas pode reforçar o efeito dissuasor e sinalizar a gravidade do crime. Fragilidades: o próprio texto admite que a eficácia depende também de meios de investigação, sanções acessórias e outros fatores; penas mais altas podem não aumentar a deteção; a proposta não esclarece a proporcionalidade face a outros crimes graves nem as molduras atuais. O texto afirma que as penas portuguesas são brandas na UE sem apresentar comparação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Penas mais longas podem aumentar encargos do sistema prisional; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "funcionários e titulares de cargos públicos",
+  "pessoas que oferecem vantagens a funcionários",
+  "sistema judicial e prisional"
+ ],
+ "categories": [
+  "justica",
+  "instituicoes"
+ ],
+ "tags": [
+  "corrupção",
+  "código penal",
+  "penas de prisão",
+  "interdição de cargos públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

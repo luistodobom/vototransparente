@@ -1,0 +1,41 @@
+{
+ "short_title": "Monitorização da descentralização de competências na educação",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que, em diálogo com a Associação Nacional de Municípios Portugueses, estabeleça mecanismos permanentes de monitorização, acompanhamento e avaliação da transferência de competências na educação para os municípios. Pede que sejam definidos métodos para produzir relatórios regulares com divulgação pública e que esses mecanismos sirvam para reforçar a articulação entre escolas e municípios e para disseminar as melhores práticas. Visa identificar atempadamente dificuldades, assinalar boas práticas e evitar novas desigualdades entre alunos de diferentes territórios. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Mecanismos permanentes de monitorização, acompanhamento e avaliação da descentralização na educação, em diálogo com a ANMP.",
+  "Métodos para produção de relatórios regulares, com divulgação pública.",
+  "Reforço da articulação entre escolas e municípios e disseminação de boas práticas.",
+  "Objetivo de garantir qualidade e equidade sem novas desigualdades entre territórios."
+ ],
+ "plain_language": "Parte da gestão das escolas, como pessoal não docente e edifícios, passou para as câmaras municipais. O PS pede ao Governo que acompanhe regularmente como isto está a funcionar e publique relatórios, para corrigir problemas e partilhar o que corre bem. O Governo não é obrigado a aceitar.",
+ "context": "O proponente recorda a transferência de competências na educação prevista na Lei n.º 50/2018 e no Decreto-Lei n.º 21/2019, financiada pelo Fundo de Financiamento da Descentralização. Defende que a descentralização deve ser um fator de coesão e que é preciso transparência e avaliação contínua para que não crie desigualdades.",
+ "analysis": "A proposta é de baixo custo e reforça a transparência, ao pedir relatórios públicos e diálogo com os municípios. Fragilidades: é uma recomendação genérica, sem prazos, indicadores, entidade responsável ou consequências caso se detetem problemas. Pode também sobrepor-se a mecanismos de acompanhamento já existentes, que o texto não detalha.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Recomendação de natureza organizativa, sem montantes no texto. Eventuais custos de monitorização não são quantificados."
+ },
+ "affected": [
+  "municípios",
+  "escolas e agrupamentos",
+  "alunos e famílias",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "descentralização",
+  "municípios",
+  "monitorização",
+  "competências na educação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

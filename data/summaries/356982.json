@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforma aos 65 anos ou 40 de carreira e sem fator de sustentabilidade",
+ "summary": "O Projeto de Lei n.º 688/XVII/1.ª, do BE, repõe a idade legal de reforma nos 65 anos ou com 40 anos de carreira contributiva, elimina o fator de sustentabilidade das pensões e cria o direito à reforma antecipada para trabalhadores por turnos e para pessoas com deficiência. Para turnos e trabalho noturno, prevê a antecipação na proporção de seis meses por cada ano nesse regime, sem penalização, até ao limite dos 55 anos, contando também o trabalho suplementar, financiada por um acréscimo de contribuição das entidades empregadoras que recorram a esses regimes. Para pessoas com deficiência, altera a Lei n.º 5/2022 com 55 anos, incapacidade igual ou superior a 60% e pelo menos 15 anos de carreira contributiva nessa situação. Revoga o artigo 64.º da Lei n.º 4/2007 e outras normas, prevê recálculo a pedido e aplica o regime mais favorável. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Repõe a idade legal de reforma nos 65 anos ou 40 anos de carreira contributiva.",
+  "Elimina o fator de sustentabilidade e permite o recálculo a pedido das pensões, com efeitos a partir de 1 de janeiro de 2027.",
+  "Antecipação sem penalização para trabalhadores por turnos e noturnos: seis meses por cada ano, até aos 55 anos, financiada por contribuição acrescida dos empregadores.",
+  "Reforma antecipada para pessoas com deficiência: 55 anos, incapacidade igual ou superior a 60% e 15 anos de carreira contributiva nessa situação.",
+  "Aplica-se o regime mais favorável a quem tenha requerido a pensão até à entrada em vigor."
+ ],
+ "plain_language": "A idade da reforma sobe com a esperança de vida e, em 2026, está em 66 anos e 9 meses. Este projeto repõe os 65 anos, ou permite reformar-se com 40 anos de descontos, e acaba com o fator de sustentabilidade, que corta as pensões. Quem trabalha por turnos ou de noite poderia reformar-se mais cedo, a partir dos 55 anos, e as pessoas com deficiência também teriam regras mais favoráveis.",
+ "context": "O BE sustenta que muitos pensionistas têm prestações insuficientes face ao custo de vida e que a pobreza entre idosos exige respostas estruturais. Critica a indexação da idade da reforma à esperança de vida, por transferir para os trabalhadores o peso das mudanças demográficas, sem considerar profissões penosas, e defende discriminação positiva para pessoas com deficiência com incapacidade igual ou superior a 60%.",
+ "analysis": "Pontos fortes: aborda desigualdades reais no acesso à reforma, com regras específicas para trabalho penoso e deficiência e uma fonte de financiamento identificada para o regime de turnos. Fragilidades: o texto não quantifica o custo líquido de repor os 65 anos e eliminar o fator de sustentabilidade, nem o impacto na sustentabilidade da Segurança Social; o financiamento por acréscimo de contribuição patronal limita-se aos turnos; e a eliminação do mecanismo de ajustamento por esperança de vida deixa o sistema mais exposto ao envelhecimento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reformas sem penalização, o fim do fator de sustentabilidade e o recálculo de pensões aumentam a despesa; o regime de turnos seria financiado por contribuições patronais adicionais, mas o texto não quantifica montantes."
+ },
+ "affected": [
+  "trabalhadores com carreiras longas",
+  "trabalhadores por turnos e noturnos",
+  "pessoas com deficiência",
+  "entidades empregadoras",
+  "pensionistas com penalização"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "economia"
+ ],
+ "tags": [
+  "idade da reforma",
+  "fator de sustentabilidade",
+  "trabalho por turnos",
+  "pessoas com deficiência",
+  "40 anos de carreira"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

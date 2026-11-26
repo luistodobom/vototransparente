@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforçar o Centro Nacional de Pensões e acelerar pensões",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo quatro medidas: iniciar todos os processos de contratação de pessoal para o Centro Nacional de Pensões até que as necessidades de resposta sejam supridas; recorrer ao prolongamento do prazo da reserva de recrutamento, como o Parlamento já recomendara; garantir que quem requeira pensão tenha resposta no prazo previsto de 90 dias ou uma pensão provisória até ao fim desse período; e concretizar a norma orçamental que compatibiliza o fim do fator de sustentabilidade com os regimes especiais, acabando com a dupla penalização no desgaste rápido e no regime de desemprego de longa duração. Reitera a Resolução da AR n.º 97/2019. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Contratar pessoal para o Centro Nacional de Pensões até suprir as necessidades.",
+  "Prolongar o prazo da reserva de recrutamento dos candidatos já apurados.",
+  "Garantir resposta ao pedido de pensão em 90 dias ou atribuir uma pensão provisória.",
+  "Concretizar a norma orçamental sobre o fim do fator de sustentabilidade nos regimes especiais."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que reforce o número de trabalhadores que analisam os pedidos de pensão e que garanta que ninguém espera mais de 90 dias sem resposta ou sem receber pelo menos uma pensão provisória. Pede ainda que acabe a dupla penalização no cálculo de algumas reformas antecipadas. É uma recomendação ao Governo.",
+ "context": "O BE afirma que os atrasos na atribuição de pensões são o principal motivo de queixa contra a Administração Pública, em parte pelo corte de pessoal da Segurança Social no período da austeridade, que reduziu quase para metade o Centro Nacional de Pensões, e por mudanças de regras. Refere que o Parlamento aprovou recomendações semelhantes na Resolução da AR n.º 97/2019.",
+ "analysis": "A proposta junta medidas operacionais, como contratação, reservas de recrutamento e pensão provisória, que respondem a uma causa identificada, e retoma recomendações já aprovadas, o que evidencia a falta de execução. Fragilidades: a pensão provisória pode gerar pagamentos a corrigir depois, e a norma sobre o fator de sustentabilidade é um tema distinto, que dilui o foco. Não há quantificação dos custos nem prazos para as contratações. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais contratações, pensões provisórias e o fim da dupla penalização em regimes especiais aumentariam a despesa da Segurança Social. O texto não apresenta valores."
+ },
+ "affected": [
+  "requerentes de pensões de velhice, invalidez e sobrevivência",
+  "trabalhadores do Centro Nacional de Pensões",
+  "beneficiários de regimes especiais e de desemprego de longa duração",
+  "emigrantes portugueses"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "centro nacional de pensões",
+  "pensões",
+  "atrasos",
+  "fator de sustentabilidade",
+  "pensão provisória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

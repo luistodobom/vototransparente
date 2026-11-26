@@ -1,0 +1,39 @@
+{
+ "short_title": "Projeto-piloto de tratamento de situações ligeiras em farmácias",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo, em articulação com a Direção-Geral da Saúde, a Direção Executiva do SNS, as ordens profissionais e as organizações de farmacêuticos e farmácias comunitárias, a criação de um projeto-piloto. Este permitiria às farmácias comunitárias atender situações clínicas ligeiras e não urgentes, como infeções urinárias, sinusites, dores de garganta ou otites médias, segundo protocolos clínicos específicos e pré-determinados, com prescrição do tratamento adequado ou encaminhamento para os cuidados de saúde primários quando justificado. Invoca experiências em França, Canadá e Reino Unido. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda um projeto-piloto de intervenção farmacêutica em situações clínicas ligeiras e não urgentes.",
+  "O atendimento seguiria protocolos clínicos específicos e pré-determinados.",
+  "Prevê prescrição do tratamento ou encaminhamento para cuidados de saúde primários.",
+  "A implementação seria articulada com a DGS, a Direção Executiva do SNS e as ordens profissionais."
+ ],
+ "plain_language": "O PAN propõe testar, em algumas farmácias, a possibilidade de o farmacêutico tratar problemas de saúde simples, como uma infeção urinária ou dor de garganta, seguindo regras clínicas fixas, e enviar o utente ao centro de saúde quando necessário. O objetivo é aliviar o SNS. É um pedido ao Governo, não uma lei.",
+ "context": "O PAN refere longos tempos de espera na linha SNS 24, nos cuidados primários e nas urgências, e estima que cerca de 5 milhões de consultas por ano digam respeito a situações ligeiras e não urgentes. Refere que soluções semelhantes existem no Reino Unido, onde, segundo o texto, se evitaram 38 milhões de consultas e idas às urgências num ano.",
+ "analysis": "A proposta pode aliviar o SNS e facilitar o acesso dos utentes, tem base em experiências estrangeiras e prevê articulação com as autoridades de saúde. Levanta, porém, questões sobre a segurança clínica, a responsabilidade pela prescrição, a articulação com os médicos de família, o financiamento e o acesso desigual a farmácias. Não define o número de farmácias, a duração, os critérios de avaliação nem o custo do piloto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O piloto implicaria custos de implementação e de remuneração dos serviços, mas poderia reduzir consultas no SNS; o texto não quantifica nenhum dos efeitos."
+ },
+ "affected": [
+  "utentes do SNS",
+  "farmacêuticos",
+  "farmácias comunitárias",
+  "médicos de família"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "farmácias comunitárias",
+  "projeto-piloto",
+  "cuidados primários",
+  "sns"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

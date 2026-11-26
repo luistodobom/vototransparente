@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço dos direitos dos trabalhadores-estudantes",
+ "summary": "O PSD propõe proteger os jovens trabalhadores-estudantes que trabalham por conta própria. Altera o artigo 7.º do Decreto-Lei n.º 70/2010 para que os rendimentos de trabalho independente de jovens trabalhadores-estudantes com idade até 27 anos, desde que o montante anual não exceda 14 vezes a retribuição mínima mensal garantida (RMMG), não sejam considerados para efeitos de abono de família, bolsas de ensino superior e pensões de sobrevivência. Altera também o Código dos Regimes Contributivos: estes jovens, com rendimento médio anual até esse limite, ficam isentos de taxas contributivas e passam a ser abrangidos por uma situação de isenção ou enquadramento específico (art. 157.º), se o rendimento não for de contabilidade organizada. A perda de receita da Segurança Social é compensada por transferências do Orçamento do Estado. Entra em vigor no dia seguinte à publicação, com efeitos orçamentais a partir do Orçamento seguinte.",
+ "key_points": [
+  "Os rendimentos de trabalho independente de trabalhadores-estudantes até 27 anos, até 14 vezes a RMMG por ano, deixam de contar para o abono de família, bolsas e pensões de sobrevivência.",
+  "Esses jovens ficam isentos de taxas contributivas, com rendimento médio anual até 14 vezes a RMMG.",
+  "Estabelece condições cumulativas no art. 157.º: idade até 27 anos, limite de rendimento e ausência de contabilidade organizada.",
+  "Compensa a perda de receita da Segurança Social com transferências do Orçamento do Estado."
+ ],
+ "plain_language": "Hoje, um jovem estudante que trabalhe por conta própria pode perder o abono de família, a bolsa de estudo ou a pensão de sobrevivência por causa do que ganha. Esta proposta faz com que, até certo limite de rendimentos e até aos 27 anos, esses ganhos não contem para esses apoios, e que o jovem não pague contribuições à Segurança Social.",
+ "context": "O PSD refere que, segundo o Eurostat, só cerca de 10% dos jovens portugueses entre 15 e 29 anos estudam e trabalham, e muitos fazem-no por necessidade, devido aos custos do ensino superior. Aponta que os trabalhadores independentes perdem prestações sociais, ao contrário dos trabalhadores por conta de outrem.",
+ "analysis": "A medida corrige uma desigualdade entre trabalhadores por conta de outrem e independentes e incentiva a experiência profissional dos estudantes. As fragilidades incluem a complexidade das regras de contribuição e de isenção, o risco de uso abusivo (por exemplo, rendimentos canalizados por esta via) e a perda de receita contributiva, não quantificada. Também implica reduzir futuros direitos contributivos destes jovens, que o texto não aborda.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de contribuições reduz a receita da Segurança Social, que o texto prevê compensar com transferências do Orçamento do Estado; não há montantes indicados."
+ },
+ "affected": [
+  "jovens trabalhadores-estudantes independentes até 27 anos",
+  "Segurança Social",
+  "famílias de estudantes"
+ ],
+ "categories": [
+  "trabalho",
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "trabalhador-estudante",
+  "trabalho independente",
+  "abono de família",
+  "bolsas de estudo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

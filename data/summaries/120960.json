@@ -1,0 +1,41 @@
+{
+ "short_title": "Condições de marisqueio no Estuário do Tejo",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo quatro medidas para o marisqueio no Estuário do Tejo: concretizar um zonamento do estuário com mais zonas de classificação, por serem insuficientes as atuais duas; publicar o Regulamento da Pesca no Estuário do Tejo, incluindo a apanha de bivalves; desenvolver e construir a depuradora industrial do estuário, com dotação orçamental afeta à Docapesca e uso generalizado pelos mariscadores; e iniciar a regularização e atribuição de licenças à atividade, com mais eficaz fiscalização. O texto aponta cerca de 5000 mariscadores no ativo contra 168 licenciados em 2020 e critica a resposta baseada em coimas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar mais zonas de classificação no Estuário do Tejo (zonamento).",
+  "Publicar o Regulamento da Pesca no Estuário do Tejo, incluindo bivalves.",
+  "Projetar e construir uma depuradora industrial, com dotação orçamental para a Docapesca.",
+  "Regularizar e atribuir licenças aos mariscadores, com fiscalização e controlo da atividade."
+ ],
+ "plain_language": "Milhares de pessoas apanham amêijoa no Tejo, muitas sem licença nem proteção social. O PCP pede ao Governo que defina zonas de apanha, publique as regras, construa uma depuradora e dê licenças aos mariscadores. Assim, dizem, a produção passaria a circuito legal. É uma recomendação.",
+ "context": "O PCP afirma que a amêijoa-japonesa é uma espécie invasora que prejudica outras espécies, que há cerca de 5000 mariscadores no ativo e só 168 licenciados em 2020, em condições de trabalho precárias, e que a produção sai do circuito legal, prejudicando a Docapesca e a cobrança de impostos. Defende que a solução não está na repressão e coimas.",
+ "analysis": "A proposta liga ecossistema, trabalho e fiscalidade e prevê medidas concretas e um investimento que o PCP diz ter retorno rápido, embora o texto não o demonstre nem quantifique. Fragilidades: não indica custo da depuradora, calendário nem critérios para o número de licenças, e o aumento de licenças pode entrar em tensão com a pressão sobre o recurso. Aborda também a captura como necessária ao equilíbrio do ecossistema, o que carece de fundamentação científica no texto.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A depuradora implica investimento público, mas o texto prevê receita para a Docapesca e a regularização fiscal e contributiva dos mariscadores. Não há montantes."
+ },
+ "affected": [
+  "mariscadores do Estuário do Tejo",
+  "Docapesca",
+  "consumidores de bivalves"
+ ],
+ "categories": [
+  "agricultura",
+  "trabalho",
+  "ambiente"
+ ],
+ "tags": [
+  "marisqueio",
+  "estuário do tejo",
+  "depuradora",
+  "licenciamento",
+  "amêijoa-japonesa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

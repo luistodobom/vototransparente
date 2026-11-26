@@ -1,0 +1,40 @@
+{
+ "short_title": "Contratar todos os trabalhadores necessários às escolas públicas",
+ "summary": "O PCP propõe que a Assembleia da República recomende ao Governo a contratação de todos os trabalhadores necessários para aplicar as medidas de contingência, prevenção do contágio e adaptação funcional nas escolas, transferindo as verbas necessárias. Indica critérios: reforço de assistentes administrativos e auxiliares de ação educativa, de técnicos especializados, como psicólogos, e de professores e educadores, tendo em conta a redução de alunos por turma e o distanciamento. Pede ainda a abertura imediata dos concursos para integrar os não docentes cujo processo do PREVPAP já foi homologado, e a contratação e integração de todos os trabalhadores da educação que respondam a necessidades permanentes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda contratar todos os trabalhadores necessários às medidas de contingência nas escolas, com transferência das verbas.",
+  "Reforço de assistentes administrativos, auxiliares de ação educativa, técnicos especializados e professores.",
+  "Abertura imediata de concursos para não docentes com processo PREVPAP homologado.",
+  "Contratação e integração de todos os trabalhadores com necessidades permanentes."
+ ],
+ "plain_language": "O PCP pede ao Governo que contrate o pessoal que falta nas escolas, auxiliares, técnicos, psicólogos e professores, para cumprir as regras de segurança da pandemia, e que passe a efetivos quem tem vínculos precários mas faz um trabalho permanente. É uma recomendação, sem força de lei.",
+ "context": "O proponente refere que as carências nas escolas resultam de anos de subfinanciamento e agravaram-se com a pandemia. Cita dados sindicais de cerca de 5000 auxiliares em falta antes da pandemia, e aponta a necessidade de psicólogos e de regularizar vínculos precários.",
+ "analysis": "A proposta é abrangente e liga as necessidades sanitárias a carências estruturais, com medidas concretas, como a abertura de concursos PREVPAP. Fragilidades: não quantifica o pessoal a contratar nem o custo, e a referência de 5000 auxiliares provém de fonte sindical. O texto passa da alínea 1 para o ponto 3, sem ponto 2, o que revela uma falha de numeração. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais pessoal e a transferência de verbas para as escolas aumentariam a despesa pública, sem montantes indicados."
+ },
+ "affected": [
+  "auxiliares de ação educativa",
+  "professores",
+  "psicólogos e técnicos das escolas",
+  "alunos"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "escola pública",
+  "contratação",
+  "PREVPAP",
+  "auxiliares de ação educativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

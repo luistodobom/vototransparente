@@ -1,0 +1,38 @@
+{
+ "short_title": "Contratar profissionais não objetores para garantir a IVG",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que o Ministério da Saúde proceda, com urgência, ao levantamento dos médicos e outros profissionais de saúde necessários, e da sua distribuição geográfica, para garantir todos os atos clínicos da interrupção voluntária da gravidez (IVG) em todo o território nacional, e que, na sequência, lance os concursos necessários para contratar profissionais não objetores de consciência em número suficiente para assegurar a IVG nas condições e prazos da Lei n.º 16/2007. O texto cita um estudo da ERS (15.616 IVG por opção da mulher em 2022, 31 estabelecimentos hospitalares a realizar IVG no continente, 15 entidades oficiais que não realizavam em fevereiro de 2023) e recomendações do Comité CEDAW. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Levantamento urgente dos profissionais de saúde necessários e da sua distribuição geográfica para garantir a IVG em todo o território.",
+  "Concursos para contratar médicos e outros profissionais não objetores de consciência em número suficiente.",
+  "Objetivo: cumprir as condições e prazos da Lei n.º 16/2007."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que veja quantos profissionais são precisos para garantir a IVG em todo o país e que contrate médicos e outros profissionais de saúde que não sejam objetores de consciência. O objetivo é que todas as mulheres consigam fazer a IVG nos prazos que a lei estabelece. É apenas uma recomendação.",
+ "context": "O proponente cita relatos de violação do direito à IVG, o estudo da ERS que identificou 15 hospitais oficiais sem IVG em fevereiro de 2023, tempos de espera superiores a cinco dias na região Centro e falta de registo de objetores, e as recomendações do Comité CEDAW da ONU de 2022 para assegurar a implementação efetiva da lei.",
+ "analysis": "A proposta é direta e responde a falhas documentadas pela ERS e por recomendações internacionais. A contratação de profissionais com base na sua não objeção suscita questões: pode ser vista como discriminação na contratação por convicções, e a identificação de objetores depende de um registo que, segundo o próprio texto, não está completo. Além disso, o SNS enfrenta falta de médicos em geral e os concursos podem ficar desertos. O texto não estima número de profissionais nem custo. É não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de novos profissionais de saúde implica despesa no SNS. O texto não indica número de profissionais nem custos."
+ },
+ "affected": [
+  "mulheres que recorrem à IVG",
+  "profissionais de saúde",
+  "unidades do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "contratação",
+  "objeção de consciência",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

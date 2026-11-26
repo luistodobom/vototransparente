@@ -1,0 +1,42 @@
+{
+ "short_title": "Condições de vida dignas para a população sénior",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo um conjunto de medidas para a população sénior. Propõe criar equipas multidisciplinares (psicólogos e enfermeiros) de acompanhamento a idosos em solidão, abandono ou isolamento; assegurar uma Rede Nacional Solidária de Estruturas Residenciais para Pessoas Idosas, com prioridade ao interior e recorrendo aos setores público, privado e social; criar um cheque sénior para estruturas residenciais, tendo em conta a dependência e a condição financeira, sem exigir o complemento solidário para idosos; promover a literacia tecnológica; e rever a tabela de preços das unidades de internamento da Rede Nacional de Cuidados Continuados Integrados segundo a Portaria n.º 45/2021. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Equipas multidisciplinares de psicólogos e enfermeiros para idosos isolados.",
+  "Rede Nacional Solidária de estruturas residenciais, com prioridade ao interior.",
+  "Cheque sénior para lares, em função da dependência e da condição financeira.",
+  "Mais literacia tecnológica para a população sénior.",
+  "Revisão dos preços do internamento na Rede Nacional de Cuidados Continuados Integrados."
+ ],
+ "plain_language": "O CHEGA pede ao Governo mais apoio aos idosos: equipas que visitem quem vive sozinho, mais lugares em lares, sobretudo no interior, um cheque para ajudar a pagar o lar, formação em tecnologia e a revisão dos preços dos cuidados continuados. O Governo não é obrigado a aceitar.",
+ "context": "O proponente refere que há mais de 2,5 milhões de pessoas séniores, 186 idosos por cada 100 jovens, que Portugal é o quarto país da UE com mais idosos a viver sozinhos, que as reformas são baixas e que muitas famílias não conseguem pagar mensalidades. Fala ainda de idosos abandonados em hospitais e de isolamento social.",
+ "analysis": "O texto identifica problemas reais (solidão, falta de vagas, custos) e propõe medidas variadas. É pouco específico quanto à dimensão e custo do cheque sénior, ao financiamento da rede de lares e ao número de equipas, e não indica como evitar sobreposição com respostas já existentes. A referência à revisão de preços da rede de cuidados continuados cita uma portaria sem explicar o efeito pretendido. Como resolução, apenas recomenda ao Governo e não cria obrigações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Equipas de acompanhamento, vagas em lares e um cheque sénior implicariam despesa pública adicional. O texto não apresenta valores."
+ },
+ "affected": [
+  "pessoas idosas",
+  "famílias de idosos dependentes",
+  "estruturas residenciais para pessoas idosas",
+  "profissionais de saúde"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "idosos",
+  "lares",
+  "cheque sénior",
+  "cuidados continuados",
+  "isolamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

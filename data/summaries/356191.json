@@ -1,0 +1,41 @@
+{
+ "short_title": "Pacote de apoio extraordinário às tempestades de janeiro e fevereiro",
+ "summary": "O Projeto de Resolução n.º 620/XVII/1.ª, da Iniciativa Liberal, recomenda ao Governo um regime excecional e temporário de apoio aos setores agrícola, florestal, agroalimentar, da aquicultura e das pescas afetados pelas tempestades entre 28/29 de janeiro e 7 de fevereiro, à semelhança do regime da pandemia, reconhecendo a situação como força maior. Pede que o apoio abranja também territórios limítrofes comprovadamente afetados, adiantamentos e aceleração de pagamentos, reembolso de investimentos destruídos, não penalização por falhas de execução, prorrogação de prazos, apoio a explorações inundadas, proteção do rendimento e do emprego, reforço da tesouraria, ativação da Reserva Agrícola europeia e a não exigência de ausência de dívidas fiscais ou contributivas. Não é vinculativa.",
+ "key_points": [
+  "Criar um regime excecional e temporário para os setores agrícola, florestal, agroalimentar, aquicultura e pescas.",
+  "Abranger territórios fora das zonas de calamidade, com base na prova do prejuízo.",
+  "Prever adiantamentos, prorrogação de prazos e não penalização por falhas de execução.",
+  "Criar mecanismos para explorações inundadas e instrumentos de proteção do rendimento e do emprego.",
+  "Pedir à Comissão Europeia a ativação da Reserva Agrícola e não exigir ausência de dívidas fiscais para aceder aos apoios."
+ ],
+ "plain_language": "As tempestades destruíram terrenos, estufas, culturas e atividade de pesca. A Iniciativa Liberal pede ao Governo um pacote de apoio especial, mais rápido e que não dependa só de a zona estar declarada em calamidade. Inclui pagamentos antecipados, mais prazo para cumprir obrigações e proteção dos empregos. É uma recomendação, que o Governo pode não seguir.",
+ "context": "A IL descreve tempestades consecutivas com impactos muito significativos nos setores agrícola, florestal, agroalimentar e das pescas, com terrenos que precisarão de anos para recuperar e falta de seguros agrícolas adequados. Argumenta que os prejuízos extravasaram os concelhos em calamidade e que o apoio deve basear-se na prova do dano.",
+ "analysis": "Pontos fortes: propõe medidas abrangentes e práticas, como adiantamentos e prorrogação de prazos, e igualdade de tratamento por prova de prejuízo. Fragilidades: o conjunto de treze medidas não é quantificado nem priorizado, e não indica fontes de financiamento. A dispensa de ausência de dívidas fiscais para aceder a apoios levanta questões de equidade. Alguns pontos, como a Reserva Agrícola, dependem da União Europeia, e a resolução não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. As medidas propostas, incluindo adiantamentos, reembolsos e apoios à tesouraria e ao rendimento, implicariam maior despesa pública."
+ },
+ "affected": [
+  "agricultores, produtores florestais e aquicultores",
+  "setor das pescas",
+  "trabalhadores do setor agrícola e agroalimentar"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "tempestades",
+  "apoio extraordinário",
+  "agricultura",
+  "força maior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

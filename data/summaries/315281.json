@@ -1,0 +1,42 @@
+{
+ "short_title": "Subsídio Social de Mobilidade com valor máximo pago na compra",
+ "summary": "O projeto de lei do PCP altera os artigos 2.º, 4.º e 5.º do Decreto-Lei n.º 37-A/2025, para que os beneficiários do Subsídio Social de Mobilidade paguem na compra do bilhete apenas um valor máximo e o remanescente seja pago pelo Estado, em vez de adiantarem o valor total e serem reembolsados. Os valores máximos propostos são, na Madeira, 79 euros para residentes e equiparados e 59 euros para estudantes; nos Açores, 119 euros e 89 euros; e nas viagens entre regiões autónomas, 79 euros e 59 euros. Define o custo elegível (inclui tarifa, taxas e uma bagagem de porão, com taxa de emissão até 30 euros), prevê que a companhia aérea requeira o pagamento à entidade pagadora e obriga à devolução do subsídio se o bilhete não for utilizado em um ano. Entra em vigor no dia seguinte à publicação e produz efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "O beneficiário paga na compra apenas um valor máximo: 79 euros (residentes) e 59 euros (estudantes) na Madeira; 119 e 89 euros nos Açores.",
+  "Nas viagens entre regiões autónomas, os máximos são 79 euros para residentes e 59 euros para estudantes.",
+  "A companhia aérea e os seus agentes requerem o pagamento do subsídio à entidade pagadora.",
+  "Define o custo elegível, com taxa de emissão de bilhete máxima de 30 euros, e exclui serviços opcionais.",
+  "Obrigação de devolver o subsídio se o bilhete não for utilizado em um ano; produz efeitos com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Hoje, os residentes nos Açores e na Madeira pagam a viagem completa e só depois recebem parte do dinheiro de volta. O PCP propõe que paguem logo um valor fixo máximo no bilhete e que seja o Estado a pagar o resto diretamente às companhias aéreas. Se o bilhete não for usado dentro de um ano, o subsídio tem de ser devolvido.",
+ "context": "O PCP afirma que a liberalização das rotas aéreas fez subir os preços, que o reembolso condiciona a mobilidade das famílias e que a Lei n.º 105/2019, que previa um valor fixo na compra, nunca foi regulamentada e foi suspensa em 2021. Critica ainda a subsidiação pública de companhias aéreas transnacionais e defende o reforço do serviço público com a TAP e a SATA.",
+ "analysis": "Corrige o problema de liquidez dos beneficiários e dá previsibilidade aos preços, e recupera o princípio da Lei n.º 105/2019. Fragilidades: o custo para o Estado é incerto porque o subsídio é variável e sem limite máximo, não são tratados os mecanismos de pagamento às companhias nem o risco de abuso, e a exigência de devolução por não utilização requer controlo administrativo. O texto contém ainda partes cortadas e referências a artigos sem redação completa. Não é apresentado estudo de impacto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passaria a pagar diretamente o remanescente do preço aos transportadores, com valor variável e sem limite máximo. O texto não quantifica montantes, mas os efeitos produzem-se com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "residentes dos Açores",
+  "residentes da Madeira",
+  "estudantes das regiões autónomas",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "insularidade",
+  "tarifas aéreas",
+  "regiões autónomas",
+  "decreto-lei 37-A/2025"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

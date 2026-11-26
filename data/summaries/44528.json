@@ -1,0 +1,39 @@
+{
+ "short_title": "Alargar de três para cinco os ciclos de PMA de 2.ª linha pagos pelo SNS",
+ "summary": "O CDS-PP propõe alterar o artigo 17.º da Lei n.º 32/2006, sobre procriação medicamente assistida (PMA), para que o Serviço Nacional de Saúde comparticipe cinco ciclos de tratamentos de segunda linha, em vez dos atuais três. Os tratamentos de segunda linha são a fecundação in vitro e a microinjeção intracitoplasmática de espermatozoide. O projeto determina que o Governo regulamente a lei no prazo de 60 dias após a entrada em vigor, e que esta entre em vigor com o Orçamento do Estado subsequente à sua publicação. A exposição de motivos cita dados da Associação Portuguesa de Fertilidade e do Conselho Nacional de PMA, e refere que cada ciclo no setor privado custa entre 5000 e 8000 euros e cerca de 1500 euros para o Estado.",
+ "key_points": [
+  "Altera o artigo 17.º da Lei n.º 32/2006, passando de três para cinco os ciclos de PMA de segunda linha comparticipados pelo SNS.",
+  "Abrange a fecundação in vitro e a microinjeção intracitoplasmática de espermatozoide.",
+  "O Governo regulamenta a lei em 60 dias após a sua entrada em vigor.",
+  "A lei entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje o SNS paga três tentativas de tratamentos de fertilidade mais complexos, como a fecundação in vitro. O CDS-PP quer que passem a ser cinco, porque muitos casais não conseguem pagar no privado depois da terceira tentativa. A mudança só se aplicaria com o Orçamento do Estado seguinte.",
+ "context": "O proponente argumenta que a infertilidade contribui para o problema da natalidade, que muitos casais não engravidam nos três ciclos atualmente pagos e que o privado é incomportável para a maioria. Cita um estudo segundo o qual a taxa de sucesso acumulada aumenta com mais ciclos.",
+ "analysis": "A medida dá resposta a uma limitação concreta e tem apoio em dados sobre a taxa de sucesso por ciclo. Fragilidades: o texto reconhece que não existem dados sobre quantos casais desistem após o terceiro ciclo e não estima o custo total para o SNS nem a capacidade dos centros públicos, que podem já ter listas de espera. A entrada em vigor com o Orçamento do Estado deixa o financiamento dependente de decisão orçamental. O estudo citado é do Reino Unido e pode não refletir a realidade portuguesa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O SNS passaria a comparticipar mais dois ciclos de segunda linha por casal. O texto refere cerca de 1500 euros de encargo por FIV para o Estado, sem estimar o custo total."
+ },
+ "affected": [
+  "casais com infertilidade",
+  "utentes do SNS",
+  "centros públicos de PMA"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "procriação medicamente assistida",
+  "infertilidade",
+  "SNS",
+  "natalidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

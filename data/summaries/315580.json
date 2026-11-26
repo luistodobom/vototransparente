@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço da proteção e apoio a vítimas de violência doméstica (PS)",
+ "summary": "Projeto de Lei do PS com um pacote de alterações à Lei n.º 112/2009 e a outros diplomas para reforçar a proteção e o apoio às vítimas de violência doméstica. Assegura acesso gratuito e célere a consulta jurídica, com nomeação imediata de patrono desde o primeiro contacto, incluindo antes da denúncia, e isenção de custas. Duplica de 10 para 20 dias a licença de reestruturação familiar e alarga o subsídio a quem suspenda o contrato por não haver outro estabelecimento para transferência (2/3, até 30 dias). Cria um complemento ao abono de família de 25% para vítimas obrigadas a relocalizar-se, prioridade em creche e em serviços de apoio a idosos, alarga o Porta 65+ às vítimas, cria um rendimento de autonomia até ao valor do IAS durante seis meses, para quem tem rendimentos até cerca de 1.200 euros, e prevê um processo de averiguações automático quando a violência doméstica resulte em homicídio.",
+ "key_points": [
+  "Acesso gratuito a consulta jurídica e nomeação imediata de patrono desde o primeiro contacto, com isenção de custas para vítimas com estatuto.",
+  "Duplica a licença de reestruturação familiar para 20 dias e alarga o subsídio, a 2/3, aos casos de suspensão do contrato por falta de estabelecimento para transferência.",
+  "Cria um complemento de 25% ao abono de família para vítimas com crianças que se relocalizem.",
+  "Alarga o Porta 65+ a vítimas, com apoio financeiro para caução até duas rendas máximas de referência.",
+  "Cria um rendimento de autonomia até ao valor do IAS, durante seis meses, para vítimas relocalizadas com rendimentos até cerca de 1.200 euros.",
+  "Prevê abertura automática de processo de averiguações quando a violência doméstica resulte em homicídio."
+ ],
+ "plain_language": "O PS propõe um conjunto de apoios para quem é vítima de violência doméstica e tem de sair de casa: advogado gratuito desde o primeiro contacto, mais dias de licença, um apoio no valor da renda, prioridade em creches e um rendimento mensal temporário. Quando uma vítima for morta, passaria a haver sempre uma averiguação para perceber o que falhou.",
+ "context": "O proponente refere que a violência doméstica representa 85,5% dos crimes contra pessoas participados e cita 12 vítimas de homicídio voluntário em contexto de violência doméstica em 2024. Reconhece avanços recentes, mas considera que os apoios, como a licença de 10 dias, são insuficientes para a autonomização das vítimas.",
+ "analysis": "O pacote é abrangente, articulando apoio jurídico, laboral, social e habitacional, e a averiguação automática pode ajudar a corrigir falhas do sistema. Pontos fracos: a quantidade de medidas aumenta a complexidade de aplicação por diferentes entidades (Segurança Social, IHRU, Ordem dos Advogados); o rendimento de autonomia e os complementos exigem verificação de rendimentos e criam risco de sobreposição de apoios; e o texto não apresenta estimativa do custo orçamental total. Parte das medidas só produz efeitos com o Orçamento do Estado seguinte.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria ou alarga vários apoios financeiros (subsídio, complemento ao abono, apoio à renda, rendimento de autonomia) e a isenção de custas. O texto não apresenta o custo total."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "crianças e dependentes das vítimas",
+  "Segurança Social",
+  "Ordem dos Advogados"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "justica"
+ ],
+ "tags": [
+  "violência doméstica",
+  "apoio judiciário",
+  "rendimento de autonomia",
+  "Porta 65+",
+  "licença de reestruturação familiar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

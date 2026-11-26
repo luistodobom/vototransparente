@@ -1,0 +1,42 @@
+{
+ "short_title": "Rede pública de creches gratuita e universal",
+ "summary": "Projeto de Lei do PCP que integra a educação em creche, dos 0 aos 3 anos, no sistema educativo, sob tutela do Ministério da Educação, com a alteração da Lei de Bases do Sistema Educativo. Estabelece a gratuitidade de todas as componentes da creche pública, a participação das famílias e orientações pedagógicas universais, um horário máximo de permanência de sete horas, limites de oito, dez e doze crianças por sala consoante a idade, e equipas com um educador de infância e pelo menos dois auxiliares por grupo. Obriga o Governo a criar uma rede pública que assegure vagas para todas as crianças até 2033, com 100 mil vagas até 2029, financiada pelo Orçamento do Estado e fundos europeus. Entra em vigor com o Orçamento do Estado posterior.",
+ "key_points": [
+  "Integra a creche no sistema educativo, sob tutela do Ministério da Educação, com universalidade e gratuitidade da oferta pública.",
+  "Fixa limites de crianças por sala (oito, dez e doze consoante a idade) e equipa de um educador e no mínimo dois auxiliares por grupo.",
+  "Limita a permanência a sete horas e prevê horário flexível.",
+  "Obriga o Governo a criar a rede pública, com 100 mil vagas até 2029 e a totalidade das vagas necessárias até 2033.",
+  "Financiamento pelo Orçamento do Estado e por fundos europeus; entrada em vigor com o Orçamento do Estado posterior."
+ ],
+ "plain_language": "O PCP quer que todas as crianças até aos 3 anos tenham direito a uma vaga gratuita numa creche pública, tratada como parte da educação e não só como apoio social. Fixa regras de qualidade, como menos crianças por sala e mais pessoal, e obriga o Governo a construir ou adaptar creches até 2033. O custo seria suportado pelo Orçamento do Estado.",
+ "context": "O PCP afirma que metade das crianças entre 0 e 3 anos não tem acesso a qualquer resposta, citando uma taxa de cobertura média de 55,2% e dados do Conselho Nacional de Educação. Critica a degradação da qualidade nas creches (mais crianças por grupo, horários noturnos e fins de semana, construções modulares) e propõe a rede pública como resposta ao défice de vagas e ao défice demográfico.",
+ "analysis": "A proposta é abrangente, com metas e critérios de qualidade claros, e enfrenta a escassez de vagas. As fragilidades são o custo e a execução: o texto estima cerca de 2 mil milhões de euros de investimento para 100 mil vagas e 570 milhões de euros anuais de funcionamento, mas não detalha capacidade de recrutamento de educadores e auxiliares, terrenos ou prazos de obras, nem o papel das creches sociais e privadas já existentes. A transferência da tutela para a Educação implica reorganização institucional não detalhada. Os valores da comparação com a receita do IRC são argumentativos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto estima um investimento de cerca de 2 mil milhões de euros para pelo menos 100 mil vagas e custos anuais de funcionamento de cerca de 570 milhões de euros, financiados pelo Orçamento do Estado."
+ },
+ "affected": [
+  "Crianças dos 0 aos 3 anos e as suas famílias",
+  "Educadores de infância e auxiliares",
+  "Creches sociais e privadas",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "creches",
+  "rede pública",
+  "gratuitidade",
+  "educação de infância",
+  "Lei de Bases do Sistema Educativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

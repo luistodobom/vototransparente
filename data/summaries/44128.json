@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais proteção parental para filhos com deficiência ou doença grave",
+ "summary": "O projeto de lei do BE alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica. Acrescenta 60 dias à licença parental inicial em caso de nascimento de criança com deficiência, doença rara ou doença oncológica, que podem ser gozados pela mãe ou pelo pai. Alarga a redução de cinco horas do período normal de trabalho semanal, para assistência a filho com deficiência ou doença crónica, até aos três anos de idade da criança. Fixa em 100% da remuneração de referência o subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, com limite mensal de duas vezes o indexante dos apoios sociais (IAS).",
+ "key_points": [
+  "Majora em 60 dias a licença parental inicial em caso de nascimento de criança com deficiência, doença rara ou doença oncológica.",
+  "Alarga a redução de cinco horas do período normal de trabalho semanal até a criança completar três anos.",
+  "Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica pago a 100% da remuneração de referência.",
+  "Limite mensal do subsídio igual a duas vezes o IAS.",
+  "Entra em vigor trinta dias após a publicação."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe dar mais tempo e mais apoio financeiro aos pais de crianças com deficiência ou doença grave: mais 60 dias de licença quando a criança nasce com essa condição, menos cinco horas de trabalho semanais até aos três anos e o subsídio de assistência pago por inteiro (até um limite).",
+ "context": "O proponente afirma que o Estado delega nas famílias a responsabilidade pelas crianças com deficiência, dada a insuficiência da rede de apoios, e que isso leva muitas vezes um dos progenitores a abandonar a atividade profissional. Invoca a Convenção sobre os Direitos das Pessoas com Deficiência.",
+ "analysis": "A medida dirige-se a uma situação de vulnerabilidade e usa valores objetivos de licença e subsídio. Fragilidades: aumenta custos da Segurança Social e das empresas (ausência prolongada) sem estimativa; a redação do artigo 54.º, ao fixar um limite de idade de três anos, merece clarificação face ao regime existente. O texto não define como se comprova a condição, nem articula a medida com outros apoios à deficiência. O limite de dois IAS mantém um teto, sem justificar o valor.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento a 100% do subsídio e a licença adicional aumentam a despesa da Segurança Social; o texto não indica montantes."
+ },
+ "affected": [
+  "pais de crianças com deficiência ou doença crónica",
+  "empregadores",
+  "Segurança Social",
+  "crianças com deficiência ou doença oncológica"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "licença parental",
+  "deficiência",
+  "doença oncológica",
+  "subsídio de assistência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

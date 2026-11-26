@@ -1,0 +1,42 @@
+{
+ "short_title": "Cedência de imóveis do Estado devolutos para arrendamento acessível",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o artigo 7.º da Lei n.º 56/2023 e adita os artigos 7.º-A a 7.º-K, criando um regime em que privados e entidades sociais identificam património público devoluto com uso habitacional (da administração central, regional, local e da Segurança Social) e apresentam uma oferta de aquisição do direito de superfície. A candidatura é eletrónica, no portal do IHRU, com plano de reabilitação que não pode exceder 2 anos; durante 3 meses outros interessados podem apresentar ofertas, ordenadas por valor, e o primeiro candidato pode igualar a melhor oferta em um mês. O superficiário reabilita o imóvel e arrenda as habitações em arrendamento acessível durante, no mínimo, 5 anos (ou usa-as como habitação própria e permanente). O IHRU fiscaliza e pode extinguir o direito, sem compensação, em caso de falsas declarações ou incumprimento. Entra em vigor 60 dias após a publicação.",
+ "key_points": [
+  "Permite que interessados identifiquem património público devoluto e proponham a aquisição do direito de superfície.",
+  "A candidatura é eletrónica, no portal do IHRU, com plano de reabilitação até 2 anos; outras ofertas podem ser apresentadas durante 3 meses.",
+  "O adquirente reabilita o imóvel e arrenda-o em regime acessível durante pelo menos 5 anos, ou usa-o como habitação própria e permanente.",
+  "O IHRU fiscaliza e pode extinguir o direito de superfície, sem compensação, por falsas declarações ou incumprimento; o superficiário fica 2 anos impedido de concorrer.",
+  "Cria uma plataforma informática com regras de proteção de dados pessoais."
+ ],
+ "plain_language": "O Estado tem muitos edifícios e terrenos abandonados. A proposta permite que empresas, associações ou particulares indiquem esses imóveis e façam uma oferta para os recuperar e transformar em casas. Quem ficar com o imóvel tem de o reabilitar em dois anos e arrendá-lo a rendas acessíveis durante pelo menos cinco anos. Se não cumprir, perde o direito sem indemnização.",
+ "context": "A Iniciativa Liberal aponta a degradação do acesso à habitação (58,33% no índice de acessibilidade da OCDE) e defende que o Estado, ao manter imóveis devolutos, contribui para a falta de oferta. Propõe um mecanismo de iniciativa privada ou social para identificar e reabilitar esse património.",
+ "analysis": "Aproveita imóveis públicos parados e atribui à iniciativa privada o risco da reabilitação, com regras claras de prazo, fiscalização e extinção. Fragilidades: a cedência de direito de superfície a um preço determinado por licitação pode não refletir o valor público, e as rendas acessíveis só são obrigatórias por 5 anos, depois dos quais o adquirente arrenda livremente. O Estado pode recusar se tiver um plano concreto de utilização em 2 anos, o que pode esvaziar o mecanismo. O texto não estima o número de imóveis nem o seu valor, e o IHRU teria encargos administrativos novos.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O Estado poderia receber o valor das ofertas pelo direito de superfície e deixar de suportar custos de manutenção, mas perderia a possibilidade de outro uso desses imóveis e o IHRU teria encargos administrativos. O texto não indica montantes."
+ },
+ "affected": [
+  "entidades públicas proprietárias de imóveis devolutos",
+  "investidores privados e entidades do setor social",
+  "futuros arrendatários",
+  "IHRU"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao"
+ ],
+ "tags": [
+  "imóveis devolutos",
+  "direito de superfície",
+  "arrendamento acessível",
+  "ihru",
+  "reabilitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

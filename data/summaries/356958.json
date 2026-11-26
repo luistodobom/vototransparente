@@ -1,0 +1,43 @@
+{
+ "short_title": "Consagra em lei o prémio salarial para jovens qualificados",
+ "summary": "O Projeto de Lei do PS consagra em lei da Assembleia da República o prémio salarial de valorização das qualificações, criado por decreto-lei em 2023, e revoga esse decreto-lei. São elegíveis licenciados e mestres com grau atribuído a partir de 2023, até 35 anos, residentes, com rendimentos das categorias A ou B e situação tributária e contributiva regularizada. Os montantes anuais são de 697 euros para licenciatura e 1 500 euros para mestrado, pagos durante o número de anos do ciclo de estudos, isentos de IRS e de contribuições, e cumuláveis com o IRS Jovem. O formulário passa a estar disponível até 1 de março, durante pelo menos três meses, e é aberto excecionalmente até 30 de setembro de 2026 para os pedidos de 2025 e 2026.",
+ "key_points": [
+  "Revoga o Decreto-Lei n.º 134/2023 e passa o regime para lei da Assembleia da República.",
+  "Prémio anual de 697 euros (licenciatura) ou 1 500 euros (mestrado), isento de IRS e de contribuições.",
+  "Requisitos: grau a partir de 2023, até 35 anos, residência em Portugal, rendimentos A ou B e situação regularizada.",
+  "Formulário eletrónico disponível anualmente até 1 de março, por pelo menos três meses.",
+  "Formulário excecional até 30 de setembro de 2026 para quem não pôde pedir em 2025 e 2026.",
+  "Fiscalização posterior pela IGF e pela IGEC; cumulável com o IRS Jovem."
+ ],
+ "plain_language": "Jovens licenciados e mestres têm direito a um prémio anual do Estado, mas o PS diz que o Governo deixou de abrir o formulário para o pedir em 2025 e 2026. Esta lei garante o prémio, fixa prazos para o pedido e abre uma janela extra até setembro de 2026 para quem ficou de fora.",
+ "context": "O proponente afirma que o prémio, criado em 2023 e regulamentado em 2024, continua formalmente em vigor, mas que o Governo não disponibilizou o formulário para 2025 e 2026 e o portal gov.pt indica o serviço como indisponível. Considera que isso viola a segurança jurídica e a confiança nas políticas públicas.",
+ "analysis": "A iniciativa dá estabilidade legal e prazos fixos à execução, o que protege os beneficiários de decisões administrativas discricionárias. Em contrapartida, a revogação do decreto-lei e a sua substituição por lei do Parlamento não garantem, por si, a execução, que continua dependente da administração. O texto não estima o número de beneficiários nem o custo, e a acumulação com o IRS Jovem aumenta o custo de uma medida orientada para jovens com grau superior. A atribuição de efeitos retroativos a 2025 depende de o direito já existir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os pagamentos do prémio são feitos por abate à receita de IRS, pelo que reduzem a receita. O texto não indica o montante total estimado."
+ },
+ "affected": [
+  "jovens licenciados e mestres até 35 anos",
+  "Autoridade Tributária",
+  "IGF e IGEC"
+ ],
+ "categories": [
+  "educacao",
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "prémio salarial",
+  "jovens qualificados",
+  "ensino superior",
+  "irs jovem",
+  "retenção de talento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

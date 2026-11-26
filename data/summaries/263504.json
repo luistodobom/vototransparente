@@ -1,0 +1,40 @@
+{
+ "short_title": "Aumento de 500 euros para técnicos superiores do Estado",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que inicie um processo negocial com sindicatos e estruturas representativas dos trabalhadores da Administração Pública, com vista ao reforço salarial da carreira geral de técnico superior na posição de entrada, através de um aumento de 500 euros, com reajustamento nos níveis seguintes. A exposição de motivos descreve perda de poder de compra na Administração Pública, precariedade e dificuldades na progressão de carreiras. Sendo uma resolução, é uma recomendação ao Governo e não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo o início de negociações com os sindicatos da Administração Pública.",
+  "Propõe aumento de 500 euros na posição de entrada da carreira geral de técnico superior.",
+  "Prevê reajustamento nos níveis remuneratórios seguintes.",
+  "Recomendação não vinculativa."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que negoceie com os sindicatos um aumento de 500 euros no salário de entrada dos técnicos superiores do Estado, ajustando também os escalões seguintes. É um pedido sem força de lei.",
+ "context": "O proponente afirma que há falta de profissionais qualificados e de investimento nos serviços públicos, que a tabela remuneratória única e as quotas na avaliação travam carreiras, e que a remuneração base média na Administração Pública caiu 0,7% entre outubro de 2015 e abril de 2023, com perdas de poder de compra que podem chegar a 7,8%.",
+ "analysis": "A medida procura valorizar uma carreira de ingresso qualificado e melhorar a atração de profissionais. É uma recomendação, pelo que não obriga o Governo. Não quantifica o custo nem esclarece como se faria o reajustamento nos restantes níveis, o que pode gerar pressão sobre outras carreiras e a tabela remuneratória única. O diagnóstico assenta em dados gerais, sem demonstrar o efeito concreto nesta carreira.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um aumento de 500 euros na posição de entrada e o reajustamento dos níveis seguintes aumentariam a despesa com pessoal do Estado. O texto não apresenta montantes."
+ },
+ "affected": [
+  "técnicos superiores da Administração Pública",
+  "trabalhadores em funções públicas",
+  "sindicatos da Função Pública"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "técnico superior",
+  "função pública",
+  "salários",
+  "carreiras",
+  "negociação coletiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

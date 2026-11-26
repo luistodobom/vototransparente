@@ -1,0 +1,42 @@
+{
+ "short_title": "Eliminar o aumento do ISP nos combustíveis",
+ "summary": "O CDS-PP propõe pôr fim aos aumentos das taxas unitárias do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP) aplicáveis no continente à gasolina sem chumbo e ao gasóleo rodoviário, estabelecidos por portaria desde 2016. Para isso, revoga a Portaria n.º 301-A/2018, de 23 de novembro, e repristina os n.ºs 1.º e 2.º da Portaria n.º 16-C/2008, de 9 de janeiro. A exposição de motivos recorda que o aumento de 6 cêntimos foi justificado como neutralidade fiscal, argumenta que a carga fiscal já excede essa neutralidade e cita dados da UTAO e da APETRO.",
+ "key_points": [
+  "Põe fim aos aumentos do ISP definidos por portaria sobre gasolina sem chumbo e gasóleo rodoviário.",
+  "Revoga a Portaria n.º 301-A/2018, de 23 de novembro.",
+  "Repristina os n.ºs 1.º e 2.º da Portaria n.º 16-C/2008, de 9 de janeiro.",
+  "Aplica-se ao continente."
+ ],
+ "plain_language": "O CDS-PP quer anular os aumentos do imposto sobre combustíveis (ISP) feitos desde 2016, para que gasolina e gasóleo fiquem mais baratos para famílias e empresas. Para isso revoga a portaria mais recente e volta a aplicar valores de uma portaria de 2008.",
+ "context": "O CDS-PP defende que o aumento do ISP de 2016 foi justificado como compensação pela descida do preço do petróleo, mas que hoje o petróleo já não está barato e a carga fiscal sobre os combustíveis é das mais altas da Europa (62% na gasolina e 55% no gasóleo). Cita dados de receita da UTAO e comparações de preços com Espanha.",
+ "analysis": "A proposta tem um objetivo simples e responde à pressão dos preços para consumidores e empresas. Fragilidades: o texto não estima a perda de receita para o Estado nem prevê compensação; contraria objetivos ambientais de reduzir o consumo de combustíveis fósseis; não é claro o preço final resultante, que depende também do mercado petrolífero; o texto utiliza dados comparativos de períodos distintos. O texto não garante que a redução seja repercutida nos preços ao consumidor.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A eliminação do aumento do ISP reduziria a receita fiscal sobre combustíveis; o texto cita receita de ISP de 3245 milhões de euros em 2016, mas não quantifica a perda."
+ },
+ "affected": [
+  "automobilistas",
+  "empresas de transportes e outras empresas",
+  "consumidores de combustíveis",
+  "Estado"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "isp",
+  "combustíveis",
+  "gasolina",
+  "gasóleo",
+  "carga fiscal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

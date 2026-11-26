@@ -1,0 +1,42 @@
+{
+ "short_title": "Alojamento estudantil para a Escola de Hotelaria de Portalegre (CH)",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo seis medidas para reforçar a atração e a frequência da Escola de Hotelaria e Turismo de Portalegre, sem pré-determinar um imóvel concreto: levantar em 90 dias as necessidades de alojamento estudantil (alunos deslocados, alunos com necessidade efetiva, oferta existente, carência e evolução da procura); avaliar se a expansão da escola está limitada pelo alojamento ou por outros constrangimentos; comparar soluções, incluindo a adaptação de património público; definir com o Turismo de Portugal, a Segurança Social e o município uma solução exequível, se a necessidade se confirmar; identificar fontes de financiamento nacionais e europeias; e adotar medidas transitórias de apoio.",
+ "key_points": [
+  "Levantamento em 90 dias das necessidades de alojamento estudantil associadas à escola.",
+  "Avaliar se a expansão da escola é limitada pelo alojamento ou por outros fatores.",
+  "Comparar soluções, incluindo a adaptação de património público, sem escolher à partida um imóvel.",
+  "Definir a solução com o Turismo de Portugal, a Segurança Social e o município e identificar financiamento.",
+  "Adotar medidas transitórias de apoio ao alojamento até haver solução estrutural."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que primeiro apure se os alunos da Escola de Hotelaria de Portalegre precisam mesmo de residência, compare soluções e, se for preciso, encontre uma forma de a financiar, com apoios transitórios entretanto. Não escolhe um edifício concreto. É uma recomendação.",
+ "context": "O proponente destaca o papel da escola na qualificação, fixação de jovens e coesão territorial do distrito de Portalegre. Considera que o debate sobre alojamento avançou mais depressa do que a demonstração da necessidade e por isso recomenda um levantamento rigoroso antes de se definir uma solução.",
+ "analysis": "A proposta é prudente e metódica, com prazos e critérios (custo, prazo, enquadramento legal). Fragilidades: ao exigir estudos antes de agir, pode atrasar uma solução desejada pela comunidade escolar e não garante resposta para o próximo ano letivo. Não indica montantes e as medidas transitórias são genéricas. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Os estudos e a eventual solução de alojamento têm custos, mas o texto não os estima e remete para a identificação de financiamento."
+ },
+ "affected": [
+  "Alunos da Escola de Hotelaria e Turismo de Portalegre",
+  "Turismo de Portugal",
+  "Município de Portalegre",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "portalegre",
+  "escola de hotelaria",
+  "alojamento estudantil",
+  "turismo de portugal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

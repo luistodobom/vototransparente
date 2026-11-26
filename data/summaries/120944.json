@@ -1,0 +1,41 @@
+{
+ "short_title": "Igualdade de acesso ao ensino secundário em concelhos de baixa densidade",
+ "summary": "O PSD recomenda ao Governo quatro medidas: avaliar o impacto da ausência de ensino secundário nos cerca de 33 concelhos que não têm esta oferta, analisando as trajetórias dos jovens que concluíram o ensino básico nos últimos dez anos; encontrar modelos alternativos de cobertura da rede, incluindo um critério diferenciado de número mínimo de alunos por turma nos territórios de baixa densidade; concertar esforços com a administração local para adequar a rede escolar; e garantir, a partir do ano seguinte, o financiamento do alojamento e transporte dos alunos deslocados de territórios onde a oferta seja inviável. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Pede a avaliação do impacto da ausência de ensino secundário em concelhos sem esta oferta.",
+  "Propõe um critério diferenciado de número mínimo de alunos por turma em territórios de baixa densidade.",
+  "Recomenda articulação com a administração local para adequar a rede escolar de ensino secundário.",
+  "Pede o financiamento do alojamento e do transporte dos alunos deslocados."
+ ],
+ "plain_language": "Cerca de 33 concelhos não têm escola secundária, pelo que os jovens têm de ir estudar para outro concelho e as famílias pagam transportes e, por vezes, alojamento. O PSD pede ao Governo que estude o problema, adapte as regras das turmas nestes territórios e financie transporte e alojamento. É uma recomendação política.",
+ "context": "O PSD lembra que a escolaridade obrigatória vai até aos 18 anos e é universal e gratuita, mas os alunos do secundário comparticipam o custo do transporte escolar, ao contrário dos do ensino básico. Aponta que vários autarcas denunciam esta situação e que o Governo não atuou em mais de cinco anos.",
+ "analysis": "A proposta aponta uma desigualdade real e pede primeiro um diagnóstico, o que é prudente. Tem, contudo, fragilidades: o número de turmas mínimo é uma decisão com custos e impactos na qualidade do ensino, e o texto não estima o custo de financiar transporte e alojamento nem a forma de o fazer. Há também uma tensão entre manter escolas com poucos alunos e a qualidade da oferta educativa, que o texto não discute. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O financiamento do alojamento e transporte dos alunos e a flexibilização das turmas implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "alunos do ensino secundário de concelhos de baixa densidade",
+  "famílias desses alunos",
+  "autarquias",
+  "escolas do interior"
+ ],
+ "categories": [
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "ensino secundário",
+  "baixa densidade",
+  "transporte escolar",
+  "rede escolar",
+  "escolaridade obrigatória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

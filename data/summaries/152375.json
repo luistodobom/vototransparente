@@ -1,0 +1,40 @@
+{
+ "short_title": "Voto antecipado nas autárquicas e melhoria do voto da emigração",
+ "summary": "Projeto de Lei do PAN que altera a Lei Eleitoral da Assembleia da República e a Lei Orgânica n.º 1/2001 (eleições autárquicas). Nas legislativas, quer modernizar o voto postal dos emigrantes: o envio passaria a ser feito pelas secções ou postos consulares, com envio por registo ou meio similar, sem exigir fotocópia do documento de identificação, com prazos de opção entre voto presencial e postal alargados em 20 dias, inclusão dos emigrantes no esclarecimento cívico e regras específicas de repetição de eleições nulas nos círculos da Europa e de fora da Europa (quarto fim-de-semana após a decisão). Nas autárquicas, alarga o voto antecipado a todos os eleitores que o queiram (sem justificar impedimento) e permite entregar listas de candidatos por plataforma eletrónica, com autenticação por Chave Móvel Digital ou cartão de cidadão. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Voto postal dos emigrantes descentralizado, por registo ou meio similar e sem fotocópia do documento de identificação.",
+  "Prazo de opção entre voto presencial e postal alargado em 20 dias.",
+  "Repetição presencial de eleições nulas nos círculos da Europa e de fora da Europa no quarto fim-de-semana após a decisão.",
+  "Voto antecipado nas autárquicas aberto a qualquer eleitor, sem justificar impedimento.",
+  "Entrega eletrónica de listas de candidatos nas autárquicas."
+ ],
+ "plain_language": "O projeto facilita o voto de quem vive no estrangeiro, com regras de voto postal mais simples, e permite que qualquer eleitor vote antecipadamente nas eleições autárquicas, sem ter de apresentar motivo. Também permite entregar as listas de candidatos por via eletrónica.",
+ "context": "O PAN invoca a elevada abstenção nas legislativas de 2022 (48,58%) e nas autárquicas de 2021, a anulação e repetição da eleição no círculo da Europa e propostas do Conselho das Comunidades Portuguesas de 2022. Pretende melhorar a participação e a segurança jurídica do processo eleitoral.",
+ "analysis": "Ponto forte: responde a problemas concretos ocorridos em 2022 e acolhe propostas do Conselho das Comunidades Portuguesas. Fragilidades: a descentralização do envio para os consulados pode sobrecarregar os serviços consulares; a dispensa de fotocópia do documento reduz a verificação de identidade, e a segurança do voto depende de outros mecanismos; o voto antecipado universal exige meios nas câmaras municipais; o texto não estima custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A maior parte das medidas (voto postal pelos consulados, voto antecipado, plataforma eletrónica) implica custos administrativos para consulados, câmaras e administração eleitoral; o texto não indica montantes."
+ },
+ "affected": [
+  "eleitores residentes no estrangeiro",
+  "eleitores nas autárquicas",
+  "serviços consulares e câmaras municipais"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos"
+ ],
+ "tags": [
+  "voto antecipado",
+  "voto postal",
+  "emigração",
+  "eleições autárquicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

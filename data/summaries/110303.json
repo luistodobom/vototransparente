@@ -1,0 +1,39 @@
+{
+ "short_title": "Testes de saliva não invasivos para crianças e jovens",
+ "summary": "Projeto de resolução de Os Verdes que recomenda ao Governo que considere aumentar a testagem na comunidade escolar com métodos não invasivos, designadamente testes de saliva, para crianças e jovens da escolaridade obrigatória, e que considere adotar esses métodos nos serviços públicos de saúde para a despistagem do SARS-CoV-2 nesse grupo etário. O texto invoca a perspetiva de reabertura gradual das escolas após o confinamento de janeiro de 2021 e a disponibilidade confirmada de testes de saliva. É uma recomendação não vinculativa, formulada em termos de considerar.",
+ "key_points": [
+  "Considerar aumentar a testagem na comunidade escolar com métodos não invasivos, como testes de saliva.",
+  "Abrange crianças e jovens na escolaridade obrigatória.",
+  "Considerar a adoção desses métodos nos serviços públicos de saúde para crianças e jovens."
+ ],
+ "plain_language": "Os Verdes pedem ao Governo que, na reabertura das escolas, use testes de saliva em vez de zaragatoas no nariz para testar crianças e jovens à Covid-19. Defendem que serão mais bem aceites, mais baratos e permitem testar com mais frequência. É um pedido ao Governo.",
+ "context": "O proponente refere o confinamento geral de 2021, o encerramento das escolas e a descida da incidência nos grupos de 6 a 17 anos, e o plano de reabertura gradual. Indica que o Ministério da Saúde confirmou a disponibilidade de testes de saliva, que seriam menos invasivos, mais rápidos e baratos.",
+ "analysis": "Propõe uma medida simples e plausível para melhorar a aceitação da testagem. Fragilidades: a formulação de considerar é pouco vinculativa; não estabelece frequência, quem paga nem como se garante a fiabilidade dos testes; as vantagens dos testes de saliva são citadas sem fonte científica detalhada; não define articulação com a orientação da DGS.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O alargamento da testagem implica despesa, mas o texto sugere que os testes de saliva podem ser mais baratos; não há valores."
+ },
+ "affected": [
+  "crianças e jovens em escolaridade obrigatória",
+  "famílias",
+  "escolas",
+  "serviços públicos de saúde"
+ ],
+ "categories": [
+  "saude",
+  "educacao"
+ ],
+ "tags": [
+  "testes de saliva",
+  "COVID-19",
+  "escolas",
+  "testagem"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

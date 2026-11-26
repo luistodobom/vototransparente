@@ -1,0 +1,43 @@
+{
+ "short_title": "Resolver os problemas da apanha de bivalves no estuário do Tejo",
+ "summary": "O BE recomenda ao Governo sete medidas: apoiar com urgência as pessoas envolvidas na apanha de bivalves sem meios de subsistência ou em habitação indigna; fazer, com as autarquias, o levantamento das necessidades habitacionais da comunidade migrante; identificar o edificado público disponível e a posse administrativa de espaços sem condições; elaborar até ao final de 2021 um plano de longo prazo para a gestão integrada da apanha; instalar uma infraestrutura pública no Barreiro para depósito, depuração e transformação de bivalves; definir zonas de afinação; e aumentar a fiscalização. O texto descreve abusos laborais, comércio ilegal e contaminação das zonas de apanha. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apoiar com urgência quem apanha bivalves sem meios de subsistência ou em habitação indigna.",
+  "Levantamento das necessidades habitacionais e do edificado público disponível, com inclusão nas Estratégias Locais de Habitação.",
+  "Plano de longo prazo, até ao final de 2021, para a gestão integrada da apanha de bivalves.",
+  "Infraestrutura pública no Barreiro para depósito, depuração e transformação, e definição de zonas de afinação.",
+  "Mais fiscalização contra abusos laborais, irregularidades habitacionais e problemas ambientais."
+ ],
+ "plain_language": "O BE pede ao Governo que resolva a situação de quem apanha amêijoa no Tejo: apoiar os trabalhadores explorados e mal alojados, criar regras e licenças, construir um local para depurar e tratar os bivalves e fiscalizar mais, para acabar com o comércio ilegal e proteger a saúde pública.",
+ "context": "O BE descreve uma atividade com mais de 1700 apanhadores em 2015, cerca de 200 licenciados, com exploração de pessoas migrantes, venda ilegal e bivalves impróprios para consumo. Critica a falta de zonas de afinação e de unidade de transformação, o protocolo de 2017 para uma unidade no Barreiro que não avançou e os 500 mil euros do OE 2021 sem ação conhecida.",
+ "analysis": "A proposta combina vertentes social, ambiental e sanitária e identifica falhas concretas (ausência de zonas de afinação e de infraestrutura). Fragilidades: é muito abrangente, sem calendário nem orçamento para a maior parte das medidas; a posse administrativa de imóveis é uma medida sensível; o diagnóstico baseia-se em dados de 2015 e em relatos, sem números atualizados. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A infraestrutura pública, o apoio social, a habitação e a fiscalização implicam despesa pública; o texto só refere os 500 mil euros previstos no OE 2021 e não quantifica os custos das medidas."
+ },
+ "affected": [
+  "apanhadores de bivalves, incluindo migrantes",
+  "municípios do estuário do Tejo",
+  "consumidores",
+  "pescadores profissionais"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "imigracao"
+ ],
+ "tags": [
+  "amêijoa-japonesa",
+  "estuário do tejo",
+  "bivalves",
+  "exploração laboral",
+  "barreiro"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

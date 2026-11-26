@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas para a Esclerose Lateral Amiotrófica e os cuidadores",
+ "summary": "O Projeto de Resolução n.º 684/XVII/1.ª, do Bloco de Esquerda, recomenda ao Governo medidas estruturais para melhorar o diagnóstico, tratamento, acompanhamento e apoio às pessoas com Esclerose Lateral Amiotrófica (ELA) e aos seus cuidadores. Inclui o planeamento da introdução de inovação para rápida autorização e comparticipação de medicamentos inovadores, o acompanhamento dos ensaios clínicos, o reforço dos centros de referência para doenças neuromusculares com equipas multidisciplinares, mais apoio aos cuidadores informais, cuidados domiciliários especializados, campanhas de sensibilização, melhor conhecimento epidemiológico e um processo público e participado com associações e a academia. Não é vinculativa.",
+ "key_points": [
+  "Planear a introdução de medicamentos inovadores, avaliando a eficácia e não as estratégias orçamentais.",
+  "Reforçar os centros de referência para doenças neuromusculares com equipas multidisciplinares.",
+  "Reforçar o apoio aos cuidadores informais: formação, apoio psicológico e descanso do cuidador.",
+  "Desenvolver cuidados domiciliários especializados e campanhas de sensibilização.",
+  "Melhorar o conhecimento epidemiológico e criar um processo participado de políticas públicas."
+ ],
+ "plain_language": "A ELA é uma doença grave e progressiva. O BE pede ao Governo que melhore o acesso a novos medicamentos, reforce os centros especializados, apoie quem cuida dos doentes em casa e informe melhor a população. É uma recomendação, que o Governo não é obrigado a seguir.",
+ "context": "O BE descreve a ELA como doença neurológica degenerativa, progressiva e rara, com esperança média de vida de dois a cinco anos, e refere a incidência na União Europeia. Sublinha a necessidade de cuidados multidisciplinares, ventilação domiciliária e apoio intensivo a cuidadores informais, cujo bem-estar é essencial.",
+ "analysis": "Pontos fortes: abrange diagnóstico, tratamento, cuidados e apoio aos cuidadores e propõe participação de associações e especialistas. Fragilidades: as recomendações são genéricas, sem metas, prazos nem financiamento, e a proposta de não condicionar medicamentos a estratégias orçamentais ignora restrições de recursos e a avaliação de custo-efetividade. Não identifica os centros de referência existentes. Como resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. O reforço de centros de referência, medicamentos inovadores, cuidados domiciliários e apoio a cuidadores implicaria maior despesa pública."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "cuidadores informais",
+  "centros de referência de doenças neuromusculares",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "ela",
+  "doenças neuromusculares",
+  "cuidadores informais",
+  "medicamentos inovadores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Prorrogação da comissão de inquérito ao INEM",
+ "summary": "Projeto de resolução do Presidente da Assembleia da República que prorroga por 90 dias o prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica. A comissão aprovou o pedido por unanimidade na reunião de 12 de fevereiro de 2026, ao abrigo do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares, para permitir realizar as audições em falta e apreciar e discutir o relatório final.",
+ "key_points": [
+  "Prorrogação por 90 dias do prazo da comissão de inquérito ao INEM.",
+  "Pedido aprovado por unanimidade pela comissão em 12 de fevereiro de 2026.",
+  "Objetivo: concluir audições aprovadas e requeridas e discutir o relatório final."
+ ],
+ "plain_language": "A comissão do Parlamento que investiga o INEM precisa de mais tempo para ouvir as pessoas que faltam e para discutir o relatório final. Pede, por isso, mais 90 dias, e o Plenário tem de decidir se aceita.",
+ "context": "A comissão justifica o pedido com a necessidade de realizar todas as audições aprovadas e audiências requeridas e acordadas e de elaborar o relatório, o que não seria possível no prazo inicial.",
+ "analysis": "Pontos fortes: pedido unânime, que permite concluir o trabalho de inquérito com mais completude. Fragilidades: prolonga o inquérito, com os custos de funcionamento associados, e o texto não indica o número de audições pendentes nem as razões do atraso. Ainda assim, a prorrogação é prática comum e prevista na lei.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação mantém em funcionamento a comissão por mais 90 dias, com custos de funcionamento parlamentar. O texto não os quantifica."
+ },
+ "affected": [
+  "membros da comissão de inquérito",
+  "Assembleia da República",
+  "INEM"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "INEM",
+  "prorrogação",
+  "inquérito parlamentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

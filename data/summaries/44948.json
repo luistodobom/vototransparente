@@ -1,0 +1,42 @@
+{
+ "short_title": "Alargar o apoio a editoras e livrarias na pandemia",
+ "summary": "O PCP propõe que a Assembleia da República recomende ao Governo cinco medidas: alargar a linha de apoio a editoras e livrarias, de 400 mil euros, a entidades a título individual ou com contabilidade simplificada, com faturação em livros inferior a 650.000 euros em 2019 e que tenham entrado em atividade até 1 de março de 2020; incluir editoras de publicações específicas, como partituras; criar em 2020 uma linha extraordinária de apoio à edição para pequenas editoras e editoras independentes; reforçar a fiscalização da Lei do Preço Fixo por grandes cadeias de livrarias online e editoras com vendas no próprio site; e reforçar a aquisição de livros e revistas para bibliotecas públicas e escolares, com critérios que incluam livreiros independentes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Alargar a linha de apoio a editoras e livrarias a casos hoje excluídos, como contabilidade simplificada e atividade com menos de dois anos.",
+  "Elevar o limite de faturação em livros para menos de 650.000 euros em 2019.",
+  "Incluir editoras de publicações específicas, como partituras.",
+  "Criar uma linha extraordinária de apoio à edição para pequenas editoras independentes.",
+  "Reforçar a fiscalização da Lei do Preço Fixo e a compra de livros para bibliotecas, com participação de livreiros independentes."
+ ],
+ "plain_language": "O PCP pede ao Governo que alargue o apoio criado na pandemia para livrarias e editoras, para que também chegue a pequenos negócios hoje excluídos, que crie apoio extra à edição, que fiscalize melhor os descontos nos livros e que compre mais livros para bibliotecas, incluindo a livreiros independentes. É apenas uma recomendação.",
+ "context": "O proponente aponta a grande quebra de vendas, a concentração do mercado em poucos grupos na edição e na distribuição e o apoio de 400 mil euros do Governo, cujos critérios exclui, segundo o texto, editoras individuais, médias livrarias com faturação superior a 300 mil euros e empresas com menos de dois anos de atividade. Refere promoções que considera violar a Lei do Preço Fixo.",
+ "analysis": "A proposta é específica quanto aos critérios de elegibilidade que quer alterar e liga o apoio à diversidade cultural. Fragilidades: não quantifica o reforço de verbas, que seria necessário para alargar o universo de beneficiários, e a alegação de incumprimento da Lei do Preço Fixo é apresentada sem prova. O texto também não aborda os custos de fiscalização nem a elegibilidade de grandes grupos no limite proposto de 650.000 euros. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do apoio, a nova linha extraordinária e o reforço da aquisição de livros para bibliotecas aumentariam a despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "pequenas e médias editoras",
+  "livrarias independentes",
+  "bibliotecas públicas e escolares",
+  "leitores"
+ ],
+ "categories": [
+  "cultura",
+  "economia"
+ ],
+ "tags": [
+  "livro",
+  "editoras",
+  "livrarias",
+  "lei do preço fixo",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

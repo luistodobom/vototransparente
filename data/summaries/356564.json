@@ -1,0 +1,45 @@
+{
+ "short_title": "Venda judicial de imóveis em heranças indivisas",
+ "summary": "Proposta de lei do Governo que pede autorização legislativa, por 180 dias, para uma reforma do direito sucessório: alterar o Código Civil, o Código de Processo Civil e o regime da procriação medicamente assistida, criar um processo especial e urgente de venda de imóveis de herança indivisa e um regime de arbitragem sucessória. Qualquer herdeiro, o cônjuge meeiro ou o testamenteiro com poderes de partilha pode pedir a venda, sem prazo se houver inventário e, nos restantes casos, dois anos após a abertura da sucessão. A venda é preferencialmente por leilão eletrónico, com direito de remição dos herdeiros. A autorização inclui ainda o testamenteiro com poderes de partilha, a escolha pelo testador dos bens da legítima, a redução de 10 para 2 anos do prazo para aceitar a herança e regras sobre o cabeça-de-casal.",
+ "key_points": [
+  "Processo especial e urgente de venda de imóveis de herança indivisa, sem consentimento dos restantes herdeiros; com intervenção do Ministério Público e autorização judicial se houver herdeiros incapazes ou ausentes.",
+  "Preço base fixado com avaliações periciais, venda preferencialmente por leilão eletrónico, redução escalonada do preço em leilões infrutíferos, direito de remição dos herdeiros e proteção dos credores com garantias reais.",
+  "Custas em regra encargo da herança, ficando a cargo do requerente se não houver fundamento para o processo; advogado obrigatório para questões de direito e recursos.",
+  "Novo testamenteiro com poderes de partilha, que administra, liquida e partilha a herança e é cabeça-de-casal prioritário, e arbitragem sucessória imposta por testamento, com direito a recurso e sem afastar o inventário.",
+  "O testador pode indicar de forma vinculativa os bens que compõem a legítima; o prazo de caducidade do direito de aceitar a herança desce de 10 para 2 anos.",
+  "Impede a partilha durante o prazo de indivisão fixado até 5 anos ou, havendo inseminação post mortem consentida, até três anos ou ao nascimento."
+ ],
+ "plain_language": "Quando vários herdeiros não se entendem, os imóveis da herança podem ficar parados e degradar-se durante anos. O Governo quer criar um processo judicial rápido que permita a qualquer herdeiro pedir a venda do imóvel, em regra por leilão eletrónico, sem precisar da concordância dos outros, que podem exercer o direito de ficar com o imóvel pelo preço de venda. Quer também que cada pessoa possa escolher em testamento quem trata da partilha e que os litígios sejam resolvidos por arbitragem. Pede ao Parlamento autorização para o fazer por decreto-lei.",
+ "context": "O Governo invoca a crise habitacional e dados do Censos de 2021 (485 mil alojamentos vagos em boas condições) e estima que mais de 3,4 milhões de prédios rústicos, num universo de pelo menos 11 milhões, pertençam a heranças indivisas. Considera que a indivisão não desejada prejudica a gestão dos bens e o ordenamento do território, e integra a proposta numa reforma do direito sucessório assente em dois eixos: reforçar o direito à partilha e dar mais liberdade ao autor da sucessão.",
+ "analysis": "A medida pode desbloquear imóveis parados, incentivar partilhas por acordo e reduzir litígios, com salvaguardas como a intervenção do Ministério Público, a proteção dos credores e o direito de remição. Em contrapartida, facilitar a venda sem consentimento unânime pode forçar a alienação de bens com valor afetivo ou familiar, e o impacto real na oferta de habitação é incerto, dado que muitos imóveis são rústicos. O reforço da vontade do testador sobre a legítima e a arbitragem imposta unilateralmente alteram equilíbrios do direito sucessório e merecem escrutínio. Por ser autorização legislativa, o regime final dependerá do decreto-lei.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa de custos ou receitas. Refere que as custas constituem, em regra, encargo da herança e que o processo deverá reduzir a litigância nos tribunais."
+ },
+ "affected": [
+  "herdeiros e cônjuges meeiros",
+  "proprietários de prédios rústicos e urbanos em herança indivisa",
+  "tribunais e agentes de execução",
+  "credores com garantias reais sobre os imóveis",
+  "testadores"
+ ],
+ "categories": [
+  "justica",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "heranças indivisas",
+  "direito sucessório",
+  "autorização legislativa",
+  "leilão eletrónico",
+  "testamenteiro"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

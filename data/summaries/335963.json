@@ -1,0 +1,38 @@
+{
+ "short_title": "Pagar a fornecedores do Estado em 30 dias",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que tome rapidamente as medidas necessárias para reduzir para 30 dias o prazo médio de pagamento das faturas a fornecedores por parte do Estado. A exposição de motivos defende que os atrasos penalizam sobretudo as pequenas e médias empresas, obrigadas a recorrer a crédito, e que um prazo de 30 dias é um objetivo claro e mensurável. O texto sustenta que acelerar o cumprimento reforça a previsibilidade das relações com o Estado e que isso não exige encargos acrescidos para os contribuintes, mas uma gestão mais eficiente e maior responsabilização dos serviços.",
+ "key_points": [
+  "Recomendar ao Governo medidas rápidas para reduzir para 30 dias o prazo médio de pagamento a fornecedores do Estado.",
+  "Argumentar que os atrasos afetam sobretudo as pequenas e médias empresas.",
+  "Defender que o cumprimento não exige encargos adicionais, apenas gestão mais eficiente."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que o Estado pague as faturas aos fornecedores mais depressa, em média ao fim de 30 dias, para que as empresas, sobretudo as pequenas, não tenham de pedir crédito por causa de atrasos. É uma recomendação.",
+ "context": "O CHEGA argumenta que o Estado deve dar o exemplo no cumprimento atempado de obrigações e que os prazos dilatados prolongam um problema estrutural para milhares de empresas dependentes da contratação pública, com custos de financiamento e menor previsibilidade.",
+ "analysis": "A meta de 30 dias é clara e mensurável, mas a iniciativa é uma recomendação genérica: não indica o prazo médio atual, nem entidades, mecanismos, calendário ou sanções. A afirmação de que o cumprimento não exige encargos acrescidos não é demonstrada, já que pagar mais depressa pode exigir reforço de tesouraria ou orçamentação mais realista. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto afirma que a medida não implica encargos acrescidos, mas pagar mais cedo pode alterar a tesouraria do Estado; não há estimativas no texto."
+ },
+ "affected": [
+  "fornecedores do Estado",
+  "pequenas e médias empresas",
+  "serviços da Administração Pública"
+ ],
+ "categories": [
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "prazo médio de pagamento",
+  "fornecedores do Estado",
+  "contratação pública",
+  "PME"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

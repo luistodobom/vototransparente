@@ -1,0 +1,43 @@
+{
+ "short_title": "Proteção de povoamentos florestais percorridos por incêndios",
+ "summary": "Projeto de Lei do CHEGA que adita o artigo 61.º-A ao Decreto-Lei n.º 82/2021 (Sistema de Gestão Integrada de Fogos Rurais) para proteger terrenos com povoamentos florestais percorridos por incêndios. Durante 10 anos ficam proibidas construções, novas atividades agrícolas, industriais ou turísticas, exploração de lítio e outras com impacto ambiental negativo, substituição por espécies inadequadas, descargas poluentes e campismo fora de locais próprios. Em terrenos fora de planos municipais, proíbe também loteamentos, urbanização e ampliações. Os planos municipais não podem ser alterados para permitir ocupação urbanística. As proibições podem ser levantadas por despacho conjunto, mediante prova de causa fortuita, ou por interesse público após cinco anos. Aumenta de 2 para 5 anos a duração máxima das sanções acessórias. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Proíbe, durante 10 anos, construções, novas atividades de impacto ambiental, substituição de espécies e descargas poluentes em terrenos ardidos.",
+  "Proíbe loteamentos, obras de urbanização e ampliações em terrenos não abrangidos por planos municipais.",
+  "Impede a revisão de planos municipais para permitir ocupação urbanística durante 10 anos.",
+  "Prevê levantamento das proibições por despacho conjunto (causa fortuita) ou por interesse público após cinco anos.",
+  "Aumenta de 2 para 5 anos o período máximo das sanções acessórias."
+ ],
+ "plain_language": "O CHEGA propõe que, durante dez anos depois de um incêndio, não se possa construir nem montar novas atividades em terrenos de floresta ardida, para evitar que se queime para depois urbanizar. Há exceções, se o incêndio for provadamente fortuito ou se for de interesse público. As sanções acessórias passariam de 2 para 5 anos.",
+ "context": "O proponente recorda o Decreto-Lei n.º 327/90, que proibia certas ações durante 10 anos em terrenos ardidos e foi removido, e refere que parte dos incêndios intencionais está ligada a interesses sobre o uso do solo. Cita a lei espanhola, que impede a mudança de uso por 30 anos, e defende medidas concretas para proteger a floresta e os proprietários.",
+ "analysis": "A proposta recupera uma medida dissuasora conhecida e procura reduzir o incentivo à mudança do uso do solo. Riscos: proibições de 10 anos a todas as atividades agrícolas e industriais em terrenos ardidos podem prejudicar proprietários inocentes e a recuperação económica das zonas atingidas, e o levantamento depende de despachos e de prova de causas fortuitas com documento da Polícia Judiciária, o que pode ser lento. O texto não avalia a articulação com o regime de ordenamento do território nem custos de fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos nem receitas; a fiscalização e os procedimentos de levantamento podem implicar despesa administrativa, e os proprietários podem sofrer perdas de rendimento não compensadas."
+ },
+ "affected": [
+  "proprietários de terrenos florestais ardidos",
+  "municípios",
+  "promotores imobiliários e agrícolas",
+  "ICNF e administração do território"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "agricultura"
+ ],
+ "tags": [
+  "incêndios florestais",
+  "ordenamento do território",
+  "áreas ardidas",
+  "construção",
+  "sanções acessórias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

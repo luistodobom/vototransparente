@@ -1,0 +1,43 @@
+{
+ "short_title": "Canal de denúncias e fiscalização das creches",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas após denúncias de maus-tratos numa creche em Carnide, Lisboa, integrada no programa Creche Feliz. Propõe um canal nacional de denúncias para respostas sociais da infância (creches e amas), no âmbito do Instituto da Segurança Social e articulado com as Comissões de Proteção de Crianças e Jovens, com acesso gratuito e proteção contra retaliações; reforço dos meios humanos e técnicos do ISS para fiscalização regular e preventiva; apoio psicológico imediato e contínuo às crianças vítimas e às suas famílias; recolocação urgente e prioritária das crianças retiradas; e formação obrigatória e contínua dos profissionais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Canal nacional de denúncias para creches e amas, gratuito e com proteção contra retaliações.",
+  "Reforço dos meios humanos e técnicos do ISS para fiscalização regular e preventiva.",
+  "Apoio psicológico especializado e contínuo às crianças vítimas e às famílias.",
+  "Recolocação urgente e prioritária das crianças retiradas, com vaga alternativa na área de residência.",
+  "Formação obrigatória e contínua dos profissionais sobre direitos da criança e prevenção de maus-tratos."
+ ],
+ "plain_language": "Depois de denúncias de maus-tratos a bebés numa creche de Lisboa, o PAN pede ao Governo um canal seguro para denunciar problemas nas creches, mais inspeção pela Segurança Social, apoio psicológico às crianças afetadas, uma vaga noutra creche para as crianças retiradas e formação para quem lá trabalha. É uma recomendação.",
+ "context": "O proponente invoca denúncias públicas de agressões, negligência e coerção na alimentação de bebés numa creche de Carnide integrada no programa Creche Feliz, com financiamento público. Refere que muitas situações só chegam às autoridades por via da comunicação social e aponta falhas de fiscalização do ISS.",
+ "analysis": "Responde a um problema grave com medidas coerentes, que cobrem deteção, fiscalização, apoio às vítimas e prevenção. Fragilidades: baseia-se em factos descritos como alegados, sem dados sobre a dimensão do problema; não indica orçamento nem o número de inspetores necessários; e a recolocação imediata depende da disponibilidade de vagas, que o texto não aborda. A articulação entre várias entidades não é detalhada. É uma recomendação sem efeito vinculativo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios do ISS, o canal de denúncias, o apoio psicológico e a formação implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "bebés e crianças em creches e amas",
+  "famílias",
+  "profissionais de creche",
+  "Instituto da Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "seguranca",
+  "direitos"
+ ],
+ "tags": [
+  "creches",
+  "maus-tratos",
+  "fiscalização",
+  "Creche Feliz",
+  "denúncias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Agrava coimas ferroviárias e proíbe maquinistas sob álcool ou drogas",
+ "summary": "Proposta de Lei do Governo que altera o Decreto-Lei n.º 85/2020 (segurança ferroviária) e a Lei n.º 16/2011 (certificação de maquinistas). Agrava as coimas das contraordenações ferroviárias, na sequência de uma recomendação da Agência Ferroviária da UE: as muito graves passam a 100.000 a 500.000 euros, as graves a 50.000 a 250.000 e as leves a 1.000 a 5.000. Proíbe os maquinistas de exercerem funções sob influência de álcool (taxa igual ou superior a 0,2 g/l), estupefacientes ou substâncias psicotrópicas, impõe testes quando solicitados pelas entidades fiscalizadoras, em caso de indícios ou de acidente, prevê contraprova e suspensão imediata, e atribui à GNR e à PSP a fiscalização. Clarifica também competências do IMT e da Agência. Acrescenta um anexo com a tabela de taxas do IMT pela avaliação de certificados e autorizações de segurança (por exemplo, 5 000 euros pela emissão ou renovação de um Certificado de Segurança Único e 1 250 euros pela sua atualização).",
+ "key_points": [
+  "Agrava os limites das coimas por infrações ao regime de segurança ferroviária.",
+  "Proíbe maquinistas de exercer funções sob influência de álcool, estupefacientes ou substâncias psicotrópicas.",
+  "Taxa de álcool no sangue igual ou superior a 0,2 g/l conta como influência de álcool.",
+  "Testes obrigatórios a pedido da fiscalização, com indícios ou após acidente, e direito a contraprova.",
+  "GNR e PSP fiscalizam; resultado positivo no rastreio implica impedimento de funções por 48 horas, com exame de confirmação e regresso condicionado a novo rastreio negativo.",
+  "Cria uma tabela de taxas do IMT para a avaliação de certificados e autorizações de segurança ferroviária."
+ ],
+ "plain_language": "O Governo propõe multas mais pesadas para falhas de segurança nos comboios e proíbe expressamente os maquinistas de conduzir sob efeito de álcool ou drogas. Poderão ser testados pela polícia ou em caso de acidente, e se o teste der positivo ficam logo impedidos de trabalhar.",
+ "context": "O Governo explica que a Agência Ferroviária da UE, após auditar o IMT, recomendou agravar as coimas previstas no Decreto-Lei n.º 85/2020 para reforçar a segurança dos passageiros e cumprir a Diretiva (UE) 2016/798. Aproveita ainda para clarificar procedimentos e competências do IMT e da Agência e regular a condução sob influência de substâncias.",
+ "analysis": "A proposta responde a uma recomendação europeia e preenche uma lacuna sobre consumo de substâncias por maquinistas, com regras claras de teste, contraprova e fiscalização. Pontos a considerar: o texto prevê auscultar várias entidades, incluindo a CNPD e a Ordem dos Médicos, dado o tratamento de dados e exames sanitários; coimas elevadas podem levantar proporcionalidade; e a articulação com os controlos já feitos pelas empresas no sistema de gestão de segurança é apenas referida. A tabela de taxas e o regime subsidiário da lei da aviação civil são soluções importadas que podem exigir adaptação ao setor ferroviário.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "As coimas mais elevadas podem aumentar a receita com contraordenações, e as taxas do IMT são receita própria. O texto disponível não apresenta montantes de receita."
+ },
+ "affected": [
+  "maquinistas",
+  "empresas ferroviárias",
+  "gestor de infraestrutura ferroviária",
+  "passageiros"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "segurança ferroviária",
+  "maquinistas",
+  "álcool e drogas",
+  "coimas",
+  "IMT"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

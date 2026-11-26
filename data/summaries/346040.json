@@ -1,0 +1,40 @@
+{
+ "short_title": "Dispensa de trabalho no dia da dádiva de sangue",
+ "summary": "Projeto de Lei do BE que altera o Estatuto do Dador de Sangue (Lei n.º 37/2012) e o Código do Trabalho. No Estatuto, acrescenta aos direitos do dador a dispensa de atividade profissional, de formação ou de programas ocupacionais no dia da dádiva, sem perda de direitos ou regalias, e dispõe no artigo 7.º que o dador está dispensado dessa atividade nesse dia. No Código do Trabalho, o artigo 249.º passa a considerar falta justificada a motivada por dádiva de sangue, no dia em que ocorra. Entra em vigor no primeiro dia do mês seguinte ao da publicação. O BE apresenta a medida como a reintrodução de um direito existente até 2011.",
+ "key_points": [
+  "Direito de dispensa da atividade profissional, de formação ou ocupacional no dia da dádiva, sem perda de direitos ou regalias.",
+  "Falta motivada por dádiva de sangue passa a ser falta justificada (artigo 249.º do Código do Trabalho).",
+  "Altera os artigos 6.º e 7.º do Estatuto do Dador de Sangue.",
+  "Entra em vigor no primeiro dia do mês seguinte à publicação."
+ ],
+ "plain_language": "Quem dá sangue passaria a poder faltar ao trabalho nesse dia sem perder retribuição nem outros direitos. O BE quer assim facilitar a dádiva, que tem diminuído em Portugal.",
+ "context": "O BE cita dados de janeiro de 2026: 142 245 dadores em 2025, menos nove mil do que em 2023, e dádivas a caírem de 180 172 em 2022 para 163 702 em 2025. Aponta paralelos em Itália e Espanha e defende reintroduzir um direito que existiu até 2011.",
+ "analysis": "A medida remove um obstáculo prático à dádiva e tem precedentes noutros países. Fragilidades: o texto usa remissões abreviadas (\"[...]\"), pelo que o regime exato depende do diploma em vigor; não esclarece se a retribuição é suportada pelo empregador ou pelo Estado, nem se há limites ou comprovativo; e não demonstra que a dispensa aumentaria as dádivas. O custo recai sobretudo sobre empregadores, em especial pequenas empresas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica quem suporta a retribuição do dia de dispensa nem apresenta custos. Se recair sobre o setor público como empregador, haveria algum aumento de despesa, mas não é quantificado."
+ },
+ "affected": [
+  "dadores de sangue",
+  "trabalhadores",
+  "empregadores",
+  "Instituto Português do Sangue e da Transplantação"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "dádiva de sangue",
+  "estatuto do dador",
+  "faltas justificadas",
+  "código do trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Voto acessível e universal para pessoas com deficiência",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo seis medidas para um voto acessível e universal: garantir condições para que as autarquias assegurem acessibilidade plena às assembleias de voto; implementar projetos-piloto de voto acessível em todos os distritos, permitindo votar com autonomia, sem apoio de terceiros, respeitando o voto secreto e sem ligação à internet; incluir soluções de acessibilidade comunicacional, como áudio e braille; dar formação aos membros das mesas de voto; monitorizar os pilotos com organizações representativas e produzir um relatório público; e usar os resultados para definir um modelo nacional de voto universal. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir às autarquias condições para acessibilidade plena das assembleias de voto.",
+  "Projetos-piloto de voto acessível em todos os distritos, sem recurso à internet.",
+  "Soluções de acessibilidade comunicacional, incluindo áudio e braille.",
+  "Formação dos membros das mesas de voto sobre acessibilidade e a Convenção da ONU.",
+  "Relatório público com participação das organizações de pessoas com deficiência.",
+  "Resultados dos pilotos servem para definir um modelo nacional de voto universal."
+ ],
+ "plain_language": "O Partido Socialista quer que pessoas cegas, com baixa visão ou mobilidade reduzida consigam votar sozinhas e em segredo. Propõe testar soluções em todos os distritos, melhorar o acesso às assembleias de voto e formar quem trabalha nas mesas.",
+ "context": "O proponente refere que, apesar da matriz em braille nas eleições presidenciais e europeias, várias condicionantes impedem milhares de pessoas de votar com igualdade, autonomia e dignidade. Invoca o artigo 49.º da Constituição e a Convenção da ONU sobre os Direitos das Pessoas com Deficiência, ratificada em 2009.",
+ "analysis": "Ponto forte: abordagem gradual, com pilotos avaliados por organizações representativas e salvaguarda do voto secreto e do voto presencial. Fragilidades: não define calendário, orçamento nem tecnologias a testar, e exclui por ora soluções digitais ligadas à internet; implica custos para autarquias e a administração eleitoral; é uma recomendação não vinculativa, pelo que depende da vontade do Governo. A eficácia dos pilotos só será conhecida após a sua execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Pilotos, adaptação de assembleias de voto e formação implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "eleitores com mobilidade condicionada, cegos e com baixa visão",
+  "autarquias",
+  "membros das mesas de voto"
+ ],
+ "categories": [
+  "direitos",
+  "instituicoes"
+ ],
+ "tags": [
+  "voto acessível",
+  "deficiência",
+  "assembleias de voto",
+  "braille",
+  "projetos-piloto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

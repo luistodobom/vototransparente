@@ -1,0 +1,42 @@
+{
+ "short_title": "Autorização para criar procedimento administrativo de indemnizações do Estado",
+ "summary": "Esta proposta de lei do Governo pede autorização legislativa, com duração de 180 dias, para criar um procedimento administrativo de atribuição de indemnizações por responsabilidade civil extracontratual do Estado por danos da função administrativa. O procedimento aplicar-se-ia à administração direta e indireta do Estado, não a empresas públicas comerciais, e manteria os pressupostos da responsabilidade e os regimes especiais, incluindo o direito de regresso. O decreto-lei anexo prevê iniciativa particular ou oficiosa, instrução com prova, audiência dos interessados e decisão por escalões de valor, até ao Conselho de Ministros. A decisão tem natureza de proposta: se o lesado a recusar, pode ir a tribunal; se a aceitar, fica impedido de o fazer. As indemnizações saem do orçamento da entidade responsável, sem reforço.",
+ "key_points": [
+  "Criar um procedimento administrativo, facultativo, de atribuição de indemnizações por responsabilidade extracontratual do Estado.",
+  "Aplicar-o à administração direta e indireta do Estado, excluindo empresas públicas comerciais.",
+  "Prever instrução com prova, audiência dos interessados, e decisão dos ministros ou do Conselho de Ministros conforme o valor.",
+  "Fazer da decisão uma proposta que, se recusada, não impede ação em tribunal; se aceite, impede-a.",
+  "Pagar as indemnizações pelo orçamento da entidade responsável, sem reforço orçamental, e avaliar o regime após um ano."
+ ],
+ "plain_language": "Hoje, quem sofre um dano causado pelo Estado tem em geral de ir a tribunal para ser indemnizado. O Governo quer criar uma via administrativa, mais rápida, onde a própria Administração analisa o pedido e propõe uma indemnização. Se a pessoa não concordar, pode sempre ir a tribunal. O Governo pede ao Parlamento autorização para fixar essas regras por decreto-lei, durante 180 dias.",
+ "context": "O Governo considera que a reparação de danos da Administração é feita sobretudo nos tribunais, o que penaliza os cidadãos com custos e morosidade e aumenta as pendências. Invoca a experiência de outros ordenamentos, como o espanhol, e afirma que o novo regime reduziria litigância desnecessária sem alterar os pressupostos da responsabilidade nem restringir o acesso aos tribunais.",
+ "analysis": "A via administrativa pode ser mais célere e barata e reservar os tribunais para casos que a Administração não resolva. Fragilidades: o Estado é simultaneamente parte e decisor, o que exige garantias de independência (o texto prevê um Conselho de Consultores); a aceitação da proposta impede a ação judicial; decisões de valor elevado ficam nas mãos do poder político; e o pagamento pelo orçamento da entidade, sem reforço, pode desincentivar a atribuição. Sendo lei de autorização, o conteúdo final dependerá do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "As indemnizações seriam pagas pelo orçamento da entidade responsável, sem reforço orçamental; o texto não estima o efeito líquido, que depende do volume de pedidos e da redução de litígios."
+ },
+ "affected": [
+  "cidadãos e empresas lesados por atos da Administração",
+  "entidades da administração direta e indireta do Estado",
+  "titulares de órgãos e funcionários sujeitos a direito de regresso",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "responsabilidade civil do estado",
+  "indemnizações",
+  "autorização legislativa",
+  "procedimento administrativo",
+  "litigância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

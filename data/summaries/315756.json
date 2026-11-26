@@ -1,0 +1,43 @@
+{
+ "short_title": "Regime nacional dos ensaios clínicos de medicamentos",
+ "summary": "Proposta de lei do Governo que executa em Portugal o Regulamento (UE) n.º 536/2014 sobre ensaios clínicos de medicamentos para uso humano. O INFARMED é a entidade responsável, ponto de contacto e decisora sobre autorizações; a Comissão de Ética para a Investigação Clínica (CEIC) avalia os aspetos éticos e emite parecer vinculativo. Acrescenta regras de proteção: assentimento de menores, limites a menores e adultos incapazes em acolhimento, consentimento simplificado em ensaios só em Portugal, responsabilidade solidária e sem culpa do promotor e do investigador com seguro obrigatório, medicamentos gratuitos durante e após o ensaio, e língua portuguesa nos documentos para participantes. Prevê coimas de 500 a 50 000 euros (pessoas singulares) e de 5 000 a 750 000 euros (pessoas coletivas), repartidas 60% Estado e 40% INFARMED, taxas por portaria com isenção de ensaios não comerciais, e entrada em vigor 30 dias após a publicação.",
+ "key_points": [
+  "O INFARMED decide as autorizações e fiscaliza; a CEIC avalia a parte ética e emite parecer vinculativo, cabendo recurso tutelar para o membro do Governo da Saúde.",
+  "Menores: respeito pela vontade de participar e assentimento (escrito aos 16 anos); menores ou adultos incapazes em acolhimento só participam se a não participação lhes causar prejuízo.",
+  "Promotor e investigador respondem solidariamente e sem culpa por danos, com seguro obrigatório; danos à saúde até um ano após o fim da participação presumem-se causados pelo ensaio.",
+  "Medicamentos experimentais, auxiliares e exames adicionais são gratuitos, e o tratamento continua gratuitamente após o ensaio se o investigador o considerar indispensável e não houver alternativa equiparável.",
+  "Coimas de 500 a 50 000 euros (pessoas singulares) e 5 000 a 750 000 euros (pessoas coletivas), com sanção acessória de suspensão ou interdição até dois anos; produto 60% Estado e 40% INFARMED.",
+  "Taxas de avaliação fixadas por portaria, receita própria do INFARMED, com isenção para ensaios não comerciais e para os promovidos pelo investigador."
+ ],
+ "plain_language": "A União Europeia já tem regras comuns para os ensaios clínicos de medicamentos. Esta proposta do Governo diz quem as aplica em Portugal (INFARMED e comissão de ética), reforça a proteção de quem participa, sobretudo menores e pessoas incapazes, garante medicamentos e tratamento gratuitos, define multas para quem as violar e cria taxas para os pedidos, com isenção para ensaios sem fins comerciais.",
+ "context": "O Governo retoma a Proposta de Lei n.º 16/XVI, aprovada na generalidade mas interrompida pela dissolução da Assembleia da República. Pretende assegurar a execução nacional do Regulamento (UE) n.º 536/2014, definindo as entidades competentes, requisitos adicionais de proteção dos participantes e consentimento esclarecido, e o quadro sancionatório, promovendo a investigação biomédica de qualidade.",
+ "analysis": "Ponto forte: dá segurança jurídica à aplicação do regulamento europeu, clarifica a divisão de tarefas entre INFARMED e CEIC e reforça a proteção dos participantes, com responsabilidade sem culpa, seguro e tratamento após o ensaio. Fragilidades: a articulação entre duas entidades tem de respeitar prazos europeus apertados; o montante das taxas e várias normas técnicas ficam para portaria; a presunção de causalidade durante um ano e a gratuitidade pós-ensaio podem dissuadir promotores, em particular académicos; e afetar 40% das coimas ao INFARMED, que também instrui os processos, pode suscitar questões de incentivos.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prevê taxas de avaliação, receita própria do INFARMED, e coimas repartidas 60% para o Estado e 40% para o INFARMED. Os montantes das taxas serão fixados por portaria e não constam do texto."
+ },
+ "affected": [
+  "promotores de ensaios clínicos",
+  "participantes em ensaios clínicos",
+  "INFARMED e CEIC",
+  "investigadores e hospitais"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "ensaios clínicos",
+  "INFARMED",
+  "consentimento esclarecido",
+  "medicamentos",
+  "regulamento europeu"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

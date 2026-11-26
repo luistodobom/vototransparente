@@ -1,0 +1,39 @@
+{
+ "short_title": "Posição de Portugal nas negociações europeias sobre o ChatControl",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que, nas negociações europeias sobre o Regulamento relativo à prevenção e combate ao abuso sexual de crianças (conhecido como ChatControl, proposta COM/2022/209), assegure que qualquer medida de deteção, denúncia ou supressão de conteúdos seja sempre precedida de mandado judicial, obedeça a critérios de equilíbrio e proporcionalidade e preveja disposições específicas para casos de suspeita razoável de envolvimento em crimes de abuso sexual de crianças. O objetivo declarado é conciliar a proteção das crianças com os direitos fundamentais, evitando formas de vigilância em massa das comunicações.",
+ "key_points": [
+  "Exigir mandado judicial prévio para qualquer medida de deteção, denúncia ou supressão de conteúdos.",
+  "Aplicar critérios de equilíbrio e proporcionalidade.",
+  "Prever disposições para casos de suspeita razoável de envolvimento em crimes de abuso sexual de crianças."
+ ],
+ "plain_language": "A União Europeia discute uma lei para combater o abuso sexual de crianças na internet, que poderia obrigar à análise de mensagens privadas. O PS pede ao Governo que, nas negociações, defenda que isso só possa acontecer com autorização de um juiz, de forma proporcionada e quando há suspeita concreta. Quer proteger as crianças sem criar vigilância em massa. É uma recomendação sem força obrigatória.",
+ "context": "O proponente salienta a gravidade do abuso sexual de crianças, agravado pelas plataformas digitais, e que as medidas voluntárias das empresas são limitadas e desiguais, com legislação nacional fragmentada. A proposta da Comissão Europeia de maio de 2022 pretende harmonizar regras e criar um Centro Europeu, mas organizações de privacidade e peritos de cibersegurança receiam que a monitorização de comunicações abra caminho à vigilância em massa.",
+ "analysis": "A recomendação procura um equilíbrio entre dois valores relevantes, a proteção das crianças e a privacidade, e apresenta uma condição jurídica clara: a intervenção judicial prévia. Porém, o texto refere que a proposta já prevê mandado judicial ou ordem administrativa independente, pelo que não esclarece como a exigência se distinguiria. Também não define critérios de proporcionalidade nem trata a cifragem das comunicações, ponto central do debate técnico. A influência de Portugal nas negociações é limitada e o texto é não vinculativo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa define uma orientação negocial do Governo e não prevê despesa ou receita pública no texto."
+ },
+ "affected": [
+  "crianças",
+  "utilizadores de serviços de mensagens",
+  "prestadores de serviços digitais"
+ ],
+ "categories": [
+  "direitos",
+  "internacional",
+  "ciencia"
+ ],
+ "tags": [
+  "chatcontrol",
+  "abuso sexual de crianças",
+  "privacidade",
+  "regulamento europeu"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

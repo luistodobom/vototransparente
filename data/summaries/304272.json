@@ -1,0 +1,44 @@
+{
+ "short_title": "Novo quadro para postos de carregamento de veículos elétricos (AFIR)",
+ "summary": "O PSD recomenda ao Governo a adoção de um novo quadro legislativo para aumentar a rede de postos de carregamento de veículos elétricos e aproximar Portugal do modelo europeu do Regulamento AFIR. Propõe abrir, simplificar e padronizar o modelo de negócio, regras iguais de licenciamento municipal com espaço público já aprovado pela E-Redes e prazos obrigatórios de resposta dos municípios, e a integração vertical dos comercializadores (CEME) nos operadores de pontos de carregamento (OPC), sem obrigação de ligação à entidade gestora (EGME, atualmente a Mobi.e). Defende ainda preços visíveis por kWh e por tempo, vários métodos de pagamento e regras iguais para postos com operação comercial. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Abrir, simplificar e padronizar o modelo de negócio de carregamento para aumentar a rede.",
+  "Regras iguais de licenciamento municipal e prazos obrigatórios de resposta das câmaras.",
+  "Integração vertical dos CEME nos OPC, sem obrigatoriedade de ligação à EGME.",
+  "Transparência de preços por kWh e por tempo e escolha de método de pagamento, incluindo cartão de débito ou crédito.",
+  "Mesmas regras para todos os postos com operação comercial, independentemente da localização.",
+  "Transição suave para uma experiência homogénea com as redes europeias."
+ ],
+ "plain_language": "O PSD quer que seja mais fácil instalar e explorar postos de carregamento de carros elétricos em Portugal, com regras mais simples e iguais às da Europa. Pede que as câmaras respondam em prazos fixos, que os operadores possam vender diretamente a energia e que os condutores vejam o preço e possam pagar com cartão. O pedido não obriga o Governo.",
+ "context": "O PSD considera que o quadro português, assente na EGME, ajudou na fase inicial mas passou a travar investimento e concorrência, e conflita com o AFIR, adotado em 2023. Cita a Autoridade da Concorrência (janeiro de 2024), que aponta barreiras à entrada nas autoestradas, com pontos concentrados em seis operadores, e a ERSE, que descreve o modelo português como único na Europa.",
+ "analysis": "A proposta apoia-se em pareceres da Autoridade da Concorrência e da ERSE e em metas europeias de infraestrutura. Fragilidades: é uma lista de objetivos sem articulado, sem prazos nem indicação das alterações legislativas necessárias. Não analisa os riscos de quebrar a padronização da rede nem o papel da Mobi.e e dos contratos existentes, e a eliminação de obrigações de ligação pode exigir cuidados de interoperabilidade. Prevê prazos obrigatórios para os municípios sem discutir a sua capacidade. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto defende sobretudo investimento privado e não refere custos nem receitas públicas."
+ },
+ "affected": [
+  "utilizadores de veículos elétricos",
+  "operadores de pontos de carregamento",
+  "municípios",
+  "entidade gestora da rede de mobilidade elétrica"
+ ],
+ "categories": [
+  "energia",
+  "transportes",
+  "economia"
+ ],
+ "tags": [
+  "mobilidade elétrica",
+  "AFIR",
+  "postos de carregamento",
+  "licenciamento municipal",
+  "concorrência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

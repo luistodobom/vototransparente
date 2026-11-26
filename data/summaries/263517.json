@@ -1,0 +1,40 @@
+{
+ "short_title": "Médico de família para todos até 2028",
+ "summary": "A Iniciativa Liberal recomenda ao Governo que garanta, até 2025, a atribuição de médico de família a mulheres grávidas, a crianças com menos de 9 anos e a idosos com mais de 65 anos; que tome as medidas necessárias para garantir um médico de família para todos até 2028; e que, para isso, reforce o SNS, aposte em Unidades de Saúde Familiar de Modelo C e contrate serviços de saúde dos setores privado e social sempre que necessário. É um projeto de resolução, de recomendação não vinculativa.",
+ "key_points": [
+  "Garantir até 2025 médico de família a grávidas, crianças com menos de 9 anos e idosos com mais de 65 anos.",
+  "Garantir médico de família para todos até 2028.",
+  "Reforçar o SNS e apostar em USF de Modelo C.",
+  "Contratualizar com os setores privado e social sempre que necessário."
+ ],
+ "plain_language": "A IL pede ao Governo que todas as grávidas, crianças pequenas e idosos tenham médico de família até 2025 e todos os portugueses até 2028, usando também clínicas privadas e do setor social quando o SNS não chegar. É uma recomendação.",
+ "context": "O proponente indica que, em fevereiro de 2024, mais de 1,5 milhões de pessoas não tinham médico de família, incluindo cerca de 355.000 com mais de 65 anos e mais de 145.000 crianças até 9 anos. Considera que as reformas do anterior Governo não deram resposta clara nem calendarizada, e defende a contratualização com os setores social e privado.",
+ "analysis": "A iniciativa fixa metas e prazos claros e propõe um mecanismo concreto, a contratualização com privados e sociais. Contudo, depende de capacidade de recrutamento e fixação de médicos, e a dependência de entidades privadas pode levantar preocupações de custo e de fragmentação do SNS. O texto não estima o custo, nem define como se assegura a continuidade de cuidados, e sendo uma resolução não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço do SNS e a contratualização com privados e setor social implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "utentes sem médico de família",
+  "idosos",
+  "crianças",
+  "grávidas",
+  "médicos de família"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "médico de família",
+  "cuidados de saúde primários",
+  "SNS",
+  "USF modelo C"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

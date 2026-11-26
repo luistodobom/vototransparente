@@ -1,0 +1,43 @@
+{
+ "short_title": "Rede pública de residências para pessoas mais velhas",
+ "summary": "O projeto de lei do Livre cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas, na dependência do membro do Governo da Segurança Social, integrando Estruturas Residenciais para Pessoas Idosas (ERPI) e Centros de Noite destinados a pessoas com 65 ou mais anos. A rede é gerida pelo Instituto da Segurança Social e financiada pelo Orçamento do Estado. O Governo deve, no prazo de seis meses, fazer um levantamento das listas de espera e das necessidades, mapear instalações do Estado reconvertíveis, aumentar as vagas comparticipadas para uma cobertura nacional de pelo menos 25% do total de vagas e aprovar o regulamento em 90 dias.",
+ "key_points": [
+  "Cria a Rede Pública de Residências de Apoio para as Pessoas Mais Velhas, com ERPI e Centros de Noite.",
+  "Atribui a gestão ao Instituto da Segurança Social e o financiamento ao Orçamento do Estado.",
+  "Obriga a um levantamento de listas de espera e necessidades em seis meses.",
+  "Manda mapear instalações do Estado, sobretudo do ISS, para reconversão.",
+  "Fixa uma cobertura nacional de vagas comparticipadas de pelo menos 25% do total e regulamentação em 90 dias."
+ ],
+ "plain_language": "A proposta quer que o Estado crie e gira uma rede própria de residências para idosos, para haver mais vagas a preços acessíveis e menos listas de espera. O Governo teria de contar quantas pessoas esperam vaga, identificar edifícios públicos que possam ser adaptados e aumentar as vagas pagas em parte pela Segurança Social.",
+ "context": "O Livre refere o envelhecimento (192,4 idosos por 100 jovens em 2024) e a escassez de vagas comparticipadas, que leva a mensalidades elevadas e a lares clandestinos. Cita a Carta Social de 2023: taxa de cobertura das ERPI de 8,7% e utilização média de 92,5%, com 97.702 dos 105.638 lugares ocupados.",
+ "analysis": "Responde a uma carência documentada e define prazos e uma meta mensurável de cobertura. Fragilidades: não estima custos de construção, adaptação e funcionamento, nem a origem concreta das verbas, para além do Orçamento do Estado; a meta de 25% do total de vagas pode ser ambígua; e a gestão pública direta convive com o atual sistema de cooperação com o setor social, cuja articulação não é detalhada. A exigência de pessoal qualificado é referida no preâmbulo mas pouco concretizada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A rede é financiada pelo Orçamento do Estado e implica aumento de vagas comparticipadas e obras de adaptação e construção. O texto não indica montantes."
+ },
+ "affected": [
+  "pessoas com 65 ou mais anos",
+  "famílias e cuidadores",
+  "Instituto da Segurança Social",
+  "instituições de solidariedade social"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "habitacao"
+ ],
+ "tags": [
+  "lares",
+  "ERPI",
+  "idosos",
+  "segurança social",
+  "vagas comparticipadas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

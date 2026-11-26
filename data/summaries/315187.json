@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforço da educação inclusiva nas escolas",
+ "summary": "O projeto de lei do PAN altera pela terceira vez o regime jurídico da educação inclusiva (Decreto-Lei n.º 54/2018), alterando os artigos 13.º a 17.º. Prevê a permissão de uso de canceladores de ruído e a existência de salas de conforto para alunos neurodivergentes, formação especializada gratuita e serviços de transcrição para braille para alunos com baixa visão ou cegueira, e o reforço das escolas de referência para a educação bilingue de alunos surdos, incluindo a disseminação da cultura surda e formação em Língua Gestual Portuguesa para docentes titulares não proficientes. Alarga ainda às crianças dos 0 aos 3 anos o acesso às escolas de referência de intervenção precoce, ao seguro escolar e ao transporte gratuito. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Permite o uso de canceladores de ruído por alunos neurodivergentes em sala de aula e outros espaços.",
+  "Prevê salas de conforto para alunos neurodivergentes sobrecarregados de estímulos.",
+  "Garante formação especializada gratuita (braille, orientação e mobilidade, tecnologias de apoio) para técnicos e assistentes, e serviços de transcrição para braille.",
+  "Reforça as escolas de referência para a educação bilingue de surdos e exige formação em LGP aos docentes titulares não proficientes.",
+  "Alarga aos 0-3 anos o acesso a escolas de referência, seguro escolar e transporte escolar gratuito."
+ ],
+ "plain_language": "A proposta quer melhorar a forma como as escolas acolhem crianças com deficiência, autismo e outras diferenças, surdez ou cegueira. Os alunos neurodivergentes poderiam usar auriculares que reduzem o ruído e ter salas calmas para descansar. Os alunos cegos ou com pouca visão teriam apoio e materiais em braille, e os alunos surdos teriam professores com mais formação em língua gestual. As crianças pequenas, até aos 3 anos, passariam a ter acesso a transporte gratuito e seguro escolar.",
+ "context": "O PAN afirma que, passados sete anos letivos, o regime da educação inclusiva não garante igualdade às crianças com deficiência, neurodivergência e surdez. Cita a petição n.º 120/XVI/1.ª e um levantamento da FENPROF, segundo o qual 23% das turmas violam as normas de integração, 64% das escolas dizem ter poucos docentes de educação especial e 80% consideram não ter recursos suficientes.",
+ "analysis": "Responde a problemas concretos denunciados por pais e professores, com medidas específicas e de baixo custo individual, como os canceladores de ruído. A principal fragilidade é que o texto não quantifica custos nem identifica a fonte de financiamento das formações, do transporte e do seguro escolar, nem aborda diretamente a falta de docentes e técnicos que o próprio preâmbulo aponta como problema central. A extensão aos 0-3 anos depende de articulação com a saúde e a segurança social, sem prazos nem metas. A eficácia dependeria da regulamentação e da capacidade das escolas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A formação gratuita, as transcrições em braille, o transporte e o seguro escolar para crianças dos 0 aos 3 anos implicam despesa pública adicional. O texto não apresenta montantes."
+ },
+ "affected": [
+  "alunos com deficiência e neurodivergência",
+  "alunos surdos",
+  "alunos cegos ou com baixa visão",
+  "docentes e assistentes operacionais",
+  "famílias de crianças dos 0 aos 3 anos"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "neurodivergência",
+  "língua gestual",
+  "braille",
+  "intervenção precoce"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

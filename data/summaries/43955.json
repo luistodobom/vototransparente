@@ -1,0 +1,41 @@
+{
+ "short_title": "Combate à precariedade laboral: alterações ao Código do Trabalho",
+ "summary": "O projeto de lei do PCP altera o Código do Trabalho (16.ª alteração) para combater a precariedade e reforçar direitos dos trabalhadores. Propõe tornar mais exigente a verificação de contrato de trabalho (bastam duas características de subordinação, incluindo dependência económica), com consequência de contrato sem termo e pagamento retroativo de direitos e contribuições à segurança social. Restringe o recurso ao contrato a termo, revoga o contrato de muito curta duração, alarga o período de impedimento de novas contratações precárias para metade da duração do contrato, reforça o direito de preferência (indemnização de seis meses) e limita renovações e duração dos contratos a termo.",
+ "key_points": [
+  "Contrato de trabalho existe quando se verifiquem pelo menos duas características, incluindo dependência económica; é considerado sem termo, com antiguidade desde o início.",
+  "Revoga o contrato de trabalho de muito curta duração e restringe os fundamentos do contrato a termo.",
+  "Impede nova contratação a termo ou temporária para o mesmo posto antes de decorrer metade da duração do contrato anterior.",
+  "Reforça o direito de preferência na contratação sem termo, com indemnização equivalente a seis meses de remuneração base.",
+  "Limita as renovações do contrato a termo certo a duas e a duração do contrato a termo incerto a três anos.",
+  "Fixa contraordenações para o recurso indevido a falsos trabalhadores independentes."
+ ],
+ "plain_language": "O PCP propõe mudar o Código do Trabalho para dificultar os contratos precários, como os recibos verdes falsos ou os contratos a prazo usados sem justificação. Quem trabalhe na prática como empregado passaria a ter contrato sem prazo, com direito a férias, subsídios e contribuições pagas desde o início. Os contratos a prazo teriam menos renovações e duração máxima mais curta, e o empregador teria de esperar mais tempo antes de voltar a contratar a prazo para o mesmo posto.",
+ "context": "O proponente sustenta que existem mais de 1,2 milhões de trabalhadores com vínculos precários e que a precariedade viola o direito constitucional ao trabalho e à segurança no emprego. Atribui o problema a sucessivas alterações legislativas e a uma opção por baixos salários e degradação das condições de trabalho.",
+ "analysis": "A proposta reforça a proteção de quem trabalha em situação de falsa independência e dissuade o encadeamento de contratos a prazo, com medidas concretas e verificáveis. Em contrapartida, ao restringir os fundamentos do termo, reduzir renovações e proibir novas contratações durante um período mais longo, pode reduzir a flexibilidade das empresas e, segundo os críticos deste tipo de medidas, levar a menos contratações, tema que o texto não avalia. O articulado reduz as hipóteses de recurso ao contrato a termo, mas o texto não quantifica custos nem efeitos esperados, e remete parte da regulação para outras sanções económicas e fiscais anunciadas na exposição, sem as concretizar claramente.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto refere o pagamento retroativo de contribuições à segurança social e sanções para empregadores que recorram à precariedade, mas não apresenta estimativas de impacto orçamental."
+ },
+ "affected": [
+  "trabalhadores com vínculos precários",
+  "empregadores",
+  "trabalhadores independentes economicamente dependentes",
+  "Autoridade para as Condições do Trabalho"
+ ],
+ "categories": [
+  "trabalho"
+ ],
+ "tags": [
+  "precariedade",
+  "código do trabalho",
+  "contrato a termo",
+  "recibos verdes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

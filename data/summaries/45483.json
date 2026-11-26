@@ -1,0 +1,42 @@
+{
+ "short_title": "Caça apenas a espécies não ameaçadas e com estatuto conhecido",
+ "summary": "Projeto de lei do BE que altera o artigo 4.º do Decreto-Lei n.º 202/2004 (regime jurídico da exploração dos recursos cinegéticos) para proibir caçar espécies cinegéticas com estatuto de conservação desfavorável, definidas como as classificadas em qualquer categoria do Livro Vermelho dos Vertebrados de Portugal ou da Lista Vermelha da UICN, exceto Pouco Preocupante. Para as espécies de Informação Insuficiente ou Não Avaliado aplica-se o princípio da precaução e a caça fica interdita até serem classificadas como Pouco Preocupante. O Governo tem 30 dias para adaptar a Portaria n.º 105/2018 e a lei entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe a caça de espécies cinegéticas com estatuto de conservação desfavorável.",
+  "Considera desfavorável qualquer categoria dos livros vermelhos exceto Pouco Preocupante.",
+  "Aplica o princípio da precaução a espécies Não Avaliado ou com Informação Insuficiente.",
+  "O Governo adapta a Portaria n.º 105/2018 em 30 dias.",
+  "Entra em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que só se possam caçar espécies que não estejam em risco de extinção e cujo estado de conservação esteja avaliado. Espécies como o coelho-bravo e a rola-comum deixariam de poder ser caçadas até a sua situação melhorar.",
+ "context": "O proponente indica que Portugal é o quarto país europeu com mais espécies em risco e que a lista de espécies cinegéticas inclui espécies ameaçadas, como o coelho-bravo (Em Perigo), a rola-comum e o zarro-comum (Vulneráveis) e o tordo-ruivo (Quase Ameaçado). Argumenta que a caça é uma pressão adicional e que o coelho-bravo é presa essencial do lince-ibérico e da águia-imperial-ibérica.",
+ "analysis": "A medida aplica um critério objetivo e científico, baseado nas listas vermelhas, e invoca o princípio da precaução. Contudo, o critério automático pode suspender a caça de espécies por classificação de listas desatualizadas, como o Livro Vermelho de 2005, e não considera a gestão local das populações nem o efeito económico sobre a atividade cinegética. Prazo de 30 dias para adaptar a portaria e entrada em vigor imediata podem criar insegurança. O texto não apresenta estimativas de impacto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A restrição da caça pode reduzir receitas ligadas à atividade cinegética, como licenças e zonas de caça; o texto não refere nem quantifica efeitos orçamentais."
+ },
+ "affected": [
+  "caçadores",
+  "zonas de caça e associações cinegéticas",
+  "espécies ameaçadas",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "caça",
+  "espécies ameaçadas",
+  "coelho-bravo",
+  "rola-comum",
+  "princípio da precaução"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

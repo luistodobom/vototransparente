@@ -1,0 +1,42 @@
+{
+ "short_title": "Melhores condições de vida para pessoas com deficiência auditiva",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo quatro medidas para pessoas com deficiência auditiva: divulgar o número de pessoas com deficiência auditiva, promover campanhas de consciencialização, reforçar os rastreios auditivos infantis no Serviço Nacional de Saúde e aumentar progressivamente, até à totalidade, o financiamento dos aparelhos auditivos às pessoas com baixos rendimentos. O texto assinala que o SNS não financia a totalidade das próteses auditivas e apenas disponibiliza implantes cocleares, e que há desafios no emprego e na educação. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Divulgar o número de pessoas com deficiência auditiva.",
+  "Promover campanhas de consciencialização sobre as deficiências auditivas.",
+  "Reforçar os rastreios auditivos infantis no SNS.",
+  "Aumentar progressivamente, até à totalidade, o financiamento de aparelhos auditivos a pessoas com baixos rendimentos."
+ ],
+ "plain_language": "Os aparelhos auditivos são caros e o SNS não paga todos. O CDS-PP pede ao Governo que passe a contar quantas pessoas têm deficiência auditiva, faça campanhas de sensibilização, reforce os testes auditivos às crianças e pague mais, até à totalidade, os aparelhos de quem tem menos rendimentos.",
+ "context": "O CDS-PP refere que as próteses auditivas têm custo elevado e não são totalmente comparticipadas, que dos implantes apenas os cocleares são disponibilizados pelo SNS, e que a manutenção e acessórios são onerosos. Cita a Associação OUVIR sobre o risco de pobreza e exclusão e invoca a inclusão no trabalho, na educação e na saúde.",
+ "analysis": "Pontos fortes: identifica um problema de acesso e propõe medidas graduais, com foco nos mais pobres. Fragilidades: o objetivo de financiar a totalidade dos aparelhos não tem prazo nem estimativa de custo, e o texto não define o critério de baixos rendimentos. Assenta em informação de uma associação e da legislação existente, sem dados de prevalência, e a inclusão no trabalho e na educação é referida sem medidas concretas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforçar rastreios e aumentar o financiamento dos aparelhos auditivos até à totalidade implicam maior despesa do SNS. O texto não quantifica o custo."
+ },
+ "affected": [
+  "pessoas com deficiência auditiva",
+  "crianças em rastreio auditivo",
+  "famílias de baixos rendimentos",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "deficiência auditiva",
+  "aparelhos auditivos",
+  "rastreio auditivo",
+  "SNS",
+  "inclusão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

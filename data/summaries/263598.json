@@ -1,0 +1,42 @@
+{
+ "short_title": "Suspender novas licenças de TVDE até à revisão da lei",
+ "summary": "O PCP propõe suspender a atribuição de licenças para início de atividade de TVDE (transporte individual de passageiros em veículos descaracterizados a partir de plataforma eletrónica) até à entrada em vigor da lei que altere a Lei n.º 45/2018. A lei entraria em vigor no dia imediato ao da publicação. A exposição de motivos defende que a revisão do regime deve eliminar a exploração dos motoristas, dar às autarquias competência para fixar contingentes, impedir o dumping das multinacionais e reduzir o número de carros em circulação, e pede também reforço da fiscalização.",
+ "key_points": [
+  "Suspende a atribuição de licenças para início de atividade de TVDE.",
+  "A suspensão dura até à entrada em vigor da lei que altere a Lei n.º 45/2018.",
+  "Entra em vigor no dia imediato ao da publicação.",
+  "Enuncia princípios para a revisão: direitos dos motoristas, competência municipal e fim do dumping."
+ ],
+ "plain_language": "O PCP quer parar a emissão de novas licenças de TVDE até o Parlamento rever a lei de 2018, para evitar que o setor se degrade ainda mais enquanto não há novas regras.",
+ "context": "O PCP afirma que o relatório de avaliação do regime exigido pela Lei n.º 45/2018 só foi apresentado em setembro de 2022 e que os governos anteriores não promoveram a revisão. Considera que a lei atual prejudica motoristas, táxis, autarquias e consumidores, favorece as multinacionais e aumentou a precariedade e o número de veículos em Lisboa, Porto e Algarve.",
+ "analysis": "A moratória trava o aumento da oferta e dá tempo à revisão da lei, respondendo a queixas de motoristas e municípios. Contudo, não tem prazo máximo, o que pode prolongar-se indefinidamente, e pode limitar a entrada de novos operadores e motoristas e a concorrência, sem avaliação dos efeitos nos preços e no emprego. O texto parte de uma análise valorativa do modelo TVDE, sem dados quantitativos sobre o número de licenças ou rendimentos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos. A suspensão de licenças poderia reduzir receitas associadas ao licenciamento, mas não há dados."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "candidatos a operadores de TVDE",
+  "plataformas eletrónicas",
+  "sector do táxi"
+ ],
+ "categories": [
+  "transportes",
+  "trabalho",
+  "consumidores"
+ ],
+ "tags": [
+  "TVDE",
+  "licenças",
+  "moratória",
+  "Lei 45/2018",
+  "plataformas digitais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

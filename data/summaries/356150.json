@@ -1,0 +1,40 @@
+{
+ "short_title": "Plano de emergência para a jurisdição administrativa e fiscal",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que apresente um plano de emergência para a reforma estrutural da jurisdição administrativa e fiscal, garantindo meios de funcionamento e decisões em prazo razoável. Concretiza em três pontos: apresentar, em 90 dias e em coordenação com o Conselho Superior dos Tribunais Administrativos e Fiscais, um plano de reforço de juízes nas várias instâncias, em especial no Tribunal Administrativo e Fiscal de Lisboa; concluir o diploma sobre a assessoria jurídica dos magistrados e reforçar os meios humanos; e garantir dotação compatível com as necessidades identificadas nos relatórios do CSTAF.",
+ "key_points": [
+  "Apresentar em 90 dias um plano de reforço de juízes, com prioridade aos tribunais com maior pendência, como o de Lisboa.",
+  "Concluir o diploma sobre a assessoria jurídica dos magistrados.",
+  "Reforçar os meios humanos afetos aos tribunais administrativos e fiscais.",
+  "Garantir dotação orçamental compatível com as necessidades identificadas pelo CSTAF."
+ ],
+ "plain_language": "Os tribunais que decidem litígios entre cidadãos e o Estado, incluindo impostos e imigração, estão sobrecarregados. O LIVRE pede ao Governo um plano de emergência com mais juízes, apoio técnico aos juízes e mais dinheiro para esses tribunais. É uma recomendação.",
+ "context": "O LIVRE cita o relatório de 2024 do Conselho Superior dos Tribunais Administrativos e Fiscais, segundo o qual os processos pendentes valiam cerca de 15.500 milhões de euros, e aponta a falta de juízes. Refere mais de 133 mil processos da AIMA pendentes em Lisboa e queixas do Conselho de falta de investimento crónico.",
+ "analysis": "A proposta é concreta no prazo de 90 dias e identifica prioridades, apoiada em dados do órgão de gestão da jurisdição. Fragilidades: não indica o número de juízes necessários nem o custo, e reforçar juízes exige tempo de recrutamento e formação; o texto não discute causas da litigância, como o atraso na AIMA, que alimenta os processos. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforçar juízes, assessoria e dotação orçamental dos tribunais administrativos e fiscais implica despesa pública adicional, não quantificada no texto."
+ },
+ "affected": [
+  "cidadãos e empresas com processos contra o Estado",
+  "juízes e funcionários dos tribunais administrativos e fiscais",
+  "AIMA e requerentes de autorização de residência"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "tribunais administrativos",
+  "jurisdição fiscal",
+  "juízes",
+  "pendências",
+  "AIMA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

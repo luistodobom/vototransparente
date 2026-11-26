@@ -1,0 +1,41 @@
+{
+ "short_title": "Valorização do património industrial do Vale do Ave",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo medidas para valorizar o património industrial do Vale do Ave. Propõe que a Direção-Geral do Património Cultural (DGPC) faça um levantamento dos imóveis industriais da região, tendo em vista uma eventual classificação; que seja criada uma linha de financiamento da Fundação para a Ciência e a Tecnologia para investigação científica sobre este património; e que o Turismo de Portugal e o Turismo do Porto e Norte de Portugal elaborem um novo Roteiro Histórico do Património Industrial do Vale do Ave. O texto inclui uma longa fundamentação sobre arqueologia industrial, museologia e a desindustrialização da região.",
+ "key_points": [
+  "Pedir à DGPC um levantamento dos imóveis industriais do Vale do Ave, com vista a eventual classificação.",
+  "Criar uma linha de financiamento da FCT para investigação sobre o património industrial.",
+  "Elaborar um novo Roteiro Histórico do Património Industrial do Vale do Ave.",
+  "Envolver Turismo de Portugal e Turismo do Porto e Norte nesse roteiro."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que identifique as antigas fábricas e outros edifícios industriais do Vale do Ave, apoie a investigação científica sobre esse passado industrial e crie um roteiro turístico e histórico. É uma recomendação sem força obrigatória.",
+ "context": "O texto argumenta que a salvaguarda do património industrial em Portugal tem sido esporádica e dependente da sociedade civil, e que o Vale do Ave sofreu desindustrialização: entre 2007 e 2011 perdeu 15% das empresas, 16,4% do pessoal ao serviço e 1,8% do VAB. Refere ainda a norma de turismo industrial de 2017 como instrumento útil.",
+ "analysis": "A iniciativa aborda uma lacuna reconhecida na proteção do património industrial e propõe passos concretos e de baixo custo, como o inventário. Contudo, a recomendação não define prazos, montantes do financiamento nem quem assegura a eventual conservação dos imóveis, que é muitas vezes o principal obstáculo. O roteiro turístico depende de articulação com autarquias e proprietários privados, não prevista em detalhe. Sendo não vinculativa, o resultado depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma linha de financiamento da FCT e a elaboração do levantamento e do roteiro implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Vale do Ave",
+  "investigadores",
+  "autarquias locais",
+  "proprietários de imóveis industriais"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "património industrial",
+  "vale do ave",
+  "dgpc",
+  "roteiro",
+  "arqueologia industrial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

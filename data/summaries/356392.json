@@ -1,0 +1,40 @@
+{
+ "short_title": "Proteger o crédito à habitação face à subida das taxas de juro",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que adote as diligências necessárias para aprovar duas isenções temporárias para o crédito à habitação. A primeira é uma isenção de imposto do selo em operações de renegociação de mútuos, como alteração ou prorrogação do prazo, novo contrato de refinanciamento, fixação temporária da prestação e capitalização de montantes diferidos. A segunda é uma isenção da comissão de reembolso antecipado prevista no Decreto-Lei n.º 74-A/2017 nos créditos à habitação com taxa variável. Invoca o risco de subida das taxas de juro decorrente do agravamento da situação no Médio Oriente.",
+ "key_points": [
+  "Isentar temporariamente de imposto do selo as operações de renegociação de crédito à habitação.",
+  "Abranger alteração ou prorrogação do prazo, refinanciamento, fixação temporária da prestação e capitalização de montantes diferidos.",
+  "Isentar temporariamente a comissão de reembolso antecipado nos créditos à habitação de taxa variável."
+ ],
+ "plain_language": "O PAN teme que os juros dos empréstimos da casa voltem a subir e pede ao Governo que, durante um período, quem tem crédito à habitação possa renegociá-lo sem pagar imposto do selo e amortizar antecipadamente sem pagar comissão ao banco, se tiver taxa variável. Isto daria às famílias mais margem para reduzir a dívida ou mudar as condições do empréstimo. É uma recomendação ao Governo.",
+ "context": "A proponente afirma que o conflito entre os EUA e Israel e o Irão causou uma nova crise energética e levou os mercados a antecipar uma possível subida das taxas pelo BCE, o que já se reflete nas Euribor, aumentando as prestações. Defende que as isenções protegem o rendimento das famílias, incentivam a redução da dívida e promovem a concorrência entre bancos.",
+ "analysis": "As medidas são direcionadas e de fácil compreensão, e atuam sobre custos de transação que dificultam a renegociação. Fragilidades: a isenção da comissão reduz receitas dos bancos, o que pode ser contestado ou compensado noutros custos, e beneficia sobretudo quem tem capacidade de amortizar. Não é indicada a duração, nem a perda de receita do imposto do selo. A subida de juros em que se baseia é uma expectativa, não um facto. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção do imposto do selo em renegociações reduz receita fiscal; o texto não quantifica a perda nem a duração."
+ },
+ "affected": [
+  "famílias com crédito à habitação de taxa variável",
+  "bancos e instituições de crédito",
+  "Estado (receita do imposto do selo)"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "crédito à habitação",
+  "taxas de juro",
+  "imposto do selo",
+  "amortização antecipada",
+  "euribor"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

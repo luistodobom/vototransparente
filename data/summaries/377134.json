@@ -1,0 +1,43 @@
+{
+ "short_title": "Autorização e supervisão de centros de arbitragem administrativa",
+ "summary": "Esta proposta de lei do Governo pede autorização legislativa para regular a autorização, supervisão e funcionamento da resolução institucionalizada de litígios emergentes de relações jurídicas administrativas, nomeadamente por centros de arbitragem. Prevê que estes centros dependam de autorização da Comissão de Supervisão da Arbitragem Administrativa (CSAA), homologada pelo membro do Governo da Justiça; cria a CSAA, com três membros e funcionamento junto do Ministério da Justiça; exige que os árbitros tenham pelo menos 10 anos de experiência em direito administrativo; proíbe sociedades de advogados de constituir centros; e regula alterações, revogação, suspensão cautelar e deveres de informação. O decreto-lei autorizado em anexo fixa, por exemplo, o prazo de 60 dias para decidir pedidos de autorização. O decreto-lei anexo vincula também a administração direta e indireta do Estado (exceto empresas públicas comerciais) a resolver litígios administrativos em centros de arbitragem, proíbe financiamento dos centros pelo Orçamento do Estado, regula o processo arbitral e a impugnação das decisões no Tribunal Central Administrativo e prevê arbitragem pré-contratual urgente.",
+ "key_points": [
+  "Exigir autorização da CSAA, homologada pelo ministro da Justiça, para centros de arbitragem em matéria administrativa.",
+  "Criar a CSAA, com três membros nomeados por resolução do Conselho de Ministros, a funcionar junto do Ministério da Justiça.",
+  "Exigir 10 anos de experiência em direito administrativo aos árbitros e impedir sociedades de advogados de constituir centros.",
+  "Regular alteração de listas e regulamentos (com deferimento tácito), revogação e suspensão cautelar da autorização.",
+  "Impor deveres de informação, incluindo relatório anual de atividade.",
+  "Vincula ministérios, institutos públicos e demais entidades da administração do Estado a resolver litígios administrativos em centros de arbitragem, com exceções em matérias de segurança e defesa."
+ ],
+ "plain_language": "O Governo quer incentivar que os conflitos com a Administração Pública sejam resolvidos por arbitragem, ou seja, por árbitros fora dos tribunais, para aliviar os tribunais administrativos. Para isso, os centros de arbitragem teriam de ser autorizados e fiscalizados por uma nova comissão ligada ao Ministério da Justiça, e os árbitros teriam de ter experiência de pelo menos 10 anos. O Parlamento teria de dar ao Governo autorização para criar estas regras.",
+ "context": "O Governo afirma que a morosidade dos litígios administrativos resulta da elevada pendência e das limitações de capacidade dos tribunais, e que a lei já admite arbitragem, mas falta regulamentar o regime de autorização de centros. Invoca a experiência positiva da arbitragem tributária como modelo de independência e supervisão pública.",
+ "analysis": "A proposta pode aliviar tribunais e dar um quadro claro à arbitragem. Mas é uma lei de autorização, em que o Parlamento fixa só o sentido geral. Pontos de atenção: a CSAA funciona junto do Ministério da Justiça e as decisões são homologadas pelo ministro, o que pode afetar a perceção de independência; o deferimento tácito de alterações e as exigências de experiência podem ser discutíveis; e a arbitragem pode ter custos para os cidadãos, tema que outros partidos apontam. A vinculação obrigatória do Estado à arbitragem é uma mudança de peso, dependente da qualidade e independência dos centros; os montantes das coimas aparecem ainda entre parênteses retos, sinal de versão provisória. O documento disponibiliza o articulado do decreto-lei anexo apenas até ao artigo 43.º, pelo que as disposições finais não foram analisadas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A CSAA teria autonomia administrativa e financeira, receitas próprias de taxas e coimas e membros pagos por senhas de presença; os centros não podem receber verbas do Orçamento do Estado. O texto não apresenta montantes globais e o efeito líquido sobre a despesa dos tribunais é incerto."
+ },
+ "affected": [
+  "cidadãos e empresas em litígio com a Administração",
+  "centros de arbitragem e árbitros",
+  "tribunais administrativos e fiscais",
+  "Ministério da Justiça"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "arbitragem administrativa",
+  "centros de arbitragem",
+  "csaa",
+  "autorização legislativa",
+  "litígios administrativos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

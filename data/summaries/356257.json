@@ -1,0 +1,45 @@
+{
+ "short_title": "Liberalização do regime dos TVDE",
+ "summary": "O Projeto de Lei da IL altera a Lei n.º 45/2018 sobre o transporte em veículos descaracterizados a partir de plataforma eletrónica (TVDE). Permite que empresas de táxi atuem como operadores de TVDE com veículos não licenciados como táxi, torna livre a formação de preços e permite tarifa dinâmica até 100% acima da média das 72 horas anteriores, com comunicação ao utilizador, e propõe preço fixo alternativo. Permite que o utilizador aceite esperas superiores aos limites legais, elimina a proibição de publicidade nos veículos e a avaliação recíproca proibida, revoga a contribuição de regulação e supervisão, proíbe o operador de ser proprietário ou financiador de veículos de TVDE e obriga à consulta anual de motoristas e operadores sobre a política de preços.",
+ "key_points": [
+  "Empresas de táxi podem ser operadores de TVDE com veículos não licenciados como táxi.",
+  "Preços livres, com tarifa dinâmica até 100% acima do valor médio das últimas 72 horas, comunicada previamente, e proposta de preço fixo.",
+  "O utilizador pode aceitar esperas superiores às previstas; em reserva prévia os limites de tempo não se aplicam.",
+  "Revoga a contribuição de regulação e supervisão do setor e a proibição de publicidade nos veículos, entre outras normas.",
+  "Operadores não podem ser proprietários nem financiar veículos de TVDE e devem partilhar dados em tempo real com o IMT.",
+  "Consulta anual obrigatória a motoristas e operadores sobre política de preços, com relatório sobre o seguimento."
+ ],
+ "plain_language": "A proposta torna mais flexíveis as regras da Uber, Bolt e semelhantes: os preços passam a ser mais livres, com tarifas dinâmicas limitadas a um teto, os carros podem ter publicidade e os táxis podem trabalhar também como TVDE. As plataformas não podem ser donas dos carros e têm de ouvir os motoristas sobre preços.",
+ "context": "A IL afirma que o regime de 2018 ficou mais restritivo do que a proposta inicial e que há tabelamento indireto de preços, limitação das tarifas dinâmicas, contribuições injustificadas e falta de diálogo com os motoristas. Refere o relatório do IMT de setembro de 2022 e novos mecanismos digitais de fiscalização, e defende um mercado aberto e menos barreiras.",
+ "analysis": "A proposta reduz barreiras e introduz medidas a favor dos motoristas (consulta, proibição de plataformas serem proprietárias de veículos, estimativa atualizada de preço). Riscos: tarifas dinâmicas até 100% acima da média podem encarecer a viagem em picos, a revogação da contribuição reduz receita do regulador, e o texto contém passagens de redação duplicada ou incompleta (por exemplo, no artigo 2.º e no n.º 5 do artigo 15.º), que exigem clarificação. A interação com a atividade do táxi e com a concorrência não é avaliada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Revoga a contribuição de regulação e supervisão do setor, o que reduz a receita da entidade reguladora. O texto não indica o valor."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "operadores e plataformas",
+  "empresas de táxi",
+  "passageiros",
+  "IMT"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "TVDE",
+  "Lei 45/2018",
+  "tarifa dinâmica",
+  "plataformas",
+  "táxis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

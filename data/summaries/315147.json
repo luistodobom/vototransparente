@@ -1,0 +1,44 @@
+{
+ "short_title": "Autonomia energética, micro-redes e vales solares",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo um conjunto de medidas para descentralizar o sistema elétrico, na sequência do apagão de 28 de abril. Propõe permitir que as unidades de produção para autoconsumo (UPAC) funcionem de forma isolada e segura durante falhas da rede, criar um modelo de baterias virtuais, simplificar e digitalizar o registo e a venda de excedentes, e lançar um programa nacional de apoio a micro-redes locais e comunidades de energia. Recomenda ainda reforçar a resiliência da rede (inversores grid forming, condensadores síncronos, sistemas de islanding, armazenamento, uma Autoridade Nacional de Segurança Energética, formação de técnicos) e criar «vales solares» para famílias sem capacidade de investir. Por ser uma resolução, não é vinculativa.",
+ "key_points": [
+  "Permitir o funcionamento isolado e seguro das UPAC durante falhas da rede, com certificação e isolamento adequados.",
+  "Desenvolver baterias virtuais, com uso do saldo em várias residências, partilha com familiares ou comunidade e uso solidário para famílias vulneráveis.",
+  "Criar uma plataforma pública que simplifique o registo e a venda de energia excedente a comercializadores.",
+  "Lançar um programa nacional de financiamento de micro-redes locais, sistemas de gestão e cooperativas energéticas.",
+  "Reforçar a resiliência da rede: inversores grid forming, condensadores síncronos, islanding em zonas críticas, armazenamento e uma Autoridade Nacional de Segurança Energética.",
+  "Criar «vales solares» e linhas de crédito para instalação de UPAC por famílias sem capacidade de investimento."
+ ],
+ "plain_language": "Depois do apagão de abril, o PAN pede ao Governo que torne a eletricidade menos dependente de grandes centrais e de uma única rede. Sugere que os painéis solares das casas possam continuar a funcionar durante um corte, que se possa guardar o excedente em «baterias virtuais», que haja apoio a pequenas redes locais e comunidades de energia, e que as famílias com menos meios recebam «vales» para instalar painéis. É apenas uma recomendação ao Governo.",
+ "context": "O proponente invoca o apagão que atingiu Portugal e Espanha como prova da fragilidade de um modelo centralizado. Refere que micro-redes, como a da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, se mantiveram operacionais, e que a maioria das instalações de autoconsumo deixa de produzir sem rede. Aponta também barreiras burocráticas ao registo e venda de excedentes.",
+ "analysis": "A iniciativa é abrangente e articula medidas de curto prazo (simplificação administrativa) com outras estruturais (rede, armazenamento, cibersegurança). Os pontos fortes são a ligação a um caso concreto e a atenção à equidade de acesso. As fragilidades: reúne muitas medidas heterogéneas sem custos, prazos ou financiamento; algumas, como a conversão de uma central a carvão para ciclo combinado com hidrogénio, são apenas para análise de viabilidade e podem colidir com objetivos climáticos. O funcionamento isolado das UPAC levanta questões de segurança que o texto remete para certificação. Sendo uma recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os programas de financiamento de micro-redes e os vales solares implicariam despesa pública, incluindo apoios do Fundo Ambiental. O texto não indica montantes."
+ },
+ "affected": [
+  "produtores para autoconsumo",
+  "famílias vulneráveis",
+  "comunidades de energia e cooperativas",
+  "operadores da rede elétrica"
+ ],
+ "categories": [
+  "energia",
+  "ambiente",
+  "ciencia"
+ ],
+ "tags": [
+  "autoconsumo",
+  "micro-redes",
+  "baterias virtuais",
+  "apagão",
+  "vales solares"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Regularização de cidadãos da Bielorrússia residentes em Portugal",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que disponibilize formas de regularização urgente dos cidadãos da Bielorrússia (Belarus) residentes em Portugal afetados por represálias do regime de Lukashenka; que garanta que os serviços competentes, nomeadamente a AIMA, tenham dados atuais sobre a situação no país e prestem informação adequada sobre o acesso ao sistema de asilo; e que considere a situação concreta da Bielorrússia para efeitos de concessão de passaportes portugueses para estrangeiros. O texto explica que decretos bielorrussos retiraram aos consulados a competência para emitir ou renovar passaportes, deixando muitos nacionais sem documentação válida para obter ou renovar autorização de residência. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Disponibilizar formas de regularização urgente dos bielorrussos residentes em Portugal.",
+  "Assegurar que a AIMA dispõe de dados atuais e informa adequadamente sobre o acesso ao asilo.",
+  "Considerar a situação da Bielorrússia na concessão de passaportes portugueses para estrangeiros."
+ ],
+ "plain_language": "Muitos bielorrussos em Portugal não conseguem renovar os documentos porque o seu país já não emite passaportes no estrangeiro e regressar pode ser perigoso. O LIVRE pede ao Governo que lhes dê uma forma rápida de ficarem em situação legal, que a AIMA os informe sobre o asilo e que Portugal lhes possa emitir passaporte para estrangeiros.",
+ "context": "O LIVRE explica que, desde 2023, a Bielorrússia pode revogar a cidadania de nacionais no estrangeiro e retirou aos consulados o poder de emitir passaportes, obrigando ao regresso. Cita relatos de bielorrussos impedidos de renovar a autorização de residência e o exemplo de outros países europeus que reconhecem passaportes expirados ou emitem passaportes para estrangeiros.",
+ "analysis": "A proposta responde a um impasse prático e humanitário e tem precedentes noutros Estados europeus. Fragilidades: não indica o instrumento jurídico concreto de regularização nem critérios de elegibilidade, o que deixa ao Governo a decisão; a regularização urgente por grupo nacional pode levantar questões de igualdade com outras nacionalidades em situação semelhante; e o texto assenta em relatos e relatórios de ONG, sem números sobre o total de pessoas afetadas. É não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica o número de pessoas afetadas nem os custos administrativos para a AIMA."
+ },
+ "affected": [
+  "cidadãos da Bielorrússia residentes em Portugal",
+  "AIMA",
+  "requerentes de asilo"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "internacional"
+ ],
+ "tags": [
+  "Bielorrússia",
+  "regularização",
+  "asilo",
+  "passaporte para estrangeiros",
+  "AIMA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

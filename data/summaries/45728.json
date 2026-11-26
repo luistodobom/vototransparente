@@ -1,0 +1,43 @@
+{
+ "short_title": "Condições para o ensino misto e não presencial",
+ "summary": "O Bloco de Esquerda recomenda ao Governo seis medidas para garantir condições ao ensino misto e não presencial, mobilizando recursos do Plano de Ação para a Transição Digital. Pede acompanhamento social e pedagógico presencial para alunos do 1.º ciclo, beneficiários da Ação Social Escolar, alunos com necessidades educativas especiais e jovens em risco; cobertura de rede de alta velocidade em todo o território; tráfego gratuito de Internet para alunos dos escalões A e B da Ação Social Escolar e outros identificados pelas escolas; computadores e Internet para alunos desses escalões no ensino profissional e artístico em instituições privadas e cooperativas financiadas com dinheiro público; um desconto temporário nas faturas de telecomunicações para agregados com estudantes até ao escalão 3 do abono de família; e um programa de reembolso das despesas dos docentes com material informático. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir acompanhamento presencial a alunos do 1.º ciclo, da Ação Social Escolar, com necessidades educativas especiais e em risco.",
+  "Assegurar cobertura de rede de alta velocidade em todo o território.",
+  "Dar tráfego gratuito de Internet aos alunos dos escalões A e B da Ação Social Escolar.",
+  "Distribuir computadores e Internet no ensino profissional e artístico privado e cooperativo financiado.",
+  "Criar um desconto temporário nas telecomunicações e um programa de reembolso aos docentes."
+ ],
+ "plain_language": "Com as aulas à distância, nem todas as famílias têm computadores ou Internet suficiente. O Bloco pede ao Governo que garanta equipamentos e dados gratuitos a quem tem menos rendimentos, apoio presencial a alunos mais vulneráveis, melhor rede em todo o país e que pague aos professores o material informático que compraram. É uma recomendação.",
+ "context": "O proponente afirma que o ensino não presencial de emergência agravou desigualdades e que os computadores prometidos para 2020/21 só chegaram no fim do primeiro período, enquanto a tarifa social de Internet ainda não está regulamentada. Refere o aumento do tráfego de dados (87% acima do período pré-pandemia, segundo a ANACOM) e a perda de rendimentos das famílias.",
+ "analysis": "A proposta é detalhada e dirigida a quem tem menos recursos, apoiando-se em medidas já previstas no Plano de Transição Digital. Fragilidades: não estima os custos, que seriam elevados (tráfego, equipamentos, descontos e reembolsos), nem indica fontes de financiamento; o desconto nas telecomunicações exigiria acordo com operadoras privadas; e a cobertura nacional de rede depende de investimento não quantificado. Sendo recomendação, o Governo não está obrigado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A distribuição de equipamentos, o tráfego gratuito, o desconto nas faturas e o reembolso aos docentes implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "alunos de famílias com menos rendimentos",
+  "docentes do ensino básico e secundário público",
+  "famílias com estudantes",
+  "escolas de ensino profissional e artístico"
+ ],
+ "categories": [
+  "educacao",
+  "comunicacao",
+  "familia"
+ ],
+ "tags": [
+  "ensino à distância",
+  "transição digital",
+  "acesso à Internet",
+  "computadores",
+  "Ação Social Escolar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

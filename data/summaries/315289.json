@@ -1,0 +1,42 @@
+{
+ "short_title": "Mitigação da crise vitivinícola",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo três medidas para o setor vitivinícola, em particular na Região Demarcada do Douro. Primeiro, criar um grupo de trabalho com os produtores, o Instituto da Vinha e do Vinho e outras partes interessadas para avaliar medidas de respeito e transparência na rotulagem e certificação. Segundo, financiar, em parceria com a Associação Nacional de Freguesias, a Associação Nacional de Municípios Portugueses e os produtores, um programa de aquisição e distribuição do excedente de uva em refeitórios públicos e outros locais, quando seja apropriada para consumo humano. Terceiro, promover um estudo e plano de ação de mitigação e adaptação do setor às alterações climáticas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Grupo de trabalho sobre rotulagem e certificação no setor vitivinícola.",
+  "Programa para adquirir e distribuir uva excedente em refeitórios públicos, em parceria com autarquias.",
+  "Estudo e plano de ação para adaptar o setor às alterações climáticas.",
+  "Medidas adicionais às já anunciadas pelo Governo."
+ ],
+ "plain_language": "O PAN pede ao Governo que ajude os produtores de vinho do Douro: garantir que os vinhos de outras origens não são confundidos com os locais, comprar uvas que sobram para uso em refeitórios e preparar o setor para as alterações climáticas. É apenas uma recomendação.",
+ "context": "O PAN descreve uma crise grave do setor, com perda de rendimentos, concorrência desleal de vinhos que confundem o consumidor quanto à origem, dificuldade de escoar a produção, uvas por apanhar e preços muito baixos. Refere que 97% das empresas do setor são micro ou pequenas e têm pouco apoio na capitalização e adaptação.",
+ "analysis": "As medidas são concretas e combinam transparência no mercado, escoamento do excedente e adaptação climática. Fragilidades: a distribuição de uvas em refeitórios responde a uma parte pequena do problema e o texto não quantifica o excedente nem o custo; a concorrência desleal é descrita com base em relatos de profissionais, sem dados. Não define financiamento, calendário ou entidade responsável pelo grupo de trabalho. Sendo uma resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O programa de aquisição do excedente de uva e o estudo implicariam despesa pública se adotados. O texto não indica montantes."
+ },
+ "affected": [
+  "produtores vitivinícolas do Douro",
+  "trabalhadores do setor",
+  "autarquias",
+  "consumidores de vinho"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "vitivinicultura",
+  "douro",
+  "rotulagem",
+  "excedente de uva",
+  "alterações climáticas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

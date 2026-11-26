@@ -1,0 +1,39 @@
+{
+ "short_title": "Proteger estudantes Erasmus em França",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que, com a Agência Nacional Erasmus+, levante o número de estudantes portugueses em França e apure quantos querem concluir a mobilidade ou regressar antecipadamente. Recomenda também que reconheça a exceção deste período, permitindo o regresso a Portugal sem custos adicionais nem devolução da bolsa, ao abrigo da norma de motivos de força maior, e que o Ministério da Ciência, Tecnologia e Ensino Superior diligencie um regime especial de avaliação para os alunos afetados pela greve prolongada, para que os finalistas concluam o grau sem período adicional. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Levantamento do número de estudantes Erasmus em França e de quantos querem regressar antecipadamente.",
+  "Reconhecer a exceção do período em França, permitindo o regresso sem custos adicionais nem devolução da bolsa, por motivos de força maior.",
+  "Regime especial de avaliação para os alunos afetados pelas greves, acautelando os finalistas."
+ ],
+ "plain_language": "Com greves e protestos em França a fechar universidades, o CHEGA pede ao Governo que ajude os estudantes portugueses em Erasmus: que possam voltar sem perder a bolsa e que tenham um regime especial para serem avaliados e não atrasarem o curso. É uma recomendação política.",
+ "context": "O proponente refere os protestos contra o aumento da idade da reforma em França, o encerramento ou bloqueio de universidades e a paralisação dos transportes. Indica que estudantes portugueses sem aulas durante um mês podem ter de devolver a bolsa se regressarem, e recorda a invocação da cláusula de força maior durante a pandemia.",
+ "analysis": "Responde a um problema concreto de estudantes e apoia-se num precedente da pandemia. Fragilidades: os relatos que a motivam são, segundo o texto, testemunhos conhecidos do partido, sem dados sistematizados, e o número de estudantes afetados é estimado. A aplicação da cláusula de força maior depende da Agência Nacional e das regras do programa europeu, e a avaliação especial depende das instituições de ensino, cuja autonomia o texto não discute. O texto mistura descrições dos protestos com a justificação, sem distinguir a situação real nas universidades onde os estudantes se encontram.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Dispensar a devolução de bolsas e suportar custos adicionais de regresso implica despesa da Agência Nacional ou do orçamento europeu e nacional. O texto não indica montantes globais."
+ },
+ "affected": [
+  "Estudantes portugueses em Erasmus+ em França",
+  "Universidades portuguesas",
+  "Agência Nacional Erasmus+"
+ ],
+ "categories": [
+  "educacao",
+  "internacional"
+ ],
+ "tags": [
+  "erasmus",
+  "estudantes",
+  "frança",
+  "bolsa",
+  "força maior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

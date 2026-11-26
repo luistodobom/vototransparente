@@ -1,0 +1,43 @@
+{
+ "short_title": "Base Patrimonial Única de dados de imóveis",
+ "summary": "Projeto de Lei do CHEGA que cria a Base Patrimonial Única, destinada a partilhar informação patrimonial entre as Conservatórias do Registo Predial, a Autoridade Tributária, as autarquias e o IMT. A base seria atualizada no momento da escritura ou sempre que mudem os dados do imóvel ou do proprietário, por qualquer das entidades. O membro do Governo responsável pela Administração Pública regulamenta o diploma em 90 dias, com vista à operacionalização a partir de 1 de janeiro de 2024. Entra em vigor no dia seguinte à publicação e produz efeitos com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Cria a Base Patrimonial Única de partilha de dados entre registo predial, Autoridade Tributária, autarquias e IMT.",
+  "Atualização no momento da escritura ou em qualquer alteração dos dados do imóvel ou do proprietário.",
+  "Regulamentação pelo Governo no prazo de 90 dias após a aprovação.",
+  "Operacionalização prevista a partir de 1 de janeiro de 2024.",
+  "Produz efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, quem compra casa tem de tratar de vários passos em serviços diferentes para atualizar o nome do proprietário e outros dados. O CHEGA propõe uma base de dados única, partilhada por esses serviços e pelas câmaras, para que a informação do imóvel e do dono fique atualizada automaticamente.",
+ "context": "O proponente invoca o Simplex e a transição digital da Administração Pública, e descreve os vários passos e prazos que o novo proprietário enfrenta (caderneta predial, finanças, morada fiscal, isenção de IMI). Defende que as autarquias podem atualizar áreas e tipologias de forma mais rápida do que a Autoridade Tributária.",
+ "analysis": "A ideia de interoperabilidade reduz burocracia e duplicação de dados. Fragilidades: o texto é muito genérico, não define a entidade responsável pela base, regras de proteção de dados pessoais, segurança ou responsabilidade pela correção da informação, nem os custos. Permitir que as autarquias alterem dados com efeito fiscal levanta questões de controlo e conflito de interesses. O prazo de operacionalização de 2024 parece curto para um sistema desta dimensão.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A criação e integração de sistemas implica despesa de investimento, e a eficiência pode gerar poupanças futuras. O texto não quantifica nenhum valor."
+ },
+ "affected": [
+  "Proprietários e compradores de imóveis",
+  "Autoridade Tributária",
+  "Conservatórias do Registo Predial",
+  "Autarquias"
+ ],
+ "categories": [
+  "administracao",
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "base patrimonial única",
+  "registo predial",
+  "simplex",
+  "autoridade tributária",
+  "imóveis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

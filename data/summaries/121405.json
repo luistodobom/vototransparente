@@ -1,0 +1,41 @@
+{
+ "short_title": "Recomendações para um modelo de desenvolvimento focado no crescimento",
+ "summary": "A Iniciativa Liberal apresenta um projeto de resolução que recomenda ao Governo cinco orientações para a política económica: um choque competitivo na política fiscal para repor o poder de compra e atrair investimento estrangeiro; gestão dos fundos europeus com máxima transparência e fiscalização pela Assembleia e pela sociedade civil; desburocratização da economia, incluindo a eliminação ou agilização de autorizações prévias ao investimento; mais eficiência nos serviços públicos e liberdade de escolha na saúde e na educação, independentemente do prestador; e uma transição energética assente na inovação e na parceria com quem arrisca. Por ser um projeto de resolução, é uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda um choque competitivo na política fiscal.",
+  "Propõe máxima transparência e fiscalização na gestão dos fundos europeus.",
+  "Pede um programa de desburocratização que agilize ou elimine autorizações prévias ao investimento.",
+  "Defende maior capacidade de escolha dos cidadãos na saúde e na educação, independentemente do prestador.",
+  "Recomenda uma transição energética baseada na inovação e em parcerias."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que mude a estratégia para a economia: menos impostos, menos burocracia, mais transparência no uso dos fundos europeus e mais liberdade de escolha em saúde e educação. É apenas uma recomendação política, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente critica o Programa de Estabilidade 2022-2026 do Governo, que considera otimista e pouco explicado, assente nos fundos europeus. Cita avaliações do Conselho de Finanças Públicas e da UTAO e alerta para o risco de Portugal ser ultrapassado em rendimento por outros países europeus, defendendo um modelo baseado na economia de mercado.",
+ "analysis": "A iniciativa fundamenta-se em dados do Programa de Estabilidade e em críticas de entidades como o Conselho de Finanças Públicas, o que dá substância ao diagnóstico. As recomendações, porém, são genéricas: não indicam medidas concretas, calendário nem custo, e não explicam como seria compensada a eventual perda de receita de um choque fiscal. Sendo uma resolução, não obriga o Governo. O texto assume premissas políticas, como a superioridade do mercado sobre a intervenção pública, que são matéria de debate.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "As recomendações, como o choque fiscal, não são quantificadas e dependem da forma como o Governo as aplicar."
+ },
+ "affected": [
+  "empresas e investidores",
+  "contribuintes",
+  "utentes da saúde e da educação",
+  "Governo"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "crescimento económico",
+  "desburocratização",
+  "fundos europeus",
+  "programa de estabilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

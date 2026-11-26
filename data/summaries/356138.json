@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa Alta Digna para internamentos sociais",
+ "summary": "O projeto de lei do PAN cria o Programa Alta Digna, para dar respostas sociais seguras a pessoas com alta clínica que permanecem em hospitais do SNS por falta de retaguarda social, incluindo recém-nascidos e crianças. Prevê várias modalidades: vagas contratualizadas em equipamentos sociais, acolhimento familiar, cuidados continuados domiciliários, apoio domiciliário ou centro de dia, uma bolsa de camas para altas sociais e uma nova resposta, a Residência de Transição, até 10 utentes e estadia até 2 anos. Cria ainda a Casa para um Começo Seguro, para crianças até aos 6 anos e respetivos cuidadores, com acolhimento até seis meses. O Estado assegura a diferença entre 1.800 euros mensais, atualizáveis, e a comparticipação familiar nas camas para altas sociais. Estabelece indicadores de desempenho, avaliação e relatórios anuais à Assembleia da República.",
+ "key_points": [
+  "Programa nacional para pessoas com alta clínica sem resposta habitacional ou familiar, aplicável ao SNS e ao setor social e solidário.",
+  "Nova resposta social Residência de Transição: até 10 utentes, acolhimento até 2 anos, funcionamento 24 horas.",
+  "Bolsa de camas para altas sociais, em que o Estado paga a diferença entre 1.800 euros mensais e a comparticipação do utente, repartida entre Saúde e Segurança Social.",
+  "Casa para um Começo Seguro para recém-nascidos e crianças até 6 anos, com acolhimento até seis meses, salvo decisão judicial.",
+  "Apoio financeiro à adaptação de espaços e monitorização de indicadores como o tempo entre alta clínica e alta social."
+ ],
+ "plain_language": "Muitas pessoas, sobretudo idosos e algumas crianças, ficam no hospital depois de estarem clinicamente bem porque não têm para onde ir. A proposta cria um programa para lhes arranjar uma vaga adequada, como lares, apoio em casa ou residências de transição, e para medir se funciona.",
+ "context": "O PAN afirma que os internamentos sociais aumentaram, ocupando mais de 10% dos internamentos no SNS segundo o Barómetro dos Internamentos Sociais, com custo anual de centenas de milhões de euros. Segundo o texto, isso congestiona urgências e leva ao adiamento de cirurgias. Defende que o hospital não deve substituir respostas sociais.",
+ "analysis": "A iniciativa ataca um problema reconhecido e articula Saúde, Segurança Social e setor social, com indicadores e relatórios. Fragilidades: depende da existência de vagas e de profissionais que o texto não garante, o financiamento é só em parte quantificado, e prevê uma figura nova (Residência de Transição) cuja capacidade de implementação é incerta. Há referências com redação inconsistente, como a designação Alta com Dignidade, e a flexibilização das normas das respostas sociais pode suscitar dúvidas de qualidade e fiscalização.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado passa a comparticipar camas para altas sociais (diferença face a 1.800 euros mensais) e a financiar Residências de Transição, Casas para um Começo Seguro e adaptação de espaços. O texto não estima o custo total."
+ },
+ "affected": [
+  "pessoas com alta clínica sem retaguarda social",
+  "idosos e dependentes",
+  "recém-nascidos e crianças",
+  "instituições do setor social e solidário",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "internamento social",
+  "alta clínica",
+  "residência de transição",
+  "SNS",
+  "setor social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

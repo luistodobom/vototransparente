@@ -1,0 +1,40 @@
+{
+ "short_title": "Garantir o direito da grávida a acompanhante no SNS",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que garanta efetivamente às grávidas o direito a acompanhante no Serviço Nacional de Saúde. O texto lembra que a lei reconhece à mulher grávida o direito ao acompanhamento por pessoa por si escolhida e afirma que, com a Covid-19, esse direito tem sido barrado em vários hospitais do SNS, assim como a separação mãe-bebé e o desaconselhamento da amamentação. Critica a orientação da DGS que remete o acompanhante para quando for possível e defende que a exceção não deve tornar-se regra. A parte dispositiva é uma única recomendação.",
+ "key_points": [
+  "Recomendar ao Governo que garanta efetivamente o direito a acompanhante das grávidas no SNS.",
+  "Fundamenta-se na Lei n.º 110/2019 e em orientações da OMS.",
+  "Critica a expressão quando possível na orientação da DGS.",
+  "Refere uma petição com mais de 6000 assinaturas."
+ ],
+ "plain_language": "O PAN pede ao Governo que assegure que as grávidas podem ter alguém ao seu lado nos hospitais públicos, como a lei prevê, apesar das restrições da Covid-19. Argumenta que, sem esse direito no público, só quem pode pagar o privado tem essa possibilidade. É uma recomendação sem efeito vinculativo.",
+ "context": "O PAN relata queixas de profissionais, associações e uma petição sobre impedimento de acompanhantes em hospitais do SNS durante a pandemia, contra a lei e as orientações da OMS. Considera que o argumento de não ser possível tem sido invocado demasiadas vezes e que o acompanhante é um fator de desigualdade entre público e privado.",
+ "analysis": "A proposta é clara e assenta em direito já consagrado. Contudo, a recomendação é genérica: não indica que medidas concretas ou prazos o Governo deve adotar, nem como compatibilizar o acompanhamento com os riscos de contágio. Os dados citados, como o aumento de partos no privado, são provenientes de notícias e não demonstram causalidade. Sendo não vinculativa, a eficácia depende do Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos ou receitas associados à recomendação."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "acompanhantes",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "acompanhante",
+  "grávidas",
+  "covid-19",
+  "snss",
+  "parto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

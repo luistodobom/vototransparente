@@ -1,0 +1,41 @@
+{
+ "short_title": "Baixa temporária do IVA dos combustíveis e do gás",
+ "summary": "O Bloco de Esquerda propõe reduzir temporariamente o IVA: a gasolina e o gasóleo passam da taxa normal (23%) para a intermédia (13%) e o gás propano, butano ou derivados, engarrafado ou canalizado, passa da taxa intermédia para a reduzida (6%). A medida vigora por um período renovável de três meses, com renovação por despacho do Governo, que pode antecipar a aplicação conforme a disponibilidade orçamental. A lei entra em vigor no dia seguinte à publicação e produz efeitos com o Orçamento do Estado subsequente. O proponente refere que Espanha reduziu o IVA dos combustíveis para 10% e que Portugal está no topo da pobreza energética.",
+ "key_points": [
+  "Gasolina e gasóleo com IVA de 13% em vez de 23%.",
+  "Gás propano, butano e derivados com IVA de 6% em vez de 13%.",
+  "Vigência de três meses, renovável por despacho do Governo.",
+  "O Governo pode antecipar a aplicação, conforme a disponibilidade orçamental.",
+  "Efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Durante alguns meses, a gasolina e o gasóleo pagariam menos IVA e as botijas e o gás canalizado pagariam a taxa mais baixa. A ideia é aliviar o peso da subida dos preços da energia nas famílias.",
+ "context": "O proponente invoca a subida do petróleo, do gasóleo e da gasolina após o conflito no Médio Oriente, que o direito europeu não impede a intervenção pública nos preços, que os impostos pesam cerca de 52% do preço da gasolina na UE e que a pobreza energética afeta uma em cada quatro pessoas.",
+ "analysis": "Atua rapidamente sobre o preço e tem precedente em Espanha. Fragilidades: reduções gerais de IVA beneficiam todos os consumidores, incluindo os de maiores rendimentos, e podem ser parcialmente absorvidas por margens; reduzem receita sem estimativa nem compensação; encorajam o consumo de combustíveis fósseis; e há inconsistência entre produzir efeitos só com o Orçamento do Estado subsequente e aplicar medidas de emergência. A renovação por despacho dá ampla margem ao Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Reduz a receita de IVA sobre combustíveis e gás. O texto não apresenta estimativa de custo nem fonte de compensação."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "famílias com gás",
+  "Estado (receita de IVA)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "iva",
+  "combustíveis",
+  "gás",
+  "pobreza energética"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

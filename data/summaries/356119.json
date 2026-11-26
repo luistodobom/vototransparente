@@ -1,0 +1,44 @@
+{
+ "short_title": "Regime excecional de reconstrução após a tempestade Kristin",
+ "summary": "A proposta de lei do Governo cria um regime excecional e temporário para acelerar a reconstrução e reabilitação de património e infraestruturas nos concelhos abrangidos pela declaração de calamidade (Resolução do Conselho de Ministros n.º 15-B/2026 e alargamentos). Prevê expropriações urgentíssimas para infraestruturas e equipamentos, regras simplificadas para obras em imóveis classificados ou em vias de classificação, comunicação prévia em vez de autorização para obras em leitos e margens de águas, dispensa de formalidades no abate de árvores e utilização temporária do domínio público sem título. Dispensa de fiscalização prévia do Tribunal de Contas os contratos celebrados ao abrigo do regime, mantendo a fiscalização sucessiva, agrava coimas e penas associadas, regula operações de gestão florestal do material lenhoso afetado, isenta de imposto do selo as operações de moratória de crédito e aplica o regime de férias judiciais aos prazos processuais.",
+ "key_points": [
+  "Expropriação urgentíssima com posse administrativa imediata, a desencadear no prazo de um mês após a entrada em vigor, mantendo-se a justa indemnização.",
+  "Obras em imóveis classificados com parecer vinculativo em 15 dias, e dispensa de parecer, com mera informação prévia, para imóveis em vias de classificação e zonas de proteção.",
+  "Dispensa de fiscalização prévia do Tribunal de Contas, sem prejuízo da fiscalização concomitante e sucessiva e das responsabilidades.",
+  "Coimas agravadas em 25% e penas de certos crimes agravadas em um terço (ou metade para dirigentes) quando ligadas à reconstrução.",
+  "Operações de gestão florestal do material lenhoso afetado, com início até 1 de junho de 2026, e isenção de imposto do selo em moratórias de crédito."
+ ],
+ "plain_language": "Depois da tempestade Kristin, o Governo quer que reconstruir seja mais rápido. Para isso, retira ou encurta várias autorizações e procedimentos, como expropriações, obras em imóveis protegidos e abate de árvores, nas zonas em calamidade, e agrava as penas para quem cometer irregularidades neste contexto.",
+ "context": "O Governo explica que a tempestade Kristin, em 28 de janeiro de 2026, e os episódios seguintes causaram danos graves, sobretudo na região centro. Considera que a aplicação dos regimes comuns, em expropriações, controlo urbanístico, património e fiscalização, atrasaria as intervenções urgentes, pelo que propõe um regime de simplificação, sem prejuízo dos direitos fundamentais e da legalidade financeira.",
+ "analysis": "O regime permite agilizar a resposta, com prazos curtos e comunicação prévia, e o texto preserva controlos posteriores e agrava sanções para prevenir abusos. Contudo, a dispensa de fiscalização prévia, a dispensa de pareceres sobre património e árvores protegidas e as expropriações com posse imediata reduzem salvaguardas e comportam riscos de erro ou de contratação menos escrutinada. O texto remete para um decreto-lei ainda sem número e a intervenção do ICNF em terrenos privados pode suscitar litígios sobre propriedade.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A isenção de imposto do selo nas moratórias reduz receita e as expropriações e operações florestais implicam despesa, enquanto as coimas revertem 60% para o Estado. O texto não indica montantes."
+ },
+ "affected": [
+  "residentes e proprietários nos concelhos em calamidade",
+  "proprietários florestais",
+  "autarquias",
+  "entidades públicas adjudicantes",
+  "mutuários com crédito em moratória"
+ ],
+ "categories": [
+  "territorio",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "tempestade Kristin",
+  "reconstrução",
+  "expropriações",
+  "calamidade",
+  "gestão florestal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

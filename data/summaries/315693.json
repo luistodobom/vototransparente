@@ -1,0 +1,41 @@
+{
+ "short_title": "Redução de horário para pais de filhos com deficiência ou doença crónica",
+ "summary": "O Projeto de Lei n.º 261/XVII/1.ª, do PAN, altera o artigo 54.º do Código do Trabalho para que os progenitores de menores com deficiência ou doença crónica tenham direito à redução de cinco horas do período normal de trabalho semanal, ou a outras condições de trabalho especiais, independentemente da idade do filho. Atualmente esse direito está limitado aos filhos até um ano de idade. A medida aplica-se igualmente aos trabalhadores abrangidos pela Lei Geral do Trabalho em Funções Públicas e entraria em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Remove o limite de um ano de idade para a redução de cinco horas semanais no artigo 54.º do Código do Trabalho.",
+  "O direito aplica-se a progenitores de menores com deficiência ou doença crónica, ou outras condições de trabalho especiais.",
+  "Aplica-se também aos trabalhadores em funções públicas.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje, os pais de crianças com deficiência ou doença crónica só têm direito a trabalhar menos cinco horas por semana até a criança fazer um ano. O PAN propõe que esse direito se mantenha enquanto o filho for menor, seja qual for a idade, tanto no privado como no Estado.",
+ "context": "O PAN diz que as necessidades de cuidado não acabam ao fim de um ano e que depois só se aplicam o trabalho a tempo parcial e o horário flexível, sujeitos a aceitação do empregador. Cita a FENPROF sobre professores a quem as escolas recusam reduzir horário, e invoca a Convenção sobre os Direitos das Pessoas com Deficiência da ONU.",
+ "analysis": "A medida é simples e responde a uma lacuna documentada, dando um direito e não uma faculdade dependente do empregador. As fragilidades são a ausência de estudo sobre o custo para empresas e serviços públicos, sobretudo escolas e serviços com falta de pessoal, e a ausência de limites ou de critérios para comprovar a necessidade. A redução sem perda de retribuição, se mantida, gera encargos. O texto indica o ano de 2025 e a legislatura XV no cabeçalho, uma inconsistência formal.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A redução de horário, se for sem perda de retribuição, implica custos de substituição para empregadores, incluindo o Estado. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pais e mães de filhos com deficiência ou doença crónica",
+  "docentes e outros trabalhadores em funções públicas",
+  "entidades empregadoras"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "redução de horário",
+  "deficiência",
+  "doença crónica",
+  "Código do Trabalho",
+  "parentalidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

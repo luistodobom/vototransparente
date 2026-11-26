@@ -1,0 +1,42 @@
+{
+ "short_title": "Celeridade no julgamento de ocupações ilegais de imóveis",
+ "summary": "O projeto de lei do Chega cria medidas contra a ocupação ilegal de imóveis. Define ocupação ilegal, retira ao ocupante a proteção das regras da posse, do domicílio e da proteção social que pressuponha a permanência no imóvel, e prevê que, com a queixa por usurpação de coisa imóvel acompanhada de pedido de desocupação, a autoridade judiciária notifique o denunciado para provar em 48 horas que tem título ou tolerância do proprietário. Em caso de flagrante delito, considerando como tal a ocupação iniciada nas 48 horas anteriores à queixa, emite mandado de desocupação imediata. Altera o artigo 215.º do Código Penal (prisão de 3 a 5 anos com violência ou ameaça; prisão até 3 anos ou multa até 360 dias sem violência; agravamento por vantagem patrimonial ou atuação em grupo) e o artigo 381.º do Código de Processo Penal, para julgamento em processo sumário. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Notificação do ocupante para provar em 48 horas que tem título ou tolerância do proprietário, após queixa com pedido de desocupação.",
+  "Mandado de desocupação imediata em caso de flagrante delito, definido como ocupação iniciada nas 48 horas anteriores à queixa.",
+  "A ocupação ilegal não confere proteção das regras da posse, do domicílio ou proteção social ligada à permanência no imóvel.",
+  "Nova redação do artigo 215.º do Código Penal, com crime sem violência (prisão até 3 anos ou multa) e agravamento por vantagem patrimonial ou duas ou mais pessoas.",
+  "Julgamento em processo sumário dos detidos em flagrante pelo crime de usurpação de coisa imóvel."
+ ],
+ "plain_language": "A proposta quer que quem ocupa uma casa que não é sua possa ser retirado depressa. Quando o proprietário apresenta queixa e pede a desocupação, o ocupante tem 48 horas para provar que tem direito a lá estar. Se a ocupação for recente, a casa pode ser desocupada logo. O crime passa a poder ser punido mesmo sem violência e é julgado em processo rápido.",
+ "context": "O Chega invoca o direito de propriedade (artigo 62.º da Constituição) e casos recentes de ocupações na Grande Lisboa, distinguindo situações de desespero de outras usadas como instrumento para extorquir proprietários. Considera que a celeridade é essencial para combater essas práticas.",
+ "analysis": "Dá resposta rápida a proprietários lesados e distingue ocupação por necessidade de ocupação instrumental. Riscos: retirar ao ocupante a proteção social e do domicílio, e executar desocupações com prazos de 48 horas e recurso com efeito meramente devolutivo, levanta questões de proporcionalidade e de pessoas vulneráveis, que o texto não resolve. O conceito alargado de flagrante delito e a remissão do n.º 4 do artigo 2.º para alíneas inexistentes são fragilidades técnicas. Não há avaliação da capacidade dos tribunais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Mais processos sumários e eventuais penas de prisão poderiam aumentar a carga sobre tribunais e prisões; o número de casos não é indicado."
+ },
+ "affected": [
+  "proprietários de imóveis",
+  "ocupantes sem título",
+  "Ministério Público e tribunais",
+  "famílias em situação de carência habitacional"
+ ],
+ "categories": [
+  "justica",
+  "habitacao"
+ ],
+ "tags": [
+  "ocupação ilegal",
+  "usurpação de coisa imóvel",
+  "processo sumário",
+  "propriedade privada",
+  "flagrante delito"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

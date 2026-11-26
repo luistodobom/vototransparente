@@ -1,0 +1,39 @@
+{
+ "short_title": "Locais de acolhimento para animais selvagens e de quinta",
+ "summary": "O projeto de resolução do BE recomenda ao Governo a criação de locais de acolhimento para animais selvagens e animais de quinta provenientes, nomeadamente, de circos, de operações de combate ao tráfico de animais e de investigações sobre maus tratos. Recomenda ainda a criação de um regime jurídico que permita e regule a criação desses locais por entidades públicas e entidades sem fins lucrativos. O texto reconhece a falta de locais de acolhimento, que leva a que animais apreendidos fiquem confiados aos suspeitos, e invoca a lei que termina o uso de animais selvagens em circos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a criação de locais de acolhimento (santuários) para animais selvagens e de quinta.",
+  "Abrange animais de circos, resgatados do tráfico animal ou de investigações sobre maus tratos.",
+  "Recomenda um regime jurídico que permita e regule estes locais, geridos por entidades públicas ou sem fins lucrativos."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que crie espaços para receber animais selvagens e de quinta que sejam retirados de circos, apreendidos ou abandonados, e que faça uma lei que permita a entidades públicas e associações sem fins lucrativos geri-los. É apenas uma recomendação.",
+ "context": "O proponente aponta que a lei que acaba com os animais selvagens em circos prevê um período transitório de seis anos e um programa de entrega voluntária, e que não existem locais de acolhimento para animais apreendidos, que ficam muitas vezes com os suspeitos, prejudicando a investigação e o bem-estar do animal.",
+ "analysis": "A necessidade invocada é concreta e a proposta de criar enquadramento jurídico é razoável, pois estes animais podem não caber nas figuras legais existentes. A recomendação é, porém, genérica: não define quem financia, quantos locais, onde, nem requisitos sanitários e de segurança, e não avalia os custos. Sendo uma resolução, a sua concretização depende inteiramente da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e o apoio a locais de acolhimento implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "animais selvagens e de quinta",
+  "circos",
+  "associações de proteção animal",
+  "autoridades de fiscalização"
+ ],
+ "categories": [
+  "animais",
+  "ambiente"
+ ],
+ "tags": [
+  "santuários",
+  "animais selvagens",
+  "circos",
+  "tráfico de animais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

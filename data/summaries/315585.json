@@ -1,0 +1,42 @@
+{
+ "short_title": "Carreira e remuneração dos bombeiros das associações humanitárias",
+ "summary": "Projeto de Lei do CHEGA que cria o regime laboral do pessoal dos corpos de bombeiros das associações humanitárias de bombeiros (AHB) no continente, em cumprimento do artigo 35.º da Lei n.º 32/2007. Define quadros de comando e ativo, com carreiras de oficial bombeiro e de bombeiro; limita o período normal de trabalho a oito horas por dia e quarenta por semana, com possibilidade de acordo até 50 horas semanais desde que a média mensal não exceda quarenta; prevê progressão automática de 5 em 5 anos na categoria de bombeiro e diuturnidades de 32,50 euros por cada cinco anos após 25 anos de serviço. A retribuição-base é fixada por diploma do Governo, o subsídio de refeição iguala o da função pública, e os bombeiros têm as mesmas regalias e suplementos. O Governo regulamenta em 60 dias e a lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Define quadro de comando e quadro ativo, com carreiras de oficial bombeiro e de bombeiro nas associações humanitárias.",
+  "Limita o horário a oito horas diárias e quarenta semanais, com acordo possível até 50 horas semanais em média mensal de quarenta.",
+  "Progressão automática de 5 em 5 anos para bombeiros e diuturnidades de 32,50 euros por cada cinco anos após 25 anos de serviço.",
+  "Retribuição-base fixada pelo Governo; subsídio de refeição, regalias e suplementos iguais aos da função pública.",
+  "Garante que da lei não resulta diminuição da retribuição regular e fixa em 60 dias a regulamentação."
+ ],
+ "plain_language": "O CHEGA propõe criar uma carreira e uma tabela de regras para os bombeiros que trabalham, com salário, nas associações humanitárias, que há mais de 17 anos aguardam essa regulamentação. Haveria horários máximos, promoções de cinco em cinco anos, diuturnidades e o mesmo subsídio de refeição e regalias dos funcionários públicos.",
+ "context": "O proponente refere que a Liga dos Bombeiros Portugueses aponta uma lacuna há mais de 17 anos: a carreira e o estatuto remuneratório dos bombeiros voluntários, previstos no artigo 35.º da Lei n.º 32/2007, nunca foram regulamentados, o que reduz a atratividade e pode comprometer missões como o transporte de doentes. Lembra o grupo de trabalho do Governo anterior, sem resultado útil.",
+ "analysis": "A proposta preenche uma lacuna legal reconhecida e dá certeza quanto a carreira e horários. Fragilidades: a retribuição-base fica por definir pelo Governo, pelo que o impacto real é incerto; as associações são entidades privadas e o texto não diz quem suporta os custos, que podem ser elevados; e a equiparação de regalias e suplementos aos da função pública cria encargos sem fonte de financiamento definida. Mistura ainda dois universos, o dos bombeiros remunerados e o dos voluntários.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria encargos com carreiras, diuturnidades, subsídio de refeição e suplementos, sem indicação de quem os financia nem de montantes."
+ },
+ "affected": [
+  "bombeiros remunerados das associações humanitárias",
+  "associações humanitárias de bombeiros",
+  "Estado e ANEPC"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "bombeiros voluntários",
+  "carreira",
+  "associações humanitárias",
+  "diuturnidades",
+  "subsídio de refeição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Medidas para pessoas com doença inflamatória do intestino (BE)",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo que: isente as pessoas com doença inflamatória do intestino (doença de Crohn e colite ulcerosa) de taxas moderadoras; comparticipe suplementos alimentares, fraldas e outros produtos prescritos por médico especialista; crie um Estatuto do Doente Crónico, com medidas de cuidados de saúde, apoio social e impacto laboral, flexíveis e adaptáveis às várias doenças crónicas incapacitantes; e crie, com associações de doentes e autoridades de saúde, mecanismos de acesso livre a instalações sanitárias em espaços públicos e privados abertos ao público. O texto assenta numa petição com mais de 10.000 assinaturas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a isenção de taxas moderadoras para pessoas com doença inflamatória do intestino.",
+  "Recomenda a comparticipação de suplementos alimentares, fraldas e outros produtos prescritos por especialista.",
+  "Recomenda a criação de um Estatuto do Doente Crónico.",
+  "Recomenda mecanismos de acesso livre a instalações sanitárias em espaços públicos e privados abertos ao público."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que as pessoas com Crohn ou colite ulcerosa deixem de pagar taxas moderadoras, tenham apoio para produtos como suplementos e fraldas, um estatuto para doentes crónicos e acesso livre às casas de banho em locais públicos. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente refere uma petição com mais de 10.000 assinaturas e um inquérito segundo o qual há doentes com encargos mensais superiores a 100 euros com cuidados de saúde, que muitos faltaram 6 ou mais vezes ao trabalho e que 56% não saem de casa em fase aguda. Defende o fim das taxas moderadoras para doentes crónicos.",
+ "analysis": "A proposta responde a necessidades descritas por doentes, com medidas concretas e apoio de uma petição. Fragilidades: o Estatuto do Doente Crónico é uma medida ampla, sem definição de âmbito, critérios ou custos, e a abrangência a outras doenças pode implicar encargos elevados. O texto fala em doenças infeciosas do intestino no corpo, o que parece um lapso para doenças inflamatórias. Os dados do inquérito provêm dos peticionários. Não quantifica o custo das isenções e comparticipações.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A isenção de taxas moderadoras reduziria receitas do SNS e a comparticipação de produtos aumentaria a despesa, sem montantes no texto."
+ },
+ "affected": [
+  "pessoas com doença de Crohn e colite ulcerosa",
+  "doentes crónicos",
+  "SNS",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "doença inflamatória do intestino",
+  "taxas moderadoras",
+  "estatuto do doente crónico",
+  "crohn"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

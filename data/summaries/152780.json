@@ -1,0 +1,41 @@
+{
+ "short_title": "Proximidade no acesso ao medicamento nas farmácias comunitárias",
+ "summary": "A Iniciativa Liberal recomenda ao Governo que implemente medidas promotoras da proximidade no acesso ao medicamento. Pede a ampliação e generalização da dispensa de medicamentos hospitalares nas farmácias comunitárias para certas doenças crónicas, em particular oncologia, VIH/SIDA, esclerose múltipla e artrite reumatoide, desde que os doentes tenham a situação clínica estabilizada e adiram à medicação e aos cuidados. Pede um levantamento, com as ordens profissionais, das doenças crónicas que podem ser acompanhadas nas farmácias, o acompanhamento de doentes nas farmácias em articulação com o médico, um sistema de informação que partilhe dados entre unidades de saúde e farmácias, e a renovação de prescrições pelas farmácias, mediante pré-autorização médica. É uma recomendação.",
+ "key_points": [
+  "Alargar a dispensa de medicamentos hospitalares em farmácias comunitárias (oncologia, VIH/SIDA, esclerose múltipla e artrite reumatoide).",
+  "Levantamento, com as ordens profissionais, das doenças crónicas acompanháveis nas farmácias.",
+  "Acompanhamento de doentes crónicos nas farmácias, em articulação com o médico assistente.",
+  "Sistema de informação para partilha de dados entre unidades de saúde e farmácias.",
+  "Renovação de prescrições pelas farmácias, com pré-autorização médica."
+ ],
+ "plain_language": "O texto pede ao Governo que permita que mais doentes crónicos levem para casa, a partir da farmácia do seu bairro, medicamentos que hoje só se dão no hospital. As farmácias também poderiam acompanhar alguns doentes e renovar receitas, com autorização do médico. O objetivo é evitar deslocações aos hospitais.",
+ "context": "A IL afirma que, na pandemia, a dispensa de proximidade permitiu poupanças de cerca de 262 euros por doente em deslocações e faltas ao trabalho, e que mais de 90% dos utentes queriam manter a medida. Defende não voltar atrás e generalizar o modelo.",
+ "analysis": "A proposta responde a benefícios relatados (poupança e satisfação) e inclui salvaguardas, como estabilidade clínica e partilha segura de dados. Fragilidades: os dados citados provêm de uma ordem profissional e não de avaliação independente; o texto não analisa riscos clínicos nem a remuneração das farmácias; a renovação de prescrições por farmácias levanta questões de competências profissionais. Não há estimativa do custo ou da poupança para o SNS.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto refere poupanças de 262 euros por doente em deslocações e faltas ao trabalho, mas não estima o efeito na despesa do SNS, incluindo a remuneração das farmácias."
+ },
+ "affected": [
+  "doentes crónicos",
+  "farmácias comunitárias",
+  "hospitais do SNS",
+  "médicos"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "dispensa de proximidade",
+  "farmácias comunitárias",
+  "medicamentos hospitalares",
+  "doentes crónicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

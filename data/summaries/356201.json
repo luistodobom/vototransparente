@@ -1,0 +1,43 @@
+{
+ "short_title": "Isenção de IMI em 2026 nos concelhos em calamidade",
+ "summary": "O projeto de lei do Chega cria um regime excecional e temporário de isenção total de Imposto Municipal sobre Imóveis (IMI) relativo a 2026 para todos os prédios rústicos e urbanos situados nos concelhos abrangidos pelas declarações de calamidade (Resoluções do Conselho de Ministros n.º 15-B/2026, 15-C/2026 e 24-A/2026). A isenção aplica-se independentemente da afetação ou natureza do prédio, mas não abrange as entidades referidas no n.º 2 do artigo 11.º do Código do IMI. É de aplicação automática, cabendo à Autoridade Tributária não liquidar o imposto. Os municípios continuam a receber a receita do IMI de 2026, calculada com as taxas do ano anterior, por transferência do Orçamento do Estado. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Isenção de IMI em 2026 para todos os prédios rústicos e urbanos nos concelhos em calamidade.",
+  "A isenção é automática e aplica-se independentemente da natureza ou afetação do prédio.",
+  "A Autoridade Tributária não liquida o imposto aos sujeitos passivos abrangidos.",
+  "Os municípios mantêm a receita, compensada por transferência do Orçamento do Estado.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Quem tem casas, terrenos ou outros prédios nos concelhos em calamidade não pagaria IMI em 2026, e não teria de pedir nada. As câmaras municipais não perderiam receita, porque o Estado compensaria.",
+ "context": "O Chega refere que as tempestades causaram inundações, derrocadas e danos em habitações, equipamentos e atividade económica, e que o Governo declarou situação de calamidade. Defende que as tempestades se têm intensificado e que a isenção ajuda as populações atingidas.",
+ "analysis": "A isenção automática é simples de aplicar e dispensa burocracia, o que é positivo. Contudo, é abrangente e não se limita a prédios danificados: beneficia igualmente proprietários cujos imóveis não sofreram danos, incluindo prédios não habitacionais, o que reduz a focagem do apoio. A compensação integral aos municípios implica um custo para o Orçamento do Estado que o texto não estima, e a entrada em vigor condicionada ao orçamento seguinte pode atrasar o efeito.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção elimina a receita de IMI de 2026 nos concelhos abrangidos, e o Orçamento do Estado compensa os municípios. O texto não quantifica o valor."
+ },
+ "affected": [
+  "proprietários de prédios nos concelhos em calamidade",
+  "municípios",
+  "Autoridade Tributária",
+  "Estado"
+ ],
+ "categories": [
+  "fiscalidade",
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "IMI",
+  "isenção fiscal",
+  "calamidade",
+  "municípios",
+  "tempestades"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

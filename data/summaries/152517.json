@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço do Conselho das Comunidades Portuguesas",
+ "summary": "Projeto de Lei do PCP que altera a Lei n.º 66-A/2007 sobre o Conselho das Comunidades Portuguesas. Alarga as competências do Conselho: propor medidas para as condições de vida e trabalho dos portugueses no estrangeiro e no regresso, promover o associativismo, exercer funções consultivas sobre diplomas relativos às comunidades, cooperar com serviços públicos (ensino da língua, segurança social, consulados), propor um debate anual na Assembleia da República e apreciar questões que o Governo lhe coloque. Altera regras de candidaturas e de convocação do Plenário, reforça as competências do Conselho Permanente (orçamento anual, estatuto do conselheiro), prevê a inclusão dos custos na dotação do Ministério dos Negócios Estrangeiros e cria serviços de apoio com funcionários públicos. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alargamento das competências consultivas e de proposta do Conselho das Comunidades Portuguesas.",
+  "Alterações às regras de listas de candidatura e à convocação do Plenário.",
+  "Conselho Permanente apresenta o orçamento anual e propõe o estatuto do conselheiro.",
+  "Custos de funcionamento e eleitorais incluídos na dotação do Ministério dos Negócios Estrangeiros.",
+  "Criação de serviços de apoio com funcionários públicos em comissão de serviço."
+ ],
+ "plain_language": "O projeto dá mais poder e meios ao órgão que aconselha o Governo sobre emigrantes: passa a ser ouvido sobre leis que lhes digam respeito, pode propor um debate anual no Parlamento e tem orçamento próprio e serviços de apoio pagos pelo Estado.",
+ "context": "O PCP afirma que o Estado se tem retraído junto das comunidades (encerramento de serviços consulares, menos funcionários, menos cursos de língua) e que os governos não valorizam o Conselho, que, por exemplo, não foi chamado a pronunciar-se sobre a redução da rede consular. Cita dados do Relatório sobre a Emigração.",
+ "analysis": "Ponto forte: dá voz formal às comunidades emigrantes em decisões que as afetam e dota o Conselho de meios. Fragilidades: aumenta a despesa pública sem estimar custos; a exposição de motivos contém juízos políticos amplos sobre a emigração que vão além do objeto do diploma; o caráter obrigatório mas não vinculativo da consulta pode ter pouco efeito prático; a delimitação entre competências do Conselho e do Governo merece clarificação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O projeto prevê que os custos de funcionamento e do processo eleitoral sejam cobertos pelo orçamento do Ministério dos Negócios Estrangeiros e a criação de serviços de apoio; o texto não indica montantes."
+ },
+ "affected": [
+  "portugueses residentes no estrangeiro",
+  "Conselho das Comunidades Portuguesas",
+  "Ministério dos Negócios Estrangeiros"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional",
+  "administracao"
+ ],
+ "tags": [
+  "comunidades portuguesas",
+  "emigração",
+  "conselho das comunidades",
+  "lei 66-A/2007"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

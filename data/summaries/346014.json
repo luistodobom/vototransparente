@@ -1,0 +1,40 @@
+{
+ "short_title": "Calendário para pagamento a 30 dias e conta-corrente com as empresas",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo duas medidas: apresentar um calendário detalhado para que o Estado pague as faturas a fornecedores no prazo médio de 30 dias, com metas intermédias e mecanismos de monitorização pública; e definir e tornar público um plano faseado para a implementação da conta-corrente das empresas com o Estado, identificando as entidades abrangidas em cada fase, as adaptações legais necessárias e os sistemas de interoperabilidade a desenvolver. Fundamenta-se em compromissos anunciados pelo Governo em 2024 e 2025. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apresentar calendário detalhado para pagamento do Estado a fornecedores no prazo médio de 30 dias.",
+  "Incluir metas intermédias e monitorização pública do cumprimento.",
+  "Definir e publicar plano faseado para a conta-corrente das empresas com o Estado.",
+  "Identificar as entidades abrangidas em cada fase, as alterações legais e os sistemas de interoperabilidade."
+ ],
+ "plain_language": "O Partido Socialista pede ao Governo que diga quando vai cumprir a promessa de pagar às empresas em 30 dias e quando vai criar a conta-corrente para compensar dívidas e créditos entre empresas e Estado. Sendo uma resolução, é uma recomendação.",
+ "context": "O proponente recorda que o Governo anunciou em 2024 um programa para o Estado pagar em 30 dias e uma conta-corrente, primeiro com a administração tributária e depois alargada à administração central. Afirma que a conta-corrente continua limitada à Autoridade Tributária e que o objetivo dos 30 dias, reconhecido como não cumprido pelo Ministro das Finanças, não tem calendário.",
+ "analysis": "Ponto forte: pede transparência e previsibilidade, com metas e monitorização, sem prescrever uma solução técnica rígida. Fragilidades: não fixa prazos nem metas concretas, limitando-se a pedir que o Governo os apresente; é uma recomendação sem consequências em caso de incumprimento; o texto tem um tom crítico de natureza política que não altera o conteúdo das medidas. O texto reconhece que as medidas são positivas em abstrato.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Pagar mais depressa aumenta a pressão de tesouraria do Estado, mas reduz custos para fornecedores; o texto não quantifica montantes."
+ },
+ "affected": [
+  "empresas fornecedoras do Estado",
+  "micro, pequenas e médias empresas",
+  "Administração Pública"
+ ],
+ "categories": [
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "pagamento atempado",
+  "conta-corrente",
+  "prazo de 30 dias",
+  "PME",
+  "administração pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Preservar habitats e espécies de flora endémica ameaçadas",
+ "summary": "Projeto de resolução de Os Verdes que recomenda ao Governo nove medidas para proteger habitats e plantas endémicas ameaçadas. Inclui intervenções de conservação com controlo de espécies exóticas invasoras, estudos com a academia sobre espécies raras, um programa nacional de monitorização de plantas vasculares em risco de extinção e planos de conservação, medidas agroambientais para a agricultura familiar e biológica, proteção do património genético, ações rápidas após incêndios, avaliação prévia do impacto de explorações geológicas e de grandes projetos, e reforço dos viveiros do ICNF. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Intervenções de conservação nos habitats, incluindo controlo de espécies exóticas invasoras.",
+  "Programa nacional de monitorização das plantas vasculares ameaçadas e planos de conservação.",
+  "Medidas agroambientais e apoios à agricultura familiar e biológica e à pastorícia extensiva.",
+  "Ações céleres em áreas ardidas contra espécies invasoras e repovoamento com espécies endémicas.",
+  "Avaliação prévia de impactos de explorações geológicas e levantamento de flora em grandes projetos.",
+  "Reforço dos viveiros do ICNF."
+ ],
+ "plain_language": "Os Verdes pedem ao Governo que faça mais para proteger as plantas raras e próprias de Portugal. Isso passa por combater plantas invasoras, estudar e acompanhar as espécies em risco, apoiar uma agricultura mais amiga do ambiente e ter mais cuidado com obras e minas. É uma recomendação sem força de lei.",
+ "context": "O proponente aponta ameaças à flora e aos habitats, como a expansão urbana e turística, monoculturas intensivas, incêndios, alterações climáticas e plantas invasoras (o Decreto-Lei n.º 92/2019 lista 197 espécies invasoras), e defende que a conservação da flora endémica seja prioridade do Governo.",
+ "analysis": "Reúne medidas abrangentes e de bom senso ecológico, ligando conservação, agricultura, ordenamento e prevenção de incêndios. Fragilidades: as medidas são genéricas, sem metas, prazos nem orçamento; várias dependem de coordenação entre ministérios e de capacidade técnica do ICNF; os apoios agroambientais e as avaliações adicionais implicam custos e podem pesar sobre promotores de projetos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A monitorização, os estudos, os apoios agroambientais e o reforço dos viveiros implicam despesa pública não quantificada no texto."
+ },
+ "affected": [
+  "ICNF",
+  "agricultores familiares e biológicos",
+  "promotores de projetos de grande escala",
+  "investigadores e universidades"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura"
+ ],
+ "tags": [
+  "flora endémica",
+  "espécies invasoras",
+  "biodiversidade",
+  "conservação da natureza",
+  "ICNF"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

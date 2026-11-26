@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço da proteção dos idosos vítimas de crimes",
+ "summary": "Projeto de Lei do CHEGA que altera o Código Civil e o Código Penal para reforçar a proteção dos idosos vítimas de crimes. No Código Civil, acrescenta ao artigo 2034.º como causas de indignidade sucessória a condenação por violência doméstica contra certas pessoas ou por exposição ou abandono contra o autor da sucessão, e a condenação por violação da obrigação de alimentos contra o autor da sucessão. No Código Penal, reformula o artigo 250.º (violação da obrigação de alimentos): multa até 240 dias ao fim de dois meses de incumprimento, prisão até 2 anos ou multa se reiterada, prisão até 3 anos ou multa até 360 dias quando põe em perigo necessidades fundamentais, e prisão até 5 anos ou multa até 600 dias a quem se coloca em impossibilidade de prestar alimentos.",
+ "key_points": [
+  "Acrescentar como causas de indignidade sucessória a condenação por violência doméstica, exposição ou abandono e violação da obrigação de alimentos.",
+  "Punir o incumprimento da obrigação de alimentos com multa até 240 dias após dois meses de atraso.",
+  "Agravar a pena para prisão até 2 anos ou multa se o incumprimento for reiterado.",
+  "Punir com prisão até 3 anos ou multa até 360 dias o incumprimento que ponha em perigo necessidades fundamentais.",
+  "Punir com prisão até 5 anos ou multa até 600 dias quem se coloca em impossibilidade de prestar alimentos."
+ ],
+ "plain_language": "O CHEGA propõe que quem maltrate, abandone ou deixe de sustentar um familiar idoso possa perder o direito de o herdar, e que o crime de não pagar alimentos tenha penas mais duras, sobretudo quando põe em risco as necessidades básicas do idoso ou quando a pessoa se coloca de propósito em situação de não pagar.",
+ "context": "O proponente aponta formas de maus-tratos a idosos, como medicação excessiva, desnutrição, falta de higiene, privação de autonomia financeira, abuso de cartões bancários e agressões físicas, em contexto familiar e institucional. Salienta que em cerca de metade dos casos em meio familiar não há queixa e que os autores são frequentemente os filhos, pelo que propõe sanções sucessórias e penais.",
+ "analysis": "A iniciativa responde a um problema reconhecido, com sanções penais graduadas e consequências sucessórias dissuasoras. Há riscos: a indignidade sucessória só opera após condenação e dependendo de ação judicial, e não resolve a subnotificação das queixas que o próprio texto identifica; o agravamento de penas pode ter efeito limitado sem meios de prevenção e apoio; e pune quem pode estar em dificuldades económicas, pelo que os critérios de condição de prestar alimentos são decisivos. O texto não apresenta dados de incidência.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita pública diretas; podem existir custos indiretos para o sistema judicial e prisional, não quantificados."
+ },
+ "affected": [
+  "pessoas idosas",
+  "filhos e familiares obrigados a alimentos",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "idosos",
+  "maus-tratos",
+  "indignidade sucessória",
+  "obrigação de alimentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

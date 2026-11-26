@@ -1,0 +1,39 @@
+{
+ "short_title": "Estudo sobre envelhecimento e violência contra idosos",
+ "summary": "Projeto de resolução do deputado único da Iniciativa Liberal que recomenda ao Governo a elaboração de um estudo sobre a população idosa e o envelhecimento, incluindo a quantificação da economia da terceira idade, alternativas de envelhecimento ativo, a necessidade e disponibilidade de estruturas de apoio, a eficácia esperada de políticas públicas e recursos necessários, o papel do voluntariado e da família, e os riscos de isolamento, abandono e violência. Recomenda ainda a atualização e efetiva implementação da Estratégia Nacional para o Envelhecimento Ativo e Saudável 2017-2025. A exposição de motivos propõe uma plataforma pública de informação estatística com recursos já existentes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Elaborar um estudo sobre a população idosa, o envelhecimento e a economia da terceira idade.",
+  "Incluir no estudo as estruturas de apoio, o papel do voluntariado e da família e os riscos de isolamento, abandono e violência.",
+  "Atualizar e implementar efetivamente a Estratégia Nacional para o Envelhecimento Ativo e Saudável 2017-2025."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que estude melhor a vida dos idosos em Portugal, incluindo a violência de que são vítimas, para que as políticas públicas se baseiem em dados. Pede também que se atualize e se aplique a estratégia nacional para o envelhecimento ativo. É uma recomendação sem força de lei.",
+ "context": "O proponente defende que as políticas contra a violência sobre idosos devem assentar em dados e evidências, que faltam, e refere o envelhecimento crescente da população e a fragilidade desta franja revelada pela pandemia.",
+ "analysis": "Propõe uma abordagem baseada em evidência e de custo contido, ao sugerir o uso de recursos já existentes. Fragilidades: um estudo não resolve por si os problemas imediatos dos idosos e o texto não define prazos, entidade responsável pela execução nem resultados esperados; a plataforma estatística é referida na exposição de motivos mas não aparece na parte recomendatória.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O estudo e a atualização da estratégia implicam algum custo, que o texto indica poder ser suportado com recursos já existentes, sem montantes."
+ },
+ "affected": [
+  "idosos",
+  "famílias de idosos",
+  "Ministério da Justiça",
+  "Instituto Nacional de Estatística"
+ ],
+ "categories": [
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "envelhecimento ativo",
+  "violência contra idosos",
+  "estudo",
+  "estratégia nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

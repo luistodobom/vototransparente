@@ -1,0 +1,40 @@
+{
+ "short_title": "Deduções fiscais nos transportes para residentes no interior",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo que estude e desenvolva medidas para que os custos de transporte, nomeadamente combustível, bilhetes de comboio e portagens, possam ser deduzidos à coleta pelos contribuintes residentes no interior do país. Inscreve-se em políticas de coesão social e territorial que contribuam para diminuir as desigualdades territoriais. O texto não fixa percentagens, limites nem a definição de interior. É uma recomendação não vinculativa, que pede um estudo e desenvolvimento de condições, e não uma alteração direta da lei fiscal.",
+ "key_points": [
+  "Estudar e desenvolver medidas de dedução à coleta dos custos de transporte.",
+  "Abrange combustível, bilhetes de comboio e portagens.",
+  "Destina-se a contribuintes residentes no interior do país."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que estude permitir que quem vive no interior possa descontar no IRS o que gasta em combustível, comboios e portagens. A ideia é compensar o facto de haver pouco transporte público nessas zonas. É uma recomendação, e o Governo apenas é chamado a estudar o assunto.",
+ "context": "O CDS-PP cita dados do Movimento Pelo Interior, segundo os quais entre 1960 e 2016 a população do litoral aumentou 52,08% e a do interior diminuiu 37,48%. Argumenta que mais de 85% das verbas do PART vão para as áreas metropolitanas de Lisboa e do Porto e que a escassez de transporte público obriga ao transporte individual.",
+ "analysis": "A proposta aborda uma desigualdade territorial real e usa a política fiscal como instrumento, num formato prudente, o de um estudo. Mas é vaga: não define o interior, os limites das deduções nem os custos elegíveis, e deduções de combustível e portagens vão contra o incentivo ao transporte público e à descarbonização. As deduções fiscais beneficiam sobretudo quem tem rendimentos suficientes para pagar IRS. Sendo resolução, não obriga o Governo, e não estima o custo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Se vierem a ser adotadas deduções à coleta, a receita de IRS diminuiria. O texto pede apenas um estudo e não apresenta valores."
+ },
+ "affected": [
+  "contribuintes residentes no interior",
+  "utilizadores de automóvel e de portagens",
+  "utilizadores de comboio no interior"
+ ],
+ "categories": [
+  "fiscalidade",
+  "territorio",
+  "transportes"
+ ],
+ "tags": [
+  "interior",
+  "deduções irs",
+  "transportes",
+  "portagens",
+  "coesão territorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

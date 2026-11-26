@@ -1,0 +1,40 @@
+{
+ "short_title": "Nova maternidade em Coimbra junto aos Covões",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo a construção de uma nova maternidade em Coimbra, dimensionada para absorver o número de partos das atuais maternidades Daniel de Matos e Bissaya Barreto e situada junto ao Hospital Geral dos Covões. Recomenda também uma intervenção urgente de modernização e beneficiação nas duas maternidades existentes, a contratação de médicos, enfermeiros, assistentes operacionais e outros profissionais em falta, e o envolvimento atempado de utentes, trabalhadores e respetivas organizações representativas em decisões de fundo sobre o modelo de funcionamento. O texto rejeita soluções de parceria público-privada e a localização da nova maternidade dentro do polo dos Hospitais da Universidade de Coimbra. Trata-se de uma recomendação, não vinculativa.",
+ "key_points": [
+  "Construir uma nova maternidade em Coimbra, junto ao Hospital Geral dos Covões, com capacidade para os partos das atuais maternidades.",
+  "Realizar obras urgentes de modernização e beneficiação nas maternidades Daniel de Matos e Bissaya Barreto.",
+  "Contratar os profissionais de saúde em falta em cada maternidade.",
+  "Garantir o envolvimento de utentes, trabalhadores e suas organizações nas decisões de fundo sobre o modelo de funcionamento."
+ ],
+ "plain_language": "O PCP pede ao Governo que construa em Coimbra uma maternidade nova, perto do Hospital dos Covões, para substituir as duas atuais. Enquanto não existir, pede obras urgentes nas maternidades de hoje e a contratação de mais médicos, enfermeiros e outros profissionais. Pede ainda que utentes e trabalhadores sejam ouvidos nas decisões. É apenas uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente denuncia a falta de meios materiais e humanos nas duas maternidades, a perda de valências e a degradação das instalações. Receia que a futura maternidade repita os problemas da fusão dos hospitais de Coimbra, que haja interesses privados envolvidos e que a localização no polo dos HUC agrave a sobrelotação.",
+ "analysis": "A proposta é concreta quanto à localização e combina uma solução de longo prazo com medidas imediatas, o que responde a problemas urgentes. Em contrapartida, não indica custos, calendário nem fontes de financiamento, e, sendo uma resolução, não obriga o Governo. A exclusão a priori de parcerias público-privadas e da localização nos HUC limita as opções, e o texto não fundamenta com dados a avaliação das alternativas, nem o número de partos a absorver. A crítica à fusão hospitalar é apresentada como argumento sem dados no documento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção de uma nova maternidade, as obras nas atuais e a contratação de profissionais implicariam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "utentes e grávidas da região de Coimbra",
+  "profissionais de saúde das maternidades",
+  "Centro Hospitalar e Universitário de Coimbra"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "maternidade",
+  "coimbra",
+  "covões",
+  "sns",
+  "hospitais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Alteração à Lei das Beatas (Lei n.º 88/2019)",
+ "summary": "O PAN propõe a segunda alteração à Lei n.º 88/2019, conhecida como Lei das Beatas. Altera os artigos 4.º, 12.º, 13.º e 15.º. Alarga a obrigação de dispor de cinzeiros e equipamentos adequados a todos os edifícios onde é proibido fumar (incluindo armazéns, entrepostos e escritórios) e impõe a limpeza dos resíduos numa zona de 5 metros em torno do espaço exterior de consumo. Cria um relatório anual da ASAE e das câmaras municipais, até 31 de março, com número de fiscalizações, processos, coimas e sancionados. Afeta 25% do produto das coimas ao Fundo Ambiental e 75% nos termos do regime das contraordenações económicas. Exige regulamento municipal comunicado à Direção-Geral das Autarquias Locais. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga a obrigação de cinzeiros e equipamentos a todos os edifícios onde é proibido fumar, incluindo armazéns e escritórios.",
+  "Impõe a limpeza dos resíduos num raio de 5 metros do espaço exterior de consumo.",
+  "Cria relatório anual da ASAE e dos municípios sobre fiscalização e coimas, até 31 de março.",
+  "Afeta 25% das coimas ao Fundo Ambiental e 75% nos termos do regime das contraordenações económicas.",
+  "Exige regulamento municipal, a divulgar pela Direção-Geral das Autarquias Locais."
+ ],
+ "plain_language": "A proposta reforça a lei que combate as beatas deixadas no chão. Mais locais passam a ter de ter cinzeiros, os estabelecimentos com esplanada têm de limpar a zona à volta, e as entidades que fiscalizam têm de publicar todos os anos os resultados. Uma parte das multas reverte para o Fundo Ambiental.",
+ "context": "O PAN diz que, três anos após a lei, os dados de fiscalização são fragmentários: a ASAE abriu 600 inquéritos, 162 concluídos, com 15 940 euros de coimas. Considera que a aplicação é difícil e pouco transparente e quer reforçá-la e dar-lhe mais efetividade.",
+ "analysis": "As medidas de transparência e de afetação de receitas podem melhorar o acompanhamento da lei. Fragilidades: o alargamento a escritórios e armazéns pode criar encargos para empresas sem se provar o seu efeito; a limpeza num raio de 5 metros levanta dúvidas de aplicação em espaços partilhados ou vias públicas; e o relatório anual exige meios das entidades fiscalizadoras. O texto não avalia custos de cumprimento nem de fiscalização.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Parte das coimas passa para o Fundo Ambiental (25%), alterando a afetação de receitas, e as entidades fiscalizadoras teriam novas obrigações de reporte; o texto não quantifica valores."
+ },
+ "affected": [
+  "estabelecimentos comerciais",
+  "empresas com edifícios sujeitos à proibição de fumar",
+  "ASAE e municípios",
+  "fumadores"
+ ],
+ "categories": [
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "lei das beatas",
+  "resíduos de tabaco",
+  "fiscalização",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Recomendações por uma inclusão efetiva nas escolas",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo um conjunto de medidas para a educação inclusiva: criar dois agrupamentos de referência no domínio da visão por distrito, com profissionais especializados em baixa visão; ponderar cursos sobre baixa visão e cegueira nos centros de formação; alargar a carga horária de Língua Gestual Portuguesa (LGP) na especialização em educação especial; assegurar a LGP como oferta complementar para alunos ouvintes do pré-escolar e 1.º ciclo das escolas de referência; disseminar a Cultura Surda; avaliar bolsas de intérpretes de LGP para pais surdos; regulamentar a profissão de intérprete; garantir aos 0-3 anos acesso às escolas de referência, seguro escolar e transporte gratuito; valorizar os profissionais; e clarificar horas mínimas de educação especial e critérios das medidas de suporte. Não é vinculativo.",
+ "key_points": [
+  "Criação de dois agrupamentos de referência na área da visão por distrito, com profissionais especializados.",
+  "Mais horas de Língua Gestual Portuguesa na formação especializada e LGP como oferta complementar nas escolas de referência.",
+  "Regulamentação da profissão de intérprete de língua gestual e avaliação de bolsas de intérpretes para pais surdos.",
+  "Acesso dos 0-3 anos às escolas de referência, com seguro escolar e transporte gratuito.",
+  "Valorização dos profissionais, definição de horas mínimas de educação especial e de critérios únicos para as medidas de suporte."
+ ],
+ "plain_language": "O PAN pede ao Governo que melhore a educação de crianças cegas, com baixa visão, surdas ou com outras necessidades, com mais especialistas, mais ensino de língua gestual, intérpretes e regras mais claras sobre o apoio que cada aluno recebe. É uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O PAN afirma que o regime da educação inclusiva, em vigor há sete anos letivos, não garante igualdade e inclusão efetiva. Refere falta de recursos humanos e de formação, desigualdades no acesso a apoios terapêuticos e financiamento insuficiente, citando a petição n.º 120/XVI/1.ª e dados da FENPROF (23% de turmas em incumprimento, 64% de escolas sem docentes suficientes).",
+ "analysis": "Reúne propostas concretas e específicas, ligadas a reivindicações de pais e profissionais. As fragilidades são a ausência de calendário, custos e fontes de financiamento, e o facto de várias alíneas serem formuladas como \"pondere\" ou \"avalie\", o que as torna pouco exigentes. Sendo uma resolução, depende da vontade do Governo. A criação de agrupamentos de referência e a valorização salarial implicariam despesa e recrutamento não quantificados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As recomendações implicam contratação de especialistas, formação, intérpretes, transporte e eventuais subsídios de função. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos cegos ou com baixa visão",
+  "alunos surdos",
+  "alunos com necessidades educativas específicas",
+  "docentes e técnicos de educação inclusiva",
+  "intérpretes de língua gestual"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "língua gestual portuguesa",
+  "baixa visão",
+  "escolas de referência",
+  "intérpretes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

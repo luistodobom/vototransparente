@@ -1,0 +1,39 @@
+{
+ "short_title": "Programa nacional para reduzir perdas de água",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que mobilize fundos do PRR e outros para criar uma linha de financiamento para intervenções nos sistemas de distribuição de água de todo o território nacional, com vista à redução das perdas de água. A exposição de motivos descreve a seca em Portugal continental, a redução prevista de disponibilidade hídrica, o peso da agricultura no consumo e perdas de cerca de 197 milhões de metros cúbicos na rede, e defende uma meta de 10% a 15% de perdas no ciclo urbano da água. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Linha de financiamento com fundos do PRR e outros para os sistemas de distribuição de água.",
+  "Âmbito nacional, para reduzir as perdas de água.",
+  "Apoio à reabilitação, cadastro e otimização da gestão dos serviços em baixa.",
+  "Meta apontada na exposição: perdas de 10% a 15% no ciclo urbano da água."
+ ],
+ "plain_language": "Muita água potável perde-se nas condutas antigas antes de chegar às casas. O Bloco de Esquerda pede ao Governo que use dinheiro do PRR e de outras fontes para ajudar a reparar as redes e reduzir esses desperdícios.",
+ "context": "O BE aponta a seca generalizada, a diminuição da precipitação e a previsão de menor disponibilidade de água, critica a expansão do regadio e as dessalinizadoras, e refere que o país não cumpre a Diretiva Quadro da Água. Considera a redução de perdas uma transformação estrutural inadiável.",
+ "analysis": "A redução de perdas é uma medida consensual de eficiência hídrica, e o financiamento do PRR é um ponto concreto. Em contrapartida, a exposição de motivos mistura a proposta com críticas ao regadio e às dessalinizadoras, que não fazem parte da recomendação. O texto não define o montante da linha, os critérios, nem o calendário, e a meta de perdas não consta da parte dispositiva.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma linha de financiamento com fundos do PRR e outros implica despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "entidades gestoras de sistemas de água",
+  "municípios",
+  "consumidores de água"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "perdas de água",
+  "seca",
+  "prr",
+  "abastecimento de água"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

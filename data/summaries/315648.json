@@ -1,0 +1,37 @@
+{
+ "short_title": "Suspender o prazo da comissão de inquérito ao INEM",
+ "summary": "Projeto de Resolução do Presidente da Assembleia da República que suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, IP, entre 1 e 12 de outubro de 2025, inclusive. A suspensão foi pedida pela própria comissão, ao abrigo do regime jurídico dos inquéritos parlamentares e do Regimento, tendo em conta o calendário de trabalhos parlamentares fixado pela Conferência de Líderes de 10 de setembro de 2025, por causa das eleições autárquicas.",
+ "key_points": [
+  "Suspende a contagem do prazo da comissão de inquérito ao INEM entre 1 e 12 de outubro de 2025.",
+  "A suspensão foi pedida pela comissão, ao abrigo do artigo 11.º da Lei n.º 5/93 e do Regimento.",
+  "O motivo é o calendário parlamentar condicionado pelas eleições autárquicas."
+ ],
+ "plain_language": "A comissão que investiga o INEM tem um prazo para trabalhar. Como o Parlamento reduziu a atividade por causa das eleições autárquicas, o prazo fica parado entre 1 e 12 de outubro de 2025, para a comissão não perder esses dias.",
+ "context": "A comissão solicitou a suspensão devido ao calendário de trabalhos deliberado na Conferência de Líderes de 10 de setembro de 2025, em virtude da realização das eleições autárquicas.",
+ "analysis": "Medida de natureza procedimental que preserva o tempo útil da comissão, sem alterar o seu objeto. Não há fragilidades relevantes no texto; apenas a consequência prática de prolongar a data final do inquérito pelo período suspenso. O texto não discute o mérito do inquérito.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Medida procedimental, sem despesa ou receita referida no texto."
+ },
+ "affected": [
+  "membros da comissão de inquérito",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "INEM",
+  "prazo",
+  "eleições autárquicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

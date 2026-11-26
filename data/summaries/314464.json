@@ -1,0 +1,43 @@
+{
+ "short_title": "Plano de desinstitucionalização das pessoas idosas",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo a criação de um Plano de Desinstitucionalização das Pessoas Idosas, para que possam permanecer em casa e na comunidade com autonomia. O plano deveria prever equipas locais que adaptem as habitações (isolamento térmico, acessibilidades), um reforço substancial do apoio domiciliário com a contratação de cerca de 30 mil trabalhadores e prestação pública direta pela Segurança Social, mais apoio aos cuidadores informais, projetos de co-housing e respostas comunitárias, e participação das pessoas idosas na gestão dos equipamentos. Sendo uma resolução, é uma recomendação ao Governo, sem efeito vinculativo.",
+ "key_points": [
+  "Equipas locais para adaptar as casas das pessoas idosas.",
+  "Reforço do apoio domiciliário, com alargamento de horários e de serviços e contratação de cerca de 30 mil trabalhadores, com prestação direta pela Segurança Social.",
+  "Mais apoio aos cuidadores informais: menos burocracia, fim da exclusão de pensionistas, contagem para a carreira contributiva e fim da condição de recursos.",
+  "Programa de co-housing e respostas comunitárias, nomeadamente nas aldeias.",
+  "Participação das pessoas idosas na gestão das respostas que lhes são dirigidas."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que o Governo crie um plano para que as pessoas idosas possam viver em casa o máximo de tempo possível, em vez de irem para lares. Isso passaria por adaptar as casas, ter mais apoio ao domicílio, apoiar melhor quem cuida de familiares e criar formas de habitação partilhada. É uma recomendação, não obriga o Governo.",
+ "context": "O proponente aponta o envelhecimento da população (23,4% com 65 ou mais anos nos Censos de 2021), a baixa taxa de cuidados formais (menos de 13% dos idosos), pensões baixas e a dependência de cuidadores informais, que asseguram 80% dos cuidados. Considera que o Estatuto do Cuidador Informal ficou limitado na prática.",
+ "analysis": "A proposta é concreta e coerente com a preferência por manter as pessoas em casa, e destaca a lacuna de apoio aos cuidadores informais. Em contrapartida, tem custos potencialmente elevados, sobretudo a contratação de cerca de 30 mil trabalhadores e a prestação pública direta, que o texto não quantifica nem calendariza. Não aborda como se articula com as IPSS e as redes existentes, nem como assegurar casos de dependência elevada em que a institucionalização continua necessária. Como resolução, não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê contratação de cerca de 30 mil trabalhadores, reforço do apoio domiciliário, obras nas casas e mais subsídios a cuidadores. O texto não indica custos totais."
+ },
+ "affected": [
+  "pessoas idosas",
+  "cuidadores informais",
+  "trabalhadores do apoio domiciliário",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "habitacao"
+ ],
+ "tags": [
+  "desinstitucionalização",
+  "apoio domiciliário",
+  "cuidador informal",
+  "co-housing",
+  "idosos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

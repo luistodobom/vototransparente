@@ -1,0 +1,43 @@
+{
+ "short_title": "Alteração ao Estatuto do SNS: gestão pública, carreiras e autonomia",
+ "summary": "Projeto de Lei do PCP que altera o Estatuto do Serviço Nacional de Saúde (Decreto-Lei n.º 52/2022) e o regime das unidades de saúde familiar (USF). Mantém as Administrações Regionais de Saúde, reforça a autonomia dos ACES e dos hospitais face aos ministérios das Finanças e da Saúde, faz transitar os hospitais para o Setor Público Administrativo, suspende a criação de novos centros de responsabilidade integrados e institui os Sistemas Locais de Saúde. Define o contrato de trabalho em funções públicas como regra, cria um regime opcional de dedicação exclusiva e incentivos à fixação em zonas carenciadas (incentivo de pelo menos 50% da remuneração base, apoio à deslocação e habitação, mais tempo de progressão na carreira). Prevê a escolha por concurso dos presidentes dos conselhos de administração dos hospitais e dos diretores executivos dos ACES e a eleição de outros cargos. O texto analisado está truncado.",
+ "key_points": [
+  "Manutenção das ARS, reforço da autonomia dos ACES e dos hospitais e fim do poder de bloqueio das Finanças em gestão corrente.",
+  "Hospitais passam para o Setor Público Administrativo; suspensão de novos CRI.",
+  "Contrato de trabalho em funções públicas como regra e regime opcional de dedicação exclusiva.",
+  "Incentivos de fixação em zonas carenciadas, incluindo pelo menos 50% da remuneração base, apoios à deslocação e habitação e bónus de progressão.",
+  "Direção de hospitais e ACES por concurso e eleição, com menor governamentalização."
+ ],
+ "plain_language": "O projeto muda a organização do SNS para reforçar a gestão pública, dar mais autonomia aos hospitais e centros de saúde, valorizar as carreiras e pagar mais a quem for trabalhar para zonas com falta de profissionais. Também limita o papel dos municípios e das empresas privadas no sistema.",
+ "context": "O PCP considera que o Estatuto do Governo restringe o alcance da Lei de Bases da Saúde de 2019, abre espaço a prestadores privados, mantém a desvalorização dos trabalhadores, transfere responsabilidades para os municípios e não reforça a autonomia das unidades. Propõe assim corrigir estes aspetos.",
+ "analysis": "Ponto forte: responde a problemas amplamente reconhecidos, como a autonomia de gestão, a fixação de profissionais e as carreiras. Fragilidades: o texto altera muitas dezenas de artigos, o que dificulta a avaliação do impacto organizativo; os incentivos, o regime de dedicação exclusiva e a mudança para contrato em funções públicas implicam custo elevado, não estimado; a restrição da participação privada e municipal pode reduzir capacidade de resposta; o texto analisado está truncado e apenas parte do articulado foi lida.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os incentivos à fixação (pelo menos 50% da remuneração base), a dedicação exclusiva opcional e a valorização das carreiras implicam mais despesa pública; o texto analisado não indica montantes."
+ },
+ "affected": [
+  "profissionais de saúde do SNS",
+  "utentes do SNS",
+  "hospitais e ACES",
+  "municípios"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "sns",
+  "estatuto do sns",
+  "carreiras",
+  "autonomia hospitalar",
+  "dedicação exclusiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

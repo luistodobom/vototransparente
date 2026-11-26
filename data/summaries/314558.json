@@ -1,0 +1,42 @@
+{
+ "short_title": "Alterações ao regime da mobilidade elétrica e alinhamento com o AFIR",
+ "summary": "O CHEGA propõe alterar o Decreto-Lei n.º 39/2010, que regula a mobilidade elétrica, para promover a concorrência, simplificar procedimentos e alinhar o regime com o regulamento europeu AFIR. Prevê a interoperabilidade e a padronização dos serviços de carregamento, a obrigação de os operadores prestarem informação clara sobre preços, localização e condições, e de reportarem dados ao regulador. Permite que os operadores de pontos de carregamento contratem diretamente energia a comercializadores ou agregadores à sua escolha. Prevê incentivos fiscais e apoios financeiros, a definir em regulamentação, para quem instale pontos de carregamento em regiões de baixa densidade ou no interior. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Declara o alinhamento do regime com o regulamento europeu AFIR e a interoperabilidade dos serviços de carregamento.",
+  "Obriga a informar de forma clara sobre preços, localização e condições de utilização dos pontos de carregamento.",
+  "Obriga a relatar periodicamente ao regulador dados de utilização e conformidade técnica.",
+  "Permite aos operadores de pontos de carregamento contratar diretamente energia a comercializadores ou agregadores.",
+  "Cria incentivos fiscais e apoios financeiros para pontos de carregamento em regiões de baixa densidade e no interior."
+ ],
+ "plain_language": "A proposta muda as regras da mobilidade elétrica para facilitar a entrada de mais operadores e tornar os carregamentos mais simples e transparentes, em linha com regras europeias. Os operadores poderiam comprar energia diretamente a quem escolherem e receberiam apoios para instalar carregadores no interior do país.",
+ "context": "O CHEGA considera que o regime de 2010 está desatualizado, centralizado na EGME e pouco propício ao investimento privado, e que Portugal está desalinhado do regulamento AFIR. Refere pareceres da Autoridade da Concorrência e da ERSE sobre concentração em zonas urbanas, falta de postos no interior e pouca transparência nos preços.",
+ "analysis": "A proposta aborda problemas reais descritos pelos reguladores, como a transparência de preços e a desigualdade territorial. Contudo, as alterações são formuladas em termos genéricos e deixam muito para regulamentação posterior, incluindo os incentivos, sem custos nem montantes. O texto refere-se a artigos de um Decreto-Lei n.º 139-A/90, o que parece ser um lapso face ao diploma que pretende alterar. Não altera a estrutura da EGME, apesar de a criticar na exposição de motivos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os incentivos fiscais e apoios financeiros previstos para regiões de baixa densidade reduzem receita ou aumentam despesa, sem montantes no texto."
+ },
+ "affected": [
+  "operadores de pontos de carregamento",
+  "utilizadores de veículos elétricos",
+  "comercializadores de eletricidade",
+  "regiões do interior"
+ ],
+ "categories": [
+  "transportes",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "mobilidade elétrica",
+  "AFIR",
+  "pontos de carregamento",
+  "concorrência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

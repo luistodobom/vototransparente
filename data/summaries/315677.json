@@ -1,0 +1,42 @@
+{
+ "short_title": "Revoga o regime fundacional e cria gestão democrática no ensino superior",
+ "summary": "Projeto de Lei do PCP que altera o Regime Jurídico das Instituições de Ensino Superior (Lei n.º 62/2007) para revogar o regime fundacional e estabelecer um modelo de gestão democrática nas instituições públicas. Propõe a passagem de um sistema binário (universitário e politécnico) para um sistema unitário com diferentes missões, a revogação das normas sobre os dois tipos de instituição, a eliminação das limitações à contratação de pessoal docente e não docente e a alteração dos órgãos de governo para reforçar a participação de docentes, investigadores, estudantes e funcionários. Prevê também a redução da presença de entidades externas nos órgãos executivos e altera as regras de eleição, suspensão e destituição do reitor ou presidente.",
+ "key_points": [
+  "Revogação do regime fundacional das instituições públicas de ensino superior.",
+  "Substituição do sistema binário por um sistema unitário, com subsistemas universitário e politécnico e missões diferenciadas.",
+  "Reforço da participação de docentes, investigadores, estudantes e funcionários nos órgãos de gestão.",
+  "Eliminação da imposição de entidades externas nos órgãos executivos de governo.",
+  "Alteração das regras de eleição, destituição e substituição do reitor ou presidente, com decisão da Assembleia da Instituição."
+ ],
+ "plain_language": "O PCP propõe mudar a lei que organiza as universidades e politécnicos públicos. Acaba o modelo das fundações, em que as instituições têm funcionamento mais próximo do privado, e dá mais poder de decisão a professores, investigadores, estudantes e funcionários na gestão. Também reduz o peso de pessoas de fora da instituição nos órgãos de direção.",
+ "context": "O proponente defende que as alterações ao RJIES trouxeram empresarialização, privatização e precarização, limitaram a autonomia e afastaram funcionários e estudantes da gestão, contrariando a Constituição. Critica também a Proposta de Lei n.º 30/XVII do Governo, por aprofundar o sistema binário e desvalorizar o ensino politécnico.",
+ "analysis": "A proposta procura reforçar a participação interna e a autonomia na contratação, o que pode responder a críticas sobre precariedade e défice de democracia interna. Fragilidades: a extinção do sistema binário e a revogação do regime fundacional são alterações profundas, sem estimativa dos impactos financeiros nem da transição das fundações existentes; menor presença externa pode reduzir a ligação à sociedade e a capacidade de captar financiamento; e o texto limita-se a tratar o financiamento, remetendo-o para uma futura lei. O projeto não se articula claramente com a proposta do Governo em discussão.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A eliminação de limites à contratação e a mudança de regime podem aumentar encargos para o Estado, mas não há estimativa."
+ },
+ "affected": [
+  "instituições públicas de ensino superior",
+  "docentes e investigadores",
+  "estudantes do ensino superior",
+  "pessoal não docente"
+ ],
+ "categories": [
+  "educacao",
+  "administracao"
+ ],
+ "tags": [
+  "RJIES",
+  "regime fundacional",
+  "ensino superior",
+  "gestão democrática",
+  "sistema binário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

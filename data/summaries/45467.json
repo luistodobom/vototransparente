@@ -1,0 +1,43 @@
+{
+ "short_title": "Apreciação parlamentar da subida da taxa de gestão de resíduos",
+ "summary": "O Bloco de Esquerda requer a apreciação parlamentar do Decreto-Lei n.º 92/2020, de 23 de outubro, que altera o regime geral de gestão de resíduos e aumenta a taxa de gestão de resíduos (TGR) de 11 para 22 euros por tonelada a partir de 1 de janeiro de 2021. O texto é uma exposição de motivos sem articulado. Defende uma moratória ao aumento durante a pandemia, reavaliada a cada seis meses, por causa dos riscos de contágio da recolha seletiva; que a subida não resulte em encargos injustos para os municípios e tarifas mais altas; um relatório anual com a atribuição desagregada das receitas da TGR por ações; e uma repartição em que os municípios recebam pelo menos 25% do produto da TGR, condicionado a investimento em recolha seletiva eficiente, como a porta-a-porta.",
+ "key_points": [
+  "Requer a apreciação parlamentar do Decreto-Lei n.º 92/2020, que duplica a TGR para 22 euros por tonelada.",
+  "Defende uma moratória ao aumento da TGR durante a pandemia, com reavaliação a cada seis meses.",
+  "Defende um relatório anual com a atribuição desagregada das receitas da TGR.",
+  "Defende que os municípios recebam pelo menos 25% do produto da TGR, condicionado a recolha seletiva eficiente.",
+  "Pede que a subida não gere encargos injustos para municípios e tarifas mais altas para os munícipes."
+ ],
+ "plain_language": "O Governo duplicou a taxa que se paga por cada tonelada de lixo que vai para aterro, para reduzir os aterros. O Bloco concorda com a subida, mas quer que seja adiada enquanto durar a pandemia, que se saiba onde é gasto o dinheiro e que as câmaras municipais recebam mais, desde que invistam em recolha seletiva.",
+ "context": "O proponente concorda que a TGR seja aumentada, por ter efeitos perversos quando baixa, citando que as importações de resíduos para aterro cresceram 1670% entre 2015 e 2019, mas considera que o Governo falhou nas políticas de recolha seletiva, tarifas e informação, e critica a privatização da EGF. Defende uma moratória por razões sanitárias e maior transparência.",
+ "analysis": "A iniciativa articula a concordância com o objetivo ambiental com críticas à execução, e propõe transparência e mais receitas para os municípios. Fragilidades: a moratória conflitua com o objetivo de desincentivar o aterro e o texto não estima o custo de adiar; a ligação entre a recolha seletiva e o risco de contágio é afirmada sem dados; e a percentagem de 25% para os municípios não é calculada nem comparada com os restantes destinatários. O texto não contém articulado, nem avalia o impacto nas tarifas. O decreto-lei não consta do documento.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A moratória adiaria receitas da TGR, enquanto a nova repartição transferiria mais receitas para os municípios; o texto não apresenta montantes."
+ },
+ "affected": [
+  "municípios",
+  "entidades gestoras de resíduos",
+  "munícipes",
+  "trabalhadores da recolha de resíduos"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "fiscalidade"
+ ],
+ "tags": [
+  "taxa de gestão de resíduos",
+  "aterros",
+  "recolha seletiva",
+  "municípios",
+  "apreciação parlamentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

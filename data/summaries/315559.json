@@ -1,0 +1,40 @@
+{
+ "short_title": "Redução do IRC para 15% e fim do 1.º escalão da Derrama Estadual",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o Código do IRC. Reduz de forma faseada a taxa base para 15%, com 18% nos períodos que se iniciem em 2026, 16% em 2027 e 15% a partir de 2028, e aplica a mesma taxa às entidades que não exerçam atividade comercial, industrial ou agrícola. Elimina o primeiro escalão da Derrama Estadual, de modo que as taxas adicionais passam a incidir sobre o lucro acima de 7,5 milhões de euros (5% até 35 milhões e 9% acima), com efeitos a partir de 2027. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Taxa base de IRC reduzida para 15%, em fases: 18% em 2026, 16% em 2027 e 15% a partir de 2028.",
+  "Mesma taxa de 15% para entidades que não exerçam, a título principal, atividade comercial, industrial ou agrícola.",
+  "Eliminação do primeiro escalão da Derrama Estadual, a partir de 2027.",
+  "Derrama Estadual passa a incidir apenas acima de 7,5 milhões de euros de lucro tributável (5% até 35 milhões e 9% acima).",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A Iniciativa Liberal propõe baixar gradualmente o imposto sobre os lucros das empresas (IRC) até 15% em 2028 e acabar com o escalão mais baixo da sobretaxa que incide sobre os lucros mais elevados (Derrama Estadual). Só as empresas com lucros acima de 7,5 milhões de euros passariam a pagar essa sobretaxa.",
+ "context": "O proponente defende que Portugal tem uma taxa máxima de IRC entre as mais altas da OCDE, o que dificulta atrair empresas de valor acrescentado, e que a Derrama Estadual penaliza o crescimento. Afirma que a redução até 15% era o objetivo inicial da coligação governamental e critica o abandono dessa ambição.",
+ "analysis": "A proposta é clara, com calendário definido, e responde ao argumento da competitividade fiscal e da simplificação. Fragilidades: não apresenta estimativa da perda de receita, nem compensação, nem evidência de que a redução se traduza em mais investimento ou salários; beneficia sobretudo empresas com lucros, incluindo as maiores, em detrimento de outros contribuintes. A tabela da Derrama no texto contém marcas de edição que dificultam ler os escalões, e o cenário de lucros em baixa não é discutido.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida da taxa de IRC e o fim do primeiro escalão da Derrama Estadual reduzem a receita fiscal. O texto não quantifica a perda."
+ },
+ "affected": [
+  "empresas e outras pessoas coletivas",
+  "grandes empresas sujeitas à Derrama Estadual",
+  "Estado, na receita do IRC"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IRC",
+  "Derrama Estadual",
+  "competitividade fiscal",
+  "impostos sobre empresas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

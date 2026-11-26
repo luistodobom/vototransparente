@@ -1,0 +1,42 @@
+{
+ "short_title": "Simplex Municipal: portal único de contratação pública",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo que tome as diligências necessárias para criar uma plataforma transversal, designada Simplex Municipal, que funcione como portal único para todos os processos de contratação pública a nível autárquico. A plataforma deveria unificar os sistemas de gestão de contratação, projeto, licenciamento e fiscalização de obras, centralizando a documentação e a tramitação, de modo que os pareceres de outras entidades (por exemplo APA, ICNF ou Tribunal de Contas) sejam dados no mesmo processo, sem abrir processos subsequentes. Deveria integrar-se com sistemas nacionais, como o Portal Base. O objetivo declarado é reduzir a burocracia, aumentar a transparência e acelerar o despacho dos processos.",
+ "key_points": [
+  "Criar uma plataforma única, o Simplex Municipal, para os processos de contratação pública autárquica.",
+  "Unificar contratação, projeto, licenciamento e fiscalização de obras num só sistema.",
+  "Permitir que pareceres de várias entidades sejam emitidos no mesmo processo, com histórico acessível.",
+  "Integrar a plataforma com sistemas nacionais, como o Portal Base."
+ ],
+ "plain_language": "O Chega pede ao Governo que crie um único portal online para todos os processos de obras e compras das câmaras municipais, em vez de ser preciso abrir vários processos em plataformas diferentes. Todas as entidades que têm de dar parecer fariam isso no mesmo sítio. Assim, defende o partido, os processos seriam mais rápidos e transparentes. É uma recomendação ao Governo, não obrigatória.",
+ "context": "O proponente aponta a complexidade administrativa e a demora na contratação pública, com obras urgentes que podem demorar muito tempo, e a existência de cerca de 380 administrações públicas com plataformas próprias. Argumenta que a simplificação reduz oportunidades de corrupção, atrai investimento e reforça a descentralização, e refere que quase metade das denúncias de corrupção são de autarquias.",
+ "analysis": "A ideia de um balcão único tem potencial para reduzir duplicações e reforçar a transparência, mas a proposta é pouco concreta: não define quem desenvolve e gere a plataforma, o prazo, o custo, nem como se articula com o Portal Base e com sistemas já existentes. Integrar plataformas de várias entidades, com regras e competências distintas, é tecnicamente complexo. A ligação entre simplificação e menos corrupção é afirmada sem evidência. Sendo projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Desenvolver e manter uma plataforma nacional teria custos, que o texto não quantifica, mas o proponente espera poupanças e menor tempo de processos; o saldo não é indicado."
+ },
+ "affected": [
+  "autarquias",
+  "empresas fornecedoras e construtoras",
+  "serviços da administração central que emitem pareceres",
+  "cidadãos requerentes de licenças"
+ ],
+ "categories": [
+  "administracao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "simplex",
+  "contratação pública",
+  "autarquias",
+  "licenciamento",
+  "plataforma digital"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

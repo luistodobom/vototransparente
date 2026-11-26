@@ -1,0 +1,39 @@
+{
+ "short_title": "Redução gradual das taxas gerais de IRC",
+ "summary": "Proposta de Lei do Governo que altera o artigo 87.º do Código do IRC para reduzir a taxa geral de IRC. A taxa geral desce para 19 % nos períodos de tributação que se iniciem em 2026, 18 % em 2027 e 17 % a partir de 1 de janeiro de 2028. Para pequenas e médias empresas e empresas de pequena-média capitalização (Small Mid Cap), a taxa aplicável aos primeiros 50 000 euros de matéria coletável é de 15 % a partir de 2026, aplicando-se a taxa geral ao excedente. A taxa de 17 % aplica-se também ao rendimento de entidades que não exerçam a título principal atividades comerciais, industriais ou agrícolas.",
+ "key_points": [
+  "Reduzir a taxa geral de IRC para 19 % em 2026, 18 % em 2027 e 17 % a partir de 2028.",
+  "Aplicar a taxa de 15 % aos primeiros 50 000 euros de matéria coletável de PME e Small Mid Cap, a partir de 2026.",
+  "Manter a taxa geral sobre o excedente e fixar 17 % para entidades sem atividade principal comercial, industrial ou agrícola."
+ ],
+ "plain_language": "O Governo propõe baixar gradualmente o imposto que as empresas pagam sobre os lucros, de forma que a taxa normal chegue a 17 % em 2028. As pequenas e médias empresas pagariam 15 % sobre os primeiros 50 000 euros de lucro tributável. O Governo diz que isto estimula o investimento, o emprego e os salários.",
+ "context": "O Governo enquadra a medida no Programa do XXV Governo Constitucional, de redução gradual e sustentável da carga fiscal. Defende que a descida do IRC favorece o investimento, a eficiência e a inovação, permite às empresas crescer, criar emprego e pagar melhores salários, e argumenta que estudos económicos mostram que impostos mais altos sobre as empresas penalizam os salários, sobretudo de jovens, trabalhadores menos qualificados e mulheres.",
+ "analysis": "A medida é clara e gradual, e a taxa reduzida para PME dirige-se a empresas de menor dimensão. Os benefícios invocados (investimento, emprego, salários) são afirmados com base em estudos genéricos, sem estimativa do efeito em Portugal. O texto não apresenta a perda de receita esperada nem medidas de compensação, e a descida beneficia mais empresas com lucros elevados, enquanto o efeito sobre salários depende de decisões empresariais. Há também a questão da sustentabilidade orçamental a longo prazo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução das taxas de IRC diminui a receita fiscal do Estado; o texto não apresenta estimativa do montante."
+ },
+ "affected": [
+  "empresas sujeitas a IRC",
+  "PME e Small Mid Cap",
+  "trabalhadores e investidores",
+  "Estado"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IRC",
+  "taxa de imposto",
+  "PME",
+  "competitividade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Fundo de Garantia Automóvel e atropelamento de animais",
+ "summary": "O PAN propõe que o Fundo de Garantia Automóvel garanta a reparação de danos corporais e materiais decorrentes de acidentes causados por animais ou de atropelamento de animais, quando o animal seja selvagem, sem detentor identificável ou o detentor não tenha seguro. Altera os artigos 47.º, 48.º, 49.º, 52.º e 55.º do Decreto-Lei n.º 291/2007 (seguro obrigatório automóvel) e o artigo 12.º da Lei n.º 24/2007 (direitos dos utentes de autoestradas). O Fundo cobriria também danos de acidentes por atravessamento de animais em autoestradas quando a concessionária não prove o cumprimento das obrigações de segurança, e reembolsaria despesas de auxílio aos animais. As concessionárias ficam obrigadas a indemnizar e reembolsar despesas mesmo se desconhecerem as circunstâncias da presença do animal. Regulamentação em 90 dias.",
+ "key_points": [
+  "O Fundo de Garantia Automóvel cobre danos de acidentes causados por animais selvagens ou sem detentor identificável ou sem seguro.",
+  "Cobre danos de atravessamento de animais em autoestradas quando a concessionária não prove cumprimento das obrigações de segurança.",
+  "Reembolso de despesas de auxílio aos animais vítimas de acidente rodoviário, quando não haja seguro ou haja responsabilidade da concessionária.",
+  "As concessionárias indemnizam o utente mesmo sem conhecer as circunstâncias da presença do animal.",
+  "Regulamentação em 90 dias, com entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Se um condutor tiver um acidente por causa de um animal na estrada, por exemplo um javali, e ninguém for responsável nem houver seguro, o Fundo de Garantia Automóvel pagaria os danos. Nas autoestradas, a concessionária teria de indemnizar se não provar que cumpriu as regras de segurança. As despesas de socorro aos animais feridos também seriam reembolsadas.",
+ "context": "O PAN refere dados do Relatório Anual de Segurança Interna e uma subida dos acidentes por animais nas estradas: 5304 acidentes entre 2019 e maio de 2021, muitos com animais domésticos (3474) e selvagens (1830). Defende que os condutores não devem suportar sozinhos os danos de acidentes com animais e que as concessionárias devem ser responsabilizadas.",
+ "analysis": "A medida protege condutores e dá resposta a um vazio na cobertura de danos. Fragilidades: o texto contém muitas reticências, o que dificulta avaliar o alcance exato; alargar o fundo a danos de animais selvagens pode aumentar o custo suportado pelo sistema segurador, sem estudo atuarial; e a inversão do ónus da prova às concessionárias pode ser contestada. O reembolso de despesas com animais alarga o âmbito do fundo para além dos danos automóveis.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Fundo de Garantia Automóvel passaria a suportar novos tipos de danos e de despesas; o texto não quantifica o custo nem o seu financiamento."
+ },
+ "affected": [
+  "condutores",
+  "concessionárias de autoestradas",
+  "seguradoras e Fundo de Garantia Automóvel",
+  "animais vítimas de acidentes"
+ ],
+ "categories": [
+  "animais",
+  "consumidores",
+  "transportes"
+ ],
+ "tags": [
+  "fundo de garantia automóvel",
+  "atropelamento de animais",
+  "autoestradas",
+  "seguro automóvel"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

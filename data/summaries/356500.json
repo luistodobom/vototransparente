@@ -1,0 +1,39 @@
+{
+ "short_title": "Preservação do acervo do SAPO Blogs",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo que mandate o Arquivo.pt para assegurar o arquivamento e a manutenção do acervo do SAPO Blogs antes da sua eliminação definitiva, prevista para 30 de novembro de 2026. Recomenda ainda que garanta ao Arquivo.pt os meios para arquivar a totalidade desse acervo, que promova o diálogo entre entidades públicas e sociedade civil para salvaguardar a blogosfera portuguesa, e que envie à Assembleia da República, até ao final do ano, um relatório das diligências realizadas. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Mandatar o Arquivo.pt para preservar o acervo do SAPO Blogs antes da eliminação definitiva.",
+  "Garantir ao Arquivo.pt meios para arquivar a totalidade do acervo.",
+  "Promover o diálogo entre entidades públicas e sociedade civil para salvaguardar a blogosfera portuguesa.",
+  "Enviar à Assembleia da República, até ao final do ano, relatório das diligências."
+ ],
+ "plain_language": "O SAPO vai deixar de permitir publicar em blogues a 30 de junho de 2026 e vai apagar todos os conteúdos a 30 de novembro de 2026. O BE pede ao Governo que o Arquivo.pt guarde esse material, com os meios necessários, e que informe o Parlamento do que foi feito. É uma recomendação.",
+ "context": "O BE sublinha a importância do SAPO Blogs, criado em 2003, para a blogosfera portuguesa e refere mais de 600 mil blogues criados em 23 anos. Considera que a perda do acervo seria uma perda cultural e de memória democrática e invoca o aviso do Presidente da Assembleia da República sobre a dificuldade de consultar blogues no futuro.",
+ "analysis": "A proposta é simples, com prazos claros e uma entidade pública já existente para executar. Fragilidades: o texto não aborda questões de direitos de autor, proteção de dados pessoais nem a vontade dos autores, nem a necessidade de acordo com a empresa que gere a plataforma. O prazo final do relatório (final do ano) coincide com o da eliminação, o que deixa pouco tempo para correção. Não quantifica o reforço de meios. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Garantir meios ao Arquivo.pt implica despesa pública adicional que o texto não quantifica."
+ },
+ "affected": [
+  "Autores de blogues",
+  "Arquivo.pt e FCT",
+  "Investigadores e público em geral"
+ ],
+ "categories": [
+  "cultura",
+  "ciencia"
+ ],
+ "tags": [
+  "SAPO Blogs",
+  "Arquivo.pt",
+  "património digital",
+  "blogosfera"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

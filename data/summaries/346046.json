@@ -1,0 +1,37 @@
+{
+ "short_title": "Suspensão do prazo da CPI ao INEM",
+ "summary": "Projeto de Resolução do Presidente da Assembleia da República que suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, IP, entre 2 e 6 de fevereiro de 2026, inclusive. A suspensão foi pedida pela própria comissão, ao abrigo do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares e do n.º 2 do artigo 49.º do Regimento, tendo em conta o calendário de trabalhos deliberado na Conferência de Líderes de 21 de janeiro de 2026, por causa das eleições presidenciais.",
+ "key_points": [
+  "Suspende a contagem do prazo da CPI ao INEM entre 2 e 6 de fevereiro de 2026.",
+  "Foi solicitada pela própria comissão de inquérito.",
+  "Justifica-se pelo calendário parlamentar condicionado pelas eleições presidenciais."
+ ],
+ "plain_language": "A comissão que investiga o INEM pediu uma pausa de uma semana no prazo de funcionamento, porque o Parlamento não trabalha normalmente nessa semana por causa das eleições presidenciais. A resolução concede essa pausa, sem alterar o objeto do inquérito.",
+ "context": "A comissão solicitou a suspensão do prazo entre 2 e 6 de fevereiro de 2026 em função do calendário de trabalhos deliberado na Conferência de Líderes de 21 de janeiro de 2026, devido à realização das eleições presidenciais.",
+ "analysis": "Trata-se de um ato procedimental, com fundamento legal expresso, que evita que os dias sem atividade consumam o prazo do inquérito. Não altera o objeto nem os poderes da comissão. O texto não indica a data final do prazo original nem o efeito concreto no encerramento dos trabalhos, pelo que o impacto no calendário do inquérito só pode ser avaliado com outras fontes.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de uma suspensão de prazo e o texto não prevê despesa nem receita."
+ },
+ "affected": [
+  "deputados da Comissão Parlamentar de Inquérito ao INEM",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "saude"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "INEM",
+  "suspensão de prazo",
+  "eleições presidenciais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

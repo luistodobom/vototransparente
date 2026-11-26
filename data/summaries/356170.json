@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço do regime das amas e Creche Feliz",
+ "summary": "O Projeto de Lei do PS altera o enquadramento da atividade de ama. Obriga a contrato de trabalho para as amas que atuam no âmbito de instituições de enquadramento, reconhece-lhes direitos (apoio técnico, formação contínua, acesso aos meios necessários), alarga as instituições de enquadramento às autarquias e permite a atividade em espaços comunitários, com verificação do Instituto de Segurança Social em 90 dias. Equipara as amas profissionais liberais a creches privadas para efeitos de gratuitidade da resposta quando não haja vagas no setor social, cria um programa de apoio à adaptação de domicílios, aplica IVA à taxa reduzida a todos os serviços de ama e inclui-os nas despesas de educação do IRS.",
+ "key_points": [
+  "Contrato de trabalho obrigatório para amas de creche familiar enquadradas em instituições, com regularização dos contratos em vigor.",
+  "Direitos das amas enquadradas: apoio técnico, formação contínua, acesso ao processo da criança e aos meios necessários.",
+  "Autarquias passam a poder ser instituições de enquadramento; atividade possível em espaços comunitários.",
+  "Amas profissionais liberais equiparadas a creches privadas para a gratuitidade, se não houver vagas no setor social.",
+  "Taxa reduzida de IVA para serviços de ama independentemente do local, e dedução em IRS como despesa de educação.",
+  "Programa de apoio pecuniário à adaptação de domicílios, a aprovar pelo Governo em 180 dias."
+ ],
+ "plain_language": "A proposta quer mais vagas para crianças pequenas através das amas. As amas ligadas a instituições passariam a ter contrato de trabalho e mais direitos, as câmaras poderiam enquadrá-las, e poderiam trabalhar em espaços comunitários. Os pais poderiam ter a frequência gratuita em certos casos, o IVA desceria para a taxa reduzida e as despesas contariam para deduções no IRS.",
+ "context": "O PS refere a carência de vagas, sobretudo nas áreas metropolitanas, e a importância das amas na conciliação entre vida familiar e profissional. Pretende combater falsos recibos verdes, alargar o universo de amas, reduzir obstáculos habitacionais à atividade e corrigir uma incoerência do IVA, que penaliza as amas que trabalham no seu próprio domicílio.",
+ "analysis": "A iniciativa tem objetivos coerentes: reforçar vínculos laborais, criar vagas e corrigir a diferença de IVA. Os riscos: o impacto orçamental da gratuitidade, da dedução fiscal, da taxa reduzida de IVA e do programa de apoio não é estimado; a condição de falta de vagas no setor social exige critérios claros de aplicação; a competência supletiva dos municípios para autorizar funcionamento provisório levanta questões de responsabilidade e de controlo de qualidade; e a obrigação de contrato de trabalho pode aumentar custos das instituições.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Aumenta despesa (gratuitidade, programa de adaptação de domicílios) e reduz receita (IVA à taxa reduzida e dedução em IRS). O texto não apresenta montantes."
+ },
+ "affected": [
+  "amas",
+  "famílias com crianças até aos 3 anos",
+  "instituições de enquadramento e autarquias",
+  "Instituto de Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "fiscalidade"
+ ],
+ "tags": [
+  "amas",
+  "creche familiar",
+  "Creche Feliz",
+  "IVA",
+  "IRS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

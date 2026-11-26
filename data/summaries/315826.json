@@ -1,0 +1,42 @@
+{
+ "short_title": "Preservação efetiva do património cultural (a partir do Cinema Império)",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo seis medidas para a preservação do património cultural, partindo do caso do Cinema Império, em Lisboa. Propõe reforçar a fiscalização do cumprimento das condicionantes dos pareceres do Património Cultural, I.P., incluindo pelas autarquias; avaliar a Lei de Bases do Património Cultural e a extensão do património classificado; desenvolver parcerias com autarquias para recuperar e devolver ao público património classificado devoluto ou descaracterizado; criar apoios adicionais às associações culturais na gestão do edificado; criar um Observatório de mapeamento dos espaços culturais; e promover a fruição pública de espaços de relevo identitário. É uma recomendação, sem efeito vinculativo.",
+ "key_points": [
+  "Reforçar a fiscalização das condicionantes definidas pelo Património Cultural, I.P., com possível envolvimento das autarquias.",
+  "Avaliar a Lei de Bases do Património Cultural e a extensão do património classificado.",
+  "Parcerias com autarquias para recuperar património classificado devoluto ou descaracterizado.",
+  "Mecanismos de apoio às associações culturais como gestoras do edificado.",
+  "Criação de um Observatório de espaços culturais com relatórios públicos."
+ ],
+ "plain_language": "A polémica do Cinema Império mostrou que edifícios culturais históricos podem ser alterados ou degradar-se, mesmo estando classificados. O PS pede ao Governo que fiscalize melhor, reveja a lei do património, apoie associações e autarquias a recuperar esses espaços e crie um observatório que acompanhe a sua preservação.",
+ "context": "O PS refere a petição Salvemos o Cinema Império, que reuniu mais de 12 000 subscritores em três dias, a decisão da Câmara de Lisboa de alterar o uso para equipamento religioso e a possível descaracterização de elementos originais. Considera que espaços culturais sofrem pressão imobiliária e degradação mesmo quando classificados.",
+ "analysis": "Pontos fortes: alarga a discussão do caso concreto para uma estratégia nacional de preservação, com mecanismos de acompanhamento e transparência. Fragilidades: as medidas são genéricas, sem prazos, orçamento ou quem financiaria a recuperação e o apoio às associações; atribuir fiscalização às autarquias pode criar conflitos de interesses quando estas decidem o licenciamento. O observatório pode duplicar estruturas existentes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os apoios a associações, as parcerias com autarquias e o observatório implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "associações culturais",
+  "autarquias",
+  "Património Cultural, I.P.",
+  "utilizadores de espaços culturais"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "património cultural",
+  "Cinema Império",
+  "fiscalização",
+  "associações culturais",
+  "observatório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Simplificar o regime e promover a concorrência na mobilidade elétrica",
+ "summary": "O PS recomenda ao Governo que simplifique o regime da mobilidade elétrica e promova a concorrência, seguindo as recomendações do estudo da Autoridade da Concorrência de outubro de 2024. Entre as 13 medidas estão fomentar mais pontos de carregamento com cobertura de todo o território, clarificar se os carregadores em parques de hotéis, restauração e retalho alimentar de acesso público devem estar ligados à rede, criar um modelo transparente de preços comparáveis, novos meios de pagamento numa plataforma interoperável gerida pela EGME, estudar uma tarifa específica para o interior, promover o carregamento inteligente e bidirecional, exigir infraestrutura de carregamento em novas operações urbanísticas, incentivar carregadores em condomínios e valorizar o papel das autarquias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Aumentar os pontos de carregamento para cobrir todo o território nacional.",
+  "Modelo transparente de preços que permita comparar o custo do carregamento.",
+  "Novos meios de pagamento numa plataforma interoperável gerida pela EGME.",
+  "Estudar uma tarifa específica para carregamentos no interior com poucos transportes públicos.",
+  "Prever infraestrutura de carregamento em novas operações urbanísticas e incentivar carregadores em condomínios.",
+  "Analisar mecanismos de mercado, como leilões, para contratos de energia."
+ ],
+ "plain_language": "O PS pede ao Governo que torne carregar um carro elétrico mais simples e barato: mais carregadores, preços claros e comparáveis, pagamentos mais fáceis e menos burocracia para novos operadores. É uma recomendação, não uma lei.",
+ "context": "O proponente cita o crescimento das vendas de veículos elétricos e o estudo da Autoridade da Concorrência de outubro de 2024, que aponta barreiras à entrada nos carregadores de autoestrada, dificuldades de pagamento e comparação de preços, um modelo organizativo complexo e um quadro legal desajustado aos novos agentes.",
+ "analysis": "A iniciativa assenta num diagnóstico de uma entidade independente e propõe medidas variadas e coerentes com o objetivo de reduzir custos ao utilizador. Contudo, várias medidas são formuladas como estudar ou equacionar, sem prazos, metas ou custos, e algumas dependem de decisões de reguladores e autarquias. A recomendação não vincula o Governo. Alguns pontos, como a tarifa para o interior, podem implicar subsidiação não quantificada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Incentivos a carregadores em condomínios e uma eventual tarifa para o interior podem implicar despesa ou perda de receita, mas não são estimados."
+ },
+ "affected": [
+  "utilizadores de veículos elétricos",
+  "operadores de pontos de carregamento",
+  "comercializadores de eletricidade para a mobilidade elétrica",
+  "autarquias"
+ ],
+ "categories": [
+  "transportes",
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "mobilidade elétrica",
+  "pontos de carregamento",
+  "Autoridade da Concorrência",
+  "EGME"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

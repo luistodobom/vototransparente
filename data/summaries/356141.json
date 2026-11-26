@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforço de meios no combate à violência doméstica",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo um conjunto de medidas para reforçar os meios de combate ao crime de violência doméstica. Pede um relatório sobre as razões de não acompanhamento do cumprimento de medidas de coação e injunções pelos arguidos, sobre o acompanhamento de penas suspensas e sobre os recursos em falta, incluindo funcionários judiciais e gabinetes de apoio aos magistrados. Recomenda que o Governo diligencie junto da Direção-Geral de Reinserção Social e Serviços Prisionais a identificação dos meios em falta, promova a contratação urgente de recursos humanos e elabore relatórios trimestrais sobre a evolução do reforço de meios e os casos em que a celeridade processual não foi cumprida. Pede ainda um relatório à Assembleia sobre o cumprimento da Lei n.º 112/2009. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Relatório sobre as razões do não acompanhamento de medidas de coação, injunções e penas suspensas em processos de violência doméstica.",
+  "Identificação dos recursos em falta, incluindo funcionários judiciais e gabinetes de apoio aos magistrados.",
+  "Contratação urgente de recursos humanos para acompanhamento das condenações.",
+  "Relatórios trimestrais sobre o reforço de meios e os casos sem celeridade processual.",
+  "Relatório à Assembleia da República sobre o cumprimento da Lei n.º 112/2009."
+ ],
+ "plain_language": "O PCP pede ao Governo que apure que meios faltam para acompanhar os arguidos e condenados por violência doméstica e que contrate com urgência as pessoas necessárias, informando regularmente o Parlamento. Não obriga o Governo.",
+ "context": "O PCP cita o Relatório Anual de Segurança Interna: mais de 30 000 ocorrências em 2022, 30 279 denúncias e 22 mortes em 2023, mais de 25 000 denúncias e 23 homicídios em 2024, e 20 mulheres assassinadas em 2025. Argumenta que a sobrecarga de meios atrasa respostas e o acompanhamento e que o Estado tem obrigações decorrentes da Convenção de Istambul.",
+ "analysis": "A iniciativa aponta um problema real, a escassez de meios para acompanhamento e a celeridade, e pede dados para fundamentar decisões, o que facilita o escrutínio. Fragilidades: não quantifica os meios em falta nem define metas ou prazos, grande parte da recomendação consiste em pedir relatórios e não ações diretas, e a contratação urgente tem custos que o texto não estima. Por ser resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação urgente de recursos humanos e o reforço de meios aumentam a despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "arguidos e condenados",
+  "funcionários judiciais",
+  "Direção-Geral de Reinserção Social e Serviços Prisionais",
+  "magistrados"
+ ],
+ "categories": [
+  "justica",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "violência doméstica",
+  "reinserção social",
+  "medidas de coação",
+  "celeridade processual",
+  "recursos humanos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

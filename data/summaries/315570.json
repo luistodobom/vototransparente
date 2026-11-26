@@ -1,0 +1,44 @@
+{
+ "short_title": "Redução da carga fiscal com maior peso nos impostos indiretos",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo uma política fiscal que reequilibre a tributação direta e indireta. Propõe reduzir impostos indiretos, por descida de taxas de IVA ou reclassificação de bens, usando taxas super reduzidas (incluindo 0%), com prioridade para produtos alimentares essenciais; redefinir a habitação de custos controlados para efeitos do IVA reduzido; manter a descida seletiva do IRC para empresas que investem no interior e em I&D, valorizam salários e se capitalizam; reduzir custos de contexto; e ajustar o IRS Jovem, mantendo a devolução de propinas e criando um «ano zero». É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reequilibrar a receita fiscal, reduzindo o peso dos impostos indiretos face aos diretos.",
+  "Reduzir o IVA, com taxas super reduzidas (incluindo 0%) e prioridade a alimentos essenciais.",
+  "Redefinir a habitação de custos controlados para efeitos de IVA reduzido, favorecendo a habitação acessível.",
+  "Manter a descida seletiva do IRC para empresas que investem no interior e em I&D, valorizam remunerações e se capitalizam.",
+  "Reduzir custos de contexto das empresas, incluindo energia e racionalização de taxas.",
+  "IRS Jovem: manter a devolução de propinas e criar um «ano zero» para quem entra no mercado de trabalho a meio do ano."
+ ],
+ "plain_language": "O PS pede ao Governo que, ao baixar impostos, dê mais atenção aos impostos sobre o consumo, como o IVA, que pesam mais nas famílias com menos rendimentos. Sugere IVA mais baixo ou nulo em alimentos essenciais, descidas seletivas de IRC e melhorias no IRS Jovem. É apenas uma recomendação.",
+ "context": "O proponente afirma que a carga fiscal subiu de 32,2% para 35,6% do PIB entre 2011 e 2024 e que Portugal tem impostos indiretos acima da média da UE e diretos abaixo. Cita um estudo do Banco de Portugal sobre o carácter regressivo do IVA e defende reequilibrar a estrutura fiscal.",
+ "analysis": "A proposta tem um diagnóstico apoiado em dados e aponta prioridades claras, como alimentos essenciais e habitação acessível. Fragilidades: não quantifica o custo das descidas de IVA nem indica compensações, num contexto em que defende também descidas de IRC e novos benefícios no IRS Jovem. O IVA a 0% em alimentos beneficia também famílias de maiores rendimentos e a sua eficácia depende de repasse aos preços. Algumas medidas, como manter descidas seletivas, são genéricas e sem calendário.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As medidas recomendadas (IVA, IRC seletivo, IRS Jovem) reduziriam receita fiscal. O texto não apresenta estimativas nem fontes de compensação."
+ },
+ "affected": [
+  "famílias de baixos e médios rendimentos",
+  "empresas, em especial no interior",
+  "jovens qualificados",
+  "consumidores"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "habitacao"
+ ],
+ "tags": [
+  "IVA",
+  "IRC",
+  "IRS Jovem",
+  "carga fiscal",
+  "habitação de custos controlados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

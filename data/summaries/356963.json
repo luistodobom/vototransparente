@@ -1,0 +1,42 @@
+{
+ "short_title": "Pensão de velhice aos 65 anos ou com 40 anos de carreira",
+ "summary": "O Projeto de Lei n.º 679/XVII/1.ª, do CHEGA, cria um critério dual para o acesso à pensão de velhice e à aposentação sem penalização, no regime geral da Segurança Social e na Caixa Geral de Aposentações: 65 anos de idade ou 40 anos de carreira contributiva ou de serviço contável. A transição é gradual: a idade passa por 66 anos em 2027 e 65 anos e 6 meses em 2028, até 65 anos a partir de 2029, e a carreira por 43 anos em 2027, 42 em 2028 e 41 em 2029, até 40 anos a partir de 2030. Estabelece que a pensão estatutária de velhice não pode exceder 8,38 vezes o IAS. Os pedidos pendentes seguem o regime mais favorável e as pensões antecipadas são recalculadas apenas para o futuro, sem retroativos. O texto disponível está truncado.",
+ "key_points": [
+  "Acesso à pensão sem penalização aos 65 anos de idade ou com 40 anos de carreira contributiva, consoante a condição que se verifique primeiro.",
+  "Transição gradual: 66 anos em 2027, 65 anos e 6 meses em 2028 e 65 anos desde 2029, e 43 anos de carreira em 2027 a 40 anos desde 2030.",
+  "A pensão estatutária de velhice não pode exceder 8,38 vezes o valor do IAS, incluindo casos de acumulação de pensões.",
+  "Pedidos pendentes apreciados pelo regime mais favorável.",
+  "Recálculo, apenas para o futuro, das pensões antecipadas já atribuídas, sem pagamento de retroativos."
+ ],
+ "plain_language": "Hoje, a idade da reforma sem cortes sobe com a esperança de vida. Este projeto propõe que a pessoa se possa reformar sem penalização quando fizer 65 anos ou quando completar 40 anos de descontos, o que acontecer primeiro. A mudança seria gradual entre 2027 e 2030. Cria também um teto para o valor das pensões e permite recalcular, daqui para a frente, as pensões antecipadas que tiveram cortes.",
+ "context": "O CHEGA considera que o sistema atual valoriza em excesso a idade biológica, por indexar a idade da reforma à esperança de vida, e valoriza pouco o esforço contributivo acumulado. Exemplifica com quem começou a trabalhar aos 18 anos e chega aos 65 com quase 50 anos de descontos, tratado de forma semelhante a quem começou aos 27 ou 28 anos. Defende um critério simples, estável e proporcional, que mantém regimes especiais para profissões de desgaste rápido.",
+ "analysis": "Pontos fortes: reconhece o esforço contributivo de carreiras longas, simplifica as regras e introduz um limite máximo às pensões que pode compensar parte do custo. Fragilidades: o texto, tal como disponível, não quantifica o impacto na sustentabilidade da Segurança Social perante o envelhecimento; a eliminação da indexação à esperança de vida pode agravar desequilíbrios; o teto de 8,38 IAS afeta futuras pensões mais altas e pode suscitar questões de confiança legítima; e a análise está limitada por o texto estar truncado.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Reformas sem penalização aos 65 anos ou aos 40 anos de carreira e o recálculo de pensões aumentam a despesa, enquanto o limite de 8,38 vezes o IAS a reduz; o texto disponível não quantifica o saldo."
+ },
+ "affected": [
+  "trabalhadores com carreiras longas",
+  "futuros pensionistas",
+  "pensionistas com reforma antecipada penalizada",
+  "Segurança Social e Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "idade da reforma",
+  "carreira contributiva",
+  "pensões",
+  "penalizações",
+  "Caixa Geral de Aposentações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

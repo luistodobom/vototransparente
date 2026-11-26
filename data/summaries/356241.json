@@ -1,0 +1,41 @@
+{
+ "short_title": "Proibir discriminação no arrendamento por animais",
+ "summary": "Projeto de Lei do PAN que adita o artigo 1067.º-B ao Código Civil, proibindo qualquer discriminação no acesso ao arrendamento habitacional fundada exclusivamente na detenção de animais de companhia. Os anúncios e as práticas negociais prévias ao contrato não podem conter restrições ou preferências baseadas nesse facto, e são nulas as cláusulas que proíbam genericamente a presença de animais no imóvel. Mantêm-se as normas de bem-estar animal, os limites de animais por fração, o regime dos animais perigosos, a responsabilidade do arrendatário pela higiene, salubridade e sossego e os direitos do senhorio em caso de incumprimento. Entra em vigor no primeiro dia do mês seguinte à publicação.",
+ "key_points": [
+  "Proibição de discriminação no arrendamento habitacional com base apenas na detenção de animais de companhia.",
+  "Anúncios e negociações prévias não podem conter restrições ou preferências relativas a animais.",
+  "Nulidade das cláusulas contratuais com proibição genérica de animais no imóvel.",
+  "Ressalva de limites legais de animais por fração, animais perigosos e regras de higiene, sossego e boa vizinhança.",
+  "Manutenção dos direitos do senhorio em caso de incumprimento."
+ ],
+ "plain_language": "O PAN propõe que os senhorios não possam recusar um inquilino, nem escrever em anúncios ou contratos que não aceitam animais, só pelo facto de ter um cão ou um gato. Os inquilinos continuam obrigados a cumprir regras de higiene e sossego, e o senhorio pode agir se houver problemas.",
+ "context": "O proponente invoca o direito à habitação e o princípio da não discriminação já consagrado no artigo 1067.º-A do Código Civil, e refere que persistem restrições arbitrárias a inquilinos com animais de companhia. Indica cerca de 4 milhões de animais registados e que 72% dos lares possuem animais.",
+ "analysis": "Responde a uma prática comum e ajuda famílias com animais a aceder ao arrendamento, mantendo salvaguardas para o senhorio. Fragilidades: a nulidade de cláusulas genéricas não é acompanhada de mecanismos de fiscalização ou sanções específicas, sendo difícil de fazer cumprir antes da celebração do contrato; pode haver tensão com a liberdade contratual e com regimes de condomínio ou regulamentos de edifícios, que o texto não aborda. Os dados de contexto são breves e não avaliam o impacto na oferta de arrendamento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida altera regras de contratação entre privados e não cria despesa nem receita públicas identificáveis no texto."
+ },
+ "affected": [
+  "inquilinos com animais de companhia",
+  "senhorios",
+  "detentores de animais"
+ ],
+ "categories": [
+  "habitacao",
+  "animais",
+  "direitos"
+ ],
+ "tags": [
+  "arrendamento",
+  "animais de companhia",
+  "não discriminação",
+  "Código Civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

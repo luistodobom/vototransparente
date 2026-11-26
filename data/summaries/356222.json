@@ -1,0 +1,39 @@
+{
+ "short_title": "Comunicação de emergência acessível a pessoas surdas",
+ "summary": "O LIVRE recomenda ao Governo quatro medidas para a comunicação de emergência: reativar e modernizar a aplicação MAI112, repondo com urgência a videochamada com intérprete de Língua Gestual Portuguesa para o 112 e o CODU, 24 horas por dia em todo o território, com receção de alertas georreferenciados e integração com o sistema de aviso por SMS; reforçar o conteúdo das mensagens SMS de emergência (natureza e gravidade, zonas afetadas, medidas de autoproteção, abrigos e contactos); tornar obrigatória a interpretação em Língua Gestual Portuguesa nas comunicações públicas de proteção civil em situação de alerta ou calamidade; e formação obrigatória em comunicação de risco inclusiva. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reativar e modernizar a aplicação MAI112 com videochamada com intérprete de Língua Gestual Portuguesa 24 horas por dia.",
+  "Reforçar o conteúdo informativo dos SMS de emergência.",
+  "Interpretação obrigatória em Língua Gestual Portuguesa nas comunicações de proteção civil.",
+  "Formação obrigatória em comunicação de risco inclusiva para profissionais de proteção civil."
+ ],
+ "plain_language": "O partido pede que, em emergências, as pessoas surdas possam falar com o 112 por videochamada em língua gestual, recebam alertas completos e vejam as comunicações oficiais com intérprete. Também pede formação aos profissionais da proteção civil. É uma recomendação ao Governo.",
+ "context": "O proponente afirma que o Estado falha na comunicação em emergências, em particular com as pessoas surdas. Refere que o sistema de SMS previsto no Decreto-Lei n.º 2/2019 fica aquém do necessário e que as comunicações públicas em calamidade não incluem sistematicamente Língua Gestual Portuguesa.",
+ "analysis": "Responde a uma lacuna concreta de acessibilidade e inclui medidas de implementação clara, com benefício também para pessoas cegas ou com baixa literacia digital. Fragilidades: o texto não quantifica os custos de serviço 24 horas por dia nem do número de intérpretes; a obrigatoriedade de intérprete em todas as comunicações das autarquias pode ser difícil de cumprir; o conteúdo dos SMS é limitado pelo formato; e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reativar a aplicação, assegurar o serviço 24 horas e contratar intérpretes e formação implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "pessoas surdas",
+  "pessoas cegas ou com baixa visão",
+  "proteção civil e autarquias"
+ ],
+ "categories": [
+  "direitos",
+  "seguranca"
+ ],
+ "tags": [
+  "pessoas surdas",
+  "língua gestual portuguesa",
+  "112",
+  "alertas de emergência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

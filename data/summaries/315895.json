@@ -1,0 +1,41 @@
+{
+ "short_title": "Escritório de representação de Portugal em Taiwan",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo que facilite e incentive intercâmbios culturais e educativos com Taiwan, para promover a colaboração científica e académica, e que avalie a abertura de um escritório de representação de Portugal em Taiwan, com sede em Taipé, para promover a cultura e os interesses de Portugal e reforçar a presença nacional no Indo-Pacífico. Na exposição de motivos, sugere que o escritório fique sob a tutela da AICEP ou do Instituto Camões. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Facilitar e incentivar intercâmbios culturais e educativos com Taiwan.",
+  "Avaliar a abertura de um escritório de representação em Taipé.",
+  "Objetivo: promover a cultura e interesses de Portugal e reforçar a presença no Indo-Pacífico.",
+  "Na exposição de motivos, sugere a tutela da AICEP ou do Instituto Camões."
+ ],
+ "plain_language": "O PAN pede ao Governo que promova intercâmbios com Taiwan e estude abrir um escritório de representação em Taipé, como já fizeram outros países europeus. O Governo não é obrigado a seguir.",
+ "context": "O PAN destaca o peso económico e tecnológico de Taiwan, a cooperação da União Europeia e a existência de representações de outros Estados europeus em Taipé. Refere que os assuntos de Taiwan são geridos pelo Consulado em Macau, e cita dados de 2021 de exportações de quase 134 milhões de euros e importações de mais de 470 milhões de euros.",
+ "analysis": "A iniciativa é prudente ao pedir a avaliação, e não a abertura imediata, do escritório, e baseia-se numa resolução do Parlamento Europeu. Contudo, atribui os entraves às exportações e o défice comercial à ausência de representação, ligação que o texto não demonstra. Não estima custos nem aborda possíveis implicações diplomáticas com a China. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A abertura de um escritório no estrangeiro implicaria custos de instalação e funcionamento, que o texto não quantifica."
+ },
+ "affected": [
+  "empresas exportadoras portuguesas",
+  "cidadãos portugueses em Taiwan",
+  "estudantes e investigadores",
+  "AICEP e Instituto Camões"
+ ],
+ "categories": [
+  "internacional",
+  "economia",
+  "ciencia"
+ ],
+ "tags": [
+  "Taiwan",
+  "escritório de representação",
+  "Indo-Pacífico",
+  "intercâmbios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

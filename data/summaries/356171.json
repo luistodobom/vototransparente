@@ -1,0 +1,44 @@
+{
+ "short_title": "Fundo Nacional de Luta Contra as Catástrofes Naturais",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo a criação urgente de um Fundo Nacional de Luta Contra as Catástrofes Naturais, de natureza permanente e com enquadramento legal próprio. Propõe uma dotação mínima anual de 0,5% da despesa efetiva do Orçamento do Estado, inscrita já no próximo orçamento, uma contribuição obrigatória do setor segurador de pelo menos 2% dos prémios brutos emitidos nos ramos não vida associados a riscos patrimoniais, a mobilização de fundos europeus e uma reserva financeira plurianual. O Fundo apoiaria famílias, micro, pequenas e médias empresas e agricultores, e financiaria prevenção, com ativação automática após declaração de calamidade. Recomenda ainda que o Governo apresente em 90 dias uma proposta legislativa sobre governação e financiamento. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de um fundo permanente, abrangendo todo o território, incluindo os Açores e a Madeira.",
+  "Dotação anual mínima de 0,5% da despesa efetiva do Orçamento do Estado.",
+  "Contribuição do setor segurador de pelo menos 2% dos prémios brutos emitidos nos ramos não vida de riscos patrimoniais.",
+  "Apoios a famílias, empresas e agricultores, com ativação automática após declaração de calamidade.",
+  "Proposta legislativa do Governo em 90 dias e estratégia de captação de fundos europeus."
+ ],
+ "plain_language": "O JPP pede ao Governo que crie um fundo permanente, com dinheiro do Orçamento e das seguradoras, para pagar rapidamente os prejuízos de tempestades, cheias e outras catástrofes. A decisão é do Governo, pois a resolução é apenas uma recomendação.",
+ "context": "Segundo o proponente, as intempéries recentes mostraram fragilidades do Estado na prevenção e resposta a catástrofes, que ficam dependentes de anúncios e processos burocráticos lentos. Defende um instrumento permanente, com financiamento próprio e regras claras, em vez de respostas episódicas.",
+ "analysis": "Um fundo permanente com regras de ativação automática pode dar previsibilidade e rapidez. Contudo, a proposta é pouco detalhada: não há estimativa do custo (0,5% da despesa efetiva é uma verba significativa), nem estudo da viabilidade da contribuição de 2% das seguradoras, que poderá repercutir-se nos prémios dos consumidores. Faltam critérios de elegibilidade e a articulação com mecanismos já existentes. Por ser uma resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A dotação anual mínima de 0,5% da despesa efetiva do Orçamento do Estado aumenta a despesa, com receita adicional proveniente do setor segurador. O texto não apresenta montantes."
+ },
+ "affected": [
+  "famílias afetadas por catástrofes",
+  "micro, pequenas e médias empresas",
+  "agricultores",
+  "setor segurador",
+  "Regiões Autónomas"
+ ],
+ "categories": [
+  "seguranca",
+  "economia",
+  "ambiente"
+ ],
+ "tags": [
+  "catástrofes naturais",
+  "fundo",
+  "proteção civil",
+  "seguradoras",
+  "calamidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

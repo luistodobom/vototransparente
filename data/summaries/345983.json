@@ -1,0 +1,41 @@
+{
+ "short_title": "Carreira especial de médico dentista no SNS (BE)",
+ "summary": "Projeto de Lei do BE que cria a carreira especial de médico dentista no Serviço Nacional de Saúde, para trabalhadores com contrato de trabalho em funções públicas. A carreira tem as categorias de assistente, assistente graduado e assistente graduado sénior, com graus de especialista e consultor, grau 3 de complexidade funcional e período normal de trabalho de 35 horas semanais. O recrutamento é por concurso, as posições remuneratórias são publicadas em 180 dias após negociação com as estruturas representativas, e os dentistas que já trabalham no SNS, qualquer que seja o vínculo, transitam automaticamente conforme os anos de serviço (menos de 10, mais de 10 e mais de 20 anos). Entra em vigor no primeiro dia do mês seguinte à publicação.",
+ "key_points": [
+  "Cria a carreira especial de médico dentista no SNS, com três categorias e graus de especialista e consultor.",
+  "Fixa o período normal de trabalho em 35 horas semanais.",
+  "Prevê o recrutamento por concurso e o período experimental de 90 dias, considerado cumprido em certos casos de contratos anteriores.",
+  "Integra automaticamente os dentistas já em funções, em categorias consoante o tempo de serviço no SNS (menos de 10, mais de 10, mais de 20 anos).",
+  "Publica os níveis remuneratórios em 180 dias, após negociação, com efeitos no orçamento subsequente."
+ ],
+ "plain_language": "Os dentistas que trabalham no SNS não têm uma carreira própria e muitos estão a recibos verdes. O BE propõe criar essa carreira, com categorias, concursos e progressão, e passar para ela, sem concurso, quem já está no SNS. O objetivo é contratar mais dentistas e dar mais acesso a cuidados de saúde oral públicos.",
+ "context": "O BE aponta que a medicina dentária é residual no SNS e que, apesar de haver 1 dentista por 846 habitantes, o acesso é reduzido por barreiras económicas, citando o Barómetro da Saúde Oral 2023. Refere cerca de 140 dentistas nos cuidados primários, dos quais 118 como prestadores de serviços em falsos recibos verdes, e a existência de carreira na Madeira.",
+ "analysis": "A proposta é completa e resolve a precariedade e o enquadramento inadequado em carreiras gerais, com regras de transição claras. As principais incertezas são orçamentais e de execução: as remunerações são definidas só depois, por negociação, e o texto não estima o custo nem o número de profissionais necessários para ampliar a cobertura. A integração automática sem concurso, incluindo prestadores de serviços via empresas intermediárias, pode ser contestada do ponto de vista do acesso à função pública. A criação da carreira não garante por si só mais consultas, pois depende de contratação e de gabinetes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A carreira, a integração dos dentistas e o reposicionamento remuneratório aumentam os encargos com pessoal do SNS, com efeitos no orçamento subsequente. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "Médicos dentistas do SNS",
+  "Utentes do SNS",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "médico dentista",
+  "carreira especial",
+  "saúde oral",
+  "SNS",
+  "precariedade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Serviços de apoio domiciliário com fins lucrativos",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o artigo 3.º do Decreto-Lei n.º 141/89, que regula os ajudantes familiares, para que passem a poder ter como instituições de suporte técnico e financeiro também estabelecimentos de apoio social licenciados e outras entidades públicas, privadas ou organizações não governamentais que assegurem serviços de apoio familiar. Atualmente o regime só prevê entidades públicas e da economia social, como a Santa Casa da Misericórdia de Lisboa e as IPSS. Na prática, reconhece os serviços de apoio domiciliário com fins lucrativos. A lei entraria em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Altera o artigo 3.º do Decreto-Lei n.º 141/89, de 1989, sobre ajudantes familiares.",
+  "Alarga as instituições de suporte a entidades públicas, privadas ou ONG que prestem serviços de apoio familiar.",
+  "Inclui estabelecimentos de apoio social licenciados pelos centros regionais de segurança social.",
+  "Pretende dar a estas entidades o mesmo tratamento fiscal (IVA) e contributivo das restantes.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, a lei que regula os ajudantes familiares, que cuidam de idosos em casa, só reconhece como entidades de apoio as instituições públicas e sociais. A proposta permite que empresas privadas, com fins lucrativos, também sejam reconhecidas, desde que licenciadas. A ideia é aumentar a oferta de apoio em casa e dar a estas empresas o mesmo tratamento fiscal.",
+ "context": "A Iniciativa Liberal aponta o envelhecimento da população, a falta de vagas em lares e os internamentos sociais no SNS. Defende que o regime de 1989 discrimina operadores privados lucrativos licenciados, com efeitos nos preços, nas remunerações e na disponibilidade dos serviços, e que o lucro pode estimular a inovação e a eficiência.",
+ "analysis": "A medida pode aumentar a oferta e a concorrência no apoio domiciliário. Contudo, o texto é muito curto e não define requisitos de qualidade, fiscalização ou preços para as novas entidades. Os benefícios fiscais e contributivos invocados no preâmbulo não são concretizados no articulado, que só altera o rol de instituições de suporte, o que cria incerteza sobre o efeito real. Não há estimativa do impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O preâmbulo fala em tratamento fiscal em IVA e regime contributivo igual, o que poderia reduzir receita, mas o articulado não o prevê expressamente e não há valores."
+ },
+ "affected": [
+  "idosos que recebem apoio domiciliário",
+  "ajudantes familiares",
+  "empresas privadas de apoio domiciliário",
+  "instituições sociais"
+ ],
+ "categories": [
+  "familia",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "apoio domiciliário",
+  "ajudantes familiares",
+  "idosos",
+  "setor privado",
+  "IVA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

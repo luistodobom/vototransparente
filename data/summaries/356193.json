@@ -1,0 +1,44 @@
+{
+ "short_title": "Escudo Social para as comunidades em calamidade",
+ "summary": "Este projeto de resolução do Bloco de Esquerda recomenda ao Governo a criação de um Escudo Social para os concelhos abrangidos pela declaração de calamidade (Resolução do Conselho de Ministros n.º 15-B/2026 e alargamentos). Propõe um apoio financeiro imediato até 1.342,50 euros (2,5 IAS) por adulto, prorrogação automática por seis meses de subsídios de desemprego e de cessação de atividade que terminem no primeiro trimestre de 2026, pagamento de 100% do salário líquido em lay-off simplificado até 3 vezes a RMMG (2.760 euros), apoio para rendas de quem perdeu a habitação, moratória de rendas comerciais e industriais e suspensão de despejos até 31 de dezembro de 2026, suplemento de risco de 20% para operacionais mobilizados, reforço da fiscalização de preços pela ASAE, um regime simplificado de indemnização por morte ou incapacidade, compensação de 100% às autarquias e prorrogação da isenção de portagens por 30 dias, com alargamento à A1. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apoio imediato até 1.342,50 euros por adulto e prorrogação automática de subsídios de desemprego por seis meses.",
+  "Lay-off simplificado com 100% do salário líquido até 3 vezes a RMMG (2.760 euros).",
+  "Apoio a rendas de quem perdeu a habitação, moratória de rendas comerciais e industriais e suspensão de despejos até 31 de dezembro de 2026.",
+  "Suplemento de risco de 20% da remuneração base por dia de missão para operacionais de proteção civil e autarquias.",
+  "Regime simplificado de indemnização por morte ou incapacidade, compensação de 100% às autarquias e portagens isentas por mais 30 dias."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe um conjunto de apoios para as pessoas das zonas atingidas pelas tempestades: dinheiro para as famílias, proteção de salários e subsídios, ajuda com rendas, suspensão de despejos e dinheiro para as autarquias. É apenas um pedido ao Governo.",
+ "context": "O BE descreve a tempestade Kristin como um fenómeno de ciclogénese explosiva, com ventos superiores a 140 km/h e seis distritos em aviso vermelho, que paralisou o tecido produtivo local e deixou milhares de famílias em vulnerabilidade. Defende uma resposta de exceção para proteger o rendimento, a vida comunitária e a reconstrução.",
+ "analysis": "O pacote é abrangente e específico, com montantes e prazos, e articula-se com iniciativas legislativas do mesmo grupo. Fragilidades: é uma recomendação sem força vinculativa, não estima o custo global nem identifica a origem do financiamento, e algumas medidas, como a moratória de rendas e a suspensão de despejos, transferem custos para senhorios. A existência de várias medidas dificulta a priorização, e há sobreposição com apoios já anunciados pelo Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoios diretos, lay-off pago a 100%, prorrogação de subsídios, compensação às autarquias e outras medidas aumentam a despesa pública, e a isenção de portagens reduz receitas. O texto não apresenta um total."
+ },
+ "affected": [
+  "famílias nos concelhos em calamidade",
+  "trabalhadores em lay-off e desempregados",
+  "arrendatários e senhorios",
+  "operacionais de proteção civil e funcionários autárquicos",
+  "autarquias"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "seguranca"
+ ],
+ "tags": [
+  "escudo social",
+  "calamidade",
+  "lay-off",
+  "despejos",
+  "tempestade Kristin"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

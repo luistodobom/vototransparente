@@ -1,0 +1,43 @@
+{
+ "short_title": "Valorização salarial e saúde mental na PSP e GNR",
+ "summary": "O projeto de resolução do Bloco de Esquerda recomenda ao Governo um pacote de medidas para a PSP e a GNR. Propõe a revisão integral do regime remuneratório, com nova tabela de base que reponha o poder de compra perdido desde 2009, o reconhecimento da profissão policial como de desgaste rápido, com efeitos na aposentação, e a paridade do suplemento de risco e missão com o dos inspetores da Polícia Judiciária. Pede a plena aplicação da pré-aposentação e da passagem à reserva, o reforço com dotação própria dos serviços de saúde e psicologia, incluindo um psicólogo e um psiquiatra por comando, e o funcionamento da via verde de saúde mental. Inclui ainda a revisão da promoção a chefe coordenador, o cumprimento da lei de programação de infraestruturas e o apoio ao grupo de análise dos suicídios.",
+ "key_points": [
+  "Revisão integral do regime remuneratório da PSP e da GNR, com nova tabela de base que reponha o poder de compra perdido desde 2009.",
+  "Reconhecimento da profissão policial como de desgaste rápido, com efeitos na aposentação e no cálculo da pensão.",
+  "Paridade do suplemento de risco e missão com o dos inspetores da Polícia Judiciária (Decreto-Lei n.º 139-C/2023).",
+  "Plena aplicação da pré-aposentação na PSP e da passagem à reserva na GNR, sem limites orçamentais que a esvaziem.",
+  "Reforço, com dotação específica, dos centros clínicos da GNR e da divisão de psicologia da PSP, incluindo a via verde de saúde mental.",
+  "Cumprimento da Lei de Programação de Infraestruturas e Equipamentos e apoio ao grupo de análise retrospetiva dos suicídios."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que melhore os salários e as condições de trabalho dos polícias da PSP e dos militares da GNR, que reforce a ajuda psicológica e que trate a profissão como de desgaste rápido, com reforma mais cedo. Pede também melhores instalações e viaturas. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente sustenta que a tabela remuneratória base não é revista desde 2009, que a inflação acumulada superior a 30% retirou poder de compra, que há menos candidatos e perda de efetivos e que os suicídios nas forças de segurança são elevados. Considera a resposta institucional de saúde mental insuficiente.",
+ "analysis": "A iniciativa assenta em dados e fontes citadas e abrange salários, saúde mental e equipamentos, o que dá um diagnóstico amplo. Fragilidades: não quantifica o custo nem indica financiamento; a numeração do ponto 4 está em falta no texto; agrega medidas muito diferentes, algumas de grande impacto orçamental, como a nova tabela e a aposentação antecipada; e, sendo recomendação, não obriga o Governo. A exigência de paridade com a Polícia Judiciária poderia ter efeitos em cadeia noutras carreiras.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma nova tabela remuneratória, a paridade de suplementos, o reforço de serviços de saúde e investimento em infraestruturas aumentariam a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "polícias da PSP",
+  "militares da GNR",
+  "Governo"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "psp",
+  "gnr",
+  "saúde mental",
+  "tabela remuneratória",
+  "aposentação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

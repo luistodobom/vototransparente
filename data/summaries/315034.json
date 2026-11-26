@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforçar a proteção e o apoio às vítimas de violência doméstica",
+ "summary": "Projeto de Lei do PAN que altera seis diplomas para alargar a proteção das vítimas de violência doméstica: a Lei n.º 112/2009, o programa Porta 65, o acesso ao direito e aos tribunais, o Regulamento das Custas Processuais, o Estatuto da Vítima e o Regime Geral do Processo Tutelar Cível. Prevê atribuição do estatuto de vítima em casos excecionais mesmo sem denúncia, informação sobre direitos antes da denúncia, nomeação imediata de patrono e apoio judiciário urgente, alargamento da licença e do subsídio de reestruturação familiar de 10 para 30 dias, sem IRS nem contribuições, e dispensa de comparência da vítima na conferência de pais. Algumas normas só produzem efeitos com o Orçamento do Estado.",
+ "key_points": [
+  "Estatuto de vítima atribuído por organismo da área da igualdade em situações excecionais, mesmo sem denúncia.",
+  "Nomeação imediata de patrono e apoio judiciário urgente e isento de custas.",
+  "Licença e subsídio de reestruturação familiar alargados de 10 para 30 dias, com cálculo pelo rendimento bruto e sem IRS nem contribuições.",
+  "Alterações ao programa Porta 65 e ao Regulamento das Custas Processuais.",
+  "Dispensa de comparência da vítima na conferência de pais, com audição por teleconferência.",
+  "Entrada em vigor no mês seguinte à publicação, com normas dependentes do Orçamento do Estado."
+ ],
+ "plain_language": "O PAN propõe que as vítimas de violência doméstica tenham apoio mais rápido e mais completo: advogado logo no início, mais dias de licença com subsídio mais alto e isento de impostos, e que não tenham de enfrentar o agressor em reuniões sobre os filhos.",
+ "context": "O PAN invoca a gravidade da violência doméstica, que representa 85,5% da criminalidade participada contra pessoas segundo o RASI 2023, e o impacto económico que dissuade denúncias. Refere ainda que só 568 vítimas beneficiaram da licença de reestruturação familiar em quatro anos, e recomendações do GREVIO de maio de 2025.",
+ "analysis": "A proposta atua em várias frentes (apoio jurídico, económico, habitação e processo tutelar) e responde a lacunas identificadas, como o baixo uso da licença. Fragilidades: o impacto financeiro não é quantificado, o alargamento do estatuto de vítima sem denúncia exige critérios claros para evitar abusos, e a dispensa de comparência em processos tutelares tem de ser articulada com os direitos de defesa do outro progenitor. A abrangência de seis diplomas dificulta a análise.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento do subsídio e da licença, com isenção de IRS e contribuições, e os apoios jurídico e à habitação aumentam a despesa e reduzem receita. Algumas normas só produzem efeitos com o Orçamento do Estado. O texto não apresenta montantes."
+ },
+ "affected": [
+  "vítimas de violência doméstica",
+  "filhos das vítimas",
+  "Segurança Social",
+  "Ordem dos Advogados e tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "violência doméstica",
+  "estatuto da vítima",
+  "apoio judiciário",
+  "licença de reestruturação familiar",
+  "Porta 65"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

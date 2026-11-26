@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço do apoio na consulta prévia de IVG e da objeção de consciência",
+ "summary": "Projeto de Lei do PAN que altera os artigos 2.º, 4.º e 6.º da Lei n.º 16/2007 sobre a interrupção voluntária da gravidez (IVG), sem mexer nos seus pilares. Garante a disponibilidade de acompanhamento psicológico e de serviço social, sem o restringir ao período de reflexão, e obriga os estabelecimentos de saúde a ter esses serviços para as mulheres que os requeiram. Alarga às unidades do SNS o dever de adotar providências organizativas para que a objeção de consciência não prejudique o acesso nem os prazos legais. Clarifica que a objeção é sempre individual, que não inclui a recusa de assistência antes ou depois da IVG nem situações urgentes com perigo de vida ou grave dano para a saúde sem outro profissional disponível, exige lista atualizada de objetores e equipas com profissionais suficientes, nomeadamente não objetores. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Apoio psicológico e de serviço social disponível, sem se limitar ao período de reflexão.",
+  "Unidades do SNS obrigadas a organizar-se para que a objeção de consciência não impeça o acesso nem os prazos.",
+  "Objeção de consciência sempre individual e sem direito a recusar assistência antes ou depois da IVG, nem em situações urgentes sem alternativa.",
+  "Lista atualizada de profissionais objetores em cada unidade de saúde.",
+  "Equipas com profissionais suficientes, nomeadamente não objetores."
+ ],
+ "plain_language": "O PAN propõe reforçar o apoio psicológico e social a quem pede uma IVG e clarificar os limites da objeção de consciência dos profissionais de saúde: é uma decisão pessoal, não permite recusar cuidados antes ou depois da IVG nem em emergências, e os hospitais têm de se organizar para que a lei seja cumprida nos prazos.",
+ "context": "O PAN refere riscos de retrocesso na legislatura anterior, esperas de semanas, procedimentos prévios não previstos na lei e deslocações de centenas de quilómetros. Cita as auditorias de 2023 da Inspeção-Geral de Saúde e da ERS (prazos desrespeitados em pelo menos 20% dos pedidos), a falta de registo de objetores e o relatório do Parlamento Europeu sobre direitos sexuais e reprodutivos.",
+ "analysis": "A iniciativa mantém o regime base e aposta em medidas organizativas, em linha com recomendações europeias e com o Regulamento de Deontologia Médica, o que a torna menos controversa do que alterações dos prazos. As obrigações de organização dependem da capacidade do SNS e de recursos humanos que o texto não assegura. A lista de objetores pode suscitar questões de reserva da vida privada dos profissionais, que o texto não discute. Falta também uma estimativa de custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Serviços de apoio psicológico e social e a garantia de equipas suficientes podem aumentar a despesa do SNS. O texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres que recorrem à IVG",
+  "profissionais de saúde objetores",
+  "unidades de saúde do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "objeção de consciência",
+  "Lei 16/2007",
+  "consulta prévia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

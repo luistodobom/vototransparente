@@ -1,0 +1,40 @@
+{
+ "short_title": "Alteração da distribuição de processos no Código de Processo Civil",
+ "summary": "A proposta de lei do Governo altera dez artigos do Código de Processo Civil e revoga outros, para mudar os mecanismos de controlo da distribuição eletrónica de processos judiciais. Elimina o controlo presencial da distribuição, recupera a figura do juiz de turno à distribuição (designado pelo presidente do tribunal, em regime de rotação) para esclarecer dúvidas e controlar atos manuais, e prevê auto de distribuição e publicação eletrónica dos resultados. Nos tribunais superiores mantém a escolha aleatória do relator e dos juízes-adjuntos, regula a substituição por falta ou impedimento (60 dias sem nova distribuição, salvo processos urgentes) e revoga a regra da não repetição sistemática de coletivos. Entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Elimina o mecanismo presencial de controlo das operações de distribuição.",
+  "Recupera o juiz de turno à distribuição, que decide dúvidas e controla os atos manuais.",
+  "As operações são documentadas em auto, acessível às partes e mandatários, e os resultados publicados eletronicamente.",
+  "Nos tribunais superiores, relator e adjuntos são escolhidos aleatoriamente; nas ausências até 60 dias há substituição sem nova distribuição, exceto em processos urgentes.",
+  "Revoga os artigos 208.º e 216.º, os n.ºs 1 e 2 do artigo 213.º, o n.º 2 do artigo 217.º e o n.º 2 do artigo 652.º; entra em vigor 90 dias após publicação."
+ ],
+ "plain_language": "Quando um processo chega a um tribunal, é sorteado a um juiz por um sistema eletrónico. Esta proposta simplifica o controlo desse sorteio, retirando a presença de várias pessoas no momento da distribuição e dando a um juiz de turno a tarefa de resolver dúvidas. Os resultados continuam a ser publicados e as partes podem consultar o registo. Pretende-se tornar os tribunais mais ágeis sem perder transparência.",
+ "context": "O Governo invoca o seu programa e uma avaliação independente do Observatório Permanente da Justiça (Universidade de Coimbra) às Leis n.º 55/2021 e 56/2021 e à Portaria n.º 86/2023, que identificou dificuldades práticas na distribuição e recomendou eliminar o controlo presencial, recuperar o juiz de turno e reforçar a transparência.",
+ "analysis": "A proposta segue as recomendações de uma avaliação independente e procura reduzir entraves práticos mantendo a aleatoriedade, o que é um ponto forte. Há, porém, uma tensão: retirar o controlo presencial e dar ao juiz de turno poder sobre atos manuais pode ser visto como menos fiscalização, ainda que compensado por autos e publicação. A revogação da regra de não repetição de coletivos e a aplicação só ao processo civil podem levantar questões de coerência e de garantia do juiz natural. O texto prevê audição de várias entidades judiciárias.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere despesa nem receita; as alterações são procedimentais e o impacto financeiro não está quantificado."
+ },
+ "affected": [
+  "juízes",
+  "oficiais de justiça",
+  "advogados",
+  "partes em processos judiciais"
+ ],
+ "categories": [
+  "justica"
+ ],
+ "tags": [
+  "distribuição de processos",
+  "código de processo civil",
+  "juiz natural",
+  "tribunais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

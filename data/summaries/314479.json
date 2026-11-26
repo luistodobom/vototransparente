@@ -1,0 +1,44 @@
+{
+ "short_title": "Dignidade da vida intrauterina e apoio à maternidade vulnerável",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo seis medidas de apoio à gravidez e à parentalidade: investir no diagnóstico precoce da infertilidade e reforçar as respostas públicas; reforçar a proteção da mulher grávida nos cuidados de saúde perinatais e pós-parto, incluindo preparação para o parto, fisioterapia da cintura pélvica e apoio psicológico contra a depressão pós-parto; promover aconselhamento especializado a casais com história familiar de anomalias congénitas; combater a discriminação laboral das grávidas e criar incentivos fiscais a empresas com políticas favoráveis à família; garantir aos trabalhadores independentes os mesmos direitos de proteção na maternidade e paternidade; e ponderar um fundo de emergência para famílias que pensem recorrer ao aborto por razões materiais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Investir no diagnóstico precoce da infertilidade e reforçar as respostas públicas.",
+  "Reforçar os cuidados perinatais e pós-parto, incluindo apoio psicológico.",
+  "Aconselhamento especializado a casais com história familiar de anomalias congénitas.",
+  "Combater a discriminação laboral das grávidas e criar incentivos fiscais a empresas favoráveis à família.",
+  "Igualar os direitos de proteção na parentalidade dos trabalhadores independentes.",
+  "Ponderar um fundo de emergência para famílias que pensem abortar por razões materiais."
+ ],
+ "plain_language": "O CHEGA pede ao Governo mais apoio a quem quer ter filhos e a quem está grávida: tratamentos de infertilidade, melhores cuidados antes e depois do parto, proteção no trabalho, direitos iguais para trabalhadores independentes e um possível fundo de emergência para famílias que pensem fazer um aborto por falta de dinheiro. É só uma recomendação.",
+ "context": "O proponente fala de pobreza gestacional: refere que cerca de 2 milhões de portugueses vivem com menos de 600 euros por mês, que a taxa de pobreza em famílias com três ou mais filhos é de 40%, que a CITE recebeu 1.395 comunicações de não renovação de contratos de trabalhadoras grávidas em 2022, e que a fecundidade desejada excede a realizada. Defende que nenhuma mulher deve ser coagida a abortar por falta de condições.",
+ "analysis": "Várias medidas, como cuidados perinatais, apoio psicológico e igualdade de direitos dos independentes, têm apoio amplo e respondem a problemas documentados. O conceito de pobreza gestacional é do proponente e a ligação entre pobreza e IVG assenta em dados de relatório oficial que mostram correlação, não causalidade. O fundo de emergência é apenas para ponderar e não define critérios ou custo, e os incentivos fiscais a empresas implicam perda de receita. O texto inclui comentários políticos sobre imigração alheios ao objeto. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reforço de cuidados de saúde, apoio psicológico, um possível fundo de emergência e incentivos fiscais a empresas implicam despesa e menor receita. O texto não apresenta valores."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "casais com infertilidade",
+  "trabalhadores independentes",
+  "empresas empregadoras"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "natalidade",
+  "infertilidade",
+  "gravidez",
+  "proteção na parentalidade",
+  "pobreza gestacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

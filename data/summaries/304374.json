@@ -1,0 +1,38 @@
+{
+ "short_title": "Urgência para a revisão da lei eleitoral da Madeira",
+ "summary": "Projeto de Deliberação do Presidente da Assembleia da República que declara a urgência na apreciação da Proposta de Lei n.º 39/XVI/1.ª, da Assembleia Legislativa da Madeira, que procede à segunda alteração da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira. O pedido de urgência foi feito pela assembleia regional e, nos termos do n.º 3 do artigo 128.º-A do Regimento, o Presidente tem de o submeter a votação na primeira reunião plenária seguinte. O texto é procedimental e não altera o conteúdo da proposta de lei.",
+ "key_points": [
+  "Declara a urgência na apreciação da Proposta de Lei n.º 39/XVI/1.ª.",
+  "Responde ao pedido da Assembleia Legislativa da Madeira.",
+  "Aplica o n.º 3 do artigo 128.º-A do Regimento."
+ ],
+ "plain_language": "A Assembleia da Madeira pediu que a sua proposta de alteração à lei eleitoral regional fosse tratada com urgência. O Presidente da Assembleia da República põe esse pedido à votação dos deputados. Não discute o conteúdo da proposta.",
+ "context": "O Regimento obriga o Presidente da Assembleia da República a submeter a votação, na primeira reunião plenária seguinte, o pedido de urgência feito por uma assembleia legislativa regional.",
+ "analysis": "É um ato processual sem conteúdo de política pública. O efeito da urgência é acelerar a tramitação da proposta de lei, o que pode reduzir o tempo de análise. O texto não indica motivos do pedido nem prazos concretos. O mérito da proposta de lei consta do respetivo documento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "É uma deliberação processual sobre a tramitação de outra iniciativa e não tem impacto orçamental próprio."
+ },
+ "affected": [
+  "Assembleia Legislativa da Região Autónoma da Madeira",
+  "deputados da Assembleia da República",
+  "eleitores da Madeira"
+ ],
+ "categories": [
+  "instituicoes",
+  "territorio"
+ ],
+ "tags": [
+  "processo de urgência",
+  "regimento",
+  "lei eleitoral",
+  "Madeira"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

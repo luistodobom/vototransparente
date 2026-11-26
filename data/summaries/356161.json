@@ -1,0 +1,40 @@
+{
+ "short_title": "Atualizar valores da rede de cuidados continuados e paliativos",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo que atualize os montantes de valor/dia/utente e demais disposições relativos à Rede Nacional de Cuidados Continuados Integrados e à Rede Nacional de Cuidados Paliativos, por referência ao índice de preços no consumidor (IPC) acumulado desde a data da última atualização. Sustenta que a atualização da Portaria n.º 162/2025/1 foi manifestamente insuficiente e cita um estudo da Faculdade de Economia do Porto sobre os custos efetivos das unidades de convalescença, média duração e longa duração, com um cenário base e três cenários alternativos.",
+ "key_points": [
+  "Atualizar o valor/dia/utente das redes de cuidados continuados e paliativos.",
+  "Usar como referência o IPC acumulado desde a última atualização.",
+  "Fundamentar o pedido num estudo da Faculdade de Economia do Porto sobre custos efetivos das unidades.",
+  "Invocar o risco de encerramento de respostas e de degradação dos cuidados."
+ ],
+ "plain_language": "As instituições que cuidam de doentes em cuidados continuados e paliativos dizem que o Estado paga menos do que o custo real. A Iniciativa Liberal pede ao Governo que corrija o valor pago por doente e por dia, seguindo a inflação acumulada. É uma recomendação.",
+ "context": "A Iniciativa Liberal afirma que, apesar da atualização da Portaria n.º 162/2025/1, os valores não cobrem os custos e os défices tendem a agravar-se. O estudo citado, com dados contabilísticos de 2024, calculou custos unitários num cenário base e em três cenários com aumentos salariais, inflação e subida do salário mínimo.",
+ "analysis": "A proposta é objetiva ao indexar a atualização ao IPC e apoia-se num estudo de custos. Fragilidades: a tabela com os resultados do estudo não consta do texto disponível, pelo que o hiato exato não se vê; o estudo foi feito sobre instituições associadas da ANCC, o que pode não ser representativo; e uma indexação automática ao IPC é um critério simples que pode não refletir a estrutura de custos (sobretudo salários). Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar o valor/dia/utente das redes de cuidados continuados e paliativos aumenta a despesa do Estado; o texto não apresenta o montante."
+ },
+ "affected": [
+  "unidades de cuidados continuados integrados",
+  "unidades da Rede Nacional de Cuidados Paliativos",
+  "doentes e famílias",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados continuados",
+  "cuidados paliativos",
+  "valor por utente/dia",
+  "IPC",
+  "financiamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

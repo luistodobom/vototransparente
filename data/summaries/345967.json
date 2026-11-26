@@ -1,0 +1,40 @@
+{
+ "short_title": "Concursos para postos ocupados por contratados do PRR",
+ "summary": "Projeto de resolução do PS que recomenda ao Governo que, em 30 dias, conclua e divulgue publicamente o levantamento dos trabalhadores contratados ao abrigo do Plano de Recuperação e Resiliência, por área governativa e serviço, e respetivas formas de contratação. Recomenda que, em 60 dias, lance procedimentos concursais para cobrir os postos de trabalho ocupados por esses trabalhadores, nomeadamente com contrato a termo ou prestação de serviços. Nos concursos, deve prever uma majoração nos critérios de acesso que valorize a experiência profissional nas áreas e postos em causa, respeitando o princípio constitucional da igualdade de acesso à administração pública. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Levantamento e divulgação pública, em 30 dias, dos trabalhadores contratados via PRR e dos tipos de vínculo.",
+  "Lançamento de concursos em 60 dias para os postos ocupados por esses trabalhadores.",
+  "Majoração nos critérios de acesso que valorize a experiência nos postos em causa.",
+  "Respeito pela igualdade de acesso à administração pública."
+ ],
+ "plain_language": "Muitos trabalhadores foram contratados a prazo para executar o PRR e correm o risco de ficar sem emprego quando o plano acabar. O PS pede ao Governo que diga quantos são e abra concursos para os lugares que ocupam, dando algum peso à experiência que já têm, para manter pessoas qualificadas na administração pública.",
+ "context": "O PS invoca a incerteza dos trabalhadores à medida que o PRR termina, a necessidade de reforçar a capacidade de execução de fundos europeus (cita uma execução do PT2030 de 14% no final de novembro de 2025) e de renovar quadros da administração. Critica a resposta do Governo a questões colocadas desde o verão.",
+ "analysis": "Pontos fortes: aproveita competências adquiridas, reduz a precariedade e responde a uma necessidade de reforço da administração. Fragilidades: concursos dirigidos a postos ocupados por contratados podem gerar tensão com a igualdade de acesso, e a majoração da experiência pode ser contestada. Os prazos de 30 e 60 dias são curtos, o financiamento dos lugares permanentes após o PRR não é discutido e o texto não quantifica o número de trabalhadores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A abertura de concursos para postos permanentes implica encargos com pessoal após o fim do financiamento do PRR. O texto não quantifica o número de postos nem o custo."
+ },
+ "affected": [
+  "trabalhadores contratados via PRR",
+  "serviços da administração pública",
+  "candidatos a concursos públicos"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "PRR",
+  "contratação pública",
+  "precariedade",
+  "administração pública",
+  "concursos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Definição de profissão de desgaste rápido",
+ "summary": "O projeto de lei da Iniciativa Liberal adita ao Código do Trabalho o artigo 282.º-A, que define como profissão de desgaste rápido a atividade sujeita a desgaste físico ou emocional mais acentuado, nomeadamente por temperaturas extremas, insalubridade, ruído elevado, variações de pressão atmosférica, risco elevado de lesão incapacitante ou de morte, ou turnos. Quem cumprir um ou mais critérios tem direito a dias adicionais de férias ou descanso, suplementos remuneratórios, adaptação de funções e majoração do tempo de serviço para aposentação antecipada. Os parâmetros técnicos serão fixados em diploma próprio, as profissões atuais são revistas em 180 dias e a lei entra em vigor 180 dias após a publicação. A noção é também remetida na Lei Geral do Trabalho em Funções Públicas.",
+ "key_points": [
+  "Define profissão de desgaste rápido com critérios como temperaturas extremas, ruído, insalubridade, risco elevado e turnos.",
+  "Atribui dias adicionais de férias ou descanso e suplementos remuneratórios.",
+  "Prevê adaptação de funções e majoração do tempo de serviço para aposentação antecipada.",
+  "Remete parâmetros, regras de negociação e regras de pensões para diploma próprio.",
+  "Manda rever as profissões de desgaste rápido em 180 dias, salvaguardando direitos adquiridos."
+ ],
+ "plain_language": "A proposta define na lei o que é uma profissão de desgaste rápido, com base em condições de trabalho como calor extremo, ruído, risco elevado ou turnos. Quem as sofrer teria direito a benefícios como mais dias de descanso, suplementos, funções adaptadas e contagem mais favorável do tempo para reforma antecipada. Os detalhes seriam fixados mais tarde, noutro diploma.",
+ "context": "A IL refere o grupo de trabalho criado pelo Governo para estudar estas profissões, que não terá chegado a consenso por falta de enquadramento legal ou científico claro e dificuldade em distinguir o conceito de doença profissional. Defende uma noção aplicável a cada trabalhador, e não à profissão, com benefícios adaptados individualmente, em articulação com a concertação social.",
+ "analysis": "Dá critérios objetivos e individualizados, em vez de listas fechadas de profissões, o que pode ser mais justo e flexível. Fragilidades: os critérios são amplos (por exemplo, turnos) e podem abranger muitos trabalhadores, com custos significativos não estimados; os parâmetros, as regras de negociação e as regras de pensões ficam para diploma posterior, deixando indefinido o alcance real; a numeração de artigos do articulado tem repetições. A articulação com o grupo de trabalho e a concertação social não é regulada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Suplementos remuneratórios, dias adicionais e aposentação antecipada implicam custos para empregadores e para a Segurança Social, que dependem de diploma posterior. O texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores por turnos",
+  "trabalhadores expostos a condições extremas",
+  "empregadores",
+  "Segurança Social",
+  "trabalhadores em funções públicas"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "aposentação antecipada",
+  "código do trabalho",
+  "turnos",
+  "penosidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

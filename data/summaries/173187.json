@@ -1,0 +1,41 @@
+{
+ "short_title": "Programa de valorização do ensino artístico",
+ "summary": "O Bloco de Esquerda propõe a criação de um programa de valorização do ensino artístico, com o objetivo de ampliar a rede pública de ensino artístico e reconhecer vínculos adequados aos docentes que já exercem funções nos estabelecimentos públicos. A lei determina que, nos seis meses seguintes à publicação, seja elaborado um plano de ampliação da rede, incluindo o levantamento das necessidades de contratação de docentes. Durante o ano letivo de 2023/2024 seriam lançados concursos para contratar o número de docentes adequado a essa ampliação. O Governo regulamentaria a lei em 30 dias e esta entraria em vigor com o Orçamento do Estado subsequente. A exposição de motivos foca as escolas artísticas António Arroio e Soares dos Reis e a situação precária dos docentes de técnicas especiais.",
+ "key_points": [
+  "Cria um programa de valorização do ensino artístico, com ampliação da rede pública.",
+  "Plano de ampliação da rede e levantamento das necessidades de contratação de docentes em seis meses.",
+  "Concursos para contratação de docentes no ano letivo de 2023/2024.",
+  "Regulamentação pelo Governo em 30 dias.",
+  "Entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "A proposta obriga o Estado a preparar, em seis meses, um plano para alargar as escolas públicas de ensino artístico e a abrir concursos para contratar os professores necessários, incluindo os que já trabalham nestas escolas sem vínculo estável. Procura dar estabilidade a docentes de oficinas e técnicas especiais e permitir que mais alunos tenham acesso a este tipo de ensino.",
+ "context": "O proponente invoca a precariedade dos docentes de técnicas especiais das escolas António Arroio e Soares dos Reis, a vinculação extraordinária prevista na Lei n.º 46/2021 (com parte considerada inconstitucional pelo Tribunal Constitucional) e o atraso na sua aplicação. Defende que estes docentes são uma necessidade permanente da escola pública.",
+ "analysis": "O texto é curto e define prazos concretos, mas é genérico quanto ao conteúdo: não indica quantas escolas, cursos ou docentes seriam abrangidos, nem o custo. Fica por esclarecer como se articula com o concurso extraordinário entretanto aprovado pelo Governo, e com a competência do Executivo em matéria de recrutamento, matéria já discutida no Tribunal Constitucional. O prazo de concursos no ano letivo 2023/2024 pode ser difícil de cumprir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A ampliação da rede e a contratação de docentes implicam encargos com pessoal e instalações, que o texto não quantifica; a lei só entraria em vigor com o Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "docentes do ensino artístico especializado",
+  "estudantes de artes",
+  "escolas artísticas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "cultura",
+  "trabalho"
+ ],
+ "tags": [
+  "ensino artístico",
+  "vinculação de docentes",
+  "escolas artísticas",
+  "técnicas especiais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

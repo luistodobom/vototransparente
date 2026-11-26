@@ -1,0 +1,42 @@
+{
+ "short_title": "Alargar a ação social escolar, fruta e leite escolar gratuitos",
+ "summary": "Projeto de lei do PCP que, para o ano letivo em curso, alarga o acesso aos apoios da ação social escolar (Despacho n.º 8452-A/2015) aos alunos de agregados nos escalões 1 a 4 do abono de família, de modo que o escalão A passa a abranger os escalões 1 e 2, o B o escalão 3 e o C o escalão 4. Alunos dos escalões B e C com um progenitor em desemprego involuntário ou com redução de horário durante três ou mais meses nos últimos doze são reposicionados no escalão A. Fixa em 100% a comparticipação das visitas de estudo e da alimentação em todos os escalões e alarga a distribuição gratuita de fruta e leite escolar a toda a escolaridade obrigatória nas escolas públicas.",
+ "key_points": [
+  "Alarga a ação social escolar aos escalões 1 a 4 do abono de família.",
+  "Escalão A passa a incluir os escalões 1 e 2 do abono; B corresponde ao 3 e C ao 4.",
+  "Reposiciona no escalão A os alunos de agregados com desemprego involuntário ou redução de horário há três ou mais meses.",
+  "Comparticipação de 100% nas visitas de estudo e na alimentação para os escalões A, B e C.",
+  "Alarga a distribuição gratuita de fruta e leite a toda a escolaridade obrigatória nas escolas públicas.",
+  "Produz efeitos com o Orçamento do Estado, cabendo ao Governo criar condições para 2021."
+ ],
+ "plain_language": "Mais famílias teriam direito a apoios para os filhos na escola, como refeições e visitas de estudo gratuitas, porque a pandemia reduziu rendimentos. Os alunos de escolas públicas passariam também a receber fruta e leite grátis em toda a escolaridade obrigatória. Os apoios seriam pagos pelo Estado.",
+ "context": "O proponente sustenta que as despesas com a escolaridade obrigatória pesam nos orçamentos familiares e que a pandemia agravou a situação das famílias, com cortes de salários e desemprego. Refere que várias escolas identificaram dificuldades dos alunos e apelos a um reforço alimentar para além do almoço.",
+ "analysis": "Dá resposta direta a famílias afetadas pela crise, usando a estrutura existente da ação social escolar. Fragilidades: o custo não é estimado e os efeitos dependem de disponibilidade orçamental em 2021; a gratuitidade total para todos os escalões pode ser pouco focada; a ligação entre abono de família e ASE exige articulação administrativa; o texto recorre a possível financiamento comunitário sem concretizar.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento dos escalões, a comparticipação de 100% e a fruta e leite gratuitos aumentam a despesa pública; o texto não quantifica o custo."
+ },
+ "affected": [
+  "alunos do pré-escolar, básico e secundário",
+  "famílias em escalões 1 a 4 do abono",
+  "famílias com desemprego ou redução de horário",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "ação social escolar",
+  "abono de família",
+  "fruta e leite escolar",
+  "visitas de estudo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

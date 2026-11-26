@@ -1,0 +1,42 @@
+{
+ "short_title": "Quociente familiar no IRS com dependentes",
+ "summary": "O Projeto de Resolução do JPP recomenda ao Governo a criação de um verdadeiro quociente familiar no IRS, em que os dependentes são considerados na determinação do rendimento coletável para efeitos das taxas progressivas, através de um sistema de partes. O sujeito passivo não casado vale 1 parte, os casados ou unidos de facto em tributação conjunta valem 2 partes, o primeiro e o segundo dependente valem 0,5 parte cada e o terceiro e seguintes valem 1 parte cada. Nos agregados monoparentais, o primeiro dependente vale 1 parte. Recomenda ainda um limite máximo ao benefício fiscal por dependente e a articulação com as deduções à coleta do artigo 78.º-A do Código do IRS. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Sistema de partes fiscais: 1 parte para o sujeito passivo individual e 2 partes para casados ou unidos de facto em tributação conjunta.",
+  "Primeiro e segundo dependente valem 0,5 parte cada; terceiro e seguintes valem 1 parte cada.",
+  "Nos agregados monoparentais, o primeiro dependente vale 1 parte em vez de 0,5.",
+  "Limite máximo ao benefício fiscal por dependente, para evitar efeitos regressivos e benefícios desproporcionados nos escalões mais altos.",
+  "Articulação com as deduções à coleta por dependente do artigo 78.º-A do Código do IRS."
+ ],
+ "plain_language": "O JPP quer que o IRS tenha em conta quantas pessoas vivem do rendimento de uma família: cada filho contaria como uma fração de pessoa para calcular a taxa de imposto, com mais peso a partir do terceiro filho e nas famílias monoparentais, e com um teto ao benefício para não favorecer os rendimentos mais altos.",
+ "context": "O proponente argumenta que famílias com o mesmo rendimento mas com diferente número de filhos não têm a mesma capacidade económica e que o atual quociente familiar do artigo 69.º do Código do IRS se limita a dividir por dois o rendimento de casais em tributação conjunta. Invoca a natalidade e o custo de vida.",
+ "analysis": "A proposta tem uma lógica de equidade e apoio à natalidade, e o limite ao benefício procura travar a regressividade típica de sistemas de quociente. Mas o texto não quantifica o impacto orçamental nem a distribuição por escalões, não define o limite máximo e deixa em aberto o destino das deduções atuais. Sistemas de partes tendem a beneficiar mais quem tem rendimentos altos, e a eficácia na natalidade não é demonstrada. A complexidade do cálculo pode aumentar.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Considerar os dependentes nas taxas progressivas reduziria o IRS de famílias com filhos, diminuindo a receita fiscal. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "famílias com dependentes",
+  "famílias monoparentais",
+  "famílias numerosas",
+  "contribuintes de IRS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "quociente familiar",
+  "irs",
+  "natalidade",
+  "dependentes",
+  "famílias monoparentais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

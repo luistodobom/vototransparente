@@ -1,0 +1,39 @@
+{
+ "short_title": "Reconhecer tempo de serviço de docentes do ensino superior",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo que reconheça, para efeitos de progressão na carreira docente dos ensinos básico e secundário, o tempo de serviço prestado no ensino superior, nas mesmas circunstâncias previstas no Decreto-Lei n.º 51/2024. Pede um levantamento do número de docentes a quem esse tempo não foi reconhecido e a dispensa do período probatório para todos os docentes com docência prévia no ensino superior, garantindo o reconhecimento do tempo efetivo e a progressão adequada. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Levantamento do número de docentes cujo tempo de serviço no ensino superior não foi reconhecido.",
+  "Dispensa do período probatório para docentes com docência prévia no ensino superior.",
+  "Reconhecimento do tempo de serviço efetivo para progressão na carreira.",
+  "Aplicação das mesmas regras previstas no Decreto-Lei n.º 51/2024 para docentes contratados."
+ ],
+ "plain_language": "O PS pede ao Governo que conte o tempo que alguns professores trabalharam no ensino superior para a sua carreira nas escolas, tal como já acontece com os docentes contratados ao abrigo de um decreto de 2024. É um pedido que o Governo pode ou não acolher.",
+ "context": "O PS refere que o Decreto-Lei 51/2024 permite posicionar em escalões superiores docentes do ensino superior contratados a termo, mas que professores já vinculados com tempo no ensino superior não veem esse tempo contado. Invoca acórdãos de tribunais administrativos e o princípio constitucional de salário igual para trabalho igual.",
+ "analysis": "A iniciativa aponta uma assimetria concreta entre docentes contratados e docentes dos quadros, apoiada por jurisprudência. Tem a vantagem de começar por um levantamento do universo afetado. Porém, sendo uma recomendação, não vincula o Governo, e o texto não estima o número de docentes nem os custos, nem esclarece como se articula com a revisão do estatuto da carreira docente.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reposicionamento de docentes em escalões superiores aumentaria a despesa salarial. O texto não apresenta montantes."
+ },
+ "affected": [
+  "docentes dos ensinos básico e secundário",
+  "docentes com experiência no ensino superior",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira docente",
+  "tempo de serviço",
+  "ensino superior",
+  "período probatório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

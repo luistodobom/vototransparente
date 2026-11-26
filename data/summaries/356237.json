@@ -1,0 +1,45 @@
+{
+ "short_title": "Revisão da lei do TVDE com consulta pública",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo que inicie a revisão da Lei n.º 45/2018 (regime do transporte em veículos descaracterizados a partir de plataforma eletrónica, TVDE), com consulta pública e audição de entidades públicas, do setor e dos consumidores. Pede um relatório atualizado ao Parlamento sobre a aplicação do regime, o reforço de padrões de segurança e qualidade, maior transparência tarifária (incluindo comissões e preço dinâmico), fiscalização conjunta com a ACT às relações de trabalho, negociação coletiva dos motoristas, convergência regulatória entre táxi e TVDE, partilha de dados anonimizados com municípios, avaliação da extensão a triciclos e quadriciclos e margem regulatória para os Açores e a Madeira.",
+ "key_points": [
+  "Iniciar a revisão da Lei n.º 45/2018 com consulta pública e audições.",
+  "Relatório ao Parlamento com indicadores de mercado, fiscalização, sinistralidade e reclamações.",
+  "Maior transparência tarifária, incluindo a taxa de intermediação e o preço dinâmico, com possibilidade de auditoria.",
+  "Fiscalização reforçada com a ACT e promoção da negociação coletiva dos motoristas.",
+  "Convergência regulatória entre táxi e TVDE e partilha de dados anonimizados com municípios.",
+  "Avaliar a extensão do regime a triciclos e quadriciclos e dar margem às Regiões Autónomas."
+ ],
+ "plain_language": "O PS pede ao Governo que reveja a lei que regula a Uber, a Bolt e similares, ouvindo o setor, os motoristas e os consumidores. Quer mais segurança, mais transparência nos preços e nas comissões, mais fiscalização das condições de trabalho e regras mais equilibradas entre táxis e TVDE. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente considera que a Lei n.º 45/2018 teve efeitos positivos mas que o setor cresceu e se tornou mais complexo, com tensões entre inovação e proteção do consumidor e riscos de precariedade na economia de plataformas. Defende uma revisão baseada em evidência, evitando respostas precipitadas.",
+ "analysis": "A proposta é abrangente e equilibrada nos temas, procurando conciliar inovação, concorrência e direitos laborais, e privilegia a consulta e a avaliação prévia. Em contrapartida, é pouco concreta: não fixa valores, prazos ou medidas específicas, remetendo para o processo de revisão. Alguns pontos, como a convergência com o táxi e a negociação coletiva, podem ter interesses contraditórios entre os envolvidos e o texto não os resolve. Sendo recomendação, depende da iniciativa do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; o reforço de fiscalização e de recolha de dados poderá implicar despesa administrativa, mas não é estimada."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "plataformas de transporte",
+  "taxistas",
+  "passageiros",
+  "municípios"
+ ],
+ "categories": [
+  "transportes",
+  "trabalho",
+  "consumidores"
+ ],
+ "tags": [
+  "TVDE",
+  "plataformas digitais",
+  "táxi",
+  "Lei n.º 45/2018",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

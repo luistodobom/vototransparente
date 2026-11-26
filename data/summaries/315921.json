@@ -1,0 +1,40 @@
+{
+ "short_title": "Propinas gratuitas na licenciatura e teto no mestrado e doutoramento",
+ "summary": "O projeto de lei do LIVRE altera a Lei de Bases do Financiamento do Ensino Superior (Lei n.º 37/2003) para eliminar progressivamente as propinas do 1.º ciclo e dos cursos técnicos superiores profissionais: as taxas cobradas são reduzidas anualmente em um terço do valor de 2025/2026, a partir de 2026/2027, até desaparecerem em 2028/2029. Nos ciclos de mestrado e doutoramento, mantém-se a cobrança, com mínimo anual de um terço do salário mínimo nacional e máximo indexado ao salário mínimo. Os beneficiários de bolsas de ação social não pagam propinas. O impacto é compensado pelo Orçamento do Estado, sendo vedado às instituições cobrar outras taxas para compensar.",
+ "key_points": [
+  "Redução anual de um terço das propinas da licenciatura até à eliminação em 2028/2029.",
+  "Mínimo anual de um terço do salário mínimo e máximo indexado ao salário mínimo para mestrado e doutoramento.",
+  "Beneficiários de bolsas de ação social ficam isentos de propinas.",
+  "Compensação integral às instituições através do Orçamento do Estado.",
+  "Proíbe taxas e emolumentos que compensem a perda de propinas."
+ ],
+ "plain_language": "Os estudantes de licenciatura deixariam de pagar propinas ao fim de três anos, com descidas graduais. Em mestrados e doutoramentos haveria valores mínimos e máximos fixados. O Estado compensaria as universidades e politécnicos pelo dinheiro que deixassem de receber.",
+ "context": "O LIVRE defende o princípio constitucional da gratuitidade progressiva do ensino e invoca o custo do alojamento e a insuficiência de apoios sociais como fatores que afastam jovens do ensino superior. Reconhece o subfinanciamento das instituições e por isso exige compensação integral e estável.",
+ "analysis": "A proposta atua sobre uma barreira económica real e protege as instituições com compensação orçamental, o que é um ponto forte. Fragilidades: não apresenta o custo total para o Estado; o texto de alteração mantém marcas de revogação e redações que podem ser confusas; as propinas são parte relevante das receitas próprias, pelo que a estabilidade da compensação é crítica; e a gratuitidade não resolve os custos de alojamento que a própria exposição considera centrais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A eliminação das propinas da licenciatura é compensada pelo Orçamento do Estado, aumentando a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "estudantes do ensino superior",
+  "famílias",
+  "instituições de ensino superior públicas"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "financiamento",
+  "gratuitidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

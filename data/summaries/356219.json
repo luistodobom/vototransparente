@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoios adicionais a agricultores afetados pela depressão Kristin",
+ "summary": "O Projeto de Resolução n.º 632/XVII/1.ª, do CDS-PP, recomenda ao Governo que considere medidas adicionais de apoio aos agricultores afetados pela depressão Kristin: incorporar os prejuízos de todas as situações climatéricas que se lhe seguiram; rever o limite de ajuda por parcela acima de 30% de prejuízos, considerando a parcela e não o total da propriedade; rever o teto máximo de apoios ao setor; autorizar drones nos tratamentos fitossanitários; rever as regras das medidas agroambientais para não penalizar quem não as consegue cumprir; e simplificar as candidaturas, equiparando-as às do apoio à reconstrução de habitação própria e permanente. Não é vinculativa.",
+ "key_points": [
+  "Incorporar nos apoios os prejuízos das chuvas intensas posteriores à Kristin.",
+  "Rever o limite de ajuda por parcela acima de 30% de prejuízos.",
+  "Rever o teto máximo de apoios ao setor agrícola.",
+  "Autorizar drones em tratamentos fitossanitários.",
+  "Rever as regras agroambientais e simplificar as candidaturas aos apoios."
+ ],
+ "plain_language": "A tempestade destruiu estufas, pomares, vinhas e caminhos rurais. O CDS-PP pede ao Governo que alargue e facilite os apoios aos agricultores, por exemplo olhando às perdas de cada parcela e permitindo tratamentos com drones. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O CDS-PP descreve danos severos na agricultura e afirma que cerca de 6.100 entidades declararam perdas acima de 384 milhões de euros nas CCDR, valor que diz ser mais de nove vezes o apoio de 40 milhões de euros anunciado pelo Governo. Refere ainda que muitos agricultores ainda não conseguem quantificar os prejuízos.",
+ "analysis": "Pontos fortes: propõe medidas específicas e baseia-se em dados de perdas declaradas. Fragilidades: os números das perdas são declarações, não avaliações verificadas, e a distância entre perdas e apoio não implica que todas as perdas devam ser compensadas. O texto admite que alguns limites decorrem de legislação europeia que o Governo não pode alterar. Não estima o custo das medidas e, sendo uma resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não estima o custo das medidas. Alargar apoios e rever tetos implicaria maior despesa pública, face aos 40 milhões de euros anunciados pelo Governo e a perdas declaradas acima de 384 milhões."
+ },
+ "affected": [
+  "agricultores afetados pela depressão Kristin",
+  "produtores de pera, maçã e em estufa",
+  "Ministério da Agricultura e Mar"
+ ],
+ "categories": [
+  "agricultura",
+  "seguranca",
+  "economia"
+ ],
+ "tags": [
+  "depressão kristin",
+  "agricultores",
+  "apoios",
+  "drones"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Plataforma de Registo de Arrendatários Municipais (PRAM)",
+ "summary": "O projeto de lei do Chega cria a Plataforma de Registo de Arrendatários Municipais (PRAM), de âmbito nacional, que centraliza a informação sobre habitação pública e os seus beneficiários, partilhada por todos os municípios do Continente e das Regiões Autónomas. No momento da atribuição, é obrigatório registar a habitação, o arrendatário e os elementos do agregado familiar (nome, NIF e número de segurança social). A plataforma permite consultar o registo predial para verificar se os beneficiários têm habitação própria. Proíbe a cessão da posição contratual, o subarrendamento, a hospedagem e o comodato, impõe a comunicação de alterações à câmara em 8 dias e prevê a perda do direito à habitação em caso de incumprimento. A regulamentação deve ocorrer em 90 dias e a plataforma deve estar operacional a 1 de janeiro de 2026.",
+ "key_points": [
+  "Cria uma plataforma nacional que centraliza dados de habitação pública e de beneficiários, partilhada pelos municípios.",
+  "Obriga ao registo da habitação, do arrendatário e do agregado familiar na atribuição.",
+  "Permite consultar o registo predial para verificar se o beneficiário é proprietário de habitação própria.",
+  "Proíbe subarrendamento, cessão da posição contratual, hospedagem e comodato; alterações comunicadas em 8 dias.",
+  "Incumprimento por culpa do arrendatário determina a perda do direito à habitação; plataforma operacional em 1 de janeiro de 2026."
+ ],
+ "plain_language": "A proposta cria um registo nacional das pessoas que vivem em casas municipais, para evitar que alguém tenha casa pública e também casa própria, ou que subarrende a casa a terceiros. Quem mudar a composição da família tem de avisar a câmara em 8 dias. Quem infringir as regras pode perder o direito à casa.",
+ "context": "O Chega refere esquemas de subarrendamento e da chamada \"cama quente\" em habitação municipal, a dívida de rendas em atraso e a dificuldade de detetar fraude. Defende que uma plataforma partilhada entre municípios e conservatórias, ao abrigo do Simplex e do PRR, e uma fiscalização eficaz permitiriam atribuir casas a quem realmente precisa.",
+ "analysis": "Visa transparência e equidade na atribuição, e o cruzamento com o registo predial é um instrumento concreto contra a fraude. Riscos: tratamento de dados pessoais de agregados inteiros, embora o texto remeta para o RGPD; perda do direito à habitação como sanção automática pode afetar pessoas vulneráveis sem ponderação do caso; o prazo de 1 de janeiro de 2026 é exigente e o texto não prevê financiamento nem reforço da fiscalização nas câmaras, que o próprio proponente considera essencial. Há ainda uma numeração duplicada de artigos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e manutenção da plataforma implicam despesa pública. O texto refere que seria possível recorrer a verbas do PRR e do Simplex, sem montantes."
+ },
+ "affected": [
+  "arrendatários de habitação municipal",
+  "municípios",
+  "candidatos a habitação pública",
+  "conservatórias do registo predial"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao",
+  "territorio"
+ ],
+ "tags": [
+  "habitação municipal",
+  "subarrendamento",
+  "registo",
+  "plataforma digital",
+  "fraude"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

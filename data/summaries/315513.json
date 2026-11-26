@@ -1,0 +1,41 @@
+{
+ "short_title": "Cria o Provedor da Criança junto da Provedoria de Justiça",
+ "summary": "O projeto de lei do CHEGA cria a figura do Provedor da Criança, integrada na Provedoria de Justiça, através da quarta alteração à Lei n.º 9/91. O Provedor da Criança teria competência em matéria de infância e juventude, com os poderes do Provedor de Justiça nessas matérias (exceto gestão da Provedoria), e poderia atuar por iniciativa própria. Seria designado pela Assembleia da República por maioria de dois terços, com mandato igual ao do Provedor de Justiça, e teria gabinete próprio. Entre as competências: investigar violações de direitos da criança, elaborar relatórios, pronunciar-se sobre legislação que afete crianças, recolher e publicar dados e responder a queixas individuais.",
+ "key_points": [
+  "Cria o Provedor da Criança, integrado na Provedoria de Justiça.",
+  "Designação pela Assembleia da República por maioria de dois terços.",
+  "Mandato correspondente ao do Provedor de Justiça.",
+  "Gabinete próprio, com chefe de gabinete, três adjuntos e quatro secretárias pessoais.",
+  "Competências de investigação, relatórios, pareceres sobre legislação e resposta a queixas de crianças."
+ ],
+ "plain_language": "O CHEGA propõe criar um provedor só para as crianças, dentro da Provedoria de Justiça. Seria eleito pelo Parlamento, poderia investigar violações de direitos das crianças, dar opinião sobre leis e receber queixas. O objetivo é ter uma entidade independente dedicada a este tema.",
+ "context": "O proponente invoca a Convenção sobre os Direitos da Criança e as observações do Comité da ONU de 2019, que recomendam um mecanismo específico junto do Provedor de Justiça. Diz que a ausência desta figura impede Portugal de integrar a rede europeia ENOC e que a CNPDPCJ não tem independência suficiente.",
+ "analysis": "A proposta responde a uma recomendação internacional e reforça a independência na defesa das crianças. Fragilidades: já existe na Provedoria um Núcleo da Criança, do Cidadão Idoso e da Pessoa com Deficiência, e o texto não explica claramente a diferença prática de competências nem evita sobreposição com a CNPDPCJ. Não há estimativa de custos do novo gabinete e a redação mistura referências ao Provedor de Justiça e ao Provedor da Criança, podendo gerar ambiguidades.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um novo gabinete com chefe de gabinete, adjuntos e secretárias implica despesa adicional. O texto não indica montantes."
+ },
+ "affected": [
+  "crianças e jovens",
+  "famílias",
+  "Provedoria de Justiça"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "instituicoes"
+ ],
+ "tags": [
+  "provedor da criança",
+  "direitos da criança",
+  "Provedoria de Justiça",
+  "ENOC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

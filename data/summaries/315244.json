@@ -1,0 +1,41 @@
+{
+ "short_title": "Linha de apoio aos agricultores do Douro na crise vitivinícola",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo sete medidas face à crise vitivinícola na Região Demarcada do Douro: criar com urgência uma linha de apoio financeiro a pequenos e médios agricultores; avaliar, por estudo técnico-económico, o uso exclusivo de aguardente de vinhos do Douro no Vinho do Porto, em percentagens definidas pelo Conselho Interprofissional do IVDP; reforçar a fiscalização das importações de vinho e os meios do IVDP; suspender as cativações financeiras ao IVDP para campanhas de promoção; rever a rotulagem e o armazenamento para clarificar a origem dos vinhos; criar mecanismos de compensação por perdas de rendimento; e explorar a articulação entre turismo e agricultura.",
+ "key_points": [
+  "Criar com urgência uma linha de apoio financeiro a pequenos e médios agricultores do Douro.",
+  "Estudar o uso exclusivo de aguardente de vinhos do Douro no Vinho do Porto.",
+  "Reforçar a fiscalização das importações de vinho e os meios do IVDP, suspendendo as cativações.",
+  "Rever a legislação de rotulagem e armazenamento para clarificar a origem dos vinhos.",
+  "Criar compensações por perdas de rendimento e explorar retorno económico da articulação entre turismo e agricultura."
+ ],
+ "plain_language": "Os pequenos e médios produtores de vinho do Douro estão em dificuldades por excesso de vinho em armazém, menor produção autorizada de Vinho do Porto e dificuldade em vender. O PS pede ao Governo apoio financeiro urgente, mais fiscalização das importações, mais meios para o IVDP, regras de rotulagem mais claras e compensações por perda de rendimento. É uma recomendação sem carácter obrigatório.",
+ "context": "O proponente descreve uma crise estrutural na região: excesso de stocks, redução do benefício para produção de Vinho do Porto, dificuldade de escoamento nas últimas duas vindimas e, em casos extremos, uvas por vindimar. Invoca ainda concorrência desleal de vinhos de outras origens, que podem ser confundidos com os locais, e lembra o compromisso do Primeiro-Ministro em campanha de apoiar estes agricultores.",
+ "analysis": "A proposta identifica várias frentes (rendimento, fiscalização, promoção, rotulagem) e propõe um estudo antes de alterar a utilização da aguardente, o que revela prudência. Fragilidades: não define o valor da linha de apoio, os critérios de elegibilidade nem a fonte de financiamento; as medidas sobre rotulagem e aguardente têm impactos complexos sobre o setor e requerem consenso interprofissional. A referência ao compromisso eleitoral é de natureza política. É apenas recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A linha de apoio, as compensações de rendimento e o reforço dos meios do IVDP implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "pequenos e médios viticultores do Douro",
+  "IVDP",
+  "produtores e comerciantes de vinho"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "douro",
+  "vitivinicultura",
+  "vinho do porto",
+  "apoio aos agricultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Subsídio de refeição obrigatório no setor privado (PAN)",
+ "summary": "Projeto de Lei do PAN que adita o artigo 262.º-A ao Código do Trabalho, consagrando o direito ao subsídio de refeição diário dos trabalhadores do setor privado, com valor não inferior ao fixado para a função pública, sem prejuízo de valores superiores já estabelecidos. Salvo regime coletivo mais favorável, exige prestação efetiva de trabalho e pelo menos 5 horas diárias. Os trabalhadores a tempo parcial recebem valor proporcional às horas trabalhadas. O pagamento pode ser em dinheiro, em espécie ou através de vales ou cartões de refeição, cabendo a opção ao trabalhador quando haja alternativa. Entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Cria o artigo 262.º-A do Código do Trabalho com direito a subsídio de refeição diário.",
+  "Valor mínimo igual ao fixado para os trabalhadores da função pública, mantendo valores superiores já existentes.",
+  "Exige trabalho efetivo e pelo menos 5 horas diárias, salvo regime coletivo mais favorável.",
+  "Valor proporcional às horas para trabalhadores a tempo parcial.",
+  "Forma de pagamento à escolha do trabalhador, quando houver alternativa."
+ ],
+ "plain_language": "Hoje, no privado, só recebe subsídio de refeição quem o tenha no contrato ou num acordo coletivo. O PAN quer que seja um direito para todos, com um valor mínimo igual ao da função pública, desde que se trabalhe pelo menos cinco horas no dia. Quem trabalha a tempo parcial receberia uma parte proporcional.",
+ "context": "O proponente refere que o direito legal ao subsídio de refeição só existe na Administração Pública e que, segundo dados do Ministério do Trabalho, 1,7 milhões de trabalhadores do setor privado com contrato individual não recebiam qualquer valor em 2022. Pretende combater esta injustiça e a precariedade.",
+ "analysis": "A proposta cria um piso uniforme e regras claras para o tempo parcial e a forma de pagamento. Em contrapartida, não prevê sanção para o incumprimento nem quantifica o custo para as empresas, em particular as pequenas. A indexação ao valor da função pública liga o piso a decisões do Estado enquanto empregador. A entrada em vigor com o Orçamento do Estado dá algum tempo de adaptação, mas sem mecanismo transitório explícito.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Aumenta custos para empregadores privados. O texto não quantifica o impacto, nem altera o regime fiscal do subsídio."
+ },
+ "affected": [
+  "trabalhadores do setor privado sem subsídio de refeição",
+  "trabalhadores a tempo parcial",
+  "empregadores privados"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "subsídio de refeição",
+  "código do trabalho",
+  "tempo parcial",
+  "setor privado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

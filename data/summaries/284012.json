@@ -1,0 +1,45 @@
+{
+ "short_title": "Regulamentação dos ensaios clínicos de medicamentos",
+ "summary": "Proposta de Lei do Governo que assegura a execução na ordem jurídica interna do Regulamento (UE) n.º 536/2014 sobre ensaios clínicos de medicamentos para uso humano e altera a lei da investigação clínica (Lei n.º 21/2014). Designa o INFARMED e a Comissão de Ética para a Investigação Clínica (CEIC) como entidades competentes, define a articulação entre ambos na validação, avaliação e decisão dos pedidos e prevê medidas corretivas. Acrescenta requisitos de proteção dos participantes e de consentimento esclarecido, incluindo menores, maiores incapazes e consentimento de grupos, regras sobre seguro e compensação por danos, fornecimento gratuito de medicamentos e continuação de tratamento. Os ensaios ficam sujeitos a autorização prévia do INFARMED; as taxas são fixadas por portaria no prazo de 30 dias. Estabelece coimas de 500 a 50.000 euros (pessoas singulares) e de 5.000 a 750.000 euros (pessoas coletivas), sanção acessória de suspensão até dois anos, taxas, com isenção para ensaios não comerciais. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Os ensaios clínicos dependem de autorização prévia do INFARMED, após avaliação técnico-científica (INFARMED) e ética (CEIC), nos prazos do regulamento europeu.",
+  "Reforça a proteção dos participantes e o consentimento esclarecido, com regras para menores, maiores incapazes e consentimento por grupos.",
+  "Exige seguro e compensação por danos, medicamentos experimentais sem custos para o participante e continuação do tratamento após o ensaio.",
+  "Prevê coimas de 500 a 50.000 euros (pessoas singulares) e de 5.000 a 750.000 euros (pessoas coletivas), com sanção acessória até dois anos.",
+  "Taxas de avaliação como receita própria do INFARMED, com isenção para ensaios não comerciais ou com promotor-investigador.",
+  "Altera o artigo 1.º da Lei n.º 21/2014, revoga o seu n.º 2 e cria articulação com o Registo Nacional de Estudos Clínicos e medidas para os centros de ensaios do SNS."
+ ],
+ "plain_language": "A União Europeia criou regras comuns para os ensaios de novos medicamentos em pessoas. Esta lei diz quem faz o quê em Portugal (INFARMED e comissão de ética), protege melhor quem participa nos ensaios, define multas para infrações e taxas a pagar pelos promotores, isentando os ensaios sem fins comerciais.",
+ "context": "O Governo explica que o regulamento europeu é diretamente aplicável, mas deixa margem aos Estados para designar entidades competentes, estabelecer requisitos adicionais de proteção dos participantes e consentimento, e definir o regime sancionatório. Refere a audição de universidades, ordens profissionais, hospitais e associações da indústria farmacêutica.",
+ "analysis": "A proposta é, em grande parte, de execução técnica de um regulamento da UE, o que reduz a margem de discussão política e responde à necessidade de segurança jurídica. Pontos positivos: regras de proteção reforçadas, isenção de taxas para investigação não comercial e articulação entre INFARMED e CEIC. Riscos: o bom funcionamento depende da capacidade do INFARMED e da CEIC para cumprir os prazos do regulamento; coimas elevadas para pessoas coletivas podem pesar em promotores académicos; 40% das coimas revertem para o INFARMED, o que pode criar incentivos a considerar.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prevê taxas de avaliação como receita própria do INFARMED (montantes a fixar por portaria) e coimas repartidas entre o Estado (60%) e o INFARMED (40%); o texto não quantifica as receitas. O Ministério da Saúde fica obrigado a dotar os centros de ensaios do SNS de instrumentos de gestão, sem custo indicado."
+ },
+ "affected": [
+  "promotores de ensaios clínicos",
+  "participantes em ensaios clínicos",
+  "INFARMED",
+  "Comissão de Ética para a Investigação Clínica",
+  "hospitais e investigadores"
+ ],
+ "categories": [
+  "saude",
+  "ciencia",
+  "consumidores"
+ ],
+ "tags": [
+  "ensaios clínicos",
+  "medicamentos",
+  "INFARMED",
+  "regulamento europeu",
+  "consentimento esclarecido"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

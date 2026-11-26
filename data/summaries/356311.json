@@ -1,0 +1,42 @@
+{
+ "short_title": "Melhores condições de vida para pessoas com ELA",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo cinco medidas para pessoas com esclerose lateral amiotrófica (ELA). Pede que, desde o diagnóstico, tenham acesso a equipas multidisciplinares especializadas articuladas com os cuidados de saúde primários; acesso universal e atempado a cuidados respiratórios domiciliários, incluindo ventilação mecânica; acesso a meios de comunicação alternativa e tecnologias de apoio; atribuição atempada de prestações sociais, eliminando atrasos e barreiras administrativas; e diálogo com as associações de doentes na definição, execução e avaliação das políticas. A exposição de motivos refere também o reconhecimento da incapacidade grave desde o diagnóstico.",
+ "key_points": [
+  "Acesso, desde o diagnóstico, a equipas multidisciplinares especializadas articuladas com os cuidados primários.",
+  "Acesso universal e atempado a cuidados respiratórios domiciliários, incluindo ventilação mecânica.",
+  "Acesso a comunicação alternativa e tecnologias de apoio adequadas.",
+  "Atribuição atempada de prestações sociais, sem atrasos e barreiras administrativas.",
+  "Diálogo com as associações de pessoas com ELA na definição e avaliação das políticas."
+ ],
+ "plain_language": "A ELA é uma doença incurável que retira rapidamente a capacidade de andar, falar e respirar. O LIVRE pede ao Governo que, logo após o diagnóstico, os doentes tenham equipas de especialistas, ajuda respiratória em casa, aparelhos para comunicar e apoios sociais sem demoras. Pede também que as associações de doentes sejam ouvidas. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "O proponente descreve a ELA como doença rara, progressiva e fatal, com esperança de vida média de 2 a 5 anos após os primeiros sintomas, e com elevados encargos financeiros para os doentes. Sublinha que o acesso a apoios depende do atestado médico de incapacidade multiuso, cujos processos podem ser longos.",
+ "analysis": "A proposta é focada e assenta em evidência clínica citada, abrangendo saúde, comunicação e proteção social. Fragilidades: não define prazos, metas, financiamento nem quem executa cada medida, e a expressão acesso universal e atempado é difícil de aferir. A exposição de motivos defende o reconhecimento da incapacidade grave desde o diagnóstico, mas isso não aparece nas medidas recomendadas. Sendo projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais equipas, cuidados respiratórios domiciliários, equipamentos e prestações sociais implicariam despesa pública adicional; o texto não apresenta valores."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "cuidadores e famílias",
+  "profissionais de saúde",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "ela",
+  "cuidados respiratórios",
+  "comunicação alternativa",
+  "prestações sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

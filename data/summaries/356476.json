@@ -1,0 +1,41 @@
+{
+ "short_title": "Subsídio de funeral mais alto para menores e incapacitados",
+ "summary": "O Bloco de Esquerda propõe alterar os artigos 16.º e 17.º do Decreto-Lei n.º 176/2003 para aumentar o subsídio de funeral. Fixa-se um limite mínimo igual a 1 IAS e, no caso de morte de menor de 18 anos, o reembolso das despesas de funeral pode ir até três vezes o IAS. O mesmo se aplica a pessoas com incapacidade igual ou superior a 60%, em situação de dependência ou impossibilitadas de trabalhar, e a pessoas que, independentemente da incapacidade, não estejam abrangidas pela proteção na morte do regime geral. Atualmente o valor é fixo e corresponde a 50% do IAS (258,56 euros, segundo a Portaria n.º 60/2026/1). Entra em vigor com o Orçamento do Estado posterior.",
+ "key_points": [
+  "Limite mínimo do subsídio de funeral igual ao valor de 1 IAS.",
+  "Reembolso até três vezes o IAS em caso de morte de menor de 18 anos.",
+  "Extensão a pessoas com incapacidade igual ou superior a 60% em situação de dependência.",
+  "Extensão a pessoas não abrangidas pela proteção na morte do regime geral.",
+  "Montantes deixam de ser fixados por portaria."
+ ],
+ "plain_language": "O subsídio que a Segurança Social paga por um funeral é hoje pequeno quando morre uma criança. A proposta sobe o valor mínimo para 1 IAS e permite reembolsar até 3 IAS, também para pessoas com incapacidade elevada e outras não protegidas.",
+ "context": "O proponente considera o valor atual (258,56 euros) muito reduzido para reembolsar as despesas de funeral e aponta a injustiça de o subsídio de uma criança ser muito inferior ao normal, acompanhando uma reivindicação de associações de apoio a famílias enlutadas.",
+ "analysis": "Reforça direitos em situações de especial vulnerabilidade e alarga a proteção a grupos geralmente esquecidos. Fragilidades: não estima o custo nem o número de beneficiários; a redação do n.º 1 e a combinação entre mínimo de 1 IAS e reembolso das despesas pode gerar dúvidas de aplicação; os critérios do alargamento (incapacidade, dependência, não abrangidos) exigem verificação administrativa adicional; e a entrada em vigor depende do Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta a despesa da Segurança Social, por subir o mínimo para 1 IAS e o máximo para 3 IAS em casos de menores e outros grupos. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "famílias de menores falecidos",
+  "pessoas com incapacidade e dependência",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "IAS",
+  "incapacidade",
+  "menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

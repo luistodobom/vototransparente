@@ -1,0 +1,40 @@
+{
+ "short_title": "Transição dos jovens dos serviços pediátricos para adultos",
+ "summary": "O Projeto de Lei n.º 428/XVII/1.ª, do PAN, altera a Lei de Bases dos Cuidados Paliativos (Lei n.º 52/2012) e a Lei n.º 15/2014 sobre direitos e deveres dos utentes. Na Base V da lei dos cuidados paliativos, determina que, quando o doente atinge a maioridade, a transição do serviço pediátrico para o serviço de adultos tem carácter gradual e é adaptada às suas necessidades médicas, psicossociais e educacionais. No artigo 12.º da Lei n.º 15/2014, reconhece o direito de acompanhamento familiar aos jovens internados que perfaçam dezoito anos durante o internamento, pelo período adequado às suas necessidades. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Torna obrigatoriamente gradual a transição do serviço pediátrico para o de adultos aos dezoito anos nos cuidados paliativos.",
+  "A transição deve ser adaptada às necessidades médicas, psicossociais e educacionais do doente.",
+  "Reconhece o direito de acompanhamento familiar a jovens internados que façam dezoito anos durante o internamento.",
+  "O período de acompanhamento é definido entre o serviço pediátrico e o serviço geral.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje, quando um jovem doente faz dezoito anos, pode passar de repente dos serviços para crianças para os de adultos. Esta proposta pretende que a mudança seja gradual e adaptada a cada pessoa. Se o jovem fizer dezoito anos durante um internamento, a família poderá continuar a acompanhá-lo durante o tempo que for adequado.",
+ "context": "O PAN invoca dificuldades da rede de cuidados paliativos, em especial os pediátricos, citando dados da ERS e da Associação Portuguesa de Cuidados Paliativos sobre falta de equipas e de profissionais. Refere um manifesto de sociedades científicas que aponta a necessidade de repensar a transição dos adolescentes para serviços de adultos.",
+ "analysis": "A proposta é concreta e de alcance limitado, e responde a uma preocupação identificada por entidades da área. Fragilidades: usa conceitos amplos como \"gradual\" e \"período adequado\" sem prazos ou critérios, o que remete a aplicação para os serviços e pode gerar desigualdades. Não prevê meios adicionais, embora o texto reconheça carência de profissionais e equipas, e a exposição de motivos descreve problemas mais vastos do que os que a norma resolve.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos. A transição gradual e o acompanhamento familiar podem exigir recursos adicionais no SNS, mas não são quantificados."
+ },
+ "affected": [
+  "jovens em cuidados paliativos pediátricos",
+  "famílias e cuidadores",
+  "serviços pediátricos e de adultos do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "cuidados paliativos",
+  "pediatria",
+  "maioridade",
+  "acompanhamento familiar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

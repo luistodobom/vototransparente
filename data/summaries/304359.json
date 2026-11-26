@@ -1,0 +1,44 @@
+{
+ "short_title": "Autorização para transpor regras europeias de IVA sobre eventos virtuais e bens em segunda mão",
+ "summary": "O Governo pede autorização legislativa, com duração de 180 dias, para transpor parcialmente a Diretiva (UE) 2022/542 sobre taxas de IVA, alterando o Código do IVA e o regime especial de tributação dos bens em segunda mão, objetos de arte, de coleção e antiguidades. Altera o artigo 6.º do Código do IVA para que o acesso virtual a eventos culturais, artísticos, desportivos, científicos, educativos e similares seja tributado, em regra, onde está o destinatário, com opção de tributar em Portugal quando aqui ocorra a utilização efetiva e a regra geral levasse à tributação fora da UE. No regime da margem, deixa de ser possível optar por ele quando os objetos de arte, de coleção ou antiguidades tenham sido adquiridos ou importados a taxa reduzida. Prevê norma transitória com inventário a 31 de dezembro de 2024 e efeitos a 1 de janeiro de 2025.",
+ "key_points": [
+  "Autorização legislativa com duração de 180 dias.",
+  "Serviços de acesso virtual a eventos culturais, desportivos e similares passam a ser tributados no local do destinatário, em regra.",
+  "Opção de tributar em Portugal quando a utilização efetiva ocorra aqui e a regra geral levasse à tributação fora da UE.",
+  "Fim da opção pelo regime da margem para objetos de arte, coleção e antiguidades adquiridos ou importados a taxa reduzida.",
+  "Norma transitória: dedução de IVA sobre existências, com inventário a 31 de dezembro de 2024.",
+  "Revoga o n.º 6 do artigo 18.º do Código do IVA e produz efeitos a partir de 1 de janeiro de 2025."
+ ],
+ "plain_language": "O Governo quer adaptar o IVA português a uma diretiva europeia: os eventos online serão tributados no país de quem os vê, e os negociantes de arte e antiguidades deixam de poder usar o regime da margem quando compraram os bens com IVA reduzido. Precisa de autorização do Parlamento.",
+ "context": "O Governo explica que a transposição parcial da Diretiva (UE) 2022/542 visa assegurar a tributação no local onde ocorre o consumo e eliminar distorções de concorrência resultantes da compra de bens com taxa reduzida e da sua revenda no regime da margem.",
+ "analysis": "A proposta cumpre uma obrigação de transposição e procura evitar distorções de concorrência. A norma transitória, com inventário e dedução do imposto, protege os revendedores afetados mas implica custos administrativos e uma perda temporária de receita. A opção de tributar em Portugal serviços com utilização efetiva cria complexidade para os operadores. O texto não apresenta estimativa do impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica. A tributação no local de consumo e o fim da opção pela margem tendem a aumentar receita, mas a dedução transitória das existências pode reduzi-la em 2025; o efeito líquido não é estimado."
+ },
+ "affected": [
+  "prestadores de serviços de eventos virtuais",
+  "revendedores de bens em segunda mão, arte e antiguidades",
+  "sujeitos passivos de IVA",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "internacional",
+  "economia"
+ ],
+ "tags": [
+  "IVA",
+  "diretiva europeia",
+  "bens em segunda mão",
+  "eventos virtuais",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

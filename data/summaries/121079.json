@@ -1,0 +1,41 @@
+{
+ "short_title": "Manter apoios extraordinários a desempregados e trabalhadores independentes",
+ "summary": "O BE recomenda ao Governo três medidas: retomar e prorrogar excecionalmente até ao final de 2021 o Apoio Extraordinário ao Rendimento dos Trabalhadores (AERT), sem condição de recursos, a todos os beneficiários da alínea a) do n.º 2 do artigo 156.º do Orçamento do Estado para 2021, no valor da prestação cessada até ao limite de 501,16 euros; prorrogar até ao final de 2021 o subsídio social de desemprego e o subsídio de desemprego das prestações que cessem; e retomar os apoios aos trabalhadores independentes e informais, designadamente o AERA, sem condição de recursos. Sendo um projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Retomar e prorrogar o AERT até ao final de 2021, sem condição de recursos, até ao limite de 501,16 euros.",
+  "Prorrogar até ao final de 2021 o subsídio de desemprego e o subsídio social de desemprego que cessem.",
+  "Retomar o AERA e outros apoios a trabalhadores independentes e informais.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O BE pede ao Governo que mantenha, até ao fim de 2021, os apoios a desempregados e trabalhadores independentes afetados pela pandemia e que deixe de aplicar a condição de recursos que deixou muitos de fora. É uma recomendação.",
+ "context": "O BE sustenta que o AERT, pelos requisitos e burocracia, deixa muita gente sem apoio, que as correções feitas no início de 2021 tinham duração de seis meses e que, a partir de julho, passou a haver condição de recursos e valores desde 50 euros mensais. Refere cerca de 5 mil trabalhadores sem pagamento em agosto.",
+ "analysis": "A proposta responde a uma lacuna de proteção social concreta e baseia-se em dados citados do Ministério do Trabalho. Fragilidades: aumenta a despesa sem estimativa de custo; a remoção da condição de recursos pode levar a apoios a quem não está em dificuldade; a prorrogação alargada para o fim de 2021 não considera a evolução da retoma económica. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação dos apoios e a retirada da condição de recursos aumentariam a despesa da Segurança Social; o texto não apresenta montantes globais."
+ },
+ "affected": [
+  "desempregados",
+  "trabalhadores independentes",
+  "trabalhadores informais",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "aert",
+  "aera",
+  "subsídio de desemprego",
+  "trabalhadores independentes",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

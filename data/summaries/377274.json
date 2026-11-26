@@ -1,0 +1,44 @@
+{
+ "short_title": "Redução temporária do IVA em bens alimentares essenciais",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo que promova as iniciativas legislativas necessárias para reduzir temporariamente o IVA, incluindo a hipótese de isenção com direito à dedução, sobre um cabaz de bens alimentares essenciais. A redução deve ser acompanhada de uma obrigação expressa de repercussão integral no preço final, com uma metodologia objetiva para fixar o preço de referência anterior e evitar aumentos artificiais antes da entrada em vigor. Prevê fiscalização reforçada pela ASAE, com regime sancionatório, monitorização pública dos preços no continente e nas Regiões Autónomas e uma majoração da redução nos Açores e na Madeira, ou um mecanismo complementar quando a taxa já seja zero.",
+ "key_points": [
+  "Reduzir temporariamente o IVA (ou isentar com direito à dedução) num cabaz de bens alimentares essenciais definido por critérios objetivos.",
+  "Obrigar à repercussão integral do alívio fiscal no preço final ao consumidor.",
+  "Definir uma metodologia de preço de referência que impeça aumentos artificiais antes da medida.",
+  "Reforçar a fiscalização da ASAE e prever um regime sancionatório.",
+  "Monitorizar publicamente os preços, incluindo as Regiões Autónomas.",
+  "Majorar a redução nos Açores e na Madeira ou criar um mecanismo complementar se a taxa já for 0 %."
+ ],
+ "plain_language": "O partido propõe que o Governo baixe, por um período limitado, o IVA de alimentos básicos, para que as compras de supermercado fiquem mais baratas. Para garantir que a poupança chega mesmo ao consumidor, as empresas não poderiam subir os preços antes do imposto para anular a descida, e haveria fiscalização. Os Açores e a Madeira teriam uma redução maior. Trata-se de uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente invoca a pressão dos preços alimentares sobre o orçamento das famílias de menores rendimentos e recorda a experiência de 2023, com a Lei n.º 17/2023 e o pacto de preços. Defende que a descida do IVA só é eficaz se for repercutida no preço, e destaca os sobrecustos da insularidade nas Regiões Autónomas.",
+ "analysis": "A proposta junta ao alívio fiscal salvaguardas de repercussão, o que responde a uma fragilidade conhecida deste tipo de medidas. No entanto, não define o cabaz, a duração nem o custo orçamental, e a verificação de preços de referência pode ser complexa de fiscalizar. Há risco de perda de receita sem garantia de efeito nos preços, e o texto reconhece que ajustamentos por custos são admitidos, o que pode enfraquecer a regra. Sendo um projeto de resolução, é apenas uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Uma redução ou isenção de IVA sobre bens alimentares diminuiria a receita fiscal; o texto não indica montantes nem a duração da medida."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "retalhistas e operadores alimentares",
+  "população dos Açores e da Madeira",
+  "ASAE"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "iva",
+  "bens alimentares",
+  "cabaz essencial",
+  "repercussão de preços",
+  "regiões autónomas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

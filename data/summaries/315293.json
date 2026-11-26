@@ -1,0 +1,40 @@
+{
+ "short_title": "Reorganização voluntária da vinha no Douro com realocação de direitos",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo quatro medidas para a Região Demarcada do Douro: criar um programa de reorganização voluntária da produção vitivinícola, que permita arrancar vinha e realocar os direitos de benefício para outras parcelas, com possibilidade de sobreposição e um limite global de arranque regulamentado pelo IVDP; garantir que o mecanismo é de adesão livre, sem encargos para o Estado e acessível a arrendatários com exploração legalmente constituída; simplificar a constituição e o reconhecimento de Organizações de Produtores; e reforçar a qualificação e a promoção externa dos vinhos da região, com certificação, acesso a mercados diferenciados e campanhas de valorização.",
+ "key_points": [
+  "Criar um programa voluntário de arranque de vinha com realocação de direitos de benefício, regulamentado pelo IVDP.",
+  "Garantir adesão livre, sem encargos para o Estado, incluindo para arrendatários com exploração legal.",
+  "Simplificar a constituição e o reconhecimento de Organizações de Produtores.",
+  "Reforçar a certificação e a promoção externa dos vinhos do Douro."
+ ],
+ "plain_language": "A Iniciativa Liberal propõe que os produtores do Douro possam, se quiserem, arrancar vinha numa parcela e transferir o direito de produzir vinho para outra, para concentrar a produção em terrenos mais produtivos sem aumentar a produção total da região. O Estado não gastaria dinheiro nisso. Propõe ainda facilitar a criação de organizações de produtores e promover melhor os vinhos da região.",
+ "context": "O proponente destaca o valor da Região Demarcada do Douro, Património Mundial da UNESCO, e defende soluções que respeitem a liberdade de escolha dos produtores. Sustenta que a medida permitiria aumentar o rendimento por hectare e reduzir custos e mão-de-obra sem aumentar a produção global, atrair jovens e premiar a gestão racional da produção.",
+ "analysis": "A proposta é de adesão voluntária e, segundo o texto, sem custos para o Estado, o que a torna menos exigente do ponto de vista orçamental. É, contudo, genérica quanto ao limite de arranque, aos critérios de realocação e aos impactos na paisagem classificada e no equilíbrio entre pequenos e grandes produtores, remetidos para regulamentação do IVDP. Não responde diretamente à crise de escoamento e de preços, que depende também da procura e de fiscalização. Os efeitos de rendimento e de renovação geracional são afirmados sem dados.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto afirma que o mecanismo de realocação é sem encargos para o Estado; a promoção e certificação previstas poderiam implicar algum apoio institucional, não quantificado."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "arrendatários de vinhas",
+  "organizações de produtores",
+  "IVDP"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "douro",
+  "viticultura",
+  "direitos de benefício",
+  "organizações de produtores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

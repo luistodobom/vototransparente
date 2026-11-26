@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforçar o combate ao desperdício alimentar",
+ "summary": "O PSD recomenda ao Governo dez medidas para reforçar a estratégia de combate ao desperdício alimentar. Entre elas: promover a comercialização simplificada através de mercados de proximidade com autarquias e organizações de produtores; defender a uniformização da rotulagem do local de origem; estimular a PARCA a analisar o escoamento de produtos agrícolas não calibrados na grande distribuição e incentivar espaços de venda para frescos fora dos critérios de calibragem; lançar uma campanha de sensibilização dos consumidores; e pedir ao INE e à Comissão Nacional de Combate ao Desperdício Alimentar dados atualizados. Propõe ainda ampliar a fruta escolar, rever conteúdos escolares sobre produção nacional, facilitar a doação de géneros alimentícios e defender, na PAC 2030, instrumentos de gestão de crise mais eficazes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Promover mercados de proximidade e a uniformização da rotulagem do local de origem.",
+  "Incentivar a venda de frescos não calibrados na grande distribuição, com a PARCA.",
+  "Fazer uma campanha de sensibilização e recolher dados atualizados com o INE e a CNCDA.",
+  "Alargar o projeto da fruta escolar e rever conteúdos escolares sobre produção nacional.",
+  "Facilitar a doação de alimentos e defender na PAC 2030 mecanismos de gestão de crise mais eficazes."
+ ],
+ "plain_language": "Em Portugal desperdiça-se muita comida. O PSD pede ao Governo várias ações: vender mais produtos locais perto dos consumidores, aproveitar frutas e legumes que não cumprem padrões de aparência, sensibilizar as pessoas, medir o desperdício, alargar a fruta nas escolas e facilitar as doações de alimentos. É uma recomendação.",
+ "context": "O proponente cita o estudo PERDA, de 2012, segundo o qual as perdas e desperdício ascendiam a 1 milhão de toneladas (17% da produção anual), ou 96,8 kg por pessoa. Defende que o tema é consensual, mas que são precisas medidas inovadoras na produção e consumo e a valorização dos subprodutos agroalimentares na economia circular.",
+ "analysis": "A proposta cobre toda a cadeia, da produção ao consumo, e combina informação, incentivos e medidas legais, o que lhe dá abrangência. Fragilidades: muitas medidas são formuladas de forma genérica («estimule», «incentive», «defenda»), sem metas, prazos ou financiamento; os dados de base datam de 2012; e a pressão sobre a grande distribuição para vender produtos não calibrados é sugerida sem se discutir mecanismos ou custos. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas, alargamento da fruta escolar e recolha de dados implicam despesa pública, mas o texto não indica montantes."
+ },
+ "affected": [
+  "produtores agrícolas",
+  "consumidores",
+  "grande distribuição",
+  "escolas e alunos",
+  "instituições de solidariedade"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "consumidores"
+ ],
+ "tags": [
+  "desperdício alimentar",
+  "mercados de proximidade",
+  "rotulagem",
+  "fruta escolar",
+  "PARCA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

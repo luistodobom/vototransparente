@@ -1,0 +1,44 @@
+{
+ "short_title": "Execução nacional dos regulamentos de dispositivos médicos",
+ "summary": "A proposta de lei do Governo assegura a execução, na ordem jurídica interna, dos Regulamentos (UE) 2017/745 e 2017/746 na parte da investigação clínica de dispositivos médicos e dos estudos de desempenho de dispositivos para diagnóstico in vitro, e altera a Lei n.º 21/2014. Designa o INFARMED como entidade competente e fiscalizadora e a CEIC para a avaliação ética, e regula pedidos, decisões, medidas corretivas, proteção dos participantes, menores, seguro e compensação por danos, uso compassivo e notificação de informações de segurança. Prevê coimas de 500 a 50.000 euros (pessoas singulares) e de 5.000 a 750.000 euros (coletivas), repartidas 60% para o Estado e 40% para o INFARMED, sanção acessória até dois anos, taxas (com isenção para investigação não comercial) e regime transitório. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "O INFARMED é a entidade responsável pela aplicação dos regulamentos e pela fiscalização, incluindo centros de investigação e locais de fabrico em Portugal; a CEIC faz a avaliação ética.",
+  "Define dois regimes paralelos, para investigações clínicas de dispositivos médicos e para estudos de desempenho de dispositivos de diagnóstico in vitro, com pedido, validação, avaliação e decisão.",
+  "Fixa regras de proteção dos participantes, consentimento esclarecido, menores, seguro de responsabilidade civil, fornecimento gratuito e uso compassivo.",
+  "Coimas de 500 a 50.000 euros (singulares) e 5.000 a 750.000 euros (coletivas), reduzidas a metade em caso de tentativa ou negligência, com sanção acessória de suspensão até dois anos.",
+  "Taxas de avaliação como receita própria do INFARMED, com isenção para investigação não comercial ou com promotor-investigador.",
+  "Mantém a Lei n.º 21/2014 para investigações iniciadas antes da aplicação do regulamento e para certos estudos observacionais."
+ ],
+ "plain_language": "A União Europeia já definiu regras para testar dispositivos médicos em pessoas, mas deixou aos países alguns detalhes. Esta proposta diz quem fiscaliza em Portugal, como se pedem as autorizações, como se protegem os participantes nos estudos e que sanções existem para quem não cumprir.",
+ "context": "O Governo retoma a Proposta de Lei n.º 17/XVI/1.ª, interrompida pela dissolução da Assembleia. Os regulamentos europeus são diretamente aplicáveis, mas exigem execução interna para designar entidades, completar requisitos de proteção dos participantes e definir sanções. O Governo refere a audição de ordens profissionais e entidades do setor.",
+ "analysis": "A proposta dá segurança jurídica e completa lacunas de execução, com repartição clara de competências entre INFARMED e CEIC, proteção reforçada dos participantes, isenção de taxas para investigação não comercial e obrigação de conservação de documentação mesmo em caso de insolvência do promotor. Riscos: a eficácia depende da capacidade do INFARMED e da CEIC para cumprir os prazos europeus; os montantes das taxas só são conhecidos por portaria posterior; as coimas elevadas para pessoas coletivas podem pesar em promotores académicos; e o facto de 40% das coimas reverterem para o INFARMED pode criar incentivos que merecem atenção. O texto repete grande parte do regime dos ensaios de medicamentos, o que facilita a coerência.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prevê taxas de avaliação como receita própria do INFARMED (valores fixados por portaria) e coimas repartidas 60% para o Estado e 40% para o INFARMED. O texto não quantifica as receitas nem os custos do sistema eletrónico e do reforço de funções."
+ },
+ "affected": [
+  "promotores de investigação clínica",
+  "participantes em investigações clínicas",
+  "fabricantes de dispositivos médicos",
+  "INFARMED e CEIC"
+ ],
+ "categories": [
+  "saude",
+  "ciencia",
+  "internacional"
+ ],
+ "tags": [
+  "dispositivos médicos",
+  "investigação clínica",
+  "infarmed",
+  "regulamento europeu",
+  "consentimento informado"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

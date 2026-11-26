@@ -1,0 +1,44 @@
+{
+ "short_title": "Novo Estatuto do Mecenato Cultural",
+ "summary": "O projeto de lei do PS cria um novo Estatuto do Mecenato Cultural para tornar o mecenato mais atrativo, diversificar as formas admissíveis, com destaque para o financiamento colaborativo, e reforçar os incentivos fiscais. Define um alargado leque de entidades beneficiárias, incluindo Estado e autarquias, fundações, instituições religiosas, associações culturais, museus, artistas e fundos culturais. Prevê deduções fiscais: em IRS, 25% dos montantes atribuídos; em IRC, gastos de 130% do valor, ou 150% para mecenato de longa duração e para certos fundos. Cria um estímulo fiscal temporário à aquisição de obras originais de artistas vivos e o financiamento por equivalência (match funding) em plataformas de financiamento colaborativo. Impõe um logotipo do mecenato para beneficiários acima de 100.000 euros por ano e uma listagem pública de beneficiários e maiores mecenas.",
+ "key_points": [
+  "Cria o Estatuto do Mecenato Cultural, com lista alargada de entidades beneficiárias, incluindo entidades não residentes nas condições previstas.",
+  "Dedução em IRS de 25% dos apoios, e em IRC gastos fiscais de 130%, ou 150% para mecenato de longa duração e certos fundos culturais.",
+  "Incentivo fiscal temporário à aquisição de obras originais de artistas vivos, com custo aceite em cinco anos.",
+  "Introduz o financiamento por equivalência (match funding) em plataformas de financiamento colaborativo.",
+  "Beneficiários que recebam mais de 100.000 euros por ano usam um logotipo do mecenato, e é criada uma listagem pública atualizada de beneficiários e maiores mecenas.",
+  "Acompanhamento e avaliação das políticas pela U-TAX e pelo Gabinete de Estratégia, Planeamento e Avaliação Culturais."
+ ],
+ "plain_language": "A proposta dá mais vantagens fiscais a quem doa dinheiro ou bens a entidades culturais, como museus, teatros ou artistas, e cria incentivos para quem compra obras de artistas vivos. Também permite que o Estado ou fundações completem o dinheiro angariado em plataformas de financiamento coletivo. Quem recebe mais de 100.000 euros por ano tem de o divulgar.",
+ "context": "O PS invoca o dever constitucional de democratizar a cultura e defende um ambiente mais favorável à participação financeira de privados. Refere o trabalho feito na XV legislatura, a auscultação do setor e o seu programa eleitoral como base para uma revisão profunda do mecenato.",
+ "analysis": "A proposta moderniza o regime, alarga as entidades elegíveis e introduz instrumentos novos, como o match funding, com acompanhamento previsto da sua eficácia. A transparência sobre grandes mecenas é um ponto positivo. Fragilidades: o texto de que se dispõe está truncado e não permite avaliar a parte final; o reforço das deduções reduz receita fiscal sem estimativa de custo; a abrangência das entidades, incluindo algumas com fins lucrativos, pode levantar questões de controlo e de abuso; contrapartidas de baixo valor podem esbater o caráter de liberalidade.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As deduções de 25% em IRS, os gastos fiscais de 130% ou 150% em IRC e o incentivo à compra de obras de arte reduzem a receita fiscal. O texto lido não apresenta montantes globais."
+ },
+ "affected": [
+  "mecenas, particulares e empresas",
+  "entidades e agentes culturais",
+  "artistas vivos",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "cultura",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "mecenato cultural",
+  "benefícios fiscais",
+  "match funding",
+  "artistas vivos",
+  "irc"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

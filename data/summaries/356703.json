@@ -1,0 +1,42 @@
+{
+ "short_title": "Acelerar o visto prévio do Tribunal de Contas",
+ "summary": "O projeto de lei do CHEGA altera seis artigos da Lei de Organização e Processo do Tribunal de Contas (Lei n.º 98/97) e acrescenta o artigo 85.º-A. Exclui das competências do Tribunal as avaliações políticas ou de mérito das opções de governação, limitando-o à legalidade e regularidade financeira; fixa a sede em Presidente mais 20 juízes; permite auditorias a pedido da Assembleia da República ou do Governo; fixa prazo de 10 dias para a verificação preliminar dos processos de visto e de 25 dias para o visto tácito; e cria processos urgentes para atos de manifesto interesse público, qualificados por resolução do Conselho de Ministros, com decisão em 12 dias úteis. Entra em vigor 30 dias após publicação.",
+ "key_points": [
+  "Exclui do controlo do Tribunal de Contas as avaliações políticas ou de mérito das opções de governação.",
+  "Fixa a sede com o Presidente e 20 juízes.",
+  "Verificação preliminar dos processos de visto em 10 dias e visto tácito se não houver recusa em 25 dias.",
+  "Cria processos urgentes para atos de manifesto interesse público, com decisão em 12 dias úteis, qualificados por resolução do Conselho de Ministros.",
+  "Entra em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "O Tribunal de Contas aprova previamente muitos contratos públicos. O CHEGA propõe prazos mais curtos e uma via rápida para contratos considerados de grande interesse público, decidida pelo Governo, mantendo o controlo da legalidade. Se o Tribunal não responder a tempo, o contrato passa a considerar-se aprovado.",
+ "context": "O proponente quer manter as competências do Tribunal de Contas e acelerar processos urgentes. Refere que o visto demora em média 12 dias úteis, que atrasos resultam muitas vezes de processos mal instruídos e que em 2025 mais de 41% dos processos em fiscalização prévia tinham ilegalidades ou irregularidades. Cita a descida de Portugal para o 46.º lugar no índice de perceção da corrupção.",
+ "analysis": "A iniciativa responde à queixa de lentidão e preserva o visto prévio. Fragilidades: o visto tácito em 25 dias e a via urgente decidida pelo próprio Governo podem enfraquecer o controlo independente que o texto diz querer proteger, sobretudo quando o próprio texto indica que 41% dos processos tinham problemas. A exclusão de avaliações de mérito pode ser lida como restrição de competências, e o prazo de 12 dias coincide com o tempo médio já referido, pelo que o ganho é incerto. O número de juízes pode ter custos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos orçamentais; fixar 20 juízes na sede e acelerar contratos podem ter custos ou efeitos indiretos que não são estimados."
+ },
+ "affected": [
+  "Tribunal de Contas",
+  "Entidades públicas contratantes",
+  "Contribuintes",
+  "Empresas que contratam com o Estado"
+ ],
+ "categories": [
+  "justica",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "tribunal de contas",
+  "visto prévio",
+  "contratação pública",
+  "processos urgentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

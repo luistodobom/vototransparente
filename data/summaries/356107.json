@@ -1,0 +1,42 @@
+{
+ "short_title": "Carreira de Medicina Dentária no SNS (proposta do PS)",
+ "summary": "Projeto de Lei do PS que cria a carreira de médico dentista nas entidades públicas empresariais do SNS e nos demais serviços da Administração Pública que prestem cuidados de saúde oral, aplicando-se a médicos dentistas em contrato individual de trabalho. É uma carreira pluricategorial, com assistente, assessor e sénior, e a entrada faz-se como assistente generalista. Exige o grau de médico dentista com inscrição na Ordem dos Médicos Dentistas, o recrutamento é por concurso e as remunerações são fixadas em instrumento de regulamentação coletiva. Os médicos dentistas em funções transitam para assistente, em 90 dias, e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria a carreira de médico dentista, com as categorias assistente, assessor e sénior, nas entidades públicas empresariais do SNS.",
+  "Assessor exige seis anos como assistente ou grau de especialista; sénior exige quatro anos como assessor e grau de especialista.",
+  "Recrutamento por concurso, com quadros anuais definidos com base no número de gabinetes existentes ou com instalação prevista.",
+  "Remunerações e requisitos de candidatura fixados em instrumento de regulamentação coletiva de trabalho.",
+  "Transição dos médicos dentistas em funções, por despacho conjunto, em 90 dias, com relevância do tempo de serviço e da avaliação anteriores.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O PS propõe criar uma carreira própria para os dentistas do SNS, com três categorias e concursos, para que tenham progressão e deixem de depender de contratos precários. Os dentistas que já trabalham no SNS passariam para a primeira categoria. Os salários seriam definidos em negociação coletiva e a lei só entraria em vigor com o próximo Orçamento do Estado.",
+ "context": "O PS recorda o Programa Nacional de Promoção da Saúde Oral 2021-2025 e a medida do PRR de 129 gabinetes de médico-dentista, que importa acompanhar com recursos humanos em carreiras atrativas. Refere que a Assembleia aprovou em 12 de dezembro de 2024 o Projeto de Resolução 446/XVI, que pedia a criação desta carreira no prazo de 120 dias, e que os cuidados têm sido assegurados por vínculos precários.",
+ "analysis": "A proposta dá resposta à ausência de carreira e à precariedade e articula-se com os gabinetes financiados pelo PRR. Remete remunerações para a negociação coletiva e não estima o custo da transição, nem o número de lugares. Há uma ligeira inconsistência de âmbito entre o objeto, que menciona também outros serviços da Administração Pública, e o âmbito de aplicação, limitado às entidades públicas empresariais com contrato individual de trabalho.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração na carreira, a progressão e o recrutamento implicam despesa com pessoal; o texto não indica montantes e a entrada em vigor fica ligada ao Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "médicos dentistas do SNS",
+  "utentes de cuidados de saúde oral",
+  "entidades públicas empresariais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "medicina dentária",
+  "carreira",
+  "sns",
+  "gabinetes de saúde oral",
+  "ordem dos médicos dentistas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

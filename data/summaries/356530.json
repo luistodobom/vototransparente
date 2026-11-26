@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço da Estratégia Nacional de Luta Contra o Cancro",
+ "summary": "O Grupo Parlamentar do PS recomenda ao Governo que reforce e acelere a execução da Estratégia Nacional de Luta Contra o Cancro (horizonte 2030) e do Programa Nacional para as Doenças Oncológicas, concretizando as prioridades do plano de ação para 2026, com metas calendarizadas e monitorização pública. Propõe melhorar a qualidade, a cobertura e a equidade territorial dos rastreios existentes (mama, colo do útero e colorretal), implementar de forma faseada novos rastreios (pulmão, próstata e gástrico), integrar os rastreios nos sistemas de informação dos cuidados de saúde primários, operacionalizar a prioridade clínica reforçada para doentes oncológicos, modernizar o Registo Oncológico Nacional e reforçar a prevenção primária e a literacia em saúde. Trata-se de uma recomendação, não vinculativa.",
+ "key_points": [
+  "Reforçar e acelerar a Estratégia Nacional de Luta Contra o Cancro, com metas calendarizadas e monitorização pública.",
+  "Melhorar cobertura e equidade territorial dos rastreios da mama, colo do útero e colorretal, incluindo utentes sem médico de família.",
+  "Implementar de forma faseada rastreios do cancro do pulmão, próstata e gástrico, assegurando capacidade de resposta do SNS.",
+  "Integrar os rastreios nos sistemas de informação dos cuidados de saúde primários, com referenciação automática.",
+  "Operacionalizar a prioridade clínica reforçada para doentes oncológicos prevista no Plano de Emergência e Transformação da Saúde.",
+  "Reforçar o Registo Oncológico Nacional e a prevenção primária e literacia em saúde."
+ ],
+ "plain_language": "O Partido Socialista pede ao Governo que cumpra mais depressa e com mais meios o plano nacional contra o cancro. Isto inclui chamar mais pessoas para os rastreios que já existem, mesmo sem médico de família, criar novos rastreios (pulmão, próstata e estômago), garantir que os doentes com cancro são atendidos mais depressa e manter melhores registos. É apenas uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "O proponente afirma que o cancro é uma das principais causas de morbilidade e mortalidade em Portugal e exige uma resposta integrada do SNS. Refere que a Estratégia e o plano de ação do PNDO para 2026 já definem prioridades, mas é necessário traduzi-las em medidas concretas, com reforço da capacidade do SNS e equidade territorial.",
+ "analysis": "O texto alinha-se com instrumentos já existentes (Estratégia, PNDO, Plano de Emergência), o que dá coerência e facilita a monitorização, e destaca a convocatória independente de ter médico de família. Contudo, as medidas são genéricas: não indica prazos concretos, metas quantificadas, orçamento nem responsáveis, e a implementação de novos rastreios exige recursos que não são estimados. Sendo uma resolução, não vincula o Governo, pelo que o efeito depende da vontade de execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A expansão de rastreios, a integração informática e o reforço da capacidade do SNS implicariam despesa pública adicional. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utentes do SNS",
+  "doentes oncológicos",
+  "profissionais de saúde",
+  "cuidados de saúde primários"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cancro",
+  "rastreios oncológicos",
+  "PNDO",
+  "SNS",
+  "registo oncológico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

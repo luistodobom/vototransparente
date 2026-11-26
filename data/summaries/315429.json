@@ -1,0 +1,39 @@
+{
+ "short_title": "Exclusividade e transparência do Provedor do Animal",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que altere o Decreto Regulamentar n.º 3/2021, que define o regime do Provedor do Animal. Pede que fique expresso que as funções são exercidas em regime de exclusividade, incompatível com quaisquer outras funções públicas ou privadas, remuneradas ou não, exceto docência ou investigação científica de caráter não executivo. Pede ainda prazos vinculativos para a elaboração, aprovação e publicação anual do relatório de atividades e de contas, do plano anual de atividades e do relatório sobre a situação nacional do bem-estar animal. É uma recomendação, sem efeito vinculativo.",
+ "key_points": [
+  "Exercício das funções de Provedor do Animal em regime de exclusividade.",
+  "Exceção apenas para docência ou investigação científica de caráter não executivo.",
+  "Prazos vinculativos para publicar anualmente os relatórios de atividades, de contas e sobre o bem-estar animal.",
+  "Prazo vinculativo para o plano anual de atividades."
+ ],
+ "plain_language": "O Provedor do Animal defende os animais, mas pode acumular outros cargos e, segundo o PAN, não tem publicado os relatórios a que está obrigado. O PAN pede ao Governo que o cargo seja exercido a tempo inteiro e que haja prazos obrigatórios para publicar relatórios e planos.",
+ "context": "O PAN recorda que a figura foi criada pelo Orçamento do Estado para 2021 e regulamentada pelo Decreto Regulamentar n.º 3/2021. Afirma que o diploma não impõe exclusividade, o que levanta preocupações de independência, e que desde 2021 apenas parte da documentação do primeiro ano foi publicada, sem evidência de documentos de 2022 a 2025.",
+ "analysis": "Pontos fortes: reforça a independência do cargo e a prestação de contas, com comparação com o Provedor de Justiça, e a alteração por decreto regulamentar não exige nova lei. Fragilidades: a alegação de ausência de publicação baseia-se na pesquisa do próprio proponente e não é confirmada no texto por dados do cargo. A exclusividade pode dificultar o recrutamento e o texto não analisa a remuneração do cargo nem as consequências do incumprimento dos prazos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A exclusividade pode implicar revisão da remuneração do cargo, mas o texto não analisa nem quantifica este efeito."
+ },
+ "affected": [
+  "Provedor do Animal",
+  "associações de proteção animal",
+  "cidadãos que recorrem ao Provedor"
+ ],
+ "categories": [
+  "animais",
+  "administracao"
+ ],
+ "tags": [
+  "Provedor do Animal",
+  "exclusividade",
+  "transparência",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Consolidação de aprendizagens e revisão da educação inclusiva",
+ "summary": "Projeto de resolução da Iniciativa Liberal que recomenda ao Governo 14 medidas sobre educação inclusiva e apoio à aprendizagem. Entre elas: rever o regime jurídico para separar as medidas de apoio à aprendizagem e intervenção precoce das de apoio à inclusão; criar um plano de medidas preventivas de apoio ao estudo; reforçar o Português Língua não Materna desde o pré-escolar e a imersão linguística de alunos migrantes; reforçar a formação docente, incluindo em língua gestual portuguesa nas escolas de referência para surdos; clarificar critérios das medidas de suporte; definir a composição das equipas multidisciplinares, simplificar a contratação de técnicos, criar equipas com psicólogos clínicos e enfermeiros e firmar parcerias com instituições de ensino superior; e fazer o levantamento de necessidades e abrir concursos para apoio administrativo. Não é vinculativo.",
+ "key_points": [
+  "Rever o regime da educação inclusiva, separando apoio à aprendizagem e intervenção precoce do apoio à inclusão.",
+  "Criar um plano de medidas preventivas de apoio ao estudo.",
+  "Reforçar o Português Língua não Materna e a imersão linguística de alunos migrantes desde o pré-escolar.",
+  "Definir a composição das equipas multidisciplinares e simplificar a contratação de técnicos especializados.",
+  "Fazer o levantamento de necessidades por agrupamento e lançar concursos de apoio administrativo."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que reveja a lei da educação inclusiva, porque professores e pais dizem que está a criar confusão e mais exclusão. Propõe mais apoio preventivo ao estudo, melhor ensino de português a alunos migrantes, equipas de técnicos mais completas nas escolas e menos burocracia para os professores. É uma recomendação não vinculativa.",
+ "context": "A IL afirma que o regime de 2018 foi implementado sem tempo de apropriação pelos docentes e que os pais têm manifestado preocupações. Lista constrangimentos como equipas multidisciplinares reduzidas, falta de professores para medidas de reforço, falta de critérios, excesso de burocracia e falta de apoio à imersão linguística de alunos migrantes.",
+ "analysis": "Aborda problemas relatados por escolas e propõe soluções concretas, como equipas mais completas e redução da burocracia. Fragilidades: a recomendação de separar medidas e o diagnóstico de que as medidas universais deveriam ser substituídas por atividades preventivas são apresentados sem evidência detalhada; o texto não indica custos, calendário ou fontes de financiamento para contratar técnicos; e algumas medidas (como parcerias com o ensino superior) dependem de capacidade que não é avaliada. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de técnicos especializados, apoio administrativo e reforço de formação implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "alunos com necessidades educativas",
+  "alunos migrantes",
+  "docentes",
+  "técnicos especializados das escolas",
+  "pais e encarregados de educação"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "educação inclusiva",
+  "português língua não materna",
+  "equipas multidisciplinares",
+  "intervenção precoce"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

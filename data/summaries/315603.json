@@ -1,0 +1,42 @@
+{
+ "short_title": "Revisão anual dos apoios a escolas com contratos e escolas profissionais",
+ "summary": "Projeto de Lei da IL que prevê a atualização anual dos valores de apoio do Estado aos contratos de associação, patrocínio e cooperação e às escolas profissionais privadas. A atualização será feita por portaria e, no mínimo, por aplicação do índice de preços no consumidor sem habitação, considerando a variação média dos últimos 12 meses disponível em dezembro do ano anterior (ou em 30 de novembro). Altera o regime que regula estes contratos e o regime jurídico das escolas profissionais privadas e públicas (artigo 53.º). O valor do apoio por turma e por ano escolar deve ser revisto a partir da entrada em vigor, que ocorre com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Atualização anual obrigatória dos apoios aos contratos de associação, patrocínio e cooperação.",
+  "Aplica o mesmo princípio às escolas profissionais privadas.",
+  "Atualização mínima pelo IPC sem habitação.",
+  "A atualização é definida por portaria do Governo.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o dinheiro que o Estado paga às escolas privadas com contratos e às escolas profissionais privadas acompanhe, todos os anos, pelo menos a inflação, por estar estagnado há mais de uma década.",
+ "context": "A proponente afirma que o financiamento destes instrumentos está estagnado há mais de uma década, apesar do aumento de custos e da inflação, e que os custos salariais representam cerca de 70% dos custos totais. Considera que isso causa prejuízos operacionais e ameaça a sustentabilidade de dezenas de escolas que servem dezenas de milhares de alunos.",
+ "analysis": "Ponto forte: cria uma regra objetiva e previsível, evitando longos períodos sem atualização. Fragilidades: a indexação ao IPC sem habitação é uma regra mínima que pode não refletir custos reais nem a qualidade do serviço; aplica-se de forma automática a diferentes tipos de contratos; implica despesa pública crescente sem estimativa ou fonte de financiamento. Não existe condicionamento a avaliações de desempenho.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atualização anual pelo menos pela inflação aumenta os pagamentos do Estado às escolas; o texto não quantifica o montante."
+ },
+ "affected": [
+  "escolas com contratos de associação, patrocínio e cooperação",
+  "escolas profissionais privadas",
+  "alunos e famílias",
+  "docentes e pessoal não docente"
+ ],
+ "categories": [
+  "educacao",
+  "economia"
+ ],
+ "tags": [
+  "contratos de associação",
+  "escolas profissionais",
+  "atualização pelo IPC",
+  "financiamento",
+  "ensino particular"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

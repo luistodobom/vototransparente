@@ -1,0 +1,39 @@
+{
+ "short_title": "Recuperação de IVA em equipamento médico pelas IPSS",
+ "summary": "Projeto de Lei do PAN que altera o artigo 2.º do Decreto-Lei n.º 84/2017, que simplifica a restituição de IVA às IPSS, às Forças Armadas, às forças de segurança e aos bombeiros. Acrescenta às aquisições abrangidas as de material ou equipamento médico, incluindo consumíveis, utilizados única e exclusivamente na prossecução dos fins estatutários das IPSS relativos à prestação de cuidados de saúde. A medida entra em vigor a 1 de janeiro de 2024.",
+ "key_points": [
+  "Acrescenta ao regime de restituição de IVA das IPSS as aquisições de material ou equipamento médico, incluindo consumíveis.",
+  "Aplica-se apenas a bens usados exclusivamente nos fins estatutários de prestação de cuidados de saúde.",
+  "Altera o artigo 2.º do Decreto-Lei n.º 84/2017.",
+  "Entra em vigor a 1 de janeiro de 2024."
+ ],
+ "plain_language": "As IPSS pagam IVA nas compras e não o conseguem recuperar, ao contrário das empresas. O PAN propõe que, nas compras de equipamento e material médico usados em cuidados de saúde, estas instituições possam pedir o IVA de volta, ficando com mais dinheiro para o apoio social.",
+ "context": "O PAN afirma que as IPSS complementam ou substituem o Estado na saúde e enfrentam dificuldades com a inflação. Dá o exemplo de um bem de 12 300 euros, em que pagam 2 300 euros de IVA, custo que empresas com fins lucrativos podem deduzir.",
+ "analysis": "A medida reduz custos a instituições com papel social relevante e é de âmbito limitado. Fragilidades: o texto não estima o custo orçamental, e exige distinguir bens usados exclusivamente em cuidados de saúde, o que implica fiscalização. Pode também suscitar pedidos de alargamento a outras despesas das IPSS e a outras entidades. O exemplo numérico apresentado é ilustrativo, não um dado do impacto global.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As restituições de IVA às IPSS reduzem a receita fiscal. O texto não apresenta estimativa do montante."
+ },
+ "affected": [
+  "IPSS com atividade na área da saúde",
+  "Utentes das IPSS"
+ ],
+ "categories": [
+  "fiscalidade",
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "iva",
+  "ipss",
+  "equipamento médico",
+  "restituição de iva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

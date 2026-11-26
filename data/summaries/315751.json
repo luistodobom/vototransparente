@@ -1,0 +1,40 @@
+{
+ "short_title": "Entrada em Portugal de estudantes palestinianos de Gaza",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo três ações: promover, com a urgência possível, as diligências diplomáticas e administrativas para permitir a saída de Gaza e a entrada em Portugal de estudantes palestinianos inscritos em universidades portuguesas; desencadear mecanismos de cooperação com outros países e organizações internacionais e associar-se às iniciativas de evacuação humanitária de países europeus; e promover, com as universidades, as condições de acolhimento e integração para que os estudantes possam iniciar ou prosseguir os estudos. É uma recomendação não vinculativa. A exposição cita o caso de um estudante admitido na Universidade Nova de Lisboa e outro caso idêntico na Universidade do Minho.",
+ "key_points": [
+  "Diligências diplomáticas e administrativas para a saída de Gaza e entrada em Portugal de estudantes já inscritos.",
+  "Cooperação internacional e associação às evacuações humanitárias de outros países europeus.",
+  "Condições de acolhimento e integração, em articulação com as universidades.",
+  "Recomendação ao Governo, sem efeitos vinculativos."
+ ],
+ "plain_language": "Alguns jovens de Gaza foram aceites em universidades portuguesas mas não conseguem sair do território para estudar. O PS pede ao Governo que trabalhe com outros países e organizações para os trazer em segurança e que, com as universidades, os receba. É apenas uma recomendação.",
+ "context": "O PS descreve a destruição do sistema educativo em Gaza e refere um relatório da Comissão Internacional Independente de Inquérito da ONU de 2025. Aponta exemplos de França, Reino Unido, Espanha e Irlanda, que organizaram saídas de estudantes, e o caso de um estudante inscrito na FCSH da Universidade Nova de Lisboa.",
+ "analysis": "A proposta é concreta quanto aos objetivos e apoia-se em exemplos de outros países europeus. Fragilidades: a saída de Gaza depende de fatores fora do controlo português, como o acesso a corredores e a autorização das partes, que o texto não aborda; não define o número de estudantes, os custos ou a entidade que coordena; e o ponto de partida, o contexto do conflito, contém juízos de caráter político. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Evacuação, acolhimento e integração dos estudantes implicariam algum custo público. O texto não indica montantes."
+ },
+ "affected": [
+  "estudantes palestinianos inscritos em universidades portuguesas",
+  "universidades portuguesas",
+  "Ministério dos Negócios Estrangeiros"
+ ],
+ "categories": [
+  "internacional",
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "estudantes palestinianos",
+  "Gaza",
+  "evacuação humanitária",
+  "ensino superior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

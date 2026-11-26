@@ -1,0 +1,42 @@
+{
+ "short_title": "Paridade e voto em braille nas eleições dos Açores",
+ "summary": "A Assembleia Legislativa dos Açores propõe a décima alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores. Por um lado, aumenta a paridade nas listas de candidatos, passando a representação mínima de cada um dos sexos de 33% para 40%, e determina que a não correção de listas não paritárias no prazo legal leva à rejeição de toda a lista. Por outro, facilita o voto das pessoas com deficiência visual: passam a ser elaboradas matrizes em braille dos boletins de voto, em número não inferior a duas por assembleia ou secção de voto, a cargo da Região, que o eleitor pode requerer, sobrepostas ao boletim, e que devolve à mesa depois de votar. O diploma revoga normas sobre as sanções às listas não paritárias e republica a lei eleitoral em anexo. Os boletins e as matrizes são remetidos pelo membro do Governo Regional competente em matéria eleitoral às câmaras municipais, que os entregam aos presidentes das mesas até três dias antes da eleição. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Aumenta a paridade mínima de 33% para 40% de cada sexo nas listas de candidatos.",
+  "A não correção de listas não paritárias no prazo legal determina a rejeição de toda a lista.",
+  "Cria matrizes em braille dos boletins de voto, em número não inferior a duas por assembleia ou secção de voto.",
+  "A impressão dos boletins e a elaboração das matrizes ficam a cargo da Região.",
+  "Revoga o n.º 4 do artigo 15.º-A e as alíneas a) a c) do artigo 159.º-A, republica a lei eleitoral em anexo e entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Esta proposta quer que as listas de candidatos aos Açores tenham pelo menos 40% de homens e de mulheres, e que as pessoas cegas ou com baixa visão possam votar sozinhas através de uma matriz em braille colocada sobre o boletim. As listas que não cumprirem a paridade perdem a candidatura se não corrigirem a tempo.",
+ "context": "A Assembleia Legislativa dos Açores invoca os princípios constitucionais da igualdade, da integração das pessoas com deficiência e do sufrágio direto e secreto. Recorda que, em 2018, a Assembleia da República introduziu matrizes em braille nas eleições nacionais e autárquicas, e quer uniformizar a regra de paridade de 40% já em vigor nos restantes atos eleitorais.",
+ "analysis": "A proposta uniformiza a lei regional com as regras nacionais e dá autonomia de voto às pessoas com deficiência visual que dominam braille, o que é um ganho de igualdade. Limitações: o braille serve apenas quem o domina, e o texto não prevê soluções para outras deficiências. O endurecimento da sanção (rejeição de toda a lista) é mais severo e pode gerar litígios e afetar a participação de pequenas candidaturas. O texto inclui a republicação integral da lei, sem alterações adicionais às ora propostas, e não apresenta estimativa de custos. Por ser lei orgânica, exige aprovação por maioria qualificada na Assembleia da República.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A impressão dos boletins e a elaboração das matrizes em braille ficam a cargo da Região; o texto não indica montantes, que se prevê serem reduzidos."
+ },
+ "affected": [
+  "eleitores com deficiência visual",
+  "candidatos e partidos nos Açores",
+  "eleitores dos Açores"
+ ],
+ "categories": [
+  "instituicoes",
+  "direitos",
+  "territorio"
+ ],
+ "tags": [
+  "lei eleitoral",
+  "Açores",
+  "paridade",
+  "braille",
+  "deficiência visual"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

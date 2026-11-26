@@ -1,0 +1,41 @@
+{
+ "short_title": "Devolução de verbas do Fundo de Garantia Automóvel",
+ "summary": "Projeto de Lei do PCP que altera o artigo 58.º do Decreto-Lei n.º 291/2007 para reduzir em 50% as taxas que financiam o Fundo de Garantia Automóvel (FGA), repercutidas nos prémios de seguro automóvel. A taxa sobre o seguro obrigatório de responsabilidade civil passa de 2,5% para 1,25% e a taxa sobre todos os prémios do ramo automóvel de 0,21% para 0,10%, mantendo-se a possibilidade de o Governo as alterar por portaria ou despacho, sob proposta da ASF. Impõe que a redução seja integralmente repercutida nos preços pagos pelos segurados, sendo o incumprimento punido como contra-ordenação muito grave, fiscalizada pela ASF.",
+ "key_points": [
+  "Reduz para 1,25% a taxa do FGA sobre o seguro obrigatório de responsabilidade civil automóvel.",
+  "Reduz para 0,10% a taxa sobre todos os prémios de seguro automóvel.",
+  "Mantém a possibilidade de o Governo alterar as taxas, sob proposta da ASF, para garantir a sustentabilidade do fundo.",
+  "Obriga as seguradoras a repercutir integralmente a redução nos prémios.",
+  "Incumprimento é contra-ordenação muito grave, fiscalizada pela ASF."
+ ],
+ "plain_language": "O Fundo de Garantia Automóvel acumulou centenas de milhões de euros com taxas pagas por quem tem seguro de carro. O PCP propõe cortar essas taxas para metade, para o seguro ficar mais barato, e obriga as seguradoras a passar essa redução ao cliente, sob pena de coima grave.",
+ "context": "O proponente refere que o FGA tinha 636 milhões de euros em balanço em 2020 e registou novo excedente em 2021 (receitas de 28,45 milhões e despesas de 9,89 milhões). Invoca que a presidente da ASF admitiu, em audição de fevereiro de 2023, ser possível uma devolução parcial sem pôr em causa a viabilidade do fundo.",
+ "analysis": "A proposta aponta um excedente real e prevê um mecanismo para evitar que as seguradoras fiquem com o ganho. Fragilidades: o impacto efetivo nos prémios não é quantificado, a repercussão integral é difícil de fiscalizar quando os preços dependem de vários fatores, e a redução de receitas exige garantia de sustentabilidade do fundo a longo prazo, que depende de dados da ASF não apresentados no texto. A utilização de reservas para reduzir taxas, em vez de outras finalidades, é uma opção de política.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução em 50% das taxas diminui as receitas do FGA, que passaria a registar défices ao longo do tempo, financiados pelas reservas acumuladas. O texto não apresenta um montante anual."
+ },
+ "affected": [
+  "Tomadores de seguro automóvel",
+  "Seguradoras",
+  "Fundo de Garantia Automóvel",
+  "Autoridade de Supervisão de Seguros e Fundos de Pensões"
+ ],
+ "categories": [
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "fundo de garantia automóvel",
+  "seguro automóvel",
+  "prémios",
+  "asf"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

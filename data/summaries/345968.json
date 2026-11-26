@@ -1,0 +1,42 @@
+{
+ "short_title": "Subsídio de mobilidade sem exigência de situação contributiva",
+ "summary": "Proposta de lei da Assembleia Legislativa dos Açores que altera o Decreto-Lei n.º 37-A/2025, regime do subsídio social de mobilidade nas ligações aéreas entre o continente e as regiões autónomas. Adita o artigo 5.º-A, que determina que o subsídio é pago aos passageiros abrangidos independentemente da sua situação perante a Autoridade Tributária e a Segurança Social, sem que possa ser exigida, por qualquer meio, a confirmação dessa situação. Revoga as normas legais ou regulamentares em contrário e produz efeitos desde 7 de janeiro de 2026. Visa afastar a condição de ausência de dívidas introduzida pelo Decreto-Lei n.º 1-A/2026 e pelas Portarias n.º 12-A/2026/1 e 12-B/2026/1.",
+ "key_points": [
+  "Adita o artigo 5.º-A ao Decreto-Lei n.º 37-A/2025.",
+  "O subsídio é pago independentemente da situação contributiva perante a AT e a Segurança Social.",
+  "Proíbe exigir, por qualquer meio, confirmação dessa situação.",
+  "Revoga normas legais ou regulamentares em contrário.",
+  "Produz efeitos retroativos a 7 de janeiro de 2026."
+ ],
+ "plain_language": "Os residentes nos Açores e na Madeira que viajam de avião para o continente recebem um subsídio. O Governo passou a exigir que não tenham dívidas ao fisco e à Segurança Social. Esta proposta elimina essa exigência: o subsídio seria pago a todos os que cumprem os restantes requisitos, tenham ou não dívidas.",
+ "context": "A Assembleia Legislativa dos Açores e o Governo Regional opuseram-se, nos pareceres emitidos, à condição de ausência de dívidas, que consideram injustificável. Invocam o princípio da continuidade territorial e da ultraperiferia, consagrado no artigo 13.º do Estatuto Político-Administrativo dos Açores, e a necessidade de garantir um preço justo de viagem.",
+ "analysis": "Pontos fortes: iniciativa simples e objetiva, que alinha o acesso ao subsídio com a continuidade territorial e evita penalizar residentes com dívidas. Fragilidades: elimina um mecanismo de controlo que o Governo introduziu, o que pode ser visto como pagamento a devedores do Estado sem compensação; a produção de efeitos retroativa pode criar questões de aplicação. O texto não quantifica o impacto financeiro nem discute alternativas, como o abatimento da dívida.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Ao retirar a condição de ausência de dívidas, o subsídio passa a ser pago a um universo potencialmente maior de beneficiários. O texto não quantifica o impacto."
+ },
+ "affected": [
+  "residentes nos Açores",
+  "residentes na Madeira",
+  "estudantes das regiões autónomas",
+  "Autoridade Tributária e Segurança Social"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "direitos"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "Açores",
+  "continuidade territorial",
+  "transporte aéreo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

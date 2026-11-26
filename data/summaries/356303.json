@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio aos rendimentos afetados pelas tempestades",
+ "summary": "O Projeto de Lei do PCP cria um regime excecional e temporário de apoio aos rendimentos perdidos devido às tempestades de 2026. Altera o artigo 3.º do Decreto-Lei n.º 31-C/2026, elevando o limite do apoio às famílias para 1,5 IAS por elemento e 3 IAS por agregado, e até 3 IAS por elemento em casos excecionais. Cria apoio mensal, via IAPMEI, a sócios-gerentes de microempresas e empresários em nome individual em crise, até 1,5 IAS, proporcional à perda de rendimento, uma prestação única para agricultores e produtores florestais e alarga para 120 dias por ano a cobertura do Fundo de Compensação Salarial dos Profissionais da Pesca. O financiamento usaria o Fundo de Socorro Social, a dotação provisional e o Fundo de Solidariedade da UE.",
+ "key_points": [
+  "Eleva o limite do apoio às famílias para 1,5 IAS por elemento e 3 IAS por agregado, com exceção até 3 IAS por elemento.",
+  "Apoio mensal a sócios-gerentes de microempresas e empresários em nome individual em crise, via IAPMEI, até 1,5 IAS.",
+  "Prestação única a agricultores e produtores florestais por colheitas destruídas, perda de animais e outras perdas.",
+  "Cobertura de 120 dias por ano do Fundo de Compensação Salarial dos Profissionais da Pesca.",
+  "Financiamento pelo Fundo de Socorro Social, dotação provisional do Ministério das Finanças e Fundo de Solidariedade da UE."
+ ],
+ "plain_language": "Depois das tempestades, o PCP quer reforçar o dinheiro dado às famílias e criar apoios a pequenos empresários, agricultores e pescadores que perderam rendimentos. O Governo teria de regulamentar e procurar financiamento no orçamento e em fundos europeus.",
+ "context": "O PCP afirma que as tempestades causaram danos colossais a empresas, campos agrícolas, florestas e à pesca, com perda de rendimentos. Considera insuficientes ou inexistentes as medidas do Governo e defende um plano integrado de resposta que proteja salários, rendimentos de pequenos empresários, agricultores e pescadores e a reconstrução.",
+ "analysis": "A proposta dá resposta a grupos afetados e fixa tetos objetivos baseados no IAS. Tem fragilidades: não estima custos nem número de beneficiários; a prestação para agricultores é calculada sobre rendimentos do ano anterior, sem critérios de prova de perda; a vigência das medidas depende de portaria sem prazo definido; e o financiamento é remetido para fundos sem montantes assegurados. A produção de efeitos financeiros no ano em curso fica ao critério do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria e reforça apoios a famílias, empresários, agricultores e pescadores, financiados por fundos nacionais e europeus. O texto não indica montantes."
+ },
+ "affected": [
+  "famílias afetadas pelas tempestades",
+  "sócios-gerentes e empresários em nome individual",
+  "agricultores e produtores florestais",
+  "pescadores"
+ ],
+ "categories": [
+  "economia",
+  "agricultura",
+  "familia"
+ ],
+ "tags": [
+  "tempestades",
+  "apoio ao rendimento",
+  "IAS",
+  "agricultores",
+  "pescadores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Garantir audição em tribunal a estrangeiros detidos na fronteira",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que assegure os meios financeiros, humanos, técnicos e logísticos necessários para que todos os cidadãos estrangeiros impedidos de entrar em território nacional e colocados em espaços equiparados a centros de instalação temporária, nos aeroportos de Lisboa, Porto e Faro, sejam ouvidos por um juiz em tribunal, em condições que respeitem plenamente as suas garantias processuais e legais. O texto refere a sala de audiências prevista no Aeroporto de Lisboa, ainda por entrar em funcionamento, e a ausência de estruturas equivalentes previstas para o Porto e Faro, e cita preocupações do Comissário para os Direitos Humanos do Conselho da Europa sobre audiências fora dos tribunais.",
+ "key_points": [
+  "Garantir meios financeiros, humanos, técnicos e logísticos para audições judiciais na fronteira.",
+  "Abranger os aeroportos de Lisboa, Porto e Faro.",
+  "Assegurar que a audição é feita em tribunal por um juiz, com pleno respeito das garantias processuais."
+ ],
+ "plain_language": "Pessoas estrangeiras a quem é recusada a entrada em Portugal ficam por vezes retidas no aeroporto e podem ser mandadas embora sem falar com um juiz. O LIVRE pede ao Governo que garanta que todas são ouvidas por um juiz num tribunal, nos três aeroportos principais. É uma recomendação.",
+ "context": "O proponente refere que o ACNUR e o Conselho Superior da Magistratura defendem audiências individualizadas, que a sala prevista no Aeroporto de Lisboa ainda não funciona e que não está prevista solução semelhante no Porto e em Faro. Cita um caso de novembro de 2025 em que uma cidadã brasileira foi deportada antes de ser ouvida por um juiz.",
+ "analysis": "A iniciativa reforça garantias de defesa em processos de recusa de entrada. Fragilidades: a recomendação é genérica quanto a meios, prazos e custos; pede audição em tribunal mas o texto cita preocupações sobre audições em instalações próximas do local de detenção, sem resolver o modelo; e o regime exige coordenação entre PSP, tribunais e outras entidades. A eficácia depende de recursos judiciais que não são quantificados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Exige meios financeiros, humanos e logísticos para audições judiciais nos aeroportos, sem montantes indicados."
+ },
+ "affected": [
+  "Cidadãos estrangeiros impedidos de entrar",
+  "Requerentes de asilo",
+  "Tribunais e magistrados",
+  "PSP e aeroportos"
+ ],
+ "categories": [
+  "imigracao",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "fronteira",
+  "audição judicial",
+  "aeroportos",
+  "asilo",
+  "centros de instalação temporária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

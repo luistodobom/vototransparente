@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibir a caça à gralha-preta",
+ "summary": "Projeto de lei do PEV que proíbe a caça à gralha-preta (Corvus corone), retira-a da lista de espécies cinegéticas do Anexo I do Decreto-Lei n.º 202/2004 e interdita a captura ou o abate em qualquer altura do ano, bem como a destruição dos ninhos e a perturbação dos locais de repouso. A correção de efetivos só pode ocorrer com censos consistentes reconhecidos pelo organismo de conservação da natureza que comprovem excesso populacional, e é feita por técnicos desse organismo. Altera o artigo 96.º (caça ao gaio e à pega-rabuda), prevê contraordenações, regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe a caça à gralha-preta e retira a espécie da lista de espécies cinegéticas.",
+  "Interdita captura, abate, destruição de ninhos e perturbação dos locais de repouso.",
+  "A correção de efetivos só com censos reconhecidos e por técnicos do organismo de conservação da natureza.",
+  "Reformula o artigo 96.º do Decreto-Lei n.º 202/2004.",
+  "Regulamentação em 30 dias e entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O PEV quer que a gralha-preta deixe de poder ser caçada em Portugal. Só o Estado poderia controlar a sua população, se estudos provassem excesso de aves com risco para os ecossistemas ou para a saúde pública. Quem a caçar comete contraordenação.",
+ "context": "O proponente descreve a gralha-preta como ave abundante, com estatuto pouco preocupante no Livro Vermelho dos Vertebrados de Portugal, com papel sanitário de limpeza e de controlo de roedores, e considera que não tem interesse gastronómico nem perigo comprovado para segurança, saúde pública ou ecossistemas. Defende que o controlo de populações é responsabilidade do Estado.",
+ "analysis": "A iniciativa assenta no valor ecológico da espécie e no critério de limitar a caça a espécies com valor gastronómico, que é político e não consensual. A gralha é frequentemente apontada por setores agrícolas e cinegéticos como causadora de prejuízos, aspeto que o texto não aborda. A prova de excesso populacional exige censos que podem ser difíceis de obter, e o texto não estima os custos do controlo pelo Estado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A proibição pode reduzir receitas da atividade cinegética e o controlo estatal implicaria despesa; o texto não quantifica."
+ },
+ "affected": [
+  "caçadores",
+  "zonas de caça",
+  "agricultores",
+  "Instituto da Conservação da Natureza e das Florestas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais"
+ ],
+ "tags": [
+  "gralha-preta",
+  "caça",
+  "espécies cinegéticas",
+  "biodiversidade",
+  "decreto-lei 202/2004"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

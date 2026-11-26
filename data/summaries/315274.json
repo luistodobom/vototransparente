@@ -1,0 +1,39 @@
+{
+ "short_title": "Conservação da Igreja de São Sebastião, em Lagos",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a conservação e requalificação urgentes da Igreja de São Sebastião, em Lagos, Monumento Nacional desde 1924. O texto, apoiado numa exposição do pároco local, descreve infiltrações, deterioração de obras de arte e risco de ruína de algumas partes, e lembra que o Estado é proprietário do imóvel ao abrigo da Concordata de 2004. Recomenda medidas com máxima urgência, respeito pela traça arquitetónica e pelo património artístico, estudos técnicos de avaliação e conservação preventiva e um plano de valorização cultural e turística articulado com as entidades competentes.",
+ "key_points": [
+  "Promover com máxima urgência a conservação e requalificação da igreja como Monumento Nacional.",
+  "Garantir que a intervenção respeita a traça arquitetónica e o património artístico.",
+  "Realizar estudos técnicos do estado de conservação e aplicar conservação preventiva.",
+  "Promover um plano de valorização cultural e turística, articulado com as entidades competentes."
+ ],
+ "plain_language": "A Igreja de São Sebastião, em Lagos, é um monumento nacional que, segundo o pároco, tem chuva a entrar e obras de arte a estragar-se. O CHEGA pede ao Governo que a repare depressa, que o faça sem alterar o seu aspeto histórico, que estude o estado do edifício e que a promova como atração cultural e turística. É uma recomendação, não uma ordem.",
+ "context": "O proponente invoca o valor histórico e artístico do edifício e a informação do pároco, que denuncia infiltrações, degradação de altares e peças e risco de ruína, sem plano concreto de intervenção. Salienta que o Estado é o proprietário, nos termos da Concordata de 2004, e que o estatuto de Monumento Nacional implica deveres de conservação.",
+ "analysis": "O texto é concreto quanto à situação do edifício e às medidas, e assenta em fontes identificadas, embora a descrição do estado do imóvel derive sobretudo de um único testemunho do pároco. Não indica custo da obra, entidade executora, calendário nem fonte de financiamento. A medida de valorização turística é genérica. Existe outra iniciativa sobre o património de Lagos, o que sugere sobreposição. Como recomendação, não obriga o Governo a intervir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A conservação e requalificação de um monumento do Estado implica despesa pública, mas o texto não indica montantes."
+ },
+ "affected": [
+  "população de Lagos",
+  "paróquia de São Sebastião",
+  "visitantes e turismo local"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "património",
+  "igreja de são sebastião",
+  "lagos",
+  "monumento nacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

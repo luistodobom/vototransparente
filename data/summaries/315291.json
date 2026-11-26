@@ -1,0 +1,43 @@
+{
+ "short_title": "Prescrição, prazos de queixa e suspensão provisória em crimes sexuais",
+ "summary": "O projeto de lei do PAN altera o Código Penal e o Código de Processo Penal em três frentes. Primeiro, nos crimes contra a liberdade e autodeterminação sexual de menores e na mutilação genital feminina contra menor, o procedimento criminal não se extingue por prescrição antes de o ofendido perfazer 30 anos (atualmente 23). Segundo, o direito de queixa nos crimes sexuais que dependem de queixa (artigos 163.º a 165.º, 167.º, 168.º e 170.º) passa a extinguir-se em quinze anos a contar do conhecimento do facto, em vez de doze meses. Terceiro, elimina a suspensão provisória do processo nos crimes de violência doméstica e contra a liberdade e autodeterminação sexual, revogando os n.ºs 8 e 9 do artigo 281.º e acrescentando uma alínea ao n.º 1. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Prescrição: nos crimes sexuais contra menores e na mutilação genital feminina contra menor, o procedimento não se extingue antes de a vítima completar 30 anos.",
+  "O prazo para apresentar queixa nos crimes sexuais que dependem de queixa passa para quinze anos a contar do conhecimento do facto.",
+  "Exclui a suspensão provisória do processo nos crimes de violência doméstica e contra a liberdade e autodeterminação sexual.",
+  "Revoga os n.ºs 8 e 9 do artigo 281.º do Código de Processo Penal.",
+  "Altera os artigos 118.º e 178.º do Código Penal e o artigo 281.º do Código de Processo Penal."
+ ],
+ "plain_language": "As vítimas de abusos sexuais em criança demoram muitas vezes décadas a denunciar. A proposta dá-lhes mais tempo: o crime só deixa de poder ser julgado quando a vítima fizer 30 anos, e o prazo para apresentar queixa em vários crimes sexuais passa de 12 meses para 15 anos. Também deixa de ser possível suspender o processo mediante condições nos casos de violência doméstica e crimes sexuais.",
+ "context": "O PAN invoca a Convenção sobre os Direitos da Criança, a diretiva europeia de 2011 sobre abuso sexual de crianças e o relatório da Comissão Independente para o Estudo dos Abusos Sexuais de Crianças na Igreja Católica, que recomendou elevar de 23 para 30 anos a idade limite da prescrição. Cita ainda exemplos de Espanha, França e Itália e dados sobre o tempo que as vítimas levam a denunciar.",
+ "analysis": "Responde a uma dificuldade documentada, a denúncia tardia, e inspira-se em recomendações e no direito comparado. Fragilidades: prazos de queixa muito longos e prescrição mais tardia podem dificultar a produção de prova com o passar do tempo; eliminar a suspensão provisória do processo afeta também a violência doméstica, domínio onde a lei já a prevê com garantias; e as alterações a este regime não são acompanhadas de avaliação do seu impacto na carga dos tribunais. O texto contém partes por preencher no articulado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Prazos mais longos e menos suspensões provisórias poderiam aumentar processos em tribunal, sem estimativa apresentada."
+ },
+ "affected": [
+  "vítimas de crimes sexuais, incluindo menores",
+  "Ministério Público",
+  "tribunais",
+  "arguidos"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "prescrição",
+  "crimes sexuais",
+  "abuso de menores",
+  "suspensão provisória",
+  "violência doméstica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

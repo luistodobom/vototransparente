@@ -1,0 +1,41 @@
+{
+ "short_title": "Contratar mais profissionais para o SNS e revogar despacho",
+ "summary": "Projeto de resolução do BE que recomenda ao Governo que revogue imediatamente o Despacho n.º 01/2019 do Secretário de Estado da Saúde, que impede o aumento do número de trabalhadores nas instituições do SNS face a 2019. Recomenda ainda que os Conselhos de Administração façam, até 31 de dezembro de 2019, o levantamento e a demonstração das necessidades de recursos humanos, podendo depois contratar os profissionais em falta, e que o Governo respeite a autonomia das instituições, ratificando as contratações consideradas necessárias e permitindo o aumento do mapa de pessoal. Invoca a Lei n.º 87/2019 e a nova Lei de Bases da Saúde. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Revogação imediata do Despacho n.º 01/2019 do Secretário de Estado da Saúde.",
+  "Levantamento das necessidades de recursos humanos pelos Conselhos de Administração do SNS até 31 de dezembro de 2019.",
+  "Contratação dos profissionais em falta após esse levantamento.",
+  "Respeito pela autonomia das instituições, com ratificação das contratações necessárias e aumento do mapa de pessoal quando justificado."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que anule uma ordem que proíbe os hospitais e centros de saúde de terem mais trabalhadores do que em 2019. Defende que cada instituição do SNS deve poder contratar os profissionais de que precisa, depois de provar essa necessidade. É apenas uma recomendação, que o Governo pode seguir ou não.",
+ "context": "O BE sustenta que a Lei n.º 87/2019 reforçou a autonomia das entidades do SNS para contratar, mas o despacho do novo Governo voltou a limitar essa autonomia. Refere que em 2018 o SNS gastou mais de 260 milhões de euros em trabalho suplementar e cerca de 105 milhões em prestações de serviços e tarefeiros.",
+ "analysis": "A proposta assenta numa tensão real entre uma lei recente de autonomia e um despacho restritivo, e liga a falta de contratação a custos com horas extra e prestação de serviços. Contudo, não estima o custo das novas contratações, nem quantifica as necessidades, e o prazo de 31 de dezembro de 2019 é curto. Ignora a questão dos limites orçamentais e da capacidade de recrutamento. Sendo uma resolução, o seu efeito depende da vontade do Governo. O argumento de que as contratações poupam dinheiro não é demonstrado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais contratações aumentariam a despesa com pessoal do SNS. O proponente argumenta que parte seria compensada pela redução de trabalho suplementar e prestações de serviços, sem apresentar estimativa."
+ },
+ "affected": [
+  "profissionais de saúde do SNS",
+  "utentes do SNS",
+  "conselhos de administração de hospitais"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "sns",
+  "contratação",
+  "autonomia",
+  "despacho",
+  "recursos humanos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

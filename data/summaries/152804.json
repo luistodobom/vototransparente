@@ -1,0 +1,42 @@
+{
+ "short_title": "Agravar o IMI de prédios devolutos",
+ "summary": "Projeto de Lei do LIVRE que altera os artigos 112.º e 112.º-B do Código do IMI. Eleva ao quíntuplo as taxas aplicáveis a prédios urbanos devolutos há mais de um ano ou em ruínas, e prevê o agravamento proporcional em prédios parcialmente devolutos. Nas zonas de pressão urbanística, a taxa dos prédios devolutos, em ruínas e terrenos para construção com aptidão habitacional é elevada ao décuplo, agravada em mais 20% em cada ano subsequente, até ao limite de 20 vezes. Os municípios podem aumentar esse limite em 50% (habitação não arrendada nem própria permanente) ou 100% (pessoas coletivas). Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Taxas de IMI elevadas ao quíntuplo para prédios urbanos devolutos há mais de um ano ou em ruínas.",
+  "Em zonas de pressão urbanística, taxa elevada ao décuplo e agravada em 20% por cada ano subsequente, até 20 vezes.",
+  "Municípios podem aumentar o limite em 50% (habitação sem uso) ou 100% (pessoas coletivas).",
+  "Agravamento incide apenas sobre a parte devoluta nos prédios parcialmente devolutos sem propriedade horizontal.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O LIVRE propõe que quem tem casas vazias durante mais de um ano pague muito mais IMI, sobretudo nas zonas onde falta habitação, para incentivar a sua colocação no mercado ou o seu uso, ajudando a combater a crise da habitação.",
+ "context": "O proponente invoca que os Censos de 2021 registam 723 000 casas vagas, que os preços das casas subiram 69% entre 2015 e 2021 em Portugal e que os agravamentos já existentes no IMI não bastam para alterar o panorama da habitação.",
+ "analysis": "Reforça o incentivo fiscal para usar o parque habitacional existente. Fragilidades: o agravamento pode atingir proprietários que não conseguem arrendar ou vender, ou herdeiros sem meios para recuperar imóveis, e o texto não prevê exceções ou apoio à reabilitação. A eficácia depende da fiscalização do estado devoluto, historicamente limitada, e o efeito na oferta não é estimado. O limite de 20 vezes a taxa e as majorações podem suscitar questões de proporcionalidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "O agravamento das taxas de IMI sobre prédios devolutos tende a aumentar a receita municipal, embora a receita final dependa de os proprietários passarem a usar ou arrendar os imóveis. O texto não estima valores."
+ },
+ "affected": [
+  "Proprietários de prédios devolutos",
+  "Municípios",
+  "Pessoas e famílias à procura de habitação",
+  "Pessoas coletivas proprietárias de imóveis"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "territorio"
+ ],
+ "tags": [
+  "imi",
+  "prédios devolutos",
+  "habitação",
+  "zonas de pressão urbanística"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Lei dos Compromissos e Pagamentos em Atraso: alterações",
+ "summary": "Proposta de Lei do Governo que procede à quinta alteração da Lei n.º 8/2012 (Lei dos Compromissos e dos Pagamentos em Atraso). Altera o artigo 3.º para que os pagamentos em atraso passem a contar para além dos prazos de 30 ou 60 dias previstos no Decreto-Lei n.º 62/2013, e redefine os \"fundos disponíveis\" das entidades da Administração Central, tendo em conta a receita disponível e o cumprimento das metas orçamentais, nos termos do decreto-lei de execução orçamental. No artigo 7.º, determina que, terminado o prazo de pagamento, o credor tem direito a juros de mora legais, sem necessidade de interpelação. A lei entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Alinha a definição de pagamentos em atraso com os prazos de 30 ou 60 dias do Decreto-Lei n.º 62/2013.",
+  "Revê a definição de fundos disponíveis, considerando a receita disponível e as metas orçamentais.",
+  "Reconhece ao credor juros de mora legais sem necessidade de interpelação após o prazo de pagamento.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quando o Estado e outras entidades públicas compram bens ou serviços, devem pagar a tempo. A proposta ajusta a lei dos pagamentos em atraso aos prazos já fixados para transações comerciais (30 ou 60 dias) e confirma que, passado esse prazo, o fornecedor tem direito a juros de mora automaticamente. Atualiza também a forma de calcular o dinheiro que as entidades têm disponível para assumir despesas.",
+ "context": "O Governo justifica a alteração com a necessidade de alinhamento com a Diretiva 2011/7/UE, já transposta pelo Decreto-Lei n.º 62/2013, que fixa prazos mais curtos para pagamentos de entidades públicas. Refere ainda que os decretos-lei de execução orçamental passaram a ponderar a receita e as metas orçamentais, o que não consta da definição legal de fundos disponíveis.",
+ "analysis": "A proposta é de natureza técnica e clarifica a articulação entre dois diplomas, reforçando os direitos dos credores do Estado. A nova definição de fundos disponíveis remete para o decreto-lei de execução orçamental, o que dá flexibilidade ao Governo mas desloca para norma regulamentar parâmetros relevantes, reduzindo a previsibilidade e o controlo parlamentar. O texto não apresenta estimativa do impacto em juros de mora nem de eventuais efeitos nos pagamentos em atraso existentes.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O direito a juros de mora sem interpelação pode gerar despesa adicional quando há atrasos, mas o texto não quantifica efeitos orçamentais."
+ },
+ "affected": [
+  "Fornecedores de entidades públicas",
+  "Entidades da Administração Central",
+  "Administração Local e empresas públicas"
+ ],
+ "categories": [
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "pagamentos em atraso",
+  "compromissos",
+  "juros de mora",
+  "fundos disponíveis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

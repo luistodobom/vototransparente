@@ -1,0 +1,41 @@
+{
+ "short_title": "Tratamento administrativo de assuntos relativos a Taiwan",
+ "summary": "Este projeto de resolução da Iniciativa Liberal recomenda ao Governo duas medidas: transferir, até à eventual abertura de uma representação de Portugal em Taiwan, os assuntos administrativos hoje tratados em Macau para a Embaixada de Portugal em Tóquio, ou outra jurisdição geograficamente adequada; e reestruturar o tratamento administrativo dos representantes taiwaneses em Portugal, passando os seus processos da AIMA para o Ministério dos Negócios Estrangeiros, em linha com práticas de vários Estados europeus. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Transferir de Macau para a Embaixada em Tóquio, ou outra jurisdição adequada, os assuntos administrativos relativos a Taiwan, até haver representação portuguesa em Taiwan.",
+  "Passar os processos dos representantes taiwaneses em Portugal da AIMA para o Ministério dos Negócios Estrangeiros.",
+  "Visa registo de nascimentos e casamentos, vistos e pedidos de nacionalidade."
+ ],
+ "plain_language": "A IL pede que os assuntos de cidadãos ligados a Taiwan, como registos e vistos, deixem de ser tratados em Macau e passem para a embaixada em Tóquio, e que os representantes taiwaneses em Portugal tratem dos seus documentos com o Ministério dos Negócios Estrangeiros. O Governo não é obrigado a seguir.",
+ "context": "A IL afirma que questões como registo de nascimentos, casamentos, vistos e nacionalidade só podem ser tratadas em Macau, o que prejudica cidadãos portugueses e taiwaneses. Refere ainda atrasos de anos na emissão de autorizações de residência a representantes do Centro Económico e Cultural de Taipei, tratados pela AIMA, e compara com o tratamento dado aos representantes da Palestina.",
+ "analysis": "A proposta aponta dificuldades administrativas concretas e propõe uma solução transitória pragmática. Contudo, a afirmação de que todos esses atos só se tratam em Macau e as comparações com a Palestina não são verificáveis no texto, e o argumento tem um forte enquadramento político sobre a China. Não há análise das implicações diplomáticas nem dos custos de redirecionar serviços consulares. Sendo recomendação, a decisão fica com o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A transferência de serviços entre postos consulares poderá ter pequenos custos de adaptação, que o texto não quantifica."
+ },
+ "affected": [
+  "cidadãos portugueses casados com taiwaneses",
+  "cidadãos de Taiwan",
+  "representantes do Centro Económico e Cultural de Taipei",
+  "AIMA e serviços consulares"
+ ],
+ "categories": [
+  "internacional",
+  "imigracao",
+  "administracao"
+ ],
+ "tags": [
+  "Taiwan",
+  "Macau",
+  "consulado",
+  "AIMA",
+  "serviços consulares"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

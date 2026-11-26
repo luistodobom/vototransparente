@@ -1,0 +1,41 @@
+{
+ "short_title": "Gestão democrática no Serviço Nacional de Saúde",
+ "summary": "Projeto de Lei do PCP que altera o Estatuto do SNS para consagrar a gestão democrática. Os presidentes dos conselhos de administração passam a ser recrutados por procedimento concursal, entre licenciados há mais de dez anos, aplicando as regras do estatuto do pessoal dirigente. Os diretores clínicos e enfermeiros-diretores passam a ser eleitos pelos pares, respetivamente entre médicos assistentes graduados ou graduados sénior e enfermeiros especialistas ou gestores com mais de seis meses de vínculo à instituição. Os restantes membros são designados segundo o Estatuto do Gestor Público. O Governo regulamenta a eleição em 60 dias. Os atuais membros mantêm-se até ao fim do mandato, sem renovação. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Presidentes dos conselhos de administração recrutados por concurso, entre licenciados há mais de dez anos.",
+  "Diretores clínicos e enfermeiros-diretores eleitos pelos pares.",
+  "Restantes membros designados nos termos do Estatuto do Gestor Público, com formação em gestão.",
+  "Governo regulamenta a eleição em 60 dias.",
+  "Atuais administradores mantêm-se até ao fim do mandato, sem renovação."
+ ],
+ "plain_language": "O PCP propõe que os presidentes dos hospitais sejam escolhidos por concurso e que os diretores clínicos e de enfermagem sejam eleitos pelos colegas, em vez de nomeados pelo Governo, para tornar a gestão mais transparente e ligada aos profissionais.",
+ "context": "O proponente afirma que a gestão pública do SNS é penalizada por subfinanciamento, cativações e restrições ao recrutamento, e que a seleção dos dirigentes carece de transparência, com critérios partidários e excessiva governamentalização. Defende que diretores clínicos e de enfermagem devem ser reconhecidos pelos pares.",
+ "analysis": "Ponto forte: aumenta a transparência e a participação dos profissionais na escolha das chefias clínicas. Fragilidades: a eleição por pares pode levar a lógicas corporativas; o Governo mantém um vogal e a gestão pode ficar fragmentada; o concurso exige apenas licenciatura há mais de dez anos, sem formação específica em gestão da saúde; o texto não analisa os custos nem a articulação com a Direção Executiva do SNS. A regulamentação da eleição fica remetida para 60 dias.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera regras de designação, sem previsão de despesa ou receita; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "administradores e dirigentes das unidades do SNS",
+  "médicos e enfermeiros",
+  "utentes do SNS"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "gestão democrática",
+  "SNS",
+  "eleição por pares",
+  "diretor clínico",
+  "conselhos de administração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

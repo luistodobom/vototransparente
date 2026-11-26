@@ -1,0 +1,40 @@
+{
+ "short_title": "Apoios à reconstrução sem exigir situação fiscal regularizada",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que altere a Resolução do Conselho de Ministros n.º 17-A/2026 e a Portaria n.º 63-A/2026/1 para eliminar a exigência de situação tributária e contributiva regularizada no acesso das famílias e empresas aos apoios financeiros para reconstruir habitações e instalações destruídas pelos fenómenos climáticos extremos de janeiro e fevereiro de 2026 (incluindo a tempestade Kristin), que levaram à declaração de situação de calamidade. O proponente considera a exigência injusta e desproporcionada e defende que os apoios devem permitir a rápida recuperação das comunidades, não premiar o cumprimento fiscal. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Eliminar a exigência de situação tributária e contributiva regularizada nos apoios à reconstrução.",
+  "Alterar a Resolução do Conselho de Ministros n.º 17-A/2026 e a Portaria n.º 63-A/2026/1.",
+  "Abrange famílias e empresas afetadas pelos fenómenos climáticos extremos de janeiro e fevereiro de 2026."
+ ],
+ "plain_language": "O PAN pede ao Governo que deixe de exigir que as pessoas e empresas tenham as dívidas ao Fisco e à Segurança Social em dia para receberem ajuda para reconstruir casas e instalações destruídas pelas tempestades de 2026. É apenas uma recomendação.",
+ "context": "O proponente refere que as tempestades de janeiro e fevereiro de 2026 causaram cheias, danos em habitações e infraestruturas e que os apoios do Governo exigem situação fiscal e contributiva regularizada, como aconteceu na COVID-19 e nos incêndios. Considera que, na emergência, a solidariedade deve prevalecer.",
+ "analysis": "A medida simplifica o acesso aos apoios a quem está em maior dificuldade, e alinha-se com o objetivo de recuperação rápida. Fragilidades: a exigência de situação regularizada é uma salvaguarda comum para o uso de dinheiros públicos e a sua eliminação pode levantar questões de equidade entre contribuintes e de controlo; o texto não estima o número de beneficiários afetados nem o custo, e não prevê alternativas, como compensação de dívidas com os apoios.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar o acesso aos apoios a quem tem dívidas fiscais ou contributivas aumentaria os pagamentos; o texto não estima o montante."
+ },
+ "affected": [
+  "famílias afetadas pelas tempestades",
+  "empresas afetadas",
+  "população das áreas em situação de calamidade"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "habitacao"
+ ],
+ "tags": [
+  "tempestade Kristin",
+  "reconstrução",
+  "situação de calamidade",
+  "apoios",
+  "situação contributiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

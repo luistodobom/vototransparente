@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforma do sistema de pensões com capitalização individual",
+ "summary": "O Projeto de Resolução n.º 1103/XVII/1.ª, da Iniciativa Liberal, recomenda ao Governo um caminho para a sustentabilidade da Segurança Social. Pede que divulgue as conclusões do grupo de trabalho criado pelo Despacho n.º 1452/2025, que apresente até ao final de 2026 uma estratégia nacional de reforma do sistema de pensões e que desenvolva a introdução progressiva de um pilar de capitalização individual, com parte das contribuições acumulada em contas pertencentes aos trabalhadores. Recomenda ainda que qualquer alteração respeite a equidade intergeracional e as expectativas legítimas dos contribuintes, sem cheques extraordinários nem aumentos permanentes acima do previsto na lei, e que se reforce a liberdade de escolha do momento da reforma, com informação transparente. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Divulgar o quanto antes as conclusões do grupo de trabalho sobre sustentabilidade da Segurança Social criado pelo Despacho n.º 1452/2025.",
+  "Apresentar até ao final de 2026 uma estratégia nacional de reforma do sistema de pensões.",
+  "Desenvolver a introdução progressiva de um pilar de capitalização individual, com contas individuais dos trabalhadores.",
+  "Evoluir para um regime público financeiramente sustentável, preservando a liberdade de poupança para a reforma.",
+  "Não promover cheques extraordinários nem aumentos permanentes de pensões acima do previsto na lei.",
+  "Reforçar a liberdade de escolha do momento da reforma, com informação transparente sobre o impacto de cada opção."
+ ],
+ "plain_language": "A Iniciativa Liberal defende que o sistema atual, em que quem trabalha hoje paga as pensões de hoje, é frágil perante o envelhecimento da população. Propõe que o Governo divulgue o estudo que prometeu, apresente um plano de reforma até ao fim de 2026 e passe a permitir que parte dos descontos fique numa conta individual de cada trabalhador. Pede também que não haja aumentos extra de pensões nem cheques pontuais. É uma recomendação ao Governo.",
+ "context": "O proponente critica o debate de curto prazo sobre pensões, com cheques extraordinários, aumentos permanentes acima da lei e discussão da antecipação da idade da reforma. Considera que o problema estrutural é um sistema assente quase só na repartição, perante baixa natalidade e envelhecimento acelerado, e acusa o adiamento de decisões para grupos de trabalho sem conclusões conhecidas.",
+ "analysis": "Pontos fortes: identifica o desafio demográfico e pede calendário e transparência sobre um estudo já encomendado. Fragilidades: a capitalização individual implica custos de transição, porque as contribuições desviadas deixam de financiar as pensões atuais, e o texto não os quantifica nem diz como seriam financiados; não define a fatia de contribuições nem as regras do pilar. A recomendação contra aumentos acima da lei assume uma posição política que outros partidos contestam. É uma recomendação sem efeito vinculativo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos nem poupanças. A introdução de contas individuais pode implicar custos de transição para a Segurança Social, enquanto travar aumentos acima da lei evitaria despesa adicional."
+ },
+ "affected": [
+  "trabalhadores contribuintes",
+  "pensionistas",
+  "Segurança Social",
+  "gerações futuras"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "capitalização individual",
+  "sustentabilidade",
+  "idade da reforma"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

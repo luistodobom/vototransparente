@@ -1,0 +1,45 @@
+{
+ "short_title": "Valorização dos trabalhadores da educação e da escola pública",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo um conjunto alargado de medidas para docentes, técnicos especializados, pessoal não docente e inspetores da educação. Inclui o reconhecimento de carreiras especiais (nomeadamente assistente de ação educativa e assistente administrativo de administração escolar), a integração dos trabalhadores precários em funções permanentes, um regime de aposentação adequado com avaliação do impacto do fim dos regimes específicos, a contagem de todo o tempo de serviço dos docentes, a vinculação de docentes com mais de três anos de serviço, a revisão da portaria de rácios do pessoal não docente e o reconhecimento da carreira de inspeção como segunda carreira. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconhecimento e criação de carreiras especiais para pessoal docente e não docente, com negociação sindical.",
+  "Integração na carreira dos trabalhadores com vínculos precários que exercem funções permanentes.",
+  "Aposentação: avaliação do impacto do fim de regimes específicos e aplicação de regimes específicos para funções de desgaste.",
+  "Docentes: contagem de todo o tempo de serviço, vinculação com mais de três anos de serviço e clarificação dos horários.",
+  "Técnicos especializados: grupos de recrutamento próprios e concursos de vinculação.",
+  "Revisão da portaria de rácios dos assistentes operacionais e técnicos e carreira de inspeção como segunda carreira."
+ ],
+ "plain_language": "O PCP pede ao Governo várias medidas para melhorar as condições de quem trabalha nas escolas públicas: carreiras próprias, fim da precariedade, contagem de todo o tempo de serviço, mais pessoal nas escolas e uma reforma adequada. Trata-se de uma recomendação, que o Governo não tem de cumprir.",
+ "context": "O proponente considera que valorizar os trabalhadores é condição para uma escola pública de qualidade e aponta a falta de professores, técnicos, assistentes técnicos e operacionais, a precariedade e o envelhecimento dos profissionais. Associa a desvalorização desses trabalhadores a um ataque à escola pública.",
+ "analysis": "A proposta é abrangente e dá resposta a reivindicações de várias categorias profissionais, com ênfase em estabilidade e carreiras. Fragilidades: sendo uma recomendação, não vincula o Governo; mistura medidas muito distintas sem prioridades, prazos ou custos, e algumas (contagem integral do tempo de serviço, revisão da aposentação) têm impacto orçamental elevado e não quantificado no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As medidas sobre carreiras, vinculação, contagem do tempo de serviço, aposentação e mais pessoal aumentariam a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "docentes",
+  "pessoal não docente",
+  "técnicos especializados",
+  "inspetores da educação",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "carreiras especiais",
+  "precariedade",
+  "pessoal não docente",
+  "aposentação",
+  "escola pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Resolver o problema ambiental do aterro do Zambujal, em Sesimbra",
+ "summary": "O PEV recomenda ao Governo que tome diligências urgentes sobre o aterro de resíduos inertes de Ribeiro do Cavalo, Zambujal de Cima, em Sesimbra: garantir em absoluto que não é depositado mais nenhum resíduo; forçar a identificação e remoção dos resíduos contaminados indevidamente recebidos; e assegurar de forma definitiva a selagem do aterro e a requalificação do espaço, de modo a acabar com os maus cheiros e fumos. O texto refere que a licença foi revogada em 2019 pela CCDR LVT, após ações inspetivas em 2017 e 2018 que detetaram incumprimento grave, e que o problema persiste.",
+ "key_points": [
+  "Garantir que nenhum resíduo é depositado no aterro.",
+  "Forçar a identificação e a remoção de resíduos contaminados.",
+  "Assegurar a selagem definitiva do aterro e a requalificação do espaço.",
+  "Eliminar os maus cheiros e fumos que afetam a população."
+ ],
+ "plain_language": "O PEV pede ao Governo que resolva de vez o problema do aterro do Zambujal, em Sesimbra: que não entre mais lixo, que se retirem os resíduos contaminados e que o aterro seja selado e o terreno recuperado, para acabar com os cheiros e fumos que incomodam os moradores. É uma recomendação.",
+ "context": "O PEV descreve um problema de saúde pública e de qualidade de vida: odores intensos, fumos, casos de problemas respiratórios e um incêndio em agosto de 2019. Refere que a resposta do Governo a uma pergunta escrita confirmou a deposição de resíduos contaminados, mas que, passado tempo considerável desde o encerramento, nada de substancial foi feito.",
+ "analysis": "A iniciativa tem objetivos claros e apoia-se em informação oficial obtida por pergunta parlamentar e em pressão de autarquias locais. Fragilidades: não indica prazos, entidade responsável pelos custos de remoção e selagem (a empresa operadora ou o Estado), nem mecanismos de financiamento. Menciona problemas respiratórios sem dados concretos. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A remoção de resíduos e a selagem poderão implicar despesa pública, caso não seja imputada ao operador; o texto não indica montantes."
+ },
+ "affected": [
+  "residentes junto ao aterro",
+  "Câmara Municipal de Sesimbra",
+  "CCDR Lisboa e Vale do Tejo"
+ ],
+ "categories": [
+  "ambiente",
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "aterro",
+  "sesimbra",
+  "resíduos contaminados",
+  "zambujal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

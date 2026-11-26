@@ -1,0 +1,40 @@
+{
+ "short_title": "Divulgar dados de obstetrícia e neonatologia",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo, através do Ministério da Saúde, que torne públicos os dados de obstetrícia e neonatologia já recolhidos nas unidades privadas e nos hospitais do SNS ao abrigo da Portaria n.º 310/2016, relativos a 2017, 2018, 2019 e 2020. Recomenda ainda que, a partir de 2021, a divulgação seja semestral: até 30 de setembro, com os dados do primeiro semestre, e até 30 de março do ano seguinte, com os do segundo semestre e os anuais. Os dados incluem, por exemplo, óbitos fetais, neonatais e maternos e morbilidade grave. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Divulgar os dados da Portaria n.º 310/2016 referentes a 2017, 2018, 2019 e 2020.",
+  "A partir de 2021, divulgação semestral dos dados de obstetrícia e neonatologia.",
+  "Prazos propostos: 30 de setembro (1.º semestre) e 30 de março do ano seguinte (2.º semestre e dados anuais).",
+  "Abrange unidades privadas e estabelecimentos hospitalares do SNS."
+ ],
+ "plain_language": "A lei já obriga hospitais e clínicas a recolher dados sobre partos, mortes de bebés e mães e complicações graves, mas esses dados não são divulgados. O PAN pede ao Governo que os publique, para que se possa avaliar a qualidade dos cuidados e as famílias possam escolher onde ter os filhos. É um pedido ao Governo.",
+ "context": "O proponente refere que os partos eutócicos desceram para 45,7% do total, com 36% de cesarianas, contra a recomendação da OMS de menos intervenções. Sem dados detalhados sobre intervenções e resultados, defende, não é possível avaliar a situação nem participar em estudos internacionais.",
+ "analysis": "A medida é de baixo custo aparente e reforça a transparência, usando dados já recolhidos por lei. Fragilidades: o texto não esclarece se os dados já existem de forma consolidada, nem trata de proteção de dados em unidades com poucos casos; a ligação entre taxa de cesarianas e qualidade é sugerida mas não demonstrada. Sendo recomendação, a execução depende do Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Pede apenas a divulgação de dados já recolhidos; o texto não refere custos adicionais."
+ },
+ "affected": [
+  "grávidas e famílias",
+  "utentes do SNS",
+  "unidades de saúde públicas e privadas"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "obstetrícia",
+  "neonatologia",
+  "transparência",
+  "partos",
+  "dados de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

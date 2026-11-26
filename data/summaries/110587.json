@@ -1,0 +1,44 @@
+{
+ "short_title": "Alargar e massificar a testagem à Covid-19",
+ "summary": "O BE recomenda ao Governo que alargue a estratégia de testagem ao SARS-CoV-2: testar todos os contactos de casos suspeitos ou confirmados; testar regularmente em escolas, indústria, construção civil, agricultura e outros locais de trabalho; disponibilizar testes a quem se desloque a centros de saúde e hospitais, ainda que sem sintomas, se não tiver testado nos 7 dias anteriores; criar pontos de colheita e análise assegurados pelo SNS em centros de saúde e bairros; estabelecer parcerias com associações junto de populações vulneráveis; e fazer testagem massiva em locais com surto. Para isso, aproveitar a capacidade do SNS, investir em profissionais e meios e formar elementos das associações. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Testar todos os contactos de casos suspeitos ou confirmados.",
+  "Testagem regular em escolas e locais de trabalho como a indústria, a construção e a agricultura.",
+  "Testes a utentes do SNS mesmo sem sintomas, se não testaram nos 7 dias anteriores.",
+  "Pontos de colheita e análise do SNS em centros de saúde e bairros.",
+  "Parcerias com associações junto de populações vulneráveis, com formação e testes rápidos.",
+  "Testagem massiva em locais com surto ou aumento rápido de casos."
+ ],
+ "plain_language": "O BE pede ao Governo que teste muito mais pessoas à Covid-19: todos os contactos, escolas e locais de trabalho, utentes que vão aos serviços de saúde e bairros onde haja surtos, com ajuda de associações que trabalham com populações vulneráveis. É uma recomendação.",
+ "context": "O BE defende que o controlo da pandemia passa por testar e rastrear, que a testagem foi insuficiente em vários momentos (por exemplo, com testes positivos a chegar a 20% do total) e que caiu de cerca de 70 mil testes diários em janeiro para 30 mil em fevereiro de 2021, perante a ameaça da variante britânica e o desconfinamento.",
+ "analysis": "A estratégia é abrangente, combina vários contextos e reforça a deteção precoce de surtos, com envolvimento de associações para chegar a populações excluídas. Fragilidades: não estima custos, calendário nem número de testes necessário; a testagem de utentes assintomáticos tem benefício e custo a avaliar; as parcerias com associações exigem formação, controlo de qualidade e articulação com as autoridades de saúde. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais testes, pontos de colheita e profissionais implicam despesa do SNS; o texto reconhece que será preciso algum investimento mas não o quantifica."
+ },
+ "affected": [
+  "população geral",
+  "alunos e trabalhadores",
+  "utentes do SNS",
+  "populações vulneráveis ou excluídas",
+  "associações parceiras"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "covid-19",
+  "testagem",
+  "rastreio",
+  "sns",
+  "surtos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

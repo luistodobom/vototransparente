@@ -1,0 +1,42 @@
+{
+ "short_title": "Registo de transparência do lobbying na Assembleia",
+ "summary": "O projeto de lei do PS estabelece regras de transparência para a interação entre entidades públicas e entidades privadas que exercem representação legítima de interesses e cria um Registo de Transparência da Representação de Interesses (RTRI) junto da Assembleia da República. Define o que é representação de interesses, exclui parceiros sociais, advogados e o direito de petição, e abrange a Presidência da República, o Parlamento, o Governo, as Regiões Autónomas, a administração e reguladores (com exceção de freguesias com menos de 10 mil eleitores). Prevê inscrição obrigatória prévia para quem faz representação profissional, direitos e deveres das entidades registadas, e obriga a que constem do registo antes de obterem audiências, com divulgação trimestral das reuniões.",
+ "key_points": [
+  "Cria o Registo de Transparência da Representação de Interesses, público, gratuito e gerido pela Assembleia da República.",
+  "Quem representa interesses de terceiros a título profissional deve registar-se previamente.",
+  "Entidades registadas têm direitos, como informação sobre consultas públicas, e deveres, como atualizar dados em 60 dias.",
+  "Só podem ter audiências as entidades que constem do registo.",
+  "As entidades públicas divulgam, pelo menos trimestralmente, as reuniões realizadas com entidades registadas."
+ ],
+ "plain_language": "A proposta obriga quem faz lobbying como profissão a inscrever-se num registo público e a dizer quem representa. Quem não estiver inscrito não será recebido em audiências, e as instituições públicas terão de publicar regularmente com quem se reuniram. Sindicatos, associações patronais na concertação social, advogados e peticionários ficam de fora.",
+ "context": "O PS recorda que o regime aprovado na XIII Legislatura foi vetado pelo Presidente da República em 2019 por três lacunas e acabou por não ser aprovado. Pretende agora retomar o consenso então alcançado, incorporando as observações presidenciais, para dar transparência às relações entre decisores e quem tenta influenciar políticas públicas.",
+ "analysis": "A proposta aproveita um texto já debatido e responde a críticas do veto anterior, alargando o âmbito às Casas Civil e Militar da Presidência. Pontos positivos: registo público e publicação de reuniões. Fragilidades: o texto analisado está truncado, pelo que sanções e fiscalização não foram verificadas. A exclusão de advogados e de parceiros sociais pode deixar fora formas relevantes de influência, e a remissão de regras concretas para cada entidade pública pode gerar práticas desiguais.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e gestão do registo e a divulgação das reuniões implicam custos administrativos, sobretudo para a Assembleia da República. O texto analisado não apresenta montantes."
+ },
+ "affected": [
+  "lobistas e consultoras de representação de interesses",
+  "entidades públicas e decisores políticos",
+  "empresas e organizações que representam interesses",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "lobbying",
+  "registo de transparência",
+  "representação de interesses",
+  "audiências",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

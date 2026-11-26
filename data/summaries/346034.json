@@ -1,0 +1,41 @@
+{
+ "short_title": "Maior compensação por morte ou invalidez de polícias",
+ "summary": "O projeto de lei altera o Decreto-Lei n.º 113/2005, que regula a compensação por morte ou invalidez permanente decorrente dos riscos próprios da atividade policial ou de segurança (GNR, PSP, Polícia Marítima, antigo SEF, Guarda Prisional e Guarda Florestal). Fixa a compensação por morte em 500 vezes a retribuição mínima mensal garantida e, para invalidez permanente, um limite mínimo de 250 vezes e máximo de 500 vezes esse valor. Prevê ainda que, quando a morte ou incapacidade resulte de facto ilícito de terceiro, o Estado paga a indemnização civil devida, de forma autónoma e cumulável com a compensação, com direito de regresso contra o autor do facto. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Compensação por morte fixada em 500 vezes a retribuição mínima mensal garantida.",
+  "Compensação por invalidez permanente com mínimo de 250 e máximo de 500 vezes a retribuição mínima mensal garantida.",
+  "Quando há facto ilícito de terceiro, o Estado assegura o pagamento da indemnização civil devida.",
+  "Essa indemnização é autónoma e cumulável com a compensação especial.",
+  "O Estado fica com direito de regresso contra o autor do facto ilícito."
+ ],
+ "plain_language": "Quando um polícia, militar da GNR ou guarda prisional morre ou fica com invalidez permanente por causa dos riscos do trabalho, a família ou o próprio recebem uma compensação especial. A proposta aumenta os limites desse valor. Além disso, se a morte ou lesão for provocada por um crime de outra pessoa, o Estado pagaria a indemnização à vítima ou à família e depois poderia exigi-la ao responsável.",
+ "context": "O proponente (Chega) considera que os valores atuais são baixos segundo a doutrina e a jurisprudência e que, quando o dano resulta de ato ilícito de terceiro, é muito difícil obter indemnização, por exemplo por fuga do agressor. Quer por isso uma rede de segurança baseada na solidariedade social.",
+ "analysis": "A proposta reforça a proteção de profissionais expostos a risco elevado e resolve o problema prático de a indemnização depender de localizar e executar o responsável. Fragilidades: o texto não estima o custo, que pode ser relevante e imprevisível; o Estado passa a garantir indemnizações civis, o que levanta a questão da equidade face a outras vítimas de crimes; a eficácia do direito de regresso é incerta; o texto altera apenas os artigos 4.º e 7.º, deixando por clarificar a articulação com outras prestações.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os limites mais elevados da compensação e a assunção pelo Estado das indemnizações civis aumentam a despesa pública, em parte mitigada pelo direito de regresso. O texto não indica montantes."
+ },
+ "affected": [
+  "membros das forças de segurança",
+  "famílias de agentes falecidos ou incapacitados",
+  "Estado"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho",
+  "justica"
+ ],
+ "tags": [
+  "compensação",
+  "invalidez permanente",
+  "forças de segurança",
+  "indemnização civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

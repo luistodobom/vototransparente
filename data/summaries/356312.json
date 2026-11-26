@@ -1,0 +1,44 @@
+{
+ "short_title": "Mais apoio a estudantes deslocados do ensino superior",
+ "summary": "O Projeto de Lei do LIVRE altera a Lei n.º 8/2025 sobre o complemento de alojamento dos estudantes deslocados do ensino superior. Alarga o complemento a estudantes deslocados não bolseiros de agregados com rendimento até ao 6.º escalão do IRS, inclusive, fixa limites de 95% do IAS em Cascais, Lisboa, Oeiras, Porto e Sintra e 85% do IAS em Almada, Amadora, Braga, Coimbra, Faro, Matosinhos, Loures e Odivelas, e prevê para bolseiros deslocados um apoio à deslocação de 50 euros por mês, até 400 euros por ano, quando não haja transporte público. Exige ainda refeições a preço social em todo o ensino superior público, com alternativas por protocolo quando tal não seja possível.",
+ "key_points": [
+  "Alarga o complemento de alojamento a estudantes deslocados não bolseiros, até ao 6.º escalão do IRS.",
+  "Limites do complemento: 95% do IAS em Cascais, Lisboa, Oeiras, Porto e Sintra; 85% em Almada, Amadora, Braga, Coimbra, Faro, Matosinhos, Loures e Odivelas.",
+  "Apoio mensal à deslocação de 50 euros, máximo de 400 euros por ano, para bolseiros sem transporte público adequado.",
+  "Refeições a preço social em todos os estabelecimentos de ensino superior público.",
+  "Alternativas de apoio à alimentação por protocolos com autarquias, IPSS e outras entidades sem fins lucrativos.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A proposta estende o apoio ao alojamento a estudantes que estudam longe de casa mesmo sem bolsa, se a família tiver rendimentos até determinado escalão. Define valores maiores para as cidades mais caras, dá um apoio para deslocações e obriga a que haja refeições baratas em todas as universidades e politécnicos públicos.",
+ "context": "O LIVRE afirma que o custo do alojamento é um dos principais obstáculos ao acesso ao ensino superior, por escassez de residências públicas e subida das rendas. Considera que o complemento de alojamento da Lei n.º 8/2025 tem limitações na adequação e nos contextos elegíveis, e acrescenta apoios a transportes e alimentação.",
+ "analysis": "A iniciativa responde a um problema documentado, alarga a cobertura a não bolseiros e atualiza os tetos nas cidades mais caras. Porém, o articulado do artigo 7.º mistura texto antigo e novo (gratuitidade e apoio de 50 euros), o que cria ambiguidade; a lista de concelhos pode deixar de fora zonas com rendas elevadas; e não há estimativa de custo nem do número de estudantes abrangidos. A obrigação de refeições a preço social em todos os estabelecimentos tem custos de aplicação não avaliados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alarga o complemento de alojamento, cria apoio à deslocação e reforça refeições a preço social. O texto não apresenta valores globais."
+ },
+ "affected": [
+  "estudantes deslocados do ensino superior",
+  "estudantes bolseiros",
+  "instituições de ensino superior públicas",
+  "autarquias e IPSS"
+ ],
+ "categories": [
+  "educacao",
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "complemento de alojamento",
+  "estudantes deslocados",
+  "ensino superior",
+  "Lei 8/2025",
+  "refeições sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

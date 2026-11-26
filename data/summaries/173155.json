@@ -1,0 +1,42 @@
+{
+ "short_title": "Moratória em atividades de consumo intensivo de água",
+ "summary": "O Bloco de Esquerda recomenda ao Governo, perante a seca, que imponha a título excecional uma moratória a novos empreendimentos turísticos em territórios em situação de seca severa e extrema e uma moratória a novas áreas de regadio, em ambos os casos com avaliação de impacto ambiental do conjunto de licenciamentos por região. Recomenda ainda o fim da subsidiação do preço da água no sistema de rega do Alqueva e nos perímetros de rega do Tejo e Oeste, Vouga, Mondego, Lis, Sado e Mira, e que os fundos da PAC priorizem modos de produção diversificados que recuperem solos e retenham água, culturas de sequeiro e regadios de outono/inverno. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Moratória excecional a novos empreendimentos turísticos em zonas de seca severa ou extrema, com avaliação de impacto ambiental regional.",
+  "Moratória excecional a novas áreas de regadio, com avaliação de impacto ambiental regional.",
+  "Fim da subsidiação do preço da água em vários perímetros de rega, incluindo o Alqueva.",
+  "Prioridade, nos fundos da PAC, a produção diversificada, sequeiro e regadios de outono/inverno."
+ ],
+ "plain_language": "O texto pede ao Governo que, enquanto durar a seca grave, pare de autorizar novos empreendimentos turísticos e novas áreas de regadio, e deixe de subsidiar o preço da água usada na rega. Pede também que os apoios agrícolas europeus premeiem práticas que poupam água e protegem o solo. É uma recomendação, e o Governo decide se a segue.",
+ "context": "O proponente descreve uma seca generalizada, com redução da precipitação e perspetiva de menor disponibilidade de água nas bacias do sul. Salienta que a agricultura consome mais de 75% da água captada e defende uma alteração dos modos de produção, em vez de aumentar o consumo em setores não essenciais.",
+ "analysis": "A iniciativa liga a escassez hídrica a medidas concretas e coloca a avaliação ambiental regional em destaque. Fragilidades: a moratória não define critérios, duração nem zonas abrangidas, e pode afetar projetos e investimentos em curso e a segurança jurídica. O fim da subsidiação do preço da água poderia aumentar custos de agricultores sem medidas de compensação. Sendo uma recomendação, o seu efeito depende da adesão do Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O fim da subsidiação da água e a reorientação de fundos da PAC alterariam receitas e despesas públicas e custos privados, sem montantes indicados no texto."
+ },
+ "affected": [
+  "agricultores de regadio",
+  "promotores turísticos",
+  "regiões do sul",
+  "entidades gestoras de rega"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "seca",
+  "moratória",
+  "regadio",
+  "empreendimentos turísticos",
+  "PAC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

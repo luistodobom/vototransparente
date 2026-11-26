@@ -1,0 +1,40 @@
+{
+ "short_title": "Grupo de trabalho sobre referências a Portugal nos Ficheiros Epstein",
+ "summary": "Projeto de Resolução do PAN que cria, no âmbito da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, um grupo de trabalho com representantes de todos os partidos com representação parlamentar, para acompanhar as referências a Portugal nos chamados Ficheiros Epstein. O grupo teria como objetivos mapear e analisar todas essas referências, realizar audições para as esclarecer, avaliar riscos jurídicos, institucionais e reputacionais, e ponderar medidas preventivas e protocolos institucionais para reforçar a proteção de menores, prevenir a criminalidade organizada transnacional e salvaguardar a integridade das instituições portuguesas.",
+ "key_points": [
+  "Cria um grupo de trabalho na Comissão de Assuntos Constitucionais, com representantes de todos os partidos.",
+  "Mapeia e analisa todas as referências a Portugal nos Ficheiros Epstein.",
+  "Realiza audições para esclarecer essas referências.",
+  "Avalia riscos jurídicos, institucionais e reputacionais.",
+  "Pondera medidas e protocolos para proteger menores e prevenir a criminalidade organizada transnacional."
+ ],
+ "plain_language": "O PAN quer que o Parlamento crie um grupo de deputados para analisar o que os documentos do caso Epstein dizem sobre Portugal, ouvir quem possa esclarecer essas referências e propor medidas para proteger menores e instituições. O grupo não tem poderes judiciais: serve para acompanhar e esclarecer.",
+ "context": "O PAN refere que os documentos divulgados nos Estados Unidos contêm várias referências a Portugal, como passagens do avião de Epstein nos Açores entre 2002 e 2003, estadias de mulheres associadas à rede em hotéis em 2017 e 2018, menções ao processo da Lei dos Sefarditas e um email que refere a Casa Pia. Considera que o Parlamento não deve ficar indiferente.",
+ "analysis": "A iniciativa procura esclarecimento público sobre factos graves, mas as referências são apresentadas com base nos documentos divulgados, sem se distinguir o que está confirmado do que é mera menção, o que exige cautela para não imputar responsabilidades. O texto não fixa prazo, poderes, orçamento nem relatório final do grupo, e não esclarece como se articula com investigações judiciais, onde o Parlamento não pode substituir os tribunais. Há risco de exposição de pessoas citadas sem prova. Sendo resolução, o grupo teria função de acompanhamento e não de inquérito.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos; o funcionamento de um grupo de trabalho parlamentar teria custos administrativos reduzidos, não quantificados."
+ },
+ "affected": [
+  "Assembleia da República",
+  "Pessoas e entidades referidas nos documentos",
+  "Crianças e jovens (proteção de menores)"
+ ],
+ "categories": [
+  "instituicoes",
+  "justica"
+ ],
+ "tags": [
+  "Ficheiros Epstein",
+  "grupo de trabalho",
+  "proteção de menores",
+  "tráfico de pessoas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

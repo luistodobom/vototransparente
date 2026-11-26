@@ -1,0 +1,38 @@
+{
+ "short_title": "Promoção e alargamento dos rastreios oncológicos",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo quatro medidas: assegurar a cobertura em todo o território dos rastreios do cancro da mama, do colo do útero e do colon e reto; promover ações de formação de profissionais de saúde, nomeadamente médicos de medicina geral e familiar e enfermeiros, sobre rastreios oncológicos; reforçar os meios e recursos das Unidades Locais de Saúde para estes rastreios; e alargar os horários das unidades de saúde para garantir a sua realização. A exposição de motivos defende ainda a implementação de novos rastreios para os cancros do pulmão, estômago e próstata, embora essa medida não conste das recomendações finais.",
+ "key_points": [
+  "Assegurar a cobertura nacional dos rastreios de mama, colo do útero e colon e reto.",
+  "Promover formação de médicos de família e enfermeiros sobre rastreios.",
+  "Reforçar meios e recursos das ULS para os rastreios.",
+  "Alargar os horários das unidades de saúde para realizar rastreios."
+ ],
+ "plain_language": "O PCP pede ao Governo que os rastreios de cancro da mama, do colo do útero e do intestino cheguem a todo o país, com mais meios nas unidades de saúde, formação para os profissionais e horários alargados. A exposição de motivos fala também em criar rastreios de pulmão, estômago e próstata, mas isso não vem pedido nas medidas. É uma recomendação, sem força obrigatória.",
+ "context": "O proponente refere que as doenças oncológicas causaram 28.165 mortes em 2023 e que os rastreios existentes ficam aquém da meta de 90% para 2030, com adesão de 50% nos cancros da mama e colorretal em 2023. Aponta assimetrias regionais, como a falta de kits do rastreio colorretal na ULS do Algarve em 2024.",
+ "analysis": "A proposta incide em problemas práticos, como meios, formação e horários, e usa dados de adesão e de falhas regionais. Fragilidades: não quantifica recursos nem metas, não indica como financiar os horários alargados nem como obter os profissionais necessários, e há uma incoerência entre a defesa de novos rastreios na exposição de motivos e a sua ausência na parte dispositiva. Sendo projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais recursos nas ULS, formação e horários alargados implicam despesa pública adicional; o texto não apresenta montantes."
+ },
+ "affected": [
+  "utentes do SNS elegíveis para rastreio",
+  "médicos de família e enfermeiros",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "rastreio oncológico",
+  "sns",
+  "ULS",
+  "cuidados primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

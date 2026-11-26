@@ -1,0 +1,45 @@
+{
+ "short_title": "Medidas temporárias contra o custo de vida",
+ "summary": "O Projeto de Resolução n.º 1090/XVII/1.ª, do PS, recomenda ao Governo um pacote de 15 medidas temporárias, com horizonte inicial trimestral, para mitigar o custo de vida e apoiar famílias, empresas e setores expostos à instabilidade no Médio Oriente. Inclui avaliação e informação trimestral ao Parlamento, monitorização dos preços alimentares ao longo da cadeia de valor, isenção temporária de IVA num cabaz alimentar, redução do IVA dos combustíveis de 23% para 13%, redução do impacto fiscal do gás engarrafado de 23% para 13%, duplicação dos limites de consumo de eletricidade com IVA reduzido, duplicação do apoio por hectare para fertilizantes e apoio de pelo menos 30 cêntimos por litro ao combustível agrícola. Recomenda ainda apoios a transportes, indústria, municípios e IPSS e que bónus de pensões se convertam em atualização extraordinária financiada pelo Orçamento do Estado. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação trimestral dos impactos do conflito no Médio Oriente, com informação regular à Assembleia e audição dos setores afetados.",
+  "Isenção temporária de IVA num cabaz de bens alimentares essenciais e monitorização dos preços alimentares ao longo da cadeia de valor.",
+  "Redução temporária do IVA sobre combustíveis e sobre o gás engarrafado de 23% para 13%, sujeita a avaliação.",
+  "Duplicação dos limites de consumo de eletricidade com IVA reduzido e dos apoios ao setor agrícola, com combustível agrícola a pelo menos 30 cêntimos por litro.",
+  "Reforço dos apoios a transportes, indústrias intensivas em energia, municípios e IPSS, e avaliação de ajuda a quem tem crédito à habitação em taxa variável.",
+  "Converter qualquer suplemento extraordinário de pensões em atualização permanente, financiada pelo Orçamento do Estado."
+ ],
+ "plain_language": "O PS pede ao Governo medidas temporárias para aliviar o custo de vida, com a guerra no Médio Oriente a pressionar preços de energia e alimentos. Propõe baixar o IVA de alimentos básicos, combustíveis e gás engarrafado, ajudar agricultores, transportes e indústrias e apoiar famílias com crédito à habitação. Pede também que eventuais bónus de pensão passem a ser aumentos permanentes. As medidas seriam revistas a cada três meses e o Governo decide se as segue.",
+ "context": "O PS invoca a instabilidade no Médio Oriente e os seus efeitos nos mercados energéticos, nas cadeias de abastecimento e nos preços alimentares, num contexto em que o custo de vida pressiona os rendimentos das famílias e a competitividade das empresas. Considera que as medidas do Governo foram claramente insuficientes, sobretudo para pequenos agricultores, e critica os bónus extraordinários de pensões em anos eleitorais por não se refletirem no valor futuro das pensões.",
+ "analysis": "Pontos fortes: combina monitorização, medidas temporárias e avaliação periódica, com prioridade a quem enfrenta maior pressão. Fragilidades: o texto não quantifica o custo do conjunto de medidas, que reduzem receita de IVA e aumentam despesa; a redução de IVA sobre combustíveis e a isenção em cabazes têm eficácia discutível, por poderem não chegar integralmente aos preços e por beneficiar também consumidores de maior rendimento; a medida de IRC mencionada como compensação é indicativa e sem detalhe; e a recomendação sobre o gás engarrafado depende de compatibilidade com o direito da União.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "As reduções de IVA reduzem a receita e os apoios aos setores aumentam a despesa; a conversão de bónus em aumento de pensões seria financiada pelo Orçamento do Estado, com eventual ajuste de um ponto percentual no IRC. O texto não quantifica montantes."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "agricultores",
+  "empresas de transportes e indústrias intensivas em energia",
+  "pensionistas",
+  "municípios e IPSS"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "custo de vida",
+  "IVA",
+  "combustíveis",
+  "cabaz alimentar",
+  "apoio aos agricultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

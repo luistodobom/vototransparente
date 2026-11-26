@@ -1,0 +1,42 @@
+{
+ "short_title": "Reabilitação e modernização dos tribunais dos Açores",
+ "summary": "O Projeto de Resolução do CHEGA recomenda ao Governo quatro medidas para os tribunais da Região Autónoma dos Açores. Um plano integrado de reabilitação, conservação e modernização dos edifícios, com cronograma e estimativa orçamental, priorizando o Tribunal Judicial da Comarca dos Açores e o Tribunal Administrativo e Fiscal de Ponta Delgada. Uma avaliação técnica de todos os edifícios judiciais, com correção de deficiências em segurança, salubridade, acessibilidade, climatização, ventilação e instalações elétricas. Medidas de valorização e estabilidade para os trabalhadores judiciais, tendo em conta a insularidade. E modernização tecnológica, com sistemas informáticos, equipamentos e conectividade fiáveis. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Plano integrado de reabilitação dos edifícios, com cronograma e estimativa orçamental, priorizando o Tribunal Judicial da Comarca dos Açores e o Tribunal Administrativo e Fiscal de Ponta Delgada.",
+  "Avaliação técnica de todos os edifícios judiciais dos Açores.",
+  "Medidas de valorização e estabilidade para os trabalhadores judiciais, considerando a insularidade e a ultraperiferia.",
+  "Modernização tecnológica dos tribunais, com sistemas, equipamentos e conectividade fiáveis."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que reabilite os tribunais dos Açores, muitos em edifícios antigos e degradados, avalie todos eles, melhore as condições de quem lá trabalha e atualize os sistemas informáticos e a ligação à rede, para que a justiça seja mais rápida.",
+ "context": "O proponente descreve edifícios com infiltrações, fissuras, falhas elétricas e falta de climatização, escassez de magistrados e oficiais de justiça, elevada pendência processual e uma greve de magistrados nos Açores em julho de 2025. Refere atrasos graves no Tribunal Administrativo e Fiscal de Ponta Delgada.",
+ "analysis": "A iniciativa junta problemas de edifícios, pessoas e tecnologia numa resposta coordenada e prevê cronograma e estimativa orçamental. Contudo, a medida sobre trabalhadores judiciais é genérica e não indica se são incentivos, quadros ou outros, e o diagnóstico baseia-se em relatos, sem dados quantitativos sobre pendências. Não fixa prazos de execução nem dotação. Parte dos meios dependem do Ministério da Justiça e da gestão regional, o que exige articulação não detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Obras, avaliações técnicas, valorização de trabalhadores e modernização tecnológica implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "magistrados e oficiais de justiça dos Açores",
+  "utentes dos tribunais",
+  "advogados",
+  "residentes da Região Autónoma dos Açores"
+ ],
+ "categories": [
+  "justica",
+  "territorio",
+  "ciencia"
+ ],
+ "tags": [
+  "tribunais",
+  "açores",
+  "reabilitação de edifícios",
+  "modernização tecnológica",
+  "oficiais de justiça"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

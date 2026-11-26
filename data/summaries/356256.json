@@ -1,0 +1,38 @@
+{
+ "short_title": "Subsídio de doença de 80% para doença grave",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 16.º do Decreto-Lei n.º 28/2004 para aumentar o subsídio de doença nas situações de incapacidade decorrente de doença oncológica ou doença grave. Acrescenta um novo n.º 4 que determina que o montante diário nestas situações seja calculado pela aplicação da percentagem de 80%. A lei entra em vigor com o Orçamento do Estado subsequente à sua publicação. O texto não define o que se entende por doença grave nem especifica a percentagem atualmente aplicável.",
+ "key_points": [
+  "Montante diário do subsídio de doença calculado a 80% em doença oncológica ou doença grave.",
+  "Alteração do artigo 16.º do Decreto-Lei n.º 28/2004.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "A Iniciativa Liberal propõe que quem fica de baixa por cancro ou por outra doença grave receba um subsídio de doença de 80% do salário de referência, em vez do valor atual, que é mais baixo. A mudança só valeria depois do Orçamento do Estado seguinte.",
+ "context": "O proponente defende que enfrentar uma doença grave já é exigente e que a perda significativa de rendimento é um peso desnecessário. Pretende garantir proteção a trabalhadores com tratamentos intensivos para que se possam dedicar à recuperação sem este obstáculo financeiro.",
+ "analysis": "É uma medida simples e de impacto direto para os trabalhadores em tratamentos prolongados, mais moderada do que propostas de 100%. Fragilidades: o texto não define 'doença grave', o que cria incerteza jurídica; não estima o custo para a Segurança Social; e a exposição de motivos é muito curta, sem dados sobre rendimentos ou número de beneficiários. Não esclarece a articulação com os regimes já existentes, por exemplo para a tuberculose.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento da percentagem do subsídio eleva a despesa da Segurança Social; o texto não apresenta estimativa."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "trabalhadores com doença grave",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "doença grave",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

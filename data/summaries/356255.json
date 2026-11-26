@@ -1,0 +1,45 @@
+{
+ "short_title": "Gestão pública, democrática e sustentável do SNS",
+ "summary": "Este Projeto de Resolução do LIVRE recomenda ao Governo nove medidas para o SNS: rejeitar novas parcerias público-privadas na saúde e o modelo das USF-C, generalizar as USF modelo B, reforçar a autonomia das ULS, priorizar a promoção da saúde e a prevenção, promover a participação de profissionais e utentes na governação e uma escolha transparente e democrática dos órgãos, agilizar o recrutamento, negociar em 2026 com os sindicatos a valorização das carreiras, exigir aos operadores privados reporte de dados equivalente ao do SNS e reforçar a transição ecológica do SNS com metas de descarbonização e critérios ambientais nas compras. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rejeitar novas PPP na saúde, a retoma ou extensão das existentes e o modelo das USF-C.",
+  "Generalizar as USF modelo B e reforçar a autonomia das ULS.",
+  "Colocar a promoção da saúde e a prevenção no centro das políticas e do financiamento.",
+  "Participação de profissionais e utentes na governação e escolha transparente e democrática das unidades.",
+  "Agilizar o recrutamento e negociar em 2026 a valorização das carreiras de saúde.",
+  "Exigir reporte de dados dos operadores privados equivalente ao do SNS e reforçar a transição ecológica."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que aposte na gestão pública do SNS, em vez de parcerias com privados, reforce os centros de saúde, dê mais peso à prevenção, melhore as condições dos profissionais e exija mais transparência ao setor privado. Pede também que os hospitais reduzam o seu impacto ambiental. É um pedido ao Governo, sem força obrigatória.",
+ "context": "O LIVRE considera que o subfinanciamento, a gestão errática e a dependência de privados fragilizam o SNS. Cita um estudo da Entidade Reguladora da Saúde sem diferenças significativas entre PPP e gestão pública, as críticas de associações de médicos às USF-C, mais de 1,5 milhões de pessoas sem médico de família, a emigração médica e a baixa despesa em prevenção.",
+ "analysis": "A proposta é abrangente e articula medidas de governação, recursos humanos, transparência e ambiente com dados e fontes identificadas. Fragilidades: a rejeição total de PPP e USF-C exclui soluções que podem aumentar a capacidade de resposta a curto prazo, e o texto não avalia custos nem alternativas para os utentes sem médico; várias medidas são genéricas, sem prazo ou orçamento; e a defesa da gestão pública assenta em estudos de contexto diferente. A valorização de carreiras e a transição ecológica implicam despesa não estimada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A valorização das carreiras, o reforço dos cuidados primários e a transição ecológica implicam mais despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utentes do SNS",
+  "profissionais de saúde",
+  "Unidades Locais de Saúde",
+  "operadores privados de saúde",
+  "Governo e Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "ambiente"
+ ],
+ "tags": [
+  "SNS",
+  "parcerias público-privadas",
+  "USF",
+  "cuidados de saúde primários",
+  "carreiras de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

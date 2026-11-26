@@ -1,0 +1,43 @@
+{
+ "short_title": "Regime excecional de endividamento municipal pós-tempestade Kristin",
+ "summary": "O projeto de lei do JPP cria um regime excecional e temporário para os municípios abrangidos pela declaração de calamidade na sequência da tempestade «Kristin» (Resolução do Conselho de Ministros n.º 15-B/2026). Nos anos de 2026 e 2027 deixa de se aplicar uma regra de limite de endividamento da Lei n.º 73/2013 e exclui da responsabilidade financeira o ultrapassar do limite quando decorra de despesas com apoios sociais, resposta de emergência e prevenção. Suspende até 30 de junho de 2027 o prazo de utilização de empréstimos de médio e longo prazo, permite novos empréstimos para a reconstrução, prevê uma moratória na amortização de capital até 31 de dezembro de 2027 e suspende a regra do equilíbrio orçamental em 2026 e 2027. Produz efeitos desde 28 de janeiro de 2026 e vigora até 31 de dezembro de 2027.",
+ "key_points": [
+  "Aplica-se aos municípios abrangidos pela declaração de calamidade da tempestade Kristin e respetivas prorrogações.",
+  "Não aplicação em 2026 e 2027 de uma regra de limite de endividamento, e exclusão de responsabilidade por ultrapassar o limite com despesas relacionadas com a tempestade.",
+  "Despesas reportadas à Direção-Geral das Autarquias Locais até ao fim do primeiro trimestre de 2027 e 2028.",
+  "Suspensão do prazo de utilização de empréstimos em curso até 30 de junho de 2027 e novos empréstimos para a reconstrução.",
+  "Moratória na amortização de capital de 2026 e 2027, até 31 de dezembro de 2027.",
+  "Suspensão da regra do equilíbrio orçamental em 2026 e 2027, sem prejuízo da tutela inspetiva."
+ ],
+ "plain_language": "Depois da tempestade Kristin, os municípios afetados precisariam de gastar mais do que a lei permite. A proposta deixa-os endividar-se acima dos limites para apoiar as pessoas e reconstruir, adiar o pagamento de parte dos empréstimos e ignorar temporariamente a regra de contas equilibradas, até ao fim de 2027.",
+ "context": "O proponente descreve a tempestade de 28 de janeiro de 2026 e as cheias que se seguiram, que levaram à declaração de calamidade. Considera que o regime financeiro das autarquias é excessivamente restritivo para a resposta, e que a proposta do Governo deve ser complementada com medidas sobre endividamento e gestão da dívida.",
+ "analysis": "A proposta dá flexibilidade imediata aos municípios afetados e inclui controlos, como o reporte das despesas e a manutenção da tutela inspetiva. Fragilidades: as exclusões de responsabilidade e a suspensão do equilíbrio orçamental aumentam o risco de endividamento excessivo sem teto definido; não estima o endividamento adicional nem o impacto nas contas públicas; a lista de despesas elegíveis é ampla, incluindo medidas de prevenção; sobrepõe-se à proposta do Governo referida no texto, sem esclarecer a articulação entre as duas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O regime permite maior endividamento e despesa municipal e adia amortizações de dívida, o que aumenta o risco financeiro. O texto não apresenta montantes."
+ },
+ "affected": [
+  "municípios abrangidos pela calamidade",
+  "populações afetadas pela tempestade",
+  "Direção-Geral das Autarquias Locais"
+ ],
+ "categories": [
+  "territorio",
+  "economia",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestade kristin",
+  "endividamento municipal",
+  "calamidade",
+  "moratória",
+  "equilíbrio orçamental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

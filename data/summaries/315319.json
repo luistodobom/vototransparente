@@ -1,0 +1,40 @@
+{
+ "short_title": "Baixa a tributação autónoma do arrendamento habitacional",
+ "summary": "O projeto de lei da Iniciativa Liberal altera o artigo 72.º do Código do IRS para reduzir de 25% para 15% a taxa autónoma aplicada aos rendimentos prediais do arrendamento habitacional. Mantém e reforça as reduções por duração do contrato: 5 pontos percentuais para contratos de 5 a menos de 10 anos (com redução adicional de 1 ponto por cada renovação, limitada a 5 pontos), 10 pontos percentuais para contratos de 10 a menos de 20 anos, e 14 pontos percentuais para contratos de 20 anos ou mais e para contratos de direito real de habitação duradoura. Os descontos por duração não se aplicam a contratos celebrados desde 1 de janeiro de 2024 cuja renda exceda em 50% os limites gerais de preço de renda por tipologia e concelho. A lei entra em vigor com o Orçamento do Estado seguinte à sua publicação.",
+ "key_points": [
+  "Reduz de 25% para 15% a taxa autónoma de IRS sobre rendimentos prediais de arrendamento habitacional.",
+  "Reduções adicionais por duração: 5 pontos (5 a 10 anos), 10 pontos (10 a 20 anos) e 14 pontos (20 anos ou mais e direito real de habitação duradoura).",
+  "Redução de 1 ponto por cada renovação de igual duração, com limite de 5 pontos.",
+  "Exclui os descontos por duração a contratos desde 2024 com renda 50% acima dos limites gerais de preço de renda.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem arrenda uma casa para habitação paga hoje uma taxa fixa de 25% de IRS sobre as rendas. A proposta baixa essa taxa para 15% e dá descontos adicionais a quem fizer contratos mais longos, até 5, 10 ou 14 pontos percentuais. A ideia é que mais proprietários coloquem casas no mercado de arrendamento e que as rendas possam ser mais baixas.",
+ "context": "A Iniciativa Liberal aponta a degradação do acesso à habitação e critica programas anteriores. Defende que o Estado tem um peso de um quarto dos rendimentos prediais, que o arrendamento já suporta outros impostos (IVA em obras, IMI) e que menor tributação trará casas vazias ao mercado e incentivará a formalização dos contratos.",
+ "analysis": "A redução da taxa e os descontos por duração podem aumentar o retorno do arrendamento habitacional e favorecer contratos longos, o que é um ponto forte. Fragilidades: o benefício fiscal vai para os senhorios, sem garantia de que se traduza em rendas mais baixas, e a proposta não quantifica o custo para o Estado nem prevê mecanismo de compensação. O texto do n.º 23 é pouco claro quanto ao seu alcance. Os descontos por duração podem ainda dar origem a um conjunto complexo de taxas sobrepostas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A descida da taxa autónoma de 25% para 15% e os descontos por duração diminuem a receita de IRS sobre rendimentos prediais. O texto não apresenta estimativa do montante."
+ },
+ "affected": [
+  "senhorios",
+  "inquilinos",
+  "Estado (receita de IRS)"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "irs",
+  "arrendamento",
+  "rendimentos prediais",
+  "taxa autónoma"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

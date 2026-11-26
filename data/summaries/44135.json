@@ -1,0 +1,43 @@
+{
+ "short_title": "Mais direitos para pais de filhos com doença crónica ou oncológica",
+ "summary": "O projeto de lei do PCP reforça os direitos e as condições de acompanhamento de filhos com doença crónica, oncológica ou resultante de acidente. Altera os Decretos-Leis n.º 91/2009 e 89/2009 e o Código do Trabalho para: alargar o subsídio de assistência a filho (90 dias por ano, e sem limite de idade em caso de deficiência ou doença crónica ou oncológica); pagar o subsídio a 100% da remuneração de referência do beneficiário e 80% do outro progenitor quando ambos gozam de faltas; garantir um mínimo de 1/30 da remuneração mínima mensal garantida; permitir faltas simultâneas dos dois progenitores sem perda de remuneração; e assegurar o subsídio de desemprego durante a licença.",
+ "key_points": [
+  "Subsídio de assistência a filho com 90 dias por ano e sem limite de idade em caso de deficiência ou doença crónica ou oncológica.",
+  "Subsídio a 100% da remuneração de referência (80% para o outro progenitor, se ambos faltarem), com mínimo de 1/30 da remuneração mínima mensal garantida.",
+  "Faltas para assistência a filho podem ser exercidas em simultâneo pelos dois progenitores, sem perda de remuneração nem de subsídio de refeição.",
+  "O gozo da licença não faz perder o subsídio de desemprego em caso de desemprego involuntário.",
+  "Obrigação de informação escrita sobre direitos de maternidade e paternidade no momento da admissão.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O PCP propõe melhores condições para os pais que têm de acompanhar filhos com doença crónica, cancro ou lesões de acidente: mais proteção no emprego, subsídios pagos por inteiro, possibilidade de ambos faltarem ao mesmo tempo sem perderem salário e manutenção de apoios mesmo em caso de desemprego.",
+ "context": "O proponente refere que associações de famílias pedem estas medidas e estima que cerca de 400 crianças e jovens são diagnosticados anualmente com doença oncológica. Defende que a presença dos pais é indispensável e que a doença tem fortes impactos emocionais, sociais e económicos sobre as crianças e as famílias.",
+ "analysis": "A iniciativa responde a necessidades reais e propõe medidas detalhadas e coerentes, ao articular a segurança social e o direito laboral. O custo é, porém, relevante e não estimado: pagar subsídios a 100% e sem perda de remuneração nas faltas aumenta encargos da Segurança Social e das empresas (que suportam a remuneração durante as faltas). A sobreposição entre o subsídio e as faltas pagas por inteiro pode gerar dúvidas de aplicação. A norma de entrada em vigor com o Orçamento do Estado remete a execução para a decisão orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento do subsídio a 100%, o mínimo garantido e a manutenção do subsídio de desemprego aumentam a despesa da Segurança Social; o texto não apresenta montantes."
+ },
+ "affected": [
+  "pais de crianças com doença crónica ou oncológica",
+  "crianças e jovens doentes",
+  "empregadores",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "assistência a filho",
+  "doença oncológica",
+  "parentalidade",
+  "subsídio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

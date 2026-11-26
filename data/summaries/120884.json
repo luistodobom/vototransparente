@@ -1,0 +1,42 @@
+{
+ "short_title": "Criar área marinha protegida na baía de Armação de Pêra",
+ "summary": "Projeto de resolução do Bloco de Esquerda que recomenda ao Governo a criação de uma Área Marinha Protegida de Interesse Comunitário (AMPIC) na baía de Armação de Pêra, no Algarve, entre Silves, Lagoa e Albufeira. Baseia-se num levantamento da Universidade do Algarve apoiado pela Fundação Oceano Azul. Recomenda processos participativos, programas de monitorização ecológica e socioeconómica, meios para fiscalização permanente, comités de cogestão da pesca local e medidas compensatórias justas para pescadores e outros profissionais afetados. Por ser uma resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar a AMPIC na baía de Armação de Pêra com participação de todas as partes interessadas.",
+  "Elaborar programas de monitorização ecológica e socioeconómica.",
+  "Assegurar meios técnicos e financeiros para fiscalização permanente.",
+  "Incentivar comités de cogestão da pesca local permitida.",
+  "Garantir medidas compensatórias justas para os profissionais afetados."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que proteja uma zona do mar algarvio com muita biodiversidade, ao largo de Silves, Lagoa e Albufeira. Algumas práticas de pesca e outras atividades seriam proibidas, mas a pesca local continuaria, gerida em conjunto com os pescadores, que seriam compensados pelas perdas. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente refere que o recife é o maior recife rochoso costeiro do Algarve, está sob pressão da pesca e do turismo marítimo e alberga 70% das espécies identificadas na costa algarvia, incluindo 12 novas para a ciência. Invoca a crise ecológica e obrigações europeias e internacionais de proteção.",
+ "analysis": "Ponto forte: assenta em estudo científico e prevê participação e compensação dos pescadores, reconhecendo que a área representa 30% das capturas algarvias. Fragilidades: a resolução não define montantes, prazos nem a fonte de financiamento da fiscalização e das compensações, e a lista de atividades interditas e permitidas surge na exposição de motivos, não nas recomendações. O sucesso depende de fiscalização efetiva e de acordo com as comunidades piscatórias.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A fiscalização permanente, a monitorização e as medidas compensatórias implicam despesa pública, sem montantes indicados no texto."
+ },
+ "affected": [
+  "pescadores do Algarve",
+  "comunidades piscatórias",
+  "operadores marítimo-turísticos",
+  "Governo"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura"
+ ],
+ "tags": [
+  "área marinha protegida",
+  "Armação de Pêra",
+  "biodiversidade",
+  "pesca",
+  "Algarve"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

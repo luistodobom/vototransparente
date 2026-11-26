@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço dos cuidados paliativos pediátricos",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo um conjunto de dez medidas para melhorar a Rede de Cuidados Paliativos Pediátricos. Inclui aumentar as camas disponíveis; reforçar as equipas especializadas, com o objetivo de existirem em todos os serviços de pediatria e maternidades; criar resposta efetiva no Alentejo e no Algarve; garantir assistência domiciliária; criar incentivos de carreira; assegurar formação específica; facilitar mecanismos de autocuidado e prevenção de burnout; reconhecer os cuidados perinatais; reforçar a articulação com cuidados primários e continuados; e criar alternativas ao internamento para descanso do cuidador.",
+ "key_points": [
+  "Aumentar camas e reforçar equipas, com equipas em todos os serviços de pediatria e maternidades.",
+  "Criar resposta efetiva em cuidados paliativos pediátricos no Alentejo e no Algarve.",
+  "Garantir assistência domiciliária, incluindo por equipas generalistas com muitas crianças.",
+  "Criar incentivos de carreira e formação específica para os profissionais, com prevenção de burnout.",
+  "Prever cuidados perinatais e alternativas ao internamento para descanso do cuidador."
+ ],
+ "plain_language": "O PAN pede ao Governo mais camas, mais profissionais e mais apoio em casa para crianças com doenças graves, sobretudo no Alentejo e Algarve, onde não há equipas. Pede também formação, melhores condições para os profissionais e descanso para as famílias cuidadoras. É uma recomendação.",
+ "context": "O PAN invoca dados da Entidade Reguladora da Saúde, um inquérito da Associação Portuguesa de Cuidados Paliativos a 41 equipas e o manifesto \"Pelos Cuidados Paliativos Pediátricos\" de outubro de 2025, e recorda a Resolução da AR n.º 48/2025, aprovada na legislatura anterior.",
+ "analysis": "A iniciativa é abrangente e alinhada com as reivindicações de sociedades científicas e da associação do setor. A fragilidade é a ausência de metas quantificadas, prazos, custos e fontes de financiamento; muitas medidas coincidem com a Resolução n.º 48/2025, cujo cumprimento não é avaliado no texto. Sendo uma resolução, não vincula o Governo, e a escassez de profissionais especializados pode limitar a execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de camas, equipas, formação e apoio domiciliário implica mais despesa no SNS, não quantificada no texto."
+ },
+ "affected": [
+  "crianças com doença grave ou avançada",
+  "famílias e cuidadores",
+  "profissionais de saúde",
+  "residentes no Alentejo e Algarve"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "cuidados paliativos pediátricos",
+  "SNS",
+  "alentejo",
+  "algarve",
+  "assistência domiciliária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

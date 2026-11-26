@@ -1,0 +1,41 @@
+{
+ "short_title": "Mais 60 dias de licença parental e subsídio de assistência a 100%",
+ "summary": "O projeto de lei do CDS-PP acrescenta 60 dias à licença parental inicial em caso de nascimento de criança com deficiência ou doença rara, que podem ser gozados pela mãe ou pelo pai. Aumenta o montante diário do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica para 100% da remuneração de referência, com limite mensal de duas vezes o indexante dos apoios sociais (IAS). Equipara, no regime dos trabalhadores da função pública integrados no regime de proteção social convergente, os subsídios por riscos específicos e para assistência a filho a 100%. Altera o Código do Trabalho e os Decretos-Leis n.º 91/2009 e n.º 89/2009 e entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Licença parental inicial acrescida em 60 dias em caso de nascimento de criança com deficiência ou doença rara.",
+  "Subsídio para assistência a filho com deficiência, doença crónica ou oncológica a 100% da remuneração de referência, com teto de dois IAS por mês.",
+  "Equiparação a 100% dos subsídios por riscos específicos e assistência a filho na função pública (regime convergente).",
+  "Entra em vigor com o Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "O CDS-PP propõe dar mais 60 dias de licença aos pais quando nasce uma criança com deficiência ou doença rara, e pagar por inteiro (até um limite) o subsídio a quem falta ao trabalho para cuidar de filhos com deficiência ou doença grave, incluindo na função pública.",
+ "context": "O texto de apresentação defende, na linha de uma sociedade que protege os mais vulneráveis, melhor apoio às famílias de crianças com deficiência, doença rara ou doença crónica. A iniciativa procura corrigir o montante do subsídio e igualar o tratamento entre trabalhadores do regime geral e da função pública.",
+ "analysis": "A proposta é concreta e circunscrita, com medidas facilmente quantificáveis e equiparação entre regimes, o que reforça a equidade. Contudo, o custo orçamental não é estimado e a entrada em vigor depende do Orçamento do Estado. Abrange a licença adicional apenas para deficiência ou doença rara (não oncológica), e mantém um teto de dois IAS sem fundamentação. A articulação com as regras já existentes de suspensão da licença em caso de internamento aumenta a complexidade do regime.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O aumento do subsídio para 100% e a licença adicional implicam maior despesa da Segurança Social e da função pública; o texto não indica montantes."
+ },
+ "affected": [
+  "pais de crianças com deficiência ou doença rara",
+  "pais de filhos com doença crónica ou oncológica",
+  "trabalhadores da função pública",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "licença parental",
+  "deficiência",
+  "doença rara",
+  "subsídio de assistência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

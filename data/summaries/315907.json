@@ -1,0 +1,42 @@
+{
+ "short_title": "Transição para fogos de artifício silenciosos",
+ "summary": "A deputada única do PAN recomenda ao Governo que, em articulação com a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias, incentive os municípios e freguesias a substituir progressivamente os fogos de artifício tradicionais nos eventos públicos por alternativas de baixo ruído, como fogos silenciosos, jogos de luzes e projeções audiovisuais ou multimédia. Recomenda também uma campanha nacional de sensibilização sobre os efeitos negativos da pirotecnia tradicional nas pessoas, nos animais e no ambiente, e que sejam incentivadas a divulgação prévia atempada dos eventos com pirotecnia tradicional e medidas preventivas que protejam pessoas vulneráveis e animais. A recomendação é não vinculativa e dirige-se a incentivos, não a proibições.",
+ "key_points": [
+  "Incentivar a substituição progressiva dos fogos de artifício tradicionais por alternativas silenciosas em eventos públicos.",
+  "Lançar uma campanha nacional de sensibilização sobre os impactos da pirotecnia tradicional.",
+  "Incentivar a divulgação prévia dos eventos com pirotecnia tradicional.",
+  "Adotar medidas preventivas para proteger pessoas vulneráveis e animais."
+ ],
+ "plain_language": "O PAN pede ao Governo que incentive as câmaras e juntas de freguesia a usarem fogos de artifício sem barulho ou espetáculos de luz, que informe a população sobre os problemas do ruído e que os eventos com fogo tradicional sejam anunciados com antecedência. Não proíbe nada: é uma recomendação.",
+ "context": "O proponente argumenta que fogos com barulho perturbam pessoas sensíveis, como crianças com autismo e idosos, assustam animais, causam risco de incêndio e poluição do ar com partículas e substâncias tóxicas. Refere que cidades europeias como Collecchio e Bristol só permitem espetáculos silenciosos.",
+ "analysis": "A abordagem por incentivos e sensibilização é moderada e respeita a autonomia local, mas por isso depende da adesão voluntária dos municípios e não garante resultados. Parte da fundamentação cita estudos e notícias de outros países e não dados nacionais, e não discute os custos das alternativas nem o impacto em tradições e festas locais ou no setor da pirotecnia. Sem metas ou prazos, é difícil avaliar o cumprimento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Uma campanha nacional e eventuais incentivos às autarquias implicam despesa; o texto não apresenta montantes."
+ },
+ "affected": [
+  "municípios e freguesias",
+  "animais",
+  "pessoas com autismo e idosos",
+  "organizadores de festas e setor da pirotecnia"
+ ],
+ "categories": [
+  "animais",
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "fogos de artifício",
+  "pirotecnia silenciosa",
+  "bem-estar animal",
+  "poluição sonora",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

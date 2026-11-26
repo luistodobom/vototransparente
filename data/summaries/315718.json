@@ -1,0 +1,40 @@
+{
+ "short_title": "Regime de aceleração de carreiras para toda a Administração Pública",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo três medidas: apurar junto dos serviços as razões dos atrasos nas avaliações de desempenho de 2023 e 2024 e resolvê-los, para permitir as progressões regulares e as do regime especial do Decreto-Lei n.º 75/2023; avaliar a aplicação desse regime a todos os profissionais não abrangidos que ainda não atingiram o nível remuneratório que teriam sem os congelamentos; e desenvolver um regime de aceleração de carreiras aplicável a esses trabalhadores, para garantir equidade. A exposição cita cerca de 60 mil trabalhadores já progredidos, num universo aproximado de 350 mil, e uma auditoria da Inspeção-Geral de Finanças. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apurar e resolver os atrasos nas avaliações de desempenho de 2023 e 2024.",
+  "Avaliar a extensão do regime especial de 2023 aos trabalhadores ainda não abrangidos.",
+  "Desenvolver um regime de aceleração de carreiras que garanta equidade entre trabalhadores com vínculo público.",
+  "Contexto: regime dos docentes (Decreto-Lei n.º 48-B/2024) e regime geral de 2023."
+ ],
+ "plain_language": "Os congelamentos das carreiras atrasaram muitos funcionários públicos. O LIVRE pede ao Governo que resolva os atrasos nas avaliações, estude quem ainda ficou para trás e crie um sistema para recuperar esse atraso, para que ninguém seja tratado de forma desigual. É apenas uma recomendação.",
+ "context": "O LIVRE recorda que o regime de 2023 reduziu de oito para seis os pontos necessários para a progressão, aplicável uma única vez, e que os docentes têm um regime especial de recuperação do tempo de serviço até 2027. Aponta atrasos na aplicação do SIADAP às avaliações de 2023-2024 e tratamento desigual das carreiras gerais, que continuam sujeitas à regra de oito pontos.",
+ "analysis": "A proposta é gradual: começa por diagnóstico e avaliação antes de criar novo regime, o que reduz o risco de medidas mal calibradas. Fragilidades: não define o âmbito nem o custo do novo regime e usa a expressão aceleração sem metas ou calendário. Os dados citados de 60 mil trabalhadores em 350 mil servem de contexto mas não medem o universo ainda por compensar. Sendo uma recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um regime de aceleração de carreiras aumentaria a despesa com pessoal. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "trabalhadores com vínculo de emprego público",
+  "sindicatos da função pública",
+  "Governo enquanto empregador público"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "função pública",
+  "aceleração de carreiras",
+  "siadap",
+  "congelamento",
+  "progressão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

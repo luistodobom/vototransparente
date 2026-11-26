@@ -1,0 +1,40 @@
+{
+ "short_title": "IVA reduzido de 6% em métodos alternativos ao uso de animais na investigação",
+ "summary": "O PAN propõe aplicar a taxa reduzida de IVA de 6% à utilização de métodos alternativos ao uso de animais em contexto de investigação científica, aditando a verba 2.42 à lista I anexa ao Código do IVA. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação. O texto não define o que são os métodos alternativos nem o âmbito exato da verba, referindo apenas a utilização de métodos alternativos ao uso de animais em investigação, como manequins, simuladores e organóides, mencionados na exposição de motivos.",
+ "key_points": [
+  "Aplica a taxa de IVA de 6% à utilização de métodos alternativos ao uso de animais em investigação científica.",
+  "Adita a verba 2.42 à lista I anexa ao Código do IVA.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "A proposta baixa o IVA para 6% nos custos de usar métodos que substituem animais em laboratório, como simuladores ou organóides, para incentivar universidades e centros de investigação a adotarem alternativas.",
+ "context": "O PAN argumenta que a experimentação animal é cada vez mais questionada por razões éticas e científicas, refere que os laboratórios portugueses usaram 40 998 animais em 2017 e que a Diretiva 2010/63/UE visa reduzir, refinar e substituir o uso de animais. Defende que a redução do IVA incentivaria a transição para práticas mais éticas.",
+ "analysis": "A medida incentiva alternativas à experimentação animal, em linha com a diretiva europeia. A redação é, porém, vaga: não define os métodos alternativos nem como se aplica a taxa reduzida a serviços e bens, o que pode gerar incerteza jurídica e dificuldades de fiscalização. As taxas reduzidas de IVA estão sujeitas a limites do direito europeu, não discutidos no texto. Não se estima o benefício efetivo para a investigação nem a perda de receita.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação de uma taxa reduzida de 6% a uma categoria hoje tributada à taxa geral reduz a receita de IVA; o texto não indica montantes."
+ },
+ "affected": [
+  "investigadores e centros de investigação",
+  "universidades",
+  "fornecedores de métodos alternativos",
+  "animais de laboratório"
+ ],
+ "categories": [
+  "animais",
+  "ciencia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "IVA",
+  "experimentação animal",
+  "métodos alternativos",
+  "investigação científica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Regime laboral e de reforma específico para profissões da saúde",
+ "summary": "O Projeto de Resolução n.º 411/XVII/1.ª, do PCP, recomenda ao Governo que avalie e identifique as profissões que, na execução do seu trabalho, comportam complexidade, risco ou penosidade, com vista a definir e regulamentar um regime laboral e de aposentação específico, sem penalização. O regime laboral deve incluir formação e valorização profissional e proteção social, designadamente sobre doenças profissionais, saúde e segurança no trabalho. O regime de aposentação deve prever acesso antecipado à reforma e contribuição patronal acrescida para a Segurança Social ou para a Caixa Geral de Aposentações. A matéria seria objeto de negociação coletiva e os procedimentos estariam concluídos e em execução até 30 de setembro de 2026.",
+ "key_points": [
+  "Avaliar e identificar as profissões de saúde com complexidade, risco ou penosidade.",
+  "Definir um regime laboral com formação, valorização profissional e proteção social.",
+  "Criar um regime de aposentação específico sem penalização, com acesso antecipado à reforma.",
+  "Contribuição patronal acrescida para a Segurança Social ou a Caixa Geral de Aposentações.",
+  "Negociação coletiva com as organizações representativas e conclusão até 30 de setembro de 2026."
+ ],
+ "plain_language": "O PCP pede ao Governo que reconheça o desgaste e o risco de trabalhar na saúde e crie regras próprias de trabalho e de reforma, sem cortes na pensão e com possibilidade de reforma mais cedo. Os sindicatos participariam na negociação e o processo devia estar em execução até setembro de 2026. É uma recomendação.",
+ "context": "O PCP afirma que as profissões da saúde envolvem risco, como agressões físicas, químicas e biológicas e exposição a radiações e doenças infeciosas, e penosidade ligada à carga emocional, aos turnos e ao trabalho noturno. Associa o agravamento ao desinvestimento no SNS e defende melhorar as condições de aposentação.",
+ "analysis": "A proposta é abrangente e aposta na negociação coletiva e no financiamento por contribuição patronal acrescida, o que dá alguma base de sustentabilidade. Em contrapartida, não define quais as profissões abrangidas, nem a idade de reforma, os critérios ou o custo, remetendo tudo para avaliação e negociação futuras. O prazo de 30 de setembro de 2026 é exigente e, por ser uma resolução, não vincula o Governo. A contribuição acrescida do Estado enquanto empregador também teria impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reforma antecipada sem penalização e a contribuição patronal acrescida teriam impacto na Segurança Social e na Caixa Geral de Aposentações. O texto não apresenta montantes."
+ },
+ "affected": [
+  "profissionais de saúde",
+  "trabalhadores do SNS",
+  "Segurança Social",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "saude",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "profissões da saúde",
+  "penosidade",
+  "aposentação",
+  "negociação coletiva",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

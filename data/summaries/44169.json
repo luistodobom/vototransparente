@@ -1,0 +1,41 @@
+{
+ "short_title": "Contratar auxiliares de ação educativa para as escolas",
+ "summary": "Projeto de resolução do PEV que recomenda ao Governo que, até ao fim de 2019, contrate todos os auxiliares de ação educativa e assistentes administrativos necessários ao funcionamento das escolas públicas. Pede que, ao longo do ano letivo, se diligencie a contratação dos que estão em falta, com vínculo público efetivo, assegurando pessoal suficiente durante todo o horário de funcionamento, atendendo às especificidades de cada escola e à possibilidade de cada estabelecimento adaptar o número de auxiliares à sua realidade. Recomenda também que se garanta e reforce a formação profissional dos auxiliares. O texto critica a precariedade, o recurso a contratos de emprego e inserção e a contratação à hora. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Contratar, até ao fim de 2019, os auxiliares de ação educativa e assistentes administrativos necessários.",
+  "Contratação com vínculo público efetivo.",
+  "Pessoal suficiente em todo o horário de funcionamento, adaptado às especificidades de cada escola.",
+  "Garantir e reforçar a formação profissional dos auxiliares."
+ ],
+ "plain_language": "O Partido Ecologista Os Verdes pede ao Governo que contrate os funcionários que faltam nas escolas públicas, como auxiliares e administrativos, com contratos estáveis em vez de vínculos precários. Pede também formação para esses trabalhadores. É apenas uma recomendação, que o Governo pode ou não seguir.",
+ "context": "O PEV afirma que as escolas públicas sofrem de falta de auxiliares de ação educativa, com sobrecarga de trabalho, salários baixos e recurso a contratos de emprego e inserção e a contratação à hora. Considera que sem recursos humanos adequados não há bons serviços públicos e que a Constituição consagra o direito à educação.",
+ "analysis": "A proposta destaca um problema relevante no funcionamento das escolas e defende vínculos estáveis e formação. Em contrapartida, fixa um prazo muito curto, o fim de 2019, para contratar todo o pessoal necessário, sem quantificar o número de postos em falta nem o custo, e sem referir a regulamentação aplicável ao rácio de pessoal. A contratação com vínculo efetivo implica compromissos orçamentais permanentes. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de mais auxiliares e administrativos com vínculo efetivo aumentaria a despesa com pessoal na educação. O texto não apresenta valores."
+ },
+ "affected": [
+  "auxiliares de ação educativa",
+  "assistentes administrativos das escolas",
+  "alunos",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "auxiliares de ação educativa",
+  "pessoal não docente",
+  "precariedade",
+  "escola pública"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

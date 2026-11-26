@@ -1,0 +1,39 @@
+{
+ "short_title": "Descontos da ADM limitados a 12 meses de remuneração",
+ "summary": "O PAN propõe alterar o artigo 13.º do Decreto-Lei n.º 167/2005, que regula a Assistência na Doença aos Militares (ADM), para que os descontos obrigatórios incidam apenas sobre a remuneração base mensal correspondente a 12 meses. Atualmente os beneficiários descontam 3,5% da remuneração base, taxa que o proponente, citando o Tribunal de Contas a propósito da ADSE, diz incidir sobre 14 meses. A alteração é feita através de um novo n.º 10 do artigo 13.º. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação.",
+ "key_points": [
+  "Acrescenta ao artigo 13.º do Decreto-Lei n.º 167/2005 um n.º 10: os descontos incidem sobre a remuneração base mensal de 12 meses.",
+  "Mantém a taxa de 3,5% prevista na lei, alterando apenas os meses sobre os quais incide.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Os militares e reformados que usam o subsistema de saúde ADM pagam 3,5% do vencimento, e o PAN diz que o desconto também é feito sobre os subsídios, ou seja, em 14 meses. A proposta é que o desconto passe a ser feito só sobre 12 meses, o que reduziria o valor pago por ano.",
+ "context": "O proponente invoca uma maior justiça contributiva, referindo que um relatório do Tribunal de Contas sobre a ADSE assinalou que a taxa de 3,5% incide sobre 14 meses de remuneração, o que cria uma carga adicional sem prestação de serviços correspondente.",
+ "analysis": "A medida reduz o encargo dos beneficiários e alinha-se com a discussão semelhante sobre a ADSE. Contudo, o texto não quantifica o impacto na receita da ADM nem como seria compensada a perda, o que pode afetar a sustentabilidade do subsistema. A fundamentação baseia-se em auditoria sobre a ADSE, não sobre a ADM, e a redação do projeto não esclarece a situação dos reformados. A entrada em vigor depende do Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Reduzir de 14 para 12 meses a base de incidência diminui as contribuições recebidas pela ADM. O texto não apresenta montantes."
+ },
+ "affected": [
+  "beneficiários titulares da ADM",
+  "militares na reserva e reformados",
+  "subsistema ADM"
+ ],
+ "categories": [
+  "saude",
+  "defesa",
+  "trabalho"
+ ],
+ "tags": [
+  "ADM",
+  "militares",
+  "descontos para a saúde",
+  "subsistema de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Melhora a atribuição do Complemento Solidário para Idosos",
+ "summary": "Projeto de lei do PCP que altera o Decreto-Lei n.º 232/2005, que cria o Complemento Solidário para Idosos (CSI). Deixa de considerar os rendimentos dos filhos para a atribuição, fixa o valor de referência em 5902,17 euros por ano com atualização pelo índice de preços para agregados com indivíduo de referência de 65 ou mais anos, passa o pagamento a 14 meses, atribui a prestação por 2 anos com renovação automática, exige audiência prévia antes da suspensão, torna a prestação impenhorável e acrescenta um regime de averiguação oficiosa dos rendimentos. Elimina ainda a norma que penaliza os casais de idosos. O Governo regulamenta em 30 dias e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Rendimentos dos filhos deixam de ser considerados, em qualquer escalão.",
+  "Valor de referência de 5902,17 euros por ano, atualizado pelo índice de preços.",
+  "Pagamento por referência a 14 meses.",
+  "Audiência prévia na suspensão e prestação impenhorável.",
+  "Atribuição por 2 anos, renovável automaticamente, com averiguação oficiosa dos rendimentos."
+ ],
+ "plain_language": "O PCP propõe tornar o Complemento Solidário para Idosos mais acessível e mais estável: os rendimentos dos filhos deixam de contar, o apoio passa a ser pago em 14 meses, não pode ser penhorado e o idoso é ouvido antes de ser suspenso. A lei entraria em vigor com o Orçamento do Estado seguinte.",
+ "context": "O proponente defende que a inclusão dos rendimentos dos filhos desrespeita a autonomia e a dignidade dos idosos e exclui milhares da prestação. Invoca ainda o artigo da Constituição sobre a segurança económica das pessoas idosas e afirma que o CSI pode ser um instrumento importante de combate à pobreza.",
+ "analysis": "As medidas respondem a obstáculos de acesso e reforçam garantias dos beneficiários, como a audiência prévia e a impenhorabilidade. A combinação com a averiguação oficiosa mostra preocupação com o rigor da atribuição. As fragilidades são a ausência de estimativa de custo, do número de novos beneficiários e do impacto dos 14 meses, e a necessidade de articular o valor de referência fixado com o limiar de pobreza, não demonstrada no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A eliminação do critério dos rendimentos dos filhos, o pagamento em 14 meses e o fim da penalização dos casais aumentam a despesa da Segurança Social; o texto não apresenta valores."
+ },
+ "affected": [
+  "idosos com baixos rendimentos",
+  "casais de idosos",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "complemento solidário para idosos",
+  "pobreza",
+  "14 meses",
+  "pensões",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

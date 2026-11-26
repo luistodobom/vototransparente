@@ -1,0 +1,39 @@
+{
+ "short_title": "Grupo de trabalho para codificar a legislação eleitoral",
+ "summary": "Projeto de Resolução do PS que cria um Grupo de Trabalho para a Codificação e Consolidação da Legislação Eleitoral, a funcionar na Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, com representantes de todos os partidos. A missão é levantar as matérias que podem ser codificadas ou consolidadas em um ou mais atos legislativos comuns e formular uma proposta de trabalho legislativo. As atividades devem decorrer em articulação com a Administração Eleitoral e a Comissão Nacional de Eleições, recolhendo contributos da academia e da sociedade civil. O texto exclui a revisão dos sistemas eleitorais, mas admite alterações consensuais, como o recenseamento e o voto em mobilidade.",
+ "key_points": [
+  "Cria um grupo de trabalho na Comissão de Assuntos Constitucionais, com todos os partidos.",
+  "Missão: identificar matérias a codificar ou consolidar e propor trabalho legislativo.",
+  "Articulação com a Administração Eleitoral e a Comissão Nacional de Eleições, e contributos da academia e sociedade civil.",
+  "Não pretende rever os sistemas eleitorais."
+ ],
+ "plain_language": "As regras das eleições estão espalhadas por muitas leis. O PS propõe criar um grupo de trabalho no Parlamento, com todos os partidos, para estudar como juntá-las e uniformizá-las num código ou em leis comuns, sem mexer na forma como os votos são convertidos em mandatos.",
+ "context": "O PS recorda tentativas anteriores, nomeadamente a comissão presidida por Jorge Miranda nos anos 80, os grupos de trabalho da XII, XIV e XV legislaturas e os programas de governo. Defende que a uniformidade de procedimentos já não se compadece com diplomas avulsos, e que a matéria é da reserva absoluta de competência da Assembleia.",
+ "analysis": "Codificar a legislação eleitoral pode dar clareza e uniformidade, e o envolvimento de todos os partidos e das entidades eleitorais é um ponto forte. Contudo, tentativas anteriores não chegaram a bom porto, e o texto não fixa prazos nem produtos finais, apenas um levantamento e uma proposta de trabalho. Excluir o debate sobre os sistemas eleitorais limita o alcance, e a distinção entre mudanças técnicas e políticas pode ser difícil na prática.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos. Um grupo de trabalho parlamentar implica despesas de funcionamento, não quantificadas."
+ },
+ "affected": [
+  "eleitores",
+  "partidos políticos",
+  "administração eleitoral e Comissão Nacional de Eleições",
+  "deputados"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "código eleitoral",
+  "legislação eleitoral",
+  "grupo de trabalho",
+  "consolidação legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

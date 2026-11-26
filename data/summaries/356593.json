@@ -1,0 +1,41 @@
+{
+ "short_title": "Passes intermodais com tetos de 20, 30 e 40 euros",
+ "summary": "O projeto de resolução do Bloco de Esquerda recomenda ao Governo que, no âmbito dos programas de redução tarifária, estabeleça montantes máximos para os passes de transportes: 20 euros para os passes municipais, 30 euros para os intermunicipais, 40 euros para os passes integrados, que combinam o intermunicipal com o passe ferroviário verde, e 60 euros para os passes familiares intermunicipais. O texto aponta ainda a necessidade de maior investimento nos transportes coletivos, com melhores frotas, maior frequência, corredores para autocarros, novas ligações de ferrovia ligeira e soluções para territórios de baixa densidade. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Teto de 20 euros para os passes municipais.",
+  "Teto de 30 euros para os passes intermunicipais.",
+  "Teto de 40 euros para os passes integrados, que combinam o intermunicipal com o passe ferroviário verde.",
+  "Teto de 60 euros para os passes familiares intermunicipais.",
+  "Medidas executadas no âmbito dos programas de redução tarifária."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que fixe um preço máximo para os passes: 20 euros dentro de um concelho, 30 euros entre concelhos, 40 euros se incluir o comboio e 60 euros para passes de família. O texto defende também mais investimento em transportes. É uma recomendação, e o Governo não é obrigado a segui-la.",
+ "context": "O proponente cita o crescimento da utilização do transporte coletivo em 2025, mas observa que só cerca de um décimo da população o usa diariamente e que uma parte significativa considera não ter alternativas ao automóvel. Defende mais investimento no transporte coletivo, também para reduzir o preço para os utilizadores.",
+ "analysis": "A proposta é simples, tem valores concretos e dá previsibilidade, além de ligar preço e investimento. Fragilidades: o texto não estima o custo orçamental nem a compensação dos operadores e autoridades de transporte, e não refere os preços atuais para medir a descida; os tetos uniformes podem ter efeitos diferentes por região; a articulação com os programas de redução tarifária existentes não é desenvolvida; como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Tetos de preço mais baixos nos passes reduzem a receita tarifária, o que implicaria maior compensação pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores de passes de transportes públicos",
+  "autoridades de transportes e operadores",
+  "famílias"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "ambiente"
+ ],
+ "tags": [
+  "passes intermodais",
+  "tarifas",
+  "preço máximo",
+  "transporte público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

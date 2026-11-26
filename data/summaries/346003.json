@@ -1,0 +1,42 @@
+{
+ "short_title": "Estabilidade dos órgãos de gestão do SNS",
+ "summary": "Projeto de Lei do PAN que altera o Estatuto do SNS (Decreto-Lei n.º 52/2022) em cinco artigos. Obriga diretores executivos e coordenadores a assinar, nos 90 dias seguintes à designação, uma carta de missão com objetivos quantificados e calendarizados, publicada em Diário da República. Atribui ao membro do Governo da saúde a definição do perfil e competências do diretor executivo, publicada em Diário da República, e exige uma avaliação não vinculativa da CReSAP ao currículo do designado. Impõe pareceres prévios dos órgãos consultivos para a cessação de funções e para a dissolução dos conselhos de administração e diretivos. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Cartas de missão com objetivos quantificados e calendarizados, assinadas em 90 dias e publicadas em Diário da República.",
+  "Perfil e competências do diretor executivo definidos e publicados em Diário da República.",
+  "Avaliação não vinculativa da CReSAP ao currículo do designado, publicada no seu sítio.",
+  "Cessação de funções por despacho fundamentado, com parecer prévio do conselho da comunidade e do Conselho Clínico e de Saúde.",
+  "Dissolução do conselho de administração precedida de parecer não vinculativo do conselho consultivo."
+ ],
+ "plain_language": "O PAN quer que os responsáveis pelos hospitais e centros de saúde tenham objetivos claros e públicos e que só possam ser afastados com fundamentação e depois de ouvidos vários órgãos. O objetivo é dificultar demissões por razões apenas políticas e tornar as nomeações mais transparentes.",
+ "context": "A proponente afirma que as nomeações para as ULS e para os agrupamentos de centros de saúde dependem de decisões discricionárias, sem concursos públicos abertos, apenas com pareceres não vinculativos da CReSAP, sem critérios públicos nem avaliações no fim dos mandatos. Considera que isso fragiliza a legitimidade das lideranças e a estabilidade da gestão.",
+ "analysis": "Ponto forte: aumenta a transparência e a responsabilização, com objetivos públicos e fundamentação das decisões. Fragilidades: os pareceres são não vinculativos, pelo que não impedem uma decisão política; não introduz concursos públicos abertos, apesar de os criticar na exposição de motivos; a exigência de pareceres prévios pode atrasar decisões urgentes. O texto não define consequências do incumprimento das cartas de missão.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa nem receita adicionais; os custos administrativos de publicações e pareceres não são quantificados."
+ },
+ "affected": [
+  "administradores e diretores executivos do SNS",
+  "utentes do SNS",
+  "profissionais de saúde",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "SNS",
+  "ULS",
+  "cartas de missão",
+  "nomeações",
+  "CReSAP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

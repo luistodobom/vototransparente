@@ -1,0 +1,39 @@
+{
+ "short_title": "Comparticipação de despesas complementares no Programa Creche Feliz",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que estude a criação, no âmbito do Programa Creche Feliz, de um regime de comparticipação financeira para apoiar famílias em situação de vulnerabilidade no pagamento de atividades extra-pedagógicas opcionais e despesas complementares não abrangidas pela gratuitidade. A lista inclui fraldas e produtos de higiene, fardas ou vestuário obrigatório, aulas de psicomotricidade infantil e expressão musical, e visitas de estudo e atividades extracurriculares. É uma recomendação de estudo, não vinculativa.",
+ "key_points": [
+  "Estudar um regime de comparticipação para famílias vulneráveis no âmbito do Programa Creche Feliz.",
+  "Cobrir despesas com fraldas e produtos de higiene.",
+  "Cobrir fardas ou vestuário obrigatório.",
+  "Cobrir aulas de psicomotricidade e expressão musical, visitas de estudo e atividades extracurriculares."
+ ],
+ "plain_language": "Mesmo quando a mensalidade da creche é gratuita, muitas famílias pagam fraldas, fardas e atividades extra. O PAN pede ao Governo que estude um apoio para estas despesas às famílias mais carenciadas. É apenas um pedido de estudo.",
+ "context": "O PAN considera que o Programa Creche Feliz, que garante a gratuitidade das mensalidades na rede pública e solidária, deixa as famílias mais vulneráveis a suportar despesas adicionais obrigatórias ou semiobrigatórias, que podem ultrapassar dezenas de euros mensais, o que contraria o espírito do programa.",
+ "analysis": "A proposta identifica uma lacuna prática e foca-se nas famílias vulneráveis, o que limita o custo. Fragilidades: pede apenas um estudo, sem prazo, orçamento ou critérios de elegibilidade, e baseia-se em afirmações gerais sobre despesas sem dados nem estimativas do número de famílias abrangidas. Mistura despesas essenciais (fraldas, fardas) com atividades opcionais, o que levanta a questão de saber até onde deve ir o apoio público. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um regime de comparticipação de despesas complementares implicaria despesa pública, que o texto não quantifica; neste momento recomenda apenas um estudo."
+ },
+ "affected": [
+  "Famílias vulneráveis com crianças em creche",
+  "Creches da rede pública e solidária",
+  "Crianças dos 0 aos 3 anos"
+ ],
+ "categories": [
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "Creche Feliz",
+  "creche",
+  "gratuitidade",
+  "famílias vulneráveis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

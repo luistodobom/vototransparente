@@ -1,0 +1,40 @@
+{
+ "short_title": "Avaliar a profissão médica como de desgaste rápido",
+ "summary": "O Projeto de Resolução n.º 406/XVII/1.ª, do LIVRE, recomenda ao Governo que avalie, com caráter prioritário, a carreira médica à luz dos critérios do grupo de trabalho sobre profissões de desgaste rápido, determinando que especialidades e contextos de prática clínica devem ser formalmente reconhecidos como tal. Recomenda ainda um levantamento detalhado das condições de trabalho dos médicos no SNS, incluindo urgência, regime de banco, turnos e horário noturno, horas extraordinárias e indicadores de saúde mental. O objetivo é integrar expressamente a profissão médica no processo em curso de identificação das profissões de desgaste rápido. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação prioritária da carreira médica segundo os critérios do grupo de trabalho sobre profissões de desgaste rápido.",
+  "Identificação das especialidades e contextos clínicos a reconhecer como de desgaste rápido.",
+  "Levantamento das condições de trabalho dos médicos no SNS: urgência, banco, turnos, noturno, horas extra.",
+  "Inclusão de indicadores de saúde mental no levantamento."
+ ],
+ "plain_language": "O LIVRE não pede já que os médicos sejam considerados profissão de desgaste rápido, mas que o Governo avalie com urgência quais as especialidades e situações de trabalho que o justificam. Para isso, pede um levantamento das condições dos médicos no SNS: urgências, turnos, horas extra e saúde mental.",
+ "context": "O LIVRE refere que o relatório do grupo de trabalho propõe uma definição mas não identifica profissões, sugerindo uma comissão consultiva. Considera esse calendário incompatível com a urgência da situação dos médicos e cita um estudo de 2025 em que 28% dos médicos têm burnout elevado, e mais de 2700 pedidos de certidões para exercer no estrangeiro entre 2022 e 2024.",
+ "analysis": "A proposta é mais cautelosa do que um reconhecimento direto: pede avaliação baseada em critérios, o que reduz o risco de decisões casuísticas, e reforça os dados sobre condições de trabalho. Em contrapartida, não define prazo nem efeitos concretos do reconhecimento, e mantém a questão num processo de avaliação que o próprio texto diz ser lento. Os dados sobre burnout e emigração são relevantes mas vêm de fontes setoriais. Sendo uma resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A recomendação em si implica o custo de um levantamento. Os efeitos de um eventual reconhecimento dependeriam das medidas posteriores, não quantificadas no texto."
+ },
+ "affected": [
+  "médicos do SNS",
+  "médicos",
+  "Governo"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "desgaste rápido",
+  "médicos",
+  "SNS",
+  "burnout",
+  "condições de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

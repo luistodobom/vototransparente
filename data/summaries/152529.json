@@ -1,0 +1,41 @@
+{
+ "short_title": "Alterações ao Conselho das Comunidades Portuguesas",
+ "summary": "Projeto de Lei do CHEGA que altera a Lei n.º 66-A/2007 sobre o Conselho das Comunidades Portuguesas (CCP). Torna obrigatória a audição do Conselho em matérias que respeitem às comunidades no estrangeiro (língua portuguesa, educação e cultura, participação cívico-política) e dá-lhe competência para aprovar o regulamento interno. Estabelece que a eleição dos conselheiros é feita por voto eletrónico em mobilidade e prevê, como disposição transitória, uma experiência de voto eletrónico nas eleições seguintes. Fixa o Conselho em máximo de 100 membros, financia-o com dotação própria no orçamento da Presidência do Conselho de Ministros e cria um gabinete de apoio administrativo e técnico com funcionários requisitados. Entra em vigor com o Orçamento do Estado para 2024.",
+ "key_points": [
+  "Audição obrigatória do CCP em matérias que respeitem às comunidades portuguesas no estrangeiro.",
+  "Eleição dos conselheiros por voto eletrónico em mobilidade, com experiência-piloto.",
+  "Conselho com máximo de 100 membros.",
+  "Financiamento por dotação própria no orçamento da Presidência do Conselho de Ministros.",
+  "Gabinete de apoio administrativo e técnico com funcionários requisitados."
+ ],
+ "plain_language": "O projeto dá mais peso ao órgão que aconselha o Governo sobre emigrantes: passa a ser sempre consultado em certos temas, terá mais membros, orçamento próprio e uma equipa de apoio, e os emigrantes poderão votar para o Conselho por via eletrónica sem se deslocarem aos consulados.",
+ "context": "O CHEGA retoma propostas de alteração que o próprio Conselho apresentou em 2019 e 2022 para ganhar autonomia, e refere o crescimento do eleitorado no estrangeiro, de 245.000 em 2014 para cerca de 1,5 milhões (1.543.078 segundo a CNE). Diz que o Governo prometeu avançar com alterações antes de julho de 2023.",
+ "analysis": "Ponto forte: acolhe reivindicações do próprio Conselho e propõe modernizar a participação por voto eletrónico. Fragilidades: o voto eletrónico não presencial levanta questões de segurança, fiabilidade e sigilo que o texto remete para regulamento futuro; não estima custos do gabinete, da dotação própria nem do alargamento; a exposição refere aumento de 80 para 100 conselheiros sem avaliar o impacto na operação; a dependência orçamental da Presidência do Conselho de Ministros pode limitar a autonomia pretendida.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O projeto prevê dotação própria no orçamento da Presidência do Conselho de Ministros, um gabinete de apoio e mais conselheiros; o texto não indica montantes."
+ },
+ "affected": [
+  "portugueses residentes no estrangeiro",
+  "Conselho das Comunidades Portuguesas",
+  "Governo"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional",
+  "administracao"
+ ],
+ "tags": [
+  "comunidades portuguesas",
+  "voto eletrónico",
+  "conselho das comunidades",
+  "emigração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

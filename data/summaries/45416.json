@@ -1,0 +1,41 @@
+{
+ "short_title": "Uso obrigatório de máscara em espaços públicos (transitório)",
+ "summary": "O PSD propõe, em projeto de lei, tornar obrigatório e transitório o uso de máscara para aceder, circular ou permanecer em espaços e vias públicas em todo o território nacional, sempre que o distanciamento físico recomendado se mostre impraticável. A obrigação aplica-se a pessoas com mais de 10 anos e tem dispensas, como atestado ou declaração médica, incompatibilidade com a atividade em curso ou pessoas do mesmo agregado familiar sem terceiros próximos. A fiscalização cabe às forças de segurança e às polícias municipais, e o incumprimento é contraordenação nos termos do Decreto-Lei n.º 28-B/2020. A lei vigora 90 dias, eventualmente renovável, e nas regiões autónomas aplica-se por decreto do respetivo Governo Regional.",
+ "key_points": [
+  "Obriga ao uso de máscara em espaços e vias públicas quando o distanciamento não for praticável.",
+  "Aplica-se a pessoas com mais de 10 anos, com dispensas por razões médicas, de atividade ou de agregado familiar.",
+  "Fiscalização pelas forças de segurança e polícias municipais.",
+  "Incumprimento constitui contraordenação segundo o Decreto-Lei n.º 28-B/2020.",
+  "Vigência de 90 dias, eventualmente renovável; regiões autónomas aplicam por decreto regional."
+ ],
+ "plain_language": "O PSD quer que, durante 90 dias, as pessoas com mais de 10 anos tenham de usar máscara na rua e noutros espaços públicos quando não conseguirem manter distância dos outros. Há exceções, por exemplo por razões de saúde. Quem não cumprir pode ser multado. Nas regiões autónomas, cada governo regional decide como aplicar.",
+ "context": "O proponente justifica a medida com a escalada de contágios e internamentos por COVID-19 desde setembro e com a insuficiência das medidas até então adotadas. Considera necessária uma obrigação transitória e, dadas as diferenças epidemiológicas, deixa às regiões autónomas a modulação da medida.",
+ "analysis": "A proposta dá base legal a uma restrição que limita liberdades individuais, com duração limitada e exceções previstas, e respeita a autonomia das regiões. Fragilidades: o critério de distanciamento impraticável é subjetivo e de fiscalização difícil, a eficácia da obrigação em espaço aberto não é demonstrada no texto, e as coimas remetem para outro diploma. A possível renovação sem limite definido e a carga sobre a fiscalização policial são pontos de atenção.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos. A fiscalização implica custos para forças de segurança e polícias municipais, e as coimas poderiam gerar receita, sem estimativas."
+ },
+ "affected": [
+  "cidadãos com mais de 10 anos",
+  "forças de segurança",
+  "polícias municipais",
+  "pessoas com deficiência ou condição clínica incompatível"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "máscara",
+  "covid-19",
+  "contraordenação",
+  "espaços públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

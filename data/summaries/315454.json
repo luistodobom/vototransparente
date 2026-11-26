@@ -1,0 +1,42 @@
+{
+ "short_title": "Estrutura de Missão sobre quanto custa viver nas ilhas",
+ "summary": "Projeto de Resolução do JPP que recomenda ao Governo a criação de uma Estrutura de Missão independente e multidisciplinar para avaliar, de forma objetiva e comparada, quanto custa viver nas regiões autónomas da Madeira e dos Açores. A estrutura teria composição plural, com representantes de todos os partidos com assento parlamentar, dos Governos da República e regionais e de entidades académicas e científicas. Compararia custos reais em saúde, educação, transportes, construção e habitação, energia e alimentação, com prazo máximo de 12 meses para o relatório final, publicado e debatido no Parlamento, para servir de base à revisão do modelo de financiamento do Estado às regiões. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação de uma Estrutura de Missão independente e multidisciplinar.",
+  "Composição plural: partidos, Governos da República e regionais e academia.",
+  "Análise comparada de custos em saúde, educação, transportes, habitação, energia e alimentação.",
+  "Relatório final em 12 meses, publicado e discutido no Parlamento.",
+  "Servir de base à revisão do financiamento público às regiões autónomas."
+ ],
+ "plain_language": "O JPP quer que o Governo crie um grupo independente para medir, com números, quanto mais custa viver na Madeira e nos Açores do que no continente. O relatório seria usado para decidir quanto dinheiro o Estado deve transferir para as regiões.",
+ "context": "O proponente afirma que os Governos da República decidem sobre as regiões autónomas sem dados fiáveis sobre o custo de viver, trabalhar e estudar nas ilhas, onde considera tudo mais caro e os salários mais baixos. Quer dados objetivos para fundamentar o financiamento e combater a ideia de que as ilhas vivem de subsídios.",
+ "analysis": "Um estudo comparativo plural pode dar base técnica a decisões de financiamento e à discussão sobre coesão territorial. Fragilidades: a composição alargada pode tornar o processo lento e politizado, o prazo de 12 meses é exigente, e o texto parte de conclusões já assumidas (que tudo é mais caro e que o financiamento é injusto). Não indica orçamento da estrutura nem como o relatório vincularia as decisões.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação e funcionamento da Estrutura de Missão implicam despesa, e o relatório poderá levar a mais transferências para as regiões. O texto não apresenta montantes."
+ },
+ "affected": [
+  "residentes da Madeira e dos Açores",
+  "Governos regionais",
+  "Governo da República"
+ ],
+ "categories": [
+  "territorio",
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "regiões autónomas",
+  "custo de vida",
+  "Madeira",
+  "Açores",
+  "estrutura de missão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

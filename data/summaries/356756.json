@@ -1,0 +1,40 @@
+{
+ "short_title": "Igualdade nos exames nacionais para alunos daltónicos (PSD)",
+ "summary": "O projeto de resolução do PSD recomenda ao Governo medidas para melhorar a acessibilidade das provas e exames nacionais a alunos com daltonismo. Propõe rever e reforçar as normas de acessibilidade visual, adotando soluções gráficas complementares à diferenciação por cor, como padrões, símbolos, texturas ou contrastes alternativos, e reavaliar tecnicamente a aplicação do sistema ColorADD em avaliação externa. Propõe ainda desenvolver, com o EduQA, o Júri Nacional de Exames, as escolas e entidades especializadas, um protocolo nacional de atuação para situações de acessibilidade identificadas durante as provas, com resposta imediata, formação para docentes e vigilantes e procedimentos uniformizados de reporte.",
+ "key_points": [
+  "Rever e reforçar as normas de acessibilidade visual das provas e exames nacionais.",
+  "Usar padrões, símbolos, texturas ou contrastes além da cor nos gráficos e mapas.",
+  "Reavaliar tecnicamente a aplicação do sistema ColorADD nos exames.",
+  "Criar um protocolo nacional de atuação perante problemas de acessibilidade durante as provas.",
+  "Dar formação específica a docentes e vigilantes."
+ ],
+ "plain_language": "Alguns alunos daltónicos têm dificuldade em ler gráficos e mapas dos exames nacionais que dependem de cores. O PSD recomenda ao Governo que mude a forma como esses materiais são feitos e crie regras claras para resolver problemas durante o exame. Trata-se de uma recomendação, não de uma lei.",
+ "context": "O texto refere que, apesar de já existirem medidas como o sistema ColorADD e provas adaptadas, subsistem dificuldades práticas na interpretação de gráficos, mapas e esquemas com cores semelhantes. Defende uniformizar procedimentos entre escolas, secretariados de exames e entidades responsáveis pelas provas.",
+ "analysis": "A medida é consensual na intenção e de aplicação relativamente simples. Fragilidades: o texto não quantifica quantos alunos são afetados nem apresenta dados concretos sobre as falhas, referindo apenas casos reportados. Sendo recomendação, não obriga o Governo nem fixa prazos. O protocolo proposto pode exigir coordenação entre várias entidades, e não são estimados custos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Não é indicado impacto orçamental; as medidas são sobretudo de procedimento e de revisão técnica de provas."
+ },
+ "affected": [
+  "Alunos com daltonismo",
+  "Professores e vigilantes de exames",
+  "Escolas e Júri Nacional de Exames"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "daltonismo",
+  "exames nacionais",
+  "colorADD",
+  "acessibilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

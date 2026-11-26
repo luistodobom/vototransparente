@@ -1,0 +1,40 @@
+{
+ "short_title": "Classe própria de portagem para motociclos",
+ "summary": "O PSD recomenda ao Governo a aplicação efetiva da Resolução da Assembleia da República n.º 21/2018, criando uma classe própria e exclusiva para motociclos no pagamento de portagens. Nas concessões existentes, a medida seria negociada com as concessionárias, sem prejudicar a natureza contratual da concessão; nas novas concessões seria implementada de imediato. A taxa seria calculada com base no custo viário dos motociclos, apurado em estudos, e não deveria exceder 50% do valor da classe 1. É um projeto de resolução, de recomendação não vinculativa.",
+ "key_points": [
+  "Criar uma classe própria e exclusiva para motociclos nas portagens.",
+  "Negociar com as concessionárias nas concessões existentes, respeitando a natureza contratual.",
+  "Aplicar a nova classe de imediato nas novas concessões.",
+  "Calcular a taxa com base no custo viário dos motociclos, apurado em estudos.",
+  "Taxa não superior a 50% do valor da classe 1."
+ ],
+ "plain_language": "O PSD pede ao Governo que as motas passem a pagar uma portagem própria, de valor até metade da que pagam hoje os automóveis ligeiros, em linha com uma recomendação do Parlamento de 2018 que ainda não foi aplicada. É uma recomendação, não uma obrigação.",
+ "context": "Atualmente os motociclos estão na classe 1, pagando o mesmo que os automóveis ligeiros. O PSD considera isto injusto, dado que o contributo de uma mota para o desgaste das vias é uma fração do de um automóvel, e recorda que a Resolução n.º 21/2018 já recomendava uma classe própria com tarifa de 50% da classe 1.",
+ "analysis": "A proposta dá seguimento a uma recomendação parlamentar de 2018 e corrige o que o proponente vê como desproporção de tarifas. Em contrapartida, a redução das tarifas reduz receitas das concessionárias e, consoante os contratos, pode levar a compensação pelo Estado, o que o texto não analisa. O limite de 50% é definido sem apoio em estudo no texto, embora também se mencione o estudo do custo viário. A necessidade de negociação pode atrasar a aplicação.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Uma tarifa de portagem inferior para motociclos reduz receitas das concessionárias e pode implicar compensações públicas nas concessões existentes. O texto não quantifica."
+ },
+ "affected": [
+  "motociclistas",
+  "concessionárias de autoestradas",
+  "Estado concedente"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "portagens",
+  "motociclos",
+  "classe de portagem",
+  "concessões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

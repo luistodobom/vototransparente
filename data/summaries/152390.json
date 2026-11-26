@@ -1,0 +1,42 @@
+{
+ "short_title": "Carta de aptidão e promoção da produção de cereais",
+ "summary": "Projeto de Lei do PCP que prevê a elaboração em 2023, pela DGADR, de uma carta de aptidão agrícola do solo para a produção de cereais em cada região agrária. As áreas com boa aptidão, em especial para trigo e milho, são integradas na Reserva Agrícola Nacional, e a sua utilização para outros fins fica sujeita a parecer favorável da DRAP, com decisão da entidade regional da RAN em 30 dias. O Governo lança uma campanha institucional e cria equipas técnicas de apoio aos agricultores, elabora relatórios semestrais sobre a Estratégia Nacional para a Promoção da Produção de Cereais e envia-os à Assembleia, e regulamenta a lei em 60 dias.",
+ "key_points": [
+  "Carta de aptidão agrícola para cereais por região agrária, elaborada em 2023 pela DGADR.",
+  "Solos com boa aptidão integrados na Reserva Agrícola Nacional, com parecer da DRAP para outros usos.",
+  "Campanha publicitária institucional e equipas técnicas de apoio aos agricultores.",
+  "Relatórios semestrais sobre a Estratégia Nacional para a Promoção da Produção de Cereais enviados à Assembleia.",
+  "Regulamentação pelo Governo em 60 dias."
+ ],
+ "plain_language": "O PCP quer que o Estado identifique os terrenos melhores para cultivar cereais, os proteja de outros usos e dê apoio técnico e divulgação aos agricultores, para que Portugal dependa menos de cereais importados. O Governo teria de reportar ao Parlamento, de seis em seis meses, o andamento da estratégia nacional.",
+ "context": "O PCP indica que o grau de autoaprovisionamento de cereais era de 19,4% em 2020/2021 e de 6,4% no trigo, que o défice da balança comercial de milho e trigo foi de cerca de 588 e 377 milhões de euros entre janeiro e novembro de 2022, e que as metas da estratégia de 2018 estão longe de ser atingidas.",
+ "analysis": "A proposta combina proteção do solo, apoio técnico e prestação de contas, o que reforça a segurança alimentar e a transparência. Fragilidades: o prazo de 2023 para cartografar todas as regiões é muito curto, a integração na RAN pode limitar o uso dos terrenos por proprietários sem compensação prevista, e não há incentivos económicos diretos nem custos estimados. O texto não demonstra que a área disponível permita atingir as metas de autoaprovisionamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A cartografia, a campanha institucional, as equipas técnicas e os relatórios implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "agricultores e produtores de cereais",
+  "proprietários de terrenos agrícolas",
+  "DGADR e direções regionais de agricultura"
+ ],
+ "categories": [
+  "agricultura",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "cereais",
+  "reserva agrícola nacional",
+  "autoaprovisionamento",
+  "carta de aptidão",
+  "soberania alimentar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

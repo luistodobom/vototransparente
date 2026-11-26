@@ -1,0 +1,44 @@
+{
+ "short_title": "Controlo de preços do cabaz alimentar essencial",
+ "summary": "O Projeto de Lei do PCP cria o Regime de Controlo de Preços sobre os Produtos do Cabaz Alimentar Essencial, aplicável ao comércio por grosso e a retalho de alimentos e bebidas e à logística associada. O cabaz corresponde aos produtos da Lista I do Código do IVA (taxa reduzida). O Governo publica mensalmente um preço de referência por produto, calculado a partir de custos de aquisição, logística, armazenagem, quebras, impostos e uma margem de lucro não especulativa. É proibida a venda acima desse preço sem justificação atendível. Ficam excluídas lojas com área de venda inferior a 500 m2, faturação inferior a 1 milhão de euros e cooperativas de consumidores. A violação é contraordenação muito grave, com coima de 5 000 a 2 500 000 euros.",
+ "key_points": [
+  "Preço de referência mensal para cada produto do cabaz, com base em custos reais e margem não especulativa.",
+  "Proibição de vender acima do preço de referência sem justificação atendível.",
+  "Exclui lojas com menos de 500 m2, faturação inferior a 1 milhão de euros e cooperativas de consumidores.",
+  "Unidade de execução e fiscalização, sob tutela dos ministérios da Agricultura e Mar e da Economia, com relatórios mensais e trimestrais públicos.",
+  "Coimas de 5 000 a 2 500 000 euros, aplicadas a cada loja em falta.",
+  "Governo regulamenta em 90 dias."
+ ],
+ "plain_language": "O PCP quer que o Estado fixe, todos os meses, um preço máximo de referência para os alimentos essenciais vendidos nos supermercados e outras grandes superfícies. Quem vender mais caro sem boa justificação arrisca coimas elevadas. Lojas pequenas e cooperativas ficam de fora.",
+ "context": "O proponente diz que a grande distribuição aproveitou a situação internacional e o IVA Zero para manter lucros enquanto o poder de compra caía. Cita aumentos de lucros da Sonae MC e da Jerónimo Martins e um preço do cabaz de 251,76 euros em março de 2026 segundo a DECO PROteste.",
+ "analysis": "A medida ataca diretamente o preço final de bens essenciais e prevê transparência e sanções dissuasoras. Há, contudo, fragilidades: o cálculo do preço de referência é complexo, depende de dados enviados pelos operadores e de fixação mensal, o que exige capacidade administrativa considerável. Preços máximos podem gerar escassez, redução de qualidade ou pressão sobre fornecedores, e a noção de justificação atendível é vaga. Não há estimativa de custos de fiscalização nem análise de compatibilidade com o direito da concorrência.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma unidade de fiscalização implica despesa pública, parcialmente compensável por coimas. O texto não quantifica valores."
+ },
+ "affected": [
+  "consumidores",
+  "grandes retalhistas",
+  "grossistas e operadores logísticos",
+  "produtores agrícolas"
+ ],
+ "categories": [
+  "consumidores",
+  "economia",
+  "agricultura"
+ ],
+ "tags": [
+  "cabaz alimentar",
+  "preços máximos",
+  "grande distribuição",
+  "margens",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

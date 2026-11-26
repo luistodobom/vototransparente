@@ -1,0 +1,43 @@
+{
+ "short_title": "Memorando para a poluição suinícola do rio Lis",
+ "summary": "Projeto de Resolução do PSD que recomenda ao Governo que crie condições para a assinatura de um Memorando de Entendimento com vista a uma solução definitiva e integrada para a poluição suinícola na bacia hidrográfica do rio Lis, envolvendo autarquias, instituições públicas e agentes privados, com ações concretas, calendários e investimentos a curto e médio prazo. O memorando deveria considerar quatro dimensões: reforço do tratamento de efluentes (incluindo uma nova estação dedicada, se necessário), maior fiscalização e monitorização, restauro ecológico de linhas de água e apoios à circularidade e sustentabilidade do setor. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Memorando de Entendimento entre autarquias, instituições públicas e agentes privados para a bacia do Lis.",
+  "Reforço do tratamento dos efluentes, incluindo, se necessário, uma nova estação de tratamento dedicada.",
+  "Mais fiscalização, controlo de descargas ilegais e monitorização das massas de água.",
+  "Restauro ecológico de linhas de água, nomeadamente o rio Lis e a ribeira dos Milagres.",
+  "Apoios à circularidade e sustentabilidade do setor suinícola."
+ ],
+ "plain_language": "O PSD pede ao Governo que reúna todas as partes envolvidas, públicas e privadas, num acordo escrito com ações, prazos e investimentos para acabar com a poluição causada pelas suiniculturas no rio Lis. É uma recomendação política, não uma obrigação.",
+ "context": "O proponente refere décadas de problemas de poluição, promessas não cumpridas, o fracasso de uma candidatura a financiamento europeu em 2017 para uma estação de tratamento, estudos não divulgados e uma estratégia nacional (ENEAPAI 2030) que pouco concretiza para o Lis. Estima cerca de 400 suiniculturas e 300 mil animais nos concelhos de Leiria, Porto de Mós e Batalha.",
+ "analysis": "Propõe uma solução concertada e reconhece o peso económico do setor, ao lado das pressões ambientais. Fragilidades: o texto não identifica fontes de financiamento, montantes, prazos concretos nem como se responsabilizam os poluidores, e um memorando é por natureza dependente da adesão voluntária das partes. A iniciativa reconhece que já há diagnósticos suficientes, o que pode questionar a necessidade de mais negociação face à ação direta.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A nova infraestrutura de tratamento, o restauro de linhas de água e os apoios ao setor implicam investimento, a definir no memorando. O texto não indica valores."
+ },
+ "affected": [
+  "Suinicultores da região de Leiria",
+  "Populações da bacia do rio Lis",
+  "Autarquias e Comunidade Intermunicipal da Região de Leiria",
+  "Governo e entidades do setor da água"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "rio lis",
+  "suinicultura",
+  "efluentes",
+  "memorando de entendimento",
+  "leiria"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Crime de desvio indevido de vacinas e recursos médico-cirúrgicos",
+ "summary": "Projeto de lei do deputado único do Chega que acrescenta o artigo 150.º-A ao Código Penal, criando o crime de desvio indevido de recursos médico-cirúrgicos. Quem, por si ou por interposta pessoa, der ou aceitar vacina, medicamento ou outro recurso médico-cirúrgico em violação das regras definidas para a sua administração, aplicação ou distribuição, seria punido com prisão até três anos. Se a conduta ocorrer durante estado de emergência ou de calamidade ligado a alteração grave das condições de saúde pública, a pena seria de dois a cinco anos. A lei entraria em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Cria o artigo 150.º-A do Código Penal: desvio indevido de recursos médico-cirúrgicos.",
+  "Pena de prisão até três anos para quem der ou aceitar recursos em violação das regras de distribuição.",
+  "Pena agravada de dois a cinco anos em estado de emergência ou de calamidade de saúde pública.",
+  "Abrange vacinas, medicamentos e outros recursos, não apenas a vacina contra a COVID-19.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Quem der ou receber uma vacina ou outro recurso médico fora das regras estabelecidas para a sua distribuição passaria a poder ser preso até três anos. Se isso acontecer durante um estado de emergência ou de calamidade de saúde pública, a pena sobe para entre dois e cinco anos.",
+ "context": "O proponente aponta fragilidades na vacinação contra a COVID-19, como vacinas dadas fora das prioridades definidas ou apropriadas por titulares de cargos públicos, e defende que o direito penal atual é pouco claro, com divergências na doutrina e na jurisprudência sobre o enquadramento destas condutas.",
+ "analysis": "Visa clarificar a punição de condutas abusivas e dar um sinal dissuasor. Fragilidades: a redação é ampla, pois qualquer violação das regras de distribuição seria crime, incluindo situações sem dolo ou de pequeno desvio (por exemplo, evitar desperdício); pune também quem aceita; não distingue graus de gravidade nem ressalva causas de justificação. A moldura penal pode ser vista como desproporcionada e a sobreposição com crimes já existentes não é analisada.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa nem receita; cria apenas um tipo penal."
+ },
+ "affected": [
+  "titulares de cargos públicos",
+  "profissionais de saúde",
+  "cidadãos vacinados fora das prioridades"
+ ],
+ "categories": [
+  "justica",
+  "saude"
+ ],
+ "tags": [
+  "código penal",
+  "vacinas",
+  "COVID-19",
+  "fraude",
+  "crime"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio a imóveis devolutos para arrendamento de renda condicionada",
+ "summary": "O Projeto de Lei n.º 97/XVII/1.ª, do PAN, cria um programa de apoio a proprietários de imóveis classificados como devolutos que os coloquem no mercado de arrendamento habitacional em regime de renda condicionada. O apoio pode ser subsídio não reembolsável até 50% do custo elegível da obra, quando o imóvel seja cedido por mais de 20 anos, ou bonificação de juros em crédito à reabilitação. Prevê isenção de IMI até 15 anos, isenção de IMT e Imposto do Selo na aquisição de imóveis a reabilitar no programa e majoração das despesas de reabilitação em IRS ou IRC. Os contratos têm duração mínima de dez anos e rendas dentro dos limites da renda condicionada. O programa é gerido pelo IHRU, com protocolos com municípios, e o Governo regulamenta em 60 dias. Produz efeitos com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Programa para proprietários e municípios com imóveis devolutos que os arrendem com renda condicionada.",
+  "Apoio por subsídio não reembolsável até 50% do custo elegível da obra, quando o imóvel seja cedido por mais de 20 anos, ou por bonificação de juros.",
+  "Isenção de IMI por até 15 anos e isenção de IMT e Imposto do Selo na aquisição para reabilitação no âmbito do programa.",
+  "Contratos de arrendamento com duração mínima de dez anos e rendas dentro dos limites da renda condicionada.",
+  "Gestão pelo IHRU, com protocolos com os municípios, e regulamentação do Governo em 60 dias."
+ ],
+ "plain_language": "Há muitas casas vazias e degradadas em Portugal e muitas famílias sem casa a preço acessível. Este projeto cria um programa para ajudar os donos dessas casas a recuperá-las, com subsídios, juros mais baixos e menos impostos, se depois as arrendarem a rendas controladas por pelo menos dez anos. O programa seria gerido pelo instituto público da habitação, em parceria com as câmaras.",
+ "context": "O PAN invoca o direito constitucional à habitação e descreve uma crise estrutural: as famílias gastam mais de 40% do orçamento mensal em habitação, as rendas tiveram em 2024 o maior aumento em 30 anos, os preços das casas subiram 11,6% no último trimestre de 2024 e o número de pessoas sem-abrigo aumentou 23% entre 2023 e 2024, para 13 128. Refere ainda que o parque habitacional público é de apenas cerca de 2% da oferta total.",
+ "analysis": "Pontos fortes: mobiliza o parque devoluto, que não exige construção nova, e combina incentivos com contrapartidas de renda e duração do arrendamento. Fragilidades: o texto não estima o número de imóveis, o orçamento do programa nem o custo das isenções fiscais, nomeadamente de IMI por 15 anos; a renda condicionada pode não ser atrativa para todos os proprietários; e depende de regulamentação do Governo para critérios de elegibilidade e limites de renda.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Os subsídios e a bonificação de juros aumentam a despesa, e as isenções de IMI, IMT e Imposto do Selo e a majoração de despesas reduzem a receita; o texto não quantifica montantes."
+ },
+ "affected": [
+  "proprietários de imóveis devolutos",
+  "inquilinos e famílias à procura de casa",
+  "municípios",
+  "IHRU"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "territorio"
+ ],
+ "tags": [
+  "imóveis devolutos",
+  "renda condicionada",
+  "arrendamento",
+  "reabilitação",
+  "IMI"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Repor comboios e mitigar a interrupção na Linha da Beira Baixa",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo cinco medidas para a Linha da Beira Baixa, afetada por interrupções após as intempéries: repor com urgência a oferta ferroviária, assegurando, sempre que tecnicamente possível, serviços Intercidades entre Castelo Branco e Guarda; adotar medidas imediatas de mitigação com articulação entre comboio e serviço rodoviário de substituição; avaliar estender essas soluções ao troço Castelo Branco, Vila Velha de Ródão, sem serviço, com continuidade até Abrantes; repor o prolongamento do Intercidades da Linha da Beira Alta até à Covilhã, suprimido em 2022; e reavaliar a inclusão da linha no Plano Ferroviário Nacional.",
+ "key_points": [
+  "Repor com urgência a oferta ferroviária, com Intercidades entre Castelo Branco e Guarda sempre que tecnicamente possível.",
+  "Garantir alternativas de mobilidade, incluindo serviço rodoviário de substituição.",
+  "Avaliar estender as soluções ao troço Castelo Branco a Vila Velha de Ródão, com continuidade até Abrantes.",
+  "Repor o prolongamento do Intercidades da Beira Alta até à Covilhã, suprimido em 2022.",
+  "Reavaliar a inclusão da Linha da Beira Baixa no Plano Ferroviário Nacional."
+ ],
+ "plain_language": "Depois das tempestades, a Linha da Beira Baixa ficou com menos comboios. O CHEGA pede ao Governo que reponha o serviço, ponha autocarros onde não houver comboios e volte a incluir a linha nos grandes planos ferroviários. É apenas uma recomendação.",
+ "context": "O proponente refere a interrupção prolongada da circulação após as intempéries, a redução no troço Covilhã a Guarda de dez para quatro comboios diários, a possível demora na reparação junto ao rio Tejo e a exclusão da linha dos investimentos do Plano Ferroviário Nacional, com impacto na coesão territorial.",
+ "analysis": "A proposta responde a um problema concreto e usa dados de oferta. Fragilidades: a reposição depende de reparações de infraestrutura cujo prazo não controla, a qualificação 'sempre que tecnicamente possível' limita o seu alcance, e os custos do transporte rodoviário de substituição e do serviço Intercidades não são estimados. A reavaliação do Plano Ferroviário Nacional implicaria prioridades de investimento sem indicar financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Repor serviços ferroviários e rodoviários de substituição e reavaliar investimentos implica despesa, que o texto não quantifica."
+ },
+ "affected": [
+  "Utentes da Linha da Beira Baixa",
+  "Populações da Beira Interior",
+  "CP e Infraestruturas de Portugal"
+ ],
+ "categories": [
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "linha da beira baixa",
+  "ferrovia",
+  "intercidades",
+  "plano ferroviário nacional",
+  "interior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

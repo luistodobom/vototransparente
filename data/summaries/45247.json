@@ -1,0 +1,41 @@
+{
+ "short_title": "Acompanhante no parto durante a Covid-19",
+ "summary": "Projeto de resolução da deputada não inscrita Cristina Rodrigues que recomenda ao Governo que reveja as orientações emitidas no contexto da Covid-19 sobre gravidez e parto, em harmonia com as recomendações da Organização Mundial da Saúde. Pretende garantir a todas as mulheres grávidas o direito a um acompanhante durante todas as fases do trabalho de parto, incluindo as que tenham testado positivo para a Covid-19, e que as unidades hospitalares assegurem as condições necessárias para essa presença. O texto invoca a Lei n.º 15/2014 e critica a orientação da DGS que admite restringir o acompanhante em mulheres com Covid-19.",
+ "key_points": [
+  "Rever as orientações da DGS sobre gravidez e parto, em linha com a OMS.",
+  "Garantir acompanhante em todas as fases do parto, mesmo em grávidas com Covid-19.",
+  "Assegurar que os hospitais criam as condições para a presença do acompanhante.",
+  "Evitar que a pandemia sirva de pretexto para limitar o direito."
+ ],
+ "plain_language": "A deputada pede ao Governo que garanta que todas as grávidas podem ter alguém ao seu lado durante o parto, mesmo que estejam infetadas com Covid-19, como recomenda a Organização Mundial da Saúde. Pede ainda que os hospitais tenham condições para isso. É uma recomendação ao Governo, sem efeito obrigatório imediato.",
+ "context": "A proponente afirma que, em muitos hospitais, grávidas e parturientes estão impedidas de ter acompanhante durante internamento, parto e pós-parto. Considera que isso contraria a lei e a OMS, que defende o acompanhante à escolha da mulher mesmo em casos suspeitos ou confirmados de Covid-19.",
+ "analysis": "A proposta tem apoio na lei vigente e em orientações da OMS citadas. Porém, não detalha como compatibilizar a presença do acompanhante com o risco de contágio em grávidas infetadas, nem que meios os hospitais deverão ter. A afirmação de que muitos hospitais impedem acompanhantes não vem acompanhada de dados. Sendo uma recomendação, depende da vontade do Governo para ter efeitos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não refere custos ou receitas; eventuais adaptações hospitalares não são quantificadas."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "acompanhantes",
+  "maternidades",
+  "recém-nascidos"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "parto",
+  "acompanhante",
+  "covid-19",
+  "oms",
+  "lei 15/2014"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

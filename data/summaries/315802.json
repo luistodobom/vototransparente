@@ -1,0 +1,41 @@
+{
+ "short_title": "Apoio a viaturas elétricas para transporte coletivo de crianças",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que crie financiamento, através do Fundo Ambiental, para a compra de viaturas de emissões nulas destinadas ao transporte coletivo de crianças até aos 16 anos. Os beneficiários seriam entidades públicas, IPSS e cooperativas, autoridades de transportes e autarquias. Propõe uma dotação global de 10.000.000 euros em incentivos não reembolsáveis, com apoio de 7.000 euros por veículo ligeiro com lotação superior a cinco lugares e de 50.000 euros por veículo pesado de passageiros, com máximo de dois incentivos por entidade. Define objetivos de descarbonização, redução da idade média da frota e segurança rodoviária, e pede regulamentação por despacho conjunto no prazo de 120 dias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Financiamento do Fundo Ambiental para viaturas de emissões nulas no transporte coletivo de crianças.",
+  "Dotação global de 10.000.000 euros em incentivos não reembolsáveis.",
+  "Apoio de 7.000 euros por veículo ligeiro com mais de cinco lugares e de 50.000 euros por veículo pesado.",
+  "Máximo de dois incentivos por entidade beneficiária.",
+  "Regulamentação por despacho conjunto de ambiente, finanças e mobilidade em 120 dias."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que ajude escolas, IPSS, cooperativas e câmaras a comprarem autocarros e carrinhas elétricos para transportar crianças. Hoje, o apoio existente só cobre carros pequenos de até nove lugares. A proposta cria uma verba de 10 milhões de euros, com apoio de 7.000 euros por carrinha e 50.000 euros por autocarro. É apenas uma recomendação.",
+ "context": "O proponente nota que o Decreto-Lei n.º 90/2025 prorrogou excecionalmente o uso de veículos com até 18 anos, o que resolve uma urgência mas mantém motores mais poluentes e não contribui para a descarbonização. Afirma que o Fundo Ambiental só apoia veículos ligeiros de até nove lugares, com limite de 5.000 euros, o que exclui os veículos pesados.",
+ "analysis": "A proposta liga a segurança e a descarbonização, e fixa montantes e prazo de regulamentação concretos, o que facilita a avaliação. Fragilidades: não demonstra que 10 milhões de euros cobrem a procura, nem estima o número de veículos apoiados; o limite de dois incentivos por entidade pode deixar frotas grandes por renovar. Não analisa custos de carregamento nem a viabilidade de veículos pesados elétricos para entidades com poucos recursos. Sendo uma recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Prevê uma dotação de 10.000.000 euros do Fundo Ambiental em incentivos não reembolsáveis."
+ },
+ "affected": [
+  "IPSS e cooperativas",
+  "autarquias",
+  "autoridades de transportes",
+  "crianças transportadas e respetivas famílias"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente"
+ ],
+ "tags": [
+  "transporte de crianças",
+  "veículos elétricos",
+  "Fundo Ambiental",
+  "descarbonização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

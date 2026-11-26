@@ -1,0 +1,45 @@
+{
+ "short_title": "Reforço do Plano Nacional de Renovação de Edifícios",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo que reforce o Plano Nacional de Renovação de Edifícios (PNRE), que esteve em consulta pública até 20 de fevereiro de 2026. Propõe metas quantificadas e taxas anuais de renovação, articulação com o PNEC 2030 e outros instrumentos, salvaguardas sociais (evitar aumentos de renda desproporcionais, apoio integral a agregados de baixos rendimentos, monitorização), um programa de remoção de coberturas em fibrocimento com amianto, o reforço da rede Espaços Cidadão Energia, estimativas de investimento e financiamento transparentes, formação no setor da construção, o princípio da suficiência energética e informação periódica à Assembleia da República. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Metas quantificadas, taxas anuais de renovação e indicadores até 2030, 2040 e 2050.",
+  "Articulação explícita com o PNEC 2030, a estratégia de combate à pobreza energética, o Roteiro para a Neutralidade Carbónica e o Plano Social para o Clima.",
+  "Salvaguardas sociais, incluindo contra aumentos de renda desproporcionais e apoio integral a famílias de baixos rendimentos.",
+  "Programa nacional de remoção e substituição de coberturas de fibrocimento com amianto.",
+  "Estimativas de investimento e fontes de financiamento transparentes.",
+  "Reforço da rede Espaços Cidadão Energia, formação no setor da construção e relatório periódico à Assembleia."
+ ],
+ "plain_language": "O PAN pede ao Governo que torne mais concreto o plano para renovar casas e prédios em Portugal, com metas claras, apoio total às famílias com menos dinheiro, proteção contra subidas de renda depois das obras e um programa para retirar telhados com amianto. Quer ainda que o Governo explique quanto custa e como é financiado. É um pedido sem força obrigatória.",
+ "context": "A iniciativa baseia-se nos contributos da ZERO e da Coopérnico à consulta pública do PNRE. Essas entidades alertam para falta de metas concretas, de salvaguardas sociais e de transparência no financiamento, e para o risco de efeitos perversos, como aumentos de renda e exclusão de famílias que não conseguem financiar obras.",
+ "analysis": "A proposta traduz contributos de organizações da sociedade civil em recomendações precisas e cobre dimensões sociais, sanitárias e financeiras. Fragilidades: é extensa e as nove medidas não têm prazos nem custos; o limite a aumentos de renda e o apoio integral pressupõem despesa elevada e restrições aos senhorios que exigiriam legislação; as fontes principais são duas entidades, sem outro enquadramento técnico. O plano já estava em fase final de consulta, e o texto não indica como as recomendações se integrariam.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio financeiro integral a famílias de baixos rendimentos, o programa de remoção de amianto e o reforço de redes de apoio implicariam despesa pública, sem valores indicados no texto."
+ },
+ "affected": [
+  "famílias de baixos rendimentos",
+  "inquilinos e senhorios",
+  "proprietários de edifícios com amianto",
+  "setor da construção",
+  "Governo e autarquias"
+ ],
+ "categories": [
+  "ambiente",
+  "habitacao",
+  "energia"
+ ],
+ "tags": [
+  "renovação de edifícios",
+  "PNRE",
+  "pobreza energética",
+  "amianto",
+  "eficiência energética"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

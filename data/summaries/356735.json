@@ -1,0 +1,39 @@
+{
+ "short_title": "Libertar polícias de tarefas administrativas para a rua",
+ "summary": "O Projeto de Resolução da Iniciativa Liberal recomenda ao Governo que, com a Direção Nacional da PSP e o Comando-Geral da GNR, identifique os postos de trabalho hoje ocupados por efetivos policiais que possam ser desempenhados por funcionários civis, libertando esses polícias para o policiamento de proximidade. Recomenda também que esses postos sejam caracterizados por referência às carreiras gerais da Administração Pública, consoante as funções. O texto compara o rácio de polícias por habitante e a percentagem de civis nas polícias de vários países europeus. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Identificar, com a PSP e a GNR, os postos ocupados por polícias que podem ser exercidos por civis.",
+  "Libertar esses efetivos para o policiamento de proximidade.",
+  "Caracterizar os postos por referência às carreiras gerais da Administração Pública."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Governo veja que tarefas de escritório feitas hoje por polícias da PSP e da GNR podem passar para funcionários civis, para que mais polícias estejam na rua. É um pedido ao Governo, que não é obrigado a segui-lo.",
+ "context": "O proponente afirma que Portugal tem um dos rácios mais altos de polícias por habitante da UE, cerca de 415 por 100 mil habitantes, mas que muitos estão em tarefas administrativas. Os civis são cerca de 5% dos efetivos da PSP e da GNR, contra percentagens superiores noutros países europeus.",
+ "analysis": "A medida é simples, de baixo custo imediato e baseada numa comparação internacional que sugere margem de reorganização. Mas o texto não demonstra quantos polícias estão realmente em funções administrativas nem a ligação direta entre essa libertação e mais policiamento de proximidade ou menor insegurança. Contratar civis implica custos e depende de vagas, e na GNR muitos postos civis já estão vagos ou cativos. A recomendação limita-se a identificar postos, sem calendário nem financiamento.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A substituição de polícias por civis pode implicar novas contratações, com custo indeterminado. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "agentes da PSP e da GNR",
+  "funcionários civis das forças de segurança",
+  "população em geral",
+  "Ministério da Administração Interna"
+ ],
+ "categories": [
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "policiamento de proximidade",
+  "psp",
+  "gnr",
+  "funcionários civis"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

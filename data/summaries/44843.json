@@ -1,0 +1,43 @@
+{
+ "short_title": "Plano de incentivo à bicicleta e ao andar a pé durante e após a pandemia",
+ "summary": "O Bloco de Esquerda propõe que a Assembleia da República recomende ao Governo um conjunto de 11 medidas para incentivar os modos ativos de transporte. Inclui um plano de ação, com as autarquias, com ciclovias temporárias, estacionamento de bicicletas, alargamento de passeios, encerramento ou pedonalização de ruas, supressão de vias automóveis, menores tempos de espera para peões e proteção de utilizadores vulneráveis. Recomenda ainda garantir o plano de intermodalidade da bicicleta previsto no Orçamento do Estado para 2020, retomar o transporte de bicicletas nos comboios com segurança sanitária, limitar a velocidade a 30 km/h em zonas urbanas sensíveis, tornar gratuitas as bicicletas partilhadas públicas, incentivar bicicletas de carga e criar incentivos financeiros às deslocações em bicicleta, uma campanha nacional, antecipação de metas da estratégia ciclável e financiamento às autarquias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Plano com as autarquias: ciclovias temporárias, estacionamento de bicicletas, alargamento de passeios, ruas pedonais e menos vias automóveis.",
+  "Garantir a intermodalidade da bicicleta nos transportes públicos e retomar o transporte em comboios com segurança sanitária.",
+  "Limitar a velocidade a 30 km/h em zonas urbanas sensíveis e tornar gratuitas as bicicletas partilhadas públicas.",
+  "Incentivos financeiros às deslocações em bicicleta e uso de bicicletas de carga na logística urbana.",
+  "Campanha nacional, antecipação das metas da Estratégia Nacional para a Mobilidade Ativa Ciclável e financiamento às autarquias."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo e às câmaras que facilitem andar a pé e de bicicleta durante e depois da pandemia, com ciclovias temporárias, mais espaço para peões, menos carros em certas ruas, velocidade máxima de 30 km/h e apoios financeiros. É só uma recomendação.",
+ "context": "O proponente aponta que os transportes públicos têm menos lugares por causa do distanciamento, que o regresso do automóvel traz poluição e sinistralidade, e que Portugal está abaixo da média europeia no uso da bicicleta. Refere recomendações da OMS e medidas tomadas em cidades europeias, e afirma que em Portugal não eram conhecidas medidas semelhantes.",
+ "analysis": "A proposta é ampla e apoia-se em exemplos europeus e na estratégia nacional já existente, ligando saúde pública, ambiente e mobilidade. Fragilidades: reúne medidas de natureza muito diferente sem as priorizar nem as orçamentar, muitas dependem de decisão autárquica, e algumas, como a supressão de vias ou a gratuitidade das bicicletas partilhadas, podem ter efeitos controversos sobre o trânsito e os operadores. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto prevê incentivos financeiros, a gratuitidade das bicicletas partilhadas e um plano de financiamento às autarquias, sem montantes totais indicados."
+ },
+ "affected": [
+  "peões e ciclistas",
+  "autarquias",
+  "utilizadores de transportes públicos",
+  "automobilistas"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "mobilidade ativa",
+  "ciclovias",
+  "bicicleta",
+  "covid-19",
+  "30 km/h"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

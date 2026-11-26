@@ -1,0 +1,42 @@
+{
+ "short_title": "Carta dos direitos fundamentais dos reformados, pensionistas e idosos",
+ "summary": "Projeto de Lei do PCP que estabelece a Carta dos Direitos Fundamentais dos Reformados, dos Pensionistas e dos Idosos, aplicável a portugueses e residentes. Define deveres do Estado, da família e da sociedade e consagra direitos: garantia de reforma aos 65 anos e de pensão digna, pensão social de velhice para quem não tem descontos, valorização anual das pensões com reposição do poder de compra, proteção social em situações de pobreza e isolamento, habitação, educação e cultura, mobilidade e transporte, participação e uma rede de equipamentos e serviços de apoio. Prevê fiscalização de estruturas residenciais, combate à negligência e maus-tratos, apoio ao movimento associativo, com representação no Conselho Económico e Social, e mobilização de recursos pelo Orçamento do Estado.",
+ "key_points": [
+  "Garantir reforma aos 65 anos, pensão digna, pensão social de velhice e valorização anual das pensões.",
+  "Assegurar proteção social em situações de pobreza e isolamento, e direitos de habitação, mobilidade e transporte.",
+  "Criar uma rede de equipamentos e serviços de apoio e promover o convívio e a ocupação de tempos livres.",
+  "Reforçar a fiscalização das estruturas residenciais e o combate à negligência, maus-tratos e violência.",
+  "Apoiar o movimento associativo dos reformados e garantir-lhe representação no Conselho Económico e Social."
+ ],
+ "plain_language": "O PCP propõe uma lei que reúne os direitos dos reformados, pensionistas e idosos: uma pensão digna que acompanhe o custo de vida, apoio a quem é pobre ou está isolado, acesso a habitação, transportes e serviços de apoio, e proteção contra maus-tratos. Obriga o Estado a financiar estes direitos através do Orçamento e dá voz às associações de reformados.",
+ "context": "O proponente defende que o envelhecimento da população não é um problema, mas uma conquista civilizacional, resultado da quebra da fecundidade e do aumento da longevidade, a par de fatores sociais e laborais que desequilibram a pirâmide demográfica. Rejeita que o aumento da esperança de vida seja apresentado como problema social e defende o reforço dos direitos e do papel do Estado.",
+ "analysis": "A carta é abrangente e compromete o Estado com um conjunto de garantias, incluindo a reforma aos 65 anos e a atualização anual das pensões. As fragilidades: enuncia muitos direitos sem calendário, valores ou custos, e o compromisso com a reforma aos 65 anos e com a reposição do poder de compra das pensões teria impacto significativo na Segurança Social, sem estudo de sustentabilidade. A norma que obriga ao financiamento pelo Orçamento do Estado limita a margem de decisão orçamental. As disposições que aumentam a despesa só produzem efeitos com o Orçamento seguinte.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A garantia de pensões dignas e atualizadas, a pensão social, a rede de equipamentos e o apoio ao movimento associativo implicam mais despesa do Estado, a financiar pelo Orçamento do Estado; o texto não apresenta montantes."
+ },
+ "affected": [
+  "reformados e pensionistas",
+  "pessoas idosas",
+  "associações de reformados",
+  "estruturas residenciais para idosos"
+ ],
+ "categories": [
+  "familia",
+  "trabalho",
+  "direitos"
+ ],
+ "tags": [
+  "reformados",
+  "pensões",
+  "carta de direitos",
+  "pessoas idosas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

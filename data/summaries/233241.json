@@ -1,0 +1,36 @@
+{
+ "short_title": "Isenção de propinas em estágios obrigatórios do ensino superior",
+ "summary": "O CHEGA propõe alterar o artigo 16.º da Lei n.º 37/2003, que estabelece as bases do financiamento do ensino superior, para isentar de propinas os estudantes durante o período de realização de estágio profissional ou curricular obrigatório. A isenção aplicar-se-ia de forma transversal a todas as áreas de estudo e a todas as instituições de ensino superior. Para o efeito acrescenta-se um novo n.º 9 ao artigo 16.º. A lei entraria em vigor após a publicação do Orçamento do Estado posterior à sua aprovação. A exposição de motivos argumenta que os estudantes em estágio desempenham funções profissionais não remuneradas e continuam a pagar propinas.",
+ "key_points": [
+  "Acrescenta o n.º 9 ao artigo 16.º da Lei n.º 37/2003, isentando de propinas o período de estágio profissional obrigatório.",
+  "A isenção é transversal a todas as áreas de estudo.",
+  "Entra em vigor após a publicação do Orçamento do Estado posterior à aprovação."
+ ],
+ "plain_language": "Quem tem de fazer um estágio obrigatório para concluir o curso superior deixaria de pagar propinas durante esse período. Hoje, estes estudantes continuam a pagar a propina completa, mesmo quando passam o tempo no local de estágio, muitas vezes sem receberem qualquer remuneração e com despesas extra.",
+ "context": "O proponente alega que os estágios curriculares obrigatórios são frequentemente não remunerados, mas as instituições continuam a exigir propinas, acumulando o estudante despesas de transporte e alimentação. Refere o contexto de inflação, dificuldades económicas das famílias e abandono por razões financeiras.",
+ "analysis": "A medida é simples e direcionada a um custo concreto dos estudantes. Fragilidades: não define como se calcula a isenção (propina anual ou proporcional ao período de estágio), nem prevê compensação às instituições pela receita perdida, o que pode afetar o seu financiamento e a autonomia. Também não distingue o estágio incluído em unidades curriculares com ECTS de outros estágios. Falta estimativa do número de estudantes e do custo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As instituições de ensino superior perderiam receita de propinas durante os estágios; o texto não prevê compensação nem quantifica o impacto."
+ },
+ "affected": [
+  "estudantes do ensino superior em estágio",
+  "instituições de ensino superior"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "propinas",
+  "estágios curriculares",
+  "ensino superior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

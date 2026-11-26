@@ -1,0 +1,42 @@
+{
+ "short_title": "Plano Integrado de Promoção da Natalidade",
+ "summary": "O Grupo Parlamentar do CHEGA recomenda ao Governo a criação e adoção de um Plano Integrado de Promoção da Natalidade e Apoio às Famílias, com especial incidência nas zonas interiores, baseado em benefícios e incentivos fiscais e de segurança social. Na exposição de motivos, o texto indica como orientações o reforço das deduções em IRS por dependente, com aumento progressivo a partir do segundo filho, benefícios adicionais para famílias numerosas e a revisão de impostos sobre o património tendo em conta a dimensão do agregado. No plano da segurança social, refere a reavaliação e eventual aumento das prestações familiares, incentivos à parentalidade nos primeiros anos de vida e redução da taxa social única em alguns casos. A parte dispositiva é uma única recomendação genérica, não vinculativa.",
+ "key_points": [
+  "Criar um Plano Integrado de Promoção da Natalidade e Apoio às Famílias.",
+  "Reforçar as deduções de IRS por dependente, com aumento progressivo a partir do segundo filho.",
+  "Prever benefícios fiscais adicionais para famílias numerosas e rever impostos sobre o património em função do agregado.",
+  "Reavaliar e eventualmente aumentar as prestações familiares.",
+  "Criar incentivos à parentalidade e reduzir a taxa social única em alguns casos."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que crie um plano para aumentar o número de nascimentos, com menos impostos e mais apoios para as famílias com filhos, sobretudo as numerosas e as do interior do país. O texto não diz quanto nem como: apenas recomenda ao Governo que prepare o plano.",
+ "context": "O proponente aponta um desequilíbrio demográfico persistente, com baixa natalidade e envelhecimento, e defende que o IRS não reflete suficientemente as diferenças de capacidade contributiva entre famílias com mais ou menos filhos. Considera a natalidade uma prioridade estratégica nacional.",
+ "analysis": "A iniciativa trata um problema reconhecido (demografia), mas a parte dispositiva é genérica: não define valores de deduções, prazos, custos nem financiamento, e algumas medidas (aumento de prestações e redução da taxa social única) têm efeitos opostos nas receitas sem que se apresente compensação. A eficácia de incentivos fiscais sobre a natalidade não é discutida com evidência. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Mais deduções, benefícios e redução da taxa social única reduziriam receita, e o aumento de prestações familiares aumentaria despesa. O texto não apresenta montantes."
+ },
+ "affected": [
+  "famílias com filhos",
+  "famílias numerosas",
+  "contribuintes de IRS",
+  "territórios do interior"
+ ],
+ "categories": [
+  "familia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "natalidade",
+  "IRS",
+  "famílias numerosas",
+  "prestações familiares",
+  "demografia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

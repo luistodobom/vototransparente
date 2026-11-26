@@ -1,0 +1,42 @@
+{
+ "short_title": "Autorização legislativa: tempo de trabalho no transporte rodoviário",
+ "summary": "Proposta de Lei do Governo, com pedido de prioridade e urgência, que pede autorização legislativa (180 dias) para aprovar, num único diploma, as regras sobre tempos de condução, pausas e repousos, organização do tempo de trabalho dos trabalhadores móveis e condutores independentes, destacamento de condutores e uso do tacógrafo, com os regimes contraordenacionais associados. Transpõe as Diretivas 2002/15/CE, 2006/22/CE e (UE) 2020/1057 e dá execução a regulamentos europeus; o IMT seria o organismo nacional de coordenação e ligação. O decreto-lei autorizado, anexo, prevê coimas por escalões (leve, grave, muito grave, máxima gravidade), até 600 unidades de conta nas disposições sociais, agravadas em 30% no transporte de mercadorias perigosas ou de passageiros, e entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Autoriza o Governo, por 180 dias, a consolidar num só diploma a legislação dispersa sobre tempo de condução, pausas, repousos, tacógrafo, tempo de trabalho e destacamento no transporte rodoviário.",
+  "Transpõe as Diretivas 2002/15/CE, 2006/22/CE e (UE) 2020/1057 e dá execução aos regulamentos europeus sobre tacógrafo e disposições sociais.",
+  "O decreto-lei anexo limita o tempo de trabalho semanal dos trabalhadores móveis a 60 horas, com média de 48 horas em quatro meses, e proíbe mais de seis horas de trabalho consecutivo.",
+  "Classifica as contraordenações em máxima gravidade, muito graves, graves e leves; nas disposições sociais as coimas vão de 2 a 600 unidades de conta consoante a gravidade e o dolo ou negligência, e as de tempo de trabalho seguem o Código do Trabalho.",
+  "Aplica o mesmo regime a trabalhadores dependentes e a condutores independentes, com agravamento de 30% das coimas no transporte de mercadorias perigosas ou de passageiros."
+ ],
+ "plain_language": "O Governo pede ao Parlamento licença para aprovar, por decreto-lei, um diploma único com as regras de horas de condução, pausas e descanso dos motoristas profissionais, e as multas por incumprimento. Quer aplicar as mesmas regras a motoristas empregados e independentes e cumprir as regras europeias.",
+ "context": "O Governo explica que a matéria social no transporte rodoviário e o tacógrafo estão harmonizados pela UE e que a legislação nacional está dispersa e desatualizada face a diretivas e regulamentos recentes. Pretende unificar o regime, melhorar as condições de trabalho dos condutores, garantir concorrência leal e reforçar a segurança rodoviária.",
+ "analysis": "A consolidação num diploma e a harmonização com o quadro europeu trazem clareza e fiscalização mais coerente. Fragilidades: sendo lei de autorização, o conteúdo final cabe ao Governo, embora o projeto de decreto-lei anexo permita escrutínio; as coimas até 600 unidades de conta, com agravamentos de 30% (e 20% em certas situações), podem ser pesadas para pequenos operadores e condutores independentes; e o texto não quantifica o impacto no setor nem os custos de adaptação. A repartição de competências entre o IMT e a Autoridade para as Condições do Trabalho exige coordenação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "As coimas e a fiscalização podem gerar receita e custos administrativos, mas o texto não apresenta montantes globais."
+ },
+ "affected": [
+  "motoristas profissionais",
+  "condutores independentes",
+  "empresas de transporte rodoviário",
+  "IMT e Autoridade para as Condições do Trabalho"
+ ],
+ "categories": [
+  "trabalho",
+  "transportes"
+ ],
+ "tags": [
+  "tacógrafo",
+  "tempo de condução",
+  "autorização legislativa",
+  "transporte rodoviário",
+  "contraordenações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

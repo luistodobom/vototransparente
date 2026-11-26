@@ -1,0 +1,42 @@
+{
+ "short_title": "Ajustes à reposição de freguesias agregadas (trabalhadores e contas)",
+ "summary": "Projeto de Lei do PSD que altera pela primeira vez a Lei n.º 25-A/2025, que repôs as freguesias agregadas em 2013. Adita dois artigos: o artigo 8.º-A, que manda a Direção-Geral das Autarquias Locais antecipar a transferência das verbas do Fundo de Financiamento das Freguesias para as freguesias a extinguir, incluindo o pagamento das remunerações dos trabalhadores, antecipando em outubro de 2025 os meses de novembro e dezembro; e o artigo 11.º-A, que obriga os órgãos das novas freguesias a aprovar novos instrumentos de gestão previsional, permite despesas com saldo de dotação da freguesia extinta e exige uma conta de gerência em 2026 para o período até 31 de dezembro de 2025. Produz efeitos retroativos à entrada em vigor da lei original.",
+ "key_points": [
+  "Antecipação pela Direção-Geral das Autarquias Locais das transferências do Fundo de Financiamento das Freguesias para freguesias a extinguir.",
+  "Pagamento antecipado, em outubro de 2025, das remunerações de novembro e dezembro dos trabalhadores das juntas a extinguir.",
+  "Novas freguesias aprovam novos instrumentos de gestão previsional, com rubrica própria para a verba transferida da freguesia extinta.",
+  "Até essa aprovação, podem realizar despesas com saldo de dotação da freguesia extinta, na respetiva proporção.",
+  "Apresentação em 2026 de conta de gerência do período desde a reposição até 31 de dezembro de 2025."
+ ],
+ "plain_language": "Quando as freguesias agregadas em 2013 voltam a separar-se, surgiram dúvidas sobre como pagar os salários dos trabalhadores e como gerir as contas. O PSD propõe regras para antecipar as verbas e para as novas freguesias aprovarem orçamentos novos e prestarem contas do período inicial.",
+ "context": "O proponente explica que, na concretização da reposição de freguesias prevista na Lei n.º 25-A/2025, surgiram dúvidas fundadas sobre aspetos operativos, nomeadamente quanto aos trabalhadores das autarquias locais, e que é necessário garantir segurança jurídica na sua posição. A iniciativa visa densificar e regular essas lacunas.",
+ "analysis": "As regras respondem a lacunas práticas e dão previsibilidade aos trabalhadores e às novas juntas, ao definir um circuito de pagamento e de prestação de contas. Fragilidades: a antecipação de verbas altera apenas o calendário e o texto não indica montantes nem como se articula com a conta anual das freguesias; a produção de efeitos retroativos, salvaguardando atos praticados, pode gerar incertezas; e a lei não resolve outras matérias, como a situação laboral a longo prazo. A norma sobre despesas antes do novo orçamento depende de critérios de repartição fixados noutra lei.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida antecipa transferências já previstas no Orçamento do Estado para 2025 e regula a gestão financeira; o texto não indica novos montantes."
+ },
+ "affected": [
+  "freguesias a extinguir e repostas",
+  "trabalhadores das juntas de freguesia",
+  "Direção-Geral das Autarquias Locais",
+  "populações das freguesias"
+ ],
+ "categories": [
+  "territorio",
+  "administracao"
+ ],
+ "tags": [
+  "reposição de freguesias",
+  "autarquias locais",
+  "juntas de freguesia",
+  "trabalhadores",
+  "conta de gerência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

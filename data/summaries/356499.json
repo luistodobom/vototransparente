@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas contra o aumento do custo de vida e do preço da energia",
+ "summary": "O PS recomenda ao Governo quinze medidas face ao aumento do custo de vida associado ao conflito no Médio Oriente. Incluem uma avaliação interministerial permanente dos impactos, a intervenção junto da União Europeia para um quadro temporário de apoio, a audição dos setores expostos, a monitorização dos preços dos bens alimentares essenciais e da cadeia de valor, e IVA zero num cabaz alimentar. Propõem reduzir temporariamente o IVA dos combustíveis e do gás de 23% para 13%, duplicar o consumo de eletricidade com IVA de 6% (de 200 para 400 kWh, 600 para famílias numerosas), apoiar agricultores, pescas, transportes e indústrias intensivas em energia, incentivar o transporte público e acompanhar o crédito à habitação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação interministerial permanente dos impactos económicos e sociais do conflito.",
+  "IVA zero num cabaz de produtos alimentares essenciais e monitorização dos preços alimentares.",
+  "Redução temporária do IVA dos combustíveis e do gás de 23% para 13%.",
+  "Duplicação do consumo de eletricidade com IVA de 6%, de 200 para 400 kWh (600 em famílias numerosas).",
+  "Apoios a agricultores, pescas, transportes e indústrias intensivas em energia, e incentivo ao transporte público.",
+  "Acompanhamento dos efeitos sobre juros e crédito à habitação."
+ ],
+ "plain_language": "O PS pede ao Governo um pacote de apoios para famílias e empresas por causa da subida dos preços da energia: menos IVA nos combustíveis, no gás e na eletricidade, IVA zero nos alimentos essenciais e ajudas a setores como agricultura, pescas e transportes. É uma recomendação ao Governo, que decide se a segue.",
+ "context": "O proponente defende que a escalada no Médio Oriente criou pressão nos preços da energia, dos transportes e dos alimentos, com subidas de combustíveis mais rápidas do que em 2021-2022. Considera que o Estado deve evitar um aumento líquido de receita fiscal e ir além da neutralidade fiscal, financiando apoios.",
+ "analysis": "O pacote é abrangente, combina monitorização com apoios e responde a setores específicos, com precedentes de 2022 e 2023. Fragilidades: não quantifica o custo nem o financiamento; reduções gerais de IVA beneficiam todos os consumidores, incluindo os de maiores rendimentos, e podem não ser totalmente repassadas aos preços; algumas medidas são genéricas («promova», «avalie»); e a duração dos apoios depende de um conflito de evolução incerta. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As reduções de IVA na energia e no cabaz reduzem a receita fiscal, e os apoios setoriais aumentam a despesa. O texto não apresenta estimativas de custo."
+ },
+ "affected": [
+  "famílias consumidoras",
+  "agricultores e pescadores",
+  "transportadores e indústrias intensivas em energia"
+ ],
+ "categories": [
+  "economia",
+  "fiscalidade",
+  "energia"
+ ],
+ "tags": [
+  "custo de vida",
+  "iva",
+  "combustíveis",
+  "médio oriente",
+  "apoios setoriais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

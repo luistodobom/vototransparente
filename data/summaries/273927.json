@@ -1,0 +1,41 @@
+{
+ "short_title": "Descontos da ADM apenas sobre 12 meses",
+ "summary": "Projeto de lei do Chega que altera o artigo 13.º do Decreto-Lei n.º 167/2005 (quinta alteração), para determinar que o desconto dos militares das Forças Armadas para a Assistência na Doença aos Militares (ADM) incida apenas sobre 12 remunerações base mensais, excluindo as remunerações correspondentes aos subsídios de férias e de Natal. Atualmente, por convergência com a ADSE, o desconto incide sobre 14 vencimentos base mensais, apesar de os beneficiários só usufruírem da assistência durante 12 meses. A exposição de motivos cita a conclusão n.º 61 do Relatório n.º 22/2019 do Tribunal de Contas sobre a ADSE. A lei entra em vigor após a publicação do Orçamento do Estado subsequente à sua aprovação.",
+ "key_points": [
+  "O desconto para a ADM passa a incidir sobre 12 remunerações base mensais.",
+  "Exclui os subsídios de férias e de Natal da base de incidência do desconto.",
+  "Altera o artigo 13.º do Decreto-Lei n.º 167/2005, aditando-lhe um n.º 10.",
+  "Entra em vigor após a publicação do Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "Hoje, os militares pagam o desconto para o subsistema de saúde militar sobre 14 meses de vencimento (incluindo os subsídios de férias e de Natal), mas só usam a assistência durante 12 meses. Este projeto quer que o desconto seja feito apenas sobre os 12 meses, o que reduz o valor pago por cada militar ao longo do ano.",
+ "context": "O Chega considera abusivo o desconto sobre os subsídios de férias e de Natal, resultante da convergência com a ADSE, e invoca o Relatório n.º 22/2019 do Tribunal de Contas, que recomendou, para a ADSE, que a cobrança se reporte aos 12 meses de utilização e não a 14.",
+ "analysis": "A proposta corrige uma assimetria apontada pelo Tribunal de Contas e dá aos militares um alívio contributivo claro. Em contrapartida, reduz as receitas do subsistema ADM, e o texto não estima esse impacto nem indica como seria compensado, o que pode afetar a sua sustentabilidade. A recomendação do Tribunal de Contas citada refere-se à ADSE, e a sua transposição à ADM é feita por analogia. A produção de efeitos fica ligada ao Orçamento do Estado, o que condiciona o calendário.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da base de incidência do desconto diminui as receitas contributivas do subsistema ADM; o texto não quantifica o valor."
+ },
+ "affected": [
+  "militares das Forças Armadas",
+  "beneficiários da ADM",
+  "subsistema ADM"
+ ],
+ "categories": [
+  "defesa",
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "adm",
+  "forças armadas",
+  "descontos",
+  "subsídios de férias e de natal",
+  "assistência na doença"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

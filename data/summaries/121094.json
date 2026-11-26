@@ -1,0 +1,44 @@
+{
+ "short_title": "Arrendamento: pré-aviso do inquilino, proteção em despejos e moratória das rendas",
+ "summary": "O PAN propõe alterar o Código Civil, o Novo Regime do Arrendamento Urbano (NRAU) e a Lei n.º 4-C/2020. Reduz os prazos de pré-aviso do arrendatário para impedir a renovação automática (90, 60 e 30 dias, consoante a duração do contrato) e para denunciar o contrato (90 ou 30 dias). Cria o artigo 14.º-B do NRAU: apoio jurídico e acompanhamento social em despejos, proibição de despejo administrativo de famílias vulneráveis em habitação pública ou municipal sem realojamento digno, e encaminhamento para realojamento em casos de propriedade privada. Os animais de companhia passam a ser considerados parte do agregado. Estende a moratória da Lei 4-C/2020: dívida de rendas paga em 24 meses após o termo do período definido.",
+ "key_points": [
+  "Reduz o pré-aviso do arrendatário para oposição à renovação (90, 60 ou 30 dias conforme o prazo do contrato).",
+  "Reduz o pré-aviso para denúncia do contrato a 90 ou 30 dias.",
+  "Exige acompanhamento social e apoio jurídico nos procedimentos de despejo.",
+  "Impede o despejo de famílias vulneráveis de habitação pública ou municipal sem realojamento digno prévio.",
+  "Equipara os animais de companhia a parte do agregado familiar nestas respostas.",
+  "Alarga para 24 meses o prazo de pagamento das rendas em mora durante a pandemia."
+ ],
+ "plain_language": "O PAN quer facilitar a vida a quem arrenda casa: o inquilino poderia avisar o senhorio com menos antecedência para sair, famílias vulneráveis não seriam despejadas de habitação pública sem realojamento, e as rendas em atraso por causa da pandemia teriam 24 meses para serem pagas em prestações.",
+ "context": "O PAN invoca o direito à habitação consagrado na Constituição e na Lei de Bases da Habitação e os efeitos económicos e sociais da pandemia de COVID-19. Diz querer facilitar a mudança de casa dos arrendatários sem onerar excessivamente o senhorio e garantir acompanhamento do Estado em despejos.",
+ "analysis": "Pontos fortes: reforça a proteção social em despejos e dá previsibilidade aos inquilinos. Fragilidades: a redução dos prazos de pré-aviso pode afetar a planificação dos senhorios; a obrigação de realojamento prévio em habitação pública pode ter custos e capacidade limitada para as autarquias, sem previsão de financiamento; a extensão da moratória pode prolongar a incerteza de quem recebe rendas. O texto não quantifica impactos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O acompanhamento social e o realojamento de famílias vulneráveis implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "famílias vulneráveis em risco de despejo",
+  "autarquias e serviços sociais"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "animais"
+ ],
+ "tags": [
+  "arrendamento",
+  "despejos",
+  "moratória das rendas",
+  "realojamento",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

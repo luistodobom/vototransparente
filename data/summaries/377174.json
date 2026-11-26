@@ -1,0 +1,42 @@
+{
+ "short_title": "Tramitação simplificada de processos tributários de reduzido valor",
+ "summary": "Este projeto de lei do JPP adita ao Código de Procedimento e de Processo Tributário os artigos 97.º-B a 97.º-G, criando uma tramitação simplificada para processos judiciais tributários de valor não superior a 15.000 euros, nomeadamente a impugnação judicial de determinados atos e a oposição à execução fiscal. Exclui casos sem mandatário quando não obrigatório, com contrainteressados, com pretensões cumuladas ou de especial complexidade. Fixa prazos especiais (30 dias para contestar em impugnação, 15 dias para o processo administrativo e para a contestação em oposição, 15 dias para o Ministério Público), permite formulários aprovados por portaria, concentra a prova numa audiência e limita alegações orais a 20 minutos mais 10 de resposta. O juiz pode passar à tramitação comum. Entra em vigor 120 dias após a publicação.",
+ "key_points": [
+  "Criar tramitação simplificada para processos tributários de valor até 15.000 euros (impugnação judicial e oposição à execução fiscal).",
+  "Excluir casos sem mandatário, com contrainteressados, com pretensões cumuladas ou de especial complexidade.",
+  "Fixar prazos especiais de contestação, remessa do processo administrativo e pronúncia do Ministério Público.",
+  "Concentrar a prova oral numa só audiência e limitar as alegações orais.",
+  "Permitir ao juiz passar à tramitação comum, preservando garantias, e prever uma portaria em 90 dias."
+ ],
+ "plain_language": "Os processos nos tribunais sobre impostos de pequeno valor, até 15.000 euros, podem demorar muito. O JPP propõe um processo mais simples e rápido para esses casos, com prazos mais curtos e menos formalidades, mas mantendo as garantias das partes. Se o caso for demasiado complexo, o juiz pode voltar ao processo normal. A lei só se aplicaria a processos novos, 120 dias depois de publicada.",
+ "context": "O proponente aponta a elevada pendência na jurisdição administrativa e fiscal e a necessidade de concentrar recursos nas causas complexas. Refere que o pacote do Governo para a reforma da justiça administrativa e fiscal já prevê uma tramitação simplificada para ações administrativas e que o Conselho Superior dos Tribunais Administrativos e Fiscais propôs uma forma simplificada que abrange o contencioso tributário.",
+ "analysis": "A proposta acompanha o modelo previsto para as ações administrativas e inclui salvaguardas, como a passagem à tramitação comum, o contraditório e a intervenção do Ministério Público. Contudo, reduzir prazos pode pôr pressão sobre contribuintes sem advogado e sobre a administração tributária, e o texto não estima a redução de pendências nem a necessidade de meios nos tribunais. O limite de 15.000 euros é fixado sem justificação própria. A sua articulação com a proposta do Governo ainda em apreciação não é tratada.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta impactos orçamentais; a maior celeridade poderia reduzir custos judiciais, mas a implementação pode exigir meios adicionais."
+ },
+ "affected": [
+  "contribuintes em litígio tributário de pequeno valor",
+  "Autoridade Tributária e Aduaneira",
+  "juízes e tribunais tributários",
+  "advogados"
+ ],
+ "categories": [
+  "justica",
+  "fiscalidade"
+ ],
+ "tags": [
+  "processo tributário",
+  "tramitação simplificada",
+  "tribunais administrativos e fiscais",
+  "pendências",
+  "impugnação judicial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

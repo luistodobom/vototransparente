@@ -1,0 +1,42 @@
+{
+ "short_title": "Auditoria aos terminais rodoviários e à concorrência no setor",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo uma auditoria nacional ao funcionamento dos terminais rodoviários e às práticas concorrenciais associadas, que abranja o apuramento dos operadores dominantes em cada terminal e das relações de grupo entre entidades gestoras e prestadoras; a verificação do regime de acesso e de eventuais barreiras à entrada de novos operadores, incluindo pedidos indeferidos sem justificação adequada; a quantificação dos efeitos económicos sobre os utilizadores; e o cumprimento dos prazos do Decreto-Lei n.º 140/2019. Pede um relatório final público com recomendações legislativas concretas e prioritárias.",
+ "key_points": [
+  "Auditoria nacional ao funcionamento dos terminais rodoviários.",
+  "Identificar operadores dominantes e relações de grupo entre gestores de terminais e prestadores de serviços.",
+  "Verificar o regime de acesso e eventuais barreiras à entrada de novos operadores.",
+  "Quantificar os efeitos económicos para os utilizadores.",
+  "Publicar um relatório final com recomendações legislativas."
+ ],
+ "plain_language": "O CHEGA quer uma auditoria para perceber se os terminais de autocarros respeitam a lei e se alguns operadores usam a gestão do terminal para prejudicar concorrentes. No fim, seria publicado um relatório com sugestões para mudar as regras. É uma recomendação ao Governo.",
+ "context": "O proponente invoca o Decreto-Lei n.º 140/2019, que exige acesso transparente, equitativo e não discriminatório aos terminais e só permite recusas por falta de capacidade. Cita declarações da presidente da Autoridade da Mobilidade e dos Transportes de que a maioria dos terminais não cumpre a lei e que há enviesamento na concorrência, pois alguns são geridos por operadores que os utilizam.",
+ "analysis": "A iniciativa assenta numa avaliação do regulador e propõe transparência através de relatório público. Fragilidades: o regulador (AMT) já tem competências de fiscalização, pelo que a auditoria pode duplicar o seu trabalho; o texto não define quem faria a auditoria, o prazo ou o custo; e o caráter não vinculativo limita o efeito. Existe pouca evidência apresentada além das declarações da AMT.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de uma auditoria nacional implica despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "Operadores de transporte rodoviário de passageiros",
+  "Gestores de terminais rodoviários",
+  "Passageiros",
+  "Autoridade da Mobilidade e dos Transportes"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "concorrência",
+  "amt",
+  "auditoria",
+  "autocarros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

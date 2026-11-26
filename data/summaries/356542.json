@@ -1,0 +1,42 @@
+{
+ "short_title": "Transparência nos dados do alojamento local",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que assegure a aplicação efetiva do Regulamento (UE) 2024/1028, sobre recolha e partilha de dados do alojamento de curta duração, garantindo o funcionamento de um ponto de entrada digital único, identificando a entidade coordenadora e reforçando as obrigações das plataformas de verificarem o registo válido de alojamento local de cada anúncio. Recomenda ainda a integração dos dados das plataformas digitais nas estatísticas oficiais do INE, para apoiar as políticas de habitação e turismo, e uma fiscalização efetiva, com meios para analisar, comparar e verificar os dados das plataformas e dos operadores e identificar ofertas ilegais. O texto indica que o prazo máximo de aplicação plena do Regulamento é 20 de maio. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Assegurar o ponto de entrada digital único previsto no Regulamento (UE) 2024/1028 e identificar a entidade coordenadora.",
+  "Reforçar as obrigações das plataformas quanto à verificação do registo de alojamento local válido em cada anúncio.",
+  "Integrar os dados das plataformas nas estatísticas oficiais do INE.",
+  "Promover fiscalização efetiva, com meios para verificar dados e identificar ofertas ilegais."
+ ],
+ "plain_language": "O alojamento local, como os apartamentos alugados a turistas através de plataformas, tem pouca informação pública, o que dificulta políticas de habitação e turismo. O LIVRE pede ao Governo que aplique a regra europeia que obriga as plataformas a partilhar dados, que integre esses dados nas estatísticas oficiais e que fiscalize melhor os anúncios ilegais. É apenas uma recomendação.",
+ "context": "O proponente afirma que a escassez de informação dificulta regular o alojamento local e avaliar o turismo, e que existe uma assimetria entre hotéis, que reportam ao INE, e as plataformas. Refere que o Regulamento (UE) 2024/1028 obriga as plataformas a partilhar mensalmente dados padronizados, e que a legislação nacional não está completamente conforme, com prazo de aplicação plena a 20 de maio.",
+ "analysis": "Uma boa aplicação do regulamento europeu pode melhorar a base estatística e a fiscalização, e a proposta é concreta quanto aos instrumentos. Fragilidades: sendo a aplicação do regulamento uma obrigação já existente, a recomendação não acrescenta muito em termos de conteúdo, e não indica custos nem prazos nacionais; a fiscalização efetiva exige recursos que o texto não quantifica. Não aborda a proteção de dados dos anfitriões. Sendo recomendação, depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios de fiscalização e dos sistemas de dados implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "operadores de alojamento local",
+  "plataformas digitais de arrendamento de curta duração",
+  "Turismo de Portugal e INE",
+  "residentes afetados pelo mercado de habitação"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores",
+  "ciencia"
+ ],
+ "tags": [
+  "alojamento local",
+  "plataformas digitais",
+  "Regulamento (UE) 2024/1028",
+  "dados",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

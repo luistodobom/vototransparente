@@ -1,0 +1,40 @@
+{
+ "short_title": "Valorização da carreira docente e profissionalização em serviço",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo duas linhas de ação. Primeiro, que tome as medidas necessárias, em conformidade com a Resolução da Assembleia da República n.º 98/2025, para criar um programa especial e gratuito de profissionalização em serviço dos docentes com habilitação própria, garantindo-lhes a formação pedagógica necessária para a vinculação à carreira. Segundo, que promova, em diálogo com os sindicatos, a valorização da carreira docente através do respeito pelo horário de trabalho, da melhoria do sistema de avaliação, da eliminação de obstáculos às progressões, do respeito pela graduação profissional e da correção de ultrapassagens na carreira. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Programa especial e gratuito de profissionalização em serviço para docentes com habilitação própria.",
+  "Objetivo de dar acesso à formação pedagógica necessária à vinculação à carreira.",
+  "Respeito pelo horário de trabalho e melhoria do sistema de avaliação.",
+  "Eliminação de obstáculos às progressões e respeito pela graduação profissional.",
+  "Correção de ultrapassagens na carreira, em diálogo com os sindicatos."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que ajude os professores que dão aulas sem formação pedagógica a obtê-la gratuitamente, enquanto trabalham, para poderem entrar nos quadros. Pede também melhorias na carreira, como cumprir os horários, avaliação mais justa e progressões sem obstáculos. É apenas uma recomendação.",
+ "context": "O BE aponta a precariedade e desvalorização da carreira docente, o abandono da profissão e o recurso a horas extraordinárias e a pessoas sem componente pedagógica. Lembra que a Resolução da AR n.º 98/2025, aprovada por proposta sua, já recomendava um programa de profissionalização em serviço e defende que o Governo a cumpra.",
+ "analysis": "A proposta junta uma medida concreta, a profissionalização em serviço, com um conjunto de objetivos mais genéricos para a carreira. Ponto forte: dá seguimento a uma recomendação já aprovada, apontando uma via para reduzir a falta de professores. Fragilidades: não define calendário, número de vagas, parceiros nem financiamento; a insuficiência de vagas em mestrados em ensino é mencionada mas não quantificada; e as medidas de valorização da carreira ficam sem critérios. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um programa gratuito de profissionalização e a eliminação de obstáculos às progressões implicariam custos para o Estado. O texto não indica montantes."
+ },
+ "affected": [
+  "docentes com habilitação própria",
+  "professores dos quadros",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira docente",
+  "profissionalização em serviço",
+  "habilitação própria",
+  "vinculação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

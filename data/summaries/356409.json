@@ -1,0 +1,42 @@
+{
+ "short_title": "Devolução de 100% do IVA em bens essenciais a famílias de baixos rendimentos",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a criação de um mecanismo extraordinário e temporário de devolução direta do IVA pago na compra de bens e serviços de primeira necessidade da Lista I anexa ao Código do IVA, por famílias de baixos rendimentos. Beneficiários seriam os agregados com rendimento bruto anual per capita não superior a 14 vezes o salário mínimo. O valor seria apurado automaticamente pela Autoridade Tributária com base nas faturas do e-Fatura e creditado na conta bancária, sem candidaturas, com um limite máximo por beneficiário fixado em portaria. Vigoraria seis meses, prorrogável por igual período mediante relatório público do Governo à Assembleia da República.",
+ "key_points": [
+  "Mecanismo extraordinário de devolução direta do IVA pago em bens e serviços de primeira necessidade da Lista I do Código do IVA.",
+  "Destinado a agregados com rendimento bruto anual per capita até 14 vezes o salário mínimo nacional.",
+  "Cálculo automático pela AT com base no e-Fatura e crédito na conta bancária, sem candidatura.",
+  "Limite máximo por beneficiário fixado em portaria conjunta das Finanças e da Segurança Social.",
+  "Vigência inicial de seis meses, prorrogável por igual período após avaliação em relatório público."
+ ],
+ "plain_language": "Em vez de baixar o IVA para todos, o LIVRE propõe devolver o IVA que famílias com menos rendimentos pagam em bens essenciais, como alimentos. A devolução seria calculada automaticamente a partir das faturas com NIF e paga na conta bancária, durante seis meses, prorrogáveis. É uma recomendação ao Governo.",
+ "context": "O LIVRE enquadra a proposta num choque de inflação importada associado à guerra no Irão, com subida do petróleo Brent de cerca de 70 para mais de 110 dólares por barril e perturbação do Estreito de Ormuz. Defende que o IVA é regressivo e invoca a OCDE, segundo a qual medidas focalizadas tendem a ser mais eficazes e progressivas do que reduções gerais do IVA.",
+ "analysis": "A proposta é mais focalizada do que uma redução geral do IVA e aproveita infraestrutura existente (e-Fatura), o que reduz custos administrativos. Fragilidades: depende da exaustividade das faturas com NIF, pelo que quem não as pede pode ficar de fora; o critério de rendimento per capita é pouco claro quanto ao agregado; não há estimativa do número de beneficiários nem do custo; e o teto fica para portaria. O desfasamento temporal entre a compra e a devolução reduz o efeito imediato nos preços. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A devolução do IVA a famílias elegíveis implica despesa ou perda de receita para o Estado, limitada por um teto por beneficiário a fixar em portaria. O texto não apresenta estimativa do custo."
+ },
+ "affected": [
+  "Famílias de baixos rendimentos",
+  "Autoridade Tributária e Aduaneira",
+  "Consumidores"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia",
+  "consumidores"
+ ],
+ "tags": [
+  "IVA",
+  "devolução",
+  "bens essenciais",
+  "e-Fatura",
+  "inflação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

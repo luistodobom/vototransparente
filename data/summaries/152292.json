@@ -1,0 +1,41 @@
+{
+ "short_title": "Isentar de custas funcionários públicos agredidos no serviço",
+ "summary": "O Chega propõe alterar o Regulamento das Custas Processuais para alargar a isenção de custas hoje prevista para os agentes das forças e serviços de segurança. Na alínea m) do n.º 1 do artigo 4.º, passam a estar isentos de custas, em processo penal por ofensa sofrida no exercício das suas funções ou por causa delas, também quaisquer outros funcionários públicos ou pessoas que exerçam funções de interesse público. É a vigésima primeira alteração ao regulamento. A lei entraria em vigor após a aprovação do Orçamento do Estado posterior à sua aprovação.",
+ "key_points": [
+  "Alarga a isenção de custas em processo penal a funcionários públicos e a quem exerça funções de interesse público.",
+  "A isenção aplica-se a ofensas sofridas no exercício das funções ou por causa delas.",
+  "Altera apenas a alínea m) do n.º 1 do artigo 4.º do Regulamento das Custas Processuais.",
+  "Entra em vigor após a aprovação do Orçamento do Estado posterior."
+ ],
+ "plain_language": "Hoje, os polícias que são agredidos no trabalho não pagam custas quando avançam com um processo penal. O Chega quer que a mesma regra valha para outros funcionários públicos, como professores, médicos, enfermeiros ou oficiais de justiça, e para quem exerça funções de interesse público, quando são ofendidos por causa do seu trabalho.",
+ "context": "O proponente defende que não há razão para que apenas as forças de segurança estejam isentas de custas quando sofrem ofensas no exercício das funções, citando casos de agressões a professores, médicos, enfermeiros, bombeiros e uma juíza. Considera que as situações são semelhantes e que a isenção deve ser alargada.",
+ "analysis": "A medida responde a uma assimetria de tratamento e pode facilitar o acesso à justiça de profissionais agredidos. A formulação «outros funcionários públicos ou que estejam a exercer funções de interesse público» é ampla e pouco definida, o que pode gerar dúvidas de aplicação e litigância sobre quem é abrangido. O texto não estima a perda de receita de custas nem justifica o alcance. A isenção também se aplicaria independentemente da situação económica da pessoa, ao contrário do apoio judiciário.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de custas diminui a receita de taxas de justiça; o texto não quantifica o impacto."
+ },
+ "affected": [
+  "funcionários públicos",
+  "professores",
+  "médicos e enfermeiros",
+  "oficiais de justiça",
+  "tribunais"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "custas processuais",
+  "isenção de custas",
+  "agressões a funcionários",
+  "processo penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

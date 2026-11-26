@@ -1,0 +1,41 @@
+{
+ "short_title": "Acesso ao direito e aos tribunais: custas e litigância de má-fé",
+ "summary": "Projeto de Lei do PAN que altera o Regulamento das Custas Processuais e o Decreto-Lei n.º 503/99. Acrescenta ao artigo 3.º que o limite do somatório das custas é definido por portaria. Na alínea h) do artigo 4.º, isenta de custas os trabalhadores ou familiares em matéria de direito do trabalho com rendimento ilíquido até 200 UC, deixando de exigir representação pelo Ministério Público ou sindicato. No artigo 27.º, fixa a multa por litigância de má-fé entre 4 UC e 200 UC. No Decreto-Lei n.º 503/99 (acidentes em serviço e doenças profissionais na Administração Pública), isenta o interessado de custas. As alterações aplicam-se aos processos em curso e entram em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Limite do somatório das custas judiciais fixado por portaria.",
+  "Isenção de custas para trabalhadores e familiares em matéria laboral até 200 UC, independentemente da representação.",
+  "Multa por litigância de má-fé entre 4 UC e 200 UC.",
+  "Isenção de custas nas ações sobre acidentes em serviço e doenças profissionais na Administração Pública.",
+  "Aplicação aos processos em curso."
+ ],
+ "plain_language": "O projeto pretende que custas altas não impeçam as pessoas de recorrer aos tribunais: cria um teto para as custas, isenta mais trabalhadores, incluindo acidentados no trabalho, e aumenta as multas a quem litiga de má-fé.",
+ "context": "O PAN invoca o artigo 20.º da Constituição e considera que o apoio judiciário e as custas elevadas impedem o acesso à justiça, sobretudo da classe média. Defende que trabalhadores sinistrados representados por advogado devem ter a mesma isenção que os representados pelo Ministério Público, por razões de igualdade.",
+ "analysis": "Ponto forte: ataca vários obstáculos económicos ao acesso à justiça e agrava a sanção a quem abusa dela. Fragilidades: o teto das custas é remetido para portaria, sem valor definido, o que torna imprevisível o impacto; mantém o limite de 200 UC, não o elimina; reduz receita sem a estimar; a aplicação a processos em curso e o agravamento das multas devem ser ponderados face à segurança jurídica e à proporcionalidade.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As isenções e o limite das custas reduziriam a receita de custas judiciais, em parte compensada pelo aumento das multas por litigância de má-fé; o texto não apresenta montantes."
+ },
+ "affected": [
+  "trabalhadores e familiares",
+  "sinistrados do trabalho e de acidentes em serviço",
+  "cidadãos que recorrem aos tribunais"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "trabalho"
+ ],
+ "tags": [
+  "custas processuais",
+  "acesso à justiça",
+  "litigância de má-fé",
+  "acidentes de trabalho"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Alterações ao Estatuto do SNS: incentivos e fixação de profissionais",
+ "summary": "Projeto de Lei do CHEGA que altera o Estatuto do Serviço Nacional de Saúde (Decreto-Lei n.º 52/2022) e o decreto-lei das Administrações Regionais de Saúde (DL n.º 22/2012). No artigo 20.º, permite aos estabelecimentos do SNS celebrar protocolos com entidades públicas, privadas ou do setor social, em especial autarquias, para outros incentivos, e assegura aos profissionais de saúde deslocados subsídio de deslocação e habitação. No artigo 28.º, as ARS passam a planear e coordenar inquéritos de satisfação regionais, com resultados públicos. Revoga os artigos 9.º, 44.º e 45.º do Estatuto, e reescreve as atribuições das ARS (artigos 3.º e 5.º do DL 22/2012), incluindo contratação com entidades públicas e privadas. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Protocolos com autarquias e outras entidades para incentivos à fixação de profissionais.",
+  "Subsídio de deslocação e habitação para profissionais de saúde deslocados.",
+  "ARS responsáveis por inquéritos regionais de satisfação com resultados públicos.",
+  "Revogação dos artigos 9.º, 44.º e 45.º do Estatuto do SNS.",
+  "Reforço das atribuições das ARS, incluindo contratação e afetação de recursos."
+ ],
+ "plain_language": "O projeto pretende tornar o SNS mais atrativo para os profissionais em zonas carenciadas, com subsídio de deslocação e habitação e incentivos de autarquias, e dar mais poderes às administrações regionais de saúde. Revoga também alguns artigos do Estatuto do SNS.",
+ "context": "O CHEGA descreve uma degradação do SNS, com falta de profissionais, 1,3 milhões de utentes sem médico de família e custo de cerca de 142 milhões de euros com médicos tarefeiros. Critica o fim da dedicação exclusiva, a obrigação de dedicação exclusiva nos cargos de direção e a figura do «CEO» da saúde, que considera aumento de despesa com competências sobrepostas.",
+ "analysis": "Ponto forte: propõe incentivos concretos de fixação em zonas carenciadas e maior transparência na satisfação dos utentes. Fragilidades: a exposição de motivos tem tom fortemente político e mistura temas (dedicação exclusiva, pactos de permanência, CEO) que o articulado não trata diretamente; não identifica de forma clara o conteúdo dos artigos revogados nem as consequências; o subsídio de deslocação e habitação implica custo não estimado; reforçar as ARS contraria a lógica de coordenação nacional que o Estatuto pretendeu.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio de deslocação e habitação para profissionais deslocados e eventuais incentivos implicam despesa; o texto não indica montantes. A revogação do «CEO» é apresentada como forma de evitar despesa."
+ },
+ "affected": [
+  "profissionais de saúde",
+  "utentes do SNS",
+  "Administrações Regionais de Saúde",
+  "autarquias"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "sns",
+  "estatuto do sns",
+  "incentivos",
+  "fixação de profissionais",
+  "ars"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

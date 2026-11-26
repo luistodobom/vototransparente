@@ -1,0 +1,41 @@
+{
+ "short_title": "Condições para a sesta das crianças no pré-escolar",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que adote as recomendações da Sociedade Portuguesa de Pediatria sobre a sesta, proporcionando a todas as crianças em idade pré-escolar condições adequadas, nomeadamente leito ou colchão, ambiente calmo, escuro, com temperatura adequada, limitação de ruído e vigilância. Recomenda também que cada criança tenha um plano individual de sesta, acordado com a família, e que a sesta seja promovida pela educadora de infância perante manifestações de privação de sono ou necessidade de sesta. O texto refere a petição n.º 566/XIII/4, com mais de quatro mil assinaturas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Proporcionar leito ou colchão, ambiente calmo, escuro, com temperatura adequada, limitação de ruído e vigilância na sesta.",
+  "Plano individual de sesta para cada criança do pré-escolar, acordado com a família.",
+  "A educadora de infância promove a sesta perante sinais de privação de sono ou necessidade de dormir."
+ ],
+ "plain_language": "O PAN pede ao Governo que os jardins de infância ofereçam condições para as crianças dormirem a sesta, com cama ou colchão e um espaço tranquilo, e que cada criança tenha um plano combinado com os pais. Segue recomendações dos pediatras. É uma recomendação, que o Governo pode ou não seguir.",
+ "context": "O PAN cita as recomendações da Sociedade Portuguesa de Pediatria de 2017, segundo as quais a sesta deve ser facilitada até aos 5 ou 6 anos de idade, e a petição n.º 566/XIII/4, com mais de quatro mil assinaturas, que pede condições para a sesta no pré-escolar, argumentando que as crianças deixam de ter onde dormir na escola.",
+ "analysis": "A proposta apoia-se em recomendações de uma sociedade científica e numa petição cidadã, e é concreta quanto às condições necessárias. O texto reconhece que há opiniões divergentes sobre a importância da sesta após os 3 anos e a preparação para a ausência de sesta no 1.º ciclo. Não avalia o custo de equipar as salas, o espaço disponível, nem o impacto nos horários e no pessoal. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Equipar e vigiar espaços de sesta no pré-escolar implica despesa em material e possivelmente em pessoal. O texto não apresenta valores."
+ },
+ "affected": [
+  "crianças do ensino pré-escolar",
+  "educadores de infância",
+  "pais e encarregados de educação",
+  "estabelecimentos de educação pré-escolar"
+ ],
+ "categories": [
+  "educacao",
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "sesta",
+  "pré-escolar",
+  "pediatria",
+  "educação de infância",
+  "sono"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

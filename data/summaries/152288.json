@@ -1,0 +1,41 @@
+{
+ "short_title": "Dessalinização com planeamento e transparência",
+ "summary": "Projeto de Resolução do PSD que, defendendo a dessalinização como complemento às restantes formas de abastecimento de água, pede ao Governo maior fundamentação e transparência na instalação de centrais. Recomenda que divulgue no portal da Agência Portuguesa do Ambiente informação atualizada sobre os processos de instalação, incluindo estudos técnicos e critérios de localização; que apresente o Plano Regional de Eficiência Hídrica do Alentejo, fundamentando a central no Alentejo Litoral e o seu modelo de financiamento; que desenvolva estudos e planos para fundamentar eventuais centrais noutras regiões, nomeadamente no Oeste, identificando o financiamento; e que acelere as medidas de eficiência hídrica. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Divulgar no portal da APA informação, estudos técnicos e critérios de localização sobre as centrais de dessalinização.",
+  "Apresentar o Plano Regional de Eficiência Hídrica do Alentejo, fundamentando a central no Alentejo Litoral e o seu financiamento.",
+  "Desenvolver estudos e planos para eventuais centrais noutras regiões, como o Oeste, com soluções de financiamento.",
+  "Acelerar medidas de eficiência hídrica e sustentabilidade do abastecimento."
+ ],
+ "plain_language": "O PSD apoia a dessalinização da água do mar, mas pede ao Governo que explique melhor onde e porquê instala as centrais, quanto custam e como se pagam, e que não deixe de investir na poupança de água. É apenas uma recomendação.",
+ "context": "O proponente considera que a dessalinização é uma solução a reforçar em regiões costeiras com poucas alternativas, como o Algarve, mas alerta para consumos elevados de energia, para o risco de agravamento do preço da água e para a falta de transparência na escolha de localizações, receando anúncios políticos sem planeamento.",
+ "analysis": "Ponto forte: equilibra o apoio à tecnologia com exigências de planeamento, transparência e eficiência hídrica. Fragilidades: é uma recomendação não vinculativa e não define prazos nem indicadores; algumas críticas ao processo conduzido pelo Governo no Algarve são formuladas de forma genérica; não quantifica custos, nem a tarifa esperada, e não esclarece como compatibilizar a transparência com os procedimentos de avaliação ambiental em curso.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta montantes. Aponta riscos de custos elevados de energia e de agravamento tarifário, e pede a identificação de modelos de financiamento."
+ },
+ "affected": [
+  "consumidores de água",
+  "Algarve, Alentejo Litoral e Oeste",
+  "Agência Portuguesa do Ambiente"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "energia"
+ ],
+ "tags": [
+  "dessalinização",
+  "água",
+  "algarve",
+  "eficiência hídrica",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

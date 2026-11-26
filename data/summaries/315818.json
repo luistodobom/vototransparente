@@ -1,0 +1,42 @@
+{
+ "short_title": "Mais apoio e deferimento tácito no emprego apoiado em mercado aberto",
+ "summary": "O Projeto de Lei n.º 308/XVII/1.ª, do PS, altera o Decreto-Lei n.º 290/2009 para reforçar e simplificar o apoio à contratação de pessoas com deficiência no Programa de Emprego Apoiado em Mercado Aberto. Atualiza os escalões da comparticipação na retribuição, por exemplo 20% da retribuição até 40% do IAS no escalão 1 e 80% até 175% do IAS no escalão 4, consoante a capacidade de trabalho. Cria o deferimento tácito do pedido se o IEFP não decidir em dois meses, com direito ao apoio do escalão 1, e prevê correção posterior se a avaliação indicar outro escalão. As novas regras aplicam-se a contratos em execução e a avaliações pendentes, e a lei entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Atualiza os escalões e tetos da comparticipação do Estado na retribuição, do escalão 1 (20% até 40% do IAS) ao escalão 4 (80% até 175% do IAS).",
+  "Deferimento tácito se o IEFP não decidir no prazo de dois meses.",
+  "No deferimento tácito, a entidade empregadora recebe o apoio do escalão 1 e a diferença é corrigida após a avaliação.",
+  "As novas regras aplicam-se a contratos em execução e a avaliações pendentes.",
+  "Entrada em vigor com o Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "As empresas que contratam pessoas com deficiência recebem do Estado uma ajuda no salário. O PS propõe aumentar essa ajuda, que não é atualizada desde 2015, e impedir que os pedidos fiquem parados: se o IEFP não responder em dois meses, a empresa pode contratar e começa a receber um apoio inicial, ajustado depois quando a avaliação estiver feita.",
+ "context": "O PS afirma que as percentagens e o teto da comparticipação não são atualizados desde 2015, apesar do aumento do salário mínimo e do IAS, e que a análise dos pedidos demora muito, chegando a um ano, apesar do limite legal de dois meses. Considera que isso desincentiva empregadores a contratar pessoas com deficiência.",
+ "analysis": "A proposta ataca dois problemas concretos, o valor dos apoios e a demora administrativa, e prevê um mecanismo de correção posterior. Fragilidades: o deferimento tácito pode levar a pagamentos iniciais que depois se revelem superiores ao devido, e a recuperação de valores não está prevista, apenas o pagamento de diferenças a favor do empregador. Não há estimativa do custo orçamental nem justificação para os novos valores percentuais. O risco de abuso é tratado como residual sem dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atualização dos escalões de comparticipação e o deferimento tácito aumentam o apoio pago às entidades empregadoras. O texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "entidades empregadoras",
+  "IEFP"
+ ],
+ "categories": [
+  "trabalho",
+  "direitos",
+  "administracao"
+ ],
+ "tags": [
+  "emprego apoiado",
+  "deficiência",
+  "IEFP",
+  "IAS",
+  "deferimento tácito"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

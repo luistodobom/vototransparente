@@ -1,0 +1,42 @@
+{
+ "short_title": "Violência sexual com base em imagens e assédio sexual",
+ "summary": "Projeto de Lei do BE que altera o Código Penal e o Código de Processo Penal para proteger vítimas de violência sexual baseada em imagens. Cria o crime de produção ou partilha não consensual de material íntimo ou manipulado, incluindo falsificações profundas (deepfakes): gravar sem consentimento é punido com prisão até 1 ano e divulgar, ceder ou disponibilizar com prisão até 5 anos. Altera o crime de importunação para «assédio sexual», alargando-o a comportamentos digitais e a propostas ou comentários de teor sexual. Torna o novo crime dependente de queixa, salvo exceções, agrava para até 5 anos a pena da devassa da vida privada por divulgação e permite, a pedido da vítima, a suspensão provisória do processo, até cinco anos.",
+ "key_points": [
+  "Cria o artigo 170.º-A do Código Penal: gravar material íntimo sem consentimento (prisão até 1 ano) e divulgá-lo, incluindo deepfakes (prisão até 5 anos).",
+  "Reformula o artigo 170.º como assédio sexual, abrangendo atos exibicionistas, comentários ou propostas de teor sexual e constrangimento a contacto íntimo, com prisão até 1 ano ou multa até 120 dias.",
+  "O novo crime depende de queixa, salvo nos casos previstos ou quando resulte suicídio ou morte da vítima.",
+  "Prevê pena de prisão até 5 anos para quem divulgue, sem consentimento, imagens que devassem a vida privada.",
+  "Permite a suspensão provisória do processo a requerimento livre e esclarecido da vítima, com duração até cinco anos."
+ ],
+ "plain_language": "O BE propõe que seja crime filmar ou partilhar sem consentimento imagens íntimas de alguém, incluindo imagens falsas criadas por computador. Quem divulgar pode ser condenado até 5 anos de prisão. Também alarga o crime de importunação sexual a mensagens e comentários de teor sexual. A vítima poderá pedir que o processo fique suspenso, se assim o quiser.",
+ "context": "O proponente refere que a produção ou partilha não consensual de material íntimo ganhou gravidade com a fotografia e o vídeo digitais e as redes sociais, incluindo a chamada «pornografia de vingança», e que estas condutas devem ser tratadas como crimes contra a liberdade sexual.",
+ "analysis": "A proposta atualiza o Código Penal a fenómenos digitais, incluindo falsificações profundas, e reconhece a vontade da vítima na suspensão do processo. Riscos: o conceito amplo de «comentários de teor sexual» pode gerar incerteza sobre a fronteira da conduta punível; punir quem divulga material recebido a título privado, mesmo lícito, tem de ser articulado com a liberdade de expressão. A dependência de queixa pode limitar a proteção, e a suspensão provisória, ainda que a pedido da vítima, pode ser criticada por reduzir a dissuasão. O texto não dá estimativas de aplicação.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera tipos penais e regras processuais, sem impacto orçamental direto indicado no texto."
+ },
+ "affected": [
+  "vítimas de partilha não consensual de imagens íntimas",
+  "utilizadores de redes sociais",
+  "tribunais e Ministério Público"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "ciencia"
+ ],
+ "tags": [
+  "deepfakes",
+  "pornografia de vingança",
+  "código penal",
+  "assédio sexual",
+  "suspensão provisória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

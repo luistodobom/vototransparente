@@ -1,0 +1,42 @@
+{
+ "short_title": "Travessia Setúbal-Tróia no passe Navegante (PAN)",
+ "summary": "O Projeto de Resolução n.º 401/XVII/1.ª, do PAN, recomenda ao Governo três medidas sobre a travessia fluvial entre Setúbal e Tróia. Primeiro, que promova a renegociação do contrato de concessão com a Atlantic Ferries para integrar a travessia no passe Navegante. Segundo, que garanta transparência na renegociação, com cláusulas claras de serviço público sobre frequência, horários, tarifas acessíveis, integração tarifária e acessibilidade universal. Terceiro, que promova a monitorização regular da utilização e do impacto social e ambiental da travessia. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Renegociar o contrato de concessão com a Atlantic Ferries para integrar a travessia no passe Navegante.",
+  "Garantir transparência e cláusulas de serviço público sobre frequência, horários, tarifas e acessibilidade universal.",
+  "Monitorizar a utilização e o impacto social e ambiental, incluindo redução de tráfego e de emissões.",
+  "É uma recomendação ao Governo, sem força vinculativa."
+ ],
+ "plain_language": "O PAN pede ao Governo que renegoceie com a empresa do ferry de Setúbal a Tróia para que os moradores possam usar o passe Navegante, que ronda 40 euros por mês, em vez de pagar um passe de 99,30 euros. Pede também transparência no processo e acompanhamento dos efeitos.",
+ "context": "O PAN refere que desde 23 de janeiro de 2025 o bilhete individual custa 4,90 euros e o passe mensal 99,30 euros, valores mais de duas vezes superiores ao passe social metropolitano. Cita o parecer da AMT de dezembro de 2024, que recomendou integrar a travessia no Navegante e renegociar a concessão, com compensação à concessionária.",
+ "analysis": "A proposta tem base num parecer de uma entidade reguladora e liga a tarifa à sustentabilidade e à coesão territorial. Não quantifica o custo da compensação à concessionária nem diz quem o suportaria. Não fixa prazos, e a eficácia depende da renegociação e da vontade do Governo, pois a recomendação não é vinculativa. A monitorização proposta é útil para avaliar ganhos, mas os indicadores não são definidos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A integração tarifária provavelmente exigiria compensação pública à concessionária. O texto menciona acordos de compensação mas não indica montantes."
+ },
+ "affected": [
+  "utentes da travessia Setúbal-Tróia",
+  "moradores de Setúbal e da península de Tróia",
+  "Atlantic Ferries",
+  "Área Metropolitana de Lisboa"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "consumidores"
+ ],
+ "tags": [
+  "passe Navegante",
+  "Setúbal",
+  "Tróia",
+  "concessão",
+  "tarifas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

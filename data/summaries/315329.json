@@ -1,0 +1,39 @@
+{
+ "short_title": "Referenciação para privado ou social quando se esgotam os TMRG",
+ "summary": "Projeto de Lei do CH que altera a Base 6 da Lei de Bases da Saúde (Lei n.º 95/2019) para impor ao Estado a obrigação de referenciar os utentes do SNS para atendimento nos setores privado ou social sempre que se esgotem os tempos máximos de resposta garantidos (TMRG). A referenciação deve ser célere e eficaz, garantindo cuidados de qualidade, em tempo útil e próximo da área de residência. O texto acrescenta um novo n.º 2 à Base 6 e renumera os seguintes. A lei entra em vigor no dia seguinte ao da sua publicação. O texto não detalha o modo de financiamento nem o procedimento operacional.",
+ "key_points": [
+  "Obriga o Estado a referenciar utentes do SNS para os setores privado ou social quando os TMRG se esgotam.",
+  "A referenciação deve ser célere e eficaz, em tempo útil e próxima da área de residência.",
+  "Altera a Base 6 da Lei de Bases da Saúde, acrescentando um novo n.º 2.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Se o SNS não conseguir atender um doente dentro do tempo máximo garantido, o Estado passaria a ter de o encaminhar para um hospital ou clínica privada ou social, perto de onde vive. O Chega defende que isto garante cuidados a tempo, sem substituir o SNS.",
+ "context": "O proponente aponta os elevados tempos de espera para consultas de especialidade, exames e cirurgias e o incumprimento dos TMRG, que considera um risco para a saúde dos utentes. Defende que a referência imediata para outros setores é uma solução simples e urgente que complementa o SNS.",
+ "analysis": "Ponto forte: dá previsibilidade ao utente e torna os TMRG exigíveis na prática. Fragilidades: não define quem paga, como, nem os tetos de despesa; não prevê regras de qualidade, fiscalização ou preços dos prestadores; pode desviar recursos do SNS e reforçar a dependência do setor privado; a obrigação, formulada de modo geral, pode ser difícil de cumprir em volume. O texto não apresenta estimativas de impacto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O encaminhamento para o setor privado ou social implicaria pagamento por parte do Estado, mas o texto não indica custos nem fonte de financiamento."
+ },
+ "affected": [
+  "utentes do SNS em lista de espera",
+  "hospitais e unidades do SNS",
+  "prestadores privados e do setor social"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "TMRG",
+  "lista de espera",
+  "lei de bases da saúde",
+  "setor privado",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

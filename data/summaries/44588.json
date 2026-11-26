@@ -1,0 +1,41 @@
+{
+ "short_title": "Respostas de proximidade à população idosa durante a COVID-19",
+ "summary": "O PAN propõe que a Assembleia da República recomende ao Governo três medidas para a população idosa durante a pandemia: elaborar, com as autarquias, um plano específico de resposta de proximidade para garantir contacto, acompanhamento e apoio a quem vive sozinho, isolado ou vulnerável, alargando a todo o país projetos como o RADAR, em prática em Lisboa; criar, com o poder local, uma rede de apoio que assegure o acesso a bens essenciais, incluindo entrega de refeições, alimentos e produtos farmacêuticos em casa; e garantir, com autarquias, juntas de freguesia, ONG, IPSS e associações, que a informação sobre medidas preventivas chega aos mais idosos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Plano de resposta de proximidade, com as autarquias, para idosos isolados ou vulneráveis.",
+  "Alargamento a todo o país de projetos como o RADAR, de Lisboa.",
+  "Rede de apoio com entrega em casa de refeições, alimentos e medicamentos.",
+  "Garantir que a informação sobre prevenção chega aos idosos, com autarquias, IPSS e associações."
+ ],
+ "plain_language": "O PAN pede ao Governo que, com as câmaras e as instituições locais, apoie os idosos que vivem sozinhos durante a pandemia: telefonar-lhes ou visitá-los, levar-lhes comida e medicamentos e explicar-lhes como se proteger. É só uma recomendação.",
+ "context": "O proponente refere que o estado de emergência impõe aos maiores de 70 anos um dever especial de proteção, que a GNR identifica 41.868 idosos a viver sozinhos ou isolados e que Lisboa já tem o projeto RADAR e uma rede de entrega de refeições, que devia ser replicada.",
+ "analysis": "A proposta apoia-se em exemplos que já existem, usa a rede de autarquias e instituições locais e dirige-se a um grupo de risco claro. Fragilidades: não define financiamento, calendário ou responsabilidades de cada entidade, e depende da capacidade e vontade das autarquias, que variam muito. A expressão equacionar a possibilidade de replicar torna o compromisso fraco. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de redes de apoio e planos de proximidade implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "idosos que vivem sozinhos ou isolados",
+  "autarquias",
+  "IPSS e associações",
+  "juntas de freguesia"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "idosos",
+  "covid-19",
+  "isolamento",
+  "projeto radar",
+  "apoio de proximidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

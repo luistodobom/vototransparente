@@ -1,0 +1,40 @@
+{
+ "short_title": "Revogar o Decreto-Lei do SAF-T (Big Brother Fiscal)",
+ "summary": "O CDS-PP propõe a revogação do Decreto-Lei n.º 48/2020, de 3 de agosto, que definiu os procedimentos de submissão do ficheiro SAF-T(PT) da contabilidade para efeitos da Informação Empresarial Simplificada (IES) junto da Autoridade Tributária. O projeto tem três artigos: o objeto, a norma revogatória do decreto-lei e a entrada em vigor no dia seguinte ao da publicação. Segundo o proponente, o decreto-lei não corresponde à letra e ao espírito da Lei n.º 119/2019, tem problemas de exequibilidade prática e foi criticado pela Comissão Nacional de Proteção de Dados, por violar a minimização de dados e permitir um acesso manifestamente excessivo.",
+ "key_points": [
+  "Revoga o Decreto-Lei n.º 48/2020, de 3 de agosto.",
+  "Impede a obrigatoriedade de submissão do SAF-T nas condições definidas por esse decreto-lei.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Este projeto de lei acaba com o decreto do Governo que regulava como as empresas entregam às Finanças o ficheiro com a sua contabilidade (SAF-T). O CDS-PP chama-lhe «Big Brother Fiscal» e diz que o decreto vai além do que a lei permite e ameaça a proteção de dados.",
+ "context": "O proponente refere que a obrigatoriedade do SAF-T gerou preocupações sobre proteção de dados e que a Lei n.º 119/2019 passou a exigir a exclusão de dados de menor relevância ou desproporcionais. Defende que o decreto-lei de 2020 contraria essa lei e cita o parecer da CNPD, que considerou o acesso aos dados excessivo e não imprescindível.",
+ "analysis": "A proposta é direta e apoia-se num parecer de uma entidade independente, a CNPD. Contudo, a revogação pura deixa por definir os procedimentos que a Lei n.º 119/2019 manda fixar por decreto-lei, deixando dúvida sobre se a obrigação de entrega subsiste ou fica sem regulamentação. Também não oferece alternativa para o pré-preenchimento da IES, que a medida original procurava simplificar. O texto não pondera os efeitos na eficiência da fiscalização. Os custos de conformidade para as empresas não são quantificados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A revogação pode afetar a capacidade de controlo e simplificação fiscal da Autoridade Tributária e evita custos de conformidade das empresas; o texto não quantifica."
+ },
+ "affected": [
+  "empresas e sujeitos passivos",
+  "contabilistas certificados",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "direitos"
+ ],
+ "tags": [
+  "SAF-T",
+  "proteção de dados",
+  "Autoridade Tributária",
+  "IES",
+  "revogação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

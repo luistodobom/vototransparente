@@ -1,0 +1,42 @@
+{
+ "short_title": "Melhorar a abordagem em saúde à Esclerose Lateral Amiotrófica",
+ "summary": "Este projeto de resolução do PCP recomenda ao Governo oito medidas para a abordagem em saúde da Esclerose Lateral Amiotrófica (ELA). Pede o reforço do apoio nos custos dos medicamentos não dispensados pelos hospitais e de produtos essenciais como a alimentação entérica; o reforço das Equipas Comunitárias de Suporte em Cuidados Paliativos; a revisão do Sistema de Atribuição de Produtos de Apoio; a contratação de profissionais de saúde para a deteção e tratamento; o reforço das equipas de fisioterapia e outras terapias no SNS; mais apoio e formação aos cuidadores informais, incluindo estabilidade financeira e laboral; o acompanhamento das necessidades de apoio respiratório ao domicílio, com soluções para falhas de energia; e a participação de doentes, famílias e associações.",
+ "key_points": [
+  "Reforçar o apoio nos custos de medicamentos não hospitalares e da alimentação entérica.",
+  "Reforçar as Equipas Comunitárias de Suporte em Cuidados Paliativos em todo o país.",
+  "Rever o Sistema de Atribuição de Produtos de Apoio e contratar profissionais de saúde e de fisioterapia.",
+  "Reforçar o apoio e a formação aos cuidadores informais.",
+  "Assegurar apoio respiratório ao domicílio, incluindo soluções para falhas de energia, e envolver doentes e associações."
+ ],
+ "plain_language": "O PCP pede ao Governo que o SNS apoie melhor as pessoas com ELA: pagar mais dos medicamentos e da alimentação especial, ter equipas de cuidados paliativos em casa em todo o país, dar equipamentos mais depressa, contratar profissionais e apoiar quem cuida dos doentes. Pede ainda que o apoio respiratório em casa tenha solução quando falta a eletricidade. É uma recomendação ao Governo.",
+ "context": "O proponente indica que a ELA afetará cerca de 1.200 pessoas em Portugal, que é progressiva e que a falência respiratória é a principal causa de morte. Defende uma abordagem multidisciplinar e uma resposta comunitária, e aponta atrasos na disponibilização de equipas de cuidados paliativos e custos de medicamentos e alimentação entérica.",
+ "analysis": "A proposta é abrangente e articula saúde, apoio social e participação dos doentes, com medidas práticas como a resposta a falhas de energia na ventilação domiciliária. Fragilidades: não define metas, calendário nem financiamento, e várias medidas (contratação, reforço de equipas) dependem da disponibilidade de profissionais no SNS. Termos como reforçar são vagos e dificultam a avaliação do cumprimento. Como projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais comparticipações, equipas, profissionais e apoios a cuidadores implicam despesa pública adicional; o texto não apresenta montantes."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "cuidadores informais",
+  "profissionais de saúde do SNS",
+  "famílias de doentes"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "ela",
+  "cuidados paliativos",
+  "produtos de apoio",
+  "cuidadores informais",
+  "apoio respiratório"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

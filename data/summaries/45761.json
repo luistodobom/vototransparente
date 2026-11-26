@@ -1,0 +1,39 @@
+{
+ "short_title": "Juntas médicas de doença profissional fora de Lisboa",
+ "summary": "O Bloco de Esquerda recomenda ao Governo que diligencie junto da Caixa Geral de Aposentações e do Departamento de Proteção contra Riscos Profissionais do Instituto de Segurança Social para que as juntas médicas de confirmação e graduação de incapacidade em processo de reparação de doença profissional possam realizar-se de forma desconcentrada no território nacional, também fora de Lisboa. O projeto assenta na constatação de que estas juntas se concentraram em Lisboa, embora até pelo menos 2019 também se realizassem no Porto e, antes, em todas as capitais de distrito. A medida é uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Desconcentrar territorialmente as juntas médicas de confirmação e graduação de incapacidade por doença profissional.",
+  "Articular a Caixa Geral de Aposentações com o Departamento de Proteção contra Riscos Profissionais do ISS."
+ ],
+ "plain_language": "Hoje, quem tem uma doença profissional tem de ir a Lisboa para ser avaliado numa junta médica. O Bloco pede ao Governo que essas juntas voltem a realizar-se também noutras zonas do país, para que os trabalhadores não tenham de viajar centenas de quilómetros. É uma recomendação.",
+ "context": "O proponente considera que a concentração em Lisboa lesa os trabalhadores e viola o princípio da igualdade, por penalizar quem vive longe, com custos pessoais e materiais. Acrescenta que dificulta o direito de indicar um médico à escolha, cujos encargos têm um limite legal, quando este reside longe de Lisboa.",
+ "analysis": "A proposta é concreta e identifica um problema de acesso, com argumentos sobre igualdade territorial e sobre o exercício do direito de indicar médico. Contudo, a justificação da Caixa Geral de Aposentações, a exigência legal de um médico do Departamento, não é refutada em detalhe, e o texto não explica como seria garantida a presença desse médico em várias localidades. Não avalia custos nem alternativas, como as juntas à distância. Sendo recomendação, não obriga a qualquer alteração.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A deslocalização das juntas pode implicar custos de organização e deslocação dos médicos, mas poupa custos aos trabalhadores; o texto não apresenta valores."
+ },
+ "affected": [
+  "trabalhadores com doença profissional",
+  "Caixa Geral de Aposentações",
+  "Instituto de Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude",
+  "administracao"
+ ],
+ "tags": [
+  "doença profissional",
+  "juntas médicas",
+  "incapacidade",
+  "Caixa Geral de Aposentações",
+  "descentralização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

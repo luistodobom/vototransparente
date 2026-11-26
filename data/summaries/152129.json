@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime único do esclarecimento cívico e do direito de antena",
+ "summary": "Projeto de Lei do PAN que reúne num único diploma o regime do esclarecimento cívico e do direito de antena em eleições (Presidente da República, Assembleia da República, assembleias regionais, Parlamento Europeu, autarquias) e referendos nacionais, regionais e locais, hoje disperso por oito diplomas. Obriga também as rádios locais a disponibilizar tempos de antena (30 minutos diários nas eleições presidenciais, legislativas, europeias e no referendo nacional, e 60 minutos nas restantes), com possibilidade de escusa. Substitui as comissões arbitrais por valores de compensação fixados na lei, com base na unidade de conta processual. Prevê esclarecimento cívico em todos os atos eleitorais, distribuído por meios registados na ERC, suspensão do direito de antena, regras sobre publicações e coimas por violações. Texto analisado truncado após o artigo 28.º.",
+ "key_points": [
+  "Regime único para esclarecimento cívico e direito de antena em eleições e referendos.",
+  "Rádios locais passam a ter obrigação expressa de emitir tempos de antena (30 ou 60 minutos diários), com possibilidade de escusa.",
+  "Compensação aos operadores fixada na lei, em vez de comissões arbitrais.",
+  "Esclarecimento cívico em todos os atos eleitorais, distribuído por meios registados na ERC.",
+  "Coimas por incumprimento dos deveres de operadores e publicações."
+ ],
+ "plain_language": "O projeto junta num só diploma as regras sobre tempos de antena e esclarecimento cívico em eleições e referendos, hoje espalhadas por vários diplomas. Passa a incluir as rádios locais e a fixar na lei quanto se paga às rádios e televisões por emitir as mensagens dos partidos.",
+ "context": "O PAN indica que o regime atual está disperso por oito diplomas, trata de forma diferente as rádios e não prevê as rádios locais em quase todas as eleições. Recorda a Recomendação n.º 7/B/2007 do Provedor de Justiça, que criticou comissões arbitrais com maioria de entidades públicas, e pretende dar-lhe resposta.",
+ "analysis": "Ponto forte: uniformiza e clarifica regras, responde à recomendação do Provedor e inclui as rádios locais. Fragilidades: obrigar as rádios locais pode ser oneroso para pequenos operadores, apesar da escusa; a fixação legal dos valores de compensação exige que sejam adequados e atualizados; o impacto financeiro para o Estado não está quantificado; o texto analisado está truncado, pelo que o anexo com os tempos de emissão e o resto do articulado final não foram analisados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A compensação aos operadores pelos tempos de antena passaria a ser fixada por lei, com base na unidade de conta, e as rádios locais passariam a ser compensadas; o texto analisado não indica montantes."
+ },
+ "affected": [
+  "rádios locais, regionais e nacionais",
+  "partidos e candidaturas",
+  "Comissão Nacional de Eleições",
+  "eleitores"
+ ],
+ "categories": [
+  "instituicoes",
+  "comunicacao"
+ ],
+ "tags": [
+  "direito de antena",
+  "esclarecimento cívico",
+  "rádios locais",
+  "eleições",
+  "referendos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

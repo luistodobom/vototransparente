@@ -1,0 +1,39 @@
+{
+ "short_title": "Subsídio de risco para profissionais da linha da frente da Covid-19",
+ "summary": "Projeto de resolução do CHEGA que recomenda ao Governo que atribua um subsídio de risco aos profissionais da linha da frente do combate à pandemia, nomeadamente médicos, enfermeiros, auxiliares de ação médica, elementos das forças de segurança, bombeiros, farmacêuticos, profissionais de segurança privada em unidades hospitalares, militares em contacto direto com infetados e profissionais de lares de idosos e semelhantes. O subsídio seria atribuído enquanto vigorarem as medidas excecionais aprovadas no combate à pandemia. O texto cita notícias sobre falta de equipamentos de proteção no INEM e nas forças de segurança e casos de contágio na PSP.",
+ "key_points": [
+  "Atribuir subsídio de risco aos profissionais da linha da frente da Covid-19.",
+  "Abrange profissionais de saúde, forças de segurança, bombeiros, farmacêuticos, segurança privada em hospitais, militares e lares.",
+  "O subsídio vigora enquanto durarem as medidas excecionais da pandemia."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que pague um subsídio extra a quem trabalha na linha da frente da pandemia, como médicos, enfermeiros, polícias e bombeiros, enquanto durarem as medidas excecionais. É uma recomendação sem força obrigatória.",
+ "context": "O proponente refere notícias sobre falta ou reutilização de equipamento de proteção no INEM, orientações contraditórias nas forças de segurança sobre o uso de máscara e contágios numa esquadra da PSP, e considera urgente um apoio excecional aos profissionais expostos ao risco de infeção.",
+ "analysis": "A proposta reconhece o risco acrescido dos profissionais expostos, mas é pouco concreta: não define o valor do subsídio, a forma de cálculo nem critérios para decidir quem está na linha da frente, e a lista inclui grupos muito diversos. Os exemplos citados provêm de notícias e não se estimam custos. Em alternativa a um subsídio, podia reforçar-se o fornecimento de equipamentos de proteção. É não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A atribuição de um subsídio a vários grupos profissionais implica despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "médicos e enfermeiros",
+  "forças de segurança",
+  "bombeiros",
+  "profissionais de lares de idosos"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de risco",
+  "covid-19",
+  "linha da frente",
+  "profissionais de saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

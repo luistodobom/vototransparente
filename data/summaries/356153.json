@@ -1,0 +1,40 @@
+{
+ "short_title": "Reduzir permanências hospitalares após alta clínica",
+ "summary": "O Projeto de Resolução n.º 590/XVII/1.ª, do LIVRE, recomenda ao Governo que aumente o número de vagas em respostas sociais residenciais, através do reforço do Plano de Recuperação e Resiliência e do PARES 3.0, que reforce a capacidade da Rede Nacional de Cuidados Continuados Integrados e da Rede Nacional de Cuidados Paliativos, com mais unidades e equipas, e que desenvolva e expanda respostas de cuidados domiciliários, com equipas multidisciplinares e articulação entre saúde e serviços sociais. O objetivo é reduzir internamentos de pessoas com alta clínica que não têm para onde ir. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Aumentar as vagas em respostas sociais residenciais, mobilizando o PRR e o PARES 3.0.",
+  "Reforçar a Rede Nacional de Cuidados Continuados Integrados e a de Cuidados Paliativos.",
+  "Aumentar o número de unidades e equipas, para garantir vagas suficientes.",
+  "Expandir cuidados domiciliários com equipas multidisciplinares e articulação saúde-segurança social."
+ ],
+ "plain_language": "Há pessoas que já podem sair do hospital mas ficam internadas porque não têm lar, vaga nos cuidados continuados ou apoio em casa. Isto ocupa camas de que outros doentes precisam. O LIVRE pede ao Governo que crie mais vagas e mais apoio domiciliário. É apenas uma recomendação.",
+ "context": "O LIVRE cita dados do Instituto da Segurança Social: até 14 de janeiro de 2026, havia 734 utentes internados em hospitais públicos a aguardar resposta social e 2034 a aguardar vaga na RNCCI. Aponta como causas a insuficiência de vagas residenciais, sobretudo para idosos, e a falta de alternativas pós-alta.",
+ "analysis": "Pontos fortes: identifica um problema com dados oficiais e propõe medidas que atuam na origem, articulando saúde e segurança social. Fragilidades: não fixa metas, prazos nem orçamento, depende de fundos como o PRR com prazos próprios e as medidas implicam mais profissionais, que escasseiam. Como resolução, não obriga o Governo. A sustentabilidade dos novos serviços após o fim do PRR não é abordada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. Expandir vagas, unidades e equipas domiciliárias implica maior investimento e despesa corrente, com recurso ao PRR e ao PARES 3.0."
+ },
+ "affected": [
+  "utentes com alta clínica internados",
+  "pessoas idosas",
+  "SNS e Segurança Social",
+  "famílias cuidadoras"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "alta clínica",
+  "cuidados continuados",
+  "apoio domiciliário",
+  "pares 3.0"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

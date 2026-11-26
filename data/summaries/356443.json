@@ -1,0 +1,39 @@
+{
+ "short_title": "Pagamento uniforme dos retroativos dos enfermeiros (2018-2021)",
+ "summary": "O Chega propõe que a Assembleia da República recomende ao Governo duas medidas sobre os retroativos devidos aos enfermeiros do SNS pelo descongelamento de carreiras entre 2018 e 2021. A primeira é emitir uma orientação nacional vinculativa para todas as ULS e entidades do SNS, garantindo o reconhecimento e pagamento uniforme dos retroativos e evitando desigualdades territoriais e o recurso massivo aos tribunais. A segunda é criar um mecanismo nacional de regularização administrativa e monitorização, que resolva globalmente as situações pendentes e previna encargos adicionais para o Estado. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Emitir orientação nacional vinculativa para todas as ULS sobre o pagamento uniforme dos retroativos.",
+  "Evitar desigualdades territoriais entre enfermeiros em situações equivalentes.",
+  "Reduzir o recurso massivo aos tribunais.",
+  "Criar um mecanismo nacional de regularização administrativa e monitorização das situações pendentes."
+ ],
+ "plain_language": "Alguns enfermeiros receberam, outros não, valores em atraso resultantes do descongelamento das carreiras entre 2018 e 2021, e muitos tiveram de recorrer a tribunal. O Chega pede ao Governo uma regra única para todos os hospitais e unidades de saúde pagarem de forma igual e resolverem os casos pendentes sem litígio. É só uma recomendação.",
+ "context": "O proponente refere interpretações administrativas diferentes sobre o pagamento de retroativos, com efeitos em alguns casos limitados a 2022, decisões judiciais que reconhecem o direito ao período de 2018 a 2021 e uma litigância massiva contra entidades do SNS. Sublinha a escassez de enfermeiros e a importância de retê-los.",
+ "analysis": "A proposta procura resolver uma desigualdade real e reduzir custos de litigância, uniformizando a prática administrativa. Contudo, o texto não quantifica o valor dos retroativos nem indica a fonte de financiamento, e uma orientação vinculativa nacional pode ter custo orçamental relevante, ainda que antecipado. Não é claro se as decisões judiciais citadas se aplicam a todos os casos, e como resolução não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O pagamento uniforme dos retroativos de 2018 a 2021 implicaria despesa com pessoal no SNS. O texto não indica montantes."
+ },
+ "affected": [
+  "enfermeiros do SNS",
+  "unidades locais de saúde",
+  "Ministério da Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "enfermeiros",
+  "retroativos",
+  "descongelamento de carreiras",
+  "ULS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

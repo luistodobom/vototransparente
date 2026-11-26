@@ -1,0 +1,42 @@
+{
+ "short_title": "Fixação excecional de margens máximas na comercialização de combustíveis",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que fixe, excecionalmente, as margens máximas de comercialização de combustíveis simples ao abrigo do artigo 8.º do Decreto-Lei n.º 31/2006. Recomenda que peça à ERSE, em cinco dias úteis, uma proposta técnica para fixar margens máximas na cadeia de valor da gasolina, do gasóleo e do GPL engarrafado; que publique em 15 dias uma portaria conjunta da Economia e da Energia com margem bruta máxima, vigência inicial de 60 dias renovável e mecanismos de monitorização; que a Autoridade da Concorrência emita parecer prévio; e que a ERSE publique semanalmente um relatório público sobre as margens praticadas.",
+ "key_points": [
+  "Fixar margens máximas de comercialização de combustíveis simples, com base na legislação do sistema petrolífero nacional.",
+  "Pedir à ERSE, em cinco dias úteis, uma proposta técnica para margens máximas em todas as componentes da cadeia.",
+  "Publicar em 15 dias portaria que fixe a margem máxima por 60 dias, renovável mediante relatório da ERSE.",
+  "Obter parecer prévio da Autoridade da Concorrência sobre a compatibilidade com as regras de concorrência.",
+  "Publicação semanal de relatório da ERSE com margens, comparação com o teto e indícios de práticas anticoncorrenciais."
+ ],
+ "plain_language": "Com a subida do preço dos combustíveis devido à guerra no Irão, o LIVRE pede ao Governo que limite, durante um período curto, quanto as empresas podem acrescentar ao preço de venda, para evitar lucros excessivos. A ERSE faria a proposta técnica e publicaria relatórios semanais. É uma recomendação sem força obrigatória.",
+ "context": "O LIVRE refere que, entre finais de fevereiro e meados de março, o gasóleo subiu de 1,596 para 1,915 euros por litro e a gasolina 95 subiu 17 cêntimos. Lembra que a lei de 2021 permite ao Governo fixar margens máximas por portaria e cita um estudo da ENSE que apontou margens máximas históricas durante a pandemia, bem como a decisão da Grécia de limitar margens.",
+ "analysis": "A medida usa um instrumento já previsto na lei e é complementar a descontos fiscais, com salvaguardas de monitorização e parecer da Autoridade da Concorrência. Fragilidades: prazos muito curtos (cinco dias úteis para a ERSE, 15 dias para a portaria) podem comprometer a qualidade técnica; o próprio texto reconhece riscos de ruturas de abastecimento, desinvestimento e efeitos de compensação quando o teto termina. A eficácia depende de a margem ser a causa do aumento, quando a subida resulta sobretudo da matéria-prima. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida regula margens privadas e não implica despesa ou receita diretas identificadas no texto; a monitorização pela ERSE teria custos administrativos, não quantificados."
+ },
+ "affected": [
+  "Consumidores de combustíveis",
+  "Empresas de comercialização de combustíveis",
+  "ERSE e Autoridade da Concorrência"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "margens máximas",
+  "ERSE",
+  "preços",
+  "guerra no Irão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

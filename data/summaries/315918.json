@@ -1,0 +1,40 @@
+{
+ "short_title": "Integra o internato médico na carreira médica",
+ "summary": "O projeto de lei do CHEGA altera os Decretos-Leis n.º 177/2009 e n.º 176/2009 para criar a categoria de \"interno\" como categoria inicial da carreira médica, tanto no regime de trabalho em funções públicas como no do contrato individual de trabalho. O grau de interno passa a adquirir-se com o ingresso no internato médico. Os médicos que estejam a frequentar o internato à data de entrada em vigor são integrados nessa categoria e o tempo de internato já cumprido conta, para todos os efeitos legais, como tempo de serviço na carreira médica. O conteúdo funcional da categoria remete para a legislação do internato médico. A lei entra em vigor com o Orçamento do Estado subsequente à sua aprovação.",
+ "key_points": [
+  "Cria a categoria de \"interno\" como categoria inicial da carreira médica.",
+  "O grau de interno adquire-se com o ingresso no internato médico.",
+  "Os médicos atualmente em internato são integrados na categoria de médico interno.",
+  "O tempo de internato já cumprido conta como tempo de serviço na carreira médica.",
+  "Entra em vigor com o Orçamento do Estado subsequente à aprovação."
+ ],
+ "plain_language": "Hoje, os anos em que um médico faz o internato (formação após o curso) não contam para subir na carreira. Este projeto propõe que o internato passe a fazer parte da carreira médica, como primeiro degrau. Assim, esses anos passariam a contar como tempo de serviço, incluindo para quem já está a fazer o internato.",
+ "context": "O proponente invoca a saída de 1.151 médicos do SNS entre janeiro e outubro, mais de 1,5 milhões de utentes sem médico de família e o facto de o internato, em que os internos têm carga assistencial significativa, não contar para a progressão. Cita um estudo da Ordem dos Médicos em que 92,58% dos inquiridos defendem a integração.",
+ "analysis": "A medida responde a uma reivindicação antiga e reconhecida por profissionais, podendo reforçar a retenção de médicos jovens. O texto, porém, não quantifica os custos: contar o internato como tempo de carreira terá efeitos em progressões e remunerações, mas não há estimativa nem fonte de financiamento além da entrada em vigor com o Orçamento do Estado. Não esclarece também como se articula a remuneração do interno com a de categoria de carreira, nem o impacto na natureza formativa do internato. Remete o conteúdo funcional para legislação existente, deixando pontos em aberto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Contar o tempo de internato para progressão na carreira tende a aumentar a despesa com pessoal do SNS. O texto não apresenta montantes."
+ },
+ "affected": [
+  "médicos internos",
+  "médicos do SNS",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internato médico",
+  "carreira médica",
+  "SNS",
+  "progressão na carreira"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

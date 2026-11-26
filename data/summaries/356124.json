@@ -1,0 +1,43 @@
+{
+ "short_title": "Gestão integrada da água e monitorização das hidroelétricas",
+ "summary": "O Projeto de Resolução n.º 577/XVII/1.ª, do LIVRE, parte das cheias de janeiro e fevereiro de 2026 e das descargas controladas de dezenas de barragens para recomendar ao Governo medidas de gestão integrada dos recursos hídricos. Pede que a Agência Portuguesa do Ambiente monitorize de forma contínua e transparente as centrais hidroelétricas na primavera e verão de 2026, garantindo armazenamento adequado para abastecimento público e caudais ecológicos, e que publique os resultados. Recomenda ainda que se revejam os contratos de concessão em vigor e se incluam nos futuros obrigações mensuráveis de desempenho hídrico e ambiental e critérios de operação em seca e cheia, e que a APA publique anualmente um relatório sobre a gestão de albufeiras em extremos climáticos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Monitorização contínua, rigorosa e transparente das centrais hidroelétricas pela APA na primavera e verão de 2026.",
+  "Garantia de armazenamento adequado e de caudais ecológicos, com prioridade ao abastecimento público e aos ecossistemas.",
+  "Publicação dos resultados da monitorização.",
+  "Revisão e negociação dos contratos de concessão vigentes, com obrigações mensuráveis de desempenho hídrico e ambiental e critérios para seca e cheia.",
+  "Aplicação dos mesmos critérios nos contratos futuros e publicação anual de um relatório da APA sobre gestão de albufeiras em extremos climáticos."
+ ],
+ "plain_language": "Depois de um inverno de chuvas intensas, muitas barragens tiveram de largar água, e o país receia secas no verão. Este projeto pede ao Governo que verifique de perto como as hidroelétricas gerem a água, garanta água para consumo e para os rios, e publique os resultados. Pede também que os contratos com as empresas que exploram as barragens tenham regras claras para períodos de seca e de cheia. É uma recomendação ao Governo.",
+ "context": "O LIVRE invoca dados do IPMA sobre o segundo janeiro mais chuvoso desde 2000, a sucessão de tempestades e o colapso de diques no Mondego, e as descargas de dezenas de barragens com albufeiras perto do máximo. Receia que a água libertada falte depois, num país apontado como dos mais afetados pela seca, e defende que o abastecimento humano e os ecossistemas devem prevalecer sobre a produção imediata de energia.",
+ "analysis": "Pontos fortes: pede transparência e regras claras num tema com impacto direto em segurança de pessoas e abastecimento, e liga a monitorização a obrigações contratuais. Fragilidades: renegociar concessões em vigor pode ser juridicamente complexo e implicar compensações às concessionárias, aspeto não analisado; a recomendação não define indicadores nem metas de caudal; e a APA pode necessitar de meios adicionais para a monitorização contínua. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A monitorização reforçada pode exigir meios na APA, e a revisão de contratos de concessão pode ter efeitos financeiros que não são analisados."
+ },
+ "affected": [
+  "concessionárias de centrais hidroelétricas",
+  "Agência Portuguesa do Ambiente",
+  "populações e utilizadores de água",
+  "agricultores"
+ ],
+ "categories": [
+  "ambiente",
+  "energia",
+  "territorio"
+ ],
+ "tags": [
+  "barragens",
+  "caudais ecológicos",
+  "cheias",
+  "concessões",
+  "recursos hídricos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

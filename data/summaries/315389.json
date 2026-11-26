@@ -1,0 +1,42 @@
+{
+ "short_title": "Prevenir e punir furtos agrícolas (colheitas, gado, combustível)",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo seis medidas contra os furtos em contexto agrícola: reforçar a fiscalização junto dos intermediários de venda de colheitas, combustível, gado e máquinas, com GNR, ASAE e Autoridade Tributária; tornar obrigatória a identificação eletrónica dos animais de uma exploração; desmaterializar e simplificar a apresentação de queixas; promover, em parceria com universidades, marcadores de rastreabilidade da cortiça; criar apoios à instalação de portões e videovigilância nas propriedades; e incentivar e regulamentar contratos coletivos de segurança entre proprietários rurais. O texto defende ainda alterações penais, da competência da Assembleia, que não fazem parte da recomendação.",
+ "key_points": [
+  "Reforçar a fiscalização dos intermediários de venda, com GNR, ASAE e Autoridade Tributária.",
+  "Tornar obrigatória a identificação eletrónica dos animais das explorações agrícolas.",
+  "Simplificar e desmaterializar a apresentação de queixas.",
+  "Desenvolver marcadores de rastreabilidade da cortiça, em parceria com universidades.",
+  "Apoiar portões e videovigilância e regulamentar contratos coletivos de segurança entre proprietários."
+ ],
+ "plain_language": "O CHEGA quer que o Governo combata melhor os roubos no campo, como colheitas, gado, combustível, cobre e máquinas: mais fiscalização a quem compra e revende, animais identificados eletronicamente, queixas feitas online e apoios para câmaras e portões nas explorações. É uma recomendação sem força de lei.",
+ "context": "O proponente cita 8.070 furtos em contexto agrícola registados pela GNR entre 2020 e 2024, 1.639 só em 2024, e 955 detenções desde 2020. Diz que as associações de agricultores consideram os números inferiores à realidade, por falta de queixas ligada à perceção de impunidade, e que os prejuízos podem ser muito superiores ao valor furtado.",
+ "analysis": "A iniciativa responde a uma preocupação real do setor, com dados da GNR. Fragilidades: muitas medidas dependem de recursos de segurança e fiscalização não quantificados, e a recomendação não prevê metas ou financiamento. A alegação de que os números oficiais estão muito abaixo da realidade assenta em associações, sem dados. As alterações penais e a classificação da destruição de sobreiros como crime ambiental são referidas no texto, mas não constam do que é efetivamente recomendado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Apoios a videovigilância e portões, sistemas de identificação e reforço de fiscalização implicam despesa pública, não quantificada."
+ },
+ "affected": [
+  "Agricultores e produtores pecuários",
+  "GNR",
+  "Produtores de cortiça",
+  "Comerciantes e intermediários de produtos agrícolas"
+ ],
+ "categories": [
+  "agricultura",
+  "seguranca"
+ ],
+ "tags": [
+  "furtos agrícolas",
+  "gnr",
+  "campo seguro",
+  "cortiça",
+  "videovigilância"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

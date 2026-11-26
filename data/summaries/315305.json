@@ -1,0 +1,42 @@
+{
+ "short_title": "Consagra o crime de violação como crime público",
+ "summary": "O projeto de lei do Livre altera o Código Penal e o Código de Processo Penal para atribuir natureza pública aos crimes de coação sexual, violação e abuso sexual de pessoa incapaz de resistência. Clarifica que a vítima pode requerer declarações para memória futura (artigo 271.º) e alarga a possibilidade de a vítima requerer o arquivamento do inquérito, com concordância do Ministério Público (novo n.º 3 do artigo 277.º), e a suspensão provisória do processo (artigo 281.º, n.º 8), com a duração até cinco anos nestes casos (artigo 282.º). Revoga os n.ºs 2, 4 e 5 do artigo 178.º do Código Penal e o n.º 9 do artigo 281.º do Código de Processo Penal. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Natureza pública dos crimes de coação sexual, violação e abuso sexual de pessoa incapaz de resistência.",
+  "Clarifica que a vítima pode requerer declarações para memória futura.",
+  "A vítima pode pedir o arquivamento do inquérito, com concordância do Ministério Público.",
+  "Alarga a suspensão provisória do processo, a pedido livre e esclarecido da vítima, à coação sexual, violação e abuso sexual, com duração até cinco anos.",
+  "Revoga os n.ºs 2, 4 e 5 do artigo 178.º do Código Penal e o n.º 9 do artigo 281.º do Código de Processo Penal."
+ ],
+ "plain_language": "O Livre propõe que os crimes de violação e outros crimes sexuais graves possam ser investigados mesmo que a vítima não apresente queixa. Ao mesmo tempo, a vítima fica com mais voz: pode pedir que o seu depoimento seja recolhido antecipadamente, pode pedir o arquivamento do caso e a suspensão do processo, desde que o Ministério Público concorde.",
+ "context": "O Livre refere o debate público sobre o tema e uma petição com mais de 125 mil assinaturas, e opta por uma abordagem que concilia a natureza pública dos crimes com o respeito pela vontade e interesse concreto das vítimas, reconhecendo que a alteração legal é apenas parte do trabalho de combate aos crimes sexuais.",
+ "analysis": "Procura equilibrar o interesse público na investigação com a autonomia da vítima, e dá-lhe instrumentos processuais (memória futura, arquivamento, suspensão). Fragilidades: a redação transcrita do n.º 1 do artigo 178.º mantém a referência a queixa para os crimes listados, o que torna pouco claro como se consagra a natureza pública apenas pela via das revogações; a suspensão provisória em crimes sexuais é controversa por poder levar ao arquivamento sem condenação; e o texto não avalia a carga adicional para o Ministério Público e os tribunais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Mais inquéritos iniciados oficiosamente e mais audições para memória futura poderiam exigir recursos adicionais."
+ },
+ "affected": [
+  "vítimas de crimes sexuais",
+  "Ministério Público",
+  "tribunais",
+  "arguidos"
+ ],
+ "categories": [
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "violação",
+  "crime público",
+  "memória futura",
+  "suspensão provisória",
+  "código penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

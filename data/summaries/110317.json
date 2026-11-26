@@ -1,0 +1,40 @@
+{
+ "short_title": "Isenção de propinas no ensino superior durante a COVID-19",
+ "summary": "O PCP recomenda ao Governo que os estudantes do ensino superior público não sejam obrigados a pagar propinas, taxas e emolumentos enquanto vigorarem as medidas de prevenção, contenção, mitigação e tratamento da COVID-19. A dispensa não deve prejudicar a atribuição de apoios diretos e indiretos da Ação Social Escolar, e as instituições de ensino superior devem ser compensadas pelos valores não cobrados. O projeto recomenda ainda que o Governo garanta que nenhum estudante seja prejudicado por falta de recursos, reforçando a Ação Social Escolar com o aumento do valor das bolsas e do número de estudantes abrangidos pelos apoios diretos. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Isentar de propinas, taxas e emolumentos os estudantes do ensino superior público enquanto durarem as medidas contra a COVID-19.",
+  "Garantir que a dispensa não prejudica o acesso aos apoios da Ação Social Escolar.",
+  "Compensar as instituições de ensino superior pelos valores não cobrados.",
+  "Reforçar a Ação Social Escolar, aumentando as bolsas e o número de estudantes apoiados."
+ ],
+ "plain_language": "Durante a pandemia, o PCP pede que quem estuda numa instituição pública de ensino superior deixe de pagar propinas e outras taxas enquanto as medidas contra a COVID-19 estiverem em vigor, e que o Estado compense as instituições. Pede também mais e maiores bolsas para os estudantes com menos recursos. É uma recomendação ao Governo.",
+ "context": "O proponente afirma que o regime não presencial revelou dificuldades persistentes, como aulas virtuais incompletas, falta de equipamentos e de acesso à internet e disciplinas práticas condicionadas. Acrescenta que muitas famílias perderam rendimentos e que é urgente remover barreiras económicas, também para prevenir abandono e insucesso escolar.",
+ "analysis": "A medida responde a um problema invocado, a perda de qualidade do ensino e de rendimentos das famílias, e prevê a compensação das instituições, evitando um corte de receitas próprias. Fragilidades: a isenção abrange todos os estudantes, sem distinguir por rendimento, o que pode ser menos focado do que reforçar apenas as bolsas; a duração é indefinida, por depender das medidas sanitárias; e não há estimativa de custo. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado teria de compensar as instituições pelas propinas e taxas não cobradas e de reforçar as bolsas, mas o texto não indica montantes."
+ },
+ "affected": [
+  "estudantes do ensino superior público",
+  "instituições de ensino superior",
+  "famílias dos estudantes"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "COVID-19",
+  "ação social escolar",
+  "bolsas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

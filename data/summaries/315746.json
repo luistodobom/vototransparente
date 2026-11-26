@@ -1,0 +1,41 @@
+{
+ "short_title": "Complemento de pensão para militares e militarizados",
+ "summary": "Projeto de Lei do PCP que altera o artigo 2.º do Decreto-Lei n.º 3/2017 sobre o cálculo das pensões de reforma de militares das Forças Armadas, da GNR e do pessoal militarizado. Passa a atribuir um complemento de pensão igual à diferença entre o valor da pensão e 90% da última remuneração na reserva, para os abrangidos pelo regime de convergência e pelo regime geral. Prevê que, sempre que a tabela remuneratória seja alterada, o complemento seja atualizado em função do posto, posição remuneratória e nível que o militar tinha ao passar à reserva. Entra em vigor com a lei do Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Complemento de pensão equivalente à diferença entre a pensão e 90% da última remuneração na reserva.",
+  "Atualização do complemento sempre que mude a tabela remuneratória, com base no posto e nível à data da passagem à reserva.",
+  "Altera o artigo 2.º do Decreto-Lei n.º 3/2017, de 6 de janeiro.",
+  "Entra em vigor com a lei do Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Os militares que passam à reforma podem ver a pensão descer para cerca de metade do que recebiam. O PCP propõe que o Estado pague um complemento para que a pensão fique em 90% do último vencimento na reserva, e que esse valor acompanhe as subidas da tabela salarial.",
+ "context": "O PCP afirma que as sucessivas mudanças na fórmula de cálculo, no âmbito da convergência com o regime geral, têm reduzido as pensões, existindo sete fórmulas diferentes, com casos em que a pensão cai cerca de metade do vencimento no ativo. Defende homogeneizar o valor, nivelando por cima.",
+ "analysis": "A proposta corrige desigualdades entre militares com datas de ingresso distintas e dá previsibilidade ao valor das pensões. Contudo, o texto não quantifica o custo, nem avalia o impacto na sustentabilidade da Caixa Geral de Aposentações e do Orçamento; fixar 90% da última remuneração cria um tratamento mais favorável do que o do regime geral, o que pode suscitar pedidos de equiparação de outras carreiras. A entrada em vigor com o Orçamento do Estado mitiga o risco orçamental no imediato.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O complemento de pensão a 90% da última remuneração aumenta a despesa com pensões; o texto não apresenta estimativa do custo. A produção de efeitos fica ligada ao Orçamento do Estado seguinte."
+ },
+ "affected": [
+  "militares das Forças Armadas na reserva e reforma",
+  "militares da GNR",
+  "pessoal militarizado",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "defesa",
+  "trabalho"
+ ],
+ "tags": [
+  "pensões",
+  "militares",
+  "complemento de pensão",
+  "reserva",
+  "Decreto-Lei 3/2017"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

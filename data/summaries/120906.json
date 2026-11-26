@@ -1,0 +1,42 @@
+{
+ "short_title": "Regime de Proteção do Denunciante (CDS-PP)",
+ "summary": "O CDS-PP propõe criar um regime de proteção do denunciante que estabelece normas mínimas de proteção para quem comunica infrações ao direito nacional e europeu, obtidas no âmbito da sua atividade profissional. Abrange matérias como contratos públicos, branqueamento de capitais, segurança dos produtos e dos transportes, ambiente, saúde pública, defesa do consumidor, proteção de dados e concorrência. Protege trabalhadores, prestadores de serviços, estagiários, voluntários e acionistas, e pode estender-se a facilitadores e familiares. Impõe confidencialidade da identidade do denunciante, conservação das denúncias e proibição de retaliações (como despedimento, despromoção ou assédio), prevê medidas de apoio e proteção e refere a criação de canais de denúncia internos.",
+ "key_points": [
+  "Estabelece normas mínimas de proteção para denunciantes de infrações ao direito nacional e europeu.",
+  "Abrange trabalhadores, prestadores de serviços, estagiários, voluntários e acionistas, incluindo relações laborais já terminadas.",
+  "Garante a confidencialidade da identidade do denunciante e a conservação de registos das denúncias.",
+  "Proíbe retaliações, como despedimento, despromoção, assédio ou inclusão em listas negras.",
+  "Prevê medidas de apoio e proteção, incluindo a proteção das pessoas visadas, e canais de denúncia internos."
+ ],
+ "plain_language": "Quem trabalha numa organização e sabe de corrupção ou outras ilegalidades tem frequentemente medo de denunciar por poder sofrer represálias. Este projeto cria regras para proteger essas pessoas: a identidade fica confidencial, não podem ser despedidas, despromovidas ou perseguidas por terem denunciado, e há canais próprios para fazer a denúncia. Quem cometer um crime para obter provas não fica protegido.",
+ "context": "O CDS-PP considera que o combate à corrupção e à criminalidade organizada é dificultado pela falta de meios e que os denunciantes se inibem por medo de represálias. Defende criar já o regime, sem esperar pela publicação da diretiva europeia sobre a proteção dos denunciantes, de que já se conhecem os termos essenciais.",
+ "analysis": "A iniciativa preenche uma lacuna e acompanha de perto a diretiva europeia, com âmbito material e pessoal amplos e uma lista clara de formas de retaliação. Excluir a proteção de quem obtenha provas de forma ilícita é um equilíbrio relevante. Fragilidades: no texto analisado não constam sanções por incumprimento nem a indicação de uma autoridade responsável, e as obrigações dos canais internos aparecem remetidas para regulamentação. O texto menciona a necessidade de estudar a valoração da prova, mas sem propor medidas concretas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de canais, medidas de apoio e deveres de conservação implicaria custos para entidades públicas e privadas; o texto não os quantifica."
+ },
+ "affected": [
+  "denunciantes",
+  "trabalhadores",
+  "entidades públicas e privadas",
+  "autoridades de investigação"
+ ],
+ "categories": [
+  "justica",
+  "trabalho"
+ ],
+ "tags": [
+  "denunciante",
+  "whistleblowing",
+  "corrupção",
+  "proteção contra retaliação",
+  "diretiva europeia"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

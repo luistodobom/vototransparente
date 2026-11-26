@@ -1,0 +1,43 @@
+{
+ "short_title": "Mecanismo de emergência para regresso de luso-venezuelanos",
+ "summary": "O Grupo Parlamentar do CHEGA recomenda ao Governo que lance de imediato, em resposta aos sismos de 24 de junho de 2026 na Venezuela, um programa de emergência com duração máxima de um ano para apoiar o regresso a Portugal de luso-venezuelanos e lusodescendentes. O programa incluiria a integração no mercado de trabalho através do IEFP, tanto quanto possível em ofício similar ao que tinham, uma ajuda financeira ao assentamento com duração máxima de seis meses e a obtenção simplificada de vistos de residência para lusodescendentes sem nacionalidade portuguesa. Os beneficiários comprometer-se-iam a trabalhar pelo menos três anos em Portugal. Propõe ainda uma iniciativa para agilizar o reconhecimento de graus académicos de médicos luso-venezuelanos, seguindo o precedente do regime excecional de 2009 para médicos cubanos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Lançar um programa de emergência de até um ano para o regresso de luso-venezuelanos.",
+  "Integração profissional pelo IEFP e ajuda financeira ao assentamento por um máximo de seis meses.",
+  "Simplificar a obtenção de vistos de residência para lusodescendentes sem nacionalidade portuguesa.",
+  "Exigir aos beneficiários pelo menos três anos de trabalho em Portugal.",
+  "Agilizar o reconhecimento de graus académicos de médicos luso-venezuelanos."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que ajude os portugueses e lusodescendentes na Venezuela, afetados por terramotos, a voltarem a Portugal: ajuda para arranjar emprego, apoio financeiro durante seis meses e vistos mais fáceis. Em troca, teriam de trabalhar pelo menos três anos em Portugal, e os médicos teriam um processo mais rápido para validar os diplomas. É uma recomendação.",
+ "context": "O proponente descreve os sismos de 24 de junho de 2026, que terão causado devastação na Venezuela, e a longa crise económica do país. Defende que Portugal tem o dever de apoiar a comunidade lusodescendente (estimada em cerca de 1,2 milhões de pessoas) e que o regresso ajudaria a responder à falta de mão-de-obra e à carência de médicos do SNS.",
+ "analysis": "A proposta junta uma resposta humanitária com um objetivo de mão-de-obra e prevê contrapartidas (três anos de trabalho). Fragilidades: não define o custo nem o número de beneficiários, a ajuda financeira não tem valor indicado, e a distinção entre cidadãos e lusodescendentes sem nacionalidade levanta questões de critérios de elegibilidade. A obrigação de permanência por três anos pode levantar dúvidas de aplicação, e o reconhecimento facilitado de diplomas exige salvaguardas de qualidade que o texto não detalha. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A ajuda financeira ao assentamento, o apoio do IEFP e o programa de integração implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "luso-venezuelanos e lusodescendentes",
+  "médicos formados na Venezuela",
+  "IEFP",
+  "SNS"
+ ],
+ "categories": [
+  "imigracao",
+  "internacional",
+  "trabalho"
+ ],
+ "tags": [
+  "Venezuela",
+  "sismos",
+  "emigrantes",
+  "regresso",
+  "lusodescendentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

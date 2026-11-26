@@ -1,0 +1,43 @@
+{
+ "short_title": "Condições de contratação e sucessão de postos na segurança privada",
+ "summary": "O projeto de lei do BE adita os artigos 11.º-A e 21.º-A à Lei n.º 34/2013 (segurança privada). O artigo 11.º-A obriga as entidades adjudicantes, na contratação pública de serviços de segurança privada, a respeitar um preço mínimo de referência fixado anualmente por despacho conjunto da Administração Interna e do Trabalho, ouvida a ACT, considerando os custos fixos do trabalho de lei ou contratação coletiva, e exige o cumprimento das obrigações laborais, tributárias e contributivas, nomeadamente quanto à transmissão de estabelecimento. O artigo 21.º-A regula a sucessão de empresas no posto de trabalho: a mudança de empresa não fundamenta a cessação dos contratos; a nova empresa respeita direitos adquiridos, antiguidade e categoria; a empresa cessante entrega informação sobre os trabalhadores até ao 10.º dia útil anterior; e ambas respondem solidariamente pelos créditos vencidos.",
+ "key_points": [
+  "Preço mínimo de referência anual, fixado por despacho conjunto, nos concursos públicos de segurança privada.",
+  "Obrigação de cumprimento das obrigações laborais, tributárias e contributivas pelas empresas a contratar.",
+  "A mudança de empresa não justifica, por si, a cessação dos contratos de trabalho.",
+  "A empresa cessante entrega à nova a informação sobre os trabalhadores até ao 10.º dia útil anterior ao início do serviço.",
+  "Responsabilidade solidária das duas empresas pelos créditos laborais vencidos e não pagos."
+ ],
+ "plain_language": "Quando o Estado contrata empresas de vigilância, muitas vezes ganha a mais barata, à custa dos salários e dos direitos dos vigilantes. O BE propõe um preço mínimo de referência nos concursos e regras para quando uma empresa substitui outra: os vigilantes mantêm contratos, antiguidade e categoria, e as duas empresas respondem pelas dívidas a esses trabalhadores.",
+ "context": "O proponente afirma que os concursos públicos tendem a adjudicar ao preço mais baixo, comprimindo salários, horários, formação e segurança no trabalho. Defende regras vinculativas para evitar dumping social e concorrência desleal, e para tornar claros os procedimentos em caso de sucessão de empresas e transmissão de estabelecimento.",
+ "analysis": "As medidas dão clareza às regras de sucessão e previnem a perda de direitos dos vigilantes, e o preço mínimo ataca a base da concorrência por salários baixos. Riscos: preços mínimos podem aumentar os custos do Estado e restringir a concorrência, com possíveis questões de compatibilidade com a contratação pública; o artigo 11.º-A tem numeração de números desordenada. A responsabilidade solidária pode dissuadir a entrada de novos operadores. O texto não estima o impacto orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O preço mínimo de referência tenderia a aumentar o custo dos contratos públicos de segurança privada. O texto não apresenta montantes."
+ },
+ "affected": [
+  "vigilantes e trabalhadores de segurança privada",
+  "empresas de segurança privada",
+  "entidades públicas contratantes",
+  "ACT"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "economia"
+ ],
+ "tags": [
+  "segurança privada",
+  "contratação pública",
+  "preço mínimo",
+  "sucessão de empresas",
+  "transmissão de estabelecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoios às famílias monoparentais e escalões do abono",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo o reforço dos apoios às famílias monoparentais e a revisão dos escalões do abono de família. Propõe rever o conceito de agregado monoparental no Decreto-Lei n.º 176/2003, para que não se perca a qualificação quando continue a existir responsabilidade parental principal de um só adulto, incluindo na coabitação com filhos maiores até aos 24 anos a estudar no ensino superior, com dependentes por deficiência ou doença, ou com ascendentes por necessidade comprovada. Recomenda ainda atualizar os escalões de rendimento do abono, reforçar o montante adicional escolar, acelerar o acesso ao Fundo de Garantia dos Alimentos Devidos a Menores e prever dotações no próximo Orçamento do Estado.",
+ "key_points": [
+  "Rever o conceito de agregado monoparental para não o perder automaticamente quando subsista responsabilidade parental principal de um adulto.",
+  "A coabitação com filhos até 24 anos dependentes e a estudar no ensino superior não deve afastar a qualificação.",
+  "Clarificar o regime quando há maior dependente por deficiência, incapacidade ou doença prolongada, ou coabitação temporária com ascendentes.",
+  "Rever e atualizar os escalões de rendimento do abono de família e ponderar alargar o 1.º escalão e os intermédios.",
+  "Reforçar o montante adicional escolar e ponderar estendê-lo até aos 18 anos no ensino obrigatório.",
+  "Reforçar a articulação com o Fundo de Garantia dos Alimentos Devidos a Menores e prever dotações no próximo Orçamento do Estado."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que as famílias com um só adulto responsável não percam o estatuto de monoparentais por situações como ter um filho universitário em casa. Pede também que se atualizem os limites de rendimento para receber o abono de família e que se acelere o pagamento da pensão de alimentos pelo Estado quando o outro progenitor não paga. É uma recomendação.",
+ "context": "O proponente cita dados do INE segundo os quais, em 2015, 50,7% dos nados-vivos foram fora do casamento, e afirma que há mais crianças em agregados pequenos e vulneráveis sustentados por um adulto. Considera que as famílias monoparentais enfrentam riscos sociais e económicos particulares e que famílias trabalhadoras de rendimentos baixos perdem apoio.",
+ "analysis": "A iniciativa visa corrigir situações em que critérios formais retiram a qualificação a famílias que, de facto, dependem de um único adulto. No entanto, as recomendações são abrangentes, sem valores de rendimento, número de beneficiários ou custo, e algumas são condicionadas com \"pondere\". Rever escalões ligados ao IAS tem efeito orçamental relevante que não é estimado, e a execução dependeria de dotações no Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Alargar escalões, reforçar o montante adicional escolar e acelerar prestações aumentaria a despesa com prestações sociais; o texto não indica valores e propõe execução faseada no Orçamento do Estado."
+ },
+ "affected": [
+  "famílias monoparentais",
+  "crianças e jovens beneficiários do abono de família",
+  "famílias com rendimentos baixos e médios-baixos"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "famílias monoparentais",
+  "abono de família",
+  "escalões",
+  "alimentos devidos a menores",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

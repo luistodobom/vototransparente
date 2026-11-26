@@ -1,0 +1,41 @@
+{
+ "short_title": "Regulamentação urgente do Fundo de Emergência para a Habitação",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo que regulamente o Fundo de Emergência para a Habitação no prazo de 30 dias, cumprindo o previsto na Lei do Orçamento do Estado para 2024 e na Resolução da Assembleia da República n.º 12/2025. Recomenda também que o regulamento preveja o financiamento do programa 1.º Direito e da Bolsa Nacional de Alojamento Urgente e Temporário, assegurando recursos para além do PRR. O texto descreve os objetivos do fundo: apoio de emergência a quem perde a habitação, apoio ao pagamento de rendas ou prestações do crédito, apoio a soluções para pessoas sem-abrigo e financiamento de ações para mitigar os efeitos do aumento dos preços da habitação. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Regulamentar o Fundo de Emergência para a Habitação no prazo de 30 dias.",
+  "Cumprir a Lei do Orçamento do Estado para 2024 e a Resolução da AR n.º 12/2025.",
+  "Prever no regulamento o financiamento do programa 1.º Direito e da Bolsa Nacional de Alojamento Urgente e Temporário.",
+  "Assegurar recursos financeiros para além do Plano de Recuperação e Resiliência."
+ ],
+ "plain_language": "Um fundo para ajudar pessoas em risco de perder a casa foi criado no Orçamento do Estado de 2024, mas nunca foi regulamentado. O LIVRE pede ao Governo que o ponha a funcionar em 30 dias e que financie programas de habitação já existentes. É uma recomendação ao Governo.",
+ "context": "O proponente afirma que o fundo, criado por iniciativa do LIVRE na Lei do Orçamento do Estado para 2024, não foi regulamentado, estimando-se uma afetação de mais de 100 milhões de euros anuais. Salienta que os problemas de acesso à habitação continuam a agravar-se e que é essencial operacionalizar o apoio a quem precisa.",
+ "analysis": "A iniciativa tem objetivo claro e um prazo definido, apoiando-se numa obrigação já legislada, o que reforça a sua legitimidade. Fragilidades: o prazo de 30 dias pode ser curto para um regulamento com impacto orçamental; a estimativa de mais de 100 milhões de euros anuais vem de uma notícia e não de dados oficiais; e o texto não define critérios de elegibilidade nem a articulação detalhada com o 1.º Direito, que depende de fundos do PRR.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto refere, a partir de uma notícia, uma afetação estimada de mais de 100 milhões de euros anuais ao fundo; não apresenta cálculo próprio."
+ },
+ "affected": [
+  "pessoas em risco de perder a habitação",
+  "agregados familiares com dificuldade no pagamento de renda ou crédito",
+  "pessoas em situação de sem-abrigo",
+  "IHRU e entidades gestoras de programas de habitação"
+ ],
+ "categories": [
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "fundo de emergência",
+  "habitação",
+  "1.º Direito",
+  "sem-abrigo",
+  "alojamento urgente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

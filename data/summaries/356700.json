@@ -1,0 +1,43 @@
+{
+ "short_title": "Suplemento de risco único para GNR, PSP e Guarda Prisional",
+ "summary": "O projeto de lei propõe aplicar à GNR, à PSP e ao Corpo da Guarda Prisional o regime do suplemento de missão criado em 2023 para a Polícia Judiciária. Cria um «suplemento de risco» que substitui o atual suplemento por serviço e risco, nas componentes fixa e variável. O suplemento seria pago 14 vezes por ano, contaria para o cálculo da reserva, da pré-aposentação e das pensões, e seria indexado à remuneração base do Diretor Nacional da PSP (para a PSP e a Guarda Prisional) ou do Comandante-Geral da GNR (para a GNR), num valor de 19,6% dessa remuneração. Seria abonado com retroação a 1 de julho de 2024, mas só entraria em vigor com o Orçamento do Estado seguinte à publicação. Ficam excluídos o Diretor Nacional da PSP e o Comandante-Geral da GNR.",
+ "key_points": [
+  "Cria o suplemento de risco, que substitui o suplemento por serviço e risco (componentes fixa e variável) na GNR, PSP e Guarda Prisional.",
+  "Valor fixado em 19,6% da remuneração base do Diretor Nacional da PSP ou do Comandante-Geral da GNR, conforme o caso.",
+  "Pagamento mensal, em 14 vezes, com efeitos retroativos a 1 de julho de 2024.",
+  "O suplemento conta para a reserva, a pré-aposentação e as pensões de aposentação e reforma.",
+  "Exclui o Diretor Nacional da PSP e o Comandante-Geral da GNR, que mantêm o suplemento atual.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Os polícias da PSP, os militares da GNR e os guardas prisionais recebem hoje um suplemento por risco com um valor mais baixo do que o suplemento criado para a Polícia Judiciária. Esta proposta quer acabar com essa diferença, dando-lhes um novo suplemento calculado como percentagem do salário do chefe máximo da respetiva força. O valor seria pago 14 vezes por ano e contaria também para a reforma. Teria efeitos desde julho de 2024.",
+ "context": "O proponente (Chega) invoca que o suplemento de missão da Polícia Judiciária, criado em dezembro de 2023, atinge valores muito superiores ao suplemento por serviço e risco da GNR, PSP e Guarda Prisional, o que considera violar o princípio da igualdade. Refere que as negociações entre o Governo e as forças de segurança não chegaram a acordo satisfatório.",
+ "analysis": "A proposta responde a uma desigualdade apontada pelas próprias forças de segurança e dá previsibilidade ao indexar o valor a um cargo de referência. Fragilidades: o texto não quantifica o custo orçamental, apesar de a retroação a 2024 e da abrangência de várias forças implicarem encargos significativos; a indexação à remuneração de um único dirigente cria um valor igual para todas as categorias, o que pode ser contestado por quem tem outras funções; a retroação a data anterior à entrada em vigor levanta questões de segurança jurídica e de disciplina orçamental. A exposição de motivos tem forte componente de crítica política ao Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A substituição do suplemento atual por um valor de 19,6% da remuneração de um dirigente de topo, com efeitos retroativos a julho de 2024, aumenta a despesa com pessoal. O texto não apresenta montantes globais."
+ },
+ "affected": [
+  "militares da GNR",
+  "polícias da PSP",
+  "guardas prisionais"
+ ],
+ "categories": [
+  "seguranca",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "suplemento de risco",
+  "gnr",
+  "psp",
+  "guarda prisional",
+  "remunerações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

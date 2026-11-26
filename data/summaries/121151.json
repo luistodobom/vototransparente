@@ -1,0 +1,42 @@
+{
+ "short_title": "Incentivo à criação e flexibilização de horários de creches",
+ "summary": "Projeto de lei do CDS-PP que cria um programa de incentivo à criação e flexibilização dos horários das creches. No âmbito do programa, o Governo adequa o modelo de financiamento das creches sem fins lucrativos para incentivar horários flexíveis e alargados quando haja necessidade evidente das famílias; promove a constituição de IPSS por iniciativa de empresas, para que possam celebrar acordos com a Segurança Social e financiar creches com horários adequados aos funcionários; e fomenta acordos entre estabelecimentos de infância e entidades empregadoras sobre horários e condições de acesso. O Governo aprova a regulamentação em 90 dias e a lei entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Adequar o financiamento das creches sem fins lucrativos para incentivar horários flexíveis e alargados.",
+  "Promover a constituição de IPSS por iniciativa de empresas, com acordos com a Segurança Social.",
+  "Fomentar acordos entre estabelecimentos de infância e entidades empregadoras.",
+  "Regulamentação pelo Governo em 90 dias.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O CDS-PP quer que as creches funcionem em horários mais adaptados aos pais que trabalham por turnos, à noite ou ao fim de semana. Para isso, o Governo mudaria o financiamento das creches solidárias e ajudaria as empresas a criar as suas próprias creches ligadas a instituições sem fins lucrativos.",
+ "context": "O CDS-PP refere os Censos 2021 (menos 214.286 pessoas do que em 2011) e o valor mais baixo de nascimentos num primeiro semestre em 30 anos, cerca de 37.000. Defende políticas de natalidade e conciliação da vida profissional e familiar, e flexibilização dos horários das creches, especialmente para quem trabalha aos fins de semana, por turnos ou à noite.",
+ "analysis": "A proposta aposta em incentivos em vez de obrigações e junta empresas, Segurança Social e creches, o que pode aumentar a oferta. Fragilidades: é pouco concreta — não define o novo modelo de financiamento, valores, critérios de necessidade evidente nem metas — e fica dependente de regulamentação futura. Horários alargados têm custos de pessoal e levantam a questão do bem-estar das crianças, que o texto apenas menciona. Não há estimativa de custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A adequação do financiamento das creches e os acordos com a Segurança Social implicam mais despesa pública, mas o texto não indica montantes."
+ },
+ "affected": [
+  "pais que trabalham por turnos, à noite ou ao fim de semana",
+  "creches e IPSS",
+  "empresas",
+  "Segurança Social"
+ ],
+ "categories": [
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "creches",
+  "horários flexíveis",
+  "natalidade",
+  "ipss",
+  "conciliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

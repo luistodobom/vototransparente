@@ -1,0 +1,41 @@
+{
+ "short_title": "Resolver os atrasos no processamento das pensões de reforma",
+ "summary": "Projeto de resolução do PSD que recomenda ao Governo que recupere, com carácter de urgência, os atrasos persistentes no processamento das pensões, tanto no Centro Nacional de Pensões como na Caixa Geral de Aposentações. Recomenda ainda que sejam feitas as alterações legislativas necessárias para que os pensionistas não sejam prejudicados, a nível fiscal ou de prestações sociais sujeitas a condição de recursos, pelos atrasos da Administração. O texto recorda compromissos públicos de membros do Governo sobre prazos para reduzir as pendências, a intervenção da Provedora de Justiça e a Lei n.º 119/2019, que permite entregar declaração de substituição de IRS quando as pensões em atraso são pagas de uma só vez. Trata-se de uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Recomenda a recuperação urgente dos atrasos no processamento das pensões.",
+  "Abrange as pensões do Centro Nacional de Pensões e da Caixa Geral de Aposentações.",
+  "Pede alterações legislativas para que os pensionistas não sejam prejudicados fiscalmente pelo atraso.",
+  "Pede também que não sejam prejudicados no acesso a prestações sociais sujeitas a condição de recursos."
+ ],
+ "plain_language": "O PSD pede ao Governo que acabe depressa com a demora na atribuição das pensões de reforma, que deixa muitas pessoas meses ou anos à espera. Pede ainda que, quando a pensão em atraso é paga de uma vez, a pessoa não pague mais IRS nem perca apoios sociais por causa desse pagamento acumulado. É uma recomendação ao Governo, que este não é obrigado a cumprir.",
+ "context": "O PSD argumenta que milhares de cidadãos esperam meses ou anos pela pensão, apesar de promessas do Governo de reduzir as pendências em 2019. Cita a Provedora de Justiça, que considera a situação vexatória, e refere que o pagamento acumulado de valores em atraso prejudica os cidadãos em sede de IRS e de prestações sujeitas a condição de recursos.",
+ "analysis": "A iniciativa aborda um problema concreto e documentado pela Provedora de Justiça, e a segunda recomendação procura corrigir um efeito injusto para os pensionistas. No entanto, é genérica: não fixa prazos, metas, meios ou responsáveis, nem quantifica as pendências, o que dificulta a avaliação do seu cumprimento. Sendo um projeto de resolução, não obriga o Governo. A parte fiscal é vaga quanto à solução legislativa pretendida, e o texto tem forte componente de crítica política ao Governo, em detrimento de propostas operacionais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A recuperação das pendências e a eventual correção fiscal poderiam implicar despesa e perda de receita, mas não há estimativas."
+ },
+ "affected": [
+  "pensionistas à espera de pensão",
+  "trabalhadores a aproximar-se da reforma",
+  "Segurança Social",
+  "Caixa Geral de Aposentações"
+ ],
+ "categories": [
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "pensões",
+  "segurança social",
+  "caixa geral de aposentações",
+  "atrasos",
+  "irs"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

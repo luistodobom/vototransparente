@@ -1,0 +1,39 @@
+{
+ "short_title": "Subsídio de doença a 100% e sem limite para cancro",
+ "summary": "Projeto de Lei do CHEGA que altera os artigos 16.º, 21.º e 23.º do Decreto-Lei n.º 28/2004 para reforçar o subsídio de doença em caso de doença oncológica. Prevê que, tal como na tuberculose, o montante diário corresponda a 100% da remuneração de referência. Elimina o período de espera nestas situações e determina que a concessão do subsídio por incapacidade decorrente de tuberculose ou doença oncológica não está sujeita aos limites temporais gerais, mantendo-se enquanto durar a incapacidade. A lei entra em vigor com o Orçamento do Estado subsequente à sua aprovação.",
+ "key_points": [
+  "Subsídio de doença a 100% da remuneração de referência na doença oncológica.",
+  "Sem período de espera para tuberculose ou doença oncológica.",
+  "Subsídio sem limites temporais gerais enquanto se mantiver a incapacidade.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O CHEGA propõe que quem tem cancro e fica de baixa receba 100% do seu salário de referência, sem esperar para começar a receber e sem limite de tempo enquanto durar a incapacidade. A mudança aplicava-se depois da aprovação do Orçamento do Estado seguinte.",
+ "context": "O proponente defende que a doença oncológica não deve trazer perda de rendimento, invoca os artigos 63.º e 64.º da Constituição, o apoio de cerca de dois milhões de euros por ano da Liga Portuguesa Contra o Cancro e o regime reforçado já existente para a tuberculose. Sustenta que proteger o rendimento favorece o regresso ao trabalho.",
+ "analysis": "Tem a vantagem de dar proteção plena e estabilidade a doentes com tratamentos longos, e de eliminar o limite temporal, que é mais abrangente do que outras propostas semelhantes. A fragilidade é a ausência de estimativa de custo e de critérios de certificação, bem como o risco de a ausência de limite de duração criar desincentivos ou dificuldades de controlo. O articulado numera o artigo da entrada em vigor como 4.º e o texto tem imprecisões formais. Não aborda outras doenças graves.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio de 100%, sem período de espera e sem limite de duração, aumenta a despesa da Segurança Social; o texto não apresenta montantes."
+ },
+ "affected": [
+  "doentes oncológicos",
+  "trabalhadores em baixa médica",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "saude"
+ ],
+ "tags": [
+  "subsídio de doença",
+  "doença oncológica",
+  "tuberculose",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

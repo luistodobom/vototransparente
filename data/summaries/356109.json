@@ -1,0 +1,41 @@
+{
+ "short_title": "Verificação urgente da segurança de infraestruturas críticas",
+ "summary": "O Projeto de Resolução do CHEGA recomenda ao Governo três medidas sobre a segurança de pontes, barragens e outras infraestruturas críticas. Pede uma avaliação técnica aprofundada e sistemática do estado estrutural, com carácter de urgência, considerando os efeitos acumulados das recentes intempéries e o envelhecimento dos materiais. Pede inspeções especializadas por entidades técnicas independentes, com metodologias avançadas de diagnóstico. Pede ainda articulação efetiva entre a administração central, as autarquias e as entidades concessionárias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Avaliação técnica urgente e sistemática do estado estrutural de pontes, barragens e outras infraestruturas críticas.",
+  "Inspeções especializadas por entidades técnicas independentes com metodologias avançadas.",
+  "Articulação entre administração central, autarquias e concessionárias."
+ ],
+ "plain_language": "Depois das tempestades recentes, o CHEGA pede ao Governo que mande verificar com urgência se pontes, barragens e outras obras importantes continuam seguras, com inspeções feitas por entidades independentes e com as várias entidades a trabalhar em conjunto.",
+ "context": "O proponente afirma que o envelhecimento das estruturas, somado a precipitação intensa, cheias rápidas e erosão, aumenta o risco de falhas, algumas pouco visíveis. Defende que a prevenção deve preceder a tragédia.",
+ "analysis": "A proposta é razoável como princípio de prevenção e pede independência nas inspeções. Contudo, é muito genérica: não define quais são as infraestruturas críticas, prazos, prioridades nem financiamento, e não refere as inspeções e planos de segurança que já existam. Uma avaliação de todo o território é potencialmente muito dispendiosa e o texto não quantifica o problema com dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Inspeções e avaliações em todo o território implicam despesa pública, e eventuais obras de reparação adicionais. O texto não indica montantes."
+ },
+ "affected": [
+  "população junto de pontes e barragens",
+  "entidades gestoras de infraestruturas",
+  "autarquias",
+  "concessionárias"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "territorio"
+ ],
+ "tags": [
+  "pontes",
+  "barragens",
+  "segurança estrutural",
+  "inspeções",
+  "intempéries"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

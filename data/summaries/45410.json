@@ -1,0 +1,42 @@
+{
+ "short_title": "Reduzir o desperdício alimentar e promover consultas de nutrição",
+ "summary": "O Bloco de Esquerda recomenda ao Governo quatro medidas. Primeiro, um estudo de quantificação, origem, tipologia e potencial de utilização dos alimentos desperdiçados ao longo de toda a cadeia de produção, distribuição e consumo. Segundo, com base nesse estudo, a criação de micro-indústrias de transformação, conservação e valorização de alimentos que incorporem desperdícios da produção e distribuição. Terceiro, uma maior proximidade geográfica entre produção e consumo. Quarto, um plano de investimento público para garantir consultas de nutrição em todos os centros de saúde, promovendo hábitos alimentares saudáveis e melhor planeamento das compras. É uma recomendação ao Governo, sem caráter vinculativo.",
+ "key_points": [
+  "Realizar um estudo de quantificação e origem do desperdício alimentar em toda a cadeia.",
+  "Criar micro-indústrias de transformação e valorização de alimentos que seriam desperdiçados.",
+  "Promover maior proximidade geográfica entre produção e consumo.",
+  "Criar um plano de investimento público para consultas de nutrição em todos os centros de saúde."
+ ],
+ "plain_language": "Perde-se muita comida antes de chegar ao prato ou depois de comprada. O Bloco pede ao Governo que meça melhor esse desperdício, apoie pequenas indústrias que aproveitem alimentos que seriam deitados fora, aproxime quem produz de quem consome e ofereça consultas de nutrição nos centros de saúde. É uma recomendação.",
+ "context": "O proponente cita dados da FAO, da UE (88 milhões de toneladas em 2012, 143 mil milhões de euros de custos) e do estudo PERDA para Portugal (1 milhão de toneladas em 2012, 17% da produção). Considera o desperdício um problema social, climático e económico e defende que melhores estudos e circuitos de proximidade reduzem as perdas.",
+ "analysis": "A proposta liga desperdício alimentar, economia local e saúde pública, e começa por melhorar a base de dados, o que é metodologicamente sensato. Fragilidades: a medida das consultas de nutrição em todos os centros de saúde é de custo potencialmente elevado, sem estimativa, e o nexo causal com a redução do desperdício é apresentado de forma indireta; as micro-indústrias dependem do resultado de um estudo ainda por fazer; e «maior proximidade» é pouco concreta. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O estudo, o apoio às micro-indústrias e o plano de consultas de nutrição em todos os centros de saúde implicam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "consumidores",
+  "produtores e distribuidores de alimentos",
+  "utentes dos centros de saúde",
+  "nutricionistas"
+ ],
+ "categories": [
+  "ambiente",
+  "saude",
+  "agricultura"
+ ],
+ "tags": [
+  "desperdício alimentar",
+  "nutrição",
+  "centros de saúde",
+  "economia circular",
+  "produção local"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

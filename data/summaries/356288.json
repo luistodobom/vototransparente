@@ -1,0 +1,39 @@
+{
+ "short_title": "Reforço da resposta pública à ELA",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo três medidas para reforçar a resposta pública às pessoas com Esclerose Lateral Amiotrófica (ELA). Pede que avalie e consolide instrumentos de recolha e monitorização de dados sobre a ELA, para melhorar o conhecimento epidemiológico e assistencial e o planeamento de recursos; que implemente um regime de comparticipação especial de medicamentos, dispositivos médicos e produtos de apoio para estes doentes; e que desenvolva, com as associações de doentes, uma estratégia integrada de sensibilização e consciencialização sobre a doença. O texto não define prazos, percentagens de comparticipação nem financiamento.",
+ "key_points": [
+  "Avaliar e consolidar instrumentos de recolha e monitorização de dados sobre a ELA.",
+  "Implementar um regime de comparticipação especial de medicamentos, dispositivos médicos e produtos de apoio.",
+  "Desenvolver, com as associações de doentes, uma estratégia de sensibilização e consciencialização."
+ ],
+ "plain_language": "O Chega pede ao Governo que passe a registar e acompanhar melhor os casos de ELA em Portugal, que pague uma parte maior dos medicamentos, equipamentos e produtos de apoio destes doentes e que faça campanhas de informação em conjunto com as associações. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "O proponente refere que não existe um registo nacional atualizado de doentes e que os últimos dados disponíveis apontavam, em 2016, para uma prevalência de 10,32 casos por 100 mil habitantes, com cerca de 1200 pessoas afetadas. Invoca a Sociedade Portuguesa de Pneumologia e a APELA para sublinhar a importância do diagnóstico precoce e de uma resposta multidisciplinar.",
+ "analysis": "A proposta é curta e identifica bem duas lacunas, a falta de dados e o custo para os doentes. A criação de um regime de comparticipação especial é a medida mais relevante, mas o texto não indica o âmbito, a percentagem nem o custo. Não aborda cuidados multidisciplinares, apoio a cuidadores ou agilização de produtos de apoio, que outras iniciativas sobre o tema incluem. Refere apenas avaliar e consolidar dados, sem criar o registo. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Um regime de comparticipação especial de medicamentos, dispositivos e produtos de apoio implica despesa pública adicional; o texto não a quantifica."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "famílias e cuidadores",
+  "utentes do SNS",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "ela",
+  "comparticipação",
+  "registo de doentes",
+  "sensibilização",
+  "doenças raras"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

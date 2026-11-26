@@ -1,0 +1,39 @@
+{
+ "short_title": "Prorrogar o subsídio de desemprego e o subsídio social de desemprego",
+ "summary": "O PEV recomenda ao Governo três medidas: prorrogar excecionalmente por mais seis meses o subsídio social de desemprego que tenha cessado em dezembro de 2020 ou termine em 2021; alargar a prorrogação de seis meses do subsídio de desemprego aos desempregados cujo período terminou em dezembro; e reduzir de 180 para 60 dias (um terço) o período exigido para aceder ao Apoio aos Desempregados de Longa Duração, contado desde o fim do subsídio social. O texto refere que o artigo 154.º do Orçamento do Estado para 2021 prorroga por seis meses os subsídios que terminem em 2021, mas deixa de fora quem terminou a 31 de dezembro e quem recebe subsídios sociais.",
+ "key_points": [
+  "Prorrogar por seis meses o subsídio social de desemprego que terminou em dezembro de 2020 ou termine em 2021.",
+  "Estender igual prorrogação aos desempregados cujo subsídio terminou em dezembro.",
+  "Reduzir de 180 para 60 dias o prazo de acesso ao Apoio aos Desempregados de Longa Duração.",
+  "É uma recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O PEV pede ao Governo que não deixe sem apoio os desempregados cujo subsídio terminou no fim de 2020: prolongar por seis meses os subsídios e acelerar o acesso a um apoio para desempregados de longa duração. Por ser um projeto de resolução, é uma recomendação.",
+ "context": "O PEV nota que a prorrogação prevista no Orçamento do Estado para 2021 deixa de fora milhares de pessoas cujo subsídio cessou a 31 de dezembro e os beneficiários de subsídios sociais, num contexto de crise pandémica e de aumento do desemprego, criando um vazio de proteção.",
+ "analysis": "A proposta corrige uma lacuna de cobertura entre diferentes datas e prestações e protege rendimentos de pessoas vulneráveis. Fragilidades: aumenta despesa da Segurança Social sem estimativa, não define o prazo de duração das medidas nem aborda os incentivos à reintegração no emprego; a redução do prazo de 180 para 60 dias sobrepõe-se a outros apoios. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A prorrogação dos subsídios e o acesso mais rápido ao apoio aos desempregados de longa duração aumentariam a despesa da Segurança Social, que o texto não quantifica."
+ },
+ "affected": [
+  "desempregados sem subsídio",
+  "beneficiários de subsídio social de desemprego",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de desemprego",
+  "subsídio social de desemprego",
+  "desemprego de longa duração",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

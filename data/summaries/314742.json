@@ -1,0 +1,40 @@
+{
+ "short_title": "Parcerias em saúde com os setores privado e social quando houver ganhos",
+ "summary": "O PSD recomenda ao Governo que promova parcerias em saúde com entidades do setor social e privado, seja para a gestão privada de unidades do SNS, seja para a realização direta de prestações a utentes do SNS, sempre que tal contribua para mais ganhos em saúde, especialmente para doentes, e se afigure vantajoso para o interesse público, nomeadamente no binómio qualidade-custos. Recomenda ainda que avalie a pertinência de contratos-programa com autarquias locais ou outras pessoas coletivas públicas para prestações públicas de saúde, desde que preenchidas as mesmas condições. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Promover parcerias com o setor social e privado para a gestão de unidades do SNS ou para prestações diretas a utentes.",
+  "As parcerias só se justificam com mais ganhos em saúde e vantagem para o interesse público, no binómio qualidade-custos.",
+  "Avaliar contratos-programa com autarquias e outras entidades públicas para prestações de saúde."
+ ],
+ "plain_language": "O PSD pede ao Governo que, quando isso trouxer melhor saúde para os doentes e for mais vantajoso para o interesse público, faça acordos com entidades privadas e sociais, e também com autarquias, para gerir unidades do SNS ou prestar cuidados aos utentes. O pedido não obriga o Governo.",
+ "context": "O PSD cita o relatório do Tribunal de Contas de 2021, segundo o qual as PPP hospitalares foram genericamente mais eficientes do que hospitais públicos comparáveis e poupança estimada de 203,3 milhões de euros. Atribui ao fim da gestão privada dos hospitais de Braga, Vila Franca de Xira e Loures a saída de profissionais, aumento de listas de espera e diminuição da satisfação dos utentes.",
+ "analysis": "A proposta tem condições claras, pede regras de transparência, regulação e fiscalização e mantém a gestão do SNS como primordialmente pública. Fragilidades: a nota justificativa apresenta apenas resultados favoráveis das PPP e usa linguagem partidária, e a relação causal entre o fim das PPP e a degradação dos serviços é afirmada sem dados. O texto é genérico, não indica quais unidades, nem as regras de transparência ou os critérios de vantagem. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto prevê poupanças e ganhos de eficiência mas não apresenta montantes para o futuro. O efeito dependeria dos contratos celebrados."
+ },
+ "affected": [
+  "utentes do SNS",
+  "unidades do SNS",
+  "entidades dos setores privado e social",
+  "autarquias locais"
+ ],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "PPP",
+  "SNS",
+  "parcerias em saúde",
+  "gestão clínica",
+  "contratos-programa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Maior estabilidade nos contratos de arrendamento",
+ "summary": "O BE propõe a 78.ª alteração ao Código Civil. Altera os artigos 1054.º, 1094.º, 1095.º e 1097.º: o prazo da renovação passa a ser igual ao do contrato; todos os contratos com prazo certo são renováveis; o prazo do contrato de arrendamento habitacional não pode ser inferior a cinco anos (nem superior a 30); e a denúncia e oposição à primeira renovação pelo senhorio só produzem efeitos decorridos cinco anos da celebração. Repristina ainda a versão do artigo 1102.º dada pela Lei 6/2006. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Prazo mínimo de cinco anos (máximo de 30) para o arrendamento habitacional.",
+  "Todos os contratos com prazo certo passam a ser renováveis, o que impede contratos anuais não renováveis.",
+  "O prazo de renovação é igual ao do contrato.",
+  "A oposição do senhorio à primeira renovação só produz efeitos após cinco anos.",
+  "Repristina a versão do artigo 1102.º do Código Civil de 2006."
+ ],
+ "plain_language": "O BE quer que os contratos de arrendamento para habitação durem pelo menos cinco anos e sejam sempre renováveis, para que os inquilinos não vivam com a incerteza de perder a casa todos os anos. O senhorio só poderia opor-se à primeira renovação depois de passados cinco anos.",
+ "context": "O BE argumenta que a liberalização do arrendamento de 2012 reduziu os prazos mínimos e permitiu contratos anuais, criando insegurança e pressão sobre os inquilinos. Refere que os senhorios têm contornado a norma do artigo 1097.º com contratos anuais não renováveis e que Espanha tem um mínimo de cinco anos.",
+ "analysis": "A iniciativa reforça a estabilidade de quem arrenda e fecha uma lacuna de contratos não renováveis. Fragilidades: restringe fortemente a liberdade contratual, o que pode levar senhorios a retirar imóveis do mercado de arrendamento ou a aumentar rendas à entrada, efeito que o texto não avalia; a repristinação do artigo 1102.º é tecnicamente remissiva e o seu impacto não é explicado no texto; não há medidas de compensação para pequenos senhorios.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa ou receita pública; altera regras de direito privado entre senhorios e inquilinos."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "candidatos a arrendamento"
+ ],
+ "categories": [
+  "habitacao",
+  "consumidores"
+ ],
+ "tags": [
+  "arrendamento",
+  "código civil",
+  "contratos",
+  "duração mínima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

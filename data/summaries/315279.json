@@ -1,0 +1,41 @@
+{
+ "short_title": "Mais residências públicas para estudantes no distrito do Porto",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que calendarize, planifique e garanta o financiamento, até ao final de 2026, das residências públicas previstas no Plano Nacional para o Alojamento no Ensino Superior (PNAES) para o distrito do Porto: duas residências novas e a requalificação de quatro na Universidade do Porto, e três residências para o Politécnico do Porto. Recomenda também identificar equipamentos públicos pouco usados que possam ser transformados em residências e fazer um recenseamento de outras necessidades, com resposta até ao fim da legislatura. É uma recomendação.",
+ "key_points": [
+  "Calendarizar e financiar até ao final de 2026 duas residências novas e a requalificação de quatro na Universidade do Porto.",
+  "Calendarizar e financiar até ao fim de 2026 três residências públicas para o Politécnico do Porto.",
+  "Identificar equipamentos públicos subutilizados que possam ser convertidos em residências de estudantes.",
+  "Recensear outras necessidades e calendarizar a resposta até ao fim da legislatura."
+ ],
+ "plain_language": "O PCP quer que o Governo cumpra as obras de residências públicas para estudantes no Porto que estavam previstas e atrasadas, e que encontre edifícios públicos vazios para criar mais camas. Hoje há poucas camas públicas para muitos estudantes deslocados, que recorrem a quartos caros no mercado privado.",
+ "context": "O proponente afirma que há mais de 60 mil alunos no ensino superior público do distrito, cerca de 24 mil deslocados e apenas 1443 camas públicas. Diz que o PNAES nunca teve financiamento adequado, que as obras estão atrasadas e que a ausência de referências ao plano no Programa do Governo o preocupa; o preço médio de um quarto ronda os 400 euros.",
+ "analysis": "A proposta aponta um défice evidente de camas públicas e propõe metas e prazos concretos para obras já planeadas. Fragilidades: não estima o custo, nem indica fontes de financiamento além de pedir que sejam asseguradas, e o prazo até ao fim de 2026 pode ser irrealista para construção nova. Centra-se apenas no distrito do Porto e não discute alternativas, como a contratação de camas no mercado privado ou parcerias. Os números citados não têm fonte no texto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda financiar a construção e a requalificação de residências públicas. O texto não quantifica os custos."
+ },
+ "affected": [
+  "estudantes do ensino superior deslocados",
+  "Universidade do Porto",
+  "Instituto Politécnico do Porto",
+  "famílias dos estudantes"
+ ],
+ "categories": [
+  "educacao",
+  "habitacao"
+ ],
+ "tags": [
+  "residências de estudantes",
+  "alojamento estudantil",
+  "PNAES",
+  "Porto",
+  "ensino superior"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

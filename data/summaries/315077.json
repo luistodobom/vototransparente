@@ -1,0 +1,40 @@
+{
+ "short_title": "Preço máximo do gás de botija",
+ "summary": "O projeto de lei do PCP propõe fixar um preço máximo de venda ao público de 20 euros, com impostos incluídos, para a botija de 13 kg de GPL butano, servindo este valor de referência para as restantes variantes e tipos de garrafas. O Governo teria 90 dias para regulamentar a lei, definindo as margens na produção, distribuição e venda e a adequação fiscal. A ERSE monitorizaria a medida e proporia atualizações anuais em função dos custos e do índice de preços. Os preços máximos entrariam em vigor 120 dias após a publicação.",
+ "key_points": [
+  "Preço máximo de 20 euros, com impostos, para a botija de GPL butano de 13 kg.",
+  "Esse preço serve de referência para as outras variantes e tipos de garrafa.",
+  "Governo regulamenta em 90 dias, definindo margens máximas e adequação fiscal.",
+  "A ERSE monitoriza e propõe atualizações anuais do preço máximo.",
+  "Os preços máximos entram em vigor 120 dias após a publicação."
+ ],
+ "plain_language": "A proposta limita o preço a que pode ser vendida a botija de gás de 13 kg, fixando um máximo de 20 euros. A entidade reguladora da energia acompanharia a medida e sugeriria atualizações todos os anos.",
+ "context": "O PCP afirma que mais de 2,2 milhões de famílias dependem do gás de botija e que em Portugal o preço, entre 33 e 37 euros em janeiro de 2025, é muito superior ao de Espanha, onde é regulado. Defende que a diferença não tem justificação técnica nem fiscal e propõe também alterações fiscais, noutras iniciativas.",
+ "analysis": "A medida dá previsibilidade e alivia o custo para famílias de menores rendimentos e do interior. Contudo, a viabilidade do preço de 20 euros assenta em reduções fiscais que o texto atribui a outras propostas e não estão neste projeto; sem elas, as margens da cadeia podem ser comprimidas. Tetos de preço podem também afetar a oferta ou a distribuição, e o texto não define o mecanismo concreto de margens, remetendo-o para regulamentação.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Este projeto fixa apenas o preço máximo; o texto menciona que a viabilidade depende de uma redução da carga fiscal de cerca de 5 euros por botija proposta separadamente, sem quantificar o impacto orçamental."
+ },
+ "affected": [
+  "famílias que usam gás de botija",
+  "distribuidores e comercializadores de GPL",
+  "empresas petrolíferas"
+ ],
+ "categories": [
+  "energia",
+  "consumidores"
+ ],
+ "tags": [
+  "gás de botija",
+  "GPL",
+  "preço máximo",
+  "ERSE"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

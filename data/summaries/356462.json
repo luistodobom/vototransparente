@@ -1,0 +1,39 @@
+{
+ "short_title": "Nova vaga do PARES para creches e infância",
+ "summary": "O projeto de resolução do PS recomenda ao Governo que expanda as respostas sociais para a infância, em particular as creches. Propõe o lançamento de uma nova vaga de equipamentos no âmbito do PARES, dirigida especificamente à infância e com prioridade aos concelhos das áreas metropolitanas com maior carência de vagas. Recomenda ainda uma linha específica de financiamento para creches de iniciativa municipal, apoiando a instalação de equipamentos e o reforço de vagas nas respostas já existentes, valorizando o papel dos municípios. Sendo um projeto de resolução, trata-se de uma recomendação ao Governo, sem carácter vinculativo.",
+ "key_points": [
+  "Recomenda uma nova vaga de equipamentos do PARES dirigida à infância.",
+  "Dá prioridade aos concelhos das áreas metropolitanas com maior falta de vagas.",
+  "Propõe uma linha de financiamento específica para creches de iniciativa municipal.",
+  "Abrange a instalação de novos equipamentos e o reforço de vagas nos existentes."
+ ],
+ "plain_language": "O Partido Socialista pede ao Governo que abra um novo concurso de apoio à construção de creches e outras respostas para crianças pequenas, sobretudo nas zonas de Lisboa e Porto onde há menos vagas. Pede também apoios próprios para as câmaras municipais que queiram criar creches. É apenas uma recomendação: o Governo não é obrigado a cumprir.",
+ "context": "O proponente afirma que a oferta de vagas em respostas para a infância fica aquém da procura, sobretudo nas áreas metropolitanas, e que a última reprogramação do PRR retirou financiamento a vários equipamentos sociais sem alternativa. Considera as autarquias atores importantes pela proximidade às necessidades locais.",
+ "analysis": "A proposta responde a um problema real de falta de vagas e valoriza a descentralização para os municípios. Fragilidades: não indica montantes, calendário nem fonte de financiamento, e a crítica à reprogramação do PRR é política e não demonstrada no texto. Sendo uma recomendação, depende da vontade do Governo. A nova linha poderia sobrepor-se a programas existentes, sem que o texto explique a articulação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma nova vaga do PARES e de uma linha de financiamento municipal implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "famílias com crianças pequenas",
+  "municípios",
+  "instituições do setor social"
+ ],
+ "categories": [
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "creches",
+  "PARES",
+  "infância",
+  "municípios"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

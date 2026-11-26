@@ -1,0 +1,41 @@
+{
+ "short_title": "Dedução em IRC de apoios à creche e pré-escolar dos filhos dos trabalhadores",
+ "summary": "Projeto de Lei do PAN que altera o artigo 43.º do Código do IRC para que sejam dedutíveis os gastos das empresas com a atribuição de apoios sociais para a frequência de creche ou pré-escolar destinados aos dependentes dos seus trabalhadores. O texto integra esses apoios no elenco de gastos de utilidade social já dedutíveis, como creches, lactários, jardins-de-infância e cantinas. Entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Torna dedutíveis em IRC os apoios sociais das empresas à frequência de creche ou pré-escolar dos dependentes dos trabalhadores.",
+  "Altera o n.º 1 do artigo 43.º do Código do IRC.",
+  "Entrada em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O PAN propõe que as empresas que ajudem a pagar a creche ou o pré-escolar dos filhos dos trabalhadores possam descontar essa despesa no imposto sobre lucros (IRC). O objetivo é incentivar mais empresas a dar este apoio às famílias.",
+ "context": "O proponente aponta a falta de uma rede pública de creches e o facto de o programa Creche Feliz estar numa fase inicial, o que dificulta o acesso das famílias e afeta a igualdade de género e o emprego dos pais. Refere que o apoio das empresas também cobre despesas extracurriculares não incluídas no programa.",
+ "analysis": "A proposta incentiva um apoio útil às famílias e complementa a oferta pública. Fragilidades: apenas os trabalhadores de empresas que oferecem o benefício são abrangidos, o que pode criar desigualdades, e a redação mantém os requisitos de carácter geral do artigo atual, o que pode gerar dúvidas de aplicação. Não estima a perda de receita nem o número de empresas abrangidas, e não resolve o problema de fundo da escassez de vagas.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A dedução em IRC reduz a receita fiscal. O texto não estima valores."
+ },
+ "affected": [
+  "empresas",
+  "trabalhadores com filhos em creche ou pré-escolar",
+  "famílias",
+  "creches e jardins-de-infância"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia",
+  "educacao"
+ ],
+ "tags": [
+  "creche",
+  "pré-escolar",
+  "IRC",
+  "apoios sociais",
+  "benefícios fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Reparação de danos por morte e incapacidade nas tempestades",
+ "summary": "O projeto de lei do Bloco de Esquerda cria um regime excecional e extrajudicial, de adesão voluntária, para determinar e pagar indemnizações por morte e incapacidade permanente absoluta decorrentes das tempestades de 2026, inspirado no procedimento aplicado após os incêndios de 2017. Cria um Conselho Independente para fixar critérios e atribui à Provedoria de Justiça a instrução dos processos. Fixa um referencial base de 70.000 euros para casos de morte, como patamar mínimo, a que acrescem sofrimento e danos patrimoniais e não patrimoniais. Prevê regime simplificado de prova, decisão e pagamento em 30 dias após instrução completa, requerimento no prazo de 90 dias, cumulação com prestações da Segurança Social, apoio judiciário e financiamento pelo Orçamento do Estado. Produz efeitos desde 28 de janeiro de 2026.",
+ "key_points": [
+  "Mecanismo extrajudicial e voluntário de reparação por morte e incapacidade permanente absoluta.",
+  "Conselho Independente define critérios, e a Provedoria de Justiça instrui os processos.",
+  "Referencial base de 70.000 euros por morte, como patamar mínimo, com acréscimo de outros danos.",
+  "Requerimento no prazo de 90 dias e decisão e pagamento em 30 dias após instrução completa.",
+  "Regime simplificado de prova e indemnizações cumuláveis com prestações da Segurança Social, com efeitos desde 28 de janeiro de 2026."
+ ],
+ "plain_language": "As famílias de quem morreu e as pessoas que ficaram com incapacidade permanente grave por causa das tempestades poderiam receber uma indemnização do Estado sem terem de ir a tribunal, com um valor mínimo de 70.000 euros em caso de morte e um processo rápido.",
+ "context": "O BE sustenta que a tempestade Kristin foi um evento de força maior e que a reparação de danos tão graves não pode ficar dependente da lentidão dos processos de responsabilidade civil. O regime não assume culpa do Estado, mas aplica um mecanismo de equidade e repartição de encargos, inspirado no precedente de Pedrógão Grande.",
+ "analysis": "A via extrajudicial pode dar apoio rápido às vítimas e tem precedentes. O texto fixa só um valor de referência para morte, deixando as incapacidades e componentes adicionais para um Conselho cujos critérios ainda não existem, o que gera incerteza sobre o custo e a igualdade de tratamento. A extensão do conceito de sacrifício especial a catástrofes naturais pode criar precedente. Não se estima o número de beneficiários nem o encargo orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado financia as indemnizações pelo Orçamento do Estado, com um referencial de 70.000 euros por morte. O texto não estima o número de beneficiários nem o custo total."
+ },
+ "affected": [
+  "famílias das vítimas mortais",
+  "pessoas com incapacidade permanente absoluta",
+  "Provedoria de Justiça",
+  "Estado"
+ ],
+ "categories": [
+  "justica",
+  "seguranca",
+  "familia"
+ ],
+ "tags": [
+  "indemnizações",
+  "tempestades",
+  "Provedoria de Justiça",
+  "incapacidade permanente",
+  "reparação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "short_title": "PCP: alterações amplas ao regime do arrendamento urbano",
+ "summary": "O PCP propõe um conjunto amplo de alterações ao Código Civil, ao NRAU, ao regime de celebração do contrato de arrendamento e às leis excecionais da pandemia (Leis 1-A/2020 e 4-C/2020). Entre as medidas: contratos sem prazo definido passam a ter duração inicial de cinco anos com renovações mínimas de três; limita-se a denúncia pelo senhorio para habitação própria (com indemnização de dois anos e meio de renda); extingue-se o Balcão do Arrendamento; impede-se a penhora de contas bancárias do inquilino durante a moratória; prevê-se acompanhamento social e suspensão excecional de despejos em risco social; e alarga-se o prazo de pagamento das rendas em mora, com início da regularização a 1 de janeiro.",
+ "key_points": [
+  "Contrato sem prazo definido passa a ter cinco anos iniciais e renovações mínimas de três anos.",
+  "Restringe a denúncia pelo senhorio para habitação própria, com indemnização equivalente a dois anos e meio de renda.",
+  "Extingue o Balcão do Arrendamento e impede a penhora de contas do inquilino durante a moratória.",
+  "Acompanhamento social em despejos e suspensão excecional em caso de fragilidade e falta de alternativa habitacional.",
+  "Protege arrendatários com mais de 20 anos no locado e 65 ou mais anos ou deficiência igual ou superior a 60%.",
+  "Alarga o prazo de pagamento das rendas em mora e fixa o início da regularização a 1 de janeiro."
+ ],
+ "plain_language": "O PCP quer reforçar a proteção de quem arrenda casa: contratos mais longos e estáveis, menos possibilidades de o senhorio pôr fim ao contrato para uso próprio, fim do Balcão do Arrendamento, mais apoio social antes de despejos e mais tempo para pagar rendas em atraso devido à pandemia.",
+ "context": "O PCP considera que a Lei n.º 31/2012 (\"Lei dos Despejos\") continua a causar injustiças e conflitos, mesmo após alterações recentes, e que a pandemia agravou a situação das famílias inquilinas. Defende também a regulamentação da Lei de Bases da Habitação, ainda em falta.",
+ "analysis": "A proposta reforça a estabilidade e a proteção dos inquilinos, sobretudo os idosos e os mais vulneráveis. Em contrapartida, as restrições à denúncia, os prazos de duração mínimos e o impedimento de penhoras podem reduzir a oferta de arrendamento e aumentar o risco para senhorios, sem que o texto avalie esse impacto. A extinção do Balcão do Arrendamento tem de ser acompanhada de alternativa processual. A abrangência da iniciativa dificulta uma avaliação única dos seus efeitos.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos orçamentais; o acompanhamento social e a extinção do Balcão do Arrendamento poderão implicar alterações de despesa pública não estimadas."
+ },
+ "affected": [
+  "inquilinos",
+  "senhorios",
+  "idosos e pessoas com deficiência arrendatárias",
+  "serviços de segurança social",
+  "tribunais"
+ ],
+ "categories": [
+  "habitacao",
+  "justica",
+  "familia"
+ ],
+ "tags": [
+  "arrendamento urbano",
+  "despejos",
+  "balcão do arrendamento",
+  "nrau",
+  "moratória das rendas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

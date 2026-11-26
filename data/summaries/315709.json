@@ -1,0 +1,43 @@
+{
+ "short_title": "Democratizar as universidades e acabar com o regime fundacional",
+ "summary": "O projeto de lei do Bloco de Esquerda altera o Regime Jurídico das Instituições de Ensino Superior (Lei n.º 62/2007) para reforçar a gestão democrática e extinguir o regime fundacional. Repõe o Senado, com representantes de todas as unidades orgânicas e associações de estudantes, estabelece quotas mínimas no conselho geral (30% de docentes e investigadores, 30% de estudantes, 15% de trabalhadores não docentes e 15% de outros), paridade de género e eleição do reitor ou presidente por um colégio eleitoral. Cria um gabinete de apoio técnico e jurídico ao conselho geral, obriga a códigos de conduta contra o assédio, revoga o artigo 122.º e os artigos 129.º a 137.º e faz as fundações públicas de direito privado transitarem para o regime geral público. Os estatutos são atualizados em dois anos.",
+ "key_points": [
+  "Repõe o Senado e obriga a um colégio eleitoral alargado para eleger reitores e presidentes dos politécnicos.",
+  "Fixa quotas mínimas no conselho geral: 30% docentes e investigadores, 30% estudantes, 15% não docentes e 15% do restante.",
+  "Paridade de género, com representação mínima de 40% de cada sexo nas listas.",
+  "Revoga o regime fundacional, com transição das fundações para o regime geral público.",
+  "Obriga a códigos de conduta e a mecanismos de denúncia de assédio."
+ ],
+ "plain_language": "A proposta muda a forma como as universidades e politécnicos são governados: mais lugares para estudantes e trabalhadores nos órgãos de decisão, eleição alargada do reitor, regresso do Senado e fim das universidades que funcionam como fundações de direito privado, que voltariam a ser totalmente públicas.",
+ "context": "O Bloco de Esquerda diz que o RJIES de 2007 foi aprovado sem participação prévia dos estudantes e nunca foi avaliado ao fim de cinco anos, apesar de previsto. Considera que o regime fundacional e o subfinanciamento criaram precariedade e défice democrático, com gestão empresarializada e concentração piramidal de poderes, e defende uma autonomia reforçada num modelo totalmente público.",
+ "analysis": "A proposta aposta em colegialidade e participação, respondendo a críticas de associações de estudantes e sindicatos. Fragilidades: o fim do regime fundacional implica transição complexa de instituições que beneficiam hoje de maior autonomia de gestão, sem avaliação financeira ou do impacto na captação de recursos próprios; quotas elevadas para estudantes e não docentes podem diluir a participação de especialistas externos; a avaliação do RJIES que o texto reclama não é detalhada. Os efeitos orçamentais não são estimados.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A reversão do regime fundacional implica custos de transição e eventual perda de receitas próprias, e a produção de efeitos acompanha o Orçamento do Estado seguinte. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "estudantes",
+  "docentes e investigadores",
+  "trabalhadores não docentes",
+  "universidades e politécnicos, incluindo fundações públicas de direito privado"
+ ],
+ "categories": [
+  "educacao",
+  "ciencia",
+  "instituicoes"
+ ],
+ "tags": [
+  "rjies",
+  "regime fundacional",
+  "senado",
+  "conselho geral",
+  "gestão democrática"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

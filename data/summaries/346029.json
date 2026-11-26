@@ -1,0 +1,43 @@
+{
+ "short_title": "Revisão do subsídio social de mobilidade (proposta da Madeira)",
+ "summary": "Proposta de lei da Assembleia Legislativa da Madeira que altera o Decreto-Lei n.º 37-A/2025, na redação do Decreto-Lei n.º 1-A/2026, e revoga as respetivas normas regulamentares. Elimina condicionantes fiscais e contributivas ao subsídio social de mobilidade, determina que o beneficiário pague no momento da compra apenas o montante de referência, e proíbe que portarias criem critérios que limitem o acesso. Prevê canais presenciais e telefónicos de apoio, regras para o apuramento do subsídio em bilhetes one-way, a lista de documentos de elegibilidade e a reposição só em casos imputáveis ao beneficiário, com prazo de pagamento não inferior a 10 dias úteis. Findo o período de transição, o subsídio passa a chamar-se Tarifa Residente Insular.",
+ "key_points": [
+  "Beneficiário paga apenas o montante de referência no ato da compra do bilhete.",
+  "Remove condicionantes fiscais e contributivas e proíbe novos critérios por portaria.",
+  "Cria canais presenciais e telefónicos de acesso para quem tem dificuldades digitais.",
+  "Regula o apuramento do subsídio em bilhetes one-way, isolados ou emparelhados em 12 meses.",
+  "Reposição do subsídio só por não realização da viagem imputável ao beneficiário, com exceções.",
+  "O subsídio passa a designar-se Tarifa Residente Insular no fim do período de transição."
+ ],
+ "plain_language": "A Madeira propõe mudar as regras do apoio às viagens aéreas dos residentes das ilhas. O passageiro pagaria logo só o valor fixado, sem adiantar o preço total, sem ter de provar que não tem dívidas e com atendimento presencial para quem tem dificuldade com o digital. No futuro, o apoio passaria a ser uma tarifa própria para residentes insulares.",
+ "context": "A Assembleia Legislativa da Madeira considera que o Decreto-Lei n.º 1-A/2026 enfraquece a continuidade territorial, ao sujeitar o direito à mobilidade a requisitos fiscais e contributivos aplicáveis apenas às regiões autónomas. Defende o pagamento de 59 euros para estudantes e 79 euros para os restantes residentes, sem adiantamento de quantias elevadas.",
+ "analysis": "Pontos fortes: simplifica o acesso, reduz a carga de adiantamento pelos cidadãos e reforça garantias procedimentais e de atendimento. Fragilidades: o pagamento do montante de referência no ato da compra depende de uma plataforma eletrónica ainda por entrar em funcionamento, e a limitação da regulamentação reduz a capacidade do Governo de controlar custos e fraude. A transformação numa tarifa implica reorganizar a relação com as transportadoras, sem estimativa dos custos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A eliminação de condicionantes e o alargamento do acesso tendem a aumentar a despesa pública com o subsídio. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "residentes na Madeira",
+  "residentes nos Açores",
+  "estudantes das regiões autónomas",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "direitos"
+ ],
+ "tags": [
+  "subsídio social de mobilidade",
+  "Madeira",
+  "Tarifa Residente Insular",
+  "continuidade territorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

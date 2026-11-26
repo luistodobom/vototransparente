@@ -1,0 +1,42 @@
+{
+ "short_title": "Contribuição extraordinária sobre subvenções vitalícias de ex-políticos",
+ "summary": "O Projeto de Lei n.º 687/XVII/1.ª, do BE, cria uma contribuição extraordinária, temporária, sobre as subvenções mensais vitalícias de ex-titulares de cargos políticos, com receita consignada ao Fundo de Estabilização Financeira da Segurança Social. Estão isentas as subvenções iguais ou inferiores a duas vezes o IAS. Acima desse limiar aplicam-se taxas marginais de 10% entre duas e quatro vezes o IAS, 20% entre quatro e oito vezes e 30% acima de oito vezes, com o total limitado a 30% do valor ilíquido. A contribuição vigora quatro anos, com reavaliação pela Assembleia e possibilidade de prorrogação por períodos até quatro anos. O projeto altera ainda o artigo 9.º da Lei n.º 52-A/2005, reduzindo para duas vezes o IAS o limiar de acumulação com remuneração de atividade privada, e entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Cria uma contribuição extraordinária e temporária sobre as subvenções mensais vitalícias de ex-titulares de cargos políticos.",
+  "Taxas progressivas de 10%, 20% e 30% sobre as parcelas acima de 2, 4 e 8 vezes o IAS, com isenção até 2 vezes o IAS e teto de 30% do valor ilíquido.",
+  "Receita consignada ao Fundo de Estabilização Financeira da Segurança Social, com relatório anual de acompanhamento.",
+  "Vigência de quatro anos, com reavaliação e possível prorrogação por períodos até quatro anos.",
+  "Reduz de três para duas vezes o IAS o limite de acumulação da subvenção com remuneração de atividade privada."
+ ],
+ "plain_language": "Este projeto não corta as subvenções vitalícias de antigos políticos, mas cria um imposto especial sobre elas: quem recebe mais paga uma percentagem maior, até 30%, e quem recebe pouco, até cerca de duas vezes o indexante, não paga nada. O dinheiro vai para o fundo de reserva da Segurança Social. A medida seria temporária, por quatro anos, e também aperta as regras para quem acumula a subvenção com trabalho privado.",
+ "context": "O BE defende há mais de duas décadas que as subvenções vitalícias são um regime de exceção injustificável. A Lei n.º 52-A/2005 extinguiu o regime mas manteve um regime transitório. O proponente argumenta que o Tribunal Constitucional censurou cortes e condições de recursos sobre estas subvenções, mas não contribuições, citando o Acórdão n.º 187/2013 sobre a contribuição extraordinária de solidariedade, e propõe por isso uma contribuição consignada à Segurança Social.",
+ "analysis": "Pontos fortes: desenhada para respeitar a distinção feita pela jurisprudência entre corte e contribuição, com progressividade, teto, isenção e consignação a um fundo, e com reavaliação periódica. Fragilidades: a constitucionalidade continua incerta, porque o Tribunal já censurou medidas que alteraram o conteúdo da subvenção e pode entender que a contribuição o descaracteriza; a alteração ao limiar de acumulação com atividade privada aproxima-se de uma redução já censurada noutros acórdãos; e o texto não estima a receita esperada.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A contribuição gera receita consignada à Segurança Social, e a redução do limiar de acumulação pode reduzir despesa com subvenções; o texto não quantifica montantes."
+ },
+ "affected": [
+  "ex-titulares de cargos políticos com subvenção vitalícia",
+  "Segurança Social",
+  "contribuintes"
+ ],
+ "categories": [
+  "instituicoes",
+  "trabalho",
+  "fiscalidade"
+ ],
+ "tags": [
+  "subvenção vitalícia",
+  "contribuição extraordinária",
+  "Segurança Social",
+  "cargos políticos",
+  "Tribunal Constitucional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

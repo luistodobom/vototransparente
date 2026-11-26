@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço do controlo e fiscalização das pescas",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo um conjunto de medidas para reforçar o controlo e a fiscalização das pescas e uma gestão mais sustentável dos recursos marinhos, no âmbito da aplicação do Regulamento (UE) 2023/2842. Recomenda a implementação célere de sistemas de monitorização de navios (VMS) nas embarcações com mais de 12 metros e de soluções alternativas para as menores; uma análise de risco para decidir onde instalar videovigilância; apoio ao diário de pesca eletrónico simplificado; o estudo do alargamento das espécies com registo obrigatório na pesca lúdica; e o reforço e a formação do Corpo de Inspetores das Pescas.",
+ "key_points": [
+  "Implementar sistemas VMS nas embarcações com mais de 12 metros e soluções alternativas nas menores, com apoio técnico e financeiro.",
+  "Fazer uma análise de risco de incumprimento para decidir em que embarcações instalar videovigilância (CCTV).",
+  "Assegurar meios para o diário de pesca eletrónico simplificado nas embarcações com menos de 12 metros.",
+  "Estudar, através do IPMA, o alargamento progressivo das espécies sujeitas a registo obrigatório na pesca lúdica.",
+  "Reforçar em meios humanos, técnicos e logísticos o Corpo de Inspetores das Pescas e a sua formação contínua."
+ ],
+ "plain_language": "A UE aprovou regras mais exigentes para controlar a pesca, incluindo localização dos barcos, registos eletrónicos de capturas e câmaras em alguns casos. O LIVRE pede ao Governo que aplique estas regras depressa e com apoio aos pescadores, avalie onde as câmaras fazem sentido, estude controlar mais espécies na pesca lúdica e dê mais meios e formação aos inspetores. É uma recomendação, não uma obrigação legal.",
+ "context": "O LIVRE refere que apenas 28% dos stocks avaliados são explorados de forma sustentável, descreve casos de pesca ilegal em Portugal (amêijoa-japonesa no Tejo, meixão no Minho) e uma pesca de fundo em área encerrada ao largo de Sines, e aponta que a avaliação de risco para a videovigilância ainda não foi realizada. Nota que o Corpo de Inspetores das Pescas tem 28 efetivos no continente desde 2022.",
+ "analysis": "A proposta é concreta e ancorada em obrigações já decorrentes do direito da UE, equilibrando fiscalização com proteção da pequena pesca e da privacidade. Fragilidades: não quantifica custos nem define metas de inspetores ou prazos de execução, e a maioria das recomendações depende de capacidade administrativa e financeira do Estado. O estudo sobre pesca lúdica pode gerar novos encargos para praticantes, algo que o texto não aprofunda. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de inspetores, equipamentos, apoio técnico e financeiro às embarcações e estudos implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "Pescadores profissionais",
+  "Praticantes de pesca lúdica",
+  "Corpo de Inspetores das Pescas",
+  "Autoridades marítimas"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente"
+ ],
+ "tags": [
+  "pescas",
+  "fiscalização",
+  "pesca ilegal",
+  "VMS",
+  "inspetores das pescas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

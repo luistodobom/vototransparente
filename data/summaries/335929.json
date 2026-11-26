@@ -1,0 +1,44 @@
+{
+ "short_title": "Fiscalidade para a habitação permanente e contra a especulação",
+ "summary": "O projeto de lei do PS altera o IRS, o IMI, o IMT, o Novo Regime do Arrendamento Urbano e o Programa de Apoio ao Arrendamento para promover a habitação permanente e combater a especulação imobiliária. Exclui de tributação as mais-valias da venda de segunda habitação em zonas de pressão urbanística, quando passe a habitação própria e permanente, e, de forma permanente, os ganhos até 50.000 euros aplicados em amortização de crédito à habitação. Agrava a tributação das mais-valias de imóveis nunca habitados, arrendados ou intervencionados (10% por ano, até duas vezes a taxa). Reforça a identificação de prédios devolutos para o agravamento de IMI, eleva ao décuplo o IMT na compra de habitação por não residentes, com exceções, e aumenta a dedução de rendas em IRS para 1.000 euros a partir de 2027. Atualiza limites de renda do PAA e exclui da dívida municipal empréstimos para habitação a custos controlados.",
+ "key_points": [
+  "Isenção de mais-valias na venda de segunda habitação em zona de pressão urbanística quando passe a habitação própria e permanente.",
+  "Agravamento das mais-valias de imóveis nunca habitados, arrendados ou intervencionados, em 10% por cada ano, até duas vezes a taxa.",
+  "Reforço da identificação de prédios devolutos, com agravamento de IMI até 30 vezes a taxa (40 vezes para pessoas coletivas).",
+  "IMT elevado ao décuplo para compradores não residentes, com exceções, e 7,5% em territórios de baixa densidade.",
+  "Dedução de rendas em IRS até 1.000 euros a partir de 2027 e atualização dos limites de renda do Programa de Apoio ao Arrendamento."
+ ],
+ "plain_language": "O PS propõe usar os impostos para que as casas sejam usadas como habitação e não como investimento especulativo: menos imposto para quem vende para o mercado de habitação ou paga crédito à habitação, mais imposto para quem deixa imóveis vazios e para compradores estrangeiros não residentes, e maior desconto no IRS para quem paga renda.",
+ "context": "O PS defende que a crise da habitação não se resolve só com mais oferta e que a procura, a financeirização e o investimento imobiliário têm um papel determinante. Cita o Plano Europeu de Habitação a Preços Acessíveis, de 16 de dezembro de 2025, que valoriza políticas fiscais que desencorajem comportamentos especulativos e mobilizem o edificado existente.",
+ "analysis": "O pacote combina incentivos e penalizações e inspira-se em orientações europeias. Pontos fortes: foca imóveis vazios e a identificação de devolutos, que é um bloqueio conhecido. Fragilidades: o agravamento de IMT a não residentes pode reduzir investimento e levantar questões de igualdade e de direito europeu; a definição de imóvel nunca utilizado exige prova difícil durante todo o período de detenção; e algumas isenções reduzem receita. O texto não estima o impacto orçamental nem a evolução dos preços.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Há isenções e deduções que reduzem receita (mais-valias, IRS de rendas) e agravamentos que a aumentam (IMT para não residentes, IMI de devolutos, mais-valias especulativas). O texto não quantifica o saldo."
+ },
+ "affected": [
+  "proprietários de segundas habitações",
+  "compradores não residentes",
+  "arrendatários",
+  "municípios",
+  "titulares de crédito à habitação"
+ ],
+ "categories": [
+  "habitacao",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "IMT",
+  "IMI devolutos",
+  "mais-valias",
+  "especulação imobiliária",
+  "deduções de renda"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

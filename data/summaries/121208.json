@@ -1,0 +1,40 @@
+{
+ "short_title": "Dispensa profissional para membros do Conselho de Ética",
+ "summary": "Projeto de lei subscrito por PS, PSD e PCP que altera pela terceira vez a Lei n.º 24/2009, de 29 de maio, que aprova o regime jurídico do Conselho Nacional de Ética para as Ciências da Vida (CNECV). Adita o artigo 9.º-A, segundo o qual os membros do Conselho são dispensados das suas atividades profissionais, públicas ou privadas, quando se encontrem no exercício efetivo de funções neste órgão, sem perda de quaisquer direitos ou regalias. O CNECV é um órgão consultivo independente junto da Assembleia da República, com 21 membros, que reúne presencialmente pelo menos uma vez por mês. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Aditamento do artigo 9.º-A à Lei n.º 24/2009, sobre direitos e garantias.",
+  "Os membros do CNECV ficam dispensados das suas atividades profissionais quando exercem funções efetivas no Conselho.",
+  "Sem perda de quaisquer direitos ou regalias.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Os membros do Conselho Nacional de Ética para as Ciências da Vida passam a poder faltar ao seu trabalho habitual para participar nas reuniões do Conselho, sem perderem salário nem direitos. Outros conselhos consultivos já têm esta regra.",
+ "context": "Os proponentes invocam a equidade de tratamento face a outros órgãos consultivos, como o Conselho Nacional de Educação, o Conselho Nacional de Saúde e o Conselho de Fiscalização da Base de Dados de Perfis de ADN, e a necessidade de evitar uma representação diminuída nas reuniões ou prejuízo dos direitos laborais dos conselheiros.",
+ "analysis": "A medida é simples, apoiada por três partidos e justificada por comparação com outros conselhos, favorecendo a participação regular. Fragilidades: o texto não define o limite de horas ou dias de dispensa, nem quem suporta o custo da ausência de empregadores privados, nem como se articula com a duração dos mandatos; a expressão exercício efetivo de funções é pouco precisa. Não há estimativa de impacto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A dispensa sem perda de direitos pode gerar encargos para empregadores públicos e privados. O texto não os quantifica."
+ },
+ "affected": [
+  "membros do Conselho Nacional de Ética para as Ciências da Vida",
+  "empregadores dos conselheiros"
+ ],
+ "categories": [
+  "instituicoes",
+  "ciencia",
+  "trabalho"
+ ],
+ "tags": [
+  "cnecv",
+  "conselho de ética",
+  "dispensa de funções",
+  "órgão consultivo",
+  "ciências da vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

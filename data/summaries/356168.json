@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio às vítimas de violência no namoro",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo um conjunto de medidas para prevenir a violência no namoro e apoiar as vítimas: campanhas nacionais regulares dirigidas aos jovens, acompanhamento de casos em articulação com a RNAVVD nas escolas sem serviços de Psicologia, registo do número de casos acompanhados ou encaminhados, informação sobre apoios e criação de espaços seguros, inclusão de temas como respeito, consentimento e igualdade de género, e avaliação do impacto das campanhas e iniciativas.",
+ "key_points": [
+  "Campanhas nacionais regulares sobre violência no namoro, stalking e sextorsion, com metodologias que impliquem os jovens.",
+  "Acompanhamento de casos, em articulação com a RNAVVD, nas escolas sem serviços de Psicologia.",
+  "Registo, respeitando o RGPD, do número de casos acompanhados ou encaminhados e das entidades.",
+  "Informação sobre apoios existentes e criação de espaços seguros para os jovens falarem.",
+  "Inclusão explícita de respeito, consentimento e igualdade de género e avaliação do impacto das campanhas."
+ ],
+ "plain_language": "O PS pede ao Governo mais campanhas e mais apoio para jovens que sofrem violência no namoro, com ajuda nas escolas que não têm psicólogos. Pede também que se registem os casos, se avalie se as campanhas resultam e se fale de respeito e consentimento. É uma recomendação, não uma obrigação.",
+ "context": "O PS cita estudos da Universidade do Minho e da UMAR: no estudo da UMAR, 66,3% dos jovens com relação de namoro reportaram pelo menos um indicador de vitimização e 75,3% não consideram violência pelo menos um de 15 comportamentos listados. Recorda a Lei n.º 19/2013 e a última campanha, de 2021, #NamorarSemViolência.",
+ "analysis": "A iniciativa assenta em dados de estudos concretos e propõe medidas de prevenção e de avaliação, o que é positivo. Em contrapartida, as recomendações são genéricas, sem calendário, orçamento ou entidade responsável, e dependem da disponibilidade de serviços escolares e da RNAVVD. O texto não detalha como se articula com o currículo de Educação para a Cidadania, que refere no preâmbulo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas, acompanhamento nas escolas e espaços seguros implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "jovens vítimas de violência no namoro",
+  "escolas e profissionais de Psicologia",
+  "rede nacional de apoio a vítimas de violência doméstica"
+ ],
+ "categories": [
+  "direitos",
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "violência no namoro",
+  "jovens",
+  "prevenção",
+  "escolas",
+  "rnavvd"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

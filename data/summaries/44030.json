@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforçar os direitos das mulheres na gravidez e no parto",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo oito medidas para reforçar os direitos das mulheres na gravidez e no parto e combater a violência obstétrica. Inclui uma campanha nacional de sensibilização sobre a discriminação e a violência de género, dirigida ao público e aos profissionais; um questionário de satisfação a mulheres e profissionais; o cumprimento das recomendações da Organização Mundial de Saúde sobre cuidado respeitoso; a realização e divulgação de um estudo sobre situações de abuso, desrespeito e práticas não consentidas; um grupo de trabalho para promover o parto humanizado; reforço da formação dos profissionais; mecanismos de denúncia; e medidas para reduzir a taxa de episiotomia. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Campanha nacional de sensibilização sobre a violência de género, incluindo a violência obstétrica.",
+  "Questionário de satisfação para mulheres e profissionais dos serviços de saúde materna e obstetrícia.",
+  "Estudo sobre abuso, desrespeito e práticas não consentidas durante a gravidez e o parto.",
+  "Grupo de trabalho com associações profissionais e sociedade civil para promover o parto humanizado.",
+  "Mecanismos de denúncia e reforço da formação dos profissionais.",
+  "Medidas para reduzir a taxa de episiotomia, segundo as recomendações da OMS."
+ ],
+ "plain_language": "O PAN pede ao Governo que melhore o respeito pelas mulheres durante a gravidez e o parto: mais informação, formação dos profissionais, forma de denunciar maus tratos, um estudo sobre abusos e menos cortes desnecessários no parto (episiotomia). Pede também que as mulheres e os profissionais sejam ouvidos em questionários. É uma recomendação, sem força obrigatória.",
+ "context": "O PAN cita que em 2017 morreram nove mulheres durante a gravidez, parto ou pós-parto, uma taxa de 10,4 por 100 mil nascimentos, a mais alta desde 1991, e que mais de 60 crianças morreram no primeiro ano de vida em 2018. Defende maior atenção à qualidade da assistência, com base nas recomendações da OMS e do Conselho da Europa.",
+ "analysis": "A iniciativa tem um âmbito amplo e liga-se a recomendações de organismos internacionais, e propõe instrumentos de recolha de informação, como estudo e questionários, que permitem fundamentar políticas futuras. Em contrapartida, mistura indicadores de mortalidade materna com a questão da violência obstétrica sem demonstrar a relação causal, e não indica prazos, responsáveis ou custos. O conceito de violência obstétrica e a redução da episiotomia exigem consenso clínico. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas, estudo, grupo de trabalho, formação e mecanismos de denúncia implicam despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "grávidas e parturientes",
+  "profissionais de saúde de obstetrícia",
+  "serviços de saúde materna",
+  "recém-nascidos"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "parto humanizado",
+  "violência obstétrica",
+  "episiotomia",
+  "saúde materna",
+  "oms"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

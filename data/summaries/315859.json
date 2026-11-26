@@ -1,0 +1,40 @@
+{
+ "short_title": "Melhoria da saúde auditiva e acesso a tecnologias de apoio",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo que promova políticas para melhorar a saúde auditiva da população. Sugere programas sistemáticos de rastreio audiológico ao longo da vida, a avaliação de modelos de financiamento de tecnologias auditivas, o levantamento das necessidades nacionais através da base de dados do Sistema de Atribuição de Produtos de Apoio (SAPA) e da prescrição eletrónica, a reestruturação do SAPA com mais entidades prescritoras e financiadoras, e campanhas nacionais de literacia sobre saúde auditiva. Trata-se de uma recomendação, não vinculativa.",
+ "key_points": [
+  "Programas de rastreio audiológico ao longo do ciclo de vida.",
+  "Avaliação de modelos de financiamento de aparelhos auditivos, incluindo aquisição, reparação e substituição.",
+  "Levantamento atualizado das necessidades de tecnologia auditiva.",
+  "Reestruturação do SAPA, com mais entidades prescritoras e financiadoras, sobretudo no interior.",
+  "Campanhas nacionais de literacia e sensibilização sobre saúde auditiva."
+ ],
+ "plain_language": "O PS pede ao Governo que ajude melhor quem tem problemas de audição: mais rastreios, mais apoio para pagar aparelhos auditivos e mais locais onde se possa obter prescrição. É uma recomendação que o Governo não é obrigado a cumprir.",
+ "context": "O PS invoca o Plano Nacional de Saúde 2021-2030, que considera a saúde auditiva uma prioridade, e refere lacunas na cobertura e na equidade do acesso. Aponta que a perda auditiva sem diagnóstico precoce afeta a comunicação, a aprendizagem, o emprego e a saúde mental.",
+ "analysis": "A recomendação cobre prevenção, tratamento e financiamento de forma abrangente e alinhada com o planeamento nacional. Por ser um projeto de resolução, não obriga o Governo e não fixa prazos, metas, população-alvo nem fontes de financiamento. Fala em avaliar modelos de financiamento sem se comprometer com comparticipações concretas, o que limita o efeito prático.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A expansão de rastreios, apoios a tecnologias auditivas e reforço das respostas públicas implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "pessoas com perda auditiva",
+  "utentes do SNS",
+  "entidades prescritoras do SAPA"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "saúde auditiva",
+  "rastreio",
+  "SAPA",
+  "produtos de apoio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

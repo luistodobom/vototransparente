@@ -1,0 +1,40 @@
+{
+ "short_title": "Provas nacionais em papel em 2023/2024",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo, com caráter de urgência, que no ano letivo 2023/2024 as provas de aferição dos 2.º, 5.º e 8.º anos e os exames nacionais do 9.º ano se realizem em papel, e que para os anos seguintes seja apresentado um roteiro com as condições necessárias para as provas digitais e um calendário de decisão e implementação adequado. A exposição de motivos invoca falta de preparação dos alunos, risco de desigualdades, problemas técnicos em 2022/2023, computadores avariados e falta de apoio técnico. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Provas de aferição dos 2.º, 5.º e 8.º anos em papel em 2023/2024.",
+  "Exames nacionais do 9.º ano em papel em 2023/2024.",
+  "Apresentação de um roteiro e calendário para as provas digitais nos anos seguintes.",
+  "Recomendação com caráter de urgência."
+ ],
+ "plain_language": "A Iniciativa Liberal pede ao Governo que, neste ano letivo, as provas nacionais voltem a ser feitas em papel e não no computador, porque considera que alunos e escolas não estão preparados. Pede também um plano claro para a passagem ao digital nos anos seguintes.",
+ "context": "O Ministério da Educação planeou desmaterializar todas as provas e exames nacionais até 2025. A IL alega que os alunos não estão preparados, que há falhas técnicas e equipamentos avariados, que a avaliação digital pode gerar desigualdades e cita a falta de apoio técnico e a greve dos professores de informática.",
+ "analysis": "O argumento da igualdade de oportunidades e os problemas técnicos descritos são relevantes, sobretudo para exames que contam para a classificação final. Em contrapartida, o relatório do IAVE citado indica que o formato digital não parece ter tido impacto significativo nos resultados das provas de aferição, e a desmaterialização tem financiamento do PRR. A recomendação chega perto das datas das provas, o que dificulta a sua execução, e a iniciativa não avalia custos de regressar ao papel.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não estima custos da impressão em papel nem poupanças. Menciona 6,5 milhões de euros aprovados pelo Governo para novos computadores e financiamento do PRR para a desmaterialização."
+ },
+ "affected": [
+  "alunos do 2.º, 5.º, 8.º e 9.º anos",
+  "professores e escolas",
+  "encarregados de educação"
+ ],
+ "categories": [
+  "educacao",
+  "ciencia"
+ ],
+ "tags": [
+  "provas nacionais",
+  "exames",
+  "digitalização",
+  "provas de aferição",
+  "iave"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

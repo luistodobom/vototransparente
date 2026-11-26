@@ -1,0 +1,42 @@
+{
+ "short_title": "Reforço da proteção dos animais de companhia",
+ "summary": "Projeto de Lei do CHEGA que altera o Decreto-Lei n.º 314/2003 e a Lei n.º 27/2016 para intensificar a proteção dos animais de companhia. Exige boas condições no alojamento de cães e gatos e, em caso de incumprimento, após vistoria conjunta do delegado de saúde e do médico veterinário municipal, as câmaras notificam o detentor para retirar os animais; permite mandado judicial quando houver obstáculos à remoção. Obriga as câmaras a dotarem-se de infraestruturas, médico veterinário municipal, equipamento e pessoal preparado para a recolha de animais, e a manter canis e gatis e postos para esterilizações e campanhas de profilaxia. Prevê ações de formação do Governo, com as autarquias, para forças de segurança, veterinários municipais e funcionários dos centros de recolha oficial, e exige que a eutanásia use métodos sem dor e seja documentada. Entra em vigor após a publicação.",
+ "key_points": [
+  "Condiciona o alojamento de cães e gatos a boas condições e prevê retirada dos animais após vistoria, com possibilidade de mandado judicial.",
+  "Obriga as câmaras municipais a terem médico veterinário municipal, equipamento e pessoal preparado.",
+  "Obriga à manutenção de canis, gatis e postos para esterilizações e campanhas de profilaxia.",
+  "Formação para forças de segurança, veterinários municipais e funcionários dos centros de recolha.",
+  "Eutanásia por métodos sem dor, com decisão documentada."
+ ],
+ "plain_language": "O CHEGA propõe obrigar todas as câmaras municipais a terem veterinário, canis e meios para esterilizar animais, dar formação a quem lida com maus tratos e animais abandonados, e garantir que, se um animal tiver de ser abatido, a morte seja imediata e sem dor. Também permite retirar animais mantidos em más condições.",
+ "context": "O CHEGA recorda que os maus tratos persistem e que as denúncias são muitas, mas nem sempre têm resultados. Defende que as autoridades precisam de meios para fiscalizar, e aponta que há municípios sem médico veterinário, sem infraestruturas de recolha, sem condições para esterilizações e sem apoio a famílias carenciadas nos cuidados veterinários.",
+ "analysis": "A proposta reforça obrigações das autarquias que a lei já prevê em parte, o que pode melhorar a fiscalização. Fragilidades: impõe custos a municípios sem prever financiamento nem calendário, e o título do projeto refere alterações a diplomas diferentes dos que constam no articulado, o que revela incoerência. A obrigação de ter médico veterinário municipal já existe; o texto não explica o que acrescenta. A formação é um ponto positivo mas vaga. Algumas redações permanecem abertas, o que dificulta a avaliação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Obriga municípios a manter infraestruturas, veterinários e equipamentos, além de ações de formação, sem previsão de financiamento ou valores."
+ },
+ "affected": [
+  "câmaras municipais",
+  "detentores de animais de companhia",
+  "animais de companhia",
+  "médicos veterinários municipais"
+ ],
+ "categories": [
+  "animais",
+  "territorio"
+ ],
+ "tags": [
+  "animais de companhia",
+  "canis",
+  "médico veterinário municipal",
+  "eutanásia",
+  "esterilização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

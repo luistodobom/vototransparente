@@ -1,0 +1,41 @@
+{
+ "short_title": "Rever a expansão do Porto de Leixões",
+ "summary": "A deputada única do PAN recomenda ao Governo que suspenda de imediato o projeto de expansão do Porto de Leixões, até que seja realizado um estudo independente de alternativas técnicas centrado na reorganização interna e no aproveitamento das áreas portuárias atuais. Recomenda ainda uma avaliação técnica urgente aos impactes ambientais, sociais e económicos do prolongamento do paredão norte já executado (negócios, emprego, atividades náuticas, qualidade de vida, acumulação de bactérias e lixo), com medidas de apoio e de limpeza e circulação das águas, e que qualquer decisão sobre o projeto seja concertada com a Câmara Municipal, a Assembleia Municipal e as Assembleias de Freguesia de Matosinhos, com consulta a associações de moradores e outras entidades. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Suspender o projeto de expansão do Porto de Leixões até haver estudo independente de alternativas.",
+  "Avaliar urgentemente os impactes do prolongamento do paredão norte já executado.",
+  "Concertar qualquer decisão com os órgãos locais de Matosinhos e consultar associações de moradores."
+ ],
+ "plain_language": "O PAN pede ao Governo que pare a obra de expansão do porto de Leixões até haver um estudo independente sobre alternativas, que avalie os problemas já causados pelo paredão e que decida em conjunto com as autarquias de Matosinhos. É apenas uma recomendação.",
+ "context": "O proponente refere o plano estratégico 2025-2035, com investimento de 931 milhões de euros, que obteve declaração de impacte ambiental positiva mas foi rejeitado pelas instituições locais de Matosinhos. Alega destruição de habitats, erosão costeira, poluição e perda da Marina de Leça da Palmeira, e propõe potenciar a zona sul do porto e reabrir a Linha de Leixões a passageiros.",
+ "analysis": "A proposta dá voz às preocupações locais e propõe alternativas concretas, como reorganização ferroviária interna. Fragilidades: pede a suspensão imediata de um projeto que obteve parecer ambiental favorável, sem avaliar o custo económico de adiar uma infraestrutura que descreve como crítica para o Norte, e algumas afirmações (impactes da expansão, subaproveitamento da zona sul) não são sustentadas com dados no texto. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A suspensão e os estudos teriam custos, e poderiam adiar ou evitar um investimento de 931 milhões de euros; o texto não estima o efeito líquido."
+ },
+ "affected": [
+  "população e autarquias de Matosinhos",
+  "utilizadores da Marina de Leça da Palmeira",
+  "operadores portuários e empresas do Norte",
+  "Administração dos Portos do Douro, Leixões e Viana do Castelo"
+ ],
+ "categories": [
+  "ambiente",
+  "transportes",
+  "territorio"
+ ],
+ "tags": [
+  "Porto de Leixões",
+  "Matosinhos",
+  "expansão portuária",
+  "impacte ambiental",
+  "Linha de Leixões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

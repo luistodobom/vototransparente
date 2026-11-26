@@ -1,0 +1,40 @@
+{
+ "short_title": "Prorrogar o apoio extraordinário aos desempregados até ao final de 2021",
+ "summary": "O BE recomenda ao Governo que prorrogue excecionalmente até ao final de 2021 (mais seis meses) o Apoio Extraordinário ao Rendimento dos Trabalhadores, sem condição de recursos, para os beneficiários da alínea a) do n.º 2 do artigo 156.º do OE 2021, no valor da prestação cessada até 501,16 euros; que prorrogue até ao final do ano o subsídio social de desemprego e o subsídio de desemprego cujas prestações cessem a partir de julho; e que reduza de 180 para 90 dias o período para aceder ao Apoio aos Desempregados de Longa Duração. O texto explica que muitos beneficiários perdem o direito em agosto e ficam sujeitos a condição de recursos, com apoio que pode ser de apenas 50 euros. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Prorrogar até ao final de 2021 o apoio extraordinário ao rendimento, sem condição de recursos, até 501,16 euros.",
+  "Prorrogar o subsídio de desemprego e o subsídio social de desemprego que cessem a partir de julho.",
+  "Reduzir de 180 para 90 dias o prazo de acesso ao Apoio aos Desempregados de Longa Duração.",
+  "Recomendação ao Governo, não vinculativa."
+ ],
+ "plain_language": "O BE pede ao Governo que continue a pagar, até ao fim de 2021, apoios a desempregados cujo subsídio acaba em julho, sem aplicar a condição de recursos, e que reduza o tempo de espera para o apoio dos desempregados de longa duração.",
+ "context": "O BE recorda que, em janeiro de 2021, cerca de 22 mil pessoas ficaram sem subsídio social de desemprego e que a pressão pública levou o Governo a cobri-las pelo AERT, por seis meses, período que termina em julho para milhares de pessoas. Defende que a pandemia não acabou e que as pessoas não passaram necessariamente a situação de emprego.",
+ "analysis": "A proposta evita um corte súbito de rendimento para desempregados vulneráveis e inclui uma medida de acesso ao apoio de longa duração. Fragilidades: aumenta a despesa sem estimativa; manter apoios sem condição de recursos pode abranger quem tem outros rendimentos; a prorrogação generalizada pode reduzir incentivos à procura de emprego. O texto não esclarece como se articula a redução para 90 dias com as regras já existentes. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As prorrogações e a redução do prazo de acesso aumentariam a despesa da Segurança Social; o texto não apresenta valores globais."
+ },
+ "affected": [
+  "desempregados",
+  "beneficiários de subsídio social de desemprego",
+  "desempregados de longa duração",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "aert",
+  "subsídio social de desemprego",
+  "desemprego de longa duração",
+  "covid-19"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

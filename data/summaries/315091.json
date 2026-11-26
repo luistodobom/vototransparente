@@ -1,0 +1,38 @@
+{
+ "short_title": "Acelerar o pagamento a fornecedores do Estado a 30 dias",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que acelere a implementação do objetivo de reduzir para 30 dias o prazo médio de pagamento de faturas a fornecedores do Estado. O texto recorda que o programa eleitoral da AD previa atingir essa meta até ao final da legislatura, em 2028, e que o prazo médio das entidades públicas desceu de 88 dias em 2007 para 37 dias em 2024, e na saúde de 96 para 77 dias entre 2023 e 2024. Pede apenas que o calendário seja antecipado, sem fixar novas datas ou medidas concretas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Acelerar o objetivo de pagamento de faturas do Estado a 30 dias.",
+  "Meta prevista até 2028, que a iniciativa pretende antecipar.",
+  "Prazo médio das entidades públicas de 37 dias em 2024; no setor da saúde 77 dias."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que cumpra mais depressa a promessa de pagar as faturas das empresas que fornecem o Estado em 30 dias, em vez de esperar por 2028. Pagamentos rápidos ajudam as empresas a não ficarem sem dinheiro. É só uma recomendação.",
+ "context": "O proponente argumenta que atrasos nos pagamentos do Estado afetam a tesouraria das empresas, aumentam custos financeiros e podem encarecer os preços. Cita dados de que 80% das empresas pagam fora do prazo e um estudo de 2012 que estimou perdas de emprego e valor acrescentado com atrasos generalizados.",
+ "analysis": "A iniciativa é clara e de objetivo consensual, apoiada em dados de redução progressiva do prazo. Fragilidades: não propõe medidas, calendário nem meios para acelerar, e limita-se a pedir mais rapidez; as estimativas citadas de perdas assentam num estudo de 2012 extrapolado de forma simplificada. O prazo médio em saúde, de 77 dias, mostra que o esforço é desigual entre setores, algo que o texto não detalha.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Pagar mais cedo antecipa a despesa de tesouraria do Estado e pode exigir reforço de fundos, mas não altera o valor total devido; o texto não apresenta estimativas."
+ },
+ "affected": [
+  "fornecedores do Estado",
+  "empresas",
+  "entidades públicas e hospitais do SNS"
+ ],
+ "categories": [
+  "economia",
+  "administracao"
+ ],
+ "tags": [
+  "prazo de pagamento",
+  "fornecedores do Estado",
+  "pagamentos a 30 dias",
+  "tesouraria das empresas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

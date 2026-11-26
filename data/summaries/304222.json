@@ -1,0 +1,41 @@
+{
+ "short_title": "Alteração da lei da IVG: 14 semanas e objeção de consciência",
+ "summary": "Projeto de Lei do BE que altera o artigo 142.º do Código Penal e os artigos 2.º, 4.º e 6.º da Lei n.º 16/2007 sobre a interrupção voluntária da gravidez (IVG). Alarga para 14 semanas o prazo da IVG por opção da mulher e da IVG para evitar perigo grave para a saúde, mantém um período de reflexão não inferior a três dias, e prevê acompanhamento psicológico e social durante esse período. Quanto à objeção de consciência: é individual e nunca institucional, refere-se ao ato de abortamento, produz efeitos em todos os estabelecimentos do objetor, pode ser revogada, e as unidades de saúde mantêm lista de objetores. Os serviços do SNS têm de garantir profissionais suficientes, nomeadamente não objetores, podem abrir concursos de contratação, e a contratualização anual prevê incentivos e penalizações financeiras. Entra em vigor no dia seguinte à promulgação.",
+ "key_points": [
+  "Alarga para 14 semanas o prazo da IVG por opção da mulher.",
+  "Mantém período de reflexão de pelo menos três dias, com acompanhamento psicológico e social.",
+  "Define a objeção de consciência como individual, nunca institucional, e válida em todos os estabelecimentos onde o objetor trabalha.",
+  "Exige lista atualizada de objetores e equipas com profissionais suficientes, nomeadamente não objetores.",
+  "Prevê concursos de contratação e incentivos e penalizações financeiras na contratualização do SNS."
+ ],
+ "plain_language": "O Bloco de Esquerda propõe alargar de 10 para 14 semanas o prazo para a IVG por opção da mulher e reforçar as regras da objeção de consciência, que passaria a ser sempre individual. Os hospitais teriam de ter profissionais suficientes para garantir a IVG e poderiam ser penalizados financeiramente se não o fizessem.",
+ "context": "O BE aponta obstáculos no acesso à IVG no SNS: mulheres sem acesso a consulta prévia, recusas de hospitais, consultas marcadas com prazos superiores ao máximo legal de cinco dias e casos em que tiveram de pagar uma unidade privada. Cita relatos de hospitais da Guarda, Castelo Branco e Santarém e um relatório da ERS sobre o acesso à IVG.",
+ "analysis": "A proposta atua tanto no direito (prazo) como na organização dos serviços, com mecanismos de responsabilização financeira. Pontos fortes: clarifica a objeção individual e obriga ao planeamento de equipas. Fragilidades: o alargamento do prazo para 14 semanas é uma questão ética sensível e o texto não discute implicações clínicas; penalizações financeiras a hospitais num SNS com escassez de médicos podem ser difíceis de aplicar; exigir objeção até 60 dias e lista de objetores levanta questões de privacidade. Os custos de contratação não são quantificados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de profissionais e o reforço dos serviços de IVG no SNS aumentam a despesa, em parte compensada por penalizações financeiras às instituições incumpridoras. O texto não indica valores."
+ },
+ "affected": [
+  "mulheres grávidas",
+  "médicos e profissionais de saúde objetores",
+  "hospitais do SNS"
+ ],
+ "categories": [
+  "saude",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "interrupção voluntária da gravidez",
+  "objeção de consciência",
+  "14 semanas",
+  "Código Penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

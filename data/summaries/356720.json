@@ -1,0 +1,42 @@
+{
+ "short_title": "Detenção em flagrante pela Polícia Municipal e entrega à PSP ou GNR",
+ "summary": "O projeto de lei altera os artigos 4.º e 6.º da Lei n.º 19/2004, que define o regime das polícias municipais. Clarifica que as polícias municipais são competentes para deter, em flagrante delito e nos termos do Código de Processo Penal (artigos 255.º, 256.º e 259.º), suspeitos de crime punível com prisão, para entrega imediata à autoridade judiciária ou ao órgão de polícia criminal territorialmente competente, como a PSP ou a GNR. Esclarece que isso não confere às polícias municipais poderes próprios de investigação criminal, inquérito, interrogatório ou direção processual, salvo atos cautelares e urgentes. Admite protocolos entre município e forças de segurança sobre a comunicação e a entrega do detido, sem criarem ou ampliarem competências. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Clarifica a competência das polícias municipais para deter em flagrante delito suspeitos de crime punível com prisão.",
+  "A detenção destina-se à entrega imediata à autoridade judiciária ou ao órgão de polícia criminal competente.",
+  "Exclui poderes próprios de investigação criminal, inquérito, interrogatório ou direção processual.",
+  "Permite protocolos de articulação operacional entre municípios e forças de segurança.",
+  "Os protocolos não podem criar nem ampliar competências legais."
+ ],
+ "plain_language": "A lei já permite que a Polícia Municipal detenha alguém apanhado a cometer um crime e o entregue às autoridades. A proposta torna isto mais claro: o detido tem de ser entregue logo à PSP, à GNR ou ao tribunal competente, e a Polícia Municipal não passa a investigar crimes. Os municípios e as polícias poderão combinar os procedimentos em protocolos.",
+ "context": "O proponente (Chega) afirma que a redação atual deixa dúvidas operacionais sobre o destino imediato do detido e o alcance da atuação das polícias municipais, o que gera incerteza jurídica e desigualdade de procedimentos. Salienta que não pretende alterar a arquitetura da segurança interna.",
+ "analysis": "A proposta tem alcance limitado e procura segurança jurídica sem ampliar competências de investigação, o que é um ponto positivo. Fragilidades: o texto admite que a lei já prevê esta detenção, pelo que o ganho prático é incerto; a expressão «autoridade judiciária» como destinatário pode gerar dúvidas sobre o destino concreto do detido; os protocolos locais podem criar práticas diferentes entre municípios; não se avalia a formação nem os meios das polícias municipais para este tipo de atuação.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A iniciativa clarifica procedimentos e não prevê despesa ou receita diretas."
+ },
+ "affected": [
+  "polícias municipais",
+  "PSP e GNR",
+  "municípios",
+  "pessoas detidas em flagrante"
+ ],
+ "categories": [
+  "seguranca",
+  "justica",
+  "territorio"
+ ],
+ "tags": [
+  "polícia municipal",
+  "detenção em flagrante",
+  "psp",
+  "gnr"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

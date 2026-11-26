@@ -1,0 +1,44 @@
+{
+ "short_title": "Sustentabilidade no acesso a medicamentos e dispositivos médicos",
+ "summary": "Projeto de Resolução da Iniciativa Liberal que recomenda ao Governo um conjunto de dez medidas para combater a falta de medicamentos e garantir a sustentabilidade da cadeia do medicamento e dos dispositivos médicos. Entre elas: rever a formação de preços e margens, aumentar a competitividade do mercado português sem prejuízo dos utentes, realizar um estudo de custo-efetividade entre opções farmacológicas, alargar as normas de orientação clínica sobre genéricos e biossimilares, atingir uma quota de 60% de genéricos em volume e apresentar propostas em 60 dias. Propõe ainda um sistema de alerta prévio de faltas, a dedução a 120% de despesas com combustíveis no transporte de medicamentos e a revisão dos preços dos dispositivos médicos comparticipados. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Medidas concretas contra a falta de medicamentos e revisão da formação de preços e margens da cadeia de abastecimento.",
+  "Estudo comparativo de custo-efetividade e meta de 60% de quota de genéricos em volume, com propostas em 60 dias.",
+  "Alargar orientações clínicas para promover genéricos e biossimilares nas patologias com comparticipação acima de 90%.",
+  "Sistema integrado de alerta prévio de faltas de medicamentos, junto do INFARMED.",
+  "Dedução a 120% das despesas com combustíveis dos veículos de transporte de medicamentos, alterando o Estatuto dos Benefícios Fiscais.",
+  "Revisão e atualização dos preços dos dispositivos médicos fixados no regime de comparticipação."
+ ],
+ "plain_language": "Os medicamentos faltam cada vez mais nas farmácias. A Iniciativa Liberal pede ao Governo que reveja preços e margens, promova mais genéricos e biossimilares, crie um alerta de faltas e ajude fiscalmente quem transporta medicamentos, sem prejudicar os doentes. É uma recomendação que o Governo não é obrigado a cumprir.",
+ "context": "O proponente refere que o custo de fabrico dos medicamentos subiu 40% em maio de 2022, que há ruturas de stock apesar da proibição de exportação de 154 medicamentos, que Portugal tem dos preços mais baixos da UE e que a quota de genéricos em volume era de 49,89% em novembro de 2022.",
+ "analysis": "Combina medidas de oferta, preços e fiscalidade e baseia-se em dados e audições. Fragilidades: aumentar preços para evitar ruturas pode implicar mais encargos para o Estado ou utentes, e a garantia de que não há prejuízo para os utentes não é concretizada. A meta de 60% de genéricos é fixada antes do estudo que a deveria fundamentar, e a dedução a 120% de combustíveis beneficia apenas um segmento da cadeia. O custo global não é estimado.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "A dedução a 120% de combustíveis reduz receita fiscal e a revisão de preços pode aumentar despesa, enquanto uma maior quota de genéricos e biossimilares pode gerar poupança. O texto não quantifica o saldo."
+ },
+ "affected": [
+  "Utentes do SNS",
+  "Farmácias e distribuidores de medicamentos",
+  "Indústria farmacêutica e de dispositivos médicos",
+  "INFARMED"
+ ],
+ "categories": [
+  "saude",
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "medicamentos",
+  "genéricos",
+  "biossimilares",
+  "rotura de stock",
+  "dispositivos médicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço dos cuidados paliativos pediátricos no SNS",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo cinco medidas. Primeira, um plano nacional de reforço dos cuidados paliativos pediátricos e dos recursos humanos especializados: reforçar equipas em todas as principais regiões de saúde, criar equipas domiciliárias pediátricas em cada Unidade Local de Saúde ou agrupamento de centros de saúde, e garantir formação certificada. Segunda, incluir explicitamente estes cuidados na Estratégia Nacional de Cuidados Continuados Integrados e na Rede Nacional de Cuidados Paliativos, com metas e indicadores. Terceira, nomear a Comissão Nacional de Cuidados Paliativos. Quarta, cumprir a Resolução n.º 48/2025. Quinta, reforçar o orçamento do SNS.",
+ "key_points": [
+  "Implementar um plano nacional de reforço dos cuidados paliativos pediátricos e dos recursos humanos.",
+  "Criar equipas domiciliárias pediátricas em cada ULS ou agrupamento de centros de saúde.",
+  "Incluir os cuidados paliativos pediátricos nas estratégias e redes nacionais, com metas e indicadores.",
+  "Nomear a Comissão Nacional de Cuidados Paliativos e cumprir a Resolução n.º 48/2025.",
+  "Reforçar o orçamento do SNS para acomodar estas medidas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo um plano para ter equipas de cuidados paliativos para crianças em todo o país, incluindo apoio em casa, e que cumpra o que o Parlamento já recomendou em 2025. Pede também mais dinheiro para o SNS. É uma recomendação sem força de lei.",
+ "context": "O BE cita estimativas da Associação Portuguesa de Cuidados Paliativos: cerca de 8000 crianças com necessidades paliativas, apenas 7 equipas pediátricas intra-hospitalares reconhecidas e uma equipa domiciliária, com menos de 10% das crianças com acesso em tempo útil. Recorda a Resolução n.º 48/2025, de fevereiro de 2025.",
+ "analysis": "É uma das propostas mais completas, com metas organizativas e referência a obrigações legais não cumpridas, como a nomeação da Comissão Nacional. Fragilidades: não quantifica o reforço orçamental nem o número de profissionais necessários,. Sendo recomendação, depende da vontade do Governo, e a escassez de profissionais especializados limita a execução.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto pede explicitamente o reforço do orçamento do SNS para financiar equipas, serviço domiciliário e formação, sem indicar montantes."
+ },
+ "affected": [
+  "crianças com doença grave ou incurável",
+  "famílias",
+  "profissionais de saúde",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos pediátricos",
+  "SNS",
+  "equipas domiciliárias",
+  "orçamento da saúde"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

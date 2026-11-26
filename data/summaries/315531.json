@@ -1,0 +1,41 @@
+{
+ "short_title": "Atualizar limites de dedução de IRS para PPR",
+ "summary": "O Projeto de Lei n.º 179/XVII/1.ª, do CHEGA, atualiza os limites máximos de dedução à coleta do IRS dos valores aplicados em planos de poupança-reforma (PPR), previstos no artigo 21.º do Estatuto dos Benefícios Fiscais. Os limites passam de 400, 350 e 300 euros para 500 euros (sujeitos passivos com menos de 35 anos), 450 euros (entre 35 e 50 anos) e 400 euros (mais de 50 anos). Estabelece ainda que esta dedução não é abrangida nem considerada no cálculo do limite global previsto na alínea b) do n.º 7 do artigo 78.º do Código do IRS. A lei entra em vigor no dia seguinte ao da publicação e produz efeitos a 1 de janeiro de 2026.",
+ "key_points": [
+  "Eleva o limite de dedução para 500 euros nos sujeitos passivos com menos de 35 anos.",
+  "Eleva o limite para 450 euros entre os 35 e os 50 anos e para 400 euros acima dos 50 anos.",
+  "Exclui a dedução de PPR do cálculo do limite global do n.º 7 do artigo 78.º do Código do IRS.",
+  "Produz efeitos a 1 de janeiro de 2026."
+ ],
+ "plain_language": "Quem poupa para a reforma num PPR pode abater parte desse valor ao imposto que paga, mas com limites que não mudam desde 2006. Este projeto aumenta esses limites em 100 euros em cada escalão etário e faz com que esse abatimento não conte para o teto geral de deduções, que também inclui saúde e educação. Assim, mais famílias conseguiriam usar o benefício.",
+ "context": "O CHEGA alega que as projeções da Comissão Europeia apontam para pensões equivalentes a 38,5% do último salário em 2050, contra 69,4% em 2022, o que justifica incentivar a poupança complementar. Sublinha que os limites não mudam desde 2006, que apenas cerca de 7,4% dos agregados (444 575 em 6 005 665) deduziram PPR em 2023 e que o teto global do IRS limita a dedução efetiva.",
+ "analysis": "Pontos fortes: atualiza valores estagnados há anos e retira a dedução do teto global, onde competia com despesas essenciais. Fragilidades: o benefício favorece sobretudo quem tem rendimento e capacidade de poupança, podendo ter efeito regressivo; o texto não estima a perda de receita; e a eficácia do incentivo para aumentar a poupança em PPR, face a um mero aproveitamento fiscal por quem já poupa, não é demonstrada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "O aumento dos limites de dedução e a exclusão do teto global reduzem a coleta de IRS; o texto não quantifica a perda de receita."
+ },
+ "affected": [
+  "contribuintes com PPR",
+  "agregados que poupam para a reforma",
+  "instituições financeiras gestoras de PPR"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "trabalho"
+ ],
+ "tags": [
+  "PPR",
+  "IRS",
+  "benefícios fiscais",
+  "poupança-reforma",
+  "deduções"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

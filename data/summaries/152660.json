@@ -1,0 +1,38 @@
+{
+ "short_title": "Mecanismo de importação emergencial de medicamentos em falta",
+ "summary": "O CHEGA recomenda ao Governo que crie, com urgência, um mecanismo de importação emergencial de medicamentos em falta, para mitigar a escassez no país. A exposição de motivos refere que em setembro de 2022 se registaram 7,5 milhões de embalagens em falta e mais de 858 medicamentos em rutura, 33 deles sem alternativa. Aponta como exemplos países como a Alemanha, a Hungria, os Países Baixos, Chipre, a Irlanda e a Lituânia, que usam a importação emergencial, e descreve o modelo húngaro de autorizações de quota. Refere as Autorizações de Utilização Excecional e as autorizações de comercialização de medicamentos sem registo em Portugal, e o artigo 5.º da Diretiva 2001/83/CE. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Recomenda a criação urgente de um mecanismo de importação emergencial de medicamentos em falta.",
+  "Inspira-se em práticas de países como a Alemanha, a Hungria e os Países Baixos.",
+  "Pretende repor stocks rapidamente e desincentivar práticas como quotas dos fabricantes."
+ ],
+ "plain_language": "O texto pede ao Governo que crie uma via rápida para importar medicamentos que faltam nas farmácias portuguesas, como já fazem outros países europeus. Assim, os doentes que não têm alternativa não ficariam sem tratamento quando um medicamento esgota. É apenas uma recomendação, que o Governo pode ou não seguir.",
+ "context": "O proponente afirma que a falta de medicamentos agravou-se, com 7,5 milhões de embalagens em falta em setembro de 2022 e mais de 858 medicamentos em rutura, afetando doentes sem alternativa. Defende copiar mecanismos de importação simplificada usados noutros países da União Europeia.",
+ "analysis": "A proposta aponta uma solução com exemplos internacionais e a falta de medicamentos é um problema real. Fragilidades: não define o mecanismo, quem o aciona, que garantias de qualidade e segurança são exigidas, nem como seriam fixados preços e comparticipação. Importar medicamentos não resolve as causas das ruturas (como baixas margens ou quotas de fabricantes) e pode competir com outros países. Sendo uma recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a importação emergencial poderia alterar a despesa com medicamentos, dependendo de preços e comparticipações."
+ },
+ "affected": [
+  "doentes com medicamentos em falta",
+  "farmácias",
+  "distribuidores de medicamentos",
+  "Infarmed"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "falta de medicamentos",
+  "importação emergencial",
+  "medicamentos em rutura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

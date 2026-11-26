@@ -1,0 +1,41 @@
+{
+ "short_title": "Valorizar assistentes operacionais e técnicos das escolas",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo quatro medidas para valorizar o pessoal não docente das escolas: definir conteúdos funcionais adequados para assistentes técnicos e operacionais, diferenciando e valorizando os que têm especificidades educativas; realizar um estudo sobre as necessidades de assistentes nas escolas; rever e ajustar os rácios, em articulação com a Associação Nacional de Municípios Portugueses; e criar formações para capacitar os assistentes operacionais que acompanham crianças e jovens com necessidades educativas específicas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Definir conteúdos funcionais dos assistentes técnicos e operacionais, valorizando os que têm funções educativas específicas.",
+  "Realizar um estudo sobre as necessidades de assistentes em cada escola.",
+  "Rever e ajustar os rácios, em articulação com a Associação Nacional de Municípios Portugueses.",
+  "Criar formações para trabalhar com alunos com necessidades educativas específicas."
+ ],
+ "plain_language": "O PS pede ao Governo que clarifique o que fazem os funcionários não docentes das escolas, avalie quantos são precisos, ajuste o número por escola e dê formação para apoiar alunos com necessidades especiais. O Governo não é obrigado a cumprir.",
+ "context": "O PS refere queixas recorrentes de sobrecarga do pessoal não docente por falta de assistentes, num contexto de mais alunos com necessidades educativas específicas, apontando 88.682 crianças e alunos com medidas de suporte em 2022/2023. Invoca a Recomendação 4/2020 do Conselho Nacional de Educação e um relatório da OCDE.",
+ "analysis": "A iniciativa baseia-se em dados e recomendações institucionais e propõe um diagnóstico antes de ajustar rácios, o que é metodologicamente sensato. Contudo, as competências sobre este pessoal foram descentralizadas para os municípios, e o texto não esclarece como se repartiriam responsabilidades e custos, nem fixa prazos ou metas. Ao ser recomendação, depende da vontade do Governo. A exposição de motivos dedica espaço considerável à defesa de governos anteriores.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais assistentes, formação e eventual valorização funcional implicariam despesa adicional. O texto não apresenta montantes para as medidas propostas."
+ },
+ "affected": [
+  "assistentes operacionais das escolas",
+  "assistentes técnicos das escolas",
+  "alunos com necessidades educativas específicas",
+  "municípios"
+ ],
+ "categories": [
+  "educacao",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "pessoal não docente",
+  "assistentes operacionais",
+  "rácios",
+  "necessidades educativas especiais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Orçamento de carbono 2026-2030 alinhado com o Acordo de Paris",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo que aprove o orçamento de carbono para o quinquénio 2026-2030, previsto no artigo 20.º, n.º 8, da Lei de Bases do Clima, assegurando três condições. A meta de emissões em 2030 não deve ultrapassar 34,4 milhões de toneladas de CO2 equivalente, em linha com os 1,5°C do Acordo de Paris. O orçamento deve ser desagregado por subsetores, como produção de eletricidade, indústria, transporte rodoviário e marítimo, aviação e ferrovia. E deve existir um sistema de monitorização rápida, com divulgação anual de um inventário provisório de emissões até março de cada ano. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Aprovar o orçamento de carbono 2026-2030 com emissões em 2030 até 34,4 Mt CO2eq.",
+  "Desagregar o orçamento por subsetores, como eletricidade, indústria, transportes e aviação.",
+  "Criar monitorização rápida com inventário provisório de emissões até março de cada ano.",
+  "Cumprir o disposto no artigo 20.º, n.º 8, da Lei de Bases do Clima."
+ ],
+ "plain_language": "O Governo tem de fixar quanto Portugal pode emitir de gases com efeito de estufa entre 2026 e 2030, mas ainda não aprovou esse limite. O PAN pede que seja mais exigente do que a versão proposta, que seja dividido por setores e que haja dados anuais mais rápidos para detetar desvios.",
+ "context": "O PAN refere que a versão posta em consulta pública entre dezembro de 2024 e janeiro de 2025 não foi aprovada, e que a meta prevista para 2030 é de 38,6 Mt CO2eq, acima das 34,4 Mt que, segundo a Associação Zero, seriam necessárias para o objetivo de 1,5°C. Critica o atraso de dois anos nos inventários atuais.",
+ "analysis": "Pontos fortes: propõe metas concretas, mais transparência por setor e deteção precoce de desvios. Fragilidades: a meta de 34,4 Mt assenta numa estimativa de uma associação ambientalista e o texto não avalia os custos económicos e sociais do cumprimento nem as medidas para a atingir. A divulgação provisória exige recursos técnicos e pode ter margem de erro. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O cumprimento de limites mais exigentes pode implicar custos de transição e de monitorização, mas o texto não os quantifica."
+ },
+ "affected": [
+  "setores industrial, energético e dos transportes",
+  "Agência Portuguesa do Ambiente",
+  "cidadãos e empresas sujeitos a políticas climáticas"
+ ],
+ "categories": [
+  "ambiente",
+  "energia"
+ ],
+ "tags": [
+  "orçamento de carbono",
+  "Acordo de Paris",
+  "Lei de Bases do Clima",
+  "emissões",
+  "monitorização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

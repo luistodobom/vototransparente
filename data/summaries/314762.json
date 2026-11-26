@@ -1,0 +1,42 @@
+{
+ "short_title": "Bloqueio da ignição por álcool no transporte coletivo de crianças",
+ "summary": "O PAN propõe alterar a Lei n.º 13/2006, que regula o transporte coletivo de crianças e jovens, para exigir que os automóveis usados nesse transporte, matriculados em Portugal a partir de 1 de julho de 2026, estejam equipados com um dispositivo de bloqueio da ignição sensível ao álcool homologado, nos termos do Regulamento (UE) 2019/2144 e do Regulamento Delegado (UE) 2021/1243. A falta do dispositivo passa a ser contraordenação grave, através de nova alínea r) do artigo 19.º, e o artigo 5.º é ajustado para a inspeção da licença. A lei entraria em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Novo artigo 13.º-A: obrigação de dispositivo de bloqueio da ignição sensível ao álcool nos automóveis matriculados a partir de 1 de julho de 2026.",
+  "O dispositivo tem de estar homologado nos termos dos regulamentos europeus 2019/2144 e 2021/1243.",
+  "A falta do dispositivo é contraordenação grave.",
+  "A inspeção específica da DGV para a licença passa a abranger o novo artigo 13.º-A.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O PAN quer que os veículos novos usados para transportar crianças, por exemplo para a escola, só arranquem se o condutor passar um teste de álcool, através de um aparelho instalado no carro. Quem não tiver o aparelho nos veículos abrangidos poderá ser multado.",
+ "context": "O PAN invoca o elevado consumo de álcool em Portugal, o peso do álcool na sinistralidade rodoviária e o custo dos acidentes, estimado em 6 422,9 milhões de euros em 2019. Refere que a legislação europeia exige a pré-instalação destes dispositivos em novos veículos desde 7 de julho de 2024 e que vários países os usam, defendendo o alinhamento com as melhores práticas.",
+ "analysis": "A medida visa um grupo especialmente vulnerável e usa tecnologia já prevista na legislação europeia. Contudo, o texto tem inconsistências: a exposição de motivos fala em 1 de janeiro de 2026 e o articulado em 1 de julho de 2026; a numeração salta do artigo 3.º para o 6.º; a data final menciona 2022 e a designação indica XV legislatura. Aplica-se apenas a veículos novos matriculados, deixando de fora a frota existente. Não quantifica custos para operadores nem para a fiscalização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Há custos de instalação para os operadores e possível receita de coimas, mas o texto não apresenta montantes."
+ },
+ "affected": [
+  "crianças e jovens transportados",
+  "operadores de transporte escolar",
+  "condutores",
+  "Direção-Geral de Viação"
+ ],
+ "categories": [
+  "transportes",
+  "seguranca",
+  "familia"
+ ],
+ "tags": [
+  "alcolock",
+  "transporte de crianças",
+  "segurança rodoviária",
+  "contraordenações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

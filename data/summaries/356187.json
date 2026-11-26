@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualização dos serviços remunerados da PSP e GNR",
+ "summary": "Este Projeto de Resolução do CHEGA recomenda ao Governo que reveja os valores dos serviços remunerados prestados pela PSP e pela GNR, na sequência da Portaria n.º 64/2026/1, que os atualizou em 38%. Propõe uma tabela remuneratória única, em vez de duas tabelas distintas, com um aumento de cerca de 65% sobre a Tabela A da Portaria n.º 298/2016, um acréscimo de 10% para sábados, domingos e feriados entre as 20:00 e as 08:00, o pagamento de cada período segundo o seu valor, uma duração base de 3 horas com extensão de 1 hora e atualização anual indexada à inflação. Como resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar uma Tabela Remuneratória Única para os serviços remunerados da PSP e da GNR.",
+  "Aumentar cerca de 65% a Tabela A da Portaria n.º 298/2016, em vez dos 38% da Portaria n.º 64/2026/1.",
+  "Acrescentar 10% aos sábados, domingos e feriados entre as 20:00 e as 08:00.",
+  "Remunerar cada período de um serviço pelo seu valor, em vez de usar o período mais longo.",
+  "Fixar a duração base em 3 horas, com extensão de 1 hora, e atualizar a tabela anualmente pela inflação acumulada."
+ ],
+ "plain_language": "Quando a polícia é contratada para vigiar eventos, as entidades pagam valores tabelados. O CHEGA acha que o aumento recente foi insuficiente e pede ao Governo uma tabela única, aumentos maiores, mais pagamento à noite e aos fins de semana e uma atualização automática todos os anos. É apenas um pedido ao Governo, que não é obrigado a cumpri-lo.",
+ "context": "O proponente refere que o Governo se comprometeu a atualizar os valores após cerca de 10 anos, mas considera que a Portaria n.º 64/2026/1 não acompanha a inflação e o custo de vida, não corresponde ao negociado com as associações socioprofissionais e mantém duas tabelas para o mesmo serviço. Invoca ainda a quebra de candidaturas e o descontentamento nas forças de segurança.",
+ "analysis": "A proposta valoriza uma queixa concreta dos profissionais e propõe regras objetivas, como a indexação à inflação e a remuneração por período. Tem fragilidades: o aumento de 65% é apresentado sem estudo de impacto, os custos recaem sobre as entidades que contratam os serviços, e valores mais altos podem favorecer a substituição por segurança privada, risco que o próprio texto reconhece. Nem todas as fontes citadas são oficiais, e a tabela única poderia ter efeitos para eventos de menor dimensão. A natureza recomendatória limita o efeito prático.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Os serviços remunerados são pagos pelas entidades requerentes, pelo que o impacto no Estado depende da procura e da repartição das receitas. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "agentes da PSP",
+  "militares da GNR",
+  "entidades que contratam serviços remunerados",
+  "empresas de segurança privada"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho"
+ ],
+ "tags": [
+  "PSP",
+  "GNR",
+  "serviços remunerados",
+  "portaria",
+  "remunerações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Exames nacionais adaptados a estudantes com daltonismo",
+ "summary": "O Projeto de Resolução do LIVRE recomenda ao Governo quatro medidas para tornar os exames nacionais acessíveis a estudantes com daltonismo. Pede que gráficos, mapas e esquemas não dependam exclusivamente da cor, usando padrões, texturas ou símbolos. Pede ao Júri Nacional de Exames e à entidade responsável pelas provas orientações técnicas específicas de acessibilidade. Pede um protocolo obrigatório, no regulamento das provas, para situações em que um aluno não tenha toda a informação durante o exame. E pede ações regulares de informação e formação para docentes, direções de escola e vigilantes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Garantir que representações visuais dos exames não dependam só da cor, usando padrões, texturas ou símbolos.",
+  "Orientações técnicas específicas do Júri Nacional de Exames sobre acessibilidade para daltonismo.",
+  "Protocolo obrigatório no regulamento das provas para incidentes durante o exame.",
+  "Formação regular de docentes, direções de escola e vigilantes sobre daltonismo e outras condições da perceção visual."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que os exames nacionais sejam desenhados para que alunos daltónicos consigam ler gráficos e mapas sem depender só das cores, que haja regras claras se surgir um problema durante o exame e que os professores e vigilantes recebam formação. É uma recomendação, não uma obrigação.",
+ "context": "O proponente invoca o regime da educação inclusiva (Decreto-Lei n.º 54/2018) e uma petição de um estudante daltónico prejudicado num exame em que a distinção num gráfico dependia da cor. Aponta a falta de orientações técnicas, de procedimentos uniformes e de formação nos regulamentos atuais.",
+ "analysis": "A proposta é concreta, de baixo custo e apoiada no quadro legal da educação inclusiva, e responde a um caso documentado numa petição. Fragilidades: não identifica quantos alunos são afetados, não define prazos nem a entidade responsável pela formação, e o protocolo de atuação poderia colidir com a necessidade de manter condições idênticas de avaliação. Não esclarece também como se garante a verificação prévia de acessibilidade dos enunciados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A formação e a revisão dos materiais de exame implicam algum custo para o Estado, que o texto não quantifica."
+ },
+ "affected": [
+  "estudantes com daltonismo",
+  "docentes e vigilantes de exames",
+  "Júri Nacional de Exames",
+  "escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "daltonismo",
+  "exames nacionais",
+  "educação inclusiva",
+  "acessibilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

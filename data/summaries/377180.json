@@ -1,0 +1,43 @@
+{
+ "short_title": "Formação em imigração e asilo para profissionais da justiça",
+ "summary": "Este projeto de resolução do LIVRE recomenda ao Governo que crie, através do Ministério da Justiça, um programa de formação inicial e contínua sobre imigração e proteção internacional dirigido a magistrados, advogados e funcionários de justiça. O programa abrangeria o direito das migrações, o asilo e a proteção subsidiária, o direito da União Europeia e internacional, a jurisprudência dos tribunais nacionais, do TJUE e do TEDH, o princípio da não repulsão, os direitos das crianças e o acesso à justiça. Pede o envolvimento do CSTAF, do Centro de Estudos Judiciários, da Ordem dos Advogados, do ACNUR e da OIM, e a inclusão de recursos do programa HELP do Conselho da Europa.",
+ "key_points": [
+  "Criar um programa de formação inicial e contínua em imigração e proteção internacional para magistrados, advogados e funcionários de justiça.",
+  "Abranger direito das migrações, asilo, direito europeu e internacional, jurisprudência e direitos humanos.",
+  "Incluir o princípio da não repulsão e o superior interesse da criança.",
+  "Envolver o CSTAF, o CEJ, a Ordem dos Advogados, o ACNUR e a OIM.",
+  "Usar, quando adequado, recursos do programa HELP do Conselho da Europa."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que organize cursos para juízes, advogados e funcionários dos tribunais sobre as leis de imigração e asilo, que são complexas e mudam muito. O objetivo é que as decisões sobre estrangeiros, que podem implicar expulsões com consequências graves, sejam rigorosas e bem fundamentadas. Seria uma formação feita com várias entidades, incluindo organizações internacionais. É apenas uma recomendação ao Governo.",
+ "context": "O proponente sustenta que o direito das migrações e do asilo é complexo e articula normas nacionais, europeias e internacionais, e que uma decisão incorreta pode levar ao afastamento de uma pessoa para um país onde corra risco de perseguição ou de maus-tratos. Refere também o elevado número de processos de imigrantes nos tribunais e a pressão sobre o sistema judicial.",
+ "analysis": "A proposta é relevante para a qualidade das decisões judiciais e aproveita estruturas existentes, como o CEJ e o programa HELP. Fragilidades: não define a duração, o carácter obrigatório ou voluntário, o número de participantes nem o financiamento, e formar não resolve a pressão processual e a escassez de juízes. A independência dos magistrados também exige cuidado quanto ao papel do Ministério da Justiça na formação. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Criar e executar um programa de formação implica custos com formadores e organização; o texto não os quantifica."
+ },
+ "affected": [
+  "magistrados",
+  "advogados",
+  "funcionários de justiça",
+  "imigrantes e requerentes de asilo"
+ ],
+ "categories": [
+  "justica",
+  "imigracao",
+  "direitos"
+ ],
+ "tags": [
+  "formação",
+  "imigração",
+  "asilo",
+  "proteção internacional",
+  "magistrados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

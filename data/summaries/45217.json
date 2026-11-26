@@ -1,0 +1,37 @@
+{
+ "short_title": "Limitar o aumento das propinas de CTeSP, mestrados e doutoramentos públicos",
+ "summary": "O PAN propõe, em projeto de lei, que o valor das propinas dos cursos técnicos superiores profissionais e dos cursos de segundo e terceiro ciclos nas instituições de ensino superior públicas, definido e publicitado quando o estudante entra no curso, não possa ser alterado durante a frequência em valor superior ao índice de preços no consumidor, sem habitação, do ano anterior. A lei aplica-se a todas as instituições públicas, o Governo regulamenta-a no prazo de 60 dias e ela entra em vigor no dia seguinte ao da publicação. O texto refere que a lei atual limita as propinas dos mestrados integrados, mas deixa livre as dos restantes ciclos e do CTeSP.",
+ "key_points": [
+  "Limita a alteração das propinas de CTeSP e de 2.º e 3.º ciclos em instituições públicas durante o curso.",
+  "O aumento não pode exceder o IPC, sem habitação, do ano anterior.",
+  "Aplica-se a todas as instituições públicas de ensino superior.",
+  "O Governo regulamenta em 60 dias; entra em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "Se uma universidade ou politécnico público anunciar uma propina quando o estudante entra num mestrado, doutoramento ou curso técnico superior profissional, só poderá aumentá-la durante o curso até ao valor da inflação do ano anterior. O objetivo é que os estudantes saibam quanto vão pagar.",
+ "context": "O proponente defende que o acesso ao ensino superior não deve depender de condições económicas. Aponta que a lei limita as propinas dos mestrados integrados, mas deixa livre as de outros ciclos, e que, com a COVID-19, várias instituições alteraram propinas a estudantes já inscritos, o que considera injusto e pouco transparente.",
+ "analysis": "A medida dá previsibilidade e protege estudantes já inscritos de aumentos a meio do percurso, com um critério objetivo e fácil de verificar. Fragilidades: não limita o valor inicial, pelo que as instituições podem fixar propinas elevadas à entrada, e pode reduzir a margem das instituições numa fase de quebra de receita por menos estudantes internacionais. O artigo sobre regulamentação refere definir a sua composição, sem se perceber a que se refere, o que sugere imprecisão.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A limitação de aumentos pode reduzir receitas das instituições, com eventual necessidade de compensação, mas o texto não quantifica efeitos."
+ },
+ "affected": [
+  "estudantes de CTeSP, mestrado e doutoramento",
+  "instituições de ensino superior públicas"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "mestrados",
+  "CTeSP"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

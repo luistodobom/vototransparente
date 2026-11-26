@@ -1,0 +1,40 @@
+{
+ "short_title": "Suplemento de 25% para agentes únicos de transportes coletivos",
+ "summary": "Projeto de Lei do PAN que cria um suplemento remuneratório para os trabalhadores que exercem funções de agente único de transportes coletivos, correspondente a 25% da remuneração base mensal. Aplica-se a trabalhadores da carreira de assistente operacional na administração direta, indireta e local e em empresas públicas ou municipais de transporte coletivo, enquanto exercerem efetivamente a função e mantiverem a certificação renovada de cinco em cinco anos. É pago 14 vezes por ano, suspende-se com o afastamento temporário e não é cumulável com outros suplementos sobre as mesmas funções. O Governo teria 120 dias para promover os acordos necessários nas entidades empresariais municipais e intermunicipais.",
+ "key_points": [
+  "Cria um suplemento de 25% da remuneração base mensal para agentes únicos de transportes coletivos.",
+  "Exige exercício efetivo da função e formação e certificação válidas, renovadas a cada cinco anos.",
+  "O suplemento é pago 14 vezes por ano e fica suspenso em caso de afastamento temporário.",
+  "Não é cumulável com outros suplementos sobre as mesmas funções.",
+  "O Governo promove os acordos nas entidades públicas empresariais municipais e intermunicipais em 120 dias; efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem conduz autocarros ou outros transportes coletivos e, ao mesmo tempo, vende e controla bilhetes e lida com os passageiros, passaria a receber mais 25% do salário base. Para isso teria de ter a formação e a certificação em dia. O PAN considera que estas funções são mais exigentes do que as de outros assistentes operacionais, que têm o mesmo salário.",
+ "context": "O PAN afirma que, com o Decreto-Lei n.º 84-F/2022, os agentes únicos foram integrados na carreira de assistente operacional sem reconhecimento da sua complexidade acrescida. Alega aumento de stress, fadiga e absentismo, bem como dificuldades de recrutamento e retenção de profissionais.",
+ "analysis": "A medida dá resposta a uma reivindicação de valorização salarial fundamentada na exigência da função. Contudo, o texto não estima o número de trabalhadores abrangidos nem o custo, e a aplicação a empresas municipais e intermunicipais, com autonomia própria, depende de acordos cuja natureza é pouco clara, o que pode levantar questões de aplicação. Há também risco de pressão por suplementos equivalentes noutras carreiras. A articulação com regimes de carreira e negociação coletiva não é detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O suplemento de 25% da remuneração base, pago 14 vezes por ano, aumenta os encargos com pessoal das entidades abrangidas. O texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "Agentes únicos de transportes coletivos",
+  "Empresas públicas e municipais de transporte",
+  "Municípios e Estado"
+ ],
+ "categories": [
+  "trabalho",
+  "transportes"
+ ],
+ "tags": [
+  "agente único",
+  "suplemento remuneratório",
+  "transportes coletivos",
+  "assistente operacional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

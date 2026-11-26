@@ -1,0 +1,44 @@
+{
+ "short_title": "Reforma do regime da mobilidade elétrica e do carregamento de veículos",
+ "summary": "A Iniciativa Liberal propõe alterar o Decreto-Lei n.º 39/2010, que regula a mobilidade elétrica, seguindo recomendações da Autoridade da Concorrência de outubro de 2024. Cria uma rede mista, para além da rede integrada gerida pela entidade gestora (EGME), em que os operadores de pontos de carregamento (OPC) podem vender energia diretamente, sem contrato prévio com um comercializador (CEME). Obriga a disponibilizar pagamento ad hoc em todos os pontos, por exemplo com códigos QR, e a expor claramente o preço antes do carregamento, sem discriminação entre preços ad hoc e preços a prestadores de serviços. Define regras para licenças de operador, independência da EGME e pontos acessíveis ao público.",
+ "key_points": [
+  "Cria uma rede mista de mobilidade elétrica em que o operador do ponto de carregamento vende energia diretamente, sem comercializador intermédio.",
+  "Obriga os operadores a disponibilizar pagamento ad hoc em todos os pontos de carregamento e a mostrar o preço antes de iniciar o carregamento.",
+  "Proíbe discriminação entre preços ad hoc e preços cobrados a prestadores de serviços de mobilidade.",
+  "Exige que a EGME seja autónoma face aos operadores e comercializadores, e que os OPC sejam autónomos face às entidades que exerçam a gestão da rede e da informação.",
+  "Define licenças nacionais de operação com 10 anos, prorrogáveis, e os critérios de pontos acessíveis ao público.",
+  "Prevê integração de fontes de energia renovável local sempre que tecnicamente viável."
+ ],
+ "plain_language": "Hoje, para carregar um carro elétrico em muitos postos é preciso ter contrato com um comercializador e, muitas vezes, uma aplicação. A proposta permite carregar e pagar no local, com preço visível antes de começar, e deixa os operadores dos postos vender a energia diretamente, para haver mais concorrência e preços mais claros para quem conduz.",
+ "context": "A Iniciativa Liberal subscreve recomendações da Autoridade da Concorrência de outubro de 2024 para fomentar a concorrência e o bem-estar dos consumidores, entre elas simplificar o pagamento, integrar os papéis de operador e comercializador e garantir a independência da entidade gestora. Defende que o carro elétrico é cada vez mais acessível à classe média e que a tarifa deve ser clara e transparente.",
+ "analysis": "A proposta segue recomendações do regulador da concorrência e traz mais transparência de preços e menos barreiras de acesso, em linha com o direito europeu de pagamento ad hoc. Fragilidades: o texto de articulado é extenso e remete largamente para regulamentação futura, e a coexistência de duas redes, integrada e mista, pode aumentar a complexidade. O impacto sobre a entidade gestora e sobre contratos de concessão existentes não é avaliado, e nem todas as recomendações do regulador são transpostas. Há ainda incoerências formais: o articulado altera e revoga simultaneamente os artigos 26.º e 27.º, e tem dois artigos 4.º.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta montantes. A reorganização do mercado poderia ter custos de adaptação para operadores e regulação, e efeitos sobre os preços pagos pelos utilizadores, não quantificados."
+ },
+ "affected": [
+  "utilizadores de veículos elétricos",
+  "operadores de pontos de carregamento",
+  "comercializadores de eletricidade para a mobilidade elétrica",
+  "entidade gestora da rede de mobilidade elétrica"
+ ],
+ "categories": [
+  "energia",
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "mobilidade elétrica",
+  "carregamento",
+  "pagamento ad hoc",
+  "concorrência",
+  "operadores de pontos de carregamento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

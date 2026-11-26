@@ -1,0 +1,43 @@
+{
+ "short_title": "Restringe a aquisição e prevê a perda da nacionalidade portuguesa",
+ "summary": "Projeto de Lei do CHEGA que altera os artigos 1.º, 6.º, 8.º e 9.º da Lei da Nacionalidade. Passa a exigir, para nascidos em Portugal filhos de estrangeiros, residência legal dos pais com título válido há pelo menos 6 anos (países de língua oficial portuguesa) ou 10 anos (outros países). Na naturalização, exige conhecimento suficiente da língua, aprovação num Teste Nacional de Integração e Cidadania, ligação efetiva à comunidade, idoneidade cívica e não ter recebido apoios sociais nos últimos 3 anos. Alarga a perda da nacionalidade por naturalização, nomeadamente por condenações graves, terrorismo, obtenção fraudulenta e ofensa ostensiva à Nação, e cria um novo fundamento de oposição. O Governo regulamentaria o teste em 30 dias.",
+ "key_points": [
+  "Nascidos em Portugal: nacionalidade de origem só se os pais residirem com título válido há 6 anos (países de língua portuguesa) ou 10 anos (outros).",
+  "Naturalização: língua, Teste Nacional de Integração e Cidadania, ligação à comunidade, idoneidade cívica e sem apoios sociais nos últimos 3 anos.",
+  "Perda da nacionalidade adquirida por naturalização em caso de pena efetiva superior a 3 anos, terrorismo e crimes contra o Estado, ofensas ostensivas à Nação ou obtenção fraudulenta.",
+  "Nova causa de oposição à aquisição: comportamentos reiterados ofensivos da dignidade da Nação e dos seus símbolos.",
+  "Regulamentação do teste pelo Governo no prazo de 30 dias após a publicação da lei."
+ ],
+ "plain_language": "O CHEGA propõe tornar mais difícil obter a nacionalidade portuguesa: mais anos de residência legal, um teste sobre história e valores, língua portuguesa e não ter recebido apoios sociais durante três anos. Também propõe que quem a obteve por naturalização a possa perder, por exemplo se for condenado a prisão efetiva superior a três anos ou por terrorismo.",
+ "context": "O proponente defende que a nacionalidade deve ser o culminar de um percurso de integração e que o regime de 2018 (Lei Orgânica n.º 2/2018) foi demasiado permissivo, por exemplo ao reduzir o prazo de residência exigido e flexibilizar a prova. Considera também que a perda deve ser possível quando o indivíduo atenta contra a soberania, a segurança ou o Estado de Direito, o que apresenta como resposta à quebra do dever de lealdade.",
+ "analysis": "A iniciativa reforça critérios de integração e prevê salvaguardas para descendentes de portugueses. Levanta, contudo, questões jurídicas relevantes: a perda da nacionalidade por naturalização cria desigualdade entre cidadãos de origem e naturalizados, e as expressões 'ofender de forma ostensiva' a Nação ou 'comportamentos ofensivos' são vagas, com risco de restrição da liberdade de expressão; a possibilidade de apatridia e a compatibilidade constitucional não são analisadas. Exigir que não se tenha recebido apoios sociais pode penalizar pessoas em situação vulnerável. Não há estimativa do número de pessoas afetadas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativas. A criação e aplicação do teste e dos procedimentos de perda implicariam custos administrativos, não quantificados."
+ },
+ "affected": [
+  "estrangeiros residentes em Portugal",
+  "filhos de imigrantes nascidos em Portugal",
+  "cidadãos naturalizados",
+  "serviços de registos e nacionalidade"
+ ],
+ "categories": [
+  "imigracao",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "nacionalidade",
+  "naturalização",
+  "perda da nacionalidade",
+  "integração",
+  "Lei da Nacionalidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Carta dos Direitos da Cidadania Sénior",
+ "summary": "Projeto de Lei do LIVRE que aprova a Carta dos Direitos da Cidadania Sénior. Estabelece princípios orientadores (independência, participação, cuidado, realização pessoal e dignidade) e consagra direitos das pessoas seniores: envelhecimento digno, alimentação e nutrição, saúde, habitação, ambiente limpo e saudável, profissionalização e trabalho, educação, cultura, desporto e lazer, proteção social, transporte e atendimento prioritário. Entre as medidas mais concretas, prevê a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, lugares reservados em estacionamentos privados, descontos em atividades culturais e de lazer, programas de profissionalização e de preparação para a reforma e prioridade especial no atendimento a quem tenha mais de 80 anos. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Consagrar princípios de independência, participação, cuidado, realização pessoal e dignidade.",
+  "Prever a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos para pessoas seniores.",
+  "Garantir atendimento prioritário em serviços públicos e privados, com prioridade especial acima dos 80 anos.",
+  "Criar programas de profissionalização, transição para a aposentação e acesso à educação e cultura, com descontos.",
+  "Entrada em vigor com o Orçamento do Estado que se lhe seguir."
+ ],
+ "plain_language": "O LIVRE propõe uma lei que reúne os direitos das pessoas mais velhas, como envelhecer com dignidade, ter acesso a saúde, habitação, trabalho adequado e proteção social. Inclui medidas práticas, como transportes públicos urbanos gratuitos, lugares de estacionamento reservados, descontos em atividades culturais e atendimento prioritário em serviços, sobretudo para os maiores de 80 anos.",
+ "context": "O proponente invoca os Princípios das Nações Unidas para as Pessoas Idosas (1991) e a Recomendação CM/Rec(2014)2 do Conselho da Europa, e salienta o aumento da esperança de vida em Portugal, de 35,6 anos em 1920 para 78,7 (homens) e 84 anos (mulheres) em 2022-2024. Considera necessárias medidas específicas para evitar lacunas de proteção, abusos e negligência.",
+ "analysis": "A iniciativa organiza direitos num instrumento único e inclui medidas concretas, como a gratuidade dos transportes. As fragilidades: o texto não define a idade a partir da qual se é pessoa sénior na parte analisada, não estima o custo da gratuidade nem os efeitos nas receitas dos operadores e das autarquias, e obriga estacionamentos privados a reservar lugares sem avaliar o impacto. Muitos direitos são enunciados de forma programática, sem meios nem prazos. Alguns direitos sobrepõem-se a legislação existente.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A gratuidade dos transportes coletivos urbanos e semi-urbanos e os programas e descontos previstos implicariam encargos públicos, que o texto não quantifica."
+ },
+ "affected": [
+  "pessoas seniores",
+  "operadores de transporte público",
+  "municípios",
+  "estabelecimentos com estacionamento"
+ ],
+ "categories": [
+  "direitos",
+  "familia",
+  "transportes"
+ ],
+ "tags": [
+  "pessoas seniores",
+  "carta de direitos",
+  "transportes gratuitos",
+  "envelhecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

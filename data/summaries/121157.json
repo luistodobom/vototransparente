@@ -1,0 +1,41 @@
+{
+ "short_title": "Terça-Feira de Carnaval como feriado obrigatório",
+ "summary": "Projeto de lei do PAN que consagra a Terça-Feira de Carnaval como feriado nacional obrigatório, procedendo à décima sétima alteração ao Código do Trabalho. Altera o artigo 234.º, para incluir a Terça-Feira de Carnaval na lista de feriados obrigatórios, e o artigo 235.º, sobre feriados facultativos e municipais, que deixa de referir o Carnaval. A lei entra em vigor no dia seguinte ao da publicação. Hoje a data é facultativa para o setor privado, e o Governo costuma conceder tolerância de ponto na função pública. O PAN invoca o impacto do Carnaval nas economias locais, a igualdade entre trabalhadores públicos e privados e o tempo de lazer e de família.",
+ "key_points": [
+  "A Terça-Feira de Carnaval passa a feriado obrigatório no Código do Trabalho (artigo 234.º).",
+  "Ajuste do artigo 235.º, sobre feriados facultativos e municipais.",
+  "Entrada em vigor no dia seguinte ao da publicação.",
+  "Pretende pôr fim à diferença entre setor público (tolerância de ponto) e setor privado."
+ ],
+ "plain_language": "O PAN quer que a terça-feira de Carnaval passe a ser feriado em todo o país, para todos os trabalhadores. Hoje, é opcional para as empresas e o Estado costuma dar tolerância de ponto. A mudança daria um dia de folga garantido a quem trabalha no privado.",
+ "context": "O PAN afirma que o Carnaval tem grande importância cultural e económica, citando por exemplo um estudo sobre o Carnaval de Torres Vedras (retorno de cerca de 9 milhões de euros), e que a Terça-Feira de Carnaval não ser obrigatória reduz o potencial de dinamização local. Alega discriminação do setor privado, calendário escolar assente na data e maior tempo de lazer, citando uma média de 1.868 horas anuais de trabalho em Portugal em 2016 (OCDE).",
+ "analysis": "A proposta é simples e responde a uma prática já generalizada na função pública e em muitos contratos coletivos, trazendo uniformidade. Fragilidades: o texto não discute o custo para as empresas e a produtividade de mais um feriado, e os dados económicos do Carnaval (Torres Vedras, 2013) são antigos e localizados. Os feriados obrigatórios são fixados por lei e podem ter implicações nos acordos coletivos; o artigo 235.º tem remissões a verificar.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Um feriado obrigatório adicional pode reduzir a atividade económica e a produtividade, mas aumentar receitas em certas localidades. O texto não apresenta montantes nacionais."
+ },
+ "affected": [
+  "trabalhadores do setor privado",
+  "empregadores",
+  "municípios com festejos de Carnaval",
+  "famílias com crianças em idade escolar"
+ ],
+ "categories": [
+  "trabalho",
+  "cultura"
+ ],
+ "tags": [
+  "carnaval",
+  "feriado",
+  "código do trabalho",
+  "tolerância de ponto",
+  "turismo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

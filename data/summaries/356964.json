@@ -1,0 +1,43 @@
+{
+ "short_title": "Menos contribuições para empresas que contratem emigrantes regressados",
+ "summary": "O Projeto de Lei n.º 680/XVII/1.ª, do CHEGA, reduz a taxa contributiva a cargo das entidades empregadoras que contratem emigrantes portugueses que regressem a Portugal, de 23,75% para 19%, durante um máximo de 60 meses contados desde a fixação de residência em Portugal. São elegíveis contratos sem termo e contratos a termo com duração inicial ou previsível igual ou superior a 12 meses. A redução depende de requerimento à Segurança Social, acompanhado de contrato, prova de nacionalidade portuguesa e de residência no estrangeiro, e declaração de que o posto não resulta da substituição de trabalhador despedido. Falsas declarações implicam cessação, restituição e coimas. A redução é financiada por transferências do Orçamento do Estado para a Segurança Social, aplica-se a contratos futuros e entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "A taxa contributiva patronal baixa de 23,75% para 19% para contratos de emigrantes portugueses que regressem.",
+  "A redução dura no máximo 60 meses desde a fixação de residência em Portugal.",
+  "São elegíveis contratos sem termo e a termo com duração igual ou superior a 12 meses.",
+  "Depende de requerimento e prova, e exclui postos que resultem de substituição direta de trabalhador despedido.",
+  "Financiamento integral por transferências do Orçamento do Estado para a Segurança Social."
+ ],
+ "plain_language": "Quem contrata um português que estava a trabalhar no estrangeiro e volta a viver cá poderia pagar menos à Segurança Social: 19% em vez de 23,75% sobre o salário, durante até cinco anos. A empresa tem de pedir o benefício e provar que o trabalhador vivia fora. O Estado compensaria a Segurança Social pela receita perdida. A ideia é tornar mais barato contratar quem regressa.",
+ "context": "O CHEGA defende que Portugal perde população ativa e qualificada e que os instrumentos de apoio ao regresso, como o Programa Regressar de 2019, incidem sobretudo no trabalhador e deixam de fora a empresa. Argumenta que reduzir os encargos patronais permite salários mais competitivos face a países como Espanha e apresenta a medida como alternativa à dependência de imigração, defendendo prioridade ao regresso de nacionais.",
+ "analysis": "Pontos fortes: complementa os incentivos centrados no trabalhador, inclui salvaguardas contra substituição de trabalhadores e fraude, e o financiamento pelo Orçamento do Estado protege a Segurança Social. Fragilidades: a poupança de cerca de 133 euros por mês por trabalhador, no cenário do texto, pode ser insuficiente face ao diferencial salarial e não se demonstra que provoque o regresso; trata de forma diferente trabalhadores com e sem emigração, o que pode criar distorções na contratação; e o texto admite redução da receita contributiva sem quantificar o custo total, apresentando só cenários de poupança para empresas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A redução da taxa contributiva é compensada por transferências do Orçamento do Estado, o que aumenta a despesa do Estado. O texto estima poupanças para empresas de cerca de 1,6 milhões de euros por ano para 1000 trabalhadores, 16 milhões para 10 000 e mais de 80 milhões para 50 000."
+ },
+ "affected": [
+  "emigrantes portugueses que regressam",
+  "entidades empregadoras",
+  "Segurança Social",
+  "Orçamento do Estado"
+ ],
+ "categories": [
+  "trabalho",
+  "economia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "emigração",
+  "contribuições patronais",
+  "TSU",
+  "regresso de emigrantes",
+  "emprego"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Plano de resposta aos impactos das tempestades",
+ "summary": "O projeto de lei do PCP estabelece um vasto conjunto de medidas de apoio às vítimas das tempestades de 2026. Prevê o pagamento por inteiro do lay-off, proteção social de sócios-gerentes e empresários em nome individual, alojamento temporário e apoio à reconstrução de habitações, proteção de arrendatários, dotação de 80 milhões de euros para o restabelecimento do potencial produtivo agroflorestal, apoio à perda de rendimento de agricultores, produtores florestais e pescadores, e 750 milhões de euros de apoio às autarquias. Inclui ainda 50 milhões de euros a fundo perdido para edifícios de entidades sem fins lucrativos, roaming nacional gratuito, prazos judiciais suspensos, apoio jurídico, reforço de profissionais nos serviços públicos, auditorias a infraestruturas críticas e um plano nacional de caracterização de riscos naturais.",
+ "key_points": [
+  "Pagamento integral do lay-off e regime excecional de apoio ao rendimento de sócios-gerentes e empresários em nome individual.",
+  "Alojamento temporário, apoio à reconstrução de habitações e proteção dos arrendatários nos territórios afetados.",
+  "80 milhões de euros para o restabelecimento do potencial produtivo agroflorestal e apoio à perda de rendimentos agrícolas e florestais.",
+  "750 milhões de euros para apoio às autarquias e 50 milhões de euros a fundo perdido para edifícios de entidades sem fins lucrativos.",
+  "Roaming nacional gratuito, regime de prazos judiciais, apoio jurídico, reforço de serviços públicos e auditorias a infraestruturas críticas."
+ ],
+ "plain_language": "O PCP propõe um grande pacote de apoios para as pessoas, empresas, agricultores e autarquias atingidos pelas tempestades, com dinheiro para reconstruir casas e equipamentos, proteção do rendimento de trabalhadores e empresários e medidas para evitar abusos nos preços e novas catástrofes.",
+ "context": "O PCP considera que as medidas anunciadas pelo Governo foram tardias e insuficientes, com dezenas de milhares de famílias sem eletricidade, comunicações e água, e que as populações e autarquias ficaram entregues a si próprias. Defende medidas excecionais e meios muito acima dos inicialmente fixados para repor a vida económica e social.",
+ "analysis": "O projeto é abrangente e concreto, com montantes definidos, e responde a várias dimensões da crise, de rendimento, habitação, agricultura e autarquias. Fragilidades: a fonte do financiamento não é especificada para a maioria das verbas, a sobreposição com medidas do Governo já em vigor não é analisada, e a diversidade de medidas dificulta a sua execução e priorização. Algumas disposições, como o roaming nacional gratuito, implicam obrigações a operadores privados sem avaliação de custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto fixa verbas como 80 milhões de euros para o setor agroflorestal, 750 milhões de euros para autarquias e 50 milhões de euros para entidades sem fins lucrativos, além de outros apoios sem valor definido."
+ },
+ "affected": [
+  "populações e famílias afetadas",
+  "trabalhadores em lay-off",
+  "agricultores, produtores florestais e pescadores",
+  "autarquias",
+  "empresários e micro e pequenas empresas"
+ ],
+ "categories": [
+  "seguranca",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "tempestades",
+  "calamidade",
+  "reconstrução",
+  "lay-off",
+  "autarquias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

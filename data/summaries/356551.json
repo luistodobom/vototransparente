@@ -1,0 +1,42 @@
+{
+ "short_title": "Proteção do património público com aptidão habitacional",
+ "summary": "O Projeto de Lei do PS proíbe a alienação, pelo Estado e demais entidades públicas e empresas do Estado (incluindo ESTAMO e Fundiestamo), de imóveis com aptidão habitacional situados em áreas com carências habitacionais ou elevada pressão urbanística. Abrange imóveis habitacionais e terrenos ou edifícios que possam ser afetos a habitação, de acordo com os planos municipais. Os procedimentos de alienação em curso caducam automaticamente. O Governo deve enviar anualmente à Assembleia da República, até 31 de dezembro, um relatório com os imóveis, a estimativa de fogos, o cronograma de afetação a habitação acessível e as fontes de financiamento. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Proíbe vender imóveis públicos com aptidão habitacional em áreas com carência habitacional ou elevada pressão urbanística.",
+  "Abrange a administração direta e indireta, o setor empresarial do Estado, a ESTAMO e a Fundiestamo.",
+  "Define áreas de carência por estratégias locais, cartas municipais de habitação ou declaração de carência, e pressão urbanística por zonas delimitadas.",
+  "Os procedimentos de alienação em curso à data de entrada em vigor caducam automaticamente.",
+  "Relatório anual do Governo ao Parlamento sobre imóveis, fogos potenciais, calendário e financiamento."
+ ],
+ "plain_language": "O PS quer impedir que o Estado venda casas e terrenos públicos que possam servir para habitação nas zonas onde há falta de casas ou grande pressão sobre os preços. As vendas já em curso seriam canceladas e o Governo teria de prestar contas todos os anos sobre o que vai fazer com esses imóveis.",
+ "context": "O proponente critica a Resolução do Conselho de Ministros n.º 159/2025, que determinou a alienação de imóveis do Estado, incluindo 16 em vários concelhos, e refere uma hasta pública de março de 2026 com receita superior a 21 milhões de euros. Defende que este património deve reforçar a oferta de habitação acessível.",
+ "analysis": "A proposta reforça a reserva pública de imóveis num contexto de escassez e traz transparência com o relatório anual. Mas a proibição é ampla e rígida: pode impedir vendas úteis, como de imóveis degradados ou sem viabilidade, e a caducidade de procedimentos em curso levanta questões de confiança e possíveis indemnizações. Não quantifica receitas perdidas nem custos de reabilitação, e a definição de áreas depende de instrumentos municipais que variam. Permite cedências e integração em bolsas públicas, o que atenua a rigidez.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Impede receitas de alienação de imóveis públicos nas áreas abrangidas e pode implicar custos de manutenção ou reabilitação. O texto não apresenta montantes."
+ },
+ "affected": [
+  "candidatos a habitação pública e acessível",
+  "ESTAMO e Fundiestamo",
+  "municípios",
+  "potenciais compradores de imóveis do Estado"
+ ],
+ "categories": [
+  "habitacao",
+  "administracao"
+ ],
+ "tags": [
+  "património público",
+  "alienação de imóveis",
+  "habitação acessível",
+  "estamo",
+  "pressão urbanística"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Programa para a qualidade ambiental da bacia do Lis",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo um conjunto de medidas para combater a poluição na bacia hidrográfica do rio Lis, associada sobretudo aos efluentes da suinicultura. Propõe que se desenvolva, até final de setembro de 2023, um Programa de Ação para o tratamento dos efluentes suinícolas, executado por uma comissão com os Ministérios do Ambiente, da Agricultura e da Economia e articulação obrigatória com as autarquias. Pede o enquadramento no PRR das verbas para infraestruturas de tratamento, um relatório de progresso sobre os estudos técnicos e financeiros e um projeto-piloto de vigilância e fiscalização das massas de água. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Programa de Ação para o tratamento dos efluentes suinícolas da bacia do Lis até final de setembro de 2023.",
+  "Comissão com os Ministérios do Ambiente, da Agricultura e da Economia e articulação obrigatória com as autarquias.",
+  "Enquadrar no PRR as verbas para infraestruturas de tratamento de efluentes pecuários.",
+  "Relatório de progresso sobre os estudos técnicos e económico-financeiros até 1 de setembro.",
+  "Projeto-piloto de defesa das massas de água, com vigilância, fiscalização e caracterização das fontes de poluição."
+ ],
+ "plain_language": "O PCP quer que o Governo crie um plano para tratar os resíduos líquidos das explorações de porcos na região do rio Lis, onde a poluição é antiga e afeta a população. Pede dinheiro do PRR para as infraestruturas, mais fiscalização da qualidade da água e um relatório sobre os estudos em curso. Não obriga o Governo, que pode ou não seguir a recomendação.",
+ "context": "O proponente refere que a pecuária, em especial a suinicultura, é uma fonte importante de poluição das águas da bacia do Lis, com efeitos na saúde, no bem-estar e no turismo, e que a estação de tratamento de efluentes suinícolas outrora prevista não foi construída. Considera insuficiente a estratégia nacional de 2020-2030 para os efluentes.",
+ "analysis": "A proposta é específica e aponta um problema local persistente, com prazos e entidades identificadas. Fragilidades: os prazos são curtos, não é indicado o custo nem a fonte concreta de financiamento além de uma referência genérica ao PRR, e não clarifica a responsabilidade dos produtores na solução. O texto tem uma componente de crítica a governos anteriores, e sendo recomendação, o seu efeito depende da vontade do Governo. A compatibilização entre atividade pecuária e ambiente é bem enunciada mas pouco detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda enquadrar no PRR verbas para infraestruturas de tratamento de efluentes e a realização de estudos e de um projeto-piloto. O texto não indica montantes."
+ },
+ "affected": [
+  "Suinicultores da bacia do Lis",
+  "Populações dos concelhos da bacia do Lis",
+  "Autarquias locais",
+  "Ministérios do Ambiente, Agricultura e Economia"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "territorio"
+ ],
+ "tags": [
+  "rio lis",
+  "suinicultura",
+  "efluentes",
+  "poluição da água",
+  "prr"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Pensões de reforma de militares e militarizados",
+ "summary": "O projeto de lei do Chega revê o regime de atribuição das pensões de reforma e de velhice dos militares das Forças Armadas, da GNR, do pessoal militarizado da Marinha e da Polícia Marítima. Revoga o Decreto-Lei n.º 3/2017, que prevê vários modelos de cálculo, e cria um complemento de pensão cujo valor não pode ser inferior à diferença entre a pensão e 90% da última remuneração na reserva, atualizável quando mudar a tabela remuneratória. Os encargos com as pensões até à idade normal de acesso à pensão de velhice, bem como o acréscimo do complemento, ficam a cargo do Orçamento do Estado. Define regras de permanência na reserva até à idade de reforma e exclui estas categorias da aplicação de normas de convergência da Lei n.º 60/2005.",
+ "key_points": [
+  "Revogação do Decreto-Lei n.º 3/2017, que regula o cálculo das pensões destas categorias.",
+  "Complemento de pensão que garante pelo menos 90% da última remuneração na reserva, atualizado com a tabela remuneratória.",
+  "Encargos com pensões até à idade normal de acesso à pensão de velhice suportados pelo Orçamento do Estado.",
+  "Possibilidade de permanecer na reserva até à idade de reforma, incluindo pilotos aviadores sem fator de sustentabilidade.",
+  "Exclusão destas categorias das regras de convergência da Lei n.º 60/2005."
+ ],
+ "plain_language": "Atualmente, os militares e militarizados recebem pensões calculadas por vários modelos, o que leva a valores muito diferentes consoante a data de entrada. A proposta uniformiza o cálculo e garante um complemento para que a pensão se aproxime de 90% do último salário, pago pelo Orçamento do Estado.",
+ "context": "O Chega considera que o Decreto-Lei n.º 3/2017 criou sete modelos de cálculo, com pensões entre 90% e 63% da última remuneração ilíquida, o que gera desigualdade. Em particular, quem ingressou mais tarde pode ver o rendimento muito reduzido na passagem da reserva à reforma. Propõe aproximar todas as pensões do limite máximo legal de 90%.",
+ "analysis": "A proposta responde a uma desigualdade real entre coortes de militares, ao uniformizar o tratamento. Em contrapartida, assenta num aumento de encargos públicos sem estimativa de custo no texto, cria um regime mais favorável do que o de outros trabalhadores da função pública e pode suscitar pedidos de tratamento equivalente por parte de outras carreiras, nomeadamente forças de segurança. Algumas remissões e redações são pouco claras, o que pode dificultar a aplicação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O complemento de pensão e a assunção de encargos pelo Orçamento do Estado aumentam a despesa pública. O texto não apresenta valores."
+ },
+ "affected": [
+  "militares das Forças Armadas",
+  "militares da GNR",
+  "pessoal militarizado da Marinha e da Polícia Marítima",
+  "reformados e pensionistas militares"
+ ],
+ "categories": [
+  "defesa",
+  "trabalho",
+  "seguranca"
+ ],
+ "tags": [
+  "pensões",
+  "militares",
+  "GNR",
+  "reserva",
+  "complemento de pensão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

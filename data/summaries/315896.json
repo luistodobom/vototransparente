@@ -1,0 +1,39 @@
+{
+ "short_title": "Atos consulares e pessoal do Centro de Taipei",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo medidas relativas ao relacionamento entre Portugal e Taiwan. Propõe designar uma missão diplomática num país democrático e seguro, preferencialmente a Embaixada de Portugal em Tóquio, para assumir os atos consulares relativos a Taiwan; criar um procedimento administrativo específico, articulado com o Ministério dos Negócios Estrangeiros, para os processos do pessoal do Centro Económico e Cultural de Taipei; garantir que os cidadãos de Taiwan são tratados de acordo com a sua nacionalidade e não classificados como nacionais da República Popular da China; e permitir registos civis, vistos, casamentos e processos de nacionalidade sem recurso obrigatório ao Consulado em Macau. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Designar uma missão diplomática, preferencialmente em Tóquio, para os atos consulares relativos a Taiwan.",
+  "Criar procedimento específico, com o MNE, para o pessoal do Centro Económico e Cultural de Taipei.",
+  "Identificar os cidadãos de Taiwan segundo a sua nacionalidade própria.",
+  "Permitir registos, vistos, casamentos e nacionalidade sem passar pelo Consulado em Macau."
+ ],
+ "plain_language": "Hoje, quem vive em Taiwan e precisa de serviços do Estado português tem de passar pelo consulado em Macau. O PAN recomenda que outra embaixada, como a de Tóquio, trate desses assuntos, e que os funcionários da representação de Taiwan em Portugal tenham um processo administrativo adequado. É apenas uma recomendação ao Governo.",
+ "context": "O PAN alega que a canalização dos atos consulares por Macau impede o reconhecimento de casamentos, atrasa o registo de crianças e expõe cidadãos de Taiwan a riscos. Refere ainda atrasos de anos nas autorizações de residência do pessoal do Centro de Taipei, tratado pela AIMA como estrangeiros comuns.",
+ "analysis": "A proposta aponta problemas administrativos concretos e sugere soluções simples. Fragilidades: o texto assenta em afirmações do proponente sem dados nem fontes; a política externa e a posição de Portugal sobre Taiwan envolvem considerações diplomáticas mais vastas que não são analisadas; a escolha de Tóquio é indicada como preferência e pressupõe acordo e capacidade da embaixada. Sendo uma resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não refere custos. A criação de competências consulares numa embaixada poderá implicar encargos administrativos não quantificados."
+ },
+ "affected": [
+  "cidadãos de Taiwan",
+  "cidadãos portugueses casados com nacionais de Taiwan",
+  "pessoal do Centro Económico e Cultural de Taipei"
+ ],
+ "categories": [
+  "internacional",
+  "direitos"
+ ],
+ "tags": [
+  "Taiwan",
+  "atos consulares",
+  "Macau",
+  "Tóquio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

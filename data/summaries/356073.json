@@ -1,0 +1,43 @@
+{
+ "short_title": "Sistema de alerta por rádio com SMS georreferenciadas",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo cinco medidas: implementar, com urgência e no prazo máximo de 90 dias, um sistema nacional de alerta por rádio com envio automático de SMS georreferenciadas por torre celular, em articulação com a ANACOM, os operadores e a ANEPC; garantir alertas segmentados geograficamente; integrar o sistema com os mecanismos de proteção civil e o sistema europeu de alerta precoce; desenvolver campanhas de informação pública; e apresentar à Assembleia da República, em 120 dias, um relatório sobre a implementação, incluindo testes e resultados.",
+ "key_points": [
+  "Implementar em 90 dias um sistema nacional de alerta por rádio com SMS georreferenciadas por torre celular.",
+  "Garantir alertas segmentados para informar apenas as populações em risco.",
+  "Integrar o sistema com a proteção civil e o sistema europeu de alerta precoce.",
+  "Realizar campanhas de informação pública sobre o funcionamento dos alertas.",
+  "Apresentar um relatório ao Parlamento em 120 dias, com testes e resultados."
+ ],
+ "plain_language": "O LIVRE pede que o Governo ponha a funcionar, em 90 dias, um sistema que envie SMS de alerta apenas às pessoas da zona em risco, mesmo quando as comunicações normais falham.",
+ "context": "O LIVRE refere falhas de comunicação durante a tempestade na região de Leiria e Marinha Grande e afirma que, no apagão de abril de 2025, a ANACOM e os operadores demonstraram que existe tecnologia para alertas por SMS por torre celular. Considera que o Governo não a implementou.",
+ "analysis": "A proposta é concreta, com prazos e relatório de acompanhamento. Fragilidades: a afirmação de que há consenso técnico sobre a viabilidade e de que a tecnologia está pronta não é demonstrada no texto; o prazo de 90 dias é muito curto para integração com operadores, regulação e proteção de dados de localização; e não são estimados custos nem a repartição de encargos com os operadores. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Implementar o sistema de alerta, integrá-lo com a proteção civil e realizar campanhas implicaria despesa, não quantificada no texto."
+ },
+ "affected": [
+  "população em zonas de risco",
+  "proteção civil",
+  "operadores de telecomunicações",
+  "ANACOM"
+ ],
+ "categories": [
+  "seguranca",
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "alertas de emergência",
+  "SMS georreferenciadas",
+  "proteção civil",
+  "ANACOM",
+  "catástrofes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

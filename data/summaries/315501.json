@@ -1,0 +1,40 @@
+{
+ "short_title": "Fundo de apoio às famílias de bombeiros",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a criação de um Fundo de Proteção às Famílias dos Bombeiros das Associações Humanitárias. O fundo garantiria à família nuclear de qualquer bombeiro, voluntário ou profissional, que em funções operacionais sofra acidente que cause incapacidade absoluta para o trabalho ou morte, uma prestação mensal indexada a dois múltiplos do Indexante dos Apoios Sociais (IAS) e atualizada pelo índice harmonizado de preços no consumidor, pelo período necessário e com critérios a aprovar pelo membro do Governo responsável pela proteção civil. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar um fundo para apoiar famílias de bombeiros mortos ou incapacitados em serviço.",
+  "Prestação mensal à família nuclear indexada a dois múltiplos do IAS e atualizada pelo índice harmonizado de preços no consumidor.",
+  "Abrange bombeiros voluntários ou profissionais em funções operacionais.",
+  "Critérios e duração a definir pelo membro do Governo responsável pela proteção civil."
+ ],
+ "plain_language": "O CHEGA recomenda ao Governo que crie um fundo nacional que pague uma pensão mensal às famílias de bombeiros que morram ou fiquem totalmente incapacitados para trabalhar durante o serviço. O valor seria ligado ao IAS e subiria com os preços. Não obriga o Governo.",
+ "context": "O proponente sustenta que as famílias de bombeiros das associações humanitárias recebem, em caso de morte em serviço, apoios pontuais das autarquias e indemnizações de seguros de acidentes de trabalho muito baixas, o que considera indigno e dependente da fragilidade financeira das câmaras. Defende um mecanismo permanente e centralizado.",
+ "analysis": "A iniciativa responde a uma situação sensível e propõe um apoio previsível e atualizado. Fragilidades: não existe estimativa do custo nem do número de casos, o fundo não tem origem de financiamento definida e a interação com os seguros e pensões já existentes não é explicada. A referência a «dois múltiplos do IAS» é ambígua, e os critérios ficam para despacho governamental. A caracterização dos mecanismos atuais não é acompanhada de dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Cria uma prestação mensal permanente financiada por um fundo público. O texto não estima o custo nem indica fonte de financiamento."
+ },
+ "affected": [
+  "famílias de bombeiros mortos ou incapacitados em serviço",
+  "bombeiros voluntários e profissionais",
+  "associações humanitárias de bombeiros"
+ ],
+ "categories": [
+  "seguranca",
+  "familia",
+  "trabalho"
+ ],
+ "tags": [
+  "bombeiros",
+  "fundo de proteção",
+  "IAS",
+  "associações humanitárias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Execução plena da Lei de Bases do Clima",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo a execução plena da Lei de Bases do Clima (Lei n.º 98/2021). Propõe um conjunto de 17 recomendações: publicar a identificação de zonas críticas em matéria de segurança climática, apresentar ao Parlamento um relatório bienal sobre segurança climática e avaliações anuais da execução dos instrumentos de planeamento, eliminar progressivamente até 2030 os subsídios aos combustíveis fósseis, identificar bens e serviços para deduções do IRS Verde, concluir a avaliação das emissões dos produtos petrolíferos para adequar a taxa de carbono, fiscalizar a biomassa e os biocombustíveis, alargar a todo o país o sistema de tara retornável e disponibilizar o portal da ação climática. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Eliminar progressivamente até 2030 os subsídios, diretos ou fiscais, aos combustíveis fósseis.",
+  "Entregar à Assembleia da República um relatório sobre a segurança climática do último biénio e avaliações anuais da execução das políticas de mitigação e adaptação.",
+  "Incluir riscos climáticos e redução de emissões nos investimentos previstos para as Forças Armadas.",
+  "Fiscalizar a biomassa para fins energéticos e o setor dos biocombustíveis, incluindo a importação de resíduos da indústria do óleo de palma.",
+  "Alargar a todo o país os sistemas de incentivo e de tara retornável para embalagens.",
+  "Disponibilizar ao público o portal da ação climática."
+ ],
+ "plain_language": "O Partido Socialista pede ao Governo que cumpra, na prática, a lei do clima aprovada em 2021. Pede relatórios regulares ao Parlamento, o fim gradual dos apoios aos combustíveis fósseis até 2030, mais fiscalização da biomassa e dos biocombustíveis e um portal público onde os cidadãos possam acompanhar a ação climática. Por ser um projeto de resolução, é apenas uma recomendação: o Governo não é obrigado a cumpri-la.",
+ "context": "Os proponentes afirmam que Portugal reduziu as emissões e liderou a transição climática, mas que subsistem desafios nos transportes, na eletricidade e na gestão de riscos. Defendem que a Lei de Bases do Clima, apesar do consenso que reuniu, não deve ficar como uma lei meramente declarativa e que há medidas imediatas por concretizar, incluindo o Conselho para a Ação Climática.",
+ "analysis": "Ponto forte: transforma obrigações já previstas na lei em recomendações concretas e verificáveis, com relatórios e prazos que reforçam a transparência. Fragilidades: é uma resolução sem força vinculativa e a lista extensa mistura medidas de natureza muito distinta, sem calendário nem meios para a maioria. A eliminação dos subsídios fósseis até 2030 pode ter efeitos sobre setores e rendimentos que o texto não quantifica. Há também o risco de sobreposição com a atuação do Governo, que já teria obrigações legais nestas matérias.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A eliminação de subsídios aos combustíveis fósseis poderia aumentar receita ou reduzir despesa fiscal, enquanto novos relatórios e medidas implicam custos administrativos, mas nada é estimado."
+ },
+ "affected": [
+  "Governo e administração pública",
+  "empresas de energia e transportes",
+  "consumidores de combustíveis",
+  "cidadãos e sociedade civil"
+ ],
+ "categories": [
+  "ambiente",
+  "energia",
+  "fiscalidade"
+ ],
+ "tags": [
+  "lei de bases do clima",
+  "emissões",
+  "combustíveis fósseis",
+  "segurança climática",
+  "biomassa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

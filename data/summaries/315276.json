@@ -1,0 +1,42 @@
+{
+ "short_title": "Programa \"Recomeçar\" para famílias despejadas ou sem-abrigo",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo que desenvolva, com caráter prioritário, o programa \"Recomeçar – Apoio à Habitação para Famílias em Situação de Despejo ou Sem-Abrigo\". O programa assentaria em quatro eixos: alojamento de emergência numa rede nacional de habitação temporária, com imóveis públicos subutilizados ou cedidos por entidades privadas e do setor social, até doze meses; apoio financeiro transitório, com comparticipação parcial na renda e isenção de IMT e imposto de selo na compra de habitação própria por famílias despejadas com carência comprovada; estímulos à reinserção, com formação profissional e empregabilidade; e requalificação de habitação desocupada, com incentivos fiscais e simplificação procedimental. Recomenda ainda calendarização com metas e prazos e execução integral. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rede nacional de alojamento de emergência com imóveis públicos subutilizados ou cedidos, por até doze meses.",
+  "Comparticipação parcial na renda e isenção de IMT e imposto de selo para famílias despejadas com carência comprovada.",
+  "Formação profissional e programas de empregabilidade para recuperar a autonomia financeira.",
+  "Incentivos fiscais e simplificação para reabilitar imóveis devolutos, com autarquias e economia social.",
+  "Calendarização com metas, prazos e marcos de avaliação."
+ ],
+ "plain_language": "O Chega pede ao Governo um programa para ajudar famílias que ficaram sem casa por despejo ou que estão em situação de sem-abrigo. Haveria alojamento temporário, ajuda no pagamento da renda, formação para encontrar emprego e incentivos para recuperar casas devolutas. Como é uma recomendação, o Governo não é obrigado a avançar.",
+ "context": "O proponente descreve uma crise habitacional estrutural, critica respostas fragmentárias de sucessivos governos e invoca o direito constitucional à habitação (artigo 65.º). Afirma que faltam respostas para despejos súbitos e situações de sem-abrigo e que o programa reduziria custos indiretos em saúde, segurança e assistência social.",
+ "analysis": "Propõe um conjunto articulado de respostas de emergência e de reinserção, ligando alojamento, apoio financeiro e recuperação de imóveis devolutos. Fragilidades: não define critérios de elegibilidade, financiamento nem meios, e reconhece a impossibilidade de prever com exatidão o impacto. Não esclarece a articulação com programas existentes. Não distingue o papel das autarquias, e as isenções fiscais implicariam perda de receita não estimada.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "O programa implicaria despesa (alojamento, apoio à renda, formação) e perda de receita (isenção de IMT e imposto de selo e incentivos fiscais). O texto não apresenta montantes."
+ },
+ "affected": [
+  "famílias despejadas",
+  "pessoas em situação de sem-abrigo",
+  "municípios",
+  "proprietários de imóveis devolutos"
+ ],
+ "categories": [
+  "habitacao",
+  "familia"
+ ],
+ "tags": [
+  "sem-abrigo",
+  "despejo",
+  "alojamento de emergência",
+  "habitação",
+  "reabilitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

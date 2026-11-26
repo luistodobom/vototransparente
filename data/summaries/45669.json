@@ -1,0 +1,42 @@
+{
+ "short_title": "Inventariar imóveis do Estado devolutos nos Açores",
+ "summary": "O PSD recomenda ao Governo que crie um grupo de trabalho com a Direção-Geral do Tesouro e Finanças, a Autoridade Tributária, o Instituto dos Registos e do Notariado, o Governo dos Açores e a Associação de Municípios da Região Autónoma dos Açores. Este grupo deve apresentar, no prazo máximo de doze meses após a sua criação, o inventário de todos os imóveis do Estado nos Açores, por ilha, e identificar os que podem ser registados a favor da Região, nos termos do Estatuto Político-Administrativo, para a sua preservação, adaptação e utilização. O texto lembra que ficam excluídos os bens afetos ao domínio público militar, marítimo e aéreo e, salvo classificação como património cultural, os bens afetos a serviços públicos não regionalizados. É uma recomendação, sem caráter vinculativo.",
+ "key_points": [
+  "Criar um grupo de trabalho com entidades do Estado, do Governo dos Açores e da associação de municípios.",
+  "Apresentar em doze meses o inventário dos imóveis do Estado nos Açores, por ilha.",
+  "Identificar os imóveis que podem ser registados a favor da Região Autónoma dos Açores.",
+  "Visar a preservação, adaptação e colocação em utilização desses imóveis."
+ ],
+ "plain_language": "Há imóveis do Estado abandonados nos Açores, alguns em mau estado. O PSD pede que se crie um grupo de trabalho que, em um ano, faça a lista de todos eles e diga quais podem passar para a Região, para serem recuperados e usados. É uma recomendação.",
+ "context": "O proponente invoca o dever de preservar o património público e o Estatuto dos Açores, segundo o qual os imóveis do domínio privado do Estado não afetos a serviços do Estado passam a integrar o domínio privado da Região. Refere situações de abandono e degradação que se prolongam há anos e põem em causa a segurança das populações.",
+ "analysis": "A proposta é concreta quanto a composição, prazo e resultado, e baseia-se no quadro estatutário. O texto, porém, distingue com detalhe os imóveis militares e das autarquias, o que mostra que a titularidade pode ser complexa e eventualmente litigiosa. Não prevê o financiamento da recuperação, nem quem suporta os custos de manutenção após a transferência, nem como se resolveriam divergências sobre a afetação. Prazo de 12 meses pode ser curto para um inventário por ilha. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O inventário tem custos administrativos e a eventual transferência de imóveis para a Região altera patrimónios públicos e encargos de manutenção; o texto não quantifica."
+ },
+ "affected": [
+  "Região Autónoma dos Açores",
+  "autarquias açorianas",
+  "população local",
+  "Estado central"
+ ],
+ "categories": [
+  "territorio",
+  "administracao",
+  "cultura"
+ ],
+ "tags": [
+  "Açores",
+  "património imóvel",
+  "imóveis devolutos",
+  "inventário",
+  "Região Autónoma"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

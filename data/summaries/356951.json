@@ -1,0 +1,42 @@
+{
+ "short_title": "Crédito fiscal por filho no IRS contra a pobreza infantil",
+ "summary": "O projeto de lei do LIVRE altera o artigo 78.º-A do Código do IRS. Aumenta a dedução fixa por dependente, a dedução repartida em caso de residência alternada e os acréscimos para dependentes até três anos (os valores aparecem no texto sobrepostos aos antigos, passando por exemplo de 600 para 800 euros por dependente). Cria ainda um crédito fiscal: quando as deduções excederem a coleta líquida, a diferença é paga ao contribuinte na liquidação anual. Prevê também uma majoração de 25% da dedução por dependente para agregados nos dois primeiros escalões de IRS. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Aumenta a dedução fixa por dependente e os acréscimos para crianças até três anos.",
+  "Cria um crédito fiscal pago quando as deduções excedem a coleta líquida de IRS.",
+  "Majora em 25% a dedução por dependente nos dois primeiros escalões de rendimento.",
+  "Mantém um regime próprio para residência alternada dos filhos.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Atualmente, quem paga pouco ou nenhum IRS não aproveita as deduções por filho. O LIVRE propõe aumentar essas deduções e fazer com que, se o valor for superior ao imposto devido, o Estado pague a diferença à família. As famílias com rendimentos mais baixos teriam ainda um reforço adicional de 25%.",
+ "context": "O proponente invoca o baixo nível de natalidade e o relatório Balanço Social 2025, segundo o qual 17,8% das crianças (301 mil) estão em risco de pobreza, e 35,1% nos agregados monoparentais. Argumenta que as deduções tradicionais são regressivas e não chegam às famílias isentas de IRS.",
+ "analysis": "O crédito reembolsável chega a famílias que hoje não beneficiam das deduções, o que é um ponto forte em termos de equidade. Fragilidades: o texto não estima o custo orçamental nem a perda de receita, e o carácter parcialmente sobreposto dos valores dificulta ler os montantes exatos. Pode sobrepor-se a prestações existentes como o abono de família, e o efeito sobre a natalidade, referido como objetivo, não é demonstrado.",
+ "fiscal_impact": {
+  "direction": "misto",
+  "explanation": "Aumenta as deduções (menos receita de IRS) e cria um crédito pago a quem não tem imposto suficiente (mais despesa); o texto não indica montantes."
+ },
+ "affected": [
+  "Famílias com filhos",
+  "Agregados monoparentais",
+  "Famílias de baixos rendimentos",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "crédito fiscal",
+  "pobreza infantil",
+  "natalidade",
+  "dependentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

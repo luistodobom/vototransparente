@@ -1,0 +1,42 @@
+{
+ "short_title": "Alterações ao regime da propriedade horizontal",
+ "summary": "Projeto de lei do PSD que altera o Código Civil (artigos 1419.º, 1424.º, 1436.º e 1437.º) e o Decreto-Lei n.º 268/94 (artigos 1.º, 3.º, 4.º e 6.º) sobre o condomínio. Permite suprir judicialmente a recusa injustificada de condóminos com menos de 10% do valor do prédio na alteração do título constitutivo das partes comuns. Clarifica a responsabilidade por despesas entre vendedor e comprador de frações, reforça os deveres do administrador (declaração de dívida em 5 dias, três orçamentos quando fixado, informação semestral sobre processos) e a sua responsabilidade. Torna obrigatório um fundo de reserva para despesas judiciais, estabelece que a ata é título executivo e fixa 90 dias para a ação de cobrança. Entra em vigor 30 dias após publicação.",
+ "key_points": [
+  "Recusa de condóminos que representem menos de 10% do valor do prédio pode ser suprida judicialmente na alteração do título constitutivo das partes comuns, se injustificada.",
+  "Vendedor responde pelas prestações vencidas até à venda e deve juntar declaração de dívidas; comprador responde pelas seguintes, salvo acordo escrito.",
+  "Administrador deve emitir declaração de dívida em 5 dias, informar sobre ações judiciais e, se assim fixado, apresentar três orçamentos para obras.",
+  "Ata com montantes e datas de pagamento é título executivo; ação de cobrança em 90 dias quando a dívida iguale ou exceda o IAS.",
+  "Reserva mínima de 5% do fundo comum para despesas judiciais e honorários."
+ ],
+ "plain_language": "A proposta muda as regras dos condomínios para facilitar obras e a cobrança de quotas em atraso. Se poucos condóminos bloquearem sem razão uma alteração, um tribunal pode decidir. Quem vende um apartamento tem de comunicar a venda e declarar as dívidas. O administrador passa a ter prazos e mais responsabilidades, e deve cobrar dívidas em tribunal em 90 dias.",
+ "context": "O PSD afirma que a complexidade crescente dos condomínios e os obstáculos às decisões causam atrasos e degradação dos prédios, com mais custos futuros. Pretende facilitar a alteração do título constitutivo, agilizar a cobrança, aumentar a responsabilização de condóminos e administradores e pacificar jurisprudência controversa sobre exequibilidade da ata, legitimidade processual e dívidas na compra e venda de frações.",
+ "analysis": "A proposta responde a problemas práticos conhecidos e procura segurança jurídica, ao clarificar quem paga as dívidas de condomínio. Riscos: o suprimento judicial da recusa pode aumentar litigância; o prazo de 90 dias e a responsabilidade do administrador podem pressionar administradores, sobretudo não profissionais, e levar a mais ações contra vizinhos; a exigência de fundo para despesas judiciais aumenta encargos. O texto tem imprecisões de numeração e de remissões, e não estima custos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Altera relações entre privados no condomínio e não cria receita ou despesa públicas identificáveis no texto, embora possa afetar a atividade dos tribunais."
+ },
+ "affected": [
+  "condóminos",
+  "administradores de condomínio",
+  "compradores e vendedores de frações"
+ ],
+ "categories": [
+  "habitacao",
+  "justica",
+  "consumidores"
+ ],
+ "tags": [
+  "propriedade horizontal",
+  "condomínio",
+  "código civil",
+  "administrador",
+  "título executivo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Fim de apoios públicos a espetáculos com sofrimento animal e idade mínima de 18 anos",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo quatro medidas relativas a espetáculos com animais em que ocorram atos que inflijam sofrimento físico ou psíquico, lesões ou morte: não conferir qualquer apoio institucional, cedência de recursos públicos, subsídio ou isenção de taxa; introduzir normas que alarguem essa regra a todas as entidades públicas; aumentar para 18 anos a idade para trabalhar ou participar nesses espetáculos, quer a atividade seja profissional ou amadora; e aumentar para 18 anos a idade para assistir. Invoca a recomendação do Comité dos Direitos da Criança da ONU de 2019 sobre touradas e a lei de proteção dos animais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Sem apoio institucional, recursos públicos, subsídios nem isenção de taxas para espetáculos com sofrimento animal.",
+  "Alargar essa regra a todas as entidades públicas.",
+  "Idade mínima de 18 anos para trabalhar ou participar, incluindo em atividades amadoras.",
+  "Idade mínima de 18 anos para assistir."
+ ],
+ "plain_language": "O BE pede ao Governo que deixe de apoiar com dinheiro ou meios públicos os espetáculos em que animais sofrem ou morrem, como as touradas, e que só maiores de 18 anos possam trabalhar neles ou assistir. A decisão final é do Governo, que não é obrigado a seguir esta recomendação.",
+ "context": "O BE cita o relatório de 2019 do Comité dos Direitos da Criança da ONU, que recomendou a idade mínima de 18 anos, e recorda que em 2021 o Governo aprovou em Conselho de Ministros subir de 12 para 16 anos a idade para assistir, o que nunca entrou em vigor. Aponta que a lei permite que menores trabalhem em espetáculos tauromáquicos e que as idades mínimas não são verificadas.",
+ "analysis": "A iniciativa tem fundamento em recomendações da ONU e em incoerências assinaladas no quadro legal. Em contrapartida, o texto não identifica os apoios públicos atualmente concedidos, nem avalia o impacto em autarquias, que financiam muitos destes eventos, nem em profissionais do setor. A abrangência da expressão 'espetáculos com animais' é ampla e a resolução deixa ao Governo a definição concreta. Há também um debate cultural e de liberdade sobre a proibição de assistir, que o texto não discute. É não vinculativa.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "O fim de apoios públicos, subsídios e isenções de taxa a estes espetáculos reduziria despesa e perda de receita pública, mas o texto não indica valores."
+ },
+ "affected": [
+  "menores de idade",
+  "profissionais de espetáculos tauromáquicos",
+  "autarquias",
+  "animais"
+ ],
+ "categories": [
+  "animais",
+  "cultura",
+  "direitos"
+ ],
+ "tags": [
+  "touradas",
+  "bem-estar animal",
+  "menores",
+  "apoios públicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

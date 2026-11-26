@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço dos Centros de Apoio à Aprendizagem",
+ "summary": "Este projeto de resolução do Livre recomenda ao Governo cinco medidas para os Centros de Apoio à Aprendizagem (CAA): rever, num processo participado, os rácios de pessoal docente e não docente para que correspondam às necessidades reais dos alunos; reforçar os recursos humanos e materiais dos CAA; garantir formação adequada e especializada ao pessoal que trabalha com alunos com necessidades educativas específicas; garantir a todas as escolas os recursos materiais necessários; e acompanhar, monitorizar e avaliar a aplicação do Decreto-Lei n.º 54/2018, nos termos do seu artigo 33.º, com participação dos profissionais, diretores e encarregados de educação e divulgação pública periódica de resultados. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Rever, de forma participada, os rácios de pessoal docente e não docente nos CAA.",
+  "Reforçar os recursos humanos e materiais dos CAA.",
+  "Garantir formação especializada ao pessoal que trabalha com alunos com necessidades educativas específicas.",
+  "Assegurar a todas as escolas os recursos materiais necessários ao acompanhamento destes alunos.",
+  "Monitorizar e avaliar o Decreto-Lei n.º 54/2018, com participação das estruturas representativas e divulgação pública periódica."
+ ],
+ "plain_language": "Os Centros de Apoio à Aprendizagem ajudam crianças com deficiência ou outras necessidades específicas nas escolas. O Livre pede ao Governo que reveja o número de profissionais, dê mais meios e formação e avalie regularmente se a lei da educação inclusiva está a funcionar. É uma recomendação, que o Governo decide se segue.",
+ "context": "O Livre baseia-se na petição \"Por uma inclusão efetiva nas escolas\" (Petição n.º 120/XVI/1), numa consulta da FNE sobre educação inclusiva e em casos como o de professores de educação especial de Almada que pediram escusa de responsabilidade, referindo falta de recursos, incumprimento de rácios e docentes sem habilitação adequada.",
+ "analysis": "Baseia-se em fontes concretas, petição, consulta e casos documentados, e propõe medidas alinhadas com o que os profissionais pedem, incluindo monitorização prevista na própria lei. Fragilidades: não fixa números, prazos nem financiamento, e a revisão dos rácios dependerá de um processo participado sem calendário. O texto apoia-se em notícias e depoimentos e não apresenta dados de cobertura nacional dos CAA. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de pessoal, recursos materiais e formação nos CAA implicaria despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "alunos com necessidades educativas específicas",
+  "professores de educação especial",
+  "pessoal não docente",
+  "famílias e escolas"
+ ],
+ "categories": [
+  "educacao",
+  "direitos"
+ ],
+ "tags": [
+  "centros de apoio à aprendizagem",
+  "educação inclusiva",
+  "educação especial",
+  "decreto-lei 54/2018"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

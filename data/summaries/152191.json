@@ -1,0 +1,41 @@
+{
+ "short_title": "Responsabilização das entidades gestoras de água e resíduos",
+ "summary": "Projeto de Lei do Chega que faz a terceira alteração ao Decreto-Lei n.º 194/2009, sobre os serviços municipais de abastecimento de água, saneamento e gestão de resíduos urbanos. Altera os artigos 3.º, 5.º e 8.º para qualificar a exploração e gestão dos sistemas como serviços de interesse geral prestados por entidades públicas ou privadas, sujeitas a obrigações de serviço público, prever a prestação em regime de exclusividade territorial por entidades públicas ou privadas e determinar que as entidades gestoras mantenham um sistema de gestão ambiental, com eficiência energética e redução de emissões, a implementar em dois anos após a criação de novas entidades. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Serviços de água e resíduos qualificados como serviços de interesse geral, públicos ou privados.",
+  "Prestação em regime de exclusividade territorial por entidades públicas ou privadas.",
+  "Entidades gestoras devem manter um sistema de gestão ambiental, incluindo eficiência energética e redução de emissões.",
+  "Prazo de dois anos para implementar esses sistemas em novas entidades gestoras."
+ ],
+ "plain_language": "O Chega propõe mudar a lei dos serviços municipais de água e lixo para reforçar as obrigações de quem os gere, seja público ou privado, incluindo a exigência de um sistema de gestão ambiental e de eficiência energética.",
+ "context": "O Chega cita a ERSAR (RASARP 2021) segundo a qual a água não faturada nos serviços em baixa atinge cerca de 174 milhões de metros cúbicos por ano, 28,7% da água entrada no sistema, o que considera inadmissível em tempo de seca. Defende reforçar a responsabilização das entidades públicas e privadas.",
+ "analysis": "A iniciativa liga-se a um problema real, o das perdas de água, mas as alterações propostas não tratam diretamente da água não faturada: não fixam metas de perdas nem sanções. A referência a entidades privadas e à exclusividade territorial pode ser lida como abertura à gestão privada, o que o texto não discute. Algumas remissões do articulado estão incompletas e o impacto nos municípios não é avaliado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obrigação de manter sistemas de gestão ambiental pode aumentar custos das entidades gestoras. O texto não apresenta valores."
+ },
+ "affected": [
+  "entidades gestoras de água e resíduos",
+  "municípios",
+  "utilizadores dos serviços de água"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio",
+  "consumidores"
+ ],
+ "tags": [
+  "água",
+  "resíduos",
+  "serviços municipais",
+  "ersar",
+  "eficiência hídrica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

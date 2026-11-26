@@ -1,0 +1,42 @@
+{
+ "short_title": "Apoio à renda para famílias afetadas pelas tempestades",
+ "summary": "Este Projeto de Resolução do PAN recomenda ao Governo que crie um apoio extraordinário e temporário ao pagamento da renda, destinado a famílias que comprovadamente tenham sofrido perda significativa de rendimentos em consequência direta das tempestades de finais de janeiro e início de fevereiro de 2026 e que residam nos concelhos abrangidos pela declaração de situação de calamidade (Resolução do Conselho de Ministros n.º 15-B/2026, e respetivas prorrogações e alargamentos). O texto não define o valor, a duração nem os critérios do apoio. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Apoio extraordinário e temporário ao pagamento da renda.",
+  "Destinado a famílias com perda significativa de rendimentos em consequência direta das tempestades.",
+  "Aplica-se aos concelhos abrangidos pela declaração de situação de calamidade e respetivas prorrogações e alargamentos.",
+  "Exige comprovação da perda de rendimentos.",
+  "Não fixa valores, duração nem critérios de atribuição."
+ ],
+ "plain_language": "O PAN pede ao Governo que ajude a pagar as rendas de famílias que perderam rendimentos por causa das tempestades de 2026 nas zonas declaradas em calamidade. Hoje há apoios para proprietários, senhorios e crédito à habitação, mas não para inquilinos. É um pedido ao Governo, sem força obrigatória.",
+ "context": "A proponente descreve os efeitos das tempestades, como cheias e danos em habitações e infraestruturas, e as perdas de rendimento de trabalhadores, independentes e pequenos empresários. Refere que, apesar do lay-off simplificado, das medidas de reconstrução e das moratórias no crédito à habitação, não existe apoio específico para inquilinos, o que expõe famílias ao risco de incumprimento e perda da casa.",
+ "analysis": "A proposta identifica uma lacuna concreta, a ausência de apoio a inquilinos, e limita o âmbito geográfico e de causalidade, o que facilita a delimitação. Fragilidades: não define valor, duração, teto, mecanismo de prova nem entidade gestora, o que dificulta estimar o custo e a execução; o conceito de «perda significativa» é vago; e, sendo recomendação, não obriga o Governo. Também não esclarece a articulação com apoios existentes à habitação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Criaria despesa pública com apoio às rendas, mas o texto não define montantes, duração nem número de beneficiários."
+ },
+ "affected": [
+  "famílias inquilinas afetadas pelas tempestades",
+  "senhorios",
+  "concelhos em situação de calamidade"
+ ],
+ "categories": [
+  "habitacao",
+  "familia",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestades",
+  "apoio à renda",
+  "inquilinos",
+  "calamidade",
+  "perda de rendimentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

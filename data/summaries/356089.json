@@ -1,0 +1,43 @@
+{
+ "short_title": "Direito à Compensação por Continuidade Territorial (mobilidade aérea)",
+ "summary": "Projeto de lei do Chega que altera o Decreto-Lei n.º 37-A/2025 sobre a mobilidade aérea entre o continente e as regiões autónomas. Fixa que o beneficiário paga no ato da compra valores máximos: na Madeira, 79 euros (residentes) e 59 euros (estudantes); nos Açores, 119 euros (residentes) e 89 euros (estudantes); entre regiões autónomas, 79 e 59 euros. Redefine o custo elegível, incluindo uma bagagem de porão e fixando em 30 euros o máximo da taxa de emissão do bilhete. Determina que o bilhete one-way não reduz por si só o subsídio, prevê a devolução se o bilhete não for utilizado num ano e substitui a designação Subsídio Social de Mobilidade por Direito à Compensação por Continuidade Territorial.",
+ "key_points": [
+  "Valores máximos pagos pelo beneficiário no ato da compra, diferenciados por região e por residentes e estudantes.",
+  "Redefinição do custo elegível, com um máximo de 30 euros para a taxa de emissão do bilhete.",
+  "Bilhetes one-way não podem determinar redução proporcional do subsídio.",
+  "Devolução do subsídio se o bilhete não for utilizado no prazo de um ano.",
+  "Nova designação: Direito à Compensação por Continuidade Territorial."
+ ],
+ "plain_language": "A proposta fixa quanto os residentes e estudantes dos Açores e da Madeira pagam ao comprar um bilhete de avião para o continente, e o Estado paga a diferença. Garante que comprar só a ida não reduz o apoio e muda o nome do subsídio para realçar que é um direito ligado à coesão do território.",
+ "context": "O proponente defende que as ligações aéreas são vitais para os residentes das regiões autónomas, para a vida familiar, saúde, educação e trabalho, e que a mobilidade é condição de liberdade e não um privilégio. Considera por isso que o regime deve reforçar a coesão e a continuidade territorial.",
+ "analysis": "Pontos fortes: dá previsibilidade, ao fixar tetos de pagamento no momento da compra e ao tratar de forma igual os bilhetes one-way. Fragilidades: o subsídio passa a ser um valor variável sem limite máximo, o que expõe o Estado a custos imprevisíveis e a possíveis aumentos de tarifas. A diferenciação entre Açores e Madeira não é justificada no texto e o texto não quantifica o custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O subsídio é descrito como valor variável sem limite máximo, com o beneficiário a pagar apenas montantes fixos, o que tende a aumentar a despesa pública. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "residentes nos Açores",
+  "residentes na Madeira",
+  "estudantes das regiões autónomas",
+  "companhias aéreas"
+ ],
+ "categories": [
+  "transportes",
+  "territorio",
+  "direitos"
+ ],
+ "tags": [
+  "mobilidade aérea",
+  "continuidade territorial",
+  "Açores",
+  "Madeira",
+  "subsídio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

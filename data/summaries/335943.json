@@ -1,0 +1,40 @@
+{
+ "short_title": "Liquidação centralizada anual do Imposto Único de Circulação",
+ "summary": "A proposta de lei do Governo pede autorização à Assembleia da República para alterar o Código do Imposto Único de Circulação (IUC). O imposto passaria a ser liquidado anualmente de forma centralizada por sujeito passivo, integrando todos os veículos, com pagamento numa única data, em abril, e possibilidade de fracionamento em prestações, de forma próxima à do IMI. Clarifica-se o acesso às garantias da Lei Geral Tributária, com prazos de reclamação e impugnação contados a partir do fim do prazo de pagamento voluntário da primeira ou única prestação. Para 2027, prevê-se o pagamento em outubro (até 500 euros) ou em julho e outubro, e a anulação da liquidação em caso de cancelamento da matrícula. Produz efeitos a 1 de janeiro de 2027.",
+ "key_points": [
+  "O IUC passa a ser liquidado anualmente de forma centralizada, por sujeito passivo, para todos os veículos.",
+  "Pagamento numa única data, em abril, com possibilidade de pagamento em prestações.",
+  "Prazos de reclamação e impugnação contados do termo do prazo de pagamento voluntário da primeira ou única prestação.",
+  "Regime transitório para 2027: pagamento em outubro (até 500 euros) ou em julho e outubro nos restantes casos.",
+  "Possibilidade de anulação da liquidação de 2027 em caso de cancelamento da matrícula antes do aniversário."
+ ],
+ "plain_language": "Hoje o imposto de circulação dos carros é pago no mês em que cada veículo foi matriculado, o que obriga quem tem vários carros a estar atento todos os meses. O Governo quer que o imposto de todos os veículos de uma pessoa seja calculado de uma só vez e pago em abril, podendo ser dividido em prestações, como o IMI.",
+ "context": "O Governo enquadra a proposta na Agenda para a Simplificação Fiscal, que visa reduzir custos de cumprimento e reforçar a transparência. Considera que a ausência de um prazo uniforme de pagamento gera constrangimentos, sobretudo para quem tem vários veículos, e aumenta o risco de incumprimento involuntário.",
+ "analysis": "A medida simplifica e dá previsibilidade, reduzindo o risco de esquecimentos e coimas, e a norma transitória pretende assegurar neutralidade fiscal. Em contrapartida, concentrar o pagamento em abril pode criar um esforço financeiro maior para as famílias, mitigado pela possibilidade de prestações. Por ser uma lei de autorização, o conteúdo detalhado dependerá do decreto-lei, e o texto não apresenta estimativas de receita nem o impacto no ano de transição.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto afirma que a norma transitória de 2027 assegura a neutralidade fiscal da medida. Não são apresentados montantes."
+ },
+ "affected": [
+  "proprietários de veículos",
+  "Autoridade Tributária e Aduaneira",
+  "contribuintes com vários veículos"
+ ],
+ "categories": [
+  "fiscalidade",
+  "transportes"
+ ],
+ "tags": [
+  "IUC",
+  "imposto único de circulação",
+  "simplificação fiscal",
+  "autorização legislativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Acesso a informações financeiras e de contas bancárias contra crimes graves",
+ "summary": "A proposta do Governo transpõe a Diretiva (UE) 2019/1153 e altera o artigo 81.º-A do Regime Geral das Instituições de Crédito. Autoriza as autoridades judiciárias, o DCIAP, a Polícia Judiciária, a UIF e o Gabinete de Recuperação de Ativos a aceder e pesquisar a base de dados de contas bancárias, caso a caso, para prevenir, detetar, investigar ou reprimir infrações penais graves. Define quem pode pedir e receber informações e análises financeiras da UIF, as condições de resposta, o intercâmbio entre UIF e com a EUROPOL, garantias de confidencialidade e controlo de acessos, regras de proteção de dados e a recolha de dados estatísticos.",
+ "key_points": [
+  "Lista as entidades com acesso à base de dados de contas bancárias: autoridades judiciárias, DCIAP, PJ, UIF e GRA.",
+  "O acesso é caso a caso, por pessoas especificamente designadas, e necessário a investigações de infrações penais graves.",
+  "Autoridades competentes podem pedir informações e análises financeiras à UIF, sob condições.",
+  "Regula a cooperação entre unidades de informação financeira e com a EUROPOL.",
+  "Reforça garantias de proteção de dados, controlo e registo dos acessos.",
+  "Obriga à recolha e comunicação anual de dados estatísticos."
+ ],
+ "plain_language": "A lei permite que a Polícia Judiciária, o Ministério Público, os juízes e outras entidades consultem a base de dados de contas bancárias e peçam informações financeiras à unidade antibranqueamento, mas só em investigações de crimes graves e com regras de confidencialidade e controlo.",
+ "context": "O Governo explica que a proposta transpõe a Diretiva (UE) 2019/1153, que visa facilitar o uso de informações financeiras na luta contra crimes graves, o branqueamento de capitais e o financiamento do terrorismo. Afirma ter seguido uma lógica de proporcionalidade, limitando as autoridades com acesso.",
+ "analysis": "Facilita o combate ao crime financeiro e cumpre uma obrigação europeia, com limites definidos (lista fechada de entidades, caso a caso, finalidade restrita). Pontos sensíveis: o acesso direto e imediato a dados bancários levanta questões de privacidade e proporcionalidade; a eficácia depende da regulamentação do Banco de Portugal e da fiscalização efetiva dos acessos. O texto prevê audição de várias entidades, incluindo a CNPD e a Ordem dos Advogados. O conceito de \"infração penal grave\" remete para outras leis.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos; a implementação (sistemas, formação, controlo de acessos) pode implicar despesa pública não indicada."
+ },
+ "affected": [
+  "Polícia Judiciária e Ministério Público",
+  "bancos e titulares de contas",
+  "Banco de Portugal",
+  "UIF e GRA"
+ ],
+ "categories": [
+  "justica",
+  "internacional",
+  "seguranca"
+ ],
+ "tags": [
+  "branqueamento de capitais",
+  "contas bancárias",
+  "diretiva europeia",
+  "proteção de dados",
+  "uif"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

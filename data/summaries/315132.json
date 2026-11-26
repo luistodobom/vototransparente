@@ -1,0 +1,42 @@
+{
+ "short_title": "Reintegrar o internato médico na carreira médica",
+ "summary": "O projeto de lei do PAN altera o regime do internato médico (Decreto-Lei n.º 13/2018), o regime da carreira especial médica (Decreto-Lei n.º 177/2009) e a Lei Geral do Trabalho em Funções Públicas, para integrar o internato médico na carreira médica. Passa a existir a categoria de interno, adquirida com o ingresso na formação geral, e o grau de interno. O internato é feito ao abrigo de contrato de trabalho em funções públicas na primeira categoria da carreira. Fixa um período normal de trabalho de 35 horas semanais para os internos, limita o trabalho em urgência e cuidados intensivos a 12 horas semanais num único período, sujeita os internos às regras de descanso e de suplementos da carreira, e permite suspender ou adiar o início do internato por doença ou parentalidade. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Integra o internato médico na carreira especial médica, com a categoria e o grau de interno.",
+  "Fixa um período normal de trabalho de 35 horas semanais para os médicos internos.",
+  "Limita o trabalho em urgência e cuidados intensivos a 12 horas semanais, num único período.",
+  "Aplica aos internos as regras de descanso e os suplementos remuneratórios da carreira médica.",
+  "Permite suspender ou adiar o início do internato por doença ou parentalidade, mantendo a vaga."
+ ],
+ "plain_language": "Hoje os médicos internos estão numa fase de formação, fora da carreira médica. A proposta integra-os na carreira, com horário de 35 horas semanais, limites de horas nas urgências e os mesmos direitos de descanso e suplementos dos outros médicos. O objetivo é valorizá-los e conseguir que fiquem no Serviço Nacional de Saúde.",
+ "context": "O PAN defende que o SNS não consegue reter médicos, que fogem para o setor privado ou o estrangeiro, e que os internos já representam cerca de um terço da força de trabalho médica, sob grande pressão e com baixos salários. Considera que a reintegração do internato na carreira valoriza a formação e ajuda a fixar profissionais.",
+ "analysis": "Alinha os direitos dos internos aos da carreira médica, com limites de horário claros para a urgência, o que pode melhorar condições e retenção. Fragilidades: o texto não estima o custo da equiparação remuneratória e dos suplementos, nem o impacto do limite de 12 horas de urgência na cobertura dos serviços, onde os internos têm peso relevante; o articulado tem duplicações (por exemplo, dois artigos com o mesmo título de conteúdo funcional) e a Portaria n.º 79/2018 é citada no objeto mas as alterações não aparecem no articulado lido. A retenção após o internato depende de outras medidas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aplicar aos internos o regime remuneratório e os suplementos da carreira médica, e reduzir horas de urgência, tende a aumentar a despesa do SNS. O texto não indica montantes."
+ },
+ "affected": [
+  "médicos internos",
+  "Serviço Nacional de Saúde",
+  "hospitais e unidades de saúde",
+  "utentes dos serviços de urgência"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internato médico",
+  "carreira médica",
+  "SNS",
+  "horário de trabalho",
+  "urgências"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Teto máximo para propinas de mestrados, doutoramentos e pós-graduações públicas",
+ "summary": "O Bloco de Esquerda propõe, em projeto de lei, criar um teto máximo para o valor das propinas dos segundo e terceiro ciclos de estudos e das pós-graduações nas instituições de ensino superior públicas. Atualmente, salvo nos mestrados integrados, esses valores são livremente fixados pelas instituições. A lei deixa ao Governo a fixação do valor do teto e determina que qualquer aumento, mesmo dentro do teto, só se aplica a futuros inscritos no respetivo ciclo de estudos ou pós-graduação, para que os estudantes possam planear a despesa. A lei entra em vigor no dia seguinte ao da sua publicação. O texto cita o aumento de propinas de mestrados da Universidade do Porto como exemplo.",
+ "key_points": [
+  "Cria um teto máximo para as propinas de 2.º e 3.º ciclos e pós-graduações em instituições públicas.",
+  "O Governo fixa o valor do teto por regulamentação.",
+  "Aumentos de propina, mesmo dentro do teto, só se aplicam a novos inscritos no ciclo de estudos.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Hoje as universidades e politécnicos públicos podem fixar livremente quanto cobram por mestrados, doutoramentos e pós-graduações. O Bloco de Esquerda quer que haja um valor máximo, definido pelo Governo, e que os aumentos só afetem quem entrar depois, não quem já está a estudar.",
+ "context": "O proponente defende a abolição das propinas e alega que as propinas elevadas do segundo e terceiro ciclos afastam estudantes de famílias de rendimentos baixos e médios, que há aumentos a meio dos cursos e que os valores chegam a ser o dobro do período anterior a Bolonha. Cita o caso do Porto e a crise pandémica.",
+ "analysis": "A medida dá previsibilidade aos estudantes e limita aumentos durante o curso, podendo reduzir o abandono. Fragilidades: o valor do teto não é definido na lei, ficando dependente do Governo, o que cria incerteza sobre o impacto real. Limitar receitas próprias pode afetar o financiamento das instituições, que usam estas propinas, e o texto não prevê compensação nem avalia efeitos na oferta de cursos. Também restringe a autonomia das instituições.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Um teto reduziria possivelmente receitas próprias das instituições de ensino superior, podendo exigir compensação do Estado, mas o texto não quantifica nem prevê financiamento."
+ },
+ "affected": [
+  "estudantes de mestrado e doutoramento",
+  "estudantes de pós-graduação",
+  "instituições de ensino superior públicas"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "mestrados",
+  "doutoramentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

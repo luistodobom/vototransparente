@@ -1,0 +1,39 @@
+{
+ "short_title": "Reduz o IVA na construção de habitação",
+ "summary": "O projeto de lei do CHEGA altera a Lista I do Código do IVA, acrescentando o ponto 2.18, para sujeitar à taxa reduzida as empreitadas de construção ou remodelação de imóveis ou partes autónomas destes, independentemente de o dono da obra ser público ou privado, desde que comprovadamente afetos à habitação. A alteração entra em vigor com o Orçamento do Estado subsequente à publicação. O texto articulado não fixa o valor da taxa nem define como se comprova a afetação à habitação; a exposição de motivos fala em reduzir o IVA na construção e reabilitação destinadas a primeira habitação, mas o articulado refere habitação em geral.",
+ "key_points": [
+  "Acrescenta à Lista I do Código do IVA as empreitadas de construção ou remodelação de imóveis afetos à habitação.",
+  "Aplica-se a donos de obra públicos ou privados.",
+  "Exige que a afetação à habitação seja comprovada.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "O CHEGA propõe que as obras de construção e remodelação de casas passem a pagar a taxa reduzida de IVA, em vez da taxa normal. O objetivo é baixar o custo de construir e, assim, ajudar a combater a crise da habitação.",
+ "context": "O proponente descreve uma crise habitacional grave, com preços acima dos rendimentos, dificuldades dos jovens e abandono dos centros urbanos. Defende que uma redução do IVA na construção e reabilitação alivia o custo para as famílias e baixa a entrada no mercado.",
+ "analysis": "Reduzir o IVA nas empreitadas pode baixar custos de construção e estimular oferta. No entanto, não há garantia de que a poupança chegue ao preço final, e o texto não apresenta estimativa de perda de receita nem estudo de impacto. Existe uma inconsistência: a motivação refere primeira habitação própria permanente, mas o articulado abrange qualquer imóvel afeto à habitação, incluindo luxo ou arrendamento. A exposição contém também juízos políticos genéricos sem dados.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A aplicação da taxa reduzida de IVA às empreitadas de habitação diminui a receita fiscal. O texto não apresenta montantes."
+ },
+ "affected": [
+  "construtoras",
+  "famílias compradoras de habitação",
+  "donos de obra públicos e privados"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "IVA",
+  "construção",
+  "taxa reduzida",
+  "habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

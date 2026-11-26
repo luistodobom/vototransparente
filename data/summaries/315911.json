@@ -1,0 +1,42 @@
+{
+ "short_title": "Modernizar o sítio da Editorial do Ministério da Educação",
+ "summary": "Este projeto de resolução do Chega recomenda ao Governo a modernização e melhoria da acessibilidade do sítio institucional da Editorial do Ministério da Educação e Ciência (emec.gov.pt). Propõe uma auditoria técnica e funcional, um plano de reestruturação digital com interface adaptada a telemóveis, pesquisa interna e secções para escolas, docentes, alunos e famílias, e conformidade integral com as normas de acessibilidade (WCAG 2.1), incluindo declaração de acessibilidade nos termos do Decreto-Lei n.º 83/2018. Recomenda também um canal de apoio e feedback, um relatório anual de desempenho digital e a interoperabilidade com os sistemas do Ministério. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Auditoria técnica e funcional ao sítio emec.gov.pt, incluindo conformidade com as normas WCAG 2.1.",
+  "Plano de modernização: interface para telemóveis, pesquisa com filtros e secções por público.",
+  "Conformidade com normas de acessibilidade e publicação da Declaração de Acessibilidade.",
+  "Canal de apoio e feedback dos utilizadores.",
+  "Relatório anual de desempenho digital e interoperabilidade com outros sistemas do Ministério."
+ ],
+ "plain_language": "O Chega pede ao Governo que melhore o site da editorial do Ministério da Educação, para ser mais fácil de usar, funcionar em telemóveis e ser acessível a pessoas com deficiência. É apenas uma recomendação.",
+ "context": "O Chega aponta que o sítio tem navegação pouco intuitiva, informação dispersa, atualizações pouco evidentes e problemas em telemóveis, e refere uma pontuação de 3.0 numa análise de acessibilidade WCAG 2.1. Invoca o Decreto-Lei n.º 83/2018, que transpõe a diretiva europeia sobre acessibilidade de sítios públicos.",
+ "analysis": "A iniciativa aborda uma obrigação legal de acessibilidade já existente e as medidas são concretas e verificáveis. Fragilidades: baseia-se numa única análise externa citada, de novembro de 2025, não define prazos nem orçamento, e várias das medidas já decorrem da lei atual, podendo ser duplicadas pela ação regular da Administração. Por ser uma resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A auditoria e a reestruturação digital implicam custos de desenvolvimento e manutenção. O texto não indica montantes."
+ },
+ "affected": [
+  "escolas e docentes",
+  "alunos e famílias",
+  "pessoas com deficiência",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "administracao",
+  "ciencia"
+ ],
+ "tags": [
+  "acessibilidade digital",
+  "WCAG",
+  "EMEC",
+  "sítio institucional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

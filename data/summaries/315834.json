@@ -1,0 +1,40 @@
+{
+ "short_title": "Salvaguarda do Cinema Império e proteção do património edificado",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo medidas urgentes de salvaguarda do Cinema Império, em Lisboa, imóvel de interesse público desde 1996. Recomenda que suspenda e reavalie o processo de aprovação do projeto que o transformaria em equipamento religioso, cumprindo a legislação dos imóveis classificados e os pareceres do Património Cultural, I.P.; que assegure o regime de desafetação de salas de espetáculos, com consulta pública e pareceres; que proíba intervenções que descaracterizem imóveis classificados; e que avalie soluções para manter o espaço como equipamento cultural. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Suspender e reavaliar a aprovação do projeto de alteração do Cinema Império.",
+  "Cumprir o regime de desafetação de salas de espetáculos, com consulta pública e pareceres obrigatórios.",
+  "Proibir intervenções que descaracterizem a integridade de imóveis classificados.",
+  "Avaliar soluções que mantenham o Cinema Império como equipamento cultural."
+ ],
+ "plain_language": "O Cinema Império, em Lisboa, é um edifício histórico protegido. A Câmara aprovou um projeto para o transformar num espaço religioso, o que preocupa quem defende o património. O PAN pede ao Governo que trave o processo, faça cumprir as regras de proteção e procure manter o edifício como espaço cultural.",
+ "context": "A iniciativa baseia-se na petição Salvemos o Cinema Império, que alerta para alterações à fachada, remoção de elementos como as esferas armilares e o letreiro, dúvidas dos pareceres do Património Cultural, I.P. sobre reversibilidade, e possível incumprimento do regime de desafetação de salas de espetáculos.",
+ "analysis": "Pontos fortes: invoca a classificação legal do imóvel e procedimentos de participação pública. Fragilidades: a base factual provém sobretudo da petição, sem verificação independente. A recomendação ao Governo central para suspender um processo da Câmara Municipal de Lisboa levanta questões de competências e de autonomia local. A ideia de proibir qualquer descaracterização já decorre da lei vigente, e o texto não indica quem financiaria a manutenção cultural.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não refere custos nem financiamento. Manter a função cultural do imóvel pode implicar despesa pública, mas não é quantificada."
+ },
+ "affected": [
+  "Câmara Municipal de Lisboa",
+  "Património Cultural, I.P.",
+  "público e setor cultural",
+  "proprietário do imóvel"
+ ],
+ "categories": [
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "Cinema Império",
+  "património cultural",
+  "imóvel classificado",
+  "Lisboa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

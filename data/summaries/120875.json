@@ -1,0 +1,42 @@
+{
+ "short_title": "Enquadramento legal da educação de infância dos 0 aos 6 anos",
+ "summary": "O PSD apresenta um projeto de resolução que recomenda ao Governo sete medidas para a educação de infância. Pede um enquadramento legal que articule as competências do Ministério do Trabalho, Solidariedade e Segurança Social e do Ministério da Educação, orientações pedagógicas para as creches, a execução da Recomendação do Conselho da União Europeia de 22 de maio de 2019, a garantia de acesso à educação e acolhimento na primeira infância, o acompanhamento pedagógico por educadoras das amas, um programa de formação para profissionais de creches e amas e a sensibilização do CRUP e do CCISP para reformular a formação inicial de educadores. É uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Pede um enquadramento legal que articule os ministérios do Trabalho e da Educação na educação de infância.",
+  "Recomenda orientações pedagógicas para creches, promovendo transições suaves para o pré-escolar.",
+  "Propõe acompanhamento pedagógico por educadoras às amas e formação específica para profissionais de creche.",
+  "Pede a execução da Recomendação europeia de 2019 sobre educação e acolhimento na primeira infância.",
+  "Pede a sensibilização do CRUP e do CCISP para reformular a formação inicial de educadores de infância."
+ ],
+ "plain_language": "Em Portugal, a educação das crianças até aos 3 anos está sob a tutela da Segurança Social e a dos 3 aos 6 anos sob a da Educação. O PSD pede ao Governo que articule melhor as duas áreas, defina orientações pedagógicas para as creches e melhore a formação dos profissionais, para que as crianças tenham um percurso educativo contínuo. É uma recomendação política.",
+ "context": "O PSD refere que a primeira infância é um período crítico de desenvolvimento e que um ensino de qualidade traz benefícios, sobretudo para crianças desfavorecidas, citando cerca de 135 mil crianças com menos de 6 anos em risco de pobreza. Aponta o sistema bifásico existente em Portugal e invoca recomendações europeias e internacionais.",
+ "analysis": "A proposta aponta um problema real, a divisão de tutelas entre dois ministérios, e baseia-se em referências europeias e do Conselho Nacional de Educação. É, porém, genérica: não prevê prazos, metas, custos nem indica qual o ministério que lideraria a coordenação. Pede ao Governo que cumpra o seu próprio programa, o que reforça o carácter político da recomendação. A articulação com as amas e a formação universitária depende de entidades autónomas, como o CRUP e o CCISP.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A formação, o acompanhamento pedagógico e o reforço do acesso implicariam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "crianças dos 0 aos 6 anos",
+  "educadores de infância",
+  "amas e profissionais de creche",
+  "famílias"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "educação de infância",
+  "creches",
+  "primeira infância",
+  "amas",
+  "formação de educadores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

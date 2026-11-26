@@ -1,0 +1,39 @@
+{
+ "short_title": "Proteção da comunidade luso-descendente na Venezuela",
+ "summary": "O projeto de resolução do PAN recomenda ao Governo quatro medidas. Reforçar os serviços consulares portugueses na Venezuela para antecipar situações de emergência e apoiar a comunidade luso-descendente; promover uma campanha de informação junto dessa comunidade em várias plataformas e canais digitais; promover contactos diplomáticos urgentes com a Venezuela para a libertação de todos os presos políticos, nomeadamente os de nacionalidade portuguesa; e, com parceiros europeus e sul-americanos, promover uma posição comum em defesa da paz, democracia e liberdade, do fim das violações dos direitos humanos e de um processo de transição democrática. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reforçar os serviços consulares portugueses na Venezuela.",
+  "Promover uma campanha de informação junto da comunidade luso-descendente.",
+  "Promover contactos diplomáticos urgentes para libertar presos políticos, incluindo portugueses.",
+  "Promover com parceiros europeus e sul-americanos uma posição comum pela democracia e direitos humanos."
+ ],
+ "plain_language": "Vive na Venezuela uma grande comunidade de portugueses e descendentes, num país com presos políticos e problemas de direitos humanos. O PAN pede ao Governo que reforce os consulados, informe melhor esta comunidade, peça a libertação dos presos políticos, incluindo portugueses, e trabalhe com outros países por uma transição democrática. É apenas uma recomendação.",
+ "context": "O proponente refere o ataque dos Estados Unidos à Venezuela a 3 de janeiro de 2026 e a captura de Nicolás Maduro, e afirma que continuam detidas por motivos políticos 503 pessoas, seis das quais portuguesas. Indica cerca de 220 mil portugueses registados nos consulados e uma estimativa de 1,2 milhões de pessoas com ligação a Portugal.",
+ "analysis": "Combina apoio concreto à comunidade, como reforço consular e informação, com ação diplomática. Fragilidades: não quantifica o reforço consular nem indica prazos ou custos; a defesa de uma «transição democrática» é genérica e depende de articulação com muitos atores; e o texto enquadra o contexto político após a intervenção norte-americana sem tomar posição sobre ela. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço dos serviços consulares e a campanha de informação implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "comunidade portuguesa e luso-descendente na Venezuela",
+  "presos políticos portugueses",
+  "serviços consulares portugueses"
+ ],
+ "categories": [
+  "internacional",
+  "direitos"
+ ],
+ "tags": [
+  "Venezuela",
+  "comunidade portuguesa",
+  "serviços consulares",
+  "presos políticos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

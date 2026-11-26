@@ -1,0 +1,39 @@
+{
+ "short_title": "Acessibilidade aos cuidados de saúde para doentes com doença inflamatória do intestino (PSD)",
+ "summary": "O PSD propõe que a Assembleia da República recomende ao Governo que garanta a continuidade dos cuidados de saúde às pessoas com doença inflamatória do intestino (doença de Crohn e colite ulcerosa), com tratamento integrado e boa articulação entre serviços; avalie medidas de apoio no acesso a bens e serviços de saúde, incluindo taxas moderadoras, e de proteção em contexto laboral; crie um cartão que permita o acesso prioritário a instalações sanitárias em locais públicos ou acessíveis ao público; e promova a literacia em saúde sobre estas doenças, em colaboração com associações de doentes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda garantir a continuidade e a integração dos cuidados de saúde a estes doentes.",
+  "Recomenda avaliar medidas de apoio, incluindo taxas moderadoras e proteção laboral.",
+  "Recomenda criar um cartão de acesso prioritário a instalações sanitárias.",
+  "Recomenda promover a literacia em saúde com as associações de doentes."
+ ],
+ "plain_language": "O PSD pede ao Governo que garanta cuidados contínuos e coordenados às pessoas com Crohn ou colite ulcerosa, estude apoios como a redução de taxas moderadoras e proteção no emprego, crie um cartão de acesso prioritário a casas de banho e divulgue informação sobre a doença. É uma recomendação, que o Governo não é obrigado a cumprir.",
+ "context": "O proponente refere que as doenças inflamatórias do intestino são crónicas, auto-imunes, com tendência de aumento e mais de 20 mil pessoas afetadas, exigem tratamento regular com custos elevados e acompanhamento apertado e provocam episódios de emergência que exigem acesso prioritário a instalações sanitárias.",
+ "analysis": "A proposta cobre cuidados, apoios e literacia, em termos mais cautelosos do que outras, pois pede avaliar e não decidir, por exemplo, a isenção de taxas moderadoras. Isso reduz o risco financeiro, mas também a força da medida: não define critérios, prazos nem custos. O cartão de acesso é concreto, mas faltam detalhes sobre emissão e aceitação em espaços privados. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Medidas de apoio e redução de taxas moderadoras poderiam alterar despesa e receita do SNS, mas apenas se o Governo as adotar após avaliação."
+ },
+ "affected": [
+  "pessoas com doença de Crohn e colite ulcerosa",
+  "SNS",
+  "associações de doentes"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "doença inflamatória do intestino",
+  "literacia em saúde",
+  "cartão de acesso wc",
+  "cuidados integrados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

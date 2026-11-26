@@ -1,0 +1,40 @@
+{
+ "short_title": "Revogar o artigo da Carta Digital sobre desinformação",
+ "summary": "O CDS-PP propõe revogar o artigo 6.º da Lei n.º 27/2021 (Carta Portuguesa de Direitos Humanos na Era Digital), eliminando o conceito legal de desinformação, os exemplos vinculativos, o direito de queixa à ERC e a previsão de apoios estatais a estruturas de verificação de factos por órgãos de comunicação social e de incentivos à atribuição de selos de qualidade. A lei entra em vigor no dia seguinte ao da publicação. O texto argumenta que não cabe ao Estado determinar o que é verdadeiro, que o Plano Europeu de Ação contra a Desinformação já está em execução e dispensa certificação legal, e que a norma foi alvo de pedidos de declaração de inconstitucionalidade.",
+ "key_points": [
+  "Revoga o artigo 6.º da Lei n.º 27/2021 (Carta Portuguesa de Direitos Humanos na Era Digital).",
+  "Elimina o conceito legal de desinformação e os exemplos vinculativos.",
+  "Elimina a previsão de apoios estatais a estruturas de verificação de factos e de incentivos a selos de qualidade para órgãos de comunicação social.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O CDS-PP quer apagar da Carta de Direitos Humanos na Era Digital a parte que define \"desinformação\" e prevê apoios do Estado a selos de qualidade para os media, por entender que o Estado não deve decidir o que é verdade nem separar bons de maus meios de comunicação.",
+ "context": "O CDS-PP defende que o artigo 6.º foi alvo de dúvidas e críticas, incluindo um pedido do Sindicato dos Jornalistas à Provedora de Justiça e à Procuradora-Geral da República. Considera que o Estado excede as suas funções ao definir desinformação e certificar órgãos de comunicação social, com risco para a liberdade de expressão e o pluralismo.",
+ "analysis": "A iniciativa protege a liberdade de expressão e responde a preocupações jurídicas expressas por entidades do setor. Fragilidades: revogar o artigo inteiro elimina também o direito de queixa e a referência ao Plano Europeu, sem proposta alternativa para combater a desinformação, que o próprio texto reconhece como fenómeno potencialmente nocivo; não distingue entre disposições problemáticas e outras úteis; mantém o vazio regulatório na matéria. Os argumentos de inconstitucionalidade são citados, mas não demonstrados.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A revogação elimina apoios estatais previstos de forma genérica, sem valores no texto; não há efeito orçamental quantificado."
+ },
+ "affected": [
+  "órgãos de comunicação social",
+  "cidadãos e utilizadores da internet",
+  "ERC"
+ ],
+ "categories": [
+  "comunicacao",
+  "direitos"
+ ],
+ "tags": [
+  "desinformação",
+  "carta de direitos humanos digital",
+  "liberdade de expressão",
+  "fake news",
+  "erc"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Linha de crédito aos viticultores do Douro e outras medidas",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo nove medidas para o setor vitivinícola da Região Demarcada do Douro: uma linha de crédito imediata com juros bonificados para cooperativas e empresas que transformam uva da região; a destilação do vinho excedente e o aproveitamento da aguardente no Vinho do Porto; mais fiscalização das importações de vinho e mosto; reforço de pessoal das entidades fiscalizadoras; melhoria da promoção das exportações; descativação das verbas das taxas cobradas pelo IVDP e pelo IVV; identificação obrigatória da origem do vinho de mesa a granel; compensação de perdas, como o apoio à poda em verde; e fomento do enoturismo, com mais alojamento em quintas e adegas.",
+ "key_points": [
+  "Criar uma linha de crédito imediata, com juros bonificados, para cooperativas e empresas transformadoras de uva do Douro.",
+  "Avançar com a destilação do vinho excedente e usar a aguardente no Vinho do Porto.",
+  "Reforçar a fiscalização das importações de vinho e mosto e os quadros das entidades fiscalizadoras.",
+  "Descativar as verbas das taxas do IVDP e do IVV para promoção do setor.",
+  "Tornar obrigatória a identificação da origem do vinho a granel e apoiar a poda em verde e o enoturismo."
+ ],
+ "plain_language": "O CHEGA pede ao Governo medidas para ajudar o setor do vinho do Douro: crédito barato para as empresas, destilação do vinho excedente, mais controlo das importações, mais dinheiro para promover o vinho, informação clara sobre a origem do vinho servido a granel e apoio ao enoturismo. É uma recomendação ao Governo, que não é obrigado a segui-la.",
+ "context": "O proponente refere que os viticultores do Douro temem uma terceira vindima consecutiva com dificuldades de escoamento ou venda a preços baixos, com cancelamento de encomendas, e que se teme o abandono de parte da região demarcada. Aponta insuficiências de recursos humanos nas entidades de fiscalização da fileira vitivinícola e propõe um conjunto de apoios, controlos e medidas de promoção.",
+ "analysis": "A iniciativa é abrangente e inclui medidas imediatas (crédito, destilação) e estruturais (fiscalização, promoção, enoturismo). Fragilidades: não indica montantes, bonificação de juros nem calendário, e a destilação do excedente e a descativação das taxas têm custos orçamentais não estimados. Algumas medidas dependem de decisões do setor, como o Conselho Interprofissional. A exigência de identificar a origem em jarros rotulados pode aumentar custos de cumprimento para a restauração. Apenas recomendação.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Crédito com juros bonificados, destilação do excedente, reforço de fiscalização, descativação de receitas e apoios à poda em verde implicam despesa pública ou menos receita retida; o texto não indica montantes."
+ },
+ "affected": [
+  "viticultores do Douro",
+  "cooperativas e empresas vitivinícolas",
+  "restauração",
+  "entidades fiscalizadoras"
+ ],
+ "categories": [
+  "agricultura",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "douro",
+  "vinho",
+  "linha de crédito",
+  "fiscalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

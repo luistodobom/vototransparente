@@ -1,0 +1,42 @@
+{
+ "short_title": "Crédito bonificado à habitação para pessoas com deficiência (BE)",
+ "summary": "Projeto de Lei do BE que altera a Lei n.º 64/2014 para melhorar o acesso das pessoas com deficiência ao crédito bonificado à habitação própria e permanente. Estende o acesso a membros do agregado familiar quando o imóvel se destina à habitação da pessoa com deficiência, atesta a incapacidade apenas no momento do acesso ao crédito, sem considerar reavaliações posteriores, e proíbe a exigência de seguro de vida. Fixa o valor máximo do empréstimo em 450 mil euros, atualizado anualmente com base no índice de preços do consumidor, e o rácio financeiro de garantia em 100%. Mantém a migração para o regime de créditos já contratados quando o mutuário ou familiar adquire incapacidade igual ou superior a 60%. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Alarga o acesso ao crédito a membros do agregado familiar, se o imóvel for habitação própria e permanente da pessoa com deficiência.",
+  "A incapacidade é atestada apenas no momento do acesso ao crédito, sem consideração de reavaliações posteriores.",
+  "Proíbe as instituições de crédito de exigirem a contratação de seguro de vida.",
+  "Fixa o empréstimo máximo em 450 mil euros, atualizado anualmente, e o rácio de garantia em 100%.",
+  "Mantém a migração obrigatória de créditos existentes para o regime quando se adquire incapacidade igual ou superior a 60%."
+ ],
+ "plain_language": "O BE propõe tornar mais fácil às pessoas com deficiência, e às suas famílias, obterem um crédito à habitação com condições favoráveis. Familiares poderiam contratar o empréstimo para a casa onde a pessoa com deficiência vai viver, o banco não poderia exigir seguro de vida, o grau de incapacidade seria avaliado só na entrada, e o empréstimo poderia chegar a 450 mil euros.",
+ "context": "O proponente invoca a Convenção da ONU sobre os Direitos das Pessoas com Deficiência, a crise habitacional e o facto de as casas adaptadas serem das mais caras. Cita a OIT para referir que as pessoas com deficiência recebem menos 12% por hora e têm menor participação no mercado de trabalho, e defende discriminação positiva no acesso à habitação.",
+ "analysis": "A proposta dá estabilidade ao beneficiário, ao ignorar reavaliações posteriores, e retira a exigência de seguro de vida, uma barreira para muitos. Em contrapartida, não prevê mecanismos de controlo da perda de condições (a incapacidade pode deixar de existir e a bonificação permanecer), o que cria risco de uso indevido e custo acrescido. O rácio de 100% eleva o risco para o sistema financeiro e o Estado, e o texto não apresenta estimativas de custo nem do número de beneficiários.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Mais beneficiários, limite de empréstimo mais elevado e sem reavaliações posteriores aumentam a despesa com bonificações. O texto não quantifica o custo."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "familiares do agregado",
+  "instituições de crédito",
+  "seguradoras"
+ ],
+ "categories": [
+  "habitacao",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "crédito bonificado",
+  "deficiência",
+  "seguro de vida",
+  "habitação própria permanente"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

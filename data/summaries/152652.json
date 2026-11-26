@@ -1,0 +1,42 @@
+{
+ "short_title": "Reduzir o IRS sobre rendas e compensar rendas pagas",
+ "summary": "Projeto de Lei da Iniciativa Liberal que altera o artigo 72.º do Código do IRS. Fixa em 14,5% a taxa autónoma sobre rendimentos prediais, em vez dos atuais 28% referidos no texto, e prevê uma redução de catorze pontos percentuais da taxa para arrendamentos de habitação permanente com duração igual ou superior a dez anos. Quando um sujeito passivo recebe rendas e paga rendas, a tributação incide sobre a diferença positiva entre as rendas obtidas e as pagas, desde que ambos os contratos estejam registados no Portal das Finanças. A AT regulamenta medidas contra a evasão fiscal. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Taxa autónoma sobre rendimentos prediais fixada em 14,5%.",
+  "Redução de 14 pontos percentuais da taxa em contratos de arrendamento habitacional permanente com duração igual ou superior a dez anos.",
+  "Tributação da diferença positiva entre rendas recebidas e rendas pagas, com contratos registados nas Finanças.",
+  "Regulamentação pela AT para mitigar riscos de evasão fiscal.",
+  "Revoga a alínea e) do n.º 1 e o n.º 5 do artigo 72.º do Código do IRS; entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quem arrenda uma casa paga hoje 28% de IRS sobre a renda. A Iniciativa Liberal propõe baixar essa taxa para 14,5% e, em contratos longos de habitação permanente, reduzi-la ainda mais. Quem muda de casa e arrenda a anterior só paga imposto sobre a diferença entre a renda que recebe e a que paga.",
+ "context": "A Iniciativa Liberal defende que o aumento dos preços da habitação resulta de falta de oferta, burocracia e carga fiscal, e que a taxa de 28% desincentiva colocar casas vazias no mercado de arrendamento, em especial quando os proprietários se mudam.",
+ "analysis": "Pode aumentar a rentabilidade do arrendamento e estimular a oferta. Fragilidades: a redução favorece os senhorios de forma geral e não garante que os benefícios fiscais se traduzam em rendas mais baixas; implica perda de receita sem estimativa. A compensação entre rendas pagas e recebidas aumenta a complexidade e o risco de evasão, apenas remetido para regulamento. A articulação do novo n.º 5 com o regime em vigor não é explicada no texto.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução da taxa autónoma e a dedução das rendas pagas diminuem a receita de IRS sobre rendimentos prediais. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "Senhorios",
+  "Inquilinos",
+  "Proprietários que mudam de habitação",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "irs",
+  "arrendamento",
+  "rendimentos prediais",
+  "taxa autónoma",
+  "rendas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

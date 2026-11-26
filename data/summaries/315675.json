@@ -1,0 +1,39 @@
+{
+ "short_title": "Representação portuguesa em Taiwan",
+ "summary": "Este projeto de resolução da Iniciativa Liberal recomenda ao Governo que inicie os procedimentos para abrir uma representação da AICEP, ou do Instituto Camões, em Taiwan, com sede em Taipé, para promover os interesses de Portugal e reforçar a presença nacional no Indo-Pacífico. Argumenta que várias economias europeias já têm representações económicas permanentes em Taiwan sem alterar a política de Uma Só China, e que os assuntos relativos a Taiwan são hoje tratados através do Consulado em Macau. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Iniciar procedimentos para abrir uma representação em Taipé.",
+  "A representação ficaria sob a AICEP, com foco económico e tecnológico, ou sob o Instituto Camões, com foco cultural e académico.",
+  "Objetivo: promover interesses de Portugal e reforçar a presença no Indo-Pacífico.",
+  "Alinhamento com a Estratégia Europeia para o Indo-Pacífico."
+ ],
+ "plain_language": "A IL propõe que Portugal abra um escritório em Taipé, ligado à agência de investimento ou ao Instituto Camões, para facilitar o comércio, a ciência e a cultura com Taiwan. O Governo não é obrigado a seguir esta recomendação.",
+ "context": "A IL destaca o peso de Taiwan em tecnologia e semicondutores, o crescente envolvimento da União Europeia e a presença de representações de outros países europeus. Aponta que Portugal trata os assuntos de Taiwan via Consulado em Macau, o que considera um constrangimento.",
+ "analysis": "A proposta tem argumentos económicos e baseia-se em precedentes de outros Estados europeus com designações funcionais. Contudo, não estima custos nem recursos humanos, nem aborda os possíveis efeitos diplomáticos nas relações com a China, que o texto minimiza. Sendo uma recomendação, a decisão fica inteiramente com o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A abertura de uma representação no estrangeiro implicaria custos de instalação e funcionamento, que o texto não quantifica."
+ },
+ "affected": [
+  "empresas portuguesas exportadoras",
+  "cidadãos portugueses em Taiwan",
+  "AICEP e Instituto Camões"
+ ],
+ "categories": [
+  "internacional",
+  "economia"
+ ],
+ "tags": [
+  "Taiwan",
+  "AICEP",
+  "Instituto Camões",
+  "Indo-Pacífico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Fim da isenção de IVA para artistas tauromáquicos",
+ "summary": "O PAN propõe eliminar a isenção de IVA aplicável aos artistas tauromáquicos, alterando o artigo 9.º do Código do IVA. A lei entraria em vigor com o Orçamento do Estado subsequente à sua publicação. O proponente argumenta que as isenções fiscais devem alinhar-se com valores éticos e o bem-estar animal e que a tauromaquia é minoritária na sociedade portuguesa, citando um estudo de 2020 e uma sondagem de 2024. A proposta altera a alínea 15) do artigo 9.º, mantendo a isenção para desportistas em competições desportivas.",
+ "key_points": [
+  "Elimina a isenção de IVA dos artistas tauromáquicos no artigo 9.º do Código do IVA.",
+  "Mantém a isenção para desportistas em competições desportivas.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje, os toureiros não pagam IVA pelos seus serviços. A proposta acaba com essa isenção, passando a ser tratados como outras atividades sujeitas a IVA, a partir do Orçamento do Estado seguinte.",
+ "context": "O PAN defende que a política fiscal deve refletir a justiça social e o bem-estar animal. Invoca dados do INE sobre o público de touradas, um estudo científico de 2020 e uma sondagem de 2024 que, segundo o texto, mostram que a maioria da população é contra as touradas e contra o seu financiamento público.",
+ "analysis": "A medida é simples e tem efeito direto sobre o regime fiscal de uma atividade específica. O argumento apresentado, porém, é essencialmente de valores e de opinião pública, e não de neutralidade fiscal ou justificação técnica; a isenção de IVA de certas atividades culturais e de espetáculo tem outro enquadramento, que o texto não discute. Pode haver questões de igualdade de tratamento face a outros artistas. O texto não estima a receita adicional nem os efeitos nos preços.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A tributação de uma atividade hoje isenta de IVA aumenta, em princípio, a receita fiscal, embora o texto não quantifique o montante."
+ },
+ "affected": [
+  "artistas tauromáquicos",
+  "empresas organizadoras de touradas",
+  "espectadores de touradas",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "animais",
+  "cultura"
+ ],
+ "tags": [
+  "IVA",
+  "tauromaquia",
+  "isenção fiscal",
+  "código do IVA"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Fim das propinas do 1.º ciclo e limite às restantes taxas",
+ "summary": "O projeto de lei do Bloco de Esquerda altera a Lei de Bases do Financiamento do Ensino Superior para eliminar, a partir de 2026/2027, as propinas nos CTeSP, nas licenciaturas e nos mestrados integrados do ensino superior público, e para criar um teto às propinas de mestrado e doutoramento, que nunca poderá exceder um salário mínimo nacional por ano, aplicável também aos estudantes internacionais não abrangidos por regimes específicos. Compensa financeiramente as instituições, proíbe taxas de entrega de tese e novas taxas compensatórias, impede que dívidas de propinas bloqueiem diplomas e extingue as dívidas de propinas de 1.º ciclo. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Elimina as propinas em CTeSP, licenciaturas e mestrados integrados a partir de 2026/2027.",
+  "Fixa um teto de um salário mínimo nacional por ano para as propinas de mestrado, doutoramento e estudantes internacionais.",
+  "Compensa financeiramente as instituições pela eliminação das propinas.",
+  "Proíbe taxas de entrega de dissertação e de tese e novas taxas compensatórias.",
+  "Impede que dívidas de propinas bloqueiem a emissão de diplomas e extingue as dívidas de 1.º ciclo.",
+  "Exclui a intervenção da Autoridade Tributária na cobrança de propinas."
+ ],
+ "plain_language": "O BE propõe acabar com as propinas das licenciaturas e de alguns mestrados no ensino superior público, a partir de 2026/2027, e limitar as propinas de mestrados e doutoramentos a um salário mínimo por ano. O Estado compensaria as instituições.",
+ "context": "O BE defende que as propinas são um entrave ao direito à educação, rejeita o aumento do valor máximo para 710 euros a partir de 2026/2027 anunciado pelo Governo e um sistema de empréstimos a estudantes. Invoca o artigo 74.º da Constituição, sobre a gratuitidade progressiva, e a descida das propinas de 1068 para 697 euros.",
+ "analysis": "A medida elimina um custo para os estudantes e estabelece um teto previsível nos mestrados e doutoramentos. Contudo, o impacto financeiro é substancial e depende de compensação do Estado às instituições, cujo montante não é apresentado. O teto de um salário mínimo pode reduzir receitas de mestrados e doutoramentos, e o perdão das dívidas e a exclusão da Autoridade Tributária têm efeitos na cobrança que o texto não avalia.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A eliminação das propinas exige compensação do Orçamento do Estado às instituições, e o perdão de dívidas e o teto reduzem receitas próprias; o texto não apresenta montantes."
+ },
+ "affected": [
+  "estudantes do ensino superior público",
+  "instituições de ensino superior",
+  "estudantes de mestrado e doutoramento",
+  "estudantes internacionais"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "propinas",
+  "ensino superior",
+  "gratuitidade",
+  "Lei de Bases do Financiamento",
+  "teto de propinas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

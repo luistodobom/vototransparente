@@ -1,0 +1,41 @@
+{
+ "short_title": "Plano para retirar o amianto das escolas públicas",
+ "summary": "Projeto de resolução do CDS-PP que recomenda ao Governo a elaboração urgente de uma lista das escolas públicas que contêm material com amianto e a calendarização das intervenções para a sua remoção, acompanhada de uma estimativa orçamental anualizada. O texto recorda a legislação existente sobre identificação e remoção do amianto em edifícios públicos, em particular a Lei n.º 2/2011 e a Portaria n.º 40/2014, e o compromisso do Governo, em 2016, de retirar o amianto das escolas, com cerca de 200 escolas numa lista inicial. Afirma que não existe lista oficial atualizada nem cronograma de obras. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Elaboração urgente de uma lista das escolas públicas com material com amianto.",
+  "Calendarização das intervenções de remoção.",
+  "Estimativa orçamental anualizada para essas intervenções."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que divulgue quais as escolas públicas que ainda têm amianto, diga quando vai retirá-lo e quanto vai custar por ano. Assim, pais, alunos, professores e funcionários poderiam saber a situação da sua escola. É uma recomendação, sem obrigatoriedade.",
+ "context": "O CDS-PP considera que o Governo não resolve um problema de saúde pública nem cumpre a lei. Refere que, quase quatro anos depois do compromisso de 2016, não se sabe que escolas foram identificadas, quais tiveram obras e quais aguardam, e cita estimativas de associações e sindicatos de mais de 100 escolas em situação grave.",
+ "analysis": "A proposta pede transparência e planeamento, medidas de baixo custo e de fácil verificação, num tema de saúde pública reconhecido pela DGS. Fica porém limitada ao levantamento e à calendarização, sem prazo de entrega, sem prioridades de risco nem financiamento. As estimativas de escolas afetadas vêm de associações e não de dados oficiais. A posição do Ministro de que remover placas protegidas pode aumentar o perigo não é debatida. Sendo resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A recomendação pede apenas uma lista, um calendário e uma estimativa orçamental, mas a remoção do amianto implicaria despesa futura, ainda não quantificada."
+ },
+ "affected": [
+  "alunos",
+  "professores e funcionários escolares",
+  "pais e encarregados de educação",
+  "escolas públicas"
+ ],
+ "categories": [
+  "educacao",
+  "saude",
+  "ambiente"
+ ],
+ "tags": [
+  "amianto",
+  "escolas",
+  "saúde pública",
+  "remoção",
+  "calendarização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

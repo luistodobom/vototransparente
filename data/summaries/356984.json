@@ -1,0 +1,44 @@
+{
+ "short_title": "Pacote para promover o direito à habitação",
+ "summary": "O Projeto de Lei n.º 689/XVII/1.ª, do BE, apresenta um pacote de medidas de habitação que altera o Decreto-Lei n.º 308/2007, o Decreto-Lei n.º 128/2014 (alojamento local), a Lei n.º 56/2023, o Decreto-Lei n.º 97/2026 e o Código do IRS. Cria uma bolsa de habitação ligada ao Porta 65 Jovem, dá prioridade às vítimas de violência doméstica e fixa apoios mensais entre 50 e 200 euros, ou entre 100 e 400 euros para vítimas de violência doméstica. Na regulação do alojamento local, repristina regras revogadas em 2024, como a decisão do condomínio e a renovação quinquenal dos registos, suspende novos registos em municípios com carência habitacional e prevê a caducidade de registos inativos. Altera também o regime do arrendamento acessível. O texto disponível está truncado.",
+ "key_points": [
+  "Bolsa de habitação para jovens do Porta 65 e apoios mensais entre 50 e 200 euros, ou 100 a 400 euros para vítimas de violência doméstica, com prioridade na análise.",
+  "Repristinação de regras do alojamento local revogadas em 2024, incluindo a necessidade de decisão do condomínio e o registo com duração de cinco anos renovável.",
+  "Suspensão de novos registos de alojamento local em municípios com carência habitacional declarada.",
+  "Reapreciação dos registos de alojamento local existentes em 2030 e caducidade de registos inativos, com prova de atividade em dois meses.",
+  "Alteração dos limites do arrendamento acessível previstos no Decreto-Lei n.º 97/2026."
+ ],
+ "plain_language": "Este projeto reúne várias medidas para tornar mais fácil ter casa. Ajuda jovens e vítimas de violência doméstica a pagar a renda, aperta as regras do alojamento local, como o Airbnb, para libertar casas para arrendamento, e muda as regras do arrendamento acessível. Entre outras coisas, os condomínios passariam a decidir se uma fração pode ser alojamento local e registos inativos seriam cancelados. O texto analisado está incompleto.",
+ "context": "O BE descreve a mais grave crise de acesso à habitação da história democrática: o índice de preços da habitação subiu 17,6% em 2025, o preço mediano de compra atingiu 3121 euros por metro quadrado em abril de 2026 e a Comissão Europeia estima a maior sobrevalorização da União Europeia em Portugal, cerca de 25%. Considera que nenhuma das medidas do Governo inverteu a escalada e propõe reforçar apoios, regular o alojamento local e promover o arrendamento acessível.",
+ "analysis": "Pontos fortes: ataca vários fatores da crise, do lado da procura, com apoios a grupos vulneráveis, e da oferta, ao limitar o alojamento local. Fragilidades: a suspensão de novos registos e a reapreciação dos existentes podem afetar direitos de proprietários e suscitar contestação jurídica; o impacto dos apoios mensais e da regulação na oferta de arrendamento não é estimado; o pacote reúne matérias muito diferentes num único diploma, o que dificulta a avaliação; e a análise está limitada porque o texto está truncado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Os apoios mensais à renda aumentam a despesa pública. O texto disponível não quantifica montantes, e as alterações ao Código do IRS, não visíveis no texto truncado, não foram analisadas."
+ },
+ "affected": [
+  "arrendatários e jovens",
+  "vítimas de violência doméstica",
+  "titulares de alojamento local",
+  "senhorios",
+  "municípios"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "familia"
+ ],
+ "tags": [
+  "alojamento local",
+  "arrendamento acessível",
+  "Porta 65 Jovem",
+  "crise da habitação",
+  "bolsa de habitação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

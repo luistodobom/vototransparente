@@ -1,0 +1,40 @@
+{
+ "short_title": "Compensações a vítimas de abusos na Igreja sem IRS",
+ "summary": "O Projeto de Lei n.º 566/XVII/1.ª, do BE, exclui de IRS as compensações financeiras devidas a vítimas de abusos sexuais no contexto da Igreja Católica, fixadas nos termos do regulamento aprovado pela Conferência Episcopal Portuguesa (abril de 2024) e pela Conferência dos Institutos Religiosos de Portugal. Essas compensações são equiparadas a indemnizações fixadas por decisão judicial ou arbitral ou resultantes de acordo homologado, deixando de ser consideradas incrementos patrimoniais nos termos da alínea b) do n.º 1 do artigo 9.º do Código do IRS. Quando o imposto já tenha sido liquidado, a Autoridade Tributária procede à revisão e ao reembolso, oficiosamente ou a pedido, no prazo máximo de um ano. A lei produz efeitos com o Orçamento do Estado seguinte, aplicando-se a factos tributários desde o início dos pagamentos.",
+ "key_points": [
+  "Exclui de tributação em IRS as compensações às vítimas de abusos sexuais no contexto da Igreja Católica.",
+  "Equipara essas compensações a indemnizações fixadas por decisão judicial ou arbitral ou por acordo homologado.",
+  "Prevê reembolso do imposto já liquidado, de forma oficiosa ou a requerimento, no prazo máximo de um ano.",
+  "Aplica-se aos factos tributários desde o início do pagamento das compensações."
+ ],
+ "plain_language": "Vítimas de abusos sexuais na Igreja Católica estão a receber compensações em dinheiro, mas esse valor pode ser tributado em IRS, ao contrário das indemnizações decididas em tribunal. Este projeto diz que estas compensações não pagam imposto e que, se alguém já o pagou, a Autoridade Tributária deve devolvê-lo em, no máximo, um ano. Aplica-se apenas às compensações da Igreja Católica.",
+ "context": "O BE recorda que a Comissão Independente validou 512 depoimentos e estimou 4815 crianças abusadas desde 1950, que a maioria dos casos prescreveu e que houve 95 pedidos de indemnização, 78 elegíveis, com valores entre 9 mil e 45 mil euros. Como as compensações não resultam de decisão judicial, podem ser tributadas em IRS, o que o proponente considera injusto.",
+ "analysis": "Pontos fortes: resolve uma assimetria fiscal concreta, com dados sobre dimensão e valores, e prevê reembolso retroativo para quem já foi tributado. Fragilidades: restringe-se às compensações do mecanismo da Igreja Católica, deixando de fora mecanismos semelhantes de outras instituições; a técnica de equiparar por lei compensações extrajudiciais a decisões judiciais pode abrir um precedente fiscal; e o texto não estima a receita perdida nem os reembolsos.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A exclusão de IRS e o reembolso do imposto já pago reduzem a receita fiscal; o texto não quantifica o valor, mas indica que as compensações vão de 9 mil a 45 mil euros."
+ },
+ "affected": [
+  "vítimas de abusos sexuais na Igreja Católica",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "justica",
+  "direitos"
+ ],
+ "tags": [
+  "IRS",
+  "abusos sexuais",
+  "Igreja Católica",
+  "compensações",
+  "reembolso"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

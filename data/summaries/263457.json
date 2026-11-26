@@ -1,0 +1,39 @@
+{
+ "short_title": "Sensibilização dos emigrantes para o voto nas legislativas de 2024",
+ "summary": "Projeto de Resolução do PSD (XV Legislatura) que recomenda ao Governo a realização de ações de sensibilização junto das comunidades portuguesas no estrangeiro, no âmbito das campanhas de esclarecimento para as legislativas de 10 de março de 2024, sobre as opções de voto, nomeadamente o voto presencial e por correspondência nos consulados, e os procedimentos a adotar. O texto defende uma campanha pedagógica alargada sobre como votar por correspondência, para evitar os erros de 2022 que levaram à anulação de milhares de votos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Ações de sensibilização junto das comunidades portuguesas no estrangeiro.",
+  "Esclarecimento sobre voto presencial e por correspondência nos consulados.",
+  "Campanha pedagógica sobre como votar por correspondência.",
+  "Aplica-se às legislativas de 10 de março de 2024."
+ ],
+ "plain_language": "O PSD pede ao Governo que informe melhor os emigrantes sobre como votar nas eleições de março de 2024, sobretudo pelo correio, para que não se repitam os erros de 2022 e mais gente vote.",
+ "context": "O PSD refere uma abstenção de 48,5% nas legislativas de 2022 e de quase 89% entre os residentes no estrangeiro, atribuída à distância, ao funcionamento dos correios, à falta de uniformização e à falta de informação, e aos erros que levaram à anulação de milhares de votos.",
+ "analysis": "A proposta é de baixo custo e dirige-se a um problema real. Porém, não define meios, prazos, orçamento ou indicadores, e o texto atribui o problema ao quadro legislativo mas só recomenda sensibilização, sem alterar as regras. Sendo recomendação, o efeito depende da vontade do Governo e do tempo restante até à eleição.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Campanhas de sensibilização envolvem despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "portugueses residentes no estrangeiro",
+  "consulados",
+  "eleitores"
+ ],
+ "categories": [
+  "instituicoes",
+  "internacional"
+ ],
+ "tags": [
+  "voto por correspondência",
+  "emigrantes",
+  "legislativas 2024",
+  "abstenção"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Preservação de conteúdos digitais históricos portugueses",
+ "summary": "O PAN propõe que a Assembleia da República recomende ao Governo três medidas para preservar conteúdos digitais relevantes para a cultura portuguesa. Criar, em colaboração com plataformas digitais e arquivos relevantes, uma plataforma de salvaguarda do património digital português; promover um estudo sobre a história dos conteúdos digitais em Portugal, identificando plataformas em risco de desaparecimento e conteúdos culturalmente relevantes; e iniciar contactos com a entidade detentora do SAPO Blogs com vista à sua preservação integral, garantindo o seu acervo em arquivo institucional e do Estado. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar uma plataforma de salvaguarda do património digital português, com plataformas digitais e arquivos.",
+  "Promover um estudo sobre a história dos conteúdos digitais em Portugal e as plataformas em risco.",
+  "Contactar a entidade que detém o SAPO Blogs para preservar integralmente o seu acervo em arquivo do Estado."
+ ],
+ "plain_language": "Milhares de blogs portugueses estão no SAPO Blogs, que vai ser encerrado a 30 de junho de 2026. O PAN pede ao Governo que garanta que esse acervo não se perde, criando um sistema para guardar conteúdos digitais importantes para a memória e cultura do país. É apenas uma recomendação.",
+ "context": "O proponente sublinha o papel dos blogs na cultura digital portuguesa, com 917 mil utilizadores em 2005, e o do SAPO Blogs, e recorda a investigação Arquivos de Media sobre a dificuldade de preservação. Alerta para a desconstituição do SAPO Blogs anunciada para 30 de junho de 2026.",
+ "analysis": "A iniciativa tem um objetivo claro e um prazo concreto, o fim do SAPO Blogs, e visa proteger património cultural vulnerável à decisão de empresas privadas. Contudo, não define quem gere a plataforma, o seu orçamento nem como se tratariam direitos de autor e proteção de dados dos autores e comentadores. O curto prazo até junho de 2026 limita a viabilidade, e a recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma plataforma de salvaguarda, o estudo e o arquivamento do acervo implicariam despesa pública, sem montantes no texto."
+ },
+ "affected": [
+  "autores e leitores de blogs",
+  "SAPO Blogs",
+  "arquivos e bibliotecas nacionais",
+  "investigadores e historiadores"
+ ],
+ "categories": [
+  "cultura",
+  "ciencia"
+ ],
+ "tags": [
+  "SAPO Blogs",
+  "património digital",
+  "arquivo",
+  "blogues",
+  "preservação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

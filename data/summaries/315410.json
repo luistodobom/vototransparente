@@ -1,0 +1,41 @@
+{
+ "short_title": "Mais 15 mil pipas de benefício para atesto da Casa do Douro",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo autorizar o benefício de mais 15 mil pipas de vinho, para além das 75 mil previstas no Comunicado de Vindima de 2025 do IVDP, a adquirir pelo Estado para realizar o atesto de preservação dos vinhos que são propriedade da Casa do Douro. Recomenda ainda que o Governo indique ao IVDP que tome com urgência as medidas necessárias. O proponente argumenta que a medida atenuaria a crise dos pequenos e médios viticultores e repõe perdas por evaporação nos vinhos armazenados. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Autorizar o benefício de mais 15 mil pipas, além das 75 mil do Comunicado de Vindima de 2025.",
+  "O quantitativo adicional seria adquirido pelo Estado para atesto de preservação dos vinhos da Casa do Douro.",
+  "Indicar ao IVDP que adote com urgência as medidas necessárias.",
+  "Aplicar a distribuição segundo as regras do Comunicado da Vindima, para chegar a todos os produtores."
+ ],
+ "plain_language": "O PCP pede ao Governo que deixe produzir e vender mais 15 mil pipas de vinho no Douro, com o Estado a comprá-las para repor o vinho que se perde por evaporação nas existências da Casa do Douro. Isso ajudaria os pequenos produtores e preservaria o vinho. O Governo pode ou não seguir a recomendação.",
+ "context": "O proponente descreve uma crise na pequena e média viticultura do Douro, com cortes no benefício, preços abaixo dos custos e dificuldades de escoamento. Refere que o benefício de 2025 foi fixado em 75 mil pipas, menos 15 mil que em 2024, e que as existências da Casa do Douro (cerca de 14 milhões de litros em 2018) não recebem atesto há muitos anos.",
+ "analysis": "A medida procura responder a dois problemas ao mesmo tempo: o rendimento dos produtores e a conservação do património vínico. Fragilidades: depende de uma estimativa própria de 15 mil pipas (perda de 5% ao ano) sem validação externa; não indica custo da compra pelo Estado nem o enquadramento da Casa do Douro e do IVDP; e o texto afirma que não cria dificuldades ao mercado, sem demonstração. A competência sobre o benefício envolve o setor interprofissional, o que pode limitar a margem do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O Estado adquiriria o vinho do benefício adicional para atesto, o que implica despesa pública, mas o texto não indica valores."
+ },
+ "affected": [
+  "pequenos e médios viticultores do Douro",
+  "Casa do Douro",
+  "IVDP",
+  "Estado"
+ ],
+ "categories": [
+  "agricultura",
+  "economia"
+ ],
+ "tags": [
+  "Douro",
+  "Casa do Douro",
+  "benefício",
+  "vinho do Porto",
+  "viticultura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

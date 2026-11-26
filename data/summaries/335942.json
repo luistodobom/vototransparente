@@ -1,0 +1,41 @@
+{
+ "short_title": "Clarifica suspensão de portagens a pesados nas A41, A19 e A8",
+ "summary": "O projeto de lei do PS cria uma norma interpretativa do artigo 204.º da Lei n.º 73-A/2025 (Orçamento do Estado para 2026), que determinou a suspensão da cobrança de portagens a veículos pesados na A41, na A19 (São Jorge a Leiria Sul) e na A8 (Leiria Sul a Pousos). A expressão \"veículos pesados\" passa a abranger todos os veículos das classes 3 e 4 do sistema de tarifas de portagem. A norma produz efeitos desde a entrada em vigor da Lei n.º 73-A/2025 e os valores cobrados entretanto são reembolsados pelo fornecedor do serviço de portagem, mediante pedido. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Interpreta \"veículos pesados\" como os das classes 3 e 4 do sistema de portagens.",
+  "Aplica-se à suspensão de portagens na A41, A19 e A8 prevista no OE 2026.",
+  "Tem efeitos desde a entrada em vigor da Lei n.º 73-A/2025.",
+  "Prevê reembolso das portagens cobradas, a pedido junto do fornecedor do serviço.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O Orçamento do Estado para 2026 previa que os camiões deixassem de pagar portagem em alguns troços de autoestrada, mas a medida não arrancou porque o Governo diz que a definição de camião não coincide com as classes de portagem. O PS propõe uma lei que esclarece que contam os veículos das classes 3 e 4 e manda devolver o que já foi cobrado.",
+ "context": "O PS refere que a norma de suspensão do OE 2026 não entrou em vigor a 1 de janeiro porque o Governo alegou não a poder executar, devido à necessidade de compatibilizar a definição de veículo pesado do Código da Estrada com a classificação do sistema de portagens. Propõe uma lei interpretativa para a aplicar de imediato.",
+ "analysis": "A proposta resolve de forma direta o impasse técnico invocado e dá efeito retroativo à vontade do Parlamento expressa no orçamento. Fragilidades: não avalia a perda de receita das concessionárias ou do Estado nem quem suporta o reembolso, e o mecanismo de pedido de reembolso pode ser burocrático. A retroatividade interpretativa e a escolha das classes 3 e 4 poderão suscitar questões jurídicas e contratuais com as concessões.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A suspensão das portagens e o reembolso das já cobradas reduzem receitas de portagem, com possível compensação a concessionárias. O texto não indica montantes."
+ },
+ "affected": [
+  "transportadores de mercadorias",
+  "empresas de transporte rodoviário",
+  "concessionárias de autoestradas"
+ ],
+ "categories": [
+  "transportes",
+  "economia"
+ ],
+ "tags": [
+  "portagens",
+  "veículos pesados",
+  "A41",
+  "A19",
+  "A8"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

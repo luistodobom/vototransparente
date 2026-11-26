@@ -1,0 +1,41 @@
+{
+ "short_title": "Alargar a ADSE a todos os portugueses",
+ "summary": "O projeto de resolução do CDS-PP recomenda ao Governo que tome as medidas necessárias ao alargamento gradual da ADSE a todos os portugueses, em regime de adesão voluntária, independentemente de terem ou não vínculo laboral ao Estado, reconhecendo o seu papel complementar ao SNS. Recomenda ainda a constituição de uma comissão técnica para o estudo prévio do perfil e condições de acesso dos novos entrantes e a negociação dos termos do alargamento em sede de concertação social. O texto refere também a necessidade de alteração ao código do IRS e a manutenção da sustentabilidade da ADSE. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Alargamento gradual da ADSE a todos os portugueses, em adesão voluntária.",
+  "Constituição de uma comissão técnica para estudar o perfil e as condições de acesso dos novos entrantes.",
+  "Negociação dos termos do alargamento em concertação social.",
+  "Manutenção da ADSE como subsistema complementar ao SNS e garantia da sua sustentabilidade."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que estude e prepare a abertura da ADSE, o sistema de saúde dos funcionários públicos, a quem trabalha no privado ou no setor social, se quiser aderir. Seria feito gradualmente e negociado primeiro. É apenas uma recomendação.",
+ "context": "O proponente defende que não devem existir dois sistemas distintos para trabalhadores do Estado e do privado e que o acesso à ADSE é uma discriminação, já que esta é financiada exclusivamente pelos descontos dos beneficiários e deixou de ter financiamento do Estado.",
+ "analysis": "A proposta é prudente quanto ao método, ao prever estudo prévio e negociação, e baseia-se no argumento de que a ADSE já não tem financiamento do Estado. No entanto, o texto não analisa os riscos para a sustentabilidade do subsistema (perfil de risco dos novos entrantes, preços dos prestadores, capacidade de resposta) nem o seu efeito sobre o SNS e o setor privado de saúde. As referências ao IRS não são concretizadas. Como resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos; refere que a ADSE é financiada por descontos dos beneficiários, mas não avalia o impacto do alargamento nas contas públicas e na alteração do IRS."
+ },
+ "affected": [
+  "trabalhadores do setor privado e social",
+  "beneficiários da ADSE",
+  "prestadores de saúde convencionados",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "ADSE",
+  "subsistema de saúde",
+  "funcionários públicos",
+  "concertação social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Assembleia Cidadã para avaliar a regionalização",
+ "summary": "O Livre propõe que a Assembleia da República recomende ao Governo a criação, até ao final de 2026, de uma Assembleia Cidadã para a Regionalização, composta por cem cidadãos representativos do território nacional. A seleção deveria ter em conta parâmetros etários, regionais, de género e sociodemográficos e proteger os direitos laborais dos participantes. O Governo definiria a duração e a periodicidade das reuniões e asseguraria apoio técnico e espaços públicos. A Assembleia avaliaria a adequação e atualidade do quadro legal das regiões administrativas (Lei n.º 56/91 e Lei n.º 19/98) e apresentaria um relatório à Assembleia da República em seis meses. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar, até ao final de 2026, uma Assembleia Cidadã para a Regionalização com cem cidadãos.",
+  "Garantir seleção representativa por idade, região, género e perfil sociodemográfico, sem prejuízo dos direitos laborais.",
+  "Definir duração e periodicidade das reuniões e assegurar apoio técnico e espaços públicos.",
+  "Avaliar a adequação da Lei n.º 56/91 e da Lei n.º 19/98.",
+  "Apresentar um relatório à Assembleia da República no prazo de seis meses."
+ ],
+ "plain_language": "O Livre propõe que cem cidadãos, escolhidos para representar o país, discutam durante meio ano se as leis sobre a criação de regiões administrativas no continente ainda fazem sentido. O relatório serviria de base ao Parlamento para decidir se avança para um novo referendo. É só uma recomendação ao Governo.",
+ "context": "O proponente recorda que a Constituição prevê regiões administrativas desde 1976, que o referendo de 1998 as rejeitou, e que desde então o processo tem sofrido adiamentos. Defende que as tempestades de janeiro e fevereiro mostraram que regiões administrativas tornariam a resposta do Estado mais coordenada e ágil.",
+ "analysis": "A proposta evita decidir a regionalização e opta por um processo deliberativo participado, com prazos e regras de seleção definidos, o que pode legitimar o debate. As fragilidades incluem o carácter apenas consultivo, a ausência de orçamento, e a tensão com a exigência constitucional de referendo. O argumento de que regiões teriam melhorado a resposta às tempestades não é demonstrado no texto, e a assembleia pode não gerar consenso político.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação da Assembleia Cidadã exigiria apoio técnico, espaços e eventual compensação aos participantes. O texto não indica montantes."
+ },
+ "affected": [
+  "cidadãos selecionados para a Assembleia",
+  "Assembleia da República",
+  "municípios e populações do continente"
+ ],
+ "categories": [
+  "instituicoes",
+  "territorio"
+ ],
+ "tags": [
+  "regionalização",
+  "assembleia cidadã",
+  "regiões administrativas",
+  "referendo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

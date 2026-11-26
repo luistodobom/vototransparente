@@ -1,0 +1,42 @@
+{
+ "short_title": "Atualizar as comparticipações das refeições escolares",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo uma atualização extraordinária e tecnicamente fundamentada dos valores que a Administração Central transfere para as câmaras municipais para financiar as refeições escolares, precedida de um levantamento nacional dos custos reais por refeição e das assimetrias entre municípios. Recomenda ainda que se instem as câmaras a avaliar critérios de eficiência nas cantinas, nomeadamente no combate ao desperdício alimentar, que se criem mecanismos periódicos de revisão tendo em conta a inflação, e que se equiparem os montantes das refeições dos alunos em contratos de associação aos do ensino público.",
+ "key_points": [
+  "Atualização extraordinária dos valores transferidos para as câmaras, depois de um levantamento nacional dos custos reais por refeição.",
+  "Instar as câmaras a introduzir critérios de eficiência nas cantinas, incluindo combate ao desperdício alimentar.",
+  "Criar mecanismos periódicos de revisão das comparticipações em função da inflação.",
+  "Equiparar os montantes para alunos em contratos de associação aos dos alunos do ensino público."
+ ],
+ "plain_language": "O Estado paga às câmaras um valor por refeição escolar que, segundo o CHEGA, já não cobre os custos. O partido pede que o Governo apure quanto custa realmente cada refeição e atualize os valores, os reveja com a inflação e dê o mesmo apoio aos alunos de escolas com contrato de associação. É uma recomendação não vinculativa.",
+ "context": "O CHEGA refere um estudo da Universidade do Minho sobre a descentralização na educação, segundo o qual 64% dos municípios reportam défices superiores a 20% nos custos dos apoios alimentares. Argumenta que o aumento dos preços dos alimentos e da energia agravou a situação e que os municípios têm de suportar parte dos encargos.",
+ "analysis": "A proposta apoia-se num dado concreto sobre o défice dos municípios e propõe primeiro um levantamento de custos, o que dá base técnica à atualização. Fica por quantificar o impacto orçamental e por definir o critério de atualização e de indexação à inflação. A equiparação do financiamento aos contratos de associação envolve uma escolha política sobre o apoio ao ensino particular e cooperativo que o texto não desenvolve.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar as transferências para os municípios e equiparar o apoio dos contratos de associação aumenta a despesa do Estado; o texto não indica montantes."
+ },
+ "affected": [
+  "alunos e famílias",
+  "municípios",
+  "escolas com contrato de associação",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "territorio",
+  "familia"
+ ],
+ "tags": [
+  "refeições escolares",
+  "municípios",
+  "descentralização",
+  "contratos de associação",
+  "cantinas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

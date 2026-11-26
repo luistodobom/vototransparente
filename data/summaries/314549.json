@@ -1,0 +1,39 @@
+{
+ "short_title": "Inibidores de sinal nas prisões",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que promova a instalação de inibidores de sinal (jammers) nos estabelecimentos prisionais portugueses, para combater a fuga de reclusos e outros riscos associados ao uso de telemóveis. O texto parte da fuga de cinco reclusos da prisão de Vale de Judeus a 7 de setembro de 2024, facilitada, segundo o proponente, pelo uso de telemóveis, e cita os números de telemóveis apreendidos nas prisões (1.597 em 2021, 1.544 em 2022 e 1.792 em 2023). Refere que o uso de telemóveis é proibido pelo regulamento prisional, que os sindicatos de guardas pedem estes dispositivos há anos e que países como Inglaterra, Espanha e França os utilizam. Menciona também dificuldades técnicas e orçamentais indicadas pelo diretor-geral de Reinserção e Serviços Prisionais.",
+ "key_points": [
+  "Recomenda ao Governo a instalação de inibidores de sinal nos estabelecimentos prisionais.",
+  "Objetivo declarado: combater a fuga de reclusos e outros riscos do funcionamento das prisões.",
+  "Cita 1.597, 1.544 e 1.792 telemóveis apreendidos em 2021, 2022 e 2023.",
+  "Reconhece dificuldades técnicas e orçamentais já referidas pela direção dos serviços prisionais."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que instale aparelhos que bloqueiam o sinal de telemóvel dentro das prisões. Os telemóveis são proibidos aos reclusos, mas continuam a ser apreendidos em grande número e ajudaram a planear uma fuga em 2024. A recomendação não é obrigatória para o Governo.",
+ "context": "O proponente liga a medida à fuga de cinco reclusos de Vale de Judeus em setembro de 2024 e ao número elevado de telemóveis apreendidos nas prisões. Invoca ainda os alertas dos sindicatos dos guardas prisionais, o uso de inibidores noutros países europeus e a intenção do diretor-geral de iniciar o procedimento de instalação.",
+ "analysis": "A medida responde a um problema documentado em dados oficiais de apreensões e tem precedentes noutros países. Contudo, o texto não esclarece questões práticas relevantes: custo, calendário, que prisões seriam abrangidas, ou como evitar interferência com comunicações fora dos edifícios e com os sistemas autorizados. O próprio texto admite dificuldades técnicas e orçamentais. Inibidores não eliminam a entrada de telemóveis nem outras vias de fuga. Sendo uma resolução, é apenas uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A aquisição, instalação e manutenção dos equipamentos implicaria despesa, mas o texto não apresenta valores e refere dificuldades orçamentais."
+ },
+ "affected": [
+  "reclusos",
+  "guardas prisionais",
+  "direção-geral de reinserção e serviços prisionais"
+ ],
+ "categories": [
+  "justica",
+  "seguranca"
+ ],
+ "tags": [
+  "prisões",
+  "telemóveis",
+  "inibidores de sinal",
+  "fuga de reclusos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

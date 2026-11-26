@@ -1,0 +1,40 @@
+{
+ "short_title": "Estudar PPP nas Unidades Locais de Saúde",
+ "summary": "O CDS-PP recomenda ao Governo que estude a possibilidade de estabelecer Parcerias Público-Privadas (PPP) nas Unidades Locais de Saúde (ULS), verificando a capacidade de resposta e os recursos das mesmas e garantindo eficiência e equidade no acesso, designadamente através da redução de custos. O estudo deve incluir o lançamento de um programa experimental em uma ou mais ULS, com duração fixa e parâmetros de avaliação definidos, e os acordos devem ser feitos sempre que se aferir viabilidade de redução de custos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estudar a possibilidade de PPP nas ULS, avaliando capacidade de resposta e recursos.",
+  "Incluir no estudo um programa experimental em uma ou mais ULS.",
+  "Definir duração fixa e parâmetros de avaliação para o programa experimental.",
+  "Celebrar acordos apenas quando se verificar viabilidade de redução de custos."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que estude se faz sentido entregar a gestão de algumas unidades locais de saúde a privados através de contratos com o Estado, começando por uma experiência com duração e avaliação definidas. Só avançaria se houver poupança de custos. O pedido não obriga o Governo.",
+ "context": "O CDS-PP defende o recurso a toda a oferta de saúde, pública, privada ou social. Cita o Tribunal de Contas (2021), segundo o qual as PPP estão integradas no SNS e permitiram poupar perto de 203 milhões de euros entre 2014 e 2019, e o inquérito da ERS que coloca hospitais em PPP nos primeiros lugares em excelência clínica. Atribui à reversão das PPP de Braga, Loures e Vila Franca de Xira o aumento de listas de espera.",
+ "analysis": "A proposta é prudente: pede um estudo, um piloto com prazo e avaliação e condiciona os acordos à redução de custos. Fragilidades: a exposição de motivos usa linguagem partidária, atribuindo a reversão a preconceito ideológico, e apresenta dados sobretudo favoráveis, sem discutir riscos contratuais ou a ligação entre o fim das PPP e as listas de espera, que o texto afirma sem apresentar números. Não define critérios de seleção das ULS nem indicadores de avaliação. A recomendação não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto pretende reduzir custos mas não apresenta montantes. O efeito dependeria do estudo e das condições contratuais."
+ },
+ "affected": [
+  "utentes do SNS",
+  "Unidades Locais de Saúde",
+  "profissionais de saúde",
+  "entidades privadas e sociais"
+ ],
+ "categories": [
+  "saude",
+  "economia"
+ ],
+ "tags": [
+  "PPP",
+  "unidades locais de saúde",
+  "SNS",
+  "programa experimental"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

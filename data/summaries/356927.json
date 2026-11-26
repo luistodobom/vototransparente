@@ -1,0 +1,43 @@
+{
+ "short_title": "Estratégia Nacional para a Natalidade",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo que desenvolva uma Estratégia Nacional para a Natalidade, designadamente nas áreas da fiscalidade e da segurança social, mobilizando instrumentos de política pública que criem condições mais favoráveis à constituição e ao crescimento das famílias, ao reforço das respostas de apoio à infância, à valorização da parentalidade e à renovação geracional. A parte dispositiva é genérica. A exposição de motivos refere como exemplos a duplicação do acréscimo às deduções de IRS a partir do 3.º filho, o reforço de incentivos em IMI, ISV e IUC, incentivos a empresas que criem creches, benefícios a quem contrate pais com filhos até 3 anos e a ampliação da gratuitidade das creches.",
+ "key_points": [
+  "Desenvolver uma Estratégia Nacional para a Natalidade, nas áreas da fiscalidade e da segurança social.",
+  "Equacionar mais benefícios fiscais para famílias com filhos (IRS, IMI Familiar, ISV, IUC), segundo a exposição de motivos.",
+  "Incentivar empresas a criar berçários e creches, incluindo em rede e com autarquias.",
+  "Alargar progressivamente a gratuitidade de creches e as vagas disponíveis.",
+  "Equacionar benefícios fiscais para empresas que contratem grávidas ou pais de crianças até 3 anos."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que prepare um plano nacional para aumentar os nascimentos, sobretudo através de impostos e apoios sociais mais favoráveis a quem tem filhos. A ideia é que as famílias possam ter os filhos que desejam sem dificuldades financeiras, com mais creches, benefícios fiscais e empresas mais amigas da família. As medidas concretas surgem apenas como exemplos. É uma recomendação ao Governo.",
+ "context": "O proponente refere a diminuição gradual dos nascimentos, o adiamento da parentalidade e o envelhecimento acelerado da população, afirmando que Portugal é, com exceção de Itália, o país europeu mais envelhecido. Defende que o Estado deve criar condições para que cada casal tenha os filhos que deseja e não só os que pode.",
+ "analysis": "O tema demográfico é relevante e as ideias apontadas (fiscalidade, creches, conciliação) são plausíveis, mas o texto aprovável é uma recomendação muito genérica, sem medidas vinculativas, prazos, metas ou custos. Pede equacionar mais do que decidir, e a evidência de que incentivos fiscais aumentam a natalidade não é discutida. Benefícios fiscais podem favorecer mais quem paga mais imposto. Como projeto de resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Os benefícios fiscais mencionados (IRS, IMI, ISV, IUC) reduziriam receita e os apoios a creches aumentariam despesa; o texto não quantifica e a estratégia ainda está por definir."
+ },
+ "affected": [
+  "famílias com filhos",
+  "casais que pretendem ter filhos",
+  "empresas empregadoras",
+  "autarquias"
+ ],
+ "categories": [
+  "familia",
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "natalidade",
+  "demografia",
+  "irs",
+  "creches",
+  "conciliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

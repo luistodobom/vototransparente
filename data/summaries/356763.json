@@ -1,0 +1,38 @@
+{
+ "short_title": "Atualizar o financiamento das refeições escolares do 1.º ciclo",
+ "summary": "O Grupo Parlamentar do PSD recomenda ao Governo que reveja as verbas transferidas aos municípios para financiar as refeições escolares do 1.º ciclo, garantindo a sua atualização em função dos custos reais suportados pelas autarquias, designadamente os decorrentes da inflação alimentar, energética e logística. A recomendação enquadra-se na descentralização de competências na área da Educação (Lei n.º 50/2018 e Decreto-Lei n.º 21/2019). A exposição de motivos cita o estudo da Universidade do Minho sobre a descentralização na Educação em 2025, segundo o qual 64% dos municípios reportam défices superiores a 20% nos apoios alimentares. É uma recomendação não vinculativa, sem valores nem calendário.",
+ "key_points": [
+  "Rever as verbas transferidas para os municípios para refeições escolares do 1.º ciclo.",
+  "Atualizar o financiamento em função dos custos reais, incluindo inflação alimentar, energética e logística."
+ ],
+ "plain_language": "O PSD pede ao Governo que aumente o dinheiro que dá às câmaras municipais para as refeições nas escolas do 1.º ciclo, porque o que recebem já não chega para os custos reais. É uma recomendação, sem valores definidos.",
+ "context": "O proponente afirma que a transferência de competências para os municípios não foi acompanhada de um modelo financeiro que refletisse os custos reais, agravados pela inflação. Cita um estudo da Universidade do Minho que indica que 64% dos municípios têm défices superiores a 20% nos apoios alimentares.",
+ "analysis": "A proposta aponta um desfasamento documentado entre transferências e custos, o que reforça a sua necessidade. É, porém, muito genérica: não indica o montante, o critério de atualização nem o calendário. A exposição de motivos atribui as insuficiências aos governos anteriores e elogia o atual, o que revela tom político. A medida beneficia municípios e não aborda diretamente os aspetos de qualidade das refeições. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar as verbas transferidas aos municípios aumentaria a despesa do Estado; o texto não indica valores."
+ },
+ "affected": [
+  "municípios",
+  "alunos do 1.º ciclo",
+  "famílias",
+  "escolas do 1.º ciclo"
+ ],
+ "categories": [
+  "educacao",
+  "territorio"
+ ],
+ "tags": [
+  "refeições escolares",
+  "descentralização",
+  "municípios",
+  "1.º ciclo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

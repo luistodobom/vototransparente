@@ -1,0 +1,42 @@
+{
+ "short_title": "Medidas urgentes para os tribunais e o Ministério Público em Portalegre",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo sete medidas para assegurar o regular funcionamento dos tribunais e dos serviços do Ministério Público na Comarca de Portalegre. Inclui um levantamento urgente e público das necessidades de magistrados, oficiais de justiça e outros trabalhadores; o preenchimento dos lugares vagos, em articulação com o CSM e o CSMP; reforço temporário de meios quando as pendências excedam os indicadores nacionais; a avaliação da organização judiciária, incluindo valências de família e menores e de instrução criminal; um plano calendarizado de reabilitação das instalações; meios técnicos e informáticos; e um relatório à Assembleia da República em 90 dias.",
+ "key_points": [
+  "Levantamento urgente e público das necessidades de magistrados, oficiais de justiça e demais trabalhadores judiciais na Comarca.",
+  "Preenchimento dos lugares vagos, respeitando a autonomia do CSM e do CSMP.",
+  "Reforço temporário de meios quando as pendências excedam os indicadores nacionais.",
+  "Avaliação de respostas especializadas em família e menores e em instrução criminal.",
+  "Plano calendarizado de reabilitação das instalações e dotação de meios informáticos.",
+  "Relatório à Assembleia da República em 90 dias."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que resolva a falta de funcionários e as más instalações dos tribunais do distrito de Portalegre. Pede um diagnóstico público, o preenchimento das vagas, obras nos edifícios e um relatório ao Parlamento em 90 dias. É uma recomendação sem força obrigatória.",
+ "context": "O CHEGA refere o relatório de 2022 do Tribunal da Comarca de Portalegre, que identifica lugares de oficiais de justiça por preencher, bem como preocupações públicas de magistrados do Ministério Público sobre instalações provisórias, falta de valências especializadas e carência de funcionários. Salienta o envelhecimento e a baixa densidade do distrito.",
+ "analysis": "A proposta é concreta e respeita formalmente a autonomia dos conselhos superiores, e dá relevância ao acesso à justiça no interior. Fragilidades: baseia-se em documentos de 2022 e em notícias, sem dados atualizados sobre pendências ou vagas, e não quantifica custos nem define metas. Algumas medidas (organização judiciária, criação de juízos especializados) exigem iniciativas legislativas ou decisões de órgãos independentes que o Governo não controla. Por ser resolução, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O preenchimento de lugares, as obras nas instalações e os meios informáticos implicam despesa pública, não quantificada no texto."
+ },
+ "affected": [
+  "Cidadãos do distrito de Portalegre",
+  "Magistrados e oficiais de justiça da Comarca",
+  "Ministério da Justiça"
+ ],
+ "categories": [
+  "justica",
+  "territorio"
+ ],
+ "tags": [
+  "tribunais",
+  "Portalegre",
+  "oficiais de justiça",
+  "interior",
+  "Ministério Público"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

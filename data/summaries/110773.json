@@ -1,0 +1,44 @@
+{
+ "short_title": "Direito ao esquecimento para sobreviventes de cancro em seguros e crédito",
+ "summary": "Projeto de lei do PAN que reconhece o direito ao esquecimento a pessoas que superaram situações de saúde de risco agravado, como cancro ou hepatite C, alterando a Lei n.º 46/2006. Bancos, financeiras e seguradoras deixam de poder recolher a informação médica sobre essa patologia passados cinco anos desde o fim do tratamento (se diagnosticada antes dos 21 anos) ou dez anos nos restantes casos. Proíbe aumentos de prémio, custos adicionais, agravamento de condições ou exclusão de garantias nos seguros, e discriminação no acesso ao crédito. Prevê dever de informação, protocolo nacional com o Governo e o setor financeiro, fiscalização pelo Banco de Portugal e pela ASF, relatório bienal e coimas.",
+ "key_points": [
+  "Direito ao esquecimento: sem recolha de informação médica após 5 anos (diagnóstico antes dos 21 anos) ou 10 anos desde o fim do tratamento.",
+  "Proibição de agravamento de prémios, custos ou exclusão de garantias nos seguros por causa da patologia.",
+  "Igualdade no acesso ao crédito, sem agravamento de condições.",
+  "Dever de informar os interessados dos seus direitos nos pedidos de crédito ou seguro.",
+  "Protocolo nacional com a grelha de patologias e prazos, e mecanismo de mediação.",
+  "Coimas de 5 a 10 salários mínimos para pessoas singulares e de 20 a 30 para pessoas coletivas."
+ ],
+ "plain_language": "Quem tenha tido cancro e esteja curado, depois de cinco ou dez anos conforme os casos, não teria de declarar essa doença a bancos e seguradoras. Estas não poderiam cobrar mais, nem recusar seguro ou crédito por causa dela. Quem desrespeitasse a regra poderia receber coimas.",
+ "context": "O proponente refere que os sobreviventes de cancro, incluindo cerca de 400 crianças e jovens diagnosticados por ano, enfrentam discriminação no crédito à habitação e nos seguros mesmo depois de curados, e defende o direito ao esquecimento como instrumento de justiça e igualdade.",
+ "analysis": "Responde a um problema de discriminação real e fixa prazos objetivos. Fragilidades: os prazos de cinco e dez anos são fixos e não distinguem tipos de cancro com riscos diferentes (a grelha de patologias e prazos fica para um protocolo posterior); a restrição da informação médica pode afetar a avaliação de risco das seguradoras e levar a custos para os restantes segurados; a eficácia depende do protocolo e da fiscalização.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "O texto não prevê despesa pública direta relevante; as coimas podem gerar receita, mas o texto não a estima, e há custos para o setor financeiro."
+ },
+ "affected": [
+  "sobreviventes de cancro e de outras doenças de risco agravado",
+  "seguradoras",
+  "bancos e instituições financeiras",
+  "Banco de Portugal e ASF"
+ ],
+ "categories": [
+  "direitos",
+  "consumidores",
+  "saude"
+ ],
+ "tags": [
+  "direito ao esquecimento",
+  "cancro",
+  "seguros",
+  "crédito",
+  "não discriminação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Estabilidade e valorização do Ensino Português no Estrangeiro",
+ "summary": "Este projeto de resolução do PS recomenda ao Governo seis medidas no âmbito da revisão em curso do regime jurídico do Ensino Português no Estrangeiro (EPE). Pede que a revisão decorra num processo negocial efetivo e transparente com as organizações representativas dos docentes e profissionais; que se salvaguarde a estabilidade da rede (ensino integrado e paralelo, leitorados e cátedras de língua portuguesa); que se avaliem os impactos de eventuais alterações ao regime das comissões de serviço; que se valorizem as condições de trabalho (remunerações, subsídios de residência e apoios à instalação); que se reforcem a atratividade e a retenção de docentes; e que se valorizem os percursos profissionais.",
+ "key_points": [
+  "Garantir um processo negocial efetivo e transparente com os representantes dos profissionais do EPE.",
+  "Salvaguardar a estabilidade da rede, incluindo leitorados e cátedras de língua portuguesa.",
+  "Avaliar os impactos de alterações ao regime das comissões de serviço.",
+  "Atualizar remunerações, subsídios de residência e apoios à instalação.",
+  "Reforçar a atratividade e a retenção de docentes e valorizar os percursos profissionais."
+ ],
+ "plain_language": "O PS pede ao Governo que, ao rever as regras do ensino de português a filhos de emigrantes no estrangeiro, negoceie com os professores e outros profissionais, não prejudique escolas e projetos já existentes e melhore salários e apoios para tornar a carreira mais atrativa. É uma recomendação ao Governo, que não é obrigado a seguir.",
+ "context": "O proponente sublinha que o EPE é um instrumento da política externa e da difusão da língua e cultura portuguesas, dirigido sobretudo aos filhos de portugueses residentes no estrangeiro. Refere preocupações dos profissionais sobre a estabilidade profissional, o regime das comissões de serviço e a dificuldade de recrutamento, no contexto da revisão do regime jurídico promovida pelo Governo.",
+ "analysis": "A proposta centra-se em processo e salvaguardas, e é consistente com a preocupação de estabilidade e atratividade. Fragilidades: não especifica quais as alterações da revisão em causa nem as soluções concretas, e algumas medidas, como a valorização das remunerações, têm custos que o texto não quantifica. Pedir a manutenção das comissões de serviço pode limitar a margem de reforma da rede. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar remunerações, subsídios de residência e apoios à instalação implicaria maior despesa; o texto não apresenta montantes."
+ },
+ "affected": [
+  "docentes e profissionais do EPE",
+  "leitores de língua portuguesa",
+  "filhos de emigrantes portugueses",
+  "Camões, I.P."
+ ],
+ "categories": [
+  "educacao",
+  "internacional",
+  "trabalho"
+ ],
+ "tags": [
+  "ensino português no estrangeiro",
+  "língua portuguesa",
+  "comissões de serviço",
+  "leitorados",
+  "emigrantes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

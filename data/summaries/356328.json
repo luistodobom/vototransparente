@@ -1,0 +1,44 @@
+{
+ "short_title": "Acesso aberto a terminais e interfaces rodoviários",
+ "summary": "Projeto de Lei da IL que altera o Decreto-Lei n.º 140/2019 (transporte expresso de passageiros) para promover a concorrência no transporte rodoviário através do acesso aberto a terminais e interfaces. Obriga à existência de regulamentos de acesso e utilização públicos e transparentes, com critérios definidos pela Autoridade da Mobilidade e dos Transportes (AMT), e ao acesso equitativo e não discriminatório, com fundamentação das recusas. Impõe a independência dos operadores de interfaces face aos operadores de transporte, cria uma plataforma eletrónica centralizada de informação sobre os serviços públicos de transporte, reforça o regime sancionatório e prevê regime transitório de avaliação dos terminais existentes. Entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Exige regulamentos de acesso e utilização de terminais e interfaces, públicos e transparentes, com critérios da AMT.",
+  "Consagra o acesso equitativo e não discriminatório, com fundamentação das recusas e indicação de alternativas.",
+  "Separa a gestão de interfaces e terminais da exploração de serviços de transporte de passageiros, com exceções para entidades públicas com independência funcional.",
+  "Cria uma plataforma eletrónica centralizada sobre operadores, terminais, paragens, contratos de concessão e reclamações.",
+  "Reforça o regime sancionatório e prevê um regime transitório com avaliação dos terminais existentes e prazos de regularização de 6 meses.",
+  "Entra em vigor 90 dias após a publicação."
+ ],
+ "plain_language": "Hoje, as empresas que gerem terminais de autocarros podem também explorar serviços de transporte e, por isso, dificultar a entrada de concorrentes. A IL propõe regras claras e públicas para o acesso aos terminais, obriga a separar a gestão do terminal da exploração do transporte e cria um portal com informação sobre operadores, terminais e reclamações. O objetivo é mais concorrência e melhor informação para os utilizadores.",
+ "context": "A IL afirma que, em muitos casos, as infraestruturas são geridas por entidades que também exploram serviços de transporte, o que cria conflitos de interesse e discriminação no acesso e na atribuição de capacidade. Segundo o texto, após consulta à AMT, entendeu-se ser necessária uma reformulação mais profunda do regime jurídico, assente em três eixos.",
+ "analysis": "A proposta aborda um problema concreto de concorrência e aumenta a transparência e a previsibilidade para operadores e utilizadores. Fragilidades: impõe custos de adaptação aos operadores e à AMT e às autoridades de transportes, que o texto não estima; a separação entre gestão e exploração tem exceções para entidades públicas e municipais, o que pode limitar o seu alcance; e depende de regulamentação posterior para vários elementos. O regime transitório, com avaliação de todos os terminais em seis meses, pode ser exigente em termos administrativos. O alargamento de coimas aumenta o risco para operadores.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos nem receitas; a criação da plataforma eletrónica e a fiscalização implicariam despesa pública, e as coimas poderiam gerar receita."
+ },
+ "affected": [
+  "Operadores de transporte rodoviário de passageiros",
+  "Operadores de terminais e interfaces",
+  "Autoridade da Mobilidade e dos Transportes",
+  "Passageiros"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "concorrência",
+  "AMT",
+  "transporte expresso",
+  "interfaces"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

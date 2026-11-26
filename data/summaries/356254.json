@@ -1,0 +1,43 @@
+{
+ "short_title": "Mecenato para a coesão cultural territorial e social",
+ "summary": "Projeto de Lei do LIVRE que altera o artigo 62.º-B do Estatuto dos Benefícios Fiscais para criar um mecenato orientado para a coesão cultural territorial e social. Alarga as entidades beneficiárias a entidades sem fins lucrativos nas áreas do audiovisual, imprensa, rádio e outras. Introduz majorações escalonadas da dedução dos donativos em função do volume de vendas do doador (160%, 140% ou 120%) e majorações adicionais cumuláveis até 190%: 10 pontos para contratos plurianuais, 20 para iniciativas de acesso gratuito ou desenvolvimento cultural, e 30 para projetos em territórios de baixa densidade. Quando um mecenas exceda 40% dos donativos recebidos por uma entidade, o excesso perde as majorações. Entra em vigor em 1 de janeiro de 2027.",
+ "key_points": [
+  "Alargamento das entidades beneficiárias a entidades sem fins lucrativos do audiovisual, imprensa, rádio e outras manifestações artísticas.",
+  "Majorações dos donativos de 160%, 140% ou 120%, consoante o volume de vendas do doador.",
+  "Majorações adicionais, cumuláveis até 190%: contratos plurianuais, acesso gratuito ou desenvolvimento cultural, e territórios de baixa densidade.",
+  "Perda das majorações para o excedente de 40% dos donativos de um único mecenas.",
+  "Entrada em vigor em 1 de janeiro de 2027."
+ ],
+ "plain_language": "O LIVRE propõe dar mais benefício fiscal a quem apoia a cultura em zonas do interior, com bilhética gratuita ou com atividades para crianças, e a quem apoia projetos por vários anos. Também limita a dependência de um único mecenas, para a cultura não ficar nas mãos de um só financiador.",
+ "context": "O proponente aponta assimetrias territoriais e sociais no acesso à cultura, citando o Inquérito às Práticas Culturais de 2020 e as Estatísticas da Cultura do INE. Critica que a proposta de autorização legislativa do Governo (Proposta de Lei n.º 56/XVII) não inclua mecanismos de redução de assimetrias e defende que o mecenato complemente, e não substitua, o investimento público.",
+ "analysis": "A medida tenta usar o incentivo fiscal para orientar o mecenato para territórios e públicos menos servidos, com um limite a concentração de financiadores. Fragilidades: aumenta a perda de receita sem estimativa; as majorações escalonadas tornam o regime mais complexo de gerir e fiscalizar; e não é certo que o incentivo fiscal por si só mude a localização dos donativos. O texto não esclarece como se articula com a proposta do Governo sobre o mesmo regime.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As majorações dos donativos reduzem a receita de IRC e IRS; o texto não quantifica o efeito."
+ },
+ "affected": [
+  "mecenas e empresas",
+  "entidades culturais sem fins lucrativos",
+  "territórios de baixa densidade",
+  "públicos de menor acesso à cultura"
+ ],
+ "categories": [
+  "cultura",
+  "fiscalidade",
+  "territorio"
+ ],
+ "tags": [
+  "mecenato cultural",
+  "coesão territorial",
+  "baixa densidade",
+  "benefícios fiscais",
+  "acesso à cultura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

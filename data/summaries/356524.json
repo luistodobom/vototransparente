@@ -1,0 +1,43 @@
+{
+ "short_title": "Implementação da terapia fágica no SNS",
+ "summary": "O Grupo Parlamentar do PS recomenda ao Governo a implementação efetiva e coordenada da terapia fágica em Portugal, com base na Deliberação n.º 112/CD/2024 do INFARMED, que a enquadra como medicamento manipulado preparado em farmácia hospitalar sob prescrição médica. Propõe a operacionalização progressiva no SNS, um modelo nacional de controlo e validação da qualidade dos bacteriófagos, incluindo eventual entidade de certificação independente, a articulação entre INFARMED, Direção-Geral da Saúde, hospitais e laboratórios, orientações clínicas nacionais coordenadas pela DGS, a simplificação dos circuitos administrativos nas unidades de saúde, um modelo de financiamento que garanta equidade, o apoio à capacidade nacional de produção e investigação, e mecanismos de monitorização com transparência sobre doentes tratados e resultados. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Operacionalizar progressivamente a terapia fágica no SNS com base na Deliberação n.º 112/CD/2024.",
+  "Definir um modelo nacional de validação da qualidade dos bacteriófagos, com eventual certificação independente.",
+  "Articular INFARMED, DGS, hospitais, farmácias hospitalares e laboratórios.",
+  "Elaborar orientações clínicas nacionais e simplificar circuitos administrativos.",
+  "Criar um modelo de financiamento equitativo e apoiar a produção e investigação nacionais.",
+  "Monitorizar e divulgar o número de doentes, indicações, centros e resultados."
+ ],
+ "plain_language": "O PS pede ao Governo que passe do enquadramento já existente para a prática: que a terapia com fagos, usada contra infeções que resistem aos antibióticos, esteja disponível de forma organizada nos hospitais, com controlo de qualidade, regras clínicas claras, financiamento justo e acompanhamento dos resultados. É uma recomendação, não obriga o Governo.",
+ "context": "O proponente refere o aumento global da resistência aos antibióticos e os progressos em Portugal na investigação e na prática em regime compassivo, e a aprovação da Deliberação n.º 112/CD/2024 como marco. Aponta como obstáculos a ausência de validação independente da qualidade dos fagos, a articulação entre entidades, circuitos burocráticos e o financiamento.",
+ "analysis": "A proposta é detalhada e assenta num enquadramento regulatório já existente, ao identificar lacunas concretas (qualidade, coordenação, financiamento, monitorização). A transparência dos resultados é um ponto forte. Fragilidades: não há prazos, metas ou orçamento, e a eventual criação de uma entidade de certificação pode implicar custos e duplicação de competências já existentes. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de estruturas de validação, financiamento do acesso e reforço de infraestruturas laboratoriais implicariam despesa; o texto não indica montantes."
+ },
+ "affected": [
+  "doentes com infeções multirresistentes",
+  "hospitais e farmácias hospitalares",
+  "INFARMED e Direção-Geral da Saúde",
+  "investigadores"
+ ],
+ "categories": [
+  "saude",
+  "ciencia"
+ ],
+ "tags": [
+  "terapia fágica",
+  "bacteriófagos",
+  "INFARMED",
+  "resistência antimicrobiana",
+  "farmácia hospitalar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

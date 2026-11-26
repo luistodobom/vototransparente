@@ -1,0 +1,42 @@
+{
+ "short_title": "Lei Cidade Limpa: publicidade e espaço público",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo que promova um quadro legislativo nacional para o ordenamento da paisagem urbana e a disciplina da publicidade, inspirado na Lei Cidade Limpa de São Paulo. Esse quadro deveria definir os tipos de publicidade permitidos e proibidos e os seus limites, restringir elementos que comprometam a segurança rodoviária, a sinalização ou a visibilidade do património, impor a remoção de elementos não conformes com prazos e sanções, e prever compensações ou incentivos à reconversão. Recomenda também reforçar as competências das câmaras municipais, com poder regulamentar, coimas e remoção coerciva, plataformas digitais e cooperação com ASAE e ICNF, e dotá-las de recursos, ponderando afetar parte das coimas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Quadro nacional para ordenar a paisagem urbana e a publicidade exterior, inspirado na lei de São Paulo.",
+  "Definição de publicidade permitida e proibida, com limites de dimensão, localização, forma e material.",
+  "Remoção obrigatória de elementos não conformes, com prazos e sanções.",
+  "Competências reforçadas das câmaras: regulamentos, coimas, remoção coerciva e zonas de proteção da paisagem.",
+  "Recursos humanos e financeiros para as câmaras, ponderando afetar parte das receitas de coimas."
+ ],
+ "plain_language": "O CHEGA quer regras nacionais mais rígidas sobre cartazes, anúncios e ocupação do espaço público, para reduzir a poluição visual nas cidades. As câmaras municipais teriam mais poder e meios para fiscalizar e multar. É apenas uma recomendação ao Governo.",
+ "context": "O proponente fala de poluição visual crescente com impacto na qualidade de vida, segurança rodoviária, património e imagem turística. Cita a Lei Cidade Limpa de São Paulo como exemplo e afirma que os regimes em vigor em Portugal são insuficientes por dispersão de competências e falta de meios de fiscalização.",
+ "analysis": "Uma regulação mais uniforme e com maior capacidade fiscalizadora das autarquias pode melhorar a paisagem urbana. Fragilidades: o modelo de São Paulo é um contexto muito distinto e o texto não avalia a sua transposição; a proibição de publicidade e a remoção coerciva afetam a liberdade de iniciativa económica e exigem indemnizações, que o texto só prevê \"sempre que considerado adequado\"; o encerramento de estabelecimentos por reincidência pode ser desproporcionado. A afetação de receitas de coimas a fiscalização pode criar incentivos problemáticos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O reforço de meios das câmaras e eventuais compensações pela remoção de publicidade implicam despesa; as coimas podem gerar alguma receita. O texto não indica montantes."
+ },
+ "affected": [
+  "câmaras municipais",
+  "empresas de publicidade exterior",
+  "estabelecimentos comerciais",
+  "cidadãos"
+ ],
+ "categories": [
+  "territorio",
+  "administracao",
+  "ambiente"
+ ],
+ "tags": [
+  "Cidade Limpa",
+  "publicidade exterior",
+  "poluição visual",
+  "fiscalização municipal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

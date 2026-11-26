@@ -1,0 +1,41 @@
+{
+ "short_title": "Acesso de operadores aos terminais rodoviários",
+ "summary": "O LIVRE propõe alterar o Decreto-Lei n.º 140/2019 sobre o transporte expresso de passageiros e o acesso a interfaces e terminais rodoviários. Obriga o regulador (AMT) a comunicar à Autoridade da Concorrência queixas que indiciem práticas restritivas. Quando o terminal é infraestrutura pública e o operador é privado, as condições de gestão e de acesso (capacidade, horários, escalas) passam a constar de contrato de concessão. Em caso de recusa por falta de capacidade, a AMT pode determinar, em 30 dias, a redistribuição da capacidade entre operadores. Os operadores de terminais não podem ter relação de grupo com operadores de transporte. As recusas sem fundamentação são contraordenações. Entra em vigor no mês seguinte, e os n.ºs 2 e 10 do artigo 12.º em 1 de janeiro de 2027.",
+ "key_points": [
+  "Comunicação à Autoridade da Concorrência das queixas que indiciem práticas restritivas.",
+  "Contrato de concessão obrigatório quando o terminal público é gerido por entidade privada.",
+  "A AMT pode redistribuir a capacidade do terminal em 30 dias, após recusa de acesso.",
+  "Proibição de relações de grupo entre operadores de terminais e de transporte.",
+  "Novas contraordenações para incumprimento do acesso e recusas sem fundamento."
+ ],
+ "plain_language": "Os terminais de autocarros passam a ter regras para que todas as empresas de transporte possam lá parar. O regulador pode redistribuir lugares se um terminal estiver cheio, e quem gere um terminal não pode ser da mesma empresa que explora autocarros.",
+ "context": "O proponente afirma que o transporte expresso rodoviário cresceu e há escassez de capacidade em alguns terminais. Receia práticas que favoreçam operadores estabelecidos, monopolização de infraestruturas públicas e conflitos de interesses quando o mesmo agente explora serviços e terminais. Propõe clarificar obrigações para reforçar a concorrência.",
+ "analysis": "Procura reforçar a concorrência e a transparência no acesso e a prevenir conflitos de interesses, com mecanismos concretos e prazos. Fragilidades: a proibição de relações de grupo pode afetar operadores já instalados e exigir reestruturações, sem regime transitório descrito; a redistribuição da capacidade pela AMT, em 30 dias, pode ser difícil de executar sem meios adicionais; e o texto não avalia impactos nos investimentos nem na segurança operacional dos terminais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. Pode implicar encargos adicionais para a AMT e para operadores, e possíveis receitas de coimas, sem estimativa."
+ },
+ "affected": [
+  "operadores de transporte expresso",
+  "operadores de terminais rodoviários",
+  "passageiros",
+  "AMT e Autoridade da Concorrência"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "terminais rodoviários",
+  "transporte expresso",
+  "concorrência",
+  "amt"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

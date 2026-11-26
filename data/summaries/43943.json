@@ -1,0 +1,39 @@
+{
+ "short_title": "Comissão Eventual de Verificação de Poderes dos Deputados",
+ "summary": "Projeto de Resolução subscrito por deputados de PS, PSD, BE, PCP, CDS-PP, PAN e PEV que constitui, no início da XIV Legislatura, uma Comissão Eventual de Verificação de Poderes dos Deputados eleitos. A comissão tem 15 membros nomeados: seis do PS, cinco do PSD e um de cada um dos restantes partidos. Elege a sua Mesa e designa um relator, e elabora um relatório com a declaração de verificação de poderes e as substituições de deputados eleitos pelos candidatos seguintes nas listas. O relatório conclui por um parecer formal sujeito a votação do Plenário. A comissão funciona até se constituir a comissão competente.",
+ "key_points": [
+  "Cria a comissão eventual que verifica os poderes dos deputados eleitos, com base na ata de apuramento geral da CNE.",
+  "Composição: seis deputados do PS, cinco do PSD e um de BE, PCP, CDS-PP, PAN e PEV.",
+  "A comissão elege a Mesa e designa um relator.",
+  "O relatório trata das substituições de deputados pelos candidatos não eleitos seguintes nas listas.",
+  "O parecer final é votado e aprovado em Plenário."
+ ],
+ "plain_language": "No arranque de uma nova legislatura, é preciso confirmar formalmente que os deputados eleitos podem tomar posse. Esta resolução cria uma pequena comissão temporária, com deputados de vários partidos, que verifica isso e propõe substituições quando um deputado não puder ou não quiser ocupar o lugar. O Plenário vota depois o relatório.",
+ "context": "No início da legislatura, a Assembleia ainda não tem comissões permanentes constituídas. É por isso criada uma comissão eventual que verifica os poderes dos deputados eleitos, conforme a ata de apuramento geral, até se constituir a comissão competente na matéria.",
+ "analysis": "Trata-se de um procedimento institucional rotineiro e consensual, subscrito por todos os partidos com assento. A composição reflete a representação parlamentar, mas o texto lista apenas os partidos então indicados, sem prever explicitamente deputados únicos de outras forças. A comissão é transitória e o seu parecer só produz efeitos após votação em Plenário, garantindo escrutínio. O documento não levanta riscos relevantes e não indica prazos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de um procedimento interno do Parlamento; o texto não prevê despesa nem receita."
+ },
+ "affected": [
+  "deputados eleitos",
+  "partidos com representação parlamentar",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "verificação de poderes",
+  "comissão eventual",
+  "xiv legislatura",
+  "deputados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

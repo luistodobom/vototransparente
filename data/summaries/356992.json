@@ -1,0 +1,43 @@
+{
+ "short_title": "Contas de Poupança e Investimento isentas de impostos",
+ "summary": "O Projeto de Lei n.º 695/XVII/1.ª, da Iniciativa Liberal, cria as Contas de Poupança e Investimento isentas de impostos (CPI3), inspiradas nas Individual Savings Accounts do Reino Unido. Permite poupar até 20 mil euros por ano em contas reguladas, com os ganhos isentos de tributação, em produtos como ações, ETFs, contas-poupança, certificados de aforro, obrigações, planos de poupança-reforma, dívida pública do IGCP e financiamento colaborativo. Altera o Código do IRS, para excluir de tributação rendimentos e ganhos obtidos nestas contas, e o Código do Imposto do Selo, para isentar contratação, comissões e juros dos produtos nelas contratados. A CMVM é a autoridade competente, em cooperação com a ASF e o Banco de Portugal, e o Governo regulamenta por decreto-lei, incluindo o regime transitório.",
+ "key_points": [
+  "Cria contas de poupança e investimento com limite anual de 20 mil euros e ganhos isentos de tributação.",
+  "Abrange vários produtos financeiros, incluindo ações, ETFs, planos de poupança-reforma, dívida pública e financiamento colaborativo.",
+  "Exclui de IRS os rendimentos e ganhos obtidos nestas contas e isenta de imposto do selo a contratação, comissões e juros.",
+  "A CMVM é a autoridade competente, em articulação com a ASF, o Banco de Portugal e a Autoridade Tributária.",
+  "O Governo regulamenta por decreto-lei, incluindo o regime transitório e o regime sancionatório."
+ ],
+ "plain_language": "Este projeto cria um tipo de conta onde cada pessoa pode aplicar até 20 mil euros por ano em poupanças e investimentos, como ações, fundos ou certificados de aforro, sem pagar impostos sobre os lucros. A ideia é incentivar as pessoas a poupar mais, incluindo para a reforma. A supervisão fica a cargo da CMVM e o Governo teria de regulamentar os detalhes.",
+ "context": "A Iniciativa Liberal considera que o debate sobre pensões se centra na idade e no valor da pensão pública e pouco no incentivo à poupança individual. Refere que a taxa de poupança dos portugueses no segundo trimestre de 2025 foi de 11,95%, contra 15,45% na média da Zona Euro, e propõe uma solução com paralelo noutros países europeus para aumentar a poupança, a literacia financeira e a dinamização dos mercados de capitais.",
+ "analysis": "Pontos fortes: cria um incentivo simples e flexível à poupança e ao investimento, com supervisão definida e inspiração em modelos existentes. Fragilidades: o benefício fiscal favorece sobretudo quem tem capacidade para poupar até 20 mil euros por ano, com possível efeito regressivo; o texto não estima a perda de receita; a isenção abrange produtos de risco e pode deslocar poupança de outros instrumentos incentivados, como os PPR; e vários aspetos essenciais, como o regime transitório e o sancionatório, ficam para decreto-lei.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A isenção de IRS sobre rendimentos e ganhos e de imposto do selo sobre produtos das contas reduz a receita fiscal; o texto não quantifica o montante."
+ },
+ "affected": [
+  "pequenos e grandes aforradores",
+  "instituições financeiras",
+  "CMVM, ASF e Banco de Portugal",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "poupança",
+  "investimento",
+  "isenção de impostos",
+  "CMVM",
+  "contas isentas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Reconstrução do Pavilhão 5 e área materno-infantil na Guarda",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo que proceda à reconstrução imediata do Pavilhão 5 do Hospital Sousa Martins, na Guarda, instalando a área clínica materno-infantil, e que tome as medidas necessárias para contratar os profissionais exigidos: enfermeiros, nomeadamente especialistas em saúde materna e obstétrica e em saúde infantil e pediátrica, obstetras, pediatras, anestesistas e assistentes operacionais. O texto defende a manutenção da maternidade e da pediatria, a articulação da Unidade Coordenadora Funcional Materno-Infantil e uma visão de longo prazo, sem perspetiva minimalista, rejeitando fusões ou concentração de serviços. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reconstrução imediata do Pavilhão 5 do Hospital Sousa Martins.",
+  "Instalação ali da área clínica materno-infantil.",
+  "Contratação de enfermeiros especialistas, obstetras, pediatras, anestesistas e assistentes operacionais."
+ ],
+ "plain_language": "O PCP pede ao Governo que reconstrua já o Pavilhão 5 do hospital da Guarda para a maternidade e a pediatria e que contrate os médicos, enfermeiros e outros profissionais necessários. Rejeita juntar ou concentrar estes serviços noutras cidades. É uma recomendação.",
+ "context": "O PCP denuncia a falta de meios e de pessoal no SNS do distrito da Guarda e defende a maternidade e a pediatria no Hospital Sousa Martins. Argumenta que o número de partos não justifica fusões de serviços e que é preciso incentivar a natalidade e fixar população no interior, com serviços públicos de proximidade e instalações seguras.",
+ "analysis": "Acrescenta à obra a contratação de profissionais, o que é decisivo para o funcionamento do serviço, e pede um investimento de longo prazo. Fragilidades: não indica custos, calendário nem financiamento, e a rejeição de qualquer concentração de serviços não discute critérios técnicos como volume de partos ou segurança clínica, que o texto classifica como falácia sem os debater. A atribuição de responsabilidades políticas é genérica.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reconstrução do pavilhão e a contratação de profissionais implicam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "utentes da ULS da Guarda",
+  "profissionais de saúde do distrito da Guarda",
+  "mulheres e crianças do distrito da Guarda"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "hospital sousa martins",
+  "guarda",
+  "maternidade",
+  "pediatria",
+  "contratação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

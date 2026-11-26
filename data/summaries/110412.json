@@ -1,0 +1,39 @@
+{
+ "short_title": "Apoios aos lojistas dos centros comerciais na pandemia",
+ "summary": "Projeto de resolução do PCP que recomenda ao Governo, em diálogo com lojistas e entidades gestoras dos centros comerciais, a redução das rendas fixas dos locatários cujas lojas estiveram encerradas ou foram afetadas pelo encerramento do centro, à semelhança das medidas de 2020 e com efeitos desde o início dos encerramentos. Recomenda também que as lojas de micro e pequenas empresas independentes (não integradas em cadeias ou redes) tenham acesso a todos os apoios de que beneficiam empresas similares fora dos centros comerciais. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Reduzir as rendas fixas de lojas de centros comerciais encerradas ou afetadas, com efeitos desde o início dos encerramentos.",
+  "A redução seria negociada com lojistas e entidades gestoras, como em 2020.",
+  "Dar às micro e pequenas empresas independentes dos centros comerciais acesso aos mesmos apoios das empresas fora deles."
+ ],
+ "plain_language": "Em 2020 existia uma regra que ajustava a renda das lojas de centros comerciais às vendas feitas. Em 2021 essa regra deixou de existir e o apoio às rendas não se aplica a estes lojistas. O PCP pede ao Governo que promova reduções de renda e que dê a estes pequenos lojistas os mesmos apoios dos outros. É uma recomendação.",
+ "context": "O proponente recorda que a norma do Orçamento Suplementar de 2020 sobre rendas em centros comerciais não foi aprovada para 2021, que o programa Apoiar Rendas não se aplica a estes contratos e que as alterações anormais das circunstâncias exigem uma partilha justa dos impactos económicos.",
+ "analysis": "Procura reequilibrar a relação entre proprietários e pequenos lojistas num contexto de encerramentos forçados. Fragilidades: a redução de rendas transfere custos para os proprietários, com possíveis questões de proporcionalidade e de liberdade contratual; a formulação em termos de diálogo é vaga quanto ao valor e à obrigatoriedade; a distinção entre lojas independentes e integradas em cadeias pode gerar casos de fronteira; faltam estimativas de custo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O alargamento de apoios aos lojistas dos centros comerciais implica despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "lojistas de centros comerciais",
+  "micro e pequenas empresas",
+  "proprietários e gestores de centros comerciais"
+ ],
+ "categories": [
+  "economia",
+  "consumidores"
+ ],
+ "tags": [
+  "centros comerciais",
+  "lojistas",
+  "rendas comerciais",
+  "COVID-19",
+  "micro e pequenas empresas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

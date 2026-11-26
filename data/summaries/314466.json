@@ -1,0 +1,42 @@
+{
+ "short_title": "Garantir o acesso à interrupção voluntária da gravidez no SNS",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo um conjunto de medidas para garantir o acesso efetivo à interrupção voluntária da gravidez (IVG) no SNS, nos termos da Lei n.º 16/2007. Inclui protocolos entre cuidados primários e hospitais (incluindo unidades privadas protocoladas); apoio psicológico até um ano após a IVG, mesmo em unidades sem consultas de IVG por objeção de consciência; formação e manual de boas práticas; encaminhamento e agendamento em unidade oficial quando a de referência não faça IVG, com escolha da mulher; transporte gratuito quando a unidade alternativa for fora da área de residência; centralização na DGS das declarações de objetores de consciência, no setor público e privado; e publicação semestral, no portal da transparência, de dados por estabelecimento (pedidos, procedimentos, tempos, incumprimentos de prazos, objetores). Não é vinculativa.",
+ "key_points": [
+  "Protocolos de articulação entre cuidados primários e hospitais, incluindo unidades privadas protocoladas.",
+  "Apoio psicológico até um ano após a IVG e transporte gratuito quando a unidade alternativa for distante.",
+  "Encaminhamento e agendamento garantidos quando a unidade de referência não realize IVG.",
+  "Centralização na DGS da lista de profissionais objetores de consciência, no setor público e privado.",
+  "Publicação semestral de dados por estabelecimento no portal da transparência."
+ ],
+ "plain_language": "O PCP pede ao Governo que garanta, na prática, o acesso à IVG pelo SNS: que cada hospital ou centro de saúde saiba para onde encaminhar a mulher, que haja apoio psicológico, transporte gratuito quando for preciso ir longe e que se saiba, com dados públicos, onde e quanto tempo demora. É uma recomendação, não obriga o Governo.",
+ "context": "O proponente cita o relatório da ERS 2018-2022 para mostrar que, apesar de a lei garantir IVG gratuita e universal até às 10 semanas, só 5 dos 55 ACES asseguram a consulta prévia, apenas 27 de 42 entidades do SNS realizam algum procedimento, e há falta de protocolos e registo de objetores. Associa os problemas a subfinanciamento e a falta de profissionais.",
+ "analysis": "A proposta é detalhada e visa problemas documentados pela ERS: falta de articulação, de registo de objetores e de transparência dos dados. A publicação de dados e o registo centralizado ajudam à monitorização, mas o registo de objetores levanta questões de proteção de dados e de equilíbrio com o direito à objeção de consciência. O transporte gratuito e o apoio psicológico têm custo, que o texto não quantifica, e a solução depende de recursos humanos que a resolução não cria. Como resolução, apenas recomenda.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Transporte gratuito, apoio psicológico durante um ano, formação e sistemas de registo implicam despesa no SNS. O texto não indica valores."
+ },
+ "affected": [
+  "mulheres que recorrem à IVG",
+  "utentes do SNS",
+  "profissionais de saúde objetores e não objetores",
+  "unidades de saúde"
+ ],
+ "categories": [
+  "saude",
+  "direitos"
+ ],
+ "tags": [
+  "IVG",
+  "SNS",
+  "objeção de consciência",
+  "Lei 16/2007",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

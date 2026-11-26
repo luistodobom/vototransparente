@@ -1,0 +1,41 @@
+{
+ "short_title": "Interpretação da taxa reduzida de IVA na reabilitação urbana",
+ "summary": "O PSD propõe uma interpretação autêntica da Verba 2.23 da Lista I anexa ao Código do IVA, na redação dada pela Lei n.º 64-A/2008. Estabelece que, para efeitos da taxa reduzida de IVA de 6% aí prevista, são empreitadas de reabilitação urbana todas as realizadas em imóveis ou espaços públicos localizados em áreas de reabilitação urbana (ARU) delimitadas nos termos legais, independentemente da aprovação de uma operação de reabilitação urbana (ORU). A lei produz efeitos à data da entrada em vigor da Lei n.º 64-A/2008 e entra em vigor no dia seguinte ao da publicação. A norma já não está em vigor desde a Lei n.º 56/2023, mas continua a produzir efeitos e a suscitar divergências interpretativas.",
+ "key_points": [
+  "Interpreta a Verba 2.23 da Lista I do Código do IVA, na redação da Lei n.º 64-A/2008.",
+  "A taxa reduzida aplica-se a obras em ARU independentemente de existir operação de reabilitação urbana aprovada.",
+  "Produz efeitos retroativos à data de entrada em vigor da Lei n.º 64-A/2008.",
+  "Entra em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "Esta lei esclarece que as obras de reabilitação em zonas de reabilitação urbana podiam beneficiar do IVA de 6% mesmo que não existisse um plano formal de operação de reabilitação. Como retroage a 2008, afeta situações passadas em que havia dúvidas sobre a taxa aplicável.",
+ "context": "O proponente afirma que a norma antiga levanta divergências sobre se a taxa reduzida depende apenas de existir uma ARU ou também de uma ORU, e que é preciso clarificar o alcance para garantir segurança jurídica, coerência da política fiscal de incentivo à reabilitação e continuidade das obras.",
+ "analysis": "A proposta traz segurança jurídica a quem aplicou a taxa de 6% e evita litígios sobre uma norma já revogada, alinhando-a com a evolução legislativa de 2012. Fragilidades: uma lei interpretativa com efeitos retroativos à data da lei de 2008 pode reduzir receita já liquidada e afetar processos pendentes, e o texto não apresenta dados sobre os litígios nem sobre o valor envolvido. Por ser retroativa, pode também levantar questões de segurança jurídica para a administração fiscal.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A interpretação favorece a aplicação da taxa reduzida de 6% a obras em ARU, com possível redução de receita de IVA, incluindo em situações passadas; o texto não quantifica o valor."
+ },
+ "affected": [
+  "empresas de construção e promotores",
+  "proprietários de imóveis em ARU",
+  "Autoridade Tributária",
+  "municípios"
+ ],
+ "categories": [
+  "fiscalidade",
+  "habitacao"
+ ],
+ "tags": [
+  "IVA",
+  "reabilitação urbana",
+  "taxa reduzida",
+  "interpretação autêntica",
+  "ARU"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

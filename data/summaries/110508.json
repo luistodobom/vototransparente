@@ -1,0 +1,42 @@
+{
+ "short_title": "Proibir o tiro desportivo com animais vivos",
+ "summary": "Projeto de lei de Os Verdes que proíbe a utilização de animais vivos, nomeadamente pombos (Columba livia) ou outras aves, mesmo criados para o efeito, na prática do tiro desportivo com arma de caça (tiro ao voo ou tiro ao pombo), através da quarta alteração à Lei n.º 92/95 de proteção dos animais. A proibição não se aplica às atividades da Lei de Bases Gerais da Caça e do regime da atividade cinegética. A fiscalização cabe a várias forças e entidades, incluindo a GNR e a PSP. As coimas vão de 1250 a 3750 euros para pessoas singulares e de 3500 a 10 500 euros para pessoas coletivas, com suspensão da entidade promotora por 2 anos e apreensão de material e animais.",
+ "key_points": [
+  "Proíbe a utilização de animais vivos, incluindo pombos, no tiro desportivo com arma de caça.",
+  "Altera o artigo 1.º da Lei n.º 92/95, de proteção dos animais.",
+  "Exclui as atividades cinegéticas reguladas pela legislação da caça.",
+  "Coimas de 1250 a 3750 euros (pessoas singulares) e 3500 a 10 500 euros (pessoas coletivas).",
+  "Suspensão da entidade promotora por 2 anos e apreensão de equipamentos e animais.",
+  "Fiscalização pela GNR, PSP e outras autoridades."
+ ],
+ "plain_language": "O tiro aos pombos vivos, em competições de tiro desportivo, passaria a ser proibido em Portugal. Quem organizar ou praticar poderia pagar coimas, perder o material e ver a entidade suspensa dois anos. A caça continuaria a ser regulada pela lei própria.",
+ "context": "O proponente considera o tiro ao pombo uma prática anacrónica e contestada, já com alternativas como os pratos cerâmicos, e cita provas internacionais realizadas em Guimarães e Pevidém em 2019, defendendo que o bem-estar animal é incompatível com a prática desportiva.",
+ "analysis": "Medida clara e com alternativas existentes, que reforça a proteção animal. Fragilidades de redação: o articulado salta do artigo 2.º para o 4.º e as coimas referem o artigo 3.º, que não consta do texto, o que gera dúvidas de interpretação; a delimitação face à atividade cinegética (a exceção do n.º 5) precisa de clareza para evitar lacunas; afeta clubes e promotores desta modalidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Prevê coimas, distribuídas 60% ao Estado e 40% à entidade autuante, mas o texto não estima os montantes."
+ },
+ "affected": [
+  "praticantes e promotores de tiro aos pombos",
+  "clubes de tiro",
+  "aves usadas na prática",
+  "forças de fiscalização"
+ ],
+ "categories": [
+  "animais",
+  "desporto"
+ ],
+ "tags": [
+  "tiro aos pombos",
+  "bem-estar animal",
+  "Lei 92/95",
+  "coimas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

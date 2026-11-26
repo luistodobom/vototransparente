@@ -1,0 +1,42 @@
+{
+ "short_title": "Crime de abandono de pessoa idosa e proteção contra a violência",
+ "summary": "Projeto de Lei do PAN que altera o Código Penal e o Código Civil para criminalizar o abandono de pessoa idosa e reforçar a sua proteção. No Código Penal, alarga o crime de exposição ou abandono (artigo 138.º) a quem, tendo ao seu cuidado pessoa vulnerável por idade, deficiência ou doença abrangida pela obrigação de alimentos, negligencie grosseiramente os seus deveres ou a abandone intencionalmente em hospital ou estabelecimento de saúde, com pena de 1 a 5 anos de prisão. Cria o crime de aproveitamento de pessoa especialmente vulnerável (artigo 226.º-A), com pena de 1 a 5 anos, permite a indignidade sucessória do condenado, aplica responsabilidade a pessoas coletivas em mais crimes e alarga o conceito de funcionário a quem trabalhe em IPSS.",
+ "key_points": [
+  "Criminalizar a negligência grosseira e o abandono intencional em hospital de pessoa vulnerável a cargo do agente, com prisão de 1 a 5 anos.",
+  "Excluir da punição o abandono quando houve pedido prévio de apoio aos serviços sociais há mais de 20 dias.",
+  "Criar o crime de aproveitamento de pessoa especialmente vulnerável, com pena de 1 a 5 anos, punindo a tentativa.",
+  "Prever indignidade sucessória para condenados por crimes contra ascendentes, descendentes e cônjuge.",
+  "Alargar a responsabilidade penal de pessoas coletivas e equiparar a funcionários quem trabalhe em IPSS."
+ ],
+ "plain_language": "Esta proposta quer punir com prisão quem abandona num hospital um familiar idoso ou vulnerável, ou o trata com negligência grave, e quem se aproveita de uma pessoa fragilizada para obter vantagem financeira. Quem for condenado por certos crimes contra familiares pode ainda perder o direito a herdar. Há uma exceção quando a pessoa pediu apoio à Segurança Social e colaborou na procura de uma solução.",
+ "context": "O proponente afirma que a violência contra pessoas idosas aumenta, é comum no contexto de violência doméstica e é praticada sobretudo pelos filhos, e que mais de metade das vítimas não apresenta queixa. Cita a APAV, segundo a qual, entre 2021 e 2024, 6 523 pessoas idosas recorreram à associação (cerca de 5 por dia). Defende maior proteção penal e civil das vítimas.",
+ "analysis": "A proposta responde a uma lacuna reconhecida, com tipos penais precisos e uma cláusula que ressalva quem pediu apoio social. Há, porém, riscos: a noção de negligência grosseira e o alcance do tipo podem gerar incerteza; criminalizar famílias sem apoio adequado de resposta social pode ser contraproducente se os serviços não tiverem vagas; e a indignidade sucessória exige prova e processos adicionais. Falta também previsão de meios de apoio à prevenção. O efeito prático depende da atuação dos tribunais.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não prevê despesa ou receita diretas; poderia haver custos indiretos para o sistema judicial e para as respostas sociais, não quantificados."
+ },
+ "affected": [
+  "pessoas idosas",
+  "familiares cuidadores",
+  "instituições de saúde e IPSS",
+  "pessoas especialmente vulneráveis"
+ ],
+ "categories": [
+  "justica",
+  "direitos",
+  "familia"
+ ],
+ "tags": [
+  "abandono de idosos",
+  "código penal",
+  "violência contra idosos",
+  "indignidade sucessória"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

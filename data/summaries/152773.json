@@ -1,0 +1,41 @@
+{
+ "short_title": "Combate às descargas suinícolas e proteção do rio Lis",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo quatro medidas: inspeções a todas as suiniculturas da região de Leiria para avaliar o tratamento dos efluentes, medidas de incentivo à redução do número de suínos por exploração, um regime transitório de transferência do financiamento público atribuído às explorações suinícolas para empresas alimentares sustentáveis e amigas do ambiente, e um plano de limpeza e proteção da bacia hidrográfica do rio Lis e dos afluentes. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Inspeções a todas as suiniculturas da região de Leiria sobre o tratamento de efluentes.",
+  "Incentivos à redução do número de suínos por exploração.",
+  "Regime transitório para transferir financiamento público de explorações suinícolas para empresas alimentares sustentáveis.",
+  "Plano de limpeza e proteção da bacia do rio Lis e afluentes."
+ ],
+ "plain_language": "O PAN pede ao Governo que inspecione todas as suiniculturas de Leiria, incentive a redução do número de animais, desvie dinheiro público do setor para atividades mais sustentáveis e crie um plano para limpar e proteger o rio Lis. O Governo não é obrigado a cumprir.",
+ "context": "O proponente refere cerca de 400 suiniculturas intensivas em Leiria, descargas ilegais frequentes, estudos que apontam poluição por azoto amoniacal, a promessa antiga e não cumprida de uma nova estação de tratamento e preocupações com o bem-estar animal. Cita ainda financiamentos públicos de 3,8 milhões de euros em 2020 para a pecuária intensiva.",
+ "analysis": "Combina fiscalização, ambiente e bem-estar animal e responde a um problema reconhecido por várias partes. Fragilidades: a transferência de financiamento e a redução do efetivo podem ter impacto económico e no emprego da região, que o texto não avalia. Não define prazos, entidades nem custos, e não aborda a solução de tratamento de efluentes que o setor e as autarquias discutem. Sendo recomendação, o efeito depende do Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Inspeções e um plano de limpeza implicam despesa, e a transferência de apoios públicos de umas atividades para outras poderia ser neutra no total. O texto não quantifica."
+ },
+ "affected": [
+  "Suinicultores da região de Leiria",
+  "Populações da bacia do rio Lis",
+  "Animais de produção em suiniculturas intensivas"
+ ],
+ "categories": [
+  "ambiente",
+  "animais",
+  "agricultura"
+ ],
+ "tags": [
+  "rio lis",
+  "suinicultura",
+  "leiria",
+  "efluentes",
+  "bem-estar animal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

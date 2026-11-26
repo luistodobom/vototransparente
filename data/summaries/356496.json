@@ -1,0 +1,42 @@
+{
+ "short_title": "Controlo de preços de bens e serviços essenciais",
+ "summary": "O PCP recomenda ao Governo um conjunto de medidas de controlo de preços: controlo de preços e margens no cabaz alimentar essencial (produtos da Lista I do Código do IVA); preço de referência para gasolina 95, gasóleo rodoviário e GPL auto, com margens máximas de refinação e preços máximos de venda ao público; preços máximos para o GPL em garrafa e canalizado, fixando em 20 euros o preço máximo da garrafa de 13 kg; fixação definitiva das tarifas reguladas de eletricidade e gás natural, eliminando o carácter transitório; e proteção de quem tem crédito à habitação, com os lucros da banca a suportar encargos e redução das comissões bancárias. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Controlo de preços e margens no cabaz alimentar essencial, incluindo distribuição, comércio e logística.",
+  "Preço de referência e margens máximas para gasolina 95, gasóleo e GPL auto, com preços máximos de venda ao público.",
+  "Preço máximo de 20 euros para a garrafa de gás de 13 kg e preços máximos para o GPL canalizado.",
+  "Fim do carácter transitório das tarifas reguladas de eletricidade e gás natural.",
+  "Apoio a quem tem crédito à habitação: encargos suportados pelos lucros da banca e redução de comissões."
+ ],
+ "plain_language": "O partido quer que o Governo fixe preços e margens para alimentos básicos, combustíveis e botijas de gás, mantenha de forma permanente as tarifas reguladas de luz e gás e ajude quem paga crédito da casa a pagar menos comissões. É uma recomendação, não uma lei.",
+ "context": "O proponente invoca a subida dos preços dos combustíveis após o conflito com o Irão (gasolina de 1,68 para cerca de 1,91 euros, gasóleo de 1,6 para 2,08 euros), os elevados custos da energia e as margens da grande distribuição. Considera insuficientes as medidas fiscais do Governo, por poderem ser absorvidas pelas empresas sem chegarem ao consumidor.",
+ "analysis": "Responde a uma preocupação concreta com o custo de vida e ancora parte das medidas em legislação existente (Decreto-Lei n.º 31/2006). Fragilidades: o controlo de preços pode gerar escassez, reduzir investimento ou exigir fiscalização pesada; não é feita avaliação de custos nem de compatibilidade com o direito europeu da concorrência e do mercado da energia; o mecanismo de a banca suportar encargos é pouco definido; e os dados comparativos com Espanha não são sustentados por fonte no texto.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Não são apresentados montantes. Os preços máximos e o apoio ao crédito poderiam reduzir receitas de empresas e eventualmente exigir compensações públicas, sem estimativa no texto."
+ },
+ "affected": [
+  "consumidores",
+  "famílias com crédito à habitação",
+  "empresas de distribuição alimentar",
+  "petrolíferas e comercializadores de energia"
+ ],
+ "categories": [
+  "consumidores",
+  "economia",
+  "energia"
+ ],
+ "tags": [
+  "controlo de preços",
+  "cabaz alimentar",
+  "combustíveis",
+  "tarifas reguladas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

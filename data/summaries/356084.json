@@ -1,0 +1,42 @@
+{
+ "short_title": "Resiliência dos serviços essenciais e energia de socorro",
+ "summary": "O Projeto de Resolução n.º 554/XVII/1.ª, do PSD, recomenda ao Governo que continue o trabalho de reforço da resiliência e continuidade dos serviços essenciais e das entidades e infraestruturas críticas, nos termos do Decreto-Lei n.º 22/2025, de 19 de março, que transpõe a Diretiva (UE) 2022/2557. Pede que as entidades críticas disponham de sistemas de energia de socorro e de emergência adequados à sua criticidade, como UPS, grupos geradores ou soluções com renováveis e armazenamento, com comutação automática, autonomia, sempre que tecnicamente possível, não inferior a 72 horas, testes periódicos sob carga e registos e planos de manutenção documentados. A resolução é uma recomendação não vinculativa.",
+ "key_points": [
+  "Continuar o reforço da resiliência de serviços essenciais e infraestruturas críticas ao abrigo do Decreto-Lei n.º 22/2025.",
+  "Garantir sistemas de energia de socorro adequados à criticidade da infraestrutura.",
+  "Admitir UPS, geradores ou soluções com renováveis e armazenamento de energia.",
+  "Exigir comutação automática e autonomia, sempre que possível, de pelo menos 72 horas.",
+  "Prever testes periódicos sob carga e planos de manutenção documentados."
+ ],
+ "plain_language": "A proposta pede ao Governo que garanta que hospitais, redes de comunicações, água e outros serviços essenciais continuem a funcionar em caso de falha de eletricidade, com geradores ou baterias que durem pelo menos 72 horas, quando possível, e que sejam testados regularmente. É uma recomendação, sem força de lei.",
+ "context": "O PSD invoca a frequência crescente de fenómenos climáticos extremos, a interdependência entre sistemas energéticos, digitais e de comunicações e os riscos híbridos, e defende uma abordagem preventiva. Refere a diretiva europeia sobre a resiliência de entidades críticas e as medidas do Governo após o apagão elétrico, que evidenciam a importância da energia de socorro.",
+ "analysis": "Pontos fortes: define requisitos técnicos concretos (autonomia, comutação automática, testes) e articula-se com o regime legal existente. Fragilidades: a meta das 72 horas está condicionada por \"sempre que tecnicamente possível\", não há prazos, não se identifica quem financia os equipamentos e a resolução não obriga o Governo. Não é claro como se compatibiliza com os custos para entidades públicas e privadas, nem como se fiscaliza.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto não indica montantes. A instalação e manutenção de sistemas de energia de socorro implica custos para as entidades críticas e eventualmente para o Estado."
+ },
+ "affected": [
+  "entidades críticas",
+  "operadores de serviços essenciais",
+  "cidadãos utentes de serviços essenciais",
+  "Governo"
+ ],
+ "categories": [
+  "seguranca",
+  "energia",
+  "transportes"
+ ],
+ "tags": [
+  "infraestruturas críticas",
+  "energia de socorro",
+  "resiliência",
+  "apagão"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

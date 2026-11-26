@@ -1,0 +1,43 @@
+{
+ "short_title": "Proibir voos noturnos no Aeroporto de Lisboa",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo cinco medidas sobre o Aeroporto Humberto Delgado: revogar a Portaria n.º 303-A/2004, que permite genericamente tráfego aéreo entre as 00:00 e as 06:00; alargar a restrição de voos noturnos para as 22:00 a 06:00 nas descolagens e as 23:00 a 07:00 nas aterragens; revogar de imediato a decisão de expandir a capacidade do aeroporto; acelerar o plano de desativação do aeroporto e a construção do novo aeroporto de Lisboa, com Avaliação de Impacte Ambiental; e desenvolver a ferrovia nacional e a ligação a Espanha como alternativa aos voos de curta duração.",
+ "key_points": [
+  "Revogar a Portaria n.º 303-A/2004 que permite tráfego aéreo entre as 00:00 e as 06:00.",
+  "Restringir os voos entre as 22:00 e as 06:00 nas descolagens e as 23:00 e as 07:00 nas aterragens.",
+  "Revogar a decisão de aumentar a capacidade do aeroporto.",
+  "Acelerar a desativação do aeroporto atual e o novo aeroporto de Lisboa, com Avaliação de Impacte Ambiental.",
+  "Desenvolver a ferrovia como alternativa a voos de curta duração."
+ ],
+ "plain_language": "O LIVRE quer acabar com os voos de noite no aeroporto de Lisboa, que fica junto a bairros densamente povoados, travar a sua expansão e acelerar a construção de um novo aeroporto. Defende também mais comboios para substituir voos curtos. É uma recomendação ao Governo.",
+ "context": "O proponente cita estudos que associam as partículas ultrafinas da aviação a doenças e afirma que residem cerca de 414 mil pessoas num raio de 5 km do aeroporto. Alega que os voos noturnos agravam o impacto na saúde e critica a intenção do Governo de aumentar para 45 o número de voos por hora.",
+ "analysis": "A proposta liga saúde pública e política de transportes, com dados citados de estudos e de organizações ambientais. Fragilidades: os números de casos de doença são estimativas de um relatório de uma ONG e não causalidade estabelecida em Portugal; a proibição noturna e a não expansão podem afetar a capacidade, as companhias aéreas, o turismo e a economia, impacto não avaliado no texto; e a desativação do aeroporto depende de um novo aeroporto ainda por construir. Recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Não são apresentados custos; as restrições aos voos podem reduzir receitas aeroportuárias e a ferrovia exigiria investimento, sem estimativas no texto."
+ },
+ "affected": [
+  "Residentes na zona do aeroporto de Lisboa",
+  "Companhias aéreas e passageiros",
+  "Operador aeroportuário",
+  "Setor do turismo"
+ ],
+ "categories": [
+  "ambiente",
+  "transportes",
+  "saude"
+ ],
+ "tags": [
+  "aeroporto de lisboa",
+  "voos noturnos",
+  "ruído",
+  "partículas ultrafinas",
+  "novo aeroporto"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

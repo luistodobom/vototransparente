@@ -1,0 +1,43 @@
+{
+ "short_title": "Obrigatoriedade de meios de pagamento eletrónicos",
+ "summary": "O Grupo Parlamentar do PS recomenda ao Governo que, no quadro do novo Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, consagre a obrigatoriedade de disponibilizar nas transações comerciais todos os meios de pagamento, incluindo eletrónicos, com um quadro sancionatório específico para a recusa de numerário ou de meios eletrónicos, tendo a ASAE como entidade fiscalizadora. Propõe estudar isenções (por exemplo, máquinas automáticas), proibir custos adicionais ao consumidor pelo pagamento eletrónico face ao numerário, prever um período transitório de 12 a 24 meses para microempresas, com possíveis sanções mitigadas, apoiar a transição dos pequenos comerciantes e promover a concorrência no setor, incluindo isenção de comissões ou taxas de portabilidade de terminais e terminais com vários sistemas e processadores. A exposição de motivos defende isentar de taxas de intercâmbio as transações de baixo valor. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Obrigar os comerciantes a disponibilizar todos os meios de pagamento, incluindo eletrónicos.",
+  "Criar um regime sancionatório para a recusa de numerário ou de meios eletrónicos, fiscalizado pela ASAE.",
+  "Proibir custos adicionais para o consumidor pelo pagamento eletrónico.",
+  "Prever período transitório de 12 a 24 meses para microempresas e apoio aos pequenos comerciantes.",
+  "Promover a concorrência nos pagamentos eletrónicos, incluindo isenção de taxas de portabilidade de terminais."
+ ],
+ "plain_language": "O PS pede ao Governo que passe a ser obrigatório que as lojas aceitem pagamentos por cartão ou outros meios eletrónicos, além do dinheiro, e também que nenhuma loja recuse dinheiro. Os pequenos comerciantes teriam mais tempo e apoio para se adaptarem, e o consumidor não pagaria mais por usar cartão. É uma recomendação.",
+ "context": "O proponente defende que o pagamento em dinheiro facilita a evasão fiscal, em particular de IVA, e que os pagamentos eletrónicos garantem rastreabilidade. Cita dados do BCE (54% das transações em Portugal em 2024 foram em dinheiro, e 60% dos portugueses preferem cartão), o \"VAT gap\" de 3,6% em 2023 (cerca de 900 milhões de euros de perda) e uma proposta do Banco de Portugal.",
+ "analysis": "A proposta junta uma justificação com dados europeus e nacionais e equilibra a obrigação com períodos transitórios e apoios. A proibição de custos adicionais ao consumidor e a isenção de taxas pode colidir com o modelo de negócio de bancos e processadores, e o texto não quantifica o efeito na evasão nem os custos para pequenos comerciantes. Há também uma tensão aparente entre exigir meios eletrónicos e proteger a aceitação de numerário. Não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "A rastreabilidade dos pagamentos poderia reduzir a evasão ao IVA, que o texto estima em perda próxima de 900 milhões de euros em 2023; o efeito da medida não é quantificado."
+ },
+ "affected": [
+  "comerciantes e microempresas",
+  "consumidores",
+  "bancos e processadores de pagamentos",
+  "ASAE"
+ ],
+ "categories": [
+  "consumidores",
+  "fiscalidade",
+  "economia"
+ ],
+ "tags": [
+  "pagamentos eletrónicos",
+  "evasão fiscal",
+  "IVA",
+  "numerário",
+  "ASAE"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

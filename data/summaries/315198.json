@@ -1,0 +1,40 @@
+{
+ "short_title": "PARES 4.ª geração: nova edição do programa de equipamentos sociais",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo a criação do Programa de Alargamento da Rede de Equipamentos Sociais (PARES) - Quarta Geração, para apoiar respostas sociais inovadoras, com oferta diferenciada para vários públicos, e o desenvolvimento, consolidação e reabilitação da rede de equipamentos das IPSS e entidades equiparadas. A fundamentação propõe alocar verbas e abrir candidaturas em 2026 para obras em 2027, já que o financiamento do PRR termina no final de 2026. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criação do PARES - Quarta Geração para apoiar respostas sociais inovadoras e diferenciadas.",
+  "Apoio ao desenvolvimento, consolidação e reabilitação da rede de equipamentos das IPSS e entidades equiparadas.",
+  "Candidaturas em 2026 e execução de obras em 2027, segundo a fundamentação.",
+  "Respostas nas áreas da infância, das pessoas com deficiência e da população sénior."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que lance uma nova edição do programa PARES, que financia obras e melhorias nos equipamentos sociais das instituições de solidariedade, como creches e lares. Quer que as candidaturas se abram em 2026 para que as obras possam começar em 2027, quando o dinheiro do PRR já tiver acabado.",
+ "context": "O proponente afirma que o PARES teve grande importância na rede de equipamentos sociais e que o PRR aprovou quase mil milhões de euros de uma dotação superior a 1200 milhões, mas com atrasos que podem pôr em causa a conclusão dos projetos até ao fim de 2026. Defende dar continuidade ao apoio depois do PRR.",
+ "analysis": "A proposta dá seguimento a um programa conhecido e antecipa o fim do financiamento do PRR, o que permite às instituições planear. É, porém, vaga: não indica a dotação, os critérios de seleção ou a origem dos fundos, e não discute a capacidade de execução, num contexto em que o próprio texto admite atrasos no PRR. Não explica como evitar duplicações com respostas já financiadas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de um novo programa de apoio ao investimento em equipamentos sociais implica despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "IPSS e entidades equiparadas",
+  "crianças, pessoas com deficiência e idosos utentes de equipamentos sociais",
+  "famílias"
+ ],
+ "categories": [
+  "familia",
+  "administracao"
+ ],
+ "tags": [
+  "PARES",
+  "equipamentos sociais",
+  "IPSS",
+  "PRR",
+  "respostas sociais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

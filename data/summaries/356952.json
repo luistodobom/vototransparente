@@ -1,0 +1,41 @@
+{
+ "short_title": "Rede nacional de assembleias cidadãs sobre a regionalização",
+ "summary": "O projeto de resolução do LIVRE recomenda ao Governo que crie, até ao final de 2026, uma Rede Nacional de Assembleias Cidadãs para a Regionalização, com uma assembleia regional junto de cada CCDR do continente. Os participantes seriam selecionados de forma representativa (idade, região, género e perfil sociodemográfico), sem prejuízo dos seus direitos laborais. Cada assembleia avaliaria o quadro legal das regiões administrativas (Leis n.º 56/91 e 19/98) e pronunciar-se-ia sobre poderes, composição, competências e delimitação da futura região, com apoio técnico e espaços cedidos pelas CCDR. Um mecanismo nacional uniformizaria a metodologia e apresentaria à Assembleia da República, em oito meses, um relatório nacional.",
+ "key_points": [
+  "Criar até ao final de 2026 uma assembleia cidadã regional junto de cada CCDR do continente.",
+  "Selecionar participantes de forma representativa e garantir que não perdem direitos laborais.",
+  "Cada assembleia avalia o quadro legal e opina sobre poderes, competências e delimitação da região.",
+  "Assegurar apoio técnico e espaços através das CCDR.",
+  "Criar coordenação nacional e um relatório final à Assembleia da República em oito meses."
+ ],
+ "plain_language": "O LIVRE propõe que cidadãos escolhidos de forma representativa, reunidos em cada região do continente, discutam como deveria ser a regionalização e entreguem um relatório ao Parlamento em oito meses. É uma recomendação ao Governo, não uma decisão sobre criar regiões.",
+ "context": "O proponente recorda que a criação de regiões é um objetivo constitucional por cumprir, com o único referendo, de 1998, marcado por alta abstenção e resposta desfavorável. Cita um estudo do ISCTE de 2025, segundo o qual 71% dos cidadãos querem voltar a discutir o tema, e dá como exemplos assembleias cidadãs na Irlanda e na Bélgica.",
+ "analysis": "A iniciativa traz participação cidadã estruturada, alinhada com a lógica constitucional do referendo nacional e regional. Fragilidades: as assembleias seriam apoiadas pelas CCDR, que são estruturas do Estado, o que pode condicionar a independência; o relatório não vincula o Parlamento; e o texto não estima custos nem detalha o método de seleção. O prazo de final de 2026 para criar a rede é curto.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de assembleias regionais, o apoio técnico e a coordenação nacional implicam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Cidadãos selecionados para as assembleias",
+  "CCDR",
+  "Eleitores do continente",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes",
+  "territorio"
+ ],
+ "tags": [
+  "regionalização",
+  "assembleias cidadãs",
+  "democracia deliberativa",
+  "ccdr"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

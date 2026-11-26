@@ -1,0 +1,40 @@
+{
+ "short_title": "Estratégia para a falta de oficiais de justiça",
+ "summary": "Projeto de Resolução do BE que recomenda ao Governo cinco medidas para responder à falta de oficiais de justiça e dignificar a carreira: rever a tabela remuneratória em diálogo com os sindicatos, implementar um plano plurianual de ingresso, garantir o funcionamento das progressões e promoções, assegurar um plano de formação para a transição digital e melhorar as condições de trabalho dotando os tribunais de recursos materiais e humanos adequados. O texto refere que em 2024 se aposentaram mais de 400 oficiais de justiça e aponta falta de atratividade da carreira, sobretudo em Lisboa, Porto e nas Regiões Autónomas.",
+ "key_points": [
+  "Rever a tabela remuneratória da carreira, em diálogo com os sindicatos.",
+  "Implementar um plano plurianual de ingresso para suprir o quadro.",
+  "Garantir progressões e promoções regulares.",
+  "Assegurar formação para a transição digital.",
+  "Melhorar as condições de trabalho com recursos materiais e humanos nos tribunais."
+ ],
+ "plain_language": "Faltam oficiais de justiça nos tribunais e muitos estão a reformar-se. O BE pede ao Governo que melhore os salários, abra concursos para contratar mais pessoas, garanta promoções, forme os profissionais para o digital e melhore as condições dos tribunais. É uma recomendação, o Governo não é obrigado a segui-la.",
+ "context": "O proponente afirma que as disfuncionalidades que afetam os oficiais de justiça se agravam há quinze anos, com défice crónico de pessoal, horários que ultrapassam o normal e instalações deficitárias. Refere que a falta de profissionais é maior em Lisboa, Porto e Regiões Autónomas, devido ao custo de vida, e que em 2024 mais de 400 se aposentaram, o que exige um plano de ingresso.",
+ "analysis": "A iniciativa identifica problemas reais e propõe uma abordagem global, com negociação sindical. É, no entanto, genérica: não indica valores salariais, número de lugares a preencher, calendário nem custo. As cinco medidas dependem de decisões orçamentais e de negociação coletiva, e o texto não discute prioridades entre elas. A referência a 400 aposentações em 2024 é apresentada sem fonte. Não é vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A revisão da tabela remuneratória, o ingresso de novos oficiais e as melhorias nos tribunais aumentariam a despesa pública; o texto não apresenta montantes."
+ },
+ "affected": [
+  "oficiais de justiça",
+  "utentes dos tribunais",
+  "sindicatos da justiça"
+ ],
+ "categories": [
+  "justica",
+  "trabalho"
+ ],
+ "tags": [
+  "oficiais de justiça",
+  "tribunais",
+  "carreira",
+  "ingressos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

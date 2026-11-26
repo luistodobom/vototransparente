@@ -1,0 +1,38 @@
+{
+ "short_title": "Elenco e composição das comissões parlamentares permanentes",
+ "summary": "Projeto de Deliberação do Presidente da Assembleia da República, para a XIV Legislatura, que fixa em 14 as comissões parlamentares permanentes, com a respetiva denominação, número de membros (entre 23 e 25), distribuição por grupos parlamentares e deputados únicos representantes de partido, e atribuição da presidência e das duas vice-presidências a partidos. Todas as comissões incluem PS (10 membros), PSD (8), BE (2), PCP, CDS-PP e PAN (1 cada), com PEV, L, CH e IL em algumas comissões. Prevê ainda que os votos de cada grupo parlamentar reproduzem a sua representatividade na Assembleia.",
+ "key_points": [
+  "Fixa em 14 o número de comissões parlamentares permanentes, de 23 a 25 membros cada.",
+  "Distribui os lugares por partido: PS 10, PSD 8, BE 2, PCP, CDS-PP e PAN 1 cada, mais PEV, L, CH e IL em algumas comissões.",
+  "Atribui a presidência e as duas vice-presidências de cada comissão a partidos determinados.",
+  "Estabelece que os votos de cada grupo parlamentar reproduzem a sua representatividade na Assembleia."
+ ],
+ "plain_language": "No início da legislatura, a Assembleia define que comissões de trabalho permanentes existem (por exemplo Saúde, Orçamento e Finanças, Educação), quantos deputados cada uma tem e a que partidos cabem os lugares e as presidências. Este texto fixa 14 comissões e reparte os lugares entre os partidos de acordo com a sua representação no Parlamento.",
+ "context": "O Regimento da Assembleia da República determina que cabe ao Plenário, sob proposta do Presidente e ouvida a Conferência de Líderes, fixar o elenco das comissões permanentes, o número de membros de cada uma e a sua distribuição pelos grupos parlamentares e deputados únicos representantes de partido.",
+ "analysis": "A deliberação organiza o trabalho parlamentar e aplica critérios de proporcionalidade, dando visibilidade às presidências de cada partido. É um documento essencialmente técnico e de equilíbrio político, pelo que não tem efeitos diretos sobre cidadãos. O texto não explica os critérios de distribuição das presidências nem dos deputados únicos, e a composição fixa pode necessitar de ajustes ao longo da legislatura. Os votos das comissões são ponderados pela representatividade de cada grupo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Trata-se de organização interna do Parlamento; o texto não prevê despesa nem receita adicionais."
+ },
+ "affected": [
+  "deputados",
+  "grupos parlamentares",
+  "comissões parlamentares"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "comissões parlamentares",
+  "regimento",
+  "xiv legislatura",
+  "composição"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

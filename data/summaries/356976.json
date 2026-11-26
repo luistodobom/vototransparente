@@ -1,0 +1,43 @@
+{
+ "short_title": "Reforma aos 65 anos ou com 40 anos de descontos, sem cortes",
+ "summary": "O Projeto de Lei n.º 686/XVII/1.ª, do PCP, repõe a idade normal de acesso à pensão de velhice nos 65 anos, revoga o fator de sustentabilidade e elimina as penalizações a ele associadas, incluindo para reformas antecipadas anteriores, com recálculo das pensões. Cria o direito à reforma antecipada sem penalizações com 40 anos civis de registo de remunerações, independentemente da idade, e para trabalhadores em turnos ou trabalho noturno, com redução de um ano na idade por cada dois anos completos nesse regime, até ao limite de 55 anos, e bonificação de 0,2% na taxa global por cada ano. Determina a revisão da antecipação por desemprego involuntário de longa duração e a adaptação das contribuições patronais. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Repõe a idade normal de reforma nos 65 anos e revoga o fator de sustentabilidade.",
+  "Permite reformar-se sem penalizações com 40 anos civis de registo de remunerações, independentemente da idade.",
+  "Reforma antecipada para trabalho por turnos ou noturno: um ano a menos por cada dois anos completos nesse regime, limite de 55 anos, com bonificação de 0,2% por ano.",
+  "Elimina penalizações de reformas antecipadas, com recálculo das pensões em causa.",
+  "Obriga à revisão do regime de antecipação por desemprego involuntário de longa duração e à adaptação das contribuições patronais."
+ ],
+ "plain_language": "Este projeto quer que as pessoas possam reformar-se aos 65 anos, em vez de uma idade que sobe com a esperança de vida, e que quem trabalhou 40 anos possa reformar-se mais cedo sem cortes na pensão. Acaba com o fator de sustentabilidade, que reduz as pensões, e dá regras especiais a quem trabalha por turnos ou de noite. Quem já se reformou com cortes poderia ver a pensão recalculada.",
+ "context": "O PCP afirma que a Constituição impõe ao Estado garantir condições de vida aos trabalhadores e idosos, o que foi contrariado por governos que introduziram o fator de sustentabilidade em 2007 e agravaram o corte em 2013, chegando a 12,34% em 2014, e que aumentaram a idade da reforma. Defende valorizar as carreiras longas e proteger trabalhadores com trabalho penoso e desempregados de longa duração.",
+ "analysis": "Pontos fortes: responde a reivindicações de justiça para carreiras longas e trabalho penoso, com regras claras e fundamentação histórica. Fragilidades: o texto não quantifica o impacto financeiro numa Segurança Social sob pressão demográfica, nem identifica fontes de financiamento além da adaptação das contribuições patronais; repor os 65 anos e eliminar o fator de sustentabilidade vão contra a lógica de indexação à esperança de vida; e a aplicação a reformas antecipadas já atribuídas gera custos retroativos e questões de equidade.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reformas antecipadas sem penalização, o fim do fator de sustentabilidade e o recálculo de pensões aumentam a despesa da Segurança Social; o texto não apresenta montantes e prevê adaptar as contribuições patronais para o trabalho por turnos e noturno."
+ },
+ "affected": [
+  "trabalhadores com carreiras longas",
+  "trabalhadores por turnos e noturnos",
+  "desempregados de longa duração",
+  "pensionistas com penalizações",
+  "entidades empregadoras"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "idade da reforma",
+  "fator de sustentabilidade",
+  "40 anos de descontos",
+  "trabalho por turnos",
+  "pensões"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

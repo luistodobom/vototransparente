@@ -1,0 +1,39 @@
+{
+ "short_title": "Simplificar o cartão de aplicador de fitofarmacêuticos",
+ "summary": "O projeto de resolução do CHEGA, cujo título fala em rever o regime de habilitação para aplicar produtos fitofarmacêuticos, prolongando a validade da licença e estabelecendo vitaliciedade para aplicadores seniores, recomenda concretamente ao Governo que desenvolva mecanismos administrativos simplificados e adaptados ao meio rural, facilitando a emissão e a renovação do cartão de aplicador, com especial atenção às populações mais envelhecidas e com menor literacia digital. A exposição de motivos descreve o regime atual, decorrente da Lei n.º 26/2013, com formação certificada, cartão com validade de dez anos, registo de tratamentos e inspeção de equipamentos de três em três anos, e critica a ausência de distinção entre aplicadores novos e agricultores seniores com décadas de experiência. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda mecanismos administrativos simplificados para emitir e renovar o cartão de aplicador.",
+  "Dá atenção especial às populações mais envelhecidas e com menor literacia digital.",
+  "O título menciona prolongar a validade da licença e a vitaliciedade para seniores, mas a parte resolutiva só pede simplificação administrativa.",
+  "Critica a falta de proporcionalidade do regime para agricultores com muita experiência."
+ ],
+ "plain_language": "Quem aplica produtos químicos na agricultura precisa de um cartão, obtido com formação e renovado de dez em dez anos. O CHEGA acha que isso pesa demasiado sobre agricultores mais velhos, com pouca prática digital. Pede ao Governo que torne mais simples tirar e renovar o cartão no meio rural. É apenas uma recomendação.",
+ "context": "O proponente afirma que o regime, que transpõe a Diretiva 2009/128/CE, é rigoroso mas gera encargos administrativos e logísticos, sem distinguir perfis etários ou experiência, o que afeta sobretudo a agricultura familiar e de pequena e média dimensão e pode levar à informalidade ou ao abandono da atividade.",
+ "analysis": "A preocupação com a burocracia para pequenos agricultores é legítima, e a proposta tem um alcance moderado, limitado à simplificação administrativa. Contudo, há uma divergência entre o título, que fala em vitaliciedade e prolongamento da licença, e o texto resolutivo, que não o pede. Qualquer isenção de renovação para seniores teria de respeitar a diretiva europeia e os objetivos de segurança alimentar e ambiental, o que o texto não discute. Não indica medidas concretas nem prazos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A simplificação administrativa recomendada não tem custos ou receitas indicados no texto."
+ },
+ "affected": [
+  "agricultores e aplicadores de fitofarmacêuticos",
+  "agricultores seniores",
+  "DGAV e entidades formadoras"
+ ],
+ "categories": [
+  "agricultura",
+  "administracao"
+ ],
+ "tags": [
+  "fitofarmacêuticos",
+  "cartão de aplicador",
+  "agricultura familiar",
+  "simplificação administrativa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

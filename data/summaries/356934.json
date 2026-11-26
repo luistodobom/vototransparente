@@ -1,0 +1,41 @@
+{
+ "short_title": "Reforço do IMI Familiar e regime reforçado nas Regiões Autónomas",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo quatro medidas sobre o IMI Familiar. Pede a revisão das deduções fixas do artigo 112.º-A do Código do IMI, adequando os montantes à realidade económica atual e aos objetivos de natalidade e apoio às famílias; um mecanismo de atualização periódica baseado em indicadores objetivos; um regime reforçado para os Açores e a Madeira, com deduções correspondentes a 1,45 vezes os valores nacionais, incluindo atualizações futuras; e a avaliação de uma eventual autonomização dos agregados com quatro ou mais dependentes. A exposição de motivos refere, a título indicativo, valores da ordem de 60, 120, 240 e 350 euros para agregados com um, dois, três e quatro ou mais dependentes.",
+ "key_points": [
+  "Rever as deduções fixas do IMI Familiar (artigo 112.º-A do Código do IMI).",
+  "Criar um mecanismo de atualização periódica das deduções.",
+  "Fixar nos Açores e na Madeira deduções iguais a 1,45 vezes os montantes nacionais.",
+  "Avaliar a autonomização dos agregados com quatro ou mais dependentes."
+ ],
+ "plain_language": "O IMI Familiar dá um pequeno desconto no imposto da casa a quem tem filhos. O JPP pede ao Governo que aumente esses descontos, que os atualize com o tempo para não perderem valor e que, nos Açores e na Madeira, sejam 45% mais altos por causa dos custos de viver nas ilhas. É uma recomendação ao Governo, não uma lei.",
+ "context": "O proponente invoca o aumento do custo de vida e a necessidade de políticas de natalidade, e afirma que uma família com três filhos continua limitada a uma dedução fixa máxima de 140 euros anuais, valor que considera insuficiente. Defende também que o regime atual não reconhece os sobrecustos da insularidade nas Regiões Autónomas.",
+ "analysis": "A medida é fácil de aplicar e dá previsibilidade com a atualização automática. Fragilidades: o IMI é receita dos municípios, e o texto não explica como seriam compensados; os valores indicados são meramente indicativos; e o benefício é limitado a quem tem imóvel próprio, não abrangendo arrendatários. O fator 1,45 nas regiões não é justificado por estudo de custos. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Deduções mais altas e atualizáveis reduzem a receita de IMI, que é municipal; o texto não quantifica a perda nem a compensação."
+ },
+ "affected": [
+  "famílias com dependentes proprietárias de habitação",
+  "famílias dos Açores e da Madeira",
+  "municípios"
+ ],
+ "categories": [
+  "fiscalidade",
+  "familia",
+  "territorio"
+ ],
+ "tags": [
+  "imi familiar",
+  "natalidade",
+  "regiões autónomas",
+  "deduções fiscais",
+  "famílias numerosas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

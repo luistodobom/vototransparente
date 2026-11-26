@@ -1,0 +1,38 @@
+{
+ "short_title": "Revisão e valorização da carreira especial de fiscalização",
+ "summary": "O projeto de resolução do PSD recomenda ao Governo duas medidas relativas à Carreira Especial de Fiscalização, criada pelo Decreto-Lei n.º 114/2019: rever a remuneração base inicial aplicável e assegurar a implementação de um sistema de cartão de identificação específico para estes profissionais, de modo a serem claramente reconhecidos como autoridade fiscalizadora na via pública. O texto considera que a alteração introduzida pelo Decreto-Lei n.º 84-F/2022 foi um retrocesso na progressão de carreira e nas tabelas remuneratórias, e salienta as exigências de qualificação, formação contínua e complexidade das funções, em áreas como o urbanismo, a ocupação do espaço público e o ambiente. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda a revisão da remuneração base inicial da Carreira Especial de Fiscalização.",
+  "Recomenda um sistema de cartão de identificação específico para estes profissionais.",
+  "Considera que o Decreto-Lei n.º 84-F/2022 foi um retrocesso na progressão e nas tabelas remuneratórias."
+ ],
+ "plain_language": "O PSD pede ao Governo que melhore o salário inicial dos fiscais municipais e lhes dê um cartão de identificação próprio, para serem reconhecidos como autoridade na rua. Defende que as regras de 2022 prejudicaram a progressão na carreira e que a função exige muita formação. É apenas uma recomendação.",
+ "context": "O proponente reconhece o avanço do regime de 2019, mas afirma que o Decreto-Lei n.º 84-F/2022 trouxe um retrocesso, sobretudo nas tabelas remuneratórias. Sublinha a complexidade e o grau de qualificação exigidos aos fiscais e a necessidade de os identificar claramente na via pública, para reforçar a transparência e a confiança.",
+ "analysis": "A proposta é concreta e de alcance limitado, e combina valorização salarial com identificação profissional, o que pode reforçar a legitimidade da fiscalização. Fragilidades: não indica o valor da nova remuneração nem o custo, que recairia sobretudo sobre as autarquias; e não aborda a progressão, que o próprio texto aponta como problema. A medida do cartão não esclarece quem o emite nem o seu valor legal. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A revisão da remuneração base inicial aumentaria a despesa com pessoal, sobretudo nas autarquias. O texto não indica montantes."
+ },
+ "affected": [
+  "fiscais municipais",
+  "autarquias",
+  "cidadãos fiscalizados"
+ ],
+ "categories": [
+  "administracao",
+  "trabalho"
+ ],
+ "tags": [
+  "carreira de fiscalização",
+  "fiscais municipais",
+  "remuneração",
+  "cartão de identificação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

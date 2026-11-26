@@ -1,0 +1,41 @@
+{
+ "short_title": "Revogar a autorização das dragagens no Sado",
+ "summary": "O PAN propõe que a Assembleia da República recomende ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal e Sesimbra para avançar com as dragagens no rio Sado. O projeto prevê movimentar 6 500 000 m3 de areia para aumentar a capacidade do porto em contentores. O texto sustenta que estas dragagens não têm precedente (a fase A removeria 3 467 518 m3, contra 680 523 m3 em 2010-2015), ocorrem junto a áreas protegidas e têm lacunas no estudo de impacte ambiental, com riscos para pradarias marinhas, peixes, aves e golfinhos-roazes. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda ao Governo que revogue, sem mais, a autorização para as dragagens no Sado.",
+  "Alega que as dragagens são muito superiores às de manutenção e se situam junto a zonas protegidas.",
+  "Aponta lacunas no estudo de impacte ambiental, como a falta de informação sobre ruído, tráfego e impactos subavaliados.",
+  "Refere a remoção do afloramento 'Pedra Furada', classificado como geomonumento, sem parecer cultural."
+ ],
+ "plain_language": "O PAN pede ao Governo que cancele a autorização para dragar o rio Sado, em Setúbal, por receio dos danos para a natureza, em especial para os golfinhos, peixes e aves do estuário. Considera que o estudo ambiental tem falhas importantes. É apenas uma recomendação, sem obrigar o Governo.",
+ "context": "O proponente defende que o projeto de melhoria da acessibilidade marítima, destinado a aumentar a capacidade do porto, afeta zonas protegidas ao abrigo das diretivas Habitats e Aves, e que a avaliação de impacte ambiental, embora favorável condicionada, apresenta lacunas e medidas mitigadoras insuficientes. Refere também uma ação judicial de uma associação local.",
+ "analysis": "O texto reúne informação detalhada retirada do estudo e do parecer da comissão de avaliação, o que reforça a fundamentação ambiental. Contudo, não pondera benefícios económicos do porto nem o custo de revogar uma autorização já concedida (eventuais indemnizações). A revogação 'sem mais' é abrupta e não prevê alternativa, como condicionar a obra a estudos adicionais. Há afirmações sobre falta de transparência sem prova apresentada no documento. Como recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica os custos; a revogação poderia gerar custos ou indemnizações, mas o texto não os indica."
+ },
+ "affected": [
+  "Administração do Porto de Setúbal e Sesimbra",
+  "pescadores",
+  "população de Setúbal",
+  "setor do turismo local"
+ ],
+ "categories": [
+  "ambiente",
+  "transportes",
+  "agricultura"
+ ],
+ "tags": [
+  "dragagens",
+  "estuário do Sado",
+  "Rede Natura 2000",
+  "porto de Setúbal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Carreira especial de médico dentista no SNS (recomendação)",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que inicie, no prazo de 30 dias, o processo de negociação coletiva com as organizações representativas dos trabalhadores para criar a carreira especial de médico dentista no SNS. Recomenda ainda que garanta a integração, na carreira, dos médicos dentistas com funções permanentes em unidades do SNS, independentemente do vínculo; que contrate profissionais para abrir os gabinetes de medicina dentária já instalados e equipados; e que reforce a resposta pública em saúde oral em todo o território, com mais gabinetes nos cuidados de saúde primários e mais profissionais. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Iniciar em 30 dias a negociação coletiva para criar a carreira especial de médico dentista.",
+  "Integrar na carreira os médicos dentistas com funções permanentes no SNS, independentemente do vínculo.",
+  "Contratar profissionais para abrir os gabinetes de medicina dentária já instalados e equipados.",
+  "Alargar gabinetes e contratação de médicos dentistas, higienistas orais e outros profissionais nos cuidados de saúde primários."
+ ],
+ "plain_language": "O PCP pede ao Governo que comece em 30 dias a negociar com os sindicatos uma carreira própria para os dentistas do SNS, que inclua os que lá trabalham hoje, e que contrate profissionais para abrir os gabinetes dentários que estão equipados mas fechados. O objetivo é que mais pessoas tenham acesso a cuidados de saúde oral no serviço público.",
+ "context": "O PCP invoca o Barómetro da Saúde Oral 2025, segundo o qual 28,5% da população nunca foi ou só vai em emergência ao dentista, e critica o cheque-dentista, que cerca de 40% dos beneficiários não utilizam. Refere cerca de 150 dentistas no SNS, muitos a recibos verdes, e gabinetes equipados mas fechados, indicando como objetivo 1 médico dentista por cada 2000 utentes.",
+ "analysis": "A proposta aposta na negociação coletiva antes de fixar a carreira, o que respeita os direitos dos trabalhadores mas adia a definição de conteúdo, categorias e remunerações. A meta de 1 médico dentista por 2000 utentes aparece na exposição mas não nas recomendações, que não fixam calendário de contratação nem metas de cobertura. A resolução não vincula o Governo e não quantifica custos, o que dificulta avaliar o seu impacto orçamental e a capacidade de recrutamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação da carreira, a integração de profissionais e a contratação para abrir gabinetes implicam despesa com pessoal no SNS, que o texto não quantifica."
+ },
+ "affected": [
+  "Médicos dentistas do SNS",
+  "Utentes do SNS",
+  "Higienistas orais"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "médico dentista",
+  "carreira especial",
+  "saúde oral",
+  "negociação coletiva"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

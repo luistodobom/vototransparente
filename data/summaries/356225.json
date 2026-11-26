@@ -1,0 +1,41 @@
+{
+ "short_title": "Reembolso de despesas de funeral para menores e incapacitados",
+ "summary": "O Chega propõe alterar o artigo 54.º do Decreto-Lei n.º 322/90 para alargar o reembolso das despesas de funeral, hoje associado à carreira contributiva, a menores e a pessoas com incapacidade permanente e absoluta para o trabalho. O novo n.º 5 equipara a morte, para efeitos do reembolso, a de feto a partir das 22 semanas de gestação, de pessoa até aos 18 anos, inclusive, e de pessoas em idade ativa sem capacidade declarada para trabalhar por incapacidade permanente e absoluta. O texto parte de um caso mediático de uma família à qual foi negado o reembolso e de uma petição à Assembleia. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Alarga o reembolso das despesas de funeral a menores até 18 anos inclusive.",
+  "Inclui a morte de feto a partir das 22 semanas de gestação.",
+  "Inclui pessoas em idade ativa com incapacidade permanente e absoluta para o trabalho.",
+  "Altera o artigo 54.º do Decreto-Lei n.º 322/90.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje o reembolso das despesas de um funeral depende de a pessoa ter descontado. A proposta faz com que crianças, bebés a partir das 22 semanas de gravidez e pessoas incapazes de trabalhar passem a ter direito ao reembolso das despesas reais.",
+ "context": "O proponente aponta que o custo médio de um funeral ultrapassa facilmente dois ou três mil euros e que a ausência formal de carreira contributiva de crianças as exclui do reembolso, deixando o subsídio fixo, muito reduzido. Cita um caso noticiado e uma petição como prova de falha estrutural.",
+ "analysis": "Atua no regime de reembolso, o que cobre o custo real, e protege situações de grande vulnerabilidade. Fragilidades: não indica o limite do reembolso, que parece depender do regime atual (cerca de 3 IAS); não estima o custo orçamental; e a redação do n.º 5 mistura categorias, o que pode gerar dúvidas sobre o regime aplicável a adultos incapazes.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta a despesa da Segurança Social ao abranger novos beneficiários no reembolso de despesas de funeral. O texto não apresenta estimativa."
+ },
+ "affected": [
+  "famílias de menores falecidos",
+  "pessoas com incapacidade permanente",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia",
+  "direitos"
+ ],
+ "tags": [
+  "reembolso de funeral",
+  "segurança social",
+  "incapacidade",
+  "menores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

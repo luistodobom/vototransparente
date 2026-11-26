@@ -1,0 +1,41 @@
+{
+ "short_title": "Maior celeridade na justiça administrativa e fiscal",
+ "summary": "O projeto de lei do PAN altera o Código de Processo nos Tribunais Administrativos, o Código de Procedimento e de Processo Tributário e o Regulamento das Custas Processuais para acelerar os processos administrativos e fiscais. Permite ao juiz convidar as partes a apresentar um projeto instrutório conjunto com os factos assentes e controvertidos, com redução a metade das custas se houver acordo sobre todos os factos relevantes. Prevê sentenças simplificadas em causas simples ou já uniformemente decididas, com fundamentação sumária por remissão para decisões anteriores. Cria incentivos financeiros, como a isenção de 50% das taxas de justiça quando a pretensão é satisfeita no prazo de contestação, e isenções de custas em caso de transação ou satisfação da pretensão durante o processo. Alarga em 10 dias o prazo para a nota de custas de parte.",
+ "key_points": [
+  "Projeto instrutório conjunto: o juiz pode convidar as partes a indicar, em 20 dias, os factos assentes e controvertidos, com custas reduzidas a metade se houver acordo total sobre os factos.",
+  "Sentença simplificada: remissão para peças processuais ou decisões anteriores em causas simples ou já apreciadas de forma uniforme.",
+  "Isenção de 50% das taxas de justiça de ambas as partes se a pretensão for integralmente satisfeita no prazo de contestação ou resposta.",
+  "Isenção quase total de custas em caso de transação ou satisfação da pretensão na pendência do processo, e isenção parcial se a satisfação for parcial.",
+  "O ofício de citação passa a mencionar as isenções previstas e o prazo para a nota de custas de parte aumenta 10 dias."
+ ],
+ "plain_language": "Os processos nos tribunais administrativos e fiscais demoram muito. Esta proposta tenta encurtá-los: o juiz pode pedir às partes que se entendam sobre os factos, as sentenças podem ser mais curtas quando o caso é simples e quem resolve o litígio cedo, por exemplo o Estado ou uma autarquia que dá razão ao cidadão, paga menos custas judiciais.",
+ "context": "O PAN invoca dados da Comissão Europeia segundo os quais o tempo estimado para resolver litígios administrativos e tributários em primeira instância é de 846 dias, o que coloca Portugal no topo da União Europeia, e a baixa confiança dos cidadãos no sistema legal. Defende medidas pontuais, inspiradas em vários países europeus, para reduzir pendências.",
+ "analysis": "Os incentivos à resolução antecipada e a simplificação das sentenças têm precedentes noutros países e podem aliviar tribunais sobrecarregados. Contudo, os efeitos são incertos: dependem da vontade das partes, em particular da Administração, de acordar factos ou satisfazer pretensões. As isenções de custas podem reduzir receita judicial, e a fundamentação sumária por remissão pode suscitar questões de qualidade e de garantia das partes. O texto não quantifica a poupança de tempo nem o impacto orçamental esperados.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As isenções e reduções de custas e taxas de justiça diminuem a receita dos tribunais, sem que o texto quantifique o impacto nem eventuais poupanças."
+ },
+ "affected": [
+  "litigantes nos tribunais administrativos e fiscais",
+  "contribuintes",
+  "Administração Pública",
+  "magistrados e advogados"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "justiça administrativa",
+  "custas processuais",
+  "celeridade processual",
+  "tribunais fiscais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

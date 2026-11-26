@@ -1,0 +1,44 @@
+{
+ "short_title": "Execução nacional do regulamento europeu de criptoativos (MiCA)",
+ "summary": "Proposta de lei do Governo que executa em Portugal o Regulamento (UE) 2023/1114 (MiCA), sobre mercados de criptoativos. Reparte a supervisão entre o Banco de Portugal (criptofichas referenciadas a ativos, criptofichas de moeda eletrónica e prestadores de serviços) e a CMVM (ofertas de outros criptoativos e abuso de mercado), define pontos de contacto e cooperação e regula a autorização e a divulgação dos prestadores. Reforça a proteção dos detentores com ação popular, reclamações e resolução alternativa de litígios. Cria um regime sancionatório com coimas de 25 000 a 5 000 000 de euros para pessoas coletivas em infrações muito graves, sanções acessórias e medidas cautelares, e um regime transitório até 30 de dezembro de 2025 para entidades registadas no Banco de Portugal. Altera o Código dos Valores Mobiliários e o livro de reclamações.",
+ "key_points": [
+  "O Banco de Portugal e a CMVM são as autoridades competentes e pontos de contacto, com deveres de cooperação e prazo de dois dias úteis para o Banco comunicar à CMVM pedidos de autorização.",
+  "Prestadores têm de assegurar a competência dos colaboradores que dão consultoria e aderir a pelo menos duas entidades de resolução alternativa de litígios, no prazo de três meses após o início da atividade.",
+  "Associações de detentores de criptoativos têm direito de ação popular se registadas na CMVM, com pelo menos 100 associados não profissionais e mais de um ano de atividade.",
+  "Coimas: 25 000 a 5 000 000 de euros (pessoas coletivas, muito graves) e 12 500 a 2 500 000 de euros (graves), com máximo elevado ao triplo do benefício económico; sanções acessórias incluem interdições até 3 e 10 anos e publicação da decisão.",
+  "Medidas cautelares como suspensão preventiva e congelamento de criptoativos, e divulgação das condenações durante cinco anos.",
+  "Transição: entidades registadas no Banco de Portugal a 30 de dezembro de 2024 podem operar até 30 de dezembro de 2025 ou até decisão de autorização; os registos sem atividade iniciada caducaram."
+ ],
+ "plain_language": "A UE criou regras comuns para quem vende ou guarda criptomoedas. Esta proposta diz, em Portugal, quem as fiscaliza (Banco de Portugal e CMVM), como se obtém autorização, que direitos têm os clientes, incluindo queixas e ações coletivas, e que multas se aplicam. Quem já estava registado no Banco de Portugal pode continuar a operar até ao fim de 2025 ou até decisão sobre a autorização.",
+ "context": "O Governo explica que o MiCA cria regras uniformes para ofertas, emitentes de criptofichas e prestadores de serviços de criptoativos, com proteção dos detentores, integridade dos mercados e estabilidade financeira. A lei nacional é necessária para designar autoridades, definir sanções, proteger detentores e prever a transição de quem já operava com registo no Banco de Portugal.",
+ "analysis": "A proposta dá segurança jurídica, concretiza a supervisão repartida e reforça a proteção dos investidores com mecanismos concretos, como a ação popular e a resolução alternativa de litígios. Fragilidades: a repartição de competências entre duas autoridades exige boa articulação; o regime transitório mantém temporariamente operadores sem autorização MiCA; a ação popular exige requisitos que podem limitar quem a pode exercer; e a inclusão do financiamento colaborativo na supervisão da CMVM é um alargamento de âmbito pouco relacionado com o tema. Não há avaliação de custos de supervisão.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa orçamental. Podem existir custos de supervisão e receita de coimas, sem montantes indicados."
+ },
+ "affected": [
+  "prestadores de serviços de criptoativos",
+  "detentores e investidores em criptoativos",
+  "Banco de Portugal e CMVM",
+  "plataformas de financiamento colaborativo"
+ ],
+ "categories": [
+  "economia",
+  "consumidores",
+  "internacional"
+ ],
+ "tags": [
+  "criptoativos",
+  "mica",
+  "regime sancionatório",
+  "cmvm",
+  "proteção do investidor"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

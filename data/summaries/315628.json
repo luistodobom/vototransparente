@@ -1,0 +1,43 @@
+{
+ "short_title": "Prevenção da adição à raspadinha",
+ "summary": "Projeto de Lei do BE que altera o Decreto-Lei n.º 314/94, que autorizou a Santa Casa da Misericórdia de Lisboa a explorar em exclusivo a lotaria instantânea («raspadinha»). Aditando o artigo 6.º, restringe a lotaria instantânea a um único tipo de jogo, com denominação própria, a partir de 1 de janeiro de 2027, proibindo a emissão de jogos autónomos com diferentes denominações e identidades visuais. Determina ainda que o Governo, em articulação com a Santa Casa, crie mecanismos de autoexclusão em lojas físicas e que regulamente a lei em 30 dias. Entra em vigor no dia seguinte ao da publicação, com efeitos a partir do Orçamento do Estado subsequente.",
+ "key_points": [
+  "A partir de 1 de janeiro de 2027, a lotaria instantânea fica limitada a um único jogo com denominação própria.",
+  "Fica proibida a emissão de jogos autónomos com denominações e identidades visuais diferentes.",
+  "O Governo e a Santa Casa devem criar mecanismos de autoexclusão em lojas físicas.",
+  "O Governo regulamenta a lei no prazo de 30 dias.",
+  "Entrada em vigor no dia seguinte ao da publicação, com efeitos com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "O BE quer reduzir o vício na «raspadinha». Propõe que, a partir de 2027, exista um só tipo de raspadinha, em vez de muitos jogos com nomes e imagens diferentes, e que quem queira possa pedir para ser impedido de jogar também nas lojas físicas, como já acontece nos casinos e online.",
+ "context": "O proponente cita estudos que indicam que a raspadinha afeta sobretudo a população com menos rendimentos e escolaridade e refere que 76,6% dos consumidores eram de classe média baixa e baixa, segundo um estudo da própria Santa Casa de 2019. Considera que tornar a oferta menos apelativa reduz a procura e o risco de adição.",
+ "analysis": "A proposta ataca a variedade da oferta, que o proponente associa ao incentivo ao jogo, e estende a autoexclusão, já existente noutros jogos, às lojas físicas. É, porém, difícil operacionalizar a autoexclusão presencial, que exige identificação do jogador e um registo centralizado, e o texto remete tudo para regulamentação em 30 dias, prazo curto. A ligação entre diversidade de jogos e adição é suportada pelo texto apenas por argumento geral, e a redução da oferta pode afetar as receitas da Santa Casa, que financiam ação social, sem o projeto avaliar esse efeito.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A redução prevista da procura de raspadinhas pode diminuir as receitas da Santa Casa da Misericórdia de Lisboa; o texto não quantifica o efeito nem os custos do sistema de autoexclusão."
+ },
+ "affected": [
+  "jogadores de raspadinha",
+  "pessoas em risco de jogo patológico",
+  "Santa Casa da Misericórdia de Lisboa",
+  "pontos de venda"
+ ],
+ "categories": [
+  "saude",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "raspadinha",
+  "lotaria instantânea",
+  "autoexclusão",
+  "jogo",
+  "Santa Casa"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

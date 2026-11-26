@@ -1,0 +1,40 @@
+{
+ "short_title": "Internato Médico como categoria de ingresso na Carreira Médica",
+ "summary": "Este projeto de resolução do Bloco de Esquerda recomenda ao Governo que, em articulação com as organizações representativas do setor, reintegre o internato médico como categoria de ingresso na Carreira Médica, e que tome medidas para fixar no SNS os médicos recém-licenciados, evitando a desvinculação precoce e promovendo a sua formação específica. É uma recomendação não vinculativa, que visa tornar o SNS mais atrativo para os médicos em início de carreira.",
+ "key_points": [
+  "Reintegrar o internato médico como categoria de ingresso na Carreira Médica.",
+  "Fazê-lo em articulação com as organizações representativas do setor.",
+  "Tomar medidas para fixar no SNS os médicos recém-licenciados.",
+  "Evitar a desvinculação precoce e promover a formação específica."
+ ],
+ "plain_language": "O Bloco de Esquerda pede que os médicos internos voltem a fazer parte da carreira médica do SNS e que o Estado tome medidas para que os jovens médicos fiquem no serviço público. O Governo não é obrigado a seguir.",
+ "context": "O BE aponta dificuldades de captação e fixação de médicos no SNS, concursos desertos, e o aumento de utentes sem médico de família de 655 mil em outubro de 2019 para mais de 1,5 milhões no final de 2024. Refere que cerca de 70% das vagas do último concurso para recém-especialistas ficaram por preencher e defende a melhoria das carreiras.",
+ "analysis": "A medida responde a uma reivindicação antiga dos sindicatos e aborda a retenção de jovens médicos. Contudo, o texto não explica como a reintegração na carreira alteraria salários, vínculos ou condições, nem estima custos ou o efeito real na fixação, que depende de remuneração e condições de trabalho. As medidas de fixação ficam genéricas. Sendo recomendação, depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Integrar os internos na carreira e reforçar a fixação implicaria maior despesa com pessoal no SNS. O texto não apresenta montantes."
+ },
+ "affected": [
+  "médicos internos",
+  "médicos recém-especialistas",
+  "utentes do SNS",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "internato médico",
+  "carreira médica",
+  "SNS",
+  "fixação de médicos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

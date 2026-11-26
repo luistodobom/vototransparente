@@ -1,0 +1,39 @@
+{
+ "short_title": "Classificação do arquivo do Jornal de Notícias",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo diligências para proteger o Centro de Documentação (arquivo) do «Jornal de Notícias». O arquivo é composto por milhares de pastas temáticas e biográficas, recortes, fotografias e as chamadas «provas à censura» do período anterior a 1974. O texto propõe que o Governo avalie o acervo existente nas instalações da empresa, desenvolva medidas para recuperar peças que tenham sido retiradas, proceda à classificação do arquivo e garanta a sua integridade em instalações próprias, afetas à Redação e acessíveis a jornalistas, investigadores e público. Trata-se de uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Avaliar o acervo documental do arquivo do JN existente nas instalações da empresa.",
+  "Recuperar partes ou peças do acervo eventualmente subtraídas.",
+  "Classificar o Arquivo do JN.",
+  "Garantir a integridade do arquivo em instalações próprias, acessíveis a jornalistas, investigadores e público."
+ ],
+ "plain_language": "O Parlamento pede ao Governo que proteja o arquivo histórico do Jornal de Notícias, que guarda documentos, fotografias e provas da censura. Quer que se faça um levantamento do que existe, se tentem recuperar peças em falta, se classifique o arquivo como património e se garanta que fica bem guardado e acessível a quem o queira consultar. É apenas uma recomendação.",
+ "context": "Os proponentes invocam o alerta do Conselho de Redação, de setembro de 2022, sobre o risco de abandono, desagregação e dispersão do arquivo, que consideram um acervo único para a memória coletiva local, regional e nacional, incluindo material da época da Censura.",
+ "analysis": "A iniciativa tem o mérito de chamar a atenção para a preservação de um acervo de valor histórico e de propor medidas concretas e ordenadas. Fragilidades: é uma recomendação não vinculativa, não identifica o estado atual do arquivo nem quem é o proprietário a quem caberia agir, nem prevê prazos, meios ou financiamento. Não esclarece como se articulam a classificação, que implica intervenção sobre bens de uma empresa privada, e a instalação própria exigida.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica custos nem fontes de financiamento. A avaliação, classificação e guarda do arquivo poderão implicar despesa pública, mas não está quantificada."
+ },
+ "affected": [
+  "Jornal de Notícias e os seus jornalistas",
+  "investigadores e académicos",
+  "público em geral"
+ ],
+ "categories": [
+  "cultura",
+  "comunicacao"
+ ],
+ "tags": [
+  "arquivo",
+  "jornal de notícias",
+  "património",
+  "censura"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

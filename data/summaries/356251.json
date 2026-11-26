@@ -1,0 +1,43 @@
+{
+ "short_title": "Novo Estatuto do Mecenato Cultural",
+ "summary": "Projeto de Lei do CHEGA que aprova um Estatuto do Mecenato Cultural autónomo, revogando o artigo 62.º-B do Estatuto dos Benefícios Fiscais. Define o âmbito, as entidades beneficiárias, os projetos elegíveis e o reconhecimento do interesse cultural por declaração do membro do Governo da Cultura. Em IRS, prevê deduções à coleta de 40% (30% com limite de 25% da coleta nos restantes casos); em IRC e categoria B do IRS, gastos majorados em 140%, ou 160% no mecenato plurianual de pelo menos três anos ou em projetos de interesse estratégico. Prevê crédito fiscal de 30% para não residentes, contrato plurianual, regras de transparência e bases de dados geridas pelo GEPAC. Entra em vigor com o Orçamento do Estado subsequente.",
+ "key_points": [
+  "Estatuto autónomo do mecenato cultural, com revogação do artigo 62.º-B do Estatuto dos Benefícios Fiscais.",
+  "IRS: dedução de 40% dos donativos (30%, até 25% da coleta, nos restantes casos), com reporte do excedente por três anos.",
+  "IRC e categoria B do IRS: gastos majorados em 140%, ou 160% no mecenato plurianual e em projetos de interesse estratégico.",
+  "Crédito fiscal de 30% para apoios de não residentes a entidades portuguesas.",
+  "Contratos plurianuais, publicitação anual dos apoios e bases de dados geridas pelo GEPAC e pelo ICA.",
+  "Reconhecimento do interesse cultural por declaração do membro do Governo da Cultura."
+ ],
+ "plain_language": "O CHEGA propõe uma nova lei para o mecenato cultural, com benefícios fiscais mais generosos para quem doa dinheiro ou bens à cultura e ao património. Particulares e empresas poderiam abater mais impostos, sobretudo em apoios de vários anos, e haveria regras de transparência e uma base de dados dos apoios.",
+ "context": "O proponente defende que o regime atual do artigo 62.º-B é insuficiente para mobilizar recursos privados, com majorações pouco estimulantes e pouca previsibilidade. Cita regimes de França (Lei Aillagon), Itália (Art Bonus) e outros países como exemplos de incentivos mais atrativos e simples.",
+ "analysis": "A proposta cria um quadro único e previsível, com incentivos a apoios plurianuais e regras de transparência e controlo. Fragilidades: o aumento das deduções e majorações reduz receita fiscal sem estimativa do custo nem avaliação do efeito nos donativos; os benefícios favorecem sobretudo contribuintes de maior rendimento e grandes empresas; o reconhecimento de interesse por despacho ministerial concentra poder discricionário. O projeto sobrepõe-se a outras iniciativas do Governo sobre o mesmo regime, que o texto não articula.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As deduções à coleta, as majorações de gastos e o crédito fiscal para não residentes reduzem a receita de IRS e IRC; o texto não apresenta estimativa do custo."
+ },
+ "affected": [
+  "mecenas particulares e empresas",
+  "entidades culturais beneficiárias",
+  "artistas e criadores",
+  "Autoridade Tributária e GEPAC"
+ ],
+ "categories": [
+  "cultura",
+  "fiscalidade"
+ ],
+ "tags": [
+  "mecenato cultural",
+  "benefícios fiscais",
+  "IRC",
+  "IRS",
+  "património"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

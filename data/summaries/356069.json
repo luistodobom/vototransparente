@@ -1,0 +1,41 @@
+{
+ "short_title": "Atualizar apoios às Unidades de Cuidados Continuados em 2026",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo que atualize os valores dos apoios a pagar às Unidades de Cuidados Continuados Integrados em 2026, tendo por base os valores calculados pela Associação Nacional dos Cuidados Continuados. A exposição de motivos refere o aumento previsto dos custos (alimentação, medicação, energia e salário mínimo nacional de 920 euros), as dificuldades de sustentabilidade financeira das unidades do setor social, o congelamento dos preços entre 2011 e 2019 e em 2020 e 2021, e o incumprimento de atualizações previstas nas portarias aplicáveis.",
+ "key_points": [
+  "Atualizar os valores dos apoios às Unidades de Cuidados Continuados Integrados em 2026.",
+  "Usar como base os valores calculados pela Associação Nacional dos Cuidados Continuados.",
+  "Invocar o aumento de custos, incluindo o salário mínimo nacional de 920 euros.",
+  "Recordar o congelamento de preços entre 2011 e 2019 e em 2020 e 2021."
+ ],
+ "plain_language": "As unidades que cuidam de doentes em recuperação ou dependentes recebem do Estado um valor por doente e por dia. O CDS-PP pede ao Governo que o aumente em 2026 para acompanhar a subida dos custos, para as unidades não fecharem. É uma recomendação.",
+ "context": "O CDS-PP afirma que as unidades do setor social estavam em dificuldades no final de 2025 e que os preços chegaram a estar congelados durante vários anos. Recorda a atualização prevista nas portarias, um compromisso de 7,8% para 2024 que acabou em 2,4%, e a atualização extraordinária para unidades de longa duração em maio de 2025.",
+ "analysis": "O pedido assenta em dados concretos sobre preços congelados e compromissos não cumpridos, e tem apoio num regime que prevê atualização anual. Fragilidades: não indica o valor da atualização nem o custo, remete para cálculos de uma associação do setor, e o texto atribui responsabilidades a governos anteriores com linguagem política. Sendo resolução, não vincula o Governo, e o aumento dos apoios depende de dotação orçamental.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Atualizar os valores pagos por utente e dia às unidades implica mais despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Unidades de Cuidados Continuados Integrados",
+  "utentes da RNCCI",
+  "profissionais do setor social",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "cuidados continuados",
+  "RNCCI",
+  "financiamento",
+  "setor social",
+  "salário mínimo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

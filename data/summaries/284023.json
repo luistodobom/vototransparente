@@ -1,0 +1,39 @@
+{
+ "short_title": "Regulamento da Comissão Permanente",
+ "summary": "Projeto de Resolução do Presidente da Assembleia da República que aprova o Regulamento da Comissão Permanente, em anexo. O regulamento define o funcionamento, a composição (presidida pelo Presidente da Assembleia, com os Vice-Presidentes e deputados de todos os partidos, segundo a representatividade) e a Mesa, com dois secretários propostos pelos dois maiores grupos parlamentares. Fixa as competências do Presidente e dos secretários, as reuniões ordinárias e extraordinárias, a convocação com 24 horas de antecedência, a ordem de trabalhos, o uso da palavra, a publicação no Diário da Assembleia da República, a publicidade das reuniões e a aplicação subsidiária do Regimento. Entra em vigor após aprovação.",
+ "key_points": [
+  "Composição: Presidente da Assembleia, Vice-Presidentes e deputados de todos os partidos com assento parlamentar.",
+  "Mesa com o Presidente e dois secretários, propostos pelos dois maiores grupos parlamentares.",
+  "Reuniões ordinárias fixadas pela Conferência de Líderes, e extraordinárias por convocação do Presidente ou requerimento de grupo parlamentar.",
+  "Convocação com 24 horas de antecedência, por escrito, com ordem de trabalhos.",
+  "Reuniões públicas, com relato publicado na 1.ª série do Diário da Assembleia da República."
+ ],
+ "plain_language": "A Comissão Permanente é o órgão que funciona quando o Parlamento está fora de funcionamento normal, por exemplo nas férias. Este texto define as regras do seu funcionamento: quem a integra, como se convocam e se realizam as reuniões e que são públicas.",
+ "context": "O texto não inclui exposição de motivos. Invoca o n.º 5 do artigo 166.º da Constituição e remete para o artigo 39.º do Regimento e para as competências previstas no n.º 3 do artigo 179.º da Constituição.",
+ "analysis": "É um regulamento interno de natureza organizativa, que dá previsibilidade e transparência ao funcionamento da Comissão, incluindo a publicidade das reuniões e do relato. A composição concreta e a distribuição por partidos ficam para resolução própria, pelo que o texto isolado não permite avaliar a representatividade. Não há alterações de fundo às competências, que decorrem da Constituição e do Regimento.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Regulamento interno sem efeitos financeiros indicados no texto."
+ },
+ "affected": [
+  "deputados membros da Comissão Permanente",
+  "grupos parlamentares",
+  "serviços da Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "comissão permanente",
+  "regulamento",
+  "regimento",
+  "assembleia da república"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

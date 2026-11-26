@@ -1,0 +1,41 @@
+{
+ "short_title": "Medidas urgentes para pessoas com Esclerose Lateral Amiotrófica",
+ "summary": "Este projeto de resolução do CDS-PP recomenda ao Governo quatro medidas para melhorar as condições de vida das pessoas com Esclerose Lateral Amiotrófica (ELA). Pede campanhas de consciencialização sobre a doença, em colaboração com serviços de saúde, escolas e autarquias; a avaliação do custo mensal médio de cada doente com medicamentos e outros bens necessários ao seu bem-estar; a comparticipação gradual, até à totalidade, desses bens e medicamentos até ao final da legislatura; e a inclusão da ELA no elenco de doenças abrangidas pela dispensa de junta médica. O texto descreve a doença, estima que haja pelo menos 1.200 pessoas diagnosticadas em Portugal e refere uma esperança de vida média de cerca de 5 anos.",
+ "key_points": [
+  "Promover campanhas de consciencialização com serviços de saúde, escolas e autarquias.",
+  "Avaliar o custo mensal médio por doente com medicamentos e bens necessários.",
+  "Comparticipar gradualmente, até à totalidade e até ao final da legislatura, esses bens e medicamentos.",
+  "Incluir a ELA nas doenças com dispensa de junta médica."
+ ],
+ "plain_language": "A ELA é uma doença que vai enfraquecendo os músculos e, em muitos casos, impede de andar, falar e respirar. O CDS-PP pede ao Governo que informe melhor a população, calcule quanto custa por mês cada doente em medicamentos e outros bens, passe a pagar tudo isso pelo Estado de forma gradual e dispense os doentes de juntas médicas para provar a doença. É uma recomendação ao Governo.",
+ "context": "O texto limita-se a descrever a ELA como doença neurológica rara e degenerativa, com pelo menos 1.200 pessoas diagnosticadas em Portugal, sintomas progressivos e falência respiratória como principal causa de morte. A partir daí propõe medidas de sensibilização, de apoio financeiro e administrativo, sem desenvolver uma justificação detalhada de cada uma.",
+ "analysis": "As medidas são concretas e dirigidas a um custo real para os doentes, e o calendário gradual até ao fim da legislatura é razoável. Fragilidades: a comparticipação até à totalidade não define quais os bens abrangidos nem o custo, que o próprio texto pede para avaliar primeiro; não aborda cuidados multidisciplinares, produtos de apoio nem apoio a cuidadores, referidos noutras iniciativas; e não fundamenta a medida da junta médica. Como projeto de resolução, é uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A comparticipação progressiva até à totalidade de medicamentos e bens implica despesa pública crescente; o texto pede primeiro a sua avaliação e não apresenta valores."
+ },
+ "affected": [
+  "pessoas com ELA",
+  "famílias e cuidadores",
+  "utentes do SNS",
+  "serviços de saúde e autarquias"
+ ],
+ "categories": [
+  "saude",
+  "familia"
+ ],
+ "tags": [
+  "ela",
+  "comparticipação",
+  "junta médica",
+  "consciencialização",
+  "doenças raras"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

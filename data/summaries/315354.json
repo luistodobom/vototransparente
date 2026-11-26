@@ -1,0 +1,38 @@
+{
+ "short_title": "Fim da condição para a majoração fiscal de aumentos salariais",
+ "summary": "Proposta de Lei do Governo que revoga o n.º 2 do artigo 19.º-B do Estatuto dos Benefícios Fiscais. Esta norma condicionava o benefício fiscal em sede de IRC (majoração dos encargos com aumentos salariais) a requisitos de nivelamento médio dos salários praticados na empresa. A proposta dá cumprimento ao Acordo Tripartido 2025-2028 de valorização salarial e crescimento económico, que prevê o benefício para empregadores que aumentem em pelo menos 4,7 % a remuneração base anual dos trabalhadores abaixo ou na média e em 4,7 % a média global, com contratação coletiva recente. A lei aplica-se aos períodos de tributação que se iniciem em ou após 1 de janeiro de 2025.",
+ "key_points": [
+  "Revogar o n.º 2 do artigo 19.º-B do Estatuto dos Benefícios Fiscais.",
+  "Cumprir o Acordo Tripartido 2025-2028, que dispensa condições de nivelamento salarial para o acesso ao benefício.",
+  "Aplicar a medida aos períodos de tributação iniciados em ou após 1 de janeiro de 2025."
+ ],
+ "plain_language": "Há um benefício fiscal para empresas que aumentam salários, e uma das regras exigia que a empresa também reduzisse diferenças entre salários. O Governo quer acabar com essa exigência, por entender que prejudica a produtividade, cumprindo um acordo com os parceiros sociais. A medida aplica-se aos impostos de 2025 em diante.",
+ "context": "O Governo recorda o Acordo Tripartido de 1 de outubro de 2024, com os parceiros sociais, sobre valorização salarial e crescimento económico. A proposta de revogação já constava da proposta do Orçamento do Estado para 2025, mas não foi aprovada na especialidade, e a iniciativa do Governo anterior caducou. O Governo considera que a condição de nivelamento é um óbice à produtividade e competitividade.",
+ "analysis": "A proposta é breve e cumpre um compromisso do Acordo Tripartido, o que lhe dá legitimidade negocial. Ao retirar a condição de nivelamento, alarga o acesso ao benefício, mas reduz um mecanismo que podia limitar o aumento da desigualdade salarial dentro das empresas; o texto qualifica-o como óbice sem apresentar dados. Aplicação retroativa a 2025 pode gerar incerteza. Não se apresenta estimativa do custo orçamental da maior utilização do benefício.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Ao alargar o acesso à majoração fiscal de aumentos salariais em sede de IRC, a medida tende a reduzir a receita fiscal; o texto não indica montantes."
+ },
+ "affected": [
+  "empresas que aumentam salários",
+  "trabalhadores",
+  "parceiros sociais"
+ ],
+ "categories": [
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "IRC",
+  "benefícios fiscais",
+  "acordo tripartido",
+  "aumentos salariais"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Quota de 35% de música portuguesa na rádio",
+ "summary": "Projeto de Lei do PCP que altera a Lei da Rádio (Lei n.º 54/2010) para fixar em 35% a quota mínima obrigatória de música portuguesa na programação musical dos serviços de programas radiofónicos, em vez da quota variável entre 25% e 40% fixada anualmente por portaria. Altera o regime de exceções: o Governo pode, por portaria, isentar ou aplicar quotas inferiores a rádios temáticas cuja programação se baseie em géneros musicais comprovadamente insuficientemente produzidos em Portugal, desde que esses géneros preencham pelo menos 50% da programação. Revoga o artigo 46.º, que previa a fixação anual por portaria. Entra em vigor 30 dias após a publicação.",
+ "key_points": [
+  "Fixa em 35% a quota de música portuguesa, sem dependência de portaria anual.",
+  "Revoga o artigo 46.º da Lei da Rádio.",
+  "Exceções para rádios temáticas por portaria do Governo, e não pela ERC.",
+  "Para beneficiar de exceção, o género musical tem de preencher pelo menos 50% da programação.",
+  "Entrada em vigor 30 dias após a publicação."
+ ],
+ "plain_language": "As rádios têm de passar uma parte de música portuguesa. O PCP propõe fixar essa parte em 35%, em vez de variar entre 25% e 40% consoante a portaria de cada ano, e apertar as regras para as rádios especializadas que pedem dispensa.",
+ "context": "O PCP afirma que a quota introduzida em 2010 trouxe resultados positivos sem perda de audiências, que a subida para 30% durante a pandemia foi revertida, num retrocesso, e que a fixação por portaria anual cria incerteza. Defende ir mais longe e fixar a quota em 35%.",
+ "analysis": "Uma quota fixa dá previsibilidade aos artistas e às rádios, e a regra dos 50% limita o uso abusivo da exceção. Em contrapartida, retira ao Governo a flexibilidade de ajustar a quota com base no mercado, e pode ser difícil de cumprir para rádios com formatos específicos. O texto afirma que a quota não afetou audiências, mas não apresenta dados. O efeito sobre rendimentos dos músicos não é quantificado.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A medida regula a programação das rádios e não prevê despesa ou receita pública. O texto não apresenta estimativas de custos para as rádios."
+ },
+ "affected": [
+  "rádios",
+  "músicos e intérpretes portugueses",
+  "produtores musicais",
+  "ouvintes"
+ ],
+ "categories": [
+  "cultura",
+  "comunicacao"
+ ],
+ "tags": [
+  "música portuguesa",
+  "quota",
+  "rádio",
+  "lei da rádio"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

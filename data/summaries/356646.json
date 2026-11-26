@@ -1,0 +1,37 @@
+{
+ "short_title": "Suspensão do prazo da comissão de inquérito aos incêndios rurais",
+ "summary": "O projeto de resolução, apresentado pelo Presidente da Assembleia da República, suspende a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito aos Negócios dos Incêndios Rurais entre 30 de abril e 18 de maio de 2026. A suspensão foi pedida pela comissão, ao abrigo do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares e do n.º 2 do artigo 49.º do Regimento, por aguardar documentação essencial ao prosseguimento dos trabalhos, nomeadamente as audições aos Comandantes Regionais e Sub-Regionais da Autoridade Nacional de Emergência e Proteção Civil.",
+ "key_points": [
+  "Suspende o prazo da comissão de inquérito aos Negócios dos Incêndios Rurais de 30 de abril a 18 de maio de 2026.",
+  "O pedido foi feito pela própria comissão, que aguarda documentação solicitada.",
+  "A documentação é essencial, nomeadamente para as audições a comandantes regionais e sub-regionais da ANEPC."
+ ],
+ "plain_language": "A comissão do Parlamento que investiga os negócios ligados aos incêndios rurais pediu uma pausa no prazo porque está à espera de documentos de que precisa, incluindo para ouvir comandantes da Proteção Civil. Este texto formaliza a pausa entre 30 de abril e 18 de maio de 2026, para o tempo de espera não ser descontado ao prazo do inquérito.",
+ "context": "A comissão invoca a necessidade de receber documentação solicitada, essencial para prosseguir os trabalhos, em particular as audições aos comandantes regionais e sub-regionais da Autoridade Nacional de Emergência e Proteção Civil.",
+ "analysis": "É uma medida processual comum que protege o tempo útil do inquérito. O texto não identifica a documentação em falta nem quem a deve entregar, o que dificulta saber se o atraso resulta de entidades externas. A suspensão de quase três semanas prolonga o inquérito sem que o texto refira a nova data de conclusão. Não tem efeitos diretos sobre cidadãos.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "É uma suspensão de prazo de natureza processual, sem previsão de despesa ou receita."
+ },
+ "affected": [
+  "membros da comissão parlamentar de inquérito",
+  "Autoridade Nacional de Emergência e Proteção Civil"
+ ],
+ "categories": [
+  "instituicoes",
+  "seguranca"
+ ],
+ "tags": [
+  "comissão de inquérito",
+  "incêndios rurais",
+  "suspensão de prazo",
+  "proteção civil"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "Dever de informar o consumidor em caso de reduflação",
+ "summary": "O Projeto de Lei do LIVRE obriga os retalhistas com superfície de venda igual ou superior a 400 m2 (e a venda em linha desses retalhistas) a sinalizar, junto ao preço, quando a quantidade de um produto pré-embalado diminui sem redução proporcional do preço por unidade de medida. A sinalização deve durar 90 dias, ter uma menção prescrita e indicar a variação percentual do preço por unidade. Excluem-se produtos a granel, de peso variável, preparados no estabelecimento e alterações impostas por lei. A ASAE recebe denúncias, fiscaliza e publica dados trimestrais. O incumprimento é contraordenação económica leve; a informação falsa é contraordenação grave. Entra em vigor 90 dias após a publicação.",
+ "key_points": [
+  "Sinalização obrigatória junto ao preço durante 90 dias consecutivos quando a quantidade diminui sem redução proporcional do preço.",
+  "Aplica-se a estabelecimentos com área de venda igual ou superior a 400 m2 e à venda em linha desses retalhistas.",
+  "A informação deve indicar a quantidade anterior e a nova, e a variação percentual do preço por unidade de medida.",
+  "Retalhistas conservam durante um ano os elementos que provam o cumprimento.",
+  "A ASAE cria um canal de denúncia, fiscaliza e publica dados agregados todos os trimestres.",
+  "Incumprimento é contraordenação leve; informação falsa ou enganosa é contraordenação grave."
+ ],
+ "plain_language": "Quando um produto no supermercado passa a ter menos quantidade pelo mesmo preço (por exemplo, de 500 g para 450 g), os grandes retalhistas terão de avisar o cliente junto ao preço durante 90 dias, dizendo quanto subiu o preço por quilo ou litro. A ASAE recebe queixas e fiscaliza. A lei não proíbe reduzir embalagens nem fixa preços.",
+ "context": "O proponente explica que a reduflação aumenta o preço real sem que o consumidor o note, e que as regras europeias de preço por unidade de medida não alertam para a redução da quantidade. Invoca o exemplo de França, que desde julho de 2024 impõe sinalização junto ao produto.",
+ "analysis": "A medida é proporcional: não proíbe a prática nem fixa preços, e foca-se em transparência. O limiar de 400 m2 poupa pequeno comércio, mas deixa de fora retalhistas menores. A comparação depende do histórico de preços do mesmo retalhista, o que implica custos de registo e de sistemas, e a fiscalização pela ASAE pode exigir meios adicionais. A eficácia dependerá de os consumidores repararem na sinalização e a sanção prevista é leve. Pode haver questões de compatibilidade com regras europeias de harmonização.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica custos. A fiscalização e o canal de denúncia podem implicar despesa para a ASAE, e as coimas poderiam gerar alguma receita."
+ },
+ "affected": [
+  "consumidores",
+  "grandes retalhistas",
+  "ASAE"
+ ],
+ "categories": [
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "reduflação",
+  "preço por unidade",
+  "supermercados",
+  "asae",
+  "transparência"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

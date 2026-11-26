@@ -1,0 +1,42 @@
+{
+ "short_title": "Proteção das dunas de Tróia e pradarias do Sado",
+ "summary": "Projeto de resolução do Livre que recomenda ao Governo três medidas: promover a proteção efetiva das áreas dunares e zonas húmidas ainda não edificadas da península de Tróia, estudando a sua integração na Reserva Natural do Estuário do Sado; instruir o ICNF, a Agência Portuguesa do Ambiente e o Parque Natural do Estuário do Sado para definirem e implementarem com urgência medidas prioritárias de intervenção e restauro dos ecossistemas dunares e das pradarias marinhas, com a verba necessária; e aprovar com urgência o Plano Nacional de Restauro da Natureza, com medidas interinas de proteção de habitats sensíveis, nos termos do Regulamento (UE) 2024/1991. Trata-se de uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda estudar a integração das dunas e zonas húmidas não edificadas de Tróia na Reserva Natural do Estuário do Sado.",
+  "Recomenda medidas urgentes de restauro das dunas de Tróia e das pradarias marinhas, com dotação orçamental.",
+  "Recomenda ao ICNF, à APA e ao Parque Natural do Estuário do Sado que definam e executem essas medidas.",
+  "Recomenda a aprovação urgente do Plano Nacional de Restauro da Natureza e de medidas interinas.",
+  "É um projeto de resolução, sem força vinculativa para o Governo."
+ ],
+ "plain_language": "O Livre pede ao Governo que proteja melhor as dunas da península de Tróia e as ervas marinhas do estuário do Sado, que estão sob pressão de obras, dragagens e turismo. Pede também que sejam feitos trabalhos de recuperação destas zonas e que o plano nacional de restauro da natureza exigido pela União Europeia seja aprovado depressa. É uma recomendação, o Governo não é obrigado a cumpri-la.",
+ "context": "O Livre aponta pressões sobre Tróia e o Sado, como novas dragagens (com novo título de utilização do espaço marítimo previsto para janeiro de 2026), projetos imobiliários e turísticos em zona Rede Natura 2000 e falhas de informação sobre medidas de monitorização anteriores. Invoca o Regulamento do Restauro da Natureza, que fixa metas para dunas.",
+ "analysis": "A proposta junta preocupações ambientais documentadas com obrigações europeias já existentes, e pede medidas faseadas e fundamentadas. Fragilidades: é uma recomendação sem prazos concretos nem montantes; a integração na reserva é apenas objeto de estudo; e o articulado não aborda diretamente as dragagens nem os projetos imobiliários mencionados na exposição. Os interesses económicos locais, como turismo e portos, não são ponderados, e a eficácia depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Recomenda dotar de verba as ações de restauro e proteção. O texto não indica montantes."
+ },
+ "affected": [
+  "residentes e atividades económicas da península de Tróia",
+  "pescadores e operadores turísticos do estuário do Sado",
+  "ICNF e Agência Portuguesa do Ambiente",
+  "promotores imobiliários e portuários"
+ ],
+ "categories": [
+  "ambiente",
+  "territorio"
+ ],
+ "tags": [
+  "Tróia",
+  "estuário do Sado",
+  "dunas",
+  "restauro da natureza",
+  "pradarias marinhas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

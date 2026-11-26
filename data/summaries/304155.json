@@ -1,0 +1,43 @@
+{
+ "short_title": "Inquérito parlamentar à tutela política da gestão da Efacec",
+ "summary": "Inquérito Parlamentar da Iniciativa Liberal que propõe a constituição imediata e obrigatória de uma comissão eventual de inquérito à tutela política da gestão do Grupo Efacec, ao abrigo da Lei n.º 5/93. A comissão deveria avaliar as responsabilidades das tutelas políticas desde a nacionalização de 2020 até à conclusão da privatização; escrutinar as decisões de gestão e as perdas de receitas, fornecedores e quadros; esclarecer o papel da Parpública e do Banco Português de Fomento; clarificar o atraso do processo de venda; apurar o total de encargos dos contribuintes (a IL refere 390 milhões de euros injetados); avaliar a utilização dos fundos; explicar a escolha da Mutares, a negociação após a BAFO e as análises custo-benefício realizadas. A exposição de motivos cita o relatório n.º 9/2024 do Tribunal de Contas.",
+ "key_points": [
+  "Comissão eventual de inquérito à tutela política da gestão do Grupo Efacec, de 2020 até à conclusão da privatização.",
+  "Apurar o total de encargos para os contribuintes, incluindo os 390 milhões de euros injetados e eventuais apoios indiretos.",
+  "Escrutinar o papel da Parpública e do Banco Português de Fomento.",
+  "Esclarecer a escolha da Mutares como comprador e a negociação desde a BAFO.",
+  "Rever as análises custo-benefício feitas desde a nacionalização."
+ ],
+ "plain_language": "A Iniciativa Liberal quer que o Parlamento investigue como o Estado geriu a Efacec depois de a nacionalizar em 2020, quanto dinheiro dos contribuintes foi gasto e porque foi escolhida a Mutares para a comprar. Pede uma comissão de inquérito que ouça os responsáveis e analise os documentos.",
+ "context": "A IL descreve a nacionalização dos 71,73% detidos por Isabel dos Santos, um processo de privatização atribulado, prejuízos e capitais próprios negativos em 2022, perda de trabalhadores (2.531 em 2019, 1.928 em 2022) e uma operação harmónio. Cita o relatório do Tribunal de Contas, segundo o qual nenhum dos objetivos da nacionalização foi alcançado e o financiamento público ascendeu a 484 milhões de euros até maio de 2024.",
+ "analysis": "O inquérito tem base em factos reconhecidos pelo Tribunal de Contas e responde a falta de transparência apontada. Fragilidades: o texto reúne conclusões fortes em linguagem crítica antes de apurar responsabilidades; envolve decisões de governos anteriores, o que lhe confere um cunho político; e parte da informação pode estar sujeita a sigilo comercial da venda. A utilidade depende dos poderes de comissão e de o relatório não duplicar o trabalho do Tribunal de Contas. A obrigatoriedade potestativa depende do regime legal.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O inquérito acarreta custos de funcionamento parlamentar, que o texto não quantifica. Visa apurar encargos já assumidos pelo Estado com a Efacec."
+ },
+ "affected": [
+  "contribuintes",
+  "trabalhadores da Efacec",
+  "Parpública",
+  "Banco Português de Fomento"
+ ],
+ "categories": [
+  "economia",
+  "instituicoes",
+  "administracao"
+ ],
+ "tags": [
+  "Efacec",
+  "inquérito parlamentar",
+  "nacionalização",
+  "privatização",
+  "Tribunal de Contas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

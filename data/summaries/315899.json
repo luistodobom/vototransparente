@@ -1,0 +1,40 @@
+{
+ "short_title": "Mais recursos financeiros dos municípios para a habitação",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo três medidas para reforçar e diversificar o financiamento dos municípios para políticas de habitação: estudar a criação de agências de financiamento local, que se relacionem diretamente com os mercados e obtenham financiamento em condições iguais para todos os municípios; regulamentar a emissão de empréstimos obrigacionistas agrupados pelos municípios, prevista no artigo 49.º, n.º 4, da Lei n.º 73/2013 mas nunca regulamentada; e incentivar o financiamento colaborativo, incluindo empréstimos obrigacionistas de municípios, isolados ou em conjunto. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Estudar a criação de agências de financiamento local para todos os municípios.",
+  "Regulamentar a emissão de empréstimos obrigacionistas agrupados por municípios.",
+  "Incentivar o financiamento colaborativo, incluindo obrigações municipais.",
+  "Objetivo: reforçar a capacidade municipal de resposta às necessidades habitacionais."
+ ],
+ "plain_language": "O PAN pede ao Governo que ajude as câmaras municipais a arranjar dinheiro para a habitação por vias novas, como agências comuns de financiamento, obrigações emitidas em conjunto e financiamento colaborativo com os cidadãos.",
+ "context": "O PAN afirma que a crise da habitação tem dimensão estrutural e que os municípios, apesar do papel central, estão limitados por constrangimentos financeiros e dependem de transferências do Orçamento do Estado ou de programas pontuais. Refere que a possibilidade de empréstimos agrupados está na lei desde 2013, mas nunca foi regulamentada.",
+ "analysis": "As medidas apoiam-se em modelos usados noutros países e apontam uma lacuna legal concreta. Contudo, mais endividamento municipal tem riscos de sustentabilidade financeira e de limites legais de dívida, que o texto não discute. A primeira medida é apenas um estudo e o texto não indica montantes, calendário nem como estes instrumentos se articulam com os limites de endividamento ou com o financiamento do Estado. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Os instrumentos propostos alteram as fontes de financiamento dos municípios e podem aumentar o endividamento, mas o texto não quantifica efeitos."
+ },
+ "affected": [
+  "municípios",
+  "famílias à procura de habitação",
+  "investidores e aforradores em obrigações municipais"
+ ],
+ "categories": [
+  "habitacao",
+  "territorio",
+  "economia"
+ ],
+ "tags": [
+  "financiamento municipal",
+  "habitação",
+  "empréstimos obrigacionistas",
+  "agências de financiamento local"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

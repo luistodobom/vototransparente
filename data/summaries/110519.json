@@ -1,0 +1,41 @@
+{
+ "short_title": "Reduzir o número de alunos por turma em todos os níveis",
+ "summary": "Projeto de lei do PCP que fixa limites mais baixos ao número de alunos por turma na escolaridade obrigatória e no pré-escolar, em escolas públicas, particulares e cooperativas com contrato de associação e escolas profissionais privadas. Pré-escolar: 19 crianças por docente (15 em turmas homogéneas de 3 anos). 1.º ciclo: 19 alunos; 2.º e 3.º ciclos: 20; secundário científico-humanístico e artes: 22. Nos territórios educativos de intervenção prioritária os limites são menores, e turmas com alunos com medidas de suporte à inclusão têm 15 a 17 alunos, com no máximo 2 destes alunos. Prevê aplicação progressiva, regulamentação em 30 dias e efeitos no ano letivo seguinte.",
+ "key_points": [
+  "Limites de 19 alunos no 1.º ciclo, 20 nos 2.º e 3.º ciclos e 22 no secundário científico-humanístico.",
+  "Pré-escolar com 19 crianças por docente, e 15 em turmas homogéneas de 3 anos.",
+  "Limites reduzidos em territórios educativos de intervenção prioritária e em turmas com alunos com medidas de inclusão.",
+  "Cada docente do 5.º ao 9.º ano não leciona mais de cinco turmas nem mais de 120 alunos.",
+  "Turmas acima do limite só por decisão fundamentada do conselho pedagógico.",
+  "Aplicação progressiva, a regulamentar em 30 dias, com efeitos no ano letivo seguinte."
+ ],
+ "plain_language": "As turmas teriam menos alunos em todos os níveis, e menos ainda nas zonas mais carenciadas e quando houver alunos que precisam de apoio especial. Cada professor teria também limites no número de turmas e alunos. A mudança seria faseada, começando pelos anos de início de ciclo.",
+ "context": "O proponente alega que sucessivos governos degradaram as condições de ensino, que a redução do número de alunos por turma tem sido insuficiente e que os objetivos da Lei de Bases do Sistema Educativo exigem turmas em que o professor consiga acompanhar cada aluno, o que é mais importante no contexto da pandemia.",
+ "analysis": "Propõe um regime detalhado e diferenciado por ciclo, com atenção à inclusão e a territórios mais vulneráveis, e com aplicação progressiva. Fragilidades: exige muitos mais professores, salas e eventualmente transportes, sem estimativa de custo; a rigidez pode ser difícil em escolas pequenas ou com falta de espaço; a aplicação progressiva, com critérios amplos, deixa a calendarização à regulamentação do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Turmas mais pequenas exigem mais docentes e instalações, implicando despesa pública que o texto não quantifica."
+ },
+ "affected": [
+  "alunos",
+  "professores",
+  "escolas e agrupamentos",
+  "alunos com necessidades de apoio à inclusão"
+ ],
+ "categories": [
+  "educacao"
+ ],
+ "tags": [
+  "número de alunos por turma",
+  "escola pública",
+  "inclusão",
+  "docentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

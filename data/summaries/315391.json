@@ -1,0 +1,43 @@
+{
+ "short_title": "Bombeiro como profissão de risco e desgaste rápido",
+ "summary": "Projeto de Lei do PCP que reconhece a profissão de bombeiro como de risco e de desgaste rápido, aplicável aos bombeiros profissionais da Administração Pública e das associações humanitárias e, com adaptações, aos voluntários. Altera os Decretos-Leis n.º 241/2007 e n.º 106/2002. Os trabalhadores das associações humanitárias teriam direito a reforma antecipada sem penalização, com 30 anos de serviço, aos 55 anos (operacionais), 60 (técnicos, chefia e apoio) e 65 (comando), a limites máximos de tempo de trabalho, a 25 dias de férias e a subsídio de penosidade, insalubridade e risco. Para os bombeiros profissionais da administração local, repristina limites de idade de aposentação, cria um suplemento de risco, penosidade e insalubridade de 25% da remuneração base e o direito, a partir dos 50 anos, a funções não operacionais. Entra em vigor com o Orçamento do Estado seguinte.",
+ "key_points": [
+  "Reconhece a profissão de bombeiro como de risco e desgaste rápido, com reforma antecipada sem penalização após 30 anos de serviço.",
+  "Fixa idades de reforma de 55, 60 e 65 anos consoante as funções (operacionais, técnicas e de chefia, comando).",
+  "Prevê limites máximos de tempo de trabalho, 25 dias de férias e subsídio de penosidade, insalubridade e risco.",
+  "Cria para bombeiros profissionais da administração local um suplemento de 25% sobre a remuneração base.",
+  "Após os 50 anos, direito a mudança para funções administrativas, logísticas ou de instrução."
+ ],
+ "plain_language": "O PCP quer que os bombeiros sejam oficialmente considerados uma profissão de risco e de desgaste rápido. Isso permitiria reformar-se mais cedo sem cortes (aos 55, 60 ou 65 anos conforme as funções, com 30 anos de serviço), ter limites ao horário, mais férias e um subsídio de risco. Os bombeiros municipais teriam um suplemento de 25% e podiam passar a funções menos exigentes depois dos 50 anos.",
+ "context": "O PCP reapresenta um projeto aprovado na legislatura anterior que caducou. Argumenta que os acidentes de trabalho, os traumatismos e as mortes comprovam condições de trabalho adversas, com stress e desgaste físico e emocional. Refere que a Lei n.º 19/2025 já incorporou parte das medidas, como a bonificação do tempo de serviço para pensão.",
+ "analysis": "A proposta é abrangente e articula reforma antecipada, horários, férias e compensação financeira, respondendo a reivindicações antigas do setor. Contudo, o texto remete a regulamentação de componentes importantes para diploma posterior, e o custo para o Estado, as autarquias e as associações humanitárias não é estimado. A aplicação aos voluntários é feita com «adaptações» não definidas. As antecipações de reforma sem penalização afetam a sustentabilidade da proteção social, e o texto prevê um fundo de proteção social do bombeiro sem detalhar o financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Reformas antecipadas sem penalização, suplementos e subsídio de risco aumentam a despesa da Administração e da Segurança Social; o texto prevê que os valores de risco sejam suportados pelo Estado, sem os quantificar."
+ },
+ "affected": [
+  "bombeiros profissionais da administração local",
+  "bombeiros das associações humanitárias",
+  "bombeiros voluntários",
+  "municípios e Estado"
+ ],
+ "categories": [
+  "trabalho",
+  "seguranca",
+  "administracao"
+ ],
+ "tags": [
+  "bombeiros",
+  "profissão de risco",
+  "reforma antecipada",
+  "subsídio de risco",
+  "desgaste rápido"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

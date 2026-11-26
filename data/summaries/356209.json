@@ -1,0 +1,43 @@
+{
+ "short_title": "Apoio ao arrendamento e suspensão de despejos nas tempestades",
+ "summary": "O projeto de lei do Bloco de Esquerda estabelece medidas excecionais de proteção da habitação e de estabelecimentos comerciais e industriais nos concelhos afetados pelas tempestades de 2026. Prevê comparticipação de 100% da renda da habitação própria permanente de quem ficou sem condições de habitabilidade, até à mediana das rendas do concelho, até dezembro, com alojamento imediato em empreendimentos turísticos, alojamento local e pousadas de juventude se necessário. Para estabelecimentos comerciais e industriais encerrados ou suspensos, prevê o diferimento das rendas vencidas ao longo de 2026 para os 12 meses seguintes e apoio de tesouraria a partir de dezembro. A falta de pagamento destas rendas não pode fundamentar resolução do contrato, as rendas a entidades públicas ficam suspensas e as ações de despejo são suspensas até dezembro de 2026. Efeitos a 28 de janeiro de 2026.",
+ "key_points": [
+  "Comparticipação de 100% da renda de habitação própria permanente, limitada à mediana das rendas do concelho, até dezembro de 2026.",
+  "Alojamento imediato em empreendimentos turísticos, alojamento local e pousadas de juventude, quando necessário.",
+  "Diferimento das rendas de estabelecimentos comerciais e industriais encerrados e apoio de tesouraria a partir de dezembro.",
+  "Proibição de resolução do contrato por falta de pagamento e suspensão do pagamento de rendas a entidades públicas.",
+  "Suspensão de ações de despejo até dezembro de 2026 e regulamentação em 30 dias."
+ ],
+ "plain_language": "Quem ficou sem casa por causa das tempestades teria a renda de uma nova habitação paga pelo Estado, e lojas e fábricas encerradas poderiam adiar as rendas. Além disso, ninguém poderia ser despejado por esse motivo até ao fim do ano.",
+ "context": "O BE refere perda de vidas, habitações destruídas, famílias sem condições mínimas de habitabilidade e perturbações graves na atividade económica, e defende uma resposta rápida e coordenada. Procura evitar que arrendatários particulares e comerciais fiquem sem casa ou negócio devido às dificuldades causadas pelas tempestades.",
+ "analysis": "A medida dá proteção imediata a arrendatários e pequenos negócios e é detalhada nos mecanismos. No entanto, a prova admite a confirmação por três testemunhas perante notário ou advogado, o que pode gerar fraudes, e a suspensão de despejos e o diferimento de rendas penalizam os senhorios, sem compensação prevista. O custo do apoio não é estimado e a sobreposição com apoios do Governo não é analisada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A comparticipação de 100% das rendas, o alojamento temporário e o apoio de tesouraria às empresas implicam despesa pública, financiada nos termos do Orçamento do Estado. O texto não indica montantes."
+ },
+ "affected": [
+  "arrendatários desalojados",
+  "senhorios",
+  "comerciantes e industriais arrendatários",
+  "famílias afetadas pelas tempestades"
+ ],
+ "categories": [
+  "habitacao",
+  "seguranca",
+  "economia"
+ ],
+ "tags": [
+  "arrendamento",
+  "despejos",
+  "tempestades",
+  "rendas",
+  "alojamento temporário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

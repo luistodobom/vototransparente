@@ -1,0 +1,41 @@
+{
+ "short_title": "Campanha de esclarecimento e prevenção de fraude sobre o IUC",
+ "summary": "Projeto de resolução do PAN que recomenda ao Governo, em articulação com a Autoridade Tributária e Aduaneira, cinco medidas a propósito da alteração das datas de pagamento do Imposto Único de Circulação prevista na Proposta de Lei n.º 49/XVII/1.ª: uma campanha nacional de informação por vários canais, incluindo atendimento presencial; medidas de prevenção de fraude, com alertas sobre phishing e burlas; reforço da comunicação sobre os únicos canais oficiais de pagamento; informação adaptada a diferentes idades e níveis de literacia fiscal e digital, com atenção à população idosa; e um relatório de avaliação à Assembleia da República após o primeiro ano de aplicação. É uma recomendação, não vinculativa.",
+ "key_points": [
+  "Campanha nacional de informação sobre o novo regime de liquidação e pagamento do IUC.",
+  "Alertas e medidas de prevenção de phishing e burlas ligadas ao IUC.",
+  "Comunicação reforçada sobre os únicos canais oficiais de pagamento.",
+  "Informação adaptada a diferentes faixas etárias e literacias, com atenção aos idosos.",
+  "Relatório de avaliação à Assembleia após o primeiro ano de aplicação."
+ ],
+ "plain_language": "O Governo quer mudar a forma e a data de pagamento do imposto de circulação dos carros. O PAN pede que haja uma campanha para explicar a mudança, avisos contra burlas que se aproveitam dela, informação adaptada aos mais velhos e um relatório no fim do primeiro ano a dizer como correu.",
+ "context": "O PAN reconhece o mérito da simplificação, em que o IUC passa a ser devido por quem é proprietário em 1 de janeiro e pago em abril, com pagamento em prestações. Receia que a mudança de calendário aumente o incumprimento involuntário e facilite fraudes, sobretudo contra pessoas vulneráveis.",
+ "analysis": "Pontos fortes: antecipa riscos reais de desinformação e de fraude e pede monitorização com relatório. Fragilidades: assenta numa proposta de lei que ainda não estava aprovada, sem custo estimado das campanhas, e não define metas de avaliação, prazos ou responsáveis além do Governo e da AT. A afirmação de que o esquecimento é a principal causa do incumprimento é apresentada sem dados.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A campanha nacional e as ações de prevenção implicam despesa pública com comunicação, não quantificada no texto."
+ },
+ "affected": [
+  "proprietários de veículos",
+  "população idosa",
+  "Autoridade Tributária e Aduaneira"
+ ],
+ "categories": [
+  "fiscalidade",
+  "consumidores"
+ ],
+ "tags": [
+  "IUC",
+  "fraude",
+  "phishing",
+  "campanha de informação",
+  "Autoridade Tributária"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

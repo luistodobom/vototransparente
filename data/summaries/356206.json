@@ -1,0 +1,44 @@
+{
+ "short_title": "Bónus de risco para operacionais em calamidade",
+ "summary": "O projeto de lei do Bloco de Esquerda cria um bónus extraordinário de risco e penosidade para os operacionais mobilizados em operações de emergência, socorro e recuperação em municípios ou freguesias com declaração de calamidade. Abrange agentes de proteção civil (bombeiros, forças de segurança, Forças Armadas, Cruz Vermelha, INEM, entre outros), sapadores florestais e funcionários das autarquias e empresas municipais mobilizados para limpeza, proteção civil e recuperação de infraestruturas. O bónus corresponde a 20% da remuneração base ilíquida mensal, proporcional ao tempo de mobilização efetiva, e é pago retroativamente. Não conta como rendimento para IRS e está isento de contribuições para a Segurança Social e a CGA. Aplica-se enquanto durar a intervenção da Estrutura de Missão, com efeitos a 28 de janeiro de 2026.",
+ "key_points": [
+  "Bónus de 20% da remuneração base ilíquida mensal, proporcional à mobilização efetiva.",
+  "Abrange bombeiros, forças de segurança, Forças Armadas, Cruz Vermelha, INEM, sapadores florestais e funcionários autárquicos mobilizados.",
+  "Isento de IRS, de contribuições para a Segurança Social e para a Caixa Geral de Aposentações.",
+  "Pagamento retroativo e mensal, enquanto durar a mobilização.",
+  "Pagamento a cargo da entidade empregadora ou da ANEPC, com efeitos a 28 de janeiro de 2026."
+ ],
+ "plain_language": "Bombeiros, militares, polícias, técnicos de emergência e trabalhadores das câmaras que trabalharam nas zonas de calamidade receberiam um acréscimo de 20% do salário base pelo tempo em que estiveram mobilizados, sem pagar impostos sobre esse valor.",
+ "context": "O BE aponta que as tempestades causaram mais de uma dezena de vítimas mortais, desalojados e destruição de infraestruturas, e destaca o esforço de milhares de operacionais mobilizados. O bónus pretende reconhecer o risco acrescido, a penosidade e a disponibilidade exigida.",
+ "analysis": "A medida reconhece o esforço de quem esteve no terreno e é clara quanto ao cálculo. Contudo, o âmbito é muito amplo e heterogéneo, incluindo voluntários e várias carreiras, o que pode suscitar desigualdades face a quem ficou de fora. O texto não estima o custo, a retroatividade complica a administração e a isenção de contribuições reduz receita da Segurança Social e da CGA, além de poder afetar futuros direitos de proteção social.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O bónus de 20% do vencimento base implica despesa pública, e a isenção de IRS e de contribuições reduz receita. O texto não apresenta valores."
+ },
+ "affected": [
+  "bombeiros",
+  "forças de segurança e Forças Armadas",
+  "INEM e Cruz Vermelha",
+  "funcionários das autarquias",
+  "sapadores florestais"
+ ],
+ "categories": [
+  "seguranca",
+  "trabalho",
+  "administracao"
+ ],
+ "tags": [
+  "bónus de risco",
+  "proteção civil",
+  "calamidade",
+  "bombeiros",
+  "isenção de IRS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

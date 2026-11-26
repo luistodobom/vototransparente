@@ -1,0 +1,39 @@
+{
+ "short_title": "Mais eficácia e produtividade no SNS nas regiões carenciadas",
+ "summary": "O CHEGA recomenda ao Governo que formule um plano de investimentos na área da saúde dirigido às zonas e regiões mais carenciadas, para aumentar a eficácia, eficiência e produtividade do Serviço Nacional de Saúde. O plano deve contemplar a contratação de profissionais para os centros hospitalares, a contratação de médicos de medicina geral e familiar para os centros de saúde, o reforço dos meios técnicos e a melhoria das condições de trabalho dos profissionais de saúde. A exposição de motivos cita dados do Portal da Transparência do SNS sobre a evolução do número de trabalhadores, o aumento dos tempos máximos de espera e o encerramento de serviços. Trata-se de uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Recomenda um plano de investimentos em saúde para as zonas e regiões mais carenciadas.",
+  "Contratação de profissionais para os centros hospitalares.",
+  "Contratação de médicos de medicina geral e familiar para os centros de saúde.",
+  "Reforço dos meios técnicos e melhoria das condições de trabalho dos profissionais."
+ ],
+ "plain_language": "O texto pede ao Governo que prepare um plano para reforçar o SNS nas zonas do país com menos meios: mais médicos e outros profissionais, mais equipamentos e melhores condições de trabalho. O objetivo é que o SNS funcione melhor e responda a mais pessoas. É um pedido ao Governo, que não tem de o cumprir.",
+ "context": "O proponente diz que, apesar do aumento de profissionais desde 2016, há uma diminuição do total de trabalhadores entre fevereiro de 2022 e fevereiro de 2023 (exceto na região Norte), maior tempo de espera e menor produtividade. Refere encerramentos de urgências e maternidades e insatisfação de profissionais com a gestão.",
+ "analysis": "A iniciativa identifica áreas de ação relevantes, mas é muito genérica: não quantifica profissionais a contratar, orçamento, prazos nem define o conceito de 'zonas mais carenciadas'. O título fala em eficiência e produtividade, mas as medidas concentram-se em contratação e meios, sem medidas de gestão. Como recomendação, não obriga o Governo. A ligação causal entre mais pessoal e maior produtividade não é demonstrada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A contratação de profissionais, o reforço de meios técnicos e a melhoria das condições de trabalho implicam despesa pública; o texto não a quantifica."
+ },
+ "affected": [
+  "utentes do SNS em regiões carenciadas",
+  "médicos e profissionais de saúde",
+  "SNS"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "SNS",
+  "contratação de médicos",
+  "zonas carenciadas",
+  "medicina geral e familiar"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

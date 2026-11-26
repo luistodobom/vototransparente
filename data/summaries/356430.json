@@ -1,0 +1,42 @@
+{
+ "short_title": "Proteção dos ex-trabalhadores das Minas da Urgeiriça e familiares",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo quatro medidas relativas aos ex-trabalhadores das minas de urânio da Urgeiriça e suas famílias. Pede o cumprimento integral das obrigações existentes, incluindo as medidas da Resolução da Assembleia da República n.º 15/2025 e o relatório de progresso; um plano público de recuperação ambiental completa das áreas residenciais e envolventes, com fontes de financiamento, calendarização, indicadores e monitorização regular do ar, da água e dos solos; o prolongamento do Programa de Intervenção em Saúde; e o diálogo para concretizar o Memorial às Vítimas da Exposição à Radioatividade e o Museu Mineiro da Urgeiriça.",
+ "key_points": [
+  "Cumprir integralmente as obrigações para com os ex-trabalhadores e famílias, incluindo as da Resolução da AR n.º 15/2025 e o respetivo relatório de progresso.",
+  "Definir e publicar um plano de recuperação ambiental das áreas residenciais, com financiamento, calendário e indicadores.",
+  "Monitorizar regularmente o ar, a água e os solos e divulgar publicamente os resultados.",
+  "Prolongar o Programa de Intervenção em Saúde para os ex-trabalhadores da ENU e familiares.",
+  "Promover o diálogo para construir o Memorial às Vítimas e o Museu Mineiro da Urgeiriça."
+ ],
+ "plain_language": "As antigas minas de urânio da Urgeiriça deixaram doenças e contaminação. O LIVRE pede ao Governo que cumpra o que já está previsto, publique um plano completo para limpar as zonas habitadas, mantenha o acompanhamento de saúde e avance com um museu e um memorial. É uma recomendação sem força obrigatória.",
+ "context": "O LIVRE recorda que as minas funcionaram até 1991 e que a reabilitação ambiental, iniciada em 2001 com cerca de 13 milhões de euros, foi dada por concluída em 2021. Aponta que a Associação dos Ex-Trabalhadores das Minas de Urânio denuncia incumprimento e atrasos na recuperação de habitações e envolventes, apesar de leis, despachos e da Resolução da AR n.º 15/2025.",
+ "analysis": "A proposta insiste em medidas já recomendadas e em obrigações existentes, o que reforça o escrutínio, mas também mostra os limites de resoluções que não vinculam o Governo. A vantagem é pedir transparência (plano com calendário, indicadores e resultados públicos). Fragilidades: não quantifica custos, não define prazos concretos e há tensão entre a afirmação de que a remediação ambiental foi concluída em 2021 e a necessidade de um plano de recuperação completa, que o texto não resolve. O museu e o memorial dependem de diálogo sem compromisso de financiamento.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recuperação ambiental, o prolongamento do programa de saúde e o museu e memorial implicariam despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "Ex-trabalhadores das minas da Urgeiriça e familiares",
+  "Residentes das áreas afetadas",
+  "Serviços de saúde e ambiente"
+ ],
+ "categories": [
+  "saude",
+  "ambiente",
+  "trabalho"
+ ],
+ "tags": [
+  "Urgeiriça",
+  "minas de urânio",
+  "recuperação ambiental",
+  "saúde pública",
+  "memorial"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

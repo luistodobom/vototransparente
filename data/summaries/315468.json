@@ -1,0 +1,41 @@
+{
+ "short_title": "Pulseira eletrónica obrigatória para condenados por incêndio florestal",
+ "summary": "Projeto de Lei do PAN que altera o artigo 274.º-A do Código Penal para tornar obrigatória a subordinação da suspensão da execução da pena de prisão, da liberdade condicional, da suspensão da execução do internamento e da liberdade para prova à obrigação de permanência na habitação, com fiscalização por meios técnicos de controlo à distância (pulseira eletrónica), no período coincidente com os meses de maior risco de fogos. O texto da exposição de motivos refere os meses de maio a outubro. Hoje esta subordinação é facultativa. A lei entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Torna obrigatória a permanência na habitação com vigilância eletrónica para condenados por incêndio florestal em liberdade.",
+  "Aplica-se à suspensão da pena de prisão, à liberdade condicional, à suspensão do internamento e à liberdade para prova.",
+  "A medida vigora nos meses de maior risco de fogos, que a exposição de motivos situa entre maio e outubro.",
+  "Altera o artigo 274.º-A do Código Penal, retirando o caráter facultativo da medida."
+ ],
+ "plain_language": "O PAN propõe que quem for condenado por incendiar florestas e esteja em liberdade tenha obrigatoriamente de usar pulseira eletrónica e ficar em casa durante os meses de maior risco de incêndios. Hoje os tribunais podem decidir fazê-lo, mas na prática isso nem sempre acontece.",
+ "context": "O proponente refere que, em 2025, a área ardida já superava os 185 mil hectares, tornando-o um dos piores anos desde 2017. Considera que a sanção de permanência na habitação com pulseira, prevista desde 2017 de forma facultativa, acaba por não ser aplicada ou ser mal aplicada, deixando condenados sem controlo nos meses de maior risco e dificultando a investigação.",
+ "analysis": "A medida é simples, de custo contido face a penas mais longas, e reforça a vigilância dos condenados em liberdade. Em contrapartida, retirar a discricionariedade do juiz pode levar a aplicações desadequadas a casos de menor gravidade, e o texto não demonstra com dados que a falta de pulseira seja causa de reincidência. A capacidade técnica do sistema de vigilância eletrónica e o seu custo não são avaliados. O articulado diz «meses de maior risco» sem os fixar, ao contrário da exposição de motivos.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A vigilância eletrónica obrigatória implica custos de equipamentos e acompanhamento, que o texto não quantifica."
+ },
+ "affected": [
+  "condenados por incêndio florestal",
+  "tribunais e serviços de reinserção",
+  "forças de segurança"
+ ],
+ "categories": [
+  "justica",
+  "ambiente",
+  "seguranca"
+ ],
+ "tags": [
+  "incendiarismo",
+  "pulseira eletrónica",
+  "código penal",
+  "vigilância eletrónica",
+  "liberdade condicional"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

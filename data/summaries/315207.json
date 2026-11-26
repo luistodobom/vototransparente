@@ -1,0 +1,42 @@
+{
+ "short_title": "Rede de cuidados para idosos",
+ "summary": "Projeto de Resolução do CDS-PP que recomenda ao Governo cinco linhas de ação para os cuidados a idosos: reforçar o serviço de apoio domiciliário, continuar a valorizar os cuidadores informais, continuar a apostar na habitação colaborativa de idosos, promover certificações e auditorias regulares aos lares de idosos e procurar novas parcerias com os setores social e privado para aumentar o apoio e o cuidado. A fundamentação refere o envelhecimento da população e a falta de vagas em lares. É uma recomendação, sem metas, prazos ou financiamento definidos.",
+ "key_points": [
+  "Reforçar o serviço de apoio domiciliário.",
+  "Continuar a valorizar os cuidadores informais.",
+  "Continuar a apostar na habitação colaborativa de idosos.",
+  "Promover certificações e auditorias regulares aos lares de idosos.",
+  "Procurar novas parcerias com os setores social e privado para aumentar o apoio aos idosos."
+ ],
+ "plain_language": "O CDS-PP pede ao Governo que melhore a resposta aos idosos: mais apoio em casa, valorização de quem cuida de familiares, formas de habitação partilhada, fiscalização dos lares e parcerias com entidades sociais e privadas. É uma sugestão, sem medidas nem prazos concretos.",
+ "context": "O proponente refere o envelhecimento da população, com 188,1 idosos por cada 100 jovens em 2023, e a falta de vagas em lares, citando um estudo que indica que a oferta responde a apenas 4% da necessidade. Menciona ainda internamentos sociais elevados e custos altos das vagas existentes.",
+ "analysis": "O texto identifica um problema real e propõe respostas diversificadas, incluindo a fiscalização dos lares. É, contudo, muito genérico: usa verbos como «continuar» e «procurar», sem metas, calendário, dotação ou indicação do que mudaria face ao que já existe. Não esclarece o papel da rede de cuidados continuados nem aborda a falta de profissionais e os custos para as famílias, embora os mencione na fundamentação. As parcerias com o setor privado exigem regras de acesso e qualidade que o texto não define.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não indica valores. O reforço do apoio domiciliário e das auditorias aumentaria a despesa, mas a dimensão não é apresentada."
+ },
+ "affected": [
+  "idosos",
+  "cuidadores informais",
+  "lares e instituições sociais",
+  "famílias"
+ ],
+ "categories": [
+  "familia",
+  "saude"
+ ],
+ "tags": [
+  "idosos",
+  "lares",
+  "apoio domiciliário",
+  "cuidadores informais",
+  "envelhecimento"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

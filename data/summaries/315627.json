@@ -1,0 +1,43 @@
+{
+ "short_title": "Limites à publicidade de jogos, apostas e lotarias instantâneas",
+ "summary": "Projeto de Lei do Bloco de Esquerda que altera o artigo 21.º do Código da Publicidade. Proíbe expressamente a publicidade a lotarias instantâneas (raspadinhas), proíbe a publicidade a jogos e apostas entre as 7h00 e as 22h30, independentemente do suporte, e impede que comunicações comerciais e eventos em que participem menores, como atividades desportivas, culturais ou recreativas, mencionem marcas de lotarias instantâneas, incluindo nos locais onde decorram. A lei entraria em vigor 30 dias após a aprovação.",
+ "key_points": [
+  "Proibição expressa da publicidade a lotarias instantâneas.",
+  "Proibição da publicidade a jogos e apostas entre as 7h00 e as 22h30, em qualquer suporte.",
+  "Proibição de menções a marcas de lotarias instantâneas em comunicações e eventos em que participem menores.",
+  "Proibição de exibir marcas de lotarias instantâneas nos locais desses eventos.",
+  "Entrada em vigor 30 dias após a aprovação."
+ ],
+ "plain_language": "O Bloco propõe que não se possa fazer publicidade a raspadinhas e que a publicidade a jogos e apostas só seja permitida à noite, entre as 22h30 e as 7h00. Também não poderia haver marcas de raspadinhas em eventos com crianças e jovens.",
+ "context": "O Bloco refere que a lei já exige publicidade socialmente responsável, mas considera insuficiente a proteção de menores e de grupos vulneráveis. Cita um estudo encomendado pelo CES, segundo o qual 76,6% dos consumidores de raspadinha eram de classe média baixa e baixa, e recorda iniciativas anteriores de 2021.",
+ "analysis": "A proposta reforça a proteção de menores e de consumidores vulneráveis com regras objetivas e fáceis de fiscalizar. Fragilidades: a proibição quase total durante o dia, para qualquer suporte, é muito abrangente e levanta questões práticas de aplicação à internet e a emissões internacionais; pode reduzir receitas de patrocínios e de meios de comunicação. O texto não estima esses impactos e a redação sobre entrada em vigor, 30 dias após a aprovação, é pouco precisa.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "As restrições à publicidade e ao patrocínio poderiam reduzir o volume de jogo e as receitas associadas, incluindo as dos meios de comunicação. O texto não apresenta montantes."
+ },
+ "affected": [
+  "consumidores de jogos e apostas",
+  "menores",
+  "operadores de jogos e lotarias",
+  "meios de comunicação e organizadores de eventos"
+ ],
+ "categories": [
+  "consumidores",
+  "saude",
+  "comunicacao"
+ ],
+ "tags": [
+  "publicidade",
+  "jogos e apostas",
+  "raspadinhas",
+  "menores",
+  "Código da Publicidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

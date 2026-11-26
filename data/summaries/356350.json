@@ -1,0 +1,41 @@
+{
+ "short_title": "Reduzir 25% o preço dos passes de transportes públicos",
+ "summary": "O projeto de resolução do PAN recomenda ao Governo que, em articulação com as autoridades de transportes de cada área metropolitana e comunidade intermunicipal, adote as diligências necessárias para reduzir em 25% a tarifa inteira dos passes mensais de âmbito municipal, intermunicipal e metropolitano, incluindo os intermodais, combinado e de rede ou de linha, a partir de 1 de abril de 2026. A redução deveria ser feita de modo a não agravar o défice operacional das empresas públicas e dos operadores. O texto dá como exemplo que o passe metropolitano de Lisboa e Porto, atualmente fixado em 40 euros, passaria a cerca de 30 euros. Sendo uma resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Redução de 25% da tarifa inteira dos passes mensais municipais, intermunicipais e metropolitanos.",
+  "Abrange passes intermodais, combinado e de rede ou de linha.",
+  "Aplicação a partir de 1 de abril de 2026.",
+  "Articulação com as autoridades de transportes das áreas metropolitanas e comunidades intermunicipais.",
+  "A medida não deve agravar o défice operacional das empresas públicas e operadores."
+ ],
+ "plain_language": "O PAN pede ao Governo que baixe em um quarto o preço dos passes mensais de transportes públicos, por exemplo de 40 para cerca de 30 euros nas áreas de Lisboa e Porto. A ideia é compensar a subida dos combustíveis e levar mais pessoas a usar transportes coletivos. É uma recomendação que o Governo pode ou não seguir.",
+ "context": "O proponente aponta a subida dos preços dos combustíveis associada às tensões no Médio Oriente e o seu efeito no custo de vida. Defende os transportes coletivos para reduzir emissões e dependência de combustíveis fósseis, e nota que os preços dos passes se mantêm inalterados desde 2019.",
+ "analysis": "A medida é clara, tem um objetivo mensurável e liga custo de vida, ambiente e transferência modal. Fragilidades: o texto não estima o custo orçamental nem indica como será compensada a perda de receita, apenas que não deve agravar o défice dos operadores; o efeito sobre a procura e a necessidade de reforçar a oferta não são avaliados; a medida beneficia todos os utilizadores, sem diferenciação por rendimento; como resolução, depende de decisão do Governo e das autoridades de transportes.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Uma redução de 25% da tarifa dos passes diminui a receita tarifária dos operadores, implicando compensação pública se o défice não puder agravar. O texto não indica montantes."
+ },
+ "affected": [
+  "utilizadores de passes de transportes públicos",
+  "operadores de transportes",
+  "autoridades de transportes metropolitanas e intermunicipais"
+ ],
+ "categories": [
+  "transportes",
+  "consumidores",
+  "ambiente"
+ ],
+ "tags": [
+  "passes",
+  "transportes públicos",
+  "tarifas",
+  "custo de vida"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

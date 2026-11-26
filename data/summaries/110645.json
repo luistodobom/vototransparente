@@ -1,0 +1,43 @@
+{
+ "short_title": "Proibição das corridas de galgos e de outros canídeos",
+ "summary": "Projeto de lei do BE que proíbe a realização de corridas de galgos e de outros animais da família Canidae. Define-as como eventos que envolvam a instigação à corrida, com isco vivo ou morto ou sem isco, em pistas, instalações ou outros espaços, públicos ou privados, com fins competitivos ou recreativos, e exclui atividades respeitadoras do comportamento natural do animal, sem violência, intimidação ou compostos químicos. A fiscalização cabe às câmaras municipais e à polícia municipal, que podem ordenar medidas cautelares como suspensão de atividade, encerramento preventivo ou apreensão de equipamento. Quem participar ou explorar as corridas é punido nos termos dos n.ºs 3 e 4 do artigo 387.º do Código Penal. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Proíbe corridas de galgos e de outros canídeos, competitivas ou recreativas, com ou sem isco.",
+  "Exclui atividades lúdicas que respeitem o comportamento natural do animal.",
+  "Fiscalização pelas câmaras municipais e polícia municipal.",
+  "Medidas cautelares: suspensão de atividade, encerramento preventivo ou apreensão de equipamento.",
+  "Punição nos termos dos n.ºs 3 e 4 do artigo 387.º do Código Penal."
+ ],
+ "plain_language": "O BE quer proibir as corridas organizadas de galgos e de outros cães, porque considera que implicam treinos violentos, doping e abandono. Passeios e brincadeiras com cães continuam permitidos. Quem participar ou explorar as corridas seria punido nos termos do Código Penal.",
+ "context": "O BE refere pelo menos seis concelhos com pistas amadoras de galgos e mais de duas dezenas de galgueiros em listas de apostadores internacionais, reportagens do Público e da Visão sobre treinos com choques e doping, e o caso de 18 galgos encontrados subnutridos em fevereiro de 2020. Afirma que a proibição também reduziria apostas ilegais.",
+ "analysis": "A proposta distingue com cuidado a corrida organizada da atividade lúdica e prevê fiscalização e medidas cautelares, o que facilita a aplicação. Fragilidades: atribuir a fiscalização aos municípios pode ser insuficiente, dada a dimensão desta atividade, e a remissão para o artigo 387.º do Código Penal fica pouco clara quanto às penas. Os dados assentam em reportagens e casos específicos, sem estatísticas oficiais, e o texto não trata da transição para animais e criadores existentes.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A fiscalização municipal e os processos penais implicam custos e eventuais receitas de sanções, que o texto não quantifica."
+ },
+ "affected": [
+  "galgueiros e organizadores de corridas",
+  "municípios e polícias municipais",
+  "galgos e outros canídeos",
+  "apostadores"
+ ],
+ "categories": [
+  "animais",
+  "justica",
+  "desporto"
+ ],
+ "tags": [
+  "galgos",
+  "corridas de cães",
+  "maus-tratos",
+  "fiscalização municipal",
+  "código penal"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

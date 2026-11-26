@@ -1,0 +1,43 @@
+{
+ "short_title": "Prestações sociais: exigir 5 anos de residência legal a imigrantes",
+ "summary": "Projeto de Lei do CHEGA que altera os critérios de atribuição de prestações sociais a estrangeiros provenientes de Estados terceiros sem acordo de livre circulação com a União Europeia. Altera o artigo 6.º da Lei n.º 13/2003, passando o direito ao rendimento social de inserção a exigir, a estes cidadãos, residência legal em Portugal nos últimos 5 anos, comprovada por autorização de residência. Altera também o artigo 7.º do Decreto-Lei n.º 176/2003, de modo a que, para o abono de família, o estrangeiro de Estado terceiro tenha autorização de residência há pelo menos 5 anos. Prevê que o prazo mínimo não se aplique a menores de 5 anos do agregado. Entra em vigor no dia seguinte à publicação.",
+ "key_points": [
+  "Rendimento social de inserção: residência legal nos últimos 5 anos para nacionais de Estados terceiros sem acordo de livre circulação.",
+  "Abono de família: autorização de residência há pelo menos 5 anos para os mesmos cidadãos.",
+  "Nacionais, cidadãos da UE/EEE e de Estados com acordo de livre circulação mantêm a regra de residência legal.",
+  "Exceção ao prazo de 5 anos para menores de 5 anos do agregado familiar no RSI.",
+  "Entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O CHEGA propõe que cidadãos estrangeiros de países fora da UE (e sem acordo de livre circulação) só possam receber o rendimento social de inserção e o abono de família depois de terem residência legal em Portugal há pelo menos 5 anos. Portugueses e cidadãos da UE continuam a ter acesso com residência legal.",
+ "context": "O proponente sustenta que as prestações não contributivas estão acessíveis a qualquer estrangeiro residente, independentemente do tempo de permanência ou de contribuições. Invoca dados sobre emprego de imigrantes e contribuições, e defende que o acesso deve exigir antes uma permanência mínima de 5 anos com descontos.",
+ "analysis": "A medida é clara e simples de aplicar, e o requisito de residência prolongada existe noutros ordenamentos. Fragilidades: o texto fala em 5 anos de permanência com descontos, mas o articulado exige apenas residência legal, e os dados invocados são genéricos. Há risco de questões constitucionais de igualdade e de compatibilidade com obrigações internacionais, sobretudo para o abono de família e para famílias com crianças, e possíveis efeitos de agravamento da pobreza infantil, que o texto não analisa. Não quantifica poupanças.",
+ "fiscal_impact": {
+  "direction": "reduz_despesa",
+  "explanation": "Ao restringir o acesso durante 5 anos a certos residentes estrangeiros, tenderia a reduzir despesa com prestações, mas o texto não quantifica o efeito."
+ },
+ "affected": [
+  "imigrantes de Estados terceiros",
+  "famílias com crianças",
+  "beneficiários do RSI e do abono de família",
+  "Segurança Social"
+ ],
+ "categories": [
+  "imigracao",
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "rendimento social de inserção",
+  "abono de família",
+  "imigrantes",
+  "residência legal",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Proteção dos idosos contra a violência",
+ "summary": "Este projeto de resolução do PAN recomenda ao Governo quatro medidas para efetivar o direito dos idosos à proteção contra a violência: criar uma Comissão Nacional de Apoio ao Idoso, multidisciplinar, para intervenção precoce em situações de abuso ou negligência; criar, com os municípios, um projeto-piloto de comissões locais de proteção de pessoas idosas, de base comunitária e com intervenção mínima; operacionalizar a prioridade dos idosos vítimas de violência doméstica no encaminhamento para equipamentos e serviços de apoio; e promover ações de sensibilização e um canal telefónico de denúncia e apoio. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Criar uma Comissão Nacional de Apoio ao Idoso, de composição multidisciplinar.",
+  "Criar um projeto-piloto de comissões locais de proteção de pessoas idosas, com os municípios.",
+  "Dar prioridade aos idosos vítimas de violência doméstica no acesso a equipamentos e serviços de apoio.",
+  "Promover sensibilização e um canal telefónico de denúncia e apoio."
+ ],
+ "plain_language": "O PAN pede ao Governo que crie estruturas nacionais e locais para detetar e prevenir maus-tratos a idosos, que garanta vaga prioritária a idosos vítimas de violência doméstica e que crie uma linha telefónica de denúncia. O Governo não é obrigado a seguir.",
+ "context": "O PAN cita a definição da OMS de violência contra pessoas idosas e dados da APAV: 6 523 pessoas idosas vítimas entre 2021 e 2024, cerca de 5 por dia, maioritariamente mulheres. Refere ainda que a Estratégia Nacional para o Envelhecimento Ativo e Saudável 2017-2025 continua por implementar.",
+ "analysis": "As medidas são concretas e complementam o futuro Estatuto da Pessoa Idosa, apoiando-se em dados da APAV. Contudo, não definem competências, financiamento nem relação entre a nova comissão e as entidades existentes, o que pode gerar sobreposições. O projeto-piloto local é prudente mas limita a cobertura inicial, e sendo uma recomendação, a execução depende do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de comissões, de um canal de denúncia e de respostas de acolhimento implicaria despesa pública, que o texto não quantifica."
+ },
+ "affected": [
+  "pessoas idosas vítimas de violência",
+  "municípios",
+  "serviços de apoio a vítimas",
+  "famílias"
+ ],
+ "categories": [
+  "familia",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "idosos",
+  "violência",
+  "comissão nacional",
+  "violência doméstica"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Análise obrigatória de glifosato na água de consumo",
+ "summary": "O projeto de lei do BE altera o artigo 12.º do Regime da Qualidade da Água Destinada ao Consumo Humano (Decreto-Lei n.º 306/2007) para determinar que o glifosato conste da lista de pesticidas que as entidades gestoras devem controlar. A alteração consiste em acrescentar um n.º 11 ao artigo 12.º, e a lei entra em vigor 90 dias após a publicação. O proponente considera incompreensível que o herbicida não conste da listagem, dado o seu uso extenso, e recorda que a Direção-Geral de Alimentação e Veterinária apenas recomenda a pesquisa anual em águas de captação superficial para 2019-2021.",
+ "key_points": [
+  "Acrescenta o n.º 11 ao artigo 12.º do Decreto-Lei n.º 306/2007.",
+  "O glifosato passa a constar obrigatoriamente da lista de pesticidas a controlar na água de consumo.",
+  "Entra em vigor 90 dias após a publicação."
+ ],
+ "plain_language": "O Bloco de Esquerda quer que a lei obrigue as entidades que fornecem água potável a testar a presença de glifosato, um herbicida muito usado. Hoje, esse teste é apenas recomendado e não obrigatório.",
+ "context": "O proponente refere que a Organização Mundial de Saúde classificou o glifosato como provavelmente cancerígeno em humanos e que este é o herbicida mais vendido no país. Defende que a água canalizada deve ser analisada para vários poluentes e que os resultados devem ser públicos.",
+ "analysis": "A proposta é simples e fácil de executar, tornando obrigatória uma pesquisa que hoje é apenas recomendada. Não define, porém, a frequência da análise, os limites de referência, as consequências de resultados acima desses limites, nem a forma de divulgação pública dos dados que a exposição de motivos defende. O texto também não avalia os custos para as entidades gestoras. A alteração é muito sucinta e assenta numa remissão para a lista de pesticidas já existente.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A obrigação implica custos de análise para as entidades gestoras de água, que o texto não quantifica."
+ },
+ "affected": [
+  "consumidores de água",
+  "entidades gestoras de abastecimento de água"
+ ],
+ "categories": [
+  "saude",
+  "consumidores",
+  "ambiente"
+ ],
+ "tags": [
+  "glifosato",
+  "água potável",
+  "qualidade da água",
+  "pesticidas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Estudo independente sobre o Sistema Elétrico Nacional",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo a realização, com carácter de urgência, de um estudo técnico-económico independente e público sobre o Sistema Elétrico Nacional. O estudo deve cobrir todas as tecnologias de produção, quantificar de forma desagregada os custos reais por tecnologia (investimento, operação, intermitência, armazenamento, reforço de rede e subsídios), analisar cenários para 2030, 2040 e 2050 incluindo o papel de centrais nucleares modernas, redes inteligentes e hidrogénio de baixo carbono, contar com entidades académicas de reconhecido mérito e publicar integralmente os resultados, submetendo-os à Assembleia da República.",
+ "key_points": [
+  "Estudo técnico-económico independente e público sobre o Sistema Elétrico Nacional, com carácter de urgência.",
+  "Custos reais por tecnologia, incluindo intermitência, armazenamento, redes e subsídios diretos e indiretos.",
+  "Cenários para 2030, 2040 e 2050, incluindo energia nuclear, redes inteligentes e hidrogénio de baixo carbono.",
+  "Participação de entidades académicas e técnicas de reconhecido mérito, com publicação integral dos resultados.",
+  "Entrega dos resultados à Assembleia da República."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que mande fazer um estudo independente e público que mostre quanto custa realmente produzir eletricidade em Portugal com cada tecnologia, incluindo a energia nuclear, e que compare cenários até 2050. Os resultados seriam entregues ao Parlamento. É uma recomendação, sem força de lei.",
+ "context": "O proponente defende que não existe um estudo público e independente que explique os custos do sistema elétrico, e que a aposta em renováveis intermitentes, sem capacidade estável de apoio, aumentou a dependência de importações. Aponta uma dependência de cerca de 70% de energia primária importada e uma fatura elétrica entre as mais altas da UE.",
+ "analysis": "Um estudo transparente sobre custos do sistema elétrico pode ser útil para o debate informado e o texto declara que não privilegia nenhuma tecnologia. Contudo, a exposição de motivos contém afirmações fortemente valorativas sobre as opções passadas, que sugerem conclusões antes do estudo, e atribui ao setor problemas sem apresentar dados verificáveis. Não define o orçamento, o responsável nem o prazo. Há estudos e planos nacionais já existentes que o texto não reconhece. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A realização de um estudo com participação académica implica um custo pontual para o Estado; o texto não indica montantes nem o financiamento, que refere poder recorrer a fundos europeus."
+ },
+ "affected": [
+  "consumidores de eletricidade",
+  "empresas",
+  "Governo e entidades reguladoras do setor energético"
+ ],
+ "categories": [
+  "energia",
+  "economia"
+ ],
+ "tags": [
+  "sistema elétrico",
+  "energia nuclear",
+  "custos da eletricidade",
+  "renováveis",
+  "estudo técnico-económico"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

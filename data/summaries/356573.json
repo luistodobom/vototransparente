@@ -1,0 +1,43 @@
+{
+ "short_title": "Medidas excecionais de apoio aos municípios afetados pelas tempestades",
+ "summary": "O projeto de lei do PCP aprova medidas excecionais de apoio a todos os municípios afetados pelas tempestades de janeiro e fevereiro de 2026, e não só aos identificados pelo Governo. Os empréstimos contraídos para a parte não comparticipada não contam para o limite da dívida total; as câmaras podem contrair empréstimos a 12 meses, que podem ultrapassar o ano orçamental, sem autorização prévia da assembleia municipal, apenas com ratificação posterior. Em 2026 suspende-se a regra do equilíbrio orçamental e os municípios ficam excecionados da Lei dos Compromissos e Pagamentos em Atraso quanto a despesas das tempestades. As isenções de taxas e tarifas são compensadas pelo Estado no Orçamento seguinte, se pedidas até outubro de 2026. As tempestades são consideradas acontecimentos imprevisíveis para ajuste direto. Produz efeitos a 28 de janeiro de 2026.",
+ "key_points": [
+  "Aplicação a todos os municípios afetados pelas tempestades, para além dos identificados pelo Governo.",
+  "Empréstimos para a parte não comparticipada não relevam para o limite da dívida total.",
+  "Empréstimos de curto prazo a 12 meses, sem autorização prévia da assembleia municipal, com ratificação posterior.",
+  "Suspensão em 2026 da regra do equilíbrio orçamental e exceção à Lei dos Compromissos e Pagamentos em Atraso.",
+  "Compensação pelo Estado das isenções de taxas e tarifas, se pedida até outubro de 2026.",
+  "Tempestades tratadas como acontecimento imprevisível para efeitos de ajuste direto."
+ ],
+ "plain_language": "O PCP propõe que os municípios atingidos pelas tempestades de 2026 possam gastar e pedir empréstimos mais facilmente para reparar estragos, sem ficarem presos a várias regras de contas e de contratação. O Estado compensaria as taxas e tarifas que os municípios deixassem de cobrar para ajudar as pessoas.",
+ "context": "O PCP critica a resposta do Governo às tempestades, que considera tardia, descoordenada e insuficiente, e o plano PTRR, por falta de medidas e meios identificados. Defende que se considerem todos os municípios afetados e se facilite o recurso ao crédito e a recuperação das infraestruturas municipais.",
+ "analysis": "A medida dá flexibilidade imediata aos municípios e alarga o âmbito a todos os afetados, e tem prazos curtos e o mecanismo de ratificação pela assembleia municipal. Fragilidades: a exceção ao limite de dívida, a suspensão do equilíbrio orçamental e o ajuste direto reduzem controlos de risco financeiro e de transparência, sem estimativa do montante em causa; a compensação das isenções pelo Estado cria despesa não quantificada; a exposição de motivos é fortemente crítica do Governo, o que não é necessário ao dispositivo; há sobreposição com outras iniciativas sobre o mesmo tema.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O texto prevê compensação estatal das isenções de taxas e tarifas e permite maior endividamento municipal fora dos limites. Não apresenta montantes."
+ },
+ "affected": [
+  "municípios afetados pelas tempestades",
+  "populações afetadas",
+  "Estado e Orçamento do Estado"
+ ],
+ "categories": [
+  "territorio",
+  "economia",
+  "seguranca"
+ ],
+ "tags": [
+  "tempestades",
+  "municípios",
+  "endividamento",
+  "ajuste direto",
+  "calamidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

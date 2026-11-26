@@ -1,0 +1,43 @@
+{
+ "short_title": "Limites ao acesso ao TVDE nas regiões autónomas",
+ "summary": "A Assembleia Legislativa da Madeira propõe aditar à Lei n.º 45/2018 (regime TVDE) o artigo 32.º-A, que aplica a lei às Regiões Autónomas com as adaptações necessárias e mantém o acesso ao mercado, em regra, livre. Excecionalmente, e com base em critérios técnicos e quantitativos, os Governos Regionais dos Açores e da Madeira, ouvidos os municípios e o setor, podem restringir ou condicionar o acesso quando a taxa de veículos TVDE ultrapassar um limite máximo, houver aumento de tráfego acima de um limiar em zonas críticas ou a ocupação dos veículos for estruturalmente baixa. As medidas só podem ser licenças com obrigações de serviço público ou condições, ou um contingente máximo de veículos, e dependem de estudo técnico. Até à conclusão do estudo, as regiões podem suspender por até 6 meses novas licenças e averbamentos. O diploma declara não ter encargos para o Orçamento do Estado.",
+ "key_points": [
+  "Aplica o regime TVDE às Regiões Autónomas, com adaptações, mantendo o acesso em regra livre.",
+  "Permite aos Governos Regionais restringir o acesso com base em critérios técnicos e quantitativos.",
+  "As medidas limitam-se a licenças condicionadas ou a um contingente máximo de veículos.",
+  "Exige estudo técnico sobre mobilidade, segurança rodoviária, ambiente e equilíbrio económico do setor.",
+  "Autoriza a suspensão da emissão de novas licenças por até 6 meses até concluir o estudo."
+ ],
+ "plain_language": "A Madeira propõe que os governos regionais dos Açores e da Madeira possam limitar o número de carros TVDE (como Uber e Bolt) nas ilhas, se houver demasiados, trânsito ou pouca utilização. Podem parar durante 6 meses a emissão de novas licenças enquanto fazem um estudo.",
+ "context": "A Assembleia da Madeira alega que o número de operadores TVDE cresceu significativamente, e que nas ilhas, pela pequena dimensão, concentração urbana e estradas estreitas, isso causa congestionamento, risco de acidentes, dificuldades para meios de socorro e queda dos rendimentos dos motoristas, justificando medidas de ordenação da oferta.",
+ "analysis": "A proposta dá instrumentos de gestão com critérios objetivos e exige estudo técnico e audição dos municípios e do setor, o que limita a arbitrariedade. Fragilidades: restringir o acesso por contingentes pode colidir com a liberdade de iniciativa económica e a concorrência, favorecendo os táxis, e as razões invocadas (segurança, rendimentos) não são sustentadas por dados no texto. A autorização imediata de suspensão por seis meses antecede o estudo que deve justificar as medidas, e os limiares são remetidos para o estudo.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "A nota justificativa declara que o diploma não acarreta encargos financeiros para o Orçamento do Estado."
+ },
+ "affected": [
+  "motoristas e operadores TVDE",
+  "taxistas",
+  "passageiros nas ilhas",
+  "Governos Regionais dos Açores e da Madeira"
+ ],
+ "categories": [
+  "transportes",
+  "economia",
+  "territorio"
+ ],
+ "tags": [
+  "TVDE",
+  "Madeira",
+  "Açores",
+  "contingentes",
+  "mobilidade"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

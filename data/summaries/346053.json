@@ -1,0 +1,39 @@
+{
+ "short_title": "Programa nacional de distribuição de kits de emergência",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo três medidas: criar, por despacho conjunto dos membros do Governo da defesa e da proteção civil, um programa nacional de distribuição de kits de emergência doméstica; distribuir kits com os bens essenciais previstos na Estratégia da União Europeia para uma União da Preparação, para catástrofes naturais ou de origem humana, ameaças híbridas e crises geopolíticas; e promover ações de sensibilização da população e simulacros. O texto indica, segundo a estratégia europeia, itens como água, alimentos não perecíveis para três dias, rádio portátil, lanterna, pilhas, primeiros socorros e documentos.",
+ "key_points": [
+  "Criar, por despacho conjunto da defesa e da proteção civil, um programa nacional de kits de emergência doméstica.",
+  "Distribuir kits com os bens essenciais da Estratégia da UE para uma União da Preparação, acessíveis a todos os agregados.",
+  "Promover ações de sensibilização e simulacros para diferentes cenários de risco."
+ ],
+ "plain_language": "O LIVRE propõe que o Estado distribua a cada casa um kit com o essencial para aguentar cerca de 72 horas numa emergência, como água, comida, rádio e lanterna, e que haja campanhas e exercícios de preparação. É uma recomendação ao Governo.",
+ "context": "O LIVRE refere o contexto de guerra híbrida na Europa, incidentes com drones, alterações climáticas, a depressão Kristin e o apagão de abril de 2025. Invoca a estratégia europeia de preparação, que recomenda a autossuficiência da população durante pelo menos 72 horas.",
+ "analysis": "A proposta alinha-se com uma estratégia europeia e responde a vulnerabilidades observadas. Fragilidades: distribuir kits a todos os agregados residentes tem custo potencialmente elevado, não estimado; não define quem os compra, prazos, validade dos bens ou critérios de prioridade; e a estratégia europeia refere a aquisição de kits pelas populações, não necessariamente a distribuição pública. A participação conjunta da defesa e da proteção civil exige articulação institucional. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Distribuir kits de emergência a todos os agregados residentes implicaria despesa pública relevante, que o texto não quantifica."
+ },
+ "affected": [
+  "agregados familiares residentes em Portugal",
+  "proteção civil",
+  "Ministérios da Defesa e da Administração Interna"
+ ],
+ "categories": [
+  "seguranca",
+  "defesa"
+ ],
+ "tags": [
+  "kits de emergência",
+  "proteção civil",
+  "preparação",
+  "resiliência",
+  "União da Preparação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

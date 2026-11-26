@@ -1,0 +1,45 @@
+{
+ "short_title": "Proteção de denunciantes: transposição da Diretiva 2019/1937",
+ "summary": "A Proposta de Lei n.º 91/XIV, do Governo, transpõe a Diretiva (UE) 2019/1937 e cria o regime geral de proteção de denunciantes. Obriga as pessoas coletivas com 50 ou mais trabalhadores (incluindo o Estado) e as abrangidas por certos atos da União a ter canais de denúncia interna, e as autoridades competentes a ter canais externos, com prazos de resposta (receção em 7 dias; informação sobre seguimento em 3 meses, ou 6 se for complexa). Garante confidencialidade, proíbe a retaliação (com presunção de motivação em atos praticados até um ano após a denúncia), prevê isenção de responsabilidade do denunciante, nulidade de cláusulas que limitem denúncias e contraordenações com coimas, cuja aplicação cabe ao mecanismo nacional anticorrupção. Entra em vigor 180 dias após a publicação.",
+ "key_points": [
+  "Entidades com 50 ou mais trabalhadores, incluindo o Estado e pessoas coletivas públicas, têm de dispor de canais de denúncia interna; autarquias com menos de 10 000 habitantes ficam dispensadas.",
+  "As autoridades competentes mantêm canais externos independentes, confirmam a receção em sete dias e informam o denunciante do seguimento em três meses (seis se a complexidade o justificar).",
+  "A identidade do denunciante é confidencial e só pode ser divulgada com consentimento, por obrigação legal ou decisão judicial.",
+  "São proibidas represálias; presumem-se retaliatórios, até prova em contrário, atos como despedimento, avaliação negativa ou alteração unilateral de condições de trabalho até um ano após a denúncia.",
+  "O denunciante não responde disciplinar, civil, contraordenacional ou criminalmente pela denúncia feita nos termos da lei.",
+  "Contraordenações muito graves (por exemplo, retaliar ou violar a confidencialidade) têm coimas de 1 000 a 5 000 euros (pessoas singulares) ou 2 000 a 50 000 euros (pessoas coletivas); as graves vão de 500 a 2 500 e de 1 000 a 25 000 euros."
+ ],
+ "plain_language": "Quem denunciar ilegalidades graves no seu local de trabalho passa a ter proteção legal. As organizações com 50 ou mais trabalhadores têm de criar um canal seguro para receber denúncias, e há também canais junto das autoridades. A identidade de quem denuncia fica protegida e não pode haver represálias, como despedimento ou piores condições de trabalho; quem as praticar arrisca coimas e pode ter de indemnizar. Quem denuncia de acordo com a lei não pode ser punido por isso.",
+ "context": "O Governo afirma que Portugal não tem um regime transversal de proteção dos denunciantes, apenas normas dispersas, e que a Diretiva (UE) 2019/1937 exige canais de denúncia e a proibição de retaliação. A proposta alarga a proteção a certos crimes graves, além das infrações ao direito da União, e prevê a audição de várias entidades, como os conselhos superiores das magistraturas.",
+ "analysis": "A proposta cria um quadro completo e coerente: canais internos e externos, prazos, confidencialidade, presunções de retaliação, nulidade de cláusulas contratuais restritivas e proteção da pessoa visada (presunção de inocência). Vai além da diretiva ao incluir criminalidade grave. Fragilidades possíveis: custos de implementação para entidades de média dimensão (mitigados pela partilha de recursos entre 50 e 249 trabalhadores) e a necessidade de meios para as autoridades tratarem denúncias externas; a concentração da aplicação das coimas no mecanismo nacional anticorrupção exige capacidade institucional. A prova de que a retaliação decorre da denúncia mantém-se relevante, apesar das presunções.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de canais internos e externos, a formação de funcionários e a instalação de estruturas junto do Estado implicam custos, que o texto não quantifica. As coimas previstas podem gerar alguma receita, também não estimada."
+ },
+ "affected": [
+  "denunciantes",
+  "trabalhadores",
+  "entidades públicas e privadas com 50 ou mais trabalhadores",
+  "autoridades competentes",
+  "mecanismo nacional anticorrupção"
+ ],
+ "categories": [
+  "justica",
+  "trabalho",
+  "internacional"
+ ],
+ "tags": [
+  "denunciante",
+  "diretiva 2019/1937",
+  "whistleblowing",
+  "canais de denúncia",
+  "retaliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "short_title": "Comissão Eventual de Verificação de Poderes dos Deputados",
+ "summary": "Projeto de Resolução subscrito por todos os partidos com representação parlamentar que constitui a Comissão Eventual de Verificação de Poderes dos Deputados Eleitos à XVI Legislatura, mantendo-se em funcionamento até que se constitua a comissão competente. É composta por 6 deputados do PSD, 6 do PS, 3 do Chega, e 1 de cada um dos restantes partidos (IL, BE, PCP, Livre e CDS-PP), nomeados no texto. Elege a Mesa e designa um relator. Elabora um relatório com a declaração de verificação de poderes e as substituições de deputados eleitos, a submeter a parecer formal e votação do Plenário.",
+ "key_points": [
+  "Comissão eventual com 18 membros distribuídos pelos partidos eleitos.",
+  "Elege a Mesa e designa um relator.",
+  "Relatório com verificação de poderes e substituições de deputados.",
+  "Parecer formal submetido a votação e aprovação do Plenário.",
+  "Funciona até se constituir a comissão competente."
+ ],
+ "plain_language": "Quando começa uma legislatura, é preciso confirmar que os deputados eleitos cumprem os requisitos para ocupar o lugar. Este texto cria uma comissão temporária, com membros de todos os partidos, para o verificar e propor substituições quando necessário.",
+ "context": "O texto invoca a constituição da XVI Legislatura e a lista do mapa de apuramento geral da Comissão Nacional de Eleições. Não inclui outra exposição de motivos.",
+ "analysis": "É um procedimento tradicional no início de cada legislatura e com composição proporcional e consensual, o que reforça a sua legitimidade. O documento é essencialmente organizativo. O texto não aponta riscos, e o relatório final tem de ser aprovado pelo Plenário.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Ato organizativo sem efeitos financeiros indicados no texto."
+ },
+ "affected": [
+  "deputados eleitos",
+  "partidos com representação parlamentar",
+  "Assembleia da República"
+ ],
+ "categories": [
+  "instituicoes"
+ ],
+ "tags": [
+  "verificação de poderes",
+  "comissão eventual",
+  "xvi legislatura",
+  "deputados"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Proteção prioritária dos animais na proteção civil",
+ "summary": "Este projeto de resolução do CHEGA recomenda ao Governo que inclua a proteção dos animais, em especial os que se encontram em abrigos e centros de recolha públicos, na legislação nacional de proteção civil. Propõe também que a defesa da vida e da integridade animal seja definida como fundamental e prioritária, para todas as forças e autoridades públicas, em qualquer cenário de catástrofe previsto na lei. Por fim, recomenda um levantamento e fiscalização de todos os centros de abrigo animal no prazo máximo de três meses, em articulação com as autarquias, para verificar se as condições de acesso, proteção e salvaguarda são adequadas em caso de incêndio ou outras catástrofes naturais. Sendo uma resolução, é uma recomendação ao Governo, sem força vinculativa.",
+ "key_points": [
+  "Incluir a proteção dos animais, sobretudo os de abrigos e centros de recolha públicos, na legislação de proteção civil.",
+  "Definir a defesa da vida e integridade animal como prioritária para todas as forças e autoridades públicas em cenários de catástrofe.",
+  "Fazer, no prazo máximo de três meses, o levantamento e fiscalização de todos os centros de abrigo animal.",
+  "Articular essa fiscalização com as autarquias locais."
+ ],
+ "plain_language": "O partido pede ao Governo que, quando há incêndios ou outras catástrofes, os animais também sejam protegidos de forma organizada, em especial os que estão em canis e abrigos públicos. Pede ainda que se verifique, em três meses, se esses abrigos têm condições de segurança e acesso para serem salvos numa emergência. É apenas uma recomendação.",
+ "context": "O proponente refere que a proteção animal é um tema cada vez mais central, mas que persistem obstáculos à sua efetiva proteção, como se torna notório sempre que deflagram fortes incêndios em Portugal. Defende por isso um enquadramento jurídico que dote as autoridades de mecanismos para proteger os animais em catástrofes.",
+ "analysis": "A iniciativa aborda uma lacuna real, a ausência de referência explícita aos animais nos planos de emergência, e fixa um prazo concreto para o levantamento dos abrigos. Contudo, é vaga quanto ao conteúdo da alteração legislativa, aos meios necessários e à articulação com as prioridades de salvaguarda de pessoas, não prevendo como se compatibilizam. Não identifica quem executa a fiscalização nem o custo, e, tratando-se de recomendação, não obriga o Governo. O prazo de três meses para todos os centros do país pode ser difícil de cumprir.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O levantamento e a fiscalização dos abrigos e eventuais adaptações implicam custos para o Estado e autarquias, mas o texto não indica montantes."
+ },
+ "affected": [
+  "animais em abrigos e centros de recolha",
+  "autarquias",
+  "autoridades de proteção civil"
+ ],
+ "categories": [
+  "animais",
+  "seguranca"
+ ],
+ "tags": [
+  "proteção civil",
+  "animais",
+  "abrigos",
+  "incêndios",
+  "catástrofes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

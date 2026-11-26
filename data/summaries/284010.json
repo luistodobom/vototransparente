@@ -1,0 +1,39 @@
+{
+ "short_title": "Prioridade na matrícula para irmãos no mesmo agrupamento",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo a alteração do Despacho Normativo n.º 6/2018 para que a prioridade na matrícula ou renovação de matrícula, na educação pré-escolar, no ensino básico e no secundário, seja atribuída a crianças e jovens com irmãos ou outros jovens do mesmo agregado familiar que frequentem o agrupamento de escolas onde se insere o estabelecimento pretendido, e não apenas a própria escola. A iniciativa invoca as dificuldades de organização das famílias e a possível separação de irmãos em agrupamentos distintos. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda alterar o Despacho Normativo n.º 6/2018, de 12 de abril.",
+  "Prioridade passa a aplicar-se a irmãos que frequentem o mesmo agrupamento de escolas.",
+  "Abrange pré-escolar, ensino básico e ensino secundário.",
+  "Aplica-se também a outras crianças do mesmo agregado familiar."
+ ],
+ "plain_language": "Hoje, um aluno só tem prioridade na matrícula se o irmão estiver na mesma escola. O PAN pede ao Governo que a prioridade valha também quando o irmão está noutra escola do mesmo agrupamento, para evitar separar irmãos e facilitar a vida às famílias.",
+ "context": "O PAN explica que, pelo quadro atual, irmãos com grande diferença de idade podem não ter prioridade e acabar em agrupamentos distintos, até noutras freguesias ou concelhos, com dificuldades logísticas e possíveis calendários escolares diferentes devido à organização semestral prevista no Despacho n.º 8368/2024.",
+ "analysis": "A proposta é simples e responde a uma dificuldade prática das famílias. Contudo, ao alargar a prioridade ao agrupamento, pode reduzir vagas para outros critérios de prioridade, como a proximidade da residência, e agravar a pressão em escolas muito procuradas. O texto não avalia este efeito nem apresenta dados sobre quantas famílias são afetadas.",
+ "fiscal_impact": {
+  "direction": "neutro",
+  "explanation": "Alteração de critérios administrativos de matrícula. O texto não indica custos ou receitas."
+ },
+ "affected": [
+  "famílias com vários filhos em idade escolar",
+  "alunos",
+  "agrupamentos de escolas"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "matrícula",
+  "irmãos",
+  "agrupamentos de escolas",
+  "despacho normativo"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

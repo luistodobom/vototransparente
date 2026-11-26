@@ -1,0 +1,40 @@
+{
+ "short_title": "Valorizar os cuidados paliativos comunitários",
+ "summary": "Projeto de Resolução do PS que recomenda ao Governo cinco medidas para as Equipas Comunitárias de Suporte em Cuidados Paliativos (ECSCP): expandir e consolidar a Rede Nacional de Cuidados Paliativos, com cobertura territorial progressiva e equitativa; adotar medidas de incentivo à fixação de profissionais nestas equipas, com condições remuneratórias e funcionais adequadas; priorizar a resposta de proximidade e domiciliária; clarificar e reforçar a articulação entre as ECSCP, os cuidados continuados, as equipas hospitalares, a hospitalização domiciliária e a RNCCI; e apresentar à Assembleia da República, em seis meses, um relatório sobre a implementação, a cobertura e os recursos humanos.",
+ "key_points": [
+  "Expandir a Rede Nacional de Cuidados Paliativos, reforçando as equipas comunitárias com cobertura equitativa.",
+  "Criar incentivos à fixação de profissionais nas equipas comunitárias.",
+  "Priorizar a capacidade domiciliária e comunitária dos cuidados paliativos.",
+  "Reforçar a articulação com cuidados continuados, equipas hospitalares e hospitalização domiciliária.",
+  "Apresentar um relatório ao Parlamento no prazo máximo de seis meses."
+ ],
+ "plain_language": "O PS pede ao Governo que reforce as equipas que prestam cuidados paliativos em casa e na comunidade, que melhore as condições para os profissionais ficarem nestas equipas e que, em seis meses, informe o Parlamento sobre o que foi feito. É uma recomendação.",
+ "context": "O PS sustenta que as equipas comunitárias têm papel central na continuidade de cuidados e na redução de internamentos evitáveis. Cita estudos do Observatório Português dos Cuidados Paliativos que associam a sua intervenção a menos 25% a 40% de internamentos evitáveis e redução de custos até 30% por doente, e aponta desigualdades territoriais e precariedade.",
+ "analysis": "A proposta é concreta no mecanismo de acompanhamento (relatório a seis meses) e baseia-se em estudos, embora os valores percentuais citados não venham acompanhados de referência detalhada. Não define metas de cobertura, número de equipas, incentivos concretos nem financiamento. Sendo uma resolução, não vincula o Governo, e o PS não esclarece as medidas já em curso.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A expansão das equipas e os incentivos à fixação de profissionais implicam mais despesa, que o texto não quantifica; o texto invoca também possíveis poupanças em internamentos evitáveis."
+ },
+ "affected": [
+  "doentes em fim de vida e com doença grave",
+  "famílias e cuidadores",
+  "profissionais das equipas comunitárias",
+  "Unidades Locais de Saúde"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos comunitários",
+  "equipas comunitárias",
+  "cuidados domiciliários",
+  "SNS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

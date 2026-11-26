@@ -1,0 +1,42 @@
+{
+ "short_title": "Laboratório Nacional do Medicamento e roturas de medicamentos",
+ "summary": "Projeto de Lei do PAN que permite ao Laboratório Nacional do Medicamento produzir medicamentos em situação de rotura no mercado nacional, sem alternativa disponível, ou considerados altamente onerosos, mediante decisão fundamentada do INFARMED e parecer não vinculativo de várias entidades. Altera o regime jurídico dos medicamentos de uso humano, o Estatuto do Laboratório Nacional do Medicamento e o regime das farmácias de oficina. Permite ainda que os diretores técnicos das farmácias alterem a forma farmacêutica, a dose ou o tamanho da embalagem quando haja indisponibilidade reiterada, e cria um canal de comunicação entre farmácias e médicos prescritores.",
+ "key_points": [
+  "O Laboratório Nacional do Medicamento pode ser autorizado a produzir medicamentos em rotura ou altamente onerosos, por decisão fundamentada do INFARMED.",
+  "A decisão exige justificação clínica ou demonstração da inexistência de alternativa, vigência limitada e parecer prévio não vinculativo de várias entidades.",
+  "Alteração do Estatuto do Laboratório Nacional do Medicamento para incluir esta atribuição.",
+  "Diretores técnicos de farmácia podem alterar forma farmacêutica, dose ou embalagem em caso de indisponibilidade reiterada.",
+  "Criação de um canal de comunicação entre farmácias e médicos prescritores."
+ ],
+ "plain_language": "Quando um medicamento falta nas farmácias ou custa demasiado, esta proposta permite que o Laboratório Nacional do Medicamento o produza, com autorização do INFARMED. Permite também que o farmacêutico responsável ajuste a dose ou a embalagem quando o medicamento prescrito não está disponível, e prevê um contacto mais rápido entre farmácia e médico.",
+ "context": "O PAN refere roturas de stock em 73% dos hospitais do SNS em 2022 (32% semanais), agravadas pela guerra na Ucrânia, e os custos muito elevados de medicamentos para doenças raras e oncológicas, com exemplos de centenas de milhares a milhões de euros.",
+ "analysis": "Pode reforçar a capacidade pública de resposta e o acesso a terapêuticas. Fragilidades: o texto não demonstra a capacidade técnica e financeira do Laboratório para produzir medicamentos complexos, como terapias génicas, nem trata questões de patentes e licenciamento. Os pareceres prévios de várias entidades podem atrasar a resposta em situações urgentes. A alteração de dose ou forma pelas farmácias levanta questões de segurança clínica. O custo da iniciativa não é estimado.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A produção pública pode reduzir a despesa com medicamentos altamente onerosos, mas exige investimento e custos de produção que o texto não quantifica."
+ },
+ "affected": [
+  "Doentes com medicamentos em rotura ou de custo elevado",
+  "Farmácias e farmacêuticos",
+  "Laboratório Nacional do Medicamento e INFARMED",
+  "Serviço Nacional de Saúde"
+ ],
+ "categories": [
+  "saude",
+  "consumidores"
+ ],
+ "tags": [
+  "medicamentos",
+  "rotura de stock",
+  "laboratório nacional do medicamento",
+  "infarmed",
+  "farmácias"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

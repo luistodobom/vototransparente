@@ -1,0 +1,41 @@
+{
+ "short_title": "PRR: prolongar prazo e garantir equipamentos em curso",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo três medidas sobre o Plano de Recuperação e Resiliência (PRR): intervir junto da União Europeia para prolongar o prazo de execução sem penalizações, garantindo os investimentos no SNS, na escola pública, na habitação e nos transportes sem mais atrasos ou reduções de financiamento; considerar medidas complementares e extraordinárias, legislativas ou de mobilização de meios do Estado, incluindo a renegociação de contratos, para que nenhum equipamento previsto fique por concretizar; e dotar os meios humanos necessários à gestão dos fundos comunitários (PRR, PT2030 e próximo Quadro Financeiro Plurianual), integrando os trabalhadores com experiência no PRR.",
+ "key_points": [
+  "Intervir junto da UE para prolongar o prazo de execução do PRR sem penalizações.",
+  "Garantir que os investimentos previstos no SNS, escola pública, habitação, transportes e mobilidade são concretizados com o PRR.",
+  "Considerar medidas extraordinárias, incluindo legislativas, mobilização de meios do Estado e renegociação de contratos.",
+  "Dotar os meios humanos necessários à gestão dos fundos comunitários e integrar os trabalhadores com experiência no PRR."
+ ],
+ "plain_language": "O PCP receia que muitas obras do PRR, como centros de saúde, escolas e casas, não fiquem prontas a tempo. Pede ao Governo que negoceie com a UE mais prazo, tome medidas para que as obras se façam e mantenha as equipas técnicas que gerem estes fundos. É uma recomendação sem força obrigatória.",
+ "context": "O PCP cita dados da Estrutura de Missão Recuperar Portugal, de 20 de maio de 2026, segundo os quais só 57% dos 21,9 mil milhões de euros tinham sido pagos, ficando por executar mais de 9,4 mil milhões de euros a três meses do prazo. Cita a Comissão Nacional de Acompanhamento do PRR, que refere cumprimento de metas assente em critérios formais, e critica reprogramações que priorizam a execução financeira.",
+ "analysis": "A proposta parte de dados oficiais sobre a baixa execução e identifica um risco real: metas formais sem utilização efetiva dos investimentos. O seu ponto fraco é a dependência de uma decisão da UE sobre o prazo, que o texto não demonstra ser viável, e a falta de estimativa do custo das medidas extraordinárias e da integração de trabalhadores. A exposição de motivos contém também juízos políticos gerais sobre as regras europeias e a contratação pública. A resolução não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A garantia de conclusão dos investimentos e a integração de trabalhadores podem exigir despesa nacional adicional se o financiamento europeu terminar; o texto não indica montantes."
+ },
+ "affected": [
+  "utentes do SNS, alunos e famílias que aguardam equipamentos financiados pelo PRR",
+  "trabalhadores envolvidos na gestão de fundos comunitários",
+  "municípios e entidades beneficiárias do PRR"
+ ],
+ "categories": [
+  "economia",
+  "administracao",
+  "habitacao"
+ ],
+ "tags": [
+  "prr",
+  "fundos comunitários",
+  "prazo de execução",
+  "investimento público",
+  "equipamentos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "short_title": "IRS: isenção para compensações a vítimas de violações graves",
+ "summary": "O Projeto de Lei n.º 652/XVII/1.ª, do LIVRE, altera o artigo 9.º do Código do IRS para alargar a exclusão de tributação às compensações atribuídas no âmbito de mecanismos institucionais de reparação de vítimas de violações graves de direitos fundamentais, designadamente abusos sexuais, maus-tratos ou violência institucional. Para isso, esses mecanismos devem ter regulamento próprio, critérios objetivos de elegibilidade e de atribuição, avaliação individualizada dos danos e decisão de atribuição assente em procedimento formal e fundamentado. Assim, essas compensações ficam fora do âmbito dos incrementos patrimoniais, tal como as indemnizações fixadas por decisão judicial ou arbitral ou por acordo homologado. A solução é geral e não limitada a uma só instituição. A lei entra em vigor no dia seguinte ao da publicação e produz efeitos desde 1 de janeiro de 2027.",
+ "key_points": [
+  "Altera o artigo 9.º do Código do IRS para excluir de tributação compensações de mecanismos institucionais de reparação de vítimas.",
+  "Aplica-se a violações graves de direitos fundamentais, como abusos sexuais, maus-tratos ou violência institucional.",
+  "Exige regulamento próprio, critérios objetivos, avaliação individualizada dos danos e procedimento formal e fundamentado.",
+  "A solução é geral, independente da entidade promotora do mecanismo de compensação.",
+  "Produz efeitos desde 1 de janeiro de 2027."
+ ],
+ "plain_language": "Quando uma instituição paga compensações a vítimas de abusos ou maus-tratos, esse dinheiro pode ser tributado em IRS, ao contrário das indemnizações decididas por um tribunal. Este projeto muda a lei para que essas compensações não paguem IRS, desde que venham de um sistema organizado, com regras claras, análise caso a caso e decisão fundamentada. A medida não depende de qual seja a instituição que paga.",
+ "context": "O LIVRE invoca a dignidade da pessoa humana e o dever do Estado de proteger as vítimas, citando o trabalho da Comissão Independente para o Estudo dos Abusos Sexuais de Crianças na Igreja Católica, com mais de 500 testemunhos validados e um mínimo estimado de 4.815 vítimas, e os efeitos duradouros sobre a saúde mental e as trajetórias de vida. Recusa soluções fiscais casuísticas centradas numa só instituição e defende um princípio geral de igualdade entre vítimas.",
+ "analysis": "Pontos fortes: solução geral e não casuística, com critérios formais que reduzem o risco de abuso do regime e igualam vítimas perante o sistema fiscal. Fragilidades: conceitos como «violações graves de direitos fundamentais» e «mecanismos institucionais» podem gerar incerteza de enquadramento; o texto não estima a perda de receita nem o universo abrangido; e os efeitos só a partir de 2027 deixam sem alívio compensações já pagas. Existem iniciativas de outros partidos centradas apenas nos abusos na Igreja Católica.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A exclusão de IRS das compensações reduz a receita fiscal; o texto não quantifica o montante nem o número de beneficiários."
+ },
+ "affected": [
+  "vítimas de abusos sexuais, maus-tratos ou violência institucional",
+  "instituições que atribuem compensações",
+  "Autoridade Tributária"
+ ],
+ "categories": [
+  "fiscalidade",
+  "direitos",
+  "justica"
+ ],
+ "tags": [
+  "IRS",
+  "compensações a vítimas",
+  "abusos sexuais",
+  "violência institucional",
+  "Código do IRS"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "short_title": "Mais dedução de despesas de educação por dependente (IRS)",
+ "summary": "O projeto de lei do LIVRE altera o artigo 78.º-D do Código do IRS, que regula a dedução das despesas de educação e formação. Mantém a dedução de 30% das despesas, mas atualiza o limite global (hoje 800 euros por agregado, segundo o texto) e os limites aplicáveis a rendas de estudantes deslocados, e cria uma majoração: nos agregados com mais de quatro pessoas, o limite global aumenta 200 euros por cada pessoa adicional. Os novos valores do limite global e do limite das rendas aparecem no texto sobrepostos aos antigos, pelo que a leitura exata deve ser confirmada no documento. Entra em vigor com o Orçamento do Estado subsequente à publicação.",
+ "key_points": [
+  "Atualiza o limite global de dedução das despesas de educação e formação.",
+  "Acrescenta 200 euros ao limite global por cada pessoa acima de quatro no agregado.",
+  "Atualiza o limite de dedução das rendas de estudantes deslocados.",
+  "Entra em vigor com o Orçamento do Estado seguinte à publicação."
+ ],
+ "plain_language": "Quem tem filhos pode abater ao IRS uma parte das despesas com educação, mas há um teto igual para todas as famílias. O LIVRE propõe subir esse teto e aumentá-lo nas famílias maiores, para que quem gasta mais com a educação dos filhos possa deduzir mais.",
+ "context": "O proponente argumenta que as despesas de educação são um dos encargos mais pesados das famílias e que o limite único não distingue agregados com encargos diferentes. Defende que a atualização e a majoração por dependentes melhoram a equidade horizontal do imposto e a ligação à capacidade contributiva.",
+ "analysis": "A medida é simples e dirigida aos agregados maiores, mas tem limitações. Como dedução à coleta com teto, beneficia sobretudo quem paga IRS e tem despesas suficientes para esgotar o limite, não ajudando as famílias isentas. O texto não estima a perda de receita nem o número de beneficiários. A formulação em alguns pontos está confusa (valores sobrepostos), o que levanta dúvidas sobre os montantes exatos propostos.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "Aumentar os limites de dedução reduz a coleta de IRS; o texto não apresenta estimativa da perda de receita."
+ },
+ "affected": [
+  "Famílias com dependentes",
+  "Agregados com mais de quatro pessoas",
+  "Estudantes deslocados e respetivas famílias"
+ ],
+ "categories": [
+  "fiscalidade",
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "irs",
+  "despesas de educação",
+  "deduções",
+  "dependentes"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

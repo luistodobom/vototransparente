@@ -1,0 +1,39 @@
+{
+ "short_title": "Apoio extraordinário a prejuízos de ondas de calor",
+ "summary": "Projeto de Resolução do CHEGA que recomenda ao Governo três ações relativas aos prejuízos causados pelas ondas de calor, seca e incêndios na agricultura e população rural: prosseguir o levantamento de todos os impactos e prejuízos; definir, após o balanço entre prejuízos já ressarcidos e por ressarcir, as prioridades de intervenção pendentes e agilizar o pagamento dos apoios ou indemnizações; e criar e manter operacional, também para efeitos preventivos, uma linha de apoio extraordinário aos prejuízos causados por futuras ondas de calor. O texto cita, entre outros dados, um prejuízo estimado em 100 milhões de euros na produção de pera e maçã do Oeste em 2022. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Prosseguir o levantamento dos prejuízos causados por ondas de calor e incêndios na agricultura e população rural.",
+  "Definir prioridades de intervenção pendentes e agilizar o pagamento de apoios e indemnizações.",
+  "Criar e manter operacional uma linha de apoio extraordinário para futuras ondas de calor."
+ ],
+ "plain_language": "O CHEGA pede ao Governo que contabilize os danos do calor e da seca no campo, pague mais depressa as ajudas ainda em falta e tenha sempre pronta uma linha de apoio para futuras ondas de calor. Não obriga o Governo a fazê-lo.",
+ "context": "O proponente invoca a onda de calor de julho de 2022, a seca sem paralelo desde 1931 e os incêndios, que lesaram a agricultura, a pecuária e as populações rurais, e defende uma estratégia preventiva e ressarcimentos ágeis, sobretudo no interior.",
+ "analysis": "Ponto forte: aponta uma lacuna real, a falta de um instrumento permanente de apoio, e propõe etapas lógicas (levantamento, prioridades, linha). Fragilidades: é uma recomendação sem montantes, critérios de elegibilidade ou fonte de financiamento; não articula com seguros agrícolas ou mecanismos existentes nem define o conceito de «população rural» abrangida; o texto mistura calor, seca e incêndios sem separar apoios.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A criação de uma linha de apoio extraordinário e o pagamento de indemnizações implicariam despesa pública; o texto não indica montantes nem financiamento."
+ },
+ "affected": [
+  "agricultores",
+  "pecuaristas",
+  "população rural"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente",
+  "economia"
+ ],
+ "tags": [
+  "ondas de calor",
+  "seca",
+  "apoio extraordinário",
+  "agricultores"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

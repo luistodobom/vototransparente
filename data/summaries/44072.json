@@ -1,0 +1,43 @@
+{
+ "short_title": "Recuperação do controlo público dos CTT",
+ "summary": "O projeto de lei do PCP estabelece o regime de recuperação do controlo público da CTT - Correios de Portugal, S.A. Define recuperação como a reaquisição integral da propriedade pelo Estado, sob qualquer forma jurídica, e obriga o Governo a adotar os procedimentos necessários, assegurando a continuidade do serviço, os postos de trabalho e a contratação coletiva. Autoriza um regime especial de anulabilidade dos atos que descapitalizaram a empresa, prevê indemnização por prejuízo ao interesse público e a suspensão da negociação de ações, cria uma unidade de missão e fixa o prazo máximo de 180 dias para concretizar a recuperação.",
+ "key_points": [
+  "O Governo fica obrigado a recuperar a propriedade integral dos CTT, independentemente da forma jurídica.",
+  "Deve garantir a manutenção do serviço postal, dos postos de trabalho e da contratação coletiva.",
+  "O Governo fica autorizado a criar por decreto-lei um regime de anulabilidade dos atos que descapitalizaram a empresa desde a privatização.",
+  "O Governo deve identificar atos lesivos do interesse público e exercer o direito a indemnização.",
+  "É criada uma unidade de missão e o Governo pode promover a suspensão da negociação de ações.",
+  "Prazo máximo de 180 dias após a entrada em vigor."
+ ],
+ "plain_language": "O PCP propõe uma lei que obriga o Governo a trazer os CTT de volta para as mãos do Estado em seis meses. A lei prevê que se garanta o serviço de correios e o emprego, que se possam anular atos que tenham enfraquecido a empresa e que o Estado peça indemnização por prejuízos. O valor a pagar aos acionistas seria definido noutra lei.",
+ "context": "O proponente sustenta que a gestão privada degradou o serviço postal, encerrou estações, reduziu pessoal, vendeu património e distribuiu dividendos superiores aos lucros (57 milhões de euros referidos). Receia que o Estado chegue a 2020, ano do fim da concessão, sem capacidade de assegurar o serviço público.",
+ "analysis": "A iniciativa é clara quanto ao objetivo e ao prazo, e identifica instrumentos concretos. Fragilidades: deixa em aberto o montante e as condições de pagamento aos acionistas, remetidos para diploma posterior, e o prazo de 180 dias é exigente. O regime de anulabilidade retroativa de atos desde a privatização suscita dúvidas de segurança jurídica e de proteção de direitos de terceiros, e a suspensão da negociação de ações tem implicações de mercado. O texto não avalia custos da reaquisição.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A recuperação integral da propriedade implica uma contrapartida financeira a definir por diploma posterior; o texto não indica montantes."
+ },
+ "affected": [
+  "trabalhadores dos CTT",
+  "utentes dos serviços postais",
+  "acionistas dos CTT",
+  "Estado"
+ ],
+ "categories": [
+  "economia",
+  "comunicacao",
+  "administracao"
+ ],
+ "tags": [
+  "CTT",
+  "nacionalização",
+  "serviço postal universal",
+  "privatização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

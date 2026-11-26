@@ -1,0 +1,44 @@
+{
+ "short_title": "Direitos para estafetas e motoristas de TVDE",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo a revisão da Lei n.º 45/2018 (TVDE) tendo em conta as reivindicações dos trabalhadores de plataformas. Propõe reuniões entre plataformas e representantes de motoristas e estafetas, valores mínimos de tarifa (3 euros por entrega mais quilómetros e 4,25 euros por viagem de passageiros), uma taxa de intermediação máxima de 15%, pagamento do percurso até ao cliente, um estabelecimento físico em cada capital de distrito, cursos gratuitos de português, respeito pelos direitos laborais, reforço da fiscalização e combate à fraude fiscal e contributiva, e apoio à criação de cooperativas.",
+ "key_points": [
+  "Tarifa base mínima de 3 euros por entrega (mais valor por quilómetro) e de 4,25 euros por viagem de passageiros.",
+  "Taxa de intermediação máxima de 15% do valor da viagem.",
+  "Pagamento, pelas plataformas, do percurso até ao cliente nas viagens de passageiros.",
+  "Estabelecimento físico de atendimento em cada capital de distrito onde operem.",
+  "Reforço da fiscalização e combate à fraude e evasão fiscal e contributiva.",
+  "Cursos gratuitos de língua portuguesa e apoio do IEFP à criação de cooperativas."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que reveja a lei dos TVDE e proteja melhor os motoristas e estafetas das plataformas, com preços mínimos por viagem ou entrega, um teto às comissões das plataformas, balcões físicos para falar com a empresa e mais fiscalização. É uma recomendação ao Governo, sem força de lei.",
+ "context": "O proponente refere longas jornadas, baixos rendimentos, falta de proteções laborais e gestão algorítmica opaca nos trabalhadores de plataformas. Invoca a diretiva europeia sobre trabalho em plataformas, o número de motoristas certificados (76.014 em março de 2025) e uma investigação sobre alegada fraude fiscal e contributiva, e critica o anteprojeto laboral do Governo.",
+ "analysis": "A proposta é concreta, com valores e percentagens que respondem às reivindicações dos trabalhadores, e liga-se à fiscalização e à presunção de laboralidade. Fragilidades: fixar tarifas mínimas e tetos de comissão levanta questões de impacto nos preços para os consumidores, na procura e na viabilidade das plataformas, que o texto não avalia; a exigência de estabelecimentos em cada capital de distrito pode ser onerosa. Há também uma incorreção aparente na data da Lei n.º 45/2018, citada como de 12 de agosto. Sendo recomendação, não vincula o Governo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Há custos de fiscalização e de apoio a cooperativas e formação, e eventual aumento de receita fiscal e contributiva com o combate à fraude, mas o texto não apresenta estimativas."
+ },
+ "affected": [
+  "motoristas de TVDE",
+  "estafetas",
+  "plataformas digitais",
+  "passageiros e clientes"
+ ],
+ "categories": [
+  "trabalho",
+  "transportes",
+  "consumidores"
+ ],
+ "tags": [
+  "TVDE",
+  "estafetas",
+  "plataformas digitais",
+  "comissões",
+  "tarifa mínima"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "short_title": "Informações em transferências de fundos e criptoativos",
+ "summary": "A proposta de lei do Governo transpõe as alterações à Diretiva (UE) 2015/849 trazidas pelo Regulamento (UE) 2023/1113 e executa-o em Portugal, procedendo à sexta alteração da Lei n.º 83/2017 (prevenção do branqueamento de capitais e do financiamento do terrorismo). Os prestadores de serviços de criptoativos passam a ser entidades financeiras obrigadas, as referências a ativos virtuais são eliminadas e os artigos 112.º-A e 112.º-B são revogados, sendo a revogação do segundo adiada para 30 de dezembro de 2025 por razões transitórias. Cria medidas reforçadas para transferências de e para endereços autoalojados, equipara criptoativos a fundos quanto às medidas aplicáveis e adapta a lei ao Regulamento (UE) 2024/1620, que cria a AMLA.",
+ "key_points": [
+  "Prestadores de serviços de criptoativos, na aceção do Regulamento (UE) 2023/1114, passam a constar do elenco de entidades financeiras obrigadas pela Lei n.º 83/2017.",
+  "Revoga os artigos 112.º-A e 112.º-B (registo de ativos virtuais no Banco de Portugal); a revogação do segundo só produz efeitos a 30 de dezembro de 2025, para manter poderes sobre entidades em regime transitório.",
+  "Novo artigo 71.º-A: medidas reforçadas e proporcionais ao risco nas transferências de criptoativos de ou para endereços autoalojados, como identificar o titular e obter informação adicional sobre origem e destino.",
+  "Define a verificação da exatidão das informações que acompanham transferências, o dever de comunicar ao Banco de Portugal, a conservação de registos e as medidas restritivas aplicáveis.",
+  "Adapta a cooperação à AMLA (Autoridade para o Combate ao Branqueamento de Capitais) e a Unidade de Informação Financeira passa a cooperar com ela; o restante pacote europeu fica para iniciativa posterior."
+ ],
+ "plain_language": "As regras contra o branqueamento de capitais, que já se aplicam às transferências de dinheiro, passam a aplicar-se também às transferências de criptomoedas e às empresas que as gerem. A proposta adapta a lei portuguesa a essas regras europeias e prepara a cooperação com a nova autoridade europeia de combate ao branqueamento.",
+ "context": "O Governo afirma que o Regulamento (UE) 2023/1113 aplica os padrões internacionais do GAFI às novas tecnologias, estendendo a criptoativos as regras de informação em transferências. Obriga a alterar a lei nacional e a acompanhar a criação da AMLA, embora esta proposta, de natureza circunscrita, não transponha todo o pacote europeu de combate ao branqueamento.",
+ "analysis": "A proposta é necessária para cumprir obrigações europeias e reduzir o risco de uso de criptoativos para branqueamento de capitais, e trata com cuidado a transição das entidades já registadas no Banco de Portugal, evitando um vazio de supervisão até 30 de dezembro de 2025. Fragilidades: é uma implementação parcial que adia o restante pacote europeu, o que pode manter um quadro fragmentado; a equiparação de criptoativos a fundos só quanto às medidas aplicáveis, sem os qualificar juridicamente como fundos, pode gerar dúvidas de interpretação; e a entrada em vigor remete para outra proposta (44/XVII), o que cria dependência de calendário. O texto não quantifica custos de conformidade.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa orçamental. A supervisão e a conformidade podem implicar custos para o Banco de Portugal e para os operadores, sem montantes indicados."
+ },
+ "affected": [
+  "prestadores de serviços de criptoativos",
+  "instituições financeiras e de pagamento",
+  "utilizadores de criptoativos",
+  "autoridades de supervisão"
+ ],
+ "categories": [
+  "economia",
+  "justica",
+  "internacional"
+ ],
+ "tags": [
+  "criptoativos",
+  "branqueamento de capitais",
+  "lei 83/2017",
+  "amla",
+  "transferências de fundos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

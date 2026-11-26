@@ -1,0 +1,40 @@
+{
+ "short_title": "Subsídio de alimentação obrigatório no setor privado",
+ "summary": "Projeto de Lei do PCP que adita ao Código do Trabalho o artigo 262.º-A, criando o subsídio de alimentação para todos os trabalhadores abrangidos pelo Código. O trabalhador teria direito a um subsídio por cada dia de trabalho efetivamente prestado, com valor mínimo igual ao fixado anualmente para a Administração Pública. A contratação coletiva pode fixar um valor superior ou o pagamento em espécie. Os trabalhadores em teletrabalho têm igual direito. O incumprimento constitui contraordenação grave. A lei garante que não haja diminuição de direitos já existentes, aplicando-se o regime mais favorável, e entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Direito a subsídio de alimentação por cada dia de trabalho efetivamente prestado.",
+  "Valor mínimo igual ao estabelecido anualmente para a Administração Pública.",
+  "A contratação coletiva pode prever valor superior ou pagamento em espécie.",
+  "O teletrabalhador tem direito ao subsídio nos mesmos termos.",
+  "O incumprimento é contraordenação grave; entrada em vigor no dia seguinte à publicação."
+ ],
+ "plain_language": "O PCP quer que todos os trabalhadores do privado recebam subsídio de alimentação por cada dia que trabalhem, com um valor mínimo igual ao pago na função pública. Também quem está em teletrabalho teria direito. Se a empresa não pagar, comete uma contraordenação grave. Nenhum direito que os trabalhadores já tenham pode ser reduzido.",
+ "context": "O proponente afirma que 1,7 milhões de trabalhadores não recebem qualquer subsídio de alimentação, o que cria discriminações, e que este nunca foi obrigatório na legislação laboral nem no Código do Trabalho, apesar de ser um complemento salarial importante.",
+ "analysis": "A iniciativa dá um piso uniforme e inclui explicitamente o teletrabalho e uma sanção, o que facilita a fiscalização. Em contrapartida, não prevê período de adaptação, apesar de entrar em vigor no dia seguinte, e não estima o custo para as empresas, nomeadamente as pequenas. A fórmula «por cada dia de trabalho efetivamente prestado» não distingue jornadas curtas, ao contrário de outras propostas semelhantes. A exposição de motivos é breve e não apresenta dados além dos 1,7 milhões de trabalhadores.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Aumenta custos laborais das empresas privadas; o texto não quantifica o impacto nem o efeito sobre receitas fiscais e contributivas."
+ },
+ "affected": [
+  "trabalhadores do setor privado",
+  "teletrabalhadores",
+  "empregadores privados"
+ ],
+ "categories": [
+  "trabalho",
+  "economia"
+ ],
+ "tags": [
+  "subsídio de alimentação",
+  "código do trabalho",
+  "teletrabalho",
+  "contraordenação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

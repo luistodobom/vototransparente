@@ -1,0 +1,43 @@
+{
+ "short_title": "Alargar a rede pública de ensino artístico especializado",
+ "summary": "Projeto de Lei do PCP que determina que o Governo, através do Ministério da Educação, concretiza até ao fim de 2024 o alargamento da rede pública de ensino artístico especializado, de modo a cobrir todo o território nacional, criando pelo menos um estabelecimento público em cada distrito onde ainda não exista e permitindo núcleos das escolas no território. Cabe ao Governo transferir para a Direção-Geral dos Estabelecimentos Escolares as verbas para construção ou requalificação do parque escolar, podendo recorrer a outras fontes, como fundos comunitários. Entra em vigor com o Orçamento do Estado posterior à publicação.",
+ "key_points": [
+  "Alargamento da rede pública de ensino artístico especializado até ao fim de 2024.",
+  "Pelo menos um estabelecimento público por distrito onde ainda não exista.",
+  "Possibilidade de núcleos de cada escola no território.",
+  "Financiamento via Direção-Geral dos Estabelecimentos Escolares, com recurso a fundos comunitários.",
+  "Entrada em vigor com o Orçamento do Estado seguinte."
+ ],
+ "plain_language": "Hoje há poucas escolas públicas de música, dança e artes e estão concentradas em algumas zonas. O PCP propõe que haja pelo menos uma em cada distrito até ao fim de 2024, financiada pelo Estado.",
+ "context": "O PCP afirma que só existem oito escolas públicas de ensino artístico especializado de música e/ou dança no continente, além de duas escolas artísticas e alguns cursos em agrupamentos, o que obstaculiza a democratização do ensino das artes. Defende uma rede pública distribuída por todo o território e mais financiamento enquanto tal não acontecer.",
+ "analysis": "A proposta dá um objetivo territorial claro e prazo definido. O prazo de 2024 é curto face à construção ou requalificação de escolas, à contratação de docentes e ao planeamento da rede, que o texto não detalha. Não estima custos nem avalia a procura em cada distrito, nem a articulação com a rede privada e cooperativa, referida mas não regulada. O artigo sobre financiamento é genérico.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A construção ou requalificação de estabelecimentos e o seu funcionamento aumentam a despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "alunos de música, dança e artes",
+  "famílias fora dos grandes centros",
+  "docentes do ensino artístico",
+  "Ministério da Educação"
+ ],
+ "categories": [
+  "educacao",
+  "cultura",
+  "territorio"
+ ],
+ "tags": [
+  "ensino artístico",
+  "escolas públicas",
+  "música",
+  "dança",
+  "distritos"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

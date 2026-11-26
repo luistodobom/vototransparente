@@ -1,0 +1,42 @@
+{
+ "short_title": "Dissolver a Águas do Alto Minho e devolver a água aos municípios",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo que tome as medidas necessárias para dissolver a empresa Águas do Alto Minho e reverter integralmente para os municípios os serviços por ela prestados. Recomenda ainda a devolução aos consumidores dos montantes cobrados indevidamente ou em excesso, medidas de apoio que favoreçam tarifas acessíveis, a manutenção dos postos de trabalho e direitos laborais dos trabalhadores da empresa e o fim de uma política de intrusão nas competências das autarquias, com fundos para o Ciclo Urbano da Água sem imposição de modelo de organização ou agregação. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Dissolução da Águas do Alto Minho e reversão integral dos serviços para os municípios.",
+  "Devolução aos consumidores dos montantes cobrados indevidamente e em excesso.",
+  "Medidas de apoio a uma política de tarifas que garanta acesso igual à água e ao saneamento.",
+  "Manutenção dos postos de trabalho e direitos laborais dos trabalhadores.",
+  "Fundos para o Ciclo Urbano da Água, sem imposição de modelo de organização ou agregação."
+ ],
+ "plain_language": "O PCP pede ao Governo que acabe com a empresa que gere a água e o saneamento em sete concelhos do Alto Minho, devolva o serviço aos municípios, reembolse quem pagou a mais e proteja os trabalhadores. Não é uma obrigação para o Governo.",
+ "context": "O proponente refere que a empresa, criada em janeiro de 2020 com 51% de capital da Águas de Portugal e o restante dos sete municípios, provocou aumentos de tarifas e erros de faturação, e cita 5598 reclamações registadas em 2020 e 6208 em 2021, muitas sem resposta, e o facto de, segundo o regulador, ser a entidade com mais queixas.",
+ "analysis": "Baseia-se em indicadores de reclamações e de qualidade de serviço do regulador, apontando um problema concreto. Fragilidades: a dissolução e reversão exigem acordo dos municípios acionistas e podem implicar custos e compensações contratuais que o texto não estima, e o regresso à gestão municipal não garante, por si, melhor serviço ou tarifas mais baixas. A devolução de montantes não é definida quanto a critérios e valores. Sendo recomendação, depende da vontade do Governo e dos acionistas.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A reversão pode implicar custos de dissolução e compensações, reembolsos aos consumidores e fundos para o ciclo urbano da água. O texto não indica montantes."
+ },
+ "affected": [
+  "Utentes dos sete municípios do Alto Minho",
+  "Trabalhadores da Águas do Alto Minho",
+  "Municípios e Águas de Portugal"
+ ],
+ "categories": [
+  "territorio",
+  "consumidores",
+  "trabalho"
+ ],
+ "tags": [
+  "águas do alto minho",
+  "reversão",
+  "tarifas da água",
+  "saneamento",
+  "reclamações"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

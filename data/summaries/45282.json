@@ -1,0 +1,41 @@
+{
+ "short_title": "Complemento Solidário para Idosos sem rendimento dos filhos",
+ "summary": "Projeto de lei do BE que altera o Decreto-Lei n.º 232/2005 (Complemento Solidário para Idosos, CSI) para que a atribuição dependa apenas da situação de pobreza do idoso e não do rendimento dos filhos. Elimina a alínea b) do n.º 1 do artigo 6.º e o n.º 2 do artigo 7.º, retirando a consideração dos rendimentos dos filhos. Fixa o valor de referência do complemento em 6014 euros por ano, com atualização periódica por portaria conjunta dos ministros das Finanças e da Segurança Social, tendo em conta o Índice de Preços ao Consumidor. Determina a regulamentação em 30 dias e a entrada em vigor com o Orçamento do Estado seguinte à publicação.",
+ "key_points": [
+  "Elimina a consideração dos rendimentos dos filhos na atribuição do CSI.",
+  "Fixa o valor de referência em 6014 euros por ano, com atualização periódica pelo Índice de Preços ao Consumidor.",
+  "Os rendimentos considerados passam a ser os rendimentos anuais.",
+  "O Governo regulamenta a lei em 30 dias.",
+  "Entra em vigor com o Orçamento do Estado subsequente à publicação."
+ ],
+ "plain_language": "Hoje, para um idoso pobre receber o Complemento Solidário, contam também os rendimentos dos filhos. O Bloco de Esquerda propõe que passe a contar só a situação do próprio idoso e que o valor de referência seja fixado em 6014 euros por ano. Isto tornaria o apoio acessível a mais idosos com poucos recursos.",
+ "context": "O proponente afirma que o valor de referência do CSI continua abaixo do limiar de pobreza e que a exigência de comprovar os rendimentos dos filhos cria uma barreira burocrática. Recorda que o Orçamento do Estado para 2020 previa avaliar o alargamento até ao 3.º escalão da eliminação desse critério, o que considera não concretizado, e refere uma petição com 4627 assinaturas.",
+ "analysis": "A proposta resolve uma dificuldade apontada de acesso e alinha o CSI com o objetivo de combate à pobreza dos idosos. Os riscos estão no custo: o texto não estima quantos novos beneficiários seriam abrangidos nem o encargo para a Segurança Social, e a eliminação dos rendimentos dos filhos pode ser discutida em termos de obrigação de alimentos familiar. O valor de 6014 euros é fixado na lei sem demonstrar que corresponde ao limiar de pobreza, e a entrada em vigor depende do Orçamento do Estado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A eliminação do critério dos rendimentos dos filhos e a fixação do valor de referência tendem a aumentar o número de beneficiários e os montantes pagos; o texto não apresenta estimativa de custo."
+ },
+ "affected": [
+  "idosos com baixos rendimentos",
+  "Segurança Social",
+  "famílias dos requerentes"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "complemento solidário para idosos",
+  "pobreza",
+  "pensões",
+  "rendimento dos filhos",
+  "segurança social"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

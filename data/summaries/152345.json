@@ -1,0 +1,40 @@
+{
+ "short_title": "Não criar ULS em Aveiro e reforçar a saúde em Ovar",
+ "summary": "Projeto de Resolução do Bloco de Esquerda que recomenda ao Governo que rejeite a constituição das Unidades Locais de Saúde de Entre Douro e Vouga e de Aveiro, por as considerar organizações centralizadoras. Recomenda, em alternativa, contratação de profissionais, investimento em equipamentos e edifícios, aumento de serviços e valências e autonomia gestionária e financeira das unidades do distrito de Aveiro. Propõe ainda reforçar os serviços de saúde em Ovar (urgência no Hospital Francisco Zagalo, contratações, equipamentos de diagnóstico e reabertura de unidades de cuidados primários encerradas) e concretizar a autonomia dos ACES e dos Sistemas Locais de Saúde. É uma recomendação, sem força vinculativa.",
+ "key_points": [
+  "Rejeitar a criação das ULS de Entre Douro e Vouga e de Aveiro.",
+  "Contratar profissionais, investir em equipamentos e edifícios e ampliar serviços nos hospitais e centros de saúde de Aveiro, com autonomia gestionária e financeira.",
+  "Reforçar a saúde em Ovar: urgência no Hospital Francisco Zagalo, contratação para o quadro, meios de diagnóstico e reabertura de unidades de cuidados primários.",
+  "Reforçar a autonomia dos ACES e criar os Sistemas Locais de Saúde."
+ ],
+ "plain_language": "O Bloco de Esquerda pede ao Governo que não junte hospitais e centros de saúde de Aveiro em novas ULS, por temer que isso concentre serviços nos hospitais maiores, e que invista antes em médicos, equipamentos e serviços locais, em particular em Ovar. É uma recomendação, não vinculativa.",
+ "context": "O proponente refere o anúncio, em dezembro, de planos de negócios para novas ULS, incluindo Aveiro e Entre Douro e Vouga. Cita estudos da ERS e da ACSS sobre as ULS existentes, que segundo o texto não validam ganhos de eficiência, e teme concentração de serviços, redução da carteira e desinvestimento nos cuidados primários.",
+ "analysis": "Chama a atenção para riscos reais de centralização e cita estudos sobre as ULS existentes. Fragilidades: baseia-se numa leitura crítica de avaliações das ULS atuais, sem apresentar contraprova de que o modelo atual de centros hospitalares seria melhor, e apresenta medidas de reforço sem custos nem calendário. A oposição às ULS ignora eventuais ganhos de integração de cuidados que o Governo invoca. Sendo recomendação, a decisão fica com o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As contratações, os investimentos em equipamentos e edifícios e as novas respostas de urgência em Ovar implicam despesa pública. O texto não apresenta montantes."
+ },
+ "affected": [
+  "Utentes do distrito de Aveiro, em particular de Ovar",
+  "Profissionais de saúde dos hospitais e centros de saúde",
+  "Unidades hospitalares e ACES do distrito"
+ ],
+ "categories": [
+  "saude",
+  "territorio"
+ ],
+ "tags": [
+  "unidades locais de saúde",
+  "aveiro",
+  "ovar",
+  "sns",
+  "cuidados de saúde primários"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

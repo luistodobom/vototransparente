@@ -1,0 +1,40 @@
+{
+ "short_title": "Reforço da resposta em cuidados paliativos pediátricos",
+ "summary": "Projeto de Resolução do PCP que recomenda ao Governo cinco medidas para reforçar os cuidados paliativos pediátricos: criar equipas em todas as regiões do País numa primeira fase e em todos os serviços de pediatria e maternidades numa segunda; garantir o número necessário de profissionais, com dedicação exclusiva nas equipas especializadas; assegurar apoio domiciliário às equipas especializadas e às generalistas com muitas crianças; reforçar a articulação com os cuidados de saúde primários e continuados; e integrar nas equipas outros profissionais, como terapeutas de reabilitação e nutricionistas.",
+ "key_points": [
+  "Criar equipas de cuidados paliativos pediátricos em todas as regiões e, depois, em todos os serviços de pediatria e maternidades.",
+  "Garantir profissionais suficientes, com dedicação exclusiva nas equipas especializadas.",
+  "Assegurar apoio domiciliário às equipas especializadas e às generalistas com muitas crianças.",
+  "Reforçar a articulação com cuidados de saúde primários e continuados.",
+  "Integrar outros profissionais, como terapeutas de reabilitação e nutricionistas."
+ ],
+ "plain_language": "O PCP pede ao Governo que crie equipas de cuidados paliativos para crianças em todo o país, com profissionais suficientes e dedicados a esta área, e que haja apoio em casa. É uma recomendação sem força de lei.",
+ "context": "O PCP estima que haja entre 6 mil e 8 mil crianças e jovens com necessidade de cuidados paliativos, mas apenas 8 equipas pediátricas reconhecidas, todas com falta de profissionais, e nenhuma no Alentejo e no Algarve. Atribui as carências ao desinvestimento no SNS.",
+ "analysis": "A proposta é clara e faseada, com foco na dedicação exclusiva e na cobertura territorial. Fragilidades: não define prazos para as duas fases, número de profissionais, custos nem financiamento; a dedicação exclusiva pode ser difícil perante a escassez de especialistas; e a atribuição das carências a opções políticas de sucessivos governos é de natureza valorativa. Sendo resolução, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Criar equipas, contratar profissionais em exclusividade e assegurar apoio domiciliário implica mais despesa no SNS, não quantificada no texto."
+ },
+ "affected": [
+  "crianças com necessidades paliativas",
+  "famílias",
+  "profissionais de saúde",
+  "serviços de pediatria e maternidades"
+ ],
+ "categories": [
+  "saude"
+ ],
+ "tags": [
+  "cuidados paliativos pediátricos",
+  "SNS",
+  "equipas especializadas",
+  "apoio domiciliário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

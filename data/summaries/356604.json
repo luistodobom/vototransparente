@@ -1,0 +1,40 @@
+{
+ "short_title": "Benefício fiscal ligado à redução da disparidade salarial de género",
+ "summary": "O projeto de lei do LIVRE altera o artigo 19.º-B do Estatuto dos Benefícios Fiscais, que prevê incentivos fiscais às empresas associados à valorização salarial. Acrescenta uma nova condição: que o aumento da retribuição base anual dos trabalhadores contribua para a redução da percentagem da diferença remuneratória mediana em função do género. Introduz duas definições: nível de remuneração mediano (aquele que divide ao meio os trabalhadores de um empregador) e diferença remuneratória mediana em função do género (diferença entre a mediana das mulheres e dos homens, em percentagem da mediana dos homens). A lei entra em vigor com o Orçamento do Estado seguinte à sua publicação.",
+ "key_points": [
+  "Altera o artigo 19.º-B do Estatuto dos Benefícios Fiscais.",
+  "Condiciona o benefício à contribuição dos aumentos salariais para reduzir a diferença salarial mediana de género.",
+  "Define o conceito de nível de remuneração mediano.",
+  "Define a diferença remuneratória mediana em função do género.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Hoje, as empresas que aumentam os salários dos trabalhadores podem ter um benefício fiscal. O LIVRE propõe que, para beneficiar, esses aumentos também ajudem a reduzir a diferença entre o que ganham as mulheres e os homens na empresa. A proposta explica como medir essa diferença, usando o salário mediano de cada grupo.",
+ "context": "O proponente indica que, em 2023, a disparidade salarial foi de 12,5% na remuneração base e de 15,4% considerando prémios e subsídios, e que é maior entre as jovens (26%, segundo notícia citada). Refere que o fosso aumentou em 2022 e que Portugal se aproxima do prazo de transposição da Diretiva 2023/970 sobre transparência salarial. Defende incentivos económicos às empresas, além das proibições formais.",
+ "analysis": "Liga um incentivo fiscal existente a um objetivo mensurável de igualdade e define claramente a métrica. Fragilidades: a redação muito abreviada deixa por esclarecer se a condição se soma às restantes ou como é verificada e por quem; a mediana pode ser instável em empresas pequenas e não considera diferenças de funções ou antiguidade. Pode reduzir o acesso das empresas ao benefício, sem estimativa do efeito. Não substitui a transposição da diretiva europeia.",
+ "fiscal_impact": {
+  "direction": "aumenta_receita",
+  "explanation": "Ao acrescentar uma condição ao benefício fiscal, tende a reduzir o número de empresas elegíveis e, assim, a despesa fiscal. O texto não apresenta estimativas."
+ },
+ "affected": [
+  "empresas que beneficiam do incentivo à valorização salarial",
+  "trabalhadoras e trabalhadores dessas empresas"
+ ],
+ "categories": [
+  "direitos",
+  "fiscalidade",
+  "trabalho"
+ ],
+ "tags": [
+  "disparidade salarial",
+  "igualdade de género",
+  "benefícios fiscais",
+  "remuneração mediana"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Gestão democrática das escolas: direção colegial e conselho geral reforçado",
+ "summary": "Projeto de Lei do Bloco de Esquerda que altera profundamente o Decreto-Lei n.º 75/2008, que rege a autonomia, administração e gestão das escolas públicas do pré-escolar ao secundário. Substitui o modelo centrado num diretor escolhido pelo conselho geral por uma direção colegial eleita por um colégio eleitoral alargado, passa a prever a eleição pelos docentes dos coordenadores intermédios, fixa percentagens mínimas de representação de pais, não docentes e alunos no conselho geral e limita o corpo docente a 50% desse órgão. Prevê ainda limite de dois mandatos sucessivos, revoga várias normas do diploma de 2008 e manda o Governo regulamentar em 30 dias.",
+ "key_points": [
+  "Direção colegial (diretor, diretor adjunto e um a três vogais) eleita por colégio eleitoral alargado, em vez de diretor único.",
+  "Coordenadores de departamento e outros cargos intermédios eleitos pelos docentes, podendo ser exonerados com parecer do departamento.",
+  "Conselho geral: docentes até 50%, pais no mínimo 20%, não docentes no mínimo 10% e alunos no mínimo 10% (3.º ciclo e secundário).",
+  "Limite de dois mandatos sucessivos de quatro anos nos cargos executivos e formação obrigatória em gestão escolar.",
+  "Revogação de diversas normas do Decreto-Lei n.º 75/2008 e regulamentação pelo Governo em 30 dias."
+ ],
+ "plain_language": "Hoje cada escola ou agrupamento tem um diretor com muitos poderes, escolhido por um conselho geral onde pesam entidades externas, como as câmaras. O Bloco propõe uma direção em equipa, eleita por mais pessoas da comunidade escolar, e que os coordenadores sejam eleitos pelos professores. Também quer mais peso para quem trabalha e estuda na escola nas decisões.",
+ "context": "O proponente sustenta que o regime de 2008 instaurou uma gestão unipessoal, reduziu a autonomia das escolas e concentrou poderes no diretor, ao mesmo tempo que o conselho geral é influenciado por entidades externas. Defende recuperar a eleição democrática e a participação dos profissionais e dos alunos.",
+ "analysis": "A proposta reforça a participação e reduz a concentração de poder numa só pessoa, o que pode aumentar a legitimidade interna das direções. Em contrapartida, a gestão colegial e a eleição de coordenadores podem dificultar decisões rápidas, gerar disputas internas e reduzir o peso das autarquias e da comunidade local. O texto remete muitos critérios (número de vogais, formação) para despacho ou legislação posterior e não estima custos. A revogação parcial de normas exige coerência com o resto do diploma de 2008.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa de custos. Eventuais encargos dependeriam do número de vogais das direções e da formação obrigatória prevista."
+ },
+ "affected": [
+  "diretores e docentes das escolas públicas",
+  "pessoal não docente",
+  "alunos",
+  "pais e encarregados de educação",
+  "autarquias"
+ ],
+ "categories": [
+  "educacao",
+  "administracao",
+  "instituicoes"
+ ],
+ "tags": [
+  "gestão escolar",
+  "autonomia das escolas",
+  "conselho geral",
+  "direção colegial",
+  "Decreto-Lei 75/2008"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

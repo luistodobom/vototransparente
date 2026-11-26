@@ -1,0 +1,40 @@
+{
+ "short_title": "Acelerar a vacinação contra a Covid-19",
+ "summary": "O PCP recomenda ao Governo, com urgência, quatro medidas para acelerar a vacinação: diversificar a compra de vacinas a países e empresas com vacinas reconhecidas pela OMS, com autorização de introdução no mercado pelo Infarmed; aumentar a capacidade dos centros de vacinação, com mais centros e contratação de profissionais de saúde, nomeadamente enfermeiros; reforçar a vacinação ao domicílio; e criar condições para que os trabalhadores se vacinem sem perda de direitos e rendimentos, com o período de ausência pago integralmente. Sendo um projeto de resolução, é uma recomendação não vinculativa.",
+ "key_points": [
+  "Diversificar a compra de vacinas reconhecidas pela OMS, com procedimento de autorização pelo Infarmed.",
+  "Aumentar o número de centros de vacinação e contratar enfermeiros e outros profissionais.",
+  "Reforçar os meios para vacinação ao domicílio.",
+  "Garantir que o tempo de ausência para vacinação é pago integralmente."
+ ],
+ "plain_language": "O PCP pede ao Governo que consiga mais vacinas, abra mais centros de vacinação e contrate enfermeiros, reforce a vacinação em casa e assegure que quem falta ao trabalho para se vacinar não perde salário. É uma recomendação.",
+ "context": "O PCP afirma que a vacinação tem sido eficaz mas que atrasos na entrega de vacinas (2,3 milhões recebidas no primeiro trimestre face a 4,5 milhões previstos, e 7,2 milhões no segundo face a 11 milhões previstos) e a falta de enfermeiros nos centros de vacinação atrasam o processo. Critica a transferência de contratações para as autarquias e descontos salariais por ausência para vacinação.",
+ "analysis": "A proposta atua nos dois estrangulamentos referidos (vacinas e capacidade), e a proteção salarial é concreta. Fragilidades: a compra de vacinas fora do mecanismo europeu levanta questões jurídicas e de logística que o texto não aborda; a autorização pelo Infarmed implica prazos; não há estimativa de custo nem prazos para as contratações. Sendo recomendação, não obriga o Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A compra adicional de vacinas, a contratação de profissionais e o pagamento do tempo de ausência implicam despesa, que o texto não quantifica."
+ },
+ "affected": [
+  "população por vacinar",
+  "trabalhadores",
+  "enfermeiros e profissionais de saúde",
+  "SNS e autarquias"
+ ],
+ "categories": [
+  "saude",
+  "trabalho"
+ ],
+ "tags": [
+  "covid-19",
+  "vacinação",
+  "enfermeiros",
+  "infarmed"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "short_title": "Rede pública de apoio e lares para idosos",
+ "summary": "O projeto de lei do PCP cria uma Rede Pública de Estruturas Residenciais e Serviços de Apoio aos Idosos. O Governo deve, no prazo de três meses, apresentar à Assembleia da República um levantamento das listas de espera para lares e do número de centros de dia, de convívio e de utentes com apoio domiciliário, por localização. Em seguida, alarga a rede com o objetivo de criar pelo menos 80 mil vagas em estrutura residencial na rede pública até 2026, executado pelo Instituto da Segurança Social, sobretudo a partir de edifícios públicos devolutos. As obras são financiadas pelo Orçamento do Estado, com recurso possível a fundos comunitários. A regulamentação deve ser feita em 60 dias.",
+ "key_points": [
+  "Cria a Rede Pública de Estruturas Residenciais e Serviços de Apoio aos Idosos.",
+  "Exige ao Governo, em três meses, levantamento das listas de espera e das respostas existentes.",
+  "Fixa o objetivo de pelo menos 80 mil novas vagas em estrutura residencial pública até 2026.",
+  "Atribui ao Instituto da Segurança Social a execução, com reconversão de imóveis públicos devolutos.",
+  "Financia as obras pelo Orçamento do Estado, podendo usar fundos comunitários."
+ ],
+ "plain_language": "O PCP propõe que o Estado construa e gira uma rede própria de lares e serviços para idosos, para acabar com as listas de espera. Primeiro, o Governo teria de contar quantos idosos esperam por vaga. Depois, criaria pelo menos 80 mil vagas até 2026, aproveitando edifícios públicos abandonados, e pagaria as obras com o Orçamento do Estado.",
+ "context": "O PCP refere a carta aberta do MURPI, que descreve carências graves em lares, e as dificuldades financeiras das instituições sociais. Afirma que o setor privado cresce, que aumentam os lares ilegais e que a rede solidária reclama mais 400 lares, e defende uma resposta pública em vez de ampliar o negócio privado.",
+ "analysis": "Aborda uma carência real e fixa uma meta concreta e verificável. Fragilidades: o objetivo de 80 mil vagas até 2026 é ambicioso face ao prazo e o texto não apresenta estimativa de custos, de pessoal necessário ou calendário de obras; o prazo de 2026 pode ser inviável se a lei entrar em vigor com o Orçamento posterior. A disponibilidade e adequação dos edifícios devolutos não está avaliada, e a articulação com a rede solidária é pouco detalhada.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "As obras de adaptação e a criação de pelo menos 80 mil vagas e respetivo pessoal são financiadas pelo Orçamento do Estado, com eventual financiamento comunitário. O texto não indica valores."
+ },
+ "affected": [
+  "idosos em lista de espera",
+  "famílias de idosos dependentes",
+  "Instituto da Segurança Social",
+  "instituições particulares de solidariedade social",
+  "trabalhadores do setor social"
+ ],
+ "categories": [
+  "familia",
+  "saude",
+  "habitacao"
+ ],
+ "tags": [
+  "lares",
+  "estruturas residenciais",
+  "idosos",
+  "rede pública",
+  "listas de espera"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

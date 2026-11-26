@@ -1,0 +1,42 @@
+{
+ "short_title": "Garantias de acesso aos tribunais na resolução de litígios administrativos",
+ "summary": "Este projeto de resolução do JPP recomenda ao Governo um conjunto de 14 salvaguardas nas Propostas de Lei n.os 99, 100 e 102/XVII sobre novos mecanismos de resolução de litígios administrativos. Quanto à Câmara de Resolução de Litígios de Contratação Pública, pede que o recurso seja sempre facultativo (mesmo em contratos acima de 10 milhões de euros, infraestruturas críticas e fundos europeus), incentivado por taxas favoráveis e que não impeça outros interessados de ir a tribunal. Quanto ao procedimento indemnizatório do Estado, pede suspensão do prazo de prescrição, início do prazo no conhecimento do dano, separação funcional na instrução e decisão fundamentada. Pede ainda regras de independência, transparência, apoio judiciário e publicação anual de dados.",
+ "key_points": [
+  "Tornar facultativo o recurso à Câmara de Resolução de Litígios de Contratação Pública, mesmo nos contratos de maior valor.",
+  "Garantir que a opção de um interessado pela Câmara não impede outros de recorrer aos tribunais e assegurar tutela urgente.",
+  "Suspender a prescrição do direito à indemnização enquanto decorre o procedimento administrativo e contar o prazo desde o conhecimento do dano.",
+  "Assegurar separação funcional na instrução e decisões integralmente fundamentadas.",
+  "Exigir independência, transparência e acesso ao apoio judiciário às entidades de resolução de litígios, com publicação anual de dados."
+ ],
+ "plain_language": "O Governo propôs novas formas de resolver, fora dos tribunais, litígios com a Administração Pública, como contratos públicos e pedidos de indemnização ao Estado. O JPP pede que estas novas vias não retirem direitos às pessoas e empresas: que ir a tribunal continue sempre possível, que os prazos para pedir indemnização não corram enquanto o processo administrativo decorre e que quem decide seja independente. É uma recomendação, não é obrigatória.",
+ "context": "O proponente defende que a reforma da jurisdição administrativa deve tornar a justiça mais célere sem reduzir as garantias dos cidadãos e das empresas, invocando os artigos 20.º e 268.º, n.º 4, da Constituição. Contesta, em especial, que o recurso à Câmara seja obrigatório para certos contratos e que a escolha de uma via impeça a ação em tribunal.",
+ "analysis": "A proposta assinala riscos reais de acesso à justiça, como a perda de prazos de prescrição e a obrigatoriedade de via administrativa, e pede mais transparência e independência. Em contrapartida, é muito extensa e técnica, e algumas exigências (facultatividade total, taxas mais favoráveis) podem reduzir a eficácia dos novos mecanismos e as poupanças que se procuram com eles. Parte do pedido depende de propostas de lei ainda em apreciação. É uma recomendação não vinculativa.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "Taxas mais favoráveis, apoio judiciário e compensação das entidades de resolução poderiam aumentar a despesa, mas a resolução alternativa de litígios pode reduzir custos judiciais; o texto não quantifica."
+ },
+ "affected": [
+  "cidadãos e empresas em litígio com a Administração",
+  "lesados que pedem indemnização ao Estado",
+  "entidades adjudicantes e empresas de contratação pública",
+  "tribunais administrativos"
+ ],
+ "categories": [
+  "justica",
+  "administracao"
+ ],
+ "tags": [
+  "litígios administrativos",
+  "contratação pública",
+  "acesso aos tribunais",
+  "responsabilidade civil do estado",
+  "apoio judiciário"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "short_title": "Revisão do regime do radioamadorismo",
+ "summary": "O Projeto de Lei n.º 81/XVII/1.ª, do PSD, altera o Decreto-Lei n.º 53/2009 sobre os serviços de radiocomunicações de amador e de amador por satélite. Reconhece aos amadores da categoria 3 o direito de operar em modo de emissão, condicionado a supervisão para menores de 16 anos, e elimina a obrigatoriedade de tempo de permanência numa categoria para aceder à superior. Elimina o limite mínimo de idade para o certificado de amador, incluindo menores de 12 anos com autorização escrita de quem exerça a responsabilidade parental, e a taxa anual de utilização do espectro pelos titulares do certificado. Alinha o regime sancionatório com o das contraordenações do setor das comunicações e habilita a ANACOM a emitir regulamentos. O certificado passa a ser válido por 10 anos, renovável automaticamente.",
+ "key_points": [
+  "Elimina o limite mínimo de idade para o Certificado de Amador Nacional, com autorização parental para menores.",
+  "Menores de 16 anos só emitem sob supervisão de amador com 16 anos ou mais.",
+  "Elimina a taxa anual de utilização do espectro pelos titulares do certificado.",
+  "Elimina o tempo mínimo de permanência numa categoria para subir à seguinte.",
+  "Dá à ANACOM poderes regulamentares e permite comunicações por meios eletrónicos."
+ ],
+ "plain_language": "A proposta atualiza as regras para quem pratica radioamadorismo. Deixa de haver idade mínima para obter o certificado, com autorização dos pais para os menores, e acaba o pagamento da taxa anual. Passa também a ser mais fácil subir de categoria. A ANACOM, o regulador das comunicações, fica com poder para definir os procedimentos em detalhe.",
+ "context": "O PSD refere que o regime de 2009 tem mais de uma década e que a sua revisão é há muito reclamada pelos radioamadores e associações, que foram ouvidos pela ANACOM na preparação do anteprojeto. Argumenta que a taxa anual é um entrave, ineficiente face aos custos de cobrança, e que as mudanças tornam a atividade mais atrativa e fomentam a divulgação científica.",
+ "analysis": "Pontos fortes: simplifica procedimentos, alinha-se com outros países europeus segundo o texto e resulta de audição ao setor. Fragilidades: a eliminação da taxa reduz receita, que o texto considera pouco relevante mas não quantifica. A supressão de idade mínima exige atenção a questões de capacidade e responsabilidade, mitigada por supervisão. Delegar muitos pormenores em regulamentos da ANACOM reduz a previsibilidade para os interessados. O texto lido está truncado, pelo que parte do articulado pode não ter sido analisada.",
+ "fiscal_impact": {
+  "direction": "reduz_receita",
+  "explanation": "A proposta elimina a taxa anual de utilização do espectro paga pelos titulares de certificado. O texto não indica o montante da receita perdida."
+ },
+ "affected": [
+  "radioamadores",
+  "candidatos menores de idade",
+  "ANACOM",
+  "associações de radioamadores"
+ ],
+ "categories": [
+  "comunicacao",
+  "ciencia"
+ ],
+ "tags": [
+  "radioamadorismo",
+  "anacom",
+  "taxa do espectro",
+  "certificado de amador"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

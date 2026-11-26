@@ -1,0 +1,40 @@
+{
+ "short_title": "Avaliação e reforço dos programas PART e PROTRANSP",
+ "summary": "Projeto de lei do PAN que estabelece a avaliação e o reforço do Programa de Apoio à Redução do Tarifário dos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTRANSP). Num prazo de 9 meses após a entrada em vigor, o Governo apresenta à Assembleia da República um relatório elaborado por um grupo de trabalho de personalidades de reconhecido mérito nos domínios dos transportes, ambiente e economia, avaliando a eficácia dos programas: evolução do uso de transportes coletivos e privados, correlação com os programas, recursos financeiros afetos e indicadores de custo-eficácia. Em 90 dias após o relatório, o Governo propõe medidas fundamentadas para reforçar os programas. Entra em vigor no dia seguinte ao da publicação.",
+ "key_points": [
+  "Relatório de avaliação do PART e do PROTRANSP em 9 meses, por grupo de trabalho de personalidades de mérito.",
+  "A avaliação inclui evolução do uso de transportes coletivos e privados, recursos financeiros e custo-eficácia.",
+  "Em 90 dias após o relatório, o Governo propõe medidas fundamentadas de reforço.",
+  "Entrada em vigor no dia seguinte ao da publicação."
+ ],
+ "plain_language": "O PAN quer que o Governo avalie se os apoios ao preço dos passes e ao reforço da oferta de transporte público estão a fazer com que mais gente deixe o carro. O Governo teria 9 meses para apresentar um relatório e depois 90 dias para propor melhorias ao Parlamento.",
+ "context": "O PAN cita o Roteiro de Neutralidade Carbónica 2050, que aponta uma redução de emissões nos transportes entre 43 e 46% em 2030 face a 2005 e o reforço do transporte público como base. Defende que é preciso avaliar os resultados do PART e do PROTRANSP para alcançar a descarbonização, ponderando também a intermodalidade, a mobilidade ativa e os parques dissuasores.",
+ "analysis": "A avaliação com prazos definidos e indicadores de custo-eficácia é um ponto forte e promove a transparência. Fragilidades: o texto não define a composição do grupo de trabalho nem critérios de independência, não fixa metas, e a proposta de medidas fica a cargo do Governo, sem obrigação de resultados. Os prazos de 9 meses e 90 dias podem ser curtos para dados fiáveis. A intermodalidade e os parques dissuasores referem-se no preâmbulo mas não no articulado.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A constituição do grupo de trabalho e a elaboração do relatório geram custos administrativos e eventuais reforços futuros dos programas. O texto não apresenta montantes."
+ },
+ "affected": [
+  "utilizadores de transportes públicos",
+  "autoridades de transporte",
+  "Governo e ministério responsável pelos transportes"
+ ],
+ "categories": [
+  "transportes",
+  "ambiente"
+ ],
+ "tags": [
+  "part",
+  "protransp",
+  "transportes públicos",
+  "descarbonização",
+  "avaliação"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "short_title": "Subsídio de funeral de três IAS para nascituros, crianças e jovens",
+ "summary": "O LIVRE propõe alterar o artigo 16.º do Decreto-Lei n.º 176/2003 para que o subsídio de funeral seja de montante fixo correspondente a três vezes o valor do IAS em caso de morte de nascituro, criança ou jovem. Atualmente corresponde a 50% do IAS, cerca de 268 euros, fixado na Portaria n.º 60/2026/1. A medida equipara o subsídio ao limite de reembolso das despesas de funeral do regime geral e alarga-o aos nascituros (perdas gestacionais a partir das 22 semanas). Entra em vigor com o Orçamento do Estado subsequente. O proponente considera o impacto orçamental baixo.",
+ "key_points": [
+  "Subsídio de funeral fixo de três vezes o IAS para nascituro, criança ou jovem.",
+  "Equipara o valor ao limite de reembolso do regime geral de segurança social.",
+  "Inclui nascituros, em casos de morte fetal a partir das 22 semanas.",
+  "Entra em vigor com o Orçamento do Estado subsequente."
+ ],
+ "plain_language": "Quando morre uma criança, o apoio do Estado para o funeral é muito pequeno, cerca de 268 euros. A proposta passa-o para o triplo do IAS, tal como acontece com os adultos que descontaram, e inclui também perdas de bebés antes do nascimento.",
+ "context": "O proponente considera difícil de compreender e insuficiente que o subsídio de funeral de uma criança seja metade do IAS, apesar de a família estar normalmente enquadrada no sistema previdencial. Cita uma carta aberta da associação Acreditar a pedir a dignificação do apoio.",
+ "analysis": "Corrige uma assimetria evidente com valor claro e simples de aplicar. Fragilidades: o montante é fixo, mesmo que o funeral custe menos, ao contrário do reembolso das despesas efetivas; o texto afirma baixo impacto orçamental mas não apresenta estimativa; e a redação do artigo 16.º elimina a referência a outras situações, o que pode ter efeitos para além do pretendido.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "Aumenta a despesa da Segurança Social ao multiplicar por seis o valor do subsídio nestes casos. O proponente afirma baixo impacto orçamental, sem apresentar montante."
+ },
+ "affected": [
+  "famílias que perdem filhos ou nascituros",
+  "Segurança Social"
+ ],
+ "categories": [
+  "trabalho",
+  "familia"
+ ],
+ "tags": [
+  "subsídio de funeral",
+  "IAS",
+  "luto",
+  "nascituros"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

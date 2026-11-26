@@ -1,0 +1,44 @@
+{
+ "short_title": "Programa Plurianual de Acessibilidades",
+ "summary": "O Projeto de Lei n.º 321/XVII/1.ª, do PCP, cria o Programa Plurianual de Acessibilidades para eliminar barreiras arquitetónicas, adaptar edifícios públicos, de acesso público e habitacionais, instalar sistemas de informação acessível e agilizar a atribuição de produtos de apoio. Cria uma equipa no INR que, em 60 dias, faz o levantamento de barreiras na via pública e em edifícios, e de serviços onde faltam sistemas de indução magnética, legendagem ou Auracast, informação em braille e pictogramas, e utentes em lista de espera por produtos de apoio. Prevê bolsas de intérpretes de Língua Gestual Portuguesa por distrito, reforço de fiscalização e relatórios anuais à Assembleia da República.",
+ "key_points": [
+  "Levantamento exaustivo das barreiras e necessidades por uma equipa do INR no prazo de 60 dias, com indicação da verba necessária.",
+  "Obras de eliminação de barreiras e instalação de sistemas de indução magnética, legendagem ou Auracast.",
+  "Informação em formatos acessíveis, como braille, relevo e pictogramas, nos serviços públicos.",
+  "Bolsa de intérpretes de Língua Gestual Portuguesa em cada distrito, com resposta permanente no SNS.",
+  "Atribuição de produtos de apoio em lista de espera em 60 dias após o pedido.",
+  "Unidades de fiscalização de acessibilidades nas entidades fiscalizadoras e relatórios anuais ao Parlamento."
+ ],
+ "plain_language": "O Estado teria de identificar e corrigir os obstáculos que dificultam a vida às pessoas com deficiência: passeios, edifícios, informação e comunicação. Haveria intérpretes de língua gestual em cada distrito e as pessoas à espera de produtos de apoio, como cadeiras de rodas ou aparelhos, receberiam-nos em 60 dias. O progresso seria acompanhado por relatórios anuais.",
+ "context": "O PCP afirma que continuam a registar-se queixas de pessoas com deficiência sobre o incumprimento da legislação de acessibilidades, desde edifícios e transportes a informação em linguagem simples, intérpretes de língua gestual e produtos de apoio em lista de espera. Defende que o Estado deve garantir a acessibilidade física, digital e comunicacional.",
+ "analysis": "A proposta é concreta, com prazos e responsabilidades por ministério, e responde a lacunas conhecidas. Contudo, o custo total só será conhecido após o levantamento, e a lei remete o financiamento para reforços anuais do Orçamento do Estado, sem montantes. O prazo de 60 dias para um levantamento exaustivo e a entrega de produtos de apoio em 60 dias podem ser difíceis de cumprir. Há também um erro de numeração, com dois artigos 6.º.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O programa implica obras, equipamentos, contratação de pessoal e produtos de apoio, financiados por reforços anuais do Orçamento do Estado. O texto não indica montantes."
+ },
+ "affected": [
+  "pessoas com deficiência",
+  "pessoas surdas",
+  "utentes em lista de espera de produtos de apoio",
+  "serviços públicos"
+ ],
+ "categories": [
+  "direitos",
+  "administracao",
+  "saude"
+ ],
+ "tags": [
+  "acessibilidades",
+  "deficiência",
+  "língua gestual",
+  "produtos de apoio",
+  "barreiras arquitetónicas"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

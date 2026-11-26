@@ -1,0 +1,43 @@
+{
+ "short_title": "Preço de referência dos combustíveis e preço máximo do gás",
+ "summary": "O Projeto de Lei do PCP altera o modo de formação dos preços dos combustíveis e do GPL. A ENSE passa a definir um preço de referência para gasolina 95, gasóleo rodoviário e GPL (butano, propano, auto) com base no preço real médio de aquisição do petróleo refinado, mais uma margem não especulativa, eliminando a componente Frete e as cotações internacionais. Altera o Decreto-Lei n.º 31/2006 para tornar permanente a fixação de margens máximas de refinação e permitir preços máximos, comunicados à sexta-feira. Fixa em 20 euros o preço máximo da botija de butano de 13 kg, a partir de 1 de abril de 2026, e obriga as refinadoras a reportar semanalmente o preço real do petróleo.",
+ "key_points": [
+  "Preço de referência baseado no preço real médio de aquisição do petróleo e numa margem não especulativa, sem a componente Frete.",
+  "Margem bruta máxima de refinação fixada de forma permanente, com possibilidade de preços máximos de venda ao público.",
+  "Medidas anunciadas por portaria à sexta-feira até às 20 horas e em vigor às 0 horas de segunda-feira.",
+  "Preço máximo da botija de butano de 13 kg fixado em 20 euros, com impostos, a partir de 1 de abril de 2026.",
+  "ERSE monitoriza e propõe atualizações anuais; refinadoras reportam semanalmente o preço real do petróleo à ENSE."
+ ],
+ "plain_language": "O PCP propõe que o preço dos combustíveis deixe de seguir cotações internacionais e passe a refletir o custo real do petróleo comprado, com limites às margens das refinadoras. Propõe também um preço máximo de 20 euros para a botija de gás butano.",
+ "context": "O proponente afirma que o modelo atual, baseado em cotações privadas (Platts/Argus), permite especulação e margens excessivas, e que alívios fiscais podem ser absorvidos pelas petrolíferas. Compara o preço da botija em Portugal (mais de 35 euros) com Espanha (menos de 20 euros) e cita o lucro da Galp em 2025.",
+ "analysis": "A proposta ataca de frente a formação de preços e dá previsibilidade ao gás de botija. No entanto, a exposição de motivos refere uma contribuição extraordinária na exposição de motivos que não surge no articulado. Prender os preços ao custo real exige dados fiáveis e auditáveis das refinadoras, algumas fora do país, e margens permanentes podem desincentivar investimento e abastecimento. O preço de 20 euros para o butano depende de medidas por definir e tem datas de 2026 que podem já estar ultrapassadas.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não quantifica efeitos. Ajustes à incidência fiscal para cumprir o preço máximo do butano e a eventual redução de margens têm impacto indeterminado na receita e na despesa."
+ },
+ "affected": [
+  "consumidores de combustíveis",
+  "consumidores de gás de botija e canalizado",
+  "refinadoras e petrolíferas",
+  "ENSE e ERSE"
+ ],
+ "categories": [
+  "energia",
+  "consumidores",
+  "economia"
+ ],
+ "tags": [
+  "combustíveis",
+  "gpl",
+  "preço de referência",
+  "margens de refinação",
+  "botija de gás"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

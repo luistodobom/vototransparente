@@ -1,0 +1,42 @@
+{
+ "short_title": "Autorização legislativa para o regime de ensino individual e doméstico",
+ "summary": "Proposta de lei do Governo que pede à Assembleia da República autorização legislativa, válida por 180 dias, para aprovar o regime jurídico do ensino individual (professor habilitado, um único aluno, fora de estabelecimento de ensino) e do ensino doméstico (no domicílio, por familiar ou coabitante), aplicável à escolaridade obrigatória no ensino básico geral e nos cursos científico-humanísticos. O decreto-lei autorizado, anexo à proposta, exige matrícula numa escola, pedido decidido em 15 dias úteis, e um protocolo de colaboração anual entre encarregado de educação e escola. Prevê professor-tutor, portefólio, provas e exames nacionais, certificação pela escola e possibilidade de cancelamento da matrícula.",
+ "key_points": [
+  "Autorização legislativa ao Governo por 180 dias, com o sentido e extensão definidos no articulado e o decreto-lei anexo.",
+  "Matrícula pedida à escola (ou à DGEstE no ensino individual), com decisão em 15 dias úteis e efeitos só após assinatura do protocolo de colaboração, em regra com duração de um ano letivo.",
+  "No ensino doméstico o responsável educativo deve ter pelo menos licenciatura; no individual deve estar habilitado para a docência; cada responsável tem a cargo um só aluno, salvo irmãos do mesmo agregado.",
+  "Acompanhamento pela escola através de professor-tutor e portefólio, com pelo menos uma sessão presencial anual e realização de provas de aferição, provas finais e exames nacionais.",
+  "A matrícula pode ser cancelada em caso de incumprimento do protocolo ou de duas reprovações consecutivas, com obrigação de transitar para o ensino em estabelecimento; o decreto-lei revoga a Portaria n.º 69/2019."
+ ],
+ "plain_language": "O Governo quer fixar por lei as regras para quem ensina os filhos fora da escola, em casa com um familiar ou com um professor particular. Pede ao Parlamento autorização para o fazer por decreto-lei. As famílias teriam de matricular o aluno numa escola, assinar um acordo com ela, seguir o currículo nacional, apresentar um portefólio do trabalho feito e fazer as provas e exames nacionais. Se o acordo não for cumprido ou o aluno reprovar dois anos seguidos, volta ao ensino na escola.",
+ "context": "O Governo invoca a liberdade de aprender e ensinar e o direito à educação, e diz que o Estado já permite este ensino fora da escola, como outros países europeus, pelo que é preciso dar segurança jurídica e proteger a confiança de quem o utiliza. Ao mesmo tempo, quer garantir o cumprimento do currículo nacional, a monitorização e a proteção de alunos em risco de abandono ou insucesso.",
+ "analysis": "Dá enquadramento legal claro a uma prática existente, com garantias de acompanhamento, avaliação nacional e certificação, e com prazos e vias de recurso para os pedidos. Fragilidades: a autorização é de pedido de urgência e os detalhes ficam no decreto-lei, reduzindo o escrutínio parlamentar; a exigência de licenciatura e o cancelamento por reprovações podem ser vistos como restritivos, enquanto a supervisão por portefólio depende da capacidade das escolas e dos professores-tutores. O texto não quantifica custos nem apresenta avaliação de impacto, e a norma transitória só protege alunos já matriculados até ao fim do ciclo.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "O texto não apresenta estimativa de custos. A designação de professores-tutores, o acompanhamento nas escolas e na DGEstE e os relatórios anuais podem implicar encargos, não quantificados."
+ },
+ "affected": [
+  "alunos em ensino individual e doméstico",
+  "encarregados de educação",
+  "escolas públicas e particulares",
+  "professores"
+ ],
+ "categories": [
+  "educacao",
+  "familia"
+ ],
+ "tags": [
+  "ensino doméstico",
+  "ensino individual",
+  "autorização legislativa",
+  "escolaridade obrigatória",
+  "protocolo de colaboração"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

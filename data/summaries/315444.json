@@ -1,0 +1,39 @@
+{
+ "short_title": "Deteção de incêndios em explorações pecuárias",
+ "summary": "O projeto de resolução do CHEGA recomenda ao Governo duas medidas relativas aos sistemas automáticos de deteção de incêndios (SADI) nas explorações pecuárias, obrigatórios desde a Lei n.º 96/2021 para as explorações de classe 1 e 2 em regime intensivo. Primeiro, que promova um estudo sobre a configuração e caracterização dos SADI, já que os sistemas a instalar dependem dos cenários de incêndio, da complexidade dos edifícios e dos recursos disponíveis. Segundo, que os investimentos necessários sejam elegíveis nos instrumentos de apoio público à agricultura, nomeadamente o PEPAC, com forte apoio não reembolsável à aquisição e implementação. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Recomenda um estudo sobre a configuração e caracterização dos sistemas automáticos de deteção de incêndios em explorações pecuárias.",
+  "Propõe que os investimentos em SADI sejam elegíveis em apoios públicos agrícolas como o PEPAC.",
+  "Pede um forte apoio não reembolsável à aquisição e implementação dos sistemas."
+ ],
+ "plain_language": "Uma lei de 2021 obriga muitas explorações de animais a instalar alarmes de incêndio. O CHEGA diz que isso custa milhares de euros e que a tecnologia nem sempre funciona bem, por exemplo com poeiras em explorações leiteiras. Pede por isso ao Governo que estude como devem ser esses sistemas e que dê apoios a fundo perdido para os agricultores os instalarem. É apenas uma recomendação.",
+ "context": "O proponente refere vários incêndios em pavilhões pecuários que mataram milhares de animais e recorda a obrigação de instalar SADI. Sustenta que a aplicação prática tem custos de milhares de euros, manutenção regular e falsos alarmes, num contexto de aumento dos custos de produção, pelo que são necessários apoio e tempo de adaptação.",
+ "analysis": "A proposta equilibra a proteção dos animais com os custos para os produtores, e pede apoio e informação técnica sobre uma obrigação já existente. Fragilidades: não indica montantes nem prazos, e a defesa do estudo pode atrasar a aplicação de uma regra já em vigor. O texto refere que o risco de incêndio não é muito elevado em algumas instalações sem apresentar dados. Sendo uma recomendação, não vincula o Governo, e o financiamento pelo PEPAC dependeria de regras europeias.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "O apoio não reembolsável à instalação de sistemas de deteção de incêndios, bem como o estudo, implicariam despesa pública. O texto não indica montantes."
+ },
+ "affected": [
+  "produtores pecuários",
+  "animais de exploração",
+  "entidades instaladoras de sistemas de deteção"
+ ],
+ "categories": [
+  "agricultura",
+  "animais",
+  "seguranca"
+ ],
+ "tags": [
+  "incêndios",
+  "explorações pecuárias",
+  "SADI",
+  "PEPAC"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

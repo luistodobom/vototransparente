@@ -1,0 +1,39 @@
+{
+ "short_title": "Profissionalização e formação dos agentes de fogos rurais",
+ "summary": "Projeto de Resolução do LIVRE que recomenda ao Governo duas medidas para o Sistema de Gestão Integrada de Fogos Rurais (SGIFR): implementar e aplicar o Plano Nacional de Qualificação dos Agentes do SGIFR, elaborado pela Agência para a Gestão Integrada de Fogos Rurais, garantindo os meios necessários; e qualificar e capacitar os agentes, investindo na formação contínua de operacionais e pessoal especializado, incorporando conhecimento técnico na tomada de decisões, promovendo a investigação científica aplicada e reforçando os sistemas de informação e comunicação. O texto cita o Relatório de Atividades do SGIFR 2024, que considera essencial reforçar a capacitação e a profissionalização.",
+ "key_points": [
+  "Implementar o Plano Nacional de Qualificação dos Agentes do SGIFR, assegurando os meios necessários.",
+  "Investir no ensino e na formação contínua de operacionais e pessoal especializado.",
+  "Incorporar conhecimento técnico e científico na tomada de decisões estratégicas e operacionais.",
+  "Promover investigação científica aplicada e reforçar os sistemas de informação e comunicação."
+ ],
+ "plain_language": "O LIVRE pede ao Governo que ponha em prática o plano já elaborado para formar melhor quem trabalha no combate e na gestão dos incêndios rurais, e que invista em formação contínua, em ciência aplicada e em melhores sistemas de informação. A ideia é que quem combate os fogos tenha mais conhecimento técnico. É uma recomendação não vinculativa.",
+ "context": "O proponente afirma que os incêndios florestais aumentam em intensidade e extensão, com fortes consequências económicas, sociais e ecológicas, e que o seu combate eficaz exige agentes com conhecimento técnico e científico adequado. Cita o relatório de atividades do SGIFR de 2024, segundo o qual as instituições devem reforçar a capacitação e a profissionalização.",
+ "analysis": "A iniciativa assenta num instrumento já existente, o Plano Nacional de Qualificação, o que a torna exequível e evita criar nova estrutura. Contudo, é genérica: não fixa prazos, metas de formação, entidades responsáveis nem custos, e a segunda recomendação é muito ampla. O texto não explica porque é que o plano ainda não foi aplicado nem quais os obstáculos. Sendo uma recomendação, o efeito depende da vontade do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A aplicação do plano de qualificação e o reforço da formação e dos sistemas de informação implicam despesa pública; o texto não indica montantes."
+ },
+ "affected": [
+  "agentes do SGIFR",
+  "bombeiros e operacionais",
+  "população em áreas de risco de incêndio"
+ ],
+ "categories": [
+  "seguranca",
+  "ambiente"
+ ],
+ "tags": [
+  "fogos rurais",
+  "formação",
+  "SGIFR",
+  "profissionalização"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

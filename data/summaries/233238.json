@@ -1,0 +1,40 @@
+{
+ "short_title": "Estratégia nacional de transição agroecológica",
+ "summary": "Projeto de Resolução do PAN que recomenda ao Governo que diligencie no sentido de elaborar e implementar uma estratégia nacional de transição para a agroecologia, como medida de adaptação e aumento da resiliência aos efeitos negativos das alterações climáticas. A exposição de motivos descreve a pressão sobre a segurança alimentar, o peso da agricultura nas emissões de gases com efeito de estufa, a escassez de água e a desertificação em Portugal, e apresenta a agroecologia como resposta, baseada na biodiversidade e na redução de inputs como adubos e pesticidas. É uma recomendação não vinculativa.",
+ "key_points": [
+  "Elaboração e implementação de uma estratégia nacional de transição para a agroecologia.",
+  "Objetivo: adaptação às alterações climáticas e maior resiliência.",
+  "Privilegia serviços de ecossistemas em vez de maior uso de adubos e pesticidas.",
+  "Recomendação genérica, sem metas ou prazos."
+ ],
+ "plain_language": "O PAN pede ao Governo um plano nacional para que a agricultura em Portugal passe a funcionar com mais biodiversidade e menos adubos e pesticidas, para se adaptar às alterações climáticas e à falta de água. É uma recomendação, não uma lei.",
+ "context": "O PAN refere as alterações climáticas, a escassez de água, o facto de 58% do território português ser vulnerável à desertificação e a contribuição da agricultura para as emissões. Defende que a agroecologia é uma estratégia de adaptação que reforça a resiliência dos sistemas agrários.",
+ "analysis": "A proposta aborda um desafio relevante, e a agroecologia pode ter benefícios ambientais. Contudo, é muito genérica: não define metas, prazos, financiamento, instrumentos nem a articulação com a Política Agrícola Comum. Não discute eventuais efeitos sobre a produtividade e os rendimentos dos agricultores nem a sua capacidade de adaptação, o que é relevante para avaliar a viabilidade.",
+ "fiscal_impact": {
+  "direction": "incerto",
+  "explanation": "A estratégia pode implicar apoios e custos de transição, mas o texto não os especifica nem apresenta montantes."
+ },
+ "affected": [
+  "agricultores",
+  "consumidores",
+  "ecossistemas e recursos hídricos"
+ ],
+ "categories": [
+  "agricultura",
+  "ambiente"
+ ],
+ "tags": [
+  "agroecologia",
+  "alterações climáticas",
+  "transição agroecológica",
+  "adaptação",
+  "seca"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}

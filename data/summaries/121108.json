@@ -1,0 +1,43 @@
+{
+ "short_title": "Plano de Ação para a Conservação de Tubarões e Raias",
+ "summary": "O PEV apresenta um projeto de resolução que recomenda ao Governo a criação de uma equipa para elaborar um Plano de Ação Nacional para a Gestão e Conservação dos Tubarões e Raias nas águas portuguesas, a concluir até ao primeiro trimestre de 2022, com representantes das pescas, das universidades e da conservação da natureza. O plano deve ser aplicado de imediato e revisto pelo menos de quatro em quatro anos, prever monitorização e vigilância, formação de pescadores e fiscalizadores, proibições e áreas marinhas protegidas definidas com critérios científicos, limitações extensíveis a todas as frotas que operem na ZEE portuguesa e uma campanha de sensibilização para reduzir o consumo de produtos derivados. É uma recomendação sem força vinculativa.",
+ "key_points": [
+  "Recomenda uma equipa para elaborar o Plano de Ação Nacional, concluído até ao primeiro trimestre de 2022.",
+  "Pede revisão do plano em períodos não superiores a quatro anos.",
+  "Propõe monitorização constante, formação de pescadores e fiscalizadores e educação científica.",
+  "Defende proibições e áreas marinhas protegidas definidas com base em critérios científicos.",
+  "Pede que as limitações de pesca abranjam todas as frotas na ZEE portuguesa e uma campanha para reduzir o consumo."
+ ],
+ "plain_language": "Muitas espécies de tubarões e raias estão em declínio por causa da pesca excessiva. O PEV pede ao Governo que crie um plano nacional para os proteger, ouvindo pescadores, cientistas e ambientalistas, com regras de pesca e áreas protegidas baseadas em ciência, vigilância e uma campanha para reduzir o consumo. É uma recomendação, não uma obrigação.",
+ "context": "O proponente refere que 43 por cento das 117 espécies de tubarões e raias identificadas em Portugal estão ameaçadas, 11 estão criticamente em perigo e a frota portuguesa ocupa o 12.º lugar na captura mundial de tubarões. Aponta que os dados nacionais são insuficientes e invoca o relatório da WWF e o Plano de Ação Internacional da FAO.",
+ "analysis": "A proposta responde a um problema documentado e prevê elementos sensatos, como a base científica, a revisão periódica e a monitorização. Fragilidades: o prazo de conclusão do plano é curto, o texto não indica orçamento nem entidade responsável, e a extensão das limitações a frotas estrangeiras na ZEE depende de regras da União Europeia, que o texto não aborda. A recomendação de reduzir o consumo é genérica. Sendo resolução, depende da decisão do Governo.",
+ "fiscal_impact": {
+  "direction": "aumenta_despesa",
+  "explanation": "A equipa técnica, a monitorização, a formação e a campanha implicariam despesa pública; o texto não a quantifica."
+ },
+ "affected": [
+  "pescadores e armadores",
+  "frota pesqueira",
+  "investigadores marinhos",
+  "entidades de fiscalização"
+ ],
+ "categories": [
+  "ambiente",
+  "agricultura",
+  "animais"
+ ],
+ "tags": [
+  "tubarões",
+  "raias",
+  "conservação marinha",
+  "pesca",
+  "zee"
+ ],
+ "document_matches_title": true,
+ "_meta": {
+  "model": "claude-sonnet-5-5",
+  "prompt_version": 1,
+  "generated": "2026-11-25",
+  "source": "pdf"
+ }
+}
