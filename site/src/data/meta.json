@@ -274,13 +274,13 @@
   }
  },
  "sources": {
-  "generated": "2026-11-26T00:37Z",
+  "generated": "2026-11-26T15:33Z",
   "files": [
    {
     "label": "Iniciativas — XIV Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
     "file": "IniciativasXIV.json",
-    "retrieved": "2026-11-25T20:24Z",
+    "retrieved": "2026-11-26T15:30Z",
     "bytes": 49412703,
     "sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4"
    },
@@ -288,7 +288,7 @@
     "label": "Informação Base — deputados da XIV Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
     "file": "InformacaoBaseXIV.json",
-    "retrieved": "2026-11-25T22:09Z",
+    "retrieved": "2026-11-26T15:32Z",
     "bytes": 566027,
     "sha256": "33df8d95d40d9f090a3d5da333ef04a15349ec8befaecc2d316656857bcbdb3c"
    },
@@ -304,7 +304,7 @@
     "label": "Iniciativas — XV Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
     "file": "IniciativasXV.json",
-    "retrieved": "2026-11-25T20:24Z",
+    "retrieved": "2026-11-26T15:31Z",
     "bytes": 98959694,
     "sha256": "cf8496972c124aa7c60e7dbcd1e0072d5ed5154ce8f597172e12b7968197a2e7"
    },
@@ -312,7 +312,7 @@
     "label": "Informação Base — deputados da XV Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
     "file": "InformacaoBaseXV.json",
-    "retrieved": "2026-11-25T22:09Z",
+    "retrieved": "2026-11-26T15:32Z",
     "bytes": 530791,
     "sha256": "6a5d10edcd1acd935592260f0924f6bec2b3e6df5c0d2fae6b589d648ccb5cde"
    },
@@ -320,7 +320,7 @@
     "label": "Iniciativas — XVI Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
     "file": "IniciativasXVI.json",
-    "retrieved": "2026-11-25T20:24Z",
+    "retrieved": "2026-11-26T15:31Z",
     "bytes": 65148613,
     "sha256": "3800c68593577f53fc1a471969f038ea2737feb096a00116d02cf75a0aaea48a"
    },
@@ -328,7 +328,7 @@
     "label": "Informação Base — deputados da XVI Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
     "file": "InformacaoBaseXVI.json",
-    "retrieved": "2026-11-25T22:09Z",
+    "retrieved": "2026-11-26T15:32Z",
     "bytes": 600300,
     "sha256": "becc7b4c5af04bfa7a01f3c633a0518bcec8bedf700fce0e8a264e130e620dba"
    },
@@ -336,25 +336,25 @@
     "label": "Iniciativas — XVII Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
     "file": "IniciativasXVII.json",
-    "retrieved": "2026-11-25T20:25Z",
-    "bytes": 104314556,
-    "sha256": "dae38efeba26ef4be467826c78a53aac858160bc0d2b59ad054cbd2d85c76944"
+    "retrieved": "2026-11-26T15:32Z",
+    "bytes": 104625006,
+    "sha256": "708690e1e643f1350af142de99893c40eb23a3d45184400ea45f6322050642ab"
    },
    {
     "label": "Informação Base — deputados da XVII Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
     "file": "InformacaoBaseXVII.json",
-    "retrieved": "2026-11-25T22:09Z",
+    "retrieved": "2026-11-26T15:32Z",
     "bytes": 565880,
-    "sha256": "ab9dcf43139ef7a9caad79324acebac03f252d79d07e36e172802f3fcbc9f439"
+    "sha256": "018de407baccbb9d7123ff96413f84b474bc9c9ce13eaa97ef7315c02a840831"
    },
    {
-    "label": "Registo de presenças nas reuniões plenárias (625 reuniões)",
+    "label": "Registo de presenças nas reuniões plenárias (626 reuniões)",
     "page": "https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx",
     "file": "attendance.json",
-    "retrieved": "2026-11-25T23:49Z",
-    "bytes": 2034604,
-    "sha256": "75803c1854880292f4b3afbb97684babb77ce1e7cd402b76a6f66f3f43ab29f3"
+    "retrieved": "2026-11-26T15:33Z",
+    "bytes": 2037895,
+    "sha256": "0b3a45ff3ee1645376b4806911ea4301eff11e693264fa10f7177a92df2994b5"
    }
   ],
   "summaries": 6236

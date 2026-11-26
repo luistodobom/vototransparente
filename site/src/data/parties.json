@@ -911,15 +911,15 @@
     "favor": 435,
     "total": 1645,
     "winning": 1263,
-    "contra": 979,
-    "abstencao": 231
+    "abstencao": 231,
+    "contra": 979
    },
    "CDS-PP": {
     "favor": 471,
     "total": 1648,
     "winning": 1204,
-    "contra": 884,
-    "abstencao": 293
+    "abstencao": 293,
+    "contra": 884
    },
    "CH": {
     "contra": 277,
@@ -932,8 +932,8 @@
     "contra": 473,
     "total": 1648,
     "winning": 953,
-    "abstencao": 423,
-    "favor": 752
+    "favor": 752,
+    "abstencao": 423
    },
    "L": {
     "contra": 177,
@@ -1167,23 +1167,22 @@
     "em_curso": 10,
     "rejeitado": 1
    },
+   "JPP": {
+    "total": 61,
+    "aprovado": 25,
+    "rejeitado": 35,
+    "em_curso": 1
+   },
    "PS": {
     "total": 172,
     "aprovado": 112,
     "rejeitado": 54,
     "em_curso": 6
    },
-   "PAN": {
-    "total": 221,
-    "aprovado": 76,
-    "rejeitado": 139,
+   "CDS-PP": {
+    "total": 64,
+    "aprovado": 58,
     "em_curso": 6
-   },
-   "JPP": {
-    "total": 61,
-    "rejeitado": 35,
-    "aprovado": 25,
-    "em_curso": 1
    },
    "CH": {
     "total": 306,
@@ -1191,16 +1190,17 @@
     "rejeitado": 167,
     "em_curso": 13
    },
-   "CDS-PP": {
-    "total": 64,
-    "aprovado": 58,
-    "em_curso": 6
-   },
    "IL": {
     "total": 113,
     "aprovado": 39,
     "em_curso": 9,
     "rejeitado": 65
+   },
+   "PAN": {
+    "total": 221,
+    "aprovado": 76,
+    "rejeitado": 139,
+    "em_curso": 6
    },
    "PSD": {
     "total": 66,
@@ -1208,17 +1208,17 @@
     "em_curso": 8,
     "rejeitado": 1
    },
+   "BE": {
+    "total": 160,
+    "aprovado": 24,
+    "rejeitado": 134,
+    "em_curso": 2
+   },
    "L": {
     "total": 226,
     "rejeitado": 154,
     "aprovado": 67,
     "em_curso": 5
-   },
-   "BE": {
-    "total": 160,
-    "rejeitado": 134,
-    "aprovado": 24,
-    "em_curso": 2
    },
    "PCP": {
     "total": 138,

@@ -87196,6 +87196,160 @@
    "n_present": 228,
    "source": "https://www.parlamento.pt/DeputadoGP/Paginas/DetalheReuniaoPlenaria.aspx?BID=387370",
    "type": "Ordinária"
+  },
+  "2026-11-25": {
+   "absent": [
+    {
+     "id": "817",
+     "name": "Alfredo Maia",
+     "party": "PCP",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "6050",
+     "name": "André Pinotes Batista",
+     "party": "PS",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "1458",
+     "name": "Carlos Alberto Gonçalves",
+     "party": "PSD",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "162",
+     "name": "Edite Estrela",
+     "party": "PS",
+     "reason": null,
+     "status": "AMP",
+     "status_text": "Ausência em Missão Parlamentar (AMP)"
+    },
+    {
+     "id": "2576",
+     "name": "Eduardo Teixeira",
+     "party": "CH",
+     "reason": null,
+     "status": "AMP",
+     "status_text": "Ausência em Missão Parlamentar (AMP)"
+    },
+    {
+     "id": "7341",
+     "name": "Francisco César",
+     "party": "PS",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "9331",
+     "name": "Frederico Francisco",
+     "party": "PS",
+     "reason": "Motivo justificado",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
+    },
+    {
+     "id": "4452",
+     "name": "Isabel Alves Moreira",
+     "party": "PS",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "9149",
+     "name": "Joana Seabra",
+     "party": "PSD",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "2209",
+     "name": "Marcos Perestrello",
+     "party": "PS",
+     "reason": null,
+     "status": "AMP",
+     "status_text": "Ausência em Missão Parlamentar (AMP)"
+    },
+    {
+     "id": "6878",
+     "name": "Nuno Fazenda",
+     "party": "PS",
+     "reason": "Trabalho Político",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
+    },
+    {
+     "id": "4197",
+     "name": "Paula Santos",
+     "party": "PCP",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "7504",
+     "name": "Paulo Edson Cunha",
+     "party": "PSD",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "8719",
+     "name": "Paulo Raimundo",
+     "party": "PCP",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "1893",
+     "name": "Pedro Coimbra",
+     "party": "PS",
+     "reason": "Trabalho Político",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
+    },
+    {
+     "id": "7391",
+     "name": "Pedro Pessanha",
+     "party": "CH",
+     "reason": null,
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
+    },
+    {
+     "id": "7731",
+     "name": "Ricardo Lima",
+     "party": "PS",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    },
+    {
+     "id": "2445",
+     "name": "Tiago Barbosa Ribeiro",
+     "party": "PS",
+     "reason": null,
+     "status": "Falta",
+     "status_text": "Falta"
+    }
+   ],
+   "bid": "387371",
+   "meeting": "22",
+   "n_deputies": 230,
+   "n_present": 212,
+   "source": "https://www.parlamento.pt/DeputadoGP/Paginas/DetalheReuniaoPlenaria.aspx?BID=387371",
+   "type": "Solene"
   }
  }
 }
