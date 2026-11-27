@@ -274,7 +274,7 @@
   }
  },
  "sources": {
-  "generated": "2026-11-26T15:33Z",
+  "generated": "2026-11-27T15:26Z",
   "files": [
    {
     "label": "Iniciativas — XIV Legislatura (dados abertos)",
@@ -336,25 +336,25 @@
     "label": "Iniciativas — XVII Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx",
     "file": "IniciativasXVII.json",
-    "retrieved": "2026-11-26T15:32Z",
-    "bytes": 104625006,
-    "sha256": "708690e1e643f1350af142de99893c40eb23a3d45184400ea45f6322050642ab"
+    "retrieved": "2026-11-27T15:24Z",
+    "bytes": 104300408,
+    "sha256": "fbc3c89d4c7d642c7ab7c44561c1bb6773277aa4521b60a063dbbced597a4862"
    },
    {
     "label": "Informação Base — deputados da XVII Legislatura (dados abertos)",
     "page": "https://www.parlamento.pt/Cidadania/Paginas/DAInformacaoBase.aspx",
     "file": "InformacaoBaseXVII.json",
-    "retrieved": "2026-11-26T15:32Z",
-    "bytes": 565880,
-    "sha256": "018de407baccbb9d7123ff96413f84b474bc9c9ce13eaa97ef7315c02a840831"
+    "retrieved": "2026-11-27T15:24Z",
+    "bytes": 565896,
+    "sha256": "5d3cc55f61f35da84fc33b6ed2dcde6a7f84c41dfacca41c2844723c758a9c2b"
    },
    {
     "label": "Registo de presenças nas reuniões plenárias (626 reuniões)",
     "page": "https://www.parlamento.pt/DeputadoGP/Paginas/reunioesplenarias.aspx",
     "file": "attendance.json",
-    "retrieved": "2026-11-26T15:33Z",
-    "bytes": 2037895,
-    "sha256": "0b3a45ff3ee1645376b4806911ea4301eff11e693264fa10f7177a92df2994b5"
+    "retrieved": "2026-11-27T15:25Z",
+    "bytes": 2037811,
+    "sha256": "e8ac3e3ff6b528902d91f24e69d710d94053984e2dc664360cf408a48b0a22fb"
    }
   ],
   "summaries": 6236

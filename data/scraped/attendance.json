@@ -87007,9 +87007,9 @@
      "id": "7460",
      "name": "Eduardo Pinheiro",
      "party": "PS",
-     "reason": null,
-     "status": "Falta",
-     "status_text": "Falta"
+     "reason": "Motivo justificado",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
     },
     {
      "id": "8546",
@@ -87031,9 +87031,9 @@
      "id": "7408",
      "name": "João Pedro Louro",
      "party": "PSD",
-     "reason": null,
-     "status": "Falta",
-     "status_text": "Falta"
+     "reason": "Motivo justificado",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
     },
     {
      "id": "4405",
@@ -87243,9 +87243,9 @@
      "id": "7341",
      "name": "Francisco César",
      "party": "PS",
-     "reason": null,
-     "status": "Falta",
-     "status_text": "Falta"
+     "reason": "Doença",
+     "status": "FJ",
+     "status_text": "Falta Justificada (FJ)"
     },
     {
      "id": "9331",
@@ -87334,20 +87334,12 @@
      "reason": null,
      "status": "Falta",
      "status_text": "Falta"
-    },
-    {
-     "id": "2445",
-     "name": "Tiago Barbosa Ribeiro",
-     "party": "PS",
-     "reason": null,
-     "status": "Falta",
-     "status_text": "Falta"
     }
    ],
    "bid": "387371",
    "meeting": "22",
    "n_deputies": 230,
-   "n_present": 212,
+   "n_present": 213,
    "source": "https://www.parlamento.pt/DeputadoGP/Paginas/DetalheReuniaoPlenaria.aspx?BID=387371",
    "type": "Solene"
   }

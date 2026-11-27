@@ -932,8 +932,8 @@
     "contra": 473,
     "total": 1648,
     "winning": 953,
-    "favor": 752,
-    "abstencao": 423
+    "abstencao": 423,
+    "favor": 752
    },
    "L": {
     "contra": 177,
@@ -1179,28 +1179,28 @@
     "rejeitado": 54,
     "em_curso": 6
    },
-   "CDS-PP": {
-    "total": 64,
-    "aprovado": 58,
-    "em_curso": 6
-   },
    "CH": {
     "total": 306,
     "aprovado": 126,
     "rejeitado": 167,
     "em_curso": 13
    },
+   "CDS-PP": {
+    "total": 64,
+    "aprovado": 58,
+    "em_curso": 6
+   },
+   "PAN": {
+    "total": 221,
+    "rejeitado": 139,
+    "aprovado": 76,
+    "em_curso": 6
+   },
    "IL": {
     "total": 113,
     "aprovado": 39,
     "em_curso": 9,
     "rejeitado": 65
-   },
-   "PAN": {
-    "total": 221,
-    "aprovado": 76,
-    "rejeitado": 139,
-    "em_curso": 6
    },
    "PSD": {
     "total": 66,
@@ -1210,8 +1210,8 @@
    },
    "BE": {
     "total": 160,
-    "aprovado": 24,
     "rejeitado": 134,
+    "aprovado": 24,
     "em_curso": 2
    },
    "L": {
